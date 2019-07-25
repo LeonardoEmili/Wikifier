@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
 
 # For installing pycurl:
@@ -15,21 +15,27 @@ from urllib.request import urlopen, urljoin
 from bs4 import BeautifulSoup, NavigableString, Tag, Comment
 from io import StringIO
 from optparse import OptionParser
+import requests
 
 ''' A special kind of list used for having a more compact code, essentially it checks if the item to be added has to be inserted as a new element
     or as part of the preceding one. The last one is the case of plain text followed by more plain text non-separated by a paragraph. '''
 class TextList(list):
 
     def append(self, item, value, new_element, options):
+        # If required it will clear text from newline characters
         item = item.replace('\n', '') if (not options.keep_newline and item != None) else item
         value = value.replace('\n', '') if (not options.keep_newline and value != None) else value
+
         if len(self) > 0:
             if new_element:
+                # In this case we want a new entry for the given pair (item: : value)
                 super(TextList, self).append({item : value})
             else:
+                # This is the case when we want to merge the old text with the value of 'item'
                 old_key = list(self[len(self)-1].keys())[0]
                 self[len(self)-1] = {old_key + item : value}
         else:
+            # The list consist only of the given (item : value)
             super(TextList, self).append({item : value})
 
 class CurlStream(object):
@@ -40,7 +46,7 @@ class CurlStream(object):
     def __init__(self):
         self.curl_multi = pycurl.CurlMulti()
 
-    def add_request(self, request, post_fields=None):
+    def add_request(self, request, post_fields = None):
         self.curl_count += 1
         curl = self._create_curl(request, post_fields)
         self.curl_multi.add_handle(curl)
@@ -54,10 +60,10 @@ class CurlStream(object):
             self.curl_multi.select(1.0)
 
     # Maybe unnecessary
-    #def read_all(self):
-        #for response in self.curl_storage:
+    def read_all(self):
+        for response in self.curl_storage:
             #print(response) # this does nothing --prints blank lines
-            #print()
+            print()
 
     def close(self):
         self.curl_multi.close()
@@ -85,18 +91,26 @@ def main():
         # Arguments starting with -- or - are to be considered options and then not computed here
         if sys.argv[i].startswith("-"): continue
         data = scrape_website(sys.argv[i], options)
+        #run_CurlMulti(data)
         with open('data.json', 'w', encoding = 'utf-8') as f:
             json.dump(data, f, ensure_ascii = False, indent = 4)
     return
 
-    #xd = "https://en.wikipedia.org/wiki/UK"
-    #headers = {"Range": "bytes=0-2"}  # first 100 bytes
-    #print(requests.get(xd, headers=headers).content)
+def run_CurlMulti(data):
+    curl = CurlStream()
+    for i in range(len(data)):
+        key = list(data[i].keys())[0]
+        # Here we check if it is or not a link (if it has a value not None then it's a link)
+        if data[i][key] != None:
+            curl.add_request(data[i][key])
+    curl.perform()
+    curl.read_all()
 
 
 def scrape_website(url, options):
     # Process the Webpage with BeautifulSoupwith content starting from this 'div'
-    soup = BeautifulSoup(urllib.request.urlopen(url), "html.parser").find("div", {"class": "mw-parser-output"})
+    soup = BeautifulSoup(requests.get(url).content, "html.parser").find("div", {"class": "mw-parser-output"})
+    #soup = BeautifulSoup(urllib.request.urlopen(url), "html.parser").find("div", {"class": "mw-parser-output"})
     # Clear soup from undesidered tags
     clear_tags(soup)
 
@@ -142,7 +156,7 @@ def clear_tags(soup):
     a = soup.find("div", {"class": "shortdescription nomobile noexcerpt noprint searchaux"})
     if a is not None:
         a.extract()
-    for c in soup.find_all(string=lambda text: isinstance(text, Comment)):
+    for c in soup.find_all(string = lambda text: isinstance(text, Comment)):
         c.extract()
 
 if __name__ == "__main__":
