@@ -44,7 +44,7 @@ async def main():
         generated_urls = generated_urls | new_urls - visited_urls       # Update the value of generated_urls by adding new_urls but clearing it from already visited_urls
     while options.NUM > 0:      # In the case the user asked for NUM more pages to be parsed they're randomically selected using 'generated_urls' list
         sample_size = min(len(generated_urls), options.NUM)
-        options.NUM =- sample_size
+        options.NUM -= sample_size
         for url in random.sample(generated_urls, sample_size):      # Random sample without replacing
             output_no, new_urls = await scrape_website(url, options, output_no, visited_urls)
             generated_urls = generated_urls | new_urls - visited_urls
@@ -143,7 +143,7 @@ def clear_tags(soup):
 
 ''' An utility function used to define and parse command line options. '''
 def get_options(argv):
-    parser = OptionParser(usage = "python3 %prog [OPTION] URL... [-n NUM]\n   or: %prog [OPTION] -n NUM\n   or: %prog [OPTION] URL...\nParse wikipedia pages either from URL from NUM random pages.",
+    parser = OptionParser(usage = "python3 %prog [OPTION]... URL... [-n NUM]\n   or: %prog [OPTION]... -n NUM\n   or: %prog [OPTION]... URL...\nParse wikipedia pages either from URL from NUM random pages.",
                             description= "URLs or NUM are mandatory in order to use this script, look above for usages.")
     parser.add_option("-l", "--links", dest = "check_link_redirects", action = "store_true",
                         help = "resolve link redirects", default = False)
@@ -151,7 +151,8 @@ def get_options(argv):
                         help = "generate NUM random pages text from wikipedia", default = None)
     options, args = parser.parse_args()
     try:
-        if len(argv) <= 1 and options.NUM == None:        # Check if at least one URL is given or if the user submitted a value for NUM
+        # Check if at least one URL is given or if the user submitted a value for NUM
+        if len(argv) <= 1 and options.NUM == None or options.NUM <= 0: 
             sys.tracebacklimit = 0      # Avoid printing the whole traceback
             raise SyntaxError()
     except SyntaxError as e:
