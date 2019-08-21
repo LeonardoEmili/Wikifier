@@ -52,6 +52,14 @@ async def main():
 
 ''' Here we parse the website related to its url and if asked also link redirects are resolved. '''
 async def scrape_website(url, options, output_no, visited_urls):
+    wikipedia_url_re = re.compile('^(https?://)?([A-z]{2}\.)?wikipedia\.org')   # Check if the given link is owned by Wikipedia
+    print(url)
+    if (not wikipedia_url_re.match(url)):
+        print('The url {} cannot be processed. Remember that only Wikipedia\'s links are allowed (e.g. https://en.wikipedia.org/wiki/Cat)'.format(url)
+            , file=sys.stderr)
+        return (output_no, set())
+    hashtag_ref_re = re.compile('#.*$')     # Capture using regex url ending with #some_id
+    url = re.sub(hashtag_ref_re, '', url)       # Remove the trailing references (useless in this script)
     try:
         data = parse_website(url)               # Main stuff going here, it extracts content text from page
         visited_urls.add(url)

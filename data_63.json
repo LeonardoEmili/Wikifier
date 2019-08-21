@@ -1,0 +1,395 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "optics": "https://en.wikipedia.org/wiki/Optics"
+    },
+    {
+        ", chromatic aberration (abbreviated CA; also called chromatic distortion and spherochromatism) is a failure of a ": null
+    },
+    {
+        "lens": "https://en.wikipedia.org/wiki/Lens_(optics)"
+    },
+    {
+        " to ": null
+    },
+    {
+        "focus": "https://en.wikipedia.org/wiki/Focus_(optics)"
+    },
+    {
+        " all ": null
+    },
+    {
+        "colors": "https://en.wikipedia.org/wiki/Color"
+    },
+    {
+        " to the same point. It is caused by ": null
+    },
+    {
+        "dispersion": "https://en.wikipedia.org/wiki/Dispersion_(optics)"
+    },
+    {
+        ": the ": null
+    },
+    {
+        "refractive index": "https://en.wikipedia.org/wiki/Refractive_index"
+    },
+    {
+        " of the lens elements varies with the ": null
+    },
+    {
+        "wavelength": "https://en.wikipedia.org/wiki/Wavelength"
+    },
+    {
+        " of ": null
+    },
+    {
+        "light": "https://en.wikipedia.org/wiki/Light"
+    },
+    {
+        ". The refractive index of most transparent materials decreases with increasing wavelength. Since the ": null
+    },
+    {
+        "focal length": "https://en.wikipedia.org/wiki/Focal_length"
+    },
+    {
+        " of a lens depends on the refractive index, this variation in refractive index affects focusing. Chromatic ": null
+    },
+    {
+        "aberration": "https://en.wikipedia.org/wiki/Aberration_in_optical_systems"
+    },
+    {
+        " manifests itself as \"fringes\" of color along boundaries that separate dark and bright parts of the image.": null
+    },
+    {
+        "There are two types of chromatic aberration: axial (longitudinal), and transverse (lateral). Axial aberration occurs when different wavelengths of light are focused at different distances from the lens (focus shift). Longitudinal  aberration is typical at long focal lengths. Transverse aberration occurs when different wavelengths are focused at different positions in the ": null
+    },
+    {
+        "focal plane": "https://en.wikipedia.org/wiki/Focal_plane#Focal_points_and_planes"
+    },
+    {
+        ", because the ": null
+    },
+    {
+        "magnification": "https://en.wikipedia.org/wiki/Magnification"
+    },
+    {
+        " and/or ": null
+    },
+    {
+        "distortion": "https://en.wikipedia.org/wiki/Distortion_(optics)"
+    },
+    {
+        " of the lens also varies with wavelength. Lateral aberration is typical at short focal lengths. The ambiguous acronym LCA is sometimes used for either longitudinal or lateral chromatic aberration.": null
+    },
+    {
+        "The two types of chromatic aberration have different characteristics, and may occur together. Axial CA occurs throughout the image and is specified by optical engineers, optometrists, and vision scientists in ": null
+    },
+    {
+        "diopters": "https://en.wikipedia.org/wiki/Diopter"
+    },
+    {
+        ". It can be reduced by ": null
+    },
+    {
+        "stopping down": "https://en.wikipedia.org/wiki/Stopping_down"
+    },
+    {
+        ", which increases ": null
+    },
+    {
+        "depth of field": "https://en.wikipedia.org/wiki/Depth_of_field"
+    },
+    {
+        " so that though the different wavelengths focus at different distances, they are still in acceptable focus. Transverse CA does not occur in the center of the image and increases towards the edge. It is not affected by stopping down.": null
+    },
+    {
+        "In digital sensors, axial CA results in the red and blue planes being defocused (assuming that the green plane is in focus), which is relatively difficult to remedy in post-processing, while transverse CA results in the red, green, and blue planes being at different magnifications (magnification changing along radii, as in ": null
+    },
+    {
+        "geometric distortion": "https://en.wikipedia.org/wiki/Distortion_(optics)"
+    },
+    {
+        "), and can be corrected by radially scaling the planes appropriately so they line up.": null
+    },
+    {
+        "In the earliest uses of lenses, chromatic aberration was reduced by increasing the focal length of the lens where possible.  For example, this  could result in extremely long ": null
+    },
+    {
+        "telescopes": "https://en.wikipedia.org/wiki/Refracting_telescope#Keplerian_Telescope"
+    },
+    {
+        " such as the very long ": null
+    },
+    {
+        "aerial telescopes": "https://en.wikipedia.org/wiki/Aerial_telescope"
+    },
+    {
+        " of the 17th century. ": null
+    },
+    {
+        "Isaac Newton": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    },
+    {
+        "'s theories about ": null
+    },
+    {
+        "white light": "https://en.wikipedia.org/wiki/Electromagnetic_spectrum#Visible_radiation_(light)"
+    },
+    {
+        " being composed of a ": null
+    },
+    {
+        "spectrum": "https://en.wikipedia.org/wiki/Spectrum"
+    },
+    {
+        " of colors led him to the conclusion that uneven refraction of light caused chromatic aberration (leading him to build the first ": null
+    },
+    {
+        "reflecting telescope": "https://en.wikipedia.org/wiki/Reflecting_telescope"
+    },
+    {
+        ", his ": null
+    },
+    {
+        "Newtonian telescope": "https://en.wikipedia.org/wiki/Newtonian_telescope"
+    },
+    {
+        ", in 1668).": null
+    },
+    {
+        "There exists a point called the ": null
+    },
+    {
+        "circle of least confusion": "https://en.wikipedia.org/wiki/Circle_of_least_confusion"
+    },
+    {
+        ", where chromatic aberration can be minimized. It can be further minimized by using an ": null
+    },
+    {
+        "achromatic lens": "https://en.wikipedia.org/wiki/Achromatic_lens"
+    },
+    {
+        " or achromat, in which materials with differing dispersion are assembled together to form a compound lens. The most common type is an achromatic ": null
+    },
+    {
+        "doublet": "https://en.wikipedia.org/wiki/Doublet_(lens)"
+    },
+    {
+        ", with elements made of ": null
+    },
+    {
+        "crown": "https://en.wikipedia.org/wiki/Crown_glass_(optics)"
+    },
+    {
+        " and ": null
+    },
+    {
+        "flint glass": "https://en.wikipedia.org/wiki/Flint_glass"
+    },
+    {
+        ". This reduces the amount of chromatic aberration over a certain range of wavelengths, though it does not produce perfect correction. By combining more than two lenses of different composition, the degree of correction can be further increased, as seen in an ": null
+    },
+    {
+        "apochromatic lens": "https://en.wikipedia.org/wiki/Apochromatic_lens"
+    },
+    {
+        " or apochromat. Note that \"achromat\" and \"apochromat\" refer to the type of correction (2 or 3 wavelengths correctly focused), not the degree (how defocused the other wavelengths are), and an achromat made with sufficiently low dispersion glass can yield significantly better correction than an achromat made with more conventional glass. Similarly, the benefit of apochromats is not simply that they focus three wavelengths sharply, but that their error on other wavelengths is also quite small.": null
+    },
+    {
+        "Many types of ": null
+    },
+    {
+        "glass": "https://en.wikipedia.org/wiki/Glass"
+    },
+    {
+        " have been developed to reduce chromatic aberration. These are ": null
+    },
+    {
+        "low dispersion glass": "https://en.wikipedia.org/wiki/Low_dispersion_glass"
+    },
+    {
+        ", most notably, glasses containing ": null
+    },
+    {
+        "fluorite": "https://en.wikipedia.org/wiki/Fluorite"
+    },
+    {
+        ". These hybridized glasses have a very low level of optical dispersion; only two compiled lenses made of these substances can yield a high level of correction.": null
+    },
+    {
+        "The use of achromats was an important step in the development of the ": null
+    },
+    {
+        "optical microscope": "https://en.wikipedia.org/wiki/Microscope"
+    },
+    {
+        " and in ": null
+    },
+    {
+        "telescopes": "https://en.wikipedia.org/wiki/Telescopes"
+    },
+    {
+        ".": null
+    },
+    {
+        "An alternative to achromatic doublets is the use of diffractive optical elements. Diffractive optical elements are able to generate arbitrary complex wave fronts from a sample of optical material which is essentially flat. Diffractive optical elements have negative dispersion characteristics, complementary to the positive Abbe numbers of optical glasses and plastics. Specifically, in the visible part of the spectrum diffractives have a negative ": null
+    },
+    {
+        "Abbe number": "https://en.wikipedia.org/wiki/Abbe_number"
+    },
+    {
+        " of −3.5. Diffractive optical elements can be fabricated using ": null
+    },
+    {
+        "diamond turning": "https://en.wikipedia.org/wiki/Diamond_turning"
+    },
+    {
+        " techniques.": null
+    },
+    {
+        "For a doublet consisting of two thin lenses in contact, the ": null
+    },
+    {
+        "Abbe number": "https://en.wikipedia.org/wiki/Abbe_number"
+    },
+    {
+        " of the lens materials is used to calculate the correct focal length of the lenses to ensure correction of chromatic aberration. If the focal lengths of the two lenses for light at the yellow ": null
+    },
+    {
+        "Fraunhofer": "https://en.wikipedia.org/wiki/Fraunhofer_lines"
+    },
+    {
+        " D-line (589.2 nm) are f and f, then best correction occurs for the condition:": null
+    },
+    {
+        "where V and V are the Abbe numbers of the materials of the first and second lenses, respectively. Since Abbe numbers are positive, one of the focal lengths must be negative, i.e., a diverging lens, for the condition to be met.": null
+    },
+    {
+        "The overall focal length of the doublet f is given by the standard formula for thin lenses in contact:": null
+    },
+    {
+        "and the above condition ensures this will be the focal length of the doublet for light at the blue and red Fraunhofer F and C lines (486.1 nm and 656.3 nm respectively). The focal length for light at other visible wavelengths will be similar but not exactly equal to this.": null
+    },
+    {
+        "Chromatic aberration is used during a ": null
+    },
+    {
+        "duochrome eye test": "https://en.wikipedia.org/wiki/Duochrome_test"
+    },
+    {
+        " to ensure that a correct lens power has been selected. The patient is confronted with red and green images and asked which is sharper. If the prescription is right, then the cornea, lens and prescribed lens will focus the red and green wavelengths just in front, and behind the retina, appearing of equal sharpness. If the lens is too powerful or weak, then one will focus on the retina, and the other will be much more blurred in comparison.": null
+    },
+    {
+        "In some circumstances, it is possible to correct some of the effects of chromatic aberration in digital post-processing. However, in real-world circumstances, chromatic aberration results in permanent loss of some image detail. Detailed knowledge of the optical system used to produce the image can allow for some useful correction.  In an ideal situation, post-processing to remove or correct lateral chromatic aberration would involve scaling the fringed color channels, or subtracting some of a scaled versions of the fringed channels, so that all channels spatially overlap each other correctly in the final image.": null
+    },
+    {
+        "As chromatic aberration is complex (due to its relationship to focal length, etc.) some camera manufacturers employ lens-specific chromatic aberration appearance minimization techniques. Almost every major camera manufacturer enables some form of chromatic aberration correction, both in-camera and via their proprietary software. Third party software tools such as PTLens are also capable of performing complex chromatic aberration appearance minimization with their large database of cameras and lens.": null
+    },
+    {
+        "In reality, even a theoretically perfect post-processing based chromatic aberration reduction-removal-correction systems do not increase image detail as a lens that is optically well corrected for chromatic aberration would for the following reasons:": null
+    },
+    {
+        "The above are closely related to the specific scene that is captured so no amount of programming and knowledge of the capturing equipment (e.g., camera and lens data) can overcome these limitations.": null
+    },
+    {
+        "The term \"": null
+    },
+    {
+        "purple fringing": "https://en.wikipedia.org/wiki/Purple_fringing"
+    },
+    {
+        "\" is commonly used in ": null
+    },
+    {
+        "photography": "https://en.wikipedia.org/wiki/Photography"
+    },
+    {
+        ", although not all purple fringing can be attributed to chromatic aberration.Similar colored fringing around highlights may also be caused by ": null
+    },
+    {
+        "lens flare": "https://en.wikipedia.org/wiki/Lens_flare"
+    },
+    {
+        ". Colored fringing around highlights or dark regions may be due to the receptors for different colors having differing ": null
+    },
+    {
+        "dynamic range": "https://en.wikipedia.org/wiki/Dynamic_range"
+    },
+    {
+        " or ": null
+    },
+    {
+        "sensitivity": "https://en.wikipedia.org/wiki/Film_speed"
+    },
+    {
+        " – therefore preserving detail in one or two color channels, while \"blowing out\" or failing to register, in the other channel or channels. On digital cameras, the particular ": null
+    },
+    {
+        "demosaicing": "https://en.wikipedia.org/wiki/Demosaicing"
+    },
+    {
+        " algorithm is likely to affect the apparent degree of this problem. Another cause of this fringing is chromatic aberration in the very small ": null
+    },
+    {
+        "microlenses": "https://en.wikipedia.org/wiki/Microlens"
+    },
+    {
+        " used to collect more light for each CCD pixel; since these lenses are tuned to correctly focus green light, the incorrect focusing of red and blue results in purple fringing around highlights. This is a uniform problem across the frame, and is more of a problem in CCDs with a very small ": null
+    },
+    {
+        "pixel pitch": "https://en.wikipedia.org/wiki/Pixel_pitch"
+    },
+    {
+        " such as those used in compact cameras. Some cameras, such as the Panasonic ": null
+    },
+    {
+        "Lumix": "https://en.wikipedia.org/wiki/Lumix"
+    },
+    {
+        " series and newer ": null
+    },
+    {
+        "Nikon": "https://en.wikipedia.org/wiki/Nikon"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Sony": "https://en.wikipedia.org/wiki/Sony"
+    },
+    {
+        "DSLRs": "https://en.wikipedia.org/wiki/DSLR"
+    },
+    {
+        ", feature a processing step specifically designed to remove it.": null
+    },
+    {
+        "On photographs taken using a digital camera, very small highlights may frequently appear to have chromatic aberration where in fact the effect is because the highlight image is too small to stimulate all three color pixels, and so is recorded with an incorrect color. This may not occur with all types of digital camera sensor. Again, the de-mosaicing algorithm may affect the apparent degree of the problem.": null
+    },
+    {
+        "Chromatic aberration also affects black-and-white photography. Although there are no colors in the photograph, chromatic aberration will blur the image. It can be reduced by using a narrow-band color filter, or by converting a single color channel to black and white. This will, however, require longer exposure (and change the resulting image). (This is only true with ": null
+    },
+    {
+        "panchromatic": "https://en.wikipedia.org/wiki/Panchromatic_film"
+    },
+    {
+        " black-and-white film, since ": null
+    },
+    {
+        "orthochromatic": "https://en.wikipedia.org/wiki/Orthochromatic"
+    },
+    {
+        " film is already sensitive to only a limited spectrum.)": null
+    },
+    {
+        "Chromatic aberration also affects ": null
+    },
+    {
+        "electron microscopy": "https://en.wikipedia.org/wiki/Electron_microscope"
+    },
+    {
+        ", although instead of different colors having different focal points, different electron energies may have different focal points.": null
+    }
+]
