@@ -39,7 +39,7 @@ async def main():
     generated_urls = set(seed_url)
     visited_urls = set()        # Used to keep track of already visited urls
     for i in range(1, len(sys.argv)):
-        if sys.argv[i].startswith("-"): continue        # These are options and then not parsed here
+        if sys.argv[i].startswith("-") or sys.argv[i] == str(options.NUM): continue        # These are options and then not parsed here
         output_no, new_urls = await scrape_website(sys.argv[i], options, output_no, visited_urls)
         generated_urls = generated_urls | new_urls - visited_urls       # Update the value of generated_urls by adding new_urls but clearing it from already visited_urls
     while options.NUM > 0:      # In the case the user asked for NUM more pages to be parsed they're randomically selected using 'generated_urls' list
