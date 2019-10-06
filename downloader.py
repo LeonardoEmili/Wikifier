@@ -11,18 +11,29 @@ import mwparserfromhell
 import wikipedia
 
 
-## TODO: remove multiple spaces and asterisks
+# A list of subject namespaces following Wikipedia convention's that have to be removed.
+EVIL_NAMESPACES = ["File:", "Category:"]
+SKIP_NODE = "_skip_node"
+TEXT_NODE = "_text_node"
+TAG_NODE = "_tag_node"
+WIKILINK_NODE = "_wikilink_node"
+OTHER_NODE = "_other_node"
+
 
 class TextList(list):
     def append(self, item, value, new_element):
         item = str(item)
-        if (not item.strip()):
+        if (not item):
             return
-        item = item.replace('\n', '')       # This cannot be None
-        # This can be None
-        value = value.strip() if value != None else value
+        item = item.replace('\n', '')
+
+        # The flag below checks wheter to insert the current element as a separated element.
+        new_element = value is not None or (list(self[-1].values())[0] is not None) if len(self) > 0 else value is not None
+
+        value = value.strip() if value is not None else value
         if len(self) > 0:
-            if new_element:
+            # Override the last element if it's empty
+            if new_element and list(self[-1].keys())[0].strip():
                 # Add a new entry for the given pair (item: : value)
                 super(TextList, self).append({item: value})
             else:
@@ -31,7 +42,7 @@ class TextList(list):
                 self[len(self)-1] = {old_key + item: value}
         else:
             # The list consist only of the given (item : value)
-            super(TextList, self).append({item.strip(): value})
+            super(TextList, self).append({item.lstrip(): value})
 
 
 ''' Author reference: https://towardsdatascience.com/wikipedia-data-science-working-with-the-worlds-largest-encyclopedia-c08efbac5f5c '''
@@ -74,6 +85,9 @@ def main():
     dir_name = "data/"
     path = _dir + _file
 
+    node_dict = {mwparserfromhell.nodes.Template: SKIP_NODE, mwparserfromhell.nodes.ExternalLink: SKIP_NODE,
+                 mwparserfromhell.nodes.Text: TEXT_NODE, mwparserfromhell.nodes.Tag: TAG_NODE, mwparserfromhell.nodes.Wikilink: WIKILINK_NODE}
+
     try:
         os.makedirs(dir_name, 0o755)
         os.chdir(_dir + dir_name)
@@ -83,265 +97,239 @@ def main():
     except Exception:
         exit(1)
 
-    # Content handler for Wiki XML
+    # Content handler for Wiki XML.
     handler = WikiXmlHandler()
 
-    # Parsing object
+    # Parsing object.
     parser = xml.sax.make_parser()
     parser.setContentHandler(handler)
 
-    last = 0
+    # Avoid spamming prints in the stdout.
+    last_num = 0
 
-    # Iterate through compressed file one line at a time
+    # Maximum number of pages to be parsed from each file.
+    PAGES_LIMIT = 1 * 1000 * 1000
+
+    # Iterate through compressed file one line at the time
     for line in subprocess.Popen(['bzcat'], stdin=open(path), stdout=subprocess.PIPE).stdout:
+
+        # Feed the parser with a new line.
         parser.feed(line)
 
-        if len(handler._pages) % 100 == 0 and len(handler._pages) > last:
-            # print(len(handler._pages))
-            last = len(handler._pages)
+        if not len(handler._pages) % 100 and len(handler._pages) > last_num:
+            last_num = len(handler._pages)
 
-        if (len(handler._pages) == 1 * 1000 * 1000):
+        if (len(handler._pages) == PAGES_LIMIT):
             break
 
-    print(len(handler._pages))
+    print("\nRead {} pages from file: {}.\n".format(len(handler._pages), path))
 
     for i in range(len(handler._pages)):
-        parse_page(handler, i, dir_name)
-
-    # for t in wiki.filter_templates():
-     #   print(t)
-    # print(wiki)
+        parse_page(handler, i, dir_name, node_dict)
 
     return
 
-    # 17
-    for i in range(0, 70):
-        page_title, body = handler._pages[67]
-        body = strip_text(body)
-        #body = beautify_content(body)
-        print("({},{})".format(page_title, body))
-        return
 
-    return
+def has_reached_end_of_page(line):
+    return "==" in line and "See also" in line or "References" in line or "Footnotes" in line
 
-def parse_page(handler, page_index, path):
-    # Create the wiki article
+
+def parse_page(handler, page_index, path, node_dict):
+    # Create the wiki article choosing the curent page from [page index].
     wiki = mwparserfromhell.parse(handler._pages[page_index])
+
+    # A special list created to avoid some complexity in the code.
     text_content = TextList()
+
+    # A bunch of flags, each one is responsible for some parameters.
+
+    # This flag is used togheter with the TextList class to hide some complexity.
     new_element = True
-    tag_detected = False
-    parenthesis_detected = False
 
-    for n in wiki.nodes[1:]:
-        # Avoid parsing the title
-        is_tag = False
+    # These two flags are essentially the same, but maintained separated for allowing nested tags to be removed.
+    tag_detected = 0
+    parentheses_detected = 0
 
-        if type(n) == mwparserfromhell.nodes.Template or type(n) == mwparserfromhell.nodes.ExternalLink:
-            continue
-        elif type(n) == mwparserfromhell.nodes.Text:
-            buf, tag_detected, parenthesis_detected = get_text(n, tag_detected, parenthesis_detected)
-            assert buf != None
-            text_content.append(buf, None, new_element)
-            new_element = False
-            #print(str(type(n)) + "      " + str(buf))
+    # Avoid parsing title line as a line of content
+    _, tag_detected, parentheses_detected = clear_text(wiki.nodes[0], tag_detected, parentheses_detected)
+    wiki.nodes = wiki.nodes[1:]
 
-        elif type(n) == mwparserfromhell.nodes.Tag:
-            if len(n.contents) > 1:
-                buf, tag_detected, parenthesis_detected = get_text(n.contents, tag_detected, parenthesis_detected)
-                assert buf != None
-                _tmp = buf.strip()
-                is_tag = len(_tmp) > 2 and _tmp[0] == "[" and _tmp[-1] == "]"
-                if (not is_tag):
-                    text_content.append(buf, None, new_element)
-                    new_element = False
-                    #print(str(type(n)) + "      " + str(n.contents))
-                    #print( + "      " + str(n) + "    " + str(n.contents[1]) + "       " + str(type(n.contents)))
-                else:
-                    n = _tmp
+    page_title = handler._pages[page_index][0]
 
-        if type(n) == mwparserfromhell.nodes.Wikilink or is_tag:
-            keywords = ["File:", "Category:"]
-            skip = False
-            for keyword in keywords:
-                if n[2:len(keyword)+2] == keyword:
-                    skip = True
-            if skip:
-                continue
-            else:
-                n = str(n)
-                if "|" in n:
-                    ls = n.split("|")
-                    if len(ls) != 2:
-                        continue
-                    url, text = ls
-                    url = url[2:].lower()
-                    text = text[:-2]
-                else:
-                    url, text = n[2:-2].lower().strip(), n[2:-2]
-                new_element = True
-                assert text != None
-                text_content.append(text, url, new_element)
-                #print(str(type(n)) + "      " + str(n))
-
-        else:
-            pass
-            #print(str(type(n)) + "      " + str(n))
-
-    #print(text_content)
-
-    if len(text_content) == 0 or "REDIRECT" in text_content[0]:
+    if "(disambiguation)" in page_title:
         return
-    
 
-    with open('{}/data_{}.json'.format(path, page_index), 'w', encoding='utf-8') as f:
-        # Write the parsed wikipedia text to a json file
+    # This will read at maximum the first 100 lines of each page to check if it is about a redirect page.
+    short_summary = "".join(map(lambda x: str(x), wiki.nodes[:min(10, len(wiki.nodes))]))
+    if "#REDIRECT" in short_summary or "disambiguation" in short_summary or "/ref" in short_summary:
+        return
+
+    for line in wiki.nodes:
+
+        if has_reached_end_of_page(line):
+            break
+
+        line_type = node_dict.get(type(line), OTHER_NODE)
+        line, tag_detected, parentheses_detected = clear_text(
+            line, tag_detected, parentheses_detected)
+
+        #print("{}   {}".format(line_type, line))
+
+        text_content = parse_line(
+            line, text_content, new_element, tag_detected, parentheses_detected, line_type)
+
+    # Don't try to write text_content to a file either if it's empty or if it a page of redirect.
+    if not text_content or not next(iter(text_content[0].keys())).strip():
+        return
+
+    with open('{}{}.json'.format(path, page_title), 'w', encoding='utf-8') as f:
+        # Write the parsed wikipedia text to a json file without ensuring ascii codification.
         json.dump(text_content, f, ensure_ascii=False, indent=4)
 
 
-def get_text(n, tag_detected, parenthesis_detected):
+def parse_line(line, text_content, new_element, tag_detected, parentheses_detected, node_type):
+    is_tag = False
 
-    buf = ""
+    if node_type == SKIP_NODE:
+        # Skip lines of templates/external links since we don't need these ones.
+        return text_content
 
-    if "|" in n:
-        return buf, tag_detected, parenthesis_detected
+    elif node_type == TEXT_NODE:
+        # Get the 'buffered' version of the current line and update flags.
+        buffer, tag_detected, parentheses_detected = get_text_from(
+            line, tag_detected, parentheses_detected)
+        # Create a new item in the list representing a node of plain text.
+        text_content.append(buffer, None, new_element)
+        # Allow text concatenations for future Text nodes.
+        new_element = False
 
-    for keyword in ["File:", "Category:"]:
-        if keyword in n:
-            return buf, tag_detected, parenthesis_detected
+    # Current line is of a Tag node and its contents list is not empty.
+    elif node_type == TAG_NODE and line:
+        # Get the 'buffered' version of the current line and update flags.
+        buffer, tag_detected, parentheses_detected = get_text_from(
+            line, tag_detected, parentheses_detected)
+        # Check if the current line consists of a tag (they're alone in a line if present).
+        _tmp = buffer.strip()
+        is_tag = len(_tmp) > 2 and _tmp[0] == "[" and _tmp[-1] == "]"
 
-    while "==" in n:
-        if "===" in n:
-            #print([x for x in n.split("===") if x.strip()])
-            n = " ".join(n.split("===")[0::2])
-        elif "==" in n:
-            #print([x for x in n.split("==") if x.strip()])
-            n = " ".join(n.split("==")[0::2])
+        if (not is_tag):
+            # Create a new item in the list representing a node of plain text.
+            text_content.append(buffer, None, new_element)
+            # Allow text concatenations for future Text nodes.
+            new_element = False
 
-    for i in range(len(n)):
+    # This is the case where either the current line is a Wikilink node or it has been recognised to be a tag.
+    if node_type == WIKILINK_NODE or is_tag:
 
-        if n[i] == ")":
-            parenthesis_detected = False
-        elif n[i] == ">":
-            tag_detected = False
+        # Check if the current link is a piped link: https://en.wikipedia.org/wiki/Wikipedia:Piped_link
+        is_piped_link = "|" in line
 
-        elif n[i] == "(":
-            parenthesis_detected = True
-        elif n[i] == "<":
-            tag_detected = True
-
-        elif not tag_detected and not parenthesis_detected and n[i] != "*":
-            buf += n[i]
-    return buf, tag_detected, parenthesis_detected
-
-
-def beautify_content(text):
-    result = ""
-    special_characters = [",", ":", ";", "."]
-    return [x for x in text.splitlines() if x.strip()]
-    i = 0
-    text = [line for line in text.splitlines()]
-    while i < len(text):
-        if text[i] not in special_characters:
-            result += text[i]
-            i += 1
+        for keyword in EVIL_NAMESPACES:
+            if line[2:len(keyword)+2] == keyword:
+                # Skip the current line if it consists of one of the namespaces to be avoided.
+                return text_content
         else:
-            skip_chars = " \n\t{}".format(text[i])
-            while i < len(text) and text[i] in skip_chars:
-                i += 1
-            if i < len(text):
-                result += text[i]
-                i += 1
-    return result
+            line = str(line)
+            if is_piped_link:
+                # If it is a piped link that split it into two or more halves.
+                links = line.split("|")
 
+                if len(links) != 2:
+                    # Actually it's not supported if there are more than one pipe characters in the current line.
+                    return text_content
 
-def strip_text(text):
-    result = ""
-    strip = 0
-    i = 0
-    start_angular_index = -1
-    end_angular_found = False
-    buffer = ""
-    keywords_link = ["File:", "Category:"]
-    skip_links = 0
-    while i < len(text):
-        if text[i] == "'" and i+1 < len(text) and text[i+1] == text[i]:
-            # Check whether there are 2 or 3 APOSTROPHE charachers and skip them
-            is_long_apostrophe = i+2 < len(text) and text[i+2] == text[i+1]
-            i = i+3 if is_long_apostrophe else i+2
-        elif text[i] == '"':
-            i += 1
-        elif text[i] == "=" and i + 1 < len(text) and text[i+1] == text[i]:
-            # Check whether there are 2 or 3 EQUALS charachers, hence whether it's a normal or big title
-            is_main_title = i + \
-                2 < len(text) and text[i+2] == "=" and (i +
-                                                        3 < len(text) or text[i+3] != "=")
-            # Skip to the next possible character using the flag
-            j = i+3 if is_main_title else i+2
-            # The current value of k is adjusted using a delta which is j-i-1 which will be 1 in case of is_main_title false, and 2 otherwise
-            k = len(text) - (j-i-1)
-            while (j < k):
-                if text[j] == "=" and text[j+1] == text[j] and (not is_main_title or text[j+2] == text[j+1]):
-                    if j + 2 < len(text) and (not is_main_title or j + 3 < len(text)):
-                        i = j+3 if is_main_title else j+2
-                        #print(str(is_main_title) + "" + str(j-i))
-                        break
-                    else:
-                        return result
-                j += 1
-
-        char = text[i]
-
-        if char == "[" and i+1 < len(text) and text[i+1] == char:
-            if skip_links:
-                skip_links += 1
-                i += 1
+                # Take both the url and its textual representation inside the wikipedia page and clean them from double square brackets.
+                url, text = links
+                # Since this will the key for each page it's only used as lowercased.
+                url = url[2:].lower()
+                text = text[:-2]
             else:
-                for keyword in keywords_link:
-                    if keyword == text[i+2:i+2+len(keyword)] or ":" + keyword == text[i+2:i+3+len(keyword)]:
-                        skip_links += 1
-                        i += 1
-                        break
+                # They're essentially the same thing, but as usually the key is first lowered or unique purposes.
+                url, text = line[2:-2].lower().strip(), line[2:-2]
 
-        elif char == "]" and i+1 < len(text) and text[i+1] == char:
-            if skip_links:
-                skip_links += -1
-                i += 1
+            new_element = True
+            text_content.append(text, url, new_element)
 
+    return text_content
+
+
+def clear_text(line, tag_detected, parentheses_detected):
+
+    # This buffer will hold the parsed line string after the process.
+    result_buffer = ""
+
+    # A list of characters to be avoided when returning the current line.
+    EVIL_CHARACTERS = ["*", "'", '"', "`", "#", "="]
+
+    # Clean the current line from unwanted headers. (i.e. main titles in a wikipedia page).
+    line = remove_headers(line)
+
+    for char in line:
+
+        # Parentheses check from here.
+        if char in ")}":
+            parentheses_detected += -1
+        elif char == ">":
+            tag_detected += -1
+        elif char in "({":
+            parentheses_detected += 1
         elif char == "<":
-            if start_angular_index == -1:
-                start_angular_index = i
-        elif char == "/" and start_angular_index != -1:
-            end_angular_found = True
-        elif char == ">" and end_angular_found:
-            _substr = text[start_angular_index:i]
-            result = result.replace(_substr, '')
-            buffer = ""
-            start_angular_index = -1
-            end_angular_found = False
+            tag_detected += 1
+        # Parentheses check up to here.
 
-        elif char == "{" or char == "(" or (char == "[" and (i-1 > 0 or i+1 < len(text)) and ((not i-1 > 0 or text[i-1] != char) and (not i+1 < len(text) or text[i+1] != char))):
-            # From here the text will be removed since we don't want anything inside it
-            strip += 1
-        elif char == "}" or char == ")" or (char == "]" and (i-1 > 0 or i+1 < len(text)) and ((not i-1 > 0 or text[i-1] != char) and (not i+1 < len(text) or text[i+1] != char))):
-            # Remove text inside the last parenthesis found
-            strip += -1
-        elif char == "*" or len(result) > 0 and char in " \n" and char == result[-1]:
-            # Avoid asterisks or multiple spaces
-            pass
-        elif not strip and not skip_links:
+        # Add [char] to the current line only if it is not in the range of such a parentheses or it is an unwanted character.
+        elif not tag_detected and not parentheses_detected and char not in EVIL_CHARACTERS:
+            result_buffer += char
 
-            if start_angular_index != -1:
-                # Add chars to 'buffer' buffer
-                buffer += char
-            else:
-                # Add chars to 'result' buffer
-                if len(buffer) > 0:
-                    result += buffer
-                    buffer = ""
-                result += char
-        i += 1
+    return result_buffer, tag_detected, parentheses_detected
 
-    return result
+
+def get_text_from(line, tag_detected, parentheses_detected):
+
+    # Remove external links from text content
+    line = re.sub(r'\[[^]]*\][^]]', ' ', line)
+    
+    # Remove links within a text node, this is a loss of links and should be improved in the future
+    # HINT: mwparser doesn't recognize them as Wikilinks, should use recursion
+    line = " ".join([x.split("|")[1][:-2] if i % 2 and "|" in x else x.replace("[", "").replace("]", "") for i,x in enumerate(re.split(r"(\[[^]]*\]\])", line))])
+
+    # Remove these kind of dirty lines, they will not be useful in terms of training set.
+    if line.lstrip() and "|" == line.lstrip()[0]:
+        return " ", tag_detected, parentheses_detected
+
+    # Skip the current line if it consists of one of the namespaces to be avoided.
+    for keyword in EVIL_NAMESPACES:
+        if keyword in line:
+            return " ", tag_detected, parentheses_detected
+
+    # This buffer will hold the parsed line string after the process.
+    result_buffer = ""
+
+    # A list of characters to be avoided when returning the current line.
+    EVIL_CHARACTERS = ["*", "'", '"', "`", "#", "="]
+
+    for char in line:
+
+        if char == "[":
+            parentheses_detected += 1
+        elif char == "]":
+            parentheses_detected += -1
+        elif not tag_detected and not parentheses_detected and char not in EVIL_CHARACTERS:
+            result_buffer += char
+
+    return line, tag_detected, parentheses_detected
+
+
+''' This function is responsible for removing headers from the current line'''
+
+
+def remove_headers(line):
+    while "==" in line:
+        if "===" in line:
+            line = " ".join(line.split("===")[0::2])
+        elif "==" in line:
+            line = " ".join(line.split("==")[0::2])
+    return line
 
 
 if __name__ == "__main__":
