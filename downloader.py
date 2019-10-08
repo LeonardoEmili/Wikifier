@@ -25,7 +25,15 @@ class TextList(list):
         item = str(item)
         if (not item):
             return
-        item = item.replace('\n', '')
+        # Remove hidden and newline characters from the string
+        re_hidden_char = re.compile(r'& *nbsp;|\n| +')
+        item = re.sub(re_hidden_char, '', item)
+
+        # Change any number to a constant value
+        # CHECK: The 1903 World Series -> The 42 World Series
+        re_numbers = re.compile(r'[+-]*[0-9]+[,.]?[0-9]*')
+        item = re.sub(re_numbers, '42', item)
+
 
         # The flag below checks wheter to insert the current element as a separated element.
         new_element = value is not None or (list(self[-1].values())[0] is not None) if len(self) > 0 else value is not None
@@ -155,9 +163,16 @@ def parse_page(handler, page_index, path, node_dict):
     wiki.nodes = wiki.nodes[1:]
 
     page_title = handler._pages[page_index][0]
-
-    if "(disambiguation)" in page_title:
+    if "/" in page_title or "(disambiguation)" in page_title:
         return
+
+    for x in wiki.filter_templates():
+        if "|" in x:
+            hidden_link = x.split("|")[0]
+            if "disambiguation" in hidden_link:
+                return
+        elif "disambiguation" in x:
+            return
 
     # This will read at maximum the first 100 lines of each page to check if it is about a redirect page.
     short_summary = "".join(map(lambda x: str(x), wiki.nodes[:min(10, len(wiki.nodes))]))
@@ -306,7 +321,7 @@ def get_text_from(line, tag_detected, parentheses_detected):
     result_buffer = ""
 
     # A list of characters to be avoided when returning the current line.
-    EVIL_CHARACTERS = ["*", "'", '"', "`", "#", "="]
+    EVIL_CHARACTERS = ["*", "'", '"', "#", "="]
 
     for char in line:
 
