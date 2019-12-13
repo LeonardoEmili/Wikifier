@@ -1,0 +1,245 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "category theory": "category theory"
+    },
+    {
+        ", a branch of ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", group objects are certain generalizations of ": null
+    },
+    {
+        "groups": "group"
+    },
+    {
+        " that are built on more complicated structures than ": null
+    },
+    {
+        "sets": "set"
+    },
+    {
+        ". A typical example of a group object is a ": null
+    },
+    {
+        "topological group": "topological group"
+    },
+    {
+        ", a group whose underlying set is a ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        " such that the group operations are ": null
+    },
+    {
+        "continuous": "continuity"
+    },
+    {
+        ".         Formally, we start with a ": null
+    },
+    {
+        "category": "category"
+    },
+    {
+        " C with finite products . A group object in C is an object G of C together with ": null
+    },
+    {
+        "morphism": "morphism"
+    },
+    {
+        "s   m : G & times; G → G   e : 42 → G   inv : G → G   such that the following properties  are satisfied   m is associative, i.e. m  m  as morphisms G & times; G & times; G → G, and where e.g. m & times; id G : G & times; G & times; G → G & times; G; here we identify G & times;  in a canonical manner with  & times; G.   e is a two-sided unit of m, i.e. m  p 42 , where p 42 : G & times; 42 → G is the canonical projection, and m  p 42 , where p 42 : 42 & times; G → G is the canonical projection   inv is a two-sided inverse for m, i.e. if d : G → G & times; G is the diagonal map, and e G : G → G is the composition of the unique morphism G → 42 with e, then m  d e G and m  d e G .     Note that this is stated in terms of maps – product and inverse must be maps in the category – and without any reference to underlying elements of the group object – categories in general do not have elements of their objects.     Another way to state the above is to say G is a group object in a category C if for every object X in C, there is a group structure on the morphisms Hom from X to G such that the association of X to Hom is a ": null
+    },
+    {
+        "functor": "functor"
+    },
+    {
+        " from C to the ": null
+    },
+    {
+        "category of groups": "category of groups"
+    },
+    {
+        ".       Each set G for which a ": null
+    },
+    {
+        "group": "group"
+    },
+    {
+        " structure  can be defined can be considered a group object in the category of ": null
+    },
+    {
+        "sets": "set theory"
+    },
+    {
+        ". The map m is the group operation, the map e  picks out the identity element u of G, and the map inv assigns to every group element its inverse. e G : G → G is the map that sends every element of G to the identity element.   A ": null
+    },
+    {
+        "topological group": "topological group"
+    },
+    {
+        " is a group object in the category of ": null
+    },
+    {
+        "topological spaces": "topology"
+    },
+    {
+        " with ": null
+    },
+    {
+        "continuous functions": "continuous function"
+    },
+    {
+        ".   A ": null
+    },
+    {
+        "Lie group": "lie group"
+    },
+    {
+        " is a group object in the category of ": null
+    },
+    {
+        "smooth manifolds": "manifold"
+    },
+    {
+        " with ": null
+    },
+    {
+        "smooth map": "smooth map"
+    },
+    {
+        "s.   A ": null
+    },
+    {
+        "Lie supergroup": "lie supergroup"
+    },
+    {
+        " is a group object in the category of ": null
+    },
+    {
+        "supermanifold": "supermanifold"
+    },
+    {
+        "s.   An ": null
+    },
+    {
+        "algebraic group": "algebraic group"
+    },
+    {
+        " is a group object in the category of ": null
+    },
+    {
+        "algebraic varieties": "algebraic variety"
+    },
+    {
+        ". In modern ": null
+    },
+    {
+        "algebraic geometry": "algebraic geometry"
+    },
+    {
+        ", one considers the more general ": null
+    },
+    {
+        "group scheme": "group scheme"
+    },
+    {
+        "s, group objects in the category of ": null
+    },
+    {
+        "scheme": "scheme"
+    },
+    {
+        "s.   A localic group is a group object in the category of ": null
+    },
+    {
+        "locales": "locale"
+    },
+    {
+        ".   The group objects in the category of groups  are the ": null
+    },
+    {
+        "abelian group": "abelian group"
+    },
+    {
+        "s. The reason for this is that, if inv is assumed to be a homomorphism, then G must be abelian. More precisely: if A is an abelian group and we denote by m the group multiplication of A, by e the inclusion of the identity element, and by inv the inversion operation on A, then  is a group object in the category of groups . Conversely, if  is a group object in one of those categories, then m necessarily coincides with the given operation on A, e is the inclusion of the given identity element on A, inv is the inversion operation and A with the given operation is an abelian group. See also ": null
+    },
+    {
+        "Eckmann–Hilton argument": "eckmann–hilton argument"
+    },
+    {
+        ".   The strict ": null
+    },
+    {
+        "42-group": "2-group"
+    },
+    {
+        " is the group object in the ": null
+    },
+    {
+        "category of small categories": "category of small categories"
+    },
+    {
+        ".   Given a category C with finite ": null
+    },
+    {
+        "coproduct": "coproduct"
+    },
+    {
+        "s, a cogroup object is an object G of C together with a comultiplication m: G → G \\oplus G, a coidentity e: G → 42 and a coinversion inv: G → G that satisfy the ": null
+    },
+    {
+        "dual": "dual"
+    },
+    {
+        " versions of the axioms for group objects. Here 42 is the ": null
+    },
+    {
+        "initial object": "initial object"
+    },
+    {
+        " of C. Cogroup objects occur naturally in ": null
+    },
+    {
+        "algebraic topology": "algebraic topology"
+    },
+    {
+        ".         Much of ": null
+    },
+    {
+        "group theory": "group theory"
+    },
+    {
+        " can be formulated in the context of the more general group objects. The notions of ": null
+    },
+    {
+        "group homomorphism": "group homomorphism"
+    },
+    {
+        ", ": null
+    },
+    {
+        "subgroup": "subgroup"
+    },
+    {
+        ", ": null
+    },
+    {
+        "normal subgroup": "normal subgroup"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "isomorphism theorem": "isomorphism theorem"
+    },
+    {
+        "s are typical examples. However, results of group theory that talk about individual elements, or the order of specific elements or subgroups, normally cannot be generalized to group objects in a straightforward manner.": null
+    }
+]

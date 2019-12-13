@@ -1,0 +1,143 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "complex analysis": "complex analysis"
+    },
+    {
+        ", a discipline within mathematics, the residue theorem, sometimes called Cauchys residue theorem, is a powerful tool to evaluate ": null
+    },
+    {
+        "line integral": "line integral"
+    },
+    {
+        "s of ": null
+    },
+    {
+        "analytic function": "analytic function"
+    },
+    {
+        "s over closed curves; it can often be used to compute real integrals and ": null
+    },
+    {
+        "infinite series": "infinite series"
+    },
+    {
+        " as well. It generalizes the ": null
+    },
+    {
+        "Cauchy integral theorem": "cauchy integral theorem"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Cauchys integral formula": "cauchys integral formula"
+    },
+    {
+        ". From a geometrical perspective, it is a special case of the ": null
+    },
+    {
+        "generalized Stokes theorem": "stokes theorem"
+    },
+    {
+        ".       The statement is as follows:      Let  be a ": null
+    },
+    {
+        "simply connected": "simply connected"
+    },
+    {
+        " open subset": "open subset"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "complex plane": "complex plane"
+    },
+    {
+        " containing a finite list of points , and  a function defined and ": null
+    },
+    {
+        "holomorphic": "holomorphic function"
+    },
+    {
+        " on . Let  be a closed ": null
+    },
+    {
+        "rectifiable curve": "rectifiable curve"
+    },
+    {
+        " in  which does not meet any of the , and denote the ": null
+    },
+    {
+        "winding number": "winding number"
+    },
+    {
+        " of  around  by . The line integral of  around  is equal to  times the sum of ": null
+    },
+    {
+        "residues": "residue"
+    },
+    {
+        " of  at the points, each counted as many times as  winds around the point:     : \\oint_\\gamma f\\, dz 42\\pi i \\sum_^n \\operatorname \\operatorname.     If  is a ": null
+    },
+    {
+        "positively oriented": "curve orientation"
+    },
+    {
+        " simple closed curve": "jordan curve"
+    },
+    {
+        ",  if  is in the interior of , and 42 if not, so     : \\oint_\\gamma f\\, dz 42\\pi i \\sum \\operatorname     with the sum over those  inside .     The relationship of the residue theorem to Stokes theorem is given by the ": null
+    },
+    {
+        "Jordan curve theorem": "jordan curve theorem"
+    },
+    {
+        ". The general ": null
+    },
+    {
+        "plane curve": "plane curve"
+    },
+    {
+        "  must first be reduced to a set of simple closed curves  whose total is equivalent to  for integration purposes; this reduces the problem to finding the integral of  along a Jordan curve  with interior . The requirement that  be holomorphic on  is equivalent to the statement that the ": null
+    },
+    {
+        "exterior derivative": "exterior derivative"
+    },
+    {
+        "  on . Thus if two planar regions  and  of  enclose the same subset  of , the regions  and  lie entirely in , and hence     : \\int_ d - \\int_ d     is well-defined and equal to zero. Consequently, the contour integral of  along  is equal to the sum of a set of integrals along paths , each enclosing an arbitrarily small region around a single  — the residues of   at . Summing over , we recover the final expression of the contour integral in terms of the winding numbers .     In order to evaluate real integrals, the residue theorem is used in the following manner: the integrand is extended to the complex plane and its residues are computed , and a part of the real axis is extended to a closed curve by attaching a half-circle in the upper or lower half-plane, forming a semicircle. The integral over this curve can then be computed using the residue theorem. Often, the half-circle part of the integral will tend towards zero as the radius of the half-circle grows, leaving only the real-axis part of the integral, the one we were originally interested in.         The integral     : \\int_^\\infty \\frac\\,dx          arises in ": null
+    },
+    {
+        "probability theory": "probability theory"
+    },
+    {
+        " when calculating the ": null
+    },
+    {
+        "characteristic function": "characteristic function"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "Cauchy distribution": "cauchy distribution"
+    },
+    {
+        ". It resists the techniques of elementary ": null
+    },
+    {
+        "calculus": "calculus"
+    },
+    {
+        " but can be evaluated by expressing it as a limit of ": null
+    },
+    {
+        "contour integral": "contour integral"
+    },
+    {
+        "s.     Suppose  math /math  math /math  math /math math /math  math /math math /math  math /math math /math  math /math math /math  math /math  math /math  ref  /ref math /math  math /math  math /math  math /math math /math ": null
+    }
+]

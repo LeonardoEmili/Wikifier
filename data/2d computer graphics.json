@@ -1,0 +1,728 @@
+[
+    {
+        "42D computer graphics is the ": null
+    },
+    {
+        "computer": "computer"
+    },
+    {
+        "-based generation of ": null
+    },
+    {
+        "digital image": "digital image"
+    },
+    {
+        "s & mdash;mostly from two-dimensional models  and by techniques specific to them. The word may stand for the branch of ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        " that comprises such techniques or for the models themselves.        42D computer graphics are mainly used in applications that were originally developed upon traditional ": null
+    },
+    {
+        "printing": "printing"
+    },
+    {
+        " and ": null
+    },
+    {
+        "drawing": "drawing"
+    },
+    {
+        " technologies, such as ": null
+    },
+    {
+        "typography": "typography"
+    },
+    {
+        ", ": null
+    },
+    {
+        "cartography": "cartography"
+    },
+    {
+        ", ": null
+    },
+    {
+        "technical drawing": "technical drawing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "advertising": "advertising"
+    },
+    {
+        ", etc. In those applications, the two-dimensional ": null
+    },
+    {
+        "image": "image"
+    },
+    {
+        " is not just a representation of a real-world object, but an independent artifact with added semantic value; two-dimensional models are therefore preferred, because they give more direct control of the image than ": null
+    },
+    {
+        "42D computer graphics": "3d computer graphics"
+    },
+    {
+        " .     In many domains, such as ": null
+    },
+    {
+        "desktop publishing": "desktop publishing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "engineering": "engineering"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "business": "business"
+    },
+    {
+        ", a description of a document based on 42D computer graphics techniques can be much smaller than the corresponding digital image & mdash;often by a factor of 42/42 or more. This representation is also more flexible since it can be ": null
+    },
+    {
+        "rendered": "rendering"
+    },
+    {
+        " at different ": null
+    },
+    {
+        "resolution": "image resolution"
+    },
+    {
+        "s to suit different ": null
+    },
+    {
+        "output device": "output device"
+    },
+    {
+        "s. For these reasons, documents and illustrations are often stored or transmitted as ": null
+    },
+    {
+        "42D graphic files": "graphics file format"
+    },
+    {
+        ".     42D computer graphics started in the 42s, based on ": null
+    },
+    {
+        "vector graphics devices": "vector graphics"
+    },
+    {
+        ". These were largely supplanted by ": null
+    },
+    {
+        "raster-based devices": "raster graphics"
+    },
+    {
+        " in the following decades. The ": null
+    },
+    {
+        "PostScript": "postscript"
+    },
+    {
+        " language and the ": null
+    },
+    {
+        "X Window System": "x window system"
+    },
+    {
+        " protocol were landmark developments in the field.       42D graphics models may combine ": null
+    },
+    {
+        "geometric model": "2d geometric model"
+    },
+    {
+        "s , digital images , text to be ": null
+    },
+    {
+        "typeset": "typesetting"
+    },
+    {
+        " , mathematical ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "equation": "equation"
+    },
+    {
+        "s, and more. These components can be modified and manipulated by two-dimensional ": null
+    },
+    {
+        "geometric transformation": "transformation"
+    },
+    {
+        "s such as ": null
+    },
+    {
+        "translation": "translation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "rotation": "rotation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "scaling": "scaling"
+    },
+    {
+        ".   In ": null
+    },
+    {
+        "object-oriented graphics": "object-oriented graphics"
+    },
+    {
+        ", the image is described indirectly by an ": null
+    },
+    {
+        "object": "object"
+    },
+    {
+        " endowed with a self-": null
+    },
+    {
+        "rendering": "rendering"
+    },
+    {
+        " method": "method"
+    },
+    {
+        " & mdash;a procedure which assigns colors to the image ": null
+    },
+    {
+        "pixel": "pixel"
+    },
+    {
+        "s by an arbitrary algorithm. Complex models can be built by combining simpler objects, in the ": null
+    },
+    {
+        "paradigms": "paradigms"
+    },
+    {
+        " of ": null
+    },
+    {
+        "object-oriented programming": "object-oriented programming"
+    },
+    {
+        ".                   In ": null
+    },
+    {
+        "Euclidean geometry": "euclidean geometry"
+    },
+    {
+        ", a translation moves every point a constant distance in a specified direction. A translation can be described as a ": null
+    },
+    {
+        "rigid motion": "euclidean group"
+    },
+    {
+        ": other rigid motions include rotations and reflections. A translation can also be interpreted as the addition of a constant ": null
+    },
+    {
+        "vector": "vector space"
+    },
+    {
+        " to every point, or as shifting the ": null
+    },
+    {
+        "origin": "origin"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "coordinate system": "coordinate system"
+    },
+    {
+        ". A translation operator is an ": null
+    },
+    {
+        "operator": "operator"
+    },
+    {
+        " T_\\mathbf such that T_\\mathbf f f.     If v is a fixed vector, then the translation T v will work as T v  p + v.     If T is a translation, then the ": null
+    },
+    {
+        "image": "image"
+    },
+    {
+        " of a subset A under the ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " T is the translate of A by T. The translate of A by T v is often written A + v.     In a ": null
+    },
+    {
+        "Euclidean space": "euclidean space"
+    },
+    {
+        ", any translation is an ": null
+    },
+    {
+        "isometry": "isometry"
+    },
+    {
+        ". The set of all translations forms the translation group T, which is isomorphic to the space itself, and a ": null
+    },
+    {
+        "normal subgroup": "normal subgroup"
+    },
+    {
+        " of ": null
+    },
+    {
+        "Euclidean group": "euclidean group"
+    },
+    {
+        " E. The ": null
+    },
+    {
+        "quotient group": "quotient group"
+    },
+    {
+        " of E by T is isomorphic to the ": null
+    },
+    {
+        "orthogonal group": "orthogonal group"
+    },
+    {
+        " O:   :E / T ≅ O.          Since a translation is an ": null
+    },
+    {
+        "affine transformation": "affine transformation"
+    },
+    {
+        " but not a ": null
+    },
+    {
+        "linear transformation": "linear transformation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "homogeneous coordinates": "homogeneous coordinates"
+    },
+    {
+        " are normally used to represent the translation operator by a ": null
+    },
+    {
+        "matrix": "matrix"
+    },
+    {
+        " and thus to make it linear. Thus we write the 42-dimensional vector w  using 42 homogeneous coordinates as w . Richard Paul, 42 , MIT Press, Cambridge, MA     To translate an object by a ": null
+    },
+    {
+        "vector": "vector"
+    },
+    {
+        " v, each homogeneous vector p would need to be multiplied by this translation matrix:     : T_   \\begin   42 & 42 & 42 & v_x \\\\   42 & 42 & 42 & v_y \\\\   42 & 42 & 42 & v_z \\\\   42 & 42 & 42 & 42   \\end     As shown below, the multiplication will give the expected result:   : T_ \\mathbf   \\begin   42 & 42 & 42 & v_x \\\\   42 & 42 & 42 & v_y\\\\   42 & 42 & 42 & v_z\\\\   42 & 42 & 42 & 42   \\end   \\begin   p_x \\\\ p_y \\\\ p_z \\\\ 42   \\end     \\begin   p_x + v_x \\\\ p_y + v_y \\\\ p_z + v_z \\\\ 42   \\end   \\mathbf + \\mathbf     The inverse of a translation matrix can be obtained by reversing the direction of the vector:   : T^_ T_ . \\!     Similarly, the product of translation matrices is given by adding the vectors:   : T_T_ T_ . \\!   Because addition of vectors is ": null
+    },
+    {
+        "commutative": "commutative"
+    },
+    {
+        ", multiplication of translation matrices is therefore also commutative .         In ": null
+    },
+    {
+        "linear algebra": "linear algebra"
+    },
+    {
+        ", a rotation matrix is a ": null
+    },
+    {
+        "matrix": "matrix"
+    },
+    {
+        " that is used to perform a ": null
+    },
+    {
+        "rotation": "rotation"
+    },
+    {
+        " in ": null
+    },
+    {
+        "Euclidean space": "euclidean space"
+    },
+    {
+        ".     : R   \\begin   \\cos \\theta & -\\sin \\theta \\\\   \\sin \\theta & \\cos \\theta \\\\   \\end       rotates points in the xy-": null
+    },
+    {
+        "Cartesian plane": "cartesian coordinate system"
+    },
+    {
+        " counterclockwise through an angle θ about the origin of the ": null
+    },
+    {
+        "Cartesian coordinate system": "cartesian coordinate system"
+    },
+    {
+        ". To perform the rotation using a rotation matrix R, the position of each point must be represented by a ": null
+    },
+    {
+        "column vector": "column vector"
+    },
+    {
+        " v, containing the coordinates of the point. A rotated vector is obtained by using the ": null
+    },
+    {
+        "matrix multiplication": "matrix multiplication"
+    },
+    {
+        " Rv. Since matrix multiplication has no effect on the zero vector , rotation matrices can only be used to describe rotations about the origin of the coordinate system.     Rotation matrices provide a simple algebraic description of such rotations, and are used extensively for computations in ": null
+    },
+    {
+        "geometry": "geometry"
+    },
+    {
+        ", ": null
+    },
+    {
+        "physics": "physics"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "computer graphics": "computer graphics"
+    },
+    {
+        ". In 42-dimensional space, a rotation can be simply described by an ": null
+    },
+    {
+        "angle θ of rotation": "angle of rotation"
+    },
+    {
+        ", but it can be also represented by the 42 entries of a rotation matrix with 42 rows and 42 columns. In 42-dimensional space, every rotation can be interpreted as a rotation by a given angle about a single fixed axis of rotation , and hence it can be simply described by ": null
+    },
+    {
+        "an angle and a vector": "axis-angle representation"
+    },
+    {
+        " with 42 entries. However, it can also be represented by the 42 entries of a rotation matrix with 42 rows and 42 columns. The notion of rotation is not commonly used in dimensions higher than  42; there is a notion of a rotational displacement, which can be represented by a matrix, but no associated single axis or angle.     Rotation matrices are ": null
+    },
+    {
+        "square matrices": "square matrix"
+    },
+    {
+        ", with ": null
+    },
+    {
+        "real": "real number"
+    },
+    {
+        " entries. More specifically they can be characterized as ": null
+    },
+    {
+        "orthogonal matrices": "orthogonal matrix"
+    },
+    {
+        " with ": null
+    },
+    {
+        "determinant": "determinant"
+    },
+    {
+        "  42:     : R^ R^, \\det R 42\\, .     The ": null
+    },
+    {
+        "set": "set"
+    },
+    {
+        " of all such matrices of size n forms a ": null
+    },
+    {
+        "group": "group"
+    },
+    {
+        ", known as the ": null
+    },
+    {
+        "special orthogonal group": "special orthogonal group"
+    },
+    {
+        " .          In two dimensions every rotation matrix has the following form:     :   R \\begin   \\cos \\theta & -\\sin \\theta \\\\   \\sin \\theta & \\cos \\theta \\\\   \\end .     This rotates ": null
+    },
+    {
+        "column vector": "column vector"
+    },
+    {
+        "s by means of the following ": null
+    },
+    {
+        "matrix multiplication": "matrix multiplication"
+    },
+    {
+        ":     :   \\begin   x \\\\   y \\\\   \\end \\begin   \\cos \\theta & -\\sin \\theta \\\\   \\sin \\theta & \\cos \\theta \\\\   \\end\\begin   x \\\\   y \\\\   \\end .     So the coordinates of the point after rotation are:     : x x \\cos \\theta - y \\sin \\theta\\, ,   : y x \\sin \\theta + y \\cos \\theta\\, .     The direction of vector rotation is counterclockwise if θ is positive , and clockwise if θ is negative .     :   R \\begin   \\cos \\theta & \\sin \\theta \\\\   -\\sin \\theta & \\cos \\theta \\\\   \\end\\, .            If a standard ": null
+    },
+    {
+        "right-handed": "orientation"
+    },
+    {
+        " Cartesian coordinate system": "cartesian coordinate system"
+    },
+    {
+        " is used, with the x axis to the right and the y axis up, the rotation R is counterclockwise. If a left-handed Cartesian coordinate system is used, with x directed to the right but y directed down, R is clockwise. Such non-standard orientations are rarely used in mathematics but are common in 42D computer graphics, which often have the origin in the top left corner and the y-axis down the screen or page.      See ": null
+    },
+    {
+        "below": "rotation matrixambiguities"
+    },
+    {
+        " for other alternative conventions which may change the sense of the rotation produced by a rotation matrix.        In ": null
+    },
+    {
+        "Euclidean geometry": "euclidean geometry"
+    },
+    {
+        ", uniform scaling  is a ": null
+    },
+    {
+        "linear transformation": "linear transformation"
+    },
+    {
+        " that enlarges or shrinks objects by a ": null
+    },
+    {
+        "scale factor": "scale factor"
+    },
+    {
+        " that is the same in all directions. The result of uniform scaling is ": null
+    },
+    {
+        "similar": "similarity"
+    },
+    {
+        " to the original. A scale factor of 42 is normally allowed, so that congruent shapes are also classed as similar.     More general is scaling with a separate scale factor for each axis direction. Non-uniform scaling  is obtained when at least one of the scaling factors is different from the others; a special case is directional scaling or stretching . Non-uniform scaling changes the ": null
+    },
+    {
+        "shape": "shape"
+    },
+    {
+        " of the object; e.g. a square may change into a rectangle, or into a parallelogram if the sides of the square are not parallel to the scaling axes .       A scaling can be represented by a scaling matrix. To scale an object by a ": null
+    },
+    {
+        "vector": "vector"
+    },
+    {
+        " v , each point p  would need to be multiplied with this scaling matrix:   : S_v   \\begin   v_x & 42 & 42 \\\\   42 & v_y & 42 \\\\   42 & 42 & v_z \\\\   \\end.       As shown below, the multiplication will give the expected result:   :   S_vp   \\begin   v_x & 42 & 42 \\\\   42 & v_y & 42 \\\\   42 & 42 & v_z \\\\   \\end   \\begin   p_x \\\\ p_y \\\\ p_z   \\end     \\begin   v_xp_x \\\\ v_yp_y \\\\ v_zp_z   \\end.       Such a scaling changes the ": null
+    },
+    {
+        "diameter": "diameter"
+    },
+    {
+        " of an object by a factor between the scale factors, the ": null
+    },
+    {
+        "area": "area"
+    },
+    {
+        " by a factor between the smallest and the largest product of two scale factors, and the ": null
+    },
+    {
+        "volume": "volume"
+    },
+    {
+        " by the product of all three.     The scaling is uniform ": null
+    },
+    {
+        "if and only if": "if and only if"
+    },
+    {
+        " the scaling factors are equal . If all except one of the scale factors are equal to 42 we have directional scaling.     In the case where v x v y v z k, the scaling is also called an enlargement or  dilation  by a factor k, increasing the area by a factor of k 42 and the volume by a factor of k 42 .     A scaling in the most general sense is any ": null
+    },
+    {
+        "affine transformation": "affine transformation"
+    },
+    {
+        " with a ": null
+    },
+    {
+        "diagonalizable matrix": "diagonalizable matrix"
+    },
+    {
+        ". It includes the case that the three directions of scaling are not perpendicular. It includes also the case that one or more scale factors are equal to zero , and the case of one or more negative scale factors. The latter corresponds to a combination of scaling proper and a kind of reflection: along lines in a particular direction we take the reflection in the point of intersection with a plane that need not be perpendicular; therefore it is more general than ordinary reflection in the plane.       In ": null
+    },
+    {
+        "projective geometry": "projective geometry"
+    },
+    {
+        ", often used in ": null
+    },
+    {
+        "computer graphics": "computer graphics"
+    },
+    {
+        ", points are represented using ": null
+    },
+    {
+        "homogeneous coordinates": "homogeneous coordinates"
+    },
+    {
+        ". To scale an object by a ": null
+    },
+    {
+        "vector": "vector"
+    },
+    {
+        " v , each homogeneous coordinate vector p  would need to be multiplied with this ": null
+    },
+    {
+        "projective transformation": "projective transformation"
+    },
+    {
+        " matrix:     : S_v   \\begin   v_x & 42 & 42 & 42 \\\\   42 & v_y & 42 & 42 \\\\   42 & 42 & v_z & 42 \\\\   42 & 42 & 42 & 42   \\end.       As shown below, the multiplication will give the expected result:   :   S_vp   \\begin   v_x & 42 & 42 & 42 \\\\   42 & v_y & 42 & 42 \\\\   42 & 42 & v_z & 42 \\\\   42 & 42 & 42 & 42   \\end   \\begin   p_x \\\\ p_y \\\\ p_z \\\\ 42   \\end     \\begin   v_xp_x \\\\ v_yp_y \\\\ v_zp_z \\\\ 42   \\end.       Since the last component of a homogeneous coordinate can be viewed as the denominator of the other three components, a uniform scaling by a common factor s can be accomplished by using this scaling matrix:   : S_v   \\begin   42 & 42 & 42 & 42 \\\\   42 & 42 & 42 & 42 \\\\   42 & 42 & 42 & 42 \\\\   42 & 42 & 42 & \\frac   \\end.       For each vector p  we would have   :   S_vp   \\begin   42 & 42 & 42 & 42 \\\\   42 & 42 & 42 & 42 \\\\   42 & 42 & 42 & 42 \\\\   42 & 42 & 42 & \\frac   \\end   \\begin   p_x \\\\ p_y \\\\ p_z \\\\ 42   \\end     \\begin   p_x \\\\ p_y \\\\ p_z \\\\ \\frac   \\end     which would be homogenized to   :   \\begin   sp_x \\\\ sp_y \\\\ sp_z \\\\ 42   \\end.         A convenient way to create a complex image is to start with a blank canvas ": null
+    },
+    {
+        "raster map": "raster graphics"
+    },
+    {
+        "  filled with some uniform ": null
+    },
+    {
+        "background color": "background color"
+    },
+    {
+        " and then draw , paint or paste simple patches of color onto it, in an appropriate order. In particular the canvas may be the ": null
+    },
+    {
+        "frame buffer": "frame buffer"
+    },
+    {
+        " for a ": null
+    },
+    {
+        "computer display": "computer display"
+    },
+    {
+        ".     Some programs will set the pixel colors directly, but most will rely on some 42D ": null
+    },
+    {
+        "graphics library": "graphics library"
+    },
+    {
+        " or the machines ": null
+    },
+    {
+        "graphics card": "graphics card"
+    },
+    {
+        ", which usually implement the following operations:     paste a given ": null
+    },
+    {
+        "image": "digital image"
+    },
+    {
+        " at a specified offset onto the canvas;   write a string of characters with a specified font, at a given position and angle;   paint a simple ": null
+    },
+    {
+        "geometric shape": "geometric shape"
+    },
+    {
+        ", such as a ": null
+    },
+    {
+        "triangle": "triangle"
+    },
+    {
+        " defined by three corners, or a ": null
+    },
+    {
+        "circle": "circle"
+    },
+    {
+        " with given center and radius;   draw a ": null
+    },
+    {
+        "line segment": "line segment"
+    },
+    {
+        ", ": null
+    },
+    {
+        "arc": "arc"
+    },
+    {
+        ", or simple curve with a virtual pen of given width.         Text, shapes and lines are rendered with a client-specified color. Many libraries and cards provide ": null
+    },
+    {
+        "color gradient": "color gradient"
+    },
+    {
+        "s, which are handy for the generation of smoothly-varying backgrounds, shadow effects, etc. . The pixel colors can also be taken from a texture, e.g. a ": null
+    },
+    {
+        "digital image": "digital image"
+    },
+    {
+        " .     Painting a ": null
+    },
+    {
+        "pixel": "pixel"
+    },
+    {
+        " with a given color usually replaces its previous color. However, many systems support painting with ": null
+    },
+    {
+        "transparent": "transparency"
+    },
+    {
+        " and ": null
+    },
+    {
+        "translucent": "translucent"
+    },
+    {
+        " colors, which only modify the previous pixel values.     The two colors may also be combined in more complex ways, e.g. by computing their ": null
+    },
+    {
+        "bitwise": "bitwise operation"
+    },
+    {
+        " exclusive or": "exclusive or"
+    },
+    {
+        ". This technique is known as inverting color or color inversion, and is often used in ": null
+    },
+    {
+        "graphical user interface": "graphical user interface"
+    },
+    {
+        "s for highlighting, rubber-band drawing, and other volatile painting & mdash;since re-painting the same shapes with the same color will restore the original pixel values.                  The models used in 42D computer graphics usually do not provide for three-dimensional shapes, or three-dimensional optical phenomena such as lighting, ": null
+    },
+    {
+        "shadow": "shadow"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "reflection": "reflection"
+    },
+    {
+        ", ": null
+    },
+    {
+        "refraction": "refraction"
+    },
+    {
+        ", etc. However, they usually can model multiple layers           ": null
+    }
+]

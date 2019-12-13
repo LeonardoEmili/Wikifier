@@ -1,0 +1,263 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "category theory": "category theory"
+    },
+    {
+        ", a branch of ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", an enriched category generalizes the idea of a ": null
+    },
+    {
+        "category": "category"
+    },
+    {
+        " by replacing ": null
+    },
+    {
+        "hom-set": "hom-set"
+    },
+    {
+        "s with objects from a general ": null
+    },
+    {
+        "monoidal category": "monoidal category"
+    },
+    {
+        ". It is motivated by the observation that, in many practical applications, the hom-set often has additional structure that should be respected, e.g., that of being a ": null
+    },
+    {
+        "vector space": "vector space"
+    },
+    {
+        " of ": null
+    },
+    {
+        "morphism": "morphism"
+    },
+    {
+        "s, or a ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        " of morphisms. In an enriched category, the set of morphisms associated with every pair of objects is replaced by an ": null
+    },
+    {
+        "object": "object"
+    },
+    {
+        " in some fixed monoidal category of hom-objects . In order to emulate the composition of morphisms in an ordinary category, the hom-category must have a means of composing hom-objects in an associative manner: that is, there must be a binary operation on objects giving us at least the structure of a ": null
+    },
+    {
+        "monoidal category": "monoidal category"
+    },
+    {
+        ", though in some contexts the operation may also need to be commutative and perhaps also to have a ": null
+    },
+    {
+        "right adjoint": "right adjoint"
+    },
+    {
+        " .     Enriched category theory thus encompasses within the same framework a wide variety of structures including   ordinary categories where the hom-set carries additional structure beyond being a set. That is, there are operations on, or properties of morphisms that need to be respected by composition    category-like entities that dont themselves have any notion of individual morphism but whose hom-objects have similar compositional aspects .     In the case where the hom-object category happens to be the ": null
+    },
+    {
+        "category of sets": "category of sets"
+    },
+    {
+        " with the usual cartesian product, the definitions of enriched category, enriched functor, etc... reduce to the original definitions from ordinary category theory.     An enriched category with hom-objects from monoidal category M is said to be an enriched category over M or an enriched category in M, or simply an M-category. Due to Mac  Lanes preference for the letter V in referring to the monoidal category, enriched categories are also sometimes referred to generally as V-categories.       Let  be a ": null
+    },
+    {
+        "monoidal category": "monoidal category"
+    },
+    {
+        ". Then an enriched category C , consists of   a ": null
+    },
+    {
+        "class": "class"
+    },
+    {
+        " ob of objects of C,   an object C of M for every pair of objects a, b in C, used to define an arrow f:a\\rightarrow b in C as an arrow f:I\\rightarrow C in M,  in M designating an identity for every object a in C, and   an arrow  in M designating a composition for each triple of objects a, b, c in C, used to define the composition of f:a\\rightarrow b and g:b\\rightarrow c in C as g \\circ_ f _\\circ_ together with three commuting diagrams, discussed below.     The first diagram expresses the associativity of composition:     :": null
+    },
+    {
+        "Image:Math-enriched category associativity.svg": "image:math-enriched category associativity.svg"
+    },
+    {
+        "     That is, the associativity requirement is now taken over by the ": null
+    },
+    {
+        "associator": "associator"
+    },
+    {
+        " of the monoidal category M.     For the case that M is the ": null
+    },
+    {
+        "category of sets": "category of sets"
+    },
+    {
+        " and  is the monoidal structure  given by the ": null
+    },
+    {
+        "cartesian product": "cartesian product"
+    },
+    {
+        ", the terminal single-point set, and the canonical isomorphisms they induce, then each C is a set whose elements may be thought of as individual morphisms of C, while °, now a function, defines how consecutive morphisms compose. In this case, each path leading to  in the first diagram corresponds to one of the two ways of composing three consecutive individual morphisms , i.e. elements from C, C and C. Commutativity of the diagram is then merely the statement that both orders of composition give the same result, exactly as required for ordinary categories.     What is new here is that the above expresses the requirement for associativity without any explicit reference to individual morphisms in the enriched category C & mdash; again, these diagrams are for morphisms in monoidal category M, and not in C & mdash; thus making the concept of associativity of composition meaningful in the general case where the hom-objects C are abstract, and C itself need not even have any notion of individual morphism.     The notion that an ordinary category must have identity morphisms is replaced by the second and third diagrams, which express identity in terms of left and right ": null
+    },
+    {
+        "unitor": "unitor"
+    },
+    {
+        "s:     :   and   :     Returning to the case where M is the category of sets with cartesian product, the morphisms  become functions from the one-point set I and must then, for any given object a, identify a particular element of each set C, something we can then think of as the identity morphism for a in C . Commutativity of the latter two diagrams is then the statement that compositions involving these distinguished individual identity morphisms in C behave exactly as per the identity rules for ordinary categories.     Note that there are several distinct notions of identity being referenced here:   the monoidal identity object  of M, being an identity for ⊗ only in the ": null
+    },
+    {
+        "monoid": "monoid"
+    },
+    {
+        "-theoretic sense, and even then only up to canonical isomorphism .   the identity morphism  that M has for each of its objects by virtue of it being an ordinary category.   the enriched category identity  for each object a in C, which is again a morphism of M which, even in the case where C is deemed to have individual morphisms of its own, is not necessarily identifying a specific one.         Ordinary categories are categories enriched over , the ": null
+    },
+    {
+        "category of sets": "category of sets"
+    },
+    {
+        " with ": null
+    },
+    {
+        "Cartesian product": "cartesian product"
+    },
+    {
+        " as the monoidal operation, as noted above.   ": null
+    },
+    {
+        "42-Categories": "2-category"
+    },
+    {
+        " are categories enriched over Cat, the ": null
+    },
+    {
+        "category of small categories": "category of small categories"
+    },
+    {
+        ", with monoidal structure being given by cartesian product. In this case the 42-cells between morphisms a → b and the vertical-composition rule that relates them correspond to the morphisms of the ordinary category C and its own composition rule.   ": null
+    },
+    {
+        "Locally small categories": "locally small category"
+    },
+    {
+        " are categories enriched over , the category of ": null
+    },
+    {
+        "small sets": "small set"
+    },
+    {
+        " with Cartesian product as the monoidal operation.   ": null
+    },
+    {
+        "Locally finite categories": "locally finite category"
+    },
+    {
+        ", by analogy, are categories enriched over , the category of ": null
+    },
+    {
+        "finite set": "finite set"
+    },
+    {
+        "s with Cartesian product as the monoidal operation.   ": null
+    },
+    {
+        "Preordered set": "preordered set"
+    },
+    {
+        "s are categories enriched over a certain monoidal category, 42, consisting of two objects and a single nonidentity arrow between them that we can write as FALSE → TRUE, conjunction as the monoid operation, and TRUE as its monoidal identity. The hom-objects 42 then simply deny or affirm a particular binary relation on the given pair of objects ; for the sake of having more familiar notation we can write this relation as . The existence of the compositions and identity required for a category enriched over 42 immediately translate to the following axioms respectively   ::a ≤ b and b ≤ c ⇒ a ≤ c   ::TRUE ⇒ a ≤ a   :which are none other than the axioms for ≤ being a preorder. And since all diagrams in 42 commute, this is the sole content of the enriched category axioms for categories enriched over 42.   ": null
+    },
+    {
+        "William Lawvere": "william lawvere"
+    },
+    {
+        "s generalized metric spaces, also known as ": null
+    },
+    {
+        "pseudoquasimetric spaces": "metric pseudoquasimetrics"
+    },
+    {
+        ", are categories enriched over the nonnegative extended real numbers , where the latter is given ordinary category structure via the inverse of its usual ordering  and a monoidal structure via addition and zero . The hom-objects  are essentially distances d, and the existence of composition and identity translate to   ::d + d ≥ d   ::42 ≥ d   Categories with ": null
+    },
+    {
+        "zero morphism": "zero morphism"
+    },
+    {
+        "s are categories enriched over , the category of pointed sets with ": null
+    },
+    {
+        "smash product": "smash product"
+    },
+    {
+        " as the monoidal operation; the special point of a hom-object Hom corresponds to the zero morphism from A to B.   The category Ab of ": null
+    },
+    {
+        "abelian group": "abelian group"
+    },
+    {
+        "s and the category R-Mod of ": null
+    },
+    {
+        "modules": "module"
+    },
+    {
+        " over a commutative ": null
+    },
+    {
+        "ring": "ring"
+    },
+    {
+        ", and the category Vect of ": null
+    },
+    {
+        "vector space": "vector space"
+    },
+    {
+        "s over a given field are enriched over themselves, where the morphisms inherit the algebraic structure pointwise . More generally, ": null
+    },
+    {
+        "preadditive categories": "preadditive category"
+    },
+    {
+        " are categories enriched over  with tensor product as the monoidal operation.       If there is a ": null
+    },
+    {
+        "monoidal functor": "monoidal functor"
+    },
+    {
+        " from a monoidal category M to a monoidal category N, then any category enriched over M can be reinterpreted as a category enriched over N. Every monoidal category M has a monoidal functor M to the category of sets, so any enriched category has an underlying ordinary category. In many examples this functor is ": null
+    },
+    {
+        "faithful": "faithful functor"
+    },
+    {
+        ", so a category enriched over M can be described as an ordinary category with certain additional structure or properties.         An enriched functor is the appropriate generalization of the notion of a ": null
+    },
+    {
+        "functor": "functor"
+    },
+    {
+        " to enriched categories. Enriched functors are then maps between enriched categories which respect the enriched structure.     If C and D are M-categories , an M-enriched functor T: C → D is a map which assigns to each object of C an object of D and for each pair of objects a and b in C provides a ": null
+    },
+    {
+        "morphism": "morphism"
+    },
+    {
+        " in M T ab  : C → D between the hom-objects of C and D , satisfying enriched versions of the axioms of a functor, viz preservation of identity and composition.     Because the hom-objects need not be sets in an enriched category, one cannot speak of a particular morphism. There is no longer any notion of an identity morphism, nor of a particular composition of two morphisms. Instead, morphisms from the unit to a hom-object should be thought of as selecting an identity and morphisms from the monoidal product should be thought of as composition. The usual functorial axioms are replaced with corresponding commutative diagrams involving these morphisms.     In detail, one has that the diagram      commutes, which amounts to the equation   : T_\\circ \\operatorname_a\\operatorname_,   where I is the unit object of M. This is analogous to the rule F id F for ordinary functors. Additionally, one demands that the diagram   ": null
+    },
+    {
+        "center": "image:enrichedmult.png"
+    },
+    {
+        "   commute, which is analogous to the rule FFF": null
+    }
+]

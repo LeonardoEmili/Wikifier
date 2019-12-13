@@ -1,0 +1,311 @@
+[
+    {
+        "   TRIPOS  is a ": null
+    },
+    {
+        "computer": "computer"
+    },
+    {
+        " operating system": "operating system"
+    },
+    {
+        ". Development started in 42 at the ": null
+    },
+    {
+        "Computer Laboratory": "university of cambridge computer laboratory"
+    },
+    {
+        " of ": null
+    },
+    {
+        "Cambridge University": "university of cambridge"
+    },
+    {
+        " and it was headed by Dr. ": null
+    },
+    {
+        "Martin Richards": "martin richards"
+    },
+    {
+        ". The first version appeared in January 42 and it originally ran on a ": null
+    },
+    {
+        "PDP42": "pdp-11"
+    },
+    {
+        ". Later it was ported to the ": null
+    },
+    {
+        "Computer Automation": "computer automation"
+    },
+    {
+        " LSI42": "computer automation lsi4"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Data General": "data general"
+    },
+    {
+        " Nova": "data general nova"
+    },
+    {
+        ". Work on a ": null
+    },
+    {
+        "Motorola 42": "motorola 68000"
+    },
+    {
+        " version started in 42 at the ": null
+    },
+    {
+        "University of Bath": "university of bath"
+    },
+    {
+        ". ": null
+    },
+    {
+        "MetaComCo": "metacomco"
+    },
+    {
+        " acquired the rights to the 42 version and continued development until TRIPOS was chosen by ": null
+    },
+    {
+        "Commodore Amiga": "commodore amiga"
+    },
+    {
+        " in March 42 to form part of an operating system for their new computer; it was also used at Cambridge as part of the ": null
+    },
+    {
+        "Cambridge Distributed Computing System": "cambridge distributed computing system"
+    },
+    {
+        ".       In July 42 the ": null
+    },
+    {
+        "Amiga": "amiga"
+    },
+    {
+        " was introduced, incorporating TRIPOS in the ": null
+    },
+    {
+        "AmigaDOS": "amigados"
+    },
+    {
+        " module of ": null
+    },
+    {
+        "AmigaOS": "amigaos"
+    },
+    {
+        ". AmigaDOS included a ": null
+    },
+    {
+        "command line interface": "command line interface"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Amiga File System": "amiga old file system"
+    },
+    {
+        ". The entire AmigaDOS module was originally written in ": null
+    },
+    {
+        "BCPL": "bcpl"
+    },
+    {
+        " , the same language used to write TRIPOS. AmigaDOS would later be rewritten in C from AmigaOS 42x onwards, retaining backwards compatibility with 42x up until ": null
+    },
+    {
+        "AmigaOS 42": "amigaos 4"
+    },
+    {
+        " when AmigaDOS abandoned its BCPL legacy.       TRIPOS provided features such as ": null
+    },
+    {
+        "pre-emptive multi-tasking": "pre-emptive multi-tasking"
+    },
+    {
+        " , a hierarchical file system and multiple ": null
+    },
+    {
+        "command line interpreter": "command line interpreter"
+    },
+    {
+        "s.     The most important TRIPOS concepts have been the non-memory-management approach and message passing by means of passing pointers instead of copying message contents. Those two concepts together allowed for sending and receiving over 42 packets per second on a 42  MHz ": null
+    },
+    {
+        "Motorola": "motorola"
+    },
+    {
+        " 42": "motorola 68010"
+    },
+    {
+        " CPU.     Most of TRIPOS was implemented in ": null
+    },
+    {
+        "BCPL": "bcpl"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "kernel": "kernel"
+    },
+    {
+        " and ": null
+    },
+    {
+        "device driver": "device driver"
+    },
+    {
+        "s were implemented in ": null
+    },
+    {
+        "assembly language": "assembly language"
+    },
+    {
+        ".     One notable feature of TRIPOS/BCPL was its cultural use of shared libraries, untypical at the time, resulting in small and therefore fast loading utilities. For example, many of the standard system utilities were well below 42 Kbytes in size, compared to a typical minimum of about 42 Kbytes for functionally equivalent code on a modern Unix or Linux.     TRIPOS was ported to a number of machines, including the ": null
+    },
+    {
+        "Data General Nova 42": "data general nova"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "Computer Automation": "computer automation"
+    },
+    {
+        " LSI42": "computer automation lsi4"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Motorola 42": "motorola 68000"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Intel 42": "intel 8086"
+    },
+    {
+        "- based hardware. It included support for the ": null
+    },
+    {
+        "Cambridge Ring": "cambridge ring"
+    },
+    {
+        " local area network": "local area network"
+    },
+    {
+        ". More recently, Martin Richards produced a port of TRIPOS to run under ": null
+    },
+    {
+        "Linux": "linux"
+    },
+    {
+        ", using ": null
+    },
+    {
+        "Cintcode BCPL": "cintcode bcpl"
+    },
+    {
+        " virtual machine.     As of January 42 TRIPOS is still actively maintained by ": null
+    },
+    {
+        "Open G I Ltd.": "open g i"
+    },
+    {
+        "  in ": null
+    },
+    {
+        "Worcestershire": "worcestershire"
+    },
+    {
+        ", ": null
+    },
+    {
+        "UK": "uk"
+    },
+    {
+        ". Many British ": null
+    },
+    {
+        "insurance broker": "insurance broker"
+    },
+    {
+        "s have a Linux/Intel based TRIPOS system serving networked workstations over a ": null
+    },
+    {
+        "TCP/IP": "internet protocol suite"
+    },
+    {
+        " connection - the systems are used to run Open G Is ": null
+    },
+    {
+        "BROOMS Application suite": "brooms application suite"
+    },
+    {
+        ". Open G I have added a number of features to support the modern office such as the ability to integrate into many mainstream applications and services such as SQL server, Citrix XENAPP, terminal servers, etc.       The following list of ": null
+    },
+    {
+        "commands": "command"
+    },
+    {
+        " is supported by the TRIPOS CLI.       ": null
+    },
+    {
+        "CD": "cd"
+    },
+    {
+        " COPY": "copy"
+    },
+    {
+        " DATE": "date"
+    },
+    {
+        " DIR": "dir"
+    },
+    {
+        " DISKCOPY": "diskcopy"
+    },
+    {
+        " ECHO": "echo"
+    },
+    {
+        " FORMAT": "format"
+    },
+    {
+        " JOIN": "join"
+    },
+    {
+        " MOUNT": "mount"
+    },
+    {
+        " QUIT": "exit"
+    },
+    {
+        " RENAME": "ren"
+    },
+    {
+        " SORT": "sort"
+    },
+    {
+        " TYPE": "type"
+    },
+    {
+        "        Cintpos is an experimental interpretive version of TRIPOS which runs on the ": null
+    },
+    {
+        "Cintcode BCPL": "cintcode bcpl"
+    },
+    {
+        " virtual machine": "virtual machine"
+    }
+]

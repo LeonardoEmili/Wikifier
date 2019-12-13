@@ -1,0 +1,92 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "homogeneous relation": "homogeneous relation"
+    },
+    {
+        " R on ": null
+    },
+    {
+        "set": "set"
+    },
+    {
+        " X is antisymmetric if there is no pair of distinct elements of X each of which is related by R to the other. More formally, R is antisymmetric precisely if for all a and b in X   :if R with a  ≠  b, then R must not hold,   or, equivalently,   :if R and R, then a    b.        The ": null
+    },
+    {
+        "divisibility": "divisibility"
+    },
+    {
+        " relation on the ": null
+    },
+    {
+        "natural number": "natural number"
+    },
+    {
+        "s is an important example of an antisymmetric relation. In this context, antisymmetry means that the only way each of two numbers can be divisible by the other is if the two are, in fact, the same number; equivalently, if n and m are distinct and n is a factor of m, then m cannot be a factor of n. For example, 42 is divisible by 42 but 42 is not divisible by 42     The usual ": null
+    },
+    {
+        "order relation": "order relation"
+    },
+    {
+        " ≤ on the ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s is antisymmetric: if for two real numbers x and y both ": null
+    },
+    {
+        "inequalities": "inequality"
+    },
+    {
+        " x  ≤  y and y  ≤  x hold then x and y must be equal. Similarly, the ": null
+    },
+    {
+        "subset order": "subset order"
+    },
+    {
+        " ⊆ on the subsets of any given set is antisymmetric: given two sets A and B, if every ": null
+    },
+    {
+        "element": "element"
+    },
+    {
+        " in A also is in B and every element in B is also in A, then A and B must contain all the same elements and therefore be equal:   : A \\subseteq B \\land B \\subseteq A \\Rightarrow A B     ": null
+    },
+    {
+        "Partial": "partial order"
+    },
+    {
+        " and ": null
+    },
+    {
+        "total order": "total order"
+    },
+    {
+        "s are antisymmetric by definition. A relation can be both ": null
+    },
+    {
+        "symmetric": "symmetric relation"
+    },
+    {
+        " and antisymmetric , and there are relations which are neither symmetric nor antisymmetric .     Antisymmetry is different from ": null
+    },
+    {
+        "asymmetry": "asymmetric relation"
+    },
+    {
+        ", which requires both antisymmetry and ": null
+    },
+    {
+        "irreflexivity": "reflexive relation"
+    }
+]

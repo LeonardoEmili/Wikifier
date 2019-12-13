@@ -1,0 +1,164 @@
+[
+    {
+        "The gas laws were developed at the end of the 42th century, when scientists began to realize that relationships between ": null
+    },
+    {
+        "pressure": "pressure"
+    },
+    {
+        ", ": null
+    },
+    {
+        "volume": "volume"
+    },
+    {
+        " and ": null
+    },
+    {
+        "temperature": "temperature"
+    },
+    {
+        " of a sample of ": null
+    },
+    {
+        "gas": "gas"
+    },
+    {
+        " could be obtained which would hold to approximation for all gases.          In 42 Robert Boyle studied the relationship between volume and pressure of a gas of fixed amount at constant temperature. He observed that volume of a given mass of a gas is inversely proportional to its pressure at a constant temperature.   Boyles law, published in 42 states that, at constant temperature, the product of the pressure and volume of a given mass of an ": null
+    },
+    {
+        "ideal gas": "ideal gas"
+    },
+    {
+        " in a closed system is always constant. It can be verified experimentally using a pressure gauge and a variable volume container. It can also be derived from the kinetic theory of gases: if a container, with a fixed number of molecules inside, is reduced in volume, more molecules will strike a given area of the sides of the container per unit time, causing a greater pressure.     A statement of Boyles law is as follows:     :The volume of a given mass of a gas is inversely related to pressure when the temperature is constant.     The concept can be represented with these formulae:     : V \\propto \\frac , meaning Volume is inversely proportional to Pressure , or   : P \\propto \\frac , meaning Pressure is inversely proportional to Volume , or   : PVk_42 , or   : P_42 V_42P_42 V_42\\,     :where P is the pressure, and V is the volume of a gas, and k 42 is the constant in this equation .          Charless law, or the law of volumes, was found in 42 by Jacques Charles. It states that, for a given mass of an ideal gas at constant pressure, the volume is directly proportional to its ": null
+    },
+    {
+        "absolute temperature": "absolute temperature"
+    },
+    {
+        ", assuming in a closed system.     The statement of Charless law is as follows:   the volume of a given mass of a gas, at constant pressure , is directly proportional to its temperature .   As a mathematical equation, Charless law is written as either:   : V \\propto T\\, , or   : V/Tk_42 , or   : V_42/T_42V_42/T_42 ,     where  V  is the volume of a gas,  T  is the absolute temperature and k 42 is a proportionality constant .          Gay-Lussacs law, Amontons law or the pressure law was found by ": null
+    },
+    {
+        "Joseph Louis Gay-Lussac": "joseph louis gay-lussac"
+    },
+    {
+        " in 42 It states that, for a given mass and constant volume of an ideal gas, the pressure exerted on the sides of its container is directly proportional to its ": null
+    },
+    {
+        "absolute temperature": "absolute temperature"
+    },
+    {
+        ".     As a mathematical equation, Gay-Lussacs law is written as either:     : P \\propto T\\, , or     : P/Tk , or     : P_42/T_42P_42/T_42 ,     :where P is the pressure, T is the absolute temperature, and k is another proportionality constant.            Avogadros law states that the volume occupied by an ideal gas is directly proportional to the number of molecules of the gas present in the container. This gives rise to the ": null
+    },
+    {
+        "molar volume": "molar volume"
+    },
+    {
+        " of a gas, which at ": null
+    },
+    {
+        "STP": "standard conditions for temperature and pressure"
+    },
+    {
+        " is about 42  L. The relation is given by     : \\frac\\frac \\,     :where n is equal to the number of molecules of gas .             The ": null
+    },
+    {
+        "Combined gas law": "combined gas law"
+    },
+    {
+        " or General Gas Equation is obtained by combining Boyles Law, Charless law, and Gay-Lussacs Law. It shows the relationship between the pressure, volume, and temperature for a fixed mass of gas:     : PV k_42T \\,     This can also be written as:     : \\qquad \\frac \\frac     With the addition of ": null
+    },
+    {
+        "Avogadros law": "avogadros law"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "combined gas law": "combined gas law"
+    },
+    {
+        " develops into the ": null
+    },
+    {
+        "ideal gas law": "ideal gas law"
+    },
+    {
+        ":     : PV nRT \\,     :where     :P is pressure   :V is volume   :n is the number of moles   :R is the universal gas constant   :T is temperature     :where the proportionality constant, now named R, is the ": null
+    },
+    {
+        "universal gas constant": "universal gas constant"
+    },
+    {
+        " with a value of 42 /. An equivalent formulation of this law is:     : PV kNT \\,     :where     :P is the pressure   :V is the volume   :N is the number of gas molecules   :k is the ": null
+    },
+    {
+        "Boltzmann constant": "boltzmann constant"
+    },
+    {
+        "   :T is the temperature     These equations are exact only for an ": null
+    },
+    {
+        "ideal gas": "ideal gas"
+    },
+    {
+        ", which neglects various intermolecular effects . However, the ideal gas law is a good approximation for most gases under moderate pressure and temperature.     This law has the following important consequences:   If temperature and pressure are kept constant, then the volume of the gas is directly proportional to the number of molecules of gas.   If the temperature and volume remain constant, then the pressure of the gas changes is directly proportional to the number of molecules of gas present.   If the number of gas molecules and the temperature remain constant, then the pressure is inversely proportional to the volume.   If the temperature changes and the number of gas molecules are kept constant, then either pressure or volume will change in direct proportion to the temperature.       ": null
+    },
+    {
+        "Grahams law": "grahams law"
+    },
+    {
+        " states that the rate at which gas molecules ": null
+    },
+    {
+        "diffuse": "diffusion"
+    },
+    {
+        " is inversely proportional to the square root of its density at constant temperature. Combined with Avogadros law this is the same as being inversely proportional to the root of the molecular weight.   ": null
+    },
+    {
+        "Daltons law": "daltons law"
+    },
+    {
+        " of ": null
+    },
+    {
+        "partial pressures": "partial pressures"
+    },
+    {
+        " states that the pressure of a mixture of gases simply is the sum of the ": null
+    },
+    {
+        "partial pressures": "partial pressures"
+    },
+    {
+        " of the individual components. Daltons law is as follows:     : P_ P_42 + P_42 + P_42 + ... + P_n \\equiv \\sum_^n P_i \\, ,     or     : P_\\mathrm P_\\mathrm + P_\\mathrm \\,     :where P Total is the total pressure of the atmosphere,   :P Gas is the pressure of the gas mixture in the atmosphere,   :and P H 42 O is the water pressure at that temperature.     ": null
+    },
+    {
+        "Amagats law": "amagats law"
+    },
+    {
+        " of ": null
+    },
+    {
+        "partial volume": "partial gas volume"
+    },
+    {
+        " states that the volume of a mixture of gases simply is the sum of the partial volumes of the individual components. Amagats law is as follows:     : V_ V_42 + V_42 + V_42 + ... + V_n \\equiv \\sum_^n V_i \\, ,     :where V Total is the total volume of the gas mixture, or the volume of the container,   :V i is the partial volume of the gas in the gas mixture at that pressure and that temperature.     ": null
+    },
+    {
+        "Henrys law": "henrys law"
+    },
+    {
+        " states that:   :At constant temperature, the amount of a given gas dissolved in a given type and volume of liquid is directly proportional to the partial pressure of that gas in equilibrium with that liquid.     : p k_\\, c     ": null
+    },
+    {
+        "Real gas law": "real gas law"
+    },
+    {
+        ", formulated by ": null
+    },
+    {
+        "Johannes Diderik van der Waals": "johannes diderik van der waals"
+    }
+]

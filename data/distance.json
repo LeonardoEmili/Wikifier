@@ -1,0 +1,563 @@
+[
+    {
+        "     Distance is a numerical ": null
+    },
+    {
+        "measurement": "measurement"
+    },
+    {
+        " of how far apart objects or points are. In ": null
+    },
+    {
+        "physics": "physics"
+    },
+    {
+        " or everyday usage, distance may refer to a physical ": null
+    },
+    {
+        "length": "length"
+    },
+    {
+        " or an estimation based on other criteria . In most cases, distance from A to B is interchangeable with distance from B to A . In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a distance function or ": null
+    },
+    {
+        "metric": "metric"
+    },
+    {
+        " is a generalization of the concept of physical distance. A metric is a function that behaves according to a specific set of rules, and is a way of describing what it means for elements of some space to be close to or far away from each other.                   A physical distance can mean several different things:   Distance Travelled: The length of a specific path travelled between two points, such as the distance walked while navigating a maze   Straight-Line Distance: The length of the shortest possible path through space, between two points, that could be taken if there were no obstacles    Geodesic Distance: The length of the shortest path between two points while remaining on some surface, such as the ": null
+    },
+    {
+        "great-circle distance": "great-circle distance"
+    },
+    {
+        " along the ": null
+    },
+    {
+        "curve of the Earth": "figure of the earth"
+    },
+    {
+        " orbit": "orbit"
+    },
+    {
+        ".        Circular distance is the distance traveled by a wheel, which can be useful when designing vehicles or mechanical gears. The circumference of the wheel is 42 & pi;   & times;  radius, and assuming the radius to be  42 then each revolution of the wheel is equivalent of the distance 42 & pi; radians. In engineering  & omega;    42 & pi; & fnof; is often used, where  & fnof; is the ": null
+    },
+    {
+        "frequency": "frequency"
+    },
+    {
+        ".     Unusual definitions of distance can be helpful to model certain physical situations, but are also used in theoretical mathematics:   ": null
+    },
+    {
+        "Manhattan distance": "manhattan distance"
+    },
+    {
+        " is a rectilinear distance, named after the number of blocks north, south, east, or west a taxicab must travel on to reach its destination on the grid of streets in parts of New York City.   Chessboard distance , formalized as ": null
+    },
+    {
+        "Chebyshev distance": "chebyshev distance"
+    },
+    {
+        ", is the minimum number of moves a king must make on a ": null
+    },
+    {
+        "chessboard": "chessboard"
+    },
+    {
+        " to travel between two squares.     ": null
+    },
+    {
+        "Distance measures in cosmology": "distance measures"
+    },
+    {
+        " are complicated by the ": null
+    },
+    {
+        "expansion of the universe": "expansion of the universe"
+    },
+    {
+        ", and by effects described by the ": null
+    },
+    {
+        "theory of relativity": "theory of relativity"
+    },
+    {
+        " such as ": null
+    },
+    {
+        "length contraction": "length contraction"
+    },
+    {
+        " of moving objects.         The term distance is also used by analogy to measure non-physical entities in certain ways.     In computer science, there is the notion of the ": null
+    },
+    {
+        "edit distance": "edit distance"
+    },
+    {
+        " between two strings. For example, the words dog and dot , which vary by only one letter, are closer than dog and cat , which differ by three letters. This idea is used in ": null
+    },
+    {
+        "spell checker": "spell checker"
+    },
+    {
+        "s and in ": null
+    },
+    {
+        "coding theory": "coding theory"
+    },
+    {
+        ", and is mathematically formalized in several different ways, such as:   ": null
+    },
+    {
+        "Levenshtein distance": "levenshtein distance"
+    },
+    {
+        " Hamming distance": "hamming distance"
+    },
+    {
+        " Lee distance": "lee distance"
+    },
+    {
+        " Jaro–Winkler distance": "jaro–winkler distance"
+    },
+    {
+        "     In mathematics, a ": null
+    },
+    {
+        "metric space": "metric space"
+    },
+    {
+        " is a set for which distances between all members of the set are defined. In this way, many different types of distances can be calculated, such as for traversal of graphs, comparison of distributions and curves, and using unusual definitions of space . The notion of ": null
+    },
+    {
+        "distance in graph theory": "distance"
+    },
+    {
+        " has been used to describe ": null
+    },
+    {
+        "social network": "social network"
+    },
+    {
+        "s, for example with the ": null
+    },
+    {
+        "Erdős number": "erdős number"
+    },
+    {
+        " or the ": null
+    },
+    {
+        "Bacon number": "bacon number"
+    },
+    {
+        ", the number of collaborative relationships away a person is from prolific mathematician ": null
+    },
+    {
+        "Paul Erdős": "paul erdős"
+    },
+    {
+        " or actor ": null
+    },
+    {
+        "Kevin Bacon": "kevin bacon"
+    },
+    {
+        ", respectively.     In psychology, human geography, and the social sciences, distance is often theorized not as an objective metric, but as a subjective experience.          Both distance and displacement measure the movement of an object. Distance cannot be ": null
+    },
+    {
+        "negative": "negative number"
+    },
+    {
+        ", and never decreases. Distance is a ": null
+    },
+    {
+        "scalar": "scalar"
+    },
+    {
+        " quantity, or a ": null
+    },
+    {
+        "magnitude": "magnitude"
+    },
+    {
+        ". Whereas ": null
+    },
+    {
+        "displacement": "displacement"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "vector": "vector"
+    },
+    {
+        " quantity with both magnitude and ": null
+    },
+    {
+        "direction": "direction"
+    },
+    {
+        ". It can be negative, zero, or positive. Directed distance does not measure movement, it measures the separation of two points, and can be a positive, zero, or negative vector.      The distance covered by a vehicle , person, animal, or object along a curved path from a point A to a point B should be distinguished from the straight-line distance from A to B. For example, whatever the distance covered during a round trip from A to B and back to A, the displacement is zero as start and end points coincide. In general the straight-line distance does not equal distance travelled, except for journeys in a straight line.         Directed distances can be determined along straight lines and along curved lines.     Directed distances along straight lines are vectors that give the distance and direction between a starting point and an ending point. A directed distance of a point C from point A in the direction of B on a line AB in a ": null
+    },
+    {
+        "Euclidean vector space": "euclidean vector space"
+    },
+    {
+        " is the distance from A to C if C falls on the ray AB, but is the negative of that distance if C falls on the ray BA . For example, the directed distance from the New York City Main Library flag pole to the Statue of Liberty flag pole has:   a starting point: library flag pole   an ending point: statue flag pole   a direction: 42°   a distance: 42 km     Another kind of directed distance is that between two different particles or point masses at a given time. For instance, the distance from the ": null
+    },
+    {
+        "center of gravity": "center of gravity"
+    },
+    {
+        " of the Earth A and the center of gravity of the Moon B  falls into this category.     A directed distance along a curved line is not a vector and is represented by a segment of that curved line defined by endpoints A and B, with some specific information indicating the sense of an ideal or real motion from one endpoint of the segment to the other . For instance, just labelling the two endpoints as A and B can indicate the sense, if the ordered sequence  is assumed, which implies that A is the starting point.         A displacement is a special kind of directed distance defined in ": null
+    },
+    {
+        "mechanics": "mechanics"
+    },
+    {
+        ". A directed distance is called displacement when it is the distance along a straight line from A and B, and when A and B are positions occupied by the same particle at two different instants of time. This implies ": null
+    },
+    {
+        "motion": "motion"
+    },
+    {
+        " of the particle. The distance traveled by a particle must always be greater than or equal to its displacement, with equality occurring only when the particle moves along a straight path.              In ": null
+    },
+    {
+        "analytic geometry": "analytic geometry"
+    },
+    {
+        ", the distance between two points of the ": null
+    },
+    {
+        "xy-plane": "cartesian coordinate system"
+    },
+    {
+        " can be found using the distance formula. The distance between  and  is given by:   : d\\sqrt\\sqrt.   Similarly, given points  and  in ": null
+    },
+    {
+        "three-space": "cartesian coordinate system"
+    },
+    {
+        ", the distance between them is:   : d\\sqrt\\sqrt.   These formula are easily derived by constructing a right triangle with a leg on the ": null
+    },
+    {
+        "hypotenuse": "hypotenuse"
+    },
+    {
+        " of another  and applying the ": null
+    },
+    {
+        "Pythagorean theorem": "pythagorean theorem"
+    },
+    {
+        ".   In the study of complicated geometries, we call this type of distance ": null
+    },
+    {
+        "Euclidean distance": "euclidean distance"
+    },
+    {
+        ", as it is derived from the ": null
+    },
+    {
+        "Pythagorean theorem": "pythagorean theorem"
+    },
+    {
+        ", which does not hold in ": null
+    },
+    {
+        "non-Euclidean geometries": "non-euclidean geometry"
+    },
+    {
+        ". This distance ": null
+    },
+    {
+        "formula": "formula"
+    },
+    {
+        " can also be expanded into the ": null
+    },
+    {
+        "arc-length formula": "arc length"
+    },
+    {
+        ".       In the ": null
+    },
+    {
+        "Euclidean space": "euclidean space"
+    },
+    {
+        " R n , the distance between two points is usually given by the ": null
+    },
+    {
+        "Euclidean distance": "euclidean distance"
+    },
+    {
+        " . Other distances, based on other ": null
+    },
+    {
+        "norms": "norm"
+    },
+    {
+        ", are sometimes used instead.     For a point  and a point , the  Minkowski distance  of order p  is defined as:        p need not be an integer, but it cannot be less than 42 because otherwise the ": null
+    },
+    {
+        "triangle inequality": "triangle inequality"
+    },
+    {
+        " does not hold.     The 42-norm distance is the ": null
+    },
+    {
+        "Euclidean distance": "euclidean distance"
+    },
+    {
+        ", a generalization of the ": null
+    },
+    {
+        "Pythagorean theorem": "pythagorean theorem"
+    },
+    {
+        " to more than two ": null
+    },
+    {
+        "coordinates": "coordinates"
+    },
+    {
+        ". It is what would be obtained if the distance between two points were measured with a ": null
+    },
+    {
+        "ruler": "ruler"
+    },
+    {
+        ": the intuitive idea of distance.     The 42-norm distance is more colourfully called the taxicab norm or  Manhattan distance , because it is the distance a car would drive in a city laid out in square blocks .     The infinity norm distance is also called ": null
+    },
+    {
+        "Chebyshev distance": "chebyshev distance"
+    },
+    {
+        ". In 42D, it is the minimum number of moves ": null
+    },
+    {
+        "king": "king"
+    },
+    {
+        "s require to travel between two squares on a ": null
+    },
+    {
+        "chessboard": "chessboard"
+    },
+    {
+        ".     The p-norm is rarely used for values of p other than 42 42 and infinity, but see ": null
+    },
+    {
+        "super ellipse": "super ellipse"
+    },
+    {
+        ".     In physical space the Euclidean distance is in a way the most natural one, because in this case the length of a ": null
+    },
+    {
+        "rigid body": "rigid body"
+    },
+    {
+        " does not change with ": null
+    },
+    {
+        "rotation": "rotation"
+    },
+    {
+        ".       The Euclidean distance between two points in space may be written in a ": null
+    },
+    {
+        "variational": "calculus of variations"
+    },
+    {
+        " form where the distance is the minimum value of an integral:     :   D \\int_42^T \\sqrt \\, dt       Here \\vec is the trajectory between the two points. The value of the integral represents the length of this trajectory. The distance is the minimal value of this integral and is obtained when r r^ where r^ is the optimal trajectory. In the familiar Euclidean case this optimal trajectory is simply a straight line. It is well known that the shortest path between two points is a straight line. Straight lines can formally be obtained by solving the ": null
+    },
+    {
+        "Euler–Lagrange equations": "euler–lagrange equations"
+    },
+    {
+        " for the above ": null
+    },
+    {
+        "functional": "functional"
+    },
+    {
+        ". In ": null
+    },
+    {
+        "non-Euclidean": "non-euclidean geometry"
+    },
+    {
+        " manifolds where the nature of the space is represented by a ": null
+    },
+    {
+        "metric tensor": "metric tensor"
+    },
+    {
+        " g_ the integrand has to be modified to \\sqrt , where ": null
+    },
+    {
+        "Einstein summation convention": "einstein summation convention"
+    },
+    {
+        " has been used.       The Euclidean distance between two objects may also be generalized to the case where the objects are no longer points but are higher-dimensional ": null
+    },
+    {
+        "manifolds": "manifolds"
+    },
+    {
+        ", such as space curves, so in addition to talking about distance between two points one can discuss concepts of distance between two strings. Since the new objects that are dealt with are extended objects additional concepts such as non-extensibility, ": null
+    },
+    {
+        "curvature": "curvature"
+    },
+    {
+        " constraints, and non-local interactions that enforce non-crossing become central to the notion of distance. The distance between the two manifolds is the ": null
+    },
+    {
+        "scalar quantity": "scalar"
+    },
+    {
+        " that results from minimizing the generalized distance functional, which represents a transformation between the two manifolds:     :   \\mathcal \\int_42^L\\int_42^T \\left \\ \\, ds \\, dt       The above double integral is the generalized distance functional between two polymer conformation. s is a spatial parameter and t is pseudo-time. This means that \\vec is the polymer/string conformation at time t_i and is parameterized along the string length by s . Similarly \\vec is the trajectory of an infinitesimal segment of the string during transformation of the entire string from conformation \\vec to conformation \\vec . The term with cofactor \\lambda is a ": null
+    },
+    {
+        "Lagrange multiplier": "lagrange multiplier"
+    },
+    {
+        " and its role is to ensure that the length of the polymer remains the same during the transformation. If two discrete polymers are inextensible, then the minimal-distance transformation between them no longer involves purely straight-line motion, even on a Euclidean metric. There is a potential application of such generalized distance to the problem of ": null
+    },
+    {
+        "protein folding": "protein folding"
+    },
+    {
+        " SS Plotkin, PNAS.42; 42: 42–42 AR Mohazab, SS Plotkin, Minimal Folding Pathways for Coarse-Grained Biopolymer Fragments Biophysical Journal, Volume 42 Issue 42 Pages 42–42   This generalized distance is analogous to the ": null
+    },
+    {
+        "Nambu–Goto action": "nambu–goto action"
+    },
+    {
+        " in ": null
+    },
+    {
+        "string theory": "string theory"
+    },
+    {
+        ", however there is no exact correspondence because the Euclidean distance in 42-space is inequivalent to the spacetime distance minimized for the classical relativistic string.          This is a metric often used in ": null
+    },
+    {
+        "computer vision": "computer vision"
+    },
+    {
+        " that can be minimized by ": null
+    },
+    {
+        "least squares": "least squares"
+    },
+    {
+        " estimation.  For curves or surfaces given by the equation x^\\text C x42 , the algebraic distance from the point x to the curve is simply x^\\text C x .   It may serve as an initial guess for ": null
+    },
+    {
+        "geometric distance": "geometric distance"
+    },
+    {
+        " to refine estimations of the curve by more accurate methods, such as ": null
+    },
+    {
+        "non-linear least squares": "non-linear least squares"
+    },
+    {
+        ".       In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", in particular ": null
+    },
+    {
+        "geometry": "geometry"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "distance function": "metric"
+    },
+    {
+        " on a given ": null
+    },
+    {
+        "set": "set"
+    },
+    {
+        " M is a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " , where R denotes the set of ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s, that satisfies the following conditions:   , and  ": null
+    },
+    {
+        "if and only if": "if and only if"
+    },
+    {
+        " .   It is ": null
+    },
+    {
+        "symmetric": "symmetric relation"
+    },
+    {
+        ": .    It satisfies the ": null
+    },
+    {
+        "triangle inequality": "triangle inequality"
+    },
+    {
+        ": . . Such a distance function is known as a ": null
+    },
+    {
+        "metric": "metric"
+    },
+    {
+        ". Together with the set, it makes up a ": null
+    },
+    {
+        "metric space": "metric space"
+    },
+    {
+        ".     For example, the usual definition of distance between two real numbers x and y is: . This definition satisfies the three conditions above, and corresponds to the standard ": null
+    },
+    {
+        "topology": "topology"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "real line": "real line"
+    },
+    {
+        ". But distance on a given set is a definitional choice. Another possible choice is to define:  if , and 42 otherwise. This also defines a metric, but gives a completely different topology, the ": null
+    },
+    {
+        "discrete topology": "discrete topology"
+    },
+    {
+        " ; with this definition numbers cannot be arbitrarily close.        math /math ": null
+    }
+]

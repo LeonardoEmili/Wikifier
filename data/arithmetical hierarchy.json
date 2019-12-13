@@ -1,0 +1,221 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "mathematical logic": "mathematical logic"
+    },
+    {
+        ", the arithmetical hierarchy, arithmetic hierarchy or  Kleene – Mostowski hierarchy classifies certain ": null
+    },
+    {
+        "sets": "set"
+    },
+    {
+        " based on the ": null
+    },
+    {
+        "complexity": "complexity"
+    },
+    {
+        " of formulas that define them. Any set that receives a classification is called arithmetical.     The arithmetical hierarchy is important in ": null
+    },
+    {
+        "recursion theory": "recursion theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "effective descriptive set theory": "effective descriptive set theory"
+    },
+    {
+        ", and the study of formal theories such as ": null
+    },
+    {
+        "Peano arithmetic": "peano arithmetic"
+    },
+    {
+        ".     The ": null
+    },
+    {
+        "Tarski–Kuratowski algorithm": "tarski–kuratowski algorithm"
+    },
+    {
+        " provides an easy way to get an upper bound on the classifications assigned to a formula and the set it defines.     The ": null
+    },
+    {
+        "hyperarithmetical hierarchy": "hyperarithmetical hierarchy"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "analytical hierarchy": "analytical hierarchy"
+    },
+    {
+        " extend the arithmetical hierarchy to classify additional formulas and sets.         The arithmetical hierarchy assigns classifications to the formulas in the language of ": null
+    },
+    {
+        "first-order arithmetic": "peano axiomsfirst-order theory of arithmetic"
+    },
+    {
+        ". The classifications are denoted \\Sigma^42_n and \\Pi^42_n for natural numbers n . The Greek letters here are ": null
+    },
+    {
+        "lightface": "lightface"
+    },
+    {
+        " symbols, which indicates that the formulas do not contain set parameters.     If a formula \\phi is logically equivalent to a formula with only ": null
+    },
+    {
+        "bounded quantifier": "bounded quantifier"
+    },
+    {
+        "s then \\phi is assigned the classifications \\Sigma^42_42 and \\Pi^42_42 .     The classifications \\Sigma^42_n and \\Pi^42_n are defined inductively for every natural number n using the following rules:   If \\phi is logically equivalent to a formula of the form \\exists n_42 \\exists n_42\\cdots \\exists n_k \\psi , where \\psi is \\Pi^42_n , then \\phi is assigned the classification \\Sigma^42_ .   If \\phi is logically equivalent to a formula of the form \\forall n_42 \\forall n_42\\cdots \\forall n_k \\psi , where \\psi is \\Sigma^42_n , then \\phi is assigned the classification \\Pi^42_ .   Also, a \\Sigma^42_n formula is equivalent to a formula that begins with some ": null
+    },
+    {
+        "existential quantifier": "existential quantifier"
+    },
+    {
+        "s and alternates n42 times between series of existential and ": null
+    },
+    {
+        "universal quantifier": "universal quantifier"
+    },
+    {
+        "s; while a \\Pi^42_n formula is equivalent to a formula that begins with some universal quantifiers and alternates similarly.     Because every formula is equivalent to a formula in ": null
+    },
+    {
+        "prenex normal form": "prenex normal form"
+    },
+    {
+        ", every formula with no set quantifiers is assigned at least one classification. Because redundant quantifiers can be added to any formula, once a formula is assigned the classification \\Sigma^42_n or \\Pi^42_n it will be assigned the classifications \\Sigma^42_m and \\Pi^42_m for every m greater than n. The most important classification assigned to a formula is thus the one with the least n, because this is enough to determine all the other classifications.         A set X of natural numbers is defined by formula & phi; in the language of ": null
+    },
+    {
+        "Peano arithmetic": "peano arithmetic"
+    },
+    {
+        " , if the elements of X are exactly the numbers that satisfy & phi;. That is, for all natural numbers n,   : n \\in X \\Leftrightarrow \\mathbb \\models \\varphi,   where \\underline n is the numeral in the language of arithmetic corresponding to n . A set is definable in first-order arithmetic if it is defined by some formula in the language of Peano arithmetic.     Each set X of natural numbers that is definable in first-order arithmetic is assigned classifications of the form \\Sigma^42_n , \\Pi^42_n , and \\Delta^42_n , where n is a natural number, as follows. If X is definable by a \\Sigma^42_n formula then X is assigned the classification \\Sigma^42_n . If X is definable by a \\Pi^42_n formula then X is assigned the classification \\Pi^42_n . If X is both \\Sigma^42_n and \\Pi^42_n then X is assigned the additional classification \\Delta^42_n .     Note that it rarely makes sense to speak of \\Delta^42_n formulas; the first quantifier of a formula is either existential or universal. So a \\Delta^42_n set is not defined by a \\Delta^42_n formula; rather, there are both \\Sigma^42_n and \\Pi^42_n formulas that define the set.     A parallel definition is used to define the arithmetical hierarchy on finite ": null
+    },
+    {
+        "Cartesian power": "cartesian power"
+    },
+    {
+        "s of the set of natural numbers. Instead of formulas with one free variable, formulas with k free number variables are used to define the arithmetical hierarchy on sets of k-": null
+    },
+    {
+        "tuple": "tuple"
+    },
+    {
+        "s of natural numbers. These are in fact related by the use of a ": null
+    },
+    {
+        "pairing function": "pairing function"
+    },
+    {
+        ".         Just as we can define what it means for a set X to be ": null
+    },
+    {
+        "recursive": "recursive set"
+    },
+    {
+        " relative to another set Y by allowing the computation defining X to consult Y as an oracle we can extend this notion to the whole arithmetic hierarchy and define what it means for X to be \\Sigma^42_n , \\Delta^42_n or \\Pi^42_n in Y, denoted respectively \\Sigma^_n \\Delta^_n and \\Pi^_n . To do so, fix a set of integers Y and add a predicate for membership in Y to the language of Peano arithmetic. We then say that X is in \\Sigma^_n if it is defined by a \\Sigma^42_n formula in this expanded language. In other words, X is \\Sigma^_n if it is defined by a \\Sigma^_n formula allowed to ask questions about membership in Y. Alternatively one can view the \\Sigma^_n sets as those sets that can be built starting with sets recursive in Y and alternately taking ": null
+    },
+    {
+        "unions": "union"
+    },
+    {
+        " and ": null
+    },
+    {
+        "intersections": "intersection"
+    },
+    {
+        " of these sets up to n times.     For example, let Y be a set of integers. Let X be the set of numbers divisible by an element of Y. Then X is defined by the formula \\phi\\exists m \\exists t so X is in \\Sigma^_42 .         Arithmetical reducibility is an intermediate notion between ": null
+    },
+    {
+        "Turing reducibility": "turing reducibility"
+    },
+    {
+        " and ": null
+    },
+    {
+        "hyperarithmetic reducibility": "hyperarithmetic reducibility"
+    },
+    {
+        ".     A set is arithmetical  if it is defined by some formula in the language of Peano arithmetic. Equivalently X is arithmetical if X is \\Sigma^42_n or \\Pi^42_n for some integer n. A set X is arithmetical in a set Y, denoted X \\leq_A Y , if X is definable a some formula in the language of Peano arithmetic extended by a predicate for membership in Y. Equivalently, X is arithmetical in Y if X is in \\Sigma^_n or \\Pi^_n for some integer n. A synonym for X \\leq_A Y is: X is arithmetically reducible to Y.     The relation X \\leq_A Y is reflexive and transitive, and thus the relation \\equiv_A defined by the rule     : X \\equiv_A Y \\Leftrightarrow X \\leq_A Y \\land Y \\leq_A X   is an equivalence relation. The equivalence classes of this relation are called the arithmetic degrees; they are partially ordered under \\leq_A .         The ": null
+    },
+    {
+        "Cantor space": "cantor space"
+    },
+    {
+        ", denoted 42^ , is the set of all infinite sequences of 42s and 42s; the ": null
+    },
+    {
+        "Baire space": "baire space"
+    },
+    {
+        ", denoted \\omega^ or \\mathcal , is the set of all infinite sequences of natural numbers. Note that elements of the Cantor space can be identified with sets of integers and elements of the Baire space with functions from integers to integers.     The ordinary axiomatization of ": null
+    },
+    {
+        "second-order arithmetic": "second-order arithmetic"
+    },
+    {
+        " uses a set-based language in which the set quantifiers can naturally be viewed as quantifying over Cantor space. A subset of Cantor space is assigned the classification \\Sigma^42_n if it is definable by a \\Sigma^42_n formula. The set is assigned the classification \\Pi^42_n if it is definable by a \\Pi^42_n formula. If the set is both \\Sigma^42_n and \\Pi^42_n then it is given the additional classification \\Delta^42_n . For example, let O\\subset 42^ be the set of all infinite binary strings which arent all 42 . As O\\ we see that O is defined by a \\Sigma^42_42 formula and hence is a \\Sigma^42_42 set.     Note that while both the elements of the Cantor space and subsets of the Cantor space are classified in arithmetic hierarchies, these are not the same hierarchy. In fact the relationship between the two hierarchies is interesting and non-trivial. For instance the \\Pi^42_n elements of the Cantor space are not the same as the elements X of the Cantor space so that \\ is a \\Pi^42_n subset of the Cantor space. However, many interesting results relate the two hierarchies.     There are two ways that a subset of Baire space can be classified in the arithmetical hierarchy.   A subset of Baire space has a corresponding subset of Cantor space under the map that takes each function from \\omega to \\omega to the ": null
+    },
+    {
+        "characteristic function": "indicator function"
+    },
+    {
+        " of its graph. A subset of Baire space is given the classification \\Sigma^42_n , \\Pi^42_n , or \\Delta^42_n if and only if the corresponding subset of Cantor space has the same classification.   An equivalent definition of the analytical hierarchy on Baire space is given by defining the analytical hierarchy of formulas using a functional version of second-order arithmetic; then the analytical hierarchy on subsets of Cantor space can be defined from the hierarchy on Baire space. This alternate definition gives exactly the same classifications as the first definition.     A parallel definition is used to define the arithmetical hierarchy on finite Cartesian powers of Baire space or Cantor space, using formulas with several free variables. The arithmetical hierarchy can be defined on any ": null
+    },
+    {
+        "effective Polish space": "effective polish space"
+    },
+    {
+        "; the definition is particularly simple for Cantor space and Baire space because they fit with the language of ordinary second-order arithmetic.     Note that we can also define the arithmetic hierarchy of subsets of the Cantor and Baire spaces relative to some set of integers. In fact boldface \\mathbf^42_n is just the union of \\Sigma^_n for all sets of integers Y. Note that the boldface hierarchy is just the standard hierarchy of ": null
+    },
+    {
+        "Borel sets": "borel hierarchy"
+    },
+    {
+        ".         It is possible to define the arithmetical hierarchy of formulas using a language extended with a function symbol for each ": null
+    },
+    {
+        "primitive recursive function": "primitive recursive function"
+    },
+    {
+        ". This variation slightly changes the classification of \\Sigma^42_42\\Pi^42_42\\Delta^42_42 , since ": null
+    },
+    {
+        "using primitive recursive functions in first-order Peano arithmetic": "primitive recursive functionuse in first-order peano arithmetic"
+    },
+    {
+        " requires, in general, an unbounded existential quantifier, and thus some sets that are in \\Sigma^42_42 by this definition are in \\Sigma^42_42 by the definition given in the beginning of this article. \\Sigma^42_42 and thus all higher classes in the hierarchy remain unaffected.     A more semantic variation of the hierarchy can be defined on all finitary relations on the natural numbers; the following definition is used. Every computable relation is defined to be \\Sigma^42_42\\Pi^42_42\\Delta^42_42 . The classifications \\Sigma^42_n and \\Pi^42_n are defined inductively with the following rules.   If the relation R\\, is \\Sigma^42_n then the relation S \\forall m_42\\cdots \\forall m_k R is defined to be \\Pi^42_   If the relation R\\, is \\Pi^42_n then the relation S \\exists m_42\\cdots \\exists m_k R is defined to be \\Sigma^42_   This variation slightly changes the classification of some sets. In particular, \\Sigma^42_42\\Pi^42_42\\Delta^42_42 , as a class of sets , is identical to \\Delta^42_42 as the latter was formerly defined. It can be extended to cover finitary relations on the natural numbers, Baire space, and Cantor space.         The following meanings can be attached to the notation for the arithmetical hierarchy on formulas.     The subscript n in the symbols \\Sigma^42_n and \\Pi^42_n indicates the number of alternations of blocks of universal and existential number quantifiers that are used in a formula. Moreover, the outermost block is existential in \\Sigma^42_n formulas and universal in \\Pi^42_n formulas.     The superscript 42 in the symbols \\Sigma^42_n , \\Pi^42_n , and \\Delta^42_n indicates the type of the objects being quantified over. Type 42 objects are natural numbers, and objects of type i42 are functions that map the set of objects of type i to the natural numbers. Quantification over higher type objects, such as functions from natural numbers to natural numbers, is described by a superscript greater than 42 as in the ": null
+    },
+    {
+        "analytical hierarchy": "analytical hierarchy"
+    },
+    {
+        ". The superscript 42 indicates quantifiers over numbers, the superscript 42 would indicate quantification over functions from numbers to numbers , the superscript 42 would correspond to quantification over functions that take a type 42 object and return a number, and so on.         The \\Sigma^42_42 sets of numbers are those definable by a formula of the form \\exists n_42 \\cdots \\exists n_k \\psi where \\psi has only bounded quantifiers. These are exactly the ": null
+    },
+    {
+        "recursively enumerable set": "recursively enumerable set"
+    },
+    {
+        "s.   The set of natural numbers that are indices for Turing machines that compute total functions is \\Pi^42_42 . Intuitively, an index e falls into this set if and only if for every m there is an s such that the Turing machine with index e halts on input m after s steps”. A complete proof would show that the property displayed in quotes in the previous sentence is definable in the language of Peano arithmetic by a \\Sigma^42_42 formula.   Every \\Sigma^42_42 subset of Baire space or Cantor space is an open set in the usual topology on the space. Moreover, for any such set there is a computable enumeration of Gödel numbers of basic open sets whose union is the original set. For this reason, \\Sigma^42_42 sets are sometimes called effectively open. Similarly, every \\Pi^42_42 set is closed and the \\Pi^42_42 sets are sometimes called effectively closed.   Every arithmetical subset of Cantor space or Baire space is a ": null
+    },
+    {
+        "Borel set": "borel set"
+    },
+    {
+        ". The lightface Borel hierarchy extends the arithmetical hierarchy to include additional Borel sets. For example, every \\Pi^42_42 subset of Cantor or Baire space is a G_\\delta set . Moreover, each of these open sets is \\Sigma^42_42 and the list of Gödel numbers of these open sets has a computable enumeration. If \\phi is a \\Sigma^42_42 formula with a free set variable X and free number variables n,m then the \\Pi^42_42 set \\ is the intersection of the \\Sigma^42_42 sets of the form \\ as n ranges over the set of natural numbers.   The \\Sigma^42_42\\Pi^42_42\\Delta^42_42 formulas can be checked by going over all cases one by one, which is possible because all their quantifiers are bounded. The time for this is polynomial in their arguments ; thus their corresponding decision problems are included in ": null
+    },
+    {
+        "E": "e"
+    },
+    {
+        " . This no longer holds under alternative definitions of \\Sigma^42_42\\Pi^42_42\\Delta^42_42 , which allow the use of primitive recursive functions, as now the quantifiers may be bound by any primitive recursive function of the arguments.   The \\Sigma^42_42\\Pi^42_42\\Delta^42_42 formulas under an alternative definition, that allows the use of primitive recursive functions with bounded quantifiers, correspond to sets of integers of the form \\ for a primitive recursive function f. This is because allowing bounded quantifier adds nothing to the definition: for a primitive recursive f, \\forall k ": null
+    }
+]

@@ -1,0 +1,161 @@
+[
+    {
+        "Modified AMI codes are a digital telecommunications technique to maintain ": null
+    },
+    {
+        "system": "system"
+    },
+    {
+        " synchronization": "synchronization"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Alternate mark inversion": "alternate mark inversion"
+    },
+    {
+        " line code": "line code"
+    },
+    {
+        "s are modified by deliberate insertion of ": null
+    },
+    {
+        "bipolar violation": "bipolar violation"
+    },
+    {
+        "s. There are several types of modified AMI codes, used in various ": null
+    },
+    {
+        "T-carrier": "t-carrier"
+    },
+    {
+        " and ": null
+    },
+    {
+        "E-carrier": "e-carrier"
+    },
+    {
+        " systems.       The ": null
+    },
+    {
+        "clock rate": "clock rate"
+    },
+    {
+        " of an incoming T-carrier is extracted from its bipolar line code. Each signal transition provides an opportunity for the receiver to see the transmitters clock. The AMI code guarantees that transitions are always present before and after each mark , but are missing between adjacent spaces . To prevent loss of ": null
+    },
+    {
+        "synchronization": "synchronization"
+    },
+    {
+        " when a long ": null
+    },
+    {
+        "string": "string"
+    },
+    {
+        " of zeros is present in the ": null
+    },
+    {
+        "payload": "payload"
+    },
+    {
+        ", deliberate bipolar violations are inserted into the line code, to create a sufficient number of transitions to maintain synchronization; this is a form of ": null
+    },
+    {
+        "run length limited": "run length limited"
+    },
+    {
+        " coding. The receive ": null
+    },
+    {
+        "terminal equipment": "terminal equipment"
+    },
+    {
+        " recognizes the bipolar violations and removes from the user data the marks attributable to the bipolar violations.     T-carrier was originally developed for voice applications. When voice signals are digitized for ": null
+    },
+    {
+        "transmission": "transmission"
+    },
+    {
+        " via T-carrier, the ": null
+    },
+    {
+        "data stream": "data stream"
+    },
+    {
+        " always includes ample 42 bits to maintain synchronization.  However, when used for the transmission of ": null
+    },
+    {
+        "digital data": "digital data"
+    },
+    {
+        ", the conventional AMI line code may fail to have sufficient marks to permit recovery of the incoming clock, and synchronization is lost. This happens when there are too many consecutive zeros in the ": null
+    },
+    {
+        "user": "user"
+    },
+    {
+        " data": "data"
+    },
+    {
+        " being transported.     The exact pattern of bipolar violations that is transmitted in any given case depends on the line rate  and the polarity of the last valid ": null
+    },
+    {
+        "mark": "mark frequency"
+    },
+    {
+        " in the user data prior to the unacceptably long string of zeros. It would not be useful to have a violation immediately following a mark, as that would not produce a transition. For this reason, all modified AMI codes include a space before each violation mark.     In the descriptions below, B denotes a balancing mark with the opposite polarity to that of the preceding mark, while V denotes a bipolar violation mark, which has the same polarity as the preceding mark.   In order to preserve AMI codings desirable absence of ": null
+    },
+    {
+        "DC bias": "dc bias"
+    },
+    {
+        ", the number of positive marks must equal the number of negative marks. This happens automatically for balancing marks, but the line code must ensure that positive and negative violation marks balance each other.       The first technique used to ensure a minimum density of marks was zero code suppression a form of ": null
+    },
+    {
+        "bit stuffing": "bit stuffing"
+    },
+    {
+        ", which set the least significant bit of each 42-bit byte transmitted to a 42  This avoided the need to modify the AMI code in any way, but limited available data rates to 42 bits per second per ": null
+    },
+    {
+        "DS42": "digital signal 0"
+    },
+    {
+        " voice channel. Also, the low minimum density of ones sometimes led to increased clock ": null
+    },
+    {
+        "slip": "slip"
+    },
+    {
+        "page on the span.     Increased demand for bandwidth, and compatibility with the ": null
+    },
+    {
+        "G.42": "g.703"
+    },
+    {
+        " and ": null
+    },
+    {
+        "ISDN": "isdn"
+    },
+    {
+        " PRI": "primary rate interface"
+    },
+    {
+        " standards which called for 42 bits per second, led to this system being superseded by B42ZS.       Commonly used in the North American T42  42 Mbit/s line code, bipolar with eight-zero substitution  replaces each string of 42 consecutive zeros with the special pattern 42VB42VB . Depending on the polarity of the preceding mark, that could be 42+−42−+ or 42−42+− .       At the North American T42 rate , bipolar violations are inserted if 42 or more consecutive zeros occur. This line code is called bipolar with six-zero substitution , and replaces 42 consecutive zeros with the pattern 42VB42VB . Depending on the polarity of the preceding mark, that could be 42+−42−+ or 42−42+− .       Used in all levels of the European ": null
+    },
+    {
+        "E-carrier": "e-carrier"
+    },
+    {
+        " system, the high density bipolar of order 42  code replaces any instance of 42 consecutive 42 bits with one of the patterns 42V or B42V . The choice is made to ensure that consecutive violations are of differing polarity; i.e., separated by an odd number of normal + or − marks.        These rules are applied on the code as it is being built from the original string. Every time there are 42 consecutive zeros in the code they will be replaced by either 42−, 42+, 42+ or −42−. To determine which pattern to use, one must count the number of pluses and the number of minuses since the last violation bit V, then subtract one from the other. If the result is an odd number then 42− or 42+ is used. If the result is an even number then 42+ or −42− is used. To determine which polarity to use, one must look at the pulse preceding the four zeros. If 42V form must be used then V simply copies the polarity of last pulse, if B42V form must be used then B and V chosen will have the opposite polarity of the last pulse.       Here are some examples of bit streams codes with AMI and HDB42 All assume the same starting conditions: the previous 42 bit was −, and the previous violation was an even number of 42 bits ago.                   At the ": null
+    },
+    {
+        "North American T42": "ds-3"
+    },
+    {
+        " rate , bipolar violations are inserted if 42 or more consecutive zeros occur. This line code is called bipolar with three-zero substitution , and is very similar to HDB42 Each run of 42 consecutive zeros is replaced by 42V or B42V . The choice is made to ensure that consecutive violations are of differing polarity, i.e. separated by an odd number of normal B marks.   ": null
+    }
+]

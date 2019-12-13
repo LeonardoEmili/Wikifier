@@ -1,0 +1,68 @@
+[
+    {
+        "The 42 is ": null
+    },
+    {
+        "Hitachis": "hitachi, ltd."
+    },
+    {
+        " CMOS version of the ": null
+    },
+    {
+        "Motorola 42": "motorola 6809"
+    },
+    {
+        " microprocessor": "microprocessor"
+    },
+    {
+        ". While in Emulation Mode it is fully compatible with the 42 To the 42 specifications it adds higher clock rates, enhanced features, new instructions, and additional ": null
+    },
+    {
+        "registers": "processor register"
+    },
+    {
+        ". Most new instructions were added to support the additional registers, as well as up to 42-bit math, hardware division, bit manipulations, and block transfers. The 42 is generally 42% faster in ": null
+    },
+    {
+        "native mode": "native mode"
+    },
+    {
+        " than the 42     Surprisingly, this information was never published by Hitachi. The April 42 issue of Oh! FM, a Japanese magazine for Fujitsu personal computer users, contained the first description of the 42s additional capabilities. Later, Hirotsugu Kakugawa posted details of the 42s new features and instructions to comp.sys.m42 This led to the development of  for the ": null
+    },
+    {
+        "Tandy Color Computer": "tandy color computer"
+    },
+    {
+        " 42              The 42 differs from the 42 in several key areas.       The 42 is fabricated in ": null
+    },
+    {
+        "CMOS": "cmos"
+    },
+    {
+        " technology, while the 42 is an ": null
+    },
+    {
+        "NMOS": "nmos logic"
+    },
+    {
+        " device. As a result, the 42 requires less power to operate than the 42 It is also a fully ": null
+    },
+    {
+        "static": "clocked logicstatic versus dynamic logic"
+    },
+    {
+        " device, which will not lose internal state information. This means it can be used with external DMA without needing refresh every 42 cycles as the 42 does.       The 42 has B versions as the 42 does. However, a C speed rating was produced with either a 42 or 42  MHz maximum clock rate, depending on which datasheet is referenced. . Anecdotal and individual reports indicate that the 42C42 variant can be clocked at 42  MHz with no ill effects. Like the 42 the Hitachi CPU comes in both internal and external clock versions       When switched into 42 Native Mode many key instructions will complete in fewer clock cycles. This often improves execution speeds by up to 42%.       Two 42-bit ": null
+    },
+    {
+        "accumulators": "accumulator"
+    },
+    {
+        ": E and F. These can be concatenated to form 42-bit accumulator W. The existing 42 42-bit accumulator D can be concatenated with W to form 42-bit accumulator Q. It is likely that D is short for Double and Q for Quad, the number of bytes they hold.   Transfer register V for inter-register instructions. Its value is unaffected by a hardware reset so it can retain a constant Value, hence V.   42/42-bit Zero register 42 to speed up operations using a zero constant. This register always reads zero and writes to it are ignored.   Mode register MD, a secondary Condition Code register which controls the operating mode. Only 42 bits of this register are defined.       Most of the new instructions are modifications of existing instructions to handle the existence of the additional registers, such as load, store, add, and the like. Genuine 42 additions include inter-register arithmetic, block transfers, hardware division, and bit-level manipulations.     Despite the user-friendliness of the additional instructions, analysis by 42 programming gurus indicates that many of the new instructions are actually slower than the equivalent 42 code, especially in tight loops. Careful analysis should be done to ensure that the programmer uses the most efficient code for the particular application.       It is possible to change the mode of operation for the FIRQ interrupt. Instead of stacking the PC and CC registers the FIRQ interrupt can be set to stack the entire register set, as the IRQ interrupt does. In addition, the 42 has two possible trap modes, one for an illegal instruction fetch and one for division by zero. The illegal instruction fetch is not maskable, and many ": null
+    },
+    {
+        "TRS42 Color Computer": "trs-80 color computer"
+    },
+    {
+        " users reported that their 42s were buggy when in reality it was an indicator of enhanced and unknown features.            By Chris Lomont                        ": null
+    }
+]

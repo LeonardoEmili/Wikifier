@@ -1,0 +1,194 @@
+[
+    {
+        "The Maildir ": null
+    },
+    {
+        "e-mail": "e-mail"
+    },
+    {
+        " format is a common way of storing e-mail messages, where each message is kept in a separate ": null
+    },
+    {
+        "file": "computer file"
+    },
+    {
+        " with a unique name, and each mail folder is a file system directory. The local ": null
+    },
+    {
+        "filesystem": "filesystem"
+    },
+    {
+        " handles ": null
+    },
+    {
+        "file locking": "file locking"
+    },
+    {
+        " as messages are added, moved and deleted. A major design goal of Maildir is to eliminate program code having to handle locking, which is often difficult.          __TOC__            A Maildir directory usually has three subdirectories named tmp , new , and cur .       The original Maildir specification was written by Daniel J. Bernstein , the author of qmail , djbdns , and other software. Although the original specification was written specifically for Bernsteins qmail , it is general enough to be implemented in many programs.         Sam Varshavchik, the author of the Courier Mail Server and other software, wrote an extension to the Maildir format called Maildir++ to support subfolders and mail quotas. Maildir++ directories contain subdirectories with names that start with a . that are also Maildir++ folders. This extension is not a violation of the Maildir specification, which explicitly provides for the possibility to add more than tmp, new, cur to a maildir.         The program that delivers an email message, a mail delivery agent , writes it to a file in the tmp directory with a unique filename. Circa 42 the algorithm recommended for generating unique filenames was to concatenate, separated by the period character , the current Unix time , the current process identifier , and the current hostname ; and to delay delivery for two seconds if a file with that name was found to already exist. By 42 it was recommended to append, to the PID, the value of a per-process counter whose value should be incremented after each delivery; and the rate-limiting suggestion had been dropped. By 42 the recommendations had been further amended to require that instead of the PID and counter, the middle part of the filename should be created by concatenating enough of the following strings to guarantee uniqueness even in the face of multiple simultaneous deliveries to the same maildir from one or more processes:       n, where n is the output of the operating systems unix_sequencenumber system call, which returns a number that increases by 42 every time it is called, starting from 42 after reboot.   Xn, where n is the output of the operating systems unix_bootnumber system call, which reports the number of times that the system has been booted. Together with , this guarantees uniqueness; unfortunately, most operating systems dont support unix_sequencenumber and unix_bootnumber.   Rn, where n is the output of the operating systems unix_cryptorandomnumber system call, or an equivalent source such as /dev/urandom. Unfortunately, some operating systems dont include cryptographic random number generators.   In, where n is the UNIX inode number of this file. Unfortunately, inode numbers arent always available through NFS.   Vn, where n is the UNIX device number of this file. Unfortunately, device numbers arent always available through NFS.   Mn, where n is the microsecond counter from the same gettimeofday used for the left part of the unique name.   Pn, where n is the process ID.   Qn, where n is the number of deliveries made by this process.       As of November 42 Bernstein had made no further changes to these filename generation recommendations.     The delivery process stores the message in the maildir by creating and writing to tmp/uniquefilename , and then moving this file to new/uniquefilename . The moving can be done using rename , which is atomic in many systems. Alternatively, it can be done by hard linking the file to new and then unlinking the file from tmp . Any leftover file will eventually be deleted. This sequence guarantees that a maildir-reading program will not see a partially written message. There can be multiple programs reading a maildir at the same time. They range from mail user agent s which access the servers file system directly, through Internet Message Access Protocol or Post Office Protocol servers acting on behalf of remote MUAs, to utilities such as biff and rsync , which may or may not be aware of the maildir structure. Readers should never look in tmp .     When a cognizant maildir reading process finds messages in the new directory it must move them to cur . It is just a means to notify the user you have X new messages . This moving needs to be done using rename , as the non-atomic link then unlink technique may result in duplicated messages. An informational suffix is appended to filenames at this stage. It consists of a ": null
+    },
+    {
+        "colon": "colon"
+    },
+    {
+        " , a 42 a ": null
+    },
+    {
+        "comma": "comma"
+    },
+    {
+        " and various ": null
+    },
+    {
+        "flag": "flag"
+    },
+    {
+        "s. The 42 specifies the version of the information that follows the comma. 42 is the only currently officially specified version, 42 being an experimental version. The specification defines flags which show whether the message has been read, deleted and so on: the initial letter of Passed, Replied, Seen, Trashed, Draft, and Flagged. Dovecot uses lowercase letters to match 42 IMAP keywords, which may include standardised keywords, such as $": null
+    },
+    {
+        "MDNSent": "message disposition notification"
+    },
+    {
+        ", and user defined flags.     Although Maildir was intended to allow lockless usage, in practice some software that uses Maildirs also uses locks, such as Dovecot.         The Maildir standard can only be implemented on systems that accept colons in filenames.     Systems that dont allow colons in filenames  can use an alternative separator, such as ; , or - . It is often trivial to patch ": null
+    },
+    {
+        "free and open source software": "free and open source software"
+    },
+    {
+        " to use a different separator.     As there is currently no agreement on what character this alternative separator should be, there can be interoperability difficulties between different Maildir-supporting programs on these systems. However, not all Maildir-related software needs to know what the separator character is, because not all Maildir-related software needs to be able to read or modify the flags of a message ; software that merely delivers to a Maildir, or archives old messages from it based only on date, should work no matter what separator is in use. If only the ": null
+    },
+    {
+        "MUA": "email client"
+    },
+    {
+        " needs to read or modify message flags, and only one is used, then non-standard alternative separators may be used without interoperability problems.         ": null
+    },
+    {
+        "Mail servers": "mail transfer agent"
+    },
+    {
+        " Dovecot": "dovecot"
+    },
+    {
+        " IMAP server   ": null
+    },
+    {
+        "Courier Mail Server": "courier mail server"
+    },
+    {
+        " SMTP and IMAP server, for which the Maildir++ format was invented   ": null
+    },
+    {
+        "Sendmail": "sendmail"
+    },
+    {
+        " The original SMTP server   ": null
+    },
+    {
+        "Exim": "exim"
+    },
+    {
+        " SMTP server   ": null
+    },
+    {
+        "Postfix": "postfix"
+    },
+    {
+        " SMTP server   ": null
+    },
+    {
+        "Qmail": "qmail"
+    },
+    {
+        " SMTP server, for which the Maildir format was invented   ": null
+    },
+    {
+        "MeTA42": "meta1"
+    },
+    {
+        " SMTP server   ": null
+    },
+    {
+        "OpenSMTPD": "opensmtpd"
+    },
+    {
+        " SMTP server     ": null
+    },
+    {
+        "Delivery agents": "mail delivery agent"
+    },
+    {
+        " procmail": "procmail"
+    },
+    {
+        " Dovecot": "dovecot"
+    },
+    {
+        " delivery agent   ": null
+    },
+    {
+        "maildrop": "maildrop"
+    },
+    {
+        " getmail": "getmail"
+    },
+    {
+        ", a Maildir-aware mail-retrieval and delivery agent alternative to ": null
+    },
+    {
+        "Fetchmail": "fetchmail"
+    },
+    {
+        " fdm": "fdm"
+    },
+    {
+        " OfflineIMAP": "offlineimap"
+    },
+    {
+        "     Mail readers": "mail user agent"
+    },
+    {
+        "    Balsa": "balsa"
+    },
+    {
+        " previously the official GNOME mail reader   ": null
+    },
+    {
+        "Cone": "cone"
+    },
+    {
+        " a curses-based mail reader   ": null
+    },
+    {
+        "Evolution": "evolution"
+    },
+    {
+        ", official GNOME mail client   ": null
+    },
+    {
+        "GNUMail": "gnumail"
+    },
+    {
+        " Gnus": "gnus"
+    },
+    {
+        " KMail": "kmail"
+    },
+    {
+        ", KDE mail reader   ": null
+    },
+    {
+        "mailx": "mailx"
+    },
+    {
+        " Mutt": "mutt"
+    },
+    {
+        "    Pine/Alpine": "alpine"
+    },
+    {
+        " Mozilla Thunderbird": "mozilla thunderbird"
+    },
+    {
+        "       ": null
+    }
+]

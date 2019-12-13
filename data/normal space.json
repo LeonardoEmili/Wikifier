@@ -1,0 +1,455 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "topology": "topology"
+    },
+    {
+        " and related branches of ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a normal space is a ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        " X that satisfies Axiom T 42 : every two disjoint ": null
+    },
+    {
+        "closed set": "closed set"
+    },
+    {
+        "s of X have disjoint ": null
+    },
+    {
+        "open neighborhood": "open neighborhood"
+    },
+    {
+        "s. A normal ": null
+    },
+    {
+        "Hausdorff space": "hausdorff space"
+    },
+    {
+        " is also called a T 42 space. These conditions are examples of ": null
+    },
+    {
+        "separation axiom": "separation axiom"
+    },
+    {
+        "s and their further strengthenings define completely normal Hausdorff spaces, or T 42 spaces, and perfectly normal Hausdorff spaces, or T 42 spaces.         A ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        " X is a normal space if, given any ": null
+    },
+    {
+        "disjoint": "disjoint sets"
+    },
+    {
+        " closed set": "closed set"
+    },
+    {
+        "s E and F, there are ": null
+    },
+    {
+        "neighbourhoods": "neighbourhood"
+    },
+    {
+        " U of E and V of F that are also disjoint. More intuitively, this condition says that E and F can be ": null
+    },
+    {
+        "separated by neighbourhoods": "separated set"
+    },
+    {
+        ".          A T 42 space is a ": null
+    },
+    {
+        "T 42 space": "t1 space"
+    },
+    {
+        " X that is normal; this is equivalent to X being normal and ": null
+    },
+    {
+        "Hausdorff": "hausdorff space"
+    },
+    {
+        ".     A completely normal space or a  is a topological space X such that every ": null
+    },
+    {
+        "subspace": "subspace"
+    },
+    {
+        " of X with subspace topology is a normal space. It turns out that X is completely normal if and only if every two ": null
+    },
+    {
+        "separated set": "separated set"
+    },
+    {
+        "s can be separated by neighbourhoods.     A completely T 42 space, or T 42 space is a completely normal ": null
+    },
+    {
+        "T 42 space": "t1 space"
+    },
+    {
+        " topological space X, which implies that X is ": null
+    },
+    {
+        "Hausdorff": "hausdorff space"
+    },
+    {
+        "; equivalently, every subspace of X must be a T 42 space.     A perfectly normal space is a topological space X in which every two disjoint closed sets E and F can be precisely separated by a ": null
+    },
+    {
+        "continuous function": "continuous function"
+    },
+    {
+        " f from X to the ": null
+    },
+    {
+        "real line": "real line"
+    },
+    {
+        " R: the ": null
+    },
+    {
+        "preimage": "preimage"
+    },
+    {
+        "s of and under f are, respectively, E and F.      It turns out that X is perfectly normal if and only if X is normal and every closed set is a ": null
+    },
+    {
+        "G δ set": "g-delta set"
+    },
+    {
+        ". Equivalently, X is perfectly normal if and only if every closed set is a ": null
+    },
+    {
+        "zero set": "zero set"
+    },
+    {
+        ". Every perfectly normal space is automatically completely normal.      A Hausdorff perfectly normal space X is a T 42 space, or perfectly T 42 space.     Note that the terms normal space and T 42 and derived concepts occasionally have a different meaning. The definitions given here are the ones usually used today. For more on this issue, see ": null
+    },
+    {
+        "History of the separation axioms": "history of the separation axioms"
+    },
+    {
+        ".     Terms like normal ": null
+    },
+    {
+        "regular space": "regular space"
+    },
+    {
+        " and normal Hausdorff space also turn up in the literature  – they simply mean that the space both is normal and satisfies the other condition mentioned. In particular, a normal Hausdorff space is the same thing as a T 42 space. Given the historical confusion of the meaning of the terms, verbal descriptions when applicable are helpful, that is, normal Hausdorff instead of T 42 , or completely normal Hausdorff instead of T 42 .     ": null
+    },
+    {
+        "Fully normal space": "fully normal space"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "fully T 42 space": "paracompact hausdorff space"
+    },
+    {
+        "s are discussed elsewhere; they are related to ": null
+    },
+    {
+        "paracompactness": "paracompactness"
+    },
+    {
+        ".     A ": null
+    },
+    {
+        "locally normal space": "locally normal space"
+    },
+    {
+        " is a topological space where every point has an open neighbourhood that is normal. Every normal space is locally normal, but the converse is not true. A classical example of a completely regular locally normal space that is not normal is the ": null
+    },
+    {
+        "Nemytskii plane": "nemytskii plane"
+    },
+    {
+        ".       Most spaces encountered in ": null
+    },
+    {
+        "mathematical analysis": "mathematical analysis"
+    },
+    {
+        " are normal Hausdorff spaces, or at least normal regular spaces:   All ": null
+    },
+    {
+        "metric spaces": "metric spaces"
+    },
+    {
+        "  are perfectly normal Hausdorff;   All ": null
+    },
+    {
+        "pseudometric space": "pseudometric space"
+    },
+    {
+        "s  are perfectly normal regular, although not in general Hausdorff;   All ": null
+    },
+    {
+        "compact": "compact space"
+    },
+    {
+        " Hausdorff spaces are normal;   In particular, the ": null
+    },
+    {
+        "Stone–Čech compactification": "stone–čech compactification"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "Tychonoff space": "tychonoff space"
+    },
+    {
+        " is normal Hausdorff;   Generalizing the above examples, all ": null
+    },
+    {
+        "paracompact": "paracompact"
+    },
+    {
+        " Hausdorff spaces are normal, and all paracompact regular spaces are normal;   All paracompact ": null
+    },
+    {
+        "topological manifold": "topological manifold"
+    },
+    {
+        "s are perfectly normal Hausdorff. However, there exist non-paracompact manifolds which are not even normal.   All ": null
+    },
+    {
+        "order topologies": "order topology"
+    },
+    {
+        " on ": null
+    },
+    {
+        "totally ordered set": "totally ordered set"
+    },
+    {
+        "s are hereditarily normal and Hausdorff.   Every regular ": null
+    },
+    {
+        "second-countable space": "second-countable space"
+    },
+    {
+        " is completely normal, and every regular ": null
+    },
+    {
+        "Lindelöf space": "lindelöf space"
+    },
+    {
+        " is normal.     Also, all ": null
+    },
+    {
+        "fully normal space": "fully normal space"
+    },
+    {
+        "s are normal . ": null
+    },
+    {
+        "Sierpinski space": "sierpinski space"
+    },
+    {
+        " is an example of a normal space that is not regular.       An important example of a non-normal topology is given by the ": null
+    },
+    {
+        "Zariski topology": "zariski topology"
+    },
+    {
+        " on an ": null
+    },
+    {
+        "algebraic variety": "algebraic variety"
+    },
+    {
+        " or on the ": null
+    },
+    {
+        "spectrum of a ring": "spectrum of a ring"
+    },
+    {
+        ", which is used in ": null
+    },
+    {
+        "algebraic geometry": "algebraic geometry"
+    },
+    {
+        ".     A non-normal space of some relevance to analysis is the ": null
+    },
+    {
+        "topological vector space": "topological vector space"
+    },
+    {
+        " of all ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        "s from the ": null
+    },
+    {
+        "real line": "real line"
+    },
+    {
+        " R to itself, with the ": null
+    },
+    {
+        "topology of pointwise convergence": "topology of pointwise convergence"
+    },
+    {
+        ".   More generally, a theorem of ": null
+    },
+    {
+        "A. H. Stone": "a. h. stone"
+    },
+    {
+        " states that the ": null
+    },
+    {
+        "product": "product topology"
+    },
+    {
+        " of ": null
+    },
+    {
+        "uncountably many": "uncountable"
+    },
+    {
+        " non-": null
+    },
+    {
+        "compact": "compact space"
+    },
+    {
+        " metric spaces is never normal.       Every closed subset of a normal space is normal. The continuous and closed image of a normal space is normal.      The main significance of normal spaces lies in the fact that they admit enough ": null
+    },
+    {
+        "continuous": "continuous function"
+    },
+    {
+        " real": "real number"
+    },
+    {
+        "-valued ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        "s, as expressed by the following theorems valid for any normal space X.     ": null
+    },
+    {
+        "Urysohns lemma": "urysohns lemma"
+    },
+    {
+        ":   If A and B are two ": null
+    },
+    {
+        "disjoint": "disjoint sets"
+    },
+    {
+        " closed subsets of X, then there exists a continuous function f from X to the real line R such that f 42 for all x in A and f 42 for all x in B.   In fact, we can take the values of f to be entirely within the ": null
+    },
+    {
+        "unit interval": "unit interval"
+    },
+    {
+        "        More generally, the ": null
+    },
+    {
+        "Tietze extension theorem": "tietze extension theorem"
+    },
+    {
+        ":   If A is a closed subset of X and f is a continuous function from A to R, then there exists a continuous function F: X → R which extends f in the sense that F f for all x in A.     If U is a locally finite ": null
+    },
+    {
+        "open cover": "open cover"
+    },
+    {
+        " of a normal space X, then there is a ": null
+    },
+    {
+        "partition of unity": "partition of unity"
+    },
+    {
+        " precisely subordinate to U.        In fact, any space that satisfies any one of these three conditions must be normal.     A ": null
+    },
+    {
+        "product": "product space"
+    },
+    {
+        " of normal spaces is not necessarily normal. This fact was first proved by ": null
+    },
+    {
+        "Robert Sorgenfrey": "robert sorgenfrey"
+    },
+    {
+        ". An example of this phenomenon is the ": null
+    },
+    {
+        "Sorgenfrey plane": "sorgenfrey plane"
+    },
+    {
+        ". Also, a subset of a normal space need not be normal , since every Tychonoff space is a subset of its Stone–Čech compactification . A more explicit example is the ": null
+    },
+    {
+        "Tychonoff plank": "tychonoff plank"
+    },
+    {
+        ". The only large class of product spaces of normal spaces known to be normal are the products of compact Hausdorff spaces, since both compactness  and the T 42 axiom are preserved under arbitrary products.        If a normal space is ": null
+    },
+    {
+        "R 42 ": "r0 space"
+    },
+    {
+        ", then it is in fact ": null
+    },
+    {
+        "completely regular": "completely regular"
+    },
+    {
+        ".   Thus, anything from normal R 42 to normal completely regular is the same as what we usually call normal regular.   Taking ": null
+    },
+    {
+        "Kolmogorov quotient": "kolmogorov quotient"
+    },
+    {
+        "s, we see that all normal ": null
+    },
+    {
+        "T 42 space": "t1 space"
+    },
+    {
+        "s are ": null
+    },
+    {
+        "Tychonoff": "tychonoff space"
+    },
+    {
+        ".   These are what we usually call normal Hausdorff spaces.     A topological space is said to be ": null
+    },
+    {
+        "pseudonormal": "pseudonormal space"
+    },
+    {
+        " if given two disjoint closed sets in it, one of which is countable, there are disjoint open sets containing them. Every normal space is pseudonormal, but not vice versa.     Counterexamples to some variations on these statements can be found in the lists above.   Specifically, ": null
+    },
+    {
+        "Sierpinski space": "sierpinski space"
+    },
+    {
+        " is normal but not regular, while the space of functions from R to itself is Tychonoff but not normal.       ": null
+    }
+]

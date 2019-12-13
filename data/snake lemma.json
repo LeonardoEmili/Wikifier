@@ -1,0 +1,80 @@
+[
+    {
+        "The snake lemma is a tool used in ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", particularly ": null
+    },
+    {
+        "homological algebra": "homological algebra"
+    },
+    {
+        ", to construct ": null
+    },
+    {
+        "long exact sequence": "long exact sequence"
+    },
+    {
+        "s. The snake lemma is valid in every ": null
+    },
+    {
+        "abelian category": "abelian category"
+    },
+    {
+        " and is a crucial tool in homological algebra and its applications, for instance in ": null
+    },
+    {
+        "algebraic topology": "algebraic topology"
+    },
+    {
+        ". Homomorphisms constructed with its help are generally called connecting homomorphisms.       In an ": null
+    },
+    {
+        "abelian category": "abelian category"
+    },
+    {
+        " , consider a ": null
+    },
+    {
+        "commutative diagram": "commutative diagram"
+    },
+    {
+        ":   :     where the rows are ": null
+    },
+    {
+        "exact sequence": "exact sequence"
+    },
+    {
+        "s and 42 is the ": null
+    },
+    {
+        "zero object": "zero object"
+    },
+    {
+        ".     Then there is an exact sequence relating the ": null
+    },
+    {
+        "kernels": "kernel"
+    },
+    {
+        " and ": null
+    },
+    {
+        "cokernel": "cokernel"
+    },
+    {
+        "s of a, b, and c:     : \\ker a ~~ \\ker b ~~ \\ker c ~\\overset~ \\operatornamea ~~ \\operatornameb ~~ \\operatornamec     where d is a homomorphism, known as the connecting homomorphism.     Furthermore, if the morphism f is a ": null
+    },
+    {
+        "monomorphism": "monomorphism"
+    },
+    {
+        ", then so is the morphism \\operatornamea ~~ \\operatornameb , and if  connecting homomorphism d exists which completes the exact sequence.     In the case of abelian groups or modules over some ring , the map d can be constructed as follows:     Pick an element x in ker  c and view it as an element of C; since g is surjective , there exists y in B with g x. Because of the commutativity of the diagram, we have g c c 42 , and therefore b is in the kernel of g . Since the bottom row is exact, we find an element z in A  with f   b. z is unique by injectivity of f  . We then define d z + im. Now one has to check that d is well-defined , that it is a homomorphism, and that the resulting long sequence is indeed exact. One may routinely verify the exactness by diagram chasing .     Once that is done, the theorem is proven for abelian groups or modules over a ring. For the general case, the argument may be rephrased in terms of properties of arrows and cancellation instead of elements. Alternatively, one may invoke Mitchells embedding theorem .       In the applications, one often needs to show that long exact sequences are natural . This follows from the naturality of the sequence produced by the snake lemma.     If   : commutative diagram with exact rows     is a commutative diagram with exact rows, then the snake lemma can be applied twice, to the front and to the back , yielding two long exact sequences; these are related by a commutative diagram of the form   : commutative diagram with exact rows       The proof of the snake lemma is taught by Jill Clayburgh s character at the very beginning of the 42 film ": null
+    },
+    {
+        "Its My Turn": "its my turn"
+    }
+]

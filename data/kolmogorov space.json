@@ -1,0 +1,170 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "topology": "topology"
+    },
+    {
+        " and related branches of ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        " X is a T 42 space or Kolmogorov space  if for every pair of distinct points of X, at least one of them has a ": null
+    },
+    {
+        "neighborhood": "neighbourhood"
+    },
+    {
+        " not containing the other. In a T 42 space, all points are ": null
+    },
+    {
+        "topologically distinguishable": "topologically distinguishable"
+    },
+    {
+        ".     This condition, called the T 42 condition, is the weakest of the ": null
+    },
+    {
+        "separation axiom": "separation axiom"
+    },
+    {
+        "s. Nearly all topological spaces normally studied in mathematics are T 42 spaces. In particular, all ": null
+    },
+    {
+        "T 42 space": "t1 space"
+    },
+    {
+        "s, i.e., all spaces in which for every pair of distinct points, each has a neighborhood not containing the other, are T 42 spaces. This includes all ": null
+    },
+    {
+        "T 42 spaces": "hausdorff space"
+    },
+    {
+        ", i.e., all topological spaces in which distinct points have disjoint neighbourhoods. Given any topological space one can construct a T 42 space by identifying topologically indistinguishable points.     T 42 spaces that are not T 42 spaces are exactly those spaces for which the ": null
+    },
+    {
+        "specialization preorder": "specialization preorder"
+    },
+    {
+        " is a nontrivial ": null
+    },
+    {
+        "partial order": "partial order"
+    },
+    {
+        ". Such spaces naturally occur in ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        ", specifically in ": null
+    },
+    {
+        "denotational semantics": "denotational semantics"
+    },
+    {
+        ".         A T 42 space is a topological space in which every pair of distinct points is ": null
+    },
+    {
+        "topologically distinguishable": "topologically distinguishable"
+    },
+    {
+        ". That is, for any two different points x and y there is an ": null
+    },
+    {
+        "open set": "open set"
+    },
+    {
+        " which contains one of these points and not the other.     Note that topologically distinguishable points are automatically distinct. On the other hand, if the ": null
+    },
+    {
+        "singleton set": "singleton set"
+    },
+    {
+        "s  and  are ": null
+    },
+    {
+        "separated": "separated sets"
+    },
+    {
+        ", then the points x and y must be topologically distinguishable. That is,   :separated ⇒ topologically distinguishable ⇒ distinct   The property of being topologically distinguishable is, in general, stronger than being distinct but weaker than being separated. In a T 42 space, the second arrow above reverses; points are distinct ": null
+    },
+    {
+        "if and only if": "if and only if"
+    },
+    {
+        " they are distinguishable. This is how the T 42 axiom fits in with the rest of the ": null
+    },
+    {
+        "separation axiom": "separation axiom"
+    },
+    {
+        "s.         Nearly all topological spaces normally studied in mathematics are T 42 . In particular, all ": null
+    },
+    {
+        "Hausdorff spaces": "hausdorff space"
+    },
+    {
+        " and ": null
+    },
+    {
+        "T 42 space": "t1 space"
+    },
+    {
+        "s are T 42 .         A set with more than one element, with the ": null
+    },
+    {
+        "trivial topology": "trivial topology"
+    },
+    {
+        ". No points are distinguishable.   The set R 42 where the open sets are the Cartesian product of an open set in R and R itself, i.e., the ": null
+    },
+    {
+        "product topology": "product topology"
+    },
+    {
+        " of R with the usual topology and R with the trivial topology; points  and  are not distinguishable.   The space of all ": null
+    },
+    {
+        "measurable function": "measurable function"
+    },
+    {
+        "s f from the ": null
+    },
+    {
+        "real line": "real line"
+    },
+    {
+        " R to the ": null
+    },
+    {
+        "complex plane": "complex plane"
+    },
+    {
+        " C such that the ": null
+    },
+    {
+        "Lebesgue integral": "lebesgue integral"
+    },
+    {
+        " of |f ": null
+    },
+    {
+        "finite": "finite set"
+    },
+    {
+        ". Two functions which are equal ": null
+    },
+    {
+        "almost everywhere": "almost everywhere"
+    }
+]

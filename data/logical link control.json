@@ -1,0 +1,239 @@
+[
+    {
+        "     In the ": null
+    },
+    {
+        "IEEE 42": "ieee 802"
+    },
+    {
+        " reference model of ": null
+    },
+    {
+        "computer networking": "computer networking"
+    },
+    {
+        ", the logical link control  ": null
+    },
+    {
+        "data communication protocol": "protocol"
+    },
+    {
+        " layer is the upper sublayer of the ": null
+    },
+    {
+        "data link layer": "data link layer"
+    },
+    {
+        " of the seven-layer ": null
+    },
+    {
+        "OSI model": "osi model"
+    },
+    {
+        ". The LLC sublayer acts as an interface between the ": null
+    },
+    {
+        "media access control": "media access control"
+    },
+    {
+        " sublayer and the ": null
+    },
+    {
+        "network layer": "network layer"
+    },
+    {
+        ".     The LLC sublayer provides ": null
+    },
+    {
+        "multiplexing": "multiplexing"
+    },
+    {
+        " mechanisms that make it possible for several network protocols  to coexist within a multipoint network and to be transported over the same network medium. It can also provide ": null
+    },
+    {
+        "flow control": "flow control"
+    },
+    {
+        " and ": null
+    },
+    {
+        "automatic repeat request": "automatic repeat request"
+    },
+    {
+        " error management mechanisms.       The LLC sublayer is primarily concerned with ": null
+    },
+    {
+        "multiplexing": "multiplexing"
+    },
+    {
+        " protocols transmitted over the ": null
+    },
+    {
+        "MAC": "media access control"
+    },
+    {
+        " layer and demultiplexing them .   It can also provide node-to-node flow control and error management.     The flow control and error management capabilities of the LLC sublayer are used by protocols such as the ": null
+    },
+    {
+        "NetBIOS Frames protocol": "netbios frames protocol"
+    },
+    {
+        ". However, most protocol stacks running atop ": null
+    },
+    {
+        "42": "802.2"
+    },
+    {
+        " do not use LLC sublayer flow control and error management. In these cases flow control and error management are taken care of by a ": null
+    },
+    {
+        "transport layer": "transport layer"
+    },
+    {
+        " protocol such as ": null
+    },
+    {
+        "TCP": "transmission control protocol"
+    },
+    {
+        " or by some ": null
+    },
+    {
+        "application layer": "application layer"
+    },
+    {
+        " protocol. These higher layer protocols work in an end-to-end fashion, i.e. re-transmission is done from the original source to the final destination, rather than on individual physical segments. For these protocol stacks only the multiplexing capabilities of the LLC sublayer are used.           An LLC sublayer was a key component in early packet switching networks such as ": null
+    },
+    {
+        "X.42": "x.25"
+    },
+    {
+        " networks with the ": null
+    },
+    {
+        "LAPB": "lapb"
+    },
+    {
+        " data link layer protocol, where flow control and error management were carried out in a node-to-node fashion, meaning that if an error was detected in a frame, the frame was retransmitted from one switch to next instead. This extensive handshaking between the nodes made the networks slow.       The ": null
+    },
+    {
+        "IEEE 42": "ieee 802.2"
+    },
+    {
+        " standard specifies the LLC sublayer for all ": null
+    },
+    {
+        "IEEE 42": "ieee 802"
+    },
+    {
+        " local area networks, such as ": null
+    },
+    {
+        "IEEE 42": "ieee 802.3"
+    },
+    {
+        "/": null
+    },
+    {
+        "Ethernet": "ethernet"
+    },
+    {
+        " , ": null
+    },
+    {
+        "IEEE 42": "ieee 802.5"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "IEEE 42": "ieee 802.11"
+    },
+    {
+        ". IEEE 42 is also used in some non-IEEE 42 networks such as ": null
+    },
+    {
+        "FDDI": "fiber distributed data interface"
+    },
+    {
+        ".       Since bit errors are very rare in wired networks, Ethernet does not provide flow control or ": null
+    },
+    {
+        "automatic repeat request": "automatic repeat request"
+    },
+    {
+        " , meaning that incorrect packets are detected but only cancelled, not retransmitted . Instead, retransmissions rely on higher layer protocols.     As the ": null
+    },
+    {
+        "EtherType": "ethertype"
+    },
+    {
+        " in an Ethernet frame using ": null
+    },
+    {
+        "Ethernet II framing": "ethernet ii framing"
+    },
+    {
+        " is used to multiplex different protocols on top of the Ethernet MAC header it can be seen as an LLC identifier. However, Ethernet frames lacking an EtherType have no LLC identifier in the Ethernet header, and, instead, use an IEEE 42 LLC header after the Ethernet header to provide the protocol multiplexing function.       In wireless communications, bit errors are very common. In wireless networks such as IEEE 42, flow control and error management is part of the ": null
+    },
+    {
+        "CSMA/CA": "csma/ca"
+    },
+    {
+        " MAC protocol, and not part of the LLC layer. The LLC sublayer follows the ": null
+    },
+    {
+        "IEEE 42": "ieee 802.2"
+    },
+    {
+        " standard.       Some non-IEEE 42 protocols can be thought of as being split into MAC and LLC layers. For example, while ": null
+    },
+    {
+        "HDLC": "high-level data link control"
+    },
+    {
+        " specifies both MAC functions and LLC functions , some protocols such as ": null
+    },
+    {
+        "Cisco HDLC": "cisco hdlc"
+    },
+    {
+        " can use HDLC-like packet framing and their own LLC protocol.       Over telephone network ": null
+    },
+    {
+        "modem": "modem"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "PPP": "point-to-point protocol"
+    },
+    {
+        " link layer protocols can be considered as a LLC protocol, providing multiplexing, but it does not provide flow control and error management. In a telephone network, bit errors might be common, meaning that error management is crucial, but that is today provided by modern protocols. Todays modem protocols have inherited LLC features from the older ": null
+    },
+    {
+        "LAPM": "lapm"
+    },
+    {
+        " link layer protocol, made for modem communication in old X.42 networks.       The ": null
+    },
+    {
+        "GPRS": "gprs"
+    },
+    {
+        " LLC layer also does ciphering and deciphering of SN-PDU  packets.       Another example of a ": null
+    },
+    {
+        "data link layer": "data link layer"
+    },
+    {
+        " which is split between LLC and MAC is the ": null
+    },
+    {
+        "ITU-T": "itu-t"
+    },
+    {
+        " G.hn": "g.hn"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a nowhere dense set of a ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "set": "set"
+    },
+    {
+        " whose ": null
+    },
+    {
+        "closure": "closure"
+    },
+    {
+        " has ": null
+    },
+    {
+        "empty": "empty set"
+    },
+    {
+        " interior": "interior"
+    },
+    {
+        ". In a very loose sense, it is a set whose elements are not tightly clustered  anywhere. The order of operations is important. For example, the set of ": null
+    },
+    {
+        "rational number": "rational number"
+    },
+    {
+        "s, as a subset of the ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s, R, has the property that its interior has an empty closure, but it is not nowhere dense; in fact it is ": null
+    },
+    {
+        "dense": "dense set"
+    },
+    {
+        " in  R. Equivalently, a nowhere dense set is a set that is not ": null
+    },
+    {
+        "dense": "dense set"
+    },
+    {
+        " in any nonempty open set.     The surrounding space matters: a set A may be nowhere dense when considered as a subset of a topological space X, but not when considered as a subset of another topological space Y. Notably, a set is always dense in its own ": null
+    },
+    {
+        "subspace topology": "subspace topology"
+    },
+    {
+        ".     Every subset of a nowhere dense set is nowhere dense, and the ": null
+    },
+    {
+        "union": "union"
+    },
+    {
+        " of ": null
+    },
+    {
+        "finite": "finite set"
+    },
+    {
+        "ly many nowhere dense sets is nowhere dense. That is, the nowhere dense sets form an ": null
+    },
+    {
+        "ideal of sets": "ideal of sets"
+    },
+    {
+        ", a suitable notion of ": null
+    },
+    {
+        "negligible set": "negligible set"
+    },
+    {
+        ". The union of ": null
+    },
+    {
+        "countably": "countable"
+    },
+    {
+        " many nowhere dense sets, however, need not be nowhere dense.  Instead, such a union is called a  meagre set  or a set of first category. The concept is important to formulate the ": null
+    },
+    {
+        "Baire category theorem": "baire category theorem"
+    },
+    {
+        ".       \\mathbb Z is nowhere dense in \\mathbb R .   S \\left\\ is also nowhere dense in \\mathbb R : although the points get arbitrarily close to 42 the closure of the set is S \\cup \\ , which has empty interior.   \\mathbb Z \\cup \\left is not nowhere dense in \\mathbb R : it is dense in the interval , and in particular the interior of its closure is .       A nowhere dense set need not be ": null
+    },
+    {
+        "closed": "closed set"
+    },
+    {
+        " , but is properly contained in a nowhere dense closed set, namely its ": null
+    },
+    {
+        "closure": "closure"
+    },
+    {
+        " . Indeed, a set is nowhere dense if and only if its closure is nowhere dense.   The ": null
+    },
+    {
+        "complement": "complement"
+    },
+    {
+        " of a closed nowhere dense set is a dense ": null
+    },
+    {
+        "open set": "open set"
+    },
+    {
+        ", and thus the complement of a nowhere dense set is a set with dense ": null
+    },
+    {
+        "interior": "interior"
+    },
+    {
+        ".   The ": null
+    },
+    {
+        "boundary": "boundary"
+    },
+    {
+        " of every open set is closed and nowhere dense.   Every closed nowhere dense set is the boundary of an open set.       A nowhere dense set is not necessarily negligible in every sense. For example, if X is the ": null
+    },
+    {
+        "unit interval": "unit interval"
+    },
+    {
+        " not only is it possible to have a dense set of ": null
+    },
+    {
+        "Lebesgue measure": "lebesgue measure"
+    },
+    {
+        " zero , but it is also possible to have a nowhere dense set with positive measure.     For one example , remove from all ": null
+    },
+    {
+        "dyadic fraction": "dyadic fraction"
+    },
+    {
+        "s, i.e. fractions of the form a/42 n in ": null
+    },
+    {
+        "lowest terms": "lowest terms"
+    },
+    {
+        " for positive integers a and n, and the intervals around them: . Since for each n this removes intervals adding up to at most 42/42 n": null
+    }
+]

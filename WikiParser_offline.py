@@ -85,11 +85,12 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
         if name == 'page':
             self._pages.append((self._values['title'], self._values['text']))
 
+# Dumps from: https://dumps.wikimedia.org/enwiki/20191201/
 
 def main():
     _dir = "/home/leo/Downloads/"
     #_file = "enwiki-20190101-pages-articles-multistream.xml.bz2"
-    _file = "enwiki-20190920-pages-articles-multistream1.xml-p10p30302.bz2"
+    _file = "enwiki-20191201-pages-articles-multistream1.xml-p10p30302.bz2"
     dir_name = "data/"
     file_path = _dir + _file
     node_dict = {mwparserfromhell.nodes.Template: SKIP_NODE, mwparserfromhell.nodes.ExternalLink: SKIP_NODE,

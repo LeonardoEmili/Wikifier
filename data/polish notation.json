@@ -1,0 +1,311 @@
+[
+    {
+        "           Polish notation , also known as normal Polish notation , Łukasiewicz notation, Warsaw notation, Polish prefix notation or simply prefix notation, is a mathematical notation in which ": null
+    },
+    {
+        "operators": "operation"
+    },
+    {
+        " precede their ": null
+    },
+    {
+        "operand": "operand"
+    },
+    {
+        "s, in contrast to the more common ": null
+    },
+    {
+        "infix notation": "infix notation"
+    },
+    {
+        ", in which operators are placed between operands, as well as ": null
+    },
+    {
+        "reverse Polish notation": "reverse polish notation"
+    },
+    {
+        " , in which operators follow their operands. It does not need any parentheses as long as each operator has a fixed ": null
+    },
+    {
+        "number of operands": "arity"
+    },
+    {
+        ". The description Polish refers to the ": null
+    },
+    {
+        "nationality": "nationality"
+    },
+    {
+        " of ": null
+    },
+    {
+        "logician": "logician"
+    },
+    {
+        " Jan Łukasiewicz": "jan łukasiewicz"
+    },
+    {
+        ", who invented Polish notation in 42     The term Polish notation is sometimes taken  to also include reverse Polish notation.     When Polish notation is used as a syntax for mathematical expressions by ": null
+    },
+    {
+        "programming language": "programming language"
+    },
+    {
+        " interpreter": "interpreter"
+    },
+    {
+        "s, it is readily parsed into ": null
+    },
+    {
+        "abstract syntax tree": "abstract syntax tree"
+    },
+    {
+        "s and can, in fact, define a ": null
+    },
+    {
+        "one-to-one representation": "bijection"
+    },
+    {
+        " for the same. Because of this, ": null
+    },
+    {
+        "Lisp": "lisp"
+    },
+    {
+        "  and related programming languages define their entire syntax in prefix notation .     A quotation from a paper by ": null
+    },
+    {
+        "Jan Łukasiewicz": "jan łukasiewicz"
+    },
+    {
+        ", Remarks on Nicods Axiom and on Generalizing Deduction , page 42 states how the notation was invented:   I came upon the idea of a parenthesis-free notation in 42 I used that notation for the first time in my article Łukasiewicz, p. 42 footnote.     The reference cited by Łukasiewicz is apparently a lithographed report in ": null
+    },
+    {
+        "Polish": "polish language"
+    },
+    {
+        ". The referring paper by Łukasiewicz Remarks on Nicods Axiom and on Generalizing Deduction  was reviewed by ": null
+    },
+    {
+        "Henry A. Pogorzelski": "henry pogorzelski"
+    },
+    {
+        " in the Journal of Symbolic Logic in 42 ": null
+    },
+    {
+        "Heinrich Behmann": "heinrich behmann"
+    },
+    {
+        ", editor in 42 of the article of ": null
+    },
+    {
+        "Moses Schönfinkel": "moses schönfinkel"
+    },
+    {
+        " already had the idea of eliminating parentheses in logic formulas.     ": null
+    },
+    {
+        "Alonzo Church": "alonzo church"
+    },
+    {
+        " mentions this notation in his classic book on ": null
+    },
+    {
+        "mathematical logic": "mathematical logic"
+    },
+    {
+        " as worthy of remark in notational systems even contrasted to ": null
+    },
+    {
+        "Alfred Whitehead": "alfred north whitehead"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Bertrand Russell": "bertrand russell"
+    },
+    {
+        "s logical notational exposition and work in ": null
+    },
+    {
+        "Principia Mathematica": "principia mathematica"
+    },
+    {
+        ".     In Łukasiewiczs 42 book, Aristotles Syllogistic from the Standpoint of Modern Formal Logic, he mentions that the principle of his notation was to write the ": null
+    },
+    {
+        "functor": "function symbol"
+    },
+    {
+        "s before the ": null
+    },
+    {
+        "argument": "argument of a function"
+    },
+    {
+        "s to avoid brackets and that he had employed his notation in his logical papers since 42 He then goes on to cite, as an example, a 42 paper he wrote with ": null
+    },
+    {
+        "Alfred Tarski": "alfred tarski"
+    },
+    {
+        " on the ": null
+    },
+    {
+        "sentential calculus": "propositional calculus"
+    },
+    {
+        ".     While no longer used much in logic, Polish notation has since found a place in ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        ".       The expression for adding the numbers 42 and 42 is written in Polish notation as  , rather than as  . In more complex expressions, the operators still precede their operands, but the operands may themselves be expressions including again operators and their operands. For instance, the expression that would be written in conventional infix notation as   :    can be written in Polish notation as   :    Assuming a given ": null
+    },
+    {
+        "arity": "arity"
+    },
+    {
+        " of all involved operators , any well formed prefix representation thereof is unambiguous, and brackets within the prefix expression are unnecessary. As such, the above expression can be further simplified to   :      The processing of the product is deferred until its two operands are available . As with any notation, the innermost expressions are evaluated first, but in Polish notation this innermost-ness can be conveyed by the sequence of operators and operands rather than by bracketing.     In the conventional infix notation, parentheses are required to override the standard ": null
+    },
+    {
+        "precedence rules": "order of operations"
+    },
+    {
+        ", since, referring to the above example, moving them   :    or removing them   :    changes the meaning and the result of the expression. This version is written in Polish notation as   : .     When dealing with non-commutative operations, like division or subtraction, it is necessary to coordinate the sequential arrangement of the operands with the definition of how the operator takes its arguments, i.e., from left to right. For example, , with 42 left to 42 has the meaning of 42 ÷ 42 , or , with 42 left to 42 has the meaning of 42 - 42 .       Prefix/postfix notation is especially popular for its innate ability to express the intended order of operations without the need for parentheses and other precedence rules, as are usually employed with ": null
+    },
+    {
+        "infix notation": "infix notation"
+    },
+    {
+        ". Instead, the notation uniquely indicates which operator to evaluate first. The operators are assumed to have a fixed ": null
+    },
+    {
+        "arity": "arity"
+    },
+    {
+        " each, and all necessary operands are assumed to be explicitly given. A valid prefix expression always starts with an operator and ends with an operand. Evaluation can either proceed from left to right, or in the opposite direction. Starting at the left, the input string, consisting of tokens denoting operators or operands, is pushed token for token on a ": null
+    },
+    {
+        "stack": "stack"
+    },
+    {
+        ", until the top entries of the stack contain the number of operands that fits to the top most operator . This group of tokens at the stacktop is replaced by the result of executing the operator on these/this operand. Then the processing of the input continues in this manner. The rightmost operand in a valid prefix expression thus empties the stack, except for the result of evaluating the whole expression. When starting at the right, the pushing of tokens is performed similarly, just the evaluation is triggered by an operator, finding the appropriate number of operands that fits its arity already at the stacktop. Now the leftmost token of a valid prefix expression must be an operator, fitting to the number of operands in the stack, which again yields the result. As can be seen from the description, a ": null
+    },
+    {
+        "push-down store": "deterministic pushdown automaton"
+    },
+    {
+        " with no capability of arbitrary stack inspection suffices to implement this ": null
+    },
+    {
+        "parsing": "parsing"
+    },
+    {
+        ".     The above sketched stack manipulation works –with mirrored input– also for expressions in ": null
+    },
+    {
+        "reverse Polish notation": "reverse polish notation"
+    },
+    {
+        ".       The table below shows the core of ": null
+    },
+    {
+        "Jan Łukasiewicz": "jan łukasiewicz"
+    },
+    {
+        "s notation for ": null
+    },
+    {
+        "sentential logic": "sentential logic"
+    },
+    {
+        ". Some letters in the Polish notation table stand for particular words in ": null
+    },
+    {
+        "Polish": "polish language"
+    },
+    {
+        ", as shown:          Note that the quantifiers ranged over propositional values in Łukasiewiczs work on many-valued logics.     ": null
+    },
+    {
+        "Bocheński": "józef maria bocheński"
+    },
+    {
+        " introduced a system of Polish notation that names all 42 binary ": null
+    },
+    {
+        "connectives": "logical connective"
+    },
+    {
+        " of classical propositional logic. For classical propositional logic, it is a compatible extension of the notation of Łukasiewicz. But the notations are incompatible in the sense that Bocheński uses L and M in propositional logic and Łukasiewicz uses L and M in modal logic.       Prefix notation has seen wide application in ": null
+    },
+    {
+        "Lisp": "lisp"
+    },
+    {
+        " s-expressions": "s-expressions"
+    },
+    {
+        ", where the brackets are required since the operators in the language are themselves data . Lisp functions may also be ": null
+    },
+    {
+        "variadic": "variadic function"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "Tcl": "tcl"
+    },
+    {
+        " programming language, much like Lisp also uses Polish notation through the mathop library. The Ambi programming language uses Polish notation for arithmetic operations and program construction.     Postfix notation is used in many ": null
+    },
+    {
+        "stack-oriented programming language": "stack-oriented programming language"
+    },
+    {
+        "s like ": null
+    },
+    {
+        "PostScript": "postscript"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Forth": "forth"
+    },
+    {
+        ". ": null
+    },
+    {
+        "CoffeeScript": "coffeescript"
+    },
+    {
+        " syntax also allows functions to be called using prefix notation, while still supporting the unary postfix syntax common in other languages.     The number of return values of an expression equals the difference between the number of operands in an expression and the total arity of the operators minus the total number of return values of the operators.     Polish notation, usually in postfix form, is the chosen notation of certain ": null
+    },
+    {
+        "calculator": "calculator"
+    },
+    {
+        "s, notably from ": null
+    },
+    {
+        "Hewlett-Packard": "hp calculators"
+    },
+    {
+        ". At a lower level, postfix operators are used by some ": null
+    },
+    {
+        "stack machines": "stack machines"
+    },
+    {
+        " such as the ": null
+    },
+    {
+        "Burroughs large systems": "burroughs large systems"
+    }
+]

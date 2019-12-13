@@ -1,0 +1,80 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        ", a virtual call capability, sometimes called a virtual call facility, is a ": null
+    },
+    {
+        "service feature": "service feature"
+    },
+    {
+        " in which:     a ": null
+    },
+    {
+        "call": "telephone call"
+    },
+    {
+        " set-up procedure and a call disengagement procedure determine the period of communication between two ": null
+    },
+    {
+        "DTEs": "data terminal equipment"
+    },
+    {
+        " in which ": null
+    },
+    {
+        "user": "user"
+    },
+    {
+        " data are transferred by a ": null
+    },
+    {
+        "packet switched": "packet switched"
+    },
+    {
+        " network   end-to-end ": null
+    },
+    {
+        "transfer": "call transfer"
+    },
+    {
+        " control of packets within the network is required   data may be delivered to the network by the ": null
+    },
+    {
+        "call originator": "call originator"
+    },
+    {
+        " before the call ": null
+    },
+    {
+        "access phase": "access phase"
+    },
+    {
+        " is completed, but the data are not delivered to the ": null
+    },
+    {
+        "call receiver": "call receiver"
+    },
+    {
+        " if the ": null
+    },
+    {
+        "call attempt": "call attempt"
+    },
+    {
+        " is unsuccessful   the network delivers all the user data to the call receiver in the same ": null
+    },
+    {
+        "sequence": "sequence"
+    },
+    {
+        " in which the data are received by the network   multi-access DTEs may have several virtual calls in progress at the same ": null
+    },
+    {
+        "time": "time"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "In the context of ": null
+    },
+    {
+        "prognostics": "prognostics"
+    },
+    {
+        ", a prognostic variable is a measured or estimated variable that is correlated with the health condition of a system, and may be used to predict its ": null
+    },
+    {
+        "residual useful life": "residual useful life"
+    },
+    {
+        ".     An ideal prognostic variable is easily measured or calculated, and provides an exact estimation of how long time the system can continue to operate before maintenance or replacement will be required. Real prognostic variables are usually either known with some uncertainty, may be difficult to measure, and their correlation to the state of health of the system may not be exact.     Examples of prognostic variables are the age of a vehicle and its ": null
+    },
+    {
+        "odometer": "odometer"
+    },
+    {
+        " reading: the older a car is, and the longer it has been driven, the more worn it can be expected to be. These prognostic variables are useful, but not ideal, since they do not consider other aspects such as the regularity of the maintenance that was applied on the vehicle, how they were driven, in which weather conditions, etc; they do, however, have the advantage of being easily measured, understood and verified, whereas an in-depth analysis of the mechanical condition of the vehicle would be expensive to perform, require specific skills to be understood and would be difficult to verify.       In ": null
+    },
+    {
+        "climate science": "climate science"
+    },
+    {
+        ", the term indicates a variable that a ": null
+    },
+    {
+        "computer model": "computer model"
+    },
+    {
+        " predicts by integration of a physical ": null
+    },
+    {
+        "equation": "equation"
+    },
+    {
+        ", typically ": null
+    },
+    {
+        "vorticity": "vorticity"
+    },
+    {
+        ", ": null
+    },
+    {
+        "divergence": "divergence"
+    },
+    {
+        ", ": null
+    },
+    {
+        "temperature": "temperature"
+    },
+    {
+        ", ": null
+    },
+    {
+        "surface pressure": "surface pressure"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "water vapour": "water vapour"
+    },
+    {
+        " concentration in atmospheric models.     The term prognostic is given to some values or variables that are directly predicted by the model, such as temperature, water vapour, salinity, depth in atmospheric or ocean models; i.e., variables that can be directly obtained as a model outcome. On the other hand, there are some other variables that need to be calculated separately as derived variables, such as ": null
+    },
+    {
+        "relative humidity": "relative humidity"
+    },
+    {
+        ", which may be a diagnostic variable obtained from the models prognostic variables, temperature and water vapour.            ": null
+    }
+]

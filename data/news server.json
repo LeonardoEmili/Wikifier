@@ -1,0 +1,98 @@
+[
+    {
+        "A news server is a collection of software used to handle ": null
+    },
+    {
+        "Usenet": "usenet"
+    },
+    {
+        " articles. It may also refer to a computer itself which is primarily or solely used for handling Usenet. A reader server provides an interface to read and post articles, generally with the assistance of a ": null
+    },
+    {
+        "news client": "news client"
+    },
+    {
+        ". A transit server exchanges articles with other servers. Most servers can provide both functions.       Modern transit servers usually use ": null
+    },
+    {
+        "NNTP": "network news transfer protocol"
+    },
+    {
+        " to exchange news continually over the ": null
+    },
+    {
+        "Internet": "internet"
+    },
+    {
+        " and similar always-on connections. In the past, servers normally employed the ": null
+    },
+    {
+        "UUCP": "uucp"
+    },
+    {
+        " protocol, which was designed for intermittent dial-up connections. Other ad hoc protocols, including ": null
+    },
+    {
+        "e-mail": "e-mail"
+    },
+    {
+        ", are less commonly seen. News servers normally connect with multiple peers, with the redundancy helping to spread loads and ensure that articles are not lost. Smaller sites, called leaf nodes, are connected to one other major server.     Articles are routed based on information found in the header lines defined in RFC 42 Of particular interest to a transit server are:    Message-ID  - a globally unique key   Newsgroups - a list of one or more ": null
+    },
+    {
+        "newsgroup": "newsgroup"
+    },
+    {
+        "s where the article is intended to appear   Distribution - a supplement to Newsgroups, used to restrict circulation of articles.   Date - the time when the article was created   Path - a list of the servers an article passed through on its way to the local server   Expires - the time when it is requested that the article be deleted   Approved - indicates an article that has been accepted for a ": null
+    },
+    {
+        "moderated newsgroup": "moderated newsgroup"
+    },
+    {
+        " Control - contains ": null
+    },
+    {
+        "command requests": "control message"
+    },
+    {
+        "     In most cases, the sending server controls the article transfer process. It compares the Newsgroups and Distribution of each newly arrived article against a set of patterns called newsfeeds, listing each remote server and the newsgroups its operator wishes to receive. Some senders also examine the Path; if the receiving server appears in this line, it is not offered. Other local rules may also be added. The sender transmits matching articles Message-IDs to the receiving server. The receiver indicates which Message-IDs it has not yet stored locally, and those articles are sent.     The receiving server examines the incoming articles. A message is normally discarded if the Message-ID is duplicated by an article already received , the Date or Expires lines indicate that the article is too old, the header syntax appears to be invalid, the Approved header is missing for a moderated newsgroup, or additional local rules disallow it. Most servers also maintain a list of active newsgroups. If the Newsgroups header of a new article does not match the active list, it may be discarded or placed in a special junk newsgroup. Once the article is stored, the server attempts to retransmit it to any servers in its own newsfeed list.     Articles with Control lines are given special handling. They are typically filed in special control newsgroups and may cause the server to automatically carry out exceptional actions. The  newgroup  and  rmgroup  commands can cause newsgroups to be created or removed;  checkgroups  can be used to reconcile the local active list with a commonly accepted set; and  cancel  commands are used to request the deletion of a specific article.  ihave  and  sendme  are sometimes used with UUCP to transmit lists of offered and wanted Message-IDs. Other commands  are requests for server configuration details. Once used to create network maps, they now are generally obsolete.     Specialized transit servers may omit some of these checks. Other hosts will then need to perform the checks, but the reduced processing overhead allows articles to be relayed in less time.       A reader server is one that makes the articles available in the hierarchical ": null
+    },
+    {
+        "disk": "hard disk"
+    },
+    {
+        " directory": "directory"
+    },
+    {
+        " format originated by ": null
+    },
+    {
+        "B News": "b news"
+    },
+    {
+        " 42, or offers the NNTP or ": null
+    },
+    {
+        "IMAP": "internet message access protocol"
+    },
+    {
+        " commands, for use by newsreaders. A reader server typically also works as a transit server, but it may operate independently or serve as an alternative interface to an ": null
+    },
+    {
+        "Internet forum": "internet forum"
+    },
+    {
+        ". When receiving news, this type of server must perform the additional steps of filing articles into newsgroups and assigning sequential numbers within each group. An Xref line is usually added, listing all the groups where the message appears and the sequence numbers. Unlike Message IDs, the numbers and ordering of articles will differ on each server; but related servers may force agreement by operating in a slave mode, re-using their siblings Xref lines. Reader servers typically also maintain a ": null
+    },
+    {
+        "News Overview": "nov"
+    },
+    {
+        " database that allows newsreaders to quickly obtain message summaries and present messages in threaded form.     Most reader servers support posting, either through NNTP or a special inews program. When an article is posted, the process is much the same as when a transit server receives news, but with additional checks. For posting, the server will normally fill in missing Path and Message-ID lines and check the syntax of headers intended for human readers, such as From and Subject. If the article is posted to a moderated group, the server will attempt to mail it to the newsgroup moderator if the Approved header is absent. Additional identity checks and filters are also typically applied at this point.       Smaller sites with limited network bandwidth may operate sucking or ": null
+    },
+    {
+        "cache": "cache"
+    },
+    {
+        " servers. These perform the same reader server role as conventional news servers, but themselves act as newsreaders to exchange articles with other reader servers. Hybrid servers allow greater flexibility in that received groups can be adjusted without manual intervention by remote server operators. They may also be the only available means to obtain articles from remote servers that do not offer conventional feeding.     Because hybrid servers usually use the posting function to send news, article headers are reformatted by the posting function and tracing information can be lost. Also, the delayed sucking process can result in excess activity on the remote reader servers. For these reasons, the use of hybrid servers is often discouraged or disallowed without prior agreement.            Among the operators and users of commercial news servers, common concerns are the continually increasing storage and network capacity requirements and their effects. Completion , retention and overall system performance are the topics of frequent discussion. With the increasing demands, it is common for the transit and reader server roles to be subdivided further into numbering, storage and front end systems. These server farms are continually monitored by both insiders and outsiders, and measurements of these characteristics are often used by consumers when choosing a commercial news service.             ": null
+    }
+]

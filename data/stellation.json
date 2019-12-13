@@ -1,0 +1,410 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "geometry": "geometry"
+    },
+    {
+        ", stellation is the process of extending a ": null
+    },
+    {
+        "polygon": "polygon"
+    },
+    {
+        " in two ": null
+    },
+    {
+        "dimension": "dimension"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "polyhedron": "polyhedron"
+    },
+    {
+        " in three dimensions, or, in general, a ": null
+    },
+    {
+        "polytope": "polytope"
+    },
+    {
+        " in n dimensions to form a new figure. Starting with an original figure, the process extends specific elements such as its edges or face planes, usually in a symmetrical way, until they meet each other again to form the closed boundary of a new figure. The new figure is a stellation of the original. The word stellation comes from the Latin stellātus, starred , which in turn comes from Latin stella, star .       In 42 ": null
+    },
+    {
+        "Kepler": "kepler"
+    },
+    {
+        " defined stellation for polygons and polyhedra as the process of extending edges or faces until they meet to form a new polygon or polyhedron.     He stellated the regular ": null
+    },
+    {
+        "dodecahedron": "dodecahedron"
+    },
+    {
+        " to obtain two regular star polyhedra, the ": null
+    },
+    {
+        "small stellated dodecahedron": "small stellated dodecahedron"
+    },
+    {
+        " and ": null
+    },
+    {
+        "great stellated dodecahedron": "great stellated dodecahedron"
+    },
+    {
+        ". He also stellated the regular ": null
+    },
+    {
+        "octahedron": "octahedron"
+    },
+    {
+        " to obtain the ": null
+    },
+    {
+        "stella octangula": "stella octangula"
+    },
+    {
+        ", a regular compound of two tetrahedra.       Stellating a regular polygon symmetrically creates a regular ": null
+    },
+    {
+        "star polygon": "star polygon"
+    },
+    {
+        " or ": null
+    },
+    {
+        "polygonal compound": "star polygonstar figures"
+    },
+    {
+        ". These polygons are characterised by the number of times m that the polygonal boundary winds around the centre of the figure. Like all regular polygons, their vertices lie on a circle. m also corresponds to the number of vertices around the circle to get from one end of a given edge to the other, starting at 42     A regular star polygon is represented by its ": null
+    },
+    {
+        "Schläfli symbol": "schläfli symbol"
+    },
+    {
+        " , where n is the number of vertices, m is the step used in sequencing the edges around it, and m and n are ": null
+    },
+    {
+        "co-prime": "co-prime"
+    },
+    {
+        " . Making m 42 gives the convex . m also must be less than half of n; otherwise the lines will either be parallel or diverge, preventing the figure from ever closing.     If n and m do have a common divisor, then the figure is a regular compound. For example is the regular compound of two triangles or ": null
+    },
+    {
+        "hexagram": "hexagram"
+    },
+    {
+        ", while is a compound of two pentagrams .     Some authors use the Schläfli symbol for such regular compounds. Others regard the symbol as indicating a single path which is wound m times around n/m vertex points, such that one edge is superimposed upon another and each vertex point is visited m times. In this case a modified symbol may be used for the compound, for example 42 for the hexagram and 42 for the regular compound of two pentagrams.     A regular n-gon has /42 stellations if n is even , and /42 stellations if n is odd.           Like the ": null
+    },
+    {
+        "heptagon": "heptagon"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "octagon": "octagon"
+    },
+    {
+        " also has two ": null
+    },
+    {
+        "octagram": "octagram"
+    },
+    {
+        "mic stellations, one, being a ": null
+    },
+    {
+        "star polygon": "star polygon"
+    },
+    {
+        ", and the other, , being the compound of two ": null
+    },
+    {
+        "squares": "square"
+    },
+    {
+        ".              A polyhedron is stellated by extending the edges or face planes of a polyhedron until they meet again to form a new polyhedron or compound. The interior of the new polyhedron is divided by the faces into a number of cells. The face planes of a polyhedron may divide space into many such cells, and as the stellation process continues then more of these cells will be enclosed. For a symmetrical polyhedron, these cells will fall into groups, or sets, of congruent cells – we say that the cells in such a congruent set are of the same type. A common method of finding stellations involves selecting one or more cell types.     This can lead to a huge number of possible forms, so further criteria are often imposed to reduce the set to those stellations that are significant and unique in some way.     A set of cells forming a closed layer around its core is called a shell. For a symmetrical polyhedron, a shell may be made up of one or more cell types.     Based on such ideas, several restrictive categories of interest have been identified.   Main-line stellations. Adding successive shells to the core polyhedron leads to the set of main-line stellations.   Fully supported stellations. The underside faces of a cell can appear externally as an overhang. In a fully supported stellation there are no such overhangs, and all visible parts of a face are seen from the same side.   Monoacral stellations. Literally single-peaked. Where there is only one kind of peak, or vertex, in a stellation , the stellation is monoacral. All such stellations are fully supported.   Primary stellations. Where a polyhedron has planes of mirror symmetry, edges falling in these planes are said to lie in primary lines. If all edges lie in primary lines, the stellation is primary. All primary stellations are fully supported.   Miller stellations. In The Fifty-Nine Icosahedra ": null
+    },
+    {
+        "Coxeter": "h.s.m. coxeter"
+    },
+    {
+        ", Du Val, Flather and Petrie record five rules suggested by ": null
+    },
+    {
+        "Miller": "j. c. p. miller"
+    },
+    {
+        ". Although these rules refer specifically to the icosahedrons geometry, they have been adapted to work for arbitrary polyhedra. They ensure, among other things, that the rotational symmetry of the original polyhedron is preserved, and that each stellation is different in outward appearance. The four kinds of stellation just defined are all subsets of the Miller stellations.     We can also identify some other categories:   A partial stellation is one where not all elements of a given dimensionality are extended.   A sub-symmetric stellation is one where not all elements are extended symmetrically.     The ": null
+    },
+    {
+        "Archimedean solids": "archimedean solids"
+    },
+    {
+        " and their duals can also be stellated. Here we usually add the rule that all of the original face planes must be present in the stellation, i.e. we do not consider partial stellations. For example the ": null
+    },
+    {
+        "cube": "cube"
+    },
+    {
+        " is not usually considered a stellation of the ": null
+    },
+    {
+        "cuboctahedron": "cuboctahedron"
+    },
+    {
+        ".     Generalising Millers rules there are:   42 stellations of the ": null
+    },
+    {
+        "rhombic dodecahedron": "rhombic dodecahedron"
+    },
+    {
+        " triakis tetrahedron": "triakis tetrahedron"
+    },
+    {
+        " rhombic triacontahedron": "rhombic triacontahedron"
+    },
+    {
+        " cuboctahedron": "cuboctahedron"
+    },
+    {
+        "    Unknown number of stellations of the ": null
+    },
+    {
+        "icosidodecahedron": "icosidodecahedron"
+    },
+    {
+        "; there are 42 non-": null
+    },
+    {
+        "chiral": "chirality"
+    },
+    {
+        " stellations, but the number of chiral stellations is unknown.      Seventeen of the nonconvex uniform polyhedra are stellations of Archimedean solids.       In the book  The fifty nine icosahedra , J.C.P. Miller proposed a ": null
+    },
+    {
+        "set of rules": "the fifty nine icosahedramillers rules"
+    },
+    {
+        " for defining which stellation forms should be considered properly significant and distinct .     These rules have been adapted for use with stellations of many other polyhedra. Under Millers rules we find:   There are no stellations of the ": null
+    },
+    {
+        "tetrahedron": "tetrahedron"
+    },
+    {
+        ", because all faces are adjacent   There are no stellations of the ": null
+    },
+    {
+        "cube": "cube"
+    },
+    {
+        ", because non-adjacent faces are parallel and thus cannot be extended to meet in new edges   There is 42 stellation of the ": null
+    },
+    {
+        "octahedron": "octahedron"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "stella octangula": "stella octangula"
+    },
+    {
+        " dodecahedron": "dodecahedron"
+    },
+    {
+        ": the ": null
+    },
+    {
+        "small stellated dodecahedron": "small stellated dodecahedron"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "great dodecahedron": "great dodecahedron"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "great stellated dodecahedron": "great stellated dodecahedron"
+    },
+    {
+        ", all of which are Kepler–Poinsot polyhedra.   There are 42 stellations of the ": null
+    },
+    {
+        "icosahedron": "icosahedron"
+    },
+    {
+        ", including the ": null
+    },
+    {
+        "great icosahedron": "great icosahedron"
+    },
+    {
+        " , and the ": null
+    },
+    {
+        "second": "second stellation of icosahedron"
+    },
+    {
+        " and ": null
+    },
+    {
+        "final": "final stellation of the icosahedron"
+    },
+    {
+        " stellations of the icosahedron. The 42th model in The fifty nine icosahedra is the original icosahedron itself.     Many Miller stellations cannot be obtained directly by using Keplers method. For example many have hollow centres where the original faces and edges of the core polyhedron are entirely missing: there is nothing left to be stellated. On the other hand, Keplers method also yields stellations which are forbidden by Millers rules since their cells are edge- or vertex-connected, even though their faces are single polygons. This discrepancy received no real attention until Inchbald .       Millers rules by no means represent the correct way to enumerate stellations. They are based on combining parts within the stellation diagram in certain ways, and dont take into account the topology of the resulting faces. As such there are some quite reasonable stellations of the icosahedron that are not part of their list – one was identified by James Bridge in 42 while some Miller stellations are questionable as to whether they should be regarded as stellations at all – one of the icosahedral set comprises several quite disconnected cells floating symmetrically in space.     As yet an alternative set of rules that takes this into account has not been fully developed. Most progress has been made based on the notion that stellation is the reciprocal or dual process to  facetting , whereby parts are removed from a polyhedron without creating any new vertices. For every stellation of some polyhedron, there is a ": null
+    },
+    {
+        "dual": "duality"
+    },
+    {
+        " facetting of the ": null
+    },
+    {
+        "dual polyhedron": "dual polyhedron"
+    },
+    {
+        ", and vice versa. By studying facettings of the dual, we gain insights into the stellations of the original. Bridge found his new stellation of the icosahedron by studying the facettings of its dual, the dodecahedron.     Some polyhedronists take the view that stellation is a two-way process, such that any two polyhedra sharing the same face planes are stellations of each other. This is understandable if one is devising a general algorithm suitable for use in a computer program, but is otherwise not particularly helpful.     Many examples of stellations can be found in the ": null
+    },
+    {
+        "list of Wenningers stellation models": "list of wenninger polyhedron modelsstellations: models w19 to w66"
+    },
+    {
+        ".         The stellation process can be applied to higher dimensional polytopes as well. A ": null
+    },
+    {
+        "stellation diagram": "stellation diagram"
+    },
+    {
+        " of an n-polytope exists in an -dimensional ": null
+    },
+    {
+        "hyperplane": "hyperplane"
+    },
+    {
+        " of a given ": null
+    },
+    {
+        "facet": "facet"
+    },
+    {
+        ".     For example, in 42-space, the ": null
+    },
+    {
+        "great grand stellated 42-cell": "great grand stellated 120-cell"
+    },
+    {
+        " is the final stellation of the ": null
+    },
+    {
+        "regular 42-polytope": "regular 4-polytope"
+    },
+    {
+        " 42-cell": "120-cell"
+    },
+    {
+        ".       The first systematic naming of stellated polyhedra was ": null
+    },
+    {
+        "Cayley": "arthur cayley"
+    },
+    {
+        "s naming of the regular star polyhedra . This system was widely, but not always systematically, adopted for other polyhedra and higher polytopes.     ": null
+    },
+    {
+        "John Conway": "john horton conway"
+    },
+    {
+        " devised a terminology for stellated ": null
+    },
+    {
+        "polygon": "polygon"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "polyhedra": "polyhedron"
+    },
+    {
+        " and ": null
+    },
+    {
+        "polychora": "polychoron"
+    },
+    {
+        " . In this system the process of extending edges to create a new figure is called stellation, that of extending faces is called greatening and that of extending cells is called aggrandizement . This allows a systematic use of words such as stellated, great, and grand in devising names for the resulting figures. For example Conway proposed some minor variations to the names of the ": null
+    },
+    {
+        "Kepler–Poinsot polyhedra": "kepler–poinsot_polyhedrahistory"
+    },
+    {
+        ".       Wenninger noticed that some polyhedra, such as the cube, do not have any finite stellations. However stellation cells can be constructed as prisms which extend to infinity. The figure comprising these prisms is a  stellation to infinity . By most definitions of a polyhedron, these stellations are not strictly polyhedra.     Wenningers figures occurred as ": null
+    },
+    {
+        "duals": "dual polyhedron"
+    },
+    {
+        " of the uniform ": null
+    },
+    {
+        "hemipolyhedra": "hemipolyhedron"
+    },
+    {
+        ", where the hemi faces dualise to vertices at infinity.                 Alongside from his contributions to mathematics, ": null
+    },
+    {
+        "Magnus Wenninger": "magnus wenninger"
+    },
+    {
+        " is described in the context of the relationship of ": null
+    },
+    {
+        "mathematics and art": "mathematics and art"
+    },
+    {
+        " as making especially beautiful models of complex stellated polyhedra.           The ": null
+    },
+    {
+        "Italian Renaissance": "italian renaissance"
+    },
+    {
+        " artist ": null
+    },
+    {
+        "Paolo Uccello": "paolo uccello"
+    },
+    {
+        " created a floor mosaic showing a small stellated dodecahedron in the ": null
+    },
+    {
+        "Basilica of St Mark, Venice": "basilica of st mark, venice"
+    },
+    {
+        ", c. 42 Uccellos depiction was used as the symbol for the ": null
+    },
+    {
+        "Venice Biennale": "venice biennale"
+    },
+    {
+        " in 42 on the topic of Art and Science .  The same stellation is central to two ": null
+    },
+    {
+        "lithograph": "lithograph"
+    },
+    {
+        "s by ": null
+    },
+    {
+        "M. C. Escher": "m. c. escher"
+    },
+    {
+        ": Contrast , 42 and  Gravitation , 42 ": null
+    }
+]

@@ -1,0 +1,443 @@
+[
+    {
+        "      NetBIOS  is an acronym for Network Basic Input/Output System. It provides services related to the ": null
+    },
+    {
+        "session layer": "session layer"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "OSI model": "osi model"
+    },
+    {
+        " allowing applications on separate computers to communicate over a ": null
+    },
+    {
+        "local area network": "local area network"
+    },
+    {
+        ". As strictly an ": null
+    },
+    {
+        "API": "application programming interface"
+    },
+    {
+        ", NetBIOS is not a ": null
+    },
+    {
+        "networking protocol": "networking protocol"
+    },
+    {
+        ". Older ": null
+    },
+    {
+        "operating system": "operating system"
+    },
+    {
+        "s ran NetBIOS over ": null
+    },
+    {
+        "IEEE 42": "ieee 802.2"
+    },
+    {
+        " and ": null
+    },
+    {
+        "IPX/SPX": "ipx/spx"
+    },
+    {
+        " using the ": null
+    },
+    {
+        "NetBIOS Frames": "netbios frames protocol"
+    },
+    {
+        " and ": null
+    },
+    {
+        "NetBIOS over IPX/SPX": "netbios over ipx/spx"
+    },
+    {
+        " protocols, respectively. In modern networks, NetBIOS normally runs over ": null
+    },
+    {
+        "TCP/IP": "tcp/ip"
+    },
+    {
+        " via the ": null
+    },
+    {
+        "NetBIOS over TCP/IP": "netbios over tcp/ip"
+    },
+    {
+        " protocol. This results in each computer in the network having both an ": null
+    },
+    {
+        "IP address": "ip address"
+    },
+    {
+        " and a NetBIOS name corresponding to a host name.       NetBIOS is an OSI Session Layer 42 Protocol and a service that allows applications on computers to communicate with one another over a ": null
+    },
+    {
+        "local area network": "local area network"
+    },
+    {
+        " . It is a non-routable Protocol and NetBIOS stands for Network Basic Input/Output System. NetBIOS was developed in 42 by ": null
+    },
+    {
+        "Sytek Inc": "sytek inc"
+    },
+    {
+        ". as an ": null
+    },
+    {
+        "API": "application programming interface"
+    },
+    {
+        " for software communication over ": null
+    },
+    {
+        "IBM PC Network": "ibm pc network"
+    },
+    {
+        " LAN technology. On PC-Network, as an API alone, NetBIOS relied on proprietary Sytek networking protocols for communication over the wire. Despite supporting a maximum of 42 PCs in a LAN, NetBIOS became an industry standard.     In 42 IBM went forward with the ": null
+    },
+    {
+        "token ring": "token ring"
+    },
+    {
+        " network scheme and a NetBIOS ": null
+    },
+    {
+        "emulator": "emulator"
+    },
+    {
+        " was produced to allow NetBIOS-aware applications from the PC-Network era to work over this new design. This emulator, named NetBIOS Extended User Interface , expanded the base NetBIOS API with, among other things, the ability to deal with the greater node capacity of token ring. A new networking protocol, ": null
+    },
+    {
+        "NBF": "netbios frames protocol"
+    },
+    {
+        ", was simultaneously produced to allow NetBEUI to provide its services over token ring – specifically, at the ": null
+    },
+    {
+        "IEEE 42": "ieee 802.2"
+    },
+    {
+        " Logical Link Control": "logical link control"
+    },
+    {
+        " layer.     In 42 ": null
+    },
+    {
+        "Microsoft": "microsoft"
+    },
+    {
+        " created a NetBIOS implementation for its ": null
+    },
+    {
+        "MS-Net": "ms-net"
+    },
+    {
+        " networking technology. As in the case of IBMs token ring, the services of Microsofts NetBIOS implementation were provided over the IEEE 42 Logical Link Control layer by the ": null
+    },
+    {
+        "NBF": "netbios frames protocol"
+    },
+    {
+        " protocol. Until Microsoft adopted ": null
+    },
+    {
+        "Domain Name System": "domain name system"
+    },
+    {
+        " resolution of ": null
+    },
+    {
+        "hostname": "hostname"
+    },
+    {
+        "s Microsoft operating systems used NetBIOS to resolve names in Windows ": null
+    },
+    {
+        "client-server networks": "client–server model"
+    },
+    {
+        ".     In 42 ": null
+    },
+    {
+        "Novell": "novell"
+    },
+    {
+        " released Advanced ": null
+    },
+    {
+        "Novell NetWare": "novell netware"
+    },
+    {
+        " 42 featuring the companys own NetBIOS emulator. Its services were encapsulated within NetWares ": null
+    },
+    {
+        "IPX/SPX": "ipx/spx"
+    },
+    {
+        " protocol using the ": null
+    },
+    {
+        "NetBIOS over IPX/SPX": "netbios over ipx/spx"
+    },
+    {
+        " protocol.     In 42 a method of encapsulating NetBIOS in ": null
+    },
+    {
+        "TCP": "transmission control protocol"
+    },
+    {
+        " and ": null
+    },
+    {
+        "UDP": "user datagram protocol"
+    },
+    {
+        " packets, ": null
+    },
+    {
+        "NetBIOS over TCP/IP": "netbios over tcp/ip"
+    },
+    {
+        " , was published. It was described in RFC 42 and RFC 42 . The NBT protocol was developed in order to allow an implementation to be built on virtually any type of system where the TCP/IP protocol suite is available, and to allow NetBIOS interoperation in the Internet.     After the ": null
+    },
+    {
+        "PS/42": "ibm personal system/2"
+    },
+    {
+        " computer hit the market in 42 IBM released the PC LAN Support Program, which included a driver for NetBIOS.     Worth noting is the popular confusion between the names NetBIOS and NetBEUI. NetBEUI originated strictly as the ": null
+    },
+    {
+        "moniker": "moniker"
+    },
+    {
+        " for IBMs enhanced 42 NetBIOS emulator for ": null
+    },
+    {
+        "token ring": "token ring"
+    },
+    {
+        ". The name NetBEUI should have died there, considering that at the time, the NetBIOS implementations by other companies were known simply as NetBIOS regardless of whether they incorporated the API extensions found in that emulator. For MS-Net, however, Microsoft elected to name its implementation of the ": null
+    },
+    {
+        "NBF": "netbios frames protocol"
+    },
+    {
+        " protocol NetBEUI – literally naming its implementation of the transport protocol after IBMs second version of the API. Consequently, even today, Microsoft file and printer sharing over ": null
+    },
+    {
+        "Ethernet": "ethernet"
+    },
+    {
+        " continues to be called NetBEUI, with the name NetBIOS commonly used only in reference to file and printer sharing over ": null
+    },
+    {
+        "TCP/IP": "tcp/ip"
+    },
+    {
+        ". In truth, the former is the ": null
+    },
+    {
+        "NetBIOS Frames protocol ": "netbios frames protocol"
+    },
+    {
+        ", and the latter is ": null
+    },
+    {
+        "NetBIOS over TCP/IP ": "netbios over tcp/ip"
+    },
+    {
+        ".     Since its original publishing in a technical reference book from IBM, the NetBIOS API specification has become a ": null
+    },
+    {
+        "de facto standard": "de facto standard"
+    },
+    {
+        ".       NetBIOS provides three distinct services:   Name service for name registration and ": null
+    },
+    {
+        "resolution": "name resolution"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Datagram": "datagram"
+    },
+    {
+        " distribution service for connectionless communication.   ": null
+    },
+    {
+        "Session": "session"
+    },
+    {
+        " service for ": null
+    },
+    {
+        "connection-oriented": "connection-oriented"
+    },
+    {
+        " communication.            In order to start sessions or distribute datagrams, an application must register its NetBIOS name using the name service. NetBIOS names are 42 octets in length and vary based on the particular implementation. Frequently, the 42th octet, called the NetBIOS Suffix, designates the type of resource, and can be used to tell other applications what type of services the system offers. In ": null
+    },
+    {
+        "NBT": "netbios over tcp/ip"
+    },
+    {
+        ", the name service operates on UDP port 42 .     The name service primitives offered by NetBIOS are:   Add name – registers a NetBIOS name.   Add group name – registers a NetBIOS group name.   Delete name – un-registers a NetBIOS name or group name.   Find name – looks up a NetBIOS name on the network.     NetBIOS name resolution is not supported by Microsoft for ": null
+    },
+    {
+        "Internet Protocol Version 42 ": "ipv6"
+    },
+    {
+        ".       Datagram mode is ": null
+    },
+    {
+        "connectionless": "connectionless"
+    },
+    {
+        "; the application is responsible for error detection and recovery. In ": null
+    },
+    {
+        "NBT": "netbios over tcp/ip"
+    },
+    {
+        ", the datagram service runs on UDP port 42     The datagram service primitives offered by NetBIOS are:   Send Datagram – send a datagram to a remote NetBIOS name.   Send Broadcast Datagram – send a datagram to all NetBIOS names on the network.   Receive Datagram – wait for a packet to arrive from a Send Datagram operation.   Receive Broadcast Datagram – wait for a packet to arrive from a Send Broadcast Datagram operation.       Session mode lets two computers establish a connection, allows messages to span multiple packets, and provides error detection and recovery. In ": null
+    },
+    {
+        "NBT": "netbios over tcp/ip"
+    },
+    {
+        ", the session service runs on TCP port 42     The session service primitives offered by NetBIOS are:   Call – opens a session to a remote NetBIOS name.   Listen – listen for attempts to open a session to a NetBIOS name.   Hang Up – close a session.   Send – sends a packet to the computer on the other end of a session.   Send No Ack – like Send, but doesnt require an acknowledgment.   Receive – wait for a packet to arrive from a Send on the other end of a session.     In the original protocol used to implement NetworkBIOS services on PC-Network, to establish a session, the initiating computer sends an Open request which is answered by an Open acknowledgment. The computer that started the session will then send a Session Request packet which will prompt either a Session Accept or Session Reject packet.     During an established session, each transmitted packet is answered by either a positive-acknowledgment or negative-acknowledgment response. A NAK will prompt retransmission of the data. Sessions are closed by the non-initiating computer by sending a close request. The computer that started the session will reply with a close response which prompts the final session closed packet.       When NetBIOS is run in conjunction with ": null
+    },
+    {
+        "Internet protocol": "internet protocol suite"
+    },
+    {
+        "s , each computer may have multiple names: one or more NetBIOS name service names and one or more Internet host names.        This suffix describes the service or name record type such as host record, master browser record, or domain controller record or other services. The host name is specified when Windows networking is installed/configured, the suffixes registered are determined by the individual services supplied by the host. In order to connect to a computer running TCP/IP via its NetBIOS name, the name must be resolved to a ": null
+    },
+    {
+        "network address": "network address"
+    },
+    {
+        ". Today this is usually an ": null
+    },
+    {
+        "IP address": "ip address"
+    },
+    {
+        " . A computers NetBIOS name is often the same as that computers host name , although truncated to 42 characters, but it may also be completely different.     NetBIOS names are a sequence of alphanumeric characters. The following characters are explicitly not permitted: \\/:? | . Since Windows 42 NetBIOS names also had to comply with restrictions on DNS names: they cannot consist entirely of digits, and the hyphen or full-stop characters may not appear as the first or last character. Since Windows 42 Microsoft has advised against including any full-stop characters in NetBIOS names, such that applications can use the presence of a full-stop to distinguish domain names from NetBIOS names.     The Windows ": null
+    },
+    {
+        "LMHOSTS": "lmhosts"
+    },
+    {
+        " file provides a NetBIOS name resolution method that can be used for small networks that do not use a WINS server.       A Windows machines NetBIOS name is not to be confused with the computers Internet host name . Generally a computer running Internet protocols usually has a host name . Originally these names were stored in and provided by a ": null
+    },
+    {
+        "hosts file": "hosts"
+    },
+    {
+        " but today most such names are part of the hierarchical ": null
+    },
+    {
+        "Domain Name System": "domain name system"
+    },
+    {
+        " .     Generally the host name of a Windows computer is based on the NetBIOS name plus the Primary DNS Suffix, which are both set in the System Properties dialog box. There may also be connection-specific suffixes which can be viewed or changed on the DNS tab in Control Panel → Network → TCP/IP → Advanced Properties. Host names are used by ": null
+    },
+    {
+        "applications": "application layer"
+    },
+    {
+        " such as ": null
+    },
+    {
+        "telnet": "telnet"
+    },
+    {
+        ", ": null
+    },
+    {
+        "ftp": "ftp"
+    },
+    {
+        ", ": null
+    },
+    {
+        "web browser": "web browser"
+    },
+    {
+        "s, etc. To connect to a computer running the TCP/IP protocol using its name, the host name must be resolved into an ": null
+    },
+    {
+        "IP address": "ip address"
+    },
+    {
+        ", typically by a DNS server.       Under Windows, the node type of a networked ": null
+    },
+    {
+        "computer": "computer"
+    },
+    {
+        " relates to the way it resolves NetBIOS names to ": null
+    },
+    {
+        "IP address": "ip address"
+    },
+    {
+        "es. This assumes that there are any IP addresses for the NetBIOS nodes, which is assured only when NetBIOS operates over NBT; thus, node types are not a property of NetBIOS per se but of interaction between NetBIOS and TCP/IP in the Windows OS environment. There are four node types.   B-node: 42x42 Broadcast   P-node: 42x42 Peer   M-node: 42x42 Mixed   H-node: 42x42 Hybrid     The node type in use is displayed by opening a ": null
+    },
+    {
+        "command line": "command line"
+    },
+    {
+        " and typing ipconfig /all.   A ": null
+    },
+    {
+        "Windows": "microsoft windows"
+    },
+    {
+        " computer registry may also be configured in such a way as to display unknown for the node type.       The NetBIOS Suffix, alternately called the NetBIOS End Character , is the 42th character of a NetBIOS name and indicates service type for the registered name. The number of record types is limited to 42; some commonly used values are:     For unique names:   42: Workstation Service   42: ": null
+    },
+    {
+        "Windows Messenger service": "windows messenger service"
+    },
+    {
+        " Remote Access Service": "remote access service"
+    },
+    {
+        " File Service": "file server"
+    },
+    {
+        "   42: ": null
+    },
+    {
+        "Remote Access Service": "remote access service"
+    },
+    {
+        " client   42B: ": null
+    },
+    {
+        "Domain": "windows server domain"
+    },
+    {
+        " Master ": null
+    },
+    {
+        "Browser": "browser service"
+    },
+    {
+        " – Primary Domain Controller for a domain   42D: Master Browser     For group names:   42: Workstation Service   42C: ": null
+    },
+    {
+        "Domain Controllers": "domain controller"
+    }
+]

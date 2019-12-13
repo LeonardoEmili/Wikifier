@@ -1,0 +1,212 @@
+[
+    {
+        "Some elementary examples of groups in ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        " are given on ": null
+    },
+    {
+        "Group ": "group"
+    },
+    {
+        ".   Further examples are listed here.                 Consider three colored blocks , initially placed in the order RGB. Let a be the operation swap the first block and the second block , and b be the operation swap the second block and the third block .     We can write xy for the operation first do y, then do x ; so that ab is the operation RGB → RBG → BRG, which could be described as move the first two blocks one position to the right and put the third block into the first position . If we write e for leave the blocks as they are , then we can write the six permutations of the three blocks as follows:     e : RGB → RGB   a : RGB → GRB   b : RGB → RBG   ab : RGB → BRG   ba : RGB → GBR   aba : RGB → BGR     Note that aa has the effect RGB → GRB → RGB; so we can write aa e. Similarly, bb  e;   e; so every element has an inverse.     By inspection, we can determine associativity and closure; note in particular that b bab b.     Since it is built up from the basic operations a and b, we say that the set   generates  this group. The group, called the  symmetric group  S 42 , has ": null
+    },
+    {
+        "order": "order"
+    },
+    {
+        " 42 and is non-abelian .         A translation of the plane is a rigid movement of every point of the plane for a certain distance in a certain direction.   For instance move in the North-East direction for 42 miles is a translation of the plane.   If you have two such translations a and b, they can be composed to form a new translation a ∘ b as follows: first follow the prescription of b, then that of a.   For instance, if   :a move North-East for 42 miles   and   :b move South-East for 42 miles   then   :a ∘ b move East for 42 miles   .     The set of all translations of the plane with composition as operation forms a group:     If a and b are translations, then a ∘ b is also a translation.   Composition of translations is associative:  ∘ c a ∘ .   The identity element for this group is the translation with prescription move zero miles in whatever direction you like .   The inverse of a translation is given by walking in the opposite direction for the same distance.     This is an abelian group and our first example of a ": null
+    },
+    {
+        "Lie group": "lie group"
+    },
+    {
+        ": a group which is also a ": null
+    },
+    {
+        "manifold": "manifold"
+    },
+    {
+        ".     ": null
+    },
+    {
+        "symmetry group": "symmetry group"
+    },
+    {
+        " of a square: ": null
+    },
+    {
+        "dihedral group": "dihedral group"
+    },
+    {
+        " of order 42                Groups are very important to describe the ": null
+    },
+    {
+        "symmetry": "symmetry"
+    },
+    {
+        " of objects, be they geometrical  or algebraic .   As an example, we consider a glass square of a certain thickness .   In order to describe its symmetry, we form the set of all those rigid movements of the square that dont make a visible difference .   For instance, if you turn it by 42° clockwise, then it still looks the same, so this movement is one element of our set, lets call it a.   We could also flip it horizontally so that its underside become up.   Again, after performing this movement, the glass square looks the same, so this is also an element of our set and we call it b.   Then theres of course the movement that does nothing; its denoted by e.     Now if you have two such movements x and y, you can define the composition x ∘ y as above: you first perform the movement y and then the movement x.   The result will leave the slab looking like before.     The point is that the set of all those movements, with composition as operation, forms a group.   This group is the most concise description of the squares symmetry.   Chemists use symmetry groups of this type to describe the symmetry of crystals and molecules.     Lets investigate our squares symmetry group some more.   Right now, we have the elements a, b and e, but we can easily form more:   for instance a ∘ a, also written as a 42 , is a 42° degree turn.   a 42 is a 42° clockwise rotation .   We also see that b 42 e and also a 42 e.   Heres an interesting one: what does a ∘ b do?   First flip horizontally, then rotate.   Try to visualize that a ∘ b b ∘ a 42 .   Also, a 42 ∘ b is a vertical flip and is equal to b ∘ a 42 .     This group of order 42 has the following ": null
+    },
+    {
+        "Cayley table": "cayley table"
+    },
+    {
+        ":          For any two elements in the group, the table records what their composition is.     Here we wrote a 42 b as a shorthand for a 42 ∘ b.     In mathematics this group is known as the  dihedral group  of order 42 and is either denoted Dih 42 , D 42 or D 42 , depending on the convention.   This was an example of a non-abelian group: the operation ∘ here is not ": null
+    },
+    {
+        "commutative": "commutative"
+    },
+    {
+        ", which you can see from the table; the table is not symmetrical about the main diagonal.     The dihedral group of order 42 is isomorphic to the ": null
+    },
+    {
+        "permutation group generated by and ": ":file:dihedral group of order 8; cayley table ; subgroup of s4.svg"
+    },
+    {
+        ".         The ": null
+    },
+    {
+        "free group": "free group"
+    },
+    {
+        " with two generators a and b consists of all finite ": null
+    },
+    {
+        "string": "string"
+    },
+    {
+        "s that can be formed from the four symbols a, a −42 , b and b −42 such that no a appears directly next to an a −42 and no b appears directly next to a b −42 .   Two such strings can be concatenated and converted into a string of this type by repeatedly replacing the forbidden substrings with the empty string.   For instance: abab −42 a −42 concatenated with   abab −42 a yields abab −42 a −42 abab −42 a , which gets reduced to abaab −42 a .   One can check that the set of those strings with this operation forms a group with neutral element the empty string ε : .       This is another infinite non-abelian group.     Free groups are important in ": null
+    },
+    {
+        "algebraic topology": "algebraic topology"
+    },
+    {
+        "; the free group in two generators is also used for a proof of the ": null
+    },
+    {
+        "Banach–Tarski paradox": "banach–tarski paradox"
+    },
+    {
+        ".             Let G be a group and S a nonempty set.   The set of maps M is itself a group; namely for two maps f,g of S into G we define fg to be the map such that   fg for every x∈S and f & minus;42 to be the map such that f & minus;42   f & minus;42 .     Take maps f, g, and h in M.   For every x in S, f and g are both in G, and so is .   Therefore, fg is also in M, or M is closed.   For   h  h  f  f  ,   M is associative.   And there is a map i such that i    e where e is the unit element of G.   The map i makes all the functions f in M such that   if    fi    f, or i is the unit element of M.   Thus, M is actually a group.     If G is commutative, then   fg  gf    .   Therefore, so is M.             Let G be the set of bijective mappings of a set S onto itself. Then G forms a group under ordinary ": null
+    },
+    {
+        "composition": "function composition"
+    },
+    {
+        " of mappings. This group is called the ": null
+    },
+    {
+        "symmetric group": "symmetric group"
+    },
+    {
+        ", and is commonly denoted Sym, Σ S , or \\mathfrak_ . The unit element of G is the ": null
+    },
+    {
+        "identity map": "identity function"
+    },
+    {
+        " of S. For two maps f and g in G are bijective, fg is also bijective. Therefore, G is closed. The composition of maps is associative; hence G is a group. S may be either finite or infinite.         If n is some positive integer, we can consider the set of all invertible n by n ": null
+    },
+    {
+        "matrices": "matrix"
+    },
+    {
+        " over the ": null
+    },
+    {
+        "reals": "real number"
+    },
+    {
+        ", say.   This is a group with matrix multiplication as operation. It is called the  general linear group , GL.   Geometrically, it contains all combinations of rotations, reflections, dilations and skew transformations of n-dimensional ": null
+    },
+    {
+        "Euclidean space": "euclidean space"
+    },
+    {
+        " that ": null
+    },
+    {
+        "fix": "fixed point"
+    },
+    {
+        " a given point .     If we restrict ourselves to matrices with ": null
+    },
+    {
+        "determinant": "determinant"
+    },
+    {
+        " 42 then we get another group, the  special linear group , SL.   Geometrically, this consists of all the elements of GL that preserve both orientation and volume of the various ": null
+    },
+    {
+        "geometric solid": "geometric solid"
+    },
+    {
+        "s in Euclidean space.     If instead we restrict ourselves to ": null
+    },
+    {
+        "orthogonal": "orthogonal matrix"
+    },
+    {
+        " matrices, then we get the  orthogonal group  O.   Geometrically, this consists of all combinations of rotations and reflections that fix the origin.   These are precisely the transformations which preserve lengths and angles.     Finally, if we impose both restrictions, then we get the  special orthogonal group  SO, which consists of rotations only.     These groups are our first examples of infinite non-abelian groups. They are also happen to be ": null
+    },
+    {
+        "Lie group": "lie group"
+    },
+    {
+        "s. In fact, most of the important Lie groups can be expressed as matrix groups.     If this idea is generalised to matrices with ": null
+    },
+    {
+        "complex number": "complex number"
+    },
+    {
+        "s as entries, then we get further useful Lie groups, such as the ": null
+    },
+    {
+        "unitary group": "unitary group"
+    },
+    {
+        " U.   We can also consider matrices with ": null
+    },
+    {
+        "quaternion": "quaternion"
+    },
+    {
+        "s as entries; in this case, there is no well-defined notion of a determinant , but we can still define a group analogous to the orthogonal group, the  symplectic group  Sp.     Furthermore, the idea can be treated purely algebraically with matrices over any ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        ", but then the groups are not Lie groups.     For example, we have the ": null
+    },
+    {
+        "general linear group": "general linear group"
+    },
+    {
+        "s over ": null
+    },
+    {
+        "finite field": "finite field"
+    },
+    {
+        "s. The group theorist ": null
+    },
+    {
+        "J. L. Alperin": "j. l. alperin"
+    },
+    {
+        " has written that The typical example of a finite group is GL, the general linear group of n dimensions over the field with q elements. The student who is introduced to the subject with other examples is being completely misled.         ": null
+    },
+    {
+        "List of small groups": "list of small groups"
+    },
+    {
+        " List of the 42 crystallographic 42D space groups": "list of the 230 crystallographic 3d space groups"
+    },
+    {
+        "        ": null
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "   The plumber, in the ": null
+    },
+    {
+        "Plan 42 from Bell Labs": "plan 9 from bell labs"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Inferno": "inferno"
+    },
+    {
+        " operating systems, is a mechanism for reliable ": null
+    },
+    {
+        "uni": "unicast"
+    },
+    {
+        "- or ": null
+    },
+    {
+        "multicast": "multicast"
+    },
+    {
+        " inter-process communication": "inter-process communication"
+    },
+    {
+        " of formatted textual messages. It uses the Plan 42 network file protocol, ": null
+    },
+    {
+        "42P": "9p"
+    },
+    {
+        ", rather than a special-purpose IPC mechanism.     Any number of clients may listen on a named port for messages. Ports and port routing are defined by plumbing rules. These rules are dynamic. Each listening program receives a copy of matching messages. For example, if the data /sys/lib/plumb/basic is plumbed with the standard rules, it is sent to the edit": null
+    }
+]

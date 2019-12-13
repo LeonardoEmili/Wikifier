@@ -1,0 +1,128 @@
+[
+    {
+        "           In ": null
+    },
+    {
+        "physics": "physics"
+    },
+    {
+        ", a transverse wave is a moving ": null
+    },
+    {
+        "wave": "wave"
+    },
+    {
+        " whose oscillations are perpendicular to the direction of the wave.     A simple example is given by the waves that can be created on a horizontal length of string by anchoring one end and moving the other end up and down.     Another example is the waves that are created on the membrane of a ": null
+    },
+    {
+        "drum": "drum"
+    },
+    {
+        ". The waves propagate in directions that are parallel to the membrane plane, but the membrane itself gets displaced up and down, perpendicular to that plane.     ": null
+    },
+    {
+        "Light": "light"
+    },
+    {
+        " is another example of a transverse wave, where the oscillations are the ": null
+    },
+    {
+        "electric": "electric field"
+    },
+    {
+        " and ": null
+    },
+    {
+        "magnetic field": "magnetic field"
+    },
+    {
+        "s, which point at right angles to the ideal light rays that describe the direction of propagation.     Transverse waves commonly occur in ": null
+    },
+    {
+        "elastic": "elasticity"
+    },
+    {
+        " solids; the oscillations in this case are the displacement of the solid particles away from their relaxed position, in directions perpendicular to the propagation of the wave. Since those displacements correspond to a local ": null
+    },
+    {
+        "shear deformation": "shear deformation"
+    },
+    {
+        " of the material, a transverse wave of this nature is called a shear wave. In ": null
+    },
+    {
+        "seismology": "seismology"
+    },
+    {
+        ", shear waves are also called secondary waves or S-waves.     Transverse waves are contrasted with ": null
+    },
+    {
+        "longitudinal waves": "longitudinal waves"
+    },
+    {
+        ", where the oscillations occur in the direction of the wave. The standard example of a longitudinal wave is a ": null
+    },
+    {
+        "sound wave": "sound wave"
+    },
+    {
+        " or pressure wave in gases, liquids, or solids, whose oscillations cause compression and expansion of the material through which the wave is propagating. Pressure waves are called primary waves , or P-waves in geophysics.       Mathematically, the simplest kind of transverse wave is a plane linearly polarized sinusoidal one. Plane here means that the direction of propagation is unchanging and the same over the whole medium; ": null
+    },
+    {
+        "linearly polarized": "polarization"
+    },
+    {
+        " means that the direction of displacement too is unchanging and the same over the whole medium; and the magnitude of the displacement is a ": null
+    },
+    {
+        "sinusoidal": "sinusoidal"
+    },
+    {
+        " function only of time and of position along the direction of propagation.     The motion of such a wave can be expressed mathematically as follows. Let d be the direction of propagation , and o any reference point in the medium. Let u be the direction of the oscillations . The displacement of a particle at any point p of the medium and any time t will be   :S A u sin   where A is the waves amplitude or strength, T is its period, v is the speed of propagation, and φ is its phase at o. All these parameters are ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s. The symbol • denotes the ": null
+    },
+    {
+        "inner product": "inner product"
+    },
+    {
+        " of two vectors.     By this equation, the wave travels in the direction d and the oscillations occur back and forth along the direction u. The wave is said to be linearly polarized in the direction u.     An observer that looks at a fixed point p will see the particle there move in a simple ": null
+    },
+    {
+        "harmonic": "simple harmonic motion"
+    },
+    {
+        " motion with period T seconds, with maximum particle displacement A in each sense; that is, with a frequency of f 42/T full oscillation cycles every second. A snapshot of all particles at a fixed time t will show the same displacement for all particles on each plane perpendicular to d, with the displacements in successive planes forming a sinusoidal pattern, with each full cycle extending along d by the wavelength λ v T v/f. The whole pattern moves in the direction d with speed V.     The same equation describes a plane linearly polarized sinusoidal light wave, except that the displacement S is the electric field at point p and time t.        In a ": null
+    },
+    {
+        "homogeneous": "homogeneous"
+    },
+    {
+        " elastic medium": "linear medium"
+    },
+    {
+        ", complex oscillations can be described as the ": null
+    },
+    {
+        "superposition": "wave superposition"
+    },
+    {
+        " of many simple sinusoidal waves, either transverse or longitudinal.     The vibrations of a violin string, for example, can be analyzed as the sum of many transverse waves of different frequencies, that displace the string either up or down or left to right. The ripples in a pond can be analyzed as a combination of transverse and longitudinal waves  that propagate together.       If the medium is linear and allows multiple independent displacement directions for the same travel direction d, we can choose two mutually perpendicular directions of polarization, and express any wave linearly polarized in any other direction as a linear combination of those two waves.     By combining two waves with same frequency, velocity, and direction of travel, but with different phases and independent displacement directions, one obtains a ": null
+    },
+    {
+        "circularly": "circular polarization"
+    },
+    {
+        " or ": null
+    },
+    {
+        "elliptically polarized": "elliptical polarization"
+    },
+    {
+        " wave. In such a wave the particles describe circular or ellitcal trajectories, instead of moving back and forth.              ": null
+    }
+]

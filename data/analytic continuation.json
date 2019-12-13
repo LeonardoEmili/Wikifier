@@ -1,0 +1,185 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "complex analysis": "complex analysis"
+    },
+    {
+        ", a branch of ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", analytic continuation is a technique to extend the ": null
+    },
+    {
+        "domain": "domain of a function"
+    },
+    {
+        " of a given ": null
+    },
+    {
+        "analytic function": "analytic function"
+    },
+    {
+        ". Analytic continuation often succeeds in defining further values of a function, for example in a new region where an ": null
+    },
+    {
+        "infinite series": "infinite series"
+    },
+    {
+        " representation in terms of which it is initially defined becomes divergent.     The step-wise continuation technique may, however, come up against difficulties. These may have an essentially topological nature, leading to inconsistencies . They may alternatively have to do with the presence of ": null
+    },
+    {
+        "singularities": "mathematical singularities"
+    },
+    {
+        ". The case of ": null
+    },
+    {
+        "several complex variables": "several complex variables"
+    },
+    {
+        " is rather different, since singularities then need not be isolated points, and its investigation was a major reason for the development of ": null
+    },
+    {
+        "sheaf cohomology": "sheaf cohomology"
+    },
+    {
+        ".            Suppose f is an ": null
+    },
+    {
+        "analytic function": "analytic function"
+    },
+    {
+        " defined on a non-empty ": null
+    },
+    {
+        "open subset": "open set"
+    },
+    {
+        " U of the ": null
+    },
+    {
+        "complex plane": "complex plane"
+    },
+    {
+        " \\C. If V is a larger open subset of \\C, containing U, and F is an analytic function defined on V such that     : F f \\qquad \\forall z \\in U,     then F is called an analytic continuation of f. In other words, the ": null
+    },
+    {
+        "restriction": "restriction"
+    },
+    {
+        " of F to U is the function f we started with.     Analytic continuations are unique in the following sense: if V is the ": null
+    },
+    {
+        "connected": "connectedness"
+    },
+    {
+        " domain of two analytic functions F 42 and F 42 such that U is contained in V and for all z in U     : F_42 F_42 f,     then     : F_42F_42     on all of V. This is because F 42  −  F 42 is an analytic function which vanishes on the open, connected domain U of f and hence must vanish on its entire domain. This follows directly from the ": null
+    },
+    {
+        "identity theorem": "identity theorem"
+    },
+    {
+        " for ": null
+    },
+    {
+        "holomorphic function": "holomorphic function"
+    },
+    {
+        "s.       A common way to define functions in complex analysis proceeds by first specifying the function on a small domain only, and then extending it by analytic continuation.     In practice, this continuation is often done by first establishing some ": null
+    },
+    {
+        "functional equation": "functional equation"
+    },
+    {
+        " on the small domain and then using this equation to extend the domain. Examples are the ": null
+    },
+    {
+        "Riemann zeta function": "riemann zeta function"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "gamma function": "gamma function"
+    },
+    {
+        ".     The concept of a ": null
+    },
+    {
+        "universal cover": "universal cover"
+    },
+    {
+        " was first developed to define a natural domain for the analytic continuation of an ": null
+    },
+    {
+        "analytic function": "analytic function"
+    },
+    {
+        ". The idea of finding the maximal analytic continuation of a function in turn led to the development of the idea of ": null
+    },
+    {
+        "Riemann surface": "riemann surface"
+    },
+    {
+        "s.          Begin with a particular analytic function f . In this case, its given by a ": null
+    },
+    {
+        "power series": "power series"
+    },
+    {
+        " centered at z42 :     : f \\sum_^\\infty ^k ^k.     By the ": null
+    },
+    {
+        "Cauchy–Hadamard theorem": "cauchy–hadamard theorem"
+    },
+    {
+        ", its radius of convergence is 42 That is, f is defined and analytic on the open set U \\ 42 . Take 42  42 we define the so-called ": null
+    },
+    {
+        "prime zeta function": "prime zeta function"
+    },
+    {
+        ", P , to be     : P : \\sum_ p^.     This function is analogous to the summatory form of the ": null
+    },
+    {
+        "Riemann zeta function": "riemann zeta function"
+    },
+    {
+        " when \\Re /math math /math  math \\Re  42 \\forall x \\in \\R \\cap , \\exists k \\in \\Z^: \\qquad \\left\\| x-\\frac \\right\\|  42 , where the integrand is a function with denominator that depends on P in an essential way.       For integers c \\geq 42 , we define the ": null
+    },
+    {
+        "lacunary series": "lacunary series"
+    },
+    {
+        " of order c by the power series expansion     : \\mathcal_c : \\sum_ z^, |z|  \\setminus \\.         Let F be any function defined on the positive reals that satisfies all of the conditions - above. Then the integral representation of the scaled ": null
+    },
+    {
+        "Mellin transform": "mellin transform"
+    },
+    {
+        " of F at s, denoted by \\widetilde , has an ": null
+    },
+    {
+        "meromorphic": "meromorphic"
+    },
+    {
+        " continuation to the complex plane \\C \\setminus \\ . Moreover, we have that for any non-negative n \\in \\Z , the continuation of F at the point s : -n is given explicitly by the formula     : \\widetilde ^ \\times F^ \\equiv ^ \\times \\frac\\left |_.             We can apply the theorem to the function     : F_ : \\frac \\sum_ B_n \\frac,     which corresponds to the exponential ": null
+    },
+    {
+        "generating function": "generating function"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "Bernoulli numbers": "bernoulli numbers"
+    },
+    {
+        ", B_n . For \\Re /math math /math math /math  math  /math  math /math  math /math  math  42 to the values of \\zeta for 42 ": null
+    }
+]

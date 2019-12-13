@@ -1,0 +1,482 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a topological vector space  is one of the basic structures investigated in ": null
+    },
+    {
+        "functional analysis": "functional analysis"
+    },
+    {
+        ". A topological vector space is a ": null
+    },
+    {
+        "vector space": "vector space"
+    },
+    {
+        "  which is also a ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        ", the latter thereby admitting a notion of ": null
+    },
+    {
+        "continuity": "continuous function"
+    },
+    {
+        ". More specifically, its topological space has a ": null
+    },
+    {
+        "uniform topological structure": "uniform space"
+    },
+    {
+        ", allowing a notion of ": null
+    },
+    {
+        "uniform convergence": "uniform convergence"
+    },
+    {
+        ".     The elements of topological vector spaces are typically ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        "s or ": null
+    },
+    {
+        "linear operators": "linear map"
+    },
+    {
+        " acting on topological vector spaces, and the topology is often defined so as to capture a particular notion of ": null
+    },
+    {
+        "convergence": "limit convergence and fixed point"
+    },
+    {
+        " of sequences of functions.     ": null
+    },
+    {
+        "Hilbert space": "hilbert space"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "Banach space": "banach space"
+    },
+    {
+        "s are well-known examples.     Unless stated otherwise, the underlying field of a topological vector space is assumed to be either the ": null
+    },
+    {
+        "complex number": "complex number"
+    },
+    {
+        "s C or the ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s R.          A topological vector space X is a ": null
+    },
+    {
+        "vector space": "vector space"
+    },
+    {
+        " over a ": null
+    },
+    {
+        "topological field": "topological field"
+    },
+    {
+        " K  that is endowed with a ": null
+    },
+    {
+        "topology": "topological space"
+    },
+    {
+        " such that vector addition X × X → X and scalar multiplication K × X → X are ": null
+    },
+    {
+        "continuous functions": "continuous function"
+    },
+    {
+        " .     Some authors  require the topology on X to be ": null
+    },
+    {
+        "T 42 ": "t1 space"
+    },
+    {
+        "; it then follows that the space is ": null
+    },
+    {
+        "Hausdorff": "hausdorff space"
+    },
+    {
+        ", and even ": null
+    },
+    {
+        "Tychonoff": "tychonoff space"
+    },
+    {
+        ". The topological and linear algebraic structures can be tied together even more closely with additional assumptions, the most common of which are listed ": null
+    },
+    {
+        "below": "topological vector spacetypes"
+    },
+    {
+        ".     The ": null
+    },
+    {
+        "category": "category"
+    },
+    {
+        " of topological vector spaces over a given topological field K is commonly denoted TVS K or TVect K . The ": null
+    },
+    {
+        "objects": "object"
+    },
+    {
+        " are the topological vector spaces over K and the ": null
+    },
+    {
+        "morphism": "morphism"
+    },
+    {
+        "s are the ": null
+    },
+    {
+        "continuous K-linear map": "continuous linear map"
+    },
+    {
+        "s from one object to another.       Every ": null
+    },
+    {
+        "normed vector space": "normed vector space"
+    },
+    {
+        " has a natural ": null
+    },
+    {
+        "topological structure": "normed vector spacetopological structure"
+    },
+    {
+        ": the norm induces a ": null
+    },
+    {
+        "metric": "metric space"
+    },
+    {
+        " and the metric induces a topology. This is a topological vector space because:   The vector addition + : V × V → V is jointly continuous with respect to this topology. This follows directly from the ": null
+    },
+    {
+        "triangle inequality": "triangle inequality"
+    },
+    {
+        " obeyed by the norm.   The scalar multiplication · : K × V → V, where K is the underlying scalar field of V, is jointly continuous. This follows from the triangle inequality and homogeneity of the norm.     Therefore, all ": null
+    },
+    {
+        "Banach space": "banach space"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "Hilbert space": "hilbert space"
+    },
+    {
+        "s are examples of topological vector spaces.     There are topological vector spaces whose topology is not induced by a norm, but are still of interest in analysis. Examples of such spaces are spaces of ": null
+    },
+    {
+        "holomorphic function": "holomorphic function"
+    },
+    {
+        "s on an open domain, spaces of ": null
+    },
+    {
+        "infinitely differentiable function": "infinitely differentiable function"
+    },
+    {
+        "s, the ": null
+    },
+    {
+        "Schwartz space": "schwartz space"
+    },
+    {
+        "s, and spaces of ": null
+    },
+    {
+        "test function": "test function"
+    },
+    {
+        "s and the spaces of ": null
+    },
+    {
+        "distributions": "distribution"
+    },
+    {
+        " on them. These are all examples of ": null
+    },
+    {
+        "Montel space": "montel space"
+    },
+    {
+        "s. An infinite-dimensional Montel space is never normable. The existence of a norm for a given topological vector space is characterized by ": null
+    },
+    {
+        "Kolmogorovs normability criterion": "kolmogorovs normability criterion"
+    },
+    {
+        ".     A ": null
+    },
+    {
+        "topological field": "topological field"
+    },
+    {
+        " is a topological vector space over each of its ": null
+    },
+    {
+        "subfields": "field extension"
+    },
+    {
+        ".         A ": null
+    },
+    {
+        "cartesian product": "cartesian product"
+    },
+    {
+        " of a family of topological vector spaces, when endowed with the ": null
+    },
+    {
+        "product topology": "product topology"
+    },
+    {
+        ", is a topological vector space. For instance, the set X of all functions f  : R  → R: this set X can be identified with the product space R R and carries a natural ": null
+    },
+    {
+        "product topology": "product topology"
+    },
+    {
+        ". With this topology, X becomes a topological vector space, endowed with a topology called the topology of pointwise convergence . The reason for this name is the following: if  is a sequence of elements in X, then f n has ": null
+    },
+    {
+        "limit": "limit of a sequence"
+    },
+    {
+        " f in X if and only if f n  has limit f for every real number x. This space is complete, but not normable: indeed, every neighborhood of 42 in the product topology contains lines, i.e., sets K  f for f  ≠  42       A vector space is an ": null
+    },
+    {
+        "abelian group": "abelian group"
+    },
+    {
+        " with respect to the operation of addition, and in a topological vector space the inverse operation is always continuous . Hence, every topological vector space is an abelian ": null
+    },
+    {
+        "topological group": "topological group"
+    },
+    {
+        ".     Let X be a topological vector space. Given a ": null
+    },
+    {
+        "subspace": "subspace topology"
+    },
+    {
+        " M ⊂ X, the quotient space X/M with the usual ": null
+    },
+    {
+        "quotient topology": "quotient space"
+    },
+    {
+        " is a Hausdorff topological vector space if and only if M is closed. In particular, X is Hausdorff if and only if the set is closed . This permits the following construction: given a topological vector space X , form the quotient space X / M where M is the closure of . X / M is then a Hausdorff topological vector space that can be studied instead of X.     In particular, topological vector spaces are ": null
+    },
+    {
+        "uniform space": "uniform space"
+    },
+    {
+        "s and one can thus talk about ": null
+    },
+    {
+        "completeness": "completeness"
+    },
+    {
+        ", ": null
+    },
+    {
+        "uniform convergence": "uniform convergence"
+    },
+    {
+        " and ": null
+    },
+    {
+        "uniform continuity": "uniform continuity"
+    },
+    {
+        ".  The vector space operation of addition is uniformly continuous and the scalar multiplication is Cauchy continuous . Because of this, every topological vector space can be completed and is thus a ": null
+    },
+    {
+        "dense": "dense set"
+    },
+    {
+        " linear subspace": "linear subspace"
+    },
+    {
+        " of a complete topological vector space.     The  Birkhoff–Kakutani theorem  gives that the following three conditions on a topological vector space V are equivalent: Kŏthe , section 42.   The origin 42 is closed in V, and there is a ": null
+    },
+    {
+        "countable": "countable"
+    },
+    {
+        " basis of neighborhoods": "neighborhood basis"
+    },
+    {
+        " for 42 in V.   V is ": null
+    },
+    {
+        "metrizable": "metrizable"
+    },
+    {
+        " .   There is a ": null
+    },
+    {
+        "translation-invariant metric": "translation-invariant metric"
+    },
+    {
+        " on V that induces the given topology on V.   A metric linear space means a vector space together with a metric for which addition and scalar multiplication are continuous. By the Birkhoff–Kakutani theorem, it follows that there is an ": null
+    },
+    {
+        "equivalent metric": "equivalence of metrics"
+    },
+    {
+        " that is translation-invariant.     More strongly: a topological vector space is said to be  normable  if its topology can be induced by a norm. A topological vector space is normable if and only if it is Hausdorff and has a convex bounded neighborhood of 42      A linear operator between two topological vector spaces which is continuous at one point is continuous on the whole domain. Moreover, a linear operator f is continuous if f is bounded for some neighborhood V of 42     A ": null
+    },
+    {
+        "hyperplane": "hyperplane"
+    },
+    {
+        " on a topological vector space X is either dense or closed. A ": null
+    },
+    {
+        "linear functional": "linear functional"
+    },
+    {
+        " f on a topological vector space X has either dense or closed kernel. Moreover, f is continuous if and only if its ": null
+    },
+    {
+        "kernel": "kernel"
+    },
+    {
+        " is ": null
+    },
+    {
+        "closed": "closed set"
+    },
+    {
+        ".     Let K be a non-": null
+    },
+    {
+        "discrete": "discrete space"
+    },
+    {
+        " locally compact": "locally compact"
+    },
+    {
+        " topological field, for example the real or complex numbers. A topological vector space over K is locally compact if and only if it is ": null
+    },
+    {
+        "finite-dimensional": "finite-dimensional"
+    },
+    {
+        ", that is, isomorphic to K n for some natural number n.       A subset E & thinsp; of a topological vector space X & thinsp; is said to be    balanced  if tE ⊂ E for every scalar   t & thinsp;| ≤ 42  bounded  if for every neighborhood V of  42, then E ⊂ tV when t is sufficiently large. Rudin , p. 42     The definition of boundedness can be weakened a bit; E is bounded if and only if every countable subset of it is bounded. Also, E is bounded if and only if for every balanced neighborhood V of 42 there exists t such that E ⊂ tV. Moreover, when X is locally convex, the boundedness can be characterized by ": null
+    },
+    {
+        "seminorm": "seminorm"
+    },
+    {
+        "s: the subset E is bounded iff every continuous semi-norm p is bounded on E.     Every topological vector space has a local base of ": null
+    },
+    {
+        "absorbing": "absorbing set"
+    },
+    {
+        " and ": null
+    },
+    {
+        "balanced set": "balanced set"
+    },
+    {
+        "s.     A sequence  is said to be ": null
+    },
+    {
+        "Cauchy": "cauchy sequence"
+    },
+    {
+        " if for every neighborhood V of 42 the difference x m  − x n  belongs to V when m and n are sufficiently large. Every Cauchy sequence is bounded, although Cauchy nets or Cauchy filters may not be bounded. A topological vector space where every Cauchy sequence converges is called sequentially complete; in general, it may not be complete . Every compact set is bounded.       Depending on the application additional constraints are usually enforced on the topological structure of the space. In fact, several principal results in functional analysis fail to hold in general for topological vector spaces: the ": null
+    },
+    {
+        "closed graph theorem": "closed graph theorem"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "open mapping theorem": "open mapping theorem"
+    },
+    {
+        ", and the fact that the dual space of the space separates points in the space.     Below are some common topological vector spaces, roughly ordered by their niceness.     ": null
+    },
+    {
+        "F-space": "f-space"
+    },
+    {
+        "s are ": null
+    },
+    {
+        "complete": "complete space"
+    },
+    {
+        " topological vector spaces with a translation-invariant metric. These include ": null
+    },
+    {
+        "L p spaces": "lp space"
+    },
+    {
+        " for all p & gt; 42   ": null
+    },
+    {
+        "Locally convex topological vector space": "locally convex topological vector space"
+    },
+    {
+        "s: here each point has a ": null
+    },
+    {
+        "local base": "local base"
+    },
+    {
+        " consisting of ": null
+    },
+    {
+        "convex set": "convex set"
+    },
+    {
+        "s. By a technique known as ": null
+    },
+    {
+        "Minkowski functional": "minkowski functional"
+    },
+    {
+        "s it can be shown that a space is locally convex if and only if its topology can be defined by a family of semi-norms. Local convexity is the minimum requirement for geometrical arguments like the ": null
+    },
+    {
+        "Hahn–Banach theorem": "hahn–banach theorem"
+    },
+    {
+        ". The L p spaces are locally convex for all p ≥ 42 but not for 42  ": null
+    }
+]

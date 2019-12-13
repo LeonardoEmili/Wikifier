@@ -1,0 +1,263 @@
+[
+    {
+        "     In the ": null
+    },
+    {
+        "mathematical": "mathematics"
+    },
+    {
+        " field of ": null
+    },
+    {
+        "knot theory": "knot theory"
+    },
+    {
+        ", a knot invariant is a quantity defined for each ": null
+    },
+    {
+        "knot": "knot"
+    },
+    {
+        " which is the same for equivalent knots. The equivalence is often given by ": null
+    },
+    {
+        "ambient isotopy": "ambient isotopy"
+    },
+    {
+        " but can be given by ": null
+    },
+    {
+        "homeomorphism": "homeomorphism"
+    },
+    {
+        ". Some invariants are indeed numbers, but invariants can range from the simple, such as a yes/no answer, to those as complex as a ": null
+    },
+    {
+        "homology theory": "homology theory"
+    },
+    {
+        " . Research on invariants is not only motivated by the basic problem of distinguishing one knot from another but also to understand fundamental properties of knots and their relations to other branches of mathematics.     From the modern perspective, it is natural to define a knot invariant from a ": null
+    },
+    {
+        "knot diagram": "knot diagram"
+    },
+    {
+        ". Of course, it must be unchanged under the ": null
+    },
+    {
+        "Reidemeister move": "reidemeister move"
+    },
+    {
+        "s. ": null
+    },
+    {
+        "Tricolorability": "tricolorability"
+    },
+    {
+        " is a particularly simple example. Other examples are ": null
+    },
+    {
+        "knot polynomial": "knot polynomial"
+    },
+    {
+        "s, such as the ": null
+    },
+    {
+        "Jones polynomial": "jones polynomial"
+    },
+    {
+        ", which are currently among the most useful invariants for distinguishing knots from one another, though currently it is not known whether there exists a knot polynomial which distinguishes all knots from each other. However, there are invariants which distinguish the ": null
+    },
+    {
+        "unknot": "unknot"
+    },
+    {
+        " from all other knots, such as ": null
+    },
+    {
+        "Khovanov homology": "khovanov homology"
+    },
+    {
+        " and ": null
+    },
+    {
+        "knot Floer homology": "floer homologyheegaard floer homology"
+    },
+    {
+        ".     Other invariants can be defined by considering some integer-valued function of knot diagrams and taking its minimum value over all possible diagrams of a given knot. This category includes the ": null
+    },
+    {
+        "crossing number": "crossing number"
+    },
+    {
+        ", which is the minimum number of crossings for any diagram of the knot, and the ": null
+    },
+    {
+        "bridge number": "bridge number"
+    },
+    {
+        ", which is the minimum number of bridges for any diagram of the knot.     Historically, many of the early knot invariants are not defined by first selecting a diagram but defined intrinsically, which can make computing some of these invariants a challenge. For example, ": null
+    },
+    {
+        "knot genus": "knot genus"
+    },
+    {
+        " is particularly tricky to compute, but can be effective .     The ": null
+    },
+    {
+        "complement of a knot": "knot complement"
+    },
+    {
+        " itself  is known to be a complete invariant of the knot by the ": null
+    },
+    {
+        "Gordon–Luecke theorem": "gordon–luecke theorem"
+    },
+    {
+        " in the sense that it distinguishes the given knot from all other knots up to ": null
+    },
+    {
+        "ambient isotopy": "ambient isotopy"
+    },
+    {
+        " and ": null
+    },
+    {
+        "mirror image": "mirror image"
+    },
+    {
+        ". Some invariants associated with the knot complement include the ": null
+    },
+    {
+        "knot group": "knot group"
+    },
+    {
+        " which is just the ": null
+    },
+    {
+        "fundamental group": "fundamental group"
+    },
+    {
+        " of the complement. The ": null
+    },
+    {
+        "knot quandle": "knot quandle"
+    },
+    {
+        " is also a complete invariant in this sense but it is difficult to determine if two quandles are isomorphic.     By ": null
+    },
+    {
+        "Mostow–Prasad rigidity": "mostow rigidity theorem"
+    },
+    {
+        ", the hyperbolic structure on the complement of a ": null
+    },
+    {
+        "hyperbolic link": "hyperbolic link"
+    },
+    {
+        " is unique, which means the ": null
+    },
+    {
+        "hyperbolic volume": "hyperbolic volume"
+    },
+    {
+        " is an invariant for these knots and links. Volume, and other hyperbolic invariants, have proven very effective, utilized in some of the extensive efforts at ": null
+    },
+    {
+        "knot tabulation": "knot table"
+    },
+    {
+        ".     In recent years, there has been much interest in ": null
+    },
+    {
+        "homological": "homology theory"
+    },
+    {
+        " invariants of knots which ": null
+    },
+    {
+        "categorify": "categorification"
+    },
+    {
+        " well-known invariants. ": null
+    },
+    {
+        "Heegaard Floer homology": "floer homologyheegaard floer homology"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "homology theory": "homology theory"
+    },
+    {
+        " whose ": null
+    },
+    {
+        "Euler characteristic": "euler characteristic"
+    },
+    {
+        " is the ": null
+    },
+    {
+        "Alexander polynomial": "alexander polynomial"
+    },
+    {
+        " of the knot. It has been proven effective in deducing new results about the classical invariants. Along a different line of study, there is a combinatorially defined cohomology theory of knots called ": null
+    },
+    {
+        "Khovanov homology": "khovanov homology"
+    },
+    {
+        " whose Euler characteristic is the ": null
+    },
+    {
+        "Jones polynomial": "jones polynomial"
+    },
+    {
+        ". This has recently been shown to be useful in obtaining bounds on ": null
+    },
+    {
+        "slice genus": "slice genus"
+    },
+    {
+        " whose earlier proofs required ": null
+    },
+    {
+        "gauge theory": "gauge theory"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Khovanov": "mikhail khovanov"
+    },
+    {
+        " and Rozansky have since defined several other related cohomology theories whose Euler characteristics recover other classical invariants. ": null
+    },
+    {
+        "Catharina Stroppel": "catharina stroppel"
+    },
+    {
+        " gave a representation theoretic interpretation of Khovanov homology by categorifying quantum group invariants.     There is also growing interest from both knot theorists and scientists in understanding physical or geometric properties of knots and relating it to topological invariants and knot type. An old result in this direction is the ": null
+    },
+    {
+        "Fary–Milnor theorem": "fary–milnor theorem"
+    },
+    {
+        " states that if the ": null
+    },
+    {
+        "total curvature": "total curvature"
+    },
+    {
+        " of a knot  in  satisfies     : \\oint_K \\kappa \\,ds \\leq 42\\pi,     where  is the ": null
+    },
+    {
+        "curvature": "parametric curvecurvature"
+    },
+    {
+        " at , then  is an unknot. Therefore, for knotted curves,     : \\oint_K \\kappa\\,ds /math      ": null
+    }
+]

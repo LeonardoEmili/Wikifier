@@ -1,0 +1,398 @@
+[
+    {
+        "          A superscalar processor is a ": null
+    },
+    {
+        "CPU": "central processing unit"
+    },
+    {
+        " that implements a form of ": null
+    },
+    {
+        "parallelism": "parallel computer"
+    },
+    {
+        " called ": null
+    },
+    {
+        "instruction-level parallelism": "instruction-level parallelism"
+    },
+    {
+        " within a single processor. In contrast to a ": null
+    },
+    {
+        "scalar processor": "scalar processor"
+    },
+    {
+        " that can execute at most one single instruction per clock cycle, a superscalar processor can execute more than one instruction during a clock cycle by simultaneously dispatching multiple instructions to different ": null
+    },
+    {
+        "execution unit": "execution unit"
+    },
+    {
+        "s on the processor. It therefore allows for more ": null
+    },
+    {
+        "throughput": "throughput"
+    },
+    {
+        " than would otherwise be possible at a given ": null
+    },
+    {
+        "clock rate": "clock rate"
+    },
+    {
+        ". Each execution unit is not a separate processor , but an execution resource within a single CPU such as an ": null
+    },
+    {
+        "arithmetic logic unit": "arithmetic logic unit"
+    },
+    {
+        ".     In ": null
+    },
+    {
+        "Flynns taxonomy": "flynns taxonomy"
+    },
+    {
+        ", a single-core superscalar processor is classified as an ": null
+    },
+    {
+        "SISD": "sisd"
+    },
+    {
+        " processor , though a single-core superscalar processor that supports short vector operations could be classified as ": null
+    },
+    {
+        "SIMD": "simd"
+    },
+    {
+        " . A ": null
+    },
+    {
+        "multi-core": "multi-core"
+    },
+    {
+        " superscalar processor is classified as an ": null
+    },
+    {
+        "MIMD": "mimd"
+    },
+    {
+        " processor .     While a superscalar CPU is typically also ": null
+    },
+    {
+        "pipeline": "instruction pipeline"
+    },
+    {
+        "d, superscalar and pipelining execution are considered different performance enhancement techniques. The former executes multiple instructions in parallel by using multiple execution units, whereas the latter executes multiple instructions in the same execution unit in parallel by dividing the execution unit into different phases.     The superscalar technique is traditionally associated with several identifying characteristics :   Instructions are issued from a sequential instruction stream   The CPU dynamically checks for ": null
+    },
+    {
+        "data dependencies": "data dependencies"
+    },
+    {
+        " between instructions at run time    The CPU can execute multiple instructions per clock cycle       ": null
+    },
+    {
+        "Seymour Cray": "seymour cray"
+    },
+    {
+        "s ": null
+    },
+    {
+        "CDC 42": "cdc 6600"
+    },
+    {
+        " from 42 is often mentioned as the first superscalar design. The 42 ": null
+    },
+    {
+        "IBM System/42 Model 42": "ibm system/360 model 91"
+    },
+    {
+        " was another superscalar mainframe. The Motorola ": null
+    },
+    {
+        "MC42": "mc88100"
+    },
+    {
+        " , the ": null
+    },
+    {
+        "Intel i42": "intel i960"
+    },
+    {
+        "CA and the ": null
+    },
+    {
+        "AMD 42": "amd 29000"
+    },
+    {
+        "-series 42 microprocessors were the first commercial single-chip superscalar microprocessors. ": null
+    },
+    {
+        "RISC": "risc"
+    },
+    {
+        " microprocessors like these were the first to have superscalar execution, because RISC architectures free transistors and die area which can be used to include multiple execution units .     Except for CPUs used in ": null
+    },
+    {
+        "low-power": "low-power electronics"
+    },
+    {
+        " applications, ": null
+    },
+    {
+        "embedded system": "embedded system"
+    },
+    {
+        "s, and ": null
+    },
+    {
+        "battery": "battery"
+    },
+    {
+        "-powered devices, essentially all general-purpose CPUs developed since about 42 are superscalar.     The ": null
+    },
+    {
+        "P42": "p5"
+    },
+    {
+        " Pentium": "pentium"
+    },
+    {
+        " was the first superscalar x42 processor; the ": null
+    },
+    {
+        "Nx42": "nx586"
+    },
+    {
+        ", ": null
+    },
+    {
+        "P42": "p6"
+    },
+    {
+        " Pentium Pro": "pentium pro"
+    },
+    {
+        " and ": null
+    },
+    {
+        "AMD K42": "amd k5"
+    },
+    {
+        " were among the first designs which decode ": null
+    },
+    {
+        "x42": "x86"
+    },
+    {
+        "-instructions asynchronously into dynamic ": null
+    },
+    {
+        "microcode": "microcode"
+    },
+    {
+        "-like  micro-op  sequences prior to actual execution on a superscalar ": null
+    },
+    {
+        "microarchitecture": "microarchitecture"
+    },
+    {
+        "; this opened up for dynamic scheduling of buffered partial instructions and enabled more parallelism to be extracted compared to the more rigid methods used in the simpler ": null
+    },
+    {
+        "P42": "p5"
+    },
+    {
+        " Pentium": "pentium"
+    },
+    {
+        "; it also simplified ": null
+    },
+    {
+        "speculative execution": "speculative execution"
+    },
+    {
+        " and allowed higher clock frequencies compared to designs such as the advanced ": null
+    },
+    {
+        "Cyrix 42x42": "cyrix 6x86"
+    },
+    {
+        ".       The simplest processors are ": null
+    },
+    {
+        "scalar processor": "scalar processor"
+    },
+    {
+        "s. Each instruction executed by a scalar processor typically manipulates one or two data items at a time. By contrast, each instruction executed by a ": null
+    },
+    {
+        "vector processor": "vector processor"
+    },
+    {
+        " operates simultaneously on many data items. An analogy is the difference between ": null
+    },
+    {
+        "scalar": "scalar"
+    },
+    {
+        " and vector arithmetic. A superscalar processor is a mixture of the two. Each instruction processes one data item, but there are multiple execution units within each CPU thus multiple instructions can be processing separate data items concurrently.     Superscalar CPU design emphasizes improving the instruction dispatcher accuracy, and allowing it to keep the multiple execution units in use at all times. This has become increasingly important as the number of units has increased. While early superscalar CPUs would have two ": null
+    },
+    {
+        "ALU": "arithmetic logic unit"
+    },
+    {
+        "s and a single ": null
+    },
+    {
+        "FPU": "floating point unit"
+    },
+    {
+        ", a later design such as the ": null
+    },
+    {
+        "PowerPC 42": "powerpc 970"
+    },
+    {
+        " includes four ALUs, two FPUs, and two ": null
+    },
+    {
+        "SIMD": "simd"
+    },
+    {
+        " units. If the dispatcher is ineffective at keeping all of these units fed with instructions, the performance of the system will be no better than that of a simpler, cheaper design.     A superscalar processor usually sustains an execution rate in excess of one ": null
+    },
+    {
+        "instruction per machine cycle": "cycles per instruction"
+    },
+    {
+        ". But merely processing multiple instructions concurrently does not make an architecture superscalar, since ": null
+    },
+    {
+        "pipelined": "instruction pipeline"
+    },
+    {
+        ", ": null
+    },
+    {
+        "multiprocessor": "multiprocessor"
+    },
+    {
+        " or ": null
+    },
+    {
+        "multi-core": "multi-core"
+    },
+    {
+        " architectures also achieve that, but with different methods.     In a superscalar CPU the dispatcher reads instructions from memory and decides which ones can be run in parallel, dispatching each to one of the several execution units contained inside a single CPU. Therefore, a superscalar processor can be envisioned having multiple parallel pipelines, each of which is processing instructions simultaneously from a single instruction thread.       Available performance improvement from superscalar techniques is limited by three key areas:   The degree of intrinsic parallelism in the instruction stream .   The complexity and time cost of dependency checking logic and ": null
+    },
+    {
+        "register renaming": "register renaming"
+    },
+    {
+        " circuitry   The branch instruction processing.     Existing binary executable programs have varying degrees of intrinsic parallelism. In some cases instructions are not dependent on each other and can be executed simultaneously. In other cases they are inter-dependent: one instruction impacts either resources or results of the other. The instructions a b + c; d e + f can be run in parallel because none of the results depend on other calculations. However, the instructions a b + c; b e + f might not be runnable in parallel, depending on the order in which the instructions complete while they move through the units.     When the number of simultaneously issued instructions increases, the cost of dependency checking increases extremely rapidly. This is exacerbated by the need to check dependencies at run time and at the CPUs clock rate. This cost includes additional logic gates required to implement the checks, and time delays through those gates. Research shows the gate cost in some cases may be n^k gates, and the delay cost k^42 \\log n , where n is the number of instructions in the processors instruction set, and k is the number of simultaneously dispatched instructions.     Even though the instruction stream may contain no inter-instruction dependencies, a superscalar CPU must nonetheless check for that possibility, since there is no assurance otherwise and failure to detect a dependency would produce incorrect results.     No matter how advanced the ": null
+    },
+    {
+        " semiconductor process": "semiconductor device fabrication"
+    },
+    {
+        " or how fast the switching speed, this places a practical limit on how many instructions can be simultaneously dispatched. While process advances will allow ever greater numbers of execution units , the burden of checking instruction dependencies grows rapidly, as does the complexity of register renaming circuitry to mitigate some dependencies. Collectively the ": null
+    },
+    {
+        " power consumption": "cpu power dissipation"
+    },
+    {
+        ", complexity and gate delay costs limit the achievable superscalar speedup to roughly eight simultaneously dispatched instructions.     However even given infinitely fast dependency checking logic on an otherwise conventional superscalar CPU, if the instruction stream itself has many dependencies, this would also limit the possible speedup. Thus the degree of intrinsic parallelism in the code stream forms a second limitation.       Collectively, these limits drive investigation into alternative architectural changes such as ": null
+    },
+    {
+        "very long instruction word": "very long instruction word"
+    },
+    {
+        " , ": null
+    },
+    {
+        "explicitly parallel instruction computing": "explicitly parallel instruction computing"
+    },
+    {
+        " , ": null
+    },
+    {
+        "simultaneous multithreading": "simultaneous multithreading"
+    },
+    {
+        " , and ": null
+    },
+    {
+        "multi-core computing": "multi-core"
+    },
+    {
+        ".     With VLIW, the burdensome task of dependency checking by ": null
+    },
+    {
+        "hardware logic": "hardware logic"
+    },
+    {
+        " at run time is removed and delegated to the ": null
+    },
+    {
+        "compiler": "compiler"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Explicitly parallel instruction computing": "explicitly parallel instruction computing"
+    },
+    {
+        " is like VLIW with extra cache prefetching instructions.     Simultaneous multithreading is a technique for improving the overall efficiency of superscalar processors. SMT permits multiple independent threads of execution to better utilize the resources provided by modern processor architectures.     Superscalar processors differ from ": null
+    },
+    {
+        "multi-core processor": "multi-core processor"
+    },
+    {
+        "s in that the several execution units are not entire processors. A single processor is composed of finer-grained execution units such as the ": null
+    },
+    {
+        "ALU": "arithmetic logic unit"
+    },
+    {
+        ", ": null
+    },
+    {
+        "integer": "integer"
+    },
+    {
+        " multiplier": "binary multiplier"
+    },
+    {
+        ", integer shifter, ": null
+    },
+    {
+        "FPU": "floating-point unit"
+    },
+    {
+        ", etc. There may be multiple versions of each execution unit to enable execution of many instructions in parallel. This differs from a multi-core processor that concurrently processes instructions from multiple threads, one thread per ": null
+    },
+    {
+        "processing unit": "central processing unit"
+    },
+    {
+        " . It also differs from a ": null
+    },
+    {
+        "pipelined processor": "instruction pipelining"
+    },
+    {
+        ", where the multiple instructions can concurrently be in various stages of execution, ": null
+    },
+    {
+        "assembly-line": "assembly line"
+    },
+    {
+        " fashion.     The various alternative techniques are not mutually exclusive—they can be combined in a single processor. Thus a multicore CPU is possible where each core is an independent processor containing multiple parallel pipelines, each pipeline being superscalar. Some processors also include ": null
+    },
+    {
+        "vector": "vector processor"
+    }
+]

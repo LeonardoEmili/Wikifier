@@ -1,0 +1,146 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "computing": "computing"
+    },
+    {
+        ", the working directory of a ": null
+    },
+    {
+        "process": "process"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "directory": "directory"
+    },
+    {
+        " of a hierarchical ": null
+    },
+    {
+        "file system": "file system"
+    },
+    {
+        ", if any, dynamically associated with each process. It is sometimes called the current working directory , e.g. the ": null
+    },
+    {
+        "BSD": "bsd"
+    },
+    {
+        "  function, or just current directory. When the process refers to a file using a simple file name or relative ": null
+    },
+    {
+        "path": "path"
+    },
+    {
+        " , the reference is interpreted relative to the current working directory of the process. So for example a process with working directory /rabbit-shoes that asks to create the file foo.txt will end up creating the file /rabbit-shoes/foo.txt .          In most computer file systems, every directory has an entry which points to the directory itself.     In most ": null
+    },
+    {
+        "DOS": "dos"
+    },
+    {
+        " and ": null
+    },
+    {
+        "UNIX": "unix"
+    },
+    {
+        " command shell": "command-line interface"
+    },
+    {
+        "s, as well as in the ": null
+    },
+    {
+        "Microsoft Windows": "microsoft windows"
+    },
+    {
+        " command line interpreters ": null
+    },
+    {
+        "cmd.exe": "cmd.exe"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Windows PowerShell": "windows powershell"
+    },
+    {
+        ", the working directory can be changed by using the ": null
+    },
+    {
+        "CD": "cd"
+    },
+    {
+        " or ": null
+    },
+    {
+        "CHDIR": "chdir"
+    },
+    {
+        " command": "command"
+    },
+    {
+        "s. In ": null
+    },
+    {
+        "Unix shell": "unix shell"
+    },
+    {
+        "s, the ": null
+    },
+    {
+        "pwd": "pwd"
+    },
+    {
+        " command outputs a full pathname of the current working directory; the equivalent command in DOS and Windows is CD or CHDIR without ": null
+    },
+    {
+        "arguments": "parameter"
+    },
+    {
+        " .     The ": null
+    },
+    {
+        "environment variable": "environment variable"
+    },
+    {
+        " PWD , or the ": null
+    },
+    {
+        "pseudo-environment variable": "pseudo-environment variable"
+    },
+    {
+        "s ": null
+    },
+    {
+        "CD": "cd"
+    },
+    {
+        " , or _CWD , _CWDS , _CWP and _CWPS  can be used in scripts, so that one need not start an external program. ": null
+    },
+    {
+        "Microsoft Windows": "microsoft windows"
+    },
+    {
+        " file shortcut": "file shortcut"
+    },
+    {
+        "s have the ability to store the working directory.     COMMAND.COM in ": null
+    },
+    {
+        "DR-DOS 42": "dr-dos 7.02"
+    },
+    {
+        " and higher provides ECHOS , a variant of the ": null
+    },
+    {
+        "ECHO": "echo"
+    },
+    {
+        " command omitting the terminating linefeed. This can be used to create a temporary batchjob storing the current directory in an environment variable like CD for later use, for example:   ECHOS SET CD ": null
+    }
+]

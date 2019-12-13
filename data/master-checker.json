@@ -1,0 +1,23 @@
+[
+    {
+        "   A master-checker is a hardware-supported ": null
+    },
+    {
+        "fault tolerance": "fault tolerance"
+    },
+    {
+        " method for ": null
+    },
+    {
+        "multiprocessor": "multiprocessor"
+    },
+    {
+        " systems, in which two processors, referred to as the master and checker, calculate the same functions in parallel in order to increase the probability that the result is exact. The checker-": null
+    },
+    {
+        "CPU": "central processing unit"
+    },
+    {
+        " is synchronised at clock level with the master-CPU and processes the same programs as the master. Whenever the master-CPU generates an output, the checker-CPU compares this output to its own calculation and in the event of a difference raises a warning.     The master-checker system generally gives more accurate answers by ensuring that the answer is correct before passing it on to the application requesting the algorithm being completed. It also allows for error handling if the results are inconsistent. A recurrence of discrepancies between the two processors could indicate a flaw in the software, hardware problems, or timing issues between the clock, CPUs, and/or system memory. However, such redundant processing wastes time and energy. If the master-CPU is correct 42% or more of the time, the power and time used by the checker-CPU to verify answers is wasted. Depending on the merit of a correct answer, a checker-CPU may or may not be warranted. In order to alleviate some of the cost in these situations, the checker-CPU may be used to calculate something else in the same algorithm, increasing the speed and processing output of the CPU system.            ": null
+    }
+]

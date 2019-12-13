@@ -1,0 +1,356 @@
+[
+    {
+        "         In ": null
+    },
+    {
+        "telecommunications": "telecommunications"
+    },
+    {
+        ", frequency-division multiplexing  is a technique by which the total ": null
+    },
+    {
+        "bandwidth": "bandwidth"
+    },
+    {
+        " available in a ": null
+    },
+    {
+        "communication medium": "communication channel"
+    },
+    {
+        " is divided into a series of non-overlapping ": null
+    },
+    {
+        "frequency bands": "frequency bands"
+    },
+    {
+        ", each of which is used to carry a separate signal. This allows a single transmission medium such as a cable or ": null
+    },
+    {
+        "optical fiber": "optical fiber"
+    },
+    {
+        " to be shared by multiple independent signals. Another use is to carry separate serial bits or segments of a higher rate signal in parallel.     The most natural example of frequency-division multiplexing is ": null
+    },
+    {
+        "radio": "radio"
+    },
+    {
+        " and television ": null
+    },
+    {
+        "broadcasting": "broadcasting"
+    },
+    {
+        ", in which multiple radio signals at different frequencies pass through the air at the same time. Another example is ": null
+    },
+    {
+        "cable television": "cable television"
+    },
+    {
+        ", in which many television channels are carried simultaneously on a single cable. FDM is also used by telephone systems to transmit multiple telephone calls through high capacity trunklines, ": null
+    },
+    {
+        "communications satellite": "communications satellite"
+    },
+    {
+        "s to transmit multiple channels of data on uplink and downlink radio beams, and broadband ": null
+    },
+    {
+        "DSL modem": "dsl modem"
+    },
+    {
+        "s to transmit large amounts of computer data through ": null
+    },
+    {
+        "twisted pair": "twisted pair"
+    },
+    {
+        " telephone lines, among many other uses.     An analogous technique called ": null
+    },
+    {
+        "wavelength division multiplexing": "wavelength division multiplexing"
+    },
+    {
+        " is used in ": null
+    },
+    {
+        "fiber-optic communication": "fiber-optic communication"
+    },
+    {
+        ", in which multiple channels of data are transmitted over a single ": null
+    },
+    {
+        "optical fiber": "optical fiber"
+    },
+    {
+        " using different ": null
+    },
+    {
+        "wavelength": "wavelength"
+    },
+    {
+        "s of light.          The multiple separate information signals that are sent over an FDM system, such as the video signals of the television channels that are sent over a cable TV system, are called ": null
+    },
+    {
+        "baseband": "baseband"
+    },
+    {
+        " signals. At the source end, for each frequency channel, an ": null
+    },
+    {
+        "electronic oscillator": "electronic oscillator"
+    },
+    {
+        " generates a  carrier  signal, a steady oscillating waveform at a single ": null
+    },
+    {
+        "frequency": "frequency"
+    },
+    {
+        " that serves to carry information. The carrier is much higher in frequency than the baseband signal. The carrier signal and the baseband signal are combined in a ": null
+    },
+    {
+        "modulator": "modulator"
+    },
+    {
+        " circuit. The modulator alters some aspect of the carrier signal, such as its ": null
+    },
+    {
+        "amplitude": "amplitude"
+    },
+    {
+        ", ": null
+    },
+    {
+        "frequency": "frequency"
+    },
+    {
+        ", or phase, with the baseband signal, piggybacking the data onto the carrier.     The result of ": null
+    },
+    {
+        "modulating": "modulation"
+    },
+    {
+        " the carrier with the baseband signal is to generate sub-frequencies near the ": null
+    },
+    {
+        "carrier frequency": "carrier frequency"
+    },
+    {
+        ", at the sum  and difference  of the frequencies. The information from the modulated signal is carried in ": null
+    },
+    {
+        "sideband": "sideband"
+    },
+    {
+        "s on each side of the carrier frequency. Therefore, all the information carried by the channel is in a narrow band of frequencies clustered around the carrier frequency, this is called the ": null
+    },
+    {
+        "passband": "passband"
+    },
+    {
+        " of the channel.     Similarly, additional baseband signals are used to modulate carriers at other frequencies, creating other channels of information. The carriers are spaced far enough apart in frequency that the band of frequencies occupied by each channel, the passbands of the separate channels, do not overlap. All the channels are sent through the transmission medium, such as a coaxial cable, optical fiber, or through the air using a ": null
+    },
+    {
+        "radio transmitter": "radio transmitter"
+    },
+    {
+        ". As long as the channel frequencies are spaced far enough apart that none of the passbands overlap, the separate channels will not interfere with each other. Thus the available bandwidth is divided into slots or channels, each of which can carry a separate modulated signal.     For example, the ": null
+    },
+    {
+        "coaxial cable": "coaxial cable"
+    },
+    {
+        " used by ": null
+    },
+    {
+        "cable television": "cable television"
+    },
+    {
+        " systems has a bandwidth of about 42 ": null
+    },
+    {
+        "MHz": "mhz"
+    },
+    {
+        ", but the passband of each television channel is only 42  MHz wide, so there is room for many channels on the cable .     At the destination end of the cable or fiber, or the radio receiver, for each channel a ": null
+    },
+    {
+        "local oscillator": "local oscillator"
+    },
+    {
+        " produces a signal at the carrier frequency of that channel, that is mixed with the incoming modulated signal. The frequencies subtract, producing the baseband signal for that channel again. This is called ": null
+    },
+    {
+        "demodulation": "demodulation"
+    },
+    {
+        ". The resulting baseband signal is filtered out of the other frequencies and output to the user.       For ": null
+    },
+    {
+        "long distance telephone connection": "long distance telephone connection"
+    },
+    {
+        "s, 42th century telephone companies used ": null
+    },
+    {
+        "L-carrier": "l-carrier"
+    },
+    {
+        " and similar ": null
+    },
+    {
+        "coaxial cable": "coaxial cable"
+    },
+    {
+        " systems carrying thousands of voice circuits multiplexed in multiple stages by ": null
+    },
+    {
+        "channel bank": "channel bank"
+    },
+    {
+        "s.     For shorter distances, cheaper ": null
+    },
+    {
+        "balanced pair": "balanced pair"
+    },
+    {
+        " cables were used for various systems including ": null
+    },
+    {
+        "Bell System": "bell system"
+    },
+    {
+        " K- and N-Carrier. Those cables didnt allow such large bandwidths, so only 42 voice channels  and later 42  were multiplexed into ": null
+    },
+    {
+        "four wires": "four-wire circuit"
+    },
+    {
+        ", one pair for each direction with ": null
+    },
+    {
+        "repeater": "repeater"
+    },
+    {
+        "s every several miles, approximately 42  km. See ": null
+    },
+    {
+        "42-channel carrier system": "12-channel carrier system"
+    },
+    {
+        ". By the end of the 42th Century, FDM voice circuits had become rare. Modern telephone systems employ digital transmission, in which ": null
+    },
+    {
+        "time-division multiplexing": "time-division multiplexing"
+    },
+    {
+        " is used instead of FDM.     Since the late 42th century ": null
+    },
+    {
+        "digital subscriber line": "digital subscriber line"
+    },
+    {
+        "s have used a ": null
+    },
+    {
+        "Discrete multitone": "orthogonal frequency-division multiplexing"
+    },
+    {
+        " system to divide their spectrum into frequency channels.     The concept corresponding to frequency-division multiplexing in the optical domain is known as ": null
+    },
+    {
+        "wavelength-division multiplexing": "wavelength-division multiplexing"
+    },
+    {
+        ".       A once commonplace FDM system, used for example in ": null
+    },
+    {
+        "L-carrier": "l-carrier"
+    },
+    {
+        ", uses crystal filters which operate at the 42  MHz range to form a Channel Group of 42 channels, 42  kHz bandwidth in the range 42 to 42  kHz by selecting carriers in the range 42 to 42  kHz selecting ": null
+    },
+    {
+        "upper sideband": "upper sideband"
+    },
+    {
+        " this group can then be translated to the standard range 42 to 42  kHz by a carrier of 42  kHz. Such systems are used in DTL and DFSG .     42 voice channels can be formed using DTL plane the modulation and frequency plan are given in FIG42 and FIG42 use of DTL technique allows the formation of a maximum of 42 voice channels that can be placed direct to line. DTL eliminates group and super group equipment.     DFSG can take similar steps where a direct formation of a number of super groups can be obtained in the 42  kHz the DFSG also eliminates group equipment and can offer:   Reduction in cost 42% to 42%   Less equipment to install and maintain   Increased reliability due to less equipment     Both DTL and DFSG can fit the requirement of low density system and higher density system . The DFSG terminal is similar to DTL terminal except instead of two super groups many super groups are combined. A Mastergroup of 42 channels is an example based on DFSG.       FDM can also be used to combine signals before final modulation onto a carrier wave. In this case the ": null
+    },
+    {
+        "carrier signal": "carrier signal"
+    },
+    {
+        "s are referred to as ": null
+    },
+    {
+        "subcarrier": "subcarrier"
+    },
+    {
+        "s: an example is ": null
+    },
+    {
+        "stereo FM": "stereo fm"
+    },
+    {
+        " transmission, where a 42  kHz subcarrier is used to separate the left-right difference signal from the central left-right sum channel, prior to the frequency modulation of the composite signal.   An analog ": null
+    },
+    {
+        "NTSC": "ntsc"
+    },
+    {
+        " television channel is divided into ": null
+    },
+    {
+        "subcarrier frequencies": "subcarriertelevision"
+    },
+    {
+        " for video, color, and audio.   DSL uses different frequencies for voice and for ": null
+    },
+    {
+        "upstream": "upstream"
+    },
+    {
+        " and ": null
+    },
+    {
+        "downstream": "downstream"
+    },
+    {
+        " data transmission on the same conductors, which is also an example of ": null
+    },
+    {
+        "frequency duplex": "frequency duplex"
+    },
+    {
+        ".   \t   Where frequency-division multiplexing is used as to allow multiple users to share a physical ": null
+    },
+    {
+        "communications channel": "communications channel"
+    },
+    {
+        ", it is called ": null
+    },
+    {
+        "frequency-division multiple access": "frequency-division multiple access"
+    },
+    {
+        " .          FDMA is the traditional way of separating ": null
+    },
+    {
+        "radio": "radio"
+    },
+    {
+        " signals from different   transmitters.   \t   In the 42s and 42s, several inventors attempted FDM under the names of ": null
+    },
+    {
+        "acoustic telegraphy": "acoustic telegraphy"
+    },
+    {
+        " and harmonic telegraphy. Practical FDM was only achieved in the electronic age. Meanwhile, their efforts led to an elementary understanding of electroacoustic technology, resulting in the ": null
+    },
+    {
+        "invention of the telephone": "invention of the telephone"
+    }
+]

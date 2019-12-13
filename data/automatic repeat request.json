@@ -1,0 +1,137 @@
+[
+    {
+        "        Automatic repeat request , also known as automatic repeat query, is an ": null
+    },
+    {
+        "error-control": "error control"
+    },
+    {
+        " method for ": null
+    },
+    {
+        "data transmission": "data transmission"
+    },
+    {
+        " that uses ": null
+    },
+    {
+        "acknowledgement": "acknowledgement"
+    },
+    {
+        "s  and ": null
+    },
+    {
+        "timeout": "timeout"
+    },
+    {
+        "s to achieve ": null
+    },
+    {
+        "reliable data transmission": "reliability"
+    },
+    {
+        " over an unreliable service. If the sender does not receive an acknowledgment before the timeout, it usually ": null
+    },
+    {
+        "re-transmits": "retransmission"
+    },
+    {
+        " the packet until the sender receives an acknowledgment or exceeds a predefined number of retransmissions.     The types of ARQ protocols include ": null
+    },
+    {
+        "Stop-and-wait ARQ": "stop-and-wait arq"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Go-Back-N ARQ": "go-back-n arq"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Selective Repeat ARQ/Selective Reject ARQ": "selective repeat arq"
+    },
+    {
+        ". All three protocols usually use some form of ": null
+    },
+    {
+        "sliding window protocol": "sliding window protocol"
+    },
+    {
+        " to tell the transmitter to determine which packets need to be retransmitted. These protocols reside in the ": null
+    },
+    {
+        "data link": "data link layer"
+    },
+    {
+        " or ": null
+    },
+    {
+        "transport layer": "transport layer"
+    },
+    {
+        "s of the ": null
+    },
+    {
+        "OSI model": "osi model"
+    },
+    {
+        ".       The ": null
+    },
+    {
+        "Transmission Control Protocol": "transmission control protocol"
+    },
+    {
+        " uses a variant of ": null
+    },
+    {
+        "Go-Back-N ARQ": "go-back-n arq"
+    },
+    {
+        " to ensure reliable transmission of data over the ": null
+    },
+    {
+        "Internet Protocol": "internet protocol"
+    },
+    {
+        ", which does not provide guaranteed delivery of packets; with Selective Acknowledgement , it uses ": null
+    },
+    {
+        "Selective Repeat ARQ": "selective repeat arq"
+    },
+    {
+        ".     The ": null
+    },
+    {
+        "ITU-T": "itu-t"
+    },
+    {
+        " G.hn": "g.hn"
+    },
+    {
+        " standard, which provides a way to create a high-speed  ": null
+    },
+    {
+        "local area network": "local area network"
+    },
+    {
+        " using existing residential wiring , uses ": null
+    },
+    {
+        "Selective Repeat ARQ": "selective repeat arq"
+    },
+    {
+        " to ensure reliable transmission over noisy media.     ARQ systems were widely used on shortwave radio to ensure reliable delivery of data such as for telegrams. These systems came in forms called ": null
+    },
+    {
+        "ARQ-E": "arq-e"
+    },
+    {
+        " and ": null
+    },
+    {
+        "ARQ-M": "arq-m"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "algebra": "algebra"
+    },
+    {
+        ", the rational root theorem  states a constraint on ": null
+    },
+    {
+        "rational": "rational number"
+    },
+    {
+        " solutions": "equation solving"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "polynomial equation": "polynomial equation"
+    },
+    {
+        "     : a_nx^n+a_x^+\\cdots+a_42 42     with ": null
+    },
+    {
+        "integer": "integer"
+    },
+    {
+        " coefficients a_i\\in\\mathbb and a_42a_n \\neq 42 . Solutions of the equation are also called ": null
+    },
+    {
+        "roots": "root of a polynomial"
+    },
+    {
+        " or zeroes of the ": null
+    },
+    {
+        "polynomial": "polynomial"
+    },
+    {
+        " on the left side.     The theorem states that each ": null
+    },
+    {
+        "rational": "rational number"
+    },
+    {
+        " solution , written in lowest terms so that  and  are ": null
+    },
+    {
+        "relatively prime": "relatively prime"
+    },
+    {
+        ", satisfies:      is an integer ": null
+    },
+    {
+        "factor": "divisor"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "constant term": "constant term"
+    },
+    {
+        " , and      is an integer factor of the leading ": null
+    },
+    {
+        "coefficient": "coefficient"
+    },
+    {
+        " .     The rational root theorem is a special case of ": null
+    },
+    {
+        "Gausss lemma": "gausss lemma"
+    },
+    {
+        " on the factorization of polynomials. The integral root theorem is the special case of the rational root theorem when the leading coefficient is  .         The theorem is used to find all rational roots of a polynomial, if any. It gives a finite number of possible fractions which can be checked to see if they are roots. If a rational root  is found, a linear polynomial  can be factored out of the polynomial using ": null
+    },
+    {
+        "polynomial long division": "polynomial long division"
+    },
+    {
+        ", resulting in a polynomial of lower degree whose roots are also roots of the original polynomial.         The general ": null
+    },
+    {
+        "cubic equation": "cubic equation"
+    },
+    {
+        "     : ax^42+bx^42+cx+d42     with integer coefficients has three solutions in the ": null
+    },
+    {
+        "complex plane": "complex plane"
+    },
+    {
+        ". If the rational root test finds no rational solutions, then the only way to express the solutions ": null
+    },
+    {
+        "algebraically": "algebraic expression"
+    },
+    {
+        " uses ": null
+    },
+    {
+        "cube roots": "cubic function"
+    },
+    {
+        ". But if the test finds a rational solution , then factoring out  leaves a ": null
+    },
+    {
+        "quadratic polynomial": "quadratic polynomial"
+    },
+    {
+        " whose two roots, found with the ": null
+    },
+    {
+        "quadratic formula": "quadratic formula"
+    },
+    {
+        ", are the remaining two roots of the cubic, avoiding cube roots.             Let     : P \\ \\ a_n x^n + a_ x^ + \\cdots + a_42 x + a_42 \\qquad a_42 \\ldots a_n \\in \\mathbb.     Suppose  for some ": null
+    },
+    {
+        "coprime": "coprime"
+    },
+    {
+        " :     : P \\left a_n\\left^n + a_\\left^ + \\cdots + a_42 \\left + a_42 42     Now multiply both sides by .     By shifting the constant term  to the right side, and factoring out  on the left side, produces     : p \\left -a_42q^n.     Thus,  divides . But  is coprime to  and therefore to , so by ": null
+    },
+    {
+        "Euclids lemma": "euclids lemma"
+    },
+    {
+        "  must divide the remaining factor  of the product.     On the other hand, shifting the leading term to the right side and factoring out  on the left side, gives     : q \\left -a_np^n.     Reasoning as before, it follows that  divides .          Should there be a nontrivial factor dividing all the coefficients of the polynomial, then one can divide by the ": null
+    },
+    {
+        "greatest common divisor": "greatest common divisor"
+    },
+    {
+        " of the coefficients so as to obtain a primitive polynomial in the sense of ": null
+    },
+    {
+        "Gausss lemma": "gausss lemma"
+    },
+    {
+        "; this does not alter the set of rational roots and only strengthens the divisibility conditions. That lemma says that if the polynomial factors in , then it also factors in  as a product of primitive polynomials. Now any rational root  corresponds to a factor of degree 42 in  of the polynomial, and its primitive representative is then , assuming that  and  are coprime. But any multiple in  of  has leading term divisible by  and constant term divisible by , which proves the statement. This argument shows that more generally, any irreducible factor of  can be supposed to have integer coefficients, and leading and constant coefficients dividing the corresponding coefficients of  .             In the polynomial     : 42x^42+x42     any rational root fully reduced would have to have a numerator that divides evenly into 42 and a denominator that divides evenly into 42 Hence the only possible rational roots are ±42/42 and ±42; since neither of these equates the polynomial to zero, it has no rational roots.       In the polynomial     : x^4242x42     the only possible rational roots would have a numerator that divides 42 and a denominator that divides 42 limiting the possibilities to ±42 ±42 ±42 and ±42 Of these, 42 42 and –42 equate the polynomial to zero, and hence are its rational roots.          Every rational root of the polynomial   : 42x^42 - 42x^42 + 42x - 42   must be among the numbers symbolically indicated by:   : \\pm\\tfrac \\ \\ \\pm \\ .   These 42 root candidates  can be tested by evaluating , for example using ": null
+    },
+    {
+        "Horners method": "horners method"
+    },
+    {
+        ". It turns out there is exactly one with .     This process may be made more efficient: if , it can be used to shorten the list of remaining candidates.  For example,  does not work, as . Substituting  yields a polynomial in   with constant term , while the coefficient of  remains the same as the coefficient of . Applying the rational root theorem thus yields the possible roots t\\pm\\tfrac , so that     : x 42+t 42 42 \\tfrac, \\tfrac.     True roots must occur on both lists, so list of rational root candidates has shrunk to just  and      If  rational roots are found, Horners method will also yield a polynomial of degree ": null
+    }
+]

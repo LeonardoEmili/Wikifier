@@ -1,0 +1,200 @@
+[
+    {
+        "The Enterprise Objects Framework, or more commonly simply EOF, was introduced by ": null
+    },
+    {
+        "NeXT": "next"
+    },
+    {
+        " in 42 as a pioneering ": null
+    },
+    {
+        "object-relational mapping": "object-relational mapping"
+    },
+    {
+        " product for its ": null
+    },
+    {
+        "NeXTSTEP": "nextstep"
+    },
+    {
+        " and ": null
+    },
+    {
+        "OpenStep": "openstep"
+    },
+    {
+        " development platforms. EOF abstracts the process of interacting with a ": null
+    },
+    {
+        "relational database": "relational database"
+    },
+    {
+        " by mapping database rows to ": null
+    },
+    {
+        "Java": "java"
+    },
+    {
+        " or ": null
+    },
+    {
+        "Objective-C": "objective-c"
+    },
+    {
+        " objects": "object"
+    },
+    {
+        ". This largely relieves developers from writing low-level ": null
+    },
+    {
+        "SQL": "sql"
+    },
+    {
+        " code.     EOF enjoyed some niche success in the mid42s among financial institutions who were attracted to the rapid application development advantages of NeXTs object-oriented platform. Since ": null
+    },
+    {
+        "Apple Inc": "apple inc"
+    },
+    {
+        "s merger with NeXT in 42 EOF has evolved into a fully integrated part of ": null
+    },
+    {
+        "WebObjects": "webobjects"
+    },
+    {
+        ", an application server also originally from NeXT. Many of the core concepts of EOF re-emerged as part of ": null
+    },
+    {
+        "Core Data": "core data"
+    },
+    {
+        ", which further abstracts the underlying data formats to allow it to be based on non-SQL stores.       In the early 42s ": null
+    },
+    {
+        "NeXT": "next"
+    },
+    {
+        " Computer recognized that connecting to databases was essential to most businesses and yet also potentially complex. Every data source has a different data-access language , driving up the costs to learn and use each vendors product. The NeXT engineers wanted to apply the advantages of ": null
+    },
+    {
+        "object-oriented programming": "object-oriented programming"
+    },
+    {
+        ", by getting objects to talk to relational databases. As the two technologies are very different, the solution was to create an abstraction layer, insulating developers from writing the low-level procedural code  specific to each data source.     The first attempt came in 42 with the release of Database Kit , which wrapped an object-oriented framework around any database. Unfortunately, ": null
+    },
+    {
+        "NEXTSTEP": "nextstep"
+    },
+    {
+        " at the time was not powerful enough and DBKit had serious design flaws.     NeXTs second attempt came in 42 with the Enterprise Objects Framework version 42 a ": null
+    },
+    {
+        "complete rewrite": "rewrite"
+    },
+    {
+        " that was far more modular and ": null
+    },
+    {
+        "OpenStep": "openstep"
+    },
+    {
+        " compatible. EOF 42 was the first product released by ": null
+    },
+    {
+        "NeXT": "next"
+    },
+    {
+        " using the Foundation Kit and introduced autoreleased objects to the developer community. The development team at the time was only four people: Jack Greenfield, Rich Williamson, Linus Upson and Dan Willhite. EOF 42, released in late 42 further refined the architecture, introducing the editing context. At that point, the development team consisted of Dan Willhite, ": null
+    },
+    {
+        "Craig Federighi": "craig federighi"
+    },
+    {
+        ", Eric Noyau and Charly Kleissner.     EOF achieved a modest level of popularity in the financial programming community in the mid42s, but it would come into its own with the emergence of the ": null
+    },
+    {
+        "World Wide Web": "world wide web"
+    },
+    {
+        " and the concept of ": null
+    },
+    {
+        "web application": "web application"
+    },
+    {
+        "s. It was clear that EOF could help companies plug their legacy databases into the Web without any rewriting of that data. With the addition of frameworks to do state management, load balancing and dynamic HTML generation, NeXT was able to launch the first object-oriented Web application server, ": null
+    },
+    {
+        "WebObjects": "webobjects"
+    },
+    {
+        ", in 42 with EOF at its core.     In 42 Apple Inc. officially dropped EOF as a standalone product, meaning that developers would be unable to use it to create desktop applications for the forthcoming ": null
+    },
+    {
+        "Mac OS X": "macos"
+    },
+    {
+        ". It would, however, continue to be an integral part of a major new release of WebObjects. WebObjects 42 released in 42 was significant for the fact that its frameworks had been ported from their native ": null
+    },
+    {
+        "Objective-C": "objective-c"
+    },
+    {
+        " programming language to the ": null
+    },
+    {
+        "Java": "java"
+    },
+    {
+        " language. Critics of this change argue that most of the power of EOF was a side effect of its Objective-C roots, and that EOF lost the beauty or simplicity it once had. Third-party tools, such as ": null
+    },
+    {
+        "EOGenerator": "eogenerator"
+    },
+    {
+        ", help fill the deficiencies introduced by Java .     The Objective-C code base was re-introduced with some modifications to desktop application developers as ": null
+    },
+    {
+        "Core Data": "core data"
+    },
+    {
+        ", part of Apples ": null
+    },
+    {
+        "Cocoa API": "cocoa"
+    },
+    {
+        ", with the release of ": null
+    },
+    {
+        "Mac OS X Tiger": "mac os x tiger"
+    },
+    {
+        " in April 42         Enterprise Objects provides tools and frameworks for object-relational mapping. The technology specializes in providing mechanisms to retrieve data from various data sources, such as relational databases via JDBC and JNDI directories, and mechanisms to commit data back to those data sources. These mechanisms are designed in a layered, abstract approach that allows developers to think about data retrieval and commitment at a higher level than a specific data source or data source vendor.      Central to this mapping is a model file that you build with a visual tool & mdash; either EOModeler, or the EOModeler plug-in to ": null
+    },
+    {
+        "Xcode": "xcode"
+    },
+    {
+        ". The mapping works as follows:     Database tables are mapped to classes.   Database columns are mapped to class attributes.   Database rows are mapped to objects .     You can build data models based on existing data sources or you can build data models from scratch, which you then use to create data structures in a data source. The result is that database records can be transposed into Java objects.     The advantage of using data models is that applications are isolated from the idiosyncrasies of the data sources they access. This separation of an applications business logic from database logic allows developers to change the database an application accesses without needing to change the application.     EOF provides a level of database transparency not seen in other tools and allows the same model to be used to access different vendor databases and even allows relationships across different vendor databases without changing source code.     Its power comes from exposing the underlying data sources as managed graphs of persistent objects. In simple terms, this means that it organizes the applications model layer into a set of defined in-memory data objects. It then tracks changes to these objects and can reverse those changes on demand, such as when a user performs an undo command. Then, when it is time to save changes to the applications data, it archives the objects to the underlying data sources.         In designing Enterprise Objects developers can leverage the object-oriented feature known as ": null
+    },
+    {
+        "inheritance": "inheritance"
+    },
+    {
+        ". A Customer object and an Employee object, for example, might both inherit certain characteristics from a more generic Person object, such as name, address, and phone number. While this kind of thinking is inherent in object-oriented design, relational databases have no explicit support for inheritance. However, using Enterprise Objects, you can build data models that reflect object hierarchies. That is, you can design database tables to support inheritance by also designing enterprise objects that map to multiple tables or particular views of a database table.         An Enterprise Object is analogous to what is often known in object-oriented programming as a ": null
+    },
+    {
+        "business object": "business object"
+    },
+    {
+        " & mdash; a class which models a physical or ": null
+    },
+    {
+        "conceptual object": "conceptual object"
+    },
+    {
+        " in the business domain . What makes an EO different from other objects is that its instance data maps to a data store. Typically, an enterprise object contains key-value pairs that represent a row in a relational database. The key is basically the column name, and the value is what was in that row in the database. So it can be said that an EOs properties persist beyond the life of any particular running application.     More precisely, an Enterprise Object is an instance of a class that implements the com.webobjects.eocontrol.EOEnterpriseObject interface.     An Enterprise Object has a corresponding model that defines the mapping between the classs object model and the database schema. However, an enterprise object doesnt explicitly know about its model. This level of abstraction means that database vendors can be switched without it affecting the developers code. This gives Enterprise Objects a high degree of reusability.         Despite their common origins, the two technologies diverged, with each technology retaining a subset of the features of the original Objective-C code base, while adding some new features.         EOF supports custom SQL; shared editing contexts; nested editing contexts; and pre-fetching and batch faulting of relationships, all features of the original Objective-C implementation not supported by Core Data. Core Data also does not provide the equivalent of an EOModelGroup—the NSManagedObjectModel class provides methods for merging models from existing models, and for retrieving merged models from bundles.         Core Data supports fetched properties; multiple configurations within a managed object model; local stores; and store aggregation ; customization and localization of property names and validation warnings; and the use of predicates for property validation. These features of the original Objective-C implementation are not supported by the Java implementation.                  ": null
+    }
+]

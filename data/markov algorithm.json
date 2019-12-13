@@ -1,0 +1,62 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "theoretical computer science": "theoretical computer science"
+    },
+    {
+        ", a Markov algorithm is a ": null
+    },
+    {
+        "string rewriting system": "string rewriting system"
+    },
+    {
+        " that uses ": null
+    },
+    {
+        "grammar": "formal grammar"
+    },
+    {
+        "-like rules to operate on ": null
+    },
+    {
+        "strings": "string"
+    },
+    {
+        " of symbols. Markov algorithms have been shown to be ": null
+    },
+    {
+        "Turing-complete": "turing-complete"
+    },
+    {
+        ", which means that they are suitable as a general model of ": null
+    },
+    {
+        "computation": "computation"
+    },
+    {
+        " and can represent any ": null
+    },
+    {
+        "mathematical expression": "mathematical expression"
+    },
+    {
+        " from its simple notation. Markov algorithms are named after the Soviet mathematician ": null
+    },
+    {
+        "Andrey Markov, Jr.": "andrey markov, jr."
+    },
+    {
+        "     Refal": "refal"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "programming language": "programming language"
+    },
+    {
+        " based on Markov algorithms.         Normal algorithms are verbal, that is intended to be applied to words in different alphabets.     Definition of any normal algorithm consists of two parts: the definition of the alphabet algorithm , and the definition of its scheme. Scheme normal algorithm is a finite ordered set of so-called substitution formulas, each of which can be simple or final. A simple formula substitutions are called words such as L\\to D , where L and D – are two arbitrary words in the alphabet of the algorithm . Similarly, the final substitution formulas are called words of the form L\\to\\cdot D , where L and D – are two arbitrary words in the alphabet of the algorithm. This assumes that the auxiliary characters \\to and \\to\\cdot do not belong to the alphabet of the algorithm .     An example of a normal algorithm scheme in five-letter alphabet |abc can serve the following scheme:     : \\left\\": null
+    }
+]

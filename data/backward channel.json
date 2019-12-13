@@ -1,0 +1,62 @@
+[
+    {
+        "In a ": null
+    },
+    {
+        "data transmission circuit": "data transmission circuit"
+    },
+    {
+        " a backward channel is the channel that passes data in a direction opposite to that of its associated forward ": null
+    },
+    {
+        "channel": "communication channel"
+    },
+    {
+        ". The backward channel is usually used for transmission of request, supervisory, ": null
+    },
+    {
+        "acknowledgement": "acknowledgement"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "error": "error"
+    },
+    {
+        "-control signals. The direction of flow of these signals is opposite to that in which ": null
+    },
+    {
+        "user information": "user information"
+    },
+    {
+        " is being transferred. The backward-channel ": null
+    },
+    {
+        "bandwidth": "bandwidth"
+    },
+    {
+        " is usually less than that of the primary channel, that is, the forward  channel. For example, ": null
+    },
+    {
+        "ADSL": "asymmetric digital subscriber line"
+    },
+    {
+        "s upstream channel, considered a backward channel for some types of analysis, typically has a bandwidth less than one-fourth of the downstream channel.     In ": null
+    },
+    {
+        "data transmission": "data transmission"
+    },
+    {
+        ", it is a secondary channel in which the direction of transmission is constrained to be opposite to that of the primary, i.e., the forward channel. The direction of transmission in the backward channel is restricted by the control ": null
+    },
+    {
+        "interchange circuit": "interchange circuit"
+    },
+    {
+        " that controls the direction of transmission in the ": null
+    },
+    {
+        "primary channel": "primary channel"
+    }
+]

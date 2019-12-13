@@ -1,0 +1,224 @@
+[
+    {
+        "Futurebus, or IEEE 42, is a ": null
+    },
+    {
+        "computer bus": "computer bus"
+    },
+    {
+        " standard, intended to replace all ": null
+    },
+    {
+        "local bus": "local bus"
+    },
+    {
+        " connections in a computer, including the ": null
+    },
+    {
+        "CPU": "central processing unit"
+    },
+    {
+        ", ": null
+    },
+    {
+        "memory": "computer storage"
+    },
+    {
+        ", plug-in cards and even, to some extent, ": null
+    },
+    {
+        "LAN": "local area network"
+    },
+    {
+        " links between machines. The effort started in 42 and didnt complete until 42 and then immediately went into a redesign that lasted until 42 By this point, implementation of a chip-set based on the standard lacked industry leadership. It has seen little real-world use, although custom implementations continue to be designed and used throughout industry.       In the late 42s, ": null
+    },
+    {
+        "VMEbus": "vmebus"
+    },
+    {
+        " was faster than the parts plugged into it. It was quite reasonable to connect a ": null
+    },
+    {
+        "CPU": "central processing unit"
+    },
+    {
+        " and ": null
+    },
+    {
+        "RAM": "random-access memory"
+    },
+    {
+        " to VME on separate cards to build a computer. However, as the speed of the CPUs and RAM rapidly increased, VME was quickly overwhelmed. Increasing the speed of VME was not easy, because all of the parts plugged into it would have to be able to support these faster speeds as well.     Futurebus looked to fix these problems and create a successor to systems like VMEbus with a system that could grow in speed without affecting existing devices. In order to do this the primary technology of Futurebus was built using ": null
+    },
+    {
+        "asynchronous": "asynchronous serial communication"
+    },
+    {
+        " links, allowing the devices plugged into it to talk at whatever speed they wished. Another problem that needed to be addressed was the ability to have several cards in the system as masters , allowing Futurebus to build multiprocessor machines. This required some form of distributed arbitration to allow the various cards to gain access to the bus at any point, as opposed to VME, which put a single master in slot 42 with overall control. In order to have a clear performance benefit, Futurebus was designed to have the performance needed ten years in the future.     Typical ": null
+    },
+    {
+        "IEEE": "ieee"
+    },
+    {
+        " standards start with a company building a device, and then submitting it to the IEEE for the standardization effort. In the case of Futurebus this was reversed, the whole system was being designed during the standardization effort. This proved to be its downfall. As companies came to see Futurebus as the system, they all joined in. Soon the standards meetings had hundreds of people attending, all of them demanding that their particular needs and wants be included. As the complexity grew, the standards process slowed. In the end it took eight long years before the specification was finally agreed on in 42 ": null
+    },
+    {
+        "Tektronix": "tektronix"
+    },
+    {
+        " did make a few workstations based on Futurebus. ": null
+    },
+    {
+        "American Logic Machines": "american logic machines"
+    },
+    {
+        " continues to build end to end system Futurebus hybrid solutions, including VME-to-Futurebus+ and other Bus-to-Futurebus bridge technologies.     That was just in time for the ": null
+    },
+    {
+        "US Navy": "us navy"
+    },
+    {
+        " who had been looking for a new high-speed system for the Next Generation Computer Resources project for passing ": null
+    },
+    {
+        "sonar": "sonar"
+    },
+    {
+        " data around in their newly designed ": null
+    },
+    {
+        "Seawolf-class submarines": "seawolf-class submarine"
+    },
+    {
+        ", and they said they would standardize on Futurebus if only a few more changes would be made. Seeing a potential massive government buy, the additions effort started immediately on Futurebus+. It took another four years for the Futurebus+ Standard to be released by this time custom variation of Futurebus took the lead in industry.     All of the Futurebus+ proponents had their idea of what Futurebus+ should be. This degenerated into profiles , different versions of Futurebus+ targeted towards a particular market. Boards that were compliant with one Futurebus+ profile were not guaranteed to work with boards built to a different profile. The Futurebus+ standards development politics got so complicated that the IEEE 42 committee split from the IEEE Microcomputer Standards Committee and formed the IEEE Bus Architecture Standards Committee .     In the end very little use of Futurebus was attempted. The decade-long performance gap they gave the system had evaporated in the decade-long standards process, and conventional local bus systems like ": null
+    },
+    {
+        "PCI": "peripheral component interconnect"
+    },
+    {
+        " were close in performance terms. Meanwhile, the VME ecosystem had evolved to such a degree that it continues to be used today, another decade on. Custom implementations of the Futurebus technology are currently used as backplane technologies for high-end network applications, enterprise class routers, high performance blade servers, and application with high demand-content such as video on demand.     Futurebus effort did act as a catalyst for simpler serial technologies. A group then organized to create a system aimed directly at this need, which eventually led to ": null
+    },
+    {
+        "Scalable Coherent Interface": "scalable coherent interface"
+    },
+    {
+        " . Meanwhile, another member decided to simple re-create the entire concept on a much simpler basis, which resulted in ": null
+    },
+    {
+        "QuickRing": "quickring"
+    },
+    {
+        ". Due to the simplicity of these standards, both standards were completed before Futurebus+. Futurebus+ was ahead of its time in the 42s. VME and other parallel bus standards are still trying to adapt concepts that are implemented in the Futurebus, specially in high performance applications.     Futurebus was the source of some of the original work on ": null
+    },
+    {
+        "cache coherency": "cache coherency"
+    },
+    {
+        ", Live Insertion of boards, and Trapezoidal Transceivers. Trapezoidal Transceivers have a controlled risetime and make backplane and bus design much simpler. The original Trapezoidal Transceivers were made by ": null
+    },
+    {
+        "National Semiconductor": "national semiconductor"
+    },
+    {
+        ". Newer Futurebus+ transceivers that meet the ": null
+    },
+    {
+        "IEEE": "ieee"
+    },
+    {
+        " Std 4242 Backplane Transceiver Logic standard are still made by ": null
+    },
+    {
+        "Texas Instruments": "texas instruments"
+    },
+    {
+        ". Futurebus+ was used as the I/O bus in the ": null
+    },
+    {
+        "DEC 42 AXP": "dec 4000 axp"
+    },
+    {
+        " and ": null
+    },
+    {
+        "DEC 42 AXP": "dec 7000/10000 axp"
+    },
+    {
+        " systems. Futurebus+ ": null
+    },
+    {
+        "FDDI": "fddi"
+    },
+    {
+        " boards are still supported in the ": null
+    },
+    {
+        "OpenVMS": "openvms"
+    },
+    {
+        " operating system. Futurebus+ custom chips support advanced Symmetric and Asymmetric versions of Unix-Like operating systems supported by companies such as ": null
+    },
+    {
+        "American Logic Machines": "american logic machines"
+    },
+    {
+        ".     Many of the technical features are shared with IEEE standard ": null
+    },
+    {
+        "FASTBUS": "fastbus"
+    },
+    {
+        ".   FASTBUS was used as a data acquisition system in many high-energy physics experiments in the 42s and 42s.       Futurebus is described in just a few ": null
+    },
+    {
+        "IEEE": "ieee"
+    },
+    {
+        " standards:     4242 IEEE Standard Backplane Bus Specifications for Multiprocessor Architectures: Futurebus   4242 IEEE Standard for Mechanical Core Specifications for Microcomputers Using IEC 4242 Connectors     Futurebus systems were implemented with 42Ux42 Eurocard mechanics using 42-pin ": null
+    },
+    {
+        "DIN": "din"
+    },
+    {
+        " connectors resulting in a backplane that supported both 42 and 42 bit bus widths.     To understand Futurebus+ you need to read many ": null
+    },
+    {
+        "IEEE": "ieee"
+    },
+    {
+        " standards:     4242 IEEE Standard for Futurebus+ — Logical Protocol Specification   4242 IEEE Standard Backplane Bus Specification for Multiprocessor Architectures: Futurebus+   4242 IEEE recommended practice for Futurebus+   4242 IEEE Standard for Conformance Test Requirements for Futurebus+   4242 IEEE Standard for Futurebus+, Profile M   42 Futurebus+ telecommunications systems, profile T   42 Interconnect between Futurebus+ systems   42 Small computer expandibility module for Futurebus+ systems, profile D   4242 Fault tolerant extensions to the Futurebus+ architecture   4242 Standard for Futurebus+ Spaceborne Systems - Profile S   42 Standard for IEEE 42 Links on Futurebus+ Backplane Connector   42 Standard for Fault Tolerance Classification of Computer-Based Systems   4242 IEEE Standard for Electrical Characteristics of Backplane Transceiver Logic Interface Circuits   42 Standard for Metric Equipment Practice for Microcomputers - Coordination Document   4242 IEEE Standard for a Metric Equipment Practice for Microcomputers—Convection-Cooled with 42  mm Connectors   42 Standard Microprocessor Environmental Specifications for Computer Modules   EIA IS42 42  mm Two-Part Connectors for Use with Printed Boards and Backplanes     42 contains three Profiles for target markets, A for general purpose systems, B for an I/O bus, and F for a Futurebus+ will all the options that will make it go fast. Profile A was sponsored by the ": null
+    },
+    {
+        "VMEbus": "vmebus"
+    },
+    {
+        " community. Profile B was sponsored by ": null
+    },
+    {
+        "Digital Equipment Corporation": "digital equipment corporation"
+    },
+    {
+        " and implemented in ": null
+    },
+    {
+        "VAX": "vax"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Alpha": "dec alpha"
+    },
+    {
+        " systems as an I/O bus. Profile F was sponsored by John Theus while he worked at ": null
+    },
+    {
+        "Tektronix": "tektronix"
+    },
+    {
+        " and was intended for high end workstations.     Futurebus+ supports bus widths from 42 to 42 bits. It is possible to build a board that supports all of these bus widths and will interoperate with boards that only support a subset. Split bus transactions are supported so that slow response to a read or write will not tie up the backplane bus. Cache Coherence, implemented using the ": null
+    },
+    {
+        "MESI": "mesi"
+    }
+]

@@ -1,0 +1,221 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", the convolution theorem states that under suitable conditions the ": null
+    },
+    {
+        "Fourier transform": "fourier transform"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "convolution": "convolution"
+    },
+    {
+        " of two ": null
+    },
+    {
+        "signals": "signal"
+    },
+    {
+        " is the ": null
+    },
+    {
+        "pointwise product": "pointwise product"
+    },
+    {
+        " of their Fourier transforms. In other words, convolution in one domain  equals point-wise multiplication in the other domain . Versions of the convolution theorem are true for various ": null
+    },
+    {
+        "Fourier-related transforms": "list of fourier-related transforms"
+    },
+    {
+        ". Let f and g be two ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        "s with ": null
+    },
+    {
+        "convolution": "convolution"
+    },
+    {
+        " fg .      If \\mathcal denotes the Fourier transform ": null
+    },
+    {
+        "operator": "operator"
+    },
+    {
+        ", then \\mathcal\\ and \\mathcal\\ are the Fourier transforms of f and g , respectively. Then     : \\mathcal\\ \\mathcal\\ \\cdot \\mathcal\\     where \\cdot denotes point-wise multiplication. It also works the other way around:     : \\mathcal\\ \\mathcal\\\\mathcal\\     By applying the inverse Fourier transform \\mathcal^ , we can write:     : fg \\mathcal^\\big\\     and:     : f \\cdot g \\mathcal^\\big\\     The relationships above are only valid for the form of the Fourier transform shown in the ": null
+    },
+    {
+        "Proof": "proof"
+    },
+    {
+        " section below. The transform may be normalized in other ways, in which case constant scaling factors will appear in the relationships above.     This theorem also holds for the ": null
+    },
+    {
+        "Laplace transform": "laplace transform"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "two-sided Laplace transform": "two-sided laplace transform"
+    },
+    {
+        " and, when suitably modified, for the ": null
+    },
+    {
+        "Mellin transform": "mellin transform"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Hartley transform": "hartley transform"
+    },
+    {
+        " . It can be extended to the Fourier transform of ": null
+    },
+    {
+        "abstract harmonic analysis": "abstract harmonic analysis"
+    },
+    {
+        " defined over ": null
+    },
+    {
+        "locally compact abelian group": "locally compact abelian group"
+    },
+    {
+        "s.     This formulation is especially useful for implementing a numerical convolution on a ": null
+    },
+    {
+        "computer": "computer"
+    },
+    {
+        ": The standard convolution algorithm has ": null
+    },
+    {
+        "quadratic": "quadratic function"
+    },
+    {
+        " computational complexity": "analysis of algorithms"
+    },
+    {
+        ". With the help of the convolution theorem and the ": null
+    },
+    {
+        "fast Fourier transform": "fast fourier transform"
+    },
+    {
+        ", the complexity of the convolution can be reduced from ": null
+    },
+    {
+        " O\\left ": "big o notation"
+    },
+    {
+        " to ": null
+    },
+    {
+        " O\\left ": "big o notation"
+    },
+    {
+        ", using ": null
+    },
+    {
+        "big O notation": "big o notation"
+    },
+    {
+        ". This can be exploited to construct fast ": null
+    },
+    {
+        "multiplication algorithm": "multiplication algorithm"
+    },
+    {
+        "s, as in .         The proof here is shown for a particular normalization of the Fourier transform. As mentioned above, if the transform is normalized differently, then constant scaling factors will appear in the derivation.     Let f,g belong to the ": null
+    },
+    {
+        "L p ": "lp space"
+    },
+    {
+        "-space L^42 . Let F be the Fourier transform of f and G be the Fourier transform of g :     : \\begin   F & \\mathcal\\ \\int_ f e^ \\, dx, \\\\   G & \\mathcal\\ \\int_g e^ \\, dx,   \\end     where the dot between x and \\nu indicates the ": null
+    },
+    {
+        "inner product": "dot product"
+    },
+    {
+        " of  \\mathbb^n . Let h be the ": null
+    },
+    {
+        "convolution": "convolution"
+    },
+    {
+        " of f and g     : h \\int_ f g\\, dx.     Also     : \\iint |fg|\\,dz\\,dx\\int \\left \\,dx \\int |f|\\,\\|g\\|_42\\,dx\\|f\\|_42 \\|g\\|_42     Hence by ": null
+    },
+    {
+        "Fubinis theorem": "fubinis theorem"
+    },
+    {
+        " we have that h\\in L^42 so its Fourier transform H is defined by the integral formula     :   \\begin   H \\mathcal\\ & \\int_ h e^\\, dz \\\\   & \\int_ \\int_ f g\\, dx\\, e^\\, dz.   \\end       Note that |fge^||fg| and hence by the argument above we may apply Fubinis theorem again :     : H \\int_ f\\left\\,dx.     Substituting yz-x yields dy dz . Therefore     : H \\int_ f \\left \\,dx     ::: \\int_ fe^ \\left \\,dx     ::: \\int_ fe^\\,dx \\int_ g e^\\,dy.     These two integrals are the definitions of F and G , so:   : H F \\cdot G,     ": null
+    },
+    {
+        "QED": "q.e.d."
+    },
+    {
+        ".       A similar argument, as the above proof, can be applied to the convolution theorem for the inverse Fourier transform;     : \\mathcal^\\ \\mathcal^\\ \\cdot \\mathcal^\\     : \\mathcal^\\ \\mathcal^\\\\mathcal^\\     : fg \\mathcal\\big\\     and:     : f \\cdot g \\mathcal^\\big\\       By similar arguments, it can be shown that the ": null
+    },
+    {
+        "discrete convolution": "convolutiondiscrete convolution"
+    },
+    {
+        " of sequences x and y is given by:   : x y \\scriptstyle^ \\displaystyle \\big     where DTFT represents the ": null
+    },
+    {
+        "discrete-time Fourier transform": "discrete-time fourier transform"
+    },
+    {
+        ".     An important special case is the  circular convolution  of x and y defined by x_N y, where x_N is a ": null
+    },
+    {
+        "periodic summation": "periodic summation"
+    },
+    {
+        ":     : x_N \\triangleq \\sum_^ x     It can then be shown that:     :   \\begin   x_N y & \\scriptstyle^ \\displaystyle \\big \\\\   & \\scriptstyle^ \\displaystyle \\big   \\end       where DFT represents the ": null
+    },
+    {
+        "discrete Fourier transform": "discrete fourier transform"
+    },
+    {
+        ".     The proof follows from , which indicates that \\scriptstyle\\displaystyle \\ can be written as:     : \\scriptstyle\\displaystyle \\ \\frac \\sum_^ \\left\\cdot \\delta\\left     The product with \\scriptstyle\\displaystyle \\ is thereby reduced to a discrete-frequency function:     : \\scriptstyle\\displaystyle \\\\cdot \\scriptstyle\\displaystyle \\ \\frac \\sum_^ \\scriptstyle\\displaystyle\\ cdot \\underbrace_\\cdot \\delta\\left .     The inverse DTFT is:     :   \\begin   & \\int_^ \\frac \\sum_^ \\scriptstyle\\displaystyle\\ cdot \\scriptstyle\\displaystyle\\ cdot \\delta\\left\\cdot e^ df \\\\   & \\frac \\sum_^ \\scriptstyle\\displaystyle\\ cdot \\scriptstyle\\displaystyle\\ cdot \\int_^ \\delta\\left\\cdot e^ df \\\\   & \\frac \\sum_^ \\scriptstyle\\displaystyle\\ cdot \\scriptstyle\\displaystyle\\ cdot e^ \\\\   & \\ \\scriptstyle^ \\displaystyle \\big   \\end       ": null
+    },
+    {
+        "QED": "q.e.d."
+    },
+    {
+        ".       Two convolution theorems exist for the ": null
+    },
+    {
+        "Fourier series": "fourier series"
+    },
+    {
+        " coefficients of a periodic function:   The first convolution theorem states that if f and g are in L^42 , the Fourier series coefficients of the 42-periodic ": null
+    },
+    {
+        "convolution": "convolution"
+    },
+    {
+        " of f and g are given by:     :: 42\\pi\\cdot \\widehat\\cdot\\widehat,      :where:     :: \\begin   \\left \\ & \\triangleq \\int_^ f\\cdot g \\, du, & &   \\big\\\\   & \\int_^\\pi f\\cdot g\\, du, & & \\scriptstyle \\text g \\text\\pi\\text\\\\   & \\int_ f\\cdot g\\, du, & & \\scriptstyle \\text\\pi\\text \\pi\\text   \\end     The second convolution theorem states that the Fourier series coefficients of the product of f and g are given by the ": null
+    },
+    {
+        "discrete convolution": "convolutiondiscrete convolution"
+    }
+]

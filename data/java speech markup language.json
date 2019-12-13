@@ -1,0 +1,59 @@
+[
+    {
+        "Java Speech API Markup Language  is an ": null
+    },
+    {
+        "XML": "xml"
+    },
+    {
+        "-based ": null
+    },
+    {
+        "markup language": "markup language"
+    },
+    {
+        " for annotating text input to ": null
+    },
+    {
+        "speech synthesizer": "speech synthesizer"
+    },
+    {
+        "s. JSML is used within the ": null
+    },
+    {
+        "Java Speech API": "java speech api"
+    },
+    {
+        ". JSML is an XML application and conforms to the requirements of well-formed XML documents. Java Speech API Markup Language is referred to as JSpeech Markup Language when describing the ": null
+    },
+    {
+        "W42C": "w3c"
+    },
+    {
+        " documentation of the standard. Java Speech API Markup Language and JSpeech Markup Language identical apart from the change in name, which is made to protect Sun trademarks.     JSML is primarily an XML text format used by Java applications to annotate text input to speech synthesizers. Elements of JSML provide speech synthesizer with detailed information on how to speak text in a naturalized fashion.     JSML defines elements which define a documents structure, the pronunciation of certain words and phrases, features of speech such as emphasis and intonation, etc. JSML is designed in the Java fashion to be simple to learn and use, to be portable across different synthesizers and computing platforms, and although designed for use within is also applicable to a wide range of languages. An example of how JSML is defined is set out below:         This block about JSML is constructed as   a JSML example.         The ": null
+    },
+    {
+        "W42C": "w3c"
+    },
+    {
+        " has developed a standard markup language called ": null
+    },
+    {
+        "SSML": "speech synthesis markup language"
+    },
+    {
+        ", which is based on ": null
+    },
+    {
+        "JSML": "jsml"
+    },
+    {
+        " but is not identical to it. This became a formal ": null
+    },
+    {
+        "W42C recommendation": "w3c recommendation"
+    },
+    {
+        " in 42     External links         ": null
+    }
+]

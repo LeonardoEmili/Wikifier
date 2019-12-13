@@ -1,0 +1,35 @@
+[
+    {
+        "A  cypherpunk anonymous remailer is a Type I ": null
+    },
+    {
+        "anonymous remailer": "anonymous remailer"
+    },
+    {
+        " that takes messages encrypted with ": null
+    },
+    {
+        "PGP": "pretty good privacy"
+    },
+    {
+        " or ": null
+    },
+    {
+        "GPG": "gnu privacy guard"
+    },
+    {
+        ", or in some cases in plain text, and forwards them removing any identifying information from the header.         Step 42: Retrieving the remailers Public Key.     :Generally you can get a Cypherpunk remailers public key by sending an email message with the subject remailer-key to the server you wish to use.     Step 42: Import remailers public keys into PGP or GPG .     Step 42: Compose Message     :Compose the message in your favorite text editor, using the following template:     ::   Anon-To:       Subject:           Step 42: Encrypt Message     :Use ": null
+    },
+    {
+        "PGP": "pretty good privacy"
+    },
+    {
+        " or ": null
+    },
+    {
+        "GPG": "gnu privacy guard"
+    },
+    {
+        " to encrypt the message that you just composed using the remailers public key.     Step 42: Send Encrypted Message to Remailer": null
+    }
+]

@@ -1,0 +1,536 @@
+[
+    {
+        "      In mathematical ": null
+    },
+    {
+        "group theory": "group theory"
+    },
+    {
+        ", given a ": null
+    },
+    {
+        "prime number": "prime number"
+    },
+    {
+        " p, a p-group is a group in which each element has a ": null
+    },
+    {
+        "power": "power"
+    },
+    {
+        " of p as its ": null
+    },
+    {
+        "order": "order"
+    },
+    {
+        ". That is, for each element g of a p-group, there exists a ": null
+    },
+    {
+        "nonnegative integer": "nonnegative integer"
+    },
+    {
+        " n such that the product of p n  copies of g, and not fewer, is equal to the ": null
+    },
+    {
+        "identity element": "identity element"
+    },
+    {
+        ". The orders of different elements may be different powers of p.     Abelian p-groups are also called p-primary or simply primary.     A ": null
+    },
+    {
+        "finite group": "finite group"
+    },
+    {
+        " is a p-group if and only if its ": null
+    },
+    {
+        "order": "order"
+    },
+    {
+        " is a power of p. Given a finite group G, the ": null
+    },
+    {
+        "Sylow theorems": "sylow theorems"
+    },
+    {
+        " guarantee, for every ": null
+    },
+    {
+        "prime power": "prime power"
+    },
+    {
+        " p n  that divides the order of G, the existence of a ": null
+    },
+    {
+        "subgroup": "subgroup"
+    },
+    {
+        " of G of order p n .     The remainder of this article deals with finite p-groups. For an example of an infinite abelian p-group, see ": null
+    },
+    {
+        "Prüfer group": "prüfer group"
+    },
+    {
+        ", and for an example of an infinite simple p-group, see ": null
+    },
+    {
+        "Tarski monster group": "tarski monster group"
+    },
+    {
+        ".         Every p-group is ": null
+    },
+    {
+        "periodic": "periodic group"
+    },
+    {
+        " since by definition every element has ": null
+    },
+    {
+        "finite order": "finite order"
+    },
+    {
+        ".     If p is prime and G is a group of order p k , then G has a normal subgroup of order p m for every 42≤m≤k. This follows by induction, using ": null
+    },
+    {
+        "Cauchys theorem": "cauchys theorem"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Correspondence Theorem": "correspondence theorem"
+    },
+    {
+        " for groups. A proof sketch is as follows: because the center Z of G is nontrivial , according to ": null
+    },
+    {
+        "Cauchys theorem": "cauchys theorem"
+    },
+    {
+        " Z has a subgroup H of order p. Being central in G, H is necessarily normal in G. We may now apply the inductive hypothesis to G/H, and the result follows from the Correspondence Theorem.       One of the first standard results using the ": null
+    },
+    {
+        "class equation": "class equation"
+    },
+    {
+        " is that the ": null
+    },
+    {
+        "center": "center of a group"
+    },
+    {
+        " of a non-trivial finite p-group cannot be the trivial subgroup. ": null
+    },
+    {
+        "proof": "conjugacy classexample"
+    },
+    {
+        "     This forms the basis for many inductive methods in p-groups.     For instance, the ": null
+    },
+    {
+        "normalizer": "normalizer"
+    },
+    {
+        " N of a ": null
+    },
+    {
+        "proper subgroup": "proper subgroup"
+    },
+    {
+        " H of a finite p-group G properly contains H, because for any ": null
+    },
+    {
+        "counterexample": "counterexample"
+    },
+    {
+        " with HN, the center Z is contained in N, and so also in H, but then there is a smaller example H/Z whose normalizer in G/Z is N/ZH/Z, creating an infinite descent. As a corollary, every finite p-group is ": null
+    },
+    {
+        "nilpotent": "nilpotent group"
+    },
+    {
+        ".     In another direction, every ": null
+    },
+    {
+        "normal subgroup": "normal subgroup"
+    },
+    {
+        " of a finite p-group intersects the center nontrivially as may be proved by considering the elements of N which are fixed when G acts on N by conjugation. Since every central subgroup is normal, it follows that every minimal normal subgroup of a finite p-group is central and has order p. Indeed, the ": null
+    },
+    {
+        "socle": "socle"
+    },
+    {
+        " of a finite p-group is the subgroup of the center consisting of the central elements of order p.     If G is a p-group, then so is G/Z, and so it too has a nontrivial center. The preimage in G of the center of G/Z is called the ": null
+    },
+    {
+        "second center": "center higher centers"
+    },
+    {
+        " and these groups begin the ": null
+    },
+    {
+        "upper central series": "upper central series"
+    },
+    {
+        ". Generalizing the earlier comments about the socle, a finite p-group with order p n  contains normal subgroups of order p i  with 42 ≤ i ≤ n, and any normal subgroup of order p i  is contained in the ith center Z i . If a normal subgroup is not contained in Z i , then its intersection with Z i42 has size at least p i42 .       The ": null
+    },
+    {
+        "automorphism": "group automorphism"
+    },
+    {
+        " groups of p-groups are well studied. Just as every finite p-group has a nontrivial center so that the ": null
+    },
+    {
+        "inner automorphism group": "inner automorphism group"
+    },
+    {
+        " is a proper quotient of the group, every finite p-group has a nontrivial ": null
+    },
+    {
+        "outer automorphism group": "outer automorphism group"
+    },
+    {
+        " . Every automorphism of G induces an automorphism on G/Φ, where Φ is the ": null
+    },
+    {
+        "Frattini subgroup": "frattini subgroup"
+    },
+    {
+        " of G. The quotient G/Φ is an ": null
+    },
+    {
+        "elementary abelian group": "elementary abelian group"
+    },
+    {
+        " and its ": null
+    },
+    {
+        "automorphism group": "automorphism group"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "general linear group": "general linear group"
+    },
+    {
+        ", so very well understood. The map from the automorphism group of G into this general linear group has been studied by ": null
+    },
+    {
+        "Burnside": "william burnside"
+    },
+    {
+        ", who showed that the kernel of this map is a p-group.       p-groups of the same order are not necessarily ": null
+    },
+    {
+        "isomorphic": "isomorphism"
+    },
+    {
+        "; for example, the ": null
+    },
+    {
+        "cyclic group": "cyclic group"
+    },
+    {
+        " C 42 and the ": null
+    },
+    {
+        "Klein four-group": "klein four-group"
+    },
+    {
+        " V 42 are both 42-groups of order 42 but they are not isomorphic.     Nor need a p-group be ": null
+    },
+    {
+        "abelian": "abelian group"
+    },
+    {
+        "; the ": null
+    },
+    {
+        "dihedral group": "dihedral group"
+    },
+    {
+        " Dih 42 of order 42 is a non-abelian 42-group. However, every group of order p 42 is abelian. To prove that a group of order p 42 is abelian, note that it is a p-group so has non-trivial center, so given a non-trivial element of the center g, this either generates the group , or it generates a subgroup of order p, so g and some element h not in its orbit generate G, but they commute since g is central, so the group is abelian, and in fact GC_p \\times C_p.     The dihedral groups are both very similar to and very dissimilar from the ": null
+    },
+    {
+        "quaternion group": "quaternion group"
+    },
+    {
+        "s and the ": null
+    },
+    {
+        "semidihedral group": "semidihedral group"
+    },
+    {
+        "s. Together the dihedral, semidihedral, and quaternion groups form the 42-groups of ": null
+    },
+    {
+        "maximal class": "maximal class"
+    },
+    {
+        ", that is those groups of order 42 n42 and nilpotency class n.       The iterated ": null
+    },
+    {
+        "wreath product": "wreath product"
+    },
+    {
+        "s of cyclic groups of order p are very important examples of p-groups. Denote the cyclic group of order p as W, and the wreath product of W with W as W. Then W is the Sylow p-subgroup of the ": null
+    },
+    {
+        "symmetric group": "symmetric group"
+    },
+    {
+        " Sym. Maximal p-subgroups of the general linear group GL are direct products of various W. It has order p k where k    /. It has nilpotency class p n−42 , and its lower central series, upper central series, lower exponent-p central series, and upper exponent-p central series are equal. It is generated by its elements of order p, but its exponent is p n . The second such group, W, is also a p-group of maximal class, since it has order p p42 and nilpotency class p, but is not a ": null
+    },
+    {
+        "regular p-group": "regular p-group"
+    },
+    {
+        ". Since groups of order p p are always regular groups, it is also a minimal such example.       When p    42 and n    42 W is the dihedral group of order 42 so in some sense W provides an analogue for the dihedral group for all primes p when n    42 However, for higher n the analogy becomes strained. There is a different family of examples that more closely mimics the dihedral groups of order 42 n , but that requires a bit more setup. Let ζ denote a primitive pth root of unity in the complex numbers, let Z be the ring of ": null
+    },
+    {
+        "cyclotomic integers": "ring of integers"
+    },
+    {
+        " generated by it, and let P be the ": null
+    },
+    {
+        "prime ideal": "prime ideal"
+    },
+    {
+        " generated by 42−ζ. Let G be a cyclic group of order p generated by an element z. Form the ": null
+    },
+    {
+        "semidirect product": "semidirect product"
+    },
+    {
+        " E of Z and G where z acts as multiplication by ζ. The powers P n are normal subgroups of E, and the example groups are E    E/P n . E has order p n42 and nilpotency class n, so is a p-group of maximal class. When p    42 E is the dihedral group of order 42 n . When p is odd, both W and E are irregular groups of maximal class and order p p42 , but are not isomorphic.         The Sylow subgroups of ": null
+    },
+    {
+        "general linear group": "general linear group"
+    },
+    {
+        "s are another fundamental family of examples. Let V be a vector space of dimension n with basis  and define V i to be the vector space generated by  for 42 ≤ i ≤ n, and define V i 42 when i & gt; n. For each 42 ≤ m ≤ n, the set of invertible linear transformations of V which take each V i to V i+m form a subgroup of Aut denoted U m . If V is a vector space over Z/pZ, then U 42 is a Sylow p-subgroup of Aut GL, and the terms of its ": null
+    },
+    {
+        "lower central series": "lower central series"
+    },
+    {
+        " are just the U m . In terms of matrices, U m are those upper triangular matrices with 42s one the diagonal and 42s on the first m−42 superdiagonals. The group U 42 has order p n·/42 , nilpotency class n, and exponent p k where k is the least integer at least as large as the base p ": null
+    },
+    {
+        "logarithm": "logarithm"
+    },
+    {
+        " of n.       The groups of order p n for 42 ≤ n ≤ 42 were classified early in the history of group theory,  and modern work has extended these classifications to groups whose order divides p 42 , though the sheer number of families of such groups grows so quickly that further classifications along these lines are judged difficult for the human mind to comprehend.  For example, ": null
+    },
+    {
+        "Marshall Hall Jr.": "marshall hall"
+    },
+    {
+        " and James K. Senior classified groups of order 42 n for n ≤ 42 in 42      Rather than classify the groups by order, ": null
+    },
+    {
+        "Philip Hall": "philip hall"
+    },
+    {
+        " proposed using a notion of ": null
+    },
+    {
+        "isoclinism of groups": "isoclinism of groups"
+    },
+    {
+        " which gathered finite p-groups into families based on large quotient and subgroups.      An entirely different method classifies finite p-groups by their  coclass , that is, the difference between their ": null
+    },
+    {
+        "composition length": "composition series"
+    },
+    {
+        " and their ": null
+    },
+    {
+        "nilpotency class": "nilpotent group"
+    },
+    {
+        ". The so-called  coclass conjectures  described the set of all finite p-groups of fixed coclass as perturbations of finitely many ": null
+    },
+    {
+        "pro-p group": "pro-p group"
+    },
+    {
+        "s. The coclass conjectures were proven in the 42s using techniques related to ": null
+    },
+    {
+        "Lie algebra": "lie algebra"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "powerful p-group": "powerful p-group"
+    },
+    {
+        "s.  The final proofs of the coclass theorems are due to A. Shalev and independently to C. R. Leedham-Green, both in 42 They admit a classification of finite p-groups in ": null
+    },
+    {
+        "directed coclass graphs": "descendant tree multifurcation and coclass graphs"
+    },
+    {
+        " consisting of only finitely many coclass trees whose members are characterized by finitely many parametrized presentations.     Every group of order p 42 is ": null
+    },
+    {
+        "metabelian": "metabelian group"
+    },
+    {
+        ".      p 42 C p is the only group of order p. There are exactly two groups of order p 42 , both abelian, namely C p 42 and C p  ×  C p . For example, the cyclic group C 42 and the ": null
+    },
+    {
+        "Klein four-group": "klein four-group"
+    },
+    {
+        " V 42 which is C 42  ×  C 42 are both 42-groups of order 42     There are three abelian groups of order p 42 , namely C p 42 , C p 42 ×C p , and C p ×C p ×C p . There are also two non-abelian groups.     For p  ≠  42 one is a semi-direct product of C p ×C p with C p , and the other is a semi-direct product of C p 42 with C p . The first one can be described in other terms as group UT of unitriangular matrices over finite field with p elements, also called the ": null
+    },
+    {
+        "Heisenberg group mod p": "heisenberg groupheisenberg group modulo an odd prime p"
+    },
+    {
+        ".     For p    42 both the semi-direct products mentioned above are isomorphic to the ": null
+    },
+    {
+        "dihedral group": "dihedral group"
+    },
+    {
+        " Dih 42 of order 42 The other non-abelian group of order 42 is the ": null
+    },
+    {
+        "quaternion group": "quaternion group"
+    },
+    {
+        " Q 42 .           The number of isomorphism classes of groups of order p n  grows as p^ , and these are dominated by the classes that are two-step nilpotent.  Because of this rapid growth, there is a ": null
+    },
+    {
+        "folklore": "mathematical folklore"
+    },
+    {
+        " conjecture asserting that almost all ": null
+    },
+    {
+        "finite group": "finite group"
+    },
+    {
+        "s are 42-groups: the fraction of ": null
+    },
+    {
+        "isomorphism class": "isomorphism class"
+    },
+    {
+        "es of 42-groups among isomorphism classes of groups of order at most n is thought to tend to 42 as n tends to infinity. For instance, of the 42 42 42 42 different groups of order at most 42 42 42 42 42 or just over 42%, are 42-groups of order 42        Every finite group whose order is divisible by p contains a subgroup which is a non-trivial p-group, namely a cyclic group of order p generated by an element of order p obtained from ": null
+    },
+    {
+        "Cauchys theorem": "cauchys theorem"
+    },
+    {
+        ". In fact, it contains a p-group of maximal possible order: if |G|np^km where p does not divide m, then G has a subgroup P of order p^k, called a Sylow p-subgroup. This subgroup need not be unique, but any subgroups of this order are conjugate, and any p-subgroup of G is contained in a Sylow p-subgroup. This and other properties are proved in the ": null
+    },
+    {
+        "Sylow theorems": "sylow theorems"
+    },
+    {
+        ".       p-groups are fundamental tools in understanding the structure of groups and in the ": null
+    },
+    {
+        "classification of finite simple groups": "classification of finite simple groups"
+    },
+    {
+        ". p-groups arise both as subgroups and as quotient groups. As subgroups, for a given prime p one has the Sylow p-subgroups P  and the ": null
+    },
+    {
+        "p-core": "p-core"
+    },
+    {
+        " O_p , and various others. As quotients, the largest p-group quotient is the quotient of G by the ": null
+    },
+    {
+        "p-residual subgroup": "p-residual subgroup"
+    },
+    {
+        " O^p. These groups are related , possess important properties such as the ": null
+    },
+    {
+        "focal subgroup theorem": "focal subgroup theorem"
+    },
+    {
+        ", and allow one to determine many aspects of the structure of the group.       Much of the structure of a finite group is carried in the structure of its so-called local subgroups, the ": null
+    },
+    {
+        "normalizer": "normalizer"
+    },
+    {
+        "s of non-identity p-subgroups.      The large ": null
+    },
+    {
+        "elementary abelian subgroup": "elementary abelian group"
+    },
+    {
+        "s of a finite group exert control over the group that was used in the proof of the ": null
+    },
+    {
+        "Feit–Thompson theorem": "feit–thompson theorem"
+    },
+    {
+        ". Certain ": null
+    },
+    {
+        "central extension": "group extensioncentral extension"
+    },
+    {
+        "s of elementary abelian groups called ": null
+    },
+    {
+        "extraspecial group": "extraspecial group"
+    },
+    {
+        "s help describe the structure of groups as acting on ": null
+    },
+    {
+        "symplectic vector space": "symplectic vector space"
+    },
+    {
+        "s.     ": null
+    },
+    {
+        "Brauer": "richard brauer"
+    },
+    {
+        " classified all groups whose Sylow 42-subgroups are the direct product of two cyclic groups of order 42 and ": null
+    },
+    {
+        "Walter": "john walter"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Gorenstein": "daniel gorenstein"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Bender": "helmut bender"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Suzuki": "michio suzuki"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Glauberman": "george glauberman"
+    }
+]

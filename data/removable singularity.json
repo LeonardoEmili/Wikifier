@@ -1,0 +1,92 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "complex analysis": "complex analysis"
+    },
+    {
+        ", a removable singularity of a ": null
+    },
+    {
+        "holomorphic function": "holomorphic function"
+    },
+    {
+        " is a point at which the function is undefined, but it is possible to redefine the function at that point in such a way that the resulting function is ": null
+    },
+    {
+        " regular": "analytic function"
+    },
+    {
+        " in a ": null
+    },
+    {
+        "neighbourhood": "neighbourhood"
+    },
+    {
+        " of that point.     For instance, the ": null
+    },
+    {
+        "sinc function": "sinc function"
+    },
+    {
+        "     : \\text \\frac     has a singularity at z 42 This singularity can be removed by defining \\text : 42 , which is the ": null
+    },
+    {
+        "limit": "limit of a function"
+    },
+    {
+        " of \\text as z tends to 42 The resulting function is holomorphic. In this case the problem was caused by \\text being given an ": null
+    },
+    {
+        "indeterminate form": "indeterminate form"
+    },
+    {
+        ". Taking a power series expansion for \\frac around the singular point shows that   : \\text \\frac\\left \\sum_^ \\frac 42 - \\frac + \\frac - \\frac + \\cdots.     Formally, if U \\subset \\mathbb C is an ": null
+    },
+    {
+        "open subset": "open subset"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "complex plane": "complex plane"
+    },
+    {
+        " \\mathbb C , a \\in U a point of U , and f: U\\setminus \\ \\rightarrow \\mathbb C is a ": null
+    },
+    {
+        "holomorphic function": "holomorphic function"
+    },
+    {
+        ", then a is called a removable singularity for f if there exists a holomorphic function g: U \\rightarrow \\mathbb C which coincides with f on U\\setminus \\ . We say f is holomorphically extendable over U if such a g exists.         ": null
+    },
+    {
+        "Riemanns": "bernhard riemann"
+    },
+    {
+        " theorem on removable singularities is as follows:      Theorem. Let D \\subset \\mathbb C be an open subset of the complex plane, a \\in D a point of D and f a holomorphic function defined on the set D \\setminus \\ . The following are equivalent:     f is holomorphically extendable over a .   f is continuously extendable over a .   There exists a ": null
+    },
+    {
+        "neighborhood": "neighborhood"
+    },
+    {
+        " of a on which f is ": null
+    },
+    {
+        "bounded": "bounded function"
+    },
+    {
+        ".   \\lim_ f 42 .     The implications 42 ⇒ 42 ⇒ 42 ⇒ 42 are trivial. To prove 42 ⇒ 42 we first recall that the holomorphy of a function at a is equivalent to it being analytic at a , i.e. having a power series representation. Define     :   h \\begin   ^42 f & z \\ne a ,\\\\   42 & z a .   \\end       Clearly, h is holomorphic on D  \\  , and there exists   : h\\lim_\\frac\\lim_ f42   by 42 hence h is holomorphic on D and has a Taylor series about a:     : h c_42 + c_42 + c_42 ^42 + c_42 ^42 + \\cdots \\, .     We have c 42 h 42 and c 42 h 42; therefore     : h c_42 ^42 + c_42 ^42 + \\cdots \\, .     Hence, where z  ≠  a, we have:     : f \\frac c_42 + c_42 + \\cdots \\, .     However,     : g c_42 + c_42 + \\cdots \\, .     is holomorphic on D, thus an extension of f.         Unlike functions of a real variable, holomorphic functions are sufficiently rigid that their isolated singularities can be completely classified. A holomorphic functions singularity is either not really a singularity at all, i.e. a removable singularity, or one of the following two types:     In light of Riemanns theorem, given a non-removable singularity, one might ask whether there exists a natural number m such that \\lim_^f42 . If so, a is called a  pole  of f and the smallest such m is the order of a . So removable singularities are precisely the ": null
+    },
+    {
+        "pole": "pole"
+    },
+    {
+        "s of order 42 A holomorphic function blows up uniformly near its other poles.   If an isolated singularity a of f is neither removable nor a pole, it is called an  essential singularity . The ": null
+    },
+    {
+        "Great Picard Theorem": "picard theorem"
+    }
+]

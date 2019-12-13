@@ -1,0 +1,221 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", particularly in ": null
+    },
+    {
+        "linear algebra": "linear algebra"
+    },
+    {
+        ", ": null
+    },
+    {
+        "tensor analysis": "tensor analysis"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "differential geometry": "differential geometry"
+    },
+    {
+        ", the Levi-Civita symbol represents a collection of numbers; defined from the ": null
+    },
+    {
+        "sign of a permutation": "parity of a permutation"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "natural number": "natural number"
+    },
+    {
+        "s , for some positive integer . It is named after the Italian mathematician and physicist ": null
+    },
+    {
+        "Tullio Levi-Civita": "tullio levi-civita"
+    },
+    {
+        ". Other names include the  permutation symbol, antisymmetric symbol, or alternating symbol, which refer to its ": null
+    },
+    {
+        "antisymmetric": "antisymmetric tensor"
+    },
+    {
+        " property and definition in terms of permutations.     The standard letters to denote the Levi-Civita symbol are the Greek lower case ": null
+    },
+    {
+        "epsilon": "epsilon"
+    },
+    {
+        "  or , or less commonly the Latin lower case . Index notation allows one to display permutations in a way compatible with tensor analysis:     : \\varepsilon_     where each index  takes values . There are  indexed values of , which can be arranged into an -dimensional array. The key defining property of the symbol is total antisymmetry in all the indices. When any two indices are interchanged, equal or not, the symbol is negated:     : \\varepsilon_-\\varepsilon_ .     If any two indices are equal, the symbol is zero. When all indices are unequal, we have:     : \\varepsilon_ ^p \\varepsilon_ ,     where  is the number of pairwise interchanges of indices necessary to unscramble  into the order , and the factor  is called the ": null
+    },
+    {
+        "sign or signature": "parity of a permutation"
+    },
+    {
+        " of the permutation. The value  must be defined, else the particular values of the symbol for all permutations are indeterminate. Most authors choose , which means the Levi-Civita symbol equals the sign of a permutation when the indices are all unequal. This choice is used throughout this article.     The term -dimensional Levi-Civita symbol refers to the fact that the number of indices on the symbol  matches the ": null
+    },
+    {
+        "dimension": "dimension"
+    },
+    {
+        "ality of the ": null
+    },
+    {
+        "vector space": "vector space"
+    },
+    {
+        " in question, which may be ": null
+    },
+    {
+        "Euclidean": "euclidean space"
+    },
+    {
+        " or ": null
+    },
+    {
+        "non-Euclidean": "non-euclidean space"
+    },
+    {
+        ", for example,  or ": null
+    },
+    {
+        "Minkowski space": "minkowski space"
+    },
+    {
+        ". The values of the Levi-Civita symbol are independent of any ": null
+    },
+    {
+        "metric tensor": "metric tensor"
+    },
+    {
+        " and ": null
+    },
+    {
+        "coordinate system": "coordinate system"
+    },
+    {
+        ". Also, the specific term symbol emphasizes that it is not a ": null
+    },
+    {
+        "tensor": "tensor"
+    },
+    {
+        " because of how it transforms between coordinate systems; however it can be interpreted as a ": null
+    },
+    {
+        "tensor density": "tensor density"
+    },
+    {
+        ".     The Levi-Civita symbol allows the ": null
+    },
+    {
+        "determinant": "determinant"
+    },
+    {
+        " of a square matrix, and the ": null
+    },
+    {
+        "cross product": "cross product"
+    },
+    {
+        " of two vectors in three-dimensional Euclidean space, to be expressed in ": null
+    },
+    {
+        "Einstein index notation": "einstein notation"
+    },
+    {
+        ".       The Levi-Civita symbol is most often used in three and four dimensions, and to some extent in two dimensions, so these are given here before defining the general case.       In ": null
+    },
+    {
+        "two dimensions": "two dimensions"
+    },
+    {
+        ", Levi-Civita symbol is defined by:     : \\varepsilon_   \\begin   42 & \\text \\\\   42 & \\text \\\\   \\;\\;\\,42 & \\text i j   \\end       The values can be arranged into a 42  ×  42 ": null
+    },
+    {
+        "antisymmetric matrix": "antisymmetric matrix"
+    },
+    {
+        ":     : \\begin   \\varepsilon_ & \\varepsilon_ \\\\   \\varepsilon_ & \\varepsilon_   \\end \\begin   42 & 42 \\\\   42 & 42   \\end     Use of the two-dimensional symbol is relatively uncommon, although in certain specialized topics like ": null
+    },
+    {
+        "supersymmetry": "supersymmetry"
+    },
+    {
+        "  and ": null
+    },
+    {
+        "twistor theory": "twistor theory"
+    },
+    {
+        "  it appears in the context of 42-": null
+    },
+    {
+        "spinors": "spinors"
+    },
+    {
+        ". The three- and higher-dimensional Levi-Civita symbols are used more commonly.          In ": null
+    },
+    {
+        "three dimensions": "three dimensions"
+    },
+    {
+        ", the Levi-Civita symbol is defined by:      : \\varepsilon_   \\begin   42 & \\text \\text , , \\text , \\\\   42 & \\text \\text , , \\text , \\\\   \\;\\;\\,42 & \\text i j, \\text j k, \\text k i   \\end     That is,  is  if  is an ": null
+    },
+    {
+        "even permutation": "even and odd permutations"
+    },
+    {
+        " of ,  if it is an ": null
+    },
+    {
+        "odd permutation": "odd permutation"
+    },
+    {
+        ", and 42 if any index is repeated. In three dimensions only, the ": null
+    },
+    {
+        "cyclic permutation": "cyclic permutation"
+    },
+    {
+        "s of  are all even permutations, similarly the ": null
+    },
+    {
+        "anticyclic permutation": "anticyclic permutation"
+    },
+    {
+        "s are all odd permutations. This means in 42d it is sufficient to take cyclic or anticyclic permutations of  and easily obtain all the even or odd permutations.     Analogous to 42-dimensional matrices, the values of the 42-dimensional Levi-Civita symbol can be arranged into a  array:     :     where  is the depth ,  is the row and  is the column.     Some examples:     : \\begin   \\varepsilon_ -\\varepsilon_ & - 42 \\\\   \\varepsilon_ -\\varepsilon_ & - 42 \\\\   \\varepsilon_ -\\varepsilon_ & - 42 \\\\   \\varepsilon_ -\\varepsilon_ & 42   \\end       In ": null
+    },
+    {
+        "four dimensions": "four-dimensional space"
+    },
+    {
+        ", the Levi-Civita symbol is defined by:     : \\varepsilon_   \\begin   42 & \\text \\text \\\\   42 & \\text \\text \\\\   \\;\\;\\,42 & \\text   \\end       These values can be arranged into a  array, although in 42 dimensions and higher this is difficult to draw.     Some examples:     : \\begin   \\varepsilon_ -\\varepsilon_ & - 42\\\\   \\varepsilon_ -\\varepsilon_ & 42\\\\   \\varepsilon_ -\\varepsilon_ & - 42\\\\   \\varepsilon_ -\\varepsilon_ & 42   \\end      dimensions": null
+    },
+    {
+        " dimensions": "n-dimensional space"
+    },
+    {
+        ", the Levi-Civita symbol is defined by:      : \\varepsilon_   \\begin   42 & \\text \\text \\\\   42 & \\text \\text \\\\   \\;\\;\\,42 & \\text   \\end       Thus, it is the ": null
+    },
+    {
+        "sign of the permutation": "even and odd permutations"
+    },
+    {
+        " in the case of a permutation, and zero otherwise.     Using the ": null
+    },
+    {
+        "capital pi notation": "multiplicationcapital pi notation"
+    },
+    {
+        "  for ordinary multiplication of numbers, an explicit expression for the symbol is:     : \\begin   \\varepsilon_ & \\prod_": null
+    }
+]

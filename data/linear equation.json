@@ -1,0 +1,275 @@
+[
+    {
+        "      In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a linear equation is an ": null
+    },
+    {
+        "equation": "equation"
+    },
+    {
+        " that may be put in the form   : a_42x_42+\\cdots +a_nx_n+b42   where x_42 \\ldots, x_n are the ": null
+    },
+    {
+        "variables": "variable"
+    },
+    {
+        " , and b, a_42 \\ldots, a_n are the ": null
+    },
+    {
+        "coefficient": "coefficient"
+    },
+    {
+        "s, which are often ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s. The coefficients may be considered as ": null
+    },
+    {
+        "parameter": "parameter"
+    },
+    {
+        "s of the equation, and may be arbitrary ": null
+    },
+    {
+        "expressions": "expression"
+    },
+    {
+        ", provided they do not contain any of the variables. To yield a meaningful equation, the coefficient s a_42 \\ldots, a_n are required to not be all zero.     In other words, a linear equation is obtained by equating to zero a ": null
+    },
+    {
+        "linear polynomial": "linear polynomial"
+    },
+    {
+        " over some ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        ", from which the coefficients are taken .     The ": null
+    },
+    {
+        "solutions": "solution"
+    },
+    {
+        " of such an equation are the values that, when substituted for the unknowns, make the equality true.     In the case of just one variable, there is exactly one solution . Often, the term linear equation refers implicitly to this particular case, in which the variable is sensibly called the unknown.     In the case of two variables, each solution may be interpreted as the ": null
+    },
+    {
+        "Cartesian coordinates": "cartesian coordinates"
+    },
+    {
+        " of a point of the ": null
+    },
+    {
+        "Euclidean plane": "euclidean plane"
+    },
+    {
+        ". The solutions of a linear equation form a ": null
+    },
+    {
+        "line": "line"
+    },
+    {
+        " in the Euclidean plane, and, conversely, every line can be viewed as the set of all solutions of a linear equation in two variables. This is the origin of the term linear for describing this type of equations. More generally, the solutions of a linear equation in  variables form a ": null
+    },
+    {
+        "hyperplane": "hyperplane"
+    },
+    {
+        "  in the ": null
+    },
+    {
+        "Euclidean space": "euclidean space"
+    },
+    {
+        " of dimension .     Linear equations occur frequently in all mathematics and their applications in ": null
+    },
+    {
+        "physics": "physics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "engineering": "engineering"
+    },
+    {
+        ", partly because ": null
+    },
+    {
+        "non-linear system": "non-linear system"
+    },
+    {
+        "s are often well approximated by linear equations.     This article considers the case of a single equation with coefficients from the field of ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s, for which one studies the real solutions. All of its content applies to ": null
+    },
+    {
+        "complex": "complex number"
+    },
+    {
+        " solutions and, more generally, for linear equations with coefficients and solutions in any ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        ". For the case of several simultaneous linear equations, see ": null
+    },
+    {
+        "system of linear equations": "system of linear equations"
+    },
+    {
+        ".       Frequently the term linear equation refers implicitly to the case of just one variable.     In this case, the equation can be put in the form   : ax+b42   and it has a unique solution   : x-\\frac ba   in the general case where .   In this case, the name unknown is sensibly given to the variable .     If , there are two cases. Either  equals also 42 and every number is a solution. Otherwise , and there is no solution. In this latter case, the equation is said to be ": null
+    },
+    {
+        "inconsistent": "inconsistent equations"
+    },
+    {
+        ".       In the case of two variables, any linear equation can be put in the form   : ax+by+c42   where the variables are  and , and the coefficients are ,  and .     An equivalent equation is   : Ax + By C,   with , and      These equivalent variants are sometimes given generic names, such as general form or standard form.      There are other forms for a linear equation , which can all be transformed in the standard form with simple algebraic manipulations, such as adding the same quantity to both members of the equation, or multiplying both members by the same nonzero constant.          If , the equation   : ax+by+c42   is a linear equation in the single variable  for every value of . It has therefore a unique solution for , which is given by   : y-\\frac ab x-\\frac cb.     This defines a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "graph": "graph of a function"
+    },
+    {
+        " of this function is a ": null
+    },
+    {
+        "line": "line"
+    },
+    {
+        " with ": null
+    },
+    {
+        "slope": "slope"
+    },
+    {
+        " -\\frac ab and ": null
+    },
+    {
+        "-intercept": "y-intercept"
+    },
+    {
+        " -\\frac cb. The functions whose graph is a line are generally called linear functions in the context of ": null
+    },
+    {
+        "calculus": "calculus"
+    },
+    {
+        ". However, in ": null
+    },
+    {
+        "linear algebra": "linear algebra"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "linear function": "linear function"
+    },
+    {
+        " is a function that maps a sum to the sum of the images of the summands. So, for this definition, the above function is linear only when , that is when the line passes through the origin. For avoiding confusion, the functions whose graph is an arbitrary line are often called affine functions.             Each solution  of a linear equation   : ax+by+c42   may be viewed as the ": null
+    },
+    {
+        "Cartesian coordinates": "cartesian coordinates"
+    },
+    {
+        " of a point in the ": null
+    },
+    {
+        "Euclidean plane": "euclidean plane"
+    },
+    {
+        ". With this interpretation, all solutions of the equation form a ": null
+    },
+    {
+        "line": "line"
+    },
+    {
+        ", provided that  and  are not both zero. Conversely, every line is the set of all solutions of a linear equation.     The phrase linear equation takes its origin in this correspondence between lines and equations: a linear equation in two variables is an equation whose solutions form a line.     If , the line is the ": null
+    },
+    {
+        "graph of the function": "graph of a function"
+    },
+    {
+        " of  that has been defined in the preceding section. If , the line is a vertical line  of equation x-\\frac ca, which is not the graph of a function of .     Similarly, if , the line is the graph of a function of , and, if , one has a horizontal line of equation y-\\frac cb.       There are various ways of defining a line. In the following subsections, a linear equation of the line is given in each case.       A non-vertical line can be defined by its ": null
+    },
+    {
+        "slope ": "slope"
+    },
+    {
+        " , and its ": null
+    },
+    {
+        "-intercept": "y-intercept"
+    },
+    {
+        "  . In this case its linear equation can be written   : ymx+y_42     If, moreover, the line is not horizontal, it can be defined by its slope and its -intercept . In this case, its equation can be written   : ym,   or, equivalently,   : ymx-mx_42     These form rely on the habit of considering a non vertical line as the ": null
+    },
+    {
+        "graph of a function": "graph of a function"
+    },
+    {
+        ".  For a line given by an equation   : ax+by+c,   these forms can be easily deduced from the relations   : \\begin   m & -\\frac ab,\\\\   x_42 & -\\frac ca,\\\\   y_42 & -\\frac cb.   \\end         A non-vertical line can be defined by its ": null
+    },
+    {
+        "slope ": "slope"
+    },
+    {
+        " , and the coordinates x_42 y_42 of any point of the line. In this case, a linear equation of the line is   : yy_42 + m,   or   : ymx +y_42-mx_42     This equation can also be written   : y-y_42m   for emphasizing that the slope of a line can be computed from the coordinates of any two points.       A line that is not parallel to an axis and does not pass through the origin cuts the axes in two different points. The ": null
+    },
+    {
+        "intercept values": "y-intercept"
+    },
+    {
+        "  and  of these two points are nonzero, and an equation of the line is    : \\frac + \\frac 42   .       Given two different points  and , there is exactly one line that passes through them. There are several ways to write a linear equation of is line.     If , the slope of the line is \\frac. Thus, a point-slope form is   : y - y_42 \\frac .     By ": null
+    },
+    {
+        "clearing denominators": "clearing denominators"
+    },
+    {
+        ", one gets the equation   : - 42   which is valid also when  .     This form is not symmetric in the two given points, but a symmetric form can be obtained by regrouping the constant terms:   : x + y + 42   .       The two-point form of the equation of a line can be expressed simply in terms of a ": null
+    },
+    {
+        "determinant": "determinant"
+    },
+    {
+        ". There are two common ways for that.     The equation - 42 is the result of expanding the determinant in the equation   : \\beginx-x_42 & y-y_42\\\\x_42-x_42 & y_42-y_42\\end42     The equation x + y + 42 can be obtained be expanding with respect to its first row the determinant in the equation   : \\begin   x & y & 42\\\\   x_42 & y_42 & 42\\\\   x_42 & y_42 & 42   \\end42     Beside being very simple and mnemonic, this form has the advantage of being a special case of the more general equation of a ": null
+    },
+    {
+        "hyperplane": "hyperplane"
+    },
+    {
+        " passing through  points in a space of dimension . These equations rely on the condition of ": null
+    },
+    {
+        "linear dependence": "linear dependence"
+    },
+    {
+        " of points in a ": null
+    },
+    {
+        "projective space": "projective space"
+    },
+    {
+        ".       A linear equation with more than two variables may always be assumed to have the form   : a_42 x_42 + a_42 x_42 + \\cdots + a_n x_n + b42     The coefficient , often denoted  is called the constant term, sometimes the absolute term,. Depending on the context, the term coefficient can be reserved for the  with  math /math math /math math /math  math /math ": null
+    }
+]

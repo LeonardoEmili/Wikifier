@@ -1,0 +1,83 @@
+[
+    {
+        "Character interval: In a ": null
+    },
+    {
+        "communications system": "communications system"
+    },
+    {
+        ", the total number of unit intervals required to transmit any given ": null
+    },
+    {
+        "character": "character"
+    },
+    {
+        ", including ": null
+    },
+    {
+        "synchronizing": "synchronizing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "information": "information"
+    },
+    {
+        ", ": null
+    },
+    {
+        "error checking": "error checking"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "control character": "control character"
+    },
+    {
+        "s, but not including signals that are not associated with individual characters.     An example of a ": null
+    },
+    {
+        "time": "time"
+    },
+    {
+        " interval that is excluded when determining character interval is any time added between the end of a ": null
+    },
+    {
+        "stop signal": "stop signal"
+    },
+    {
+        " and the beginning of the next ": null
+    },
+    {
+        "start signal": "start signal"
+    },
+    {
+        " to accommodate changing ": null
+    },
+    {
+        "transmission": "transmission"
+    },
+    {
+        " conditions, such as a change in ": null
+    },
+    {
+        "data signaling rate": "data signaling rate"
+    },
+    {
+        " or ": null
+    },
+    {
+        "buffering": "buffer"
+    },
+    {
+        " requirements. This added time is defined as a part of the ": null
+    },
+    {
+        "intercharacter interval": "intercharacter interval"
+    },
+    {
+        ".          ": null
+    }
+]

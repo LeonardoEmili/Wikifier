@@ -1,0 +1,131 @@
+[
+    {
+        "An analog sampled filter an ": null
+    },
+    {
+        "electronic filter": "electronic filter"
+    },
+    {
+        " that is a ": null
+    },
+    {
+        "hybrid": "hybrid integrated circuit"
+    },
+    {
+        " between an ": null
+    },
+    {
+        "analog": "analog filter"
+    },
+    {
+        " and a ": null
+    },
+    {
+        "digital filter": "digital filter"
+    },
+    {
+        ". The input signal is ": null
+    },
+    {
+        "analog": "analog"
+    },
+    {
+        ", and usually stored in ": null
+    },
+    {
+        "capacitor": "capacitor"
+    },
+    {
+        "s. The ": null
+    },
+    {
+        "time domain": "time domain"
+    },
+    {
+        " is ": null
+    },
+    {
+        "discrete": "discrete time"
+    },
+    {
+        ", however. Distinct analog samples are shifted through an array of holding capacitors as in a ": null
+    },
+    {
+        "bucket brigade": "bucket brigade"
+    },
+    {
+        ". Analog adders and amplifiers do the arithmetic in the signal domain, just as in an ": null
+    },
+    {
+        "analog computer": "analog computer"
+    },
+    {
+        ".     Note that these filters are subject to ": null
+    },
+    {
+        "aliasing": "aliasing"
+    },
+    {
+        " phenomena just like a digital filter, and ": null
+    },
+    {
+        "anti-aliasing filter": "anti-aliasing filter"
+    },
+    {
+        "s will usually be required. See: ": null
+    },
+    {
+        "Filter design": "filter design"
+    },
+    {
+        "     Companies such as ": null
+    },
+    {
+        "Linear Technology": "linear technology"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Maxim": "maxim integrated products"
+    },
+    {
+        " produce ": null
+    },
+    {
+        "integrated circuit": "integrated circuit"
+    },
+    {
+        "s that implement this functionality. Filters up to the 42th order may be implemented using a single chip. Some are fully configurable; some are pre-configured, usually as ": null
+    },
+    {
+        "low-pass filter": "low-pass filter"
+    },
+    {
+        "s.     Due to the high filter order that can be achieved in an easy and stable manner, single chip analog sampled filters are often used for implementing anti-aliasing filters for digital filters. The analog sampled filter will in its turn need yet another anti-aliasing filter, but this can often be implemented as a simple 42st order low-pass ": null
+    },
+    {
+        "analog filter": "analog filter"
+    },
+    {
+        " consisting of one series ": null
+    },
+    {
+        "resistor": "resistor"
+    },
+    {
+        " and one ": null
+    },
+    {
+        "capacitor": "capacitor"
+    },
+    {
+        " to ": null
+    },
+    {
+        "ground": "ground"
+    },
+    {
+        ".           ": null
+    }
+]

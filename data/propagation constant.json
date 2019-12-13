@@ -1,0 +1,329 @@
+[
+    {
+        "The propagation constant of a sinusoidal ": null
+    },
+    {
+        "electromagnetic wave": "electromagnetic wave"
+    },
+    {
+        " is a measure of the change undergone by the ": null
+    },
+    {
+        "amplitude": "amplitude"
+    },
+    {
+        " and ": null
+    },
+    {
+        "phase": "phase"
+    },
+    {
+        " of the wave as it ": null
+    },
+    {
+        "propagates": "wave propagation"
+    },
+    {
+        " in a given direction. The quantity being measured can be the ": null
+    },
+    {
+        "voltage": "voltage"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "current": "electric current"
+    },
+    {
+        " in a ": null
+    },
+    {
+        "circuit": "electronic circuit"
+    },
+    {
+        ", or a field vector such as ": null
+    },
+    {
+        "electric field strength": "electric field strength"
+    },
+    {
+        " or ": null
+    },
+    {
+        "flux density": "flux density"
+    },
+    {
+        ". The propagation constant itself measures the change ": null
+    },
+    {
+        "per unit length": "per unit length"
+    },
+    {
+        ", but it is otherwise dimensionless. In the context of ": null
+    },
+    {
+        "two-port networks": "two port networks"
+    },
+    {
+        " and their cascades, propagation constant measures the change undergone by the source quantity as it propagates from one port to the next.     The propagation constants value is expressed ": null
+    },
+    {
+        "logarithm": "logarithm"
+    },
+    {
+        "ically, almost universally to the base  e , rather than the more usual base 42 that is used in ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        "s in other situations. The quantity measured, such as voltage, is expressed as a sinusoidal ": null
+    },
+    {
+        "phasor": "phasor"
+    },
+    {
+        ". The phase of the sinusoid varies with distance which results in the propagation constant being a ": null
+    },
+    {
+        "complex number": "complex number"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "imaginary": "imaginary number"
+    },
+    {
+        " part being caused by the phase change.         The term propagation constant is somewhat of a misnomer as it usually varies strongly with ω. It is probably the most widely used term but there are a large variety of alternative names used by various authors for this quantity. These include transmission parameter, transmission function, propagation parameter, propagation coefficient and transmission constant. If the plural is used, it suggests that α and β are being referenced separately but collectively as in transmission parameters, propagation parameters, etc. In transmission line theory, α and β are counted among the secondary coefficients , the term secondary being used to contrast to the  primary line coefficients . The primary coefficients are the physical properties of the line, namely R,C,L and G, from which the secondary coefficients may be derived using the ": null
+    },
+    {
+        "telegraphers equation": "telegraphers equation"
+    },
+    {
+        ". Note that in the field of transmission lines, the term ": null
+    },
+    {
+        "transmission coefficient": "transmission coefficient"
+    },
+    {
+        " has a different meaning despite the similarity of name: it is the companion of the ": null
+    },
+    {
+        "reflection coefficient": "reflection coefficient"
+    },
+    {
+        ".         The propagation constant, symbol , for a given system is defined by the ratio of the ": null
+    },
+    {
+        "complex amplitude": "phasor"
+    },
+    {
+        " at the source of the wave to the complex amplitude at some distance x, such that,     : \\frace^     Since the propagation constant is a complex quantity we can write:     : \\gamma \\alpha +i \\beta \\,   where   α, the real part, is called the ": null
+    },
+    {
+        "attenuation constant": "attenuation constant"
+    },
+    {
+        " β, the imaginary part, is called the ": null
+    },
+    {
+        "phase constant": "phase constant"
+    },
+    {
+        "     That β does indeed represent phase can be seen from ": null
+    },
+    {
+        "Eulers formula": "eulers formula"
+    },
+    {
+        ":     : e^\\cos+i\\sin\\,\\!     which is a sinusoid which varies in phase as θ varies but does not vary in amplitude because     : \\left|e^\\right|\\sqrt42     The reason for the use of base e is also now made clear. The imaginary phase constant, iβ, can be added directly to the attenuation constant, α, to form a single complex number that can be handled in one mathematical operation provided they are to the same base. Angles measured in radians require base e, so the attenuation is likewise in base e.     The propagation constant for copper lines can be calculated from the primary line coefficients by means of the relationship     : \\gamma\\sqrt     where     : ZR+i\\omega L\\,\\! , the series ": null
+    },
+    {
+        "impedance": "electrical impedance"
+    },
+    {
+        " of the line per unit length and,     : YG+i\\omega C\\,\\! , the shunt ": null
+    },
+    {
+        "admittance": "admittance"
+    },
+    {
+        " of the line per unit length.         In ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        "s, the term attenuation constant, also called attenuation parameter or  attenuation coefficient , is the attenuation of an electromagnetic wave propagating through a ": null
+    },
+    {
+        "medium": "transmission medium"
+    },
+    {
+        " per unit distance from the source. It is the real part of the propagation constant and is measured in ": null
+    },
+    {
+        "neper": "neper"
+    },
+    {
+        "s per metre. A neper is approximately 42  ": null
+    },
+    {
+        "dB": "decibel"
+    },
+    {
+        ". Attenuation constant can be defined by the amplitude ratio     : \\left|\\frac\\right|e^     The propagation constant per unit length is defined as the natural logarithmic of ratio of the sending end current or voltage to the receiving end current or voltage.         The attenuation constant for copper lines can be calculated from the primary line coefficients as shown above. For a line meeting the ": null
+    },
+    {
+        "distortionless condition": "heaviside condition"
+    },
+    {
+        ", with a conductance G in the insulator, the attenuation constant is given by     : \\alpha\\sqrt\\,\\!     however, a real line is unlikely to meet this condition without the addition of ": null
+    },
+    {
+        "loading coils": "loading coils"
+    },
+    {
+        " and, furthermore, there are some frequency dependent effects operating on the primary constants which cause a frequency dependence of the loss. There are two main components to these losses, the metal loss and the dielectric loss.     The loss of most transmission lines are dominated by the metal loss, which causes a frequency dependency due to finite conductivity of metals, and the ": null
+    },
+    {
+        "skin effect": "skin effect"
+    },
+    {
+        " inside a conductor. The skin effect causes R along the conductor to be approximately dependent on frequency according to     : R \\propto \\sqrt     Losses in the dielectric depend on the ": null
+    },
+    {
+        "loss tangent": "loss tangent"
+    },
+    {
+        "  of the material divided by the wavelength of the signal. Thus they are directly proportional to the frequency.     : \\alpha_d         The attenuation constant for a particular ": null
+    },
+    {
+        "propagation mode": "propagation mode"
+    },
+    {
+        " in an ": null
+    },
+    {
+        "optical fiber": "optical fiber"
+    },
+    {
+        " is the real part of the axial propagation constant.       In ": null
+    },
+    {
+        "electromagnetic theory": "electromagnetic theory"
+    },
+    {
+        ", the phase constant, also called phase change constant, parameter or coefficient is the imaginary component of the propagation constant for a plane wave. It represents the change in phase per unit length along the path travelled by the wave at any instant and is equal to the ": null
+    },
+    {
+        "real part": "real part"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "angular wavenumber": "wavenumberin wave equations"
+    },
+    {
+        " of the wave. It is represented by the symbol β and is measured in units of radians per unit length.     From the definition of wavenumber for TEM waves:     : k \\frac \\beta     For a ": null
+    },
+    {
+        "transmission line": "transmission line"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "Heaviside condition": "heaviside condition"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "telegraphers equation": "telegraphers equation"
+    },
+    {
+        " tells us that the wavenumber must be proportional to frequency for the transmission of the wave to be undistorted in the ": null
+    },
+    {
+        "time domain": "time domain"
+    },
+    {
+        ". This includes, but is not limited to, the ideal case of a lossless line. The reason for this condition can be seen by considering that a useful signal is composed of many different wavelengths in the frequency domain. For there to be no distortion of the ": null
+    },
+    {
+        "waveform": "waveform"
+    },
+    {
+        ", all these waves must travel at the same velocity so that they arrive at the far end of the line at the same time as a ": null
+    },
+    {
+        "group": "group velocity"
+    },
+    {
+        ". Since wave ": null
+    },
+    {
+        "phase velocity": "phase velocity"
+    },
+    {
+        " is given by     : v_p\\frac\\frac\\frac     it is proved that β is required to be proportional to ω. In terms of primary coefficients of the line, this yields from the telegraphers equation for a distortionless line the condition     : \\beta \\omega \\sqrt     However, practical lines can only be expected to approximately meet this condition over a limited frequency band.     In particular, the phase constant \\beta is not always equivalent to the ": null
+    },
+    {
+        "wavenumber": "wavenumber"
+    },
+    {
+        " k . Generally speaking, the following relation     : \\betak     is tenable to the ": null
+    },
+    {
+        "TEM": "transverse mode"
+    },
+    {
+        " wave which travels in free space or TEM-devices such as the ": null
+    },
+    {
+        "coaxial cable": "coaxial cable"
+    },
+    {
+        " and ": null
+    },
+    {
+        "two parallel wires transmission lines": "twin-lead"
+    },
+    {
+        ". Nevertheless, it is invalid to the ": null
+    },
+    {
+        "TE": "transverse mode"
+    },
+    {
+        " wave and ": null
+    },
+    {
+        "TM": "transverse mode"
+    },
+    {
+        " wave . For example,  in a hollow ": null
+    },
+    {
+        "waveguide": "waveguide"
+    },
+    {
+        " where the TEM wave cannot exist but TE and TM waves can propagate,     : k\\frac     : \\betak\\sqrt     Here \\omega_ is the ": null
+    },
+    {
+        "cutoff frequency": "cutoff frequency"
+    },
+    {
+        ". In a rectangular waveguide, the cutoff frequency is     :   \\omega_ c \\sqrt,       where the integers n,m \\ge 42 are the mode numbers, and a and b the lengths of the sides of the rectangle. For TE modes, n,m \\ge 42 , while for TM modes n, m \\ge 42 . The phase velocity equals     : v_p\\frac\\frac /math  math /math  ref  /ref ref  /ref math /math  ref /ref ": null
+    },
+    {
+        "ub /su": "ub  /su"
+    },
+    {
+        " ref /ref math /math math /math math /math math /math ref /ref  math /math ": null
+    }
+]

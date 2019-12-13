@@ -1,0 +1,161 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "group theory": "group theory"
+    },
+    {
+        ", the wreath product is a specialized product of two groups, based on a ": null
+    },
+    {
+        "semidirect product": "semidirect product"
+    },
+    {
+        ". Wreath products are used in the classification of ": null
+    },
+    {
+        "permutation group": "permutation group"
+    },
+    {
+        "s and also provide a way of constructing interesting examples of groups.     Given two groups A and H, there exist two variations of the wreath product: the unrestricted wreath product A  Wr  H  and the restricted wreath product A wr H. Given a set Ω with an ": null
+    },
+    {
+        "H-action": "group action"
+    },
+    {
+        " there exists a generalization of the wreath product which is denoted by A  Wr Ω  H or A  wr Ω  H respectively.     The notion generalizes to ": null
+    },
+    {
+        "semigroup": "semigroup"
+    },
+    {
+        "s and is a central construction in the ": null
+    },
+    {
+        "Krohn–Rhodes structure theory": "krohn-rhodes theory"
+    },
+    {
+        " of finite semigroups.         Let A and H be groups and Ω a set with H ": null
+    },
+    {
+        "acting": "group action"
+    },
+    {
+        " on it. Let K be the ": null
+    },
+    {
+        "direct product": "direct product of groups"
+    },
+    {
+        "     : K \\equiv \\prod_ A_\\omega     of copies of A ω : A indexed by the set Ω. The elements of K can be seen as arbitrary sequences  of elements of A indexed by Ω with component-wise multiplication. Then the action of H on Ω extends in a natural way to an action of H on the group K by     : h \\equiv .     Then the unrestricted wreath product A  Wr Ω  H of A by H is the ": null
+    },
+    {
+        "semidirect product": "semidirect product"
+    },
+    {
+        " K  ⋊  H. The subgroup K of A  Wr Ω  H is called the base of the wreath product.     The restricted wreath product A  wr Ω  H is constructed in the same way as the unrestricted wreath product except that one uses the ": null
+    },
+    {
+        "direct sum": "direct sum of groups"
+    },
+    {
+        "     : K \\equiv \\bigoplus_ A_\\omega     as the base of the wreath product. In this case the elements of K are sequences  of elements in A indexed by Ω of which all but finitely many a ω are the ": null
+    },
+    {
+        "identity element": "identity element"
+    },
+    {
+        " of A.     In the most common case, one takes Ω  :  H, where H ": null
+    },
+    {
+        "acts": "group action"
+    },
+    {
+        " in a natural way on itself by left multiplication. In this case, the unrestricted and restricted wreath product may be denoted by A  Wr  H and A  wr  H respectively. This is called the regular wreath product.         The structure of the wreath product of A by H depends on the H-set Ω and in case Ω is infinite it also depends on whether one uses the restricted or unrestricted wreath product. However, in literature the notation used may be deficient and one needs to pay attention to the circumstances.     In literature A≀ Ω H may stand for the unrestricted wreath product A  Wr Ω  H or the restricted wreath product A  wr Ω  H.   Similarly, A≀H may stand for the unrestricted regular wreath product A  Wr  H or the restricted regular wreath product A  wr  H.   In literature the H-set Ω may be omitted from the notation even if Ω  ≠  H.   In the special case that H    S n is the ": null
+    },
+    {
+        "symmetric group": "symmetric group"
+    },
+    {
+        " of degree n it is common in the literature to assume that Ω      and then omit Ω from the notation. That is, A≀S n commonly denotes A≀  S n instead of the regular wreath product A≀ S n S n . In the first case the base group is the product of n copies of A, in the latter it is the product of ": null
+    },
+    {
+        "n!": "factorial"
+    },
+    {
+        " copies of  A.         Since the finite direct product is the same as the finite direct sum of groups, it follows that the unrestricted A  Wr Ω  H and the restricted wreath product A  wr Ω  H agree if the H-set Ω is finite. In particular this is true when Ω H is finite.   A  wr Ω  H is always a ": null
+    },
+    {
+        "subgroup": "subgroup"
+    },
+    {
+        " of A  Wr Ω  H.   ": null
+    },
+    {
+        "Universal embedding theorem": "universal embedding theorem"
+    },
+    {
+        ": If G is an ": null
+    },
+    {
+        "extension": "group extension"
+    },
+    {
+        " of A by H, then there exists a subgroup of the unrestricted wreath product A≀H which is isomorphic to G. M. Krasner and L. Kaloujnine, Produit complet des groupes de permutations et le problème dextension de groupes III , Acta Sci. Math. Szeged 42 pp. 42–42 This is also known as the Krasner–Kaloujnine embedding theorem. The ": null
+    },
+    {
+        "Krohn–Rhodes theorem": "krohn–rhodes theorem"
+    },
+    {
+        " involves what is basically the semigroup equivalent of this.    If A, H and Ω are finite, then     :: |A≀ Ω H A H A acts on a set Λ then there are two canonical ways to construct sets from Ω and Λ on which A  Wr Ω  H  can act.     The imprimitive wreath product action on Λ  ×  Ω.     : If   ∈  A  Wr Ω  H and   ∈  Λ  ×  Ω, then     :: \\cdot : .     The primitive wreath product action on Λ Ω .     : An element in Λ Ω is a sequence indexed by the H-set Ω. Given an element  ∈  A  Wr Ω  H its operation on   ∈  Λ Ω is given by     :: \\cdot : .         The ": null
+    },
+    {
+        "Lamplighter group": "lamplighter group"
+    },
+    {
+        " is the restricted wreath product ℤ 42 ≀ℤ.    .     : The base of this wreath product is the n-fold direct product     :: ℤ m n ℤ m × ... × ℤ m     : of copies of ℤ m where the action φ  :  S n → Aut of the ": null
+    },
+    {
+        "symmetric group": "symmetric group"
+    },
+    {
+        " S n of degree n is given by     :: φ : . J. W. Davies and A. O. Morris, The Schur Multiplier of the Generalized Symmetric Group , J. London Math. Soc , 42 , pp. 42–42     S 42 ≀S n .     : The action of S n on  is as above. Since the symmetric group S 42 of degree 42 is ": null
+    },
+    {
+        "isomorphic": "group isomorphism"
+    },
+    {
+        " to ℤ 42 the hyperoctahedral group is a special case of a generalized symmetric group. P. Graczyk, G. Letac and H. Massam, The Hyperoctahedral Group, Symmetric Group Representations and the Moments of the Real Wishart Distribution , J. Theoret. Probab. 42 , no. 42 42–42     The smallest non-trivial wreath product is ℤ 42 ≀ℤ 42 , which is the two-dimensional case of the above hyperoctahedral group. It is the symmetry group of the square, also called Dih 42 , the ": null
+    },
+    {
+        "dihedral group": "dihedral group"
+    },
+    {
+        " of order 42   Let p be a ": null
+    },
+    {
+        "prime": "prime number"
+    },
+    {
+        " and let n≥42 Let P be a ": null
+    },
+    {
+        "Sylow p-subgroup": "sylow theorems"
+    },
+    {
+        " of the symmetric group S p n of degree p n . Then P is ": null
+    },
+    {
+        "isomorphic": "group isomorphism"
+    },
+    {
+        " to the iterated regular wreath product W n ℤ p ≀ ℤ p ≀...≀ℤ p of n copies of ℤ p . Here W 42 : ℤ p and W k : W k−42 ≀ℤ p for all k  ≥  42 Joseph J. Rotman, An Introduction to the Theory of Groups, p. 42 L. Kaloujnine, La structure des p-groupes de Sylow des groupes symétriques finis , Annales Scientifiques de lÉcole Normale Supérieure. Troisième Série 42 pp. 42–42 For instance, the Sylow 42-subgroup of S 42 is the above ℤ 42 ≀ℤ 42 group.   The ": null
+    },
+    {
+        "Rubiks Cube group": "rubiks cube group"
+    },
+    {
+        " is a subgroup of index 42 in the product of wreath products,   × ": null
+    }
+]

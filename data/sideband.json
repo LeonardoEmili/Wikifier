@@ -1,0 +1,323 @@
+[
+    {
+        "        In ": null
+    },
+    {
+        "radio": "radio"
+    },
+    {
+        " communications, a sideband is a ": null
+    },
+    {
+        "band": "band"
+    },
+    {
+        " of ": null
+    },
+    {
+        "frequencies": "frequencies"
+    },
+    {
+        " higher than or lower than the ": null
+    },
+    {
+        "carrier frequency": "carrier frequency"
+    },
+    {
+        ", that are the result of the ": null
+    },
+    {
+        "modulation": "modulation"
+    },
+    {
+        " process. The sidebands carry the information transmitted by the radio signal. The sidebands consist of all the ": null
+    },
+    {
+        "spectral component": "spectral component"
+    },
+    {
+        "s of the modulated signal except the carrier. All forms of modulation produce sidebands.     ": null
+    },
+    {
+        "Amplitude modulation": "amplitude modulation"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "carrier signal": "carrier signal"
+    },
+    {
+        " normally results in two mirror-image sidebands. The signal components above the carrier frequency constitute the upper sideband , and those below the carrier frequency constitute the lower sideband . For example, if a 42kHz carrier is amplitude modulated by a 42kHz audio signal, there will be components at 42kHz and 42kHz as well as 42kHz in the generated ": null
+    },
+    {
+        "radio frequency": "radio frequency"
+    },
+    {
+        " spectrum; so an ": null
+    },
+    {
+        "audio": "audio signal"
+    },
+    {
+        " bandwidth": "bandwidth"
+    },
+    {
+        " of 42kHz will require a ": null
+    },
+    {
+        "radio spectrum": "radio spectrum"
+    },
+    {
+        " bandwidth of 42kHz. In conventional AM ": null
+    },
+    {
+        "transmission": "transmission"
+    },
+    {
+        ", as used by broadcast band AM stations, the original audio signal can be recovered by either ": null
+    },
+    {
+        "synchronous detector": "synchronous detector"
+    },
+    {
+        " circuits or by simple ": null
+    },
+    {
+        "envelope detectors": "envelope detector"
+    },
+    {
+        " because the carrier and both sidebands are present. This is sometimes called double sideband amplitude modulation , but not all variants of DSB are compatible with envelope detectors.     In some forms of AM, the carrier may be reduced, to save power. The term ": null
+    },
+    {
+        "DSB reduced-carrier": "double-sideband reduced-carrier transmission"
+    },
+    {
+        " normally implies enough carrier remains in the transmission to enable a ": null
+    },
+    {
+        "receiver": "receiver"
+    },
+    {
+        " circuit to regenerate a strong carrier or at least ": null
+    },
+    {
+        "synchronise": "synchronous"
+    },
+    {
+        " a ": null
+    },
+    {
+        "phase-locked loop": "phase-locked loop"
+    },
+    {
+        " but there are forms where the carrier is removed completely, producing ": null
+    },
+    {
+        "double sideband with suppressed carrier": "double-sideband suppressed-carrier transmission"
+    },
+    {
+        " . Suppressed carrier systems require more sophisticated circuits in the receiver and some other method of deducing the original carrier frequency. An example is the ": null
+    },
+    {
+        "stereophonic": "stereophonic"
+    },
+    {
+        " difference information transmitted in stereo ": null
+    },
+    {
+        "FM broadcasting": "fm broadcasting"
+    },
+    {
+        " on a 42  kHz ": null
+    },
+    {
+        "subcarrier": "subcarrier"
+    },
+    {
+        " where a low-power signal at half the 42-kHz carrier frequency is inserted between the monaural signal frequencies  and the bottom of the stereo information sub-carrier . The receiver locally regenerates the subcarrier by doubling a special 42  kHz ": null
+    },
+    {
+        "pilot tone": "pilot signal"
+    },
+    {
+        ". In another example, the ": null
+    },
+    {
+        "quadrature modulation": "quadrature amplitude modulation"
+    },
+    {
+        " used historically for chroma information in ": null
+    },
+    {
+        "PAL": "pal"
+    },
+    {
+        " television broadcasts, the synchronising signal is a short burst of a few cycles of carrier during the ": null
+    },
+    {
+        " back porch ": "analog televisionstructure of a video signal"
+    },
+    {
+        " part of each scan line when no image is transmitted. But in other DSB-SC systems, the carrier may be regenerated directly from the sidebands by a ": null
+    },
+    {
+        "Costas loop": "costas loop"
+    },
+    {
+        " or ": null
+    },
+    {
+        "squaring loop": "squaring loop"
+    },
+    {
+        ". This is common in digital transmission systems such as ": null
+    },
+    {
+        "BPSK": "bpsk"
+    },
+    {
+        " where the signal is continually present.        If part of one sideband and all of the other remain, it is called ": null
+    },
+    {
+        "vestigial sideband": "vestigial sideband"
+    },
+    {
+        ", used mostly with ": null
+    },
+    {
+        "television": "television"
+    },
+    {
+        " broadcasting": "broadcasting"
+    },
+    {
+        ", which would otherwise take up an unacceptable amount of ": null
+    },
+    {
+        "bandwidth": "bandwidth"
+    },
+    {
+        ". Transmission in which only one sideband is transmitted is called ": null
+    },
+    {
+        "single-sideband modulation": "single-sideband modulation"
+    },
+    {
+        " or SSB. SSB is the predominant voice mode on ": null
+    },
+    {
+        "shortwave radio": "shortwave"
+    },
+    {
+        " other than ": null
+    },
+    {
+        "shortwave broadcasting": "shortwaveshortwave broadcasting"
+    },
+    {
+        ". Since the sidebands are mirror images, which sideband is used is a matter of convention.     In SSB, the ": null
+    },
+    {
+        "carrier is suppressed": "suppressed carrier"
+    },
+    {
+        ", significantly reducing the ": null
+    },
+    {
+        "electrical power": "electric power"
+    },
+    {
+        "  without affecting the information in the sideband. This makes for more efficient use of transmitter power and RF bandwidth, but a ": null
+    },
+    {
+        "beat frequency oscillator": "beat frequency oscillator"
+    },
+    {
+        " must be used at the ": null
+    },
+    {
+        "receiver": "receiver"
+    },
+    {
+        " to reconstitute the carrier. If the reconstituted carrier frequency is wrong then the output of the receiver will have the wrong frequencies, but for speech small frequency errors are no problem for intelligibility. Another way to look at an SSB receiver is as an RF-to-audio frequency ": null
+    },
+    {
+        "transposer": "transposition"
+    },
+    {
+        ": in USB mode, the dial frequency is subtracted from each radio frequency component to produce a corresponding audio component, while in LSB mode each incoming radio frequency component is subtracted from the dial frequency.     Sidebands can also ": null
+    },
+    {
+        "interfere": "interference"
+    },
+    {
+        " with ": null
+    },
+    {
+        "adjacent channel": "adjacent channel"
+    },
+    {
+        "s. The part of the sideband that would overlap the neighboring channel must be suppressed by ": null
+    },
+    {
+        "filter": "filter"
+    },
+    {
+        "s, before or after modulation . In ": null
+    },
+    {
+        "broadcast band": "broadcast band"
+    },
+    {
+        " frequency modulation": "frequency modulation"
+    },
+    {
+        " , ": null
+    },
+    {
+        "subcarrier": "subcarrier"
+    },
+    {
+        "s above 42": null
+    },
+    {
+        "kHz": "khz"
+    },
+    {
+        " are limited to a small ": null
+    },
+    {
+        "percent": "percent"
+    },
+    {
+        "age of modulation and are prohibited above 42  kHz altogether to protect the ±42  kHz normal ": null
+    },
+    {
+        "deviation": "frequency deviation"
+    },
+    {
+        " and ±42  kHz ": null
+    },
+    {
+        "channel": "frequency channel"
+    },
+    {
+        " boundaries. ": null
+    },
+    {
+        "Amateur radio": "amateur radio"
+    },
+    {
+        " and public service FM transmitters generally utilize ±42  kHz deviation.     ": null
+    },
+    {
+        "Frequency modulation": "frequency modulation"
+    },
+    {
+        " also generates sidebands, the bandwidth consumed depending on the modulation index - often requiring significantly more bandwidth than DSB. ": null
+    },
+    {
+        "Bessel functions": "frequency modulationbessel functions"
+    }
+]

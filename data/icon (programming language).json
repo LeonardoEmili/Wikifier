@@ -1,0 +1,71 @@
+[
+    {
+        "   Icon is a ": null
+    },
+    {
+        "very high-level programming language": "very high-level programming language"
+    },
+    {
+        " featuring ": null
+    },
+    {
+        "goal-directed execution": "goal-directed execution"
+    },
+    {
+        " and many facilities for managing ": null
+    },
+    {
+        "strings": "string"
+    },
+    {
+        " and textual patterns. It is related to ": null
+    },
+    {
+        "SNOBOL": "snobol"
+    },
+    {
+        " and SL42 string processing languages. Icon is not ": null
+    },
+    {
+        "object-oriented": "object-oriented"
+    },
+    {
+        ", but an object-oriented extension called Idol was developed in 42 which eventually became ": null
+    },
+    {
+        "Unicon": "unicon"
+    },
+    {
+        ".       The Icon language is derived from the ": null
+    },
+    {
+        "ALGOL": "algol"
+    },
+    {
+        "-class of ": null
+    },
+    {
+        "structured programming": "structured programming"
+    },
+    {
+        " languages, and thus has syntax similar to ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        " or ": null
+    },
+    {
+        "Pascal": "pascal"
+    },
+    {
+        ". Icon is most similar to Pascal, using : syntax for assignments, the procedure keyword and similar syntax. On the other hand, Icon uses C-style brackets for structuring execution groups, and programs start by running a procedure called main .     In many ways Icon also shares features with most ": null
+    },
+    {
+        "scripting language": "scripting language"
+    },
+    {
+        "s : variables do not have to be declared, types are cast automatically, and numbers can be converted to strings and back automatically. Another feature common to many scripting languages, but not all, is the lack of a line-ending character; in Icon, lines not ended by a semicolon get ended by an implied semicolon if it makes sense.     Procedures are the basic building blocks of Icon programs. Although they use Pascal naming, they work more like C functions and can return values; there is no function keyword in Icon.       procedure doSomething   write   end         One of Icons key concepts is that control structures are based on the success or failure of expressions, rather than on boolean logic, as in most other programming languages. This feature derives directly from SNOBOL, in which any pattern match and/or replacement operation could be followed by success and/or failure clauses that specified a statement label to be branched to under the requisite condition. Under the goal-directed branching model, a simple comparison like if  a   ": null
+    }
+]

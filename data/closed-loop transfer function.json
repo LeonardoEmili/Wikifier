@@ -1,0 +1,44 @@
+[
+    {
+        "A closed-loop transfer function in ": null
+    },
+    {
+        "control theory": "control theory"
+    },
+    {
+        " is a mathematical expression  describing the net result of the effects of a closed  ": null
+    },
+    {
+        "loop": "loop"
+    },
+    {
+        " on the input ": null
+    },
+    {
+        "signal": "signal"
+    },
+    {
+        " to the circuits enclosed by the loop.       The closed-loop ": null
+    },
+    {
+        "transfer function": "transfer function"
+    },
+    {
+        " is measured at the output. The output signal ": null
+    },
+    {
+        "waveform": "waveform"
+    },
+    {
+        " can be calculated from the closed-loop transfer function and the input signal waveform.     An example of a closed-loop transfer function is shown below:     ": null
+    },
+    {
+        "Image:Closed Loop Block Deriv.png": "image:closed loop block deriv.png"
+    },
+    {
+        "     The summing node and the G and H blocks can all be combined into one block, which would have the following transfer function:     : \\dfrac \\dfrac       We define an intermediate signal Z shown as follows:     ": null
+    },
+    {
+        "Image:Closed Loop Block Deriv.png": "image:closed loop block deriv.png"
+    }
+]

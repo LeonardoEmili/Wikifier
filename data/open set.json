@@ -1,0 +1,155 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", particularly in ": null
+    },
+    {
+        "topology": "topology"
+    },
+    {
+        ", an open set is an abstract concept ": null
+    },
+    {
+        "generalizing": "generalizing"
+    },
+    {
+        " the idea of an ": null
+    },
+    {
+        "open interval": "open interval"
+    },
+    {
+        " in the real line. The simplest example is in ": null
+    },
+    {
+        "metric spaces": "metric spaces"
+    },
+    {
+        ", where open sets can be defined as those ": null
+    },
+    {
+        "sets": "set"
+    },
+    {
+        " which contain a ": null
+    },
+    {
+        "ball": "ball"
+    },
+    {
+        " around each of their points ; however, an open set, in general, can be very abstract: any collection of sets can be called open, as long as the union of an arbitrary number of open sets is open, the intersection of a finite number of open sets is open, and the space itself is open. These conditions are very loose, and they allow enormous flexibility in the choice of open sets. In the two extremes, every set can be open , or no set can be open but the space itself and the empty set .     In practice, however, open sets are usually chosen to be similar to the open intervals of the real line. The notion of an open set provides a fundamental way to speak of nearness of points in a ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        ", without explicitly having a concept of distance defined. Once a choice of open sets is made, the properties of ": null
+    },
+    {
+        "continuity": "continuous function"
+    },
+    {
+        ", ": null
+    },
+    {
+        "connectedness": "connectedness"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "compactness": "compactness"
+    },
+    {
+        ", which use notions of nearness, can be defined using these open sets.     Each choice of open sets for a space is called a ": null
+    },
+    {
+        "topology": "topological space"
+    },
+    {
+        ". Although open sets and the topologies that they comprise are of central importance in ": null
+    },
+    {
+        "point-set topology": "point-set topology"
+    },
+    {
+        ", they are also used as an organizational tool in other important branches of mathematics. Examples of topologies include the ": null
+    },
+    {
+        "Zariski topology": "zariski topology"
+    },
+    {
+        " in ": null
+    },
+    {
+        "algebraic geometry": "algebraic geometry"
+    },
+    {
+        " that reflects the algebraic nature of ": null
+    },
+    {
+        "varieties": "algebraic variety"
+    },
+    {
+        ", and the topology on a ": null
+    },
+    {
+        "differential manifold": "differential manifold"
+    },
+    {
+        " in ": null
+    },
+    {
+        "differential topology": "differential topology"
+    },
+    {
+        " where each point within the space is contained in an open set that is homeomorphic to an ": null
+    },
+    {
+        "open ball": "open ball"
+    },
+    {
+        " in a finite-dimensional ": null
+    },
+    {
+        "Euclidean space": "euclidean space"
+    },
+    {
+        ".       Intuitively, an open set provides a method to distinguish two ": null
+    },
+    {
+        "points": "point"
+    },
+    {
+        ". For example, if about one point in a ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        " there exists an open set not containing another point, the two points are referred to as ": null
+    },
+    {
+        "topologically distinguishable": "topologically distinguishable"
+    },
+    {
+        ". In this manner, one may speak of whether two subsets of a topological space are near without concretely defining a ": null
+    },
+    {
+        "metric": "metric"
+    },
+    {
+        " on the topological space. Therefore, topological spaces may be seen as a generalization of metric spaces.     In the set of all ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s, one has the natural Euclidean metric; that is, a function which measures the distance between two real numbers: d x - y x, one can speak of the set of all points close to that real number; that is, within ε of x. In essence, points within ε of x approximate x to an accuracy of degree ε. Note that ε  sup  /sup  sup  /sup  ref  /ref  sup  /sup  sup  /sup  math /math math /math math /math  math /math math /math math /math math /math math /math  sub /sub  ref name Taylor42-p42  /ref  ref name Taylor42-p42 /  ref  /ref  math /math math /math  math /math  math /math  math /math  math /math  math /math math ": null
+    }
+]

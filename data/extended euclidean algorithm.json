@@ -1,0 +1,113 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "arithmetic": "arithmetic"
+    },
+    {
+        " and ": null
+    },
+    {
+        "computer programming": "computer programming"
+    },
+    {
+        ", the extended Euclidean algorithm is an extension to the ": null
+    },
+    {
+        "Euclidean algorithm": "euclidean algorithm"
+    },
+    {
+        ", and computes, in addition to the ": null
+    },
+    {
+        "greatest common divisor": "greatest common divisor"
+    },
+    {
+        " of integers a and b, also the coefficients of ": null
+    },
+    {
+        "Bézouts identity": "bézouts identity"
+    },
+    {
+        ", which are integers x and y such that   : ax + by \\gcd.   This is a ": null
+    },
+    {
+        "certifying algorithm": "certifying algorithm"
+    },
+    {
+        ", because the gcd is the only number that can simultaneously satisfy this equation and divide the inputs.   It allows one to compute also, with almost no extra cost, the quotients of a and b by their greatest common divisor.      Extended Euclidean algorithm  also refers to a very similar algorithm for computing the ": null
+    },
+    {
+        "polynomial greatest common divisor": "polynomial greatest common divisor"
+    },
+    {
+        " and the coefficients of Bézouts identity of two ": null
+    },
+    {
+        "univariate polynomial": "univariate polynomial"
+    },
+    {
+        "s.     The extended Euclidean algorithm is particularly useful when a and b are ": null
+    },
+    {
+        "coprime": "coprime"
+    },
+    {
+        ". With that provision, x is the ": null
+    },
+    {
+        "modular multiplicative inverse": "modular multiplicative inverse"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "modulo": "modular arithmetic"
+    },
+    {
+        " b, and y is the modular multiplicative inverse of b modulo a. Similarly, the polynomial extended Euclidean algorithm allows one to compute the ": null
+    },
+    {
+        "multiplicative inverse": "multiplicative inverse"
+    },
+    {
+        " in ": null
+    },
+    {
+        "algebraic field extension": "algebraic field extension"
+    },
+    {
+        "s and, in particular in ": null
+    },
+    {
+        "finite field": "finite field"
+    },
+    {
+        "s of non prime order. It follows that both extended Euclidean algorithms are widely used in ": null
+    },
+    {
+        "cryptography": "cryptography"
+    },
+    {
+        ". In particular, the computation of the ": null
+    },
+    {
+        "modular multiplicative inverse": "modular multiplicative inverse"
+    },
+    {
+        " is an essential step in ": null
+    },
+    {
+        "RSA": "rsa"
+    },
+    {
+        " public-key encryption method.       The standard Euclidean algorithm proceeds by a succession of ": null
+    },
+    {
+        "Euclidean division": "euclidean division"
+    },
+    {
+        "s whose quotients are not used, only the remainders are kept. For the extended algorithm, the successive quotients are used. More precisely, the standard Euclidean algorithm with a and b as input, consists of computing a sequence q_42\\ldots, q_k of quotients and a sequence r_42\\ldots, r_ of remainders such that   :   \\begin   r_42 & a \\\\   r_42 & b \\\\   & \\,\\,\\,\\vdots \\\\   r_ & r_-q_i r_i \\quad \\text \\quad 42\\le r_ ": null
+    }
+]

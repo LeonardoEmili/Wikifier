@@ -1,0 +1,857 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "ring theory": "ring theory"
+    },
+    {
+        ", a branch of ": null
+    },
+    {
+        "abstract algebra": "abstract algebra"
+    },
+    {
+        ", a commutative ring is a ": null
+    },
+    {
+        "ring": "ring"
+    },
+    {
+        " in which the multiplication operation is ": null
+    },
+    {
+        "commutative": "commutative"
+    },
+    {
+        ". The study of commutative rings is called ": null
+    },
+    {
+        "commutative algebra": "commutative algebra"
+    },
+    {
+        ". Complementarily, ": null
+    },
+    {
+        "noncommutative algebra": "noncommutative algebra"
+    },
+    {
+        " is the study of ": null
+    },
+    {
+        "noncommutative ring": "noncommutative ring"
+    },
+    {
+        "s where multiplication is not required to be commutative.                   A ring is a ": null
+    },
+    {
+        "set": "set"
+    },
+    {
+        " R equipped with two ": null
+    },
+    {
+        "binary operation": "binary operation"
+    },
+    {
+        "s, i.e. operations combining any two elements of the ring to a third. They are called addition and multiplication and commonly denoted by + and ⋅ ; e.g.  and . To form a ring these two operations have to satisfy a number of properties: the ring has to be an ": null
+    },
+    {
+        "abelian group": "abelian group"
+    },
+    {
+        " under addition as well as a ": null
+    },
+    {
+        "monoid": "monoid"
+    },
+    {
+        " under multiplication, where multiplication ": null
+    },
+    {
+        "distributes": "distributive law"
+    },
+    {
+        " over addition; i.e., . The identity elements for addition and multiplication are denoted 42 and 42 respectively.     If the multiplication is commutative, i.e.   :a ⋅ b b ⋅ a,   then the ring R is called commutative. In the remainder of this article, all rings will be commutative, unless explicitly stated otherwise.       An important example, and in some sense crucial, is the ": null
+    },
+    {
+        "ring of integer": "integer"
+    },
+    {
+        "s Z with the two operations of addition and multiplication. As the multiplication of integers is a commutative operation, this is a commutative ring. It is usually denoted Z as an abbreviation of the ": null
+    },
+    {
+        "German": "german language"
+    },
+    {
+        " word Zahlen .     A ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        " is a commutative ring where 42 \\not 42 and every ": null
+    },
+    {
+        "non-zero": "0"
+    },
+    {
+        " element a is invertible; i.e., has a multiplicative inverse b such that a ⋅ b 42 Therefore, by definition, any field is a commutative ring. The ": null
+    },
+    {
+        "rational": "rational number"
+    },
+    {
+        ", ": null
+    },
+    {
+        "real": "real number"
+    },
+    {
+        " and ": null
+    },
+    {
+        "complex number": "complex number"
+    },
+    {
+        "s form fields.     If R is a given commutative ring, then the set of all ": null
+    },
+    {
+        "polynomial": "polynomial"
+    },
+    {
+        "s in the variable X whose coefficients are in R forms the ": null
+    },
+    {
+        "polynomial ring": "polynomial ring"
+    },
+    {
+        ", denoted RX. The same holds true for several variables.     If V is some ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        ", for example a subset of some R n , real- or complex-valued ": null
+    },
+    {
+        "continuous function": "continuous function"
+    },
+    {
+        "s on V form a commutative ring. The same is true for ": null
+    },
+    {
+        "differentiable": "differentiable function"
+    },
+    {
+        " or ": null
+    },
+    {
+        "holomorphic function": "holomorphic function"
+    },
+    {
+        "s, when the two concepts are defined, such as for V a ": null
+    },
+    {
+        "complex manifold": "complex manifold"
+    },
+    {
+        ".       In contrast to fields, where every nonzero element is multiplicatively invertible, the concept of ": null
+    },
+    {
+        "divisibility for rings": "divisibility"
+    },
+    {
+        " is richer. An element a of ring R is called a ": null
+    },
+    {
+        "unit": "unit"
+    },
+    {
+        " if it possesses a multiplicative inverse. Another particular type of element is the ": null
+    },
+    {
+        "zero divisor": "zero divisor"
+    },
+    {
+        "s, i.e. an element a such that there exists a non-zero element b of the ring such that . If R possesses no non-zero zero divisors, it is called an ": null
+    },
+    {
+        "integral domain": "integral domain"
+    },
+    {
+        " . An element a satisfying  for some positive integer n is called ": null
+    },
+    {
+        "nilpotent": "nilpotent element"
+    },
+    {
+        ".          The localization of a ring is a process in which some elements are rendered invertible, i.e. multiplicative inverses are added to the ring. Concretely, if S is a ": null
+    },
+    {
+        "multiplicatively closed subset": "multiplicatively closed subset"
+    },
+    {
+        " of R  then the localization of R at S, or ring of fractions with denominators in S, usually denoted S −42 R consists of symbols   : \\frac with r ∈ R, s ∈ S   subject to certain rules that mimic the cancellation familiar from rational numbers. Indeed, in this language Q is the localization of Z at all nonzero integers. This construction works for any integral domain R instead of Z. The localization  −42 R is a field, called the ": null
+    },
+    {
+        "quotient field": "quotient field"
+    },
+    {
+        " of R.            Many of the following notions also exist for not necessarily commutative rings, but the definitions and properties are usually more complicated. For example, all ideals in a commutative ring are automatically ": null
+    },
+    {
+        "two-sided": "two-sided ideal"
+    },
+    {
+        ", which simplifies the situation considerably.          For a ring R, an R-module M is like what a vector space is to a field. That is, elements in a module can be added; they can be multiplied by elements of R subject to the same axioms as for a vector space. The study of modules is significantly more involved than the one of vector spaces in ": null
+    },
+    {
+        "linear algebra": "linear algebra"
+    },
+    {
+        ", since several features of vector spaces fail for modules in general: modules need not be ": null
+    },
+    {
+        "free": "free module"
+    },
+    {
+        ", i.e., of the form   : M \\bigoplus_ R.   Even for free modules, the ": null
+    },
+    {
+        "rank of a free module": "rank of a free module"
+    },
+    {
+        " may not be well-defined. Finally, submodules of finitely generated modules need not be finitely generated .          Ideals of a ring R are the ": null
+    },
+    {
+        "submodule": "submodule"
+    },
+    {
+        "s of R, i.e., the modules contained in R. In more detail, an ideal I is a non-empty subset of R such that for all r in R, i and j in I, both ri and i + j are in I. For various applications, understanding the ideals of a ring is of particular importance, but often one proceeds by studying modules in general.     Any ring has two ideals, namely the ": null
+    },
+    {
+        "zero ideal": "0"
+    },
+    {
+        " and R, the whole ring. These two ideals are the only ones precisely if R is a field. Given any subset F  j ∈ J of R , the ideal generated by F is the smallest ideal that contains F. Equivalently, it is given by finite ": null
+    },
+    {
+        "linear combination": "linear combination"
+    },
+    {
+        "s   :r 42 f 42 + r 42 f 42 + ... + r n f n .       If F consists of a single element r, the ideal generated by F consists of the multiples of r, i.e., the elements of the form rs for arbitrary elements s. Such an ideal is called a ": null
+    },
+    {
+        "principal ideal": "principal ideal"
+    },
+    {
+        ". If every ideal is a principal ideal, R is called a ": null
+    },
+    {
+        "principal ideal ring": "principal ideal ring"
+    },
+    {
+        "; two important cases are Z and kX, the polynomial ring over a field k. These two are in addition domains, so they are called ": null
+    },
+    {
+        "principal ideal domain": "principal ideal domain"
+    },
+    {
+        "s.     Unlike for general rings, for a principal ideal domain, the properties of individual elements are strongly tied to the properties of the ring as a whole. For example, any principal ideal domain R is a ": null
+    },
+    {
+        "unique factorization domain": "unique factorization domain"
+    },
+    {
+        " which means that any element is a product of irreducible elements, in a unique way. Here, an element a in a domain is called ": null
+    },
+    {
+        "irreducible": "irreducible element"
+    },
+    {
+        " if the only way of expressing it as a product   :a bc,   is by either b or c being a unit. An example, important in ": null
+    },
+    {
+        "field theory": "field"
+    },
+    {
+        ", are ": null
+    },
+    {
+        "irreducible polynomial": "irreducible polynomial"
+    },
+    {
+        "s, i.e., irreducible elements in kX, for a field k. The fact that Z is a UFD can be stated more elementarily by saying that any natural number can be uniquely decomposed as product of powers of prime numbers. It is also known as the ": null
+    },
+    {
+        "fundamental theorem of arithmetic": "fundamental theorem of arithmetic"
+    },
+    {
+        ".     An element a is a ": null
+    },
+    {
+        "prime element": "prime element"
+    },
+    {
+        " if whenever a divides a product bc, a divides b or c. In a domain, being prime implies being irreducible. The converse is true in a unique factorization domain, but false in general.       The definition of ideals is such that dividing I out gives another ring, the factor ring R / I: it is the set of ": null
+    },
+    {
+        "coset": "coset"
+    },
+    {
+        "s of I together with the operations   : +   + I and  ab + I.   For example, the ring Z/nZ , where n is an integer, is the ring of integers modulo n. It is the basis of ": null
+    },
+    {
+        "modular arithmetic": "modular arithmetic"
+    },
+    {
+        ".     An ideal is proper if it is strictly smaller than the whole ring. An ideal that is not strictly contained in any proper ideal is called ": null
+    },
+    {
+        "maximal": "maximal ideal"
+    },
+    {
+        ". An ideal m is maximal ": null
+    },
+    {
+        "if and only if": "if and only if"
+    },
+    {
+        " R / m is a field. Except for the ": null
+    },
+    {
+        "zero ring": "zero ring"
+    },
+    {
+        ", any ring possesses at least one maximal ideal; this follows from ": null
+    },
+    {
+        "Zorns lemma": "zorns lemma"
+    },
+    {
+        ".          A ring is called Noetherian  if every ": null
+    },
+    {
+        "ascending chain of ideals": "ascending chain condition"
+    },
+    {
+        "   :42 ⊆ I 42 ⊆ I 42 ... ⊆ I n ⊆ I n + 42 ⊆ ...   becomes stationary, i.e. becomes constant beyond some index n. Equivalently, any ideal is generated by finitely many elements, or, yet equivalent, ": null
+    },
+    {
+        "submodule": "submodule"
+    },
+    {
+        "s of finitely generated modules are finitely generated .     Being Noetherian is a highly important finiteness condition, and the condition is preserved under many operations that occur frequently in geometry. For example, if R is Noetherian, then so is the polynomial ring  , any localization S −42 R, and also any factor ring R / I.     Any non-noetherian ring R is the ": null
+    },
+    {
+        "union": "union"
+    },
+    {
+        " of its Noetherian subrings. This fact, known as ": null
+    },
+    {
+        "Noetherian approximation": "noetherian approximation"
+    },
+    {
+        ", allows the extension of certain theorems to non-Noetherian rings.       A ring is called ": null
+    },
+    {
+        "Artinian": "artinian ring"
+    },
+    {
+        " , if every descending chain of ideals   :R ⊇ I 42 ⊇ I 42 ... ⊇ I n ⊇ I n + 42 ⊇ ...   becomes stationary eventually. Despite the two conditions appearing symmetric, Noetherian rings are much more general than Artinian rings. For example, Z is Noetherian, since every ideal can be generated by one element, but is not Artinian, as the chain   :Z ⊋ 42Z ⊋ 42Z ⊋ 42Z ⊋ ...   shows. In fact, by the ": null
+    },
+    {
+        "Hopkins–Levitzki theorem": "hopkins–levitzki theorem"
+    },
+    {
+        ", every Artinian ring is Noetherian. More precisely, Artinian rings can be characterized as the Noetherian rings whose Krull dimension is zero.              As was mentioned above, Z is a ": null
+    },
+    {
+        "unique factorization domain": "unique factorization domain"
+    },
+    {
+        ". This is not true for more general rings, as algebraists realized in the 42th century. For example, in   : \\mathbf Z   there are two genuinely distinct ways of writing 42 as a product:   : 42 42 \\cdot 42 .   Prime ideals, as opposed to prime elements, provide a way to circumvent this problem. A prime ideal is a proper  ideal p such that, whenever the product ab of any two ring elements a and b is in p, at least one of the two elements is already in p. . Thus, if a prime ideal is principal, it is equivalently generated by a prime element. However, in rings such as \\mathbf Z , prime ideals need not be principal. This limits the usage of prime elements in ring theory. A cornerstone of algebraic number theory is, however, the fact that in any ": null
+    },
+    {
+        "Dedekind ring": "dedekind ring"
+    },
+    {
+        "  any ideal decomposes uniquely as a product of prime ideals.     Any maximal ideal is a prime ideal or, more briefly, is prime. Moreover, an ideal I is prime if and only if the factor ring R / I is an integral domain. Proving that an ideal is prime, or equivalently that a ring has no zero-divisors can be very difficult. Yet another way of expressing the same is to say that the ": null
+    },
+    {
+        "complement": "complement"
+    },
+    {
+        " R \\ p is multiplicatively closed. The localisation  −42 R is important enough to have its own notation: R p . This ring has only one maximal ideal, namely pR p . Such rings are called ": null
+    },
+    {
+        "local": "local ring"
+    },
+    {
+        ".             The spectrum of a ring R, This notion can be related to the ": null
+    },
+    {
+        "spectrum": "spectrum of an operator"
+    },
+    {
+        " of a linear operator, see ": null
+    },
+    {
+        "Spectrum of a C-algebra": "spectrum of a c-algebra"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Gelfand representation": "gelfand representation"
+    },
+    {
+        ". denoted by Spec R, is the set of all prime ideals of R. It is equipped with a topology, the ": null
+    },
+    {
+        "Zariski topology": "zariski topology"
+    },
+    {
+        ", which reflects the algebraic properties of R: a basis of open subsets is given by   :D , where f is any ring element.   Interpreting f as a function that takes the value f mod p , this subset is the locus where f is non-zero. The spectrum also makes precise the intuition that localisation and factor rings are complementary: the natural maps R → R f and R → R / fR correspond, after endowing the spectra of the rings in question with their Zariski topology, to complementary ": null
+    },
+    {
+        "open": "open immersion"
+    },
+    {
+        " and ": null
+    },
+    {
+        "closed immersion": "closed immersion"
+    },
+    {
+        "s respectively. Even for basic rings, such as illustrated for R Z at the right, the Zariski topology is quite different from the one on the set of real numbers.     The spectrum contains the set of maximal ideals, which is occasionally denoted mSpec . For an ": null
+    },
+    {
+        "algebraically closed field": "algebraically closed field"
+    },
+    {
+        " k, mSpec  is in bijection with the set   :   Thus, maximal ideals reflect the geometric properties of solution sets of polynomials, which is an initial motivation for the study of commutative rings. However, the consideration of non-maximal ideals as part of the geometric properties of a ring is useful for several reasons. For example, the minimal prime ideals correspond to the ": null
+    },
+    {
+        "irreducible component": "irreducible component"
+    },
+    {
+        "s of Spec R. For a Noetherian ring R, Spec R has only finitely many irreducible components. This is a geometric restatement of ": null
+    },
+    {
+        "primary decomposition": "primary decomposition"
+    },
+    {
+        ", according to which any ideal can be decomposed as a product of finitely many ": null
+    },
+    {
+        "primary ideal": "primary ideal"
+    },
+    {
+        "s. This fact is the ultimate generalization of the decomposition into prime ideals in Dedekind rings.       The notion of a spectrum is the common basis of commutative algebra and ": null
+    },
+    {
+        "algebraic geometry": "algebraic geometry"
+    },
+    {
+        ". Algebraic geometry proceeds by endowing Spec R with a ": null
+    },
+    {
+        "sheaf": "sheaf"
+    },
+    {
+        " \\mathcal O . The datum of the space and the sheaf is called an ": null
+    },
+    {
+        "affine scheme": "affine scheme"
+    },
+    {
+        ". Given an affine scheme, the underlying ring R can be recovered as the ": null
+    },
+    {
+        "global section": "global section"
+    },
+    {
+        "s of \\mathcal O . Moreover, this one-to-one correspondence between rings and affine schemes is also compatible with ring homomorphisms: any f : R → S gives rise to a ": null
+    },
+    {
+        "continuous map": "continuous map"
+    },
+    {
+        " in the opposite direction   :Spec S → Spec R, q ↦ f −42 , i.e. any prime ideal of S is mapped to its ": null
+    },
+    {
+        "preimage": "preimage"
+    },
+    {
+        " under f, which is a prime ideal of R.   The resulting ": null
+    },
+    {
+        "equivalence": "equivalence of categories"
+    },
+    {
+        " of the two said categories aptly reflects algebraic properties of rings in a geometrical manner.     Similar to the fact that ": null
+    },
+    {
+        "manifolds": "manifold"
+    },
+    {
+        " are locally given by open subsets of R n , affine schemes are local models for ": null
+    },
+    {
+        "schemes": "scheme"
+    },
+    {
+        ", which are the object of study in algebraic geometry. Therefore, several notions concerning commutative rings stem from geometric intuition.          The Krull dimension dim R of a ring R measures the size of a ring by, roughly speaking, counting independent elements in R. The dimension of algebras over a field k can be axiomatized by four properties:   The dimension is a local property: dim R sup p ∊ Spec R dim R p .   The dimension is independent of nilpotent elements: if I ⊆ R is nilpotent then dim R dim R / I.   The dimension remains constant under a finite extension: if S is an R-algebra which is finitely generated as an R-module, then dim S dim R.   The dimension is calibrated by dim kX 42 , ..., X n n. This axiom is motivated by regarding the polynomial ring in n variables as an algebraic analogue of ": null
+    },
+    {
+        "n-dimensional space": "affine space"
+    },
+    {
+        ".     The dimension is defined, for any ring R, as the supremum of lengths n of chains of prime ideals   :p 42 ⊊ p 42 ⊊ ... ⊊ p n .   For example, a field is zero-dimensional, since the only prime ideal is the zero ideal. The integers are one-dimensional, since chains are of the form ⊊ , where p is a ": null
+    },
+    {
+        "prime number": "prime number"
+    },
+    {
+        ". For non-Noetherian rings, and also non-local rings, the dimension may be infinite, but Noetherian local rings have finite dimension. Among the four axioms above, the first two are elementary consequences of the definition, whereas the remaining two hinge on important facts in ": null
+    },
+    {
+        "commutative algebra": "commutative algebra"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "going-up theorem": "going-up theorem"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Krulls principal ideal theorem": "krulls principal ideal theorem"
+    },
+    {
+        ".          A ring homomorphism or, more colloquially, simply a map, is a map f : R → S such that   :f f + f, f ff and f 42   These conditions ensure f 42 Similarly as for other algebraic structures, a ring homomorphism is thus a map that is compatible with the structure of the algebraic objects in question. In such a situation S is also called an R-algebra, by understanding that s in S may be multiplied by some r of R, by setting   :r · s : f · s.     The kernel and image of f are defined by ker   and im  f . The kernel is an ": null
+    },
+    {
+        "ideal": "ring ideal"
+    },
+    {
+        " of R, and the image is a ": null
+    },
+    {
+        "subring": "subring"
+    },
+    {
+        " of S.     A ring homomorphism is called an isomorphism if it is bijective. An example of a ring isomorphism, known as the ": null
+    },
+    {
+        "Chinese remainder theorem": "chinese remainder theorem"
+    },
+    {
+        ", is   : \\mathbf Z/n \\bigoplus_^k \\mathbf Z/p_i   where n p 42 p 42 ...p k is a product of pairwise distinct ": null
+    },
+    {
+        "prime number": "prime number"
+    },
+    {
+        "s.     Commutative rings, together with ring homomorphisms, form a ": null
+    },
+    {
+        "category": "category"
+    },
+    {
+        ". The ring Z is the ": null
+    },
+    {
+        "initial object": "initial object"
+    },
+    {
+        " in this category, which means that for any commutative ring R, there is a unique ring homomorphism Z & rarr; R. By means of this map, an integer n can be regarded as an element of R. For example, the ": null
+    },
+    {
+        "binomial formula": "binomial formula"
+    },
+    {
+        "   : ^n \\sum_^n \\binom n k a^k b^   which is valid for any two elements a and b in any commutative ring R is understood in this sense by interpreting the binomial coefficients as elements of R using this map.        Given two R-algebras S and T, their ": null
+    },
+    {
+        "tensor product": "tensor product of algebras"
+    },
+    {
+        "   :S ⊗ R T   is again a commutative R-algebra. In some cases, the tensor product can serve to find a T-algebra which relates to Z as S relates to R. For example,   :RX ⊗ R T TX.       An R-algebra S is called ": null
+    },
+    {
+        "finitely generated ": "finitely generated algebra"
+    },
+    {
+        " if there are finitely many elements s 42 , ..., s n such that any element of s is expressible as a polynomial in the s i . Equivalently, S is isomorphic to   :RT 42 , ..., T n / I.     A much stronger condition is that S is ": null
+    },
+    {
+        "finitely generated as an R-module": "finitely generated module"
+    },
+    {
+        ", which means that any s can be expressed as a R-linear combination of some finite set s 42 , ..., s n .       A ring is called ": null
+    },
+    {
+        "local": "local ring"
+    },
+    {
+        " if it has only a single maximal ideal, denoted by m. For any ring R, the localization   :R p   at a prime ideal p is local. This localization reflects the geometric properties of Spec R around p . Several notions and problems in commutative algebra can be reduced to the case when R is local, making local rings a particularly deeply studied class of rings. The ": null
+    },
+    {
+        "residue field": "residue field"
+    },
+    {
+        " of R is defined as   :k R / m.   Any R-module M yields a k-vector space given by M / mM. ": null
+    },
+    {
+        "Nakayamas lemma": "nakayamas lemma"
+    },
+    {
+        " shows this passage is preserving important information: a finitely generated module M is zero if and only if M / mM is zero.          The k-vector space m/m 42 is an algebraic incarnation of the ": null
+    },
+    {
+        "cotangent space": "cotangent space"
+    },
+    {
+        ". Informally, the elements of m can be thought of as functions which vanish at the point p, whereas m 42 contains the ones which vanish with order at least 42 For any Noetherian local ring R, the inequality   :dim k m/m 42 & ge; dim R   holds true, reflecting the idea that the cotangent space has at least the dimension of the space Spec R. If equality holds true in this estimate, R is called a ": null
+    },
+    {
+        "regular local ring": "regular local ring"
+    },
+    {
+        ". A Noetherian local ring is regular if and only if the ring    : \\bigoplus_n m^n / m^   is isomorphic to a polynomial ring over k. Broadly speaking, regular local rings are somewhat similar to polynomial rings.  Regular local rings are UFDs.      ": null
+    },
+    {
+        "Discrete valuation ring": "discrete valuation ring"
+    },
+    {
+        "s are equipped with a function which assign an integer to any element r. This number, called the valuation of r can be informally thought of as a zero or pole order of r. Discrete valuation rings are precisely the one-dimensional regular local rings. For example, the ring of germs of holomorphic functions on a ": null
+    },
+    {
+        "Riemann surface": "riemann surface"
+    },
+    {
+        " is a discrete valuation ring.          By ": null
+    },
+    {
+        "Krulls principal ideal theorem": "krulls principal ideal theorem"
+    },
+    {
+        ", a foundational result in the ": null
+    },
+    {
+        "dimension theory of rings": "dimension theory"
+    },
+    {
+        ", the dimension of   :R kT 42 , ..., T r /    is at least r & minus; n. A ring R is called a ": null
+    },
+    {
+        "complete intersection ring": "complete intersection ring"
+    },
+    {
+        " if it can be presented in a way that attains this minimal bound. This notion is also mostly studied for local rings. Any regular local ring is a complete intersection ring, but not conversely.     A ring R is a set-theoretic complete intersection if the reduced ring associated to R, i.e., the one obtained by dividing out all nilpotent elements, is a complete intersection. As of 42 it is in general unknown, whether curves in three-dimensional space are set-theoretic complete intersections.        The ": null
+    },
+    {
+        "depth": "depth"
+    },
+    {
+        " of a local ring R is the number of elements in some maximal regular sequence, i.e., a sequence a 42 , ...,   a n & isin; m such that all a i are non-zero divisors in   :R / .   For any local Noetherian ring, the inequality   :depth  & le; dim    holds. A local ring in which equality takes place is called a ": null
+    },
+    {
+        "Cohen–Macaulay ring": "cohen–macaulay ring"
+    },
+    {
+        ". Local complete intersection rings, and a fortiori, regular local rings are Cohen–Macaulay, but not conversely. Cohen–Macaulay combine desirable properties of regular rings , but are also more robust under taking quotients than regular local rings.        There are several ways to construct new rings out of given ones. The aim of such constructions is often to improve certain properties of the ring so as to make it more readily understandable. For example, an integral domain that is ": null
+    },
+    {
+        "integrally closed": "integral elementequivalent definitions"
+    },
+    {
+        " in its ": null
+    },
+    {
+        "field of fractions": "field of fractions"
+    },
+    {
+        " is called ": null
+    },
+    {
+        "normal": "normal ring"
+    },
+    {
+        ". This is a desirable property, for example any normal one-dimensional ring is necessarily ": null
+    },
+    {
+        "regular": "regular local ring"
+    },
+    {
+        ". Rendering a ring normal is known as normalization.       If I is an ideal in a commutative ring R, the powers of I form ": null
+    },
+    {
+        "topological neighborhoods": "neighborhood"
+    },
+    {
+        " of 42 which allow R to be viewed as a ": null
+    },
+    {
+        "topological ring": "topological ring"
+    },
+    {
+        ". This topology is called the ": null
+    },
+    {
+        "I-adic topology": "i-adic topology"
+    },
+    {
+        ". R can then be completed with respect to this topology. Formally, the I-adic completion is the ": null
+    },
+    {
+        "inverse limit": "inverse limit"
+    },
+    {
+        " of the rings R/I n . For example, if k is a field, k X , the ": null
+    },
+    {
+        "formal power series": "formal power series"
+    },
+    {
+        " ring in one variable over k, is the I-adic completion of kX where I is the principal ideal generated by X. This ring serves as an algebraic analogue of the disk. Analogously, the ring of ": null
+    },
+    {
+        "p-adic integers": "p-adic number"
+    },
+    {
+        " is the completion of Z with respect to the principal ideal . Any ring that is isomorphic to its own completion, is called ": null
+    },
+    {
+        "complete": "complete ring"
+    },
+    {
+        ".     Complete local rings satisfy ": null
+    },
+    {
+        "Hensels lemma": "hensels lemma"
+    },
+    {
+        ", which roughly speaking allows extending solutions over the residue field k to R.       Several deeper aspects of commutative rings have been studied using methods from ": null
+    },
+    {
+        "homological algebra": "homological algebra"
+    },
+    {
+        ".  lists some open questions in this area of active research.       Projective modules can be defined to be the ": null
+    },
+    {
+        "direct summand": "direct summand"
+    },
+    {
+        "s of free modules. If R is local, any finitely generated projective module is actually free, which gives content to an analogy between projective modules and ": null
+    },
+    {
+        "vector bundle": "vector bundle"
+    },
+    {
+        "s. See also ": null
+    },
+    {
+        "Serre–Swan theorem": "serre–swan theorem"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "Quillen–Suslin theorem": "quillen–suslin theorem"
+    },
+    {
+        " asserts that any finitely generated projective module over kT 42 , ..., T n  is free, but in general these two concepts differ.   A local Noetherian ring is regular if and only if its ": null
+    },
+    {
+        "global dimension": "global dimension"
+    },
+    {
+        " is finite, say n, which means that any finitely generated R-module has a ": null
+    },
+    {
+        "resolution": "resolution"
+    },
+    {
+        " by projective modules of length at most n.     The proof of this and other related statements relies on the usage of homological methods, such as the   ": null
+    },
+    {
+        "Ext functor": "ext functor"
+    },
+    {
+        ". This functor is the ": null
+    },
+    {
+        "derived functor": "derived functor"
+    },
+    {
+        " of the functor   :Hom R .   The latter functor is exact if M is projective, but not otherwise: for a surjective map E & rarr; F of R-modules, a map M & rarr; F need not extend to a map M & rarr; E. The higher Ext functors measure the non-exactness of the Hom-functor. The importance of this standard construction in homological algebra stems can be seen from the fact that a local Noetherian ring R with residue field k is regular if and only if   :Ext n    vanishes for all large enough n. Moreover, the dimensions of these Ext-groups, known as ": null
+    },
+    {
+        "Betti number": "betti number"
+    },
+    {
+        "s, grow polynomially in n if and only if R is a ": null
+    },
+    {
+        "local complete intersection": "local complete intersection"
+    },
+    {
+        " ring.  A key argument in such considerations is the ": null
+    },
+    {
+        "Koszul complex": "koszul complex"
+    },
+    {
+        ", which provides an explicit free resolution of the residue field k of a local ring R in terms of a regular sequence.       The ": null
+    },
+    {
+        "tensor product": "tensor product"
+    },
+    {
+        " is another non-exact functor relevant in the context of commutative rings: for a general R-module M, the functor   :M ⊗ R & minus;   is only right exact. If it is exact, M is called ": null
+    },
+    {
+        "flat": "flat module"
+    },
+    {
+        ". Despite being defined in terms of homological algebra, flatness has profound geometric implications. For example, if an R-algebra S is flat, the dimensions of the fibers   :S / pS S ⊗ R R / p    have the expected dimension, namely dim S & minus; dim R + dim .       By ": null
+    },
+    {
+        "Wedderburns theorem": "wedderburns little theorem"
+    },
+    {
+        ", every finite ": null
+    },
+    {
+        "division ring": "division ring"
+    },
+    {
+        " is commutative, and therefore a ": null
+    },
+    {
+        "finite field": "finite field"
+    },
+    {
+        ". Another condition ensuring commutativity of a ring, due to ": null
+    },
+    {
+        "Jacobson": "nathan jacobson"
+    },
+    {
+        ", is the following: for every element r of R there exists an integer  ref  /ref  sup /sup  ref  /ref  sub  /sub  sub  /sub  sup  /sup  sub  /sub  sup  /sup  sub  /sub  sub  /sub ": null
+    },
+    {
+        "ub /su": "ub  /su"
+    },
+    {
+        " ref math /math /ref  sup /sup  sup /sup ": null
+    }
+]

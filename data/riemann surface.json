@@ -1,0 +1,440 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", particularly in ": null
+    },
+    {
+        "complex analysis": "complex analysis"
+    },
+    {
+        ", a Riemann surface is a one-dimensional ": null
+    },
+    {
+        "complex manifold": "complex manifold"
+    },
+    {
+        ". These surfaces were first studied by and are named after ": null
+    },
+    {
+        "Bernhard Riemann": "bernhard riemann"
+    },
+    {
+        ". Riemann surfaces can be thought of as deformed versions of the ": null
+    },
+    {
+        "complex plane": "complex plane"
+    },
+    {
+        ": locally near every point they look like patches of the complex plane, but the global ": null
+    },
+    {
+        "topology": "topology"
+    },
+    {
+        " can be quite different. For example, they can look like a ": null
+    },
+    {
+        "sphere": "sphere"
+    },
+    {
+        " or a ": null
+    },
+    {
+        "torus": "torus"
+    },
+    {
+        " or several sheets glued together.     The main interest in Riemann surfaces is that ": null
+    },
+    {
+        "holomorphic function": "holomorphic function"
+    },
+    {
+        "s may be defined between them. Riemann surfaces are nowadays considered the natural setting for studying the global behavior of these functions, especially ": null
+    },
+    {
+        "multi-valued function": "multi-valued function"
+    },
+    {
+        "s such as the ": null
+    },
+    {
+        "square root": "square root"
+    },
+    {
+        " and other ": null
+    },
+    {
+        "algebraic function": "algebraic function"
+    },
+    {
+        "s, or the ": null
+    },
+    {
+        "logarithm": "natural logarithm"
+    },
+    {
+        ".     Every Riemann surface is a two-dimensional real analytic ": null
+    },
+    {
+        "manifold": "manifold"
+    },
+    {
+        " , but it contains more structure  which is needed for the unambiguous definition of holomorphic functions. A two-dimensional real manifold can be turned into a Riemann surface if and only if it is ": null
+    },
+    {
+        "orientable": "orientable"
+    },
+    {
+        " and metrizable. So the sphere and torus admit complex structures, but the ": null
+    },
+    {
+        "Möbius strip": "möbius strip"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Klein bottle": "klein bottle"
+    },
+    {
+        " and ": null
+    },
+    {
+        "real projective plane": "real projective plane"
+    },
+    {
+        " do not.     Geometrical facts about Riemann surfaces are as nice as possible, and they often provide the intuition and motivation for generalizations to other curves, manifolds or varieties. The ": null
+    },
+    {
+        "Riemann–Roch theorem": "riemann–roch theorem"
+    },
+    {
+        " is a prime example of this influence.          There are several equivalent definitions of a Riemann surface.     A Riemann surface X is a ": null
+    },
+    {
+        "connected": "connected space"
+    },
+    {
+        " complex manifold": "complex manifold"
+    },
+    {
+        " of ": null
+    },
+    {
+        "complex dimension": "complex dimension"
+    },
+    {
+        " one. This means that X is a connected ": null
+    },
+    {
+        "Hausdorff space": "hausdorff space"
+    },
+    {
+        " that is endowed with an ": null
+    },
+    {
+        "atlas": "atlas"
+    },
+    {
+        " of ": null
+    },
+    {
+        "chart": "chart"
+    },
+    {
+        "s to the ": null
+    },
+    {
+        "open unit disk": "open unit disk"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "complex plane": "complex plane"
+    },
+    {
+        ": for every point x ∈ X there is a ": null
+    },
+    {
+        "neighbourhood": "neighbourhood"
+    },
+    {
+        " of x that is ": null
+    },
+    {
+        "homeomorphic": "homeomorphic"
+    },
+    {
+        " to the open unit disk of the complex plane, and the ": null
+    },
+    {
+        "transition map": "transition map"
+    },
+    {
+        "s between two overlapping charts are required to be ": null
+    },
+    {
+        "holomorphic": "holomorphic function"
+    },
+    {
+        ".   A Riemann surface is an ": null
+    },
+    {
+        "oriented": "oriented manifold"
+    },
+    {
+        " manifold": "manifold"
+    },
+    {
+        " of dimension two – a two-sided ": null
+    },
+    {
+        "surface": "surface"
+    },
+    {
+        " – together with a ": null
+    },
+    {
+        "conformal structure": "conformal structure"
+    },
+    {
+        ". Again, manifold means that locally at any point x of X, the space is homeomorphic to a subset of the real plane. The supplement Riemann signifies that X is endowed with an additional structure which allows ": null
+    },
+    {
+        "angle": "angle"
+    },
+    {
+        " measurement on the manifold, namely an ": null
+    },
+    {
+        "equivalence class": "equivalence class"
+    },
+    {
+        " of so-called ": null
+    },
+    {
+        "Riemannian metric": "riemannian metric"
+    },
+    {
+        "s. Two such metrics are considered ": null
+    },
+    {
+        "equivalent": "conformally equivalent"
+    },
+    {
+        " if the angles they measure are the same. Choosing an equivalence class of metrics on X is the additional datum of the conformal structure.     A complex structure gives rise to a conformal structure by choosing the standard ": null
+    },
+    {
+        "Euclidean metric": "euclidean metric"
+    },
+    {
+        " given on the complex plane and transporting it to X by means of the charts. Showing that a conformal structure determines a complex structure is more difficult. See  for the construction of a corresponding complex structure.                f arcsin z f log z f z f z f z 42/42         As with any map between complex manifolds, a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " f: M → N between two Riemann surfaces M and N is called  holomorphic  if for every chart g in the ": null
+    },
+    {
+        "atlas": "atlas"
+    },
+    {
+        " of M and every chart h in the atlas of N, the map h o f o g −42 is holomorphic  wherever it is defined. The composition of two holomorphic maps is holomorphic. The two Riemann surfaces M and N are called  biholomorphic   if there exists a ": null
+    },
+    {
+        "bijective": "bijective"
+    },
+    {
+        " holomorphic function from M to N whose inverse is also holomorphic . Two conformally equivalent Riemann surfaces are for all practical purposes identical.       Each Riemann surfaces, being a complex manifold, is ": null
+    },
+    {
+        "orientable": "orientable"
+    },
+    {
+        " as a real manifold. For complex charts f and g with transition function h f, h can be considered as a map from an open set of R 42 to R 42 whose ": null
+    },
+    {
+        "Jacobian": "jacobian variety"
+    },
+    {
+        " in a point z is just the real linear map given by multiplication by the complex number h . However, the real ": null
+    },
+    {
+        "determinant": "determinant"
+    },
+    {
+        " of multiplication by a complex number α equals |α h has positive determinant. Consequently, the complex atlas is an oriented atlas.       Every non-compact Riemann surface admits non-constant holomorphic functions . In fact, every non-compact Riemann surface is a ": null
+    },
+    {
+        "Stein manifold": "stein manifold"
+    },
+    {
+        ".     In contrast, on a compact Riemann surface X every holomorphic function with values in C is constant due to the ": null
+    },
+    {
+        "maximum principle": "maximum principle"
+    },
+    {
+        ". However, there always exist non-constant ": null
+    },
+    {
+        "meromorphic function": "meromorphic function"
+    },
+    {
+        "s . More precisely, the ": null
+    },
+    {
+        "function field": "function field of an algebraic variety"
+    },
+    {
+        " of X is a finite ": null
+    },
+    {
+        "extension": "field extension"
+    },
+    {
+        " of C, the function field in one variable, i.e. any two meromorphic functions are algebraically dependent. This statement generalizes to higher dimensions, see .       The existence of nonconstant meromorphic functions can be used to show that any compact Riemann surface is a ": null
+    },
+    {
+        "projective variety": "projective variety"
+    },
+    {
+        ", i.e. can be given by ": null
+    },
+    {
+        "polynomial": "polynomial"
+    },
+    {
+        " equations inside a ": null
+    },
+    {
+        "projective space": "projective space"
+    },
+    {
+        ". Actually, it can be shown that every compact Riemann surface can be ": null
+    },
+    {
+        "embedded": "immersion"
+    },
+    {
+        " into ": null
+    },
+    {
+        "complex projective 42-space": "complex projective space"
+    },
+    {
+        ". This is a surprising theorem: Riemann surfaces are given by locally patching charts. If one global condition, namely compactness, is added, the surface is necessarily algebraic. This feature of Riemann surfaces allows one to study them with either the means of ": null
+    },
+    {
+        "analytic": "analytic geometry"
+    },
+    {
+        " or ": null
+    },
+    {
+        "algebraic geometry": "algebraic geometry"
+    },
+    {
+        ". The corresponding statement for higher-dimensional objects is false, i.e. there are compact complex 42-manifolds which are not algebraic. On the other hand, every projective complex manifold is necessarily algebraic, see ": null
+    },
+    {
+        "Chows theorem": "algebraic geometry and analytic geometrychow.27s theorem"
+    },
+    {
+        ".     As an example, consider the torus T :  C/. The Weierstrass function \\wp_\\tau belonging to the lattice Z  +  τ Z is a ": null
+    },
+    {
+        "meromorphic function": "meromorphic function"
+    },
+    {
+        " on T. This function and its derivative \\wp_\\tau ": null
+    },
+    {
+        "generate": "generating set"
+    },
+    {
+        " the function field of T. There is an equation     : 42 42-g_42\\wp-g_42     where the coefficients g 42 and g 42 depend on τ, thus giving an elliptic curve E τ in the sense of algebraic geometry. Reversing this is accomplished by the ": null
+    },
+    {
+        "j-invariant": "j-invariant"
+    },
+    {
+        " j, which can be used to determine τ and hence a torus.       The set of all Riemann surfaces can be divided into three subsets: hyperbolic, parabolic and elliptic Riemann surfaces. Geometrically, these correspond to surfaces with negative, vanishing or positive constant ": null
+    },
+    {
+        "sectional curvature": "sectional curvature"
+    },
+    {
+        ". That is, every connected Riemann surface X admits a unique ": null
+    },
+    {
+        "complete": "completeness"
+    },
+    {
+        " 42-dimensional real ": null
+    },
+    {
+        "Riemann metric": "riemannian manifold"
+    },
+    {
+        " with constant curvature equal to 42 42 or 42 which belongs to the conformal class of Riemannian metrics determined by its structure as a Riemann surface. This can be seen as a consequence of the existence of ": null
+    },
+    {
+        "isothermal coordinates": "isothermal coordinates"
+    },
+    {
+        ".     In complex analytic terms, the Poincaré & ndash;Koebe ": null
+    },
+    {
+        "uniformization theorem": "uniformization theorem"
+    },
+    {
+        "  states that every simply connected Riemann surface is conformally equivalent to one of the following:   The Riemann sphere \\widehat : \\mathbf \\cup\\ , which is isomorphic to the ": null
+    },
+    {
+        " \\mathbf P^42 ": "complex projective line"
+    },
+    {
+        " ;   The complex plane \\mathbf C ;   The ": null
+    },
+    {
+        "open disk": "open disk"
+    },
+    {
+        " \\mathbf D : \\ .   A Riemann surface is elliptic, parabolic or hyperbolic according to whether its ": null
+    },
+    {
+        "universal cover": "universal cover"
+    },
+    {
+        " is isomorphic to \\mathbf P^42 , \\mathbf C or \\mathbf D . The elements in each class admit a more precise description.       The Riemann sphere \\mathbf P^42 is the only example, as there is no ": null
+    },
+    {
+        "group": "group"
+    },
+    {
+        " acting": "group action"
+    },
+    {
+        " on it by biholomorphic transformations ": null
+    },
+    {
+        "freely": "group_action_types_of_actions"
+    },
+    {
+        " and ": null
+    },
+    {
+        "properly discontinuously": "group_action_types_of_actions"
+    },
+    {
+        " and so any Riemann surface whose universal cover is isomorphic to \\mathbf P^42 must itself be isomorphic to it.       If X is a Riemann surface whose universal cover is isomorphic to the complex plane \\mathbf C then it is isomorphic one of the following surfaces:   \\mathbf C itself;   The quotient \\mathbf C / \\mathbf Z ;   A quotient \\mathbf C / where \\tau \\in \\mathbf C with \\mathrm /math  math /math math /math  math /math  math /math  math /math math /math math /math  math /math math /math  math /math   /ref  ref  /ref ref  /ref ": null
+    }
+]

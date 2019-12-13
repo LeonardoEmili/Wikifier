@@ -1,0 +1,743 @@
+[
+    {
+        "   GEM  was an ": null
+    },
+    {
+        "operating environment": "operating environment"
+    },
+    {
+        " created by ": null
+    },
+    {
+        "Digital Research": "digital research"
+    },
+    {
+        " for use with the ": null
+    },
+    {
+        "DOS": "dos"
+    },
+    {
+        " operating system": "operating system"
+    },
+    {
+        " on ": null
+    },
+    {
+        "Intel 42": "intel 8088"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Motorola 42": "motorola 68000"
+    },
+    {
+        " microprocessor": "microprocessor"
+    },
+    {
+        "s.     GEM is known primarily as the ": null
+    },
+    {
+        "graphical user interface": "graphical user interface"
+    },
+    {
+        " for the ": null
+    },
+    {
+        "Atari ST": "atari st"
+    },
+    {
+        " series of computers, and was also supplied with a series of ": null
+    },
+    {
+        "IBM PC": "ibm pc"
+    },
+    {
+        "-compatible computers from ": null
+    },
+    {
+        "Amstrad": "amstrad"
+    },
+    {
+        ". It was also available for the standard IBM PC, at a time when the 42  MHz IBM PC AT was brand new. It was the core for a small number of DOS programs, the most notable being ": null
+    },
+    {
+        "Ventura Publisher": "ventura publisher"
+    },
+    {
+        ". It was ported to a number of other computers that previously lacked graphical interfaces, but never gained popularity on those platforms. DRI also produced X/GEM for their ": null
+    },
+    {
+        "FlexOS": "flexos"
+    },
+    {
+        " real-time operating system": "real-time operating system"
+    },
+    {
+        " with adaptations for ": null
+    },
+    {
+        "OS/42": "os/2"
+    },
+    {
+        " Presentation Manager": "os/2 presentation manager"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "X Window System": "x window system"
+    },
+    {
+        " under preparation as well.                 GEM started life at DRI as a more general-purpose graphics library known as GSX , written by a team led by ": null
+    },
+    {
+        "Don Heiskell": "don heiskell"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Lee Lorenzen": "lee lorenzen"
+    },
+    {
+        " who had recently left ": null
+    },
+    {
+        "Xerox PARC": "xerox parc"
+    },
+    {
+        " wrote much of the code. GSX was essentially a DRI-specific implementation of the ": null
+    },
+    {
+        "GKS": "graphical kernel system"
+    },
+    {
+        " graphics standard proposed in the late 42s. GSX was intended to allow DRI to write graphics programs for any of the platforms ": null
+    },
+    {
+        "CP/M42": "cp/m-80"
+    },
+    {
+        ", ": null
+    },
+    {
+        "CP/M42": "cp/m-86"
+    },
+    {
+        " and ": null
+    },
+    {
+        "MS-DOS": "ms-dos"
+    },
+    {
+        "  would run on, a task that would otherwise require considerable effort to port due to the large differences in graphics hardware between the various systems of that era.     GSX consisted of two parts: a selection of routines for common drawing operations, and the device drivers that are responsible for handling the actual output. The former was known as GDOS and the latter as GIOS, a play on the division of CP/M into machine-independent BDOS and machine-specific ": null
+    },
+    {
+        "BIOS": "bios"
+    },
+    {
+        ". GDOS was a selection of routines that handled the GKS drawing, while GIOS actually used the underlying hardware to produce the output.       DDFXLR42 ": null
+    },
+    {
+        "Epson": "epson"
+    },
+    {
+        " and Epson-compatible printers   DDFXLR42 Epson ": null
+    },
+    {
+        "lo-res": "lo-res"
+    },
+    {
+        ", 42-bit   DDFXHR42 Epson ": null
+    },
+    {
+        "hi-res": "hi-res"
+    },
+    {
+        ", 42-bit   DD-DMP42 Amstrad DMP42 printer    DDSHINWA Printers using Shinwa Industries mechanism   DDHP42 DD42 ": null
+    },
+    {
+        "Hewlett Packard": "hewlett packard"
+    },
+    {
+        " HP 42": "hp 7470"
+    },
+    {
+        " and compatible pen plotters, ": null
+    },
+    {
+        "HP-GL/42": "hp-gl/2"
+    },
+    {
+        " Amstrad CPC": "amstrad cpc"
+    },
+    {
+        " screen in mode 42   DDMODE42 Amstrad CPC screen in mode 42   DDMODE42 Amstrad CPC screen in mode 42   DDSCREEN ": null
+    },
+    {
+        "Amstrad PCW": "amstrad pcw"
+    },
+    {
+        " screen   DD42 Hewlett Packard HP 42 ": null
+    },
+    {
+        "HP-GL": "hp-gl"
+    },
+    {
+        " NEC µPD42": "nec µpd7220"
+    },
+    {
+        " Retro-Graphics": "regis"
+    },
+    {
+        " GEN.II    DDHI42M ": null
+    },
+    {
+        "Houston Instrument": "houston instrument"
+    },
+    {
+        " HiPlot DMP   DDHI42M Houston Instrument HiPlot DMP   DDMX42 Epson MX42 + ": null
+    },
+    {
+        "Graftrax Plus": "graftrax plus"
+    },
+    {
+        " VT42": "vt100"
+    },
+    {
+        " + Retro-Graphics GEN.II    DDQX42 ": null
+    },
+    {
+        "QX42": "qx-10"
+    },
+    {
+        " screen   DDCITOH ": null
+    },
+    {
+        "C. Itoh": "c. itoh"
+    },
+    {
+        " 42A   DDESP Electric Studio Light Pen    DDOKI42 ": null
+    },
+    {
+        "Oki Data": "oki data"
+    },
+    {
+        " Microline   DDBBC42 ": null
+    },
+    {
+        "BBC Micro": "bbc micro"
+    },
+    {
+        " screen in mode 42   DDBBC42 BBC Micro screen in mode 42   DDCITOLR ": null
+    },
+    {
+        "C. Itoh": "c. itoh"
+    },
+    {
+        " 42A ": null
+    },
+    {
+        "lo-res": "lo-res"
+    },
+    {
+        " TeleVideo": "televideo"
+    },
+    {
+        " screen       DDANADXM Anadex DP42 and DP42A   DDCITOLR ": null
+    },
+    {
+        "C. Itoh": "c. itoh"
+    },
+    {
+        " 42A ": null
+    },
+    {
+        "lo-res": "lo-res"
+    },
+    {
+        " Centronics": "centronics"
+    },
+    {
+        " 42 42 and 42   DDDS42 Datasouth   DDIDSM IDS Monochrome   DDLA42 ": null
+    },
+    {
+        "DEC": "digital equipment corporation"
+    },
+    {
+        " Oki Data": "oki data"
+    },
+    {
+        " Microline   DDPMVP ": null
+    },
+    {
+        "Printronix": "printronix"
+    },
+    {
+        " MVP   DD42EPSNL IBM/Epson FX42 lo-res Printer, see DDFXLR42 and DDFXLR42   DD42EPSNH IBM/Epson FX42 hi-res Printer, see DDFXHR42   DD42XHM42 ": null
+    },
+    {
+        "Regnecentralen": "regnecentralen"
+    },
+    {
+        " RC42 Piccoline   DDNECAPC ": null
+    },
+    {
+        "NEC APC": "nec apc"
+    },
+    {
+        " Metafile": "metafile"
+    },
+    {
+        " NCR": "ncr corporation"
+    },
+    {
+        " DecisionMate V   IBMBLMP42 IBMBLMP42 ": null
+    },
+    {
+        "IBM": "ibm"
+    },
+    {
+        " CGA monochrome mode   IBMBLCP42 IBMBLCP42 IBM CGA color mode   IBMHP42 Hewlett-Packard 42A/42A Plotter, see DDHP42 and DD42   HERMONP42 IBMHERP42 Hercules monochrome graphics   PALETTE ": null
+    },
+    {
+        "Polaroid camera": "polaroid camera"
+    },
+    {
+        "   The same driver binary may operate under both ": null
+    },
+    {
+        "CP/M42": "cp/m-86"
+    },
+    {
+        " and ": null
+    },
+    {
+        "DOS": "dos"
+    },
+    {
+        ".         GSX evolved into one part of what would later be known as GEM, which was an effort to build a full GUI system using the earlier GSX work as its basis. Originally known as Crystal as a play on an IBM project called Glass, the name was later changed to GEM.     Under GEM, GSX became GEM VDI , responsible for basic graphics and drawing. VDI also added the ability to work with multiple ": null
+    },
+    {
+        "font": "typeface"
+    },
+    {
+        "s and added a selection of ": null
+    },
+    {
+        "raster": "raster graphics"
+    },
+    {
+        " drawing commands to the formerly ": null
+    },
+    {
+        "vector": "vector graphics"
+    },
+    {
+        "-only GKS-based drawing commands. VDI also added multiple ": null
+    },
+    {
+        "viewport": "viewport"
+    },
+    {
+        "s, a key addition for use with windows.     A new module, GEM AES , provided the window management and UI elements, and GEM Desktop used both libraries in combination to provide a GUI. The 42 version of the entire system was first demoed at the 42 ": null
+    },
+    {
+        "COMDEX": "comdex"
+    },
+    {
+        ", and shipped as GEM/42 on 42 February 42  42 424242 DRI SHIPS GEM - net.micro.atari - Google Groups     GEM/42   GEM Desktop 42 was released on 42 February 42   GEM Desktop 42 was released in April 42 with support for ": null
+    },
+    {
+        "CGA": "color graphics adapter"
+    },
+    {
+        " and ": null
+    },
+    {
+        "EGA": "enhanced graphics adapter"
+    },
+    {
+        " displays.       A version for the ": null
+    },
+    {
+        "Apricot Computers": "apricot computers"
+    },
+    {
+        " F-Series, supporting 42×42 in up to 42 colors was also available as GEM Desktop 42.       DRI originally designed GEM for DOS so that it would check for and only run on IBM computers, and not ": null
+    },
+    {
+        "PC compatibles": "pc compatibles"
+    },
+    {
+        " like those from ": null
+    },
+    {
+        "Compaq": "compaq"
+    },
+    {
+        ", as the company hoped to receive license fees from compatible makers. Developers reacted with what  BYTE  described as a small explosion ; it reported that at a DRI-hosted seminar in February 42 more than half of the attendees agreed that GEMs incompatibility with Compaq was a serious limitation. Later that month the company removed the restriction.  Applications that supported GEM included Lifetree Softwares ": null
+    },
+    {
+        "GEM Write": "gem write"
+    },
+    {
+        ".      At this point, ": null
+    },
+    {
+        "Apple Computer": "apple computer"
+    },
+    {
+        " sued DRI   in what would turn into a long dispute over the look and feel of the GEM/42 system, which was an almost direct copy of ": null
+    },
+    {
+        "Macintosh": "apple macintosh"
+    },
+    {
+        " . This eventually led to DRI being forced to change several basic features of the system.  Apple would later go on to sue other companies for similar issues, including their ": null
+    },
+    {
+        "copyright lawsuit against Microsoft and HP": "apple computer, inc. v. microsoft corporation"
+    },
+    {
+        ".     In addition to printers the system also contained drivers for some more unusual devices such as the ": null
+    },
+    {
+        "Polaroid Palette": "polaroid palette"
+    },
+    {
+        ".     GEM/42   DRI responded with the lawsuit-friendly GEM Desktop 42, released in March 42 with support for ": null
+    },
+    {
+        "VGA": "vga"
+    },
+    {
+        " displays.   It allowed the display of only two fixed windows on the desktop , changed the trash can icon, and removed the animations for things like opening and closing windows. It was otherwise similar to GEM/42 but also included a number of bug fixes and cosmetic improvements.     In 42 ": null
+    },
+    {
+        "Stewart Alsop II": "stewart alsop ii"
+    },
+    {
+        " said that GEM was among several GUIs that have already been knocked out of the market by Apple, IBM/Microsoft, and others.      GEM  XM with GEM Desktop 42 was an updated version of GEM/42 in 42/42 for ": null
+    },
+    {
+        "DOS": "dos"
+    },
+    {
+        "  which allowed task-switching and the ability to run up to ten GEM and DOS programs at once, swapping out to ": null
+    },
+    {
+        "expanded memory": "expanded memory"
+    },
+    {
+        " through ": null
+    },
+    {
+        "EMS": "expanded memory specification"
+    },
+    {
+        "/": null
+    },
+    {
+        "EEMS": "enhanced expanded memory specification"
+    },
+    {
+        " or to disk . Data could be copied and pasted between applications through a ": null
+    },
+    {
+        "clipboard": "clipboard"
+    },
+    {
+        " with filter function . Digital Research planned to offer GEM XM as an option to GEM ": null
+    },
+    {
+        "Draw Plus": "draw plus"
+    },
+    {
+        " users and through OEM channels.     The GEM  XM ": null
+    },
+    {
+        "source code": "source code"
+    },
+    {
+        " is now freely available under the terms of ": null
+    },
+    {
+        "GNU General Public License": "gnu general public license"
+    },
+    {
+        ".          GEM/42   The last retail release was GEM/42 Desktop, released in November 42   which had speed improvements and shipped with a number of basic applications. Commercial sales of GEM ended with GEM/42; the source code was subsequently made available to a number of DRIs leading customers.     GEM/42 for CCP ArtlineGEM/42, released in 42 included the ability to work with ": null
+    },
+    {
+        "Bézier curve": "bézier curve"
+    },
+    {
+        "s, a feature still not commonly found outside the ": null
+    },
+    {
+        "PostScript": "postscript"
+    },
+    {
+        " world. This version was produced specifically for ": null
+    },
+    {
+        "Artline": "artline"
+    },
+    {
+        ", a drawing program from the German company ": null
+    },
+    {
+        "CCP Development GmbH": "ccp development"
+    },
+    {
+        ".   The system also included changes to the font management system, which made it incompatible with the likes of ": null
+    },
+    {
+        "Timeworks Publisher": "timeworks publisher"
+    },
+    {
+        ".     GEM/42 for GST Timeworks PublisherGEM/42   was produced by ": null
+    },
+    {
+        "GST": "gst computer systems"
+    },
+    {
+        " for ": null
+    },
+    {
+        "Timeworks Publisher": "timeworks publisher"
+    },
+    {
+        " 42. It contained an updated look with 42D buttons, along with features such as on-the-fly font scaling. It came complete with all the standard 42 tools. This version was produced from GEM 42 with only the Bézier handling taken from GEM/42           GEM Desktop itself was spun off in 42 as a product known as ": null
+    },
+    {
+        "ViewMAX": "viewmax"
+    },
+    {
+        " which was used solely as a file management shell under ": null
+    },
+    {
+        "DR  DOS": "dr & nbsp;dos"
+    },
+    {
+        ". In this form the system could not run other GEM programs. This led to a situation where a number of applications could exist all with their own ": null
+    },
+    {
+        "statically linked": "static build"
+    },
+    {
+        " copy of the GEM system. This scenario was actually rare, as few native GEM programs were published. In 42 ": null
+    },
+    {
+        "ViewMAX 42": "viewmax 2"
+    },
+    {
+        " was released.     In these forms GEM survived until DRI was purchased by ": null
+    },
+    {
+        "Novell": "novell"
+    },
+    {
+        " in June 42 and all GEM development was cancelled.     X/GEM based on GEM/42 but this required use of one of the multitasking CP/M-based operating systems. DRI also produced X/GEM for their ": null
+    },
+    {
+        "FlexOS": "flexos"
+    },
+    {
+        " real-time operating system": "real-time operating system"
+    },
+    {
+        " with adaptations for ": null
+    },
+    {
+        "OS/42": "os/2"
+    },
+    {
+        " Presentation Manager": "os/2 presentation manager"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "X Window System": "x window system"
+    },
+    {
+        " under preparation as well.     ": null
+    },
+    {
+        "Ventura Software": "ventura software"
+    },
+    {
+        ". They developed ": null
+    },
+    {
+        "Ventura Publisher": "ventura publisher"
+    },
+    {
+        " , which would go on to be a very popular ": null
+    },
+    {
+        "desktop publishing": "desktop publishing"
+    },
+    {
+        " program for some time.     Atari versions        Development of the production 42 version of GEM began in September 42 when Atari sent a team called The Monterey Group to ": null
+    },
+    {
+        "Digital Research": "digital research"
+    },
+    {
+        " to begin work on porting GEM. Originally the plan was to run GEM on top of ": null
+    },
+    {
+        "CP/M42K": "cp/m-68k"
+    },
+    {
+        ", both ostensibly ported to ": null
+    },
+    {
+        "Motorola 42": "motorola 68000"
+    },
+    {
+        " by DRI prior to the ST design being created. In fact, these ports were unusable and would require considerable development. Digital Research also offered GEMDOS , a DOS-like operating system aimed to port GEM to different hardware platforms. It was available for ": null
+    },
+    {
+        "42": "8086"
+    },
+    {
+        " and ": null
+    },
+    {
+        "42": "68000"
+    },
+    {
+        " processors and had been adapted to the ": null
+    },
+    {
+        "Apple": "apple"
+    },
+    {
+        " Lisa 42/42": "lisa 2/5"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Motorola": "motorola"
+    },
+    {
+        " VME": "vme board"
+    },
+    {
+        "/42  Motorola VME/42 Microcomputer System Overview Manual M42KVSOM/D42 42st edition February 42 development system already.  Atari eventually decided to give up on the existing CP/M42K code and instead port GEMDOS to the Atari ST platform, referring to it as ": null
+    },
+    {
+        "TOS": "atari tos"
+    },
+    {
+        ".  An exclusive look inside Tramiels Atari - by Jeffrey Daniels - START VOL. 42 NO. 42 / SUMMER 42 / PAGE 42     As Atari had provided most of the development of the 42 version, they were given full rights to continued developments without needing to reverse-license it back to DRI. As a result, the Apple-DRI lawsuit did not apply to the Atari versions of GEM, and they were allowed to keep a more Mac-like UI.     Over the next seven years, from 42 to 42 new versions of TOS were released with each new generation of the ST line. Updates included support for more colors and higher resolutions in the raster-side of the system, but remained generally similar to the original in terms of GKS support. In 42 Atari released TOS 42 or ": null
+    },
+    {
+        "MultiTOS": "multitos"
+    },
+    {
+        ", along with their final computer system, the ": null
+    },
+    {
+        "Falcon42": "falcon030"
+    },
+    {
+        ". In combination with ": null
+    },
+    {
+        "MiNT": "mint"
+    },
+    {
+        ", TOS 42 allowed full multitasking support in GEM.          When ": null
+    },
+    {
+        "Caldera": "caldera"
+    },
+    {
+        " bought the remaining Digital Research assets from Novell on 42 July 42 initial plans were to revive GEM and ViewMAX technologies for a low-footprint user interface for ": null
+    },
+    {
+        "OpenDOS": "opendos"
+    },
+    {
+        " in mobile applications as  Caldera View  , but these plans were abandoned by ": null
+    },
+    {
+        "Caldera UK": "caldera uk"
+    },
+    {
+        " in favour of ": null
+    },
+    {
+        "DR-WebSpyder": "dr-webspyder"
+    },
+    {
+        " and ": null
+    },
+    {
+        "GROW": "graphical romable object windows"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Caldera Thin Clients": "caldera thin clients"
+    },
+    {
+        "  released the source to GEM and GEM  XM under the terms of ": null
+    },
+    {
+        "GNU General Public License": "gnu general public license"
+    },
+    {
+        " in April 42 The development of GEM for PC is continued as ": null
+    },
+    {
+        "FreeGEM": "freegem"
+    },
+    {
+        " and ": null
+    },
+    {
+        "OpenGEM": "opengem"
+    },
+    {
+        ".     On the Atari ST platform, the original DRI sources were ported again to be used in the free and open source ": null
+    },
+    {
+        "TOS": "atari tos"
+    },
+    {
+        " clone ": null
+    },
+    {
+        "EmuTOS": "emutos"
+    },
+    {
+        ". New implementations of the AES portions of GEM have been implemented from scratch in the form of ": null
+    },
+    {
+        "XaAES": "xaaes"
+    },
+    {
+        ", and MyAES, both of which are fully re-entrant and support multitasking on top of the ": null
+    },
+    {
+        "FreeMiNT": "mint"
+    },
+    {
+        " multitasking extensions to ": null
+    },
+    {
+        "TOS": "atari tos"
+    },
+    {
+        ".       The full GEM system consisted of three main parts:     GEM VDI   GEM AES   GEM Desktop     GEM VDI was the core graphics system of the overall GEM engine. It was responsible for low level drawing in the form of draw line from here to here . VDI included a resolution and coordinate independent set of vector drawing instructions which were called from applications through a fairly simple interface. TVDI also included environment information , current color, line thickness, output device, etc.     These commands were then examined by GDOS, whose task it was to send the commands to the proper driver for actual rendering. For instance, if a particular GEM VDI environment was connected to the screen, the VDI instructions were then routed to the screen driver for drawing. Simply changing the environment to point to the printer was all that was needed to print, dramatically reducing the developer workload . GDOS was also responsible for loading up the drivers and any requested fonts when GEM was first loaded.     One major advantage VDI provided over the Macintosh was the way multiple devices and contexts were handled. In the Mac such information was stored in memory inside the application. This resulted in serious problems when attempting to make the Mac handle pre-emptive multitasking, as the drawing layer  needed to have direct memory access into all programs. In GEM VDI however, such information was stored in the device itself, with GDOS creating virtual devices for every context & ndash; each window for instance.     GEM AES provided the window system, window manager, UI style and other GUI elements . For performance reasons, many of the GUI widgets were actually drawn using character graphics. Compared to the Macintosh, AES provided a rather spartan look and the system shipped with a single monospaced font.     AES performs its operations by calling the VDI, but in a more general sense the two parts of GEM were often completely separated in applications. Applications typically called AES commands to set up a new window, with the rest of the application using VDI calls to actually draw into that window.     GEM Desktop was an application program that used AES to provide a file manager and launcher, the traditional desktop environment that users had come to expect from the Macintosh. Unlike the Macintosh, the GEM Desktop was based on top of DOS ": null
+    }
+]

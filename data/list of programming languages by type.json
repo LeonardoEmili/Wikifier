@@ -1,0 +1,2855 @@
+[
+    {
+        "   This is a list of notable ": null
+    },
+    {
+        "programming language": "programming language"
+    },
+    {
+        "s, grouped by type.     Since there is no overarching classification scheme for programming languages, in many cases, a language will be listed under multiple headings.            ": null
+    },
+    {
+        "Array programming": "array programming"
+    },
+    {
+        "  languages generalize operations on scalars to apply transparently to ": null
+    },
+    {
+        "vector": "vector"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "matrices": "matrix"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "higher-dimensional array": "higher-dimensional array"
+    },
+    {
+        "s.      ": null
+    },
+    {
+        "A+": "a+"
+    },
+    {
+        " Analytica": "analytica"
+    },
+    {
+        " APL": "apl"
+    },
+    {
+        " Chapel": "chapel"
+    },
+    {
+        " Fortran 42": "fortran 90"
+    },
+    {
+        " Freemat": "freemat"
+    },
+    {
+        " GAUSS": "gauss"
+    },
+    {
+        " IDL": "interactive data language"
+    },
+    {
+        " J": "j"
+    },
+    {
+        " Julia": "julia"
+    },
+    {
+        " K": "k"
+    },
+    {
+        " MATLAB": "matlab"
+    },
+    {
+        " Octave": "octave"
+    },
+    {
+        "      Q": "q"
+    },
+    {
+        " R": "r"
+    },
+    {
+        " S": "s"
+    },
+    {
+        " S-Lang": "s-lang"
+    },
+    {
+        " SequenceL": "sequencel"
+    },
+    {
+        " Speakeasy": "speakeasy"
+    },
+    {
+        " Wolfram Language": "wolfram language"
+    },
+    {
+        " X42": "x10"
+    },
+    {
+        " ZPL": "zpl"
+    },
+    {
+        "               Assembly language": "assembly language"
+    },
+    {
+        "s directly correspond to a ": null
+    },
+    {
+        "machine language": "machine language"
+    },
+    {
+        " so machine code instructions appear in a form understandable by humans. Assembly languages let programmers use symbolic addresses, which the ": null
+    },
+    {
+        "assembler": "assembly language assembler"
+    },
+    {
+        " converts to absolute addresses. Most assemblers also support ": null
+    },
+    {
+        "macros": "macro"
+    },
+    {
+        " and ": null
+    },
+    {
+        "symbolic constant": "constant"
+    },
+    {
+        "s.            An ": null
+    },
+    {
+        "authoring language": "authoring language"
+    },
+    {
+        " is a programming language used to create tutorials, websites, and other interactive computer programs.     ": null
+    },
+    {
+        "DITA": "darwin information typing architecture"
+    },
+    {
+        " Lasso": "lasso"
+    },
+    {
+        " PILOT": "pilot"
+    },
+    {
+        " TUTOR": "tutor"
+    },
+    {
+        "            A ": null
+    },
+    {
+        "constraint programming language": "constraint programming language"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "declarative programming language": "declarative programming language"
+    },
+    {
+        " where relationships between variables are expressed as ": null
+    },
+    {
+        "constraints": "constraint"
+    },
+    {
+        ". Execution proceeds by attempting to find values for the variables which satisfy all declared constraints.     ": null
+    },
+    {
+        "ECLiPSe": "eclipse"
+    },
+    {
+        "       Command-line interface": "command-line interface"
+    },
+    {
+        " languages are also called batch languages or job control languages. Examples:    ": null
+    },
+    {
+        "42DOS": "4dos"
+    },
+    {
+        "    bash": "bash"
+    },
+    {
+        "    CLIST": "clist"
+    },
+    {
+        "    CMS EXEC": "cms exec"
+    },
+    {
+        " csh": "c shell"
+    },
+    {
+        " and ": null
+    },
+    {
+        "tcsh": "tcsh"
+    },
+    {
+        "    DCL": "digital command language"
+    },
+    {
+        " DIGITAL Command Language – standard CLI language for ": null
+    },
+    {
+        "VMS": "openvms"
+    },
+    {
+        "    DOS batch language": "batch file"
+    },
+    {
+        "    EXEC 42": "exec 2"
+    },
+    {
+        " Expect": "expect"
+    },
+    {
+        "    fish": "friendly interactive shell"
+    },
+    {
+        "    Hamilton C shell": "hamilton c shell"
+    },
+    {
+        "   JCL": "job control language"
+    },
+    {
+        "    ksh": "korn shell"
+    },
+    {
+        "    Rc": "rc"
+    },
+    {
+        "    REXX": "rexx"
+    },
+    {
+        " sh": "bourne shell"
+    },
+    {
+        "    TACL": "tacl"
+    },
+    {
+        "   Windows batch language": "batch file"
+    },
+    {
+        "    Windows PowerShell": "windows powershell"
+    },
+    {
+        "    zsh": "z shell"
+    },
+    {
+        "           These are languages typically processed by ": null
+    },
+    {
+        "compiler": "compiler"
+    },
+    {
+        "s, though theoretically any language can be compiled or interpreted. See also ": null
+    },
+    {
+        "compiled language": "compiled language"
+    },
+    {
+        ".      ": null
+    },
+    {
+        "ActionScript": "actionscript"
+    },
+    {
+        " Ada": "ada"
+    },
+    {
+        "   ALGOL": "algol"
+    },
+    {
+        "   SMALL Machine Algol Like Language": "small"
+    },
+    {
+        " Ballerina": "ballerina"
+    },
+    {
+        "    BASIC": "basic"
+    },
+    {
+        "   BCPL": "bcpl"
+    },
+    {
+        " C": "c"
+    },
+    {
+        "   C++": "c++"
+    },
+    {
+        "   C": "c sharp"
+    },
+    {
+        "    Ceylon": "ceylon"
+    },
+    {
+        "    CHILL": "chill"
+    },
+    {
+        " CLIPPER 42": "clipper"
+    },
+    {
+        "   CLEO": "leo"
+    },
+    {
+        " on the British ": null
+    },
+    {
+        "Leo computers": "leo"
+    },
+    {
+        " COBOL": "cobol"
+    },
+    {
+        " Cobra": "cobra"
+    },
+    {
+        " Common Lisp": "common lisp"
+    },
+    {
+        " Crystal": "crystal"
+    },
+    {
+        " Curl": "curl"
+    },
+    {
+        " D": "d"
+    },
+    {
+        "   DASL": "distributed application specification language"
+    },
+    {
+        " compiles into Java, JavaScript, JSP, Flex, etc. as .war file   ": null
+    },
+    {
+        "Delphi": "object pascal"
+    },
+    {
+        "    DIBOL": "dibol"
+    },
+    {
+        "   Dylan": "dylan"
+    },
+    {
+        " eC": "ec"
+    },
+    {
+        " Eiffel": "eiffel"
+    },
+    {
+        "    Sather": "sather"
+    },
+    {
+        " Ubercode": "ubercode"
+    },
+    {
+        " Elm": "elm"
+    },
+    {
+        " Emacs Lisp": "emacs lisp"
+    },
+    {
+        " Erlang": "erlang"
+    },
+    {
+        " F": "f sharp"
+    },
+    {
+        "                                                                                                                                                                                                                                                                                                                                                                                                                        Iterative languages are built around or offering ": null
+    },
+    {
+        "generator": "generator"
+    },
+    {
+        "s.      ": null
+    },
+    {
+        "Aldor": "aldor"
+    },
+    {
+        " Alphard": "alphard"
+    },
+    {
+        " C": "generator c"
+    },
+    {
+        " CLU": "clu"
+    },
+    {
+        " Cobra": "cobra"
+    },
+    {
+        " Eiffel": "eiffel"
+    },
+    {
+        ", through agents   ": null
+    },
+    {
+        "Icon": "icon"
+    },
+    {
+        " IPL-v": "information processing language"
+    },
+    {
+        " Julia": "julia"
+    },
+    {
+        "   Lua": "lua"
+    },
+    {
+        " Nim": "nim"
+    },
+    {
+        " PHP": "php"
+    },
+    {
+        " Python": "python"
+    },
+    {
+        " Sather": "sather"
+    },
+    {
+        "                  C": "c sharp"
+    },
+    {
+        " Erlang": "erlang"
+    },
+    {
+        " Go": "go"
+    },
+    {
+        " Java": "java"
+    },
+    {
+        " JavaScript": "javascript"
+    },
+    {
+        " Kotlin": "kotlin"
+    },
+    {
+        " Lisp": "lisp"
+    },
+    {
+        "   Arc": "arc"
+    },
+    {
+        " Clojure": "clojure"
+    },
+    {
+        " Common Lisp": "common lisp"
+    },
+    {
+        " Dylan": "dylan"
+    },
+    {
+        " Emacs Lisp": "emacs lisp"
+    },
+    {
+        " Racket": "racket"
+    },
+    {
+        " Scheme": "scheme"
+    },
+    {
+        " Logo": "logo"
+    },
+    {
+        " Lua": "lua"
+    },
+    {
+        " ML": "ml"
+    },
+    {
+        " Standard ML": "standard ml"
+    },
+    {
+        "   Alice": "alice"
+    },
+    {
+        " OCaml": "ocaml"
+    },
+    {
+        " PowerShell": "powershell"
+    },
+    {
+        " Python": "python"
+    },
+    {
+        " Ruby": "ruby"
+    },
+    {
+        " Smalltalk": "smalltalk"
+    },
+    {
+        "           Ada": "ada"
+    },
+    {
+        " C": "c"
+    },
+    {
+        " C++": "c++"
+    },
+    {
+        " Fortran": "fortran"
+    },
+    {
+        " Pascal": "pascal"
+    },
+    {
+        " Rust": "rust"
+    },
+    {
+        " Objective-C": "objective-c"
+    },
+    {
+        "        Ada": "ada"
+    },
+    {
+        " C": "c"
+    },
+    {
+        " C++": "c++"
+    },
+    {
+        " Fortran": "fortran"
+    },
+    {
+        " Pascal": "pascal"
+    },
+    {
+        " Rust": "rust"
+    },
+    {
+        "     Objective-C": "objective-c"
+    },
+    {
+        "        Objective-C": "objective-c"
+    },
+    {
+        " Swift": "swift"
+    },
+    {
+        " Visual Basic": "visual basic"
+    },
+    {
+        " Xojo": "xojo"
+    },
+    {
+        "       List-based languages are a type of ": null
+    },
+    {
+        "data-structured language": "data-structured language"
+    },
+    {
+        " that are based upon the ": null
+    },
+    {
+        "list": "list"
+    },
+    {
+        " data structure.       ": null
+    },
+    {
+        "Joy": "joy"
+    },
+    {
+        " R": "r"
+    },
+    {
+        " Tcl": "tcl"
+    },
+    {
+        " Tea": "tea"
+    },
+    {
+        " TRAC": "trac"
+    },
+    {
+        "          Little languages": "domain-specific language"
+    },
+    {
+        " serve a specialized problem domain.     ": null
+    },
+    {
+        "awk": "awk"
+    },
+    {
+        " – can serve as a prototyping language for ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        "   Comet": "comet"
+    },
+    {
+        " – used to solve complex combinatorial ": null
+    },
+    {
+        "optimization": "program optimization"
+    },
+    {
+        " problems in areas such as ": null
+    },
+    {
+        "resource allocation": "resource allocation"
+    },
+    {
+        " and ": null
+    },
+    {
+        "scheduling": "scheduling"
+    },
+    {
+        " sed": "sed"
+    },
+    {
+        " – parses and transforms text   ": null
+    },
+    {
+        "SQL": "sql"
+    },
+    {
+        " – has only a few keywords, and not all the constructs needed for a full programming language – many database management systems extend SQL with additional constructs as a ": null
+    },
+    {
+        "stored procedure": "stored procedure"
+    },
+    {
+        " language            ": null
+    },
+    {
+        "Logic-based": "logic programming"
+    },
+    {
+        " languages specify a set of attributes that a solution must have, rather than a set of steps to obtain a solution.     Examples:   ": null
+    },
+    {
+        "ALF": "algebraic logic functional"
+    },
+    {
+        " Alma42": "alma-0"
+    },
+    {
+        " CLACL ": "clacl"
+    },
+    {
+        " Curry": "curry"
+    },
+    {
+        " Fril": "fril"
+    },
+    {
+        " Janus": "janus"
+    },
+    {
+        " λProlog": "λprolog"
+    },
+    {
+        "   Oz": "oz"
+    },
+    {
+        ", and Mozart Programming System ": null
+    },
+    {
+        "cross-platform": "cross-platform"
+    },
+    {
+        " Oz   ": null
+    },
+    {
+        "Prolog": "prolog"
+    },
+    {
+        "    Mercury": "mercury"
+    },
+    {
+        "   Visual Prolog": "visual prolog"
+    },
+    {
+        "   ROOP": "roop"
+    },
+    {
+        "       Machine language": "machine code"
+    },
+    {
+        "s are directly executable by a computers CPU. They are typically formulated as bit patterns, usually represented in ": null
+    },
+    {
+        "octal": "octal"
+    },
+    {
+        " or ": null
+    },
+    {
+        "hexadecimal": "hexadecimal"
+    },
+    {
+        ". Each bit pattern causes the circuits in the CPU to execute one of the fundamental operations of the hardware. The activation of specific electrical inputs , and logical settings for CPU state values, control the processors computation. Individual machine languages are specific to a family of processors; machine-language code for one family of processors cannot run directly on processors in another family unless the processors in question have additional hardware to support it . They are always defined by the CPU developer, not by 42rd parties. The symbolic version, the processors ": null
+    },
+    {
+        "assembly language": "assembly language"
+    },
+    {
+        ", is also defined by the developer, in most cases. Some commonly used machine code ": null
+    },
+    {
+        "instruction set": "instruction set"
+    },
+    {
+        "s are:      ": null
+    },
+    {
+        "ARM": "arm architecture"
+    },
+    {
+        " DEC": "digital equipment corporation"
+    },
+    {
+        " PDP42": "pdp-6"
+    },
+    {
+        "/": null
+    },
+    {
+        "PDP42": "pdp-10"
+    },
+    {
+        "/": null
+    },
+    {
+        "DECSYSTEM42": "decsystem-20"
+    },
+    {
+        " PDP42": "pdp-11"
+    },
+    {
+        "   DEC ": null
+    },
+    {
+        "VAX": "vax"
+    },
+    {
+        " DEC Alpha": "dec alpha"
+    },
+    {
+        " Intel": "intel corporation"
+    },
+    {
+        " 42": "intel 8008"
+    },
+    {
+        ", ": null
+    },
+    {
+        "42": "intel 8080"
+    },
+    {
+        " and ": null
+    },
+    {
+        "42": "intel 8085"
+    },
+    {
+        " Zilog Z42": "zilog z80"
+    },
+    {
+        " x42": "x86"
+    },
+    {
+        ":   ": null
+    },
+    {
+        "42-bit x42": "x8616-bit"
+    },
+    {
+        ", first used in the Intel 42   ": null
+    },
+    {
+        "Intel 42": "intel 8086"
+    },
+    {
+        " and ": null
+    },
+    {
+        "42": "intel 8088"
+    },
+    {
+        "    Intel 42": "intel 80186"
+    },
+    {
+        " Intel 42": "intel 80286"
+    },
+    {
+        "    IA42": "ia-32"
+    },
+    {
+        ", introduced in the ": null
+    },
+    {
+        "42": "80386"
+    },
+    {
+        " x4242": "x86-64"
+    },
+    {
+        " The original specification was created by ": null
+    },
+    {
+        "AMD": "advanced micro devices"
+    },
+    {
+        ". There are vendor variants, but theyre essentially the same:   ": null
+    },
+    {
+        "AMDs": "advanced micro devices"
+    },
+    {
+        " AMD42": "x86-64amd64"
+    },
+    {
+        " Intels": "intel corporation"
+    },
+    {
+        " Intel 42": "intel 64"
+    },
+    {
+        " IBM System/42": "ibm system/360"
+    },
+    {
+        " and successors, including ": null
+    },
+    {
+        "z/Architecture": "z/architecture"
+    },
+    {
+        " MIPS": "mips architecture"
+    },
+    {
+        " Motorola 42": "motorola 6800"
+    },
+    {
+        " Motorola 42 family": "motorola 68000 family"
+    },
+    {
+        "    MOS Technology": "mos technology"
+    },
+    {
+        " 42xx": "mos technology 65xx"
+    },
+    {
+        " 42": "mos technology 6502"
+    },
+    {
+        "    42": "mos technology 6510"
+    },
+    {
+        "    Western Design Center": "western design center"
+    },
+    {
+        " 42/42": "wdc 65816/65802"
+    },
+    {
+        "    National ": null
+    },
+    {
+        "NS42xx": "ns320xx"
+    },
+    {
+        " POWER": "ibm power instruction set architecture"
+    },
+    {
+        ", first used in the ": null
+    },
+    {
+        "IBM RS/42": "ibm rs/6000"
+    },
+    {
+        " PowerPC": "powerpc"
+    },
+    {
+        " – used in ": null
+    },
+    {
+        "Power Macintosh": "power macintosh"
+    },
+    {
+        " and the technology is used in many older generation ": null
+    },
+    {
+        "game consoles": "powerpcgaming consoles"
+    },
+    {
+        " Power ISA": "power isa"
+    },
+    {
+        " Oracle": "oracle corporation"
+    },
+    {
+        " SPARC": "sparc"
+    },
+    {
+        " MCST": "moscow center of sparc technologies"
+    },
+    {
+        " Elbrus 42": "elbrus 2000"
+    },
+    {
+        "                 Macro": "macro"
+    },
+    {
+        " languages transform one source code file into another. A macro is essentially a short piece of text that expands into a longer one , possibly with parameter substitution. They are often used to ": null
+    },
+    {
+        "preprocess": "preprocess"
+    },
+    {
+        " source code. Preprocessors can also supply facilities like ": null
+    },
+    {
+        "file inclusion": "include directive"
+    },
+    {
+        ".     Macro languages may be restricted to acting on specially labeled code regions . Alternatively, they may not, but in this case it is still often undesirable to expand a macro embedded in a ": null
+    },
+    {
+        "string literal": "string literal"
+    },
+    {
+        ", so they still need a rudimentary awareness of syntax. That being the case, they are often still applicable to more than one language. Contrast with source-embeddable languages like ": null
+    },
+    {
+        "PHP": "php"
+    },
+    {
+        ", which are fully featured.     ": null
+    },
+    {
+        "cpp": "c preprocessor"
+    },
+    {
+        "   m42": "m4"
+    },
+    {
+        "   ML/I": "ml/i"
+    },
+    {
+        "       Scripting language": "scripting language"
+    },
+    {
+        "s such as ": null
+    },
+    {
+        "Tcl": "tcl"
+    },
+    {
+        " and ": null
+    },
+    {
+        "ECMAScript": "ecmascript"
+    },
+    {
+        "  have been embedded into applications. These are sometimes called macro languages , although in a somewhat different sense to textual-substitution macros like ": null
+    },
+    {
+        "m42": "m4"
+    },
+    {
+        ".       ": null
+    },
+    {
+        "Metaprogramming": "metaprogramming"
+    },
+    {
+        " is the writing of programs that write or manipulate other programs as their data or that do part of the work that is otherwise done at ": null
+    },
+    {
+        "run time": "run time"
+    },
+    {
+        " during ": null
+    },
+    {
+        "compile time": "compile time"
+    },
+    {
+        ". In many cases, this allows programmers to get more done in the same amount of time as they would take to write all the code manually.      ": null
+    },
+    {
+        "C++": "c++"
+    },
+    {
+        " CWIC": "compiler compilercwic"
+    },
+    {
+        " Curl": "curl"
+    },
+    {
+        " D": "d"
+    },
+    {
+        " eC": "ec"
+    },
+    {
+        " Emacs Lisp": "emacs lisp"
+    },
+    {
+        " Elixir": "elixir"
+    },
+    {
+        " Forth": "forth"
+    },
+    {
+        " F": "f sharp"
+    },
+    {
+        " Groovy": "groovy"
+    },
+    {
+        " Haskell": "haskell"
+    },
+    {
+        " Julia": "julia"
+    },
+    {
+        " Lisp": "lisp"
+    },
+    {
+        " Lua": "lua"
+    },
+    {
+        " Maude system": "maude system"
+    },
+    {
+        " Mathematica": "mathematica"
+    },
+    {
+        " META I": "meta ii"
+    },
+    {
+        " META II": "meta ii"
+    },
+    {
+        " MetaOCaml": "metaocaml"
+    },
+    {
+        " Nemerle": "nemerle"
+    },
+    {
+        " Nim": "nim"
+    },
+    {
+        " Perl": "perl"
+    },
+    {
+        " Python": "python"
+    },
+    {
+        " Ruby": "ruby"
+    },
+    {
+        " Rust": "rust"
+    },
+    {
+        "    Scheme": "scheme"
+    },
+    {
+        " SequenceL": "sequencel"
+    },
+    {
+        " Smalltalk": "smalltalk"
+    },
+    {
+        " TREEMETA": "tree-meta"
+    },
+    {
+        " Wolfram Language": "wolfram language"
+    },
+    {
+        "             Multiparadigm language": "multi-paradigm programming language"
+    },
+    {
+        "s support more than one ": null
+    },
+    {
+        "programming paradigm": "programming paradigm"
+    },
+    {
+        ". They allow a ": null
+    },
+    {
+        "program": "computer program"
+    },
+    {
+        " to use more than one ": null
+    },
+    {
+        "programming": "computer program"
+    },
+    {
+        " style. The goal is to allow programmers to use the best tool for a job, admitting that no one paradigm solves all problems in the easiest or most efficient way.     ": null
+    },
+    {
+        "42C:Enterprise programming language": "1c:enterprise programming language"
+    },
+    {
+        "   Ada": "ada"
+    },
+    {
+        "    ALF": "algebraic logic functional"
+    },
+    {
+        "    Alma42": "alma-0"
+    },
+    {
+        "   APL": "apl"
+    },
+    {
+        "   BETA": "beta"
+    },
+    {
+        "   C++": "c++"
+    },
+    {
+        "   C": "c sharp"
+    },
+    {
+        "   Ceylon": "ceylon"
+    },
+    {
+        "   ChucK": "chuck"
+    },
+    {
+        "   Cobra": "cobra"
+    },
+    {
+        "   Common Lisp": "common lisp"
+    },
+    {
+        "    Curl": "curl"
+    },
+    {
+        "   Curry": "curry"
+    },
+    {
+        "   D": "d"
+    },
+    {
+        "   Delphi": "object pascal"
+    },
+    {
+        "   Dylan": "dylan"
+    },
+    {
+        "   eC": "ec"
+    },
+    {
+        "   ECMAScript": "ecmascript"
+    },
+    {
+        "   ActionScript": "actionscript"
+    },
+    {
+        " ECMAScript for XML": "ecmascript for xml"
+    },
+    {
+        " JavaScript": "javascript"
+    },
+    {
+        " JScript": "jscript"
+    },
+    {
+        " Eiffel": "eiffel"
+    },
+    {
+        "   F": "f sharp"
+    },
+    {
+        "   Fantom": "fantom"
+    },
+    {
+        "   Go": "go"
+    },
+    {
+        " ,   ": null
+    },
+    {
+        "Groovy": "groovy"
+    },
+    {
+        "   Harbour": "harbour"
+    },
+    {
+        " Hop": "hop"
+    },
+    {
+        " J": "j"
+    },
+    {
+        "   Julia": "julia"
+    },
+    {
+        "    LabVIEW": "labview"
+    },
+    {
+        "    Lava": "lava"
+    },
+    {
+        "   Lua": "lua"
+    },
+    {
+        "    Mercury": "mercury"
+    },
+    {
+        "   Metaobject protocols": "metaobject"
+    },
+    {
+        "   Nemerle": "nemerle"
+    },
+    {
+        "   Objective-C": "objective-c"
+    },
+    {
+        "   OCaml": "ocaml"
+    },
+    {
+        "   Oz": "oz"
+    },
+    {
+        " , and Mozart Programming System ": null
+    },
+    {
+        "cross-platform": "cross-platform"
+    },
+    {
+        " Oz   ": null
+    },
+    {
+        "Object Pascal": "object pascal"
+    },
+    {
+        "   Perl": "perl"
+    },
+    {
+        "   PHP": "php"
+    },
+    {
+        "   Pike": "pike"
+    },
+    {
+        " Prograph": "prograph"
+    },
+    {
+        "   Python": "python"
+    },
+    {
+        "   R": "r"
+    },
+    {
+        "   Racket": "racket"
+    },
+    {
+        "   REBOL": "rebol"
+    },
+    {
+        "   RED": "red"
+    },
+    {
+        "   ROOP": "roop"
+    },
+    {
+        "   Ruby": "ruby"
+    },
+    {
+        "   Rust": "rust"
+    },
+    {
+        "   Scala": "scala"
+    },
+    {
+        "   Seed42": "seed7"
+    },
+    {
+        "   SISAL": "sisal"
+    },
+    {
+        "   Spreadsheet": "spreadsheet"
+    },
+    {
+        "s   ": null
+    },
+    {
+        "Swift": "swift"
+    },
+    {
+        "   Tcl": "tcl"
+    },
+    {
+        "   Tea": "tea"
+    },
+    {
+        "   Windows PowerShell": "windows powershell"
+    },
+    {
+        "   Wolfram Language": "wolfram language"
+    },
+    {
+        "        AIMMS": "aimms"
+    },
+    {
+        " AMPL": "ampl"
+    },
+    {
+        " Analytica": "analytica"
+    },
+    {
+        " GAUSS": "gauss"
+    },
+    {
+        " GAMS": "general algebraic modeling system"
+    },
+    {
+        " Julia": "julia"
+    },
+    {
+        " Klerer-May System": "klerer-may system"
+    },
+    {
+        " Mathematica": "mathematica"
+    },
+    {
+        " MATLAB": "matlab"
+    },
+    {
+        " PROSE": "prose modeling language"
+    },
+    {
+        " R": "r"
+    },
+    {
+        " Seneca": "oberon"
+    },
+    {
+        " – an ": null
+    },
+    {
+        "Oberon": "oberon"
+    },
+    {
+        " variant   ": null
+    },
+    {
+        "Wolfram Language": "wolfram language"
+    },
+    {
+        "           Chinese BASIC": "chinese basic"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Chinese": "chinese language"
+    },
+    {
+        " Fjölnir": "fjölnir"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Icelandic": "icelandic language"
+    },
+    {
+        " Language Symbolique dEnseignement": "lse"
+    },
+    {
+        " – ": null
+    },
+    {
+        "French": "french language"
+    },
+    {
+        " Lexico": "lexico programming language"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Spanish": "spanish language"
+    },
+    {
+        " Rapira": "rapira"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Russian": "russian language"
+    },
+    {
+        " ezhil": "ezhil"
+    },
+    {
+        "-": null
+    },
+    {
+        "Tamil": "tamil language"
+    },
+    {
+        "       Class-based ": null
+    },
+    {
+        "Object-oriented programming language": "object-oriented programming language"
+    },
+    {
+        "s support objects defined by their class. Class definitions include member data. ": null
+    },
+    {
+        "Message passing": "message passing"
+    },
+    {
+        " is a key concept  in Object-oriented languages.     Polymorphic functions parameterized by the class of some of their arguments are typically called methods. In languages with ": null
+    },
+    {
+        "single dispatch": "single dispatch"
+    },
+    {
+        ", classes typically also include method definitions. In languages with ": null
+    },
+    {
+        "multiple dispatch": "multiple dispatch"
+    },
+    {
+        ", methods are defined by ": null
+    },
+    {
+        "generic function": "generic function"
+    },
+    {
+        "s. There are exceptions where ": null
+    },
+    {
+        "single dispatch": "single dispatch"
+    },
+    {
+        " methods are ": null
+    },
+    {
+        "generic function": "generic function"
+    },
+    {
+        "s .     ": null
+    },
+    {
+        "Multiple dispatch": "multiple dispatch"
+    },
+    {
+        "  Common Lisp": "common lisp"
+    },
+    {
+        " Cecil": "cecil"
+    },
+    {
+        " Dylan": "dylan"
+    },
+    {
+        " Julia": "julia"
+    },
+    {
+        "             ActionScript 42": "actionscript"
+    },
+    {
+        " Actor": "actor"
+    },
+    {
+        " Ada 42": "ada"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Ada 42": "ada"
+    },
+    {
+        "   APL": "apl"
+    },
+    {
+        " BETA": "beta"
+    },
+    {
+        " C++": "c++"
+    },
+    {
+        " C": "c sharp"
+    },
+    {
+        " Ceylon": "ceylon"
+    },
+    {
+        " Oxygene": "oxygene"
+    },
+    {
+        "   ChucK": "chuck"
+    },
+    {
+        " Cobra": "cobra"
+    },
+    {
+        " ColdFusion": "coldfusion"
+    },
+    {
+        " Curl": "curl"
+    },
+    {
+        " D": "d"
+    },
+    {
+        " DASL": "distributed application specification language"
+    },
+    {
+        " Delphi": "object pascal"
+    },
+    {
+        " E": "e"
+    },
+    {
+        " GNU E": "gnu e"
+    },
+    {
+        " eC": "ec"
+    },
+    {
+        " Eiffel": "eiffel"
+    },
+    {
+        " Sather": "sather"
+    },
+    {
+        " Ubercode": "ubercode"
+    },
+    {
+        " F-Script": "f-script"
+    },
+    {
+        " Fortran 42": "fortran 2003"
+    },
+    {
+        " Fortress": "fortress"
+    },
+    {
+        " Gambas": "gambas"
+    },
+    {
+        " Game Maker Language": "gamemaker: studio"
+    },
+    {
+        " Harbour": "harbour"
+    },
+    {
+        " J": "j"
+    },
+    {
+        " Java": "java"
+    },
+    {
+        " Processing": "processing"
+    },
+    {
+        " Groovy": "groovy"
+    },
+    {
+        " Join Java": "join java"
+    },
+    {
+        " Tea": "tea"
+    },
+    {
+        " X42": "x10"
+    },
+    {
+        " LabVIEW": "labview"
+    },
+    {
+        " Lava": "lava"
+    },
+    {
+        " Lua": "lua"
+    },
+    {
+        " Modula42": "modula-2"
+    },
+    {
+        "   Modula42": "modula-3"
+    },
+    {
+        "   Nemerle": "nemerle"
+    },
+    {
+        " IBM NetRexx": "ibm netrexx"
+    },
+    {
+        " Oberon42": "oberon-2"
+    },
+    {
+        "   Object Pascal": "object pascal"
+    },
+    {
+        " Object REXX": "object rexx"
+    },
+    {
+        " Objective-C": "objective-c"
+    },
+    {
+        "    OCaml": "ocaml"
+    },
+    {
+        " Oz, Mozart Programming System": "oz"
+    },
+    {
+        " Perl": "perl"
+    },
+    {
+        " 42   ": null
+    },
+    {
+        "PHP": "php"
+    },
+    {
+        " Pike": "pike"
+    },
+    {
+        " Prograph": "prograph"
+    },
+    {
+        " Python": "python"
+    },
+    {
+        "   Revolution": "revolution"
+    },
+    {
+        "   Ruby": "ruby"
+    },
+    {
+        " Scala": "scala"
+    },
+    {
+        " Speakeasy": "speakeasy"
+    },
+    {
+        " Simula": "simula"
+    },
+    {
+        "    Smalltalk": "smalltalk"
+    },
+    {
+        "    F-Script": "f-script"
+    },
+    {
+        " Little Smalltalk": "little smalltalk"
+    },
+    {
+        " Pharo": "pharo"
+    },
+    {
+        " Squeak": "squeak"
+    },
+    {
+        " Scratch": "scratch"
+    },
+    {
+        " IBM VisualAge": "ibm visualage"
+    },
+    {
+        " VisualWorks": "visualworks"
+    },
+    {
+        " SPIN": "parallax propeller"
+    },
+    {
+        " SuperCollider": "supercollider"
+    },
+    {
+        " VBScript": "vbscript"
+    },
+    {
+        "   Visual DataFlex": "visual dataflex"
+    },
+    {
+        " Visual FoxPro": "visual foxpro"
+    },
+    {
+        " Visual Prolog": "visual prolog"
+    },
+    {
+        " X++": "microsoft dynamics ax"
+    },
+    {
+        " Xojo": "xojo"
+    },
+    {
+        " XOTcl": "xotcl"
+    },
+    {
+        "          Prototype-based languages": "prototype-based programming"
+    },
+    {
+        " are object-oriented languages where the distinction between classes and instances has been removed:      ": null
+    },
+    {
+        "42C:Enterprise programming language": "1c:enterprise programming language"
+    },
+    {
+        " ABCL/42": "actor-based concurrent language"
+    },
+    {
+        " ABCL/R": "actor-based concurrent language"
+    },
+    {
+        " ABCL/R42": "actor-based concurrent language"
+    },
+    {
+        " ABCL/c plus": "actor-based concurrent language"
+    },
+    {
+        " Agora": "agora"
+    },
+    {
+        " Cecil": "cecil"
+    },
+    {
+        " ECMAScript": "ecmascript"
+    },
+    {
+        " ActionScript": "actionscript"
+    },
+    {
+        " ECMAScript for XML": "ecmascript for xml"
+    },
+    {
+        " JavaScript": "javascript"
+    },
+    {
+        "   JScript": "jscript"
+    },
+    {
+        " Etoys": "etoys"
+    },
+    {
+        " in ": null
+    },
+    {
+        "Squeak": "squeak"
+    },
+    {
+        " Io": "io"
+    },
+    {
+        " Lua": "lua"
+    },
+    {
+        " MOO": "moo"
+    },
+    {
+        " NewtonScript": "newtonscript"
+    },
+    {
+        " Obliq": "obliq"
+    },
+    {
+        " R": "r"
+    },
+    {
+        " REBOL": "rebol"
+    },
+    {
+        " RED": "red"
+    },
+    {
+        " Self": "self"
+    },
+    {
+        "    TADS": "tads"
+    },
+    {
+        "               Off-side rule": "off-side rule"
+    },
+    {
+        " languages denote blocks of code by their ": null
+    },
+    {
+        "indentation": "indentation style"
+    },
+    {
+        ".      ": null
+    },
+    {
+        "ISWIM": "iswim"
+    },
+    {
+        ", the abstract language that introduced the rule   ": null
+    },
+    {
+        "ABC": "abc"
+    },
+    {
+        ", Pythons parent   ": null
+    },
+    {
+        "Python": "python"
+    },
+    {
+        " Cobra": "cobra"
+    },
+    {
+        " Boo": "boo"
+    },
+    {
+        " Genie": "genie"
+    },
+    {
+        " Miranda": "miranda"
+    },
+    {
+        ", Haskells parent   ": null
+    },
+    {
+        "Orwell": "orwell"
+    },
+    {
+        " Haskell": "haskell"
+    },
+    {
+        " Curry": "curry"
+    },
+    {
+        " Elixir": "elixir"
+    },
+    {
+        "   F": "f sharp"
+    },
+    {
+        " Nim": "nim"
+    },
+    {
+        " Occam": "occam"
+    },
+    {
+        " SPIN": "parallax propeller"
+    },
+    {
+        "          Procedural programming": "procedural programming"
+    },
+    {
+        " languages are based on the concept of the unit and scope of an executable code statement. A procedural program is composed of one or more units or modules, either user coded or provided in a code library; each module is composed of one or more procedures, also called a function, routine, subroutine, or method, depending on the language. Examples of procedural languages include:      ": null
+    },
+    {
+        "Ada": "ada"
+    },
+    {
+        "   ALGOL": "algol"
+    },
+    {
+        "   SMALL Machine Algol Like Language": "small"
+    },
+    {
+        " Alma42": "alma-0"
+    },
+    {
+        " BASIC": "basic"
+    },
+    {
+        "   BCPL": "bcpl"
+    },
+    {
+        " BLISS": "bliss"
+    },
+    {
+        " C": "c"
+    },
+    {
+        " C++": "c++"
+    },
+    {
+        "   C": "c sharp"
+    },
+    {
+        "   Ceylon": "ceylon"
+    },
+    {
+        " CHILL": "chill"
+    },
+    {
+        " ChucK": "chuck"
+    },
+    {
+        "   COBOL": "cobol"
+    },
+    {
+        " Cobra": "cobra"
+    },
+    {
+        " ColdFusion": "coldfusion"
+    },
+    {
+        " Combined Programming Language": "combined programming language"
+    },
+    {
+        "   Curl": "curl"
+    },
+    {
+        " D": "d"
+    },
+    {
+        " DASL": "distributed application specification language"
+    },
+    {
+        "  eC": "ec"
+    },
+    {
+        " ECMAScript": "ecmascript"
+    },
+    {
+        " ActionScript": "actionscript"
+    },
+    {
+        " ECMAScript for XML": "ecmascript for xml"
+    },
+    {
+        " JavaScript": "javascript"
+    },
+    {
+        "   JScript": "jscript"
+    },
+    {
+        " Eiffel": "eiffel"
+    },
+    {
+        " Fortran": "fortran"
+    },
+    {
+        "   F": "f"
+    },
+    {
+        " GAUSS": "gauss"
+    },
+    {
+        " Go": "go"
+    },
+    {
+        " Harbour": "harbour"
+    },
+    {
+        " HyperTalk": "hypertalk"
+    },
+    {
+        " Java": "java"
+    },
+    {
+        " Groovy": "groovy"
+    },
+    {
+        " Join Java": "join java"
+    },
+    {
+        " Tea": "tea"
+    },
+    {
+        " JOVIAL": "jovial"
+    },
+    {
+        " Julia": "julia"
+    },
+    {
+        " Lasso": "lasso"
+    },
+    {
+        " Modula42": "modula-2"
+    },
+    {
+        "   Mathematica": "mathematica"
+    },
+    {
+        " MATLAB": "matlab"
+    },
+    {
+        " Mesa": "mesa"
+    },
+    {
+        " MUMPS": "mumps"
+    },
+    {
+        "   Nemerle": "nemerle"
+    },
+    {
+        " Nim": "nim"
+    },
+    {
+        " Oberon and Oberon42": "oberon"
+    },
+    {
+        "   Component Pascal": "component pascal"
+    },
+    {
+        " Seneca": "oberon-2"
+    },
+    {
+        " OCaml": "ocaml"
+    },
+    {
+        " Occam": "occam"
+    },
+    {
+        " Oriel": "oriel"
+    },
+    {
+        " Pascal": "pascal"
+    },
+    {
+        "   Free Pascal": "free pascal"
+    },
+    {
+        "   Object Pascal": "object pascal"
+    },
+    {
+        "   PCASTL": "pcastl"
+    },
+    {
+        " Perl": "perl"
+    },
+    {
+        " Pike": "pike"
+    },
+    {
+        " PL/C": "pl/c"
+    },
+    {
+        " PL/I": "pl/i"
+    },
+    {
+        "   Plus": "plus"
+    },
+    {
+        " PowerShell": "powershell"
+    },
+    {
+        " PROSE": "prose modeling language"
+    },
+    {
+        " Python": "python"
+    },
+    {
+        " R": "r"
+    },
+    {
+        " Rapira": "rapira"
+    },
+    {
+        " RPG": "ibm rpg"
+    },
+    {
+        "    Rust": "rust"
+    },
+    {
+        " S-Lang": "s-lang"
+    },
+    {
+        " VBScript": "vbscript"
+    },
+    {
+        " Visual Basic": "visual basic"
+    },
+    {
+        " Visual FoxPro": "visual foxpro"
+    },
+    {
+        " Wolfram Language": "wolfram language"
+    },
+    {
+        " X++": "microsoft dynamics ax"
+    },
+    {
+        "                 Reflective languages": "reflection"
+    },
+    {
+        " let programs examine and possibly modify their high level structure at runtime or compile-time. This is most common in high-level virtual machine programming languages like ": null
+    },
+    {
+        "Smalltalk": "smalltalk"
+    },
+    {
+        ", and less common in lower-level programming languages like ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        ". Languages and platforms supporting reflection:           ": null
+    },
+    {
+        "Befunge": "befunge"
+    },
+    {
+        " Ceylon": "ceylon"
+    },
+    {
+        " Charm": "charm"
+    },
+    {
+        " ChucK": "chuck"
+    },
+    {
+        " CLI": "list of cli languages"
+    },
+    {
+        " C": "c sharp"
+    },
+    {
+        " Cobra": "cobra"
+    },
+    {
+        " Component Pascal": "component pascal"
+    },
+    {
+        " BlackBox Component Builder": "blackbox component builder"
+    },
+    {
+        " Curl": "curl"
+    },
+    {
+        " Delphi": "object pascal"
+    },
+    {
+        " eC": "ec"
+    },
+    {
+        " ECMAScript": "ecmascript"
+    },
+    {
+        " ActionScript": "actionscript"
+    },
+    {
+        " ECMAScript for XML": "ecmascript for xml"
+    },
+    {
+        " JavaScript": "javascript"
+    },
+    {
+        " JScript": "jscript"
+    },
+    {
+        " Emacs Lisp": "emacs lisp"
+    },
+    {
+        " Eiffel": "eiffel"
+    },
+    {
+        " Forth": "forth"
+    },
+    {
+        " Harbour": "harbour"
+    },
+    {
+        " Julia": "julia"
+    },
+    {
+        " JVM": "list of jvm languages"
+    },
+    {
+        " Java": "java"
+    },
+    {
+        " Groovy": "groovy"
+    },
+    {
+        " Join Java": "join java"
+    },
+    {
+        " X42": "x10"
+    },
+    {
+        " Lisp": "lisp"
+    },
+    {
+        " Clojure": "clojure"
+    },
+    {
+        " Common Lisp": "common lisp"
+    },
+    {
+        " Dylan": "dylan"
+    },
+    {
+        " Logo": "logo"
+    },
+    {
+        " Scheme": "scheme"
+    },
+    {
+        " Lua": "lua"
+    },
+    {
+        " Maude system": "maude system"
+    },
+    {
+        " Oberon42": "oberon-2"
+    },
+    {
+        " – ETH Oberon System   ": null
+    },
+    {
+        "Objective-C": "objective-c"
+    },
+    {
+        " PCASTL": "pcastl"
+    },
+    {
+        " Perl": "perl"
+    },
+    {
+        " PHP": "php"
+    },
+    {
+        " Pico": "pico"
+    },
+    {
+        " Poplog": "poplog"
+    },
+    {
+        " POP42": "pop-11"
+    },
+    {
+        " PowerShell": "powershell"
+    },
+    {
+        " Prolog": "prolog"
+    },
+    {
+        " Python": "python"
+    },
+    {
+        " REBOL": "rebol"
+    },
+    {
+        " RED": "red"
+    },
+    {
+        " Ruby": "ruby"
+    },
+    {
+        " Smalltalk": "smalltalk"
+    },
+    {
+        "    F-Script": "f-script"
+    },
+    {
+        " Little Smalltalk": "little smalltalk"
+    },
+    {
+        " Self": "self"
+    },
+    {
+        " Squeak": "squeak"
+    },
+    {
+        " IBM VisualAge": "ibm visualage"
+    },
+    {
+        " VisualWorks": "visualworks"
+    },
+    {
+        " Snobol": "snobol"
+    },
+    {
+        " Tcl": "tcl"
+    },
+    {
+        " Wolfram Language": "wolfram language"
+    },
+    {
+        " XOTcl": "xotcl"
+    },
+    {
+        " X++": "microsoft dynamics ax"
+    },
+    {
+        " Xojo": "xojo"
+    },
+    {
+        "          Rule-based languages instantiate rules when activated by conditions in a set of data. Of all possible activations, some set is selected and the statements belonging to those rules execute. Rule-based languages include:      ": null
+    },
+    {
+        "awk": "awk"
+    },
+    {
+        " CLIPS": "clips"
+    },
+    {
+        " Constraint Handling Rules": "constraint handling rules"
+    },
+    {
+        " Drools": "drools"
+    },
+    {
+        " GOAL agent programming language": "goal agent programming language"
+    },
+    {
+        " Jess": "jess"
+    },
+    {
+        " OPS42": "ops5"
+    },
+    {
+        " Prolog": "prolog"
+    },
+    {
+        " ToonTalk": "toontalk"
+    },
+    {
+        " – robots are rules   ": null
+    },
+    {
+        "Mathematica": "mathematica"
+    },
+    {
+        "  Wolfram Language": "wolfram language"
+    },
+    {
+        "          Scripting language": "scripting language"
+    },
+    {
+        " has two apparently different, but in fact similar, meanings. In a traditional sense, scripting languages are designed to automate frequently used tasks that usually involve calling or passing commands to external programs. Many complex application programs provide built-in languages that let users automate tasks. Those that are ": null
+    },
+    {
+        "interpretive": "interpreter"
+    },
+    {
+        " are often called scripting languages.     Recently, many applications have built-in traditional scripting languages, such as ": null
+    },
+    {
+        "Perl": "perl"
+    },
+    {
+        " or ": null
+    },
+    {
+        "Visual Basic": "visual basic"
+    },
+    {
+        ", but there are quite a few native scripting languages still in use. Many scripting languages are compiled to bytecode and then this platform-independent bytecode is run through a virtual machine .      ": null
+    },
+    {
+        "AppleScript": "applescript"
+    },
+    {
+        " AutoHotKey": "autohotkey"
+    },
+    {
+        " AutoIt": "autoit"
+    },
+    {
+        " AWK": "awk"
+    },
+    {
+        " bc": "bc"
+    },
+    {
+        " BeanShell": "beanshell"
+    },
+    {
+        " Bash": "bash"
+    },
+    {
+        " Ch": "ch"
+    },
+    {
+        "   CLI": "list of cli languages"
+    },
+    {
+        " C": "c sharp"
+    },
+    {
+        "    CLIST": "clist"
+    },
+    {
+        " ColdFusion": "coldfusion"
+    },
+    {
+        " ECMAScript": "ecmascript"
+    },
+    {
+        " ActionScript": "actionscript"
+    },
+    {
+        " ECMAScript for XML": "ecmascript for xml"
+    },
+    {
+        " JavaScript": "javascript"
+    },
+    {
+        "   JScript": "jscript"
+    },
+    {
+        " Emacs Lisp": "emacs lisp"
+    },
+    {
+        " CMS EXEC": "cms exec"
+    },
+    {
+        " EXEC 42": "exec 2"
+    },
+    {
+        " F-Script": "f-script"
+    },
+    {
+        " Game Maker Language": "gamemaker: studio"
+    },
+    {
+        "   ICI": "ici"
+    },
+    {
+        " Io": "io"
+    },
+    {
+        " JASS": "jass"
+    },
+    {
+        " Julia": "julia"
+    },
+    {
+        "    JVM": "list of jvm languages"
+    },
+    {
+        " Groovy": "groovy"
+    },
+    {
+        " Join Java": "join java"
+    },
+    {
+        " Ksh": "kornshell"
+    },
+    {
+        " Lasso": "lasso"
+    },
+    {
+        " Lua": "lua"
+    },
+    {
+        " MAXScript": "maxscript"
+    },
+    {
+        " MEL": "maya embedded language"
+    },
+    {
+        " Next Generation Shell": "next generation shell"
+    },
+    {
+        " Object REXX": "object rexx"
+    },
+    {
+        "   Oriel": "oriel"
+    },
+    {
+        " Pascal Script": "pascal script"
+    },
+    {
+        " Perl": "perl"
+    },
+    {
+        " PHP": "php"
+    },
+    {
+        "   PowerShell": "powershell"
+    },
+    {
+        " Python": "python"
+    },
+    {
+        " R": "r"
+    },
+    {
+        " REBOL": "rebol"
+    },
+    {
+        " RED": "red"
+    },
+    {
+        " REXX": "rexx"
+    },
+    {
+        " Revolution": "revolution"
+    },
+    {
+        " Ruby": "ruby"
+    },
+    {
+        " Sh": "bourne shell"
+    },
+    {
+        " Smalltalk": "smalltalk"
+    },
+    {
+        " S-Lang": "s-lang"
+    },
+    {
+        " sed": "sed"
+    },
+    {
+        " Tea": "tea"
+    },
+    {
+        " Tcl": "tcl"
+    },
+    {
+        " TorqueScript": "torquescript"
+    },
+    {
+        " VBScript": "vbscript"
+    },
+    {
+        " WebDNA": "webdna"
+    },
+    {
+        ", dedicated to database-driven websites   ": null
+    },
+    {
+        "Windows PowerShell": "windows powershell"
+    },
+    {
+        "    Winbatch": "winbatch"
+    },
+    {
+        " Unix shell": "bourne shell"
+    },
+    {
+        " or ": null
+    },
+    {
+        "DCL": "digital command language"
+    },
+    {
+        " on VMS have powerful scripting abilities.               Stack-based languages are a type of ": null
+    },
+    {
+        "data-structured language": "data-structured language"
+    },
+    {
+        " that are based upon the ": null
+    },
+    {
+        "stack": "stack"
+    },
+    {
+        " data structure.      ": null
+    },
+    {
+        "Beatnik": "beatnik"
+    },
+    {
+        " colorForth": "colorforth"
+    },
+    {
+        " Factor": "factor"
+    },
+    {
+        " Forth": "forth"
+    },
+    {
+        " Joy": "joy"
+    },
+    {
+        "   Piet": "piet"
+    },
+    {
+        " Poplog": "poplog"
+    },
+    {
+        " via its implementation language ": null
+    },
+    {
+        "POP42": "pop-11"
+    },
+    {
+        " PostScript": "postscript"
+    },
+    {
+        " RPL": "rpl"
+    },
+    {
+        " S-Lang": "s-lang"
+    },
+    {
+        "               Synchronous programming language": "synchronous programming language"
+    },
+    {
+        "s are optimized for programming reactive systems, systems that are often interrupted and must respond quickly. Many such systems are also called ": null
+    },
+    {
+        "realtime systems": "real-time computing"
+    },
+    {
+        ", and are used often in ": null
+    },
+    {
+        "embedded system": "embedded system"
+    },
+    {
+        "s.     Examples:   ": null
+    },
+    {
+        "Argus": "argus"
+    },
+    {
+        " Averest": "averest"
+    },
+    {
+        " Esterel": "esterel"
+    },
+    {
+        " Lustre": "lustre"
+    },
+    {
+        " Signal": "signal"
+    },
+    {
+        "            A ": null
+    },
+    {
+        "shading language": "shading language"
+    },
+    {
+        " is a graphics programming language adapted to programming shader effects. Such language forms usually consist of special data types, like color and normal . Due to the variety of target markets for 42D computer graphics.       They provide both higher hardware abstraction and a more flexible programming model than previous paradigms which hardcoded transformation and shading equations. This gives the programmer greater control over the rendering process and delivers richer content at lower overhead.       ": null
+    },
+    {
+        "ARB assembly language": "arb assembly language"
+    },
+    {
+        " also known as ARB assembly   ": null
+    },
+    {
+        "OpenGL Shading Language": "opengl shading language"
+    },
+    {
+        " also known as GLSL or glslang   DirectX Shader Assembly Language   ": null
+    },
+    {
+        "DirectX High-Level Shading Language": "high-level shading language"
+    },
+    {
+        " also known as HLSL or High-Level Shader Language   ": null
+    },
+    {
+        "PlayStation Shader Language": "playstation shader language"
+    },
+    {
+        " also known as PSSL   ": null
+    },
+    {
+        "Metal Shading Language": "metal"
+    },
+    {
+        " Cg programming language": "cg programming language"
+    },
+    {
+        " also known as Cg   Shining Rock Shading Language also known as SRSL    Spark    Nitrous Shading Language    Godot Shading Language           Shading languages used in offline rendering produce maximum image quality. Processing such shaders is time-consuming. The computational power required can be expensive because of their ability to produce photorealistic results.    ": null
+    },
+    {
+        "RenderMan Shading Language": "renderman shading language"
+    },
+    {
+        " also known as RSL   Houdini VEX Shading Language also known as VEX   ": null
+    },
+    {
+        "Gelatos Shading Language": "gelato"
+    },
+    {
+        " Open Shading Language": "open shading language"
+    },
+    {
+        " also known as OSL          These languages assist with generating ": null
+    },
+    {
+        "lexical analyzers": "lexical analysis"
+    },
+    {
+        " and ": null
+    },
+    {
+        "parsers": "parsing"
+    },
+    {
+        " for ": null
+    },
+    {
+        "Context-free grammar": "context-free grammar"
+    },
+    {
+        "s.     ": null
+    },
+    {
+        "ANTLR": "antlr"
+    },
+    {
+        " Coco/R": "coco/r"
+    },
+    {
+        "   GNU bison": "gnu bison"
+    },
+    {
+        "   GNU ": null
+    },
+    {
+        "Flex": "flex lexical analyser"
+    },
+    {
+        "   glex/gyacc   ": null
+    },
+    {
+        "lex": "lex"
+    },
+    {
+        "   M42": "m4"
+    },
+    {
+        " PEG": "parsing expression grammar"
+    },
+    {
+        "   Prolog": "prolog"
+    },
+    {
+        " Emacs Lisp": "emacs lisp"
+    },
+    {
+        " Lisp": "lisp"
+    },
+    {
+        " Scheme": "scheme"
+    },
+    {
+        " yacc": "yacc"
+    },
+    {
+        "   JavaCC": "javacc"
+    },
+    {
+        "       The system programming languages are for low level tasks like memory management or task management. A system programming language usually refers to a programming language used for system programming; such languages are designed for writing system software, which usually requires different development approaches when compared with application software.     System software is computer software designed to operate and control the computer hardware, and to provide a platform for running application software. System software includes software categories such as operating systems, utility software, device drivers, compilers, and linkers. Examples of system languages include:                        ": null
+    },
+    {
+        "Visual programming language": "visual programming language"
+    },
+    {
+        "s let users specify programs in a two--dimensional way, instead of as one-dimensional text strings, via graphic layouts of various types. Some ": null
+    },
+    {
+        "dataflow programming": "dataflow programming"
+    },
+    {
+        " languages are also visual languages.      ": null
+    },
+    {
+        "Analytica": "analytica"
+    },
+    {
+        " Blockly": "blockly"
+    },
+    {
+        " DRAKON": "drakon"
+    },
+    {
+        " Fabrik": "fabrik"
+    },
+    {
+        " LabVIEW": "labview"
+    },
+    {
+        "ogramming langua": "ogramming langua"
+    },
+    {
+        "  ftwa": "ftwa"
+    },
+    {
+        "  ogramming langua": "ogramming langua"
+    },
+    {
+        "    ogramming langua": "ogramming langua"
+    },
+    {
+        "written in and based on ": null
+    },
+    {
+        "Squeak": "squeak"
+    },
+    {
+        ", a version of ": null
+    },
+    {
+        "Smalltalk": "smalltalk"
+    },
+    {
+        "ogramming langua": "ogramming langua"
+    },
+    {
+        "   ogramming langua": "ogramming langua"
+    },
+    {
+        "     ogramming langua": "ogramming langua"
+    },
+    {
+        "   ogramming langua": "ogramming langua"
+    },
+    {
+        "  and ": null
+    },
+    {
+        "Modula42": "modula-3"
+    },
+    {
+        ", etc. variants": null
+    },
+    {
+        "ogramming langua": "ogramming langua"
+    },
+    {
+        "Oberon, Oberon42 and Oberon42 ": null
+    },
+    {
+        "ogramming langua": "ogramming langua"
+    },
+    {
+        " ogramming langua": "ogramming langua"
+    },
+    {
+        "  umbrella name for ": null
+    },
+    {
+        "Delphi": "embarcadero delphi"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Free Pascal": "free pascal"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Oxygene": "oxygene"
+    },
+    {
+        " and others          ": null
+    }
+]

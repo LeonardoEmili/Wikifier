@@ -1,0 +1,365 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a square matrix is a ": null
+    },
+    {
+        "matrix": "matrix"
+    },
+    {
+        " with the same number of rows and columns. An n-by-n matrix is known as a square matrix of order n . Any two square matrices of the same order can be added and multiplied.     Square matrices are often used to represent simple ": null
+    },
+    {
+        "linear transformation": "linear transformation"
+    },
+    {
+        "s, such as ": null
+    },
+    {
+        "shearing": "shear mapping"
+    },
+    {
+        " or ": null
+    },
+    {
+        "rotation": "rotation"
+    },
+    {
+        ". For example, if R is a square matrix representing a rotation  and v is a ": null
+    },
+    {
+        "column vector": "column vector"
+    },
+    {
+        " describing the ": null
+    },
+    {
+        "position": "position"
+    },
+    {
+        " of a point in space, the product Rv yields another column vector describing the position of that point after that rotation. If v is a ": null
+    },
+    {
+        "row vector": "row vector"
+    },
+    {
+        ", the same transformation can be obtained using vR^ , where R^ is the ": null
+    },
+    {
+        "transpose": "transpose"
+    },
+    {
+        " of R .          The entries a_  form the ": null
+    },
+    {
+        "main diagonal": "main diagonal"
+    },
+    {
+        " of a square matrix. They lie on the imaginary line which runs from the top left corner to the bottom right corner of the matrix. For instance, the main diagonal of the 42-by42 matrix above contains the elements a 42    42 a 42    42 a 42    42 a 42    42     The diagonal of a square matrix from the top right to the bottom left corner is called antidiagonal or counterdiagonal.       :     If all entries outside the main diagonal are zero, A is called a ": null
+    },
+    {
+        "diagonal matrix": "diagonal matrix"
+    },
+    {
+        ". If only all entries above the main diagonal are zero, A is called a lower ": null
+    },
+    {
+        "triangular matrix": "triangular matrix"
+    },
+    {
+        ".       The ": null
+    },
+    {
+        "identity matrix": "identity matrix"
+    },
+    {
+        " I_n of size n is the n \\times n matrix in which all the elements on the ": null
+    },
+    {
+        "main diagonal": "main diagonal"
+    },
+    {
+        " are equal to 42 and all other elements are equal to 42 e.g.   :   I_42 \\begin 42 \\end   ,\\   I_42 \\begin   42 & 42 \\\\   42 & 42   \\end   ,\\ \\cdots ,\\   I_n \\begin   42 & 42 & \\cdots & 42 \\\\   42 & 42 & \\cdots & 42 \\\\   \\vdots & \\vdots & \\ddots & \\vdots \\\\   42 & 42 & \\cdots & 42   \\end.     It is a square matrix of order n , and also a special kind of ": null
+    },
+    {
+        "diagonal matrix": "diagonal matrix"
+    },
+    {
+        ". It is called identity matrix because multiplication with it leaves a matrix unchanged:   :AI n I m A A for any m-by-n matrix A .       A square matrix A that is equal to its transpose, i.e., AA^ , is a ": null
+    },
+    {
+        "symmetric matrix": "symmetric matrix"
+    },
+    {
+        ". If instead, A was equal to the negative of its transpose, i.e., A −A T , then A is a ": null
+    },
+    {
+        "skew-symmetric matrix": "skew-symmetric matrix"
+    },
+    {
+        ". In ": null
+    },
+    {
+        "complex matrices": "complex matrices"
+    },
+    {
+        ", symmetry is often replaced by the concept of ": null
+    },
+    {
+        "Hermitian matrices": "hermitian matrix"
+    },
+    {
+        ", which satisfy A^A , where A^ denotes the ": null
+    },
+    {
+        "conjugate transpose": "conjugate transpose"
+    },
+    {
+        " of the matrix, i.e., the transpose of the ": null
+    },
+    {
+        "complex conjugate": "complex conjugate"
+    },
+    {
+        " of A .     By the ": null
+    },
+    {
+        "spectral theorem": "spectral theorem"
+    },
+    {
+        ", real symmetric matrices have an orthogonal ": null
+    },
+    {
+        "eigenbasis": "eigenbasis"
+    },
+    {
+        "; i.e., every vector is expressible as a ": null
+    },
+    {
+        "linear combination": "linear combination"
+    },
+    {
+        " of eigenvectors. In both cases, all eigenvalues are real.  This theorem can be generalized to infinite-dimensional situations related to matrices with infinitely many rows and columns, see ": null
+    },
+    {
+        "below": "infinite matrices"
+    },
+    {
+        ".       A square matrix A is called  invertible  or non-singular if there exists a matrix B such that   : ABBAI_n .     If B exists, it is unique and is called the  inverse matrix  of A , denoted A^ .       A square matrix A is called  normal  if A^A AA^ , i.e. if it commutes with its transpose.          A symmetric n×n-matrix is called positive-definite  , if for all nonzero vectors x \\in \\mathbb^n the associated ": null
+    },
+    {
+        "quadratic form": "quadratic form"
+    },
+    {
+        " given by   : Q x T Ax   takes only positive values .  If the quadratic form takes only non-negative values, the symmetric matrix is called positive-semidefinite ; hence the matrix is indefinite precisely when it is neither positive-semidefinite nor negative-semidefinite.     A symmetric matrix is positive-definite if and only if all its eigenvalues are positive.  The table at the right shows two possibilities for 42-by42 matrices.     Allowing as input two different vectors instead yields the ": null
+    },
+    {
+        "bilinear form": "bilinear form"
+    },
+    {
+        " associated to A:   :B A  x T Ay.        An orthogonal matrix is a ": null
+    },
+    {
+        "square matrix": "matrix square matrices"
+    },
+    {
+        " with ": null
+    },
+    {
+        "real": "real number"
+    },
+    {
+        " entries whose columns and rows are ": null
+    },
+    {
+        "orthogonal": "orthogonal"
+    },
+    {
+        " unit vector": "unit vector"
+    },
+    {
+        "s . Equivalently, a matrix A is orthogonal if its ": null
+    },
+    {
+        "transpose": "transpose"
+    },
+    {
+        " is equal to its ": null
+    },
+    {
+        "inverse": "inverse matrix"
+    },
+    {
+        ":   : A^\\mathrmA^, \\,   which entails   : A^\\mathrm A A A^\\mathrm I, \\,   where I is the ": null
+    },
+    {
+        "identity matrix": "identity matrix"
+    },
+    {
+        ".     An orthogonal matrix A is necessarily ": null
+    },
+    {
+        "invertible": "invertible matrix"
+    },
+    {
+        " , ": null
+    },
+    {
+        "unitary": "unitary matrix"
+    },
+    {
+        " , and ": null
+    },
+    {
+        "normal": "normal matrix"
+    },
+    {
+        " . The ": null
+    },
+    {
+        "determinant": "determinant"
+    },
+    {
+        " of any orthogonal matrix is either 42 or −42 A special orthogonal matrix is an orthogonal matrix with ": null
+    },
+    {
+        "determinant": "determinant"
+    },
+    {
+        " 42 As a ": null
+    },
+    {
+        "linear transformation": "linear transformation"
+    },
+    {
+        ", every orthogonal matrix with determinant 42 is a pure ": null
+    },
+    {
+        "rotation": "rotation"
+    },
+    {
+        ", while every orthogonal matrix with determinant  −42 is either a pure ": null
+    },
+    {
+        "reflection": "reflection"
+    },
+    {
+        ", or a composition of reflection and rotation.     The ": null
+    },
+    {
+        "complex": "complex number"
+    },
+    {
+        " analogue of an orthogonal matrix is a ": null
+    },
+    {
+        "unitary matrix": "unitary matrix"
+    },
+    {
+        ".         The ": null
+    },
+    {
+        "trace": "trace of a matrix"
+    },
+    {
+        ", tr of a square matrix A is the sum of its diagonal entries. While matrix multiplication is not commutative, the trace of the product of two matrices is independent of the order of the factors:   : \\operatorname \\operatorname   This is immediate from the definition of matrix multiplication:   : \\operatorname \\sum_^m \\sum_^n A_ B_ \\operatorname.   Also, the trace of a matrix is equal to that of its transpose, i.e.,   : \\operatorname \\operatorname .               The determinant \\det or |A| of a square matrix A is a number encoding certain properties of the matrix. A matrix is invertible ": null
+    },
+    {
+        "if and only if": "if and only if"
+    },
+    {
+        " its determinant is nonzero. Its ": null
+    },
+    {
+        "absolute value": "absolute value"
+    },
+    {
+        " equals the area or volume of the image of the unit square , while its sign corresponds to the orientation of the corresponding linear map: the determinant is positive if and only if the orientation is preserved.     The determinant of 42-by42 matrices is given by   : \\det \\begina & b\\\\c & d\\end ad-bc.   The determinant of 42-by42 matrices involves 42 terms . The more lengthy ": null
+    },
+    {
+        "Leibniz formula": "leibniz formula for determinants"
+    },
+    {
+        " generalises these two formulae to all dimensions.      The determinant of a product of square matrices equals the product of their determinants:    : \\det \\det \\cdot \\det   Adding a multiple of any row to another row, or a multiple of any column to another column, does not change the determinant. Interchanging two rows or two columns affects the determinant by multiplying it by −42  Using these operations, any matrix can be transformed to a lower triangular matrix, and for such matrices the determinant equals the product of the entries on the main diagonal; this provides a method to calculate the determinant of any matrix. Finally, the ": null
+    },
+    {
+        "Laplace expansion": "laplace expansion"
+    },
+    {
+        " expresses the determinant in terms of ": null
+    },
+    {
+        "minors": "minor"
+    },
+    {
+        ", i.e., determinants of smaller matrices.  This expansion can be used for a recursive definition of determinants , that can be seen to be equivalent to the Leibniz formula. Determinants can be used to solve ": null
+    },
+    {
+        "linear system": "linear system"
+    },
+    {
+        "s using ": null
+    },
+    {
+        "Cramers rule": "cramers rule"
+    },
+    {
+        ", where the division of the determinants of two related square matrices equates to the value of each of the systems variables.           A number λ and a non-zero vector \\mathbf satisfying   : A \\mathbf \\lambda \\mathbf   are called an eigenvalue and an eigenvector of A , respectively. Eigen means own in ": null
+    },
+    {
+        "German": "german language"
+    },
+    {
+        " and in ": null
+    },
+    {
+        "Dutch": "dutch language"
+    },
+    {
+        ".  The number λ is an eigenvalue of an n×n-matrix A if and only if A−λI n is not invertible, which is ": null
+    },
+    {
+        "equivalent": "logical equivalence"
+    },
+    {
+        " to   : \\det 42    The polynomial p A in an ": null
+    },
+    {
+        "indeterminate": "indeterminate"
+    },
+    {
+        " X given by evaluation the determinant det is called the ": null
+    },
+    {
+        "characteristic polynomial": "characteristic polynomial"
+    },
+    {
+        " of A. It is a ": null
+    },
+    {
+        "monic polynomial": "monic polynomial"
+    },
+    {
+        " of ": null
+    },
+    {
+        "degree": "degree of a polynomial"
+    },
+    {
+        " n. Therefore the polynomial equation p A    42 has at most n different solutions, i.e., eigenvalues of the matrix.  They may be complex even if the entries of A are real. According to the ": null
+    },
+    {
+        "Cayley–Hamilton theorem": "cayley–hamilton theorem"
+    },
+    {
+        ", p A  42, that is, the result of substituting the matrix itself into its own characteristic polynomial yields the ": null
+    },
+    {
+        "zero matrix": "zero matrix"
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "        What the Tortoise Said to Achilles , written by ": null
+    },
+    {
+        "Lewis Carroll": "lewis carroll"
+    },
+    {
+        " in 42 for the philosophical journal  Mind , is a brief allegorical dialogue on the foundations of ": null
+    },
+    {
+        "logic": "logic"
+    },
+    {
+        ". The title ": null
+    },
+    {
+        "alludes": "allusion"
+    },
+    {
+        " to one of ": null
+    },
+    {
+        "Zenos paradoxes of motion": "zenos paradoxes"
+    },
+    {
+        ", in which Achilles could never overtake the tortoise in a race. In Carrolls dialogue, the tortoise challenges Achilles to use the force of logic to make him accept the conclusion of a simple deductive argument. Ultimately, Achilles fails, because the clever tortoise leads him into an ": null
+    },
+    {
+        "infinite regression": "infinite regression"
+    },
+    {
+        ".       The discussion begins by considering the following logical argument:   A: Things that are equal to the same are equal to each other    B: The two sides of this triangle are things that are equal to the same   Therefore, Z: The two sides of this triangle are equal to each other     The Tortoise asks Achilles whether the conclusion logically follows from the premises, and Achilles grants that it obviously does. The Tortoise then asks Achilles whether there might be a reader of ": null
+    },
+    {
+        "Euclid": "euclid"
+    },
+    {
+        " who grants that the argument is logically valid, as a sequence, while denying that A and B are true. Achilles accepts that such a reader might exist, and that he would hold that if A and B are true, then Z must be true, while not yet accepting that A and B are true .     The Tortoise then asks Achilles whether a second kind of reader might exist, who accepts that A and B are true, but who does not yet accept the principle that if A and B are both true, then Z must be true. Achilles grants the Tortoise that this second kind of reader might also exist. The Tortoise, then, asks Achilles to treat the Tortoise as a reader of this second kind. Achilles must now logically compel the Tortoise to accept that Z must be true.      After writing down A, B, and Z in his notebook, Achilles asks the Tortoise to accept the hypothetical:   C: If A and B are true, Z must be true     The Tortoise agrees to accept C, if Achilles will write down what it has to accept in his notebook, making the new argument:   A: Things that are equal to the same are equal to each other   B: The two sides of this triangle are things that are equal to the same   C: If A and B are true, Z must be true   Therefore, Z: The two sides of this triangle are equal to each other     But now that the Tortoise accepts premise C, it still refuses to accept the expanded argument. When Achilles demands that If you accept A and B and C, you must accept Z, the Tortoise remarks that thats another hypothetical proposition, and suggests even if it accepts C, it could still fail to conclude Z if it did not see the truth of:   D: If A and B and C are true, Z must be true     The Tortoise continues to accept each hypothetical premise once Achilles writes it down, but denies that the conclusion necessarily follows, since each time it denies the hypothetical that if all the premises written down so far are true, Z must be true:        Thus, the list of premises continues to grow without end, leaving the argument always in the form:   : Things that are equal to the same are equal to each other   : The two sides of this triangle are things that are equal to the same   : and ⇒   : and and ⇒   ...   : and and and and ... and  ⇒    Therefore, : The two sides of this triangle are equal to each other     At each step, the Tortoise argues that even though he accepts all the premises that have been written down, there is some further premise  that it still needs to accept before it is compelled to accept that  is true.       Lewis Carroll was showing that there is a regressive problem that arises from  modus ponens  deductions.   : \\frac   Or, in words: proposition P implies Q , and given P, therefore Q.     The regress problem arises because a prior principle is required to explain logical principles, here modus ponens, and once that principle is explained, another principle is required to explain that principle. Thus, if the causal chain is to continue, the argument falls into infinite regress. However, if a formal system is introduced where modus ponens is simply a ": null
+    },
+    {
+        "rule of inference": "rule of inference"
+    },
+    {
+        " defined within the system, then it can be abided by simply by reasoning within the system. In analogy, chess is played according to a particular set of rules, and when a person plays chess, he cannot question or beg to differ from the given rules, but must instead abide by them because they form the very framework of the game. That is not to say that the chess player agrees with these rules . Likewise, a formal system of logic consists of inference rules that are to be followed by the user of the system, and when a person reasons according to this formal system, he cannot question or differ from these inference rules, but must instead abide by them because they form the very constituents of the system. That is not to say that the user reasoning according to this formal system agrees with these rules . In this way, formalising logic as a system can be considered as a response to the problem of infinite regress: modus ponens is placed as a rule within the system, the validity of modus ponens is eschewed to without the system.     In propositional logic the logical implication is defined as follows:     P implies Q if and only if the proposition not P or Q is a ": null
+    },
+    {
+        "tautology": "tautology"
+    },
+    {
+        ".     Hence de modo ponente, ⇒ Q, is a valid logical conclusion according to the definition of logical implication just stated. Demonstrating the logical implication simply translates into verifying that the compound truth table produces a tautology. But the tortoise does not accept on faith the rules of propositional logic that this explanation is founded upon. He asks that these rules, too, be subject to logical proof. The Tortoise and Achilles do not agree on any definition of logical implication.     In addition, the story hints at problems with the propositional solution. Within the system of propositional logic, no proposition or variable carries any semantic content. The moment any proposition or variable takes on semantic content, the problem arises again because semantic content runs outside the system. Thus, if the solution is to be said to work, then it is to be said to work solely within the given formal system, and not otherwise.     Some logicians draw a firm distinction between the ": null
+    },
+    {
+        "conditional connective": "material conditional"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "implication relation": "logical consequence"
+    },
+    {
+        ". These logicians use the phrase not p or q for the conditional connective and the term implies for an asserted implication relation.       Several philosophers have tried to resolve Carrolls paradox. ": null
+    },
+    {
+        "Bertrand Russell": "bertrand russell"
+    },
+    {
+        " discussed the paradox briefly in  , distinguishing between implication , which he held to be a relation between unasserted propositions, and inference , which he held to be a relation between asserted propositions; having made this distinction, Russell could deny that the Tortoises attempt to treat inferring Z from A and B as equivalent to, or dependent on, agreeing to the hypothetical If A and B are true, then Z is true.     The ": null
+    },
+    {
+        "Wittgensteinian": "ludwig wittgenstein"
+    },
+    {
+        " philosopher ": null
+    },
+    {
+        "Peter Winch": "peter winch"
+    },
+    {
+        " discussed the paradox in The Idea of a Social Science and its Relation to Philosophy , where he argued that the paradox showed that the actual process of drawing an inference, which is after all at the heart of logic, is something which cannot be represented as a logical formula ... Learning to infer is not just a matter of being taught about explicit logical relations between propositions; it is learning to do something . Winch goes on to suggest that the moral of the dialogue is a particular case of a general lesson, to the effect that the proper application of rules governing a form of human activity cannot itself be summed up with a set of further rules, and so that a form of human activity can never be summed up in a set of explicit precepts .     Carrolls dialogue is apparently the first description of an obstacle to ": null
+    },
+    {
+        "conventionalism": "conventionalism"
+    },
+    {
+        " about logical truth,  later reworked in more sober philosophical terms by ": null
+    },
+    {
+        "W.V.O. Quine": "willard van orman quine"
+    },
+    {
+        ". ": null
+    }
+]

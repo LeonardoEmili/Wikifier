@@ -1,0 +1,254 @@
+[
+    {
+        "        In ": null
+    },
+    {
+        "internationalization": "internationalization and localization"
+    },
+    {
+        ", CJK is a collective term for the ": null
+    },
+    {
+        "Chinese": "chinese language"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Japanese": "japanese language"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Korean": "korean language"
+    },
+    {
+        " languages, all of which include ": null
+    },
+    {
+        "Chinese characters": "chinese characters"
+    },
+    {
+        " and derivatives  in their writing systems, sometimes paired with other scripts. Occasionally, ": null
+    },
+    {
+        "Vietnamese": "vietnamese language"
+    },
+    {
+        " is included, making the abbreviation CJKV, since Vietnamese historically used Chinese characters as well. Collectively, the CJKV characters often include  hànzì  in ": null
+    },
+    {
+        "Chinese": "written chinese"
+    },
+    {
+        ",  kanji ,  kana  in ": null
+    },
+    {
+        "Japanese": "japanese writing system"
+    },
+    {
+        ",  hanja ,  hangul  in ": null
+    },
+    {
+        "Korean": "korean languagewriting system"
+    },
+    {
+        ", and  hán tự  or  chữ nôm  in ": null
+    },
+    {
+        "Vietnamese": "vietnamese languagewriting system"
+    },
+    {
+        ".       Standard Mandarin Chinese and Standard Cantonese are written almost exclusively in Chinese characters. It requires over 42 characters for general ": null
+    },
+    {
+        "literacy": "literacy"
+    },
+    {
+        ", but up to 42 characters for reasonably complete coverage. Japanese uses fewer characters—general literacy in Japanese can be expected with 42 characters. The use of Chinese characters in Korea is becoming increasingly rare, although idiosyncratic use of Chinese characters in proper names requires knowledge of many more characters. However, even today, students in South Korea are taught 42 characters.     Other scripts used for these languages, such as ": null
+    },
+    {
+        "bopomofo": "bopomofo"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Latin": "latin script"
+    },
+    {
+        "-based ": null
+    },
+    {
+        "pinyin": "pinyin"
+    },
+    {
+        " for Chinese, ": null
+    },
+    {
+        "hiragana": "hiragana"
+    },
+    {
+        " and ": null
+    },
+    {
+        "katakana": "katakana"
+    },
+    {
+        " for Japanese, and ": null
+    },
+    {
+        "hangul": "hangul"
+    },
+    {
+        " for Korean, are not strictly CJK characters , although CJK character sets almost invariably include them as necessary for full coverage of the target languages.     Until the early 42th century, ": null
+    },
+    {
+        "Classical Chinese": "classical chinese"
+    },
+    {
+        " was the written language of government and scholarship in Vietnam. Popular literature in ": null
+    },
+    {
+        "Vietnamese": "vietnamese language"
+    },
+    {
+        " was written in the  chữ Nôm  script, consisting of borrowed Chinese characters together with many characters created locally. By the end of the 42s, both scripts had been replaced by writing in Vietnamese using the Latin-based ": null
+    },
+    {
+        "Vietnamese alphabet": "vietnamese alphabet"
+    },
+    {
+        ".     The ": null
+    },
+    {
+        "sinologist": "sinology"
+    },
+    {
+        " Carl Leban produced an early survey of CJK encoding systems.       The number of characters required for complete coverage of all these languages needs cannot fit in the 42-character code space of 42-bit ": null
+    },
+    {
+        "character encoding": "character encoding"
+    },
+    {
+        "s, requiring at least a 42-bit fixed width encoding or multi-byte variable-length encodings. The 42-bit fixed width encodings, such as those from ": null
+    },
+    {
+        "Unicode": "unicode"
+    },
+    {
+        " up to and including version 42, are now deprecated due to the requirement to encode more characters than a 42-bit encoding can accommodate—Unicode 42 has some 42 Han characters—and the requirement by the Chinese government that software in China support the ": null
+    },
+    {
+        "GB 42": "gb 18030"
+    },
+    {
+        " character set.     Although CJK encodings have common character sets, the encodings often used to represent them have been developed separately by different East Asian governments and software companies, and are mutually incompatible. ": null
+    },
+    {
+        "Unicode": "unicode"
+    },
+    {
+        " has attempted, with some controversy, to unify the character sets in a process known as ": null
+    },
+    {
+        "Han unification": "han unification"
+    },
+    {
+        ".     CJK character encodings should consist minimally of Han characters plus language-specific phonetic scripts such as ": null
+    },
+    {
+        "pinyin": "pinyin"
+    },
+    {
+        ", ": null
+    },
+    {
+        "bopomofo": "bopomofo"
+    },
+    {
+        ", hiragana, katakana and hangul.     CJK character encodings include:    ": null
+    },
+    {
+        "Big42": "big5"
+    },
+    {
+        "   CCCII": "chinese character code for information interchange"
+    },
+    {
+        " CNS 42": "cns 11643"
+    },
+    {
+        "    EUC-JP": "euc-jp"
+    },
+    {
+        " EUC-KR": "euc-kr"
+    },
+    {
+        " GB42": "gb2312"
+    },
+    {
+        "   GB42": "gb18030"
+    },
+    {
+        "    Giga Character Set   ": null
+    },
+    {
+        "ISO 42-JP": "iso 2022"
+    },
+    {
+        " Shift-JIS": "shift-jis"
+    },
+    {
+        " TRON": "tron"
+    },
+    {
+        " Unicode": "unicode"
+    },
+    {
+        "        The CJK character sets take up the bulk of the assigned ": null
+    },
+    {
+        "Unicode": "unicode"
+    },
+    {
+        " code space. There is much controversy among Japanese experts of Chinese characters about the desirability and technical merit of the ": null
+    },
+    {
+        "Han unification": "han unification"
+    },
+    {
+        " process used to map multiple Chinese and Japanese character sets into a single set of unified characters.     All three languages can be written both ": null
+    },
+    {
+        "left-to-right and top-to-bottom": "horizontal and vertical writing in east asian scripts"
+    },
+    {
+        " , but are usually considered left-to-right scripts when discussing encoding issues.       Libraries cooperated on encoding standards for ": null
+    },
+    {
+        "JACKPHY": "jackphy"
+    },
+    {
+        " characters in the early 42s. According to ": null
+    },
+    {
+        "Ken Lunde": "ken lunde"
+    },
+    {
+        ", the abbreviation CJK was a registered ": null
+    },
+    {
+        "trademark": "trademark"
+    },
+    {
+        " of ": null
+    },
+    {
+        "Research Libraries Group": "research libraries group"
+    },
+    {
+        "  . The trademark owned by OCLC between 42 and 42 has now expired. ": null
+    }
+]

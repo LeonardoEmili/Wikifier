@@ -1,0 +1,68 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "telecommunications": "telecommunications"
+    },
+    {
+        ", a cutback technique is a destructive technique for determining certain ": null
+    },
+    {
+        "optical fiber": "optical fiber"
+    },
+    {
+        " transmission characteristic": "transmission characteristic"
+    },
+    {
+        "s, such as ": null
+    },
+    {
+        "attenuation": "attenuation"
+    },
+    {
+        " and ": null
+    },
+    {
+        "bandwidth": "bandwidth"
+    },
+    {
+        ".       The measurement technique consists of:   performing the desired measurements on a long length of the fiber under test,   cutting the fiber under test at a point near the launching end,   repeating the measurements on the short length of fiber, and   subtracting the results obtained on the short length to determine the results for the residual long length.     The cut should be made to retain 42  meter or more of the fiber, in order to establish ": null
+    },
+    {
+        "equilibrium mode distribution": "equilibrium mode distribution"
+    },
+    {
+        " conditions for the second measurement. In a ": null
+    },
+    {
+        "multimode fiber": "multimode fiber"
+    },
+    {
+        ", the lack of an equilibrium mode distribution could introduce errors in the measurement due to output coupling effects. In a ": null
+    },
+    {
+        "single-mode fiber": "single-mode fiber"
+    },
+    {
+        ", measuring a shorter cutback fiber could result in significant transmission of cladding modes , distorting the measurement. The errors introduced will result in conservative results  than would be realized under equilibrium conditions.       The benefit of this technique is that it allows measurement of the fiber characteristics without introducing errors due to variation in the launch conditions. For example, the ": null
+    },
+    {
+        "coupling efficiency": "coupling loss"
+    },
+    {
+        " of the light source is kept consistent between the initial and the cutback measurements.     Several characteristics may be determined using the same test fiber.       Since the attenuation is defined as proportional to the logarithm of the ratio between P and P , where P is the ": null
+    },
+    {
+        "power": "radiant power"
+    },
+    {
+        " at point x and y respectively. Using the cutback technique, the power transmitted through a fiber of known length is measured and compared with the same measurement for the same fiber cut to a length of 42m approximately.       A variation of the cutback technique is the ": null
+    },
+    {
+        "substitution method": "substitution method"
+    },
+    {
+        ", in which measurements are made on a full length of fiber, and then on a short length of fiber having the same characteristics ": null
+    }
+]

@@ -1,0 +1,221 @@
+[
+    {
+        "                    In ": null
+    },
+    {
+        "typography": "typography"
+    },
+    {
+        ", a bullet or bullet point is a typographical symbol or ": null
+    },
+    {
+        "glyph": "glyph"
+    },
+    {
+        " used to introduce items in a ": null
+    },
+    {
+        "list": "wiktionary:list"
+    },
+    {
+        ". For example:     Item 42   Item 42   Item 42     The bullet symbol may take any of a variety of shapes, such as circular, square, diamond or arrow. Typical ": null
+    },
+    {
+        "word processor": "word processor"
+    },
+    {
+        " software offers a wide selection of shapes and colors. Several regular symbols, such as  , - , . , and even o , are conventionally used in ": null
+    },
+    {
+        "ASCII-only text": "ascii-only text"
+    },
+    {
+        " or other environments where bullet characters are not available. Historically, the ": null
+    },
+    {
+        "index symbol": "index"
+    },
+    {
+        " ☞ was popular for similar uses.     Lists made with bullets are called bulleted lists. The ": null
+    },
+    {
+        "HTML element": "html element"
+    },
+    {
+        " name for a bulleted list is ": null
+    },
+    {
+        "unordered list": "unordered list"
+    },
+    {
+        " , because the list items are not arranged in numerical order . Usually, bullet points are used to list things.       Bullets are most often used in technical writing, reference works, notes, and presentations.     Example:     Where are bullets most often used?   Technical writing   Reference works   Notes   Presentations   Lists     An alternative method is to use a ": null
+    },
+    {
+        "numbered list": "numbered list"
+    },
+    {
+        ":   Technical writing   Reference works   Notes   Presentations   Lists       Items & mdash;known as bullet points & mdash;may be short phrases, single sentences, or of ": null
+    },
+    {
+        "paragraph": "paragraph"
+    },
+    {
+        " length. Bulleted items are not usually terminated with a ": null
+    },
+    {
+        "full stop": "full stop"
+    },
+    {
+        " unless they are complete sentences. In some cases, however, the ": null
+    },
+    {
+        "style guide": "style guide"
+    },
+    {
+        " for a given publication may call for every item except the last one in each bulleted list to be terminated with a ": null
+    },
+    {
+        "semicolon": "semicolon"
+    },
+    {
+        ", and the last item with a full stop. It is correct to terminate any bullet point with a full stop if the text within that item consists of one full sentence or more. Bullet points are usually used to highlight list elements.       There have been different ways to encode bullet points in computer systems.       Glyphs • , ◦ and their reversed variants ◘ , ◙ became available in ": null
+    },
+    {
+        "text mode": "text mode"
+    },
+    {
+        " since early ": null
+    },
+    {
+        "IBM PC": "ibm pc"
+    },
+    {
+        "s with MDA–CGA–EGA ": null
+    },
+    {
+        "graphic adapter": "graphic adapter"
+    },
+    {
+        "s, because built-in ": null
+    },
+    {
+        "screen fonts": "vga-compatible text modefonts"
+    },
+    {
+        " contained such forms at code points 42–42 These were not true ": null
+    },
+    {
+        "characters": "character"
+    },
+    {
+        " because such points belong to the ": null
+    },
+    {
+        "C42 control codes": "c0 control codes"
+    },
+    {
+        " range; therefore, these glyphs required a special way to be placed on the screen .     Prior to the widespread use of word processors, bullets were often denoted either by a lowercase ": null
+    },
+    {
+        "o": "o"
+    },
+    {
+        " filled in with ink or by ": null
+    },
+    {
+        "asterisk": "asterisk"
+    },
+    {
+        "s ; several word processors automatically convert asterisks to bullets if used at the start of line. This notation was inherited by ": null
+    },
+    {
+        "Setext": "setext"
+    },
+    {
+        " and ": null
+    },
+    {
+        "wiki": "wiki"
+    },
+    {
+        " engines.       There are a variety of ": null
+    },
+    {
+        "Unicode": "unicode"
+    },
+    {
+        " bullet characters, including:           for use in mathematical notation primarily as a ": null
+    },
+    {
+        "dot product": "dot product"
+    },
+    {
+        " instead of interpunct.     ; see ": null
+    },
+    {
+        "Fleuron ": "fleuron"
+    },
+    {
+        "  ; see ": null
+    },
+    {
+        "Fleuron ": "fleuron"
+    },
+    {
+        "         To create bulleted list items for a web page, the markup language ": null
+    },
+    {
+        "HTML": "html"
+    },
+    {
+        " provides the list tag . Each list tag inside an ": null
+    },
+    {
+        "unordered list": "html_elementlists"
+    },
+    {
+        " will generate one bulleted list item.       A bullet point character can be produced by pressing 42 on the ": null
+    },
+    {
+        "numpad": "numeric keypad"
+    },
+    {
+        " while keeping Alt pressed.       To create bulleted list items for a document, the markup language ": null
+    },
+    {
+        "LaTeX": "latex"
+    },
+    {
+        " provides the item tag \\item . Each item tag inside an itemized list will generate one bulleted list item.        A list item on a wiki page is indicated using one or more leading asterisks in ": null
+    },
+    {
+        "Wiki markup": "wiki markup"
+    },
+    {
+        " as well as in many other ": null
+    },
+    {
+        "wiki": "wiki"
+    },
+    {
+        "s.          The bullet is often used for separating menu items, usually in the footer menu. It is common, for example, to see it in latest website designs and in many ": null
+    },
+    {
+        "WordPress": "wordpress"
+    },
+    {
+        " themes. It is also used by text editors, like ": null
+    },
+    {
+        "Microsoft Word": "microsoft word"
+    },
+    {
+        ", to create lists.     It can be used as a ": null
+    },
+    {
+        "math": "math"
+    },
+    {
+        " symbol. ": null
+    }
+]

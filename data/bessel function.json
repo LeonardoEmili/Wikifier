@@ -1,0 +1,188 @@
+[
+    {
+        "      Bessel functions, first defined by the mathematician ": null
+    },
+    {
+        "Daniel Bernoulli": "daniel bernoulli"
+    },
+    {
+        " and then generalized by ": null
+    },
+    {
+        "Friedrich Bessel": "friedrich bessel"
+    },
+    {
+        ", are canonical solutions  of Bessels ": null
+    },
+    {
+        "differential equation": "differential equation"
+    },
+    {
+        "     : x^42 \\frac + x \\frac + \\lefty 42     for an arbitrary ": null
+    },
+    {
+        "complex number": "complex number"
+    },
+    {
+        " , the order of the Bessel function. Although  and  produce the same differential equation, it is conventional to define different Bessel functions for these two values in such a way that the Bessel functions are mostly smooth functions of .     The most important cases are when  is an ": null
+    },
+    {
+        "integer": "integer"
+    },
+    {
+        " or ": null
+    },
+    {
+        "half-integer": "half-integer"
+    },
+    {
+        ". Bessel functions for integer  are also known as cylinder functions or the  cylindrical harmonics  because they appear in the solution to ": null
+    },
+    {
+        "Laplaces equation": "laplaces equation"
+    },
+    {
+        " in ": null
+    },
+    {
+        "cylindrical coordinates": "cylindrical coordinates"
+    },
+    {
+        ".  Spherical Bessel functions  with half-integer  are obtained when the ": null
+    },
+    {
+        "Helmholtz equation": "helmholtz equation"
+    },
+    {
+        " is solved in ": null
+    },
+    {
+        "spherical coordinates": "spherical coordinates"
+    },
+    {
+        ".       Bessels equation arises when finding separable solutions to ": null
+    },
+    {
+        "Laplaces equation": "laplaces equation"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Helmholtz equation": "helmholtz equation"
+    },
+    {
+        " in cylindrical or ": null
+    },
+    {
+        "spherical coordinates": "spherical coordinates"
+    },
+    {
+        ". Bessel functions are therefore especially important for many problems of ": null
+    },
+    {
+        "wave propagation": "wave propagation"
+    },
+    {
+        " and static potentials. In solving problems in cylindrical coordinate systems, one obtains Bessel functions of integer order ; in spherical problems, one obtains half-integer orders . For example:     ": null
+    },
+    {
+        "Electromagnetic waves": "electromagnetic radiation"
+    },
+    {
+        " in a cylindrical ": null
+    },
+    {
+        "waveguide": "waveguide"
+    },
+    {
+        " inviscid": "inviscid flow"
+    },
+    {
+        " rotational flows   ": null
+    },
+    {
+        "Heat conduction": "conduction"
+    },
+    {
+        " in a cylindrical object   Modes of vibration of a thin circular ": null
+    },
+    {
+        "acoustic membrane": "acoustic membrane"
+    },
+    {
+        "    Diffusion problems on a lattice   Solutions to the radial ": null
+    },
+    {
+        "Schrödinger equation": "schrödinger equation"
+    },
+    {
+        " for a free particle   Solving for patterns of acoustical radiation   Frequency-dependent friction in circular pipelines   Dynamics of floating bodies   ": null
+    },
+    {
+        "Angular resolution": "angular resolution"
+    },
+    {
+        " DNA": "dna"
+    },
+    {
+        " Probability density function": "probability density function"
+    },
+    {
+        " of product of two normally distributed random variables     Bessel functions also appear in other problems, such as signal processing .       Because this is a second-order differential equation, there must be two ": null
+    },
+    {
+        "linearly independent": "linearly independent"
+    },
+    {
+        " solutions. Depending upon the circumstances, however, various formulations of these solutions are convenient. Different variations are summarized in the table below and described in the following sections.     :     Bessel functions of the second kind and the spherical Bessel functions of the second kind are sometimes denoted by  and  respectively, rather than  and .       Bessel functions of the first kind: , are solutions of Bessels differential equation that are finite at the origin  for integer or positive   and diverge as  approaches zero for negative non-integer  . It is possible to define the function by its ": null
+    },
+    {
+        "series expansion": "taylor series"
+    },
+    {
+        " around , which can be found by applying the ": null
+    },
+    {
+        "Frobenius method": "frobenius method"
+    },
+    {
+        " to Bessels equation: Abramowitz and Stegun, .     : J_\\alpha \\sum_^\\infty \\frac ^,     where  is the ": null
+    },
+    {
+        "gamma function": "gamma function"
+    },
+    {
+        ", a shifted generalization of the ": null
+    },
+    {
+        "factorial": "factorial"
+    },
+    {
+        " function to non-integer values. The Bessel function of the first kind is an ": null
+    },
+    {
+        "entire function": "entire function"
+    },
+    {
+        " if  is an integer, otherwise it is a ": null
+    },
+    {
+        "multivalued function": "multivalued function"
+    },
+    {
+        " with singularity at zero. The graphs of Bessel functions look roughly like oscillating sine or cosine functions that decay proportionally to x^ , although their roots are not generally periodic, except asymptotically for large .           For non-integer , the functions  and  are linearly independent, and are therefore the two solutions of the differential equation. On the other hand, for integer order , the following relationship is valid : Abramowitz and Stegun, .     : J_ ^n J_n.     This means that the two solutions are no longer linearly independent. In this case, the second linearly independent solution is then found to be the Bessel function of the second kind, as discussed below.       Another definition of the Bessel function, for integer values of , is possible using an integral representation:      : J_n \\frac \\int_42^\\pi \\cos \\,d\\tau.     Another integral representation is:     : J_n \\frac \\int_^\\pi e^ \\,d\\tau.     This was the approach that Bessel used, and from this definition he derived several properties of the function. The definition may be extended to non-integer orders by one of Schläflis integrals, for  ref nameTemme / ref  /ref ref  /ref ref  /ref ref /ref math /math  ref  /ref math /math  ref  /ref math /math  ref name mhtlab.uwaterloo.ca  /ref  math /math  math /math  ref  /ref math /math math /math  ref nameMathWorld  /ref  /math  Abramowitz and Stegun, . :     : \\begin   J_\\alpha & e^ I_\\alpha, \\\\   Y_\\alpha & e^I_\\alpha - \\frace^K_\\alpha.   \\end      and  are the two linearly independent solutions to the modified Bessels equation: Abramowitz and Stegun, .     : x^42 \\frac + x \\frac - \\lefty 42     Unlike the ordinary Bessel functions, which are oscillating as functions of a real argument,  and  are ": null
+    },
+    {
+        "exponentially growing": "exponential growth"
+    },
+    {
+        " and ": null
+    },
+    {
+        "decaying": "exponential decay"
+    },
+    {
+        " functions respectively. Like the ordinary Bessel function , the function  goes to zero at  for  ref  /ref  !--  Plot of six modified Bessel functions. In solid line , , and . In dashed line: , , and . --    ref namep42/ math /math  math /math math /math  ref  /ref math \\pi, \\\\   Y_\\alpha & \\sqrt\\left & & \\text \\left|\\arg z\\right| ": null
+    }
+]

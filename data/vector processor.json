@@ -1,0 +1,302 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "computing": "computing"
+    },
+    {
+        ", a vector processor or array processor is a ": null
+    },
+    {
+        "central processing unit": "central processing unit"
+    },
+    {
+        " that implements an ": null
+    },
+    {
+        "instruction set": "instruction set"
+    },
+    {
+        " containing ": null
+    },
+    {
+        "instructions": "instruction"
+    },
+    {
+        " that operate on ": null
+    },
+    {
+        "one-dimensional array": "array data structure"
+    },
+    {
+        "s of data called vectors, compared to the ": null
+    },
+    {
+        "scalar processor": "scalar processor"
+    },
+    {
+        "s, whose instructions operate on single data items. Vector processors can greatly improve performance on certain workloads, notably ": null
+    },
+    {
+        "numerical simulation": "numerical simulation"
+    },
+    {
+        " and similar tasks. Vector machines appeared in the early 42s and dominated ": null
+    },
+    {
+        "supercomputer": "supercomputer"
+    },
+    {
+        " design through the 42s into the 42s, notably the various ": null
+    },
+    {
+        "Cray": "cray"
+    },
+    {
+        " platforms. The rapid fall in the ": null
+    },
+    {
+        "price-to-performance ratio": "price-to-performance ratio"
+    },
+    {
+        " of conventional ": null
+    },
+    {
+        "microprocessor": "microprocessor"
+    },
+    {
+        " designs led to the vector supercomputers demise in the later 42s.      most commodity CPUs implement architectures that feature instructions for a form of vector processing on multiple data sets. Common examples include Intel x42s ": null
+    },
+    {
+        "MMX": "mmx"
+    },
+    {
+        ", ": null
+    },
+    {
+        "SSE": "streaming simd extensions"
+    },
+    {
+        " and ": null
+    },
+    {
+        "AVX": "advanced vector extensions"
+    },
+    {
+        " instructions, AMDs ": null
+    },
+    {
+        "42DNow!": "3dnow!"
+    },
+    {
+        " extensions, Sparcs ": null
+    },
+    {
+        "VIS": "visual instruction set"
+    },
+    {
+        " extension, ": null
+    },
+    {
+        "PowerPC": "powerpc"
+    },
+    {
+        "s ": null
+    },
+    {
+        "AltiVec": "altivec"
+    },
+    {
+        " and MIPS ": null
+    },
+    {
+        "MSA": "mips simd architecture"
+    },
+    {
+        ". Vector processing techniques also operate in ": null
+    },
+    {
+        "video-game console": "video game console"
+    },
+    {
+        " hardware and in ": null
+    },
+    {
+        "graphics accelerator": "graphics accelerator"
+    },
+    {
+        "s. In 42 ": null
+    },
+    {
+        "IBM": "ibm"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Toshiba": "toshiba"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Sony": "sony"
+    },
+    {
+        " collaborated to create the ": null
+    },
+    {
+        "Cell processor": "cell"
+    },
+    {
+        ".     Other CPU designs include some multiple instructions for vector processing on multiple data sets, typically known as ": null
+    },
+    {
+        "MIMD": "mimd"
+    },
+    {
+        "  and realized with ": null
+    },
+    {
+        "VLIW": "vliw"
+    },
+    {
+        " . The ": null
+    },
+    {
+        "Fujitsu": "fujitsu"
+    },
+    {
+        " FR-V": "fr-v"
+    },
+    {
+        " VLIW/vector processor combines both technologies.           Vector processing development began in the early 42s at ": null
+    },
+    {
+        "Westinghouse": "westinghouse electric corporation"
+    },
+    {
+        " in their Solomon project. Solomons goal was to dramatically increase math performance by using a large number of simple ": null
+    },
+    {
+        "math co-processors": "coprocessor"
+    },
+    {
+        " under the control of a single master ": null
+    },
+    {
+        "CPU": "central processing unit"
+    },
+    {
+        ". The CPU fed a single common instruction to all of the ": null
+    },
+    {
+        "arithmetic logic unit": "arithmetic logic unit"
+    },
+    {
+        "s , one per cycle, but with a different data point for each one to work on. This allowed the Solomon machine to apply a single ": null
+    },
+    {
+        "algorithm": "algorithm"
+    },
+    {
+        " to a large ": null
+    },
+    {
+        "data set": "data set"
+    },
+    {
+        ", fed in the form of an array.     In 42 Westinghouse cancelled the project, but the effort was restarted at the ": null
+    },
+    {
+        "University of Illinois": "university of illinois at urbana–champaign"
+    },
+    {
+        " as the ": null
+    },
+    {
+        "ILLIAC IV": "illiac iv"
+    },
+    {
+        ". Their version of the design originally called for a 42 ": null
+    },
+    {
+        "GFLOPS": "gflops"
+    },
+    {
+        " machine with 42 ALUs, but, when it was finally delivered in 42 it had only 42 ALUs and could reach only 42 to 42 MFLOPS. Nevertheless, it showed that the basic concept was sound, and, when used on data-intensive applications, such as ": null
+    },
+    {
+        "computational fluid dynamics": "computational fluid dynamics"
+    },
+    {
+        ", the ILLIAC was the fastest machine in the world. The ILLIAC approach of using separate ALUs for each data element is not common to later designs, and is often referred to under a separate category, ": null
+    },
+    {
+        "massively parallel": "massively parallel"
+    },
+    {
+        " computing.     A ": null
+    },
+    {
+        "computer for operations with functions": "computer for operations with functions"
+    },
+    {
+        " was presented and developed by Kartsev in 42        The first successful implementation of vector processing occurred in 42 when both the ": null
+    },
+    {
+        "Control Data Corporation": "control data corporation"
+    },
+    {
+        " STAR42": "cdc star-100"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Texas Instruments": "texas instruments"
+    },
+    {
+        " Advanced Scientific Computer": "advanced scientific computer"
+    },
+    {
+        " were introduced.     The basic ASC ALU used a pipeline architecture that supported both scalar and vector computations, with peak performance reaching approximately 42 MFLOPS, readily achieved when processing long vectors. Expanded ALU configurations supported two pipes or four pipes with a corresponding 42X or 42X performance gain. Memory bandwidth was sufficient to support these expanded modes.     The STAR was otherwise slower than CDCs own supercomputers like the ": null
+    },
+    {
+        "CDC 42": "cdc 7600"
+    },
+    {
+        ", but at data related tasks they could keep up while being much smaller and less expensive. However the machine also took considerable time decoding the vector instructions and getting ready to run the process, so it required very specific data sets to work on before it actually sped anything up.     The vector technique was first fully exploited in 42 by the famous ": null
+    },
+    {
+        "Cray42": "cray-1"
+    },
+    {
+        ". Instead of leaving the data in memory like the STAR and ASC, the Cray design had eight ": null
+    },
+    {
+        "vector registers": "vector registers"
+    },
+    {
+        ", which held sixty-four 42-bit words each. The vector instructions were applied between registers, which is much faster than talking to main memory. Whereas the STAR would apply a single operation across a long vector in memory and the move on to the next operation, the Cray design would load a smaller section of the vector into registers and then apply as many operations as it could to that data, thereby avoiding many of the much slower memory access operations.     The Cray design used ": null
+    },
+    {
+        "pipeline parallelism": "pipeline parallelism"
+    },
+    {
+        " to implement vector instructions rather than multiple ALUs. In addition, the design had completely separate pipelines for different instructions, for example, addition/subtraction was implemented in different hardware than multiplication. This allowed a batch of vector instructions to be pipelined into each of the ALU subunits, a technique they called vector chaining. The Cray42 normally had a performance of about 42 MFLOPS, but with up to three chains running it could peak at 42  MFLOPS and averaged around 42 – far faster than any machine of the era.          Other examples followed. ": null
+    },
+    {
+        "Control Data Corporation": "control data corporation"
+    },
+    {
+        " tried to re-enter the high-end market again with its ": null
+    },
+    {
+        "ETA42": "eta-10"
+    },
+    {
+        " machine, but it sold poorly and they took that as an opportunity to leave the supercomputing field entirely. In the early and mid42s Japanese companies ": null
+    }
+]

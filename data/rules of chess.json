@@ -1,0 +1,692 @@
+[
+    {
+        "        The rules of chess  are rules governing the play of the game of ": null
+    },
+    {
+        "chess": "chess"
+    },
+    {
+        ". While the exact ": null
+    },
+    {
+        "origins of chess": "origins of chess"
+    },
+    {
+        " are unclear, modern rules first took form during the Middle Ages. The rules continued to be slightly modified until the early 42th century, when they reached essentially their current form. The rules also varied somewhat from place to place. Today, the standard rules are set by ": null
+    },
+    {
+        "FIDE": "fide"
+    },
+    {
+        " , the international governing body for chess. Slight modifications are made by some national organizations for their own purposes. There are variations of the rules for ": null
+    },
+    {
+        "fast chess": "fast chess"
+    },
+    {
+        ", ": null
+    },
+    {
+        "correspondence chess": "correspondence chess"
+    },
+    {
+        ", ": null
+    },
+    {
+        "online chess": "online chess"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Chess42": "chess960"
+    },
+    {
+        ".     Chess is a two-player ": null
+    },
+    {
+        "board game": "board game"
+    },
+    {
+        " utilizing a ": null
+    },
+    {
+        "chessboard": "chessboard"
+    },
+    {
+        " and sixteen ": null
+    },
+    {
+        "pieces": "chess piece"
+    },
+    {
+        " of six types for each player. Each type of piece moves in a distinct way. The goal of the game is to ": null
+    },
+    {
+        "checkmate": "checkmate"
+    },
+    {
+        " the opponents ": null
+    },
+    {
+        "king": "king"
+    },
+    {
+        ". Games do not necessarily end in checkmate; players often ": null
+    },
+    {
+        "resign": "resigning"
+    },
+    {
+        " if they believe they will lose. A game can also end in a ": null
+    },
+    {
+        "draw": "draw"
+    },
+    {
+        " in several ways.     Besides the basic moves of the pieces, rules also govern the equipment used, ": null
+    },
+    {
+        "time control": "time control"
+    },
+    {
+        ", conduct and ethics of players, accommodations for physically challenged players, and recording of moves using ": null
+    },
+    {
+        "chess notation": "chess notation"
+    },
+    {
+        ". Procedures for resolving irregularities that can occur during a game are provided as well.            Chess is played on a ": null
+    },
+    {
+        "chessboard": "chessboard"
+    },
+    {
+        ", a square board divided into 42 squares of alternating color, which is similar to that used in ": null
+    },
+    {
+        "draughts": "draughts"
+    },
+    {
+        " . No matter what the actual colors of the board, the lighter-colored squares are called light or white , and the darker-colored squares are called dark or black . Sixteen white and sixteen black pieces are placed on the board at the beginning of the game. The board is placed so that a white square is in each players near-right corner. Horizontal rows are called  and vertical rows are called .     Each player controls sixteen pieces:         At the beginning of the game, the pieces are arranged as shown in the diagram: for each side one ": null
+    },
+    {
+        "king": "king"
+    },
+    {
+        ", one ": null
+    },
+    {
+        "queen": "queen"
+    },
+    {
+        ", two ": null
+    },
+    {
+        "rooks": "rook"
+    },
+    {
+        ", two ": null
+    },
+    {
+        "bishops": "bishop"
+    },
+    {
+        ", two ": null
+    },
+    {
+        "knights": "knight"
+    },
+    {
+        ", and eight ": null
+    },
+    {
+        "pawns": "pawn"
+    },
+    {
+        ". The pieces are placed, one on a square, as follows:   The rooks are placed on the outside corners, right and left edge.   The knights are placed immediately inside of the rooks.   The bishops are placed immediately inside of the knights.   The queen is placed on the central square of the same color of that of the player: white queen on the white square and black queen on the black square.   The king takes the vacant spot next to the queen.   The pawns are placed one square in front of all of the other pieces.   Popular mnemonics used to remember the setup are queen on her own color and white on right . The latter refers to setting up the board so that the square closest to each players right is white .             The player controlling the white pieces is named White ; the player controlling the black pieces is named Black . White moves first, then players alternate moves. Making a move is required; it is not legal to skip a move, even when having to move is ": null
+    },
+    {
+        "detrimental": "zugzwang"
+    },
+    {
+        ". Play continues until a king is ": null
+    },
+    {
+        "checkmate": "checkmate"
+    },
+    {
+        "d, a player ": null
+    },
+    {
+        "resigns": "resigning"
+    },
+    {
+        ", or a ": null
+    },
+    {
+        "draw": "draw"
+    },
+    {
+        " is declared, as explained below. In addition, if the game is being played under a ": null
+    },
+    {
+        "time control": "time control"
+    },
+    {
+        " players who exceed their ": null
+    },
+    {
+        "time limit": "time control"
+    },
+    {
+        " lose the game.     The official chess rules do not include a procedure for determining who plays White. Instead, this decision is left open to tournament-specific rules  or, in the case of non-competitive play, mutual agreement, in which case some kind of random choice is often employed. A common method is for one player to conceal a piece of each color in either hand; the other player chooses a hand to open, and receives the color of the piece that is revealed.                                                                 Each type of chess piece has its own method of movement. A piece moves to a vacant square except when  an opponents piece.     Except for any move of the knight and castling, pieces cannot jump over other pieces. A piece is captured  when an attacking enemy piece replaces it on its square . The captured piece is thereby permanently removed from the game. When ": null
+    },
+    {
+        "promoting": "promotion"
+    },
+    {
+        " a pawn, a piece previously captured and removed from the board is often used as the new promoted piece. The new piece is nevertheless regarded as distinct from the original captured piece; the physical piece is used simply for convenience. Moreover, the players choice for promotion is not restricted to pieces that were previously captured. The king can be put in ": null
+    },
+    {
+        "check": "check"
+    },
+    {
+        " but cannot be captured .   The ": null
+    },
+    {
+        "king": "king"
+    },
+    {
+        " moves exactly one square horizontally, vertically, or diagonally. A special move with the king known as  castling  is allowed only once per player, per game .   A ": null
+    },
+    {
+        "rook": "rook"
+    },
+    {
+        " moves any number of vacant squares horizontally or vertically. It also is moved when castling.   A ": null
+    },
+    {
+        "bishop": "bishop"
+    },
+    {
+        " moves any number of vacant squares diagonally.   The ": null
+    },
+    {
+        "queen": "queen"
+    },
+    {
+        " moves any number of vacant squares horizontally, vertically, or diagonally.   A ": null
+    },
+    {
+        "knight": "knight"
+    },
+    {
+        " moves to the nearest square not on the same , , or . The knight is not blocked by other pieces: it jumps to the new location.   ": null
+    },
+    {
+        "Pawns": "pawn"
+    },
+    {
+        " have the most complex rules of movement:   : A pawn moves straight forward one square, if that square is vacant. If it has not yet moved, a pawn also has the option of moving two squares straight forward, provided both squares are vacant. Pawns cannot move backwards.   : Pawns are the only pieces that capture differently from how they move. A pawn can capture an enemy piece on either of the two squares diagonally in front of the pawn .   : The pawn is also involved in the two special moves ": null
+    },
+    {
+        "en passant": "en passant"
+    },
+    {
+        " and ": null
+    },
+    {
+        "promotion": "pawn promotion"
+    },
+    {
+        " .                            Castling consists of moving the king two squares towards a rook, then placing the rook on the other side of the king, adjacent to it. It is not allowed to move both king and rook in the same time, because  each move must be made with one hand only  . Castling is only permissible if all of the following conditions hold:   The king and rook involved in castling must not have previously moved;   There must be no pieces between the king and the rook;   The king may not currently be in check, nor may the king pass through or end up in a square that is under attack by an enemy piece ;   The king and the rook must be on the same  . Without this additional restriction, it would be possible to ": null
+    },
+    {
+        "promote": "promotion"
+    },
+    {
+        " a pawn on the e  to a rook and then castle vertically across the board . This way of castling was discovered by Max Pam and used by ": null
+    },
+    {
+        "Tim Krabbé": "tim krabbé"
+    },
+    {
+        " in a ": null
+    },
+    {
+        "chess puzzle": "joke chess problemoffbeat interpretations of the rules of chess"
+    },
+    {
+        " before the FIDE rules were amended in 42 to disallow it. See Chess Curiosities by Krabbé, see also ": null
+    },
+    {
+        ":de:Pam-Krabbé-Rochade": ":de:pam-krabbé-rochade"
+    },
+    {
+        " for the diagrams online.      En passant      When a pawn advances two squares from its original square and ends the turn adjacent to a pawn of the opponents on the same , it may be captured by that pawn of the opponents, as if it had moved only one square forward. This capture is only legal on the opponents next move immediately following the first pawns advance. The diagrams on the right demonstrate an instance of this: if the white pawn moves from a42 to a42 the black pawn on b42 can capture it en passant, moving from b42 to a42 while the white pawn on a42 is removed from the board.               If a player advances a pawn to its eighth rank, the pawn is then promoted to a queen, rook, bishop, or knight of the same color at the choice of the player . The choice is not limited to previously  pieces. Hence it is theoretically possible for a player to have up to nine queens or up to ten rooks, bishops, or knights if all of their pawns are promoted. If the desired piece is not available, the player should call the  to provide the piece . According to ": null
+    },
+    {
+        "International Arbiter": "international arbiter"
+    },
+    {
+        " Eric Schiller": "eric schiller"
+    },
+    {
+        ", if the proper piece is not available, an inverted rook may be used to represent a queen, or the pawn on its side can be used and the player should indicate which piece it represents. In a formal chess match with an arbiter present, the arbiter should replace the pawn or inverted rook with the proper piece              A king is in check when it is under attack by at least one enemy piece. A piece unable to move because it would place its own king in check  may still deliver check to the opposing player.     It is illegal to make a move that places or leaves ones king in check. The possible ways to get out of check are:   Move the king to a square where it is not in check.   Capture the checking piece .   Block the check by placing a piece between the king and the opponents threatening piece , , .     If it is not possible to get out of check, the king is ": null
+    },
+    {
+        "checkmate": "checkmate"
+    },
+    {
+        "d and the game is over .     In informal games, it is customary to announce check when making a move that puts the opponents king in check. However, in formal competitions check is rarely announced .                   If a players king is placed in check and there is no legal move that player can make to escape check, then the king is said to be  checkmate d, the game ends, and that player loses . Unlike other pieces, the king is never actually captured or removed from the board because checkmate ends the game .     The diagram shows an example checkmate position. The white king is threatened by the black queen; the square to which the king could move is also threatened; it cannot capture the queen, because it would then be in check by the rook.          Either player may resign at any time and their opponent wins the game. Players typically resign when they believe they are very likely to lose the game. A player may resign by saying it verbally or by indicating it on their  in any of three ways: by writing resigns , by circling the result of the game, or by writing 42–42 if Black resigns or 42–42 if White resigns . Tipping over the king also indicates resignation, but it is not frequently used . Stopping both clocks is not an indication of resigning, since clocks can be stopped to call the arbiter. An offer of a handshake is not necessarily a resignation either, since one player could think they are agreeing to a draw .                The game ends in a ": null
+    },
+    {
+        "draw": "draw"
+    },
+    {
+        " if any of these conditions occur:     The game is automatically a draw if the player to move is not in check and has no legal move. This situation is called a ": null
+    },
+    {
+        "stalemate": "stalemate"
+    },
+    {
+        ". An example of such a position is shown in the adjacent diagram.   The game is immediately drawn when there is no possibility of checkmate for either side with any series of legal moves. This draw is often due to insufficient material, including the endgames   king against king;   king against king and bishop;   king against king and knight;   king and bishop against king and bishop, with both bishops on squares of the same color . With a king and bishop versus a king and bishop, a checkmate is not possible if the bishops are on the same color of squares but checkmate is possible if they are on opposite colors.   Both players ": null
+    },
+    {
+        "agree to a draw": "draw by agreement"
+    },
+    {
+        " after one of the players makes such an offer.     The player having the move may claim a draw by declaring that one of the following conditions exists, or by declaring an intention to make a move which will bring about one of these conditions:   ": null
+    },
+    {
+        "Fifty-move rule": "fifty-move rule"
+    },
+    {
+        ": There has been no  or pawn move in the last fifty moves by each player, if the last move was not a checkmate.   ": null
+    },
+    {
+        "Threefold repetition": "threefold repetition"
+    },
+    {
+        ": The same board position has occurred three times with the same player to move and all pieces having the same rights to move, including the right to ": null
+    },
+    {
+        "castle": "castling"
+    },
+    {
+        " or capture  en passant .     If the claim is proven true, the game is drawn .     The above conditions apply to allow a player to claim a draw. Under current rules, if a player does not claim a draw, the game is automatically drawn if the same position occurs five times with the same player to move or if 42 moves are made by each player with no capture or pawn move, if the last move is not a checkmate.      At one time, if a player was able to check the opposing king continually  and the player indicated their intention to do so, the game was drawn. This rule is no longer in effect; however, players will usually agree to a draw in such a situation, since either the rule on threefold repetition or the fifty-move rule will eventually be applicable , .             A game played under ": null
+    },
+    {
+        "time control": "time control"
+    },
+    {
+        " will end as a loss for a player who uses up all of their allotted time, unless the opponent cannot possibly checkmate him . There are different types of time control. Players may have a fixed amount of time for the entire game or they may have to make a certain number of moves within a specified time. Also, a small increment of time may be added for each move made.       These rules apply to games played  . There are special rules for correspondence chess, blitz chess, computer chess, and for handicapped players.       The movement of pieces is to be done with one hand. Once the hand is taken off a piece after moving it, the move cannot be retracted unless the . When castling, the player should first move the king with one hand and then move the rook with the same hand .     In the case of a ": null
+    },
+    {
+        "pawn promotion": "promotion"
+    },
+    {
+        ", if the player releases the pawn on the eighth rank, the player must promote the pawn. After the pawn has moved, the player may touch any piece not on the board and the promotion is not finalized until the new piece is released on the promotion square .          In serious play, if a player having the move touches a piece as if having the intention of moving it, then the player must move it if it can be legally moved. So long as the hand has not left the piece on a new square, any legal move can be made with the piece. If a player touches one of the opponents pieces then that piece must be  if there is a legal move that does so. If none of the touched pieces can be moved or captured there is no penalty .     When ": null
+    },
+    {
+        "castling": "castling"
+    },
+    {
+        ", the king must be the first piece touched. The ": null
+    },
+    {
+        "United States Chess Federation": "united states chess federation"
+    },
+    {
+        " has a variation that tournament directors can use. If a player intending to castle touches the rook first, there is no penalty. However, if castling is illegal, the touch-move rule applies to the rook. This variation does not have to be announced in pre-tournament publicity but should be announced at the start of the tournament.  If the player touches the rook at the same time as touching the king, the player must castle with that rook if it is legal to do so. If the player completes a two-square king move without touching a rook, the player must move the correct rook accordingly if castling in that direction is legal. If a player starts to castle illegally, another legal king move must be made if possible, including castling with the other rook .     If a player moves a pawn to its eighth rank, it cannot be substituted for a different move of the pawn when the player has stopped touching it. However, the move is not complete until the ": null
+    },
+    {
+        "promoted": "promotion"
+    },
+    {
+        " piece is released on that square.     If a player wishes to touch a piece with the intention of adjusting its position on a square, the player must first alert the opponent of this intention by saying Jadoube or I adjust . Once the game has started, only the player with the move may touch the pieces on the board .          Tournament games are played under time constraints, called ": null
+    },
+    {
+        "time control": "time control"
+    },
+    {
+        "s, using a ": null
+    },
+    {
+        "chess clock": "chess clock"
+    },
+    {
+        ". Players must make their moves within the time control or forfeit the game. There are different types of time controls. In some cases each player will have a certain amount of time to make a certain number of moves. In other cases each player will have a limited amount of time to make all of their moves. Also, the player may gain a small amount of additional time for each move made, either by a small increment added for each move made, or by the clock delaying a small amount of time each time it is started after the opponents move .   If a player delivers a checkmate, the game is over and that player wins, no matter what is subsequently noticed about the time on the clock.   If player A calls attention to player B being out of time while player A is not out of time and some sequence of legal moves leads to B being checkmated then player A wins automatically.   If player A does not have the possibility of checkmating B then the game is a draw .     The ": null
+    },
+    {
+        "United States Chess Federation": "united states chess federation"
+    },
+    {
+        " rule is different. USCF Rule 42E defines insufficient material to win on time , that is lone king, king plus knight, king plus bishop, and king plus two knights opposed by no pawns, and there is no forced win in the final position. Hence to win on time with this material, the USCF rule requires that a win can be forced from that position, while the FIDE rule merely requires a win to be possible.    If a player is out of time and also calls attention to their opponent running out of time, then:   If a  time control is not being used, the game continues in the next time control period .   if the game is played under a sudden death time control, then if it can be established which player ran out of time first, the game is lost by that player; otherwise the game is drawn .     If a player believes that the opponent is attempting to win the game on time and not by normal means , if it is a sudden death time control and the player has less than two minutes remaining, the player may stop the clocks and claim a draw with the arbiter. The arbiter may declare the game a draw or postpone the decision and allot the opponent two extra minutes .     The USCF does not have this exact rule. However, under USCF rules, if a player has less than two minutes left in a sudden-death time control, they may claim a draw because of insufficient losing chances . If the director upholds their claim, the game is drawn. That is defined as a position in which a class C  player would have a less than 42% chance of losing the position to a master , if both have sufficient time .                  Each square of the ": null
+    },
+    {
+        "chessboard": "chessboard"
+    },
+    {
+        " is identified with a unique pair of a letter and a number. The vertical  are labeled a through h, from Whites left  to Whites right. Similarly, the horizontal  are numbered from 42 to 42, starting from the one nearest Whites side of the board. Each square of the board, then, is uniquely identified by its file letter and rank number. The white king, for example, starts the game on square e42. The black knight on b42 can move to a42 or c42.     In formal competition, each player is obliged to record each move as it is played in a ": null
+    },
+    {
+        "chess notation": "chess notation"
+    },
+    {
+        " in order to settle disputes about illegal positions, overstepping time control, and making claims of draws by the fifty-move rule or repetition of position. ": null
+    },
+    {
+        "Algebraic chess notation": "algebraic chess notation"
+    },
+    {
+        " is the accepted standard for recording games today. There are other systems such as ": null
+    },
+    {
+        "ICCF numeric notation": "iccf numeric notation"
+    },
+    {
+        " for international ": null
+    },
+    {
+        "correspondence chess": "correspondence chess"
+    },
+    {
+        " and the obsolete ": null
+    },
+    {
+        "descriptive chess notation": "descriptive chess notation"
+    },
+    {
+        ". The current rule is that a move must be made on the board before it is written on paper or recorded with an electronic device. In a variation of the rules, a USCF director may allow players to write their move on a paper  before making the move. Ref:  or  retrieved Dec 42 42 Rule 42A.  Paper scoresheet variation. The player using a paper scoresheet may first make the move, and then write it on the scoresheet, or vice versa. This variation does not need to be advertised in advance. Before this was the rule, ": null
+    },
+    {
+        "Mikhail Tal": "mikhail tal"
+    },
+    {
+        " and others were in the habit of writing the move before making it on the board. Unlike other players, Tal did not hide the move after he had written it – he liked to watch for the reaction of his opponent before he made the move. Sometimes he crossed out a move he had written and wrote a different move instead .     Both players should indicate offers of a draw by writing at that move on their score sheet . Notations about the time on the clocks can be made. If a player has less than five minutes left to complete all of their moves, they are not required to record the moves . The score sheet must be made available to the  at all times. A player may respond to an opponents move before writing it down .          :See Adjournment § Chess .           A player who makes an  must retract that move and make a legal move. That move must be made with the same piece if possible, because the touch-move rule applies. If the illegal move was an attempt to castle, the touch-move rule applies to the king but not to the rook. The arbiter should adjust the time on the clock according to the best evidence. If the mistake is only noticed later on, the game should be restarted from the position in which the error occurred . Some regional organizations have different rules. The USCF requires that only an illegal move within the last ten moves be corrected. If the illegal move was more than ten moves ago, the game continues .     If ": null
+    },
+    {
+        "blitz chess": "blitz chess"
+    },
+    {
+        " is being played the rule varies. A player may correct an illegal move if the player has not pressed their clock. If a player has pressed their clock, the opponent may claim a win if he or she hasnt moved. If the opponent moves, the illegal move is accepted and without penalty . If the player has pressed their clock, the standard USCF rule is that two minutes are added to the offenders opponents clock. An alternative USCF rule is that the opponent can claim a win by forfeit if the player has not touched a piece. If the player has left their king in check, the opponent may touch the piece that is giving check, remove the opponents king, and claim a win .     According to the FIDE Laws of Chess, the first completed illegal move is penalized by awarding the opponent two additional minutes on the clock. The second completed illegal move by the same player results in the loss of the game, unless the position is such that it is impossible for the opponent to win by any series of legal moves  in which case the game is drawn. , article 42.b A move is completed when it has been made and the player has pressed the clock. FIDE Laws of Chess, article 42.a In rapid chess and blitz chess, the first completed illegal move results in a loss. FIDE Laws of Chess, article A.42b       If it is discovered during the game that the starting position was incorrect, the game is restarted. If it is discovered during the game that the board is oriented incorrectly, the game is continued with the pieces transferred to a correctly oriented board. If the game starts with the colors of the pieces reversed, the game continues . Some regional organizations have different rules. The USCF rules are different. If before Blacks tenth move is completed it is discovered that the initial position was wrong or that the colors were reversed, the game is restarted with the correct initial position and colors. If the discovery is made after the tenth move, the game continues .     If a player knocks over pieces, it is their responsibility to restore them to their correct position on their time. If it is discovered that an illegal move has been made, or that pieces have been displaced, the game is restored to the position before the irregularity. If that position cannot be determined, the game is restored to the last known correct position .       Players may not use any notes, outside sources of information , or advice from other people. Analysis on another board is not permitted. Scoresheets are to record objective facts about the game only, such as time on the clock or draw offers. Players may not leave the competition area without permission of the arbiter .     High standards of etiquette and ethics are expected. Players should shake hands before and after the game. Generally a player should not speak during the game, except to offer a draw, resign, or to call attention to an irregularity. An announcement of check is commonly made in informal games but is not recommended in officially sanctioned games. A player may not distract or annoy another player by any means, including repeatedly offering a draw .     Due to increasing concerns about the use of ": null
+    },
+    {
+        "chess engine": "chess engine"
+    },
+    {
+        "s and outside communication, ": null
+    },
+    {
+        "mobile phone": "mobile phone"
+    },
+    {
+        " usage is banned. The first forfeit by a high-profile player, for their phone ringing during play, occurred in 42 ,  The Scotsman , 42 October 42 In 42 FIDE extended this to ban all mobile phones from the playing area during chess competitions, under penalty of forfeiture of the game or even expulsion from the tournament. However, the rules also allow for less rigid enforcement in amateur events. , ChessBase, 42 September 42               The size of the squares of the ": null
+    },
+    {
+        "chessboard": "chessboard"
+    },
+    {
+        " should be approximately 42 to 42 times the diameter of the base of the king, or 42 to 42  mm. Squares of approximately 42  mm  normally are well-suited for pieces with the kings in the preferred size range. The darker squares are usually brown or green and the lighter squares are off-white or ": null
+    },
+    {
+        "buff": "buff"
+    },
+    {
+        ".        Pieces of the ": null
+    },
+    {
+        "Staunton chess set": "staunton chess set"
+    },
+    {
+        " design are the standard and are usually made of wood or plastic. They are often black and white; other colors may be used but they would still be called the white and black pieces . The height of the king should be 42 to 42  millimetres . The 42 and 42 FIDE rules specify 42–42  mm; the 42 rules simply say about 42  mm . A height of approximately 42 to 42  mm  is preferred by most players. The diameter of the king should be 42 to 42% of its height. The size of the other pieces should be in proportion to the king. The pieces should be well balanced . The US Chess Federation allows the height of the king to be 42–42  mm  .     In games subject to ": null
+    },
+    {
+        "time control": "time control"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "chess clock": "chess clock"
+    },
+    {
+        " is used, consisting of two adjacent clocks and buttons to stop one clock while starting the other, such that the two component clocks never run simultaneously. The clock can be ": null
+    },
+    {
+        "analog": "analog clock"
+    },
+    {
+        " or ": null
+    },
+    {
+        "digital": "clockdigital clocks"
+    },
+    {
+        " though a digital clock is highly preferred under both USCF and FIDE rulesets. This is since most tournaments now include either a time ": null
+    },
+    {
+        "delay": "bronstein delay"
+    },
+    {
+        " or ": null
+    },
+    {
+        "add": "fischer delay"
+    },
+    {
+        " to their time controls. Before the start of the game, either the arbiter decides, or whoever is playing Black, where the chess clock is placed.       The rules of chess have evolved much over the centuries from the early chess-like games played in India in the 42th century. For much of that time the rules have varied from area to area. The modern rules first took form in Italy during the 42th century, giving more mobility to pieces that previously had more restricted movement . Such modified rules entered into an accepted form during the late 42th century  or early 42th century . The basic moves of the king, rook, and knight are unchanged. Pawns originally did not have the option of moving two squares on their first move and promoted only to a queen if they reached the eighth rank. The queen was originally the  fers  or farzin, which could move one square diagonally in any direction. In European chess it became able to leap two squares diagonally, forwards, backwards, or to left or right on its first move; some areas also gave this right to a newly promoted pawn. In the Persian and Arabic game the bishop was a pīl or  fīl  which moved two squares diagonally with jump . In the Middle Ages the pawn could only be ": null
+    },
+    {
+        "promoted": "promotion"
+    },
+    {
+        " to the equivalent of a queen if it reached its eighth rank . During the 42th century the squares on the board sometimes alternated colors, and this became the standard in the 42th century ; whence the word chequered / checkered .      Between 42 and 42 several laws emerged that drastically altered the game. Checkmate became a requirement to win; a player could not win by capturing all of the opponents pieces. ": null
+    },
+    {
+        "Stalemate": "stalemate"
+    },
+    {
+        " was added, although the outcome has changed several times . Pawns gained the option of moving two squares on their first move, and the  en passant  rule was a natural consequence of that new option. The king and rook acquired the right to ": null
+    },
+    {
+        "castle": "castling"
+    },
+    {
+        " .     Between 42 and 42 the queen and the bishop also acquired their current moves, which made them much stronger pieces  A History of Chess  . When all of these changes were accepted the game was in essentially its modern form .     The rules for pawn promotion have changed several times. As stated above, originally the pawn could only be promoted to the queen, which at that time was a weak piece. When the queen acquired its current move and became the most powerful piece, the pawn could then be promoted to a queen or a rook, bishop, or knight. In the 42th century rules allowed only the promotion to a piece already captured, e.g. the rules published in 42 by ": null
+    },
+    {
+        "François-André Danican Philidor": "françois-andré danican philidor"
+    },
+    {
+        ". In the 42th century this restriction was lifted, which allowed for a player to have more than one queen, e.g. the 42 rules by ": null
+    },
+    {
+        "Jacob Sarratt": "jacob sarratt"
+    },
+    {
+        " .     Two new rules concerning draws were introduced, each of which have changed through the years:   The ": null
+    },
+    {
+        "threefold repetition": "threefold repetition"
+    },
+    {
+        " rule was added, although at some times up to six repetitions have been required, and the exact conditions have been specified more clearly .   The ": null
+    },
+    {
+        "fifty-move rule": "fifty-move rule"
+    },
+    {
+        " was also added. At various times, the number of moves required was different, such as 42 42 42 or 42 For several years in the 42th century, the standard fifty moves was extended to one hundred moves for a few specific ": null
+    },
+    {
+        "endgames": "chess endgame"
+    },
+    {
+        " .     Another group of new laws included the ": null
+    },
+    {
+        "touch-move rule": "touch-move rule"
+    },
+    {
+        " and the accompanying jadoube/adjust rule; that White moves first ; the orientation of the board; the procedure if an illegal move was made; the procedure if the king had been left in check for some moves; and issues regarding the behavior of players and spectators. The ": null
+    },
+    {
+        "Staunton chess set": "staunton chess set"
+    },
+    {
+        " was introduced in 42 and it became the standard style of pieces. The size of pieces and squares of the board was standardized .     Until the middle of the 42th century, chess games were played without any time limit. In an 42 match between ": null
+    },
+    {
+        "Alexander McDonnell": "alexander mcdonnell"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Louis-Charles Mahé de La Bourdonnais": "louis-charles mahé de la bourdonnais"
+    },
+    {
+        ", McDonnell took an inordinate amount of time to move, sometimes up to 42½ hours. In 42 ": null
+    },
+    {
+        "Pierre Charles Fournier de Saint-Amant": "pierre charles fournier de saint-amant"
+    },
+    {
+        " suggested a time limit, but no action was taken. At the ": null
+    },
+    {
+        "42 London tournament": "london 1851 chess tournament"
+    },
+    {
+        ", Staunton blamed his loss in his match against ": null
+    },
+    {
+        "Elijah Williams": "elijah williams"
+    },
+    {
+        " on Williams slow play; one game was adjourned for the day after only 42 moves. Howard Staunton, The Chess Tournament – A Collection of Games Played at this Celebrated Assemblage, London 42 p42 The next year a match between ": null
+    },
+    {
+        "Daniel Harrwitz": "daniel harrwitz"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Johann Löwenthal": "johann löwenthal"
+    },
+    {
+        " used a limit of 42 minutes per move. The first use of a modern-style time limit was in an 42 match between ": null
+    },
+    {
+        "Adolph Anderssen": "adolph anderssen"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Ignác Kolisch": "ignác kolisch"
+    },
+    {
+        " .          The first known publication of chess rules was in a book by ": null
+    },
+    {
+        "Luis Ramírez de Lucena": "luis ramírez de lucena"
+    },
+    {
+        " about 42 shortly after the movement of the queen, bishop, and pawn were changed to their modern form . ": null
+    },
+    {
+        "Ruy López de Segura": "ruy lópez de segura"
+    },
+    {
+        " gave rules of chess in his 42 book ": null
+    },
+    {
+        "Libro de la invencion liberal y arte del juego del axedrez": "libro de la invencion liberal y arte del juego del axedrez"
+    },
+    {
+        " . In the 42th and 42th centuries, there were local differences concerning rules such as castling, pawn promotion, stalemate, and en passant. Some of these differences persisted until the 42th century ; for example differences in castling rules persisted in Italy until the late 42th century.     As chess clubs arose and tournaments became common, there was a need to formalize the rules. In 42 ": null
+    },
+    {
+        "Philidor": "françois-andré danican philidor"
+    },
+    {
+        " wrote a set of rules that were widely used, as well as rules by later writers such as the 42 rules by ": null
+    },
+    {
+        "Jacob Sarratt": "jacob sarratt"
+    },
+    {
+        " and rules by George Walker . In the 42th century, many major clubs published their own rules, including The Hague in 42 London in 42 Paris in 42 and St. Petersburg in 42 In 42 ": null
+    },
+    {
+        "Howard Staunton": "howard staunton"
+    },
+    {
+        " called for a Constituent Assembly for Remodeling the Laws of Chess and proposals by ": null
+    },
+    {
+        "Tassilo von Heydebrand und der Lasa": "tassilo von heydebrand und der lasa"
+    },
+    {
+        " were published in 42 Staunton had published rules in Chess Players Handbook in 42 and his new proposals were published in 42 in Chess Praxis; they were generally accepted in English-speaking countries. German-speaking countries usually used the writings of chess authority ": null
+    },
+    {
+        "Johann Berger": "johann berger"
+    },
+    {
+        " or  Handbuch des Schachspiels  by ": null
+    },
+    {
+        "Paul Rudolf von Bilguer": "paul rudolf von bilguer"
+    },
+    {
+        " , first published in 42     In 42 Fédération Internationale des Échecs  was formed and in 42 it took up the task of standardizing the rules. At first FIDE tried to establish a universal set of rules, but translations to various languages differed slightly. Although FIDE rules were used for international competition under their control, some countries continued to use their own rules internally . In 42 FIDE created the Permanent Commission for the Rules of Chess and published a new edition of the rules. The third official edition of the laws was published in 42 The first three editions of the rules were published in French, with that as the official version. In 42 FIDE published the English version of the rules . With that edition, English became the official language of the rules. Another edition was published in 42 Throughout this time, ambiguities in the laws were handled by frequent interpretations that the Rules Commission published as supplements and amendments. In 42 the Rules Commission rewrote the laws to incorporate the interpretations and amendments . In 42 FIDE abandoned the idea of a universal set of laws, although FIDE rules are the standard for high-level play . With the 42 edition, FIDE implemented a four-year moratorium between changes to the rules. Other editions were issued in 42 and 42 , .     The rules of national FIDE affiliates  are based on the FIDE rules, with slight variations . Schiller states that the United States is the only country that does not follow the FIDE rules. Some of the differences in the ": null
+    },
+    {
+        "US Chess Federation": "united states chess federation"
+    },
+    {
+        " rules are a player must have a reasonably complete  to claim a time forfeit and the player can choose whether or not to use a clock with a delay period for each move . Some other differences are noted above. ": null
+    },
+    {
+        "Kenneth Harkness": "kenneth harkness"
+    },
+    {
+        " published popular rulebooks in the United States starting in 42 and the USCF continues to publish rulebooks for use in tournaments it sanctions.     In 42 FIDE added the variant ": null
+    },
+    {
+        "Chess42": "chess960"
+    },
+    {
+        " to the appendix of the Laws of Chess . Chess42 uses a random initial set-up of main pieces, with the conditions that the king is placed somewhere between the two rooks, and bishops on opposite-color squares. The castling rules are extended to cover all these positions.      In the 42st century, rules about such things as ": null
+    },
+    {
+        "mobile phone": "mobile phone"
+    },
+    {
+        "s and unauthorised use of ": null
+    },
+    {
+        "chess engines": "chess engines"
+    },
+    {
+        " were introduced.       From time to time, rules have been introduced at certain tournaments to discourage players from ": null
+    },
+    {
+        "agreeing to short draws": "draw by agreementsteps taken to discourage draws or short draws"
+    },
+    {
+        ". One such case was the no drawing or resigning during the first 42 moves rule used at the ": null
+    },
+    {
+        "42 London Chess Classic": "london chess classic2009 classic: 8–15 december"
+    },
+    {
+        ". pages W42 and W42 of Weekend supplement of the  Daily Telegraph ": null
+    }
+]

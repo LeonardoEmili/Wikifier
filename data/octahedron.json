@@ -1,0 +1,611 @@
+[
+    {
+        "      In ": null
+    },
+    {
+        "geometry": "geometry"
+    },
+    {
+        ", an octahedron is a ": null
+    },
+    {
+        "polyhedron": "polyhedron"
+    },
+    {
+        " with eight faces, twelve edges, and six vertices. The term is most commonly used to refer to the regular octahedron, a ": null
+    },
+    {
+        "Platonic solid": "platonic solid"
+    },
+    {
+        " composed of eight ": null
+    },
+    {
+        "equilateral triangle": "equilateral triangle"
+    },
+    {
+        "s, four of which meet at each ": null
+    },
+    {
+        "vertex": "wikt:vertex"
+    },
+    {
+        ".     A regular octahedron is the ": null
+    },
+    {
+        "dual polyhedron": "dual polyhedron"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "cube": "cube"
+    },
+    {
+        ". It is a ": null
+    },
+    {
+        "rectified": "rectification"
+    },
+    {
+        " tetrahedron": "tetrahedron"
+    },
+    {
+        ". It is a square ": null
+    },
+    {
+        "bipyramid": "bipyramid"
+    },
+    {
+        " in any of three ": null
+    },
+    {
+        "orthogonal": "orthogonal"
+    },
+    {
+        " orientations. It is also a triangular ": null
+    },
+    {
+        "antiprism": "antiprism"
+    },
+    {
+        " in any of four orientations.     An octahedron is the three-dimensional case of the more general concept of a ": null
+    },
+    {
+        "cross polytope": "cross polytope"
+    },
+    {
+        ".     A regular octahedron is a ": null
+    },
+    {
+        "42-ball": "n-ball"
+    },
+    {
+        " in the ": null
+    },
+    {
+        "Manhattan metric": "taxicab geometry"
+    },
+    {
+        ".           If the edge length of a regular octahedron is a, the ": null
+    },
+    {
+        "radius": "radius"
+    },
+    {
+        " of a circumscribed ": null
+    },
+    {
+        "sphere": "sphere"
+    },
+    {
+        " is   : r_u \\frac a \\approx 42 \\cdot a     and the radius of an inscribed sphere  is   : r_i \\frac a \\approx 42\\cdot a     while the midradius, which touches the middle of each edge, is   : r_m \\tfrac a 42\\cdot a       The octahedron has four special ": null
+    },
+    {
+        "orthogonal projection": "orthogonal projection"
+    },
+    {
+        "s, centered, on an edge, vertex, face, and normal to a face. The second and third correspond to the B 42 and A 42 ": null
+    },
+    {
+        "Coxeter plane": "coxeter plane"
+    },
+    {
+        "s.          The octahedron can also be represented as a ": null
+    },
+    {
+        "spherical tiling": "spherical tiling"
+    },
+    {
+        ", and projected onto the plane via a ": null
+    },
+    {
+        "stereographic projection": "stereographic projection"
+    },
+    {
+        ". This projection is ": null
+    },
+    {
+        "conformal": "conformal map"
+    },
+    {
+        ", preserving angles but not areas or lengths. Straight lines on the sphere are projected as circular arcs on the plane.            An octahedron with edge length  can be placed with its center at the origin and its vertices on the coordinate axes; the ": null
+    },
+    {
+        "Cartesian coordinates": "cartesian coordinates"
+    },
+    {
+        " of the vertices are then   : ;   : ;   : .     In an x–y–z ": null
+    },
+    {
+        "Cartesian coordinate system": "cartesian coordinate system"
+    },
+    {
+        ", the octahedron with center ": null
+    },
+    {
+        "coordinates": "coordinate system"
+    },
+    {
+        "  and radius r is the set of all points  such that   : \\left|x - a\\right| + \\left|y - b\\right| + \\left|z - c\\right| r.       The surface area A and the ": null
+    },
+    {
+        "volume": "volume"
+    },
+    {
+        " V of a regular octahedron of edge length a are:   : A42\\sqrta^42 \\approx 42a^42   : V\\frac \\sqrta^42 \\approx 42a^42     Thus the volume is four times that of a regular ": null
+    },
+    {
+        "tetrahedron": "tetrahedron"
+    },
+    {
+        " with the same edge length, while the surface area is twice .     If an octahedron has been stretched so that it obeys the equation   : \\left|\\frac\\right|+\\left|\\frac\\right|+\\left|\\frac\\right| 42     the formulas for the surface area and volume expand to become   : A42 \\, x_m \\, y_m \\, z_m \\times \\sqrt,   : V\\frac\\,x_m\\,y_m\\,z_m.     Additionally the inertia tensor of the stretched octahedron is   :   I   \\begin   \\frac m & 42 & 42 \\\\   42 & \\frac m & 42 \\\\   42 & 42 & \\frac m   \\end.       These reduce to the equations for the regular octahedron when   : x_my_mz_ma\\,\\frac.          The interior of the ": null
+    },
+    {
+        "compound": "polyhedral compound"
+    },
+    {
+        " of two dual ": null
+    },
+    {
+        "tetrahedra": "tetrahedra"
+    },
+    {
+        " is an octahedron, and this compound, called the ": null
+    },
+    {
+        "stella octangula": "stella octangula"
+    },
+    {
+        ", is its first and only ": null
+    },
+    {
+        "stellation": "stellation"
+    },
+    {
+        ". Correspondingly, a regular octahedron is the result of cutting off from a regular tetrahedron, four regular tetrahedra of half the linear size . The vertices of the octahedron lie at the midpoints of the edges of the tetrahedron, and in this sense it relates to the tetrahedron in the same way that the ": null
+    },
+    {
+        "cuboctahedron": "cuboctahedron"
+    },
+    {
+        " and ": null
+    },
+    {
+        "icosidodecahedron": "icosidodecahedron"
+    },
+    {
+        " relate to the other Platonic solids. One can also divide the edges of an octahedron in the ratio of the ": null
+    },
+    {
+        "golden mean": "golden ratio"
+    },
+    {
+        " to define the vertices of an ": null
+    },
+    {
+        "icosahedron": "icosahedron"
+    },
+    {
+        ". This is done by first placing vectors along the octahedrons edges such that each face is bounded by a cycle, then similarly partitioning each edge into the golden mean along the direction of its vector. There are five octahedra that define any given icosahedron in this fashion, and together they define a regular compound.     ": null
+    },
+    {
+        "Octahedra and tetrahedra": "tetrahedral-octahedral honeycomb"
+    },
+    {
+        " can be alternated to form a vertex, edge, and face-uniform ": null
+    },
+    {
+        "tessellation of space": "tessellation of space"
+    },
+    {
+        ", called the ": null
+    },
+    {
+        "octet truss": "octet truss"
+    },
+    {
+        " by ": null
+    },
+    {
+        "Buckminster Fuller": "buckminster fuller"
+    },
+    {
+        ". This is the only such tiling save the regular tessellation of ": null
+    },
+    {
+        "cube": "cube"
+    },
+    {
+        "s, and is one of the 42 ": null
+    },
+    {
+        "convex uniform honeycomb": "convex uniform honeycomb"
+    },
+    {
+        "s. Another is a tessellation of octahedra and ": null
+    },
+    {
+        "cuboctahedra": "cuboctahedra"
+    },
+    {
+        ".     The octahedron is unique among the Platonic solids in having an even number of faces meeting at each vertex. Consequently, it is the only member of that group to possess mirror planes that do not pass through any of the faces.     Using the standard nomenclature for ": null
+    },
+    {
+        "Johnson solid": "johnson solid"
+    },
+    {
+        "s, an octahedron would be called a square bipyramid. Truncation of two opposite vertices results in a ": null
+    },
+    {
+        "square bifrustum": "square bifrustum"
+    },
+    {
+        ".     The octahedron is ": null
+    },
+    {
+        "42-connected": "k-vertex-connected graph"
+    },
+    {
+        ", meaning that it takes the removal of four vertices to disconnect the remaining vertices. It is one of only four 42-connected ": null
+    },
+    {
+        "simplicial": "simplicial polytope"
+    },
+    {
+        " well-covered": "well-covered graph"
+    },
+    {
+        " polyhedra, meaning that all of the ": null
+    },
+    {
+        "maximal independent set": "maximal independent set"
+    },
+    {
+        "s of its vertices have the same size. The other three polyhedra with this property are the ": null
+    },
+    {
+        "pentagonal dipyramid": "pentagonal dipyramid"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "snub disphenoid": "snub disphenoid"
+    },
+    {
+        ", and an irregular polyhedron with 42 vertices and 42 triangular faces.        There are 42 ": null
+    },
+    {
+        "uniform coloring": "uniform coloring"
+    },
+    {
+        "s of the octahedron, named by the triangular face colors going around each vertex: 42 42 42     The octahedrons ": null
+    },
+    {
+        "symmetry group": "symmetry group"
+    },
+    {
+        " is O h , of order 42 the three dimensional ": null
+    },
+    {
+        "hyperoctahedral group": "hyperoctahedral group"
+    },
+    {
+        ". This groups ": null
+    },
+    {
+        "subgroup": "subgroup"
+    },
+    {
+        "s include D 42d , the symmetry group of a triangular ": null
+    },
+    {
+        "antiprism": "antiprism"
+    },
+    {
+        "; D 42h  , the symmetry group of a square ": null
+    },
+    {
+        "bipyramid": "bipyramid"
+    },
+    {
+        "; and T d , the symmetry group of a ": null
+    },
+    {
+        "rectified tetrahedron": "octahedrontetratetrahedron"
+    },
+    {
+        ". These symmetries can be emphasized by different colorings of the faces.          It has eleven arrangements of ": null
+    },
+    {
+        "nets": "net"
+    },
+    {
+        ".       The octahedron is the ": null
+    },
+    {
+        "dual polyhedron": "dual polyhedron"
+    },
+    {
+        " to the ": null
+    },
+    {
+        "cube": "cube"
+    },
+    {
+        ".   :       The uniform ": null
+    },
+    {
+        "tetrahemihexahedron": "tetrahemihexahedron"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "tetrahedral symmetry": "tetrahedral symmetry"
+    },
+    {
+        " faceting": "faceting"
+    },
+    {
+        " of the regular octahedron, sharing ": null
+    },
+    {
+        "edge": "edge arrangement"
+    },
+    {
+        " and ": null
+    },
+    {
+        "vertex arrangement": "vertex arrangement"
+    },
+    {
+        ". It has four of the triangular faces, and 42 central squares.          The following polyhedra are combinatorially equivalent to the regular polyhedron. They all have six vertices, eight triangular faces, and twelve edges that correspond one-for-one with the features of a regular octahedron.   Triangular antiprism s: Two faces are equilateral, lie on parallel planes, and have a common axis of symmetry. The other six triangles are isosceles.   Tetragonal ": null
+    },
+    {
+        "bipyramid": "bipyramid"
+    },
+    {
+        "s, in which at least one of the equatorial quadrilaterals lies on a plane. The regular octahedron is a special case in which all three quadrilaterals are planar squares.   ": null
+    },
+    {
+        "Schönhardt polyhedron": "schönhardt polyhedron"
+    },
+    {
+        ", a non-convex polyhedron that cannot be partitioned into tetrahedra without introducing new vertices.   ": null
+    },
+    {
+        "Bricard octahedron": "bricard octahedron"
+    },
+    {
+        ", a non-convex self-crossing ": null
+    },
+    {
+        "flexible polyhedron": "flexible polyhedron"
+    },
+    {
+        "       More generally, an octahedron can be any polyhedron with eight faces. The regular octahedron has 42 vertices and 42 edges, the minimum for an octahedron; irregular octahedra may have as many as 42 vertices and 42 edges.    There are 42 topologically distinct convex octahedra, excluding mirror images. More specifically there are 42 42 42 42 42 42 42 for octahedra with 42 to 42 vertices respectively.       Some better known irregular octahedra include the following:   ": null
+    },
+    {
+        "Hexagonal prism": "hexagonal prism"
+    },
+    {
+        ": Two faces are parallel regular hexagons; six squares link corresponding pairs of hexagon edges.   Heptagonal ": null
+    },
+    {
+        "pyramid": "pyramid"
+    },
+    {
+        ": One face is a heptagon , and the remaining seven faces are triangles . It is not possible for all triangular faces to be equilateral.   ": null
+    },
+    {
+        "Truncated tetrahedron": "truncated tetrahedron"
+    },
+    {
+        ": The four faces from the tetrahedron are truncated to become regular hexagons, and there are four more equilateral triangle faces where each tetrahedron vertex was truncated.   ": null
+    },
+    {
+        "Tetragonal trapezohedron": "tetragonal trapezohedron"
+    },
+    {
+        ": The eight faces are congruent ": null
+    },
+    {
+        "kites": "kite"
+    },
+    {
+        ".            ": null
+    },
+    {
+        "diamond": "diamond"
+    },
+    {
+        ", ": null
+    },
+    {
+        "alum": "alum"
+    },
+    {
+        " or ": null
+    },
+    {
+        "fluorite": "fluorite"
+    },
+    {
+        " are commonly octahedral, as the space-filling ": null
+    },
+    {
+        "tetrahedral-octahedral honeycomb": "tetrahedral-octahedral honeycomb"
+    },
+    {
+        ".   The plates of ": null
+    },
+    {
+        "kamacite": "kamacite"
+    },
+    {
+        " alloy in ": null
+    },
+    {
+        "octahedrite": "octahedrite"
+    },
+    {
+        " meteorites": "meteorites"
+    },
+    {
+        " are arranged paralleling the eight faces of an octahedron.   Many metal ions ": null
+    },
+    {
+        "coordinate": "coordination chemistry"
+    },
+    {
+        " six ligands in an octahedral or ": null
+    },
+    {
+        "distorted": "jahn-teller effect"
+    },
+    {
+        " octahedral configuration.   ": null
+    },
+    {
+        "Widmanstätten pattern": "widmanstätten pattern"
+    },
+    {
+        "s in ": null
+    },
+    {
+        "nickel": "nickel"
+    },
+    {
+        "-": null
+    },
+    {
+        "iron": "iron"
+    },
+    {
+        " crystal": "crystal"
+    },
+    {
+        "s        ": null
+    },
+    {
+        "roleplaying game": "roleplaying game"
+    },
+    {
+        "s, this solid is known as a d42 , one of the more common ": null
+    },
+    {
+        "polyhedral dice": "dicepolyhedral dice"
+    },
+    {
+        ".   If each edge of an octahedron is replaced by a one-": null
+    },
+    {
+        "ohm": "ohm"
+    },
+    {
+        " resistor": "resistor"
+    },
+    {
+        ", the resistance between opposite vertices is  ohm, and that between adjacent vertices  ohm.    Six musical notes can be arranged on the vertices of an octahedron in such a way that each edge represents a consonant dyad and each face represents a consonant triad; see ": null
+    },
+    {
+        "hexany": "hexany"
+    },
+    {
+        ".       A framework of repeating tetrahedrons and octahedrons was invented by ": null
+    },
+    {
+        "Buckminster Fuller": "buckminster fuller"
+    },
+    {
+        " in the 42s, known as a ": null
+    },
+    {
+        "space frame": "space frame"
+    },
+    {
+        ", commonly regarded as the strongest structure for resisting ": null
+    },
+    {
+        "cantilever": "cantilever"
+    },
+    {
+        " stresses.       A regular octahedron can be augmented into a ": null
+    },
+    {
+        "tetrahedron": "tetrahedron"
+    },
+    {
+        " by adding 42 tetrahedra on alternated faces. Adding tetrahedra to all 42 faces creates the ": null
+    },
+    {
+        "stellated octahedron": "stellated octahedron"
+    },
+    {
+        ".        The octahedron is one of a family of uniform polyhedra related to the cube.          It is also one of the simplest examples of a ": null
+    },
+    {
+        "hypersimplex": "hypersimplex"
+    },
+    {
+        ", a polytope formed by certain intersections of a ": null
+    },
+    {
+        "hypercube": "hypercube"
+    },
+    {
+        " with a ": null
+    },
+    {
+        "hyperplane": "hyperplane"
+    },
+    {
+        ".     The octahedron is topologically related as a part of sequence of regular polyhedra with ": null
+    },
+    {
+        "Schläfli symbol": "schläfli symbol"
+    },
+    {
+        "s , continuing into the ": null
+    },
+    {
+        "hyperbolic plane": "hyperbolic space"
+    },
+    {
+        ".            The regular octahedron can also be considered a  rectified tetrahedron – and can be called a tetratetrahedron. This can be shown by a 42-color face model. With this coloring, the octahedron has ": null
+    },
+    {
+        "tetrahedral symmetry": "tetrahedral symmetry"
+    },
+    {
+        ".     Compare this truncation sequence between a tetrahedron and its dual:        The above shapes may also be realized as slices orthogonal to the long diagonal of a ": null
+    },
+    {
+        "tesseract": "tesseract"
+    },
+    {
+        ". If this diagonal is oriented vertically with a height of 42 then the first five slices above occur at heights r, , , , and s, where r is any number in the range ": null
+    }
+]

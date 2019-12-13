@@ -1,0 +1,185 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "differential geometry": "differential geometry"
+    },
+    {
+        ", one can attach to every point x of a ": null
+    },
+    {
+        "smooth manifold": "smooth manifold"
+    },
+    {
+        ", \\mathcal M , a ": null
+    },
+    {
+        "vector space": "vector space"
+    },
+    {
+        " called the cotangent space at  x . Typically, the cotangent space, T^_x\\!\\mathcal M is defined as the ": null
+    },
+    {
+        "dual space": "dual space"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "tangent space": "tangent space"
+    },
+    {
+        " at  x , T_x\\mathcal M , although there are more direct definitions . The elements of the cotangent space are called cotangent vectors or tangent covectors.       All cotangent spaces at points on a connected manifold have the same ": null
+    },
+    {
+        "dimension": "dimension of a vector space"
+    },
+    {
+        ", equal to the dimension of the manifold. All the cotangent spaces of a manifold can be glued together to form a new differentiable manifold of twice the dimension, the ": null
+    },
+    {
+        "cotangent bundle": "cotangent bundle"
+    },
+    {
+        " of the manifold.     The tangent space and the cotangent space at a point are both real vector spaces of the same dimension and therefore ": null
+    },
+    {
+        "isomorphic": "isomorphic"
+    },
+    {
+        " to each other via many possible isomorphisms. The introduction of a ": null
+    },
+    {
+        "Riemannian metric": "riemannian metric"
+    },
+    {
+        " or a ": null
+    },
+    {
+        "symplectic form": "symplectic form"
+    },
+    {
+        " gives rise to a ": null
+    },
+    {
+        "natural isomorphism": "natural isomorphism"
+    },
+    {
+        " between the tangent space and the cotangent space at a point, associating to any tangent covector a canonical tangent vector.             Let  \\mathcal M  be a smooth manifold and let  x  be a point in  \\mathcal M . Let  T_x\\mathcal M  be the ": null
+    },
+    {
+        "tangent space": "tangent space"
+    },
+    {
+        " at  x . Then the cotangent space at x is defined as the ": null
+    },
+    {
+        "dual space": "dual space"
+    },
+    {
+        " of  T_x\\mathcal M :     : T^_x\\!\\mathcal M ^     Concretely, elements of the cotangent space are ": null
+    },
+    {
+        "linear functional": "linear functional"
+    },
+    {
+        "s on  T_x\\mathcal M . That is, every element \\alpha\\in T^_x\\mathcal M is a ": null
+    },
+    {
+        "linear map": "linear map"
+    },
+    {
+        "   : \\alpha:T_x\\mathcal M \\rightarrow F     where F is the underlying ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        " of the vector space being considered, for example, the field of ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s. The elements of T^_x\\!\\mathcal M are called cotangent vectors.         In some cases, one might like to have a direct definition of the cotangent space without reference to the tangent space. Such a definition can be formulated in terms of ": null
+    },
+    {
+        "equivalence class": "equivalence class"
+    },
+    {
+        "es of smooth functions on  \\mathcal M . Informally, we will say that two smooth functions f and g are equivalent at a point  x  if they have the same first-order behavior near  x , analogous to their linear Taylor polynomials; two functions f and g have the same first order behavior near  x  if and only if the derivative of the function f-g vanishes at  x . The cotangent space will then consist of all the possible first-order behaviors of a function near  x .     Let M be a smooth manifold and let x be a point in  \\mathcal M . Let I_x be the ": null
+    },
+    {
+        "ideal": "ideal"
+    },
+    {
+        " of all functions in C^\\infty\\! vanishing at  x , and let I_x^42 be the set of functions of the form \\sum_i f_i g_i\\, , where f_i,g_i\\in I_x . Then  I_x  and I_x^42 are real vector spaces and the cotangent space is defined as the ": null
+    },
+    {
+        "quotient space": "quotient space"
+    },
+    {
+        " T^_x\\!\\mathcal M I_x/I^42_x .     This formulation is analogous to the construction of the cotangent space to define the ": null
+    },
+    {
+        "Zariski tangent space": "zariski tangent space"
+    },
+    {
+        " in algebraic geometry. The construction also generalizes to ": null
+    },
+    {
+        "locally ringed space": "locally ringed space"
+    },
+    {
+        "s.         Let M be a smooth manifold and let f ∈ C ∞  be a ": null
+    },
+    {
+        "smooth function": "smooth function"
+    },
+    {
+        ". The differential of f at a point x is the map   :df x  X x    where X x is a ": null
+    },
+    {
+        "tangent vector": "differential geometry of curves"
+    },
+    {
+        " at x, thought of as a derivation. That is X\\mathcal_Xf is the ": null
+    },
+    {
+        "Lie derivative": "lie derivative"
+    },
+    {
+        " of f in the direction X, and one has dfX. Equivalently, we can think of tangent vectors as tangents to curves, and write   :df x  & prime;   In either case, df x is a linear map on T x M and hence it is a tangent covector at x.     We can then define the differential map d : C ∞  → T x M at a point x as the map which sends f to df x . Properties of the differential map include:     d is a linear map: d a df + b dg for constants a and b,   d x fdg x + gdf x ,     The differential map provides the link between the two alternate definitions of the cotangent space given above. Given a function f ∈ I x  we can form the linear functional df x as above. Since the map d restricts to 42 on I x 42 , d descends to a map from I x / I x 42 to the dual of the tangent space,  . One can show that this map is an isomorphism, establishing the equivalence of the two definitions.         Just as every differentiable map f : M → N between manifolds induces a linear map  between the tangent spaces   : f_^\\colon T_x M \\to T_ N   every such map induces a linear map  between the cotangent spaces, only this time in the reverse direction:   : f^\\colon T_^ N \\to T_^ M   The pullback is naturally defined as the dual of the ": null
+    },
+    {
+        "pushforward": "pushforward"
+    },
+    {
+        ". Unraveling the definition, this means the following:   : \\theta   where θ ∈ T f N and X x ∈ T x M. Note carefully where everything lives.     If we define tangent covectors in terms of equivalence classes of smooth maps vanishing at a point then the definition of the pullback is even more straightforward. Let g be a smooth function on N vanishing at f. Then the pullback of the covector determined by g  is given by   : f^\\mathrm dg \\mathrm d.   That is, it is the equivalence class of functions on M vanishing at x determined by g o f.         The k-th ": null
+    },
+    {
+        "exterior power": "exterior power"
+    },
+    {
+        " of the cotangent space, denoted Λ k , is another important object in differential geometry. Vectors in the kth exterior power, or more precisely sections of the k-th exterior power of the ": null
+    },
+    {
+        "cotangent bundle": "cotangent bundle"
+    },
+    {
+        ", are called ": null
+    },
+    {
+        "differential k-forms": "differential form"
+    },
+    {
+        ". They can be thought of as alternating, ": null
+    },
+    {
+        "multilinear map": "multilinear map"
+    },
+    {
+        "s on k tangent vectors.   For this reason, tangent covectors are frequently called  one-form s": null
+    }
+]

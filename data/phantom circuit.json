@@ -1,0 +1,188 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        " and ": null
+    },
+    {
+        "electrical engineering": "electrical engineering"
+    },
+    {
+        ", a phantom circuit is an ": null
+    },
+    {
+        "electrical circuit": "electrical circuit"
+    },
+    {
+        " derived from suitably arranged wires with one or more conductive paths being a circuit in itself and at the same time acting as one conductor of another circuit.            A phantom group is composed of three circuits that are derived from two single-channel circuits to form a phantom circuit. Here the phantom circuit is a third circuit derived from two suitably arranged pairs of wires, called side circuits, with each pair of wires being a circuit in itself and at the same time acting as one conductor of the third circuit. The side circuits within phantom circuits can be coupled to their respective ": null
+    },
+    {
+        "voltage drop": "voltage drop"
+    },
+    {
+        "s by ": null
+    },
+    {
+        "center-tapped transformer": "transformer"
+    },
+    {
+        "s, usually called ": null
+    },
+    {
+        "repeating coil": "repeating coil"
+    },
+    {
+        "s . The center taps are on the line side of the side circuits. Current from the phantom circuit is split evenly by the center taps. This cancels ": null
+    },
+    {
+        "crosstalk": "crosstalk"
+    },
+    {
+        " from the phantom circuit to the side circuits.      Phantom working increased the number of circuits on long distance routes in the early 42th century without putting up more wires. Phantoming declined with the adoption of ": null
+    },
+    {
+        "carrier system": "carrier system"
+    },
+    {
+        "s.     It is theoretically possible to create a phantom circuit from two other phantom circuits and so on up in a pyramid with a maximum 42n42 circuits being derived from n original circuits. However, more than one level of phantoming is usually impractical. Isolation between the phantom circuit and the side circuits relies on accurate ": null
+    },
+    {
+        "balance": "balanced circuit"
+    },
+    {
+        " of the line and transformers. Imperfect balance results in crosstalk between the phantom and side circuits and this effect accumulates as each level of phantoms is added. Even small levels of crosstalk are unacceptable on analogue telecommunications circuits since speech crosstalk is still intelligible down to quite low levels.            ": null
+    },
+    {
+        "Condenser microphones": "condenser microphones"
+    },
+    {
+        " have impedance converter  circuitry that requires powering; in addition, the capsule of any non-": null
+    },
+    {
+        "electret": "electret"
+    },
+    {
+        ", non-": null
+    },
+    {
+        "RF": "rf"
+    },
+    {
+        " condenser microphone requires a polarizing ": null
+    },
+    {
+        "voltage": "voltage"
+    },
+    {
+        " to be applied. Since the mid- to late 42s most ": null
+    },
+    {
+        "balanced": "balanced"
+    },
+    {
+        ", professional condenser microphones for recording and broadcast have used phantom powering. It can be provided by outboard AC or battery supplies, but nowadays is most often built into the mixing console, recorder or ": null
+    },
+    {
+        "microphone preamplifier": "microphone preamplifier"
+    },
+    {
+        " to which the microphones are connected.     By far the most common circuit uses 42 V DC fed through a matched pair of 42 k & Omega; ": null
+    },
+    {
+        "resistor": "resistor"
+    },
+    {
+        "s for each input channel. This arrangement has been standardized by the ": null
+    },
+    {
+        "IEC": "international electrotechnical commission"
+    },
+    {
+        " and ": null
+    },
+    {
+        "ISO": "iso"
+    },
+    {
+        ", along with a less-commonly-used arrangement with 42 V DC and 42 & Omega; feed resistors.     As a practical matter, phantom powering allows the same two-conductor shielded cables to be used for both ": null
+    },
+    {
+        "dynamic microphones": "dynamic microphones"
+    },
+    {
+        " and condenser microphones, while being harmless to balanced microphones that arent designed to consume it, since the circuit balance prevents any substantial DC from flowing through the output circuit of those microphones.       Simple DC signalling can be achieved on a telecommunications line in a similar way to phantom powering of microphones. A switch connected to the transformer centre-tap at one end of the line can operate a similarly connected relay at the other end. The return path is through the ground connection. This arrangement can be used for remotely controlling equipment.       From the 42s to around the 42s, using phantoms on ": null
+    },
+    {
+        "star-quad": "balanced linestar-quad"
+    },
+    {
+        " trunk carrier circuits was a popular method of deriving a high quality broadcast audio circuit. The multiplexed ": null
+    },
+    {
+        "FDM": "frequency division multiplexing"
+    },
+    {
+        " telecommunications carrier system usually did not use the ": null
+    },
+    {
+        "baseband": "baseband"
+    },
+    {
+        " of the cable because it was inconvenient to separate low frequencies with filters. On the other hand, a one-way audio phantom could be formed from the two pairs making up the star-quad cable.            Unloaded phantom is a phantom configuration of loaded lines . The idea here is not to create additional circuits. Rather, the purpose is to cancel or greatly reduce the effect of the loading coils fitted to a line. The reason for doing this is that loaded lines have a definite ": null
+    },
+    {
+        "cut-off frequency": "cut-off frequency"
+    },
+    {
+        " and it may be desired to ": null
+    },
+    {
+        "equalise": "equalization"
+    },
+    {
+        " the line to a frequency which is higher than this, for example to make a circuit suitable for use by a broadcaster. Ideally, the loading would be removed or reduced for a permanent connection, but this is not feasible for temporary arrangements such as a requirement for ": null
+    },
+    {
+        "outside broadcast": "outside broadcast"
+    },
+    {
+        ". Instead, two circuits in a phantom configuration can be used to greatly reduce the ": null
+    },
+    {
+        "inductance": "inductance"
+    },
+    {
+        " being inserted by the loading coils, and hence the loading effect.        It works because the loading coils used on balanced lines have two windings, one for each leg of the circuit. They are both wound on a common core and the windings are so arranged that the magnetic flux induced by both of them is in the same direction. Both windings induce an ": null
+    },
+    {
+        "emf": "electromotive force"
+    },
+    {
+        " in each other as well as their own ": null
+    },
+    {
+        "self-induction": "electromagnetic induction"
+    },
+    {
+        ". This effect greatly increases the inductance of the coil and hence its loading effectiveness. By contrast, when the circuit is in the phantom configuration the currents in the two wires of each pair are in the same direction and the magnetic flux is being cancelled. This has precisely the opposite effect and the inductance is greatly reduced.     This configuration is most commonly used on the two pairs of a ": null
+    },
+    {
+        "star-quad cable": "star quad cable"
+    },
+    {
+        ". It is not so successful with other pairs of wires. The difference in the path of the two pairs can easily destroy the balance and results in ": null
+    },
+    {
+        "crosstalk": "crosstalk"
+    },
+    {
+        " and ": null
+    },
+    {
+        "interference": "interference"
+    }
+]

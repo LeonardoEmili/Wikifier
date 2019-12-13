@@ -1,0 +1,62 @@
+[
+    {
+        "The VA Kernel is a set of programs, developed by the Department of Veterans Affairs of the United States Government, which provide an operating system and ": null
+    },
+    {
+        "MUMPS": "mumps"
+    },
+    {
+        " implementation independent abstraction to the ": null
+    },
+    {
+        "VistA": "vista"
+    },
+    {
+        " Hospital Information System. These programs are the only programs which are expected to not be written in ANSI Standard MUMPS.     The MUMPS language used in the kernel is amazingly simple, consisting of a single language , a single data type , a single data storage mechanism , 42 commands and 42 functions. MUMPS is a ": null
+    },
+    {
+        "symbolic language": "symbolic language"
+    },
+    {
+        " with linguistic roots closer to ": null
+    },
+    {
+        "LISP": "lisp"
+    },
+    {
+        " than ": null
+    },
+    {
+        "Fortran": "fortran"
+    },
+    {
+        " or ": null
+    },
+    {
+        "COBOL": "cobol"
+    },
+    {
+        ". Because of this simple software layer, the ": null
+    },
+    {
+        "VistA": "vista"
+    },
+    {
+        " software architecture has been able to adapt to changing hardware environments over the decades with only the minimum amount of software changes at higher levels of abstraction.     The ": null
+    },
+    {
+        "CHCS": "chcs"
+    },
+    {
+        " system and the ": null
+    },
+    {
+        "RPMS": "rpms"
+    },
+    {
+        " system have a Kernel as well, which provides a similar degree of support to those systems as the VA Kernel does to ": null
+    },
+    {
+        "VistA": "vista"
+    }
+]

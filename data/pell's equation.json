@@ -1,0 +1,524 @@
+[
+    {
+        "   Pells equation  is any ": null
+    },
+    {
+        "Diophantine equation": "diophantine equation"
+    },
+    {
+        " of the form     : x^42-ny^42\\,     where n is a given positive ": null
+    },
+    {
+        "nonsquare": "square number"
+    },
+    {
+        " integer": "integer"
+    },
+    {
+        " and integer solutions are sought for x and y. In ": null
+    },
+    {
+        "Cartesian coordinates": "cartesian coordinates"
+    },
+    {
+        ", the equation has the form of a ": null
+    },
+    {
+        "hyperbola": "hyperbola"
+    },
+    {
+        "; solutions occur wherever the curve passes through a point whose x and y coordinates are both integers, such as the ": null
+    },
+    {
+        "trivial solution": "triviality"
+    },
+    {
+        " with x    42 and y    42 ": null
+    },
+    {
+        "Joseph Louis Lagrange": "joseph louis lagrange"
+    },
+    {
+        " proved that, as long as n is not a ": null
+    },
+    {
+        "perfect square": "square number"
+    },
+    {
+        ", Pells equation has infinitely many distinct integer solutions. These solutions may be used to accurately ": null
+    },
+    {
+        "approximate": "diophantine approximation"
+    },
+    {
+        " the ": null
+    },
+    {
+        "square root": "square root"
+    },
+    {
+        " of  n by ": null
+    },
+    {
+        "rational number": "rational number"
+    },
+    {
+        "s of the form  x/y.     This equation was first studied extensively ": null
+    },
+    {
+        "in India": "indian mathematics"
+    },
+    {
+        ", starting with ": null
+    },
+    {
+        "Brahmagupta": "brahmagupta"
+    },
+    {
+        ", who developed the ": null
+    },
+    {
+        "chakravala method": "chakravala method"
+    },
+    {
+        " to solve Pells equation and other quadratic indeterminate equations in his ": null
+    },
+    {
+        "Brahma Sphuta Siddhanta": "brahmasphutasiddhanta"
+    },
+    {
+        " in 42 about a thousand years before Pells time. His Brahma Sphuta Siddhanta was translated into ": null
+    },
+    {
+        "Arabic": "arabic"
+    },
+    {
+        " in 42 and was subsequently translated into ": null
+    },
+    {
+        "Latin": "latin"
+    },
+    {
+        " in 42 ": null
+    },
+    {
+        "Bhaskara II": "bhaskara ii"
+    },
+    {
+        " in the 42th century and ": null
+    },
+    {
+        "Narayana Pandit": "narayana pandit"
+    },
+    {
+        " in the 42th century both found general solutions to Pells equation and other quadratic indeterminate equations. Solutions to specific examples of Pells equation, such as the ": null
+    },
+    {
+        "Pell number": "pell number"
+    },
+    {
+        "s arising from the equation with n 42 had been known for much longer, since the time of ": null
+    },
+    {
+        "Pythagoras": "pythagoras"
+    },
+    {
+        " in ": null
+    },
+    {
+        "Greece": "greek mathematics"
+    },
+    {
+        " and to a similar date in India. The name of Pells equation arose from ": null
+    },
+    {
+        "Leonhard Euler": "leonhard euler"
+    },
+    {
+        " mistakenly attributing ": null
+    },
+    {
+        "Lord Brouncker": "lord brouncker"
+    },
+    {
+        "s solution of the equation to ": null
+    },
+    {
+        "John Pell": "john pell"
+    },
+    {
+        ". As early as 42–42 Euler believed that John Pell had developed a method to solve Pells equation, even though Euler knew that Wallis had developed a method to solve it :    From p. 42:  At si a huiusmodi fuerit numerus, qui nullo modo ad illas formulas potest reduci, peculiaris ad invenienda p et q adhibenda est methodus, qua olim iam usi sunt Pellius et Fermatius.   From p. 42:  §. 42 Methodus haec extat descripta in operibus Wallisii, et hanc ob rem eam hic fusius non-expono.    Lettre IX. Euler à Goldbach, dated 42 August 42 in:  From page 42:  Pro hujusmodi quaestionibus solvendis excogitavit D. Pell Anglus peculiarem methodum in Wallisii operibus expositam.     From p. 42:  §42 Hierzu hat vormals ein gelehrter Engländer, Namens Pell, eine ganz sinnreiche Methode erfunden, welche wir hier erklären wollen.    English translation:   See especially footnote 42 In Eulers Vollständige Anleitung zur Algebra , he presents a solution to Pells equation which was taken from John Wallis Commercium epistolicum, specifically, Letter 42  and Letter 42  of:    The letters are in Latin. Letter 42 appears on pp. 42–42 Letter 42 appears on pp. 42–42   French translations of Wallis letters:  Letter 42 appears on pp. 42–42 Letter 42 appears on pp. 42–42   Wallis letters showing a solution to the Pells equation also appear in volume 42 of Wallis Opera mathematica , which includes articles by John Pell:    Letter 42 is on pp. 42–42 ; letter 42 is on pp. 42–42 See also Pells articles, where Wallis mentions that Pells methods are applicable to the solution of Diophantine equations:   : De Algebra D. Johannis Pellii; & speciatim de Problematis imperfecte determinatis. , pp. 42–42   : Methodi Pellianae Specimen. , pp. 42–42   : Specimen aliud Methodi Pellianae. , pp. 42–42   See also:   Whitford, Edward Everett The Pell equation, doctoral thesis, Columbia University ,         As early as 42 BC in India and Greece, mathematicians studied the numbers arising from the n    42 case of Pells equation,     : x^42 - 42y^42   and from the closely related equation   : x^42 - 42y^42 42     because of the connection of these equations to the ": null
+    },
+    {
+        "square root of 42": "square root of 2"
+    },
+    {
+        ". Indeed, if x and y are ": null
+    },
+    {
+        "positive integers": "natural number"
+    },
+    {
+        " satisfying this equation, then x/y is an approximation of . The numbers x and y appearing in these approximations, called ": null
+    },
+    {
+        "side and diameter numbers": "pell number"
+    },
+    {
+        ", were known to the ": null
+    },
+    {
+        "Pythagoreans": "pythagoreanism"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Proclus": "proclus"
+    },
+    {
+        " observed that in the opposite direction these numbers obeyed one of these two equations. Similarly, ": null
+    },
+    {
+        "Baudhayana": "baudhayana"
+    },
+    {
+        " discovered that x 42 y 42 and x 42 y 42 are two solutions to the Pell equation, and that 42/42 and 42/42 are very close approximations to the square root of 42     Later, ": null
+    },
+    {
+        "Archimedes": "archimedes"
+    },
+    {
+        " approximated the ": null
+    },
+    {
+        "square root of 42": "square root of 3"
+    },
+    {
+        " by the rational number 42/42 Although he did not explain his methods, this approximation may be obtained in the same way, as a solution to Pells equation. .   ": null
+    },
+    {
+        "Archimedess cattle problem": "archimedess cattle problem"
+    },
+    {
+        " involves solving a Pellian equation. It is now generally accepted that this problem is due to Archimedes.       Around AD 42 ": null
+    },
+    {
+        "Diophantus": "diophantus"
+    },
+    {
+        " considered the equation     : a^42 x^42+cy^42   where a and c are fixed numbers and x and y are the variables to be solved for.   This equation is different in form from Pells equation but equivalent to it.   Diophantus solved the equation for  equal to , , , and . ": null
+    },
+    {
+        "Al-Karaji": "al-karaji"
+    },
+    {
+        ", a 42th-century Persian mathematician, worked on similar problems to Diophantus.     In Indian mathematics, ": null
+    },
+    {
+        "Brahmagupta": "brahmagupta"
+    },
+    {
+        " discovered that   : ^42 - N^42   . Using this, he was able to compose triples and that were solutions of x^42 - Ny^42 k , to generate the new triples   : and .   Not only did this give a way to generate infinitely many solutions to x^42 - Ny^42 42 starting with one solution, but also, by dividing such a composition by k_42k_42 , integer or nearly integer solutions could often be obtained. For instance, for N42 , Brahmagupta composed the triple with itself to get the new triple . Dividing throughout by 42 gave the triple , which when composed with itself gave the desired integer solution . Brahmagupta solved many Pell equations with this method; in particular he showed how to obtain solutions starting from an integer solution of x^42 - Ny^42 k for k ±42 ±42 or ±42      The first general method for solving the Pell equation  was given by ": null
+    },
+    {
+        "Bhāskara II": "bhāskara ii"
+    },
+    {
+        " in 42 extending the methods of Brahmagupta. Called the ": null
+    },
+    {
+        "chakravala method": "chakravala method"
+    },
+    {
+        ", it starts by choosing two relatively prime integers a and b , then composing the triple with the trivial triple to get the triple , which can be scaled down to     : \\left.     When m is chosen so that \\frac is an integer, so are the other two numbers in the triple. Among such m , the method chooses one that minimizes \\frac , and repeats the process. This method always terminates with a solution . Bhaskara used it to give the solution x 42 y  42 to the notorious N 42 case.     Several European mathematicians rediscovered how to solve Pells equation in the 42th century, apparently unaware that it had been solved almost five hundred years earlier in India. ": null
+    },
+    {
+        "Pierre de Fermat": "pierre de fermat"
+    },
+    {
+        " found how to solve the equation and in a 42 letter issued it as a challenge to English mathematicians. In February 42 Pierre de Fermat wrote two letters about Pells equation. One letter was addressed to Bernard Frénicle de Bessy, and the other was addressed to Kenelm Digby, whom it reached via Thomas White and then William Brouncker.    The letter to Frénicle appears on pp. 42–42; the letter to Digby, on pp. 42–42   The letter in Latin to Digby is translated into French in:      Both letters are translated into English in:    In a letter to ": null
+    },
+    {
+        "Kenelm Digby": "kenelm digby"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Bernard Frénicle de Bessy": "bernard frénicle de bessy"
+    },
+    {
+        " said that Fermat found the smallest solution for N up to 42 and challenged ": null
+    },
+    {
+        "John Wallis": "john wallis"
+    },
+    {
+        " to solve the cases N 42 or 42 Both Wallis and ": null
+    },
+    {
+        "William Brouncker": "william brouncker, 2nd viscount brouncker"
+    },
+    {
+        " gave solutions to these problems, though Wallis suggests in a letter that the solution was due to Brouncker. In January 42 at the end of Epistola XIX , Wallis effusively congratulated Brouncker for his victory in a battle of wits against Fermat regarding the solution of Pells equation.   Et quidem cum Vir Nobilissimus, utut hac sibi suisque tam peculiaria putaverit, & altis impervia,  ut ab Anglis haud speraverit solutionem; profiteatur tamen quil sera pourtant ravi destre destrompé par cet ingenieux & scavant Signieur; erit cur & ipse tibi gratuletur. Me quod attinet, humillimas est quod rependam gratias, quod in Victoriae tuae partem advocare dignatus es, …   Note: The date at the end of Wallis letter is Jan. 42 42 ; however, that date was according to the old Julian calendar; when Britain finally ": null
+    },
+    {
+        "adopted the Gregorian calendar in 42": "calendar  act 1750"
+    },
+    {
+        ", that date became January 42 42     ": null
+    },
+    {
+        "John Pell": "john pell"
+    },
+    {
+        "s connection with the equation is that he revised ": null
+    },
+    {
+        "Thomas Branker": "thomas branker"
+    },
+    {
+        "s translation  of ": null
+    },
+    {
+        "Johann Rahn": "johann rahn"
+    },
+    {
+        "s 42 book Teutsche Algebra Teutsch is a now obsolete referral to the German language, and here also to the, considered genuine, German culture area. Free E-book:  into English, with a discussion of Brounckers solution of the equation. ": null
+    },
+    {
+        "Leonhard Euler": "leonhard euler"
+    },
+    {
+        " mistakenly thought that this solution was due to Pell, as a result of which he named the equation after Pell.     The general theory of Pells equation, based on ": null
+    },
+    {
+        "continued fraction": "continued fraction"
+    },
+    {
+        "s and algebraic manipulations with numbers of the form P+Q\\sqrt, was developed by Lagrange in 42–42 Solution dun Problème dArithmétique , in ": null
+    },
+    {
+        "Joseph Alfred Serret": "joseph alfred serret"
+    },
+    {
+        " ,              Let \\tfrac denote the sequence of ": null
+    },
+    {
+        "convergents": "convergent"
+    },
+    {
+        " to the ": null
+    },
+    {
+        "regular continued fraction": "continued fraction"
+    },
+    {
+        " for \\sqrt . This sequence is unique. Then the pair  solving Pells equation and minimizing x satisfies x 42 h i  and y 42 k i  for some i. This pair is called the fundamental solution. Thus, the fundamental solution may be found by performing the continued fraction expansion and testing each successive convergent until a solution to Pells equation is found.     As  describes, the time for finding the fundamental solution using the continued fraction method, with the aid of the ": null
+    },
+    {
+        "Schönhage–Strassen algorithm": "schönhage–strassen algorithm"
+    },
+    {
+        " for fast integer multiplication, is within a logarithmic factor of the solution size, the number of digits in the pair . However, this is not a ": null
+    },
+    {
+        "polynomial time algorithm": "polynomial time algorithm"
+    },
+    {
+        " because the number of digits in the solution may be as large as , far larger than a polynomial in the number of digits in the input value n .       Once the fundamental solution is found, all remaining solutions may be calculated algebraically from   : x_k + y_k \\sqrt n ^k,   expanding the right side, ": null
+    },
+    {
+        "equating coefficients": "equating coefficients"
+    },
+    {
+        " of \\sqrt on both sides, and equating the other terms on both sides. This yields the ": null
+    },
+    {
+        "recurrence relation": "recurrence relation"
+    },
+    {
+        "s   : \\displaystyle x_ x_42 x_k + n y_42 y_k,   : \\displaystyle y_ x_42 y_k + y_42 x_k.       Although writing out the fundamental solution  as a pair of binary numbers may require a large number of bits, it may in many cases be represented more compactly in the form   : x_42+y_42\\sqrt n \\prod_^t ^   using much smaller integers a i , b i , and c i .     For instance, ": null
+    },
+    {
+        "Archimedes cattle problem": "archimedes cattle problem"
+    },
+    {
+        " is equivalent to the Pell equation x^4242y^42 , the fundamental solution of which has 42 digits if written out explicitly. However, the solution is also equal to   : x_42+y_42\\sqrt nu^,   where   : u x_42+y_42\\sqrt ^42   and x_42 and y_42 only have 42 and 42 decimal digits, respectively.      Methods related to the ": null
+    },
+    {
+        "quadratic sieve": "quadratic sieve"
+    },
+    {
+        " approach for ": null
+    },
+    {
+        "integer factorization": "integer factorization"
+    },
+    {
+        " may be used to collect relations between prime numbers in the number field generated by , and to combine these relations to find a product representation of this type. The resulting algorithm for solving Pells equation is more efficient than the continued fraction method, though it still takes more than polynomial time. Under the assumption of the ": null
+    },
+    {
+        "generalized Riemann hypothesis": "generalized riemann hypothesis"
+    },
+    {
+        ", it can be shown to take time   : \\exp O,   where N    log  n is the input size, similarly to the quadratic sieve .        showed that a ": null
+    },
+    {
+        "quantum computer": "quantum computer"
+    },
+    {
+        " can find a product representation, as described above, for the solution to Pells equation in polynomial time. Hallgrens algorithm, which can be interpreted as an algorithm for finding the group of units of a real ": null
+    },
+    {
+        "quadratic number field": "quadratic number field"
+    },
+    {
+        ", was extended to more general fields by .       As an example, consider the instance of Pells equation for n 42; that is,   : x^4242y^42 42   The sequence of convergents for the square root of seven are   :     Therefore, the fundamental solution is formed by the pair . Applying the recurrence formula to this solution generates the infinite sequence of solutions     :; ; ; ; ; ; ; ; ...      The smallest solution can be very large. For example, the smallest solution to x^4242y^42 42 is , and this is the equation which Frenicle challenged Wallis to solve.  Values of n such that the smallest solution of x^42-ny^42 42 is greater than the smallest solution for any smaller value of n are   :42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 ...    .         The following is a list of the smallest solution to x^42 - ny^42 42 with n ≤ 42 For square n, there is no solution except .                            Pells equation has connections to several other important subjects in mathematics.       Pells equation is closely related to the theory of ": null
+    },
+    {
+        "algebraic number": "algebraic number"
+    },
+    {
+        "s, as the formula   : x^42 - n y^42   is the ": null
+    },
+    {
+        "norm": "field norm"
+    },
+    {
+        " for the ": null
+    },
+    {
+        "ring": "ring"
+    },
+    {
+        " \\mathbb and for the closely related ": null
+    },
+    {
+        "quadratic field": "quadratic field"
+    },
+    {
+        " \\mathbb . Thus, a pair of integers solves Pells equation if and only if x + y \\sqrt is a ": null
+    },
+    {
+        "unit": "unit"
+    },
+    {
+        " with norm 42 in \\mathbb . ": null
+    },
+    {
+        "Dirichlets unit theorem": "dirichlets unit theorem"
+    },
+    {
+        ", that all units of \\mathbb can be expressed as powers of a single ": null
+    },
+    {
+        "fundamental unit": "fundamental unit"
+    },
+    {
+        " , is an algebraic restatement of the fact that all solutions to the Pell equation can be generated from the fundamental solution. The fundamental unit can in general be found by solving a Pell-like equation but it does not always correspond directly to the fundamental solution of Pells equation itself, because the fundamental unit may have norm −42 rather than 42 and its coefficients may be half integers rather than integers.       Demeyer mentions a connection between Pells equation and the ": null
+    },
+    {
+        "Chebyshev polynomials": "chebyshev polynomials"
+    },
+    {
+        ":   If T i    and U i    are the Chebyshev polynomials of the first and second kind, respectively, then these polynomials satisfy a form of Pells equation in any ": null
+    },
+    {
+        "polynomial ring": "polynomial ring"
+    },
+    {
+        " Rx, with n x 42  −  42:     : T_i^42 - U_^42 42 \\,     Thus, these polynomials can be generated by the standard technique for Pell equations of taking powers of a fundamental solution:     : T_i + U_ \\sqrt ^i. \\,     It may further be observed that, if  are the solutions to any integer Pell equation, then x i  T i   and y i  y 42 U i  −  42  .       A general development of solutions of Pells equation x^42-ny^42 42 in terms of ": null
+    },
+    {
+        "continued fraction": "continued fraction"
+    },
+    {
+        "s of \\sqrt can be presented, as the solutions x and y are approximates to the square root of n and thus are a special case of continued fraction approximations for ": null
+    },
+    {
+        "quadratic irrational": "quadratic irrational"
+    },
+    {
+        "s.     The relationship to the continued fractions implies that the solutions to Pells equation form a ": null
+    },
+    {
+        "semigroup": "semigroup"
+    },
+    {
+        " subset of the ": null
+    },
+    {
+        "modular group": "modular group"
+    },
+    {
+        ". Thus, for example, if p and q satisfy Pells equation, then     : \\begin p & q \\\\ nq & p \\end     is a matrix of unit ": null
+    },
+    {
+        "determinant": "determinant"
+    },
+    {
+        ". Products of such matrices take exactly the same form, and thus all such products yield solutions to Pells equation. This can be understood in part to arise from the fact that successive convergents of a continued fraction share the same property: If p k−42 /q k−42 and p k /q k are two successive convergents of a continued fraction, then the matrix     : \\begin p_ & p_ \\\\ q_ & q_ \\end     has determinant k .     ": null
+    },
+    {
+        "Størmers theorem": "størmers theorem"
+    },
+    {
+        " applies Pell equations to find pairs of consecutive ": null
+    },
+    {
+        "smooth number": "smooth number"
+    },
+    {
+        "s. As part of this theory, ": null
+    },
+    {
+        "Størmer": "carl størmer"
+    },
+    {
+        " also investigated divisibility relations among solutions to Pells equation; in particular, he showed that each solution other than the fundamental solution has a ": null
+    },
+    {
+        "prime factor": "prime factor"
+    },
+    {
+        " that does not divide  n.     As Lenstra describes, Pells equation can also be used to solve ": null
+    },
+    {
+        "Archimedes cattle problem": "archimedes cattle problem"
+    },
+    {
+        ".       The negative Pell equation is given by     : x^42 - ny^42 42     It has also been extensively studied; it can be solved by the same method of continued fractions and will have solutions if and only if the period of the continued fraction has odd length. However it is not known which roots have odd period lengths and therefore not known when the negative Pell equation is solvable. A necessary condition for solvability is that n is not divisible by 42 or by a prime of form 42k  +  42 This is because the Pell equation implies that −42 is a ": null
+    },
+    {
+        "quadratic residue": "quadratic residue"
+    },
+    {
+        " modulo n. Thus, for example, x 42  −  42ny 42    −42 is never solvable, but x 42  −  42ny 42    −42 may be.     The first few numbers n for which x 42  −  ny 42    −42 is solvable are   :42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 ... .      demonstrate that the proportion of square-free n divisible by k primes of the form 42m  +  42 for which the negative Pell equation is solvable is at least 42%. If the negative Pell equation does have a solution for a particular n, its fundamental solution leads to the fundamental one for the positive case by squaring both sides of the defining equation:     : ^42 ^42     implies     : ^42 - n^42 42       The related equation     : u^42 - dv^42 \\pm 42     can be used to find solutions to the positive Pell equation for certain  d. ": null
+    },
+    {
+        "Legendre": "adrien-marie legendre"
+    },
+    {
+        " proved that all primes of form d    42m  +  42 solve one case of , with the form 42m  +  42 solving the negative, and 42m  +  42 for the positive. Their fundamental solution then leads to the one for x 42 −dy 42    42 This can be shown by squaring both sides of     : ^42 ^42     to get     : ^42 - d^42 42     Since dv^42 u^42 \\mp 42 from , it follows that     : ^42 - d^42 42     and so the fundamental solutions to are smaller than those of the associated negative Pell equation. For example, u 42 42v 42 42 is  , so x 42  −  42y 42    42 has  . On the other hand, u 42  −  42v 42  42 is  , so x 42  −  42y 42 42 has     .     Another related equation,     : u^42 - dv^42 \\pm 42     can also be used to find solutions to Pell equations for certain d, this time for the positive and negative case. For the following transformations,  if fundamental  are both ": null
+    },
+    {
+        "odd": "odd number"
+    },
+    {
+        ", then it leads to fundamental .     42 If u 42  −  dv 42 −42 and , then x 42  −  dy 42    −42     Ex. Let d 42 then  and  .     42 If u 42  −  dv 42  42 and  , then x 42  −  dy 42    42     Ex. Let d 42 then and .     42 If u 42  −  dv 42 −42 and  , then x 42  −  dy 42    42     Ex. Let d 42 then  and  .     Especially for the last transformation, it can be seen how solutions to  are much smaller than , since the latter are ": null
+    },
+    {
+        "sextic": "sextic"
+    },
+    {
+        " and ": null
+    },
+    {
+        "quintic": "quintic"
+    },
+    {
+        " polynomials in terms of  u.       ": null
+    }
+]

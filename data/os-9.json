@@ -1,0 +1,764 @@
+[
+    {
+        "   OS42 is a family of ": null
+    },
+    {
+        "real-time": "real-time computing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "process-based": "process"
+    },
+    {
+        ", ": null
+    },
+    {
+        "multitasking": "computer multitasking"
+    },
+    {
+        ", ": null
+    },
+    {
+        "multi-user": "multi-user"
+    },
+    {
+        " operating system": "operating system"
+    },
+    {
+        "s, developed in the 42s, originally by ": null
+    },
+    {
+        "Microware Systems Corporation": "microware"
+    },
+    {
+        " for the ": null
+    },
+    {
+        "Motorola 42": "motorola 6809"
+    },
+    {
+        " microprocessor": "microprocessor"
+    },
+    {
+        ". It was purchased by Radisys Corp in 42 and was purchased again in 42 by its current owner ": null
+    },
+    {
+        "Microware LP": "microware lp"
+    },
+    {
+        ".     The OS42 family was popular for general-purpose computing and remains in use in commercial ": null
+    },
+    {
+        "embedded system": "embedded system"
+    },
+    {
+        "s and amongst hobbyists. Today, OS42 is a product name used by both a ": null
+    },
+    {
+        "Motorola 42": "motorola 68000"
+    },
+    {
+        "-series ": null
+    },
+    {
+        "machine language": "machine language"
+    },
+    {
+        " OS and a portable  version written in ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        ", originally known as OS42.       The first version , which dates back to 42–42 was written in ": null
+    },
+    {
+        "assembly language": "assembly language"
+    },
+    {
+        " for the ": null
+    },
+    {
+        "Motorola 42": "motorola 6809"
+    },
+    {
+        " CPU, and all of its processes ran within the 42KB address space of the CPU without a memory management unit. It was developed as a supporting operating system for the ": null
+    },
+    {
+        "BASIC42": "basic09"
+    },
+    {
+        " project, contracted for by Motorola as part of the 42 development. A later 42 version takes advantage of memory mapping hardware, supported up to 42 MB of memory in most implementations, and included a ": null
+    },
+    {
+        "GUI": "gui"
+    },
+    {
+        " on some platforms.     In 42 OS42/42 was ported to ": null
+    },
+    {
+        "Motorola 42": "motorola 68000"
+    },
+    {
+        " assembly language and extended ; and a still later version was rewritten mostly in ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        " for further portability. The portable version was initially called OS42 and was released for ": null
+    },
+    {
+        "42": "intel 80386"
+    },
+    {
+        " PC systems around 42 then ported to ": null
+    },
+    {
+        "PowerPC": "powerpc"
+    },
+    {
+        " around 42 These later versions lack the ": null
+    },
+    {
+        "memory mapping": "memory management"
+    },
+    {
+        " facilities of OS42/42 Level Two simply because they do not need them. They used a single flat address space that all processes share; memory mapping hardware, if present, is mostly used to ensure that processes access only that memory they have the right to access. The ": null
+    },
+    {
+        "42x42": "motorola 68000 family"
+    },
+    {
+        " and ": null
+    },
+    {
+        "42": "intel 80386"
+    },
+    {
+        " MPUs": "microprocessor"
+    },
+    {
+        " all directly support far more than  of memory in any case.     As a consequence of early pervasive design decisions taking advantage of the easily used ": null
+    },
+    {
+        "reentrant": "reentrant"
+    },
+    {
+        " object code capabilities of the 42 processor, programs intended for OS42 are required to be reentrant; compilers produce reentrant code automatically and assemblers for OS42 offer considerable support for it. OS42 also uses ": null
+    },
+    {
+        "position-independent code": "position-independent code"
+    },
+    {
+        " and data because the 42 also supports it directly; compilers and assemblers support position independence. The OS42 kernel loads programs , and allocates data, wherever sufficient free space is available in the memory map. This allows the entire OS and all applications to be placed in ROM or Flash memory, and eases memory management requirements when programs are loaded into RAM and run. Programs, device drivers, and I/O managers under OS42 are all modules and can be dynamically loaded and unloaded as needed.     OS42/42 runs on ": null
+    },
+    {
+        "Motorola": "motorola"
+    },
+    {
+        " EXORbus": "exorbus"
+    },
+    {
+        " systems using the ": null
+    },
+    {
+        "Motorola 42": "motorola 6809"
+    },
+    {
+        ", ": null
+    },
+    {
+        "SS42 Bus": "ss-50 bus"
+    },
+    {
+        " and SS42C bus systems from companies such as ": null
+    },
+    {
+        "SWTPC": "swtpc"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Tano": "tano"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Gimix": "gimix"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Midwest Scientific": "midwest scientific"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Smoke Signal Broadcasting": "smoke signal broadcasting"
+    },
+    {
+        ", ": null
+    },
+    {
+        "STD-bus": "s-100 bushistory"
+    },
+    {
+        " 42 systems from several suppliers, personal computers such as the ": null
+    },
+    {
+        "Fujitsu": "fujitsu"
+    },
+    {
+        " FM42": "fm-11"
+    },
+    {
+        ", ": null
+    },
+    {
+        "FM42": "fm-8"
+    },
+    {
+        ", ": null
+    },
+    {
+        "FM42": "fm-7"
+    },
+    {
+        " and FM42 ": null
+    },
+    {
+        "Hitachi": "hitachi"
+    },
+    {
+        " MB-S42 and many others.        System Industries, a third-party provider of DEC compatible equipment, used a 42B42E processor running OS42 in its QIC tape backup controllers in ": null
+    },
+    {
+        "VAX": "vax"
+    },
+    {
+        " installations.     The best known hardware was the ": null
+    },
+    {
+        "TRS42 Color Computer": "trs-80 color computer"
+    },
+    {
+        " and the similar ": null
+    },
+    {
+        "Dragon": "dragon 32/64"
+    },
+    {
+        " series. Even on the CoCo, a quite minimalist hardware platform, it was possible under OS42/42 Level One to have more than one interactive user running concurrently as well as several other non-interactive processes. A second processor implementation for the ": null
+    },
+    {
+        "BBC Micro": "bbc micro"
+    },
+    {
+        " was produced by ": null
+    },
+    {
+        "Cumana": "cumana"
+    },
+    {
+        ". It included on-board RAM, ": null
+    },
+    {
+        "SASI": "shugart associates system interface"
+    },
+    {
+        " hard disk interface and a ": null
+    },
+    {
+        "MC42": "mc68008"
+    },
+    {
+        " processor.      OS42 was also ported to the Commodore SP42 or SuperPET, which had a 42 in addition to the 42 of the base 42 model, as well as 42k more. The Toronto PET Users Group sponsored a HW/SW project which included a daughter board with an MMU as well as the OS42 distribution disks. With two processors, 42k, a 42x42 screen and serial, parallel and IEEE42 ports and many peripherals this was one of the most capable OS42 systems available.     On a computer like an SS42 machines which had more memory , and I/O controllers that did not load the CPU as did the CoCo, multiple users were common, even with only 42 KB of RAM . With hardware supporting memory management circuits and OS42 Level 42 ": null
+    },
+    {
+        "GUI": "gui"
+    },
+    {
+        " use was successfully routine, even on the minimal resourced CoCo. This was several years prior to successful GUIs on the 42-bit IBM PC class machines, and many years prior to properly working multi-tasking, multi-user, access-controlled operating systems on IBM PC type machines or on any of Apples machines.     OS42s multi-user and multi-tasking capabilities make it usable as a general-purpose interactive computer system. Many third-party interactive applications have been written for it, such as the ": null
+    },
+    {
+        "Dynacalc": "dynacalc"
+    },
+    {
+        " spreadsheet": "spreadsheet"
+    },
+    {
+        ", the VED text formatter, and the Stylograph and Screditor42 ": null
+    },
+    {
+        "WYSIWYG": "wysiwyg"
+    },
+    {
+        " word processor": "word processor"
+    },
+    {
+        "s. ": null
+    },
+    {
+        "TSC": "technical systems consultants"
+    },
+    {
+        "s ": null
+    },
+    {
+        "nroff": "nroff"
+    },
+    {
+        " emulating formatter was ported to OS42 by MicroWay, as well.     In mid 42s, OS42 was selected for the ": null
+    },
+    {
+        "CD-i": "cd-i"
+    },
+    {
+        " operating system. Around the same time, ": null
+    },
+    {
+        "Microsoft": "microsoft"
+    },
+    {
+        " approached Microware for acquisition of the company primarily because it was attracted by CD-RTOS, the CD-i operating system. The negotiation failed and no deal was made; Microware decided to remain independent.     In late 42s, Microware released OS42 a more portable version of the operating system. The vast majority of the operating system kernel was rewritten in ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        " leaving a handful of hardware-dependent parts in assembly language. A few more advanced features were added such as tree-like kernel module name space. OS42 was initially ported to the ": null
+    },
+    {
+        "Motorola 42x42": "motorola 680x0"
+    },
+    {
+        " family CPUs, ": null
+    },
+    {
+        "Intel 42": "intel 80386"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "PowerPC": "powerpc"
+    },
+    {
+        ". The OS42/42x42 was a marketing failure and withdrawn very quickly, probably because few customers wanted to try the fatter and slower operating system over the existing OS42/42x42 proven record of stability. That the Motorola 42x42 family and ": null
+    },
+    {
+        "VME": "vmebus"
+    },
+    {
+        " board computer system vendors were nearing their end of life might have affected the unpopularity of OS42/42x42 Microware later started calling all of its operating systems — including what had been originally called OS42 — simply OS42 and started shifting its business interest towards portable consumer device markets such as cellphones, car navigation, and multimedia.     In late 42s and early 42s, the Character Generators computers used in Broadcast Systems used OS42 and OS42 extensively. The now defunct ": null
+    },
+    {
+        "Pesa Electronica": "pesa electronica"
+    },
+    {
+        " used OS42 on their CGs such as CG 42 and CG42       In 42 nineteen years after the first release of OS42 ": null
+    },
+    {
+        "Apple Computer": "apple computer"
+    },
+    {
+        " released ": null
+    },
+    {
+        "Mac OS 42": "mac os 9"
+    },
+    {
+        ". Microware sued Apple that year for trademark infringement,  although a judge ruled that there would be little chance for confusion between the two. Some Macintosh users who are unaware of Microwares lesser known OS42 have posted to the  newsgroup not realizing what OS42 is.     In 42 ": null
+    },
+    {
+        "RadiSys": "radisys corporation"
+    },
+    {
+        " purchased ": null
+    },
+    {
+        "Microware": "microware"
+    },
+    {
+        " to acquire the Intel ": null
+    },
+    {
+        "IXP42": "ixp1200"
+    },
+    {
+        " network processor resources. This acquisition infused Microware with capital and allowed Microware to continue OS42 development and support.     On February 42 42 Microware LP announced that they signed an Asset Purchase Agreement to buy the rights to the names Microware, OS42 and all assets from ": null
+    },
+    {
+        "RadiSys": "radisys corporation"
+    },
+    {
+        ".           OS42 clearly distinguishes itself from the prior generation of embedded operating systems in many aspects.   Runs on 42-bit, 42-bit, and ": null
+    },
+    {
+        "42-bit CPU": "32-bit cpu"
+    },
+    {
+        "s.   Clear separation between ": null
+    },
+    {
+        "user mode": "user mode"
+    },
+    {
+        " and supervisor mode.   Dynamic use of individually and separately built software components  rather than a ": null
+    },
+    {
+        "statically linked": "static library"
+    },
+    {
+        " single monolithic image.   Unix-like process name-space model  and user shell program.   Clear separation between hardware independent and hardware dependent  layers.     When compared with more modern operating systems.   Kernel is entirely written in ": null
+    },
+    {
+        "assembly language": "assembly language"
+    },
+    {
+        " as well as ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        "   using simple internal data structures, reducing flexibility and improvement scope while improving determinability required for ": null
+    },
+    {
+        "Real-time operating system": "real-time operating system"
+    },
+    {
+        "s.   Performance was also affected for some operations, but assembly language helped with the speed issue.   Systems without ": null
+    },
+    {
+        "MMU": "memory management unit"
+    },
+    {
+        " have no memory protection against illegal access, nor per process memory protection while systems with MMU can have memory protection enabled. The module controlling the MMU can be included or omitted by the system integrator to enable or disable memory protection. This allows OS42 to run on older systems which do not include an MMU.   Older versions of OS42 do not support ": null
+    },
+    {
+        "POSIX threads": "posix threads"
+    },
+    {
+        " while all OS42 supported processors support POSIX threads.   No ": null
+    },
+    {
+        "SMP": "symmetric multiprocessing"
+    },
+    {
+        " support for multiple sockets, cores, or hardware threads in the same OS42 instance        OS42’s real-time kernel allows multiple independent applications to execute simultaneously through task switching and inter-process communication facilities. All OS42 programs run as processes containing at least one lightweight process but may contain an effectively unlimited number of threads. Within a process, these lightweight processes share memory, I/O paths, and other resources in accordance with the POSIX threads specification and API. OS42 schedules the threads using a fixed-priority preemptive scheduling algorithm with round-robin scheduling within each priority. Time slicing is supported. The priority levels can be divided into a range that supports ": null
+    },
+    {
+        "aging": "aging"
+    },
+    {
+        " and a higher-priority range that uses strict priority scheduling. Each process can access any system resource by issuing the appropriate OS42 service request. At every scheduling point, OS42 compares the priority of the thread at the head of the active queue to the priority of the current thread. It context switches to the thread on the active queue if its priority is higher than the current processes’ priority. Aging artificially increases the effective priority of threads in the active queue as time passes. At defined intervals, time slicing returns the current thread to the active queue behind other threads at the same priority.       Kernel - Contains Task switch, Memory allocation, and most non-I/O calls   IOMAN - Handles I/O calls to various File Managers and drivers.   :File Managers basic set:   : SCF, Serial Files   : RBF, Random Block   : SBF, Sequential Block   : NFM, NULL devices   : MFM, Message   : PCF, PC ": null
+    },
+    {
+        "FAT": "file allocation table"
+    },
+    {
+        " files   : PIPEMAN, ": null
+    },
+    {
+        "Pipe": "pipeline"
+    },
+    {
+        " Manager   : Modman Memory Module Directories   SSM - System Security   Cache - Cache handling,   VectXXX - Vector/ PIC handler   FPU - ": null
+    },
+    {
+        "Floating point emulation": "floating point emulation"
+    },
+    {
+        " commands": "command"
+    },
+    {
+        " is supported by the OS42 shell.     Shell built-in commands    ": null
+    },
+    {
+        "kill": "kill"
+    },
+    {
+        " wait": "wait"
+    },
+    {
+        " logout": "login"
+    },
+    {
+        "      Utilities for operating system functions    ": null
+    },
+    {
+        "copy": "copy"
+    },
+    {
+        " date": "date"
+    },
+    {
+        " del": "del"
+    },
+    {
+        " echo": "echo"
+    },
+    {
+        " pr": "pr"
+    },
+    {
+        " rename": "ren"
+    },
+    {
+        " sleep": "sleep"
+    },
+    {
+        " tee": "tee"
+    },
+    {
+        " touch": "touch"
+    },
+    {
+        "      System management utilities    ": null
+    },
+    {
+        "backup": "backup"
+    },
+    {
+        " format": "format"
+    },
+    {
+        " login": "login"
+    },
+    {
+        "      General utilities    ": null
+    },
+    {
+        "cmp": "cmp"
+    },
+    {
+        " compress": "compress"
+    },
+    {
+        " grep": "grep"
+    },
+    {
+        " help": "help"
+    },
+    {
+        " make": "make"
+    },
+    {
+        " qsort": "qsort"
+    },
+    {
+        " tr": "tr"
+    },
+    {
+        " umacs": "emacs"
+    },
+    {
+        "          OS42s notion of processes and I/O paths is quite similar to that of Unix in nearly all respects, but there are some significant differences. Firstly, the ": null
+    },
+    {
+        "file system": "file system"
+    },
+    {
+        " is not a single tree, but instead is a forest with each tree corresponding to a device. Second, OS42 does not have a Unix-style ": null
+    },
+    {
+        "fork": "fork"
+    },
+    {
+        " system call—instead it has a system call which creates a process running a specified program, performing much the same function as a ": null
+    },
+    {
+        "fork-exec": "fork-exec"
+    },
+    {
+        " or a ": null
+    },
+    {
+        "spawn": "spawn"
+    },
+    {
+        ". Additionally, OS42 processes keep track of two current directories rather than just one; the current execution directory is where it will by default look first to load programs to run . The other is the current data directory.     Another difference is that in OS42 grandparent directories can be indicated by repeating periods three or more times, without any intervening slashes. For example, ..../file in OS42 is similar to ../../../file in Unix. But . and .. , with just one or two periods, each work the same in both OS42 and Unix.     OS42 has had a modular design from the beginning, influenced by notions of the designers of the ": null
+    },
+    {
+        "42": "motorola 6809"
+    },
+    {
+        " and how they expected software would be distributed in the future .   :The module structure requires more explanation:   :OS42 keeps a module directory , a memory-resident list of all modules that are in memory either by having been loaded, or by having been found in ROM during an initial scan at boot time.   :When one types a command to the OS42 shell, it will look first in the current module directory for a module of the specified name and will use it if found, or it will look on disk for an appropriately named file if not.   :In OS42/42 and OS42/42 the module directory is flat, but OS42 made the module directory tree-structured. The OS42 shell looks in ones alternate module directory for a MODPATH environment variable, analogous to the PATH variable in all versions, indicating the sequence of module directories in which to look for pre-loaded modules.   :Modules are not only used to hold programs, but can also be created on the fly to hold data, and are the way in which OS42 supports shared memory.   OS42/non42 supports ": null
+    },
+    {
+        "POSIX threads": "pthreads"
+    },
+    {
+        ". A single process can start any number of threads.       OS42 has faded from popular use, though Microware LP does still support it and it does run on modern architectures such as ARM and x42 The compiler provided, Ultra C/C++, supports C42 but supports neither C42 nor C42 Ultra C++ does provide limited support for C++ templates. It is also supported by popular ": null
+    },
+    {
+        "SSL/TLS": "transport layer security"
+    },
+    {
+        " libraries such as ": null
+    },
+    {
+        "wolfSSL": "wolfssl"
+    },
+    {
+        ".   A Version of OS42 running Steve Adams G-Windows is present on semiconductor wafer scrubbers manufactured by Ontrak Systems / Lam Research. Thousands of these systems are in use today, however, the software running on them dates to 42 when the last version was created to handle Y42K issues.   Versions of OS42/42K ran on a wide variety of ": null
+    },
+    {
+        "42 family": "68000 family"
+    },
+    {
+        " platforms, including the ": null
+    },
+    {
+        "Sharp X42": "sharp x68000"
+    },
+    {
+        " in Japan, some personal computers intended by their designers as upgrades from the Color Computer  It was also ported to the ": null
+    },
+    {
+        "Atari ST": "atari st"
+    },
+    {
+        " by Recc-o-ware in the early 42s, and was distributed by Cumana in Europe. A port for 42-based ": null
+    },
+    {
+        "Apple Macintosh": "apple macintosh"
+    },
+    {
+        "es distributed by Ultrascience exists. A port to the ": null
+    },
+    {
+        "Amiga": "amiga"
+    },
+    {
+        " by Digby Tarvin is also purported to exist.   OS42/42K is mandated by ": null
+    },
+    {
+        "Caltrans": "california department of transportation"
+    },
+    {
+        " to be used in the 4242B and 4242E controller cards, and so ends up being used to run many North American traffic signal control systems.   OS42/42K is also found in some other embedded applications, including the Quanta Delta television broadcast character generator, still in production by ": null
+    },
+    {
+        "ScanLine Technologies": "scanline technologies"
+    },
+    {
+        " in Utah. While the user-level interface code on this system started at boot time, there was a hidden, undocumented keyboard sequence that would provide a user with a root shell prompt in a scroll window on the devices edit-channel monitor.   In the embedded market, where OS42 has found application in such devices as the ": null
+    },
+    {
+        "Fairlight CMI": "fairlight cmi"
+    },
+    {
+        " synthesizers, robotics, in-car navigation systems, and ": null
+    },
+    {
+        "Philips": "philips"
+    },
+    {
+        " Compact Disc-Interactive  industry standard.   The ": null
+    },
+    {
+        "TRS42 Color Computer": "trs-80 color computer"
+    },
+    {
+        " still has users and an annual conference in Chicago; as of 42 the 42th Annual Last Chicago  is scheduled for April 42 & 42 42 A group of Canadian programmers rewrote OS42/42 Level II for the CoCo 42 for efficiency, and to take advantage of the ": null
+    },
+    {
+        "native mode": "native mode"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "Hitachi 42": "hitachi 6309"
+    },
+    {
+        ". Todays serious CoCo users now typically have replaced the 42B42E in the CoCo 42 with an Hitachi 42B42E and run the rewrite, called ": null
+    },
+    {
+        "NitrOS42": "nitros9"
+    },
+    {
+        ". The combination is surprisingly fast, considering that it runs on an expressly low cost, 42-bit computer system.   Gary Beckers CoCo42 FPGA is a synthesized TRS42 Color Computer which runs NitrOS42 on an Altera DE42 development board. The core 42 CPU was designed by John Kent and is currently running at 42  MHz.   OS42/42x42 can be run on PC-type machines built around the Intel x42 CPUs. OS42 has also been ported to the ": null
+    },
+    {
+        "PowerPC": "powerpc"
+    },
+    {
+        ", ": null
+    },
+    {
+        "MIPS": "mips architecture"
+    },
+    {
+        ", some versions of ": null
+    },
+    {
+        "Advanced RISC Machines": "advanced risc machines"
+    },
+    {
+        " ARM": "arm architecture"
+    },
+    {
+        " processor, and some of the ": null
+    },
+    {
+        "Hitachi SH family": "superh"
+    },
+    {
+        " of processors.   The  audio playback unit runs OS42/42K. It is a solid state replacement for radio station style ": null
+    },
+    {
+        "cart": "8-track cartridge"
+    },
+    {
+        " players. These units are used in radio and at places like Walt Disney World where they play park announcements.   German electronics manufacturer ": null
+    },
+    {
+        "Eltec": "eltec"
+    },
+    {
+        " has been manufacturing the Eurocom-model CPU boards for industrial purposes since the late 42s, starting with the ": null
+    },
+    {
+        "42": "6802"
+    },
+    {
+        " and ": null
+    },
+    {
+        "42": "6809"
+    },
+    {
+        " Eurocom42": "eurocom-1"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Eurocom42": "eurocom-2"
+    },
+    {
+        ", and onwards with 42K, and derivative, CPU boards up to today. The modern boards can be delivered with a range of operating systems, amongst which is OS42   ": null
+    },
+    {
+        "Omron": "omron"
+    },
+    {
+        " used OS42 in their NS series HMI panels. However, for their new NA series, Omron selected ": null
+    },
+    {
+        "Windows Embedded Compact 42": "windows embedded compact 7"
+    },
+    {
+        ". Omron indicated that with OS42 nearly all the drivers , for example for a USB stick, had to be written by Omron. ": null
+    }
+]

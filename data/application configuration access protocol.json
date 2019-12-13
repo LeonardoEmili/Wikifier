@@ -1,0 +1,47 @@
+[
+    {
+        "      The Application Configuration Access Protocol  is a protocol for storing and synchronizing general configuration and preference data. It was originally developed so that ": null
+    },
+    {
+        "IMAP": "internet message access protocol"
+    },
+    {
+        " clients can easily access ": null
+    },
+    {
+        "address book": "address book"
+    },
+    {
+        "s, user options, and other data on a central server and be kept in synch across all clients.     Two International ACAP Conferences were held, one in Pittsburgh, PA, USA, in 42 and the other at Qualcomm Incorporated, San Diego, CA, USA, in February 42     ACAP grew to encompass several other areas, including bookmark management for web browsers—its effectively a roaming protocol for ": null
+    },
+    {
+        "Internet": "internet"
+    },
+    {
+        " applications. ACAP is in use by at least four clients and three servers to varying degrees, but it has never achieved the popularity of ": null
+    },
+    {
+        "Lightweight Directory Access Protocol": "lightweight directory access protocol"
+    },
+    {
+        " or ": null
+    },
+    {
+        "SyncML": "syncml"
+    },
+    {
+        ". It is a deceptively simple protocol, but the combination of three key features, hierarchical data, fine-grained access control, and contexts or saved searches with notification, has caused serious problems for server implementors.     Unlike LDAP, ACAP was designed for frequent writes, disconnected mode access , and so on. It also handles data inheritance, sometimes known as stacking, which provides easy creation of defaults.     The ": null
+    },
+    {
+        "IETF": "ietf"
+    },
+    {
+        " ACAP Working Group ceased activity in April 42 having released two ": null
+    },
+    {
+        "RFCs": "request for comments"
+    },
+    {
+        ",  and ": null
+    }
+]

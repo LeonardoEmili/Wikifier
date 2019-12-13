@@ -1,0 +1,335 @@
+[
+    {
+        "An interface description language or interface definition language , is a ": null
+    },
+    {
+        "specification language": "specification language"
+    },
+    {
+        " used to describe a ": null
+    },
+    {
+        "software components": "component-based software engineering"
+    },
+    {
+        " application programming interface": "application programming interface"
+    },
+    {
+        " . IDLs describe an interface in a ": null
+    },
+    {
+        "language-independent": "language-independent specification"
+    },
+    {
+        " way, enabling communication between software components that do not share one language, for example, between those written in ": null
+    },
+    {
+        "C++": "c++"
+    },
+    {
+        " and those written in ": null
+    },
+    {
+        "Java": "java"
+    },
+    {
+        ".     IDLs are commonly used in ": null
+    },
+    {
+        "remote procedure call": "remote procedure call"
+    },
+    {
+        " software. In these cases the machines at either end of the link may be using different ": null
+    },
+    {
+        "operating system": "operating system"
+    },
+    {
+        "s and computer languages. IDLs offer a bridge between the two different systems.     Software systems based on IDLs include ": null
+    },
+    {
+        "Suns": "sun microsystems"
+    },
+    {
+        " ONC RPC": "onc rpc"
+    },
+    {
+        ", ": null
+    },
+    {
+        "The Open Group": "the open group"
+    },
+    {
+        "s ": null
+    },
+    {
+        "Distributed Computing Environment": "distributed computing environment"
+    },
+    {
+        ", ": null
+    },
+    {
+        "IBM": "ibm"
+    },
+    {
+        "s ": null
+    },
+    {
+        "System Object Model": "system object model"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "Object Management Group": "object management group"
+    },
+    {
+        "s ": null
+    },
+    {
+        "CORBA": "corba"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Data Distribution Service": "data distribution service"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Mozilla": "mozilla"
+    },
+    {
+        "s ": null
+    },
+    {
+        "XPCOM": "xpcom"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Microsoft": "microsoft"
+    },
+    {
+        "s ": null
+    },
+    {
+        "Microsoft RPC": "microsoft rpc"
+    },
+    {
+        " , ": null
+    },
+    {
+        "Facebook": "facebook"
+    },
+    {
+        "s ": null
+    },
+    {
+        "Thrift": "apache thrift"
+    },
+    {
+        " and ": null
+    },
+    {
+        "WSDL": "web services description language"
+    },
+    {
+        " for ": null
+    },
+    {
+        "Web service": "web service"
+    },
+    {
+        "s.         AIDL: ": null
+    },
+    {
+        "Java": "java"
+    },
+    {
+        "-based, for ": null
+    },
+    {
+        "Android": "android"
+    },
+    {
+        "; supports local and remote procedure calls, can be accessed from native applications by calling through ": null
+    },
+    {
+        "Java Native Interface": "java native interface"
+    },
+    {
+        "   Apache Thrift": "apache thrift"
+    },
+    {
+        ": from ": null
+    },
+    {
+        "Apache": "apache software foundation"
+    },
+    {
+        ", originally developed by ": null
+    },
+    {
+        "Facebook": "facebook"
+    },
+    {
+        " Avro IDL": "apache avro"
+    },
+    {
+        ": for the Apache Avro system   ": null
+    },
+    {
+        "CortoScript": "cortoscript"
+    },
+    {
+        ": Describe data and/or interfaces for systems that require ": null
+    },
+    {
+        "Semantic interoperability": "semantic interoperability"
+    },
+    {
+        " Etch": "etch"
+    },
+    {
+        ": Ciscos Etch Cross-platform Service Description Language   ": null
+    },
+    {
+        "Extensible Data Notation": "extensible data notation"
+    },
+    {
+        " : ": null
+    },
+    {
+        "Clojure": "clojure"
+    },
+    {
+        " data format, similar to JSON   ": null
+    },
+    {
+        "Franca IDL": "franca idl"
+    },
+    {
+        ": the open-source Franca interface definition language   ": null
+    },
+    {
+        "IDL specification language": "idl specification language"
+    },
+    {
+        ": the original Interface Description Language   ": null
+    },
+    {
+        "JSON": "json"
+    },
+    {
+        " Web-Service Protocol    ": null
+    },
+    {
+        "Microsoft Interface Definition Language": "microsoft interface definition language"
+    },
+    {
+        " : the Microsoft extension of OMG IDL to add support for ": null
+    },
+    {
+        "Component Object Model": "component object model"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Distributed Component Object Model": "distributed component object model"
+    },
+    {
+        "   OMG IDL": "omg idl"
+    },
+    {
+        ": standardized by ": null
+    },
+    {
+        "Object Management Group": "object management group"
+    },
+    {
+        ", used in ": null
+    },
+    {
+        "CORBA": "corba"
+    },
+    {
+        " and ": null
+    },
+    {
+        "DDS": "data distribution service"
+    },
+    {
+        " , also selected by the W42C for exposing the DOM of XML, HTML, and CSS documents   ": null
+    },
+    {
+        "OpenAPI Specification": "openapi specification"
+    },
+    {
+        ": a standard for REST interfaces, used by ": null
+    },
+    {
+        "Swagger": "swagger"
+    },
+    {
+        " and other technologies.   ": null
+    },
+    {
+        "Open Service Interface Definitions": "open service interface definitions"
+    },
+    {
+        " Protocol Buffers": "protocol buffers"
+    },
+    {
+        ": ": null
+    },
+    {
+        "Google": "google"
+    },
+    {
+        "s IDL   RESTful Service Description Language    Specification Language for ": null
+    },
+    {
+        "Internet Communications Engine": "internet communications engine"
+    },
+    {
+        "    Universal Network Objects": "universal network objects"
+    },
+    {
+        ": ": null
+    },
+    {
+        "OpenOffice.org": "openoffice.org"
+    },
+    {
+        "s component model   ": null
+    },
+    {
+        "Web Application Description Language": "web application description language"
+    },
+    {
+        "   Web IDL": "web idl"
+    },
+    {
+        ": can be used to describe interfaces intended for implementing in web browsers   ": null
+    },
+    {
+        "Web Services Description Language": "web services description language"
+    },
+    {
+        "   XCB": "xcb"
+    },
+    {
+        ": X protocol description language for ": null
+    },
+    {
+        "X Window System": "x window system"
+    },
+    {
+        " XPIDL": "xpidl"
+    }
+]

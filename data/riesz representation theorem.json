@@ -1,0 +1,191 @@
+[
+    {
+        "There are several well-known theorems in ": null
+    },
+    {
+        "functional analysis": "functional analysis"
+    },
+    {
+        " known as the Riesz representation theorem. They are named in honor of ": null
+    },
+    {
+        "Frigyes Riesz": "frigyes riesz"
+    },
+    {
+        ".     This article will describe his theorem concerning the dual of a ": null
+    },
+    {
+        "Hilbert space": "hilbert space"
+    },
+    {
+        ", which is sometimes called the Fréchet–Riesz theorem. For the theorems relating ": null
+    },
+    {
+        "linear functionals": "linear functional"
+    },
+    {
+        " to ": null
+    },
+    {
+        "measures": "measure"
+    },
+    {
+        ", see ": null
+    },
+    {
+        "Riesz–Markov–Kakutani representation theorem": "riesz–markov–kakutani representation theorem"
+    },
+    {
+        ".       This theorem establishes an important connection between a ": null
+    },
+    {
+        "Hilbert space": "hilbert space"
+    },
+    {
+        " and its ": null
+    },
+    {
+        "continuous dual space": "continuous dual space"
+    },
+    {
+        ". If the underlying ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        " is the ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s, the two are ": null
+    },
+    {
+        "isometrically": "isometry"
+    },
+    {
+        " isomorphic": "isomorphism"
+    },
+    {
+        "; if the underlying field is the ": null
+    },
+    {
+        "complex number": "complex number"
+    },
+    {
+        "s, the two are isometrically ": null
+    },
+    {
+        "anti-isomorphic": "anti-isomorphic"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "isomorphism": "isomorphism"
+    },
+    {
+        " is a particular ": null
+    },
+    {
+        "natural": "natural transformation"
+    },
+    {
+        " one as will be described next; a ": null
+    },
+    {
+        "natural isomorphism": "natural isomorphism"
+    },
+    {
+        ".     Let H be a Hilbert space, and let H denote its dual space, consisting of all ": null
+    },
+    {
+        "continuous linear functional": "continuous linear functional"
+    },
+    {
+        "s from H into the field \\mathbb or \\mathbb . If x is an element of H, then the function \\varphi_x, for all y in H defined by:     \\varphi_x \\left\\langle y , x \\right\\rangle,     where \\langle\\cdot,\\cdot\\rangle denotes the ": null
+    },
+    {
+        "inner product": "inner product"
+    },
+    {
+        " of the Hilbert space, is an element of H. The Riesz representation theorem states that every element of H can be written uniquely in this form.      Riesz–Fréchet representation theorem.  Let H be a Hilbert space and \\varphi\\in H^ . Then there exists f\\in H such that for any x\\in H , \\varphi\\langle f,x\\rangle . Moreover \\|f\\|_H\\|\\varphi\\|_     Proof. Let M\\ . Clearly M is closed subspace of H . If MH , then we can trivially choose f42 . Now assume M\\ne H . Then M^ is one-dimensional. Indeed, let v_42v_42 be nonzero vectors in M^ . Then there is nonzero real number \\lambda , such that \\lambda \\varphi\\varphi . Observe that \\lambda v_42-v_42\\in M^ and \\varphi42 , so \\lambda v_42-v_42\\in M . This means that \\lambda v_42-v_42 . Now let g be unit vector in M^ . For arbitrary x\\in H , let v be the orthogonal projection of x onto M^ . Then v\\langle g,x\\rangle g and \\langle g,x-v\\rangle42 , so that x-v\\in M and \\langle g,x\\rangle\\langle g,v\\rangle . Thus \\varphi\\varphi\\varphi+\\varphi\\langle g,x\\rangle \\varphi42\\langle g,x\\rangle \\varphi . Hence f\\varphig . We also see \\|f\\|_H\\varphi . From the ": null
+    },
+    {
+        "Cauchy-Bunyakovsky-Schwartz inequality": "cauchy–schwarz inequality"
+    },
+    {
+        " \\varphi\\le \\|g\\|\\|x\\|\\varphi , thus for x with unit norm \\varphi\\le \\varphi . This implies that \\|\\varphi\\|_\\varphi .     Given any continuous linear functional g in H, the corresponding element x_g \\in H can be constructed uniquely by x_g ge_42 + ge_42 + ... , where \\ is an ": null
+    },
+    {
+        "orthonormal basis": "orthonormal basis"
+    },
+    {
+        " of H, and the value of x_g does not vary by choice of basis. Thus, if y \\in H, y a_42 e_42 + a_42 e_42 + ... , then g a_42g + a_42g + ... \\langle x_g, y\\rangle.     Theorem. The mapping \\Phi : H → H defined by \\Phi \\varphi_x is an isometric isomorphism, meaning that:   \\Phi is ": null
+    },
+    {
+        "bijective": "bijective"
+    },
+    {
+        ".   The ": null
+    },
+    {
+        "norms": "norm"
+    },
+    {
+        " of x and \\varphi_x agree: \\Vert x \\Vert \\Vert\\Phi\\Vert .   \\Phi is ": null
+    },
+    {
+        "additive": "additive map"
+    },
+    {
+        ": \\Phi \\Phi + \\Phi .   If the base field is \\mathbb , then \\Phi \\lambda \\Phi for all real numbers λ.   If the base field is \\mathbb , then \\Phi \\bar \\Phi for all complex numbers λ, where \\bar denotes the ": null
+    },
+    {
+        "complex conjugation": "complex conjugation"
+    },
+    {
+        " of \\lambda .     The ": null
+    },
+    {
+        "inverse map": "inverse operator"
+    },
+    {
+        " of \\Phi can be described as follows. Given a non-zero element \\varphi of H, the ": null
+    },
+    {
+        "orthogonal complement": "orthogonal complement"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "kernel": "kernel"
+    },
+    {
+        " of \\varphi is a one-dimensional subspace of H. Take a non-zero element z in that subspace, and set x \\overline \\cdot z /^42 . Then \\Phi \\varphi .     Historically, the theorem is often attributed simultaneously to ": null
+    },
+    {
+        "Riesz": "frigyes riesz"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Fréchet": "maurice rené fréchet"
+    },
+    {
+        " in 42 .     In the mathematical treatment of ": null
+    },
+    {
+        "quantum mechanics": "quantum mechanics"
+    },
+    {
+        ", the theorem can be seen as a justification for the popular ": null
+    },
+    {
+        "bra–ket notation": "bra–ket notation"
+    }
+]

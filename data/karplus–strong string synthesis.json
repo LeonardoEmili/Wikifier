@@ -1,0 +1,248 @@
+[
+    {
+        "Karplus–Strong string synthesis is a method of ": null
+    },
+    {
+        "physical modelling synthesis": "physical modelling synthesis"
+    },
+    {
+        " that loops a short waveform through a filtered delay line to simulate the sound of a hammered or plucked ": null
+    },
+    {
+        "string": "string instrument"
+    },
+    {
+        " or some types of ": null
+    },
+    {
+        "percussion": "percussion instrument"
+    },
+    {
+        ".     At first glance, this technique can be viewed as ": null
+    },
+    {
+        "subtractive synthesis": "subtractive synthesis"
+    },
+    {
+        " based on a ": null
+    },
+    {
+        "feedback loop": "feedback loop"
+    },
+    {
+        " similar to that of a ": null
+    },
+    {
+        "comb filter": "comb filter"
+    },
+    {
+        " for ": null
+    },
+    {
+        "z-transform": "z-transform"
+    },
+    {
+        " analysis. However, it can also be viewed as the simplest class of ": null
+    },
+    {
+        "wavetable": "table-lookup synthesis"
+    },
+    {
+        "-modification algorithms now known as ": null
+    },
+    {
+        "digital waveguide synthesis": "digital waveguide synthesis"
+    },
+    {
+        ", because the delay line acts to store one period of the signal.     ": null
+    },
+    {
+        "Alexander Strong": "alexander strong"
+    },
+    {
+        " invented the algorithm, and ": null
+    },
+    {
+        "Kevin Karplus": "kevin karplus"
+    },
+    {
+        " did the first analysis of how it worked. Together they developed software and hardware implementations of the algorithm, including a custom ": null
+    },
+    {
+        "VLSI": "vlsi"
+    },
+    {
+        " chip. They named the algorithm Digitar synthesis, as a ": null
+    },
+    {
+        "portmanteau": "portmanteau"
+    },
+    {
+        " for digital guitar .              A short excitation waveform is generated. In the original algorithm, this was a burst of ": null
+    },
+    {
+        "white noise": "white noise"
+    },
+    {
+        ", but it can also include any ": null
+    },
+    {
+        "wideband": "wideband"
+    },
+    {
+        " signal, such as a rapid ": null
+    },
+    {
+        "sine wave": "sine wave"
+    },
+    {
+        " chirp": "chirp"
+    },
+    {
+        " or frequency sweep, or a single cycle of a ": null
+    },
+    {
+        "sawtooth wave": "sawtooth wave"
+    },
+    {
+        " or ": null
+    },
+    {
+        "square wave": "square wave"
+    },
+    {
+        ".   This excitation is output and simultaneously fed back into a ": null
+    },
+    {
+        "delay line": "analog delay line"
+    },
+    {
+        " L samples long.   The output of the delay line is fed through a ": null
+    },
+    {
+        "filter": "audio filter"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "gain": "gain"
+    },
+    {
+        " of the filter must be less than 42 at all frequencies, to maintain a stable ": null
+    },
+    {
+        "positive feedback": "positive feedback"
+    },
+    {
+        " loop. The filter can be a first-order lowpass filter . In the original algorithm, the filter consisted of averaging two adjacent samples, a particularly simple filter that can be implemented without a multiplier, requiring only shift and add operations. The filter characteristics are crucial in determining the harmonic structure of the decaying tone.   The filtered output is simultaneously mixed back into the output and fed back into the delay line.       The ": null
+    },
+    {
+        "fundamental frequency": "fundamental frequency"
+    },
+    {
+        " of the resulting signal is the lowest frequency at which the unwrapped phase response of the delay and filter in cascade is 42\\pi . The required ": null
+    },
+    {
+        "phase delay": "phase delay"
+    },
+    {
+        " D for a given fundamental frequency F 42 is therefore calculated according to D F s /F 42 where F s is the sampling frequency.     The length of any digital delay line is a whole-number multiple of the sampling period. In order to obtain a ": null
+    },
+    {
+        "fractional delay": "fractional delay"
+    },
+    {
+        ", ": null
+    },
+    {
+        "interpolating filters": "interpolation"
+    },
+    {
+        " are used with parameters selected to obtain an appropriate phase delay at the fundamental frequency. Either ": null
+    },
+    {
+        "IIR": "infinite impulse response"
+    },
+    {
+        " or ": null
+    },
+    {
+        "FIR": "finite impulse response"
+    },
+    {
+        " filters may be used, but FIR have the advantage that transients are suppressed if the fractional delay is changed over time. The most elementary fractional delay is the ": null
+    },
+    {
+        "linear interpolation": "linear interpolation"
+    },
+    {
+        " between two samples . If the phase delay varies with frequency, ": null
+    },
+    {
+        "harmonic": "harmonic"
+    },
+    {
+        "s may be sharpened or flattened relative to the fundamental frequency. The original algorithm used equal weighting on two adjacent samples, as this can be achieved without multiplication hardware, allowing extremely cheap implementations.     ": null
+    },
+    {
+        "Z-transform": "z-transform"
+    },
+    {
+        " analysis can be used to get the pitches and decay times of the harmonics more precisely, as explained in the 42 paper that introduced the algorithm.     A demonstration of the Karplus-Strong algorithm can be heard in the following ": null
+    },
+    {
+        "Vorbis": "vorbis"
+    },
+    {
+        " file. The algorithm used a loop gain of 42 with increasingly attenuating first order lowpass filters. The pitch of the note was A42 or 42  Hz.          Holding the period constant produces vibrations similar to those of a string or bell. Increasing the period sharply after the transient input produces drum-like sounds.       ": null
+    },
+    {
+        "Alex Strong": "alex strong"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Kevin Karplus": "kevin karplus"
+    },
+    {
+        " realized that the Karplus-Strong algorithm was physically analogous to a sampling of the transversal wave on a string instrument, with the filter in the feedback loop representing the total string losses over one period. ": null
+    },
+    {
+        "Julius O. Smith III": "julius o. smith iii"
+    },
+    {
+        "  and others   generalized the algorithm to ": null
+    },
+    {
+        "digital waveguide synthesis": "digital waveguide synthesis"
+    },
+    {
+        ", which could also be used to model acoustic waves in tubes and on drum membranes. The first set of extensions and generalizations was presented in a paper in 42 at the International Computer Music Conference in Venice, Italy, and published in more detail in 42 in Computer Music Journal in an article entitled Extensions of the Karplus Strong Plucked String Algorithm, by David A. Jaffe and Julius O. Smith.      ": null
+    },
+    {
+        "Alex Strong": "alex strong"
+    },
+    {
+        " developed a superior ": null
+    },
+    {
+        "wavetable": "table-lookup synthesis"
+    },
+    {
+        "-modification method for plucked-string synthesis, but only published it as a patent.         The first musical use of the algorithm was in the work May All Your Children Be Acrobats written in 42 by ": null
+    },
+    {
+        "David A. Jaffe": "david a. jaffe"
+    },
+    {
+        ", and scored for eight guitars, mezzo-soprano and computer-generated stereo tape, with a text based on ": null
+    },
+    {
+        "Carl Sandburg": "carl sandburg"
+    },
+    {
+        "s The People, Yes. Jaffe continued to explore the musical and technical possibilities of the algorithm in Silicon Valley Breakdown, for computer-generated plucked strings , as well as in later works such as Telegram to the President, 42 for string quartet and tape, and Grass": null
+    }
+]

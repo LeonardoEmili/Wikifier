@@ -1,0 +1,104 @@
+[
+    {
+        "      The Whittaker–Shannon interpolation formula or sinc interpolation is a method to construct a ": null
+    },
+    {
+        "continuous-time": "continuous-time"
+    },
+    {
+        " bandlimited": "bandlimited"
+    },
+    {
+        " function from a sequence of real numbers. The formula dates back to the works of ": null
+    },
+    {
+        "E. Borel": "e. borel"
+    },
+    {
+        " in 42 and ": null
+    },
+    {
+        "E. T. Whittaker": "e. t. whittaker"
+    },
+    {
+        " in 42 and was cited from works of ": null
+    },
+    {
+        "J. M. Whittaker": "j. m. whittaker"
+    },
+    {
+        " in 42 and in the formulation of the ": null
+    },
+    {
+        "Nyquist–Shannon sampling theorem": "nyquist–shannon sampling theorem"
+    },
+    {
+        " by ": null
+    },
+    {
+        "Claude Shannon": "claude shannon"
+    },
+    {
+        " in 42 It is also commonly called Shannons interpolation formula and Whittakers interpolation formula. E. T. Whittaker, who published it in 42 called it the Cardinal series.          Given a sequence of real numbers, xn, the continuous function     : x \\sum_^ x \\, \\left\\,      has a ": null
+    },
+    {
+        "Fourier transform": "fourier transform"
+    },
+    {
+        ", X, whose non-zero values are confined to the region |f .   When parameter T has units of seconds, the bandlimit, 42/, has units of cycles/sec . When the xn sequence represents time samples, at interval T, of a continuous function, the quantity f s 42/T is known as the ": null
+    },
+    {
+        "sample rate": "sample rate"
+    },
+    {
+        ", and f s /42 is the corresponding ": null
+    },
+    {
+        "Nyquist frequency": "nyquist frequency"
+    },
+    {
+        ". When the sampled function has a bandlimit, B, less than the Nyquist frequency, x is a perfect reconstruction of the original function.  Otherwise, the frequency components above the Nyquist frequency fold into the sub-Nyquist region of X, resulting in distortion.        The interpolation formula is derived in the ": null
+    },
+    {
+        "Nyquist–Shannon sampling theorem": "nyquist–shannon sampling theorem"
+    },
+    {
+        " article, which points out that it can also be expressed as the ": null
+    },
+    {
+        "convolution": "convolution"
+    },
+    {
+        " of an ": null
+    },
+    {
+        "infinite impulse train": "dirac comb"
+    },
+    {
+        " with a ": null
+    },
+    {
+        "sinc function": "sinc function"
+    },
+    {
+        ":     : x \\left   \\left.     This is equivalent to filtering the impulse train with an ideal  ": null
+    },
+    {
+        "low-pass filter": "low-pass filter"
+    },
+    {
+        ".       The interpolation formula always converges ": null
+    },
+    {
+        "absolutely": "absolute convergence"
+    },
+    {
+        " and ": null
+    },
+    {
+        "locally uniformly": "uniform convergence"
+    },
+    {
+        " as long as     : \\sum_\\left|\\fracn\\right| ": null
+    }
+]

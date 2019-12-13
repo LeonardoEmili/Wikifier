@@ -1,0 +1,80 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        "s, a third-order intercept point  is a specific figure of merit associated with the more general third-order intermodulation  distortion, which is a measure for weakly ": null
+    },
+    {
+        "nonlinear system": "nonlinear system"
+    },
+    {
+        "s and devices, for example ": null
+    },
+    {
+        "receiver": "receiver"
+    },
+    {
+        "s, linear ": null
+    },
+    {
+        "amplifier": "electronic amplifier"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "mixer": "frequency mixer"
+    },
+    {
+        "s. It is based on the idea that the device nonlinearity can be modeled using a low-order polynomial, derived by means of ": null
+    },
+    {
+        "Taylor series": "taylor series"
+    },
+    {
+        " expansion. The third-order intercept point relates nonlinear products caused by the third-order nonlinear term to the linearly amplified signal, in contrast to the ": null
+    },
+    {
+        "second-order intercept point": "second-order intercept point"
+    },
+    {
+        " that uses second-order terms.  is the generally accepted unambiguous term for the third-order intercept point, although one occasionally sees the use of TOI for this figure-of-merit; such use is considered as incorrect by experts in the field.     The intercept point is a purely mathematical concept and does not correspond to a practically occurring physical power level. In many cases, it lies far beyond the damage threshold of the device.       Two different definitions for intercept points are in use:     Based on harmonic s: The device is tested using a single input tone. The nonlinear products caused by n-th-order nonlinearity appear at n times the frequency of the input tone.   Based on intermodulation product s: The device is fed with two sine tones with a small frequency difference. The n-th-order ": null
+    },
+    {
+        "intermodulation product": "intermodulation product"
+    },
+    {
+        "s then appear at n times the frequency spacing of the input tones. This two-tone approach has the advantage that it is not restricted to broadband devices and is commonly used for radio receivers.     It is worth noticing that these definitions differ by 42  dB , so care should be taken when using existing equations, models or measurement data.        The intercept point is obtained graphically by plotting the output power versus the input power both on ": null
+    },
+    {
+        "logarithmic scale": "logarithmic scale"
+    },
+    {
+        "s . Two curves are drawn; one for the linearly amplified signal at an input tone frequency, one for a nonlinear product.   On a logarithmic scale, the function x n  translates into a straight line with slope of n. Therefore, the linearly amplified signal will exhibit a slope of 42 A third-order nonlinear product will increase by 42  dB in power when the input power is raised by 42  dB.     Both curves are extended with straight lines of slope 42 and n . The point where the curves intersect is the intercept point. It can be read off from the input or output power axis, leading to input or output intercept point respectively.     Input and output intercept point differ by the small-signal gain of the device.              The concept of intercept point is based on the assumption of a weakly nonlinear system, meaning that higher-order nonlinear terms are small enough to be negligible.   In practice, the weakly nonlinear assumption may not hold for the upper end of the input power range, be it during measurement or during use of the amplifier. As a consequence, measured or simulated data will deviate from the ideal slope of n.   The intercept point according to its basic definition should be determined by drawing the straight lines with slope 42 and n through the measured data at the smallest possible power level .   It is a frequent mistake to derive intercept points by either changing the slope of the straight lines, or fitting them to points measured at too high power levels. In certain situations such a measure can be useful, but it is not an intercept point according to definition. Its value depends on the measurement conditions that need to be documented, whereas the IP according to definition is mostly unambiguous; although there is some dependency on frequency and tone spacing, depending on the physics of the device under test.     One of the useful applications of third-order intercept point is as a ": null
+    },
+    {
+        "rule-of-thumb": "rule-of-thumb"
+    },
+    {
+        " measure to estimate nonlinear products. When comparing systems or devices for linearity, a higher intercept point is better. It can be seen that the spacing between two straight lines with slopes of 42 and 42 closes with slope 42     For example, assume a device with an ": null
+    },
+    {
+        "input-referred": "input-referred"
+    },
+    {
+        " third-order intercept point of 42 dBm is driven with a test signal of −42 dBm. This power is 42  dB below the intercept point, therefore nonlinear products will appear at approximately 42×42  dB below the test signal power at the device output .     A rule of thumb that holds for many linear radio-frequency amplifiers is that the 42  dB compression point falls approximately 42  dB below the third-order intercept point.            The third-order intercept point is a property of the device transfer function O .   This transfer function relates the output signal voltage level to the input signal voltage level. We assume a “linear” device having a transfer function whose small-signal form may be expressed in terms of a power series containing only odd terms, making the transfer function an odd function of input signal voltage, i.e., O −O. Where the signals passing through the actual device are modulated sinusoidal voltage waveforms , device nonlinearities can be expressed in terms of how they affect individual sinusoidal signal components. For example, say the input voltage signal is the sine wave     : s V \\cos,     and the device transfer function produces an output of the form     : O G s - D_42 s^42 + \\ldots,     where G is the amplifier gain, and D 42 is cubic distortion. We may substitute the first equation into the second and, using the ": null
+    },
+    {
+        "trigonometric identity": "list_of_trigonometric_identities"
+    },
+    {
+        "     : \\cos^42 \\frac\\cos + \\frac\\cos,     we obtain the device output voltage waveform as     : O \\left \\cos - \\frac D_42 V^42 \\cos.     The output waveform contains the original waveform, cos, plus a new harmonic term, cos, the third-order term. The coefficient of the cos harmonic has two terms, one that varies linearly with V and one that varies with the cube of V. In fact, the coefficient of cos has nearly the same form as the transfer function, except for the factor ¾ on the cubic term. In other words, as signal level V is increased, the level of the cos term in the output eventually levels off, similar to how the transfer function levels off. Of course, the coefficients of the higher-order harmonics will increase  as the coefficient of the cos term levels off .     If we now restrict our attention to the portion of the cos coefficient that varies linearly with V, and then ask ourselves, at what input voltage level V will the coefficients of the first- and third-order terms have equal magnitudes , we find that this happens when     : V^42 \\frac,     which is the third-order intercept point . So, we see that the TOI input power level is simply 42/42 times the ratio of the gain and the cubic distortion term in the device transfer function. The smaller the cubic term is in relation to the gain, the more linear the device is, and the higher the TOI is. The TOI, being related to the magnitude squared of the input voltage waveform, is a power quantity, typically measured in milliwatts . The TOI is always beyond operational power levels because the output power saturates before reaching this level.     The TOI is closely related to the amplifiers 42 dB compression point , which is defined as that point at which the total coefficient of the cos term is 42  dB below the linear portion of that coefficient. We can relate the 42  dB compression point to the TOI as follows. Since 42  dB 42 log 42 42, we may say, in a voltage sense, that the 42  dB compression point occurs when     : 42 \\left G V,     or     : V^42 42 \\times \\frac,     or     : V^42 42 \\times \\mathrm.     In a power sense , a factor of 42 corresponds to −42  dB, so by this approximate analysis, the 42  dB compression point occurs roughly 42  dB below the TOI.     Recall: ": null
+    },
+    {
+        "decibel": "decibel"
+    }
+]

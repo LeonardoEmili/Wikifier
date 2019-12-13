@@ -1,0 +1,80 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", if  is a ": null
+    },
+    {
+        "field extension": "field extension"
+    },
+    {
+        " of , then an element  of  is called an algebraic element over , or just algebraic over , if there exists some non-zero ": null
+    },
+    {
+        "polynomial": "polynomial"
+    },
+    {
+        "  with ": null
+    },
+    {
+        "coefficient": "coefficient"
+    },
+    {
+        "s in  such that . Elements of  which are not algebraic over  are called transcendental over .     These notions generalize the ": null
+    },
+    {
+        "algebraic number": "algebraic number"
+    },
+    {
+        "s and the ": null
+    },
+    {
+        "transcendental number": "transcendental number"
+    },
+    {
+        "s .       The ": null
+    },
+    {
+        "square root of 42": "square root of 2"
+    },
+    {
+        " is algebraic over , since it is the root of the polynomial  whose coefficients are rational.   ": null
+    },
+    {
+        "Pi": "pi"
+    },
+    {
+        " is transcendental over  but algebraic over the field of ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s : it is the root of , whose coefficients  are both real, but not of any polynomial with only rational coefficients.          The following conditions are equivalent for an element  of :    is algebraic over ,   the field extension  has finite degree, i.e. the ": null
+    },
+    {
+        "dimension": "dimension of a vector space"
+    },
+    {
+        " of  as a -": null
+    },
+    {
+        "vector space": "vector space"
+    },
+    {
+        " is finite ,   , where  is the set of all elements of  that can be written in the form  with a polynomial  whose coefficients lie in .     This characterization can be used to show that the sum, difference, product and quotient of algebraic elements over  are again algebraic over . The set of all elements of  which are algebraic over  is a field that sits in between  and .     If  is algebraic over , then there are many nonzero polynomials  with coefficients in  such that . However, there is a single one with smallest degree and with leading coefficient 42 This is the ": null
+    },
+    {
+        "minimal polynomial": "minimal polynomial"
+    },
+    {
+        " of a and it encodes many important properties of .     Fields that do not allow any algebraic elements over them are called ": null
+    },
+    {
+        "algebraically closed": "algebraically closed field"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "A tree automaton is a type of ": null
+    },
+    {
+        "state machine": "state machine"
+    },
+    {
+        ". Tree automata deal with ": null
+    },
+    {
+        "tree structure": "tree structure"
+    },
+    {
+        "s, rather than the ": null
+    },
+    {
+        "strings": "string"
+    },
+    {
+        " of more conventional state machines.     The following article deals with branching tree automata, which correspond to ": null
+    },
+    {
+        "regular languages of trees": "regular tree language"
+    },
+    {
+        ".     As with classical automata, finite tree automata can be either a ": null
+    },
+    {
+        "deterministic automaton": "deterministic automaton"
+    },
+    {
+        " or not. According to how the automaton processes the input tree, finite tree automata can be of two types: bottom up, top down. This is an important issue, as although non-deterministic top-down and ND bottom-up tree automata are equivalent in expressive power, deterministic top-down automata are strictly less powerful than their deterministic bottom-up counterparts, because tree properties specified by deterministic top-down tree automata can only depend on path properties.         A bottom-up finite tree automaton over F is defined as a tuple   ,   where Q is a set of states, F is a ": null
+    },
+    {
+        "ranked alphabet": "ranked alphabet"
+    },
+    {
+        " , Q f ⊆ Q is a set of final states, and Δ is a set of ": null
+    },
+    {
+        "transition rules": "production"
+    },
+    {
+        " of the form f → q, for an n-ary f ∈ F, q, q i ∈ Q, and x i variables denoting subtrees. That is, members of Δ are rewrite rules from nodes whose childs roots are states, to nodes whose roots are states. Thus the state of a node is deduced from the states of its children.     For n42 that is, for a constant symbol f, the above transition rule definition reads f → q; often the empty parentheses are omitted for convenience: f → q.   Since these transition rules for constant symbols do not require a state, no explicitly defined initial states are needed.   A bottom-up tree automaton is run on a ": null
+    },
+    {
+        "ground term": "ground term"
+    },
+    {
+        " over F, starting at all its leaves simultaneously and moving upwards, associating a run state from Q with each subterm.   The term is accepted if its root is associated to an accepting state from Q f .     A top-down finite tree automaton over F is defined as a tuple   ,   with two differences with bottom-up tree automata. First, Q i ⊆ Q, the set of its initial states, replaces Q f ; second, its transition rules are oriented conversely:   q → f, for an n-ary f ∈ F, q, q i ∈ Q, and x i variables denoting subtrees.   That is, members of Δ are here rewrite rules from nodes whose roots are states to nodes whose childs roots are states.   A top-down automaton starts in some of its initial states at the root and moves downward along branches of the tree, associating along a run a state with each subterm inductively.   A tree is accepted if every branch can be gone through this way.     A tree automaton is called deterministic  if no two rules from Δ have the same left hand side; otherwise it is called nondeterministic . Non-deterministic top-down tree automata have the same expressive power as non-deterministic bottom-up ones; the transition rules are simply reversed, and the final states become the initial states.     In contrast, deterministic top-down tree automata In a strict sense, deterministic top-down automata are not defined by  but they are used there . They accept the class of path-closed tree languages . are less powerful than their bottom-up counterparts, because in a deterministic tree automaton no two transition rules have the same left-hand side. For tree automata, transition rules are rewrite rules; and for top-down ones, the left-hand side will be parent nodes. Consequently, a deterministic top-down tree automaton will only be able to test for tree properties that are true in all branches, because the choice of the state to write into each child branch is determined at the parent node, without knowing the child branches contents.           Employing coloring to distinguish members of F and Q, and using the ranked alphabet F, with  having arity 42 and all other symbols having arity 42 a bottom-up tree automaton accepting the set of all finite lists of boolean values can be defined as  with , Q f , and Δ consisting of the rules            In this example, the rules can be understood intuitively as assigning to each term its type in a bottom-up manner; e.g. rule can be read as A term  has type , provided x 42 and x 42 has type  and , respectively .   An accepting example run is            Cf. the derivation of the same term from a regular tree grammar corresponding to the automaton, shown at ": null
+    },
+    {
+        "Regular tree grammarExamples": "regular tree grammarexamples"
+    },
+    {
+        ".     An rejecting example run is          Intuivitvely, this corresponds to the term  not being well-typed.                     Using the same colorization as above, this example shows how tree automata generalize ordinary string automata.   The finite deterministic string automaton shown in the picture accepts all strings of binary digits that denote a multiple of 42   Using the notions from ": null
+    },
+    {
+        "Deterministic finite automatonFormal definition": "deterministic finite automatonformal definition"
+    },
+    {
+        ", it is defined by:   the set Q of states being ,   the input alphabet being ,   the initial state being ,   the set of final states being , and   the transitions being as shown in column of the table.     In the tree automaton setting, the input alphabet is changed such that the symbols  and  are both unary, and a nullary symbol, say  is used for tree leaves.   For example, the binary string  in the string automaton setting corresponds to the term  in the tree automaton setting; this way, strings can be generalized to trees, or terms.   The top-down finite tree automaton accepting the set of all terms corresponding to multiples of 42 in binary string notation is then defined by:   the set Q of states being still ,   the ranked input alphabet being , with ArityArity42 and Arity42 as explained,   the set of initial states being , and   the transitions being as shown in column of the table.   For example, the tree  is accepted by the following tree automaton run:            In contrast, the term  leads to following non-accepting automaton run:        ": null
+    }
+]

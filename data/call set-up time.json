@@ -1,0 +1,65 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        ", the term call set-up time has the following meanings:     The overall length of ": null
+    },
+    {
+        "time": "time"
+    },
+    {
+        " required to establish a ": null
+    },
+    {
+        "circuit": "telecommunication circuit"
+    },
+    {
+        "-switched ": null
+    },
+    {
+        "call": "telephone call"
+    },
+    {
+        " between users.   For ": null
+    },
+    {
+        "data communication": "data communication"
+    },
+    {
+        ", the overall length of time required to establish a circuit-switched call between terminals; i.e., the time from the initiation of a call request to the beginning of the call ": null
+    },
+    {
+        "message": "message"
+    },
+    {
+        ".     Note: Call set-up time is the summation of: call request time—the time from initiation of a ": null
+    },
+    {
+        "calling signal": "calling signal"
+    },
+    {
+        " to the delivery to the caller of a ": null
+    },
+    {
+        "proceed-to-select": "proceed-to-select"
+    },
+    {
+        " signal; selection time—the time from the delivery of the proceed-to-select signal until all the selection signals have been transmitted; and post selection time—the time from the end of the ": null
+    },
+    {
+        "transmission": "transmission"
+    },
+    {
+        " of the selection signals until the delivery of the call-connected signal to the originating ": null
+    },
+    {
+        "terminal": "terminal"
+    },
+    {
+        ".          ": null
+    }
+]

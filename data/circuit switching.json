@@ -1,0 +1,179 @@
+[
+    {
+        "Circuit switching is a method of implementing a ": null
+    },
+    {
+        "telecommunications network": "telecommunications network"
+    },
+    {
+        " in which two ": null
+    },
+    {
+        "network nodes": "network nodes"
+    },
+    {
+        " establish a dedicated ": null
+    },
+    {
+        "communications channel": "communications channel"
+    },
+    {
+        "  through the network before the nodes may communicate. The circuit guarantees the full bandwidth of the channel and remains connected for the duration of the ": null
+    },
+    {
+        "communication session": "communication session"
+    },
+    {
+        ". The circuit functions as if the nodes were physically connected as with an electrical circuit.     The defining example of a circuit-switched network is the early analog ": null
+    },
+    {
+        "telephone network": "telephone network"
+    },
+    {
+        ". When a ": null
+    },
+    {
+        "call": "telephone call"
+    },
+    {
+        " is made from one telephone to another, switches within the ": null
+    },
+    {
+        "telephone exchange": "telephone exchange"
+    },
+    {
+        "s create a continuous wire circuit between the two telephones, for as long as the call lasts.     Circuit switching contrasts with ": null
+    },
+    {
+        "packet switching": "packet switching"
+    },
+    {
+        ", which divides the data to be transmitted into ": null
+    },
+    {
+        "packets": "network packet"
+    },
+    {
+        " transmitted through the network independently. In packet switching, instead of being dedicated to one communication session at a time, network links are shared by packets from multiple competing communication sessions, resulting in the loss of the quality of service guarantees that are provided by circuit switching.     In circuit switching, the bit delay is constant during a connection, as opposed to packet switching, where packet queues may cause varying and potentially indefinitely long ": null
+    },
+    {
+        "packet transfer delay": "packet transfer delay"
+    },
+    {
+        "s. No circuit can be degraded by competing users because it is protected from use by other callers until the circuit is released and a new connection is set up. Even if no actual communication is taking place, the channel remains reserved and protected from competing users.     ": null
+    },
+    {
+        "Virtual circuit switching": "virtual circuit switching"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "packet switching": "packet switching"
+    },
+    {
+        " technology that emulates circuit switching, in the sense that the connection is established before any packets are transferred, and packets are delivered in order.     While circuit switching is commonly used for connecting voice circuits, the concept of a dedicated path persisting between two communicating parties or nodes can be extended to signal content other than voice. The advantage of using circuit switching is that it provides for continuous transfer without the overhead associated with ": null
+    },
+    {
+        "packets": "network packet"
+    },
+    {
+        ", making maximal use of available bandwidth for that communication. One disadvantage is that it can be relatively inefficient, because unused capacity guaranteed to a connection cannot be used by other connections on the same network.            For ": null
+    },
+    {
+        "call setup": "call processing"
+    },
+    {
+        " and control , it is possible to use a separate dedicated ": null
+    },
+    {
+        "signalling": "signalling"
+    },
+    {
+        " channel from the end node to the network. ": null
+    },
+    {
+        "ISDN": "isdn"
+    },
+    {
+        " is one such service that uses a separate signalling channel while ": null
+    },
+    {
+        "plain old telephone service": "plain old telephone service"
+    },
+    {
+        " does not.     The method of establishing the connection and monitoring its progress and termination through the network may also utilize a ": null
+    },
+    {
+        "separate control channel": "separate channel signaling"
+    },
+    {
+        " as in the case of links between telephone exchanges which use ": null
+    },
+    {
+        "CCS42": "signalling system 7"
+    },
+    {
+        " packet-switched signalling protocol to communicate the call setup and control information and use ": null
+    },
+    {
+        "TDM": "time-division multiplexing"
+    },
+    {
+        " to transport the actual circuit data.     Early ": null
+    },
+    {
+        "telephone exchanges": "telephone exchanges"
+    },
+    {
+        " were a suitable example of circuit switching. The subscriber would ask the operator to connect to another subscriber, whether on the same exchange or via an inter-exchange link and another operator. In any case, the end result was a physical electrical connection between the two subscribers telephones for the duration of the call. The copper wire used for the connection could not be used to carry other calls at the same time, even if the subscribers were in fact not talking and the line was silent.       Circuit switching contrasts with ": null
+    },
+    {
+        "packet switching": "packet switching"
+    },
+    {
+        " which divides the data to be transmitted into small units, called packets, transmitted through the network independently. Packet switching shares available network bandwidth between multiple communication sessions.     ": null
+    },
+    {
+        "Multiplexing": "multiplexing"
+    },
+    {
+        " multiple telecommunications connections over the same physical conductor has been possible for a long time, but nonetheless each channel on the multiplexed link was either dedicated to one call at a time, or it was idle between calls.     In circuit switching, a route and its associated bandwidth is reserved from source to destination, making circuit switching relatively inefficient since capacity is reserved whether or not the connection is in continuous use.     In contrast, packet switching is the process of segmenting data to be transmitted into several smaller packets. Each packet is labeled with its destination and a sequence number for ordering related packets, precluding the need for a dedicated path to help the packet find its way to its destination. Each packet is dispatched independently and each may be routed via a different path. At the destination, the original message is reordered based on the packet number to reproduce the original message. As a result, datagram packet switching networks do not require a circuit to be established and allow many pairs of nodes to communicate concurrently over the same channel.         ": null
+    },
+    {
+        "Public switched telephone network": "public switched telephone network"
+    },
+    {
+        "   B channel": "b channel"
+    },
+    {
+        " of ": null
+    },
+    {
+        "ISDN": "isdn"
+    },
+    {
+        " Circuit Switched Data": "circuit switched data"
+    },
+    {
+        " and ": null
+    },
+    {
+        "High-Speed Circuit-Switched Data": "high-speed circuit-switched data"
+    },
+    {
+        " service in cellular systems such as ": null
+    },
+    {
+        "GSM": "gsm"
+    },
+    {
+        " Datakit": "datakit"
+    },
+    {
+        " X.42": "x.21"
+    },
+    {
+        "    Optical mesh network": "optical mesh network"
+    }
+]

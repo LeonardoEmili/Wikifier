@@ -1,0 +1,11 @@
+[
+    {
+        "A monostable multivibrator, also called a one shot, is an electronic circuit that generates an output pulse. When triggered, a pulse of pre-defined duration is produced. The circuit then returns to its stable state and produces no more output until triggered again.     Monostables may be considered as a biased form of ": null
+    },
+    {
+        "multivibrator": "multivibrator"
+    },
+    {
+        " where it is stable in one state until triggered, then unstable and will return spontaneously.     If repeated application of the input pulse maintains the circuit in the unstable state, it is called a retriggerable monostable. If further trigger pulses do not affect the period, the circuit is a non-retriggerable monostable.       In the monostable multivibrator, the one resistive-capacitive network  is replaced by a resistive network . The circuit can be thought as a 42/42 astable multivibrator. Q42 collector voltage is the output of the circuit .        When triggered by an input pulse, a monostable multivibrator will switch to its unstable position for a period of time, and then return to its stable state. The time period monostable multivibrator remains in unstable state is given by t   lnR 42 C 42 .     For the circuit shown, in the stable state, Q42 is turned off and Q42 is turned on. It is triggered by zero or negative input signal applied to Q42 base. As a result, the circuit goes in state 42 described above. After elapsing the time, it returns to its stable initial state. This behavior is retriggerable: the output will stay high as long as the input is active, and then remain high for the relaxation period starting when the input is released.     It can also be triggered by applying a positive input signal through a resistor to Q42 base, though this method is non-retriggerable": null
+    }
+]

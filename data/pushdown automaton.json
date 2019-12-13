@@ -1,0 +1,176 @@
+[
+    {
+        "In the ": null
+    },
+    {
+        "theory of computation": "theory of computation"
+    },
+    {
+        ", a branch of ": null
+    },
+    {
+        "theoretical computer science": "theoretical computer science"
+    },
+    {
+        ", a pushdown automaton  is   a type of ": null
+    },
+    {
+        "automaton": "automata theory"
+    },
+    {
+        " that employs a ": null
+    },
+    {
+        "stack": "stack"
+    },
+    {
+        ".     Pushdown automata are used in theories about what can be computed by machines. They are more capable than ": null
+    },
+    {
+        "finite-state machine": "finite-state machine"
+    },
+    {
+        "s but less capable than ": null
+    },
+    {
+        "Turing machine": "turing machine"
+    },
+    {
+        "s.   ": null
+    },
+    {
+        "Deterministic pushdown automata": "deterministic pushdown automata"
+    },
+    {
+        " can recognize all ": null
+    },
+    {
+        "deterministic context-free language": "deterministic context-free language"
+    },
+    {
+        "s while nondeterministic ones can recognize all ": null
+    },
+    {
+        "context-free language": "context-free language"
+    },
+    {
+        "s, with the former often used in ": null
+    },
+    {
+        "parser": "parser"
+    },
+    {
+        " design.     The term pushdown refers to the fact that the ": null
+    },
+    {
+        "stack": "stack"
+    },
+    {
+        " can be regarded as being pushed down like a tray dispenser at a cafeteria, since the operations never work on elements other than the top element. A stack automaton, by contrast, does allow access to and operations on deeper elements. Stack automata can recognize a strictly larger set of languages than pushdown automata.   A ": null
+    },
+    {
+        "nested stack automaton": "nested stack automaton"
+    },
+    {
+        " allows full access, and also allows stacked values to be entire sub-stacks rather than just single finite symbols.            A ": null
+    },
+    {
+        "finite state machine": "finite state machine"
+    },
+    {
+        " just looks at the input signal and the current state: it has no stack to work with. It chooses a new state, the result of following the transition. A pushdown automaton  differs from a finite state machine in two ways:   It can use the top of the stack to decide which transition to take.   It can manipulate the stack as part of performing a transition.     A pushdown automaton reads a given input string from left to right. In each step, it chooses a transition by indexing a table by input symbol, current state, and the symbol at the top of the stack. A pushdown automaton can also manipulate the stack, as part of performing a transition. The manipulation can be to push a particular symbol to the top of the stack, or to pop off the top of the stack. The automaton can alternatively ignore the stack, and leave it as it is.     Put together: Given an input symbol, current state, and stack symbol, the automaton can follow a transition to another state, and optionally manipulate the stack.     If, in every situation, at most one such transition action is possible, then the automaton is called a  deterministic pushdown automaton . In general, if several actions are possible, then the automaton is called a general, or nondeterministic, PDA. A given input string may drive a nondeterministic pushdown automaton to one of several configuration sequences; if one of them leads to an accepting configuration after reading the complete input string, the latter is said to belong to the language accepted by the automaton.          We use standard formal language notation: \\Gamma^ denotes the set of finite-length ": null
+    },
+    {
+        "string": "string"
+    },
+    {
+        "s over alphabet \\Gamma and \\varepsilon denotes the ": null
+    },
+    {
+        "empty string": "empty string"
+    },
+    {
+        ".     A PDA is formally defined as a 42-tuple:     M   where     Q is a finite set of states input alphabet stack alphabet transition relation start state initial stack symbol accepting states     An element \\in \\delta is a transition of M . It has the intended meaning that M , in state p \\in Q , on the input a \\in \\Sigma \\cup \\ and with A \\in \\Gamma as topmost stack symbol, may read a , change the state to q , pop A , replacing it by pushing \\alpha \\in \\Gamma^ . The component of the transition relation is used to formalize that the PDA can either read a letter from the input, or proceed leaving the input untouched.     In many texts  the transition relation is replaced by an formalization, where     \\delta is the transition function, mapping Q \\times \\times \\Gamma into finite subsets of Q \\times \\Gamma^     Here \\delta contains all possible actions in state p with A on the stack, while reading a on the input. One writes for example \\delta \\ precisely when \\in \\, \\in \\delta, because \\in \\delta . Note that finite in this definition is essential.      Computations         In order to formalize the semantics of the pushdown automaton a description of the current situation is introduced. Any 42-tuple \\in Q \\times \\Sigma^ \\times \\Gamma^ is called an instantaneous description of M , which includes the current state, the part of the input tape that has not been read, and the contents of the stack . The transition relation \\delta defines the step-relation \\vdash_ of M on instantaneous descriptions. For instruction \\in \\delta there exists a step \\vdash_ , for every x\\in\\Sigma^ and every \\gamma\\in \\Gamma^ .     In general pushdown automata are nondeterministic meaning that in a given instantaneous description there may be several possible steps. Any of these steps can be chosen in a computation.   With the above definition in each step always a single symbol is popped, replacing it with as many symbols as necessary. As a consequence no step is defined when the stack is empty.     Computations of the pushdown automaton are sequences of steps. The computation starts in the initial state q_ with the initial stack symbol Z on the stack, and a string w on the input tape, thus with initial description .   There are two modes of accepting. The pushdown automaton either accepts by final state, which means after reading its input the automaton reaches an accepting state , or it accepts by empty stack , which means after reading its input the automaton empties its stack. The first acceptance mode uses the internal memory , the second the external memory .     Formally one defines   L \\   N \\     Here \\vdash_M^ represents the reflexive and transitive closure of the step relation \\vdash_M meaning any number of consecutive steps .     For each single pushdown automaton these two languages need to have no relation: they may be equal but usually this is not the case. A specification of the automaton should also include the intended mode of acceptance. Taken over all pushdown automata both acceptance conditions define the same family of languages.     Theorem. For each pushdown automaton M one may construct a pushdown automaton M such that LN , and vice versa, for each pushdown automaton M one may construct a pushdown automaton M such that NL         The following is the formal description of the PDA which recognizes the language \\ by final state:        M , where     states: Q \\   input alphabet: \\Sigma \\   stack alphabet: \\Gamma \\   start state: q_ p   start stack symbol:  accepting states: F \\     The transition relation \\delta consists of the following six instructions:     : ,   : ,   : ,   : ,   : , and   : .     In words, the first two instructions say that in state  any time the symbol  is read, one  is pushed onto the stack. Pushing symbol  on top of another  is formalized as replacing top  by  .     The third and fourth instructions say that, at any moment the automaton may move from state  to state .     The fifth instruction says that in state , for each symbol  read, one  is popped.     Finally, the sixth instruction says that the machine may move from state  to accepting state  only when the stack consists of a single .     There seems to be no generally used representation for PDA. Here we have depicted the instruction by an edge from state  to state  labelled by a; A/\\alpha .            The following illustrates how the above PDA computes on different input strings. The subscript  from the step symbol \\vdash is here omitted.            Every ": null
+    },
+    {
+        "context-free grammar": "context-free grammar"
+    },
+    {
+        " can be transformed into an equivalent nondeterministic pushdown automaton. The derivation process of the grammar is simulated in a leftmost way. Where the grammar rewrites a nonterminal, the PDA takes the topmost nonterminal from its stack and replaces it by the right-hand part of a grammatical rule . Where the grammar generates a terminal symbol, the PDA reads a symbol from input when it is the topmost symbol on the stack . In a sense the stack of the PDA contains the unprocessed data of the grammar, corresponding to a pre-order traversal of a derivation tree.     Technically, given a context-free grammar, the PDA has a single state, 42 and its transition relation is constructed as follows.     for each rule A\\to\\alpha    for each terminal symbol a      The PDA accepts by empty stack. Its initial stack symbol is the grammars start symbol.     For a context-free grammar in ": null
+    },
+    {
+        "Greibach normal form": "greibach normal form"
+    },
+    {
+        ", defining ∈ δ for each grammar rule A → aγ also yields an equivalent nondeterministic pushdown automaton.       The converse, finding a grammar for a given PDA, is not that easy. The trick is to code two states of the PDA into the nonterminals of the grammar.     Theorem. For each pushdown automaton M one may construct a context-free grammar G such that NL .      The language of strings accepted by a deterministic pushdown automaton is called a ": null
+    },
+    {
+        "deterministic context-free language": "deterministic context-free language"
+    },
+    {
+        ". Not all context-free languages are deterministic. As a consequence, the DPDA is a strictly weaker variant of the PDA      A finite automaton with access to two stacks is a more powerful device, equivalent in power to a ": null
+    },
+    {
+        "Turing machine": "turing machine"
+    },
+    {
+        ".  A ": null
+    },
+    {
+        "linear bounded automaton": "linear bounded automaton"
+    },
+    {
+        " is a device which is more powerful than a pushdown automaton but less so than a Turing machine.         A GPDA is a PDA which writes an entire string of some known length to the stack or removes an entire string from the stack in one step.     A GPDA is formally defined as a 42-tuple:   : M   where Q, \\Sigma\\,, \\Gamma\\,, q_42 , and  are defined the same way as a PDA.   : \\,\\delta : Q \\times \\Sigma_ \\times \\Gamma^ \\longrightarrow P   is the transition function.     Computation rules for a GPDA are the same as a PDA except that the a_ s and b_ s are now strings instead of symbols.     GPDAs and PDAs are equivalent in that if a language is recognized by a PDA, it is also recognized by a GPDA and vice versa.     One can formulate an analytic proof for the equivalence of GPDAs and PDAs using the following simulation:     Let \\delta \\longrightarrow be a transition of the GPDA     where q_42 q_42 \\in Q, w \\in\\Sigma_, x_42 x_42\\ldots,x_m\\in\\Gamma^, m\\geq 42 y_42 y_42\\ldots, y_n\\in\\Gamma^, n\\geq 42 .     Construct the following transitions for the PDA:     : \\begin   \\delta^ & \\longrightarrow &   \\\\   \\delta^ & \\longrightarrow &   \\\\   & \\vdots &   \\\\   \\delta^ & \\longrightarrow &   \\\\   \\delta^ & \\longrightarrow &   \\\\   \\delta^ & \\longrightarrow &   \\\\   & \\vdots &   \\\\   \\delta^ & \\longrightarrow &   \\end       As a generalization of pushdown automata, Ginsburg, Greibach, and Harrison investigated stack automata, which may additionally step left or right in the input string , and step up or down in the stack in read-only mode.     A stack automaton is called nonerasing if it never pops from the stack. The class of languages accepted by nondeterministic, nonerasing stack automata is  NSPACE , which is a superset of the ": null
+    },
+    {
+        "context-sensitive languages": "context-sensitive languagescomputational properties"
+    },
+    {
+        ".  The class of languages accepted by deterministic, nonerasing stack automata is  DSPACE .     alternating pushdown automaton is a pushdown automaton with a state set     QQ_\\exists \\cup Q_\\forall where Q_\\exists \\cap Q_\\forall\\emptyset .     States in Q_\\exists and Q_\\forall are called existential resp. universal. In an existential state an APDA nondeterministically chooses the next state and accepts if at least one of the resulting computations accepts. In a universal state APDA moves to all next states and accepts if all the resulting computations accept.     The model was introduced by ": null
+    },
+    {
+        "Chandra": "ashok k. chandra"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Kozen": "dexter kozen"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Stockmeyer": "larry stockmeyer"
+    },
+    {
+        ".  ": null
+    },
+    {
+        "Ladner": "richard e. ladner"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Lipton": "richard j. lipton"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Stockmeyer": "larry stockmeyer"
+    },
+    {
+        "  proved that this model is equivalent to ": null
+    },
+    {
+        "EXPTIME": "exptime"
+    },
+    {
+        " i.e. a language is accepted by some APDA iff it can be decided by an exponential-time algorithm.     Aizikowitz and Kaminski  introduced synchronized alternating pushdown automata that are equivalent to ": null
+    },
+    {
+        "conjunctive grammar": "conjunctive grammar"
+    }
+]

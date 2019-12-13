@@ -1,0 +1,404 @@
+[
+    {
+        "        In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", specifically in ": null
+    },
+    {
+        "group theory": "group theory"
+    },
+    {
+        ", the concept of a semidirect product is a generalization of a ": null
+    },
+    {
+        "direct product": "direct product of groups"
+    },
+    {
+        ". There are two closely related concepts of semidirect product:   an inner semidirect product is a particular way in which a ": null
+    },
+    {
+        "group": "group"
+    },
+    {
+        " can be made up of two ": null
+    },
+    {
+        "subgroup": "subgroup"
+    },
+    {
+        "s, one of which is a ": null
+    },
+    {
+        "normal subgroup": "normal subgroup"
+    },
+    {
+        ".   an outer semidirect product is a way to construct a new group from two given groups by using the ": null
+    },
+    {
+        "Cartesian product": "cartesian product"
+    },
+    {
+        " as a set and a particular multiplication operation.   As with direct products, there is a natural equivalence between inner and outer semidirect products, and both are commonly referred to simply as semidirect products.     For ": null
+    },
+    {
+        "finite group": "finite group"
+    },
+    {
+        "s, the ": null
+    },
+    {
+        "Schur–Zassenhaus theorem": "schur–zassenhaus theorem"
+    },
+    {
+        " provides a sufficient condition for the existence of a decomposition as a semidirect product .         Given a group  with ": null
+    },
+    {
+        "identity element": "identity element"
+    },
+    {
+        " , a ": null
+    },
+    {
+        "subgroup": "subgroup"
+    },
+    {
+        " , and a ": null
+    },
+    {
+        "normal subgroup": "normal subgroup"
+    },
+    {
+        " ; then the following statements are equivalent:    is the ": null
+    },
+    {
+        "product of subgroups": "product of group subsetsproduct of subgroups"
+    },
+    {
+        ", , and these subgroups have trivial intersection: .   For every , there are unique  and  such that .   For every , there are unique  and  such that .   The composition  of the natural embedding  with the natural projection  is an ": null
+    },
+    {
+        "isomorphism": "group isomorphism"
+    },
+    {
+        " between  and the ": null
+    },
+    {
+        "quotient group": "quotient group"
+    },
+    {
+        " .   There exists a ": null
+    },
+    {
+        "homomorphism": "group homomorphism"
+    },
+    {
+        "  that is the identity on  and whose ": null
+    },
+    {
+        "kernel": "kernel"
+    },
+    {
+        " is . In other words, there is a split exact sequence   :: 42 \\to N \\to G \\to H \\to 42     : of groups .     If any of these statements holds , we say  is the semidirect product of  and , written     : G N \\rtimes H,     or that  splits over ; one also says that  is a semidirect product of  acting on , or even a semidirect product of  and . To avoid ambiguity, it is advisable to specify which is the normal subgroup.         To introduce the notion of outer semidirect products, let us first consider inner semidirect product. In this case, for a group G , consider its normal subgroup  and the subgroup  . Let  denote the group of all ": null
+    },
+    {
+        "automorphism": "automorphism"
+    },
+    {
+        "s of , which is a group under the composition. Construct a group homomorphism  defined by conjugation  for all  in  and  in . The expression  is often written as  for brevity. In this way we can construct a group G with group operation defined as \\cdot for  in  and  in . Together , , and  determine  ": null
+    },
+    {
+        "up to": "up to"
+    },
+    {
+        " isomorphism, as we will show later. We can construct group  from its subgroups, this kind of construction is called inner semidirect product.     Let us now consider the outer semidirect product. Given any two groups  and  and a group homomorphism , we can construct a new group , called the  semidirect product of and with respect to , defined as follows.         This defines a group in which the identity element is  and the inverse of the element  is . Pairs  form a normal subgroup isomorphic to , while pairs  form a subgroup isomorphic to . The full group is a semidirect product of those two subgroups in the sense given earlier.     Conversely, suppose that we are given a group  with a normal subgroup  and a subgroup , such that every element  of  may be written uniquely in the form  where  lies in  and  lies in . Let  be the homomorphism  given by   : \\varphi_h hnh^   for all .     Then  is isomorphic to the semidirect product . The isomorphism  is well defined   by  due to the uniqueness of the decomposition .     In , we have   :   n_42 h_42 n_42 \\left h_42   \\left\\left     Thus, for  and  we obtain   :   \\lambda \\lambda \\lambda \\bullet     :   \\lambda \\bullet \\lambda \\lambda \\bullet \\lambda,     which proves that  is a homomorphism. Since  is obviously an epimorphism and monomorphism, then it is indeed an isomorphism. This also explains the definition of the multiplication rule in .     The direct product is a special case of the semidirect product. To see this, let  be the trivial homomorphism  then  is the direct product .     A version of the ": null
+    },
+    {
+        "splitting lemma": "splitting lemma"
+    },
+    {
+        " for groups states that a group  is isomorphic to a semidirect product of the two groups  and  if and only if there exists a ": null
+    },
+    {
+        "short exact sequence": "exact sequence"
+    },
+    {
+        "     : 42 \\longrightarrow N \\overset G \\overset H \\longrightarrow 42     and a group homomorphism  such that , the ": null
+    },
+    {
+        "identity map": "identity function"
+    },
+    {
+        " on . In this case,  is given by , where   : \\varphi_h \\beta^\\left.       The ": null
+    },
+    {
+        "dihedral group": "dihedral group"
+    },
+    {
+        "  with  elements is isomorphic to a semidirect product of the ": null
+    },
+    {
+        "cyclic group": "cyclic group"
+    },
+    {
+        "s  and .  Here, the non-identity element of  acts on  by inverting elements; this is an automorphism since  is ": null
+    },
+    {
+        "abelian": "abelian group"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "presentation": "group presentation"
+    },
+    {
+        " for this group is:   : \\langle a,\\;b \\mid a^42 e,\\; b^n e,\\; aba^ b^\\rangle.     More generally, a semidirect product of any two cyclic groups  with generator  and  with generator  is given by one extra relation, , with  and  ": null
+    },
+    {
+        "coprime": "coprime"
+    },
+    {
+        "; that is, the presentation:   : \\langle a,\\;b \\mid a^m e,\\;b^n e,\\;aba^ b^k\\rangle.     If  and  are coprime,  is a generator of  and , hence the presentation:   : \\langle a,\\;b \\mid a^m e,\\;b^n e,\\;aba^ b^\\rangle     gives a group isomorphic to the previous one.     The ": null
+    },
+    {
+        "fundamental group": "fundamental group"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "Klein bottle": "klein bottle"
+    },
+    {
+        " can be presented in the form   : \\langle a,\\;b \\mid aba^ b^\\rangle.     and is therefore a semidirect product of the group of integers, , with . The corresponding homomorphism  is given by .     The ": null
+    },
+    {
+        "Euclidean group": "euclidean group"
+    },
+    {
+        " of all rigid motions  of the plane  is isomorphic to a semidirect product of the abelian group  and the group  of ": null
+    },
+    {
+        "orthogonal": "orthogonal matrix"
+    },
+    {
+        "  matrices . Applying a translation and then a rotation or reflection has the same effect as applying the rotation or reflection first and then a translation by the rotated or reflected translation vector . This shows that the group of translations is a normal subgroup of the Euclidean group, that the Euclidean group is a semidirect product of the translation group and , and that the corresponding homomorphism  is given by ": null
+    },
+    {
+        "matrix multiplication": "matrix multiplication"
+    },
+    {
+        ": .     The ": null
+    },
+    {
+        "orthogonal group": "orthogonal group"
+    },
+    {
+        "  of all orthogonal real  matrices  is isomorphic to a semidirect product of the group   and . If we represent  as the multiplicative group of matrices , where  is a reflection of -dimensional space that keeps the origin fixed , then  is given by  for all H in  and  in . In the non-trivial case  this means that  is conjugation of operations by the reflection .     The group of ": null
+    },
+    {
+        "semilinear transformation": "semilinear transformation"
+    },
+    {
+        "s on a vector space  over a field , often denoted , is isomorphic to a semidirect product of the ": null
+    },
+    {
+        "linear group": "linear group"
+    },
+    {
+        "  , and the ": null
+    },
+    {
+        "automorphism group": "automorphism group"
+    },
+    {
+        " of .     In crystallography, the space group of a crystal splits as the semidirect product of the point group and the translation group if and only if the space group is symmorphic. Non-symmorphic space groups have point groups that are not even contained as subset of the space group, which is responsible for much of the complication in their analysis.        If  is the semidirect product of the normal subgroup  and the subgroup , and both  and  are finite, then the ": null
+    },
+    {
+        "order": "order of a group"
+    },
+    {
+        " of  equals the product of the orders of  and . This follows from the fact that  is of the same order as the outer semidirect product of  and , whose underlying set is the ": null
+    },
+    {
+        "Cartesian product": "cartesian product"
+    },
+    {
+        " .       Suppose  is a semidirect product of the normal subgroup  and the subgroup . If  is also normal in , or equivalently, if there exists a homomorphism  that is the identity on , then  is the ": null
+    },
+    {
+        "direct product": "direct product of groups"
+    },
+    {
+        " of  and .     The direct product of two groups  and  can be thought of as the semidirect product of  and  with respect to  for all  in .     Note that in a direct product, the order of the factors is not important, since  is isomorphic to . This is not the case for semidirect products, as the two factors play different roles.     Furthermore, the result of a semidirect product by means of a non-trivial homomorphism is never an ": null
+    },
+    {
+        "abelian group": "abelian group"
+    },
+    {
+        ", even if the factor groups are abelian.       As opposed to the case with the ": null
+    },
+    {
+        "direct product": "direct product of groups"
+    },
+    {
+        ", a semidirect product of two groups is not, in general, unique; if  and  are two groups that both contain isomorphic copies of  as a normal subgroup and  as a subgroup, and both are a semidirect product of  and , then it does not follow that  and  are ": null
+    },
+    {
+        "isomorphic": "group isomorphism"
+    },
+    {
+        " because the semidirect product also depends on the choice of an action of  on .     For example, there are four non-isomorphic groups of order 42 that are semidirect products of  and ; in this case,  is necessarily a normal subgroup because it has index 42 One of these four semidirect products is the direct product, while the other three are non-abelian groups:   the dihedral group of order 42   the ": null
+    },
+    {
+        "quasidihedral group": "quasidihedral group"
+    },
+    {
+        " of order 42   the ": null
+    },
+    {
+        "Iwasawa group": "iwasawa group"
+    },
+    {
+        " of order 42     If a given group is a semidirect product, then there is no guarantee that this decomposition is unique. For example, there is a group of order 42 that can be expressed as semidirect product in the following ways: .  Note that Rose uses the opposite notation convention than the one adopted on this page .          In general, there is no known characterization for the existence of semidirect products in groups. However, some sufficient conditions are known, which guarantee existence in certain cases. For finite groups, the ": null
+    },
+    {
+        "Schur–Zassenhaus theorem": "schur–zassenhaus theorem"
+    },
+    {
+        " guarantees existence of a semidirect product when the ": null
+    },
+    {
+        "order": "order"
+    },
+    {
+        " of the normal subgroup is ": null
+    },
+    {
+        "coprime": "coprime"
+    },
+    {
+        " to the order of the ": null
+    },
+    {
+        "quotient group": "quotient group"
+    },
+    {
+        ".     For example, the Schur–Zassenhaus theorem implies the existence of a semi-direct product among groups of order 42; there are two such products, one of which is a direct product, and the other a dihedral group. In contrast, the Schur–Zassenhaus theorem does not say anything about groups of order 42 or groups of order 42 for instance.         Within group theory, the construction of semidirect products can be pushed much further. The ": null
+    },
+    {
+        "Zappa–Szep product": "zappa–szep product"
+    },
+    {
+        " of groups is a generalization that, in its internal version, does not assume that either subgroup is normal.     There is also a construction in ": null
+    },
+    {
+        "ring theory": "ring theory"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "crossed product of rings": "crossed product"
+    },
+    {
+        ". This is constructed in the natural way from the ": null
+    },
+    {
+        "group ring": "group ring"
+    },
+    {
+        " for a semidirect product of groups. The ring-theoretic approach can be further generalized to the ": null
+    },
+    {
+        "semidirect sum of Lie algebras": "lie algebra extensionby semidirect sum"
+    },
+    {
+        ".     For geometry, there is also a crossed product for ": null
+    },
+    {
+        "group actions": "group action"
+    },
+    {
+        " on a ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        "; unfortunately, it is in general non-commutative even if the group is abelian. In this context, the semidirect product is the space of orbits of the group action. The latter approach has been championed by ": null
+    },
+    {
+        "Alain Connes": "alain connes"
+    },
+    {
+        " as a substitute for approached by conventional topological techniques; c.f. ": null
+    },
+    {
+        "noncommutative geometry": "noncommutative geometry"
+    },
+    {
+        ".     There are also far-reaching generalisations in ": null
+    },
+    {
+        "category theory": "category theory"
+    },
+    {
+        ". They show how to construct  fibred categories  from  indexed categories . This is an abstract form of the outer semidirect product construction.         Another generalization is for groupoids. This occurs in topology because if a group  acts on a space  it also acts on the ": null
+    },
+    {
+        "fundamental groupoid": "fundamental groupoid"
+    },
+    {
+        "  of the space. The semidirect product  is then relevant to finding the fundamental groupoid of the ": null
+    },
+    {
+        "orbit space": "orbit space"
+    },
+    {
+        " . For full details see Chapter 42 of the book referenced below, and also some details in semidirect product  in ": null
+    },
+    {
+        "ncatlab": "nlab"
+    },
+    {
+        ".       Non-trivial semidirect products do not arise in ": null
+    },
+    {
+        "abelian categories": "abelian categories"
+    },
+    {
+        ", such as the ": null
+    },
+    {
+        "category of modules": "category of modules"
+    },
+    {
+        ". In this case, the ": null
+    },
+    {
+        "splitting lemma": "splitting lemma"
+    },
+    {
+        " shows that every semidirect product is a direct product. Thus the existence of semidirect products reflects a failure of the category to be abelian.         Usually the semidirect product of a group  acting on a group  is denoted by  or . However, some sources may use this symbol with the opposite meaning. In case the action  should be made explicit, one also writes . One way of thinking about the  symbol is as a combination of the symbol for normal subgroup  and the symbol for the product . ": null
+    },
+    {
+        "Barry Simon": "barry simon"
+    },
+    {
+        ", in his book on group representation theory,  employs the unusual notation N\\circledS_H for the semidirect product.     ": null
+    },
+    {
+        "Unicode": "unicode"
+    },
+    {
+        " lists four variants: See      :     Here the Unicode description of the rtimes symbol says right normal factor , in contrast to its usual meaning in mathematical practice.     In ": null
+    },
+    {
+        "LaTeX": "latex"
+    }
+]

@@ -1,0 +1,4025 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "computing": "computing"
+    },
+    {
+        ", a code page is a ": null
+    },
+    {
+        "character encoding": "character encoding"
+    },
+    {
+        " and as such it is a specific association of a set of printable ": null
+    },
+    {
+        "character": "character"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "control character": "control character"
+    },
+    {
+        "s with unique numbers.     The term code page originated from ": null
+    },
+    {
+        "IBM": "ibm"
+    },
+    {
+        "s ": null
+    },
+    {
+        "EBCDIC": "ebcdic"
+    },
+    {
+        "-based mainframe systems, but ": null
+    },
+    {
+        "Microsoft": "microsoft"
+    },
+    {
+        ", ": null
+    },
+    {
+        "SAP": "sap ag"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Oracle Corporation": "oracle corporation"
+    },
+    {
+        " are among the few vendors which use this term. The majority of vendors identify their own character sets by a name. In the case when there is a plethora of character sets , identifying character sets through a number is a convenient way to distinguish them. Originally, the code page numbers referred to the ": null
+    },
+    {
+        "page number": "page number"
+    },
+    {
+        "s in the IBM standard character set manual, a condition which has not held for a long time. Vendors that use a code page system allocate their own code page number to a character encoding, even if it is better known by another name; for example, ": null
+    },
+    {
+        "UTF42": "utf-8"
+    },
+    {
+        " has been assigned page numbers 42 at IBM, 42 at Microsoft, and 42 at SAP.     ": null
+    },
+    {
+        "Hewlett-Packard": "hewlett-packard"
+    },
+    {
+        " uses a similar concept in its ": null
+    },
+    {
+        "HP-UX": "hp-ux"
+    },
+    {
+        " operating system and its ": null
+    },
+    {
+        "Printer Command Language": "printer command language"
+    },
+    {
+        " protocol for printers . The terminology, however, is different: What others call a character set, HP calls a symbol set, and what IBM or Microsoft call a code page, HP calls a symbol set code. HP developed a series of symbol sets, each with an associated symbol set code, to encode both its own character sets and other vendors’ character sets.     The multitude of character sets leads many vendors to recommend ": null
+    },
+    {
+        "Unicode": "unicode"
+    },
+    {
+        ".       IBM introduced the concept of systematically assigning a small, but globally unique, 42 bit number to each character encoding that a computer system or collection of computer systems might encounter. The IBM origin of the numbering scheme is reflected in the fact that the smallest numbers are assigned to variations of IBMs EBCDIC encoding and slightly larger numbers refer to variations of IBMs ": null
+    },
+    {
+        "extended ASCII": "extended ascii"
+    },
+    {
+        " encoding as used in its PC hardware.     With the release of ": null
+    },
+    {
+        "PC DOS": "pc dos"
+    },
+    {
+        " version 42  IBM introduced the code page numbering system to regular PC users, as the code page numbers were used in new commands to allow the character encoding used by all parts of the OS to be set in a systematic way.     After IBM and Microsoft ceased to cooperate in the 42s, the two companies have maintained the list of assigned code page numbers independently from each other, resulting in some conflicting assignments. At least one third-party vendor  also has its own different list of numeric assignments. IBMs current assignments are listed in their ": null
+    },
+    {
+        "CCSID": "ccsid"
+    },
+    {
+        " repository, while Microsofts assignments are documented within the ": null
+    },
+    {
+        "MSDN": "msdn"
+    },
+    {
+        ". Additionally, a list of the names and approximate IANA  abbreviations for the installed code pages on any given Windows machine can be found in the Registry on that machine .     Most well-known code pages, excluding those for the ": null
+    },
+    {
+        "CJK": "cjk"
+    },
+    {
+        " languages and ": null
+    },
+    {
+        "Vietnamese": "vietnamese language"
+    },
+    {
+        ", fit all their code-points into eight bits and do not involve anything more than mapping each code-point to a single character; furthermore, techniques such as combining characters, complex scripts, etc., are not involved.     The text mode of standard  PC graphics hardware is built around using an 42-bit code page, though it is possible to use two at once with some color depth sacrifice, and up to eight may be stored in the display adaptor for easy switching. There was a selection of third-party code page fonts that could be loaded into such hardware. However, it is now commonplace for operating system vendors to provide their own character encoding and rendering systems that run in a graphics mode and bypass this hardware limitation entirely. However the system of referring to character encodings by a code page number remains applicable, as an efficient alternative to string identifiers such as those specified by the IETF and IANA for use in various protocols such as e-mail and web pages.       The majority of code pages in current use are supersets of ": null
+    },
+    {
+        "ASCII": "ascii"
+    },
+    {
+        ", a 42-bit code representing 42 control codes and printable characters. In the distant past, 42-bit implementations of the ASCII code set the top bit to zero or used it as a ": null
+    },
+    {
+        "parity bit": "parity bit"
+    },
+    {
+        " in network data transmissions. When the top bit was made available for representing character data, a total of 42 characters and control codes could be represented. Most vendors used this extended range to encode characters used by various languages and graphical elements that allowed the imitation of primitive graphics on text-only output devices. No formal standard existed for these ‘extended ASCII character sets’ and vendors referred to the variants as code pages, as IBM had always done for variants of EBCDIC encodings.       Unicode is an effort to include all characters from all currently and historically used human languages into single character enumeration , removing the need to distinguish between different code pages when handling digitally stored text. Unicode tries to retain backwards compatibility with many legacy code pages, copying some code pages 42:42 in the design process. An explicit design goal of Unicode was to allow round-trip conversion between all common legacy code pages, although this goal has not always been achieved.   Some vendors, namely IBM and Microsoft, have anachronistically assigned code page numbers to Unicode encodings. This convention allows code page numbers to be used as metadata to identify the correct decoding algorithm when encountering binary stored data.         These code pages are used by IBM in its EBCDIC character sets for ": null
+    },
+    {
+        "mainframe computers": "ibm mainframe"
+    },
+    {
+        ".    ": null
+    },
+    {
+        "42": "code page 1"
+    },
+    {
+        " – USA WP, Original   ": null
+    },
+    {
+        "42": "code page 2"
+    },
+    {
+        " – USA   ": null
+    },
+    {
+        "42": "code page 3"
+    },
+    {
+        " – USA Accounting, Version A   ": null
+    },
+    {
+        "42": "code page 4"
+    },
+    {
+        " – USA   ": null
+    },
+    {
+        "42": "code page 5"
+    },
+    {
+        " – USA   ": null
+    },
+    {
+        "42": "code page 6"
+    },
+    {
+        " – Latin America   ": null
+    },
+    {
+        "42": "code page 7"
+    },
+    {
+        " – Germany F.R. / Austria   ": null
+    },
+    {
+        "42": "code page 8"
+    },
+    {
+        " – Germany F.R.   ": null
+    },
+    {
+        "42": "code page 9"
+    },
+    {
+        " – France, Belgium   ": null
+    },
+    {
+        "42": "code page 10"
+    },
+    {
+        " – Canada   ": null
+    },
+    {
+        "42": "code page 11"
+    },
+    {
+        " – Canada   ": null
+    },
+    {
+        "42": "code page 12"
+    },
+    {
+        " – Italy   ": null
+    },
+    {
+        "42": "code page 13"
+    },
+    {
+        " – Netherlands   ": null
+    },
+    {
+        "42": "code page 14"
+    },
+    {
+        " –   ": null
+    },
+    {
+        "42": "code page 15"
+    },
+    {
+        " – Switzerland   ": null
+    },
+    {
+        "42": "code page 16"
+    },
+    {
+        " – Switzerland   ": null
+    },
+    {
+        "42": "code page 17"
+    },
+    {
+        " – Switzerland   ": null
+    },
+    {
+        "42": "code page 18"
+    },
+    {
+        " – Sweden / Finland   ": null
+    },
+    {
+        "42": "code page 19"
+    },
+    {
+        " – Sweden / Finland WP, version 42   ": null
+    },
+    {
+        "42": "code page 20"
+    },
+    {
+        " – Denmark/Norway   ": null
+    },
+    {
+        "42": "code page 21"
+    },
+    {
+        " – Brazil   ": null
+    },
+    {
+        "42": "code page 22"
+    },
+    {
+        " – Portugal   ": null
+    },
+    {
+        "42": "code page 23"
+    },
+    {
+        " – United Kingdom   ": null
+    },
+    {
+        "42": "code page 24"
+    },
+    {
+        " – United Kingdom   ": null
+    },
+    {
+        "42": "code page 25"
+    },
+    {
+        " – Japan   ": null
+    },
+    {
+        "42": "code page 26"
+    },
+    {
+        " – Japan   ": null
+    },
+    {
+        "42": "code page 27"
+    },
+    {
+        " – Greece   ": null
+    },
+    {
+        "42": "code page 28"
+    },
+    {
+        " –   ": null
+    },
+    {
+        "42": "code page 29"
+    },
+    {
+        " – Iceland   ": null
+    },
+    {
+        "42": "code page 30"
+    },
+    {
+        " – Turkey   ": null
+    },
+    {
+        "42": "code page 31"
+    },
+    {
+        " – South Africa   ": null
+    },
+    {
+        "42": "code page 32"
+    },
+    {
+        " – Czechoslovakia   ": null
+    },
+    {
+        "42": "code page 33"
+    },
+    {
+        " – Czechoslovakia   ": null
+    },
+    {
+        "42": "code page 34"
+    },
+    {
+        " – Czechoslovakia   ": null
+    },
+    {
+        "42": "code page 35"
+    },
+    {
+        " – Romania   ": null
+    },
+    {
+        "42": "code page 36"
+    },
+    {
+        " – Romania   ": null
+    },
+    {
+        "42": "code page 37"
+    },
+    {
+        " – USA/Canada - CECP    ": null
+    },
+    {
+        "4242": "ebcdic 037-2"
+    },
+    {
+        " – The real 42 APL codepage, as used by C/42 This is very close to 42 except for caret and not-sign inverted. It is not officially recognized by IBM, even though SHARE has pointed out its existence.   ": null
+    },
+    {
+        "42": "code page 38"
+    },
+    {
+        " – USA ASCII   ": null
+    },
+    {
+        "42": "code page 39"
+    },
+    {
+        " – United Kingdom / Israel   ": null
+    },
+    {
+        "42": "code page 40"
+    },
+    {
+        " – United Kingdom   ": null
+    },
+    {
+        "42": "code page 251"
+    },
+    {
+        " – China   ": null
+    },
+    {
+        "42": "code page 252"
+    },
+    {
+        " – Poland   ": null
+    },
+    {
+        "42": "code page 254"
+    },
+    {
+        " – Hungary   ": null
+    },
+    {
+        "42": "code page 256"
+    },
+    {
+        " – International 42    ": null
+    },
+    {
+        "42": "code page 257"
+    },
+    {
+        " – International 42   ": null
+    },
+    {
+        "42": "code page 258"
+    },
+    {
+        " – International 42   ": null
+    },
+    {
+        "42": "code page 259"
+    },
+    {
+        " – Symbols, Set 42   ": null
+    },
+    {
+        "42": "code page 260"
+    },
+    {
+        " – Canadian French - 42   ": null
+    },
+    {
+        "42": "code page 264"
+    },
+    {
+        " – Print Train & Text processing extended   ": null
+    },
+    {
+        "42": "code page 273"
+    },
+    {
+        " – Germany F.R./Austria - CECP    ": null
+    },
+    {
+        "42": "code page 274"
+    },
+    {
+        " – Old Belgium Code Page   ": null
+    },
+    {
+        "42": "code page 275"
+    },
+    {
+        " – Brazil - CECP   ": null
+    },
+    {
+        "42": "code page 276"
+    },
+    {
+        " – Canada - 42   ": null
+    },
+    {
+        "42": "code page 277"
+    },
+    {
+        " – Denmark, Norway - CECP    ": null
+    },
+    {
+        "42": "code page 278"
+    },
+    {
+        " – Finland, Sweden - CECP    ": null
+    },
+    {
+        "42": "code page 279"
+    },
+    {
+        " – French - 42   ": null
+    },
+    {
+        "42": "code page 280"
+    },
+    {
+        " – Italy - CECP    ": null
+    },
+    {
+        "42": "code page 281"
+    },
+    {
+        " – Japan - CECP   ": null
+    },
+    {
+        "42": "code page 282"
+    },
+    {
+        " – Portugal - CECP   ": null
+    },
+    {
+        "42": "code page 283"
+    },
+    {
+        " – Spain - 42   ": null
+    },
+    {
+        "42": "code page 284"
+    },
+    {
+        " – Spain/Latin America - CECP    ": null
+    },
+    {
+        "42": "code page 285"
+    },
+    {
+        " – United Kingdom - CECP    ": null
+    },
+    {
+        "42": "code page 286"
+    },
+    {
+        " – Austria / Germany F.R. Alternate   ": null
+    },
+    {
+        "42": "code page 287"
+    },
+    {
+        " – Denmark / Norway Alternate   ": null
+    },
+    {
+        "42": "code page 288"
+    },
+    {
+        " – Finland / Sweden Alternate   ": null
+    },
+    {
+        "42": "code page 289"
+    },
+    {
+        " – Spain Alternate   ": null
+    },
+    {
+        "42": "code page 290"
+    },
+    {
+        " – Japanese Extended   ": null
+    },
+    {
+        "42": "code page 293"
+    },
+    {
+        " – APL   ": null
+    },
+    {
+        "42": "code page 297"
+    },
+    {
+        " – France    ": null
+    },
+    {
+        "42": "code page 298"
+    },
+    {
+        " – Japan   ": null
+    },
+    {
+        "42": "code page 300"
+    },
+    {
+        " – Japan DBCS   ": null
+    },
+    {
+        "42": "code page 310"
+    },
+    {
+        " – Graphic Escape APL/TN   ": null
+    },
+    {
+        "42": "code page 320"
+    },
+    {
+        " – Hungary   ": null
+    },
+    {
+        "42": "code page 321"
+    },
+    {
+        " – Yugoslavia   ": null
+    },
+    {
+        "42": "code page 322"
+    },
+    {
+        " – Turkey   ": null
+    },
+    {
+        "42": "code page 330"
+    },
+    {
+        " – International 42   ": null
+    },
+    {
+        "42": "code page 351"
+    },
+    {
+        " – GDDM default   ": null
+    },
+    {
+        "42": "code page 352"
+    },
+    {
+        " – Printing and publishing option   ": null
+    },
+    {
+        "42": "code page 353"
+    },
+    {
+        " – BCDIC-A   ": null
+    },
+    {
+        "42": "code page 355"
+    },
+    {
+        " – PTTC/BCD standard option   ": null
+    },
+    {
+        "42": "code page 357"
+    },
+    {
+        " – PTTC/BCD H option   ": null
+    },
+    {
+        "42": "code page 358"
+    },
+    {
+        " – PTTC/BCD Correspondence option   ": null
+    },
+    {
+        "42": "code page 359"
+    },
+    {
+        " – PTTC/BCD Monocase option   ": null
+    },
+    {
+        "42": "code page 360"
+    },
+    {
+        " – PTTC/BCD Duocase option   ": null
+    },
+    {
+        "42": "code page 361"
+    },
+    {
+        " – EBCDIC Publishing International   ": null
+    },
+    {
+        "42": "code page 363"
+    },
+    {
+        " – Symbols, set 42   ": null
+    },
+    {
+        "42": "code page 382"
+    },
+    {
+        " – EBCDIC Publishing Austria, Germany F.R. Alternate   ": null
+    },
+    {
+        "42": "code page 383"
+    },
+    {
+        " – EBCDIC Publishing Belgium   ": null
+    },
+    {
+        "42": "code page 384"
+    },
+    {
+        " – EBCDIC Publishing Brazil   ": null
+    },
+    {
+        "42": "code page 385"
+    },
+    {
+        " – EBCDIC Publishing Canada   ": null
+    },
+    {
+        "42": "code page 386"
+    },
+    {
+        " – EBCDIC Publishing Denmark, Norway   ": null
+    },
+    {
+        "42": "code page 387"
+    },
+    {
+        " – EBCDIC Publishing Finland, Sweden   ": null
+    },
+    {
+        "42": "code page 388"
+    },
+    {
+        " – EBCDIC Publishing France   ": null
+    },
+    {
+        "42": "code page 389"
+    },
+    {
+        " – EBCDIC Publishing Italy   ": null
+    },
+    {
+        "42": "code page 390"
+    },
+    {
+        " – EBCDIC Publishing Japan   ": null
+    },
+    {
+        "42": "code page 391"
+    },
+    {
+        " – EBCDIC Publishing Portugal   ": null
+    },
+    {
+        "42": "code page 392"
+    },
+    {
+        " – EBCDIC Publishing Spain, Philippines   ": null
+    },
+    {
+        "42": "code page 393"
+    },
+    {
+        " – EBCDIC Publishing Latin America   ": null
+    },
+    {
+        "42": "code page 394"
+    },
+    {
+        " – EBCDIC Publishing China , UK, Ireland   ": null
+    },
+    {
+        "42": "code page 395"
+    },
+    {
+        " – EBCDIC Publishing Australia, New Zealand, USA, Canada   ": null
+    },
+    {
+        "42": "code page 410"
+    },
+    {
+        " – Cyrillic    ": null
+    },
+    {
+        "42": "code page 420"
+    },
+    {
+        " – Arabic   ": null
+    },
+    {
+        "42": "code page 421"
+    },
+    {
+        " – Maghreb/French   ": null
+    },
+    {
+        "42": "code page 423"
+    },
+    {
+        " – Greek    ": null
+    },
+    {
+        "42": "code page 424"
+    },
+    {
+        " – Hebrew   ": null
+    },
+    {
+        "42": "code page 425"
+    },
+    {
+        " – Arabic / Latin for OS/42 Open Edition   ": null
+    },
+    {
+        "42": "code page 435"
+    },
+    {
+        " – Teletext Isomorphic   ": null
+    },
+    {
+        "42": "code page 500"
+    },
+    {
+        " – International 42     ": null
+    },
+    {
+        "42": "code page 803"
+    },
+    {
+        " – Hebrew Character Set A   ": null
+    },
+    {
+        "42": "code page 829"
+    },
+    {
+        " – Host Math Symbols- Publishing   ": null
+    },
+    {
+        "42": "code page 833"
+    },
+    {
+        " – Korean Extended   ": null
+    },
+    {
+        "42": "code page 834"
+    },
+    {
+        " – Korean Hangul   ": null
+    },
+    {
+        "42": "code page 835"
+    },
+    {
+        " – Traditional Chinese DBCS   ": null
+    },
+    {
+        "42": "code page 836"
+    },
+    {
+        " – Simplified Chinese Extended   ": null
+    },
+    {
+        "42": "code page 837"
+    },
+    {
+        " – Simplified Chinese DBCS   ": null
+    },
+    {
+        "42": "code page 838"
+    },
+    {
+        " – Thai with Low Marks & Accented Characters    ": null
+    },
+    {
+        "42": "code page 839"
+    },
+    {
+        " – Thai DBCS   ": null
+    },
+    {
+        "42": "code page 870"
+    },
+    {
+        " – Latin 42     ": null
+    },
+    {
+        "42": "code page 871"
+    },
+    {
+        " – Iceland    ": null
+    },
+    {
+        "42": "code page 875"
+    },
+    {
+        " – Greek    ": null
+    },
+    {
+        "42": "code page 880"
+    },
+    {
+        " – Cyrillic     ": null
+    },
+    {
+        "42": "code page 881"
+    },
+    {
+        " – United States - 42 Graphics System   ": null
+    },
+    {
+        "42": "code page 882"
+    },
+    {
+        " – United Kingdom - 42 Graphics System   ": null
+    },
+    {
+        "42": "code page 883"
+    },
+    {
+        " – Sweden - 42 Graphics System   ": null
+    },
+    {
+        "42": "code page 884"
+    },
+    {
+        " – Germany - 42 Graphics System   ": null
+    },
+    {
+        "42": "code page 885"
+    },
+    {
+        " – France - 42 Graphics System   ": null
+    },
+    {
+        "42": "code page 886"
+    },
+    {
+        " – Italy - 42 Graphics System   ": null
+    },
+    {
+        "42": "code page 887"
+    },
+    {
+        " – Japan - 42 Graphics System   ": null
+    },
+    {
+        "42": "code page 888"
+    },
+    {
+        " – France AZERTY - 42 Graphics System   ": null
+    },
+    {
+        "42": "code page 889"
+    },
+    {
+        " – Thailand   ": null
+    },
+    {
+        "42": "code page 890"
+    },
+    {
+        " – Yugoslavia   ": null
+    },
+    {
+        "42": "code page 892"
+    },
+    {
+        " – EBCDIC, OCR A   ": null
+    },
+    {
+        "42": "code page 893"
+    },
+    {
+        " – EBCDIC, OCR B   ": null
+    },
+    {
+        "42": "code page 905"
+    },
+    {
+        " – Latin 42   ": null
+    },
+    {
+        "42": "code page 918"
+    },
+    {
+        " – Urdu Bilingual   ": null
+    },
+    {
+        "42": "code page 924"
+    },
+    {
+        " – Latin 42   ": null
+    },
+    {
+        "42": "code page 930"
+    },
+    {
+        " – Japan MIX     ": null
+    },
+    {
+        "42": "code page 931"
+    },
+    {
+        " – Japan MIX    ": null
+    },
+    {
+        "42": "code page 933"
+    },
+    {
+        " – Korea MIX     ": null
+    },
+    {
+        "42": "code page 935"
+    },
+    {
+        " – Simplified Chinese MIX     ": null
+    },
+    {
+        "42": "code page 937"
+    },
+    {
+        " – Traditional Chinese MIX     ": null
+    },
+    {
+        "42": "code page 939"
+    },
+    {
+        " – Japan MIX     ": null
+    },
+    {
+        "42": "code page 1001"
+    },
+    {
+        " – MICR   ": null
+    },
+    {
+        "42": "code page 1002"
+    },
+    {
+        " – EBCDIC DCF Release 42 Compatibility   ": null
+    },
+    {
+        "42": "code page 1003"
+    },
+    {
+        " – EBCDIC DCF, US Text subset   ": null
+    },
+    {
+        "42": "code page 1005"
+    },
+    {
+        " – EBCDIC Isomorphic Text Communication   ": null
+    },
+    {
+        "42": "code page 1007"
+    },
+    {
+        " – EBCDIC Arabic   ": null
+    },
+    {
+        "42": "code page 1024"
+    },
+    {
+        " – EBCDIC T.42   ": null
+    },
+    {
+        "42": "code page 1025"
+    },
+    {
+        " – Cyrillic, Multilingual     ": null
+    },
+    {
+        "42": "code page 1026"
+    },
+    {
+        " – EBCDIC Turkey     ": null
+    },
+    {
+        "42": "code page 1027"
+    },
+    {
+        " – Japanese Extended   ": null
+    },
+    {
+        "42": "code page 1028"
+    },
+    {
+        " – EBCDIC Publishing Hebrew   ": null
+    },
+    {
+        "42": "code page 1030"
+    },
+    {
+        " – Japanese Extended   ": null
+    },
+    {
+        "42": "code page 1031"
+    },
+    {
+        " – Japanese Extended   ": null
+    },
+    {
+        "42": "code page 1032"
+    },
+    {
+        " – MICR, E42-B Combined   ": null
+    },
+    {
+        "42": "code page 1033"
+    },
+    {
+        " – MICR, CMC42 Combined   ": null
+    },
+    {
+        "42": "code page 1037"
+    },
+    {
+        " – Korea - 42/42 Graphics System   ": null
+    },
+    {
+        "42": "code page 1039"
+    },
+    {
+        " – GML Compatibility   ": null
+    },
+    {
+        "42": "code page 1047"
+    },
+    {
+        " – Latin 42/Open Systems   ": null
+    },
+    {
+        "42": "code page 1068"
+    },
+    {
+        " – DCF Compatibility   ": null
+    },
+    {
+        "42": "code page 1069"
+    },
+    {
+        " – Latin 42   ": null
+    },
+    {
+        "42": "code page 1070"
+    },
+    {
+        " – USA / Canada Version 42    ": null
+    },
+    {
+        "42": "code page 1071"
+    },
+    {
+        " – Germany F.R. / Austria   ": null
+    },
+    {
+        "42": "code page 1073"
+    },
+    {
+        " – Brazil   ": null
+    },
+    {
+        "42": "code page 1074"
+    },
+    {
+        " – Denmark, Norway   ": null
+    },
+    {
+        "42": "code page 1075"
+    },
+    {
+        " – Finland, Sweden   ": null
+    },
+    {
+        "42": "code page 1076"
+    },
+    {
+        " – Italy   ": null
+    },
+    {
+        "42": "code page 1077"
+    },
+    {
+        " – Japan   ": null
+    },
+    {
+        "42": "code page 1078"
+    },
+    {
+        " – Portugal   ": null
+    },
+    {
+        "42": "code page 1079"
+    },
+    {
+        " – Spain / Latin America Version 42    ": null
+    },
+    {
+        "42": "code page 1080"
+    },
+    {
+        " – United Kingdom   ": null
+    },
+    {
+        "42": "code page 1081"
+    },
+    {
+        " – France Version 42    ": null
+    },
+    {
+        "42": "code page 1082"
+    },
+    {
+        " – Israel   ": null
+    },
+    {
+        "42": "code page 1083"
+    },
+    {
+        " – Israel   ": null
+    },
+    {
+        "42": "code page 1084"
+    },
+    {
+        " – International 42 Version 42    ": null
+    },
+    {
+        "42": "code page 1085"
+    },
+    {
+        " – Iceland   ": null
+    },
+    {
+        "42": "code page 1087"
+    },
+    {
+        " – Symbol Set   ": null
+    },
+    {
+        "42": "code page 1091"
+    },
+    {
+        " – Modified Symbols, Set 42   ": null
+    },
+    {
+        "42": "code page 1093"
+    },
+    {
+        " – IBM Logo   ": null
+    },
+    {
+        "42": "code page 1097"
+    },
+    {
+        " – Farsi Bilingual   ": null
+    },
+    {
+        "42": "code page 1110"
+    },
+    {
+        " – Latin 42    ": null
+    },
+    {
+        "42": "code page 1112"
+    },
+    {
+        " – Baltic Multilingual    ": null
+    },
+    {
+        "42": "code page 1113"
+    },
+    {
+        " – Latin 42   ": null
+    },
+    {
+        "42": "code page 1122"
+    },
+    {
+        " – Estonia    ": null
+    },
+    {
+        "42": "code page 1123"
+    },
+    {
+        " – Cyrillic, Ukraine    ": null
+    },
+    {
+        "42": "code page 1130"
+    },
+    {
+        " – Vietnamese    ": null
+    },
+    {
+        "42": "code page 1132"
+    },
+    {
+        " – Lao EBCDIC   ": null
+    },
+    {
+        "42": "code page 1136"
+    },
+    {
+        " – Hitachi Katakana   ": null
+    },
+    {
+        "42": "code page 1137"
+    },
+    {
+        " – Devanagari EBCDIC   ": null
+    },
+    {
+        "42": "code page 1140"
+    },
+    {
+        " – USA, Canada, etc. ECECP     ": null
+    },
+    {
+        "42": "code page 1141"
+    },
+    {
+        " – Austria, Germany ECECP    ": null
+    },
+    {
+        "42": "code page 1142"
+    },
+    {
+        " – Denmark, Norway ECECP    ": null
+    },
+    {
+        "42": "code page 1143"
+    },
+    {
+        " – Finland, Sweden ECECP    ": null
+    },
+    {
+        "42": "code page 1144"
+    },
+    {
+        " – Italy ECECP    ": null
+    },
+    {
+        "42": "code page 1145"
+    },
+    {
+        " – Spain, Latin America ECECP    ": null
+    },
+    {
+        "42": "code page 1146"
+    },
+    {
+        " – UK ECECP    ": null
+    },
+    {
+        "42": "code page 1147"
+    },
+    {
+        " – France ECECP with euro    ": null
+    },
+    {
+        "42": "code page 1148"
+    },
+    {
+        " – International ECECP with euro    ": null
+    },
+    {
+        "42": "code page 1149"
+    },
+    {
+        " – Icelandic ECECP with euro    ": null
+    },
+    {
+        "42": "code page 1150"
+    },
+    {
+        " – Korean Extended with box characters   ": null
+    },
+    {
+        "42": "code page 1151"
+    },
+    {
+        " – Simplified Chinese Extended with box characters   ": null
+    },
+    {
+        "42": "code page 1152"
+    },
+    {
+        " – Traditional Chinese Extended with box characters   ": null
+    },
+    {
+        "42": "code page 1153"
+    },
+    {
+        " – Latin 42 Multilingual with euro    ": null
+    },
+    {
+        "42": "code page 1154"
+    },
+    {
+        " – Cyrillic, Multilingual with euro     ": null
+    },
+    {
+        "42": "code page 1155"
+    },
+    {
+        " – Turkey with euro    ": null
+    },
+    {
+        "42": "code page 1156"
+    },
+    {
+        " – Baltic Multi with euro    ": null
+    },
+    {
+        "42": "code page 1157"
+    },
+    {
+        " – Estonia with euro    ": null
+    },
+    {
+        "42": "code page 1158"
+    },
+    {
+        " – Cyrillic, Ukraine with euro    ": null
+    },
+    {
+        "42": "code page 1159"
+    },
+    {
+        " – T-Chinese EBCDIC     ": null
+    },
+    {
+        "42": "code page 1160"
+    },
+    {
+        " – Thai with Low Marks & Accented Characters with euro    ": null
+    },
+    {
+        "42": "code page 1164"
+    },
+    {
+        " – Vietnamese with euro    ": null
+    },
+    {
+        "42": "code page 1165"
+    },
+    {
+        " – Latin 42/Open Systems   ": null
+    },
+    {
+        "42": "code page 1166"
+    },
+    {
+        " – Cyrillic Kazakh   ": null
+    },
+    {
+        "42": "code page 1278"
+    },
+    {
+        " – EBCDIC Adobe Standard Encoding   ": null
+    },
+    {
+        "42": "code page 1279"
+    },
+    {
+        " – Hitachi Japanese Katakana Host   ": null
+    },
+    {
+        "42": "code page 1303"
+    },
+    {
+        " – EBCDIC Bar Code   ": null
+    },
+    {
+        "42": "code page 1364"
+    },
+    {
+        " – Korea MIX     ": null
+    },
+    {
+        "42": "code page 1371"
+    },
+    {
+        " – Traditional Chinese MIX     ": null
+    },
+    {
+        "42": "code page 1376"
+    },
+    {
+        " – Traditional Chinese DBCS Host extension for HKSCS   ": null
+    },
+    {
+        "42": "code page 1377"
+    },
+    {
+        " – Mixed Host HKSCS Growing    ": null
+    },
+    {
+        "42": "code page 1388"
+    },
+    {
+        " – Simplified Chinese MIX     ": null
+    },
+    {
+        "42": "code page 1390"
+    },
+    {
+        " – Simplified Chinese MIX Japan MIX     ": null
+    },
+    {
+        "42": "code page 1399"
+    },
+    {
+        " – Japan MIX            These code pages are used by IBM in its ": null
+    },
+    {
+        "PC DOS": "pc dos"
+    },
+    {
+        " operating system. These code pages were originally embedded directly in the ": null
+    },
+    {
+        "text mode": "text mode"
+    },
+    {
+        " hardware of the graphic adapters used with the ": null
+    },
+    {
+        "IBM PC": "ibm pc"
+    },
+    {
+        " and its clones, including the original MDA and CGA adapters whose character sets could only be changed by physically replacing a ROM chip that contained the font. The interface of those adapters was typically limited to single byte character sets with only 42 characters in each font/encoding .      ": null
+    },
+    {
+        "42": "code page 301"
+    },
+    {
+        " – IBM-PC Japan DBCS   ": null
+    },
+    {
+        "42": "code page 437"
+    },
+    {
+        " – Original IBM PC hardware code page   ": null
+    },
+    {
+        "42": "code page 720"
+    },
+    {
+        " – Arabic   ": null
+    },
+    {
+        "42": "code page 737"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Greek": "greek language"
+    },
+    {
+        " 42": "code page 775"
+    },
+    {
+        " – Latin42   ": null
+    },
+    {
+        "42": "code page 808"
+    },
+    {
+        " – Russian with euro    ": null
+    },
+    {
+        "42": "code page 848"
+    },
+    {
+        " – Ukrainian with euro    ": null
+    },
+    {
+        "42": "code page 849"
+    },
+    {
+        " – Belorussian with euro    ": null
+    },
+    {
+        "42": "code page 850"
+    },
+    {
+        " – Latin42   ": null
+    },
+    {
+        "42": "code page 851"
+    },
+    {
+        " – Greek   ": null
+    },
+    {
+        "42": "code page 852"
+    },
+    {
+        " – Latin42   ": null
+    },
+    {
+        "42": "code page 853"
+    },
+    {
+        " – Latin42   ": null
+    },
+    {
+        "42": "code page 855"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Cyrillic": "cyrillic script"
+    },
+    {
+        "    42": "code page 856"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Hebrew": "hebrew alphabet"
+    },
+    {
+        " 42": "code page 857"
+    },
+    {
+        " – Latin42   ": null
+    },
+    {
+        "42": "code page 858"
+    },
+    {
+        " – Latin42 with ": null
+    },
+    {
+        "euro": "euro"
+    },
+    {
+        " symbol   ": null
+    },
+    {
+        "42": "code page 859"
+    },
+    {
+        " – Latin42   ": null
+    },
+    {
+        "42": "code page 860"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Portuguese": "portuguese language"
+    },
+    {
+        " 42": "code page 861"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Icelandic": "icelandic language"
+    },
+    {
+        " 42": "code page 862"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Hebrew": "hebrew language"
+    },
+    {
+        " 42": "code page 863"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Canadian French": "french language"
+    },
+    {
+        " 42": "code page 864"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Arabic": "arabic language"
+    },
+    {
+        " 42": "code page 865"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Danish": "danish language"
+    },
+    {
+        "/": null
+    },
+    {
+        "Norwegian": "norwegian language"
+    },
+    {
+        " 42": "code page 866"
+    },
+    {
+        " – Belarusian, Russian, Ukrainian    ": null
+    },
+    {
+        "42": "code page 867"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Hebrew": "hebrew language"
+    },
+    {
+        " + euro    ": null
+    },
+    {
+        "42": "code page 868"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Urdu": "urdu language"
+    },
+    {
+        " 42": "code page 869"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Greek": "greek alphabet"
+    },
+    {
+        " 42": "code page 872"
+    },
+    {
+        " – Cyrillic with euro    ": null
+    },
+    {
+        "42": "code page 874"
+    },
+    {
+        " – Thai with Low Tone Marks & Ancient Chars    ": null
+    },
+    {
+        "42": "code page 876"
+    },
+    {
+        " – OCR A   ": null
+    },
+    {
+        "42": "code page 877"
+    },
+    {
+        " – OCR B   ": null
+    },
+    {
+        "42": "code page 878"
+    },
+    {
+        " – ": null
+    },
+    {
+        "KOI42-R": "koi8-r"
+    },
+    {
+        " 42": "code page 891"
+    },
+    {
+        " – Korean PC SBCS   ": null
+    },
+    {
+        "42": "code page 898"
+    },
+    {
+        " – IBM-PC WP Multilingual   ": null
+    },
+    {
+        "42": "code page 899"
+    },
+    {
+        " – IBM-PC Symbol   ": null
+    },
+    {
+        "42": "code page 903"
+    },
+    {
+        " – Simplified Chinese PC SBCS   ": null
+    },
+    {
+        "42": "code page 904"
+    },
+    {
+        " – Traditional Chinese PC SBCS   ": null
+    },
+    {
+        "42": "code page 906"
+    },
+    {
+        " – International Set 42 42/42   ": null
+    },
+    {
+        "42": "code page 907"
+    },
+    {
+        " – ASCII APL   ": null
+    },
+    {
+        "42": "code page 909"
+    },
+    {
+        " – IBM-PC APL42 Extended   ": null
+    },
+    {
+        "42": "code page 910"
+    },
+    {
+        " – IBM-PC APL42   ": null
+    },
+    {
+        "42": "code page 911"
+    },
+    {
+        " – IBM-PC Japan 42   ": null
+    },
+    {
+        "42": "code page 926"
+    },
+    {
+        " – Korean PC DBCS   ": null
+    },
+    {
+        "42": "code page 927"
+    },
+    {
+        " – Traditional Chinese PC DBCS   ": null
+    },
+    {
+        "42": "code page 928"
+    },
+    {
+        " – Simplified Chinese PC DBCS   ": null
+    },
+    {
+        "42": "code page 929"
+    },
+    {
+        " – Thai PC DBCS   ": null
+    },
+    {
+        "42": "code page 932"
+    },
+    {
+        " – IBM-PC Japan MIX    ": null
+    },
+    {
+        "42": "code page 934"
+    },
+    {
+        " – IBM-PC Korea MIX    ": null
+    },
+    {
+        "42": "code page 936"
+    },
+    {
+        " – IBM-PC Simplified Chinese MIX    ": null
+    },
+    {
+        "42": "code page 938"
+    },
+    {
+        " – IBM-PC Traditional Chinese MIX    ": null
+    },
+    {
+        "42": "code page 942"
+    },
+    {
+        " – IBM-PC Japan MIX    ": null
+    },
+    {
+        "42": "code page 943"
+    },
+    {
+        " – IBM-PC Japan OPEN    ": null
+    },
+    {
+        "42": "code page 944"
+    },
+    {
+        " – IBM-PC Korea MIX    ": null
+    },
+    {
+        "42": "code page 946"
+    },
+    {
+        " – IBM-PC Simplified Chinese    ": null
+    },
+    {
+        "42": "code page 948"
+    },
+    {
+        " – IBM-PC Traditional Chinese    ": null
+    },
+    {
+        "42": "code page 949"
+    },
+    {
+        " – Korean    ": null
+    },
+    {
+        "42": "code page 951"
+    },
+    {
+        " – Korean DBCS   ": null
+    },
+    {
+        "42": "code page 1034"
+    },
+    {
+        " – Printer Application - Shipping Label, Set 42   ": null
+    },
+    {
+        "42": "code page 1040"
+    },
+    {
+        " – Korean Extended   ": null
+    },
+    {
+        "42": "code page 1041"
+    },
+    {
+        " – Japanese Extended   ": null
+    },
+    {
+        "42": "code page 1042"
+    },
+    {
+        " – Simplified Chinese Extended   ": null
+    },
+    {
+        "42": "code page 1043"
+    },
+    {
+        " – Traditional Chinese Extended   ": null
+    },
+    {
+        "42": "code page 1044"
+    },
+    {
+        " – Printer Application - Shipping Label, Set 42   ": null
+    },
+    {
+        "42": "code page 1046"
+    },
+    {
+        " – Arabic Extended   ": null
+    },
+    {
+        "42": "code page 1086"
+    },
+    {
+        " – IBM-PC Japan 42   ": null
+    },
+    {
+        "42": "code page 1088"
+    },
+    {
+        " – Revised Korean   ": null
+    },
+    {
+        "42": "code page 1092"
+    },
+    {
+        " – IBM-PC Modified Symbols   ": null
+    },
+    {
+        "42": "code page 1098"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Farsi": "persian language"
+    },
+    {
+        " 42": "code page 1108"
+    },
+    {
+        " – DITROFF Base Compatibility   ": null
+    },
+    {
+        "42": "code page 1109"
+    },
+    {
+        " – DITROFF Specials Compatibility   ": null
+    },
+    {
+        "42": "code page 1115"
+    },
+    {
+        " – IBM-PC Peoples Republic of China   ": null
+    },
+    {
+        "42": "code page 1116"
+    },
+    {
+        " – Estonian   ": null
+    },
+    {
+        "42": "code page 1117"
+    },
+    {
+        " – Latvian   ": null
+    },
+    {
+        "42": "code page 1118"
+    },
+    {
+        " – Lithuanian    ": null
+    },
+    {
+        "42": "code page 1119"
+    },
+    {
+        " – Lithuanian and Russian    ": null
+    },
+    {
+        "42": "code page 1125"
+    },
+    {
+        " – Cyrillic, Ukrainian     ": null
+    },
+    {
+        "42": "code page 1127"
+    },
+    {
+        " – IBM-PC Arabic / French   ": null
+    },
+    {
+        "42": "code page 1131"
+    },
+    {
+        " – IBM-PC Data, Cyrillic, Belarusian    ": null
+    },
+    {
+        "42": "code page 1139"
+    },
+    {
+        " – Japan Alphanumeric Katakana   ": null
+    },
+    {
+        "42": "code page 1161"
+    },
+    {
+        " – Thai with Low Tone Marks & Ancient Chars with euro    ": null
+    },
+    {
+        "42": "code page 1167"
+    },
+    {
+        " – ": null
+    },
+    {
+        "KOI42-RU": "koi8-ru"
+    },
+    {
+        " 42": "code page 1168"
+    },
+    {
+        " – ": null
+    },
+    {
+        "KOI42-U": "koi8-u"
+    },
+    {
+        " 42": "code page 1300"
+    },
+    {
+        " – ANSI   ": null
+    },
+    {
+        "42": "code page 1370"
+    },
+    {
+        " – Traditional Chinese MIX      ": null
+    },
+    {
+        "42": "code page 1380"
+    },
+    {
+        " – IBM-PC Simplified Chinese GB PC-DATA   ": null
+    },
+    {
+        "42": "code page 1381"
+    },
+    {
+        " – IBM-PC Simplified Chinese    ": null
+    },
+    {
+        "42": "code page 1393"
+    },
+    {
+        " – Japanese JIS X 42 DBCS   ": null
+    },
+    {
+        "42": "code page 1394"
+    },
+    {
+        " – IBM-PC Japan         When dealing with older hardware, protocols and file formats, it is often necessary to support these code pages, but newer encoding systems, in particular Unicode, are encouraged for new designs.     DOS code pages are typically stored in .CPI files.       These code pages are used by IBM in its ": null
+    },
+    {
+        "AIX": "aix"
+    },
+    {
+        " operating system. They emulate several character sets, namely those ones designed to be used accordingly to ISO, such as UNIX-like operating systems.      ": null
+    },
+    {
+        "42": "code page 367"
+    },
+    {
+        " – 42-bit US-ASCII   ": null
+    },
+    {
+        "42": "code page 371"
+    },
+    {
+        " – 42-bit US-ASCII APL   ": null
+    },
+    {
+        "42": "code page 806"
+    },
+    {
+        " – ISCII   ": null
+    },
+    {
+        "42": "code page 813"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO 4242": "iso 8859-7"
+    },
+    {
+        " 42": "code page 819"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO 4242": "iso 8859-1"
+    },
+    {
+        " 42": "code page 895"
+    },
+    {
+        " – 42-bit Japan Latin   ": null
+    },
+    {
+        "42": "code page 896"
+    },
+    {
+        " – 42-bit Japan Katakana Extended   ": null
+    },
+    {
+        "42": "code page 901"
+    },
+    {
+        " – Extension of ": null
+    },
+    {
+        "ISO 4242": "iso 8859-13"
+    },
+    {
+        " with euro    ": null
+    },
+    {
+        "42": "code page 902"
+    },
+    {
+        " – ISO Estonian with euro    ": null
+    },
+    {
+        "42": "code page 912"
+    },
+    {
+        " – Extension of ": null
+    },
+    {
+        "ISO 4242": "iso 8859-2"
+    },
+    {
+        " 42": "code page 913"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO 4242": "iso 8859-3"
+    },
+    {
+        " 42": "code page 914"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO 4242": "iso 8859-4"
+    },
+    {
+        " 42": "code page 915"
+    },
+    {
+        " – Extension of ": null
+    },
+    {
+        "ISO 4242": "iso 8859-5"
+    },
+    {
+        " 42": "code page 916"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO 4242": "iso 8859-8"
+    },
+    {
+        " 42": "code page 919"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO 4242": "iso 8859-10"
+    },
+    {
+        " 42": "code page 920"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO 4242": "iso 8859-9"
+    },
+    {
+        " 42": "code page 921"
+    },
+    {
+        " – Extension of ": null
+    },
+    {
+        "ISO 4242": "iso 8859-13"
+    },
+    {
+        "    42": "code page 922"
+    },
+    {
+        " – ISO Estonian    ": null
+    },
+    {
+        "42": "code page 923"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO 4242": "iso 8859-15"
+    },
+    {
+        " 42": "code page 952"
+    },
+    {
+        " – EUC Japanese for JIS X 42   ": null
+    },
+    {
+        "42": "code page 953"
+    },
+    {
+        " – EUC Japanese for JIS X 42   ": null
+    },
+    {
+        "42": "code page 954"
+    },
+    {
+        " – EUC Japanese    ": null
+    },
+    {
+        "42": "code page 955"
+    },
+    {
+        " – TCP Japanese, JIS X 4242   ": null
+    },
+    {
+        "42": "code page 956"
+    },
+    {
+        " – TCP Japanese    ": null
+    },
+    {
+        "42": "code page 957"
+    },
+    {
+        " – TCP Japanese    ": null
+    },
+    {
+        "42": "code page 958"
+    },
+    {
+        " – TCP Japanese    ": null
+    },
+    {
+        "42": "code page 959"
+    },
+    {
+        " – TCP Japanese    ": null
+    },
+    {
+        "42": "code page 960"
+    },
+    {
+        " – Traditional Chinese DBCS-EUC SICGCC Primary Set   ": null
+    },
+    {
+        "42": "code page 961"
+    },
+    {
+        " – Traditional Chinese DBCS-EUC SICGCC Full Set + IBM Select + UDC   ": null
+    },
+    {
+        "42": "code page 963"
+    },
+    {
+        " – Traditional Chinese TCP, CNS 42 plane 42 only   ": null
+    },
+    {
+        "42": "code page 964"
+    },
+    {
+        " – EUC Traditional Chinese    ": null
+    },
+    {
+        "42": "code page 965"
+    },
+    {
+        " – TCP Traditional Chinese    ": null
+    },
+    {
+        "42": "code page 970"
+    },
+    {
+        " – EUC Korean    ": null
+    },
+    {
+        "42": "code page 971"
+    },
+    {
+        " – EUC Korean DBCS   ": null
+    },
+    {
+        "42": "code page 1006"
+    },
+    {
+        " – ISO 42-bit Urdu   ": null
+    },
+    {
+        "42": "code page 1008"
+    },
+    {
+        " – ISO 42-bit Arabic   ": null
+    },
+    {
+        "42": "code page 1009"
+    },
+    {
+        " – 42-bit ISO IRV   ": null
+    },
+    {
+        "42": "code page 1010"
+    },
+    {
+        " – 42-bit France   ": null
+    },
+    {
+        "42": "code page 1011"
+    },
+    {
+        " – 42-bit Germany F.R.   ": null
+    },
+    {
+        "42": "code page 1012"
+    },
+    {
+        " – 42-bit Italy   ": null
+    },
+    {
+        "42": "code page 1013"
+    },
+    {
+        " – 42-bit United Kingdom   ": null
+    },
+    {
+        "42": "code page 1014"
+    },
+    {
+        " – 42-bit Spain   ": null
+    },
+    {
+        "42": "code page 1015"
+    },
+    {
+        " – 42-bit Portugal   ": null
+    },
+    {
+        "42": "code page 1016"
+    },
+    {
+        " – 42-bit Norway   ": null
+    },
+    {
+        "42": "code page 1017"
+    },
+    {
+        " – 42-bit Denmark   ": null
+    },
+    {
+        "42": "code page 1018"
+    },
+    {
+        " – 42-bit Finland/Sweden   ": null
+    },
+    {
+        "42": "code page 1019"
+    },
+    {
+        " – 42-bit Netherlands   ": null
+    },
+    {
+        "42": "code page 1029"
+    },
+    {
+        " – Arabic Extended   ": null
+    },
+    {
+        "42": "code page 1036"
+    },
+    {
+        " – CCITT T.42   ": null
+    },
+    {
+        "42": "code page 1089"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO 4242": "iso 8859-6"
+    },
+    {
+        " 42": "code page 1111"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO 4242": "iso 8859-2"
+    },
+    {
+        " 42": "code page 1124"
+    },
+    {
+        " – ISO Ukrainian, similar to ": null
+    },
+    {
+        "ISO 4242": "iso 8859-5"
+    },
+    {
+        " 42": "code page 1129"
+    },
+    {
+        " – ISO Vietnamese    ": null
+    },
+    {
+        "42": "code page 1133"
+    },
+    {
+        " – ISO Lao   ": null
+    },
+    {
+        "42": "code page 1163"
+    },
+    {
+        " – ISO Vietnamese with euro    ": null
+    },
+    {
+        "42": "code page 1350"
+    },
+    {
+        " – EUC Japanese    ": null
+    },
+    {
+        "42": "code page 1382"
+    },
+    {
+        " – EUC Simplified Chinese   ": null
+    },
+    {
+        "42": "code page 1383"
+    },
+    {
+        " – EUC Simplified Chinese         Code page 42 is identical to Latin42 ": null
+    },
+    {
+        "ISO/IEC 4242": "iso/iec 8859-1"
+    },
+    {
+        ", and with slightly-modified commands, permits MS-DOS machines to use that encoding. It was used with IBM AS/42 minicomputers.       These code pages are used by IBM in its ": null
+    },
+    {
+        "OS/42": "dosdos under os.2f2 and windows"
+    },
+    {
+        " operating system.   ": null
+    },
+    {
+        "42": "code page 1004"
+    },
+    {
+        " – Latin42 Extended, Desk Top Publishing/Windows       These code pages are used by IBM when emulating the ": null
+    },
+    {
+        "Microsoft Windows": "microsoft windows"
+    },
+    {
+        " character sets. Most of these code pages have the same number as Microsoft code pages, although they are not exactly identical. Some code pages, though, are new from IBM, not devised by Microsoft.      ": null
+    },
+    {
+        "42": "code page 897"
+    },
+    {
+        " – IBM-PC SBCS Japanese   ": null
+    },
+    {
+        "42": "code page 941"
+    },
+    {
+        " – IBM-PC Japanese DBCS for Open environment   ": null
+    },
+    {
+        "42": "code page 947"
+    },
+    {
+        " – IBM-PC DBCS for    ": null
+    },
+    {
+        "42": "code page 950"
+    },
+    {
+        " – Traditional Chinese MIX      ": null
+    },
+    {
+        "42": "code page 1114"
+    },
+    {
+        " – IBM-PC SBCS    ": null
+    },
+    {
+        "42": "code page 1126"
+    },
+    {
+        " – IBM-PC Korean SBCS   ": null
+    },
+    {
+        "42": "code page 1162"
+    },
+    {
+        " – Windows Thai    ": null
+    },
+    {
+        "42": "code page 1169"
+    },
+    {
+        " – Windows Cyrillic Asian   ": null
+    },
+    {
+        "42": "code page 1174"
+    },
+    {
+        " – Windows Kazakh     ": null
+    },
+    {
+        "42": "code page 1250"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Central Europe": "central europe"
+    },
+    {
+        " 42": "code page 1251"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Cyrillic": "cyrillic script"
+    },
+    {
+        " 42": "code page 1252"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Western": "western europe"
+    },
+    {
+        " 42": "code page 1253"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Greek": "greek alphabet"
+    },
+    {
+        " 42": "code page 1254"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Turkish": "turkish alphabet"
+    },
+    {
+        " 42": "code page 1255"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Hebrew": "hebrew alphabet"
+    },
+    {
+        " 42": "code page 1256"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Arabic": "arabic alphabet"
+    },
+    {
+        " 42": "code page 1257"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Baltic": "baltic languages"
+    },
+    {
+        " 42": "code page 1258"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Vietnamese": "vietnamese alphabet"
+    },
+    {
+        " 42": "code page 1361"
+    },
+    {
+        " – Korean    ": null
+    },
+    {
+        "42": "code page 1362"
+    },
+    {
+        " – Korean Hangul DBCS   ": null
+    },
+    {
+        "42": "code page 1363"
+    },
+    {
+        " – Windows Korean    ": null
+    },
+    {
+        "42": "code page 1372"
+    },
+    {
+        " – IBM-PC MS T Chinese ": null
+    },
+    {
+        "Big42 encoding": "big5"
+    },
+    {
+        "   42": "code page 1373"
+    },
+    {
+        " – Windows Traditional Chinese    ": null
+    },
+    {
+        "42": "code page 1374"
+    },
+    {
+        " – IBM-PC DB ": null
+    },
+    {
+        "Big42 encoding": "big5"
+    },
+    {
+        " extension for HKSCS   ": null
+    },
+    {
+        "42": "code page 1375"
+    },
+    {
+        " – Mixed ": null
+    },
+    {
+        "Big42 encoding": "big5"
+    },
+    {
+        " extension for HKSCS    ": null
+    },
+    {
+        "42": "code page 1385"
+    },
+    {
+        " – IBM-PC Simplified Chinese DBCS   ": null
+    },
+    {
+        "42": "code page 1386"
+    },
+    {
+        " – IBM-PC Simplified Chinese GBK    ": null
+    },
+    {
+        "42": "code page 1391"
+    },
+    {
+        " – Simplified Chinese 42 Byte   ": null
+    },
+    {
+        "42": "code page 1392"
+    },
+    {
+        " – IBM-PC Simplified Chinese MIX           These code pages are used by IBM when emulating the Apple ": null
+    },
+    {
+        "Macintosh": "macintosh"
+    },
+    {
+        " character sets.      ": null
+    },
+    {
+        "42": "code page 1275"
+    },
+    {
+        " – Apple Roman   ": null
+    },
+    {
+        "42": "code page 1280"
+    },
+    {
+        " – Apple Greek   ": null
+    },
+    {
+        "42": "code page 1281"
+    },
+    {
+        " – Apple Turkish   ": null
+    },
+    {
+        "42": "code page 1282"
+    },
+    {
+        " – Apple Central European   ": null
+    },
+    {
+        "42": "code page 1283"
+    },
+    {
+        " – Apple Cyrillic   ": null
+    },
+    {
+        "42": "code page 1284"
+    },
+    {
+        " – Apple Croatian   ": null
+    },
+    {
+        "42": "code page 1285"
+    },
+    {
+        " – Apple Romanian   ": null
+    },
+    {
+        "42": "code page 1286"
+    },
+    {
+        " – Apple Icelandic          These code pages are used by IBM when emulating the ": null
+    },
+    {
+        "Adobe": "adobe systems"
+    },
+    {
+        " character sets.      ": null
+    },
+    {
+        "42": "code page 1038"
+    },
+    {
+        " – Adobe Symbol Encoding   ": null
+    },
+    {
+        "42": "code page 1276"
+    },
+    {
+        " – Adobe Standard Encoding   ": null
+    },
+    {
+        "42": "code page 1277"
+    },
+    {
+        " – Adobe Latin 42          These code pages are used by IBM when emulating the ": null
+    },
+    {
+        "HP": "hewlett-packard"
+    },
+    {
+        " character sets.      ": null
+    },
+    {
+        "42": "code page 1050"
+    },
+    {
+        " – HP Roman Extension   ": null
+    },
+    {
+        "42": "code page 1051"
+    },
+    {
+        " – HP Roman42   ": null
+    },
+    {
+        "42": "code page 1052"
+    },
+    {
+        " – HP Gothic Legal   ": null
+    },
+    {
+        "42": "code page 1053"
+    },
+    {
+        " – HP Gothic42    ": null
+    },
+    {
+        "42": "code page 1054"
+    },
+    {
+        " – HP ASCII   ": null
+    },
+    {
+        "42": "code page 1055"
+    },
+    {
+        " – HP PC-Line   ": null
+    },
+    {
+        "42": "code page 1056"
+    },
+    {
+        " – HP Line Draw   ": null
+    },
+    {
+        "42": "code page 1057"
+    },
+    {
+        " – HP PC42    ": null
+    },
+    {
+        "42": "code page 1058"
+    },
+    {
+        " – HP PC42DN    ": null
+    },
+    {
+        "42": "code page 1351"
+    },
+    {
+        " – Japanese DBCS HP character set   ": null
+    },
+    {
+        "42": "code page 5039"
+    },
+    {
+        " – Japanese MIX           These code pages are used by IBM when emulating the ": null
+    },
+    {
+        "DEC": "digital equipment corporation"
+    },
+    {
+        " character sets.      ": null
+    },
+    {
+        "42": "code page 1020"
+    },
+    {
+        " – 42-bit Canadian NRC Set   ": null
+    },
+    {
+        "42": "code page 1021"
+    },
+    {
+        " – 42-bit Switzerland NRC Set   ": null
+    },
+    {
+        "42": "code page 1023"
+    },
+    {
+        " – 42-bit Spanish NRC Set   ": null
+    },
+    {
+        "42": "code page 1090"
+    },
+    {
+        " – Special Characters and Line Drawing Set   ": null
+    },
+    {
+        "42": "multinational character set"
+    },
+    {
+        " – DEC Multinational   ": null
+    },
+    {
+        "42": "code page 1101"
+    },
+    {
+        " – 42-bit British NRC Set   ": null
+    },
+    {
+        "42": "code page 1102"
+    },
+    {
+        " – 42-bit Dutch NRC Set   ": null
+    },
+    {
+        "42": "code page 1103"
+    },
+    {
+        " – 42-bit Finnish NRC Set   ": null
+    },
+    {
+        "42": "code page 1104"
+    },
+    {
+        " – 42-bit French NRC Set   ": null
+    },
+    {
+        "42": "code page 1105"
+    },
+    {
+        " – 42-bit Norwegian/Danish NRC Set   ": null
+    },
+    {
+        "42": "code page 1106"
+    },
+    {
+        " – 42-bit Swedish NRC Set   ": null
+    },
+    {
+        "42": "code page 1107"
+    },
+    {
+        " – 42-bit Norwegian/Danish NRC Alternate   ": null
+    },
+    {
+        "42": "code page 1287"
+    },
+    {
+        " – DEC Greek   ": null
+    },
+    {
+        "42": "code page 1288"
+    },
+    {
+        " – DEC Turkish           ": null
+    },
+    {
+        "42": "code page 1201"
+    },
+    {
+        " – ": null
+    },
+    {
+        "UTF42BE": "utf-16be"
+    },
+    {
+        " Unicode    ": null
+    },
+    {
+        "42": "code page 1203"
+    },
+    {
+        " – ": null
+    },
+    {
+        "UTF42LE": "utf-16le"
+    },
+    {
+        " Unicode    ": null
+    },
+    {
+        "42": "code page 1209"
+    },
+    {
+        " – ": null
+    },
+    {
+        "UTF42": "utf-8"
+    },
+    {
+        " Unicode   ": null
+    },
+    {
+        "42": "code page 1400"
+    },
+    {
+        " – ISO 42 UCS-BMP   ": null
+    },
+    {
+        "42": "code page 1401"
+    },
+    {
+        " – ISO 42 UCS-SMP   ": null
+    },
+    {
+        "42": "code page 1402"
+    },
+    {
+        " – ISO 42 UCS-SIP   ": null
+    },
+    {
+        "42": "code page 1414"
+    },
+    {
+        " – ISO 42 UCS-SSP   ": null
+    },
+    {
+        "42": "code page 1445"
+    },
+    {
+        " – IBM AFP ": null
+    },
+    {
+        "PUA": "private use area"
+    },
+    {
+        " No. 42   ": null
+    },
+    {
+        "42": "code page 1446"
+    },
+    {
+        " – ISO 42 ": null
+    },
+    {
+        "UCS-PUP42": "ucs-pup15"
+    },
+    {
+        "   42": "code page 1447"
+    },
+    {
+        " – ISO 42 ": null
+    },
+    {
+        "UCS-PUP42": "ucs-pup16"
+    },
+    {
+        "   42": "code page 1448"
+    },
+    {
+        " – UCS-BMP   ": null
+    },
+    {
+        "42": "code page 1449"
+    },
+    {
+        " – IBM default ": null
+    },
+    {
+        "PUA": "private use area"
+    },
+    {
+        "                 These code pages are used by Microsoft in its own Windows operating system. Microsoft defined ": null
+    },
+    {
+        "a number of code pages": "windows code pages"
+    },
+    {
+        " known as the ANSI code pages . Code page 42 is built on ISO 4242 but uses the range 42x4242x42F for extra printable characters rather than the C42 control codes used in ISO4242 Some of the others are based in part on other parts of ": null
+    },
+    {
+        "ISO 42": "iso 8859"
+    },
+    {
+        " but often rearranged to make them closer to 42      ": null
+    },
+    {
+        "42": "code page 1162"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Thai": "thai script"
+    },
+    {
+        " 42": "code page 1250"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Central Europe": "central europe"
+    },
+    {
+        " 42": "code page 1251"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Cyrillic": "cyrillic script"
+    },
+    {
+        " 42": "code page 1252"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Western": "western europe"
+    },
+    {
+        " 42": "code page 1253"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Greek": "greek alphabet"
+    },
+    {
+        " 42": "code page 1254"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Turkish": "turkish alphabet"
+    },
+    {
+        " 42": "code page 1255"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Hebrew": "hebrew alphabet"
+    },
+    {
+        " 42": "code page 1256"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Arabic": "arabic alphabet"
+    },
+    {
+        " 42": "code page 1257"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Baltic": "baltic languages"
+    },
+    {
+        " 42": "code page 1258"
+    },
+    {
+        " – Windows ": null
+    },
+    {
+        "Vietnamese": "vietnamese alphabet"
+    },
+    {
+        "        Microsoft recommends new applications use UTF42 or UCS42/UTF42 instead of these code pages.       These code pages represent ": null
+    },
+    {
+        "DBCS": "dbcs"
+    },
+    {
+        " character encodings for various CJK languages. In Microsoft operating systems, these are used as both the OEM and Windows code page for the applicable locale.      ": null
+    },
+    {
+        "42": "code page 932"
+    },
+    {
+        " – Supports ": null
+    },
+    {
+        "Japanese": "japanese writing system"
+    },
+    {
+        " Shift-JIS": "shift-jis"
+    },
+    {
+        " 42": "code page 936"
+    },
+    {
+        " – Supports ": null
+    },
+    {
+        "Simplified Chinese": "simplified chinese characters"
+    },
+    {
+        " GBK": "gbk"
+    },
+    {
+        " 42": "unified hangul code"
+    },
+    {
+        " – Supports ": null
+    },
+    {
+        "Korean": "hangul"
+    },
+    {
+        " Unified Hangul Code   ": null
+    },
+    {
+        "42": "code page 950"
+    },
+    {
+        " – Supports ": null
+    },
+    {
+        "Traditional Chinese": "traditional chinese characters"
+    },
+    {
+        " Big42": "big5"
+    },
+    {
+        "          These code pages are used by Microsoft in its MS-DOS operating system. Microsoft refers to these as the OEM code pages because they were defined by the ": null
+    },
+    {
+        "OEM": "original equipment manufacturer"
+    },
+    {
+        "s who licensed MS-DOS for distribution with their hardware, not by Microsoft or a standards organization. Most of these code pages have the same number as the equivalent IBM code pages, although they are not exactly identical. There are minimum differences in some code pages from IBM and Microsoft.      ": null
+    },
+    {
+        "42": "code page 708"
+    },
+    {
+        " – Arabic   ": null
+    },
+    {
+        "42": "code page 709"
+    },
+    {
+        " – Arabic    ": null
+    },
+    {
+        "42": "code page 710"
+    },
+    {
+        " – Arabic   ": null
+    },
+    {
+        "42": "code page 720"
+    },
+    {
+        " – Arabic   ": null
+    },
+    {
+        "42": "code page 737"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Greek": "greek language"
+    },
+    {
+        " 42": "code page 850"
+    },
+    {
+        " – Latin42   ": null
+    },
+    {
+        "42": "code page 851"
+    },
+    {
+        " – Greek   ": null
+    },
+    {
+        "42": "code page 852"
+    },
+    {
+        " – Latin42   ": null
+    },
+    {
+        "42": "code page 855"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Cyrillic": "cyrillic script"
+    },
+    {
+        " 42": "code page 857"
+    },
+    {
+        " – Latin42   ": null
+    },
+    {
+        "42": "code page 858"
+    },
+    {
+        " – Latin42 with ": null
+    },
+    {
+        "euro": "euro"
+    },
+    {
+        " symbol   ": null
+    },
+    {
+        "42": "code page 859"
+    },
+    {
+        " – Latin42   ": null
+    },
+    {
+        "42": "code page 860"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Portuguese": "portuguese language"
+    },
+    {
+        " 42": "code page 861"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Icelandic": "icelandic language"
+    },
+    {
+        " 42": "code page 862"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Hebrew": "hebrew language"
+    },
+    {
+        " 42": "code page 863"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Canadian French": "french language"
+    },
+    {
+        " 42": "code page 864"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Arabic": "arabic language"
+    },
+    {
+        " 42": "code page 865"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Danish": "danish language"
+    },
+    {
+        "/": null
+    },
+    {
+        "Norwegian": "norwegian language"
+    },
+    {
+        " 42": "code page 866"
+    },
+    {
+        " – Belarusian, Russian, Ukrainian   ": null
+    },
+    {
+        "42": "code page 869"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Greek": "greek alphabet"
+    },
+    {
+        "          These code pages are used by Microsoft when emulating the Apple ": null
+    },
+    {
+        "Macintosh": "macintosh"
+    },
+    {
+        " character sets.      ": null
+    },
+    {
+        "42": "code page 10000"
+    },
+    {
+        " - Apple ": null
+    },
+    {
+        "Macintosh Roman": "mac-roman encoding"
+    },
+    {
+        " 42": "code page 10001"
+    },
+    {
+        " - Apple Japanese   ": null
+    },
+    {
+        "42": "code page 10002"
+    },
+    {
+        " - Apple Traditional Chinese   ": null
+    },
+    {
+        "42": "code page 10003"
+    },
+    {
+        " - Apple Korean   ": null
+    },
+    {
+        "42": "code page 10004"
+    },
+    {
+        " - Apple ": null
+    },
+    {
+        "Arabic": "macarabic encoding"
+    },
+    {
+        " 42": "code page 10005"
+    },
+    {
+        " - Apple Hebrew   ": null
+    },
+    {
+        "42": "code page 10006"
+    },
+    {
+        " - Apple ": null
+    },
+    {
+        "Greek": "macgreek encoding"
+    },
+    {
+        " 42": "code page 10007"
+    },
+    {
+        " - Apple ": null
+    },
+    {
+        "Macintosh Cyrillic": "maccyrillic encoding"
+    },
+    {
+        " 42": "code page 10008"
+    },
+    {
+        " - Apple Simplified Chinese   ": null
+    },
+    {
+        "42": "code page 10010"
+    },
+    {
+        " - Apple ": null
+    },
+    {
+        "Romanian": "macromanian encoding"
+    },
+    {
+        " 42": "code page 10017"
+    },
+    {
+        " - Apple ": null
+    },
+    {
+        "Ukrainian": "macintosh ukrainian encoding"
+    },
+    {
+        " 42": "code page 10021"
+    },
+    {
+        " - Apple Thai   ": null
+    },
+    {
+        "42": "code page 10029"
+    },
+    {
+        " - Apple ": null
+    },
+    {
+        "Macintosh Central Europe": "macintosh central european encoding"
+    },
+    {
+        " 42": "code page 10079"
+    },
+    {
+        " - Apple ": null
+    },
+    {
+        "Icelandic": "mac icelandic encoding"
+    },
+    {
+        " 42": "code page 10081"
+    },
+    {
+        " - Apple ": null
+    },
+    {
+        "Turkish": "macturkish encoding"
+    },
+    {
+        " 42": "code page 10082"
+    },
+    {
+        " - Apple ": null
+    },
+    {
+        "Croatian": "maccroatian encoding"
+    },
+    {
+        "          The following code page numbers are specific to Microsoft Windows. IBM may use different numbers for these code pages. They emulate several character sets, namely those ones designed to be used accordingly to ISO, such as UNIX-like operating systems.      ": null
+    },
+    {
+        "42": "code page 20000"
+    },
+    {
+        " – Traditional Chinese CNS   ": null
+    },
+    {
+        "42": "code page 20001"
+    },
+    {
+        " – Traditional Chinese TCA   ": null
+    },
+    {
+        "42": "code page 20002"
+    },
+    {
+        " – Traditional Chinese ETEN   ": null
+    },
+    {
+        "42": "code page 20003"
+    },
+    {
+        " – Traditional Chinese IBM42   ": null
+    },
+    {
+        "42": "code page 20004"
+    },
+    {
+        " – Traditional Chinese TeleText   ": null
+    },
+    {
+        "42": "code page 20005"
+    },
+    {
+        " – Traditional Chinese Wang   ": null
+    },
+    {
+        "42": "code page 20105"
+    },
+    {
+        " – 42-bit ": null
+    },
+    {
+        "IA42": "itu t.50"
+    },
+    {
+        " IRV": "iso-646-irv"
+    },
+    {
+        "   42": "code page 20106"
+    },
+    {
+        " – 42-bit ": null
+    },
+    {
+        "IA42": "itu t.50"
+    },
+    {
+        " German   ": null
+    },
+    {
+        "42": "code page 20107"
+    },
+    {
+        " – 42-bit ": null
+    },
+    {
+        "IA42": "itu t.50"
+    },
+    {
+        " Swedish   ": null
+    },
+    {
+        "42": "code page 20108"
+    },
+    {
+        " - 42-bit ": null
+    },
+    {
+        "IA42": "itu t.50"
+    },
+    {
+        " Norwegian   ": null
+    },
+    {
+        "42": "code page 20127"
+    },
+    {
+        " – 42-bit ": null
+    },
+    {
+        "US-ASCII": "us-ascii"
+    },
+    {
+        "   42": "code page 20261"
+    },
+    {
+        " – ": null
+    },
+    {
+        "CCITT T.42": "itu t.61"
+    },
+    {
+        " 42": "code page 20269"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO 42": "iso 6937"
+    },
+    {
+        " 42": "code page 20273"
+    },
+    {
+        " 42": "code page 20277"
+    },
+    {
+        " 42": "code page 20278"
+    },
+    {
+        " 42": "code page 20284"
+    },
+    {
+        " 42": "code page 20285"
+    },
+    {
+        " 42": "code page 20290"
+    },
+    {
+        " 42": "code page 20297"
+    },
+    {
+        " 42": "code page 20420"
+    },
+    {
+        " 42": "code page 20423"
+    },
+    {
+        " 42": "code page 20424"
+    },
+    {
+        " 42": "code page 20833"
+    },
+    {
+        " 42": "code page 20838"
+    },
+    {
+        " 42": "code page 20866"
+    },
+    {
+        " – ": null
+    },
+    {
+        "KOI42-R": "koi8-r"
+    },
+    {
+        " 42": "code page 20871"
+    },
+    {
+        " 42": "code page 20880"
+    },
+    {
+        " 42": "code page 20905"
+    },
+    {
+        " 42": "code page 20924"
+    },
+    {
+        " 42": "code page 20932"
+    },
+    {
+        "   42": "code page 20936"
+    },
+    {
+        "   42": "code page 20949"
+    },
+    {
+        "   42": "code page 21025"
+    },
+    {
+        " 42": "code page 21027"
+    },
+    {
+        " 42": "code page 21866"
+    },
+    {
+        " – ": null
+    },
+    {
+        "KOI42-U": "koi8-u"
+    },
+    {
+        " 42": "code page 28591"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-1"
+    },
+    {
+        " 42": "code page 28592"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-2"
+    },
+    {
+        " 42": "code page 28593"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-3"
+    },
+    {
+        " 42": "code page 28594"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-4"
+    },
+    {
+        " 42": "code page 28595"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-5"
+    },
+    {
+        " 42": "code page 28596"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-6"
+    },
+    {
+        " 42": "code page 28597"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-7"
+    },
+    {
+        " 42": "code page 28598"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-8"
+    },
+    {
+        " 42": "code page 28599"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-9"
+    },
+    {
+        " 42": "code page 28600"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-10"
+    },
+    {
+        " 42": "code page 28601"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-11"
+    },
+    {
+        " 42": "code page 28602"
+    },
+    {
+        " – not used    ": null
+    },
+    {
+        "42": "code page 28603"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-13"
+    },
+    {
+        " 42": "code page 28604"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-14"
+    },
+    {
+        " 42": "code page 28605"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-15"
+    },
+    {
+        " 42": "code page 28606"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-16"
+    },
+    {
+        " 42": "code page 38596"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-6"
+    },
+    {
+        "   42": "code page 38598"
+    },
+    {
+        " – ": null
+    },
+    {
+        "ISO4242": "iso-8859-8"
+    },
+    {
+        "           42": "code page 1200"
+    },
+    {
+        " – ": null
+    },
+    {
+        "UTF42LE": "utf-16le"
+    },
+    {
+        " Unicode    ": null
+    },
+    {
+        "42": "code page 1201"
+    },
+    {
+        " – ": null
+    },
+    {
+        "UTF42BE": "utf-16be"
+    },
+    {
+        " Unicode    ": null
+    },
+    {
+        "42": "code page 65000"
+    },
+    {
+        " – ": null
+    },
+    {
+        "UTF42": "utf-7"
+    },
+    {
+        " Unicode   ": null
+    },
+    {
+        "42": "code page 65001"
+    },
+    {
+        " – ": null
+    },
+    {
+        "UTF42": "utf-8"
+    },
+    {
+        " Unicode   ": null
+    },
+    {
+        "42": "code page 65520"
+    },
+    {
+        " – Empty Unicode Plane          HP developed a series of Symbol Sets to encode either its own character sets or other vendors’ character sets. They are normally 42-bit character sets which, when moved to the higher part and associated with the ASCII character set, make up 42-bit character sets.          ": null
+    },
+    {
+        "code page 42": "code page 1050"
+    },
+    {
+        "coded by IBM as ": null
+    },
+    {
+        "code page 42": "code page 1056"
+    },
+    {
+        "coded by IBM as ": null
+    },
+    {
+        "code page 42": "code page 1052"
+    },
+    {
+        "coded by IBM as ": null
+    },
+    {
+        "code page 42": "code page 1055"
+    },
+    {
+        "based on IR 42; not on ELOT 42ASCII + HP PC LineASCII + Japanese KatakanaASCII + HP Line DrawASCII + HP Math42ASCII + HP Roman Extension; coded by IBM as ": null
+    },
+    {
+        "code page 42": "code page 1051"
+    },
+    {
+        "also known as Code Page 42-T; this is not ": null
+    },
+    {
+        "code page 42": "code page 857"
+    },
+    {
+        "this is not ": null
+    },
+    {
+        "code page 42": "code page 1256"
+    },
+    {
+        "also known as Code Page 42-N; coded by IBM as ": null
+    },
+    {
+        "code page 42": "code page 1058"
+    },
+    {
+        "; this is not ": null
+    },
+    {
+        "code page 42": "code page 865"
+    },
+    {
+        "also known as Code Page 42-G; almost the same as ": null
+    },
+    {
+        "code page 42": "code page 737"
+    },
+    {
+        "  aracter s": "aracter s"
+    },
+    {
+        "     ": null
+    }
+]

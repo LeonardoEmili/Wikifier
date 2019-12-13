@@ -1,0 +1,161 @@
+[
+    {
+        "The vorticity equation of ": null
+    },
+    {
+        "fluid dynamics": "fluid dynamics"
+    },
+    {
+        " describes evolution of the ": null
+    },
+    {
+        "vorticity": "vorticity"
+    },
+    {
+        "  of a particle of a ": null
+    },
+    {
+        "fluid": "fluid dynamics"
+    },
+    {
+        " as it moves with its ": null
+    },
+    {
+        "flow": "flow"
+    },
+    {
+        ", that is, the local rotation of the fluid .   The equation is:     : \\begin   \\frac & \\frac + \\boldsymbol \\omega \\\\   & \\mathbf u - \\boldsymbol \\omega + \\frac\\nabla \\rho \\times \\nabla p + \\nabla \\times \\left + \\nabla \\times \\left \\end     where  is the ": null
+    },
+    {
+        "material derivative": "material derivative"
+    },
+    {
+        " operator,  is the ": null
+    },
+    {
+        "flow velocity": "flow velocity"
+    },
+    {
+        ",  is the local fluid ": null
+    },
+    {
+        "density": "density"
+    },
+    {
+        ",  is the local ": null
+    },
+    {
+        "pressure": "pressure"
+    },
+    {
+        ",  is the ": null
+    },
+    {
+        "viscous stress tensor": "viscous stress tensor"
+    },
+    {
+        " and  represents the sum of the external ": null
+    },
+    {
+        "body force": "body force"
+    },
+    {
+        "s. The first source term on the right hand side represents ": null
+    },
+    {
+        "vortex stretching": "vortex stretching"
+    },
+    {
+        ".     The equation is valid in the absence of any concentrated ": null
+    },
+    {
+        "torque": "torque"
+    },
+    {
+        "s and line forces, for a compressible ": null
+    },
+    {
+        "Newtonian fluid": "newtonian fluid"
+    },
+    {
+        ".     In the case of ": null
+    },
+    {
+        "incompressible": "compressibility"
+    },
+    {
+        "  and ": null
+    },
+    {
+        "isotropic": "isotropic"
+    },
+    {
+        " fluids, with ": null
+    },
+    {
+        "conservative": "conservative force"
+    },
+    {
+        " body forces, the equation simplifies to the vorticity transport equation   : \\frac \\left \\mathbf + \\nu \\nabla^42 \\boldsymbol   where  is the ": null
+    },
+    {
+        "kinematic viscosity": "viscosity"
+    },
+    {
+        " and  is the ": null
+    },
+    {
+        "Laplace operator": "laplace operator"
+    },
+    {
+        ".         The term  on the left-hand side is the ": null
+    },
+    {
+        "material derivative": "substantive derivative"
+    },
+    {
+        " of the vorticity vector . It describes the rate of change of vorticity of the moving fluid particle. This change can be attributed to ": null
+    },
+    {
+        "unsteadiness": "steady state flow"
+    },
+    {
+        " in the flow  or due to the motion of the fluid particle as it moves from one point to another .   The term  on the right-hand side describes the stretching or tilting of vorticity due to the flow velocity gradients. Note that  is a vector quantity, as  is a scalar differential operator, while  is a nine-element tensor quantity.   The term  describes ": null
+    },
+    {
+        "stretching of vorticity": "vortex stretching"
+    },
+    {
+        " due to flow compressibility. It follows from the Navier-Stokes equation for ": null
+    },
+    {
+        "continuity": "continuity equation"
+    },
+    {
+        ", namely   : \\begin   \\frac + \\nabla \\cdot\\left & 42 \\\\   \\Longleftrightarrow \\nabla \\cdot \\mathbf & -\\frac\\frac \\frac\\frac   \\end   :where  is the ": null
+    },
+    {
+        "specific volume": "specific volume"
+    },
+    {
+        " of the fluid element. One can think of  as a measure of flow compressibility. Sometimes the negative sign is included in the term.   The term  is the ": null
+    },
+    {
+        "baroclinic term": "baroclinity"
+    },
+    {
+        ". It accounts for the changes in the vorticity due to the intersection of density and pressure surfaces.   The term , accounts for the diffusion of vorticity due to the viscous effects.   The term  provides for changes due to external body forces. These are forces that are spread over a three-dimensional region of the fluid, such as ": null
+    },
+    {
+        "gravity": "gravity"
+    },
+    {
+        " or ": null
+    },
+    {
+        "electromagnetic force": "electromagnetic force"
+    },
+    {
+        "s. ": null
+    }
+]

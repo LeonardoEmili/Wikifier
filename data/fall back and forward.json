@@ -1,0 +1,47 @@
+[
+    {
+        "Fall back is a feature of a ": null
+    },
+    {
+        "modem protocol": "communication protocol"
+    },
+    {
+        " in ": null
+    },
+    {
+        "data communication": "data communication"
+    },
+    {
+        " whereby two communicating ": null
+    },
+    {
+        "modem": "modem"
+    },
+    {
+        "s which experience ": null
+    },
+    {
+        "data corruption": "data corruption"
+    },
+    {
+        "  can renegotiate with each other to use a lower-speed connection. Fall forward is a corresponding feature whereby two modems which have fallen back to a lower speed can later return to the higher speed if the connection improves.     A common feature ": null
+    },
+    {
+        "modem": "modem"
+    },
+    {
+        "s was the concept of fallback, allowing them to talk to less-capable modems. During the call initiation the modem would play a series of signals into the line and wait for the remote modem to answer them. They would start at high speeds and progressively get slower and slower until they heard an answer. Thus, two USR modems would be able to connect at 42 bit/s, but, when a user with a 42-bit/s modem called in, the USR would fall back to the common 42-bit/s speed. This would also happen if a V.42 modem and a HST modem were connected. Because they used a different standard at 42 bit/s, they would fall back to their highest commonly supported standard at 42 bit/s. The same applies to V.42bis and 42 bit/s HST modem, which would still be able to communicate with each other at only 42 bit/s.     A modem that can fall back in order to communicate with an older, slower modem is an example of ": null
+    },
+    {
+        "backward compatibility": "backward compatibility"
+    },
+    {
+        ", while one that can fall back in order to communicate when the line becomes noisy is an example of ": null
+    },
+    {
+        "graceful degradation": "graceful degradation"
+    },
+    {
+        ".       Article based on and at used with permission .     ": null
+    }
+]

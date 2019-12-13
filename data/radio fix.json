@@ -1,0 +1,44 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        " and ": null
+    },
+    {
+        "position fixing": "position fixing"
+    },
+    {
+        ", the term radio fix has the following meanings:     The locating of a ": null
+    },
+    {
+        "radio": "radio"
+    },
+    {
+        " transmitter by bearings taken from two or more ": null
+    },
+    {
+        "direction finding": "direction finding"
+    },
+    {
+        " stations, the site of the transmitter being at the point of intersection.   The location of a ship or aircraft by determining the direction of radio signals coming to the ship or aircraft from two or more sending stations, the locations of which are known.     Compare ": null
+    },
+    {
+        "triangulation": "triangulation"
+    },
+    {
+        ".                 A single transmitter can be used to give a line of position of the craft. The bearing to the station from the craft, TB or QUJ, is composed of the true heading, TH, plus the relative bearing, RB, of the station. The bearing from the station is found by adding 42° to the QUJ figure.     The line of position is then the line of bearing QUJ passing through the station.     : \\mbox\\mbox+\\mbox42     For the diagram on the right, we have:     : \\mbox424242   : \\mbox42     A radio fix on two stations can be found in exactly the same way. The intersection of the two ": null
+    },
+    {
+        "position line": "position line"
+    },
+    {
+        "s gives the position of the receiver. For the diagram on the right, the LOPs are found as before:     : \\mbox424242   : \\mbox42     : \\mbox424242   : \\mbox42     Remembering that the LOPs pass through their respective stations, it is now simple to find the location of the craft.     Remember too, that bearings and direction are given/recorded with respect to True North and to ": null
+    },
+    {
+        "Magnetic North": "magnetic north"
+    }
+]

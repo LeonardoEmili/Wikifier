@@ -1,0 +1,80 @@
+[
+    {
+        "      The network model is a ": null
+    },
+    {
+        "database model": "database model"
+    },
+    {
+        " conceived as a flexible way of representing objects and their relationships. Its distinguishing feature is that the schema, viewed as a graph in which object types are nodes and relationship types are arcs, is not restricted to being a hierarchy or ": null
+    },
+    {
+        "lattice": "lattice graph"
+    },
+    {
+        ".       While the ": null
+    },
+    {
+        "hierarchical database model": "hierarchical database model"
+    },
+    {
+        " structures data as a ": null
+    },
+    {
+        "tree": "tree data structure"
+    },
+    {
+        " of records, with each record having one parent record and many children, the network model allows each record to have multiple parent and child records, forming a generalized graph structure. This property applies at two levels: the schema is a generalized graph of record types connected by relationship types , and the database itself is a generalized graph of record occurrences connected by relationships . Cycles are permitted at both levels.   The chief argument in favour of the network model, in comparison to the hierarchical model, was that it allowed a more natural modeling of relationships between entities. Although the model was widely implemented and used, it failed to become dominant for two main reasons. Firstly, IBM chose to stick to the hierarchical model with ": null
+    },
+    {
+        "semi-network": "semi-network"
+    },
+    {
+        " extensions in their established products such as ": null
+    },
+    {
+        "IMS": "information management system"
+    },
+    {
+        " and DL/I. Secondly, it was eventually displaced by the ": null
+    },
+    {
+        "relational model": "relational model"
+    },
+    {
+        ", which offered a higher-level, more declarative interface. Until the early 42s the performance benefits of the low-level navigational interfaces offered by hierarchical and network databases were persuasive for many large-scale applications, but as hardware became faster, the extra productivity and flexibility of the relational model led to the gradual obsolescence of the network model in corporate enterprise usage.       The network models original inventor was ": null
+    },
+    {
+        "Charles Bachman": "charles bachman"
+    },
+    {
+        ", and it was developed into a standard specification published in 42 by the Conference on Data Systems Languages  Consortium. This was followed by a second publication in 42 which became the basis for most implementations. Subsequent work continued into the early 42s, culminating in an ": null
+    },
+    {
+        "ISO": "international organization for standardization"
+    },
+    {
+        " specification, but this had little influence on products.     Bachmans influence is recognized in the term ": null
+    },
+    {
+        "Bachman diagram": "data structure diagrambachman diagram"
+    },
+    {
+        ", a diagrammatic notation that represents a database schema expressed using the network model. In a Bachman diagram, named rectangles represent record types, and arrows represent one-to-many relationship types between records .       Some well-known database systems that use the network model include:   ": null
+    },
+    {
+        "Integrated Data Store": "integrated data store"
+    },
+    {
+        "   IDMS": "idms"
+    },
+    {
+        "   Raima Database Manager": "raima database manager"
+    },
+    {
+        " TurboIMAGE": "turboimage"
+    },
+    {
+        " Univac DMS42": "unisys os 2200 databases"
+    }
+]

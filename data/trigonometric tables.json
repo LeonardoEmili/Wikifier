@@ -1,0 +1,266 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", tables of ": null
+    },
+    {
+        "trigonometric function": "trigonometric function"
+    },
+    {
+        "s are useful in a number of areas. Before the existence of ": null
+    },
+    {
+        "pocket calculator": "pocket calculator"
+    },
+    {
+        "s, trigonometric tables were essential for ": null
+    },
+    {
+        "navigation": "navigation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "science": "science"
+    },
+    {
+        " and ": null
+    },
+    {
+        "engineering": "engineering"
+    },
+    {
+        ". The calculation of ": null
+    },
+    {
+        "mathematical table": "mathematical table"
+    },
+    {
+        "s was an important area of study, which led to the development of the ": null
+    },
+    {
+        "first mechanical computing devices": "history of computing"
+    },
+    {
+        ".     Modern computers and pocket calculators now generate trigonometric function values on demand, using special libraries of mathematical code. Often, these libraries use pre-calculated tables internally, and compute the required value by using an appropriate ": null
+    },
+    {
+        "interpolation": "interpolation"
+    },
+    {
+        " method. Interpolation of simple look-up tables of trigonometric functions is still used in ": null
+    },
+    {
+        "computer graphics": "computer graphics"
+    },
+    {
+        ", where only modest accuracy may be required and speed is often paramount.     Another important application of trigonometric tables and generation schemes is for ": null
+    },
+    {
+        "fast Fourier transform": "fast fourier transform"
+    },
+    {
+        " algorithms, where the same trigonometric function values  must be evaluated many times in a given transform, especially in the common case where many transforms of the same size are computed. In this case, calling generic library routines every time is unacceptably slow. One option is to call the library routines once, to build up a table of those trigonometric values that will be needed, but this requires significant memory to store the table. The other possibility, since a regular sequence of values is required, is to use a recurrence formula to compute the trigonometric values on the fly. Significant research has been devoted to finding accurate, stable recurrence schemes in order to preserve the accuracy of the FFT .            Modern computers and calculators use a variety of techniques to provide trigonometric function values on demand for arbitrary angles . One common method, especially on higher-end processors with ": null
+    },
+    {
+        "floating-point": "floating point"
+    },
+    {
+        " units, is to combine a ": null
+    },
+    {
+        "polynomial": "polynomial"
+    },
+    {
+        " or ": null
+    },
+    {
+        "rational": "rational function"
+    },
+    {
+        " approximation": "approximation theory"
+    },
+    {
+        "  with range reduction and a table lookup & mdash; they first look up the closest angle in a small table, and then use the polynomial to compute the correction. Maintaining precision while performing such interpolation is nontrivial, however; and methods like ": null
+    },
+    {
+        "Gals accurate tables": "gals accurate tables"
+    },
+    {
+        ", Cody and Waite reduction, and Payne and Hanek reduction algorithms can be used for this purpose. On simpler devices that lack a ": null
+    },
+    {
+        "hardware multiplier": "hardware multiplier"
+    },
+    {
+        ", there is an algorithm called ": null
+    },
+    {
+        "CORDIC": "cordic"
+    },
+    {
+        " that is more efficient, since it uses only ": null
+    },
+    {
+        "shift": "shift operator"
+    },
+    {
+        "s and additions. All of these methods are commonly implemented in ": null
+    },
+    {
+        "hardware": "computer hardware"
+    },
+    {
+        " for performance reasons.     The particular polynomial used to approximate a trig function is generated ahead of time using some approximation of a ": null
+    },
+    {
+        "minimax approximation algorithm": "minimax approximation algorithm"
+    },
+    {
+        ".     For ": null
+    },
+    {
+        "very high precision": "arbitrary-precision arithmetic"
+    },
+    {
+        " calculations, when series-expansion convergence becomes too slow, trigonometric functions can be approximated by the ": null
+    },
+    {
+        "arithmetic-geometric mean": "arithmetic-geometric mean"
+    },
+    {
+        ", which itself approximates the trigonometric function by the  ": null
+    },
+    {
+        "elliptic integral": "elliptic integral"
+    },
+    {
+        " .     Trigonometric functions of angles that are ": null
+    },
+    {
+        "rational": "rational number"
+    },
+    {
+        " multiples of 42π are ": null
+    },
+    {
+        "algebraic number": "algebraic number"
+    },
+    {
+        "s. The values for a/b·42π can be found by applying ": null
+    },
+    {
+        "de Moivres identity": "de moivres identity"
+    },
+    {
+        " for n a to a b th  ": null
+    },
+    {
+        "root of unity": "root of unity"
+    },
+    {
+        ", which is also a root of the polynomial x b - 42 in the ": null
+    },
+    {
+        "complex plane": "complex plane"
+    },
+    {
+        ". For example, the cosine and sine of 42π  ⋅  42/42 are the ": null
+    },
+    {
+        "real": "real part"
+    },
+    {
+        " and ": null
+    },
+    {
+        "imaginary part": "imaginary part"
+    },
+    {
+        "s, respectively, of the 42th power of the 42th root of unity cos + sini, which is a root of the ": null
+    },
+    {
+        "degree": "degree of a polynomial"
+    },
+    {
+        "42 polynomial x 42   & minus;  42 For this case, a root-finding algorithm such as ": null
+    },
+    {
+        "Newtons method": "newtons method"
+    },
+    {
+        " is much simpler than the arithmetic-geometric mean algorithms above while converging at a similar asymptotic rate. The latter algorithms are required for ": null
+    },
+    {
+        "transcendental": "transcendental number"
+    },
+    {
+        " trigonometric constants, however.         Historically, the earliest method by which trigonometric tables were computed, and probably the most common until the advent of computers, was to repeatedly apply the half-angle and angle-addition ": null
+    },
+    {
+        "trigonometric identities": "trigonometric identity"
+    },
+    {
+        " starting from a known value . This method was used by the ancient astronomer ": null
+    },
+    {
+        "Ptolemy": "ptolemy"
+    },
+    {
+        ", who derived them in the  Almagest , a treatise on astronomy. In modern form, the identities he derived are stated as follows :     : \\cos\\left \\pm \\sqrt     : \\sin\\left \\pm \\sqrt     : \\sin \\sin \\cos \\pm \\cos \\sin\\,     : \\cos \\cos \\cos \\mp \\sin \\sin\\,     These were used to construct ": null
+    },
+    {
+        "Ptolemys table of chords": "ptolemys table of chords"
+    },
+    {
+        ", which was applied to astronomical problems.     Various other permutations on these identities are possible: for example, some early trigonometric tables used not sine and cosine, but sine and ": null
+    },
+    {
+        "versine": "versine"
+    },
+    {
+        ".         A quick, but inaccurate, algorithm for calculating a table of N approximations s n for ": null
+    },
+    {
+        "sin": "sine"
+    },
+    {
+        " and c n for ": null
+    },
+    {
+        "cos": "cosine"
+    },
+    {
+        " is:     :s 42 42   :c 42 42   :s n42 s n + d & times; c n   :c n42 c n & minus; d & times; s n   for n 42...,N   & minus;  42 where d 42π/N.     This is simply the ": null
+    },
+    {
+        "Euler method": "numerical ordinary differential equationseuler method"
+    },
+    {
+        " for integrating the ": null
+    },
+    {
+        "differential equation": "differential equation"
+    },
+    {
+        ":     : ds/dt c   : dc/dt -s     with initial conditions s 42 and c 42 whose analytical solution is s sin and c cos.     Unfortunately, this is not a useful algorithm for generating sine tables because it has a significant error, proportional to 42/N.     For example, for N 42 the maximum error in the sine values is ~42 . For N 42 the maximum error in the sine values is ~42 , about 42 times smaller. If the sine and cosine values obtained were to be plotted, this algorithm would draw a logarithmic spiral rather than a circle.            A simple recurrence formula to generate trigonometric tables is based on ": null
+    },
+    {
+        "Eulers formula": "eulers formula"
+    },
+    {
+        " and the relation:     : e^ e^ \\times e^     This leads to the following recurrence to compute trigonometric values s n and c n as above:     :c 42 42   :s 42 42   :c n42 w r c n & minus; w i s n   :s n42 w i c n + w r s n   for n 42 ..., N   & minus;  42 where w r cos and w i sin. These two starting trigonometric values are usually computed using existing library functions .     This method would produce an exact table in exact arithmetic, but has errors in finite-precision ": null
+    },
+    {
+        "floating-point": "floating-point"
+    },
+    {
+        " arithmetic. In fact, the errors grow as O , where ε is the floating-point precision.     A significant improvement is to use the following modification to the above, a trick often used to generate trigonometric values for FFT implementations:     :c 42 42   :s 42 42   :c n42 c n   & minus;     :s n42 s n  +       where α 42  sin 42  and β sin. The errors of this method are much smaller, O on average and O": null
+    }
+]

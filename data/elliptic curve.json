@@ -1,0 +1,401 @@
+[
+    {
+        "        In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", an elliptic curve is a ": null
+    },
+    {
+        "plane algebraic curve": "plane algebraic curve"
+    },
+    {
+        " defined by an equation of the form     : y^42 x^42 + ax + b     which is ": null
+    },
+    {
+        "non-singular": "singular point of a curve"
+    },
+    {
+        "; that is, the curve has no ": null
+    },
+    {
+        "cusps": "cusp"
+    },
+    {
+        " or self-intersections.      Formally, an elliptic curve is a ": null
+    },
+    {
+        "smooth": "nonsingular variety"
+    },
+    {
+        ", ": null
+    },
+    {
+        "projective": "projective variety"
+    },
+    {
+        ", ": null
+    },
+    {
+        "algebraic curve": "algebraic curve"
+    },
+    {
+        " of ": null
+    },
+    {
+        "genus": "genus of an algebraic curve"
+    },
+    {
+        " one, on which there is a specified point O. An elliptic curve is an ": null
+    },
+    {
+        "abelian variety": "abelian variety"
+    },
+    {
+        " – that is, it has a multiplication defined algebraically, with respect to which it is an ": null
+    },
+    {
+        "abelian group": "abelian group"
+    },
+    {
+        " – and O serves as the identity element. Often the curve itself, without O specified, is called an elliptic curve; the point O is often taken to be the curves ": null
+    },
+    {
+        "point at infinity": "point at infinity"
+    },
+    {
+        " in the ": null
+    },
+    {
+        "projective plane": "projective plane"
+    },
+    {
+        ".     If y 42 P, where P is any polynomial of degree three in x with no repeated roots, the solution set is a nonsingular plane curve of ": null
+    },
+    {
+        "genus": "genus"
+    },
+    {
+        " one, an elliptic curve. If P has degree four and is ": null
+    },
+    {
+        "square-free": "square-free polynomial"
+    },
+    {
+        " this equation again describes a plane curve of genus one; however, it has no natural choice of identity element. More generally, any algebraic curve of genus one, for example from the intersection of two ": null
+    },
+    {
+        "quadric surfaces": "quadric"
+    },
+    {
+        " embedded in three-dimensional projective space, is called an elliptic curve, provided that it has at least one ": null
+    },
+    {
+        "rational point": "rational point"
+    },
+    {
+        " to act as the identity.     Using the theory of ": null
+    },
+    {
+        "elliptic function": "elliptic function"
+    },
+    {
+        "s, it can be shown that elliptic curves defined over the ": null
+    },
+    {
+        "complex number": "complex number"
+    },
+    {
+        "s correspond to embeddings of the ": null
+    },
+    {
+        "torus": "torus"
+    },
+    {
+        " into the ": null
+    },
+    {
+        "complex projective plane": "complex projective plane"
+    },
+    {
+        ". The torus is also an ": null
+    },
+    {
+        "abelian group": "abelian group"
+    },
+    {
+        ", and in fact this correspondence is also a ": null
+    },
+    {
+        "group isomorphism": "group isomorphism"
+    },
+    {
+        ".     Elliptic curves are especially important in ": null
+    },
+    {
+        "number theory": "number theory"
+    },
+    {
+        ", and constitute a major area of current research; for example, they were used in the proof, by ": null
+    },
+    {
+        "Andrew Wiles": "andrew wiles"
+    },
+    {
+        ", of ": null
+    },
+    {
+        "Fermats Last Theorem": "fermats last theorem"
+    },
+    {
+        ". They also find applications in ": null
+    },
+    {
+        "elliptic curve cryptography": "elliptic curve cryptography"
+    },
+    {
+        " and ": null
+    },
+    {
+        "integer factorization": "integer factorization"
+    },
+    {
+        ".     An elliptic curve is not an ": null
+    },
+    {
+        "ellipse": "ellipse"
+    },
+    {
+        ": see ": null
+    },
+    {
+        "elliptic integral": "elliptic integral"
+    },
+    {
+        " for the origin of the term. Topologically, a complex elliptic curve is a ": null
+    },
+    {
+        "torus": "torus"
+    },
+    {
+        ".          Although the formal definition of an elliptic curve is fairly technical and requires some background in ": null
+    },
+    {
+        "algebraic geometry": "algebraic geometry"
+    },
+    {
+        ", it is possible to describe some features of elliptic curves over the ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s using only introductory ": null
+    },
+    {
+        "algebra": "algebra"
+    },
+    {
+        " and ": null
+    },
+    {
+        "geometry": "geometry"
+    },
+    {
+        ".     In this context, an elliptic curve is a ": null
+    },
+    {
+        "plane curve": "plane curve"
+    },
+    {
+        " defined by an equation of the form     : y^42 x^42 + ax + b     where a and b are real numbers. This type of equation is called a ": null
+    },
+    {
+        "Weierstrass equation": "weierstrasss elliptic functions"
+    },
+    {
+        ".     The definition of elliptic curve also requires that the curve be ": null
+    },
+    {
+        "non-singular": "non-singular"
+    },
+    {
+        ". Geometrically, this means that the graph has no ": null
+    },
+    {
+        "cusps": "cusp"
+    },
+    {
+        ", self-intersections, or isolated points. Algebraically, this holds if and only if the ": null
+    },
+    {
+        "discriminant": "discriminant"
+    },
+    {
+        "     : \\Delta 42     is not equal to zero.     The graph of a non-singular curve has two components if its discriminant is positive, and one component if it is negative. For example, in the graphs shown in figure to the right, the discriminant in the first case is 42 and in the second case is −42       When working in the ": null
+    },
+    {
+        "projective plane": "projective plane"
+    },
+    {
+        ", we can define a group structure on any smooth cubic curve. In Weierstrass normal form, such a curve will have an additional point at infinity, O, at the ": null
+    },
+    {
+        "homogeneous coordinates": "homogeneous coordinates"
+    },
+    {
+        " which serves as the identity of the group.     Since the curve is symmetrical about the x-axis, given any point P, we can take −P to be the point opposite it. We take −O to be just O.     If P and Q are two points on the curve, then we can uniquely describe a third point, P + Q, in the following way. First, draw the line that intersects P and Q. This will generally intersect the cubic at a third point, R. We then take P + Q to be −R, the point opposite R.     This definition for addition works except in a few special cases related to the point at infinity and intersection multiplicity. The first is when one of the points is O. Here, we define P + O P O + P, making O the identity of the group. Next, if P and Q are opposites of each other, we define P + Q O. Lastly, if P Q we only have one point, thus we cant define the line between them. In this case, we use the tangent line to the curve at this point as our line. In most cases, the tangent will intersect a second point R and we can take its opposite. However, if P happens to be an ": null
+    },
+    {
+        "inflection point": "inflection point"
+    },
+    {
+        " , we take R to be P itself and P + P is simply the point opposite itself.     For a cubic curve not in Weierstrass normal form, we can still define a group structure by designating one of its nine inflection points as the identity O. In the projective plane, each line will intersect a cubic at three points when accounting for multiplicity. For a point P, −P is defined as the unique third point on the line passing through O and P. Then, for any P and Q, P + Q is defined as −R where R is the unique third point on the line containing P and Q.     Let K be a field over which the curve is defined  and denote the curve by E. Then the K-": null
+    },
+    {
+        "rational point": "rational point"
+    },
+    {
+        "s of E are the points on E whose coordinates all lie in K, including the point at infinity. The set of K-rational points is denoted by E. It, too, forms a group, because properties of polynomial equations show that if P is in E, then −P is also in E, and if two of P, Q, and R are in E, then so is the third. Additionally, if K is a subfield of L, then E is a ": null
+    },
+    {
+        "subgroup": "subgroup"
+    },
+    {
+        " of E.     The above group can be described algebraically as well as geometrically. Given the curve y 42 x 42 + ax + b over the field K , and points P  and Q  on the curve, assume first that x P  ≠ x Q  . Let y sx + d be the line that intersects P and Q, which has the following slope:     : s \\frac     Since K is a field, s is well-defined. The line equation and the curve equation have an identical y in the points x P , x Q , and x R .     : ^42 x^42 + ax + b     which is equivalent to 42 x^42 - s^42 x^42 - 42sdx + ax + b - d^42 . We know that this equation has its roots in exactly the same x-values as     : x^42 + x^42 + x - x_P x_Q x_R     We ": null
+    },
+    {
+        "equate the coefficient": "equating_coefficients"
+    },
+    {
+        " for x 42  and solve for x R . y R  follows from the line equation. This defines R  − with     : \\begin   x_R & s^42 - x_P - x_Q \\\\   y_R & y_P + s   \\end     If x P  x Q , then there are two options: if y P  −y Q  , including the case where y P  y Q  42 , then the sum is defined as 42; thus, the inverse of each point on the curve is found by reflecting it across the x-axis. If y P  y Q  ≠ 42 then Q P and R  − −42P −42Q  is given by     : \\begin   s & \\frac\\\\   x_R & s^42 - 42x_P\\\\   y_R & y_P + s   \\end       ": null
+    },
+    {
+        "Image:ECClines.svg": "image:ecclines.svg"
+    },
+    {
+        "            The formulation of elliptic curves as the embedding of a ": null
+    },
+    {
+        "torus": "torus"
+    },
+    {
+        " in the ": null
+    },
+    {
+        "complex projective plane": "complex projective plane"
+    },
+    {
+        " follows naturally from a curious property of ": null
+    },
+    {
+        "Weierstrasss elliptic functions": "weierstrasss elliptic functions"
+    },
+    {
+        ". These functions and their first derivative are related by the formula     : \\wp^42 42\\wp^42 -g_42\\wp - g_42     Here, g 42 and g 42 are constants; \\wp is the Weierstrass elliptic function and \\wp its derivative. It should be clear that this relation is in the form of an elliptic curve . The Weierstrass functions are doubly periodic; that is, they are periodic with respect to a ": null
+    },
+    {
+        "lattice": "fundamental pair of periods"
+    },
+    {
+        " Λ; in essence, the Weierstrass functions are naturally defined on a torus T C/Λ. This torus may be embedded in the complex projective plane by means of the map     : z \\mapsto     This map is a ": null
+    },
+    {
+        "group isomorphism": "group isomorphism"
+    },
+    {
+        " of the torus with the chord-and-tangent group law on the cubic curve which is the image of this map. It is also an isomorphism of ": null
+    },
+    {
+        "Riemann surface": "riemann surface"
+    },
+    {
+        "s from the torus to the cubic curve, so topologically, an elliptic curve is a torus. If the lattice Λ is related by multiplication by a non-zero complex number c to a lattice cΛ, then the corresponding curves are isomorphic. Isomorphism classes of elliptic curves are specified by the ": null
+    },
+    {
+        "j-invariant": "j-invariant"
+    },
+    {
+        ".     The isomorphism classes can be understood in a simpler way as well. The constants g 42 and g 42 , called the ": null
+    },
+    {
+        "modular invariant": "j-invariant"
+    },
+    {
+        "s, are uniquely determined by the lattice, that is, by the structure of the torus. However, the complex numbers form the ": null
+    },
+    {
+        "splitting field": "splitting field"
+    },
+    {
+        " for polynomials with real coefficients, and so the elliptic curve may be written as   : y^42 x     One finds that   : g_42 \\frac     and   : g_42 \\frac     so that the ": null
+    },
+    {
+        "modular discriminant": "modular discriminant"
+    },
+    {
+        " is   : \\Delta g_42^42 - 42g_42^42 \\lambda^42^42     Here, λ is sometimes called the ": null
+    },
+    {
+        "modular lambda function": "modular lambda function"
+    },
+    {
+        ".     Note that the ": null
+    },
+    {
+        "uniformization theorem": "uniformization theorem"
+    },
+    {
+        " implies that every ": null
+    },
+    {
+        "compact": "compact space"
+    },
+    {
+        " Riemann surface of genus one can be represented as a torus.     This also allows an easy understanding of the ": null
+    },
+    {
+        "torsion points": "torsion subgroup"
+    },
+    {
+        " on an elliptic curve: if the lattice Λ is spanned by the fundamental periods ω 42 and ω 42 , then the n-torsion points are the points of the form   : \\frac \\omega_42 + \\frac \\omega_42     for a and b integers in the range from 42 to n−42     Over the complex numbers, every elliptic curve has nine ": null
+    },
+    {
+        "inflection point": "inflection point"
+    },
+    {
+        "s. Every line through two of these points also passes through a third inflection point; the nine points and 42 lines formed in this way form a realization of the ": null
+    },
+    {
+        "Hesse configuration": "hesse configuration"
+    },
+    {
+        ".       A curve E defined over the field of rational numbers is also defined over the field of real numbers. Therefore, the law of addition by the tangent and secant method can be applied to E. The explicit formulae show that the sum of two points P and Q with rational coordinates has again rational coordinates, since the line joining P and Q has rational coefficients. This way, one shows that the set of rational points of E forms a subgroup of the group of real points of E. As this group, it is an ": null
+    },
+    {
+        "abelian group": "abelian group"
+    },
+    {
+        ", that is, P + Q Q + P.       The most important result is that all points can be constructed by the method of tangents and secants starting with a finite number of points. More precisely  the ": null
+    },
+    {
+        "Mordell–Weil theorem": "mordell–weil theorem"
+    },
+    {
+        " states that the group E is a ": null
+    },
+    {
+        "finitely generated": "finitely generated group"
+    },
+    {
+        " group. By the ": null
+    },
+    {
+        "fundamental theorem of finitely generated abelian groups": "fundamental theorem of finitely generated abelian groups"
+    },
+    {
+        " it is therefore a finite direct sum of copies of Z and finite cyclic groups.     The proof of that theorem  rests on two ingredients: first, one shows that for any integer m    ref  /ref  sub /sub  sub /sub  sub /sub  sub /sub                  ": null
+    }
+]

@@ -1,0 +1,344 @@
+[
+    {
+        "A satellite modem or satmodem is a ": null
+    },
+    {
+        "modem": "modem"
+    },
+    {
+        " used to establish ": null
+    },
+    {
+        "data transfer": "data transfer"
+    },
+    {
+        "s using a ": null
+    },
+    {
+        "communications satellite": "communications satellite"
+    },
+    {
+        " as a ": null
+    },
+    {
+        "relay": "relay"
+    },
+    {
+        ". A satellite modems main function is to transform an input bitstream to a radio signal and vice versa.     There are some devices that include only a demodulator that are also referred to as satellite modems. These devices are used in ": null
+    },
+    {
+        "satellite Internet access": "satellite internet access"
+    },
+    {
+        " .            A satellite modem is not the only device needed to establish a communication channel. Other equipment that are essential for creating a satellite link include ": null
+    },
+    {
+        "satellite antenna": "satellite antenna"
+    },
+    {
+        "s and frequency converters.     Data to be transmitted are transferred to a modem from ": null
+    },
+    {
+        "Data terminal equipment": "data terminal equipment"
+    },
+    {
+        " . The modem usually has ": null
+    },
+    {
+        "Intermediate frequency": "intermediate frequency"
+    },
+    {
+        " output , however, sometimes the signal is modulated directly to ": null
+    },
+    {
+        "L-band": "l-band"
+    },
+    {
+        ". In most cases frequency has to be converted using an ": null
+    },
+    {
+        "upconverter": "block upconverter"
+    },
+    {
+        " before amplification and transmission.     A modulated signal is a sequence of symbols, pieces of data represented by a corresponding signal state, e.g. a bit or a few bits, depending upon the ": null
+    },
+    {
+        "modulation": "modulation"
+    },
+    {
+        " scheme being used. Recovering a symbol clock is one of the most important tasks of a demodulator.     Similarly, a signal received from a satellite is firstly ": null
+    },
+    {
+        "downconverted": "downconverter"
+    },
+    {
+        " , then demodulated by a modem, and at last handled by data terminal equipment. The LNB is usually powered by the modem through the signal cable with 42 or 42 V ": null
+    },
+    {
+        "DC": "direct current"
+    },
+    {
+        "       The main functions of a satellite modem are modulation and demodulation. Satellite communication standards also define ": null
+    },
+    {
+        "error correction": "error correction"
+    },
+    {
+        " codes and ": null
+    },
+    {
+        "framing": "framing"
+    },
+    {
+        " formats.     Popular modulation types being used for satellite communications:   Binary phase shift keying ;   Quadrature phase shift keying ;   Offset quadrature phase shift keying ;   ": null
+    },
+    {
+        "42PSK": "8psk"
+    },
+    {
+        ";   ": null
+    },
+    {
+        "Quadrature amplitude modulation": "quadrature amplitude modulation"
+    },
+    {
+        " , especially 42QAM.     The popular satellite error correction codes include:   ": null
+    },
+    {
+        "Convolutional code": "convolutional code"
+    },
+    {
+        "s:   with ": null
+    },
+    {
+        "constraint length": "constraint length"
+    },
+    {
+        " less than 42 usually decoded using a ": null
+    },
+    {
+        "Viterbi algorithm": "viterbi algorithm"
+    },
+    {
+        " ;   with ": null
+    },
+    {
+        "constraint length": "constraint length"
+    },
+    {
+        " more than 42 usually decoded using a ": null
+    },
+    {
+        "Fano algorithm": "fano algorithm"
+    },
+    {
+        " ;   ": null
+    },
+    {
+        "Reed-Solomon": "reed-solomon"
+    },
+    {
+        " codes usually concatenated with convolutional codes with an ": null
+    },
+    {
+        "interleaving": "forward error correctioninterleaving"
+    },
+    {
+        ";   New modems support superior error correction codes .     Frame formats that are supported by various satellite modems include:   Intelsat business service framing   Intermediate data rate framing   ": null
+    },
+    {
+        "MPEG42": "mpeg-2"
+    },
+    {
+        " transport framing    ": null
+    },
+    {
+        "E42": "e-carrier"
+    },
+    {
+        " and ": null
+    },
+    {
+        "T42": "digital signal 1"
+    },
+    {
+        " framing     ": null
+    },
+    {
+        "High-end": "high-end"
+    },
+    {
+        " modems also incorporate some additional features:     Multiple data interfaces ;   Embedded Distant-end Monitor and Control , allowing to control the distant-end modem;   Automatic Uplink Power Control , that is, adjusting the output power to maintain a constant ": null
+    },
+    {
+        "signal to noise": "signal-to-noise ratio"
+    },
+    {
+        " ratio at the remote end;   ": null
+    },
+    {
+        "Drop and insert": "drop and insert"
+    },
+    {
+        " feature for a ": null
+    },
+    {
+        "multiplexed": "multiplexing"
+    },
+    {
+        " stream, allowing to replace some channels in it.          Probably the best way of understanding modems work is to look at its internal structure. A block diagram of a generic satellite modem is shown on the image. Almost all parts are optional.         After a ": null
+    },
+    {
+        "digital-to-analog conversion": "digital to analog converter"
+    },
+    {
+        " in the transmitter the signal passes through a ": null
+    },
+    {
+        "reconstruction filter": "reconstruction filter"
+    },
+    {
+        ". Then its frequency is converted if needed.     The purpose of the analog tract in the receiver is to convert signals frequency, to adjust its power via an ": null
+    },
+    {
+        "automatic gain control": "automatic gain control"
+    },
+    {
+        " circuit and to get its ": null
+    },
+    {
+        "complex envelope": "complex envelope"
+    },
+    {
+        " components.     The input signal for the analog tract is at the ": null
+    },
+    {
+        "intermediate frequency": "intermediate frequency"
+    },
+    {
+        " or in the ": null
+    },
+    {
+        "L-band": "l-band"
+    },
+    {
+        ", in the second case it must be firstly converted to IF. Then the signal is either ": null
+    },
+    {
+        "sampled": "sampling"
+    },
+    {
+        " or processed by the four-quadrant multiplier which produces the complex envelope components  through multiplying it by the heterodyne frequency.     See ": null
+    },
+    {
+        "Superheterodyne receiver": "superheterodyne receiver"
+    },
+    {
+        ".     At last the signal passes through an ": null
+    },
+    {
+        "anti-aliasing filter": "anti-aliasing filter"
+    },
+    {
+        " and  sampled  .         A digital modulator transforms a digital stream into a radio signal on ": null
+    },
+    {
+        "Intermediate frequency": "intermediate frequency"
+    },
+    {
+        " . A modulator is generally a much simpler device than a demodulator, because it doesnt have to recover symbol and carrier frequencies.     A demodulator is one of the most important parts of the receiver. The exact structure of the demodulator is defined by a ": null
+    },
+    {
+        "modulation": "modulation"
+    },
+    {
+        " type. However, the fundamental concepts are similar. Moreover, it is possible to develop a demodulator which can process signals with different modulation types.     Digital demodulation implies that a symbol clock at the receiving side have to be synchronous with those at the transmitting side. This is achieved by the following two circuits:   timing recovery circuit, determining the borders of symbols;   carrier recovery circuit, which determines the actual meaning of each symbol. There are modulation types  that can be demodulated without carrier recovery but this method is generally worse.     There are also additional components in the demodulator such as the ": null
+    },
+    {
+        "Intersymbol interference": "intersymbol interference"
+    },
+    {
+        " equalizer": "equalization"
+    },
+    {
+        ".     If the analog signal was digitized without a four-quadrant multiplier, the complex envelope has to be calculated by a digital complex mixer.     Sometimes a digital ": null
+    },
+    {
+        "automatic gain control": "automatic gain control"
+    },
+    {
+        " circuit is implemented in the demodulator.         ": null
+    },
+    {
+        "Error correction": "error correction"
+    },
+    {
+        " techniques are essential for satellite communications, because, due to satellites limited power a ": null
+    },
+    {
+        "signal to noise": "signal-to-noise ratio"
+    },
+    {
+        " ratio at the receiver is usually rather poor. Error correction works by adding an artificial redundancy to a data stream at the transmitting side, and using this redundancy to correct errors caused by noise and interference.     A FEC encoder applies an error correction code to the digital stream, adding redundancy.     A FEC decoder decodes the ": null
+    },
+    {
+        "Forward error correction": "forward error correction"
+    },
+    {
+        " code that is used in the specific signal.   For example, the ": null
+    },
+    {
+        "Digital Video Broadcasting": "digital video broadcasting"
+    },
+    {
+        " standard defines a concatenated code consisting of inner convolutional , interleaving and outer ": null
+    },
+    {
+        "Reed-Solomon": "reed-solomon"
+    },
+    {
+        " code .              There are several modulation types  that have a phase ambiguity, that is, a carrier can be restored in different ways. ": null
+    },
+    {
+        "Differential coding": "differential coding"
+    },
+    {
+        " is used to resolve this ambiguity.     When differential coding is used, the data are deliberately made to depend not only on the current symbol, but also on the previous one.            ": null
+    },
+    {
+        "Scrambling": "scrambler"
+    },
+    {
+        " is a technique used to randomize a data stream to eliminate long 42-only and 42-only sequences and to assure energy dispersal.   Long 42-only and 42-only sequences create difficulties for timing recovery circuit.   Scramblers and descramblers are usually based on ": null
+    },
+    {
+        "linear-feedback shift register": "linear-feedback shift register"
+    },
+    {
+        "s.     A scrambler randomizes the data stream to be transmitted.   A descrambler restores the original stream from the scrambled one.     Scrambling shouldnt be confused with encryption, since it doesnt protect information from intruders.         A ": null
+    },
+    {
+        "multiplexer": "multiplexer"
+    },
+    {
+        " transforms several digital streams into one stream. This is often referred to as Muxing.     Generally, a ": null
+    },
+    {
+        "demultiplexer": "demultiplexer"
+    },
+    {
+        " is a device which transforms one ": null
+    },
+    {
+        "multiplexed": "multiplexing"
+    },
+    {
+        " data stream to several streams which it consists of. Satellite modem doesnt have so many outputs, so a demultiplexer here performs a ": null
+    },
+    {
+        "drop": "drop and insert"
+    },
+    {
+        " operation, allowing to choose channels that will be transferred to output.     A demultiplexer achieves this goal by maintaining frame synchronization.          ": null
+    }
+]

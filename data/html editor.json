@@ -1,0 +1,383 @@
+[
+    {
+        "   An HTML editor is a ": null
+    },
+    {
+        "program": "computer program"
+    },
+    {
+        " for editing ": null
+    },
+    {
+        "HTML": "html"
+    },
+    {
+        ", the markup of a ": null
+    },
+    {
+        "web page": "web page"
+    },
+    {
+        ". Although the ": null
+    },
+    {
+        "HTML": "html"
+    },
+    {
+        " markup in a web page can be controlled with any ": null
+    },
+    {
+        "text editor": "text editor"
+    },
+    {
+        ", specialized HTML editors can offer convenience and added functionality. For example, many HTML editors handle not only HTML, but also related technologies such as ": null
+    },
+    {
+        "CSS": "cascading style sheets"
+    },
+    {
+        ", ": null
+    },
+    {
+        "XML": "extensible markup language"
+    },
+    {
+        " and ": null
+    },
+    {
+        "JavaScript": "javascript"
+    },
+    {
+        " or ": null
+    },
+    {
+        "ECMAScript": "ecmascript"
+    },
+    {
+        ". In some cases they also manage communication with remote web servers via ": null
+    },
+    {
+        "FTP": "file transfer protocol"
+    },
+    {
+        " and ": null
+    },
+    {
+        "WebDAV": "webdav"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "version control systems": "version control systems"
+    },
+    {
+        " such as ": null
+    },
+    {
+        "Subversion": "subversion"
+    },
+    {
+        " or ": null
+    },
+    {
+        "Git": "git"
+    },
+    {
+        ". Many ": null
+    },
+    {
+        "word processing": "word processing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "graphic design": "graphic design"
+    },
+    {
+        " and ": null
+    },
+    {
+        "page layout": "page layout"
+    },
+    {
+        " programs that are not dedicated to ": null
+    },
+    {
+        "web design": "web design"
+    },
+    {
+        ", such as ": null
+    },
+    {
+        "Microsoft Word": "microsoft word"
+    },
+    {
+        " or ": null
+    },
+    {
+        "Quark XPress": "quark xpress"
+    },
+    {
+        ", also have the ability to function as HTML editors.       There are two main varieties of HTML editors: textual and ": null
+    },
+    {
+        "WYSIWYG": "wysiwyg"
+    },
+    {
+        " editors.       ": null
+    },
+    {
+        "Text editors": "text editors"
+    },
+    {
+        " intended for use with HTML usually provide at least ": null
+    },
+    {
+        "syntax highlighting": "syntax highlighting"
+    },
+    {
+        ". Some editors additionally feature ": null
+    },
+    {
+        "templates": "template"
+    },
+    {
+        ", ": null
+    },
+    {
+        "toolbar": "toolbar"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "keyboard shortcut": "keyboard shortcut"
+    },
+    {
+        "s to quickly insert common ": null
+    },
+    {
+        "HTML element": "html element"
+    },
+    {
+        "s and structures. ": null
+    },
+    {
+        "Wizards": "wizard"
+    },
+    {
+        ", ": null
+    },
+    {
+        "tooltip": "tooltip"
+    },
+    {
+        " prompts and ": null
+    },
+    {
+        "autocompletion": "autocomplete"
+    },
+    {
+        " may help with common tasks.     Text editors commonly used for HTML typically include either built-in functions or integration with external tools for such tasks as ": null
+    },
+    {
+        "version control": "version control"
+    },
+    {
+        ", link-checking and ": null
+    },
+    {
+        "validation": "validator"
+    },
+    {
+        ", ": null
+    },
+    {
+        "code cleanup and formatting": "html tidy"
+    },
+    {
+        ", spell-checking, uploading by FTP or WebDAV, and structuring as a project. Some functions, such as link checking or validation may use ": null
+    },
+    {
+        "online tools": "web app"
+    },
+    {
+        ", requiring a network connection.     Text editors require user understanding of HTML and any other web technologies the designer wishes to use like CSS, JavaScript and ": null
+    },
+    {
+        "server-side scripting": "server-side scripting"
+    },
+    {
+        " languages.     To ease this requirement, some editors allow editing of the markup in more ": null
+    },
+    {
+        "visually organized": "graphic organizer"
+    },
+    {
+        " modes than simple color highlighting, but in modes not considered WYSIWYG. These editors typically include the option of using ": null
+    },
+    {
+        "palette window": "palette window"
+    },
+    {
+        "s or ": null
+    },
+    {
+        "dialog box": "dialog box"
+    },
+    {
+        "es to edit the text-based parameters of selected ": null
+    },
+    {
+        "objects": "object"
+    },
+    {
+        ". These palettes allow editing parameters in individual fields, or inserting new tags by filling out an onscreen form, and may include additional ": null
+    },
+    {
+        "widgets": "widget"
+    },
+    {
+        " to present and select options when editing parameters or an outline editor to expand and collapse HTML objects and properties.             ": null
+    },
+    {
+        "WYSIWYG": "wysiwyg"
+    },
+    {
+        " HTML editors provide an editing interface which resembles how the page will be displayed in a ": null
+    },
+    {
+        "web browser": "web browser"
+    },
+    {
+        ". Because using a WYSIWYG editor may not require any HTML knowledge, they are often easier for an inexperienced computer user to get started with.     The WYSIWYG view is achieved by embedding a ": null
+    },
+    {
+        "layout engine": "browser engine"
+    },
+    {
+        ". This may be custom-written or based upon one used in a web browser. The goal is that, at all times during editing, the ": null
+    },
+    {
+        "rendered": "rendering"
+    },
+    {
+        " result should represent what will be seen later in a typical web browser.     ": null
+    },
+    {
+        "WYSIWYM": "wysiwym"
+    },
+    {
+        "  is an alternative paradigm to WYSIWYG editors. Instead of focusing on the format or presentation of the document, it preserves the intended meaning of each element. For example, page headers, sections, paragraphs, etc. are labeled as such in the editing program, and displayed appropriately in the browser.       A given HTML document will have an inconsistent appearance on various platforms and computers for several reasons:     ;Different browsers and applications will render the same markup differently.   :The same page may display slightly differently in Internet Explorer and Firefox on a high-resolution screen, but it will look very different in the perfectly valid text-only ": null
+    },
+    {
+        "Lynx": "lynx"
+    },
+    {
+        " browser. It needs to be rendered differently again on a PDA, an internet-enabled television and on a mobile phone. Usability in a speech or braille browser, or via a screen-reader working with a conventional browser, will place demands on entirely different aspects of the underlying HTML. All an author can do is suggest an appearance.   ;Web browsers, like all computer software, have ": null
+    },
+    {
+        "bugs": "computer bug"
+    },
+    {
+        "   :They may not conform to current standards. It is hopeless to try to design Web pages around all of the common browsers current bugs: each time a new version of each browser comes out, a significant proportion of the World Wide Web would need re-coding to suit the new bugs and the new fixes. It is generally considered much wiser to design to standards, staying away from bleeding edge features until they settle down, and then wait for the browser developers to catch up to your pages, rather than the other way round.  For instance, no one can argue that CSS is still cutting edge as there is now widespread support available in common browsers for all the major features,  even if many WYSIWYG and other editors have not yet entirely caught up.    ;A single visual style can represent multiple semantic meanings   :Semantic meaning, derived from the underlying structure of the HTML document, is important for search engines and also for various accessibility tools. On paper we can tell from context and experience whether bold text represents a title, or emphasis, or something else. But it is very difficult to convey this distinction in a WYSIWYG editor. Simply making a piece of text bold in a WYSIWYG editor is not sufficient to tell the reader why the text is bold - what the boldness represents semantically.   ;Modern web sites are rarely constructed in a way that makes WYSIWYG useful   :Modern web sites typically use a ": null
+    },
+    {
+        "Content Management System": "content management system"
+    },
+    {
+        " or some other ": null
+    },
+    {
+        "template processor": "template processor"
+    },
+    {
+        "-based means of constructing pages on the fly using content stored in a database. Individual pages are never stored in a filesystem as they may be designed and edited in a WYSIWYG editor, thus some form of abstracted template-based layout is inevitable, invalidating one of the main benefits of using a WYSIWYG editor.       HTML is a structured ": null
+    },
+    {
+        "markup language": "markup language"
+    },
+    {
+        ". There are certain rules on how HTML must be written if it is to conform to ": null
+    },
+    {
+        "W42C": "w3c"
+    },
+    {
+        " standards for the ": null
+    },
+    {
+        "World Wide Web": "world wide web"
+    },
+    {
+        ". Following these rules means that web sites are accessible on all types and makes of computer, to able-bodied and people with disabilities, and also on ": null
+    },
+    {
+        "wireless": "wireless"
+    },
+    {
+        " devices like ": null
+    },
+    {
+        "mobile phone": "mobile phone"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "PDA": "personal digital assistant"
+    },
+    {
+        "s, with their limited bandwidths and screen sizes. However, most HTML documents on the web do not meet the requirements of W42C standards. In a study conducted in 42 on the 42 most popular web sites , 42 percent of websites fail the web standards markup and style sheet validation tests, or apply character encoding improperly.  Even those syntactically correct documents may be inefficient due to an unnecessary use of repetition, or based upon rules that have been ": null
+    },
+    {
+        "deprecated": "deprecation"
+    },
+    {
+        " for some years.   Current W42C recommendations on the use of CSS with HTML were first formalised by W42C in 42  and have been revised and refined since then. See ": null
+    },
+    {
+        "CSS": "cascading style sheets"
+    },
+    {
+        ", ": null
+    },
+    {
+        "XHTML": "xhtml"
+    },
+    {
+        ",  and .     These guidelines emphasise the separation of content from style . This has the benefit of delivering the style information once for a whole site, not repeated in each page, let alone in each HTML element. WYSIWYG editor designers have been struggling ever since with how best to present these concepts to their users without confusing them by exposing the underlying reality. Modern WYSIWYG editors all succeed in this to some extent, but none of them has succeeded entirely.     However a web page was created or edited, WYSIWYG or by hand, in order to be successful among the greatest possible number of readers and viewers, as well as to maintain the worldwide value of the Web itself, first and foremost it should consist of valid markup and code.  It should not be considered ready for the World Wide Web, until its HTML and CSS syntax have been successfully ": null
+    },
+    {
+        "validated": "validator"
+    },
+    {
+        " using either the free W42C validator services  or some other trustworthy alternatives.     ": null
+    },
+    {
+        "Accessibility": "accessibility"
+    },
+    {
+        " of web pages by those with physical, eyesight or other disabilities is not only a good idea considering the ubiquity and importance of the web in modern society, but is also mandated by law. In the U.S., the ": null
+    },
+    {
+        "Americans with Disabilities Act": "americans with disabilities act"
+    },
+    {
+        " and in the UK, the ": null
+    },
+    {
+        "Disability Discrimination Act": "disability discrimination act"
+    },
+    {
+        " place requirement on web sites operated by publicly funded organizations. In many other countries similar laws either already exist or soon will. ": null
+    },
+    {
+        "Making pages accessible": "web content accessibility guidelines"
+    },
+    {
+        " is more complex than just making them valid; that is a prerequisite but there are many other factors to be considered.  Good web design, whether done using a WYSIWYG tool or not needs to take account of these too.     Whatever software tools are used to design, create and maintain web pages, the quality of the underlying HTML is dependent on the skill of the person who works on the page. Some knowledge of HTML, CSS and other scripting languages as well as a familiarity with the current W42C recommendations in these areas will help any designer produce better web pages, with a WYSIWYG HTML editor and without. ": null
+    }
+]

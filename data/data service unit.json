@@ -1,0 +1,50 @@
+[
+    {
+        "A data service unit, sometimes called a digital service unit, is a piece of ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        "s circuit terminating equipment that transforms digital data between telephone company lines and local equipment. The device converts ": null
+    },
+    {
+        "bipolar digital signals": "bipolar signal"
+    },
+    {
+        " coming ultimately from a digital circuit and directly from a ": null
+    },
+    {
+        "Channel service unit": "channel service unit"
+    },
+    {
+        " , into a format compatible with the piece of ": null
+    },
+    {
+        "data terminal equipment": "data terminal equipment"
+    },
+    {
+        " to which the data is sent. The DSU also performs a similar process in reverse for data heading from the DTE toward the circuit. The telecommunications service a DSU supports can be a point-to-point or multipoint operation in a ": null
+    },
+    {
+        "digital data": "digital data"
+    },
+    {
+        " network.     A DSU is a two or more port device; one port is called the WAN  port and the other is called a DTE port. The purpose of the DSU is to transfer serial data synchronously between the WAN port and the DTE ports. If more than one DTE port is used, the DSU assigns the DTE data according to time slots on the WAN side.     On the WAN side, the DSU, via a CSU, interfaces with a digital carrier such as ": null
+    },
+    {
+        "DS42": "digital signal 1"
+    },
+    {
+        " or ": null
+    },
+    {
+        "DS42": "digital signal 3"
+    },
+    {
+        " or a low speed Digital Data Service. On the DTE side, the DSU provides control lines, timing lines and appropriate physical and electrical interface. To maintain the synchronous relationship between the ports, the DSU manages timing by slaving ports to the bit rate of another or to its internal clock. Typically, the DTE port provides timing to the data terminal equipment while the WAN port dictates the rate.     DSUs usually include some maintenance capabilities. At minimum, they can loop data back at either the WAN or DTE ports, or at both. When only one port is looped back, the data received at that port is simultaneously sent back toward the port and passed in normal fashion to the other port. Most DSUs also allow various data patterns to be generated and monitored to measure error rate of the communication link. A DSU may be a separate piece of equipment, or may be combined in a ": null
+    },
+    {
+        "CSU/DSU": "csu/dsu"
+    }
+]

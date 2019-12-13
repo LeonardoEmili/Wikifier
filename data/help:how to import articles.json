@@ -1,0 +1,41 @@
+[
+    {
+        "   Is there an article you have written and would like to import into Wikipedia? There are several ways to accomplish this.     The most obvious thing to do is to copy and paste content. Note, however, that most formatting will not be preserved. Also note that single linebreaks are ignored by Wikipedia, so if your source uses them, you will get very long lines. You can double all line breaks to replace them with full paragraphs. If you use ": null
+    },
+    {
+        "Microsoft Word": "microsoft office word"
+    },
+    {
+        ", note that in the replace feature ^p is the code for a linebreak, so you can replace ^p with ^p^p . Editors that support ": null
+    },
+    {
+        "regular expression": "regular expression"
+    },
+    {
+        "s may require a command like s/\\n/\\n\\n/gs , respectively. Also note that Word uses so-called smart quotes which may be inadvertently included in your article. These quotes are generally frowned upon and do not display correctly in all browsers. One way of removing them is copying your text into another word processor like ": null
+    },
+    {
+        "Notepad": "notepad"
+    },
+    {
+        " before pasting into Wikipedia.     If you want to properly import articles, you may consider using a conversion utility. ": null
+    },
+    {
+        "David_A._Wheeler": "david_a._wheeler"
+    },
+    {
+        " has written such a program for converting ": null
+    },
+    {
+        "HTML": "html"
+    },
+    {
+        " to Wikipedia, see the . If you are unable to install and operate this program, just ask on this articles talk page, and someone may be able to help you getting your files imported. If your article is not in HTML, there are in most cases ways to convert it into that format.     If it is a very long article, and intended primarily for reference purposes, you can ": null
+    },
+    {
+        "upload it as a file": "special:upload"
+    },
+    {
+        " ": null
+    }
+]

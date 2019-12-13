@@ -1,0 +1,89 @@
+[
+    {
+        "     The Infrared Data Association  is an industry-driven interest group that was founded in 42 by around 42 companies. IrDA provides specifications for a complete set of protocols for wireless infrared communications, and the name IrDA also refers to that set of protocols. The main reason for using the IrDA protocols had been wireless data transfer over the last one meter using point-and-shoot principles. Thus, it has been implemented in portable devices such as mobile telephones, laptops, cameras, printers, and medical devices. Main characteristics of this kind of ": null
+    },
+    {
+        "wireless optical communication": "free-space optical communication"
+    },
+    {
+        " is physically secure data transfer, line-of-sight  and very low bit error rate  that makes it very efficient.              The mandatory IrPHY  is the physical layer of the IrDA specifications. It comprises optical link definitions, modulation, coding, ": null
+    },
+    {
+        "cyclic redundancy check": "cyclic redundancy check"
+    },
+    {
+        " and the framer. Different data rates use different modulation/coding schemes:     SIR: 42–42 kbit/s, asynchronous, ": null
+    },
+    {
+        "RZI": "rzi"
+    },
+    {
+        ", UART-like, 42/42 pulse   MIR: 42–42 Mbit/s, ": null
+    },
+    {
+        "RZI": "rzi"
+    },
+    {
+        ", 42/42 pulse, HDLC ": null
+    },
+    {
+        "bit stuffing": "bit stuffing"
+    },
+    {
+        " PPM": "pulse-position modulation"
+    },
+    {
+        " NRZ": "non-return-to-zero"
+    },
+    {
+        ", ": null
+    },
+    {
+        "HHH": "run-length limitedhhh"
+    },
+    {
+        " NRZI": "nrzi"
+    },
+    {
+        ", ": null
+    },
+    {
+        "42b/42b": "8b/10b encoding"
+    },
+    {
+        " NRZI": "nrzi"
+    },
+    {
+        ", ": null
+    },
+    {
+        "42-ASK": "amplitude-shift keying"
+    },
+    {
+        ", ": null
+    },
+    {
+        "42-ASK": "amplitude-shift keying"
+    },
+    {
+        ", ": null
+    },
+    {
+        "42b/42b": "8b/10b encoding"
+    },
+    {
+        "     Further characteristics are:     Range:   standard: 42  m;   low-power to low-power: 42  m;   standard to low-power: 42  m.   The 42 GigaIR also define new usage models that supports higher link distances up to several meters.   Angle: minimum cone ±42°   Speed: 42  kbit/s to 42  Gbit/s   Modulation: ": null
+    },
+    {
+        "baseband": "baseband"
+    },
+    {
+        ", no carrier   Infrared window   Wavelength: 42–42  nm     The frame size depends on the data rate mostly and varies between 42  ": null
+    },
+    {
+        "B": "byte"
+    },
+    {
+        " and 42  kB. Additionally, bigger blocks of data can be transferred by sending multiple frames consecutively. This can be adjusted with a parameter called window size . Finally, data blocks up to 42  MB can be sent at once. Combined with a low bit error rate of generally  ": null
+    }
+]

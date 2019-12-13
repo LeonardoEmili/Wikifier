@@ -1,0 +1,92 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "axiomatic set theory": "axiomatic set theory"
+    },
+    {
+        ", the axiom of union is one of the ": null
+    },
+    {
+        "axiom": "axiom"
+    },
+    {
+        "s of ": null
+    },
+    {
+        "Zermelo–Fraenkel set theory": "zermelo–fraenkel set theory"
+    },
+    {
+        ". This axiom was introduced by ": null
+    },
+    {
+        "Ernst Zermelo": "ernst zermelo"
+    },
+    {
+        " .     The axiom states that for each set x there is a set y whose elements are precisely the elements of the elements of x.       In the ": null
+    },
+    {
+        "formal language": "formal language"
+    },
+    {
+        " of the Zermelo–Fraenkel axioms, the axiom reads:   : \\forall A\\, \\exists B\\, \\forall c\\,   or in words:   :": null
+    },
+    {
+        "Given any": "given any"
+    },
+    {
+        " set": "set"
+    },
+    {
+        " A, ": null
+    },
+    {
+        "there is": "existential quantification"
+    },
+    {
+        " a set B such that, for any element c, c is a member of B ": null
+    },
+    {
+        "if and only if": "if and only if"
+    },
+    {
+        " there is a set D such that c is a member of D ": null
+    },
+    {
+        "and": "logical conjunction"
+    },
+    {
+        " D is a member of A.   or, more simply:   :For any set A , there is a set \\bigcup A\\ which consists of just the elements of the elements of that set A .         The axiom of union allows one to unpack a set of sets and thus create a flatter set.   Together with the ": null
+    },
+    {
+        "axiom of pairing": "axiom of pairing"
+    },
+    {
+        ", this implies that for any two sets, there is a set  that contains exactly the elements of the two sets.         The axiom of replacement allows one to form many unions, such as the union of two sets.     However, in its full generality, the axiom of union is independent from the rest of the ZFC-axioms:   Replacement does not prove the existence of the union of a set of sets if the result contains an unbounded number of cardinalities.     Together with the ": null
+    },
+    {
+        "axiom schema of replacement": "axiom schema of replacement"
+    },
+    {
+        ", the axiom of union implies that one can form the union of a family of sets indexed by a set.         In the context of set theories which include the axiom of separation, the axiom of union is sometimes stated in a weaker form which only produces a ": null
+    },
+    {
+        "superset": "superset"
+    },
+    {
+        " of the union of a set. For example, Kunen states the axiom as   : \\forall \\mathcal \\,\\exists A \\, \\forall Y\\, \\forall x   which is equivalent to   : \\forall \\mathcal \\,\\exists A \\forall x \\Rightarrow x \\in A.   Compared to the axiom stated at the top of this section, this variation asserts only one direction of the implication, rather than both directions.         There is no corresponding axiom of ": null
+    },
+    {
+        "intersection": "intersection"
+    },
+    {
+        ". If A is a nonempty set containing E , it is possible to form the intersection \\bigcap A using the ": null
+    },
+    {
+        "axiom schema of specification": "axiom schema of specification"
+    },
+    {
+        " as   : \\bigcap A \\ ,   so no separate axiom of intersection is necessary. ": null
+    }
+]

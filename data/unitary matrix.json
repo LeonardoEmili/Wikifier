@@ -1,0 +1,185 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "complex": "complex number"
+    },
+    {
+        " square": "matrix square matrices"
+    },
+    {
+        " matrix": "matrix"
+    },
+    {
+        "  is unitary if its ": null
+    },
+    {
+        "conjugate transpose": "conjugate transpose"
+    },
+    {
+        "  is also its ": null
+    },
+    {
+        "inverse": "inverse matrix"
+    },
+    {
+        "—that is, if     :: U^ U UU^ I ,     where  is the ": null
+    },
+    {
+        "identity matrix": "identity matrix"
+    },
+    {
+        ".     In physics, especially in quantum mechanics, the ": null
+    },
+    {
+        "Hermitian conjugate": "hermitian conjugate"
+    },
+    {
+        " of a matrix is denoted by a ": null
+    },
+    {
+        "dagger": "dagger"
+    },
+    {
+        "  and the equation above becomes     :: U^\\dagger U UU^\\dagger I .     The real analogue of a unitary matrix is an ": null
+    },
+    {
+        "orthogonal matrix": "orthogonal matrix"
+    },
+    {
+        ". Unitary matrices have significant importance in quantum mechanics because they preserve ": null
+    },
+    {
+        "norms": "norm"
+    },
+    {
+        ", and thus, ": null
+    },
+    {
+        "probability amplitude": "probability amplitude"
+    },
+    {
+        "s.       For any unitary matrix  of finite size, the following hold:   Given two complex vectors  and , multiplication by  preserves their ": null
+    },
+    {
+        "inner product": "inner product"
+    },
+    {
+        "; that is, .    is ": null
+    },
+    {
+        "normal": "normal matrix"
+    },
+    {
+        ".    is ": null
+    },
+    {
+        "diagonalizable": "diagonalizable matrix"
+    },
+    {
+        "; that is,  is ": null
+    },
+    {
+        "unitarily similar": "similar matrix"
+    },
+    {
+        " to a diagonal matrix, as a consequence of the ": null
+    },
+    {
+        "spectral theorem": "spectral theorem"
+    },
+    {
+        ". Thus,  has a decomposition of the form   :: U VDV^,   : where  is unitary, and  is diagonal and unitary.   \\left|\\operatorname\\right| 42 .   Its ": null
+    },
+    {
+        "eigenspaces": "eigenvectoreigenspaces of a matrix"
+    },
+    {
+        " are orthogonal.    can be written as      , where  indicates ": null
+    },
+    {
+        "matrix exponential": "matrix exponential"
+    },
+    {
+        ",  is the imaginary unit, and  is a ": null
+    },
+    {
+        "Hermitian matrix": "hermitian matrix"
+    },
+    {
+        ".     For any nonnegative ": null
+    },
+    {
+        "integer": "integer"
+    },
+    {
+        " n, the set of all n × n unitary matrices with matrix multiplication forms a ": null
+    },
+    {
+        "group": "group"
+    },
+    {
+        ", called the ": null
+    },
+    {
+        "unitary group": "unitary group"
+    },
+    {
+        " U.     Any square matrix with unit Euclidean norm is the average of two unitary matrices.        If U is a square, complex matrix, then the following conditions are equivalent:   U is unitary.   U ∗ is unitary.   U is invertible with .   The columns of U form an ": null
+    },
+    {
+        "orthonormal basis": "orthonormal basis"
+    },
+    {
+        " of \\mathbb^n with respect to the usual inner product.   The rows of U form an orthonormal basis of \\mathbb^n with respect to the usual inner product.   U is an ": null
+    },
+    {
+        "isometry": "isometry"
+    },
+    {
+        " with respect to the usual norm.   U is a ": null
+    },
+    {
+        "normal matrix": "normal matrix"
+    },
+    {
+        " with ": null
+    },
+    {
+        "eigenvalues": "eigenvalues"
+    },
+    {
+        " lying on the ": null
+    },
+    {
+        "unit circle": "unit circle"
+    },
+    {
+        ".           The general expression of a  unitary matrix is:     : U   \\begin   a & b \\\\   -e^ b^ & e^ a^ \\\\   \\end,\\qquad \\left| a \\right| ^42 + \\left| b \\right| ^42 42 ,     which depends on 42 real parameters . The ": null
+    },
+    {
+        "determinant": "determinant"
+    },
+    {
+        " of such a matrix is:   :   \\dete^ .       The sub-group of those elements U with \\det 42 is called the ": null
+    },
+    {
+        "special unitary group": "special unitary groupn  2"
+    },
+    {
+        " SU.     The matrix  can also be written in this alternative form:   : U   e^\\begin   e^ \\cos \\theta & e^ \\sin \\theta \\\\   -e^ \\sin \\theta & e^ \\cos \\theta \\\\   \\end ,     which, by introducing  and , takes the following factorization:     : U   e^\\begin   e^ & 42 \\\\   42 & e^   \\end   \\begin   \\cos \\theta & \\sin \\theta \\\\   -\\sin \\theta & \\cos \\theta \\\\   \\end   \\begin   e^ & 42 \\\\   42 & e^   \\end .       This expression highlights the relation between  unitary matrices and  ": null
+    },
+    {
+        "orthogonal matrices": "orthogonal matrix"
+    },
+    {
+        " of angle .     Another factorization introduced in ": null
+    }
+]

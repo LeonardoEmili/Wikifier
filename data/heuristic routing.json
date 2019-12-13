@@ -1,0 +1,101 @@
+[
+    {
+        "Heuristic routing is a system used to describe how deliveries are made when problems in a ": null
+    },
+    {
+        "network topology": "network topology"
+    },
+    {
+        " arise. ": null
+    },
+    {
+        "Heuristic": "heuristic"
+    },
+    {
+        " is an adjective used in relation to methods of learning, discovery, or problem solving. ": null
+    },
+    {
+        "Routing": "routing"
+    },
+    {
+        " is the process of selecting paths to specific destinations. Heuristic routing is used for traffic in the ": null
+    },
+    {
+        "telecommunications network": "telecommunications network"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "transport network": "transport network"
+    },
+    {
+        "s of the world.     Heuristic routing is achieved using specific ": null
+    },
+    {
+        "algorithm": "algorithm"
+    },
+    {
+        "s to determine a better, although not always optimal, path to a destination. When an interruption in a network topology occurs, the software running on the networking electronics can calculate another route to the desired destination via an alternate available path.     According to :   The heuristic approach to problem solving consists of applying human intelligence, experience, common sense and certain rules of thumb to develop an acceptable, but not necessarily an optimum, solution to a problem. Of course, determining what constitutes an acceptable solution is part of the task of deciding which approach to use; but broadly defined, an acceptable solution is one that is both reasonably good and derived within reasonable effort, time, and cost constraints. Often the effort required, the time limits on when the solution is needed, and the cost to compile, process, and analyze all the data required for deterministic or other complicated procedures preclude their usefulness or favor the faster, simpler heuristic approach. Thus, the heuristic approach is generally used when deterministic techniques or are not available, economical, or practical.     Heuristic routing allows a measure of route optimization in telecommunications networks based on recent empirical knowledge of the state of the network. Data, such as ": null
+    },
+    {
+        "time": "time"
+    },
+    {
+        " delay": "network delay"
+    },
+    {
+        ", may be extracted from incoming messages, during specified periods and over different routes, and used to determine the optimum routing for transmitting data back to the sources.          The ": null
+    },
+    {
+        "IP routing": "ip routing"
+    },
+    {
+        " protocols in use today are based on one of two algorithms: distance vector or link state. Distance vector algorithms broadcast routing information to all neighboring routers. Link state routing protocols build a topographical map of the entire network based on updates from neighbor routers, and then use the ": null
+    },
+    {
+        "Dijkstra algorithm": "dijkstra algorithm"
+    },
+    {
+        " to compute the shortest path to each destination. Metrics used are based on the number of hops, delay, throughput, traffic, and reliability.       ": null
+    },
+    {
+        "RIP": "routing information protocol"
+    },
+    {
+        " uses number of hops, or gateways traversed, as its metric   ": null
+    },
+    {
+        "IGRP": "igrp"
+    },
+    {
+        " uses bandwidth, delay, hop count, link reliability, load, and ": null
+    },
+    {
+        "MTU": "maximum transmission unit"
+    },
+    {
+        " EIGRP": "eigrp"
+    },
+    {
+        " uses the ": null
+    },
+    {
+        "Diffusing Update Algorithm": "diffusing update algorithm"
+    },
+    {
+        " BGP": "bgp"
+    },
+    {
+        " uses the distance vector algorithm       ": null
+    },
+    {
+        "OSPF": "ospf"
+    },
+    {
+        " uses the ": null
+    },
+    {
+        "Dijkstra algorithm": "dijkstra algorithm"
+    }
+]

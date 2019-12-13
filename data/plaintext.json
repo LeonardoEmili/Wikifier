@@ -1,0 +1,164 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "cryptography": "cryptography"
+    },
+    {
+        ", plaintext usually means unencrypted information pending input into cryptographic algorithms, usually ": null
+    },
+    {
+        "encryption": "encryption"
+    },
+    {
+        " algorithms. Cleartext usually refers to data that is transmitted or stored unencrypted .       With the advent of ": null
+    },
+    {
+        "computing": "computing"
+    },
+    {
+        ", the term plaintext expanded beyond human-readable documents to mean any data, including binary files, in a form that can be viewed or used without requiring a key or other decryption device. Information—a message, document, file, etc.—if to be communicated or stored in encrypted form is referred to as plaintext.     Plaintext is used as input to an ": null
+    },
+    {
+        "encryption algorithm": "encryption algorithm"
+    },
+    {
+        "; the output is usually termed ": null
+    },
+    {
+        "ciphertext": "ciphertext"
+    },
+    {
+        ", particularly when the algorithm is a ": null
+    },
+    {
+        "cipher": "cipher"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Codetext": "codetext"
+    },
+    {
+        " is less often used, and almost always only when the algorithm involved is actually a ": null
+    },
+    {
+        "code": "code"
+    },
+    {
+        ". Some systems use multiple layers of ": null
+    },
+    {
+        "encryption": "encryption"
+    },
+    {
+        ", with the output of one encryption algorithm becoming plaintext input for the next.       Insecure handling of plaintext can introduce weaknesses into a ": null
+    },
+    {
+        "cryptosystem": "cryptosystem"
+    },
+    {
+        " by letting an attacker bypass the cryptography altogether. Plaintext is vulnerable in use and in storage, whether in electronic or paper format.  Physical security  means the securing of information and its storage media from physical, attack—for instance by someone entering a building to access papers, storage media, or computers. Discarded material, if not disposed of securely, may be a security risk. Even ": null
+    },
+    {
+        "shredded": "paper shredder"
+    },
+    {
+        " documents and erased magnetic media might be reconstructed with sufficient effort.     If plaintext is stored in a ": null
+    },
+    {
+        "computer file": "computer file"
+    },
+    {
+        ", the storage media, the computer and its components, and all backups must be secure. Sensitive data is sometimes processed on computers whose mass storage is removable, in which case physical security of the removed disk is vital. In the case of securing a computer, useful  security must be physical , as well as virtual . Wide availability of ": null
+    },
+    {
+        "keydrives": "keydrives"
+    },
+    {
+        ", which can plug into most modern computers and store large quantities of data, poses another severe security headache. A spy could easily conceal one, and even swallow it if necessary.     ": null
+    },
+    {
+        "Discarded computers": "discarded computers"
+    },
+    {
+        ", disk drives and media are also a potential source of plaintexts. Most operating systems do not actually erase anything & mdash; they simply mark the disk space occupied by a deleted file as available for use, and remove its entry from the file system ": null
+    },
+    {
+        "directory": "directory"
+    },
+    {
+        ". The information in a file deleted in this way remains fully present until overwritten at some later time when the operating system reuses the disk space. With even low-end computers commonly sold with many gigabytes of disk space and rising monthly, this later time may be months later, or never. Even overwriting the portion of a disk surface occupied by a deleted file is insufficient in many cases. ": null
+    },
+    {
+        "Peter Gutmann": "peter gutmann"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "University of Auckland": "university of auckland"
+    },
+    {
+        " wrote a celebrated 42 paper on the recovery of overwritten information from magnetic disks; areal storage densities have gotten much higher since then, so this sort of recovery is likely to be more difficult than it was when Gutmann wrote.     Modern hard drives automatically remap failing sectors, moving data to good sectors. This process makes information on those failing, excluded sectors invisible to the file system and normal applications. Special software, however, can still extract information from them.     Some government agencies  require that personnel physically pulverize discarded disk drives and, in some cases, treat them with chemical corrosives. This practice is not widespread outside government, however. Garfinkel and Shelat analyzed 42 second-hand hard drives they acquired at garage sales and the like, and found that less than 42% had been sufficiently sanitized. The others contained a wide variety of readable personal and confidential information. See ": null
+    },
+    {
+        "data remanence": "data remanence"
+    },
+    {
+        ".     Physical loss is a serious problem. The ": null
+    },
+    {
+        "US State Department": "us state department"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Department of Defense": "us department of defense"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "British Secret Service": "british secret service"
+    },
+    {
+        " have all had laptops with secret information, including in plaintext, lost or stolen. Appropriate ": null
+    },
+    {
+        "disk encryption": "disk encryption"
+    },
+    {
+        " techniques can safeguard data on misappropriated computers or media.     On occasion, even when data on host systems is encrypted, media that personnel use to transfer data between systems is plaintext because of poorly designed data policy. For example, in October 42 ": null
+    },
+    {
+        "HM Revenue and Customs lost CDs": "loss of united kingdom child benefit data"
+    },
+    {
+        " that contained the unencrypted records of 42 million child benefit recipients in the United Kingdom.     Modern cryptographic systems resist ": null
+    },
+    {
+        "known plaintext": "known plaintext"
+    },
+    {
+        " or even ": null
+    },
+    {
+        "chosen plaintext": "chosen plaintext"
+    },
+    {
+        " attacks, and so may not be entirely compromised when plaintext is lost or stolen. Older systems resisted the effects of plaintext data loss on security with less effective techniques—such as ": null
+    },
+    {
+        "padding": "padding"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Russian copulation": "russian copulation"
+    }
+]

@@ -1,0 +1,173 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a partition of unity of a ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        " X is a set R of ": null
+    },
+    {
+        "continuous function": "continuous function"
+    },
+    {
+        "s from X to the ": null
+    },
+    {
+        "unit interval": "unit interval"
+    },
+    {
+        " such that for every point, x\\in X ,   there is a ": null
+    },
+    {
+        "neighbourhood": "neighbourhood"
+    },
+    {
+        " of x where all but a ": null
+    },
+    {
+        "finite": "finite set"
+    },
+    {
+        " number of the functions of R are 42 and   the sum of all the function values at x is 42 i.e., \\;\\sum_ \\rho 42 .        Partitions of unity are useful because they often allow one to extend local constructions to the whole space. They are also important in the ": null
+    },
+    {
+        "interpolation": "interpolation"
+    },
+    {
+        " of data, in ": null
+    },
+    {
+        "signal processing": "signal processing"
+    },
+    {
+        ", and the theory of ": null
+    },
+    {
+        "spline function": "spline function"
+    },
+    {
+        "s.       The existence of partitions of unity assumes two distinct forms:     Given any ": null
+    },
+    {
+        "open cover": "open cover"
+    },
+    {
+        "  i∈I of a space, there exists a partition  i∈I indexed over the same set I such that ": null
+    },
+    {
+        "supp": "support"
+    },
+    {
+        " ρ i ⊆U i . Such a partition is said to be subordinate to the open cover  i .   If the space is locally-compact, given any open cover  i∈I of a space, there exists a partition  j∈J indexed over a possibly distinct index set J such that each ρ j has ": null
+    },
+    {
+        "compact support": "compact support"
+    },
+    {
+        " and for each j∈J, supp ρ j ⊆U i for some i∈I.     Thus one chooses either to have the ": null
+    },
+    {
+        "supports": "support"
+    },
+    {
+        " indexed by the open cover, or compact supports. If the space is ": null
+    },
+    {
+        "compact": "compact space"
+    },
+    {
+        ", then there exist partitions satisfying both requirements.     A finite open cover always has a continuous partition of unity subordinated to it, provided the space is locally compact and Hausdorff.    ": null
+    },
+    {
+        "Paracompactness": "paracompact space"
+    },
+    {
+        " of the space is a necessary condition to guarantee the existence of a partition of unity ": null
+    },
+    {
+        "subordinate to any open cover": "paracompact space"
+    },
+    {
+        ". Depending on the ": null
+    },
+    {
+        "category": "category"
+    },
+    {
+        " to which the space belongs, it may also be a sufficient condition.  The construction uses ": null
+    },
+    {
+        "mollifier": "mollifier"
+    },
+    {
+        "s , which exist in continuous and ": null
+    },
+    {
+        "smooth manifolds": "smooth manifolds"
+    },
+    {
+        ", but not in ": null
+    },
+    {
+        "analytic manifold": "analytic manifold"
+    },
+    {
+        "s. Thus for an open cover of an analytic manifold, an analytic partition of unity subordinate to that open cover generally does not exist. See ": null
+    },
+    {
+        "analytic continuation": "analytic continuation"
+    },
+    {
+        ".     If R and S are partitions of unity for spaces X and Y, respectively, then the set of all pairwise products \\ is a partition of unity for the ": null
+    },
+    {
+        "cartesian product": "cartesian product"
+    },
+    {
+        " space X×Y.       We can construct a partition of unity on S^42 by looking at a chart on the complement of a point p \\in S^42 sending S^42 -\\ to \\mathbb with center q \\in S^42 . Now, let \\Phi be a ": null
+    },
+    {
+        "bump function": "bump function"
+    },
+    {
+        " on \\mathbb defined by \\Phi \\begin   \\exp\\left & x \\in \\\\   42 & \\text   \\end then, both this function and 42 - \\Phi can be extended uniquely onto S^42 by setting \\Phi 42 . Then, the set \\ forms a partition of unity over S^42 .       Sometimes a less restrictive definition is used: the sum of all the function values at a particular point is only required to be positive, rather than 42 for each point in the space. However, given such a set of functions, one can obtain a partition of unity in the strict sense by dividing every function by the sum of all functions .       A partition of unity can be used to define the integral  of a function defined over a manifold: One first defines the integral of a function whose support is contained in a single coordinate patch of the manifold; then one uses a partition of unity to define the integral of an arbitrary function; finally one shows that the definition is independent of the chosen partition of unity.     A partition of unity can be used to show the existence of a ": null
+    },
+    {
+        "Riemannian metric": "riemannian metric"
+    },
+    {
+        " on an arbitrary manifold.     ": null
+    },
+    {
+        "Method of steepest descent": "method of steepest descentthe case of multiple non-degenerate saddle points"
+    },
+    {
+        " employs a partition of unity to construct asymptotics of integrals.     ": null
+    },
+    {
+        "Linkwitz–Riley filter": "linkwitz–riley filter"
+    },
+    {
+        " is an example of practical implementation of partition of unity to separate input signal into two output signals containing only high- or low-frequency components.     The ": null
+    },
+    {
+        "Bernstein polynomial": "bernstein polynomial"
+    },
+    {
+        "s of a fixed degree m are a family of m42 linearly independent polynomials that are a partition of unity for the unit interval .     Partition of unity is used to establish global smooth approximations for ": null
+    },
+    {
+        "Sobolev": "sobolev space"
+    },
+    {
+        " functions in bounded domains. ": null
+    }
+]

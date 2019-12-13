@@ -1,0 +1,101 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        "s, a channel service unit  is a ": null
+    },
+    {
+        "line": "telephone line"
+    },
+    {
+        " Bridging": "bridging"
+    },
+    {
+        " device for use with ": null
+    },
+    {
+        "T-carrier": "t-carrier"
+    },
+    {
+        " that:   is used to perform ": null
+    },
+    {
+        "loopback": "loopback"
+    },
+    {
+        " testing,   may perform ": null
+    },
+    {
+        "bit stuffing": "bit stuffing"
+    },
+    {
+        ",   may also provide a ": null
+    },
+    {
+        "framing": "framing"
+    },
+    {
+        " and formatting pattern compatible with the ": null
+    },
+    {
+        "network": "telecommunications network"
+    },
+    {
+        ",   provides a barrier for electrical interference from either side of the unit, and   is the last signal regeneration point, on the loop side, coming from the ": null
+    },
+    {
+        "central office": "telephone exchange"
+    },
+    {
+        ", before the regenerated signal reaches a ": null
+    },
+    {
+        "multiplexer": "multiplexer"
+    },
+    {
+        " or ": null
+    },
+    {
+        "data terminal equipment": "data terminal equipment"
+    },
+    {
+        " .       CSUs can be categorized by the class of service they support  and by the capabilities within that class. For example, basic DS42 CSUs support loopback of each interface and will produce ": null
+    },
+    {
+        "Alarm indication signal": "alarm indication signal"
+    },
+    {
+        " to the providers ": null
+    },
+    {
+        "NIU": "network interface unit"
+    },
+    {
+        " in the event of loss of signal from the ": null
+    },
+    {
+        "customer-premises equipment": "customer-premises equipment"
+    },
+    {
+        " . More advanced units will include internal monitors of the performance of the carrier in both directions and may have test pattern generation and monitor capabilities.       CSUs are required by ": null
+    },
+    {
+        "PSTN": "pstn"
+    },
+    {
+        " providers at digital interfaces that terminate in a ": null
+    },
+    {
+        "DSU": "data service unit"
+    },
+    {
+        " on the customer side. They are not used when the service terminates in a modem, such as the ": null
+    },
+    {
+        "DSL": "digital subscriber line"
+    }
+]

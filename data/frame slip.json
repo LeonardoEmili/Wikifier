@@ -1,0 +1,44 @@
+[
+    {
+        "In the reception of framed ": null
+    },
+    {
+        "data": "data"
+    },
+    {
+        ", a frame slip is the loss of ": null
+    },
+    {
+        "synchronization": "synchronization"
+    },
+    {
+        " between a received ": null
+    },
+    {
+        "frame": "frame"
+    },
+    {
+        " and the receiver ": null
+    },
+    {
+        "clock signal": "clock signal"
+    },
+    {
+        ", causing a frame misalignment ": null
+    },
+    {
+        "event": "event-driven programming"
+    },
+    {
+        ", and resulting in the loss of the data contained in the received frame.     A frame ": null
+    },
+    {
+        "slip": "slip"
+    },
+    {
+        " should not be confused with a dropped frame where synchronization is not lost, as in the case of ": null
+    },
+    {
+        "buffer overflow": "buffer overflow"
+    }
+]

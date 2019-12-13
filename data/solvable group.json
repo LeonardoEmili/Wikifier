@@ -1,0 +1,242 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", more specifically in the field of ": null
+    },
+    {
+        "group theory": "group theory"
+    },
+    {
+        ", a solvable group or soluble group is a group that can be constructed from ": null
+    },
+    {
+        "abelian group": "abelian group"
+    },
+    {
+        "s using ": null
+    },
+    {
+        "extensions": "group extension"
+    },
+    {
+        ". Equivalently, a solvable group is a group whose ": null
+    },
+    {
+        "derived series": "derived series"
+    },
+    {
+        " terminates in the ": null
+    },
+    {
+        "trivial subgroup": "trivial subgroup"
+    },
+    {
+        ".     Historically, the word solvable arose from ": null
+    },
+    {
+        "Galois theory": "galois theory"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "proof": "mathematical proof"
+    },
+    {
+        " of the general unsolvability of ": null
+    },
+    {
+        "quintic": "quintic"
+    },
+    {
+        " equation. Specifically, a ": null
+    },
+    {
+        "polynomial equation": "polynomial equation"
+    },
+    {
+        " is solvable by ": null
+    },
+    {
+        "radicals": "nth root"
+    },
+    {
+        " if and only if the corresponding ": null
+    },
+    {
+        "Galois group": "galois group"
+    },
+    {
+        " is solvable.       A group G is called solvable if it has a ": null
+    },
+    {
+        "subnormal series": "subnormal series"
+    },
+    {
+        " whose ": null
+    },
+    {
+        "factor group": "factor group"
+    },
+    {
+        "s are all ": null
+    },
+    {
+        "abelian": "abelian group"
+    },
+    {
+        ", that is, if there are subgroups 42 G 42  42 there are ": null
+    },
+    {
+        "polynomial": "polynomial"
+    },
+    {
+        "s of degree n which are not solvable by radicals . This property is also used in complexity theory in the proof of ": null
+    },
+    {
+        "Barringtons theorem": "nc"
+    },
+    {
+        ".     The celebrated ": null
+    },
+    {
+        "Feit–Thompson theorem": "feit–thompson theorem"
+    },
+    {
+        " states that every finite group of odd order is solvable. In particular this implies that if a finite group is simple, it is either a prime cyclic or of even order.     Any finite group whose ": null
+    },
+    {
+        "p-Sylow subgroups": "sylow group"
+    },
+    {
+        " are cyclic is a ": null
+    },
+    {
+        "semidirect product": "semidirect product"
+    },
+    {
+        " of two cyclic groups, in particular solvable. Such groups are called ": null
+    },
+    {
+        "Z-group": "z-group"
+    },
+    {
+        "s.     Numbers of solvable groups with order n are    :42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 ...      Orders of non-solvable groups are   :42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 ...          Solvability is closed under a number of operations.     If G is solvable, and there is a ": null
+    },
+    {
+        "homomorphism": "group homomorphism"
+    },
+    {
+        " from G ": null
+    },
+    {
+        "onto": "surjective"
+    },
+    {
+        " H, then H is solvable; equivalently , if G is solvable, and N is a normal subgroup of G, then G/N is solvable. Rotman ,    The previous property can be expanded into the following property: G is solvable if and only if both N and G/N are solvable.   If G is solvable, and H is a subgroup of G, then H is solvable. Rotman ,    If G and H are solvable, the ": null
+    },
+    {
+        "direct product": "direct product of groups"
+    },
+    {
+        " G & times; H is solvable.     Solvability is closed under ": null
+    },
+    {
+        "group extension": "group extension"
+    },
+    {
+        ":   If H and G/H are solvable, then so is G; in particular, if N and H are solvable, their ": null
+    },
+    {
+        "semidirect product": "semidirect product"
+    },
+    {
+        " is also solvable.     It is also closed under wreath product:   If G and H are solvable, and X is a G-set, then the ": null
+    },
+    {
+        "wreath product": "wreath product"
+    },
+    {
+        " of G and H with respect to X is also solvable.     For any positive integer N, the solvable groups of ": null
+    },
+    {
+        "derived length": "derived length"
+    },
+    {
+        " at most N form a ": null
+    },
+    {
+        "subvariety": "variety"
+    },
+    {
+        " of the variety of groups, as they are closed under the taking of ": null
+    },
+    {
+        "homomorphic": "homomorphism"
+    },
+    {
+        " images, ": null
+    },
+    {
+        "subalgebra": "subalgebra"
+    },
+    {
+        "s, and ": null
+    },
+    {
+        " products": "direct product of groups"
+    },
+    {
+        ". The direct product of a sequence of solvable groups with unbounded derived length is not solvable, so the class of all solvable groups is not a variety.          Burnsides theorem states that if G is a ": null
+    },
+    {
+        "finite group": "finite group"
+    },
+    {
+        " of ": null
+    },
+    {
+        "order": "order"
+    },
+    {
+        " p a q b  where p and q are ": null
+    },
+    {
+        "prime number": "prime number"
+    },
+    {
+        "s, and a and b are ": null
+    },
+    {
+        "non-negative": "negative and positive numbers"
+    },
+    {
+        " integer": "integer"
+    },
+    {
+        "s, then G is solvable.              As a strengthening of solvability, a group G is called supersolvable  if it has an invariant normal series whose factors are all cyclic. Since a normal series has finite length by definition, ": null
+    },
+    {
+        "uncountable": "uncountable"
+    },
+    {
+        " groups are not supersolvable. In fact, all supersolvable groups are ": null
+    },
+    {
+        "finitely generated": "finitely generated group"
+    },
+    {
+        ", and an abelian group is supersolvable if and only if it is finitely generated. The alternating group A 42 is an example of a finite solvable group that is not supersolvable.     If we restrict ourselves to finitely generated groups, we can consider the following arrangement of classes of groups:     :": null
+    },
+    {
+        "cyclic": "cyclic group"
+    },
+    {
+        " ": null
+    }
+]

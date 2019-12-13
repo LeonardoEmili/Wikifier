@@ -1,0 +1,62 @@
+[
+    {
+        "In communications messages, a date-time group  is a set of characters, usually in a prescribed format, used to express the year, the month, the day of the month, the hour of the day, the minute of the hour, and the ": null
+    },
+    {
+        "time zone": "time zone"
+    },
+    {
+        ", if different from ": null
+    },
+    {
+        "Coordinated Universal Time": "coordinated universal time"
+    },
+    {
+        " . The order in which these elements are presented may vary. The DTG is usually placed in the ": null
+    },
+    {
+        "header": "header"
+    },
+    {
+        " of the message. One example is  .     The DTG may indicate either the ": null
+    },
+    {
+        "date": "calendar date"
+    },
+    {
+        " and time a message was dispatched by a transmitting station or the date and time it was handed into a ": null
+    },
+    {
+        "transmission": "transmission"
+    },
+    {
+        " facility": "facility"
+    },
+    {
+        " by a ": null
+    },
+    {
+        "user": "user"
+    },
+    {
+        " or originator for dispatch.     The DTG may be used as a message ": null
+    },
+    {
+        "identifier": "identifier"
+    },
+    {
+        " if it is unique for each message.         A form of DTG is used in the ": null
+    },
+    {
+        "US Military": "us military"
+    },
+    {
+        "s ": null
+    },
+    {
+        "message traffic": "defense message system"
+    },
+    {
+        " . In US military messages and communications the format is DD HHMMZ MON YY. Although occasionally seen with spaces, it can also be written as a single string of characters.     Example 42:  represents 42 42:42 Jul 42 .     Example 42:  represents ": null
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "parabolic antenna": "parabolic antenna"
+    },
+    {
+        "s such as ": null
+    },
+    {
+        "satellite dish": "satellite dish"
+    },
+    {
+        "es, a feed horn  is a small ": null
+    },
+    {
+        "horn antenna": "horn antenna"
+    },
+    {
+        " used to convey ": null
+    },
+    {
+        "radio wave": "radio wave"
+    },
+    {
+        "s between the ": null
+    },
+    {
+        "transmitter": "transmitter"
+    },
+    {
+        " and/or ": null
+    },
+    {
+        "receiver": "receiver"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "parabolic reflector": "parabolic reflector"
+    },
+    {
+        ". In transmitting antennas, it is connected to the ": null
+    },
+    {
+        "transmitter": "transmitter"
+    },
+    {
+        " and converts the ": null
+    },
+    {
+        "radio frequency": "radio frequency"
+    },
+    {
+        " alternating current": "alternating current"
+    },
+    {
+        " from the transmitter to ": null
+    },
+    {
+        "radio wave": "radio wave"
+    },
+    {
+        "s and feeds them to the rest of the antenna, which focuses them into a beam. In receiving antennas, incoming radio waves are gathered and focused by the antennas reflector on the feed horn, which converts them to a tiny radio frequency voltage which is amplified by the ": null
+    },
+    {
+        "receiver": "radio receiver"
+    },
+    {
+        ". Feed horns are used mainly at ": null
+    },
+    {
+        "microwave": "microwave"
+    },
+    {
+        "  and higher ": null
+    },
+    {
+        "frequencies": "frequency"
+    },
+    {
+        ".     The feedhorn also selects the ": null
+    },
+    {
+        "polarization": "polarization"
+    },
+    {
+        " of the waves to be received, which helps to ": null
+    },
+    {
+        "attenuate": "attenuate"
+    },
+    {
+        " unwanted ": null
+    },
+    {
+        "signal": "signalling"
+    },
+    {
+        "s from ": null
+    },
+    {
+        "adjacent channel": "adjacent channel"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "transponder": "transponder"
+    },
+    {
+        "s, and from other ": null
+    },
+    {
+        "communications satellite": "communications satellite"
+    },
+    {
+        "s at nearby ": null
+    },
+    {
+        "orbital position": "orbital position"
+    },
+    {
+        "s. This can be either ": null
+    },
+    {
+        "horizontal": "horizontal plane"
+    },
+    {
+        " or ": null
+    },
+    {
+        "vertical": "vertical direction"
+    },
+    {
+        " if the polarization is ": null
+    },
+    {
+        "linear": "linear polarization"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "clockwise": "clockwise and counterclockwise"
+    },
+    {
+        " or counterclockwise if it is ": null
+    },
+    {
+        "circular": "circular polarization"
+    },
+    {
+        ". Certain devices can also allow a feedhorn to accept both linear and circular, though these cause a slight ": null
+    },
+    {
+        "insertion loss": "insertion loss"
+    },
+    {
+        " to all incoming signals.     When used with a ": null
+    },
+    {
+        "parabolic reflector": "parabolic reflector"
+    },
+    {
+        " or ": null
+    },
+    {
+        "lens antenna": "lens antenna"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "phase center": "phase center"
+    },
+    {
+        " of the horn is usually placed at the ": null
+    },
+    {
+        "focal point": "focus"
+    },
+    {
+        " of the reflector, with the  of the horns ": null
+    },
+    {
+        "radiation pattern": "radiation pattern"
+    },
+    {
+        " set to be at the edge of the reflector. On a satellite dish, the feedhorn is what is mounted at the end of a ": null
+    },
+    {
+        "mast": "radio masts and towers"
+    },
+    {
+        " from the center of the dish, or on ": null
+    },
+    {
+        "tripod": "tripod"
+    },
+    {
+        " legs mounted to the edge of the dish.     In satellite dishes, part of the receiver electronics, the  RF front end , is usually mounted in a box just behind the feed horn. This converts the high satellite microwave downlink frequencies to a lower frequency so it can be more easily sent through the ": null
+    },
+    {
+        "coaxial cable": "coaxial cable"
+    },
+    {
+        " feedline": "feedline"
+    },
+    {
+        " to the receiver inside the building. This is called the ": null
+    },
+    {
+        "low-noise block downconverter": "low-noise blockconverter"
+    },
+    {
+        " , and the unit consisting of the horn plus the converter is called the ": null
+    },
+    {
+        "LNB with feedhorn": "low-noise block converterlnbfs"
+    },
+    {
+        " .        ": null
+    }
+]

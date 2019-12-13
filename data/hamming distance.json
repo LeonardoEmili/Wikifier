@@ -1,0 +1,257 @@
+[
+    {
+        "                  In ": null
+    },
+    {
+        "information theory": "information theory"
+    },
+    {
+        ", the Hamming distance between two ": null
+    },
+    {
+        "string": "string"
+    },
+    {
+        "s of equal length is the number of positions at which the corresponding ": null
+    },
+    {
+        "symbol": "symbol"
+    },
+    {
+        "s are different. In other words, it measures the minimum number of substitutions required to change one string into the other, or the minimum number of errors that could have transformed one string into the other. In a more general context, the Hamming distance is one of several ": null
+    },
+    {
+        "string metric": "string metric"
+    },
+    {
+        "s for measuring the ": null
+    },
+    {
+        "edit distance": "edit distance"
+    },
+    {
+        " between two sequences. It is named after the American mathematician ": null
+    },
+    {
+        "Richard Hamming": "richard hamming"
+    },
+    {
+        ".     A major application is in ": null
+    },
+    {
+        "coding theory": "coding theory"
+    },
+    {
+        ", more specifically to ": null
+    },
+    {
+        "block code": "block code"
+    },
+    {
+        "s, in which the equal-length strings are ": null
+    },
+    {
+        "vectors": "vector space"
+    },
+    {
+        " over a ": null
+    },
+    {
+        "finite field": "finite field"
+    },
+    {
+        ".       The Hamming distance between:    ka rol in  and  ka thr in  is 42    k a r ol in  and  k e r st in  is 42   42 42 42 42 42 and 42 42 42 42 42 is 42   42 42 42 42 42 and 42 42 42 42 42 is 42       For a fixed length n, the Hamming distance is a ": null
+    },
+    {
+        "metric": "metric"
+    },
+    {
+        " on the set of the ": null
+    },
+    {
+        "word": "word"
+    },
+    {
+        "s of length n , as it fulfills the conditions of non-negativity, ": null
+    },
+    {
+        "identity of indiscernibles": "identity of indiscernibles"
+    },
+    {
+        " and symmetry, and it can be shown by ": null
+    },
+    {
+        "complete induction": "complete induction"
+    },
+    {
+        " that it satisfies the ": null
+    },
+    {
+        "triangle inequality": "triangle inequality"
+    },
+    {
+        " as well. The Hamming distance between two words a and b can also be seen as the ": null
+    },
+    {
+        "Hamming weight": "hamming weight"
+    },
+    {
+        " of a & minus; b for an appropriate choice of the & minus; operator, much as the difference between two integers can be seen as a distance from zero on the number line.     For binary strings a and b the Hamming distance is equal to the number of ones  in a ": null
+    },
+    {
+        "XOR": "exclusive or"
+    },
+    {
+        " b. The metric space of length-n binary strings, with the Hamming distance, is known as the Hamming cube; it is equivalent as a metric space to the set of distances between vertices in a ": null
+    },
+    {
+        "hypercube graph": "hypercube graph"
+    },
+    {
+        ". One can also view a binary string of length n as a vector in \\mathbb^ by treating each symbol in the string as a real coordinate; with this embedding, the strings form the vertices of an n-dimensional ": null
+    },
+    {
+        "hypercube": "hypercube"
+    },
+    {
+        ", and the Hamming distance of the strings is equivalent to the ": null
+    },
+    {
+        "Manhattan distance": "manhattan distance"
+    },
+    {
+        " between the vertices.       The minimum Hamming distance is used to define some essential notions in ": null
+    },
+    {
+        "coding theory": "coding theory"
+    },
+    {
+        ", such as ": null
+    },
+    {
+        "error detecting and error correcting codes": "error detection and correction"
+    },
+    {
+        ". In particular, a ": null
+    },
+    {
+        "code": "code"
+    },
+    {
+        " C is said to be k error detecting if, and only if, the minimum Hamming distance between any two of its codewords is at least k42      A code C is said to be k-errors correcting if, for every word w in the underlying Hamming space H, there exists at most one codeword c  such that the Hamming distance between w and c is at most k. In other words, a code is k-errors correcting if, and only if, the minimum Hamming distance between any two of its codewords is at least 42k42 This is more easily understood geometrically as any ": null
+    },
+    {
+        "closed balls": "ball balls in general metric spaces"
+    },
+    {
+        " of radius k centered on distinct codewords being disjoint. These balls are also called  Hamming sphere s in this context.     Thus a code with minimum Hamming distance d between its codewords can detect at most d42 errors and can correct ⌊/42⌋ errors. The latter number is also called the  packing radius  or the error-correcting capability of the code.          The Hamming distance is named after ": null
+    },
+    {
+        "Richard Hamming": "richard hamming"
+    },
+    {
+        ", who introduced the concept in his fundamental paper on ": null
+    },
+    {
+        "Hamming code": "hamming code"
+    },
+    {
+        "s Error detecting and error correcting codes in 42  Hamming weight analysis of bits is used in several disciplines including ": null
+    },
+    {
+        "information theory": "information theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "coding theory": "coding theory"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "cryptography": "cryptography"
+    },
+    {
+        ".     It is used in ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        " to count the number of flipped bits in a fixed-length binary word as an estimate of error, and therefore is sometimes called the signal distance.  For q-ary strings over an ": null
+    },
+    {
+        "alphabet": "alphabet"
+    },
+    {
+        " of size q  ≥  42 the Hamming distance is applied in case of the ": null
+    },
+    {
+        "q-ary symmetric channel": "binary symmetric channel"
+    },
+    {
+        ", while the ": null
+    },
+    {
+        "Lee distance": "lee distance"
+    },
+    {
+        " is used for ": null
+    },
+    {
+        "phase-shift keying": "phase-shift keying"
+    },
+    {
+        " or more generally channels susceptible to ": null
+    },
+    {
+        "synchronization error": "synchronization error"
+    },
+    {
+        "s because the Lee distance accounts for errors of ±42  If q 42 or q 42 both distances coincide because any pair of elements from \\mathbb/42\\mathbb or \\mathbb/42\\mathbb differ by 42 but the distances are different for larger q .     The Hamming distance is also used in ": null
+    },
+    {
+        "systematics": "systematics"
+    },
+    {
+        " as a measure of genetic distance.      However, for comparing strings of different lengths, or strings where not just substitutions but also insertions or deletions have to be expected, a more sophisticated metric like the ": null
+    },
+    {
+        "Levenshtein distance": "levenshtein distance"
+    },
+    {
+        " is more appropriate.     In processor interconnects, the dynamic energy consumption depends on the number of transitions. With level-signaling scheme, the number of transitions depends on Hamming distance between consecutively transmitted buses.  , JSA, 42 Hence, by reducing this Hamming distance, the data-movement energy can be reduced.       The function hamming_distance , implemented in ": null
+    },
+    {
+        "Python 42+": "python"
+    },
+    {
+        ", computes the Hamming distance between   two strings  of equal length by creating a sequence of Boolean values indicating mismatches and matches between corresponding positions in the two inputs and then summing the sequence with False and True values being interpreted as zero and one.          def hamming_distance:   Return the Hamming distance between equal-length sequences.   if len ! len:   raise ValueError   return sum     where the  function merges two equal-length collections in pairs.     The following ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        " function will compute the Hamming distance of two integers . The running time of this procedure is proportional to the Hamming distance rather than to the number of bits in the inputs. It computes the ": null
+    },
+    {
+        "bitwise": "bitwise operation"
+    },
+    {
+        " exclusive or": "exclusive or"
+    },
+    {
+        " of the two inputs, and then finds the ": null
+    },
+    {
+        "Hamming weight": "hamming weight"
+    },
+    {
+        " of the result using an algorithm of  that repeatedly finds and clears the lowest-order nonzero bit. Some compilers support the ": null
+    },
+    {
+        "__builtin_popcount": "hamming weightlanguage support"
+    }
+]

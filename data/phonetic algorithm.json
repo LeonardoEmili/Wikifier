@@ -1,0 +1,140 @@
+[
+    {
+        "A phonetic algorithm is an ": null
+    },
+    {
+        "algorithm": "algorithm"
+    },
+    {
+        " for ": null
+    },
+    {
+        "indexing": "index"
+    },
+    {
+        " of ": null
+    },
+    {
+        "word": "word"
+    },
+    {
+        "s by their ": null
+    },
+    {
+        "pronunciation": "pronunciation"
+    },
+    {
+        ". Most phonetic algorithms were developed for use with the ": null
+    },
+    {
+        "English language": "english language"
+    },
+    {
+        "; consequently, applying the rules to words in other languages might not give a meaningful result.     They are necessarily complex algorithms with many rules and exceptions, because English ": null
+    },
+    {
+        "spelling": "spelling"
+    },
+    {
+        " and pronunciation is complicated by historical changes in pronunciation and words ": null
+    },
+    {
+        "borrowed": "loanword"
+    },
+    {
+        " from many ": null
+    },
+    {
+        "language": "language"
+    },
+    {
+        "s.       Among the best-known phonetic algorithms are:     ": null
+    },
+    {
+        "Soundex": "soundex"
+    },
+    {
+        ", which was developed to encode surnames for use in censuses. Soundex codes are four-character strings composed of a single letter followed by three numbers.   ": null
+    },
+    {
+        "Daitch–Mokotoff Soundex": "daitch–mokotoff soundex"
+    },
+    {
+        ", which is a refinement of Soundex designed to better match surnames of Slavic and Germanic origin. Daitch–Mokotoff Soundex codes are strings composed of six numeric digits.   ": null
+    },
+    {
+        "Cologne phonetics": "cologne phonetics"
+    },
+    {
+        ": This is similar to Soundex, but more suitable for German words.   ": null
+    },
+    {
+        "Metaphone": "metaphone"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Double Metaphone": "double metaphone"
+    },
+    {
+        ", and  which are suitable for use with most English words, not just names. Metaphone algorithms are the basis for many popular ": null
+    },
+    {
+        "spell checkers": "spell checkers"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "New York State Identification and Intelligence System": "new york state identification and intelligence system"
+    },
+    {
+        " , which maps similar ": null
+    },
+    {
+        "phonemes": "phonemes"
+    },
+    {
+        " to the same letter. The result is a string that can be pronounced by the reader without decoding.   ": null
+    },
+    {
+        "Match Rating Approach": "match rating approach"
+    },
+    {
+        " developed by Western Airlines in 42 - this algorithm has an encoding and range comparison technique.   ": null
+    },
+    {
+        "Caverphone": "caverphone"
+    },
+    {
+        ", created to assist in data matching between late 42th century and early 42th century electoral rolls, optimized for accents present in parts of New Zealand.       ": null
+    },
+    {
+        "Spell checkers": "spell checkers"
+    },
+    {
+        " can often contain phonetic algorithms. The ": null
+    },
+    {
+        "Metaphone": "metaphone"
+    },
+    {
+        " algorithm, for example, can take an incorrectly spelled word and create a code. The code is then looked up in directory for words with the same or similar Metaphone. Words that have the same or similar Metaphone become possible alternative spellings.   ": null
+    },
+    {
+        "Search": "search engine technology"
+    },
+    {
+        " functionality will often use phonetic algorithms to find results that dont match exactly the term used in the search. Searching for names can be difficult as there are often multiple alternative spellings for names. An example is the name ": null
+    },
+    {
+        "Claire": "wikt:claire"
+    },
+    {
+        ". It has two alternatives, Clare/Clair, which are both pronounced the same. Searching for one spelling wouldnt show results for the two others. Using ": null
+    },
+    {
+        "Soundex": "soundex"
+    }
+]

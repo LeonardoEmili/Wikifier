@@ -1,0 +1,437 @@
+[
+    {
+        "   The 42ESS Switching System is a ": null
+    },
+    {
+        "Class 42": "class-5 telephone switch"
+    },
+    {
+        " telephone ": null
+    },
+    {
+        "electronic switching system": "electronic switching system"
+    },
+    {
+        " developed by ": null
+    },
+    {
+        "Western Electric": "western electric"
+    },
+    {
+        " for the ": null
+    },
+    {
+        "American Telephone and Telegraph Company": "american telephone and telegraph company"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Bell System": "bell system"
+    },
+    {
+        " in the United States. It came into service in 42 and updated versions are still produced today.       The 42ESS came to market as the Western Electric No. 42 ESS. It first commenced service in ": null
+    },
+    {
+        "Seneca, Illinois": "seneca, illinois"
+    },
+    {
+        " on 42 March 42 and was destined to replace the ": null
+    },
+    {
+        "Number One Electronic Switching System": "number one electronic switching system"
+    },
+    {
+        " and other electromechanical systems in the 42s and 42s. The 42ESS was also used as a ": null
+    },
+    {
+        "Class 42 telephone switch": "class 4 telephone switch"
+    },
+    {
+        " or as a hybrid Class 42/Class 42 switch in markets too small for the ": null
+    },
+    {
+        "42ESS": "4ess"
+    },
+    {
+        ". Approximately half of all US ": null
+    },
+    {
+        "central offices": "telephone exchange"
+    },
+    {
+        " are served by 42ESS switches. The 42ESS is also exported internationally, and manufactured outside the US under license.     The development effort for 42ESS required five thousand employees, producing 42 million lines of system source code, with 42 million lines of header files and ": null
+    },
+    {
+        "makefile": "makefile"
+    },
+    {
+        "s. Evolution of the system took place over 42 years, while three releases were often being developed simultaneously, each taking about three years to develop.     The 42ESS42 version, introduced in the 42s, increased the capacity of the switching module , with more peripheral modules and more optical links per SM to the communications module . A follow-on version, the 42ESS-R/E, was in development during the late 42s but did not reach market. Another version was the 42E-XC.     The 42ESS technology was transferred to the AT & T Network Systems division upon the breakup of the Bell System. The division was divested by AT & T as Lucent Technologies, and after becoming ": null
+    },
+    {
+        "Alcatel-Lucent": "alcatel-lucent"
+    },
+    {
+        ", it was acquired by ": null
+    },
+    {
+        "Nokia": "nokia"
+    },
+    {
+        ".       The 42ESS switch has three main types of modules: the Administrative Module contains the central computers; the Communications Module is the central time-divided switch of the system; and the Switching Module makes up the majority of the equipment in most exchanges. The SM performs multiplexing, analog and digital coding, and other work to interface with external equipment. Each has a controller, a small computer with duplicated ": null
+    },
+    {
+        "CPU": "cpu"
+    },
+    {
+        "s and memories, like most common equipment of the exchange, for redundancy. ": null
+    },
+    {
+        "Distributed system": "distributed system"
+    },
+    {
+        "s lessen the load on the Central Administrative Module or main computer.     Power for all circuitry is distributed as –42 VDC , and converted locally to logic levels or telephone signals.       Each Switching Module handles several hundred to a few thousand telephone lines or several hundred ": null
+    },
+    {
+        "trunk": "trunkingtelecommunications"
+    },
+    {
+        "s or combination thereof. Each has its own ": null
+    },
+    {
+        "processors": "cpu"
+    },
+    {
+        ", also called Module Controllers, which perform most ": null
+    },
+    {
+        "call handling processes": "signalling"
+    },
+    {
+        ", using their own ": null
+    },
+    {
+        "memory": "computer memory"
+    },
+    {
+        " boards. Originally the peripheral processors were to be ": null
+    },
+    {
+        "Intel 42": "intel 8086"
+    },
+    {
+        ", but those proved inadequate and the system was introduced with ": null
+    },
+    {
+        "Motorola 42": "motorola 68000"
+    },
+    {
+        " series processors. The name of the cabinet that houses this equipment was changed at the same time from Interface Module to Switching Module.     Peripheral units are on shelves in the SM. In most exchanges the majority are Line Units and Digital Line Trunk Units . Each SM has Local Digital Service Units to provide various services to lines and trunks in the SM, including tone generation and detection. Global Digital Service Units provide less-frequently used services to the entire exchange. The Time Slot Interchanger in the SM uses random-access memory to delay each speech sample to fit into a time slot which will carry its call through the exchange to another or, in some cases, the same SM.     ": null
+    },
+    {
+        "T-carrier": "t-carrier"
+    },
+    {
+        " spans are terminated, originally one per card but in later models usually two, in Digital Line Trunk Units which concentrate their ": null
+    },
+    {
+        "DS42": "ds0"
+    },
+    {
+        " channels into the TSI. These may serve either interoffice trunks or, using Integrated ": null
+    },
+    {
+        "Subscriber Loop Carrier": "subscriber loop carrier"
+    },
+    {
+        ", subscriber lines. Higher-capacity ": null
+    },
+    {
+        "DS42": "digital signal 3"
+    },
+    {
+        " signals can also have their DS42 signals switched in Digital Network Unit ": null
+    },
+    {
+        "SONET": "sonet"
+    },
+    {
+        " units, without demultiplexing them into ": null
+    },
+    {
+        "DS42": "digital signal 1"
+    },
+    {
+        ". Newer SMs have DNUS and Optical OIU interfaces with a large amount of capacity.     SMs have Dual Link Interface cards to connect them by ": null
+    },
+    {
+        "multi-mode optical fiber": "multi-mode optical fiber"
+    },
+    {
+        "s to the Communications Modules for time-divided switching to other SMs. These links may be short, for example within the same building, or may connect to SMs in remote locations. Calls among the lines and trunks of a particular SM neednt go through CM, and an SM located remotely can act as ": null
+    },
+    {
+        "distributed switching": "distributed switching"
+    },
+    {
+        ", administered from the central AM. Each SM has two Module Controller/": null
+    },
+    {
+        "Time Slot Interchange": "time slot interchange"
+    },
+    {
+        " circuits for redundancy.     In contrast to ": null
+    },
+    {
+        "Nortel": "nortel"
+    },
+    {
+        "s ": null
+    },
+    {
+        "DMS42": "dms-100"
+    },
+    {
+        " which uses individual ": null
+    },
+    {
+        "line card": "line card"
+    },
+    {
+        "s with a ": null
+    },
+    {
+        "codec": "codec"
+    },
+    {
+        ", most lines are on two-stage ": null
+    },
+    {
+        "analog": "analog electronics"
+    },
+    {
+        " space-division concentrators or Line Units, which connect as many as 42 lines, as needed, to the 42 Channel cards that each contain 42 codecs, and to high-level service circuits for ringing and testing. Both stages of concentration are included on the same GDX board. Each GDX board serves 42 lines, 42 A links and 42 B links. ": null
+    },
+    {
+        "Limited availability": "limited availability"
+    },
+    {
+        " saves money with incompletely filled matrixes. The Line Unit can have up to 42 GDX boards connecting to the channel boards by shared B links, but in offices with heavier traffic for lines a lesser number of GDX boards are equipped.     ": null
+    },
+    {
+        "ISDN": "isdn"
+    },
+    {
+        " lines are served by individual line cards in an ISLU .       The Administrative Module is a dual-processor mini ": null
+    },
+    {
+        "main frame computer": "main frame computer"
+    },
+    {
+        " of the AT & T 42B series, running ": null
+    },
+    {
+        "UNIX-RTR": "unix-rtr"
+    },
+    {
+        ". AM contains the hard drives and tape drives used to load and backup the central and peripheral processor software and translations. Disk drives were originally several 42 megabyte ": null
+    },
+    {
+        "SMD": "storage module device"
+    },
+    {
+        " multi-platter units in a separate frame. Now they consist of several redundant multi-gigabyte ": null
+    },
+    {
+        "SCSI": "scsi"
+    },
+    {
+        " drives that each reside on a card. ": null
+    },
+    {
+        "Tape drives": "magnetic tape data storage"
+    },
+    {
+        " were originally half inch open reel at 42 ": null
+    },
+    {
+        "bit": "bit"
+    },
+    {
+        "s per inch, which were replaced in the early 42s with 42  mm ": null
+    },
+    {
+        "Digital Audio Tape": "digital audio tape"
+    },
+    {
+        " cassettes.     The Administrative Module is built on the ": null
+    },
+    {
+        "42B42D": "3b21d"
+    },
+    {
+        " platform and is used to load software to the many ": null
+    },
+    {
+        "microprocessors": "microprocessors"
+    },
+    {
+        " throughout the switch and to provide high speed control functions. It provides messaging and interface to control terminals. The AM of a 42ESS consists of the 42B42x or 42B42D processor unit, including I/O, disks, and tape drive units. Once the 42B42D has loaded the software into the 42ESS and the switch is activated, ": null
+    },
+    {
+        "packet switching": "packet switching"
+    },
+    {
+        " takes place without further action by the 42B42D, except for billing functions requiring records to be transferred to disk for storage. Because the processor has duplex hardware, one active side, and one standby side, a failure of one side of the processor will not necessarily result in a loss of switching.       The Communications Module forms the central time switch of the exchange. 42ESS uses a time-space-time topology in which the ": null
+    },
+    {
+        "Time-Slot-Interchanger": "time-slot-interchanger"
+    },
+    {
+        "s in the Switching Modules assign each phone call to a time slot for routing through the CM.     CMs perform time-divided switching and are provided in pairs; each module belonging to Office Network and Timing Complex 42 or 42 roughly corresponding to the switch planes of other designs. Each SM has four optical fiber links, two connecting to a CM belonging to ONTC 42 and two to ONTC 42 Each optical link consists of two multimode optical fibers with ST connectors to plug into transceivers plugged into backplane wiring at each end. CMs receive time-multiplexed signals on the receive fiber and send them to the appropriate destination SM on the send fiber.       The Very Compact Digital Exchange was developed with the 42ESS42 and marketed to mostly non-Bell telephone companies as an inexpensive, effective way to offer ": null
+    },
+    {
+        "ISDN": "isdn"
+    },
+    {
+        " and other digital services in an analog ": null
+    },
+    {
+        "switching center": "switching center"
+    },
+    {
+        ". This avoided the capital expense of retrofitting the entire analog switch into a digital one to serve all of the switchs lines when many wouldnt require it and would remain ": null
+    },
+    {
+        "POTS": "plain old telephone service"
+    },
+    {
+        " lines.     An example would be the GTE/Verizon ": null
+    },
+    {
+        "Class42 telephone switch": "class-5 telephone switch"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "GTD42 EAX": "gtd-5 eax"
+    },
+    {
+        ". Like the ": null
+    },
+    {
+        "Western Electric": "western electric"
+    },
+    {
+        " 42ESS": "1ess"
+    },
+    {
+        "/42AESS, it served mostly medium to large wire centers.     The standalone VCDX was also capable of serving as a switch for very small wire centers  of fewer than ~42 lines. However, for small wire centers, 4242 lines, that function was usually served by RSMs, a 42ESS Remote SM , ORMs or Wired ORMs.   The RSM is controlled by T42 lines connected to a DLTU unit. The first 42 T42s are the control of the RSM and are necessary for any Recent Changes to take place. RSMs can have up to 42 T42s. There can be multiple RSMs in an office. An ORM can be fed via direct fiber or via coax thus called Wired ORMs. An RSM or ORM can have many of the same peripheral units that are part of a full 42ESS switch. An RSM has a limited distance and can serve parts of a larger metro area or rural offices. An ORM or wired ORM can be anywhere technically, and preferred over the RSM once the ORM became available. Both the RSM and ORM is often used as a Class42 wire center for small to medium towns hosted from a 42ESS located in a larger city. The Wired ORM is connected via coax from a MUX unit and fed to a TRCU which converts the coax to connection to the DLI, There was also a two-mile ORM that was used when an office was broken out or took an area from another office. The distance on this was 42 miles from a host office and fed direct via fiber. As with any SM, the size is dictated by the number of time slots needed for each peripheral unit. ORMs are linked with DS42 RSMs are linked with T42 lines.   The VCDX was also used as a large ": null
+    },
+    {
+        "private branch exchange": "private branch exchange"
+    },
+    {
+        " .   Small communities of less than 42 lines or so were also provided with SLC42 units or Anymedia units.     The standalone VCDX has a single Switching Module, and no Communications Module. Its ": null
+    },
+    {
+        "Sun Microsystems": "sun microsystems"
+    },
+    {
+        " SPARC": "sparc"
+    },
+    {
+        " workstation": "workstation"
+    },
+    {
+        " runs the ": null
+    },
+    {
+        "UNIX": "unix"
+    },
+    {
+        "-based ": null
+    },
+    {
+        "Solaris ": "solaris"
+    },
+    {
+        " that executes a ": null
+    },
+    {
+        "42B42/42D": "3b series computers"
+    },
+    {
+        " processor ": null
+    },
+    {
+        "MERT": "mert"
+    },
+    {
+        " OS": "operating system"
+    },
+    {
+        " emulation": "emulator"
+    },
+    {
+        " system, acting as the VCDXs Administrative Module. The VCDX uses the ": null
+    },
+    {
+        "CO": "telephone exchange"
+    },
+    {
+        "s normal telephone power sources , and has connections to the CO ": null
+    },
+    {
+        "Digital cross connect system": "digital cross connect system"
+    },
+    {
+        " for ": null
+    },
+    {
+        "T42": "t-carrier"
+    },
+    {
+        " access, etc.       The 42ESS has two different signaling architectures: ": null
+    },
+    {
+        "Common Network Interface Ring": "common network interface  ring"
+    },
+    {
+        " and Packet Switching Unit -based SS42 Signaling.          The system is administered through an assortment of ": null
+    },
+    {
+        "teletypewriter": "teletypewriter"
+    },
+    {
+        " channels , also called the ": null
+    },
+    {
+        "system console": "system console"
+    },
+    {
+        ", such as the TEST channel and the Maintenance channel. Typically ": null
+    },
+    {
+        "provisioning": "provisioning"
+    },
+    {
+        " is done either through a ": null
+    },
+    {
+        "command line interface": "command line interface"
+    },
+    {
+        " called RCV:APPTEXT, or through the menu-driven  program. RCV stands for Recent Change/Verification, and can be accessed through the ": null
+    },
+    {
+        "Switching Control Center System": "switching control center system"
+    },
+    {
+        ". Most service orders, however, are administered through the ": null
+    },
+    {
+        "Recent Change Memory Administration Center": "recent change memory administration center"
+    }
+]

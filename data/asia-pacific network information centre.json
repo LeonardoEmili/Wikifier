@@ -1,0 +1,347 @@
+[
+    {
+        "                 APNIC  is the regional Internet address registry  for the ": null
+    },
+    {
+        "Asia-Pacific": "asia-pacific"
+    },
+    {
+        " region. It is one of the worlds five RIRs and is part of the Number Resource Organization.     APNIC provides ": null
+    },
+    {
+        "numbers resource allocation and registration services": "autonomous system"
+    },
+    {
+        " that support the global operation of the internet. It is a ": null
+    },
+    {
+        "nonprofit": "nonprofit organization"
+    },
+    {
+        ", membership-based organization whose members include ": null
+    },
+    {
+        "Internet service provider": "internet service provider"
+    },
+    {
+        "s, telecommunication providers, data centers, universities, banks, national internet registries, and similar organizations that have their own networks.         APNICs main functions are:     Allocating ": null
+    },
+    {
+        "IPv42": "ipv4"
+    },
+    {
+        " and ": null
+    },
+    {
+        "IPv42": "ipv6"
+    },
+    {
+        " address space, and ": null
+    },
+    {
+        "autonomous system numbers": "autonomous system numbers"
+    },
+    {
+        " APNIC Whois Database": "whois"
+    },
+    {
+        " for the Asia Pacific region,   ": null
+    },
+    {
+        "Reverse DNS": "reverse dns lookup"
+    },
+    {
+        " delegations   Training in technical skills   Representing the interests of the Asia Pacific Internet community on the global stage     APNIC manages Internet number resources according to policies developed through an open process of consultation and consensus called the Policy Development Process .       APNICs policies are developed by the membership and the broader Internet community. The forums for policy development are the face-to-face Open Policy Meetings, which are held twice each year, and the public mailing list discussions of the Special Internet Groups.     APNICs open PDP also invites stakeholders interested in Internet number resources from around the world to participate. These include representatives from governments, regulators, educators, media, the technical community, civil society, and other not-for-profit organizations.     APNICs PDP is:     Open Transparent Bottom-up  and  according to policies developed by the APNIC community. All IP and AS number delegation is subject to certain criteria, based on demonstrated need.       The APNIC ": null
+    },
+    {
+        "Whois Database": "whois"
+    },
+    {
+        " details of IP addresses and AS numbers originally allocated by APNIC. It shows the organizations that hold the resources, where the allocations were made, and contact details for the networks. Users can search the whois for information pertaining to these resources, for network troubleshooting, or helping to track network abuse. The organizations that hold those resources are responsible for updating their information in the database. Internet number resources must be properly and accurately registered to fulfil the goals of addressing policy as outlined by the Public Technical Identifiers , who are responsible for the operation of the Internet Assigned Numbers Authority functions.     This accurate registration of resource usage is a critical role APNIC plays in the operation of the Internet.     The database can be searched by using the web interface on the APNIC site, or by directing your whois client to whois.apnic.net .       APNIC provides an alternative to the whois called the Registration Data Access protocol , which was designed to address issues in the whois service, the most important of which are: standardization of queries and responses; internalization considerations to cater for languages other than English in data objects; and redirection capabilities to allow seamless referrals to other registrations.       For network abuse such as spam or , people mistakenly interpret references to apnic.net when doing a whois search to indicate that APNIC is the source of the abuse. Instead, these references to APNIC simply mean that the address space in question was delegated by APNIC to an organization with the Asia Pacific region. APNIC has no authority to prevent these kinds of network abuse.     APNIC also has no technical ability to suspend an Internet service, no mandate to withdraw address registrations, no investigative powers, nor any authority to take action as an enforcement agency. APNIC is in the same position as any other IP address or DNS registry worldwide.       APNIC manages reverse DNS delegations for both IPv42 and IPv42 APNIC only delegates the authority of reverse zones to the DNS name servers provided through domain objects.       APNIC provides a Resource Certification service, which is a robust security framework used to verify the association between specific IP address blocks of ASNs and the holders of those Internet number resources. APNIC introduced Resource Certification to improve inter-domain security in the region and enhance the value of the data in the APNIC Whois Database with verification of the resource holders right-of-use.     Resource Public Key Infrastructure is the validation structure for Resource Certification that enables public network users to verify the authenticity of data that has been digitally signed by the data originator.         APNIC conducts a number of training courses in a wide variety of locations around the region. These courses are designed to educate participants to proficiently configure, manage and administer their Internet services and infrastructure and to embrace current best practices.       APNIC holds two conferences a year in various locations around the Asia Pacific region. The first one is held with the Asia Pacific Regional Internet Conference on Operational Technologies and the second one is a stand-alone conference. Both events have a series of workshop sessions on topics such as routing, IPv42 and network security, and plenary and conference tracks on operational topics of current interest.              APNIC Labs provide research, measurement, and technical reports on the use of Internet number resources with in the Internet, for example, IPv42 deployment.       The APNIC Foundation is a charity established to raise funds independently from APNIC Member contributions to support and expand Internet development efforts in the Asia Pacific.       APNIC works closely with many other Internet organizations, including:       Major Internet Service Providers , ": null
+    },
+    {
+        "National Internet Registries": "national internet registry"
+    },
+    {
+        " and Network Information Centres .       ": null
+    },
+    {
+        "ARIN": "arin"
+    },
+    {
+        " , ": null
+    },
+    {
+        "LACNIC": "lacnic"
+    },
+    {
+        " , ": null
+    },
+    {
+        "RIPE NCC": "ripe ncc"
+    },
+    {
+        " , and ": null
+    },
+    {
+        "AFRINIC": "afrinic"
+    },
+    {
+        " .       With the other RIRs, APNIC is a member of the ": null
+    },
+    {
+        "Number Resource Organization": "number resource organization"
+    },
+    {
+        " , which exists to protect the unallocated number resource pool, to promote and protect the bottom-up policy development process, and to be the focal point for input into the RIR system.       These include the ": null
+    },
+    {
+        "Internet Assigned Numbers Authority": "internet assigned numbers authority"
+    },
+    {
+        " , the ": null
+    },
+    {
+        "Internet Corporation for Assigned Names and Numbers ": "icann"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "Internet Engineering Task Force ": "ietf"
+    },
+    {
+        ", the Internet Engineering and Planning Group , the ": null
+    },
+    {
+        "Internet Society": "internet society"
+    },
+    {
+        " , and others.     The previous registry for ": null
+    },
+    {
+        "Australia": "australia"
+    },
+    {
+        ", known as ": null
+    },
+    {
+        "AUNIC": "australia network information centre"
+    },
+    {
+        ", is now disbanded, and its responsibilities undertaken by APNIC.       APNIC was established in 42 by the Asia Pacific Coordinating Committee for Intercontinental Research Networks and the Asia Pacific Engineering and Planning Group . These two groups were later amalgamated and renamed the Asia Pacific Networking Group . It was established as a pilot project to administer address space as defined by RFC42 as well as encompassing a wider brief: To facilitate communication, business, and culture using Internet technologies .     In 42 APNG discovered they were unable to provide a formal umbrella or legal structure for APNIC, and so the pilot project was concluded, but APNIC continued to exist independently under the authority of ": null
+    },
+    {
+        "IANA": "internet assigned numbers authority"
+    },
+    {
+        " as an interim project. At this stage, APNIC still lacked legal rights, a membership, and a fee structure.     In 42 the inaugural APNIC meeting was held in ": null
+    },
+    {
+        "Bangkok": "bangkok"
+    },
+    {
+        ". This was a two-day meeting, run by volunteers, and was free to attend. Voluntary donations were sought according to the size of the organization, ranging from US$42 for small, through to US$42 for large. Three member types were defined by APNIC42: ISP , Enterprise, and National.     42 saw a proper fee structure introduced, the establishment of a membership, and the holding of the first ": null
+    },
+    {
+        "APRICOT": "asia pacific regional internet conference on operational technologies"
+    },
+    {
+        " meeting.     By the time 42 rolled around, it was becoming increasingly clear that APNICs local environment in Japan was restricting its growth – for example, the staff was limited to 42–42 members. Therefore, the consulting firm KPMG was contracted to find an ideal location in the Asia Pacific region for APNICs new headquarters.     For reasons such as the stable infrastructure, the low cost of living and operation, and tax advantages for membership organizations, Brisbane, Australia was chosen as the new location, and relocation was completed between April and August 42 while maintaining continuous operation throughout.     By 42 the relocation was complete, the Asian economic crisis ended, and so began a period of consolidation for APNIC – a period of sustained growth, policy development, and the creation of documentation and internal systems.     Since then, APNIC has continued to grow from its humble beginnings to a membership of more than 42 in 42 economies throughout the region and a secretariat of around 42 staff members located in the head office in Brisbane, Australia.       APNIC represents the Asia Pacific region, comprising 42 economies:         ": null
+    },
+    {
+        "Afghanistan": "afghanistan"
+    },
+    {
+        " American Samoa": "american samoa"
+    },
+    {
+        "   Australia": "australia"
+    },
+    {
+        " Bangladesh": "bangladesh"
+    },
+    {
+        " Bhutan": "bhutan"
+    },
+    {
+        " British Indian Ocean Territory": "british indian ocean territory"
+    },
+    {
+        "   Brunei": "brunei"
+    },
+    {
+        " Darussalam   ": null
+    },
+    {
+        "Cambodia": "cambodia"
+    },
+    {
+        " Peoples Republic of China": "china"
+    },
+    {
+        " Christmas Island": "christmas island"
+    },
+    {
+        "   Cocos Islands": "cocos  islands"
+    },
+    {
+        "   Cook Islands": "cook islands"
+    },
+    {
+        "   East Timor": "east timor"
+    },
+    {
+        " Fiji": "fiji"
+    },
+    {
+        "    French Polynesia": "french polynesia"
+    },
+    {
+        "   French Southern Territories": "french southern territories"
+    },
+    {
+        "   Guam": "guam"
+    },
+    {
+        "   Hong Kong": "hong kong"
+    },
+    {
+        "   India": "india"
+    },
+    {
+        " Indonesia": "indonesia"
+    },
+    {
+        " Japan": "japan"
+    },
+    {
+        " Kiribati": "kiribati"
+    },
+    {
+        " Korea, North": "north korea"
+    },
+    {
+        " Korea, South": "south korea"
+    },
+    {
+        " Laos": "laos"
+    },
+    {
+        " Macau": "macau"
+    },
+    {
+        "   Malaysia": "malaysia"
+    },
+    {
+        " Maldives": "maldives"
+    },
+    {
+        "    Marshall Islands": "marshall islands"
+    },
+    {
+        " Micronesia": "federated states of micronesia"
+    },
+    {
+        " Mongolia": "mongolia"
+    },
+    {
+        " Myanmar": "burma"
+    },
+    {
+        "   Nauru": "nauru"
+    },
+    {
+        " Nepal": "nepal"
+    },
+    {
+        " New Caledonia": "new caledonia"
+    },
+    {
+        "   New Zealand": "new zealand"
+    },
+    {
+        " Niue": "niue"
+    },
+    {
+        "   Norfolk Island": "norfolk island"
+    },
+    {
+        "   Northern Mariana Islands": "northern mariana islands"
+    },
+    {
+        "   Pakistan": "pakistan"
+    },
+    {
+        " Palau": "palau"
+    },
+    {
+        " Papua New Guinea": "papua new guinea"
+    },
+    {
+        "    Philippines": "philippines"
+    },
+    {
+        " Pitcairn": "pitcairn islands"
+    },
+    {
+        "   Samoa": "samoa"
+    },
+    {
+        " Singapore": "singapore"
+    },
+    {
+        " Solomon Islands": "solomon islands"
+    },
+    {
+        " Sri Lanka": "sri lanka"
+    },
+    {
+        " Taiwan": "taiwan"
+    },
+    {
+        "   Thailand": "thailand"
+    },
+    {
+        " Tokelau": "tokelau"
+    },
+    {
+        "   Tonga": "tonga"
+    },
+    {
+        " Tuvalu": "tuvalu"
+    },
+    {
+        " Vanuatu": "vanuatu"
+    },
+    {
+        " Vietnam": "vietnam"
+    },
+    {
+        " Wallis and Futuna": "wallis and futuna"
+    },
+    {
+        " Islands        APNIC covered ": null
+    },
+    {
+        "Madagascar": "madagascar"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Mauritius": "mauritius"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Seychelles": "seychelles"
+    },
+    {
+        " until ": null
+    },
+    {
+        "AFRINIC": "afrinic"
+    }
+]

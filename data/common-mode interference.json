@@ -1,0 +1,92 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        ", the term common-mode interference has the following meanings:     ": null
+    },
+    {
+        "Interference": "interference"
+    },
+    {
+        " that appears on both signal leads , or the terminals of a measuring ": null
+    },
+    {
+        "circuit": "electrical network"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "ground": "ground"
+    },
+    {
+        ".   A form of ": null
+    },
+    {
+        "coherent": "coherence"
+    },
+    {
+        " interference that affects two or more elements of a ": null
+    },
+    {
+        "network": "telecommunications network"
+    },
+    {
+        " in a similar manner  as distinct from locally generated ": null
+    },
+    {
+        "noise": "signal noise"
+    },
+    {
+        " or interference that is statistically independent between pairs of network elements.       Common mode noise may be isolated from the desired signal by various means:   Common mode noise may be sensed and fed back negatively into object providing the signals .   Both signal and signal return may be applied to the primary of a ": null
+    },
+    {
+        "transformer": "transformer"
+    },
+    {
+        " or ": null
+    },
+    {
+        "balun": "balun"
+    },
+    {
+        ", with the signal taken from the secondary. As common mode interference will not cause current to be induced in the primary, no signal from this source will be seen in the secondary, while ": null
+    },
+    {
+        "differential signals": "differential signaling"
+    },
+    {
+        " on the primary will cause current in the primary and so cause induced voltage in the secondary.   A signal transformer may have a ": null
+    },
+    {
+        "center tap": "center tap"
+    },
+    {
+        "ped primary to ground, with the signal and signal return operating as a ": null
+    },
+    {
+        "balanced line": "balanced line"
+    },
+    {
+        " . This is advantageous; its resistance to signals raised on ground due to ": null
+    },
+    {
+        "ground loop": "ground loop"
+    },
+    {
+        " induction and ground circuit resistance.   The signal may be used to drive the ": null
+    },
+    {
+        "LED": "led"
+    },
+    {
+        " in an ": null
+    },
+    {
+        "opto-isolator": "opto-isolator"
+    }
+]

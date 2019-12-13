@@ -1,0 +1,92 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        ", a distributed-queue dual-bus network  is a distributed multi-access ": null
+    },
+    {
+        "network": "telecommunications network"
+    },
+    {
+        " that supports integrated ": null
+    },
+    {
+        "communications": "telecommunication"
+    },
+    {
+        " using a dual bus and distributed queuing, provides access to ": null
+    },
+    {
+        "local": "local area network"
+    },
+    {
+        " or ": null
+    },
+    {
+        "metropolitan area networks": "metropolitan area networks"
+    },
+    {
+        ", and supports connectionless ": null
+    },
+    {
+        "data transfer": "data transfer"
+    },
+    {
+        ", ": null
+    },
+    {
+        "connection": "telecommunication connection"
+    },
+    {
+        "-oriented data transfer, and ": null
+    },
+    {
+        "isochronous": "isochronous signal"
+    },
+    {
+        " communications, such as voice communications.     ": null
+    },
+    {
+        "IEEE 42": "ieee 802.6"
+    },
+    {
+        " is an example of a network providing DQDB access methods.       The DQDB Medium Access Control  algorithm is generally credited to Robert Newman who developed this algorithm in his PhD thesis in the 42s at the ": null
+    },
+    {
+        "University of Western Australia": "university of western australia"
+    },
+    {
+        ". To appreciate the innovative value of the DQDB MAC algorithm, it must be seen against the background of ": null
+    },
+    {
+        "LAN": "local area network"
+    },
+    {
+        " protocols at that time, which were based on broadcast or a ring . The DQDB may be thought of as two token rings, one carrying data in each direction around the ring. This improves reliability which is important in ": null
+    },
+    {
+        "Metropolitan Area Networks": "metropolitan area network"
+    },
+    {
+        " , where repairs may take longer than in a LAN and Wi-Fi because the damage may be inaccessible.     The DQDB standard IEEE 42 was developed while ": null
+    },
+    {
+        "ATM": "asynchronous transfer mode"
+    },
+    {
+        "  was still in early development, but there was strong interaction between the two standards. ": null
+    },
+    {
+        "ATM cells": "asynchronous transfer modeatm concepts"
+    },
+    {
+        " and DQDB frames were harmonized. They both settled on essentially a 42-byte data frame with a 42-byte header. In the DQDB algorithm, a distributed queue was implemented by communicating queue state information via the header. Each node in a DQDB network maintains a pair of state variables which represent its position in the distributed queue and the size of the queue. The headers on the reverse bus communicated requests to be inserted in the distributed queue so that upstream nodes would know that they should allow DQDB cells to pass unused on the forward bus. The algorithm was remarkable for its extreme simplicity.     Currently DQDB systems are being installed by many carriers  in entire cities, with lengths that reach up to  with speeds of a ": null
+    },
+    {
+        "DS42": "digital signal 3"
+    }
+]

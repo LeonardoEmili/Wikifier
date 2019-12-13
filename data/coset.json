@@ -1,0 +1,194 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", specifically ": null
+    },
+    {
+        "group theory": "group theory"
+    },
+    {
+        ", given an element g of a ": null
+    },
+    {
+        "group": "group"
+    },
+    {
+        " G and a ": null
+    },
+    {
+        "subgroup": "subgroup"
+    },
+    {
+        " H of G,   :gH  is the left coset of H in G with respect to g, and   :Hg  is the right coset of H in G with respect to g.   If the group operation is written additively, the notation used changes to  or .     Cosets are a basic tool in the study of groups; for example they play a central role in ": null
+    },
+    {
+        "Lagranges theorem": "lagranges theorem"
+    },
+    {
+        " that states that for any ": null
+    },
+    {
+        "finite group": "finite group"
+    },
+    {
+        " G, the number of elements of every subgroup H of G divides the number of elements of G.     The element g belongs to the coset gH. If x belongs to gH then xHgH. Thus every element of G belongs to exactly one left coset of the subgroup H. Elements g and x belong to the same left coset of H if and only if g 42 x belongs to H. Similar statements apply to right cosets.     If G is an ": null
+    },
+    {
+        "abelian group": "abelian group"
+    },
+    {
+        ", then gH Hg for every subgroup H of G and every element g of G. In general, given an element g and a subgroup H of a group G, the right coset of H with respect to g is also the left coset of the ": null
+    },
+    {
+        "conjugate subgroup": "conjugate subgroup"
+    },
+    {
+        " g −42 Hg & thinsp; with respect to g, that is, Hg g & thinsp;. The number of left cosets of H in G is equal to the number of right cosets of H in G. The common value is called the ": null
+    },
+    {
+        "index": "index of a subgroup"
+    },
+    {
+        " of H in G.     A subgroup N of a group G is a ": null
+    },
+    {
+        "normal subgroup": "normal subgroup"
+    },
+    {
+        " of G if and only if for all elements g of G the corresponding left and right coset are equal, that is, gN Ng. Furthermore, the cosets of N in G form a group called the ": null
+    },
+    {
+        "quotient group or factor group": "quotient group"
+    },
+    {
+        ".         Let G be the group formed by under multiplication, which is isomorphic to C 42 , and H the trivial subgroup . Then H H and 42H H42 are the only cosets of H in G. Because its left and right cosets with respect to any element of G coincide, H is a normal subgroup of G.       Let G be the ": null
+    },
+    {
+        "additive group": "additive group"
+    },
+    {
+        " of the integers,  and H the subgroup   where m is a positive integer. Then the cosets of H in G are the m sets mZ, mZ + 42 ..., mZ + , where mZ + a . There are no more than m cosets, because mZ + m m mZ. The coset  is the ": null
+    },
+    {
+        "congruence class": "modular arithmetic"
+    },
+    {
+        " of a modulo m. Joshi p. 42       Another example of a coset comes from the theory of ": null
+    },
+    {
+        "vector space": "vector space"
+    },
+    {
+        "s. The elements of a vector space form an ": null
+    },
+    {
+        "abelian group": "abelian group"
+    },
+    {
+        " under ": null
+    },
+    {
+        "vector addition": "vector addition"
+    },
+    {
+        ". It is not hard to show that ": null
+    },
+    {
+        "subspaces": "linear subspace"
+    },
+    {
+        " of a vector space are ": null
+    },
+    {
+        "subgroups": "subgroups"
+    },
+    {
+        " of this group. For a vector space V, a subspace W, and a fixed vector a in V, the sets   : \\   are called ": null
+    },
+    {
+        "affine subspace": "affine subspace"
+    },
+    {
+        "s, and are cosets . In terms of ": null
+    },
+    {
+        "geometric": "euclidean space"
+    },
+    {
+        " vectors, these affine subspaces are all the lines or planes ": null
+    },
+    {
+        "parallel": "parallel"
+    },
+    {
+        " to the subspace, which is a line or plane going through the origin.          Given two subgroups, H and K of a group G, the double cosets of H and K in G are the sets of the form HgK . These are the left cosets of K and right cosets of H when H42 and K42 respectively. Scott p. 42         Let G be a group with subgroups H and K.   G/H denotes the set of left cosets \\ of H in G.   H\\backslash G denotes the set of right cosets \\ of H in G.   K\\backslash G/H denotes the set of double cosets \\ of H and K in G.       The identity is in precisely one left or right coset, namely H itself. Thus H is both a left and right coset of itself.     A coset representative is a representative in the equivalence class sense. A set of representatives of all the cosets is called a ": null
+    },
+    {
+        "transversal": "transversal"
+    },
+    {
+        ". There are other types of equivalence relations in a group, such as conjugacy, that form different classes which do not have the properties discussed here.          Every left or right coset of H has the same number of elements  as H itself. Furthermore, the number of left cosets is equal to the number of right cosets and is known as the index of H in G, written as G : H & thinsp;. ": null
+    },
+    {
+        "Lagranges theorem": "lagranges theorem"
+    },
+    {
+        " allows us to compute the index in the case where G and H are finite:   : |G| H| .   This equation also holds in the case where the groups are infinite, although the meaning may be less clear.       If H is not ": null
+    },
+    {
+        "normal": "normal subgroup"
+    },
+    {
+        " in G, then its left cosets are different from its right cosets. That is, there is an a in G such that no element b satisfies . This means that the partition of G into the left cosets of H is a different partition than the partition of G into right cosets of H.      On the other hand, the subgroup N is normal if and only if  for all g in G. In this case, the set of all cosets form a group called the ": null
+    },
+    {
+        "quotient group": "quotient group"
+    },
+    {
+        "  with the operation ∗ defined by . Since every right coset is a left coset, there is no need to distinguish left cosets from right cosets .       Cosets of Q in R are used in the construction of ": null
+    },
+    {
+        "Vitali set": "vitali set"
+    },
+    {
+        "s, a type of ": null
+    },
+    {
+        "non-measurable set": "non-measurable set"
+    },
+    {
+        ".   Cosets are central in the definition of the ": null
+    },
+    {
+        "transfer": "transfer"
+    },
+    {
+        ".   Cosets are important in computational group theory. For example, ": null
+    },
+    {
+        "Thistlethwaites algorithm": "optimal solutions for rubiks cubethistlethwaites algorithm"
+    },
+    {
+        " for solving ": null
+    },
+    {
+        "Rubiks Cube": "rubiks cube"
+    },
+    {
+        " relies heavily on cosets.   ": null
+    },
+    {
+        "Coset leader": "coset leader"
+    },
+    {
+        "s are used in decoding received data in ": null
+    },
+    {
+        "linear error-correcting codes": "linear code"
+    }
+]

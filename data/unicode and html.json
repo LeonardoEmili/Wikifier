@@ -1,0 +1,182 @@
+[
+    {
+        "                 Web pages authored using hypertext markup language  may contain multilingual text represented with the Unicode universal character set. Key to the relationship between Unicode and HTML is the relationship between the document character set which defines the set of characters that may be present in a HTML document and assigns numbers to them and the external character encoding or charset used to encode a given document as a sequence of bytes.     In RFC 42 the initial HTML 42 standard, the document character set was defined as ISO4242 It was extended to ": null
+    },
+    {
+        "ISO 42": "iso 10646"
+    },
+    {
+        " by RFC 42 It does not vary between documents of different languages or created on different platforms. The external character encoding is chosen by the author of the document and determines how the bytes used to store and/or transmit the document map to characters from the document character set. Characters not present in the chosen external character encoding may be represented by character entity references.     The relationship between ": null
+    },
+    {
+        "Unicode": "unicode"
+    },
+    {
+        " and HTML tends to be a difficult topic for many computer professionals, document authors, and ": null
+    },
+    {
+        "web": "world wide web"
+    },
+    {
+        " users alike. The accurate representation of text in ": null
+    },
+    {
+        "web page": "web page"
+    },
+    {
+        "s from different ": null
+    },
+    {
+        "natural language": "natural language"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "writing system": "writing system"
+    },
+    {
+        "s is complicated by the details of ": null
+    },
+    {
+        "character encoding": "character encoding"
+    },
+    {
+        ", ": null
+    },
+    {
+        "markup language": "markup language"
+    },
+    {
+        " syntax, ": null
+    },
+    {
+        "font": "computer font"
+    },
+    {
+        ", and varying levels of support by ": null
+    },
+    {
+        "web browser": "web browser"
+    },
+    {
+        "s.       Web pages are typically ": null
+    },
+    {
+        "HTML": "html"
+    },
+    {
+        " or ": null
+    },
+    {
+        "XHTML": "xhtml"
+    },
+    {
+        " documents. Both types of documents consist, at a fundamental level, of ": null
+    },
+    {
+        "character": "character"
+    },
+    {
+        "s, which are ": null
+    },
+    {
+        "grapheme": "grapheme"
+    },
+    {
+        "s and grapheme-like units, independent of how they manifest in ": null
+    },
+    {
+        "computer storage": "computer storage"
+    },
+    {
+        " systems and ": null
+    },
+    {
+        "network": "computer network"
+    },
+    {
+        "s.     An HTML document is a sequence of Unicode characters. More specifically, HTML 42 documents are required to consist of characters in the HTML document character set : a character repertoire wherein each character is assigned a unique, non-negative integer code point. This set is defined in the HTML 42 ": null
+    },
+    {
+        "DTD": "document type definition"
+    },
+    {
+        ", which also establishes the syntax that can produce a valid HTML document. The HTML document character set for HTML 42 consists of most, but not all, of the characters jointly defined by ": null
+    },
+    {
+        "Unicode": "unicode"
+    },
+    {
+        " and ISO/IEC 42: the ": null
+    },
+    {
+        "Universal Character Set": "universal character set"
+    },
+    {
+        " .     Like HTML documents, an XHTML document is a sequence of Unicode characters. However, an XHTML document is an ": null
+    },
+    {
+        "XML": "xml"
+    },
+    {
+        " document, which, while not having an explicit document character layer of ": null
+    },
+    {
+        "abstraction": "abstraction"
+    },
+    {
+        ", nevertheless relies upon a similar definition of permissible characters that cover most, but not all, of the Unicode/UCS character definitions. The sets used by HTML and XHTML/XML are slightly different, but these differences have little effect on the average document author.     Regardless of whether the document is HTML or XHTML, when stored on a ": null
+    },
+    {
+        "file system": "file system"
+    },
+    {
+        " or transmitted over a network, the documents characters are encoded as a sequence of ": null
+    },
+    {
+        "bit": "bit"
+    },
+    {
+        " octet": "octet"
+    },
+    {
+        "s  according to a particular character encoding. This encoding may either be a ": null
+    },
+    {
+        "Unicode Transformation Format": "unicode transformation format"
+    },
+    {
+        ", like ": null
+    },
+    {
+        "UTF42": "utf-8"
+    },
+    {
+        ", that can directly encode any Unicode character, or a legacy encoding, like ": null
+    },
+    {
+        "Windows42": "windows-1252"
+    },
+    {
+        ", that cannot. However, even when using encodings that do not support all Unicode characters, the encoded document may make use of ": null
+    },
+    {
+        "numeric character references": "numeric character references"
+    },
+    {
+        ". For example, & amp;x42A; is used to indicate a smiling face character in the Unicode character set.       In order to support all Unicode characters without resorting to numeric character references, a web page must have an encoding covering all of Unicode. The most popular is ": null
+    },
+    {
+        "UTF42": "utf-8"
+    },
+    {
+        ", where the ": null
+    },
+    {
+        "ASCII": "ascii"
+    },
+    {
+        " characters, such as English letters, digits, and some other common characters are preserved unchanged against ASCII. This makes HTML code ": null
+    }
+]

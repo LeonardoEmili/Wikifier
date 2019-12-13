@@ -1,0 +1,86 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        "s, a call collision  is one of two things:   The ": null
+    },
+    {
+        "contention": "resource contention"
+    },
+    {
+        " that occurs when a ": null
+    },
+    {
+        "terminal": "terminal"
+    },
+    {
+        " and ": null
+    },
+    {
+        "data": "data"
+    },
+    {
+        " circuit": "telecommunication circuit"
+    },
+    {
+        "-terminating equipment  specify the same ": null
+    },
+    {
+        "communication channel": "communication channel"
+    },
+    {
+        " at the same ": null
+    },
+    {
+        "time": "time"
+    },
+    {
+        " to ": null
+    },
+    {
+        "transfer": "call transfer"
+    },
+    {
+        " a ": null
+    },
+    {
+        "call": "telephone call"
+    },
+    {
+        " request and handle an incoming call. When call ": null
+    },
+    {
+        "collision": "collision"
+    },
+    {
+        " occurs, the DCE proceeds with the call request and cancels the incoming call.   The condition that occurs when a ": null
+    },
+    {
+        "trunk": "trunking"
+    },
+    {
+        " or channel is seized at both ends simultaneously.     If you have ever tried to make a call out on a PBX, and been accidentally connected to an incoming call, you have experienced glare. This can sometimes happen at home too, if you pick up your phone to make a call out at the exact second that a call is about to start ringing in.     ": null
+    },
+    {
+        "Multi-line hunting": "multi-line hunting"
+    },
+    {
+        " attempts to avoid glare by selecting circuits in opposite preference order so the highest numbered line, which is last choice for incoming calls, is first choice for outgoing calls, like so:     incoming -- -- outgoing     With PRI circuits, the channel selection sequence is specified when the circuit is provisioned. Common practice is to have the PBX use descending channel selection, and the carrier to use ascending. Glare is not common on PRI circuits because the signalling is so fast, however it is not impossible . The users will not experience a connection to an unexpected call , because glare causes protocol errors that generally prevent any sort of successful connection. Instead, one or both of the call attempts might fail, and ideally an error would appear in the logs . Glare is quite rare on PRI circuits, and can be difficult to troubleshoot.     For old, analog PBX trunks, glare would be reduced by using ": null
+    },
+    {
+        "ground start": "ground start"
+    },
+    {
+        " signalling, which offered better answer and disconnect supervision. IE: Nortel BSP discouraged using ": null
+    },
+    {
+        "loop start": "loop start"
+    },
+    {
+        " trunks for this and other reasons. Long Distance exchanges in the 42s and 42s incorporated Glare Detectors to alleviate the problem.                 ": null
+    }
+]

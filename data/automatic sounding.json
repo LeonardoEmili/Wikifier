@@ -1,0 +1,65 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        ", automatic sounding is the testing of selected channels for quality by providing a very brief identifying transmission that may be used by other stations to evaluate connectivity, and ": null
+    },
+    {
+        "availability": "availability"
+    },
+    {
+        ", and to identify known working channels for immediate or later use for ": null
+    },
+    {
+        "communications": "telecommunication"
+    },
+    {
+        " or calling. They are often used to maintain ": null
+    },
+    {
+        "connectivity": "telecommunication circuit"
+    },
+    {
+        " in digital communications ": null
+    },
+    {
+        "high frequency radio": "shortwave"
+    },
+    {
+        " networks.     Automatic soundings are primarily intended to increase the efficiency of the ": null
+    },
+    {
+        "automatic link establishment": "automatic link establishment"
+    },
+    {
+        " function, thereby increasing system ": null
+    },
+    {
+        "throughput": "throughput"
+    },
+    {
+        ".     In ALE, the sounding information consists of a heavily ": null
+    },
+    {
+        "error-corrected": "forward error correction"
+    },
+    {
+        " short message identifying the sender. Recipients decode it and use the ": null
+    },
+    {
+        "bit error rate": "bit error rate"
+    },
+    {
+        " to calculate and store a ": null
+    },
+    {
+        "tuple": "row"
+    },
+    {
+        ". As ionospheric conditions and mobile-node locations change, these quality tuples will shift. The stored data can be used to maximize the chance that the best channel to link with a given partner will be chosen first.           ": null
+    }
+]

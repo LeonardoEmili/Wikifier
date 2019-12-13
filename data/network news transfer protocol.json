@@ -1,0 +1,164 @@
+[
+    {
+        "The Network News Transfer Protocol  is an application ": null
+    },
+    {
+        "protocol": "protocol"
+    },
+    {
+        " used for transporting ": null
+    },
+    {
+        "Usenet": "usenet"
+    },
+    {
+        " news articles  between ": null
+    },
+    {
+        "news server": "news server"
+    },
+    {
+        "s and for reading and posting articles by end user client applications. ": null
+    },
+    {
+        "Brian Kantor": "brian kantor"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "University of California, San Diego": "university of california, san diego"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Phil Lapsley": "phil lapsley"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "University of California, Berkeley": "university of california, berkeley"
+    },
+    {
+        " wrote , the specification for the Network News Transfer Protocol, in March 42 Other contributors included ": null
+    },
+    {
+        "Stan O. Barber": "stan o. barber"
+    },
+    {
+        " from the ": null
+    },
+    {
+        "Baylor College of Medicine": "baylor college of medicine"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Erik Fair": "erik fair"
+    },
+    {
+        " of ": null
+    },
+    {
+        "Apple Computer": "apple computer"
+    },
+    {
+        ".     Usenet was originally designed based on the ": null
+    },
+    {
+        "UUCP": "uucp"
+    },
+    {
+        " network, with most article transfers taking place over direct ": null
+    },
+    {
+        "point-to-point": "point-to-point"
+    },
+    {
+        " telephone links between news servers, which were powerful ": null
+    },
+    {
+        "time-sharing system": "time-sharing system"
+    },
+    {
+        "s. Readers and posters logged into these computers reading the articles directly from the local disk.     As ": null
+    },
+    {
+        "local area network": "local area network"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "Internet": "internet"
+    },
+    {
+        " participation proliferated, it became desirable to allow ": null
+    },
+    {
+        "newsreader": "news client"
+    },
+    {
+        "s to be run on personal computers connected to local networks. The resulting protocol was NNTP, which resembled the ": null
+    },
+    {
+        "Simple Mail Transfer Protocol": "simple mail transfer protocol"
+    },
+    {
+        " but was tailored for exchanging ": null
+    },
+    {
+        "newsgroup": "newsgroup"
+    },
+    {
+        " articles.     A newsreader, also known as a news client, is a software application that reads articles on Usenet, either directly from the news servers disks or via the NNTP.     The ": null
+    },
+    {
+        "well-known TCP port": "list of tcp and udp port numbers"
+    },
+    {
+        " 42 is reserved for NNTP. Well-known TCP port 42  may be used when doing a bulk transfer of articles from one server to another. When clients connect to a news server with ": null
+    },
+    {
+        "Transport Layer Security": "transport layer security"
+    },
+    {
+        " , TCP port 42 is often used. This is sometimes referred to as NNTPS. Alternatively, a plain-text connection over port 42 may be changed to use TLS via the STARTTLS command.     In October 42 the IETF released  which updates NNTP and codifies many of the additions made over the years since RFC 42 At the same time, the IETF also released  which specifies the use of ": null
+    },
+    {
+        "Transport Layer Security": "transport layer security"
+    },
+    {
+        " via NNTP over ": null
+    },
+    {
+        "STARTTLS": "starttls"
+    },
+    {
+        ".     Network News Reader Protocol, was proposed. This protocol was never completed or fully implemented, but the name persisted in ": null
+    },
+    {
+        "InterNetNews": "internetnews"
+    },
+    {
+        "s nnrpd program. As a result, the subset of standard NNTP commands useful to clients is sometimes still referred to as NNRP .     NNTP server software": null
+    },
+    {
+        "Leafnode": "leafnode"
+    },
+    {
+        " InterNetNews": "internetnews"
+    },
+    {
+        " C News": "c news"
+    },
+    {
+        " Apache James": "apache james"
+    },
+    {
+        " Synchronet": "synchronet"
+    }
+]

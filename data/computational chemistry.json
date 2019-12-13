@@ -1,0 +1,935 @@
+[
+    {
+        "Computational chemistry is a branch of ": null
+    },
+    {
+        "chemistry": "chemistry"
+    },
+    {
+        " that uses ": null
+    },
+    {
+        "computer simulation": "computer simulation"
+    },
+    {
+        " to assist in solving chemical problems. It uses methods of ": null
+    },
+    {
+        "theoretical chemistry": "theoretical chemistry"
+    },
+    {
+        ", incorporated into efficient ": null
+    },
+    {
+        "computer program": "computer program"
+    },
+    {
+        "s, to calculate the structures and properties of ": null
+    },
+    {
+        "molecule": "molecule"
+    },
+    {
+        "s and solids. It is necessary because, apart from relatively recent results concerning the hydrogen molecular ion , the quantum ": null
+    },
+    {
+        "many-body problem": "many-body problem"
+    },
+    {
+        " cannot be solved analytically, much less in closed form. While computational results normally complement the information obtained by chemical ": null
+    },
+    {
+        "experiment": "experiment"
+    },
+    {
+        "s, it can in some cases predict hitherto unobserved chemical ": null
+    },
+    {
+        "phenomena": "phenomena"
+    },
+    {
+        ". It is widely used in the design of new drugs and materials.     Examples of such properties are structure , absolute and ": null
+    },
+    {
+        "relative": "interaction energy"
+    },
+    {
+        " energies": "energy"
+    },
+    {
+        ", ": null
+    },
+    {
+        "electron": "electron"
+    },
+    {
+        "ic ": null
+    },
+    {
+        "charge density": "charge density"
+    },
+    {
+        " distributions, ": null
+    },
+    {
+        "dipole": "dipole"
+    },
+    {
+        "s and higher ": null
+    },
+    {
+        "multipole moment": "multipole moment"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "vibrational frequencies": "vibrational spectroscopy"
+    },
+    {
+        ", ": null
+    },
+    {
+        "reactivity": "reactivity"
+    },
+    {
+        ", or other ": null
+    },
+    {
+        "spectroscopic": "spectroscopy"
+    },
+    {
+        " quantities, and ": null
+    },
+    {
+        "cross sections": "cross section"
+    },
+    {
+        " for ": null
+    },
+    {
+        "collision": "scattering theory"
+    },
+    {
+        " with other particles.     The methods used cover both static and dynamic situations. In all cases, the computer time and other resources increase rapidly with the size of the system being studied. That system can be one molecule, a group of molecules, or a solid. Computational chemistry methods range from very approximate to highly accurate; the latter are usually feasible for small systems only. ": null
+    },
+    {
+        "Ab initio methods": "ab initio quantum chemistry methods"
+    },
+    {
+        " are based entirely on ": null
+    },
+    {
+        "quantum mechanics": "quantum mechanics"
+    },
+    {
+        " and basic ": null
+    },
+    {
+        "physical constant": "physical constant"
+    },
+    {
+        "s. Other methods are called empirical or ": null
+    },
+    {
+        "semi-empirical": "semi-empirical quantum chemistry method"
+    },
+    {
+        " because they use additional empirical parameters.     Both  ab initio  and semi-empirical approaches involve approximations. These range from simplified forms of the first-principles equations that are easier or faster to solve, to approximations limiting the size of the system , to fundamental approximations to the underlying equations that are required to achieve any solution to them at all. For example, most ab initio calculations make the ": null
+    },
+    {
+        "Born–Oppenheimer approximation": "born–oppenheimer approximation"
+    },
+    {
+        ", which greatly simplifies the underlying ": null
+    },
+    {
+        "Schrödinger equation": "schrödinger equation"
+    },
+    {
+        " by assuming that the nuclei remain in place during the calculation. In principle, ": null
+    },
+    {
+        "ab initio methods": "ab initio quantum chemistry methods"
+    },
+    {
+        " eventually converge to the exact solution of the underlying equations as the number of approximations is reduced. In practice, however, it is impossible to eliminate all approximations, and residual error inevitably remains. The goal of computational chemistry is to minimize this residual error while keeping the calculations tractable.     In some cases, the details of electronic structure are less important than the long-time ": null
+    },
+    {
+        "phase space": "phase space"
+    },
+    {
+        " behavior of molecules. This is the case in conformational studies of proteins and protein-ligand binding thermodynamics. Classical approximations to the ": null
+    },
+    {
+        "potential energy surface": "potential energy surface"
+    },
+    {
+        " are used, as they are computationally less intensive than electronic calculations, to enable longer simulations of ": null
+    },
+    {
+        "molecular dynamics": "molecular dynamics"
+    },
+    {
+        ". Furthermore, ": null
+    },
+    {
+        "cheminformatics": "cheminformatics"
+    },
+    {
+        " uses even more empirical methods like ": null
+    },
+    {
+        "machine learning": "machine learning"
+    },
+    {
+        " based on physicochemical properties. One typical problem in cheminformatics is to predict the binding affinity of drug molecules to a given target.       Building on the founding discoveries and theories in the ": null
+    },
+    {
+        "history of quantum mechanics": "history of quantum mechanics"
+    },
+    {
+        ", the first theoretical calculations in chemistry were those of ": null
+    },
+    {
+        "Walter Heitler": "walter heitler"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Fritz London": "fritz london"
+    },
+    {
+        " in 42 The books that were influential in the early development of computational quantum chemistry include ": null
+    },
+    {
+        "Linus Pauling": "linus pauling"
+    },
+    {
+        " and ": null
+    },
+    {
+        "E. Bright Wilson": "edgar bright wilson"
+    },
+    {
+        "s 42 Introduction to Quantum Mechanics – with Applications to Chemistry, ": null
+    },
+    {
+        "Eyring": "henry eyring"
+    },
+    {
+        ", Walter and Kimballs 42 Quantum Chemistry, Heitlers 42 Elementary Wave Mechanics – with Applications to Quantum Chemistry, and later ": null
+    },
+    {
+        "Coulson": "charles coulson"
+    },
+    {
+        "s 42 textbook Valence, each of which served as primary references for chemists in the decades to follow.     With the development of efficient ": null
+    },
+    {
+        "computer": "computer"
+    },
+    {
+        " technology in the 42s, the solutions of elaborate ": null
+    },
+    {
+        "wave equation": "wave equation"
+    },
+    {
+        "s for complex ": null
+    },
+    {
+        "atom": "atom"
+    },
+    {
+        "ic systems began to be a realizable objective. In the early 42s, the first semi-empirical atomic orbital calculations were performed. Theoretical chemists became extensive users of the early digital computers. One major advance came with the 42 paper in Reviews of Modern Physics by Clemens C. J. Roothaan in 42 largely on the LCAO MO approach , for many years the second-most cited paper in that journal. A very detailed account of such use in the United Kingdom is given by Smith and Sutcliffe.  The first ab initio ": null
+    },
+    {
+        "Hartree–Fock method": "hartree–fock method"
+    },
+    {
+        " calculations on diatomic molecules were performed in 42 at MIT, using a ": null
+    },
+    {
+        "basis set": "basis set"
+    },
+    {
+        " of ": null
+    },
+    {
+        "Slater orbital": "slater orbital"
+    },
+    {
+        "s. For diatomic molecules, a systematic study using a minimum basis set and the first calculation with a larger basis set were published by Ransil and Nesbet respectively in 42  The first polyatomic calculations using ": null
+    },
+    {
+        "Gaussian orbital": "gaussian orbital"
+    },
+    {
+        "s were performed in the late 42s. The first ": null
+    },
+    {
+        "configuration interaction": "configuration interaction"
+    },
+    {
+        " calculations were performed in Cambridge on the ": null
+    },
+    {
+        "EDSAC": "edsac"
+    },
+    {
+        " computer in the 42s using Gaussian orbitals by ": null
+    },
+    {
+        "Boys": "francis boys"
+    },
+    {
+        " and coworkers.  By 42 when a bibliography of ab initio calculations was published,  the largest molecules included were ": null
+    },
+    {
+        "naphthalene": "naphthalene"
+    },
+    {
+        " and ": null
+    },
+    {
+        "azulene": "azulene"
+    },
+    {
+        ".   Abstracts of many earlier developments in ab initio theory have been published by Schaefer.      In 42 ": null
+    },
+    {
+        "Hückel method": "hückel method"
+    },
+    {
+        " calculations  of molecules, ranging in complexity from ": null
+    },
+    {
+        "butadiene": "butadiene"
+    },
+    {
+        " and ": null
+    },
+    {
+        "benzene": "benzene"
+    },
+    {
+        " to ": null
+    },
+    {
+        "ovalene": "ovalene"
+    },
+    {
+        ", were generated on computers at Berkeley and Oxford.  These empirical methods were replaced in the 42s by ": null
+    },
+    {
+        "semi-empirical methods": "semi-empirical quantum chemistry method"
+    },
+    {
+        " such as ": null
+    },
+    {
+        "CNDO": "cndo/2"
+    },
+    {
+        ".      In the early 42s, efficient ab initio computer programs such as ATMOL, ": null
+    },
+    {
+        "Gaussian": "gaussian"
+    },
+    {
+        ", IBMOL, and POLYAYTOM, began to be used to speed ab initio calculations of molecular orbitals. Of these four programs, only Gaussian, now vastly expanded, is still in use, but many other programs are now in use. At the same time, the methods of ": null
+    },
+    {
+        "molecular mechanics": "molecular mechanics"
+    },
+    {
+        ", such as MM42 ": null
+    },
+    {
+        "force field": "force field"
+    },
+    {
+        ", were developed, primarily by ": null
+    },
+    {
+        "Norman Allinger": "norman allinger"
+    },
+    {
+        ".      One of the first mentions of the term computational chemistry can be found in the 42 book Computers and Their Role in the Physical Sciences by Sidney Fernbach and Abraham Haskell Taub, where they state It seems, therefore, that computational chemistry can finally be more and more of a reality.  During the 42s, widely different methods began to be seen as part of a new emerging discipline of computational chemistry.  The  Journal of Computational Chemistry  was first published in 42     Computational chemistry has featured in several Nobel Prize awards, most notably in 42 and 42 ": null
+    },
+    {
+        "Walter Kohn": "walter kohn"
+    },
+    {
+        ", for his development of the density-functional theory , and ": null
+    },
+    {
+        "John Pople": "john pople"
+    },
+    {
+        ", for his development of computational methods in quantum chemistry , received the 42 ": null
+    },
+    {
+        "Nobel Prize": "nobel prize"
+    },
+    {
+        " in Chemistry.  ": null
+    },
+    {
+        "Martin Karplus": "martin karplus"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Michael Levitt": "michael levitt"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Arieh Warshel": "arieh warshel"
+    },
+    {
+        " received the 42 ": null
+    },
+    {
+        "Nobel Prize": "nobel prize"
+    },
+    {
+        " in Chemistry for the development of multiscale models for complex chemical systems .          The term theoretical chemistry may be defined as a mathematical description of chemistry, whereas computational chemistry is usually used when a mathematical method is sufficiently well developed that it can be automated for implementation on a computer. In theoretical chemistry, chemists, physicists, and mathematicians develop ": null
+    },
+    {
+        "algorithm": "algorithm"
+    },
+    {
+        "s and computer programs to predict atomic and molecular properties and reaction paths for ": null
+    },
+    {
+        "chemical reaction": "chemical reaction"
+    },
+    {
+        "s. Computational chemists, in contrast, may simply apply existing computer programs and methodologies to specific chemical questions.     Computational chemistry has two different aspects:   Computational studies, used to find a starting point for a laboratory synthesis, or to assist in understanding experimental data, such as the position and source of spectroscopic peaks.   Computational studies, used to predict the possibility of so far entirely unknown molecules or to explore reaction mechanisms not readily studied via experiments.     Thus, computational chemistry can assist the experimental chemist or it can challenge the experimental chemist to find entirely new chemical objects.     Several major areas may be distinguished within computational chemistry:   The prediction of the molecular structure of molecules by the use of the simulation of forces, or more accurate quantum chemical methods, to find stationary points on the energy surface as the position of the nuclei is varied.   Storing and searching for data on chemical entities .   Identifying ": null
+    },
+    {
+        "correlation": "correlation"
+    },
+    {
+        "s between ": null
+    },
+    {
+        "chemical structure": "chemical structure"
+    },
+    {
+        "s and properties .   Computational approaches to help in the efficient synthesis of compounds.   Computational approaches to design molecules that interact in specific ways with other molecules .       The words exact and perfect do not apply here, as very few aspects of chemistry can be computed exactly. However, almost every aspect of chemistry can be described in a qualitative or approximate quantitative computational scheme.     Molecules consist of nuclei and electrons, so the methods of ": null
+    },
+    {
+        "quantum mechanics": "quantum mechanics"
+    },
+    {
+        " apply. Computational chemists often attempt to solve the non-relativistic ": null
+    },
+    {
+        "Schrödinger equation": "schrödinger equation"
+    },
+    {
+        ", with relativistic corrections added, although some progress has been made in solving the fully relativistic ": null
+    },
+    {
+        "Dirac equation": "dirac equation"
+    },
+    {
+        ". In principle, it is possible to solve the Schrödinger equation in either its time-dependent or time-independent form, as appropriate for the problem in hand; in practice, this is not possible except for very small systems. Therefore, a great number of approximate methods strive to achieve the best trade-off between accuracy and computational cost.     Accuracy can always be improved with greater computational cost. Significant errors can present themselves in ": null
+    },
+    {
+        "ab initio": "ab initio"
+    },
+    {
+        " models comprising many electrons, due to the computational cost of full relativistic-inclusive methods. This complicates the study of molecules interacting with high atomic mass unit atoms, such as transitional metals and their catalytic properties. Present algorithms in computational chemistry can routinely calculate the properties of small molecules that contain up to about 42 electrons with errors for energies less than a few kJ/mol. For geometries, bond lengths can be predicted within a few picometres and bond angles within 42 degrees. The treatment of larger molecules that contain a few dozen atoms is computationally tractable by more approximate methods such as ": null
+    },
+    {
+        "density functional theory": "density functional theory"
+    },
+    {
+        " .     There is some dispute within the field whether or not the latter methods are sufficient to describe complex chemical reactions, such as those in biochemistry. Large molecules can be studied by semi-empirical approximate methods. Even larger molecules are treated by ": null
+    },
+    {
+        "classical mechanics": "classical mechanics"
+    },
+    {
+        " methods that use what are called ": null
+    },
+    {
+        "molecular mechanics": "molecular mechanics"
+    },
+    {
+        " . In QM-MM methods, small parts of large complexes are treated quantum mechanically , and the remainder is treated approximately .       One molecular formula can represent more than one molecular isomer: a set of isomers. Each isomer is a local minimum on the energy surface  created from the total energy as a function of the coordinates of all the nuclei. A stationary point is a geometry such that the derivative of the energy with respect to all displacements of the nuclei is zero. A local minimum is a stationary point where all such displacements lead to an increase in energy. The local minimum that is lowest is called the global minimum and corresponds to the most stable isomer. If there is one particular coordinate change that leads to a decrease in the total energy in both directions, the stationary point is a ": null
+    },
+    {
+        "transition structure": "transition state"
+    },
+    {
+        " and the coordinate is the ": null
+    },
+    {
+        "reaction coordinate": "reaction coordinate"
+    },
+    {
+        ". This process of determining stationary points is called ": null
+    },
+    {
+        "geometry optimization": "geometry optimization"
+    },
+    {
+        ".     The determination of molecular structure by ": null
+    },
+    {
+        "geometry optimization": "geometry optimization"
+    },
+    {
+        " became routine only after efficient methods for calculating the first derivatives of the energy with respect to all atomic coordinates became available. Evaluation of the related second derivatives allows the prediction of vibrational frequencies if harmonic motion is estimated. More importantly, it allows for the characterization of stationary points. The frequencies are related to the eigenvalues of the ": null
+    },
+    {
+        "Hessian matrix": "hessian matrix"
+    },
+    {
+        ", which contains second derivatives. If the eigenvalues are all positive, then the frequencies are all real and the stationary point is a local minimum. If one eigenvalue is negative , then the stationary point is a transition structure. If more than one eigenvalue is negative, then the stationary point is a more complex one, and is usually of little interest. When one of these is found, it is necessary to move the search away from it if the experimenter is looking solely for local minima and transition structures.     The total energy is determined by approximate solutions of the time-dependent Schrödinger equation, usually with no relativistic terms included, and by making use of the ": null
+    },
+    {
+        "Born–Oppenheimer approximation": "born–oppenheimer approximation"
+    },
+    {
+        ", which allows for the separation of electronic and nuclear motions, thereby simplifying the Schrödinger equation. This leads to the evaluation of the total energy as a sum of the electronic energy at fixed nuclei positions and the repulsion energy of the nuclei. A notable exception are certain approaches called ": null
+    },
+    {
+        "direct quantum chemistry": "direct quantum chemistry"
+    },
+    {
+        ", which treat electrons and nuclei on a common footing. Density functional methods and semi-empirical methods are variants on the major theme. For very large systems, the relative total energies can be compared using molecular mechanics. The ways of determining the total energy to predict molecular structures are:     Ab initio methods      The programs used in computational chemistry are based on many different ": null
+    },
+    {
+        "quantum-chemical": "quantum chemistry"
+    },
+    {
+        " methods that solve the molecular ": null
+    },
+    {
+        "Schrödinger equation": "schrödinger equation"
+    },
+    {
+        " associated with the ": null
+    },
+    {
+        "molecular Hamiltonian": "molecular hamiltonian"
+    },
+    {
+        ". Methods that do not include any empirical or semi-empirical parameters in their equations  – being derived directly from theoretical principles, with no inclusion of experimental data  – are called  ab initio methods . This does not imply that the solution is an exact one; they are all approximate quantum mechanical calculations. It means that a particular approximation is rigorously defined on first principles and then solved within an error margin that is qualitatively known beforehand. If numerical iterative methods must be used, the aim is to iterate until full machine accuracy is obtained .          The simplest type of ab initio electronic structure calculation is the ": null
+    },
+    {
+        "Hartree–Fock method": "hartree–fock method"
+    },
+    {
+        " , an extension of ": null
+    },
+    {
+        "molecular orbital theory": "molecular orbital theory"
+    },
+    {
+        ", in which the correlated electron-electron repulsion is not specifically taken into account; only its average effect is included in the calculation. As the basis set size is increased, the energy and wave function tend towards a limit called the Hartree–Fock limit. Many types of calculations  begin with a Hartree–Fock calculation and subsequently correct for electron-electron repulsion, referred to also as ": null
+    },
+    {
+        "electronic correlation": "electronic correlation"
+    },
+    {
+        ". As these methods are pushed to the limit, they approach the exact solution of the non-relativistic Schrödinger equation. To obtain exact agreement with experiment, it is necessary to include relativistic and ": null
+    },
+    {
+        "spin orbit": "angular momentum couplingspin-orbit coupling"
+    },
+    {
+        " terms, both of which are far more important for heavy atoms. In all of these approaches, along with choice of method, it is necessary to choose a ": null
+    },
+    {
+        "basis set": "basis set"
+    },
+    {
+        ". This is a set of functions, usually centered on the different atoms in the molecule, which are used to expand the molecular orbitals with the ": null
+    },
+    {
+        "linear combination of atomic orbitals": "linear combination of atomic orbitals"
+    },
+    {
+        " molecular orbital method ": null
+    },
+    {
+        "ansatz": "ansatz"
+    },
+    {
+        ". Ab initio methods need to define a level of theory and a basis set.     The Hartree–Fock wave function is a single configuration or determinant. In some cases, particularly for bond breaking processes, this is inadequate, and several ": null
+    },
+    {
+        "configurations": "multi-configurational self-consistent field"
+    },
+    {
+        " must be used. Here, the coefficients of the configurations, and of the basis functions, are optimized together.     The total molecular energy can be evaluated as a function of the ": null
+    },
+    {
+        "molecular geometry": "molecular geometry"
+    },
+    {
+        "; in other words, the ": null
+    },
+    {
+        "potential energy surface": "potential energy surface"
+    },
+    {
+        ". Such a surface can be used for reaction dynamics. The stationary points of the surface lead to predictions of different ": null
+    },
+    {
+        "isomer": "isomer"
+    },
+    {
+        "s and the ": null
+    },
+    {
+        "transition structures": "transition state theory"
+    },
+    {
+        " for conversion between isomers, but these can be determined without a full knowledge of the complete surface.     A particularly important objective, called computational ": null
+    },
+    {
+        "thermochemistry": "thermochemistry"
+    },
+    {
+        ", is to calculate thermochemical quantities such as the ": null
+    },
+    {
+        "enthalpy of formation": "standard enthalpy change of formation"
+    },
+    {
+        " to chemical accuracy. Chemical accuracy is the accuracy required to make realistic chemical predictions and is generally considered to be 42  kcal/mol or 42  kJ/mol. To reach that accuracy in an economic way it is necessary to use a series of post-Hartree–Fock methods and combine the results. These methods are called ": null
+    },
+    {
+        "quantum chemistry composite methods": "quantum chemistry composite methods"
+    },
+    {
+        ".            Density functional theory methods are often considered to be  ab initio methods  for determining the molecular electronic structure, even though many of the most common ": null
+    },
+    {
+        "functionals": "functional"
+    },
+    {
+        " use parameters derived from empirical data, or from more complex calculations. In DFT, the total energy is expressed in terms of the total one-": null
+    },
+    {
+        "electron density": "electronic density"
+    },
+    {
+        " rather than the wave function. In this type of calculation, there is an approximate ": null
+    },
+    {
+        "Hamiltonian": "hamiltonian"
+    },
+    {
+        " and an approximate expression for the total electron density. DFT methods can be very accurate for little computational cost. Some methods combine the density functional exchange functional with the Hartree–Fock exchange term and are termed ": null
+    },
+    {
+        "hybrid functional": "hybrid functional"
+    },
+    {
+        " methods.            Semi-empirical ": null
+    },
+    {
+        "quantum chemistry": "quantum chemistry"
+    },
+    {
+        " methods are based on the ": null
+    },
+    {
+        "Hartree–Fock method": "hartree–fock method"
+    },
+    {
+        " formalism, but make many approximations and obtain some parameters from empirical data. They were very important in computational chemistry from the 42s to the 42s, especially for treating large molecules where the full Hartree–Fock method without the approximations were too costly. The use of empirical parameters appears to allow some inclusion of correlation effects into the methods.     Primitive semi-empirical methods were designed even before, where the two-electron part of the ": null
+    },
+    {
+        "Hamiltonian": "hamiltonian"
+    },
+    {
+        " is not explicitly included. For π-electron systems, this was the ": null
+    },
+    {
+        "Hückel method": "hückel method"
+    },
+    {
+        " proposed by ": null
+    },
+    {
+        "Erich Hückel": "erich hückel"
+    },
+    {
+        ", and for all valence electron systems, the ": null
+    },
+    {
+        "extended Hückel method": "extended hückel method"
+    },
+    {
+        " proposed by ": null
+    },
+    {
+        "Roald Hoffmann": "roald hoffmann"
+    },
+    {
+        ". Sometimes, Hückel methods are referred to as completely emprirical because they do not derive from a Hamiltonian.  Yet, the term empirical methods , or empirical force fields is usually used to describe Molecular Mechanics.             In many cases, large molecular systems can be modeled successfully while avoiding quantum mechanical calculations entirely. ": null
+    },
+    {
+        "Molecular mechanics": "molecular mechanics"
+    },
+    {
+        " simulations, for example, use one classical expression for the energy of a compound, for instance the ": null
+    },
+    {
+        "harmonic oscillator": "harmonic oscillator"
+    },
+    {
+        ". All constants appearing in the equations must be obtained beforehand from experimental data or ab initio calculations.     The database of compounds used for parameterization, i.e., the resulting set of parameters and functions is called the ": null
+    },
+    {
+        "force field": "force field"
+    },
+    {
+        ", is crucial to the success of molecular mechanics calculations. A force field parameterized against a specific class of molecules, for instance proteins, would be expected to only have any relevance when describing other molecules of the same class.     These methods can be applied to proteins and other large biological molecules, and allow studies of the approach and interaction of potential drug molecules.              Computational chemical methods can be applied to ": null
+    },
+    {
+        "solid state physics": "solid state physics"
+    },
+    {
+        " problems. The electronic structure of a crystal is in general described by a ": null
+    },
+    {
+        "band structure": "band structure"
+    },
+    {
+        ", which defines the energies of electron orbitals for each point in the ": null
+    },
+    {
+        "Brillouin zone": "brillouin zone"
+    },
+    {
+        ". Ab initio and semi-empirical calculations yield orbital energies; therefore, they can be applied to band structure calculations. Since it is time-consuming to calculate the energy for a molecule, it is even more time-consuming to calculate them for the entire list of points in the Brillouin zone.       Once the electronic and ": null
+    },
+    {
+        "nuclear": "molecular geometry"
+    },
+    {
+        " variables are ": null
+    },
+    {
+        "separated": "separation of variables"
+    },
+    {
+        " , in the time-dependent approach, the ": null
+    },
+    {
+        "wave packet": "wave packet"
+    },
+    {
+        " corresponding to the nuclear ": null
+    },
+    {
+        "degrees of freedom": "degrees of freedom"
+    },
+    {
+        " is propagated via the ": null
+    },
+    {
+        "time evolution": "time evolution"
+    },
+    {
+        " operator ": "operator"
+    },
+    {
+        " associated to the time-dependent ": null
+    },
+    {
+        "Schrödinger equation": "schrödinger equation"
+    },
+    {
+        " . In the ": null
+    },
+    {
+        "complementary": "complementarity"
+    },
+    {
+        " energy-dependent approach, the time-independent Schrödinger equation is solved using the ": null
+    },
+    {
+        "scattering theory": "scattering theory"
+    },
+    {
+        " formalism. The potential representing the interatomic interaction is given by the ": null
+    },
+    {
+        "potential energy surface": "potential energy surface"
+    },
+    {
+        "s. In general, the ": null
+    },
+    {
+        "potential energy surface": "potential energy surface"
+    },
+    {
+        "s are coupled via the ": null
+    },
+    {
+        "vibronic coupling": "vibronic coupling"
+    },
+    {
+        " terms.     The most popular methods for propagating the ": null
+    },
+    {
+        "wave packet": "wave packet"
+    },
+    {
+        " associated to the ": null
+    },
+    {
+        "molecular geometry": "molecular geometry"
+    },
+    {
+        " are:   the ": null
+    },
+    {
+        "split operator technique": "split operator technique"
+    },
+    {
+        ",   the ": null
+    },
+    {
+        "Chebyshev polynomial": "chebyshev polynomials"
+    },
+    {
+        ",   the ": null
+    },
+    {
+        "multi-configuration time-dependent Hartree": "multi-configuration time-dependent hartree"
+    },
+    {
+        " method ,   the semiclassical method.            Molecular dynamics use either ": null
+    },
+    {
+        "quantum mechanics": "quantum mechanics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "molecular mechanics": "molecular mechanics"
+    },
+    {
+        " or a ": null
+    },
+    {
+        "mixture of both": "qm/mm"
+    },
+    {
+        " to calculate forces which are then used to solve ": null
+    },
+    {
+        "Newtons laws of motion": "newtons laws of motion"
+    },
+    {
+        " to examine the time-dependent behaviour of systems. The result of a molecular dynamics simulation is a trajectory that describes how the position and velocity of particles varies with time.          QM/MM is a hybrid method that attempts to combine the accuracy of quantum mechanics with the speed of molecular mechanics. It is useful for simulating very large molecules such as ": null
+    },
+    {
+        "enzyme": "enzyme"
+    },
+    {
+        "s.         The ": null
+    },
+    {
+        "atoms in molecules": "atoms in molecules"
+    },
+    {
+        " model of ": null
+    },
+    {
+        "Richard Bader": "richard bader"
+    },
+    {
+        " was developed to effectively link the quantum mechanical model of a molecule, as an electronic wavefunction, to chemically useful concepts such as atoms in molecules, functional groups, bonding, the theory of ": null
+    },
+    {
+        "Lewis pair": "lewis pair"
+    },
+    {
+        "s, and the ": null
+    },
+    {
+        "valence bond model": "valence bond theory"
+    },
+    {
+        ". Bader has demonstrated that these empirically useful chemistry concepts can be related to the ": null
+    },
+    {
+        "topology": "topology"
+    },
+    {
+        " of the observable charge density distribution, whether measured or calculated from a quantum mechanical wavefunction. QTAIM analysis of molecular wavefunctions is implemented, for example, in the ": null
+    },
+    {
+        "AIMAll": "aimall"
+    },
+    {
+        " software package.       Many self-sufficient ": null
+    },
+    {
+        "computational chemistry software packages": ":category:computational chemistry software"
+    },
+    {
+        " exist. Some include many methods covering a wide range, while others concentrate on a very specific range or even on one method. Details of most of them can be found in:   ": null
+    },
+    {
+        "Biomolecular": "biomolecular"
+    },
+    {
+        " modelling programs: ": null
+    },
+    {
+        "proteins": "list of protein structure prediction software"
+    },
+    {
+        ", ": null
+    },
+    {
+        "nucleic acid": "comparison of nucleic acid simulation software"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Molecular mechanics": "comparison of software for molecular mechanics modeling"
+    },
+    {
+        " programs.   ": null
+    },
+    {
+        "Quantum chemistry and solid state physics software": "list of quantum chemistry and solid state physics software"
+    },
+    {
+        " supporting several methods.   ": null
+    },
+    {
+        "Molecular design software": "molecular design software"
+    },
+    {
+        " Semi-empirical": "semi-empirical quantum chemistry methods"
+    },
+    {
+        " programs.   ": null
+    },
+    {
+        "Valence bond programs": "valence bond programs"
+    }
+]

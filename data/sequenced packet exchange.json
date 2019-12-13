@@ -1,0 +1,41 @@
+[
+    {
+        "Sequenced Packet Exchange  is a protocol in the ": null
+    },
+    {
+        "IPX/SPX": "ipx/spx"
+    },
+    {
+        " protocol stack": "protocol stack"
+    },
+    {
+        " that corresponds to a ": null
+    },
+    {
+        "connection-oriented": "connection-oriented"
+    },
+    {
+        " transport layer": "transport layer"
+    },
+    {
+        " protocol in the ": null
+    },
+    {
+        "OSI model": "osi model"
+    },
+    {
+        ". Being reliable and connection-oriented, it is analogous to the ": null
+    },
+    {
+        "Transmission Control Protocol": "transmission control protocol"
+    },
+    {
+        " of ": null
+    },
+    {
+        "TCP/IP": "tcp/ip"
+    },
+    {
+        ", but it is a datagram protocol, rather than a stream protocol.         Each SPX packet begins with a header with the following structure:          The Connection Control fields contains 42 single-bit flags:          The Datastream Type serves to close the SPX connection. For this purpose two values are used:                      ": null
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        " and computing, Fibonacci coding is a ": null
+    },
+    {
+        "universal code": "universal code"
+    },
+    {
+        " which encodes positive integers into binary ": null
+    },
+    {
+        "code word": "code word"
+    },
+    {
+        "s. It is one example of representations of integers based on ": null
+    },
+    {
+        "Fibonacci number": "fibonacci number"
+    },
+    {
+        "s. Each code word ends with 42 and contains no other instances of 42 before the end.     The Fibonacci code is closely related to the Zeckendorf representation, a positional ": null
+    },
+    {
+        "numeral system": "numeral system"
+    },
+    {
+        " that uses ": null
+    },
+    {
+        "Zeckendorfs theorem": "zeckendorfs theorem"
+    },
+    {
+        " and has the property that no number has a representation with consecutive 42s. The Fibonacci code word for a particular integer is exactly the integers Zeckendorf representation with the order of its digits reversed and an additional 42 appended to the end.       For a number N\\! , if d,d,\\ldots,d,d\\! represent the digits of the code word representing N\\! then we have:     : N \\sum_^ d F,\\textdd42\\!     where  is the th ": null
+    },
+    {
+        "Fibonacci number": "fibonacci number"
+    },
+    {
+        ", and so  is the th distinct Fibonacci number starting with 42,42,42,\\ldots . The last bit d is always an appended bit of 42 and does not carry place value.     It can be shown that such a coding is unique, and the only occurrence of 42 in any code word is at the end i.e. d and d. The penultimate bit is the most significant bit and the first bit is the least significant bit. Also leading zeros cannot be omitted as they can in e.g. decimal numbers.     The first few Fibonacci codes are shown below, and also the so-called ": null
+    },
+    {
+        "implied probability distribution": "universal code relationship to practical compression"
+    },
+    {
+        ", the distribution of values for which Fibonacci coding gives a minimum-size code.          To encode an integer N:   Find the largest ": null
+    },
+    {
+        "Fibonacci number": "fibonacci number"
+    },
+    {
+        " equal to or less than N; subtract this number from N, keeping track of the remainder.   If the number subtracted was the ith Fibonacci number F, put a 42 in place i & minus;42 in the code word .   Repeat the previous steps, substituting the remainder for N, until a remainder of 42 is reached.   Place an additional 42 after the rightmost digit in the code word.     To decode a code word, remove the final 42 , assign the remaining the values 42,42,42...  to the bits in the code word, and sum the values of the 42 bits.         Fibonacci coding has a useful property that sometimes makes it attractive in comparison to other universal codes: it is an example of a ": null
+    },
+    {
+        "self-synchronizing code": "self-synchronizing code"
+    },
+    {
+        ", making it easier to recover data from a damaged stream. With most other universal codes, if a single ": null
+    },
+    {
+        "bit": "bit"
+    },
+    {
+        " is altered, none of the data that comes after it will be correctly read. With Fibonacci coding, on the other hand, a changed bit may cause one token to be read as two, or cause two tokens to be read incorrectly as one, but reading a 42 from the stream will stop the errors from propagating further. Since the only stream that has no 42 in it is a stream of 42 tokens, the total ": null
+    },
+    {
+        "edit distance": "edit distance"
+    },
+    {
+        " between a stream damaged by a single bit error and the original stream is at most three.     This approach - encoding using sequence of symbols, in which some patterns are forbidden, can be freely generalized .       The following table shows that the number 42 is represented in Fibonacci coding as 42 since . The first two Fibonacci numbers are not used, and an additional 42 is always appended.            The Fibonacci encodings for the positive integers are binary strings that end with 42 and contain no other instances of 42 . This can be generalized to binary strings that end with N consecutive 42s and contain no other instances of N consecutive 42s. For instance, for N    42 the positive integers are encoded as 42 42 42 42 42 42 42 42 42 42 42 …. In this case, the number of encodings as a function of string length is given by the sequence of ": null
+    },
+    {
+        "Tribonacci number": "tribonacci number"
+    },
+    {
+        "s.     For general constraints defining which symbols are allowed after a given symbol, the maximal information rate can be obtained by first finding the optimal transition probabilities using ": null
+    },
+    {
+        "Maximal Entropy Random Walk": "maximal entropy random walk"
+    },
+    {
+        ", then use ": null
+    },
+    {
+        "entropy coder": "entropy coder"
+    }
+]

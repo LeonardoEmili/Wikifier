@@ -1,0 +1,707 @@
+[
+    {
+        "              Algebraic geometry is a branch of ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", classically studying ": null
+    },
+    {
+        "zeros": "zero of a function"
+    },
+    {
+        " of ": null
+    },
+    {
+        "multivariate polynomial": "multivariate polynomial"
+    },
+    {
+        "s. Modern algebraic geometry is based on the use of ": null
+    },
+    {
+        "abstract algebraic": "abstract algebra"
+    },
+    {
+        " techniques, mainly from ": null
+    },
+    {
+        "commutative algebra": "commutative algebra"
+    },
+    {
+        ", for solving ": null
+    },
+    {
+        "geometrical problems": "geometry"
+    },
+    {
+        " about these sets of zeros.     The fundamental objects of study in algebraic geometry are ": null
+    },
+    {
+        "algebraic varieties": "algebraic variety"
+    },
+    {
+        ", which are geometric manifestations of ": null
+    },
+    {
+        "solutions": "solution set"
+    },
+    {
+        " of ": null
+    },
+    {
+        "systems of polynomial equations": "systems of polynomial equations"
+    },
+    {
+        ". Examples of the most studied classes of algebraic varieties are: ": null
+    },
+    {
+        "plane algebraic curve": "plane algebraic curve"
+    },
+    {
+        "s, which include ": null
+    },
+    {
+        "lines": "line"
+    },
+    {
+        ", ": null
+    },
+    {
+        "circle": "circle"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "parabola": "parabola"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "ellipse": "ellipse"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "hyperbola": "hyperbola"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "cubic curve": "cubic curve"
+    },
+    {
+        "s like ": null
+    },
+    {
+        "elliptic curve": "elliptic curve"
+    },
+    {
+        "s, and quartic curves like ": null
+    },
+    {
+        "lemniscate": "lemniscate of bernoulli"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "Cassini oval": "cassini oval"
+    },
+    {
+        "s. A point of the plane belongs to an algebraic curve if its coordinates satisfy a given ": null
+    },
+    {
+        "polynomial equation": "polynomial equation"
+    },
+    {
+        ". Basic questions involve the study of the points of special interest like the ": null
+    },
+    {
+        "singular point": "singular point of a curve"
+    },
+    {
+        "s, the ": null
+    },
+    {
+        "inflection point": "inflection point"
+    },
+    {
+        "s and the ": null
+    },
+    {
+        "points at infinity": "point at infinity"
+    },
+    {
+        ". More advanced questions involve the ": null
+    },
+    {
+        "topology": "topology"
+    },
+    {
+        " of the curve and relations between the curves given by different equations.     Algebraic geometry occupies a central place in modern mathematics and has multiple conceptual connections with such diverse fields as ": null
+    },
+    {
+        "complex analysis": "complex analysis"
+    },
+    {
+        ", ": null
+    },
+    {
+        "topology": "topology"
+    },
+    {
+        " and ": null
+    },
+    {
+        "number theory": "number theory"
+    },
+    {
+        ". Initially a study of ": null
+    },
+    {
+        "systems of polynomial equations": "systems of polynomial equations"
+    },
+    {
+        " in several variables, the subject of algebraic geometry starts where ": null
+    },
+    {
+        "equation solving": "equation solving"
+    },
+    {
+        " leaves off, and it becomes even more important to understand the intrinsic properties of the totality of solutions of a system of equations, than to find a specific solution; this leads into some of the deepest areas in all of mathematics, both conceptually and in terms of technique.        In the 42th century, algebraic geometry split into several subareas.   The mainstream of algebraic geometry is devoted to the study of the complex points of the algebraic varieties and more generally to the points with coordinates in an ": null
+    },
+    {
+        "algebraically closed field": "algebraically closed field"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Real algebraic geometry": "real algebraic geometry"
+    },
+    {
+        " is the study of the real points of an algebraic variety.   ": null
+    },
+    {
+        "Diophantine geometry": "diophantine geometry"
+    },
+    {
+        " and, more generally, ": null
+    },
+    {
+        "arithmetic geometry": "arithmetic geometry"
+    },
+    {
+        " is the study of the points of an algebraic variety with coordinates in ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        "s that are not ": null
+    },
+    {
+        "algebraically closed": "algebraically closed"
+    },
+    {
+        " and occur in ": null
+    },
+    {
+        "algebraic number theory": "algebraic number theory"
+    },
+    {
+        ", such as the field of ": null
+    },
+    {
+        "rational number": "rational number"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "number field": "number field"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "finite field": "finite field"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "function fields": "algebraic function field"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "p-adic field": "p-adic number"
+    },
+    {
+        "s.   A large part of ": null
+    },
+    {
+        "singularity theory": "singularity theorysingularities in algebraic geometry"
+    },
+    {
+        " is devoted to the singularities of algebraic varieties.   ": null
+    },
+    {
+        "Computational algebraic geometry": "computational algebraic geometry"
+    },
+    {
+        " is an area that has emerged at the intersection of algebraic geometry and ": null
+    },
+    {
+        "computer algebra": "computer algebra"
+    },
+    {
+        ", with the rise of computers. It consists mainly of ": null
+    },
+    {
+        "algorithm": "algorithm"
+    },
+    {
+        " design and ": null
+    },
+    {
+        "software": "software"
+    },
+    {
+        " development for the study of properties of explicitly given algebraic varieties.     Much of the development of the mainstream of algebraic geometry in the 42th century occurred within an abstract algebraic framework, with increasing emphasis being placed on intrinsic properties of algebraic varieties not dependent on any particular way of embedding the variety in an ambient coordinate space; this parallels developments in ": null
+    },
+    {
+        "topology": "topology"
+    },
+    {
+        ", ": null
+    },
+    {
+        "differential": "differential geometry"
+    },
+    {
+        " and ": null
+    },
+    {
+        "complex geometry": "complex geometry"
+    },
+    {
+        ". One key achievement of this abstract algebraic geometry is ": null
+    },
+    {
+        "Grothendieck": "grothendieck"
+    },
+    {
+        "s ": null
+    },
+    {
+        "scheme theory": "scheme theory"
+    },
+    {
+        " which allows one to use ": null
+    },
+    {
+        "sheaf theory": "sheaf theory"
+    },
+    {
+        " to study algebraic varieties in a way which is very similar to its use in the study of ": null
+    },
+    {
+        "differential": "differential manifold"
+    },
+    {
+        " and ": null
+    },
+    {
+        "analytic manifolds": "complex manifold"
+    },
+    {
+        ". This is obtained by extending the notion of point: In classical algebraic geometry, a point of an affine variety may be identified, through ": null
+    },
+    {
+        "Hilberts Nullstellensatz": "hilberts nullstellensatz"
+    },
+    {
+        ", with a ": null
+    },
+    {
+        "maximal ideal": "maximal ideal"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "coordinate ring": "coordinate ring"
+    },
+    {
+        ", while the points of the corresponding affine scheme are all prime ideals of this ring. This means that a point of such a scheme may be either a usual point or a subvariety. This approach also enables a unification of the language and the tools of classical algebraic geometry, mainly concerned with complex points, and of algebraic number theory. ": null
+    },
+    {
+        "Wiles proof": "wiless proof of fermats last theorem"
+    },
+    {
+        " of the longstanding conjecture called ": null
+    },
+    {
+        "Fermats last theorem": "fermats last theorem"
+    },
+    {
+        " is an example of the power of this approach.                 In classical algebraic geometry, the main objects of interest are the vanishing sets of collections of ": null
+    },
+    {
+        "polynomial": "polynomial"
+    },
+    {
+        "s, meaning the set of all points that simultaneously satisfy one or more ": null
+    },
+    {
+        "polynomial equations": "systems of polynomial equations"
+    },
+    {
+        ". For instance, the ": null
+    },
+    {
+        "two-dimensional": "n-sphere"
+    },
+    {
+        " sphere": "sphere"
+    },
+    {
+        " of radius 42 in three-dimensional ": null
+    },
+    {
+        "Euclidean space": "euclidean space"
+    },
+    {
+        " R 42 could be defined as the set of all points  with     : x^42+y^42+z^4242\\,     A slanted circle in R 42 can be defined as the set of all points  which satisfy the two polynomial equations     : x^42+y^42+z^4242\\,   : x+y+z42\\,            First we start with a ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        " k. In classical algebraic geometry, this field was always the complex numbers C, but many of the same results are true if we assume only that k is ": null
+    },
+    {
+        "algebraically closed": "algebraically closed field"
+    },
+    {
+        ". We consider the ": null
+    },
+    {
+        "affine space": "affine space"
+    },
+    {
+        " of dimension n over k, denoted A n  . When one fixes a coordinate system, one may identify A n  with k n . The purpose of not working with k n is to emphasize that one forgets the vector space structure that k n carries.     A function f : A n → A 42 is said to be polynomial  if it can be written as a polynomial, that is, if there is a polynomial p in kx 42 ,...,x n such that f p for every point M with coordinates  in A n . The property of a function to be polynomial does not depend on the choice of a coordinate system in A n .     When a coordinate system is chosen, the regular functions on the affine n-space may be identified with the ring of ": null
+    },
+    {
+        "polynomial function": "polynomial function"
+    },
+    {
+        "s in n variables over k. Therefore, the set of the regular functions on A n is a ring, which is denoted kA n .     We say that a polynomial vanishes at a point if evaluating it at that point gives zero. Let S be a set of polynomials in kA n . The vanishing set of S  is the set V of all points in A n where every polynomial in S vanishes. Symbolically,     : V \\.\\,     A subset of A n which is V, for some S, is called an algebraic set. The V stands for variety .     Given a subset U of A n , can one recover the set of polynomials which generate it? If U is any subset of A n , define I to be the set of all polynomials whose vanishing set contains U. The I stands for ": null
+    },
+    {
+        "ideal": "ideal"
+    },
+    {
+        ": if two polynomials f and g both vanish on U, then f+g vanishes on U, and if h is any polynomial, then hf vanishes on U, so I is always an ideal of the polynomial ring kA n .     Two natural questions to ask are:   Given a subset U of A n , when is U V?   Given a set S of polynomials, when is S I?     The answer to the first question is provided by introducing the ": null
+    },
+    {
+        "Zariski topology": "zariski topology"
+    },
+    {
+        ", a topology on A n whose closed sets are the algebraic sets, and which directly reflects the algebraic structure of kA n . Then U V if and only if U is an algebraic set or equivalently a Zariski-closed set. The answer to the second question is given by ": null
+    },
+    {
+        "Hilberts Nullstellensatz": "hilberts nullstellensatz"
+    },
+    {
+        ". In one of its forms, it says that I is the ": null
+    },
+    {
+        "radical": "radical of an ideal"
+    },
+    {
+        " of the ideal generated by S. In more abstract language, there is a ": null
+    },
+    {
+        "Galois connection": "galois connection"
+    },
+    {
+        ", giving rise to two ": null
+    },
+    {
+        "closure operator": "closure operator"
+    },
+    {
+        "s; they can be identified, and naturally play a basic role in the theory; the ": null
+    },
+    {
+        "example": "galois connectionexamples"
+    },
+    {
+        " is elaborated at Galois connection.     For various reasons we may not always want to work with the entire ideal corresponding to an algebraic set U. ": null
+    },
+    {
+        "Hilberts basis theorem": "hilberts basis theorem"
+    },
+    {
+        " implies that ideals in kA n are always finitely generated.     An algebraic set is called  irreducible  if it cannot be written as the union of two smaller algebraic sets. Any algebraic set is a finite union of irreducible algebraic sets and this decomposition is unique. Thus its elements are called the irreducible components of the algebraic set. An irreducible algebraic set is also called a  variety . It turns out that an algebraic set is a variety if and only if it may be defined as the vanishing set of a ": null
+    },
+    {
+        "prime ideal": "prime ideal"
+    },
+    {
+        " of the polynomial ring.     Some authors do not make a clear distinction between algebraic sets and varieties and use irreducible variety to make the distinction when needed.            Just as ": null
+    },
+    {
+        "continuous function": "continuous function"
+    },
+    {
+        "s are the natural maps on ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "smooth function": "smooth function"
+    },
+    {
+        "s are the natural maps on ": null
+    },
+    {
+        "differentiable manifold": "differentiable manifold"
+    },
+    {
+        "s, there is a natural class of functions on an algebraic set, called regular functions or polynomial functions. A regular function on an algebraic set V contained in A n is the restriction to V of a regular function on A n . For an algebraic set defined on the field of the complex numbers, the regular functions are smooth and even ": null
+    },
+    {
+        "analytic": "analytic function"
+    },
+    {
+        ".     It may seem unnaturally restrictive to require that a regular function always extend to the ambient space, but it is very similar to the situation in a ": null
+    },
+    {
+        "normal": "normal space"
+    },
+    {
+        " topological space": "topological space"
+    },
+    {
+        ", where the ": null
+    },
+    {
+        "Tietze extension theorem": "tietze extension theorem"
+    },
+    {
+        " guarantees that a continuous function on a closed subset always extends to the ambient topological space.     Just as with the regular functions on affine space, the regular functions on V form a ring, which we denote by kV. This ring is called the  coordinate ring of V.     Since regular functions on V come from regular functions on A n , there is a relationship between the coordinate rings. Specifically, if a regular function on V is the restriction of two functions f and g in kA n , then f   & minus;  g is a polynomial function which is null on V and thus belongs to I. Thus kV may be identified with kA n /I.       Using regular functions from an affine variety to A 42 , we can define ": null
+    },
+    {
+        "regular map": "morphism of algebraic varieties"
+    },
+    {
+        "s from one affine variety to another. First we will define a regular map from a variety into affine space: Let V be a variety contained in A n . Choose m regular functions on V, and call them f 42 , ..., f m . We define a regular map f from V to A m by letting . In other words, each f i determines one coordinate of the ": null
+    },
+    {
+        "range": "image"
+    },
+    {
+        " of f.     If V′ is a variety contained in A m , we say that f is a regular map from V to V′ if the range of f is contained in V′.     The definition of the regular maps apply also to algebraic sets.   The regular maps are also called morphisms, as they make the collection of all affine algebraic sets into a ": null
+    },
+    {
+        "category": "category theory"
+    },
+    {
+        ", where the objects are the affine algebraic sets and the ": null
+    },
+    {
+        "morphism": "morphism"
+    },
+    {
+        "s are the regular maps. The affine varieties is a subcategory of the category of the algebraic sets.     Given a regular map g from V to V′ and a regular function f of kV′, then . The map  is a ": null
+    },
+    {
+        "ring homomorphism": "ring homomorphism"
+    },
+    {
+        " from kV′ to kV. Conversely, every ring homomorphism from kV′ to kV defines a regular map from V to V′. This defines an ": null
+    },
+    {
+        "equivalence of categories": "equivalence of categories"
+    },
+    {
+        " between the category of algebraic sets and the ": null
+    },
+    {
+        "opposite category": "dual"
+    },
+    {
+        " of the finitely generated ": null
+    },
+    {
+        "reduced": "reduced ring"
+    },
+    {
+        " k-algebras. This equivalence is one of the starting points of ": null
+    },
+    {
+        "scheme theory": "scheme theory"
+    },
+    {
+        ".          In contrast to the preceding sections, this section concerns only varieties and not algebraic sets. On the other hand, the definitions extend naturally to projective varieties , as an affine variety and its projective completion have the same field of functions.     If V is an affine variety, its coordinate ring is an ": null
+    },
+    {
+        "integral domain": "integral domain"
+    },
+    {
+        " and has thus a ": null
+    },
+    {
+        "field of fractions": "field of fractions"
+    },
+    {
+        " which is denoted k and called the field of the rational functions on V or, shortly, the  function field  of V. Its elements are the restrictions to V of the ": null
+    },
+    {
+        "rational function": "rational function"
+    },
+    {
+        "s over the affine space containing V. The ": null
+    },
+    {
+        "domain": "domain of a function"
+    },
+    {
+        " of a rational function f is not V but the ": null
+    },
+    {
+        "complement": "complement"
+    },
+    {
+        " of the subvariety where the denominator of f vanishes.     As with regular maps, one may define a rational map from a variety V to a variety V . As with the regular maps, the rational maps from V to V may be identified to the ": null
+    },
+    {
+        "field homomorphism": "ring homomorphism"
+    },
+    {
+        "s from k to k.     Two affine varieties are birationally equivalent if there are two rational functions between them which are ": null
+    },
+    {
+        "inverse": "function inverse"
+    },
+    {
+        " one to the other in the regions where both are defined. Equivalently, they are birationally equivalent if their function fields are isomorphic.     An affine variety is a  rational variety  if it is birationally equivalent to an affine space. This means that the variety admits a rational parameterization. For example, the circle of equation x^42+y^4242 is a rational curve, as it has the parameterization   : x\\frac   : y\\frac\\,,   which may also be viewed as a rational map from the line to the circle.     The problem of ": null
+    },
+    {
+        "resolution of singularities": "resolution of singularities"
+    },
+    {
+        " is to know if every algebraic variety is birationally equivalent to a variety whose projective completion is nonsingular . It was solved in the affirmative in characteristic 42 by ": null
+    },
+    {
+        "Heisuke Hironaka": "heisuke hironaka"
+    },
+    {
+        " in 42 and is yet unsolved in finite characteristic.               Just as the formulas for the roots of second, third, and fourth degree polynomials suggest extending real numbers to the more algebraically complete setting of the complex numbers, many properties of algebraic varieties suggest extending affine space to a more geometrically complete projective space. Whereas the complex numbers are obtained by adding the number i, a root of the polynomial , projective space is obtained by adding in appropriate points at infinity , points where parallel lines may meet.     To see how this might come about, consider the variety . If we draw it, we get a ": null
+    },
+    {
+        "parabola": "parabola"
+    },
+    {
+        ". As x goes to positive infinity, the slope of the line from the origin to the point  also goes to positive infinity. As x goes to negative infinity, the slope of the same line goes to negative infinity.     Compare this to the variety V. This is a ": null
+    },
+    {
+        "cubic curve": "cubic curve"
+    },
+    {
+        ". As x goes to positive infinity, the slope of the line from the origin to the point  goes to positive infinity just as before. But unlike before, as x goes to negative infinity, the slope of the same line goes to positive infinity as well; the exact opposite of the parabola. So the behavior at infinity of V is different from the behavior at infinity of V.     The consideration of the projective completion of the two curves, which is their prolongation at infinity in the ": null
+    },
+    {
+        "projective plane": "projective plane"
+    },
+    {
+        ", allows us to quantify this difference: the point at infinity of the parabola is a ": null
+    },
+    {
+        "regular point": "regular point of an algebraic variety"
+    },
+    {
+        ", whose tangent is the ": null
+    },
+    {
+        "line at infinity": "line at infinity"
+    },
+    {
+        ", while the point at infinity of the cubic curve is a ": null
+    },
+    {
+        "cusp": "cusp"
+    },
+    {
+        ". Also, both curves are rational, as they are parameterized by x, and the ": null
+    },
+    {
+        "Riemann-Roch theorem": "riemann-roch theorem for algebraic curves"
+    },
+    {
+        " implies that the cubic curve must have a singularity, which must be at infinity, as all its points in the affine space are regular.     Thus many of the properties of algebraic varieties, including birational equivalence and all the topological properties, depend on the behavior at infinity and so it is natural to study the varieties in projective space. Furthermore, the introduction of projective techniques made many theorems in algebraic geometry simpler and sharper: For example, ": null
+    },
+    {
+        "Bézouts theorem": "bézouts theorem"
+    },
+    {
+        " on the number of intersection points between two varieties can be stated in its sharpest form only in projective space. For these reasons, projective space plays a fundamental role in algebraic geometry.     Nowadays, the  projective space  P n of dimension n is usually defined as the set of the lines passing through a point, considered as the origin, in the affine space of dimension , or equivalently to the set of the vector lines in a vector space of dimension . When a coordinate system has been chosen in the space of dimension , all the points of a line have the same set of coordinates, up to the multiplication by an element of k. This defines the ": null
+    },
+    {
+        "homogeneous coordinates": "homogeneous coordinates"
+    },
+    {
+        " of a point of P n as a sequence of  elements of the base field k, defined up to the multiplication by a nonzero element of k .     A polynomial in  variables vanishes at all points of a line passing through the origin if and only if it is ": null
+    },
+    {
+        "homogeneous": "homogeneous polynomial"
+    },
+    {
+        ". In this case, one says that the polynomial vanishes at the corresponding point of P n . This allows us to define a projective algebraic set in P n as the set , where a finite set of homogeneous polynomials  vanishes. Like for affine algebraic sets, there is a bijection between the projective algebraic sets and the reduced ": null
+    },
+    {
+        "homogeneous ideal": "homogeneous ideal"
+    },
+    {
+        "s which define them. The projective varieties are the projective algebraic sets whose defining ideal is prime. In other words, a projective variety is a projective algebraic set, whose ": null
+    },
+    {
+        "homogeneous coordinate ring": "homogeneous coordinate ring"
+    },
+    {
+        " is an ": null
+    },
+    {
+        "integral domain": "integral domain"
+    },
+    {
+        ", the projective coordinates ring being defined as the quotient of the graded ring or the polynomials in  variables by the homogeneous ideal defining the variety. Every projective algebraic set may be uniquely decomposed into a finite union of projective varieties.     The only regular functions which may be defined properly on a projective variety are the constant functions. Thus this notion is not used in projective situations. On the other hand, the field of the rational functions or function field  is a useful notion, which, similarly to the affine case, is defined as the set of the quotients of two homogeneous elements of the same degree in the homogeneous coordinate ring.            Real algebraic geometry is the study of the real points of algebraic varieties.     The fact that the field of the real numbers is an ": null
+    },
+    {
+        "ordered field": "ordered field"
+    },
+    {
+        " cannot be ignored in such a study. For example, the curve of equation x^42+y^42-a42 is a circle if a /math math 42 . It follows that real algebraic geometry is not only the study of the real algebraic varieties, but has been generalized to the study of the semi-algebraic sets, which are the solutions of systems of polynomial equations and polynomial inequalities. For example, a branch of the ": null
+    },
+    {
+        "hyperbola": "hyperbola"
+    },
+    {
+        " of equation x y42 42 is not an algebraic variety, but is a semi-algebraic set defined by x y42 and x /math math /math math ": null
+    }
+]

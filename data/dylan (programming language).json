@@ -1,0 +1,305 @@
+[
+    {
+        "     Dylan is a multi-paradigm ": null
+    },
+    {
+        "programming language": "programming language"
+    },
+    {
+        " that includes support for ": null
+    },
+    {
+        "functional": "functional programming"
+    },
+    {
+        " and ": null
+    },
+    {
+        "object-oriented programming": "object-oriented programming"
+    },
+    {
+        " , and is ": null
+    },
+    {
+        "dynamic": "dynamic programming language"
+    },
+    {
+        " and ": null
+    },
+    {
+        "reflective": "reflection"
+    },
+    {
+        " while providing a programming model designed to support generating efficient machine code, including fine-grained control over dynamic and static behaviors. It was created in the early 42s by a group led by ": null
+    },
+    {
+        "Apple Computer": "apple computer"
+    },
+    {
+        ".     A concise and thorough overview of the language may be found in the Dylan Reference Manual.     Dylan derives from ": null
+    },
+    {
+        "Scheme": "scheme"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Common Lisp": "common lisp"
+    },
+    {
+        " and adds an integrated object system derived from the ": null
+    },
+    {
+        "Common Lisp Object System": "common lisp object system"
+    },
+    {
+        " . In Dylan, all values  are ": null
+    },
+    {
+        "first-class object": "first-class object"
+    },
+    {
+        "s. Dylan supports ": null
+    },
+    {
+        "multiple inheritance": "multiple inheritance"
+    },
+    {
+        ", ": null
+    },
+    {
+        "polymorphism": "polymorphism"
+    },
+    {
+        ", ": null
+    },
+    {
+        "multiple dispatch": "multiple dispatch"
+    },
+    {
+        ", ": null
+    },
+    {
+        "keyword argument": "keyword argument"
+    },
+    {
+        "s, object introspection, ": null
+    },
+    {
+        "pattern": "pattern matching"
+    },
+    {
+        "-based ": null
+    },
+    {
+        "syntax extension macro": "syntactic macro"
+    },
+    {
+        "s, and many other advanced features. Programs can express fine-grained control over dynamism, admitting programs that occupy a continuum between dynamic and static programming and supporting evolutionary development .     Dylans main design goal is to be a dynamic language well-suited for developing ": null
+    },
+    {
+        "commercial software": "commercial software"
+    },
+    {
+        ". Dylan attempts to address potential performance issues by introducing natural limits to the full flexibility of ": null
+    },
+    {
+        "Lisp": "lisp"
+    },
+    {
+        " systems, allowing the ": null
+    },
+    {
+        "compiler": "compiler"
+    },
+    {
+        " to clearly understand compilable units, such as ": null
+    },
+    {
+        "libraries": "library"
+    },
+    {
+        ".     Dylan derives much of its semantics from Scheme and other Lisps; some Dylan implementations were initially built within extant Lisp systems. However, Dylan has an ": null
+    },
+    {
+        "ALGOL": "algol"
+    },
+    {
+        "-like syntax instead of a Lisp-like prefix syntax.            Dylan was created in the early 42s by a group led by ": null
+    },
+    {
+        "Apple Computer": "apple computer"
+    },
+    {
+        ". At one time in its development, it was intended for use with the ": null
+    },
+    {
+        "Apple Newton": "apple newton"
+    },
+    {
+        " computer, but the Dylan implementation did not reach sufficient maturity in time, and Newton instead used a mix of C and the ": null
+    },
+    {
+        "NewtonScript": "newtonscript"
+    },
+    {
+        " developed by Walter Smith. Apple ended their Dylan development effort in 42 though they made a technology release version available that included an advanced ": null
+    },
+    {
+        "integrated development environment": "integrated development environment"
+    },
+    {
+        " .     Two other groups contributed to the design of the language and developed implementations: ": null
+    },
+    {
+        "Harlequin": "harlequin"
+    },
+    {
+        " released a commercial IDE for ": null
+    },
+    {
+        "Microsoft Windows": "microsoft windows"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Carnegie Mellon University": "carnegie mellon university"
+    },
+    {
+        " released an ": null
+    },
+    {
+        "open source": "open-source software"
+    },
+    {
+        " compiler for ": null
+    },
+    {
+        "Unix": "unix"
+    },
+    {
+        " systems called Gwydion Dylan. Both of these implementations are now open source. The Harlequin implementation is now named Open Dylan and is maintained by a group of volunteers, the Dylan Hackers.     The Dylan language was code-named Ralph. James Joaquin chose the name Dylan for DYnamic LANguage.       Many of Dylans syntax features come from its Lisp heritage. Originally, Dylan used a Lisp-like prefix syntax, which was based on ": null
+    },
+    {
+        "s-expression": "s-expression"
+    },
+    {
+        "s. By the time the language design was completed, the syntax was changed to an ALGOL-like syntax, with the expectation that it would be more familiar to a wider audience of programmers. The syntax was designed by Michael Kahl. It is described in great detail in the Dylan Reference Manual.       Dylan is not ": null
+    },
+    {
+        "case sensitive": "case sensitivity"
+    },
+    {
+        ". Dylans ": null
+    },
+    {
+        "lexical syntax": "lexical syntax"
+    },
+    {
+        " allows the use of a naming convention where ": null
+    },
+    {
+        "hyphen-minus": "hyphen-minus"
+    },
+    {
+        " signs are used to connect the parts of multiple-word identifiers . This convention is common in Lisp languages but cannot be used in programming languages that treat any hyphen-minus that is not part of a numeric ": null
+    },
+    {
+        "literal": "literal"
+    },
+    {
+        " as a single ": null
+    },
+    {
+        "lexical token": "lexical token"
+    },
+    {
+        ", even when not surrounded by ": null
+    },
+    {
+        "whitespace character": "whitespace character"
+    },
+    {
+        "s.     Identifiers in Dylan may contain more special characters than most languages. Besides ": null
+    },
+    {
+        "alphanumeric": "alphanumeric"
+    },
+    {
+        " characters and hyphen-minus signs, Dylan allows the following non-alphanumerical characters as part of identifiers: ": null
+    },
+    {
+        "underscore": "underscore"
+    },
+    {
+        "  , ": null
+    },
+    {
+        "asterisk": "asterisk"
+    },
+    {
+        "  , ": null
+    },
+    {
+        "ampersand": "ampersand"
+    },
+    {
+        "  , ": null
+    },
+    {
+        "less-than sign": "less-than sign"
+    },
+    {
+        "  , ": null
+    },
+    {
+        "equals sign": "equals sign"
+    },
+    {
+        "  , ": null
+    },
+    {
+        "greater-than sign": "greater-than sign"
+    },
+    {
+        "  , ": null
+    },
+    {
+        "vertical bar": "vertical bar"
+    },
+    {
+        "  , ": null
+    },
+    {
+        "caret": "caret"
+    },
+    {
+        "  , ": null
+    },
+    {
+        "dollar sign": "dollar sign"
+    },
+    {
+        "  , ": null
+    },
+    {
+        "percent sign": "percent sign"
+    },
+    {
+        "  , and ": null
+    },
+    {
+        "at sign": "at sign"
+    },
+    {
+        "  . Identifiers may not consist of these non-alphanumeric characters or numeric characters alone. If there is any ambiguity, whitespace is used.       A simple class with several slots:       define class   slot point-x :: ,   required-init-keyword: x:;   slot point-y :: ,   required-init-keyword: y:;   end class ;       By convention, classes are named with less-than and greater-than signs used as ": null
+    },
+    {
+        "angle bracket": "angle bracket"
+    },
+    {
+        "s, e.g. the class named & lt;point & gt; in the code example.     In end class & lt;point & gt; both class and & lt;point & gt; are optional. This is true for all end clauses. For example, you may write end if or just end to terminate an if statement.     The same class, rewritten in the most minimal way possible:       define class   slot point-x;   slot point-y;   end;       The slots are now both typed as & lt;object & gt; . The slots must be initialized manually.     By convention, constant names begin with $ :       define constant $pi :: 42d42;       A factorial function:     define function factorial 42 ": null
+    }
+]

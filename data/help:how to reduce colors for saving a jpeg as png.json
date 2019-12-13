@@ -1,0 +1,59 @@
+[
+    {
+        "Sometimes, you find a drawing or similar image useful for a Wikipedia article, that was saved as a ": null
+    },
+    {
+        "JPEG": "jpeg"
+    },
+    {
+        " but should have been saved as a ": null
+    },
+    {
+        "PNG": "portable network graphics"
+    },
+    {
+        ". JPEG is good for images where the color changes fluidly throughout the image, like in a photograph, whereas PNG files are good for images with relatively few colors, such as a drawing of a flag, a chart, or a map; note that sometimes ": null
+    },
+    {
+        "SVG": "scalable vector graphics"
+    },
+    {
+        " is better.     Just automatically converting to PNG will almost never produce a good image. It is likely that the resulting file will be even larger than the original JPEG, and will maintain its poor quality.     However, with a good bitmap graphic editing program with which you are reasonably skilled, you can produce a good result. This tutorial uses the ": null
+    },
+    {
+        "GIMP": "gimp"
+    },
+    {
+        ", but it can be used with most ": null
+    },
+    {
+        "raster graphics editor": "raster graphics editor"
+    },
+    {
+        "s.       When you need to save an image with thousands of colors or more and you are concerned about filesize, your best bet is probably to save it as a JPEG file. JPEGs compression method takes advantage of the fact that most natural scenes have smooth gradients and soft edges, and so is optimized for that.     PNG, however, uses ": null
+    },
+    {
+        "lossless compression": "lossless compression"
+    },
+    {
+        ", which means that it saves every pixel exactly as it was drawn, which is ideal for iconic images such as graphs, flags, maps, and cartoons and for images likely to undergo further editing. Its compression is optimized for images with large areas of identical color with sharp edges.     In addition, though, the PNG format is very versatile. You can store images as PNG files while retaining more colors than the human eye can possibly distinguish, and can represent more colors and finer details than even JPEG, but only when saved in PNGs true color mode. However, when you save an image as a true color PNG, you tend to get overly large files, since its compression is not optimized for such images.     If you merely convert a JPEG to a PNG, your graphics program will likely produce one of these true-color PNGs, and make a large file. You should convert such PNGs to indexed or palette-based mode before you upload them. Most ": null
+    },
+    {
+        "raster graphics editor": "raster graphics editor"
+    },
+    {
+        "s will let you convert from true-color mode , and let you decide the number of colors you want in the resulting indexed image. How many colors you choose will depend upon the image—it must be fewer than 42 but often 42 or even fewer will work well. They may also ask if you want to use something called error diffusion or dithering . You will probably want to turn this option off. Experiment until you get it a result you like. Some tools may let you count the actual number of different colors in a file.     For images containing smooth gradients or a lot of detail, avoid moving to indexed mode, as this can lose information and cause banding artifacts. Instead, just eliminate JPEG artifacts as much as possible and convert to 42-bit PNG. Using the ": null
+    },
+    {
+        "posterize": "posterize"
+    },
+    {
+        " option of your graphics editor with a high setting may further reduce filesize and eliminate more artifacts without visibly reducing image quality.     To further reduce file size, you can use one of the optimization programs mentioned at the ": null
+    },
+    {
+        "Wikipedia graphics tutorial page": "wikipedia:graphics_tutorialsopen_source_programs"
+    },
+    {
+        ".       Once an image such as a map has been saved as JPEG inadvertently, it often contains neighboring colors that look the same to the human eye, but which are in fact different. PNGs compression method needlessly preserves these differences, and the result of converting a JPEG to PNG may not yield the reduction in file size that you hoped for. To remedy this, you can use the method described below to make sure that there are no more colors in the image than you actually need.          After you have the selection as shown above, choose an appropriate color for the land mass, and make sure the entire selected area is filled.   How to do this may differ between applications. Once the image consists of the color of the land, the color of the sea, and the intermediate colors of the edge between sea and land, you can reduce the number of colors to about sixteen and save as an indexed PNG. Again, experiment until you get it right.     The result of all of this effort is that you should get an image file that is smaller than the original image and which will be sharper and clearer .     Of course, simply forcing your raster graphics editor to reduce the number of colors in this example to 42 without cleaning the picture first, may give exactly the same result and take less time to do. This doesnt work, though, if there are visible defects from the JPEG process that you have to clean up first.     This article is here in the first place to make you aware that such tiny color differences exist, and to show you how to deal with them. If you just count the number of colors in a JPEG and then base the number of PNG palette entries on this count, you will leave unnecessary information in the image.     Second, not all image editors will let you force the number of colors using the correct colors! Those that do often have a bewildering array of options to set before you get the right colors.     Flood-fill method: Many image editors support a flood-fill tool that allows for a tolerance setting, i.e. similar colors to the one under the tool at time of execution will also be included. To create single-color areas, the flood fill tool is often the easiest tool. First select an odd color and experiment to find the right tolerance setting. Undo each time. Now you pick a main area color and fill by clicking into each contiguous area. Note: this works well for areas, but less so for lines. Careful reduction of the number of colors after treating the areas will often give the best results.           If an image is made up of only two discrete colors , it is possible to even remove artifacts at the edges with GIMPs Color to Alpha tool. First make sure your image has an alpha channel. Duplicate the original layer, but make it invisible. If the background should not be transparent when you are finished, create another new layer, and choose Alpha to Selection from the layer menu. Deselect any part that is supposed to remain transparent, and then shrink the selection by one. Use the color picker and fill with the background color.     Either way, use the color picker to select the foreground color and select the background color with your favorite tool and press delete. Then either grow the selection by one or two pixels or select the main color and invert the selection. The idea is to select both the newly transparent portions and the fringe around the foreground color. Use the color to alpha tool with the background color to remove the fringe.     Now cancel the selection, go to the Channels panel and deselect the Alpha channel, then go back to the layers panel. Use the fill tool to fill the selection with the main color. Go back and reselect the alpha channel to go back to regular editing.     Finally, compare the image with the original. Make sure there are no holes in the background layer . If the new version is too sharp, you can utilize the blur filter or tool to fix this, or use Colors   ": null
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "   Relational algebra, first created by ": null
+    },
+    {
+        "Edgar F. Codd": "edgar f. codd"
+    },
+    {
+        " while at IBM, is a family of algebras with a ": null
+    },
+    {
+        "well-founded semantics": "well-founded semantics"
+    },
+    {
+        " used for modelling the data stored in relational databases, and defining queries on it.     The main application of relational algebra is providing a theoretical foundation for ": null
+    },
+    {
+        "relational database": "relational database"
+    },
+    {
+        "s, particularly ": null
+    },
+    {
+        "query language": "query language"
+    },
+    {
+        "s for such databases, chief among which is ": null
+    },
+    {
+        "SQL": "sql"
+    },
+    {
+        ".       Relational algebra received little attention outside of pure mathematics until the publication of ": null
+    },
+    {
+        "E.F. Codd": "edgar f. codd"
+    },
+    {
+        "s ": null
+    },
+    {
+        "relational model of data": "relational model"
+    },
+    {
+        " in 42 Codd proposed such an algebra as a basis for database query languages.      Five primitive operators of Codds algebra are the  selection , the  projection , the  Cartesian product  , the  set union , and the  set difference .       The relational algebra uses ": null
+    },
+    {
+        "set union": "set union"
+    },
+    {
+        ", ": null
+    },
+    {
+        "set difference": "set difference"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Cartesian product": "cartesian product"
+    },
+    {
+        " from ": null
+    },
+    {
+        "set theory": "set theory"
+    },
+    {
+        ", but adds additional constraints to these operators.     For set union and set difference, the two ": null
+    },
+    {
+        "relation": "relation"
+    },
+    {
+        "s involved must be union-compatible—that is, the two relations must have the same set of attributes. Because ": null
+    },
+    {
+        "set intersection": "set intersection"
+    },
+    {
+        " is defined in terms of set union and set difference, the two relations involved in set intersection must also be union-compatible.     For the Cartesian product to be defined, the two relations involved must have disjoint headers—that is, they must not have a common attribute name.     In addition, the Cartesian product is defined differently from the one in ": null
+    },
+    {
+        "set": "set"
+    },
+    {
+        " theory in the sense that tuples are considered to be shallow for the purposes of the operation. That is, the Cartesian product of a set of n-tuples with a set of m-tuples yields a set of flattened -tuples . More formally, R × S is defined as follows:     R\\times S:\\     The cardinality of the Cartesian product is the product of the cardinalities of its factors, that is, |R × S R S a_42 \\ldots,a_n R ": null
+    },
+    {
+        "themati": "themati"
+    },
+    {
+        "a_42\\ldots,a_n\\isFriend trueisBusinessContact trueaddressBookt & cup; st & cup; smath|r_42 r_42 \\dots, r_nR \\bowtie S\\omega, \\dots \\omega\\omega, \\dots, \\omegas_42 s_42 \\dots, s_nR \\bowtie SA_42A_42A_k": null
+    }
+]

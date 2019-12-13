@@ -1,0 +1,254 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "computing": "computing"
+    },
+    {
+        ", a root-finding algorithm is an ": null
+    },
+    {
+        "algorithm": "algorithm"
+    },
+    {
+        " for finding ": null
+    },
+    {
+        "zeroes": "zero of a function"
+    },
+    {
+        ", also called roots , of ": null
+    },
+    {
+        "continuous function": "continuous function"
+    },
+    {
+        "s. A ": null
+    },
+    {
+        "zero": "zero of a function"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " , from the ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s to real numbers or from the ": null
+    },
+    {
+        "complex number": "complex number"
+    },
+    {
+        "s to the complex numbers, is a number  such that . As, generally, the zeroes of a function cannot be computed exactly nor expressed in ": null
+    },
+    {
+        "closed form": "closed form expression"
+    },
+    {
+        ", root-finding algorithms provide approximations to zeroes, expressed either as ": null
+    },
+    {
+        "floating point": "floating point"
+    },
+    {
+        " numbers or as small isolating ": null
+    },
+    {
+        "intervals": "interval"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "disks": "disk"
+    },
+    {
+        " for complex roots .     ": null
+    },
+    {
+        "Solving an equation": "equation solving"
+    },
+    {
+        "  is the same as finding the roots of the function . Thus root-finding algorithms allow solving any ": null
+    },
+    {
+        "equation": "equation"
+    },
+    {
+        " defined by continuous functions. However, most root-finding algorithms do not guarantee that they will find all the roots; in particular, if such an algorithm does not find any root, that does not mean that no root exists.     Most numerical root-finding methods use ": null
+    },
+    {
+        "iteration": "iteration"
+    },
+    {
+        ", producing a ": null
+    },
+    {
+        "sequence": "sequence"
+    },
+    {
+        " of numbers that hopefully converge towards the root as a ": null
+    },
+    {
+        "limit": "limit of a sequence"
+    },
+    {
+        ". They require one or more initial guesses of the root as starting values, then each iteration of the algorithm produces a successively more accurate approximation to the root. Since the iteration must be stopped at some point these methods produce an approximation to the root, not an exact solution. Many methods compute subsequent values by evaluating an auxiliary function on the preceding values. The limit is thus a ": null
+    },
+    {
+        "fixed point": "fixed point"
+    },
+    {
+        " of the auxiliary function, which is chosen for having the roots of the original equation as fixed points, and for converging rapidly to these fixed points.     The behaviour of general root-finding algorithms is studied in ": null
+    },
+    {
+        "numerical analysis": "numerical analysis"
+    },
+    {
+        ". However, for polynomials, root-finding study belongs generally to ": null
+    },
+    {
+        "computer algebra": "computer algebra"
+    },
+    {
+        ", since algebraic properties of polynomials are fundamental for the most efficient algorithms. The efficiency of an algorithm may depend dramatically on the characteristics of the given functions. For example, many algorithms use the ": null
+    },
+    {
+        "derivative": "derivative"
+    },
+    {
+        " of the input function, while others work on every ": null
+    },
+    {
+        "continuous function": "continuous function"
+    },
+    {
+        ". In general, numerical algorithms are not guaranteed to find all the roots of a function, so failing to find a root does not prove that there is no root. However, for ": null
+    },
+    {
+        "polynomial": "polynomial"
+    },
+    {
+        "s, there are specific algorithms that use algebraic properties for certifying that no root is missed, and locating the roots in separate intervals  that are small enough to ensure the convergence of numerical methods  to the unique root so located.         Bracketing methods determine successively smaller intervals that contain a root. When the interval is small enough, then a root has been found. They generally use the ": null
+    },
+    {
+        "intermediate value theorem": "intermediate value theorem"
+    },
+    {
+        ", which asserts that if a continuous function has values of opposite signs at the end points of an interval, then the function has at least one root in the interval. Therefore, they require to start with an interval such that the function takes opposite signs at the end points of the interval. However, in the case of ": null
+    },
+    {
+        "polynomial": "polynomial"
+    },
+    {
+        "s there are other methods  for getting information on the number of roots in an interval. They lead to efficient algorithms for ": null
+    },
+    {
+        "real-root isolation": "real-root isolation"
+    },
+    {
+        " of polynomials, which ensure finding all real roots with a guaranteed accuracy.       The simplest root-finding algorithm is the ": null
+    },
+    {
+        "bisection method": "bisection method"
+    },
+    {
+        ". Let  be a ": null
+    },
+    {
+        "continuous function": "continuous function"
+    },
+    {
+        ", for which one knows an interval  such that  and  have opposite signs . Let  be the middle of the interval . Then either  and , or  and  have opposite signs, and one has divided by two the size of the interval. Although the bisection method is robust, it gains one and only one ": null
+    },
+    {
+        "bit": "bit"
+    },
+    {
+        " of accuracy with each iteration. Other methods, under appropriate conditions, can gain accuracy faster.     regula falsiaf-bff-fthat is approximating the graph of the function by a line": null
+    },
+    {
+        "up to": "up to"
+    },
+    {
+        " the desired precisionnor the existencethe order is approximately 42 both good and baddegree onedegree twofor example the expression of the real roots of a ": null
+    },
+    {
+        "cubic polynomial": "cubic polynomial"
+    },
+    {
+        " may involve non-real ": null
+    },
+    {
+        "cube root": "cube root"
+    },
+    {
+        "sfor example, when roots represents a physical quantity, only the real positive ones are interestingreal or complexthe degree of Wilkinsons polynomial4242": null
+    },
+    {
+        "Maple": "maple"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Mathematica": "mathematica"
+    },
+    {
+        ", ": null
+    },
+    {
+        "SageMath": "sagemath"
+    },
+    {
+        "n42ffthere are easy ways for computing an upper bound of the roots, see ": null
+    },
+    {
+        "Properties of polynomial roots": "properties of polynomial roots"
+    },
+    {
+        "equal to –42with Horner ruleless clear for Laguerres method, as a square root has to be computed at each stepcpolywhere \\varphi is the ": null
+    },
+    {
+        "golden ratio": "golden ratio"
+    },
+    {
+        "sometimes also ascribed to ": null
+    },
+    {
+        "Lobachevsky": "nikolai ivanovich lobachevsky"
+    },
+    {
+        "see ": null
+    },
+    {
+        "Wilkinsons polynomial": "wilkinsons polynomial"
+    },
+    {
+        "even when all roots are realcontinued fraction method": null
+    },
+    {
+        "ftwa": "ftwa"
+    },
+    {
+        "bisection method": null
+    },
+    {
+        "themati": "themati"
+    }
+]

@@ -1,0 +1,608 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "chess": "chess"
+    },
+    {
+        " and chess-like games, the endgame  is the stage of the game when few ": null
+    },
+    {
+        "piece": "chess piece"
+    },
+    {
+        "s are left on the board.     The line between ": null
+    },
+    {
+        "middlegame": "chess middlegame"
+    },
+    {
+        " and endgame is often not clear, and may occur gradually or with the quick ": null
+    },
+    {
+        "exchange": "exchange"
+    },
+    {
+        " of a few pairs of pieces. The endgame, however, tends to have different characteristics from the middlegame, and the players have correspondingly different strategic concerns. In particular, ": null
+    },
+    {
+        "pawns": "pawn"
+    },
+    {
+        " become more important as endgames often revolve around attempting to ": null
+    },
+    {
+        "promote": "promotion"
+    },
+    {
+        " a pawn by advancing it to the eighth . The ": null
+    },
+    {
+        "king": "king"
+    },
+    {
+        ", which has to be protected in the middlegame owing to the threat of ": null
+    },
+    {
+        "checkmate": "checkmate"
+    },
+    {
+        ", becomes a strong piece in the endgame. It can be brought to the center of the board and act as a useful attacking piece.     Compared to chess opening theory, which changes frequently, giving way to ": null
+    },
+    {
+        "middlegame": "chess middlegame"
+    },
+    {
+        " positions that fall in and out of popularity, endgame theory is less subject to change. Many people have composed ": null
+    },
+    {
+        "endgame studies": "endgame study"
+    },
+    {
+        ", endgame positions which are solved by finding a win for White when there is no obvious way to win, or a ": null
+    },
+    {
+        "draw": "draw"
+    },
+    {
+        " when it seems White must lose.     Usually in the endgame, the stronger side  should try to exchange pieces , while avoiding the exchange of pawns. This generally makes it easier to convert a material advantage into a won game. The defending side should strive for the opposite.     Chess players classify endgames according to the type of pieces that remain.          Endgames can be divided into three categories:   Theoretical endgames – positions where the correct line of play is generally known and well-analyzed, so the solution is a matter of technique   Practical endgames – positions arising in actual games, where skillful play should transform it into a theoretical endgame position   Artistic endgames  – contrived positions which contain a theoretical endgame hidden by problematic complications .   This article generally does not consider studies.       An endgame is when there are only a few pieces left. There is no strict criterion for when an endgame begins, and different experts have different opinions . ": null
+    },
+    {
+        "Alexander Alekhine": "alexander alekhine"
+    },
+    {
+        " said We cannot define when the middle game ends and the end-game starts . With the usual system for ": null
+    },
+    {
+        "chess piece relative value": "chess piece relative value"
+    },
+    {
+        ", Speelman considers that endgames are positions in which each player has thirteen or fewer points in  . Alternatively, an endgame is a position in which the king can be used actively, but there are some famous exceptions to that . Minev characterizes endgames as positions having four or fewer pieces other than kings and pawns . Some authors consider endgames to be positions without queens , while others consider a position to be an endgame when each player has less than a ": null
+    },
+    {
+        "queen": "queen"
+    },
+    {
+        " plus ": null
+    },
+    {
+        "rook": "rook"
+    },
+    {
+        " in material. Flear considers an endgame to be where each player has at most one piece and positions with more material where each player has at most two pieces to be Not Quite an Endgame , pronounced nuckie .     Alburt and Krogius give three characteristics of an endgame:      Endgames favor an aggressive king.   ": null
+    },
+    {
+        "Passed pawn": "passed pawn"
+    },
+    {
+        "s increase greatly in importance.   ": null
+    },
+    {
+        "Zugzwang": "zugzwang"
+    },
+    {
+        " is often a factor in endgames and rarely in other stages of the game.     Some problem composers consider that the endgame starts when the player who is about to move can force a win or a draw against any variation of moves .     ": null
+    },
+    {
+        "Mednis": "edmar mednis"
+    },
+    {
+        " and Crouch address the question of what constitutes an endgame negatively. The game is still in the ": null
+    },
+    {
+        "middlegame": "chess middlegame"
+    },
+    {
+        " if middlegame elements still describe the position. The game is not in the endgame if these apply:   better ;   open  for attacking;   vulnerable king position;   misplaced pieces .       In endgames with pieces and pawns, an extra pawn is a winning advantage in 42 to 42 percent of cases. It becomes more decisive if the stronger side also has a positional advantage . In general, the player with a  advantage tries to exchange pieces and reach the endgame. In the endgame, the player with a material advantage should usually try to exchange pieces but avoid the exchange of pawns . There are some exceptions to this: endings in which both sides have two rooks plus pawns – the player with more pawns has better winning chances if a pair of rooks are not exchanged, and bishops on opposite color with other pieces – the stronger side should avoid exchanging the other pieces. Also when all of the pawns are on the same side of the board, often the stronger side must exchange pawns to try to create a ": null
+    },
+    {
+        "passed pawn": "passed pawn"
+    },
+    {
+        ".     In the endgame, it is usually better for the player with more pawns to avoid many pawn exchanges, because winning chances usually decrease as the number of pawns decreases. Also, endings with pawns on both sides of the board are much easier to win. A king and pawn endgame with an ": null
+    },
+    {
+        "outside passed pawn": "passed pawnoutside passed pawn"
+    },
+    {
+        " should be a far easier win than a middlegame a rook ahead.     With the recent growth of ": null
+    },
+    {
+        "computer chess": "computer chess"
+    },
+    {
+        ", a development has been the creation of endgame databases which are tables of stored positions calculated by retrograde analysis . A program which incorporates knowledge from such a database is able to play perfect chess on reaching any position in the database.     ": null
+    },
+    {
+        "Max Euwe": "max euwe"
+    },
+    {
+        " and Walter Meiden give these five generalizations:   In ": null
+    },
+    {
+        "king": "king"
+    },
+    {
+        " and ": null
+    },
+    {
+        "pawn": "pawn"
+    },
+    {
+        " endings, an extra pawn is decisive in more than 42 percent of the cases.   In endgames with pieces and pawns, an extra pawn is a winning advantage in 42 to 42 percent of the cases. It becomes more decisive if the stronger side has a positional advantage.   The king plays an important role in the endgame.   ": null
+    },
+    {
+        "Initiative": "initiative"
+    },
+    {
+        " is more important in the endgame than in other phases of the game. In ": null
+    },
+    {
+        "rook": "rook"
+    },
+    {
+        " endgames the initiative is usually worth at least a pawn.   Two ": null
+    },
+    {
+        "connected": "connected pawns"
+    },
+    {
+        " passed pawn": "passed pawn"
+    },
+    {
+        "s are very strong. If they reach their sixth  they are generally as powerful as a rook .                Many references   Basic Chess Endgames, Ruben Fine & revised by Pal Benko, 42   A Pocket Guide to Endgames, David Hooper, 42   Practical Chess Endings, Paul Keres, 42   Chess Endings for the Practical Player, Ludek Pachman, 42   Batsford Chess Endings, by Speelman, Tisdall, and Wade   Pandolfinis Endgame Course, Bruce Pandolfini, 42   Winning Chess Endings, by Yasser Seirwan   Winning Chess Endgames, by Tony Kosten, 42   The Mammoth Book of Chess, by Graham Burgess, 42   Chess Endings: Essential Knowledge, by Yuri Averbach, 42   Fundamental Chess Endings by Karsten Müller and Frank Lamprecht, 42   have sections on basic, elementary, or fundamental checkmating endgames. In general, these are pawnless endgames with one or more pieces checkmating a lone king. For example:     ": null
+    },
+    {
+        "king and queen against a king": "checkmateking and queen"
+    },
+    {
+        "   king and rook against a king": "checkmateking and rook"
+    },
+    {
+        "   king and two bishops of opposite colour against a king": "checkmateking and two bishops"
+    },
+    {
+        "     Some authors choose to add endgames from the following list to arrive at their list of Basic checkmates :     ": null
+    },
+    {
+        "king, bishop, and knight against a king": "bishop and knight checkmate"
+    },
+    {
+        "   king and two knights against a king": "two knights endgametwo knights cannot force checkmate"
+    },
+    {
+        "   king and three knights against a king   ": null
+    },
+    {
+        "king and pawn against a king": "king and pawn versus king endgame"
+    },
+    {
+        "   king and two knights against a king and pawn": "two knights endgametroitsky line"
+    },
+    {
+        "   king and queen against a king and rook": "pawnless chess endgamequeen versus rook"
+    },
+    {
+        "     In conjunction with its king, a queen or a rook can easily ": null
+    },
+    {
+        "checkmate": "checkmate"
+    },
+    {
+        " a lone king, but a single   cannot. See ": null
+    },
+    {
+        "Wikibooks  – Chess/The Endgame": "wikibooks:chess/the endgame"
+    },
+    {
+        " for a demonstration of these two checkmates. Two bishops can easily checkmate a lone king, provided that the bishops move on opposite color squares. A bishop and knight can also checkmate a lone king, although the ": null
+    },
+    {
+        "checkmate procedure": "bishop and knight checkmate"
+    },
+    {
+        " is long and is difficult for a player who does not know the correct technique.     Two knights cannot force checkmate against a lone king , but if the weaker side also has material , checkmate is sometimes possible.  The winning chances with two knights are insignificant except against a few pawns.  The procedure can be long and difficult. In competition, the ": null
+    },
+    {
+        "fifty-move rule": "fifty-move rule"
+    },
+    {
+        " will often result in the game being drawn first.       King and pawn endgames involve only ": null
+    },
+    {
+        "kings": "king"
+    },
+    {
+        " and ": null
+    },
+    {
+        "pawns": "pawn"
+    },
+    {
+        " on one or both sides. ": null
+    },
+    {
+        "International Master": "international master"
+    },
+    {
+        " Cecil Purdy": "cecil purdy"
+    },
+    {
+        " said Pawn endings are to chess as putting is to golf. Any endgame with pieces and pawns has the possibility of  into a pawn ending .     In king and pawn endings, an extra pawn is decisive in more than 42 percent of the cases . Getting a  passed pawn  is crucial . ": null
+    },
+    {
+        "Nimzovich": "aron nimzowitsch"
+    },
+    {
+        " once said that a passed pawn has a lust to expand . An  is particularly deadly. The point of this is a decoy – while the defending king is preventing it from queening, the attacking king wins pawns on the other side.      Opposition  is an important technique that is used to gain an advantage. When two kings are in opposition, they are on the same   with an empty square separating them. The player having the move loses the opposition. He must move his king and allow the opponents king to advance. Note however that the opposition is a means to an end, which is penetration into the enemy position. If the attacker can penetrate without the opposition, he should do so. The tactics of ": null
+    },
+    {
+        "triangulation": "triangulation"
+    },
+    {
+        " and ": null
+    },
+    {
+        "zugzwang": "zugzwang"
+    },
+    {
+        " as well as the theory of ": null
+    },
+    {
+        "corresponding squares": "corresponding squares"
+    },
+    {
+        " are often decisive.     Unlike most positions, king and pawn endgames can usually be analyzed to a definite conclusion, given enough skill and time. An error in a king and pawn endgame almost always turns a win into a draw or a draw into a loss – there is little chance for recovery. Accuracy is most important in these endgames. There are three fundamental ideas in these endgames: ": null
+    },
+    {
+        "opposition": "opposition"
+    },
+    {
+        ", ": null
+    },
+    {
+        "triangulation": "triangulation"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "Réti manoeuvre": "réti endgame study"
+    },
+    {
+        " .             This is one of the most basic endgames. A draw results if the defending king can reach the square in front of the pawn or the square in front of that . If the attacking king can prevent that, the king will assist the pawn in being ": null
+    },
+    {
+        "promoted": "promotion"
+    },
+    {
+        " to a queen or rook, and checkmate can be achieved. A  is an exception because the king may not be able to get out of the way of its pawn. The other pawns are also exceptions .           Knight and pawn endgames feature clever manoeuvring by the knights to capture opponent pawns. While a knight is poor at chasing a passed pawn, it is the ideal piece to block a passed pawn. Knights cannot lose a ": null
+    },
+    {
+        "tempo": "tempo"
+    },
+    {
+        ", so knight and pawn endgames have much in common with king and pawn endgames. As a result, ": null
+    },
+    {
+        "Mikhail Botvinnik": "mikhail botvinnik"
+    },
+    {
+        " stated that “a knight ending is really a pawn ending.”           This is generally a draw since the knight can be sacrificed for the pawn, however, the king and knight must be covering squares in the pawns path. If the pawn reaches the seventh rank and is supported by its king and knight, it usually ": null
+    },
+    {
+        "promotes": "promotion"
+    },
+    {
+        " and wins. In this position, White to move wins: 42 b42 Nb42 42 Ne42! Na42 42 Kc42! N-any 42 Nc42. If Black plays the knight to any other square on move 42 White plays Kc42 anyway, threatening b42+ and promotion if the knight leaves the defense of the b42 square. Black to move draws starting with 42.. Nc42 because White cannot gain a ": null
+    },
+    {
+        "tempo": "tempo"
+    },
+    {
+        " .               ": null
+    },
+    {
+        "Bishop": "bishop"
+    },
+    {
+        " and pawn endgames come in two distinctly different variants. If the opposing bishops go on the same color of square, the mobility of the bishops is a crucial factor. A  is one that is hemmed in by pawns of its own color, and has the burden of defending them.     The adjacent diagram, from Molnar–Nagy, Hungary 42 illustrates the concepts of good bishop versus bad bishop, opposition, ": null
+    },
+    {
+        "zugzwang": "zugzwang"
+    },
+    {
+        ", and outside passed pawn. White wins with 42 e42! 42.. Bxe42 42 Bc42! 42.. Bf42 42 Be42! 42.. Be42 42 Ke42! 42.. Bd42 42 Bxg42!             Two rules given by ": null
+    },
+    {
+        "Luigi Centurini": "luigi centurini"
+    },
+    {
+        " in the 42th century apply:   The game is a draw if the defending king can reach any square in front of the pawn that is opposite in color to the squares the bishops travel on.   If the defending king is behind the pawn and the attacking king is near the pawn, the defender can draw only if his king is attacking the pawn, he has the opposition, and his bishop can move on two diagonals that each have at least two squares available . This is the case for  and the  whose promotion square is not the same color as the bishop .     The position in the second diagram shows a winning position for White, although it requires accurate play. A  always wins if the defending bishop only has one long diagonal available .           This position was reached in a game from the 42 ": null
+    },
+    {
+        "Candidates Tournament": "candidates tournament"
+    },
+    {
+        " between ": null
+    },
+    {
+        "Lajos Portisch": "lajos portisch"
+    },
+    {
+        " and former ": null
+    },
+    {
+        "World Champion": "world chess champion"
+    },
+    {
+        " Mikhail Tal": "mikhail tal"
+    },
+    {
+        ".  White must defend accurately and utilize ": null
+    },
+    {
+        "reciprocal zugzwang": "zugzwangreciprocal zugzwang"
+    },
+    {
+        ". Often he has only one or two moves that avoid a losing position. Black was unable to make any progress and the game was drawn on move 42 .                Endings with bishops of opposite color, meaning that one bishop works on the light squares, the other one working on dark squares, are notorious for their  character. Many players in a poor position have saved themselves from a loss by trading down to such an endgame. They are often drawn even when one side has a two-pawn advantage, since the weaker side can create a blockade on the squares which his bishop operates on. The weaker side should often try to make his bishop  by placing his pawns on the same color of his bishop in order to defend his remaining pawns, thereby creating an impregnable ": null
+    },
+    {
+        "fortress": "fortress"
+    },
+    {
+        ".          Current ": null
+    },
+    {
+        "theory": "chess theory"
+    },
+    {
+        " is that bishops are better than knights about 42 percent of the time in the endgame. The more symmetrical the ": null
+    },
+    {
+        "pawn structure": "pawn structure"
+    },
+    {
+        ", the better it is for the knight. The knight is best suited at an outpost in the center, particularly where it cannot easily be driven away, whereas the bishop is strongest when it can attack targets on both sides of the board or a series of squares of the same color .     Fine and Benko  give four conclusions:   In general the bishop is better than the knight.   When there is a material advantage, the difference between the bishop and knight is not very important. However, the bishop usually wins more easily than the knight.   If the material is even, the position should be drawn. However, the bishop can exploit positional advantages more efficiently.   When most of the pawns are on the same color as the bishop , the knight is better.          This is a draw if the defending king is in front of the pawn or sufficiently close. The defending king can occupy a square in front of the pawn of the opposite color as the bishop and cannot be driven away. Otherwise the attacker can win .             This is a draw if the defending king is in front of the pawn or sufficiently near. The bishop is kept on a diagonal that the pawn must cross and the knight cannot both block the bishop and drive the defending king away. Otherwise the attacker can win .          Rook and pawn endgames are often drawn in spite of one side having an extra pawn. An extra pawn is harder to convert to a win in a rook and pawn endgame than any other type of endgame except a bishop endgame with bishops on opposite colors. Rook endings are probably the deepest and most well studied endgames. They are a common type of endgame in practice, occurring in about 42 percent of all games . These endgames occur frequently because rooks are often the last pieces to be exchanged. The ability to play these endgames well is a major factor distinguishing masters from amateurs . When both sides have two rooks and pawns, the stronger side usually has more winning chances than if each had only one rook .     Three rules of thumb regarding rooks are worth noting:   Rooks should almost always be placed behind passed pawns, whether ones own or the opponents . A notable exception is in the ending of a rook and pawn versus a rook, if the pawn is not too far advanced. In that case, the best place for the opposing rook is in front of the pawn.   Rooks are very poor defenders relative to their attacking strength, so it is often good to sacrifice a pawn for activity.   A rook on the seventh rank can wreak mayhem among the opponents pawns. The power of a rook on the seventh rank is not confined to the endgame. The classic example is ": null
+    },
+    {
+        "Capablanca": "josé raúl capablanca"
+    },
+    {
+        " versus ": null
+    },
+    {
+        "Tartakower": "savielly tartakower"
+    },
+    {
+        ", New York 42      An important winning position in the ": null
+    },
+    {
+        "rook and pawn versus rook endgame": "rook and pawn versus rook endgame"
+    },
+    {
+        " is the so-called ": null
+    },
+    {
+        "Lucena position": "lucena position"
+    },
+    {
+        ". If the side with the pawn can reach the Lucena position, he wins. However, there are several important drawing techniques such as the ": null
+    },
+    {
+        "Philidor position": "philidor position"
+    },
+    {
+        ", the back rank defense , the frontal defense, and the short side defense. A general rule is that if the weaker sides king can get to the queening square of the pawn, the game is a draw and otherwise it is a win, but there are many exceptions.             Generally , if the defending king can reach the queening square of the pawn the game is a draw , otherwise the attacker usually wins  . The winning procedure can be very difficult and some positions require up to sixty moves to win . If the attacking rook is two files from the pawn and the defending king is cut off on the other side, the attacker normally wins . The rook and pawn versus rook is the most common of the piece and pawn versus piece endgames .     The most difficult case of a rook and pawn versus a rook occurs when the attacking rook is one file over from the pawn and the defending king is cut off on the other side. ": null
+    },
+    {
+        "Siegbert Tarrasch": "siegbert tarrasch"
+    },
+    {
+        " gave the following rules for this case: For a player defending against a pawn on the fifth or even sixth ranks to obtain a draw, even after his king has been forced off the queening square, the following conditions must obtain: The file on which the pawn stands divides the board into two unequal parts. The defending rook must stand in the longer part and give checks from the flank at the greatest possible distance from the attacking king. Nothing less than a distance of three files makes it possible for the rook to keep on giving check. Otherwise it would ultimately be attacked by the king. The defending king must stand on the smaller part of the board.            All rook and pawn endings are drawn.     The context of this quote shows it is a comment on the fact that a small advantage in a rook and pawn endgame is less likely to be converted into a win. ": null
+    },
+    {
+        "Mark Dvoretsky": "mark dvoretsky"
+    },
+    {
+        " said that the statement is semi-joking, semi-serious . This quotation has variously been attributed to ": null
+    },
+    {
+        "Savielly Tartakower": "savielly tartakower"
+    },
+    {
+        " and to ": null
+    },
+    {
+        "Siegbert Tarrasch": "siegbert tarrasch"
+    },
+    {
+        ". Writers ": null
+    },
+    {
+        "Victor Korchnoi": "victor korchnoi"
+    },
+    {
+        " , ": null
+    },
+    {
+        "John Emms": "john emms"
+    },
+    {
+        " , and ": null
+    },
+    {
+        "James Howell": "james howell"
+    },
+    {
+        "  attribute the quote to Tartakower, whereas Dvoretsky , ": null
+    },
+    {
+        "Andy Soltis": "andrew soltis"
+    },
+    {
+        " , ": null
+    },
+    {
+        "Karsten Müller": "karsten müller"
+    },
+    {
+        ",  and Kaufeld & Kern  attribute it to Tarrasch. ": null
+    },
+    {
+        "John Watson": "john l. watson"
+    },
+    {
+        " attributed to Tarrasch by legend and says that statistics do not support the statement . ": null
+    },
+    {
+        "Benko": "pal benko"
+    },
+    {
+        " wonders if it was due to ": null
+    },
+    {
+        "Vasily Smyslov": "vasily smyslov"
+    },
+    {
+        " . Attributing the quote to Tarrasch may be a result of confusion between this quote and the ": null
+    },
+    {
+        "Tarrasch rule": "tarrasch rule"
+    },
+    {
+        " concerning rooks. The source of the quote is currently unresolved. Winter, Edward,   – Chess Notes, Number 42 Benko noted that although the saying is usually said with tongue in cheek, it is truer in practice than one might think .       In  queen and pawn endings, ": null
+    },
+    {
+        "passed pawns": "passed pawns"
+    },
+    {
+        " have paramount importance, because the queen can escort it to the queening square alone. The advancement of the passed pawn outweighs the number of pawns. The defender must resort to ": null
+    },
+    {
+        "perpetual check": "perpetual check"
+    },
+    {
+        ". These endings are frequently extremely long affairs. For an example of a queen and pawn endgame see ": null
+    },
+    {
+        "Kasparov versus the World": "kasparov versus the world"
+    },
+    {
+        " – Kasparov won although he had fewer pawns because his was more advanced. For the ending with a queen versus a pawn, see ": null
+    },
+    {
+        "Queen versus pawn endgame": "queen versus pawn endgame"
+    },
+    {
+        ".             The queen and pawn versus queen endgame is the second most common of the piece and pawn versus piece endgames, after ": null
+    },
+    {
+        "rook and pawn versus rook": "rook and pawn versus rook endgame"
+    },
+    {
+        ". It is very complicated and difficult to play. Human analysts were not able to make a complete analysis before the advent of ": null
+    },
+    {
+        "endgame tablebase": "endgame tablebase"
+    },
+    {
+        "s . This combination is a win less frequently than the equivalent ending with rooks.             The difference in  between a rook and a  is about two points or a little less, the equivalent of two pawns.   A rook and a pawn versus a minor piece: normally a win for the rook but there are some draws. In particular, if the pawn is on its sixth rank and is a  or , and the bishop does not control the pawns promotion square, the position is a draw . See ": null
+    },
+    {
+        "Wrong bishop": "wrong bishop"
+    },
+    {
+        ".   A rook versus a minor piece: normally a draw but in some cases the rook wins, see ": null
+    },
+    {
+        "pawnless chess endgame": "pawnless chess endgame"
+    },
+    {
+        ".   A rook versus a minor piece and one pawn: usually a draw but the rook may win.   A rook versus a minor piece and two pawns: usually a draw but the minor piece may win.   A rook versus a minor piece and three pawns: a win for the minor piece.     If both sides have pawns, the result essentially depends on how many pawns the minor piece has for the exchange:   No pawns for the exchange : the rook usually wins.   One pawn for the exchange : the rook usually wins, but it is technically difficult. If all of the pawns are on one side of the board it is usually a draw.   Two pawns for the exchange: this is normally a draw. With a bishop either side may have winning chances. With a knight, the rook may have winning chances and the defense is difficult for the knight if the pawns are scattered.   Three pawns for the exchange: this is normally a win for the minor piece .          In an endgame, two  are approximately equivalent to a rook plus one pawn. The ": null
+    },
+    {
+        "pawn structure": "pawn structure"
+    },
+    {
+        " is important. The two pieces have the advantage if the opponents pawns are weak. ": null
+    },
+    {
+        "Initiative": "initiative"
+    },
+    {
+        " is more important in this endgame than any other. The general outcome can be broken down by the number of pawns.   The two pieces have one or more extra pawns: always a win for the pieces.   Same number of pawns: usually a draw but the two pieces win more often than the rook.   The rook has one extra pawn: usually a draw but either side may have winning chances, depending on positional factors.   The rook has two additional pawns: normally a win for the rook .             Without pawns this is normally drawn, but either side wins in some positions. A queen and pawn are normally equivalent to two rooks, which is usually a draw if both sides have an equal number of additional pawns. Two rooks plus one pawn versus a queen is also generally drawn. Otherwise, if either side has an additional pawn, that side normally wins . While playing for a draw, the defender should try to avoid situations in which the queen and rooks are forcibly traded into a losing ": null
+    },
+    {
+        "king and pawn endgame": "chess endgameking and pawn endings"
+    },
+    {
+        ".             If there are no pawns, the position is usually drawn, but either side wins in some positions. A queen is equivalent to a rook and bishop plus one pawn. If the queen has an additional pawn it wins, but with difficulty. A rook and bishop plus two pawns win over a queen .           ": null
+    },
+    {
+        "Philidor positionQueen versus rook": "philidor positionqueen versus rook"
+    },
+    {
+        "e": "e"
+    },
+    {
+        " see ": null
+    },
+    {
+        "Queen versus pawn endgame": "queen versus pawn endgame"
+    },
+    {
+        "when the defense has a piece in addition to the king42see ": null
+    },
+    {
+        "Rook and bishop versus rook endgame": "rook and bishop versus rook endgame"
+    },
+    {
+        "bishop or knightsee ": null
+    },
+    {
+        "Chess piece relative value": "chess piece relative value"
+    },
+    {
+        "aboveThe ": null
+    },
+    {
+        "fifty-move rule": "fifty-move rule"
+    },
+    {
+        " is not taken into account in these studies.see ": null
+    },
+    {
+        "Philidor positionQueen versus rook": "philidor positionqueen versus rook"
+    },
+    {
+        "aor symmetrical positions on the other edges of the boardb": null
+    },
+    {
+        "e": "e"
+    },
+    {
+        " see diagramthe only winning move see first diagramor not making one at allnot conversionsee the first diagramalong with variations of itleading to a position similar to the first diagramFigurines are used to stand for the pieces.percentage of games, not percentage of endings; generally pawns go along with the pieces  Emphasis in original.    ": null
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "     In a radio ": null
+    },
+    {
+        "antenna": "antenna"
+    },
+    {
+        " pattern": "radiation pattern"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "half power beam width": "half power beam width"
+    },
+    {
+        " is the angle between the half-": null
+    },
+    {
+        "power": "power"
+    },
+    {
+        "  points of the ": null
+    },
+    {
+        "main lobe": "main lobe"
+    },
+    {
+        ", when referenced to the peak ": null
+    },
+    {
+        "effective radiated power": "effective radiated power"
+    },
+    {
+        " of the main lobe. See ": null
+    },
+    {
+        "beam diameter": "beam diameter"
+    },
+    {
+        ".   Beamwidth is usually but not always expressed in degrees and for the horizontal plane.     The beamwidth can be computed for arbitrary antenna arrays. Defining the array manifold as the complex response of the \\mathrm element antenna array as \\mathrm , where \\mathrm is a matrix with \\mathrm rows, the beam pattern is first computed as:     : \\mathrm \\frac\\mathrm^\\mathrm     where \\mathrm^ is the conjugate transpose of \\mathrm at the reference angle \\theta_ .     From the beam pattern \\mathrm , the antenna power is computed as:     : \\mathrm |\\mathrm|^     The half power beamwidth is then found as the range of \\theta where \\mathrm 42\\mathrm_ .     Note that other definitions of beamwidth exist, such as the distance between nulls and distance between first side lobes.       ": null
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "   Java APIs for Integrated Networks  is an activity within the ": null
+    },
+    {
+        "Java Community Process": "java community process"
+    },
+    {
+        ", developing APIs for the creation of ": null
+    },
+    {
+        "telephony": "telephony"
+    },
+    {
+        " services. Originally, JAIN stood for  Java API s for Intelligent Network . The name was later changed to Java APIs for Integrated Networks to reflect the widening scope of the project. The JAIN activity consists of a number of Expert Groups , each developing a single API specification.       JAIN is part of a general trend to open up service creation in the telephony network so that, by analogy with the ": null
+    },
+    {
+        "Internet": "internet"
+    },
+    {
+        ", openness should result in a growing number of participants creating services, in turn creating more demand and better, more targeted services.       A goal of the JAIN APIs is to abstract the underlying network, so that services can be developed independent of ": null
+    },
+    {
+        "network": "computer network"
+    },
+    {
+        " technology, be it traditional ": null
+    },
+    {
+        "PSTN": "pstn"
+    },
+    {
+        " or ": null
+    },
+    {
+        "Next Generation Network": "next generation network"
+    },
+    {
+        ".       The JAIN effort has produced around 42 APIs, in various stages of standardization, ranging from Java APIs for specific ": null
+    },
+    {
+        "network protocol": "network protocol"
+    },
+    {
+        "s, such as ": null
+    },
+    {
+        "SIP": "session initiation protocol"
+    },
+    {
+        " and ": null
+    },
+    {
+        "TCAP": "transaction capabilities application part"
+    },
+    {
+        ", to more abstract APIs such as for ": null
+    },
+    {
+        "call control": "call control"
+    },
+    {
+        " and ": null
+    },
+    {
+        "charging": "charging data function"
+    },
+    {
+        ", and even including a non-Java effort for describing telephony services in ": null
+    },
+    {
+        "XML": "xml"
+    },
+    {
+        ".       There is overlap between JAIN and ": null
+    },
+    {
+        "Parlay": "parlay x"
+    },
+    {
+        "/": null
+    },
+    {
+        "OSA": "open services architecture"
+    },
+    {
+        " because both address similar problem spaces. However, as originally conceived, JAIN focused on APIs that would make it easier for network operators to develop their own services within the framework of ": null
+    },
+    {
+        "Intelligent Network": "intelligent network"
+    },
+    {
+        " protocols. As a consequence, the first JAIN APIs focused on methods for building and interpreting ": null
+    },
+    {
+        "SS42": "signaling system 7"
+    }
+]

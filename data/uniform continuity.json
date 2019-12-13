@@ -1,0 +1,77 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " f is uniformly continuous if, roughly speaking, it is possible to guarantee that f and f be as close to each other as we please by requiring only that x and y are sufficiently close to each other; unlike ordinary ": null
+    },
+    {
+        "continuity": "continuous function"
+    },
+    {
+        ", where the maximum distance between f and f may depend on x and y themselves.     Continuous functions can fail to be uniformly continuous if they are unbounded on a finite domain, such as f \\tfrac42x on , or if their slopes become unbounded on an infinite domain, such as fx^42 on the real line. However, any ": null
+    },
+    {
+        "Lipschitz map": "lipschitz continuity"
+    },
+    {
+        " between ": null
+    },
+    {
+        "metric space": "metric space"
+    },
+    {
+        "s is uniformly continuous, in particular any ": null
+    },
+    {
+        "isometry": "isometry"
+    },
+    {
+        " .     Although ordinary continuity can be defined for functions between general topological spaces, defining uniform continuity requires more structure. The concept relies on comparing the sizes of ": null
+    },
+    {
+        "neighbourhood": "neighbourhood"
+    },
+    {
+        "s of distinct points, so it requires a metric space, or more generally a ": null
+    },
+    {
+        "uniform space": "uniform space"
+    },
+    {
+        ".       Given ": null
+    },
+    {
+        "metric spaces": "metric spaces"
+    },
+    {
+        "  and , a function f  :  X  →  Y is called uniformly continuous if for every ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        " ε    sub /sub   ε.     If X and Y are subsets of the ": null
+    },
+    {
+        "real line": "real line"
+    },
+    {
+        ", d 42 and d 42 can be the ": null
+    },
+    {
+        "standard one-dimensional Euclidean distance": "real_lineas_a_metric_space"
+    },
+    {
+        ", yielding the definition: for all ε     ε.     The difference between uniform continuity, versus ordinary continuity at every point, is that in uniform continuity the value of δ depends only on ε and not on the point in the domain.       Continuity itself is a local property of a function—that is, a function f is continuous, or not, at a particular point, and this can be determined by looking only at the values of the function in an neighbourhood of that point. When we speak of a function being continuous on an interval , we mean only that it is continuous at each point of the interval. In contrast, uniform continuity is a global property of f, in the sense that the standard definition refers to pairs of points rather than individual points. On the other hand, it is possible to give a definition that is local in terms of the natural extension f , although it is not possible to give a local definition of uniform continuity for an arbitrary hyperreal-valued function, see below .     The mathematical statements that a function is continuous on an interval I and the definition that a function is uniformly continuous on the same interval are structurally very similar. Continuity of a function for every point x of an interval can thus be expressed by a formula starting with the quantification   : \\forall x \\in I \\; \\forall \\epsilon \\epsilon \\,,   whereas for uniform continuity, the order of the first, second, and third quantifiers are rotated:   : \\forall \\epsilon \\epsilon   Thus for continuity at each point, one takes an arbitrary point x, and then there must exist a distance δ,   : \\cdots \\forall x \\, \\exists \\delta \\cdots ,   while for uniform continuity a single δ must work uniformly for all points x :   : \\cdots \\exists \\delta \\, \\forall x \\, \\forall y \\cdots .         Every Lipschitz continuous map between two metric spaces is uniformly continuous. In particular, every function which is differentiable and has bounded derivative is uniformly continuous. More generally, every Hölder continuous function is uniformly continuous.   Despite being nowhere differentiable, the Weierstrass function is everywhere uniformly continuous   Every member of a uniformly equicontinuous set of functions is uniformly continuous.   The tangent function is continuous on the interval  but is not uniformly continuous on that interval.   The exponential function x   \\scriptstyle\\mapsto  e x is continuous everywhere on the real line but is not uniformly continuous on the line.         Every uniformly continuous function is continuous , but the converse does not hold. Consider for instance the function f \\colon \\mathbb \\rightarrow \\mathbb, x   \\mapsto x^42 . Given an arbitrarily small positive real number \\epsilon , uniform continuity requires the existence of a positive number \\delta such that for all x_42 x_42 with |x_42 - x_42| xyx,f": null
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "graph theory": "graph theory"
+    },
+    {
+        ", the shortest path problem is the problem of finding a ": null
+    },
+    {
+        "path": "path"
+    },
+    {
+        " between two ": null
+    },
+    {
+        "vertices": "vertex"
+    },
+    {
+        " in a ": null
+    },
+    {
+        "graph": "graph"
+    },
+    {
+        " such that the sum of the ": null
+    },
+    {
+        "weights": "glossary of graph theory termsweighted graph"
+    },
+    {
+        " of its constituent edges is minimized.     The problem of finding the shortest path between two intersections on a road map may be modeled as a special case of the shortest path problem in graphs, where the vertices correspond to intersections and the edges correspond to road segments, each weighted by the length of the segment.       The shortest path problem can be defined for ": null
+    },
+    {
+        "graphs": "graph"
+    },
+    {
+        " whether ": null
+    },
+    {
+        "undirected": "graph undirected graph"
+    },
+    {
+        ", ": null
+    },
+    {
+        "directed": "graph directed graph"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "mixed": "mixed graph"
+    },
+    {
+        ".   It is defined here for undirected graphs; for directed graphs the definition of path   requires that consecutive vertices be connected by an appropriate directed edge.     Two vertices are adjacent when they are both incident to a common edge.   A ": null
+    },
+    {
+        "path": "path"
+    },
+    {
+        " in an undirected graph is a ": null
+    },
+    {
+        "sequence": "sequence"
+    },
+    {
+        " of vertices P \\in V \\times V \\times \\cdots \\times V   such that v_i is adjacent to v_ for 42 \\leq i  ": null
+    }
+]

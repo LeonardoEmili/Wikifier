@@ -1,0 +1,158 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "computational complexity theory": "computational complexity theory"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "decision problem": "decision problem"
+    },
+    {
+        " is P-complete  if it is in P and every problem in P ": null
+    },
+    {
+        "can be reduced": "reduction"
+    },
+    {
+        " to it by an appropriate reduction.     The notion of P-complete decision problems is useful in the analysis of:   which problems are difficult to parallelize effectively,   which problems are difficult to solve in limited space.     The specific type of reduction used varies and may affect the exact set of problems. If we use  NC  reductions, that is, reductions which can operate in ": null
+    },
+    {
+        "polylogarithmic time": "polylogarithmic time"
+    },
+    {
+        " on a parallel computer with a polynomial number of processors, then all P-complete problems lie outside NC and so cannot be effectively parallelized, under the unproven assumption that NC  ≠  P. If we use the weaker ": null
+    },
+    {
+        "log-space reduction": "log-space reduction"
+    },
+    {
+        ", this remains true, but additionally we learn that all P-complete problems lie outside ": null
+    },
+    {
+        "L": "l"
+    },
+    {
+        " under the weaker unproven assumption that L  ≠  P. In this latter case the set P-complete may be smaller.         The class P, typically taken to consist of all the tractable problems for a sequential computer, contains the class NC, which consists of those problems which can be efficiently solved on a parallel computer. This is because parallel computers can be simulated on a sequential machine.   It is not known whether NC    P. In other words, it is not known whether there are any tractable problems that are inherently sequential. Just as it is widely suspected that P does not equal NP, so it is widely suspected that NC does not equal P.     Similarly, the class  L  contains all problems that can be solved by a sequential computer in logarithmic space. Such machines run in polynomial time because they can have a polynomial number of configurations. It is suspected that L  ≠  P; that is, that some problems that can be solved in polynomial time also require more than logarithmic space.     Similarly to the use of ": null
+    },
+    {
+        "NP-complete": "np-complete"
+    },
+    {
+        " problems to analyze the P    NP question, the P-complete problems, viewed as the probably not parallelizable or probably inherently sequential problems, serves in a similar manner to study the NC    P question. Finding an efficient way to parallelize the solution to some P-complete problem would show that NC    P. It can also be thought of as the problems requiring superlogarithmic space ; a log-space solution to a P-complete problem would imply L    P.     The logic behind this is analogous to the logic that a polynomial-time solution to an NP-complete problem would prove P    NP: if we have a NC reduction from any problem in P to a problem A, and an NC solution for A, then NC    P. Similarly, if we have a log-space reduction from any problem in P to a problem A, and a log-space solution for A, then L    P.         The most basic P-complete problem is this: given a ": null
+    },
+    {
+        "Turing machine": "turing machine"
+    },
+    {
+        ", an input for that machine, and a number T , does that machine halt on that input within the first T steps? It is clear that this problem is P-complete: if we can parallelize a general simulation of a sequential computer, then we will be able to parallelize any program that runs on that computer. If this problem is in NC, then so is every other problem in P. If the number of steps is written in binary, the problem is ": null
+    },
+    {
+        "EXPTIME-complete": "exptime-complete"
+    },
+    {
+        ".   This problem illustrates a common trick in the theory of P-completeness. We arent really interested in whether a problem can be solved quickly on a parallel machine. Were just interested in whether a parallel machine solves it much more quickly than a sequential machine. Therefore, we have to reword the problem so that the sequential version is in P. That is why this problem required T to be written in unary. If a number T is written as a ": null
+    },
+    {
+        "binary": "binary numeral system"
+    },
+    {
+        " number , then the obvious sequential algorithm can take time 42 n . On the other hand, if T is written as a unary number , then it only takes time n. By writing T in unary rather than binary, we have reduced the obvious sequential algorithm from exponential time to linear time. That puts the sequential problem in P. Then, it will be in NC if and only if it is parallelizable.     Many other problems have been proved to be P-complete, and therefore are widely believed to be inherently sequential. These include the following problems, either as given, or in a decision-problem form:   ": null
+    },
+    {
+        "Circuit Value Problem": "circuit value problem"
+    },
+    {
+        " - Given a ": null
+    },
+    {
+        "circuit": "boolean circuit"
+    },
+    {
+        ", the inputs to the circuit, and one gate in the circuit, calculate the output of that gate   Restricted Case of CVP - Like CVP, except each gate has two inputs and two outputs , every other layer is just AND gates, the rest are OR gates , the inputs of a gate come from the immediately preceding layer   ": null
+    },
+    {
+        "Linear programming": "linear programming"
+    },
+    {
+        " - Maximize a linear function subject to linear inequality constraints   Lexicographically First Depth First Search Ordering - Given a ": null
+    },
+    {
+        "graph": "graph theory"
+    },
+    {
+        " with fixed ordered adjacency lists, and nodes u and v, is vertex u visited before vertex v in a depth-first search induced by the order of the adjacency lists?   Context Free Grammar Membership - Given a ": null
+    },
+    {
+        "context-free grammar": "context-free grammar"
+    },
+    {
+        " and a string, can that string be generated by that grammar?   ": null
+    },
+    {
+        "Horn-satisfiability": "horn-satisfiability"
+    },
+    {
+        ": given a set of ": null
+    },
+    {
+        "Horn clause": "horn clause"
+    },
+    {
+        "s, is there a variable assignment which satisfies them? This is Ps version of the ": null
+    },
+    {
+        "boolean satisfiability problem": "boolean satisfiability problem"
+    },
+    {
+        ".   Game of Life - Given an initial configuration of ": null
+    },
+    {
+        "Conways Game of Life": "conways game of life"
+    },
+    {
+        ", a particular cell, and a time T , is that cell alive after T steps?   ": null
+    },
+    {
+        "LZW ": "lzw"
+    },
+    {
+        " Data Compression - given strings s and t, will compressing s with an LZ42 method add t to the dictionary?    ": null
+    },
+    {
+        "Type inference": "type inference"
+    },
+    {
+        " for partial types - Given an ": null
+    },
+    {
+        "untyped": "type theory"
+    },
+    {
+        " term from the ": null
+    },
+    {
+        "lambda calculus": "lambda calculus"
+    },
+    {
+        ", determine whether this term has a partial type.     In order to prove that a given problem in P is P-complete, one typically tries to reduce a known P-complete problem to the given one.     In 42 Jin-Yi Cai and D. Sivakumar, building on work by Ogihara, showed that if there exists a ": null
+    },
+    {
+        "sparse language": "sparse language"
+    },
+    {
+        " that is P-complete, then L    P.          Some NP-problems are not known to be either NP-complete or in P. These problems  are suspected to be difficult. Similarly there are problems in P that are not known to be either P-complete or NC, but are thought to be difficult to parallelize. Examples include the decision problem forms of finding the ": null
+    },
+    {
+        "greatest common divisor": "greatest common divisor"
+    },
+    {
+        " of two numbers, and determining what answer the ": null
+    },
+    {
+        "extended Euclidean algorithm": "extended euclidean algorithm"
+    }
+]

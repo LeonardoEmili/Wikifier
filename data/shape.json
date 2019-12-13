@@ -1,0 +1,497 @@
+[
+    {
+        "     A shape is the form of an object or its external boundary, outline, or external ": null
+    },
+    {
+        "surface": "surface"
+    },
+    {
+        ", as opposed to other properties such as color, texture or material type.               Some simple shapes can be put into broad categories . For instance, ": null
+    },
+    {
+        "polygon": "polygon"
+    },
+    {
+        "s are classified according to their number of edges as ": null
+    },
+    {
+        "triangle": "triangle"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "quadrilateral": "quadrilateral"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "pentagon": "pentagon"
+    },
+    {
+        "s, etc. Each of these is divided into smaller categories; triangles can be ": null
+    },
+    {
+        "equilateral": "equilateral"
+    },
+    {
+        ", ": null
+    },
+    {
+        "isosceles": "isosceles"
+    },
+    {
+        ", ": null
+    },
+    {
+        "obtuse": "obtuse triangle"
+    },
+    {
+        ", ": null
+    },
+    {
+        "acute": "triangleby internal angles"
+    },
+    {
+        ", ": null
+    },
+    {
+        "scalene": "triangle"
+    },
+    {
+        ", etc. while quadrilaterals can be ": null
+    },
+    {
+        "rectangle": "rectangle"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "rhombi": "rhombi"
+    },
+    {
+        ", ": null
+    },
+    {
+        "trapezoids": "trapezoids"
+    },
+    {
+        ", ": null
+    },
+    {
+        "squares": "squares"
+    },
+    {
+        ", etc.     Other common shapes are ": null
+    },
+    {
+        "points": "point"
+    },
+    {
+        ", ": null
+    },
+    {
+        "lines": "line"
+    },
+    {
+        ", ": null
+    },
+    {
+        "planes": "plane"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "conic sections": "conic sections"
+    },
+    {
+        " such as ": null
+    },
+    {
+        "ellipse": "ellipse"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "circle": "circle"
+    },
+    {
+        "s, and ": null
+    },
+    {
+        "parabola": "parabola"
+    },
+    {
+        "s.     Among the most common 42-dimensional shapes are ": null
+    },
+    {
+        "polyhedra": "polyhedra"
+    },
+    {
+        ", which are shapes with flat faces; ": null
+    },
+    {
+        "ellipsoid": "ellipsoid"
+    },
+    {
+        "s, which are egg-shaped or sphere-shaped objects; ": null
+    },
+    {
+        "cylinders": "cylinder"
+    },
+    {
+        "; and ": null
+    },
+    {
+        "cone": "cone"
+    },
+    {
+        "s.     If an object falls into one of these categories exactly or even approximately, we can use it to describe the shape of the object. Thus, we say that the shape of a ": null
+    },
+    {
+        "manhole cover": "manhole cover"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "disk": "disk"
+    },
+    {
+        ", because it is approximately the same geometric object as an actual geometric disk.       There are several ways to compare the shapes of two objects:   ": null
+    },
+    {
+        "Congruence": "congruence"
+    },
+    {
+        ": Two objects are congruent if one can be transformed into the other by a sequence of rotations, translations, and/or reflections.   ": null
+    },
+    {
+        "Similarity": "similarity"
+    },
+    {
+        ": Two objects are similar if one can be transformed into the other by a uniform scaling, together with a sequence of rotations, translations, and/or reflections.   ": null
+    },
+    {
+        "Isotopy": "homotopyisotopy"
+    },
+    {
+        ": Two objects are isotopic if one can be transformed into the other by a sequence of deformations that do not tear the object or put holes in it.     Sometimes, two similar or congruent objects may be regarded as having a different shape if a reflection is required to transform one into the other. For instance, the letters b and d are a reflection of each other, and hence they are congruent and similar, but in some contexts they are not regarded as having the same shape. Sometimes, only the outline or external boundary of the object is considered to determine its shape. For instance, a hollow sphere may be considered to have the same shape as a solid sphere. ": null
+    },
+    {
+        "Procrustes analysis": "procrustes analysis"
+    },
+    {
+        " is used in many sciences to determine whether or not two objects have the same shape, or to measure the difference between two shapes. In advanced mathematics, ": null
+    },
+    {
+        "quasi-isometry": "quasi-isometry"
+    },
+    {
+        " can be used as a criterion to state that two shapes are approximately the same.     Simple shapes can often be classified into basic ": null
+    },
+    {
+        "geometric": "geometry"
+    },
+    {
+        " objects such as a ": null
+    },
+    {
+        "point": "point"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "line": "line"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "curve": "curve"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "plane": "plane"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "plane figure": "plane figure"
+    },
+    {
+        " , or a solid figure . However, most shapes occurring in the physical world are complex. Some, such as plant structures and coastlines, may be so complicated as to defy traditional mathematical description  – in which case they may be analyzed by ": null
+    },
+    {
+        "differential geometry": "differential geometry"
+    },
+    {
+        ", or as ": null
+    },
+    {
+        "fractal": "fractal"
+    },
+    {
+        "s.       In geometry, two subsets of a ": null
+    },
+    {
+        "Euclidean space": "euclidean space"
+    },
+    {
+        " have the same shape if one can be transformed to the other by a combination of ": null
+    },
+    {
+        "translations": "translation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "rotation": "rotation"
+    },
+    {
+        "s , and ": null
+    },
+    {
+        "uniform scalings": "scaling"
+    },
+    {
+        ". In other words, the shape of a set of points is all the geometrical information that is invariant to translations, rotations, and size changes. Having the same shape is an ": null
+    },
+    {
+        "equivalence relation": "equivalence relation"
+    },
+    {
+        ", and accordingly a precise mathematical definition of the notion of shape can be given as being an ": null
+    },
+    {
+        "equivalence class": "equivalence class"
+    },
+    {
+        " of subsets of a Euclidean space having the same shape.     Mathematician and statistician ": null
+    },
+    {
+        "David George Kendall": "david george kendall"
+    },
+    {
+        " writes:    In this paper ‘shape’ is used in the vulgar sense, and means what one would normally expect it to mean. We here define ‘shape’ informally as ‘all the geometrical information that remains when location, scale Here, scale means only ": null
+    },
+    {
+        "uniform scaling": "uniform scaling"
+    },
+    {
+        ", as non-uniform scaling would change the shape of the object . and rotational effects are filtered out from an object.’     Shapes of physical objects are equal if the subsets of space these objects occupy satisfy the definition above. In particular, the shape does not depend on the size and placement in space of the object. For instance, a  d  and a  p  have the same shape, as they can be perfectly superimposed if the  d  is translated to the right by a given distance, rotated upside down and magnified by a given factor . However, a ": null
+    },
+    {
+        "mirror image": "mirror image"
+    },
+    {
+        " could be called a different shape. For instance, a  b  and a  p  have a different shape, at least when they are constrained to move within a two-dimensional space like the page on which they are written. Even though they have the same size, theres no way to perfectly superimpose them by translating and rotating them along the page. Similarly, within a three-dimensional space, a right hand and a left hand have a different shape, even if they are the mirror images of each other. Shapes may change if the object is scaled non-uniformly. For example, a ": null
+    },
+    {
+        "sphere": "sphere"
+    },
+    {
+        " becomes an ": null
+    },
+    {
+        "ellipsoid": "ellipsoid"
+    },
+    {
+        " when scaled differently in the vertical and horizontal directions. In other words, preserving axes of ": null
+    },
+    {
+        "symmetry": "symmetry"
+    },
+    {
+        " is important for preserving shapes. Also, shape is determined by only the outer boundary of an object.          Objects that can be transformed into each other by rigid transformations and mirroring are ": null
+    },
+    {
+        "congruent": "congruence"
+    },
+    {
+        ". An object is therefore congruent to its ": null
+    },
+    {
+        "mirror image": "mirror image"
+    },
+    {
+        " , but not to a scaled version. Two congruent objects always have either the same shape or mirror image shapes, and have the same size.     Objects that have the same shape or mirror image shapes are called ": null
+    },
+    {
+        "geometrically similar": "similarity"
+    },
+    {
+        ", whether or not they have the same size. Thus, objects that can be transformed into each other by rigid transformations, mirroring, and uniform scaling are similar. Similarity is preserved when one of the objects is uniformly scaled, while congruence is not. Thus, congruent objects are always geometrically similar, but similar objects may not be congruent, as they may have different size.          A more flexible definition of shape takes into consideration the fact that realistic shapes are often deformable, e.g. a person in different postures, a tree bending in the wind or a hand with different finger positions.     One way of modeling non-rigid movements is by ": null
+    },
+    {
+        "homeomorphism": "homeomorphism"
+    },
+    {
+        "s. Roughly speaking, a homeomorphism is a continuous stretching and bending of an object into a new shape. Thus, a ": null
+    },
+    {
+        "square": "square"
+    },
+    {
+        " and a ": null
+    },
+    {
+        "circle": "circle"
+    },
+    {
+        " are homeomorphic to each other, but a ": null
+    },
+    {
+        "sphere": "sphere"
+    },
+    {
+        " and a ": null
+    },
+    {
+        "donut": "torus"
+    },
+    {
+        " are not. An often-repeated ": null
+    },
+    {
+        "mathematical joke": "mathematical joke"
+    },
+    {
+        " is that topologists cannot tell their coffee cup from their donut,  since a sufficiently pliable donut could be reshaped to the form of a coffee cup by creating a dimple and progressively enlarging it, while preserving the donut hole in a cups handle.          The above-mentioned mathematical definitions of rigid and non-rigid shape have arisen in the field of ": null
+    },
+    {
+        "statistical shape analysis": "statistical shape analysis"
+    },
+    {
+        ". In particular, ": null
+    },
+    {
+        "Procrustes analysis": "procrustes analysis"
+    },
+    {
+        " is a technique used for comparing shapes of similar objects , or measuring the deformation of a deformable object. Other methods are designed to work with non-rigid objects, e.g. for posture independent shape retrieval .       All ": null
+    },
+    {
+        "similar triangles": "similar triangles"
+    },
+    {
+        " have the same shape. These shapes can be classified using ": null
+    },
+    {
+        "complex number": "complex number"
+    },
+    {
+        "s u, v, w for the vertices, in a method advanced by J.A. Lester J.A. Lester Triangles I: Shapes ,  Aequationes Mathematicae  42:42–42 and ": null
+    },
+    {
+        "Rafael Artzy": "rafael artzy"
+    },
+    {
+        ". For example, an ": null
+    },
+    {
+        "equilateral triangle": "equilateral triangle"
+    },
+    {
+        " can be expressed by the complex numbers 42 42 /42 representing its vertices. Lester and Artzy call the ratio   : S \\frac     the shape of triangle . Then the shape of the equilateral triangle is   :/ /42 cos + i sin exp.   For any ": null
+    },
+    {
+        "affine transformation": "affine transformation"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "complex plane": "complex plane"
+    },
+    {
+        ", z \\mapsto a z + b,\\quad a \\ne 42   a triangle is transformed but does not change its shape. Hence shape is an ": null
+    },
+    {
+        "invariant": "invariant"
+    },
+    {
+        " of ": null
+    },
+    {
+        "affine geometry": "affine geometry"
+    },
+    {
+        ".   The shape p S depends on the order of the arguments of function S, but ": null
+    },
+    {
+        "permutation": "permutation"
+    },
+    {
+        "s lead to related values. For instance,   : 42 - p 42 - / / / S. Also p^ S.   Combining these permutations gives S ^. Furthermore,   : p^ SS/S. These relations are conversion rules for shape of a triangle.   The shape of a ": null
+    },
+    {
+        "quadrilateral": "quadrilateral"
+    },
+    {
+        " is associated with two complex numbers p,q. If the quadrilateral has vertices u,v,w,x, then p S and q S. Artzy proves these propositions about quadrilateral shapes:   If p^, then the quadrilateral is a ": null
+    },
+    {
+        "parallelogram": "parallelogram"
+    },
+    {
+        ".   If a parallelogram has | arg p q ": null
+    },
+    {
+        "rhombus": "rhombus"
+    },
+    {
+        ".   When p 42 + i and q /42 then the quadrilateral is ": null
+    },
+    {
+        "square": "square"
+    },
+    {
+        ".   If p r and sgn r sgn, then the quadrilateral is a ": null
+    },
+    {
+        "trapezoid": "trapezoid"
+    },
+    {
+        ".   A ": null
+    },
+    {
+        "polygon": "polygon"
+    },
+    {
+        " has a shape defined by n – 42 complex numbers S, \\ j42...,n42 The polygon bounds a ": null
+    },
+    {
+        "convex set": "convex set"
+    },
+    {
+        " when all these shape components have imaginary components of the same sign. ": null
+    },
+    {
+        "Rafael Artzy": "rafael artzy"
+    },
+    {
+        " Shapes of Polygons , Journal of Geometry 42:42–42       Psychologists have theorized that humans mentally break down images into simple geometric shapes called ": null
+    },
+    {
+        "geons": "geon"
+    },
+    {
+        ". Marr, D., & Nishihara, H. . Representation and recognition of the spatial organization of three-dimensional shapes. Proceedings of the Royal Society of London, 42 4242 Examples of geons include cones and spheres. A wide range of other shape representations have also been investigated.    There also seems to be something about shape that can guide human ": null
+    },
+    {
+        "attention": "visual spatial attention"
+    },
+    {
+        ".  ": null
+    }
+]

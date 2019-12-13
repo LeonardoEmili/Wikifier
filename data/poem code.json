@@ -1,0 +1,47 @@
+[
+    {
+        "The poem code is a simple, and insecure, ": null
+    },
+    {
+        "cryptographic method": "cryptography"
+    },
+    {
+        " which was used by ": null
+    },
+    {
+        "SOE": "special operations executive"
+    },
+    {
+        " to communicate with their agents in Nazi-occupied Europe.     The method works by the sender and receiver pre-arranging a ": null
+    },
+    {
+        "poem": "poem"
+    },
+    {
+        " to use. The sender chooses a set number of words at random from the poem and gives each letter in the chosen words a number. The numbers are then used as a ": null
+    },
+    {
+        "key": "key"
+    },
+    {
+        " for some ": null
+    },
+    {
+        "cipher": "cipher"
+    },
+    {
+        " to conceal the ": null
+    },
+    {
+        "plaintext": "plaintext"
+    },
+    {
+        " of the message. The cipher used was often double ": null
+    },
+    {
+        "transposition": "transposition cipher"
+    },
+    {
+        ". To indicate to the receiver which words had been chosen an indicator group is sent at the start of the message.       To encrypt a message, the agent would select words from the poem as the key. Every poem code message commenced with an indicator-group of five letters, which showed which five words of an agents poem had been used to encrypt the message.     The words would be written sequentially, and their letters numbered to create a transposition key to encrypt a message. For example, if the words are YEO THOMAS IS A PAIN IN THE ARSE, then the transposition key is: 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 These are the locations of the first appearances of As, B, etc. in the sentence.     This defines a permutation which is used for encryption ": null
+    }
+]

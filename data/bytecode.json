@@ -1,0 +1,203 @@
+[
+    {
+        "      Bytecode, also termed portable code or p-code, is a form of ": null
+    },
+    {
+        "instruction set": "instruction set"
+    },
+    {
+        " designed for efficient execution by a software ": null
+    },
+    {
+        "interpreter": "interpreter"
+    },
+    {
+        ". Unlike ": null
+    },
+    {
+        "human-readable": "human-readable"
+    },
+    {
+        " source code": "source code"
+    },
+    {
+        ", bytecodes are compact numeric codes, constants, and references that encode the result of ": null
+    },
+    {
+        "compiler": "compiler"
+    },
+    {
+        " parsing and performing ": null
+    },
+    {
+        "semantic analysis": "semantic analysis"
+    },
+    {
+        " of things like type, scope, and nesting depths of program objects.         The name bytecode stems from instruction sets that have one-": null
+    },
+    {
+        "byte": "byte"
+    },
+    {
+        " opcode": "opcode"
+    },
+    {
+        "s followed by optional parameters. ": null
+    },
+    {
+        "Intermediate representation": "intermediate representation"
+    },
+    {
+        "s such as bytecode may be output by ": null
+    },
+    {
+        "programming language": "programming language"
+    },
+    {
+        " implementations to ease ": null
+    },
+    {
+        "interpretation": "interpreter"
+    },
+    {
+        ", or it may be used to reduce hardware and ": null
+    },
+    {
+        "operating system": "operating system"
+    },
+    {
+        " dependence by allowing the same code to run ": null
+    },
+    {
+        "cross-platform": "cross-platform"
+    },
+    {
+        ", on different devices. Bytecode may often be either directly executed on a ": null
+    },
+    {
+        "virtual machine": "virtual machine"
+    },
+    {
+        " , or it may be further compiled into ": null
+    },
+    {
+        "machine code": "machine code"
+    },
+    {
+        " for better performance.     Since bytecode instructions are processed by software, they may be arbitrarily complex, but are nonetheless often akin to traditional hardware instructions: virtual ": null
+    },
+    {
+        "stack machine": "stack machine"
+    },
+    {
+        "s are the most common, but virtual ": null
+    },
+    {
+        "register machine": "register machine"
+    },
+    {
+        "s have been built also. Different parts may often be stored in separate files, similar to ": null
+    },
+    {
+        "object modules": "object file"
+    },
+    {
+        ", but dynamically loaded during execution.       A bytecode program may be executed by parsing and directly executing the instructions, one at a time. This kind of bytecode interpreter is very portable. Some systems, called dynamic translators, or  just-in-time  compilers, translate bytecode into ": null
+    },
+    {
+        "machine code": "machine code"
+    },
+    {
+        " as necessary at ": null
+    },
+    {
+        "runtime": "run time"
+    },
+    {
+        ". This makes the virtual machine hardware-specific but doesnt lose the portability of the bytecode. For example, ": null
+    },
+    {
+        "Java": "java"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Smalltalk": "smalltalk"
+    },
+    {
+        " code is typically stored in bytecode format, which is typically then JIT compiled to translate the bytecode to machine code before execution. This introduces a delay before a program is run, when the bytecode is compiled to native machine code, but improves execution speed considerably compared to interpreting source code directly, normally by around an order of magnitude .     Because of its performance advantage, today many language implementations execute a program in two phases, first compiling the source code into bytecode, and then passing the bytecode to the virtual machine. There are bytecode based virtual machines of this sort for ": null
+    },
+    {
+        "Java": "java"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Raku": "raku"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Python": "python"
+    },
+    {
+        ", ": null
+    },
+    {
+        "PHP": "php"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Tcl": "tcl"
+    },
+    {
+        ", ": null
+    },
+    {
+        "mawk": "awk"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Forth": "forth"
+    },
+    {
+        " . The implementation of ": null
+    },
+    {
+        "Perl": "perl"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Ruby": "ruby"
+    },
+    {
+        " 42 instead work by walking an ": null
+    },
+    {
+        "abstract syntax tree": "abstract syntax tree"
+    },
+    {
+        " representation derived from the source code.     More recently, the authors of ": null
+    },
+    {
+        "V42": "v8"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Dart": "dart"
+    },
+    {
+        " have challenged the notion that intermediate bytecode is needed for fast and efficient VM implementation. Both of these language implementations currently do direct JIT compiling from source code to machine code with no bytecode intermediary.                          ": null
+    }
+]

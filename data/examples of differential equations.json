@@ -1,0 +1,56 @@
+[
+    {
+        "Differential equation s arise in many problems in ": null
+    },
+    {
+        "physics": "physics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "engineering": "engineering"
+    },
+    {
+        ", and other sciences. The following examples show how to solve differential equations in a few simple cases when an exact solution exists.          Equations in the form \\frac fg are called separable and solved by \\frac fdx and thus   \\int\\frac \\int fdx . Prior to dividing by g , one needs to check if there are stationary   solutions yconst satisfying g42 .          A separable linear ": null
+    },
+    {
+        "ordinary differential equation": "ordinary differential equation"
+    },
+    {
+        " of the first order   must be homogeneous and has the general form     : \\frac + f y 42     where f is some known ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        ". We may solve this by ": null
+    },
+    {
+        "separation of variables": "separation of variables"
+    },
+    {
+        " ,     : \\frac -f\\, dt     Since the separation of variables in this case involves dividing by y, we must check if the constant function y42 is a solution of the original equation. Trivially, if y42 then y42, so y42 is actually a solution of the original equation. We note that y42 is not allowed in the transformed equation.     We solve the transformed equation with the variables already separated by ": null
+    },
+    {
+        "Integrating": "integral calculus"
+    },
+    {
+        ",     : \\ln |y| \\left + C     where C is an arbitrary constant. Then, by ": null
+    },
+    {
+        "exponentiation": "exponentiation"
+    },
+    {
+        ", we obtain     : y \\pm e^ \\pm e^ e^ .     Here, e^ /math math /math  math /math  math /math  math /math math /math math  /math  math /math math /math math c42a and ka^42+b^42 .     The equation can be also solved in MATLAB symbolic toolbox as     x dsolve     although the solution looks rather ugly,     x / -   /       This is a model of a ": null
+    },
+    {
+        "damped oscillator": "damping"
+    },
+    {
+        ". The plot of displacement against time would look like this:     :      which resembles how one would expect a vibrating spring to behave as friction removes energy from the system.         The following example of a first order linear systems of ODEs   : y_42y_4242y_42+t   : y_42y_4242y_42+\\sin     can be easily solved symbolically using ": null
+    },
+    {
+        "numerical analysis software": "list_of_numerical_analysis_software"
+    }
+]

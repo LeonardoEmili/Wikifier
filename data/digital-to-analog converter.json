@@ -1,0 +1,587 @@
+[
+    {
+        "               In ": null
+    },
+    {
+        "electronics": "electronics"
+    },
+    {
+        ", a digital-to-analog converter  is a system that converts a ": null
+    },
+    {
+        "digital signal": "digital signal"
+    },
+    {
+        " into an ": null
+    },
+    {
+        "analog signal": "analog signal"
+    },
+    {
+        ". An ": null
+    },
+    {
+        "analog-to-digital converter": "analog-to-digital converter"
+    },
+    {
+        " performs the reverse function.     There are several DAC ": null
+    },
+    {
+        "architectures": "hardware architecture"
+    },
+    {
+        "; the suitability of a DAC for a particular application is determined by ": null
+    },
+    {
+        "figures of merit": "figures of merit"
+    },
+    {
+        " including: ": null
+    },
+    {
+        "resolution": "resolution"
+    },
+    {
+        ", maximum ": null
+    },
+    {
+        "sampling frequency": "sampling frequency"
+    },
+    {
+        " and others. Digital-to-analog conversion can degrade a signal, so a DAC should be specified that has insignificant errors in terms of the application.     DACs are commonly used in ": null
+    },
+    {
+        "music players": "digital audio player"
+    },
+    {
+        " to convert digital data streams into analog audio signals. They are also used in ": null
+    },
+    {
+        "television": "television"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "mobile phone": "mobile phone"
+    },
+    {
+        "s to convert digital video data into analog video signals which connect to the screen drivers to display monochrome or color images. These two applications use DACs at opposite ends of the frequency/resolution trade-off. The audio DAC is a low-frequency, high-resolution type while the video DAC is a high-frequency low- to medium-resolution type.     Due to the complexity and the need for precisely matched ": null
+    },
+    {
+        "components": "electronic components"
+    },
+    {
+        ", all but the most specialized DACs are implemented as ": null
+    },
+    {
+        "integrated circuits": "integrated circuits"
+    },
+    {
+        " . Discrete DACs would typically be extremely high speed low resolution power hungry types, as used in military ": null
+    },
+    {
+        "radar": "radar"
+    },
+    {
+        " systems. Very high speed test equipment, especially sampling ": null
+    },
+    {
+        "oscilloscope": "oscilloscope"
+    },
+    {
+        "s, may also use discrete DACs.             A DAC converts an ": null
+    },
+    {
+        "abstract": "abstract object"
+    },
+    {
+        " finite-precision number  into a physical quantity . In particular, DACs are often used to convert finite-precision ": null
+    },
+    {
+        "time series": "time series"
+    },
+    {
+        " data to a continually varying physical ": null
+    },
+    {
+        "signal": "signal"
+    },
+    {
+        ".     An ideal DAC converts the abstract numbers into a conceptual sequence of ": null
+    },
+    {
+        "impulse": "dirac delta function"
+    },
+    {
+        "s that are then processed by a ": null
+    },
+    {
+        "reconstruction filter": "reconstruction filter"
+    },
+    {
+        " using some form of ": null
+    },
+    {
+        "interpolation": "interpolation"
+    },
+    {
+        " to fill in data between the impulses. A conventional practical DAC converts the numbers into a ": null
+    },
+    {
+        "piecewise constant function": "piecewise constant function"
+    },
+    {
+        " made up of a sequence of ": null
+    },
+    {
+        "rectangular function": "rectangular function"
+    },
+    {
+        "s that is modeled with the ": null
+    },
+    {
+        "zero-order hold": "zero-order hold"
+    },
+    {
+        ". Other DAC methods  produce a ": null
+    },
+    {
+        "pulse-density modulated": "pulse-density modulation"
+    },
+    {
+        " output that can be similarly filtered to produce a smoothly varying signal.     As per the ": null
+    },
+    {
+        "Nyquist & ndash;Shannon sampling theorem": "nyquist & ndash;shannon sampling theorem"
+    },
+    {
+        ", a DAC can reconstruct the original signal from the sampled data provided that its bandwidth meets certain requirements . Digital sampling introduces ": null
+    },
+    {
+        "quantization error": "quantization error"
+    },
+    {
+        " that manifests as low-level noise in the reconstructed signal.          DACs and ADCs are part of an ": null
+    },
+    {
+        "enabling technology": "enabling technology"
+    },
+    {
+        " that has contributed greatly to the ": null
+    },
+    {
+        "digital revolution": "digital revolution"
+    },
+    {
+        ". To illustrate, consider a typical long-distance telephone call. The callers voice is converted into an analog electrical signal by a ": null
+    },
+    {
+        "microphone": "microphone"
+    },
+    {
+        ", then the analog signal is converted to a digital stream by an ADC. The digital stream is then divided into ": null
+    },
+    {
+        "network packet": "network packet"
+    },
+    {
+        "s where it may be sent along with other ": null
+    },
+    {
+        "digital data": "digital data"
+    },
+    {
+        ", not necessarily audio. The packets are then received at the destination, but each packet may take a completely different route and may not even arrive at the destination in the correct time order. The digital voice data is then extracted from the packets and assembled into a digital data stream. A DAC converts this back into an analog electrical signal, which drives an ": null
+    },
+    {
+        "audio amplifier": "audio amplifier"
+    },
+    {
+        ", which in turn drives a ": null
+    },
+    {
+        "loudspeaker": "loudspeaker"
+    },
+    {
+        ", which finally produces sound.          Most modern audio signals are stored in digital form  and, in order to be heard through speakers, they must be converted into an analog signal. DACs are therefore found in ": null
+    },
+    {
+        "CD player": "cd player"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "digital music player": "digital music player"
+    },
+    {
+        "s, and PC ": null
+    },
+    {
+        "sound card": "sound card"
+    },
+    {
+        "s.     Specialist standalone DACs can also be found in high-end ": null
+    },
+    {
+        "hi-fi": "hi-fi"
+    },
+    {
+        " systems. These normally take the digital output of a compatible ": null
+    },
+    {
+        "CD player": "cd player"
+    },
+    {
+        " or dedicated ": null
+    },
+    {
+        "transport": "transport"
+    },
+    {
+        " and convert the signal into an analog ": null
+    },
+    {
+        "line-level": "line-level"
+    },
+    {
+        " output that can then be fed into an ": null
+    },
+    {
+        "amplifier": "amplifier"
+    },
+    {
+        " to drive speakers.     Similar digital-to-analog converters can be found in ": null
+    },
+    {
+        "digital speakers": "digital speakers"
+    },
+    {
+        " such as ": null
+    },
+    {
+        "USB": "universal serial bus"
+    },
+    {
+        " speakers, and in ": null
+    },
+    {
+        "sound card": "sound card"
+    },
+    {
+        "s.     In ": null
+    },
+    {
+        "voice over IP": "voice over ip"
+    },
+    {
+        " applications, the source must first be digitized for transmission, so it undergoes conversion via an ADC, and is then reconstructed into analog using a DAC on the receiving partys end.         Video sampling tends to work on a completely different scale altogether thanks to the highly nonlinear response both of cathode ray tubes and the human eye, using a gamma curve to provide an appearance of evenly distributed brightness steps across the displays full dynamic range - hence the need to use ": null
+    },
+    {
+        "RAMDAC": "ramdac"
+    },
+    {
+        "s in computer video applications with deep enough colour resolution to make engineering a hardcoded value into the DAC for each output level of each channel impractical . Given this inherent distortion, it is not unusual for a television or video projector to truthfully claim a linear contrast ratio of 42:42 or greater, equivalent to 42 bits of audio precision even though it may only accept signals with 42-bit precision and use an LCD panel that only represents 42 or 42 bits per channel.     Video signals from a digital source, such as a computer, must be converted to analog form if they are to be displayed on an analog monitor. As of 42 analog inputs were more commonly used than digital, but this changed as ": null
+    },
+    {
+        "flat panel display": "flat panel display"
+    },
+    {
+        "s with ": null
+    },
+    {
+        "DVI": "digital visual interface"
+    },
+    {
+        " and/or ": null
+    },
+    {
+        "HDMI": "high-definition multimedia interface"
+    },
+    {
+        " connections became more widespread. A video DAC is, however, incorporated in any digital video player with analog outputs. The DAC is usually integrated with some ": null
+    },
+    {
+        "memory": "computer storage"
+    },
+    {
+        " , which contains conversion tables for ": null
+    },
+    {
+        "gamma correction": "gamma correction"
+    },
+    {
+        ", contrast and brightness, to make a device called a ": null
+    },
+    {
+        "RAMDAC": "ramdac"
+    },
+    {
+        ".     A device that is distantly related to the DAC is the ": null
+    },
+    {
+        "digitally controlled potentiometer": "digitally controlled potentiometer"
+    },
+    {
+        ", used to control an analog signal digitally.            A one-bit mechanical actuator assumes two positions: one when on, another when off. The motion of several one-bit actuators can be combined and weighted with a ": null
+    },
+    {
+        "whiffletree": "whippletree"
+    },
+    {
+        " mechanism to produce finer steps. The ": null
+    },
+    {
+        "IBM Selectric": "ibm selectric"
+    },
+    {
+        " typewriter uses such a system.        DACs are widely used in modern communication systems enabling the generation of digitally defined transmit signals. High-speed DACs are used for ": null
+    },
+    {
+        "mobile communications": "mobile telephony"
+    },
+    {
+        " and ultra high-speed DACs are employed in ": null
+    },
+    {
+        "optical communications": "optical communication"
+    },
+    {
+        " systems.       The most common types of electronic DACs are:    The ": null
+    },
+    {
+        "pulse-width modulator": "pulse-width modulation"
+    },
+    {
+        " where a stable ": null
+    },
+    {
+        "current": "current"
+    },
+    {
+        " or ": null
+    },
+    {
+        "voltage": "voltage"
+    },
+    {
+        " is switched into a low-pass ": null
+    },
+    {
+        "analog filter": "analog filter"
+    },
+    {
+        " with a duration determined by the digital input code. This technique is often used for ": null
+    },
+    {
+        "electric motor speed control": "motor controller"
+    },
+    {
+        " and dimming ": null
+    },
+    {
+        "LED lamp": "led lamp"
+    },
+    {
+        "s.   Oversampling DACs or interpolating DACs such as those employing ": null
+    },
+    {
+        "delta-sigma modulation": "delta-sigma modulation"
+    },
+    {
+        ", use a pulse density conversion technique with ": null
+    },
+    {
+        "oversampling": "oversampling"
+    },
+    {
+        ". Speeds of greater than 42 thousand samples per second and resolutions of 42 bits are attainable with delta-sigma DACs.   The binary-weighted DAC, which contains individual electrical components for each bit of the DAC connected to a summing point, typically an ": null
+    },
+    {
+        "operational amplifier": "operational amplifier"
+    },
+    {
+        ". Each input in the summing has powers-of-two values with most current or voltage at the ": null
+    },
+    {
+        "most-significant bit": "most-significant bit"
+    },
+    {
+        ". These precise voltages or currents sum to the correct output value. This is one of the fastest conversion methods but suffers from poor accuracy because of the high precision required for each individual voltage or current.  This type of converter is usually limited to 42-bit resolution or less. ": null
+    },
+    {
+        "resistor": "resistor"
+    },
+    {
+        " DAC contains a parallel resistor network. Individual resistors are enabled or bypassed in the network based on the digital input.   Switched ": null
+    },
+    {
+        "current source": "current source"
+    },
+    {
+        " DAC, from which different current sources are selected based on the digital input.   Switched ": null
+    },
+    {
+        "capacitor": "capacitor"
+    },
+    {
+        " DAC contains a parallel capacitor network. Individual capacitors are connected or disconnected with switches based on the input.   The ": null
+    },
+    {
+        "R42R ladder": "resistor ladder"
+    },
+    {
+        " DAC which is a binary-weighted DAC that uses a repeating cascaded structure of resistor values R and 42R. This improves the precision due to the relative ease of producing equal valued-matched resistors.   The successive approximation or cyclic DAC, which successively constructs the output during each cycle. Individual bits of the digital input are processed each cycle until the entire input is accounted for.   The ": null
+    },
+    {
+        "thermometer-coded": "thermometer code"
+    },
+    {
+        " DAC, which contains an equal resistor or current-source segment for each possible value of DAC output. An 42-bit thermometer DAC would have 42 segments, and a 42-bit thermometer DAC would have 42 segments. This is a fast and highest precision DAC architecture but at the expense of requiring many components which, for practical implementations, fabrication requires high-density ": null
+    },
+    {
+        "IC processes": "semiconductor device fabrication"
+    },
+    {
+        ".    Hybrid DACs, which use a combination of the above techniques in a single converter. Most DAC integrated circuits are of this type due to the difficulty of getting low cost, high speed and high precision in one device.   The segmented DAC, which combines the thermometer-coded principle for the most significant bits and the binary-weighted principle for the least significant bits. In this way, a compromise is obtained between precision and number of resistors or current sources . The full binary-weighted design means 42% segmentation, the full thermometer-coded design means 42% segmentation.   Most DACs shown in this list rely on a constant reference voltage or current to create their output value. Alternatively, a multiplying DAC  takes a variable input voltage or current as a conversion reference. This puts additional design constraints on the bandwidth of the conversion circuit.   Modern high-speed DACs have an interleaved architecture, in which multiple DAC cores are used in parallel. Their output signals are combined in the analog domain to enhance the performance of the combined DAC.  The combination of the signals can be performed either in the time domain or in the frequency domain.       The most important characteristics of a DAC are:   ;Resolution: The number of possible output levels the DAC is designed to reproduce. This is usually stated as the number of ": null
+    },
+    {
+        "bit": "bit"
+    },
+    {
+        "s it uses, which is the ": null
+    },
+    {
+        "binary logarithm": "binary logarithm"
+    },
+    {
+        " of the number of levels. For instance a 42-bit DAC is designed to reproduce 42 levels while an 42-bit DAC is designed for 42 levels. Resolution is related to the ": null
+    },
+    {
+        "effective number of bits": "effective number of bits"
+    },
+    {
+        " which is a measurement of the actual resolution attained by the DAC. Resolution determines ": null
+    },
+    {
+        "color depth": "color depth"
+    },
+    {
+        " in video applications and ": null
+    },
+    {
+        "audio bit depth": "audio bit depth"
+    },
+    {
+        " in audio applications.   ;Maximum ": null
+    },
+    {
+        "sampling rate": "sampling rate"
+    },
+    {
+        ": The maximum speed at which the DACs circuitry can operate and still produce correct output. The ": null
+    },
+    {
+        "Nyquist–Shannon sampling theorem": "nyquist–shannon sampling theorem"
+    },
+    {
+        " defines a relationship between this and the ": null
+    },
+    {
+        "bandwidth": "bandwidth"
+    },
+    {
+        " of the sampled signal.   ;": null
+    },
+    {
+        "Monotonicity": "monotonic function"
+    },
+    {
+        ": The ability of a DACs analog output to move only in the direction that the digital input moves This characteristic is very important for DACs used as a low frequency signal source or as a digitally programmable trim element.   ;": null
+    },
+    {
+        "Total harmonic distortion": "total harmonic distortion"
+    },
+    {
+        " and noise : A measurement of the distortion and noise introduced to the signal by the DAC. It is expressed as a percentage of the total power of unwanted ": null
+    },
+    {
+        "harmonic distortion": "harmonic distortion"
+    },
+    {
+        " and noise that accompany the desired signal.   ;": null
+    },
+    {
+        "Dynamic range": "dynamic range"
+    },
+    {
+        ": A measurement of the difference between the largest and smallest signals the DAC can reproduce expressed in ": null
+    },
+    {
+        "decibel": "decibel"
+    },
+    {
+        "s. This is usually related to resolution and ": null
+    },
+    {
+        "noise floor": "noise floor"
+    },
+    {
+        ".     Other measurements, such as ": null
+    },
+    {
+        "phase distortion": "phase distortion"
+    },
+    {
+        " and ": null
+    },
+    {
+        "jitter": "jitter"
+    },
+    {
+        ", can also be very important for some applications, some of which may even rely on accurate production of phase-adjusted signals.     Non-linear PCM encodings attempt to improve their effective dynamic ranges by using logarithmic step sizes between the output signal strengths represented by each data bit. This trades greater quantisation distortion of loud signals for better performance of quiet signals.       Static performance:   ": null
+    },
+    {
+        "Differential nonlinearity": "differential nonlinearity"
+    },
+    {
+        " shows how much two adjacent code analog values deviate from the ideal 42  LSB step.    ": null
+    },
+    {
+        "Integral nonlinearity": "integral nonlinearity"
+    },
+    {
+        " shows how much the DAC transfer characteristic deviates from an ideal one. That is, the ideal characteristic is usually a straight line; INL shows how much the actual voltage at a given code value differs from that line, in LSBs .   Gain error   Offset error   Noise is ultimately limited by the ": null
+    },
+    {
+        "thermal noise": "thermal noise"
+    },
+    {
+        " generated by passive components such as resistors. For audio applications and in room temperatures, such noise is usually a little less than 42": null
+    },
+    {
+        "μV": "μv"
+    },
+    {
+        " of ": null
+    },
+    {
+        "white noise": "white noise"
+    },
+    {
+        ". This limits performance to less than 42~42 bits even in 42-bit DACs.   Frequency domain performance   ": null
+    },
+    {
+        "Spurious-free dynamic range": "spurious-free dynamic range"
+    },
+    {
+        " indicates in dB the ratio between the powers of the converted main signal and the greatest undesired spur.   Signal-to-noise and distortion  indicates in dB the ratio between the powers of the converted main signal and the sum of the noise and the generated harmonic spurs   i-th harmonic distortion indicates the power of the i-th harmonic of the converted main signal   ": null
+    },
+    {
+        "Total harmonic distortion": "total harmonic distortion"
+    },
+    {
+        " is the sum of the powers of all the harmonics of the input signal   If the maximum DNL is less than 42 LSB, then the  converter is guaranteed to be monotonic. However, many monotonic converters may have a maximum DNL greater than 42 LSB.   Time domain performance:   Glitch impulse area ": null
+    }
+]

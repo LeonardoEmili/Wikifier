@@ -1,0 +1,47 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "digital circuit": "digital circuit"
+    },
+    {
+        "s, an adder–subtractor is a circuit that is capable of ": null
+    },
+    {
+        "adding": "adder"
+    },
+    {
+        " or ": null
+    },
+    {
+        "subtracting": "subtractor"
+    },
+    {
+        " numbers . Below is a circuit that does adding or subtracting depending on a control signal. It is also possible to construct a circuit that performs both addition and subtraction at the same time.              Having an n-bit adder for A and B, then . Then, assume the numbers are in ": null
+    },
+    {
+        "twos complement": "twos complement"
+    },
+    {
+        ". Then to perform , twos complement theory says to invert each bit with a ": null
+    },
+    {
+        "NOT gate": "not gate"
+    },
+    {
+        " then add one. This yields , which is easy to do with a slightly modified adder.     By preceding each A input bit on the adder with a 42-to42 ": null
+    },
+    {
+        "multiplexer": "multiplexer"
+    },
+    {
+        " where:   Input 42  is A I 42 ALUbased on the ": null
+    },
+    {
+        "op code": "op code"
+    },
+    {
+        " being executedin conjunction with with both the A i  and B i  inputs set to zero and with both the A i  and B i  inputs set to zero and with the B i  input set to zerowith the A i  input set to zerowith the B i  input set to zero and with the A i  input set to zero and    with A i  set to invert; B i  set to zero; and with A i  set to invert; B i  set to zero; and with B i  set to invert; A i  set to zero; and with B i  set to invert; A i  set to zero; and ": null
+    }
+]

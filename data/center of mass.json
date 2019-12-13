@@ -1,0 +1,281 @@
+[
+    {
+        "      In ": null
+    },
+    {
+        "physics": "physics"
+    },
+    {
+        ", the center of mass of a distribution of ": null
+    },
+    {
+        "mass": "mass"
+    },
+    {
+        " in space is the unique point where the ": null
+    },
+    {
+        "weighted": "weight function"
+    },
+    {
+        " relative ": null
+    },
+    {
+        "position": "position"
+    },
+    {
+        " of the distributed mass sums to zero. This is the point to which a force may be applied to cause a ": null
+    },
+    {
+        "linear acceleration": "linear acceleration"
+    },
+    {
+        " without an ": null
+    },
+    {
+        "angular acceleration": "angular acceleration"
+    },
+    {
+        ". Calculations in ": null
+    },
+    {
+        "mechanics": "mechanics"
+    },
+    {
+        " are often simplified when formulated with respect to the center of mass. It is a hypothetical point where entire mass of an object may be assumed to be concentrated to visualise its motion. In other words, the center of mass is the particle equivalent of a given object for application of ": null
+    },
+    {
+        "Newtons laws of motion": "newtons laws of motion"
+    },
+    {
+        ".     In the case of a single ": null
+    },
+    {
+        "rigid body": "rigid body"
+    },
+    {
+        ", the center of mass is fixed in relation to the body, and if the body has uniform density, it will be located at the ": null
+    },
+    {
+        "centroid": "centroid"
+    },
+    {
+        ". The center of mass may be located outside the physical body, as is sometimes the case for ": null
+    },
+    {
+        "hollow": "wikt:hollow"
+    },
+    {
+        " or open-shaped objects, such as a ": null
+    },
+    {
+        "horseshoe": "horseshoe"
+    },
+    {
+        ". In the case of a distribution of separate bodies, such as the ": null
+    },
+    {
+        "planets": "planets"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "Solar System": "solar system"
+    },
+    {
+        ", the center of mass may not correspond to the position of any individual member of the system.     The center of mass is a useful reference point for calculations in ": null
+    },
+    {
+        "mechanics": "mechanics"
+    },
+    {
+        " that involve masses distributed in space, such as the ": null
+    },
+    {
+        "linear": "momentum"
+    },
+    {
+        " and ": null
+    },
+    {
+        "angular momentum": "angular momentum"
+    },
+    {
+        " of planetary bodies and ": null
+    },
+    {
+        "rigid body dynamics": "rigid body dynamics"
+    },
+    {
+        ". In ": null
+    },
+    {
+        "orbital mechanics": "orbital mechanics"
+    },
+    {
+        ", the equations of motion of planets are formulated as ": null
+    },
+    {
+        "point mass": "point mass"
+    },
+    {
+        "es located at the centers of mass. The ": null
+    },
+    {
+        "center of mass frame": "center of mass frame"
+    },
+    {
+        " is an ": null
+    },
+    {
+        "inertial frame": "inertial frame"
+    },
+    {
+        " in which the center of mass of a system is at rest with respect to the origin of the coordinate system.       The concept of center of mass in the form of the center of gravity was first introduced by the great ancient Greek physicist, mathematician, and engineer ": null
+    },
+    {
+        "Archimedes of Syracuse": "archimedes"
+    },
+    {
+        ". He worked with simplified assumptions about gravity that amount to a uniform field, thus arriving at the mathematical properties of what we now call the center of mass. Archimedes showed that the ": null
+    },
+    {
+        "torque": "torque"
+    },
+    {
+        " exerted on a ": null
+    },
+    {
+        "lever": "lever"
+    },
+    {
+        " by weights resting at various points along the lever is the same as what it would be if all of the weights were moved to a single point—their center of mass. In work on floating bodies he demonstrated that the orientation of a floating object is the one that makes its center of mass as low as possible. He developed mathematical techniques for finding the centers of mass of objects of uniform density of various well-defined shapes.     Later mathematicians who developed the theory of the center of mass include ": null
+    },
+    {
+        "Pappus of Alexandria": "pappus of alexandria"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Guido Ubaldi": "guido ubaldi"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Francesco Maurolico": "francesco maurolico"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Federico Commandino": "federico commandino"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Simon Stevin": "simon stevin"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Luca Valerio": "luca valerio"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Jean-Charles de la Faille": "jean-charles de la faille"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Paul Guldin": "paul guldin"
+    },
+    {
+        ", ": null
+    },
+    {
+        "John Wallis": "john wallis"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Louis Carré": "louis carré"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Pierre Varignon": "pierre varignon"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Alexis Clairaut": "alexis clairaut"
+    },
+    {
+        ".     ": null
+    },
+    {
+        "Newtons second law": "newtons second law"
+    },
+    {
+        " is reformulated with respect to the center of mass in ": null
+    },
+    {
+        "Eulers first law": "eulers lawseulers first law"
+    },
+    {
+        ".           Definition, each with mass  that are located in space with coordinates , the coordinates R of the center of mass satisfy the condition   : \\sum_^n m_i 42   Solving this equation for R yields the formula   : \\mathbf \\frac 42M \\sum_^n m_i \\mathbf_i,   where  is the sum of the masses of all of the particles.       If the mass distribution is continuous with the density ρ within a solid Q, then the integral of the weighted position coordinates of the points in this volume relative to the center of mass R over the volume V is zero, that is   : \\iiint\\limits_ \\rhodV 42   Solve this equation for the coordinates R to obtain   : \\mathbf R \\frac 42M \\iiint\\limits_\\rho \\mathbf dV,   where M is the total mass in the volume.     If a continuous mass distribution has uniform ": null
+    },
+    {
+        "density": "density"
+    },
+    {
+        ", which means ρ is constant, then the center of mass is the same as the ": null
+    },
+    {
+        "centroid": "centroid"
+    },
+    {
+        " of the volume.          The coordinates R of the center of mass of a two-particle system, P 42  and P 42 , with masses m 42  and m 42  is given by   : \\mathbf \\frac.   Let the percentage of the total mass divided between these two particles vary from 42% P 42  and 42% P 42  through 42% P 42  and 42% P 42  to 42% P 42  and 42% P 42 , then the center of mass R moves along the line from P 42  to P 42 . The percentages of mass at each point can be viewed as projective coordinates of the point R on this line, and are termed barycentric coordinates. Another way of interpreting the process here is the mechanical balancing of moments about an arbitrary point. The numerator gives the total moment that is then balanced by an equivalent total force at the center of mass. This can be generalized to three points and four points to define projective coordinates in the plane, and in space, respectively.     Systems with periodic boundary conditions": null
+    },
+    {
+        "periodic boundary conditions": "periodic boundary conditions"
+    },
+    {
+        " two particles can be neighbours even though they are on opposite sides of the system. This occurs often in ": null
+    },
+    {
+        "molecular dynamics": "molecular dynamics"
+    },
+    {
+        " simulations, for example, in which clusters form at random locations and sometimes neighbouring atoms cross the periodic boundary. When a cluster straddles the periodic boundary, a naive calculation of the center of mass will be incorrect. A generalized method for calculating the center of mass for periodic systems is to treat each coordinate, x and y and/or z, as if it were on a circle instead of a line.    The calculation takes every particles x coordinate and maps it to an angle,     : \\theta_i \\frac 42 \\pi     where x max is the system size in the x direction and x_i\\in42x_\\xi_i,\\zeta_ii\\theta_i\\theta_i\\xi,\\zeta\\xi\\zeta\\xii42\\zetai42\\theta\\thetaatan42-\\overline,-\\overlinecommax \\overline42 \\pi\\overline,\\overline42\\thetagradientstrongerweakere.g. with no slosh or articulationrf\\mathbfk\\mathbfkFQf\\mathbfQ\\mathbf -g\\veckTQ\\mathbf-\\mathbff\\mathbfQ\\mathbf-\\mathbf-g\\rhodV\\vec \\iiint\\limits_ \\rho dV \\right-g\\vecQ\\mathbf\\mathbf-\\mathbfr\\mathbf_i - \\mathbfRvddt\\mathbf_i - \\mathbfvpddt\\sum_^n m_i \\right\\sum_^n m_i\\rightvLi42\\mathbf_i-\\mathbfddt\\mathbf_i - \\mathbf\\sum_^n m_i \\rightvpvLi42\\mathbf_i-\\mathbfddt\\mathbf_i - \\mathbfW\\hat \\mathbf is the unit vector in the vertical directionT\\mathbf_42-\\mathbfF\\mathbf_42-\\mathbfF\\mathbf_42-\\mathbfFR-W\\mathbfrFrFrF ": null
+    },
+    {
+        "rcra": "rcra"
+    },
+    {
+        "ig": "ig"
+    },
+    {
+        "licopt": "licopt"
+    },
+    {
+        "d cro": "d cro"
+    },
+    {
+        "larger42  miles": null
+    },
+    {
+        "terial handli": "terial handli"
+    }
+]

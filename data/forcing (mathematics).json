@@ -1,0 +1,161 @@
+[
+    {
+        "   In the mathematical discipline of ": null
+    },
+    {
+        "set theory": "set theory"
+    },
+    {
+        ", forcing is a technique for proving ": null
+    },
+    {
+        "consistency": "consistency"
+    },
+    {
+        " and ": null
+    },
+    {
+        "independence": "independence"
+    },
+    {
+        " results. It was first used by ": null
+    },
+    {
+        "Paul Cohen": "paul cohen"
+    },
+    {
+        " in 42 to prove the independence of the ": null
+    },
+    {
+        "axiom of choice": "axiom of choice"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "continuum hypothesis": "continuum hypothesis"
+    },
+    {
+        " from ": null
+    },
+    {
+        "Zermelo–Fraenkel set theory": "zermelo–fraenkel set theory"
+    },
+    {
+        ".     Forcing has been considerably reworked and simplified in the following years, and has since served as a powerful technique, both in set theory and in areas of ": null
+    },
+    {
+        "mathematical logic": "mathematical logic"
+    },
+    {
+        " such as ": null
+    },
+    {
+        "recursion theory": "recursion theory"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Descriptive set theory": "descriptive set theory"
+    },
+    {
+        " uses the notions of forcing from both recursion theory and set theory. Forcing has also been used in ": null
+    },
+    {
+        "model theory": "model theory"
+    },
+    {
+        ", but it is common in model theory to define ": null
+    },
+    {
+        "genericity": "generic filter"
+    },
+    {
+        " directly without mention of forcing.         Intuitively, forcing consists of expanding the set theoretical ": null
+    },
+    {
+        "universe": "universe"
+    },
+    {
+        " V to a larger universe V^ . In this bigger universe, for example, one might have many new ": null
+    },
+    {
+        "subset": "subset"
+    },
+    {
+        "s of  that were not there in the old universe, and thereby violate the ": null
+    },
+    {
+        "continuum hypothesis": "continuum hypothesis"
+    },
+    {
+        ".     While impossible when dealing with finite sets, this is just another version of ": null
+    },
+    {
+        "Cantors paradox": "cantors paradox"
+    },
+    {
+        " about infinity. In principle, one could consider:     : V^ V \\times \\,     identify x \\in V with , and then introduce an expanded membership relation involving new sets of the form . Forcing is a more elaborate version of this idea, reducing the expansion to the existence of one new set, and allowing for fine control over the properties of the expanded universe.     Cohens original technique, now called ": null
+    },
+    {
+        "ramified forcing": "ramified forcing"
+    },
+    {
+        ", is slightly different from the unramified forcing expounded here. Forcing is also equivalent to the method of ": null
+    },
+    {
+        "Boolean-valued model": "boolean-valued model"
+    },
+    {
+        "s, which some feel is conceptually more natural and intuitive, but usually much more difficult to apply.         A forcing poset is an ordered triple, , where \\leq is a ": null
+    },
+    {
+        "preorder": "preorder"
+    },
+    {
+        " on \\mathbb that is atomless, meaning that it satisfies the following condition:     For each p \\in \\mathbb , there are q,r \\in \\mathbb such that q,r \\leq p , with no s \\in \\mathbb such that s \\leq q,r . The largest element of \\mathbb is \\mathbf , that is, p \\leq \\mathbf for all p \\in \\mathbb .   Members of \\mathbb are called forcing conditions or just conditions. One reads p \\leq q as p is stronger than q . Intuitively, the smaller condition provides more information, just as the smaller interval provides more information about the number ": null
+    },
+    {
+        " \\pi ": "pi"
+    },
+    {
+        " than the interval does.     There are various conventions in use. Some authors require \\leq to also be ": null
+    },
+    {
+        "antisymmetric": "antisymmetric relation"
+    },
+    {
+        ", so that the relation is a ": null
+    },
+    {
+        "partial order": "partial order"
+    },
+    {
+        ". Some use the term ": null
+    },
+    {
+        "partial order": "partial order"
+    },
+    {
+        " anyway, conflicting with standard terminology, while some use the term ": null
+    },
+    {
+        "preorder": "preorder"
+    },
+    {
+        ". The largest element can be dispensed with. The reverse ordering is also used, most notably by ": null
+    },
+    {
+        "Saharon Shelah": "saharon shelah"
+    },
+    {
+        " and his co-authors.         Associated with a forcing poset \\mathbb is the class V^ of \\mathbb -names. A \\mathbb -name is a set A of the form     : A \\subseteq \\.     This is actually a definition by transfinite recursion. More precisely, one first uses ": null
+    },
+    {
+        "transfinite recursion": "transfinite recursion"
+    },
+    {
+        " to define the following hierarchy:     : \\begin   \\operatorname & \\varnothing; \\\\   \\operatorname & \\mathcal, \\text \\mathcal \\text; \\\\   \\operatorname & \\bigcup \\": null
+    }
+]

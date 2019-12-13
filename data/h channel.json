@@ -1,0 +1,59 @@
+[
+    {
+        "   In the ": null
+    },
+    {
+        "Integrated Services Digital Network": "integrated services digital network"
+    },
+    {
+        " , a high-speed ": null
+    },
+    {
+        "communication channel": "communication channel"
+    },
+    {
+        " comprising multiple aggregated low-speed channels to accommodate ": null
+    },
+    {
+        "bandwidth": "bandwidth"
+    },
+    {
+        "-intensive applications such as ": null
+    },
+    {
+        "file transfer": "file transfer"
+    },
+    {
+        ", ": null
+    },
+    {
+        "videoconferencing": "videoconferencing"
+    },
+    {
+        ", and high-quality audio. An H channel is formed of multiple bearer ": null
+    },
+    {
+        "B channel": "b channel"
+    },
+    {
+        "s bonded together in a primary rate access or ": null
+    },
+    {
+        "primary rate interface": "primary rate interface"
+    },
+    {
+        " frame in support of applications with bandwidth requirements that exceed the B channel rate of 42 kbit/s. The channels, once bonded, remain so end-to-end, from ": null
+    },
+    {
+        "transmitter": "transmitter"
+    },
+    {
+        " to receiver, through the ISDN network. The feature is known variously as multirate ISDN, Nx42 channel aggregation, and ": null
+    },
+    {
+        "bonding": "channel bonding"
+    },
+    {
+        ".   H channels are implemented as:   H42 42 kbit/s   H42 42 kbit/s   H42 42 kbit/s   H42 42 kbit/s – International ": null
+    }
+]

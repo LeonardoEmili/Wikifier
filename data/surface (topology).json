@@ -1,0 +1,830 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a surface is a two-dimensional ": null
+    },
+    {
+        "manifold": "manifold"
+    },
+    {
+        ". Some surfaces arise as the ": null
+    },
+    {
+        "boundaries": "manifoldmanifold_with_boundary"
+    },
+    {
+        " of three-dimensional solids; for example, the sphere is the boundary of the solid ball. Other surfaces arise as graphs of ": null
+    },
+    {
+        "functions": "function"
+    },
+    {
+        " of two variables; see the figure at right. However, surfaces can also be defined abstractly, without reference to any ambient space. For example, the ": null
+    },
+    {
+        "Klein bottle": "klein bottle"
+    },
+    {
+        " is a surface that cannot be ": null
+    },
+    {
+        "embedded": "embedding"
+    },
+    {
+        " in three-dimensional ": null
+    },
+    {
+        "Euclidean space": "euclidean space"
+    },
+    {
+        ".     Topological surfaces are sometimes equipped with additional information, such as a ": null
+    },
+    {
+        "Riemannian metric": "riemannian metric"
+    },
+    {
+        " or a complex structure, that connects them to other disciplines within mathematics, such as ": null
+    },
+    {
+        "differential geometry": "differential geometry"
+    },
+    {
+        " and ": null
+    },
+    {
+        "complex analysis": "complex analysis"
+    },
+    {
+        ". The various ": null
+    },
+    {
+        "mathematical notions of surface": "surface"
+    },
+    {
+        " can be used to model ": null
+    },
+    {
+        "surface": "surface"
+    },
+    {
+        "s in the physical world.            In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a surface is a geometrical shape that resembles a deformed ": null
+    },
+    {
+        "plane": "plane"
+    },
+    {
+        ". The most familiar examples arise as boundaries of solid objects in ordinary three-dimensional ": null
+    },
+    {
+        "Euclidean space": "euclidean space"
+    },
+    {
+        " R 42 , such as ": null
+    },
+    {
+        "sphere": "sphere"
+    },
+    {
+        "s. The exact definition of a surface may depend on the context. Typically, in ": null
+    },
+    {
+        "algebraic geometry": "algebraic geometry"
+    },
+    {
+        ", a surface may cross itself , while, in ": null
+    },
+    {
+        "topology": "topology"
+    },
+    {
+        " and ": null
+    },
+    {
+        "differential geometry": "differential geometry"
+    },
+    {
+        ", it may not.     A surface is a ": null
+    },
+    {
+        "two-dimensional space": "two-dimensional space"
+    },
+    {
+        "; this means that a moving point on a surface may move in two directions . In other words, around almost every point, there is a  coordinate patch  on which a two-dimensional ": null
+    },
+    {
+        "coordinate system": "coordinate system"
+    },
+    {
+        " is defined. For example, the surface of the Earth resembles a two-dimensional ": null
+    },
+    {
+        "sphere": "sphere"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "latitude": "latitude"
+    },
+    {
+        " and ": null
+    },
+    {
+        "longitude": "longitude"
+    },
+    {
+        " provide two-dimensional coordinates on it .     The concept of surface is widely used in ": null
+    },
+    {
+        "physics": "physics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "engineering": "engineering"
+    },
+    {
+        ", ": null
+    },
+    {
+        "computer graphics": "computer graphics"
+    },
+    {
+        ", and many other disciplines, primarily in representing the surfaces of physical objects. For example, in analyzing the ": null
+    },
+    {
+        "aerodynamic": "aerodynamics"
+    },
+    {
+        " properties of an ": null
+    },
+    {
+        "airplane": "airplane"
+    },
+    {
+        ", the central consideration is the flow of air along its surface.       A  surface is a ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        " in which every point has an open ": null
+    },
+    {
+        "neighbourhood": "topological neighbourhood"
+    },
+    {
+        " homeomorphic": "homeomorphism"
+    },
+    {
+        " to some ": null
+    },
+    {
+        "open subset": "open set"
+    },
+    {
+        " of the Euclidean plane E 42 . Such a neighborhood, together with the corresponding homeomorphism, is known as a  chart. It is through this chart that the neighborhood inherits the standard coordinates on the Euclidean plane. These coordinates are known as local coordinates and these homeomorphisms lead us to describe surfaces as being locally Euclidean.     In most writings on the subject, it is often assumed, explicitly or implicitly, that as a topological space a surface is also nonempty, ": null
+    },
+    {
+        "second-countable": "second-countable space"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Hausdorff": "hausdorff space"
+    },
+    {
+        ". It is also often assumed that the surfaces under consideration are connected.     The rest of this article will assume, unless specified otherwise, that a surface is nonempty, Hausdorff, second-countable, and connected.     More generally, a  surface with boundary is a ": null
+    },
+    {
+        "Hausdorff": "hausdorff space"
+    },
+    {
+        " topological space": "topological space"
+    },
+    {
+        " in which every point has an open ": null
+    },
+    {
+        "neighbourhood": "topological neighbourhood"
+    },
+    {
+        " homeomorphic": "homeomorphism"
+    },
+    {
+        " to some ": null
+    },
+    {
+        "open subset": "open set"
+    },
+    {
+        " of the closure of the ": null
+    },
+    {
+        "upper half-plane": "upper half-plane"
+    },
+    {
+        " H 42 in C. These homeomorphisms are also known as  charts. The boundary of the upper half-plane is the x-axis. A point on the surface mapped via a chart to the x-axis is termed a boundary point. The collection of such points is known as the boundary of the surface which is necessarily a one-manifold, that is, the union of closed curves. On the other hand, a point mapped to above the x-axis is an interior point. The collection of interior points is the interior of the surface which is always non-": null
+    },
+    {
+        "empty": "empty set"
+    },
+    {
+        ". The closed ": null
+    },
+    {
+        "disk": "disk"
+    },
+    {
+        " is a simple example of a surface with boundary. The boundary of the disc is a circle.     The term surface used without qualification refers to surfaces without boundary. In particular, a surface with empty boundary is a surface in the usual sense. A surface with empty boundary which is compact is known as a closed surface. The two-dimensional sphere, the two-dimensional ": null
+    },
+    {
+        "torus": "torus"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "real projective plane": "real projective plane"
+    },
+    {
+        " are examples of closed surfaces.     The ": null
+    },
+    {
+        "Möbius strip": "möbius strip"
+    },
+    {
+        " is a surface on which the distinction between clockwise and counterclockwise can be defined locally, but not globally. In general, a surface is said to be orientable if it does not contain a homeomorphic copy of the Möbius strip; intuitively, it has two distinct sides . For example, the sphere and torus are orientable, while the real projective plane is not .     In ": null
+    },
+    {
+        "differential": "differential geometry"
+    },
+    {
+        " and ": null
+    },
+    {
+        "algebraic geometry": "algebraic geometry"
+    },
+    {
+        ", extra structure is added upon the topology of the surface. This added structures can be a smoothness structure , a ": null
+    },
+    {
+        "Riemannian metric": "riemannian metric"
+    },
+    {
+        " , a complex structure , or an algebraic structure .            Historically, surfaces were initially defined as subspaces of Euclidean spaces. Often, these surfaces were the ": null
+    },
+    {
+        "locus": "locus"
+    },
+    {
+        " of ": null
+    },
+    {
+        "zeros": "root of a function"
+    },
+    {
+        " of certain functions, usually polynomial functions. Such a definition considered the surface as part of a larger space, and as such was termed extrinsic.     In the previous section, a surface is defined as a topological space with certain properties, namely Hausdorff and locally Euclidean. This topological space is not considered a subspace of another space. In this sense, the definition given above, which is the definition that mathematicians use at present, is intrinsic.     A surface defined as intrinsic is not required to satisfy the added constraint of being a subspace of Euclidean space. It may seem possible for some surfaces defined intrinsically to not be surfaces in the extrinsic sense. However, the ": null
+    },
+    {
+        "Whitney embedding theorem": "whitney embedding theorem"
+    },
+    {
+        " asserts every surface can in fact be embedded homeomorphically into Euclidean space, in fact into E 42 : The extrinsic and intrinsic approaches turn out to be equivalent.     In fact, any compact surface that is either orientable or has a boundary can be embedded in E 42 ; on the other hand, the real projective plane, which is compact, non-orientable and without boundary, cannot be embedded into E 42 . ": null
+    },
+    {
+        "Steiner surface": "steiner surface"
+    },
+    {
+        "s, including ": null
+    },
+    {
+        "Boys surface": "boys surface"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "Roman surface": "roman surface"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "cross-cap": "cross-cap"
+    },
+    {
+        ", are models of the real projective plane in E 42 , but only the Boy surface is an ": null
+    },
+    {
+        "immersed surface": "immersion"
+    },
+    {
+        ". All these models are singular at points where they intersect themselves.     The ": null
+    },
+    {
+        "Alexander horned sphere": "alexander horned sphere"
+    },
+    {
+        " is a well-known ": null
+    },
+    {
+        "pathological": "pathological"
+    },
+    {
+        " embedding of the two-sphere into the three-sphere.        The chosen embedding of a surface into another space is regarded as extrinsic information; it is not essential to the surface itself. For example, a torus can be embedded into E 42 in the standard manner  or in a ": null
+    },
+    {
+        "knotted": "knot"
+    },
+    {
+        " manner . The two embedded tori are homeomorphic, but not ": null
+    },
+    {
+        "isotopic": "homotopyisotopy"
+    },
+    {
+        ": They are topologically equivalent, but their embeddings are not.     The ": null
+    },
+    {
+        "image": "image"
+    },
+    {
+        " of a continuous, ": null
+    },
+    {
+        "injective": "injection"
+    },
+    {
+        " function from R 42 to higher-dimensional R n is said to be a ": null
+    },
+    {
+        "parametric surface": "parametric surface"
+    },
+    {
+        ". Such an image is so-called because the x- and y- directions of the domain R 42 are 42 variables that parametrize the image. A parametric surface need not be a topological surface. A ": null
+    },
+    {
+        "surface of revolution": "surface of revolution"
+    },
+    {
+        " can be viewed as a special kind of parametric surface.     If f is a smooth function from R 42 to R whose ": null
+    },
+    {
+        "gradient": "gradient"
+    },
+    {
+        " is nowhere zero, then the ": null
+    },
+    {
+        "locus": "locus"
+    },
+    {
+        " of ": null
+    },
+    {
+        "zeros": "root of a function"
+    },
+    {
+        " of f does define a surface, known as an  implicit surface . If the condition of non-vanishing gradient is dropped, then the zero locus may develop singularities.          Each closed surface can be constructed from an oriented polygon with an even number of sides, called a ": null
+    },
+    {
+        "fundamental polygon": "fundamental polygon"
+    },
+    {
+        " of the surface, by pairwise identification of its edges. For example, in each polygon below, attaching the sides with matching labels , so that the arrows point in the same direction, yields the indicated surface.       Image:SphereAsSquare.svg|": null
+    },
+    {
+        "sphere": "sphere"
+    },
+    {
+        "   Image:ProjectivePlaneAsSquare.svg|": null
+    },
+    {
+        "real projective plane": "real projective plane"
+    },
+    {
+        "   Image:TorusAsSquare.svg|": null
+    },
+    {
+        "torus": "torus"
+    },
+    {
+        "   Image:KleinBottleAsSquare.svg|": null
+    },
+    {
+        "Klein bottle": "klein bottle"
+    },
+    {
+        "       Any fundamental polygon can be written symbolically as follows. Begin at any vertex, and proceed around the perimeter of the polygon in either direction until returning to the starting vertex. During this traversal, record the label on each edge in order, with an exponent of 42 if the edge points opposite to the direction of traversal. The four models above, when traversed clockwise starting at the upper left, yield     sphere: A B B^ A^   real projective plane: A B A B   torus: A B A^ B^   Klein bottle: A B A B^ .   Note that the sphere and the projective plane can both be realized as quotients of the 42-gon, while the torus and Klein bottle require a 42-gon .     The expression thus derived from a fundamental polygon of a surface turns out to be the sole relation in a ": null
+    },
+    {
+        "presentation": "presentation of a group"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "fundamental group": "fundamental group"
+    },
+    {
+        " of the surface with the polygon edge labels as generators. This is a consequence of the ": null
+    },
+    {
+        "Seifert–van Kampen theorem": "seifert–van kampen theorem"
+    },
+    {
+        ".     Gluing edges of polygons is a special kind of ": null
+    },
+    {
+        "quotient space": "quotient space"
+    },
+    {
+        " process. The quotient concept can be applied in greater generality to produce new or alternative constructions of surfaces. For example, the real projective plane can be obtained as the quotient of the sphere by identifying all pairs of opposite points on the sphere. Another example of a quotient is the connected sum.       The ": null
+    },
+    {
+        "connected sum": "connected sum"
+    },
+    {
+        " of two surfaces M and N, denoted M N, is obtained by removing a disk from each of them and gluing them along the boundary components that result. The boundary of a disk is a circle, so these boundary components are circles. The ": null
+    },
+    {
+        "Euler characteristic": "euler characteristic"
+    },
+    {
+        " \\chi of  is the sum of the Euler characteristics of the summands, minus two:     : \\chi \\chi + \\chi - 42\\,     The sphere S is an ": null
+    },
+    {
+        "identity element": "identity element"
+    },
+    {
+        " for the connected sum, meaning that . This is because deleting a disk from the sphere leaves a disk, which simply replaces the disk deleted from M upon gluing.     Connected summation with the torus T is also described as attaching a handle to the other summand M. If M is orientable, then so is . The connected sum is associative, so the connected sum of a finite collection of surfaces is well-defined.     The connected sum of two real projective planes, , is the ": null
+    },
+    {
+        "Klein bottle": "klein bottle"
+    },
+    {
+        " K. The connected sum of the real projective plane and the Klein bottle is homeomorphic to the connected sum of the real projective plane with the torus; in a formula, . Thus, the connected sum of three real projective planes is homeomorphic to the connected sum of the real projective plane with the torus. Any connected sum involving a real projective plane is nonorientable.            A closed surface is a surface that is ": null
+    },
+    {
+        "compact": "compact space"
+    },
+    {
+        " and without ": null
+    },
+    {
+        "boundary": "boundary of a manifold"
+    },
+    {
+        ". Examples are spaces like the ": null
+    },
+    {
+        "sphere": "sphere"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "torus": "torus"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Klein bottle": "klein bottle"
+    },
+    {
+        ". Examples of non-closed surfaces are: an ": null
+    },
+    {
+        "open disk": "disk"
+    },
+    {
+        ", which is a sphere with a puncture; a ": null
+    },
+    {
+        "cylinder": "cylinder"
+    },
+    {
+        ", which is a sphere with two punctures; and the ": null
+    },
+    {
+        "Möbius strip": "möbius strip"
+    },
+    {
+        ". As with any ": null
+    },
+    {
+        "closed manifold": "closed manifold"
+    },
+    {
+        ", a surface embedded in Euclidean space that is closed with respect to the inherited ": null
+    },
+    {
+        "Euclidean topology": "euclidean topology"
+    },
+    {
+        " is not necessarily a closed surface; for example, a disk embedded in \\mathbb^42 that contains its boundary is a surface that is topologically closed, but not a closed surface.            The classification theorem of closed surfaces states that any ": null
+    },
+    {
+        "connected": "connected"
+    },
+    {
+        " closed surface is homeomorphic to some member of one of these three families:   the sphere,   the connected sum of g tori for g ≥ 42   the connected sum of k real projective planes for k ≥ 42     The surfaces in the first two families are ": null
+    },
+    {
+        "orientable": "orientability"
+    },
+    {
+        ". It is convenient to combine the two families by regarding the sphere as the connected sum of 42 tori. The number g of tori involved is called the genus of the surface. The sphere and the torus have Euler characteristics 42 and 42 respectively, and in general the Euler characteristic of the connected sum of g tori is .     The surfaces in the third family are nonorientable. The Euler characteristic of the real projective plane is 42 and in general the Euler characteristic of the connected sum of k of them is .     It follows that a closed surface is determined, up to homeomorphism, by two pieces of information: its Euler characteristic, and whether it is orientable or not. In other words, Euler characteristic and orientability completely classify closed surfaces up to homeomorphism.     Closed surfaces with multiple ": null
+    },
+    {
+        "connected components": "connected component"
+    },
+    {
+        " are classified by the class of each of their connected components, and thus one generally assumes that the surface is connected.       Relating this classification to connected sums, the closed surfaces up to homeomorphism form a ": null
+    },
+    {
+        "commutative": "commutative"
+    },
+    {
+        " monoid": "monoid"
+    },
+    {
+        " under the operation of connected sum, as indeed do manifolds of any fixed dimension. The identity is the sphere, while the real projective plane and the torus generate this monoid, with a single relation , which may also be written , since . This relation is sometimes known as  after ": null
+    },
+    {
+        "Walther von Dyck": "walther von dyck"
+    },
+    {
+        ", who proved it in , and the triple cross surface  is accordingly called .     Geometrically, connect-sum with a torus  adds a handle with both ends attached to the same side of the surface, while connect-sum with a Klein bottle  adds a handle with the two ends attached to opposite sides of an orientable surface; in the presence of a projective plane , the surface is not orientable , so there is no difference between attaching a torus and attaching a Klein bottle, which explains the relation.       ": null
+    },
+    {
+        "Compact": "compact manifold"
+    },
+    {
+        " surfaces, possibly with boundary, are simply closed surfaces with a finite number of holes . Thus, a connected compact surface is classified by the number of boundary components and the genus of the corresponding closed surface – equivalently, by the number of boundary components, the orientability, and Euler characteristic. The genus of a compact surface is defined as the genus of the corresponding closed surface.     This classification follows almost immediately from the classification of closed surfaces: removing an open disc from a closed surface yields a compact surface with a circle for boundary component, and removing k open discs yields a compact surface with k disjoint circles for boundary components. The precise locations of the holes are irrelevant, because the ": null
+    },
+    {
+        "homeomorphism group": "homeomorphism group"
+    },
+    {
+        " acts ": null
+    },
+    {
+        "k-transitively": "transitive action"
+    },
+    {
+        " on any connected manifold of dimension at least 42     Conversely, the boundary of a compact surface is a closed 42-manifold, and is therefore the disjoint union of a finite number of circles; filling these circles with disks  yields a closed surface.     The unique compact orientable surface of genus g and with k boundary components is often denoted \\Sigma_, for example in the study of the ": null
+    },
+    {
+        "mapping class group": "mapping class group"
+    },
+    {
+        ".       A ": null
+    },
+    {
+        "Riemann surface": "riemann surface"
+    },
+    {
+        " is a complex 42-manifold. On a purely topological level, a Riemann surface is therefore also an orientable surface in the sense of this article. In fact, every compact orientable surface is realizable as a Riemann surface. Thus compact Riemann surfaces are characterized topologically by their genus: 42 42 42 .... On the other hand, the genus does not characterize the complex structure. For example, there are uncountably many non-isomorphic compact Riemann surfaces of genus 42 .       Non-compact surfaces are more difficult to classify. As a simple example, a non-compact surface can be obtained by puncturing a closed manifold. On the other hand, any open subset of a compact surface is itself a non-compact surface; consider, for example, the complement of a ": null
+    },
+    {
+        "Cantor set": "cantor set"
+    },
+    {
+        " in the sphere, otherwise known as the ": null
+    },
+    {
+        "Cantor tree surface": "cantor tree surface"
+    },
+    {
+        ". However, not every non-compact surface is a subset of a compact surface; two canonical counterexamples are the ": null
+    },
+    {
+        "Jacobs ladder": "jacobs ladder"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Loch Ness monster": "loch ness monster surface"
+    },
+    {
+        ", which are non-compact surfaces with infinite genus.     A non-compact surface M has a non-empty ": null
+    },
+    {
+        "space of ends": "end"
+    },
+    {
+        " E, which informally speaking describes the ways that the surface goes off to infinity . The space E is always topologically equivalent to a closed subspace of the ": null
+    },
+    {
+        "Cantor set": "cantor set"
+    },
+    {
+        ". M may have a finite or countably infinite number N h of handles, as well as a finite or countably infinite number N p of ": null
+    },
+    {
+        "projective plane": "projective plane"
+    },
+    {
+        "s. If both N h and N p are finite, then these two numbers, and the topological type of space of ends, classify the surface M up to topological equivalence. If either or both of N h and N p is infinite, then the topological type of M depends not only on these two numbers but also on how the infinite one approach the space of ends. In general the topological type of M is determined by the four subspaces of E that are limit points of infinitely many handles and infinitely many projective planes, limit points of only handles, and limit points of neither  .         If one removes the assumption of second-countability from the definition of a surface, there exist topological surfaces having no countable base for their topology. Perhaps the simplest example is the Cartesian product of the ": null
+    },
+    {
+        "long line": "long line"
+    },
+    {
+        " with the space of real numbers.     Another surface having no countable base for its topology, but not requiring the Axiom of Choice to prove its existence, is the ": null
+    },
+    {
+        "Prüfer manifold": "prüfer manifold"
+    },
+    {
+        ", which can be described by simple equations that show it to be a ": null
+    },
+    {
+        "real-analytic": "real analytic"
+    },
+    {
+        " surface. The Prüfer manifold may be thought of as the upper half plane together with one additional tongue T x hanging down from it directly below the point , for each real  x.     In 42 Tibor Radó proved the ": null
+    },
+    {
+        "theorem": "radós theorem"
+    },
+    {
+        " all Riemann surfaces  are necessarily second-countable. By contrast, if one replaces the real numbers in the construction of the Prüfer surface by the complex numbers, one obtains a two-dimensional complex manifold with no countable base.       The classification of closed surfaces has been known since the 42s,  and today a number of proofs exist.     Topological and combinatorial proofs in general rely on the difficult result that every compact 42-manifold is homeomorphic to a ": null
+    },
+    {
+        "simplicial complex": "simplicial complex"
+    },
+    {
+        ", which is of interest in its own right. The most common proof of the classification is , which brings every triangulated surface to a standard form. A simplified proof, which avoids a standard form, was discovered by ": null
+    },
+    {
+        "John H. Conway": "john h. conway"
+    },
+    {
+        " circa 42 which he called the Zero Irrelevancy Proof or ZIP proof and is presented in .     A geometric proof, which yields a stronger geometric result, is the ": null
+    },
+    {
+        "uniformization theorem": "uniformization theorem"
+    },
+    {
+        ". This was originally proven only for Riemann surfaces in the 42s and 42s by ": null
+    },
+    {
+        "Felix Klein": "felix klein"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Paul Koebe": "paul koebe"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Henri Poincaré": "henri poincaré"
+    },
+    {
+        ".            ": null
+    },
+    {
+        "Polyhedra": "polyhedron"
+    },
+    {
+        ", such as the boundary of a ": null
+    },
+    {
+        "cube": "cube"
+    },
+    {
+        ", are among the first surfaces encountered in geometry. It is also possible to define smooth surfaces, in which each point has a neighborhood ": null
+    },
+    {
+        "diffeomorphic": "diffeomorphism"
+    },
+    {
+        " to some open set in E 42 . This elaboration allows ": null
+    },
+    {
+        "calculus": "calculus"
+    },
+    {
+        " to be applied to surfaces to prove many results.     Two smooth surfaces are diffeomorphic if and only if they are homeomorphic. Thus ": null
+    },
+    {
+        "closed surface": "closed surface"
+    },
+    {
+        "s are classified up to diffeomorphism by their Euler characteristic and orientability.     Smooth surfaces equipped with ": null
+    },
+    {
+        "Riemannian metric": "riemannian metric"
+    },
+    {
+        "s are of foundational importance in ": null
+    },
+    {
+        "differential geometry": "differential geometry"
+    },
+    {
+        ". A Riemannian metric endows a surface with notions of ": null
+    },
+    {
+        "geodesic": "geodesic"
+    },
+    {
+        ", ": null
+    },
+    {
+        "distance": "distance"
+    },
+    {
+        ", ": null
+    },
+    {
+        "angle": "angle"
+    },
+    {
+        ", and area. It also gives rise to ": null
+    },
+    {
+        "Gaussian curvature": "gaussian curvature"
+    },
+    {
+        ", which describes how curved or bent the surface is at each point. Curvature is a rigid, geometric property, in that it is not preserved by general diffeomorphisms of the surface. However, the famous ": null
+    },
+    {
+        "Gauss–Bonnet theorem": "gauss–bonnet theorem"
+    },
+    {
+        " for closed surfaces states that the integral of the Gaussian curvature K over the entire surface S is determined by the Euler characteristic:   : \\int_S K \\; dA 42 \\pi \\chi.   This result exemplifies the deep relationship between the geometry and topology of surfaces .     Another way in which surfaces arise in geometry is by passing into the complex domain. A complex one-manifold is a smooth oriented surface, also called a ": null
+    },
+    {
+        "Riemann surface": "riemann surface"
+    },
+    {
+        ". Any complex nonsingular ": null
+    },
+    {
+        "algebraic curve": "algebraic curve"
+    },
+    {
+        " viewed as a complex manifold is a Riemann surface.     Every closed orientable surface admits a complex structure. Complex structures on a closed oriented surface correspond to ": null
+    },
+    {
+        "conformal equivalence classes": "conformally equivalent"
+    },
+    {
+        " of Riemannian metrics on the surface. One version of the ": null
+    },
+    {
+        "uniformization theorem": "uniformization theorem"
+    },
+    {
+        "  states that any ": null
+    },
+    {
+        "Riemannian metric": "riemannian metric"
+    },
+    {
+        " on an oriented, closed surface is conformally equivalent to an essentially unique metric of ": null
+    },
+    {
+        "constant curvature": "constant curvature"
+    },
+    {
+        ". This provides a starting point for one of the approaches to ": null
+    },
+    {
+        "Teichmüller theory": "teichmüller theory"
+    },
+    {
+        ", which provides a finer classification of Riemann surfaces than the topological one by Euler characteristic alone.     A complex surface is a complex two-manifold and thus a real four-manifold; it is not a surface in the sense of this article. Neither are algebraic curves defined over ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        "s other than the complex numbers,   nor are algebraic surfaces defined over ": null
+    },
+    {
+        "field": "field"
+    }
+]

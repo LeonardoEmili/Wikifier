@@ -1,0 +1,317 @@
+[
+    {
+        "           In ": null
+    },
+    {
+        "linear algebra": "linear algebra"
+    },
+    {
+        ", the singular value decomposition  is a ": null
+    },
+    {
+        "factorization": "matrix decomposition"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "real": "real number"
+    },
+    {
+        " or ": null
+    },
+    {
+        "complex": "complex number"
+    },
+    {
+        " matrix": "matrix"
+    },
+    {
+        ". It is the generalization of the ": null
+    },
+    {
+        "eigendecomposition": "eigendecomposition"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "normal matrix": "normal matrix"
+    },
+    {
+        "  to any m \\times n matrix via an extension of the ": null
+    },
+    {
+        "polar decomposition": "polar decompositionmatrix polar decomposition"
+    },
+    {
+        ". It has many useful applications in ": null
+    },
+    {
+        "signal processing": "signal processing"
+    },
+    {
+        " and ": null
+    },
+    {
+        "statistics": "statistics"
+    },
+    {
+        ".     Formally, the singular value decomposition of an m \\times n real or complex matrix \\mathbf is a factorization of the form \\mathbf , where \\mathbf is an m \\times m real or complex ": null
+    },
+    {
+        "unitary matrix": "unitary matrix"
+    },
+    {
+        ", \\mathbf is an m \\times n ": null
+    },
+    {
+        "rectangular diagonal matrix": "rectangular diagonal matrix"
+    },
+    {
+        " with non-negative real numbers on the diagonal, and \\mathbf is an n \\times n real or complex unitary matrix. The diagonal entries \\sigma_i of \\mathbf are known as the  singular value s of \\mathbf . The columns of \\mathbf and the columns of \\mathbf are called the left-singular vectors and right-singular vectors of \\mathbf , respectively.     The singular value decomposition can be computed using the following observations:   The left-singular vectors of  are a set of ": null
+    },
+    {
+        "orthonormal": "orthonormal"
+    },
+    {
+        " eigenvectors": "eigenvectors"
+    },
+    {
+        " of .   The right-singular vectors of  are a set of orthonormal eigenvectors of .   The non-negative singular values of   are the square roots of the non-negative ": null
+    },
+    {
+        "eigenvalues": "eigenvalues"
+    },
+    {
+        " of both  and .     Applications that employ the SVD include computing the ": null
+    },
+    {
+        "pseudoinverse": "moore–penrose pseudoinverse"
+    },
+    {
+        ", ": null
+    },
+    {
+        "least squares": "least squares"
+    },
+    {
+        " fitting of data, multivariable control, matrix approximation, and determining the ": null
+    },
+    {
+        "rank": "rank of a matrix"
+    },
+    {
+        ", ": null
+    },
+    {
+        "range": "range of a matrix"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "null space": "kernel"
+    },
+    {
+        " of a matrix.       Suppose  is an  ": null
+    },
+    {
+        "matrix": "matrix"
+    },
+    {
+        " whose entries come from the ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        " , which is either the field of ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s or the field of ": null
+    },
+    {
+        "complex number": "complex number"
+    },
+    {
+        "s. Then the singular value decomposition of  exists, and is a factorization of the form     : \\mathbf \\mathbf \\boldsymbol \\mathbf^     where    is an  ": null
+    },
+    {
+        "unitary matrix": "unitary matrix"
+    },
+    {
+        " over  ,    is a ": null
+    },
+    {
+        "diagonal": "rectangular diagonal matrix"
+    },
+    {
+        "  matrix with non-negative real numbers on the diagonal,    is an  ": null
+    },
+    {
+        "unitary matrix": "unitary matrix"
+    },
+    {
+        " over , and  is the ": null
+    },
+    {
+        "conjugate transpose": "conjugate transpose"
+    },
+    {
+        " of .     The diagonal entries  of  are known as the  singular value s of . A common convention is to list the singular values in descending order. In this case, the diagonal matrix, , is uniquely determined by  .              In the special, yet common case when  is an  real ": null
+    },
+    {
+        "square matrix": "square matrix"
+    },
+    {
+        " with positive ": null
+    },
+    {
+        "determinant": "determinant"
+    },
+    {
+        ": , and  are real  matrices as well.  can be regarded as a ": null
+    },
+    {
+        "scaling matrix": "scaling matrix"
+    },
+    {
+        ", and  can be viewed as ": null
+    },
+    {
+        "rotation matrices": "rotation matrix"
+    },
+    {
+        ". Thus, the expression  can be intuitively interpreted as a ": null
+    },
+    {
+        "composition": "function composition"
+    },
+    {
+        " of three geometrical ": null
+    },
+    {
+        "transformations": "transformation"
+    },
+    {
+        ": a ": null
+    },
+    {
+        "rotation or reflection": "coordinate rotations and reflections"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "scaling": "scaling"
+    },
+    {
+        ", and another rotation or reflection. For instance, the figure explains how a ": null
+    },
+    {
+        "shear matrix": "shear matrix"
+    },
+    {
+        " can be described as such a sequence.     Using the ": null
+    },
+    {
+        "polar decomposition": "polar decompositionmatrix polar decomposition"
+    },
+    {
+        " theorem, we can also consider  as the composition of a stretch  with eigenvalue scale factors  along the orthogonal eigenvectors  of , followed by a single rotation . If the rotation is done first, , then  is the same and  has the same eigenvalues, but is stretched along different directions. This shows that the SVD is a generalization of the eigenvalue decomposition of pure stretches in orthogonal directions  to arbitrary matrices  which both stretch and rotate.       As shown in the figure, the ": null
+    },
+    {
+        "singular values": "singular values"
+    },
+    {
+        " can be interpreted as the magnitude of the semiaxis of an ": null
+    },
+    {
+        "ellipse": "ellipse"
+    },
+    {
+        " in 42D. This concept can be generalized to -dimensional ": null
+    },
+    {
+        "Euclidean space": "euclidean space"
+    },
+    {
+        ", with the singular values of any  ": null
+    },
+    {
+        "square matrix": "square matrix"
+    },
+    {
+        " being viewed as the magnitude of the semiaxis of an -dimensional ": null
+    },
+    {
+        "ellipsoid": "ellipsoid"
+    },
+    {
+        ". Similarly, the singular values of any  matrix can be viewed as the magnitude of the semiaxis of an -dimensional ": null
+    },
+    {
+        "ellipsoid": "ellipsoid"
+    },
+    {
+        " in -dimensional space, for example as an ellipse in a 42D plane in a 42D space. Singular values encode magnitude of the semiaxis, while singular vectors encode direction. See ": null
+    },
+    {
+        "below": "geometric meaning"
+    },
+    {
+        " for further details.     U and V are orthonormal bases  and  are unitary, the columns of each of them form a set of ": null
+    },
+    {
+        "orthonormal vectors": "orthonormal vectors"
+    },
+    {
+        ", which can be regarded as ": null
+    },
+    {
+        "basis vectors": "basis vectors"
+    },
+    {
+        ". The matrix  maps the basis vector  to the stretched unit vector  . By the definition of a unitary matrix, the same is true for their conjugate transposes  and , except the geometric interpretation of the singular values as stretches is lost. In short, the columns of , and  are ": null
+    },
+    {
+        "orthonormal bases": "orthonormal basis"
+    },
+    {
+        ". When the \\mathbf is a ": null
+    },
+    {
+        "normal matrix": "normal matrix"
+    },
+    {
+        ",  and  reduce to the unitary used to diagonalize \\mathbf . However, when \\mathbf is not normal but still ": null
+    },
+    {
+        "diagonalizable": "diagonalizable"
+    },
+    {
+        ", its ": null
+    },
+    {
+        "eigendecomposition": "eigendecomposition"
+    },
+    {
+        " and singular value decomposition are distinct.       Because  and  are unitary, we know that the columns  of  yield an ": null
+    },
+    {
+        "orthonormal basis": "orthonormal basis"
+    },
+    {
+        " of  and the columns  of  yield an orthonormal basis of  .     The ": null
+    },
+    {
+        "linear transformation": "linear transformation"
+    },
+    {
+        "     : \\begin T : K^n \\to K^m \\\\ x \\mapsto \\mathbfx \\end     has a particularly simple description with respect to these orthonormal bases: we have     : T \\sigma_i \\mathbf_i, \\qquad i 42 \\ldots, \\min,     where  is the -th diagonal entry of , and  for  math /math  math /math  math /math math /math math /math  math /math  sup /sup  math /math  sup /sup  math /math math /math math /math  math /math  math /math math /math  sup  /sup  math /math  math /math  math /math  math /math  math /math math /math  math /math math /math  math /math  math /math  ref  /ref  math /math ref  /ref  ref  /ref  math /math math /math  ref  !-- /ref  ref  /ref ref  /ref ref  /ref ref  /ref  ref  /ref ref  /ref  ref  /ref ref  /ref ref  /ref ref  /ref  ref  /ref  ref  /ref  math /math  math /math  math /math  math /math  math /math math /math math /math math /math math /math math /math math /math math /math math /math math /math math /math math /math math /math math    ": null
+    }
+]

@@ -1,0 +1,368 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        ", control flow  is the order in which individual ": null
+    },
+    {
+        "statements": "statement"
+    },
+    {
+        ", ": null
+    },
+    {
+        "instructions": "instruction"
+    },
+    {
+        " or ": null
+    },
+    {
+        "function call": "function call"
+    },
+    {
+        "s of an ": null
+    },
+    {
+        "imperative": "imperative programming"
+    },
+    {
+        " program": "computer program"
+    },
+    {
+        " are ": null
+    },
+    {
+        "executed": "execution"
+    },
+    {
+        " or evaluated. The emphasis on explicit control flow distinguishes an  imperative programming  language from a  declarative programming  language.     Within an imperative ": null
+    },
+    {
+        "programming language": "programming language"
+    },
+    {
+        ", a control flow statement is a statement, the execution of which results in a choice being made as to which of two or more paths to follow. For ": null
+    },
+    {
+        "non-strict": "strict programming language"
+    },
+    {
+        " functional languages, functions and language constructs exist to achieve the same result, but they are usually not termed control flow statements.     A set of statements is in turn generally structured as a ": null
+    },
+    {
+        "block": "block"
+    },
+    {
+        ", which in addition to grouping, also defines a ": null
+    },
+    {
+        "lexical scope": "lexical scope"
+    },
+    {
+        ".     ": null
+    },
+    {
+        "Interrupt": "interrupt"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "signals": "signal"
+    },
+    {
+        " are low-level mechanisms that can alter the flow of control in a way similar to a subroutine, but usually occur as a response to some external stimulus or event , rather than execution of an in-line control flow statement.     At the level of ": null
+    },
+    {
+        "machine language": "machine language"
+    },
+    {
+        " or ": null
+    },
+    {
+        "assembly language": "assembly language"
+    },
+    {
+        ", control flow instructions usually work by altering the ": null
+    },
+    {
+        "program counter": "program counter"
+    },
+    {
+        ". For some ": null
+    },
+    {
+        "central processing unit": "central processing unit"
+    },
+    {
+        "s , the only control flow instructions available are conditional or unconditional ": null
+    },
+    {
+        "branch": "branch"
+    },
+    {
+        " instructions, also termed jumps.          The kinds of control flow statements supported by different languages vary, but can be categorized by their effect:   Continuation at a different statement    Executing a set of statements only if some condition is met    Executing a set of statements zero or more times, until some condition is met    Executing a set of distant statements, after which the flow of control usually returns    Stopping the program, preventing any further execution                A ": null
+    },
+    {
+        "label": "label"
+    },
+    {
+        " is an explicit name or number assigned to a fixed position within the ": null
+    },
+    {
+        "source code": "source code"
+    },
+    {
+        ", and which may be referenced by control flow statements appearing elsewhere in the source code. A label marks a position within source code, and has no other effect.     ": null
+    },
+    {
+        "Line number": "line number"
+    },
+    {
+        "s are an alternative to a named label , that are ": null
+    },
+    {
+        "whole numbers": "natural number"
+    },
+    {
+        " placed at the start of each line of text in the source code. Languages which use these often impose the constraint that the line numbers must increase in value in each following line, but may not require that they be consecutive. For example, in BASIC:       42 LET X 42   42 PRINT X       In other languages such as ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Ada": "ada"
+    },
+    {
+        ", a label is an ": null
+    },
+    {
+        "identifier": "identifier"
+    },
+    {
+        ", usually appearing at the start of a line and immediately followed by a colon. For example, in C:       Success: printf;       The language ": null
+    },
+    {
+        "ALGOL 42": "algol 60"
+    },
+    {
+        " allowed both whole numbers and identifiers as labels , but few if any other ": null
+    },
+    {
+        "ALGOL": "algol"
+    },
+    {
+        " variants allowed whole numbers. Early ": null
+    },
+    {
+        "Fortran": "fortran"
+    },
+    {
+        " compilers only allowed whole numbers as labels. Beginning with Fortran42 alphanumeric labels have also been allowed.              The goto statement  is the most basic form of unconditional transfer of control.     Although the ": null
+    },
+    {
+        "keyword": "keyword"
+    },
+    {
+        " may either be in upper or lower case depending on the language, it is usually written as:   goto label   The effect of a goto statement is to cause the next statement to be executed to be the statement appearing at the indicated label.     Goto statements have been ": null
+    },
+    {
+        "considered harmful": "considered harmful"
+    },
+    {
+        " by many computer scientists, notably ": null
+    },
+    {
+        "Dijkstra": "edsger w. dijkstra"
+    },
+    {
+        ".              The terminology for ": null
+    },
+    {
+        "subroutine": "subroutine"
+    },
+    {
+        "s varies; they may alternatively be known as routines, procedures, functions or methods .     In the 42s, computer memories were very small by current standards so subroutines were used mainly to reduce program size. A piece of code was written once and then used many times from various other places in a program.     Today, subroutines are more often used to help make a program more structured, e.g., by isolating some algorithm or hiding some data access method. If many programmers are working on one program, subroutines are one kind of ": null
+    },
+    {
+        "modularity": "modularity"
+    },
+    {
+        " that can help divide the work.            In structured programming, the ordered sequencing of successive commands is considered one of the basic control structures, which is used as a building block for programs alongside iteration, recursion and choice.            In May 42 Böhm and Jacopini published an article Böhm, Jacopini. Flow diagrams, turing machines and languages with only two formation rules ": null
+    },
+    {
+        "Comm. ACM": "comm. acm"
+    },
+    {
+        ", 42:4242 May 42 in Communications of the ACM which showed that any program with gotos could be transformed into a goto-free form involving only choice and loops , possibly with duplicated code and/or the addition of Boolean variables . Later authors showed that choice can be replaced by loops .     That such minimalism is possible does not mean that it is necessarily desirable; after all, computers theoretically need only ": null
+    },
+    {
+        "one machine instruction": "one instruction set computer"
+    },
+    {
+        " , but practical computers have dozens or even hundreds of machine instructions.     What Böhm and Jacopinis article showed was that all programs could be goto-free. Other research showed that control structures with one entry and one exit were much easier to understand than any other form, mainly because they could be used anywhere as a statement without disrupting the control flow. In other words, they were composable.      Some academics took a purist approach to the Böhm-Jacopini result and argued that even instructions like break and return from the middle of loops are bad practice as they are not needed in the Böhm-Jacopini proof, and thus they advocated that all loops should have a single exit point. This purist approach is embodied in the language ": null
+    },
+    {
+        "Pascal": "pascal"
+    },
+    {
+        " , which up to the mid42s was the preferred tool for teaching introductory programming in academia. Roberts, E. “,” ACM SIGCSE Bulletin, 42: 42–42 The direct application of the Böhm-Jacopini theorem may result in additional local variables being introduced in the structured chart, and may also result in some ": null
+    },
+    {
+        "code duplication": "code duplication"
+    },
+    {
+        ".  Pascal is affected by both of these problems and according to empirical studies cited by ": null
+    },
+    {
+        "Eric S. Roberts": "eric s. roberts"
+    },
+    {
+        ", student programmers had difficulty formulating correct solutions in Pascal for several simple problems, including writing a function for searching an element in an array. A 42 study by Henry Shapiro cited by Roberts found that using only the Pascal-provided control structures, the correct solution was given by only 42% of the subjects, while no subject wrote incorrect code for this problem if allowed to write a return from the middle of a loop.         Most programming languages with control structures have an initial keyword which indicates the type of control structure involved. Languages then divide as to whether or not control structures have a final keyword.     No final keyword: ": null
+    },
+    {
+        "ALGOL 42": "algol 60"
+    },
+    {
+        ", ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        ", ": null
+    },
+    {
+        "C++": "c++"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Haskell": "haskell"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Java": "java"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Pascal": "pascal"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Perl": "perl"
+    },
+    {
+        ", ": null
+    },
+    {
+        "PHP": "php"
+    },
+    {
+        ", ": null
+    },
+    {
+        "PL/I": "pl/i"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Python": "python"
+    },
+    {
+        ", ": null
+    },
+    {
+        "PowerShell": "powershell"
+    },
+    {
+        ". Such languages need some way of grouping statements together:   ALGOL 42 and Pascal: begin ... end   C, C++, Java, Perl, PHP, and PowerShell: ": null
+    },
+    {
+        "curly brackets": "curly bracket programming language"
+    },
+    {
+        "   PL/I: DO ... END   Python: uses ": null
+    },
+    {
+        "indent": "indent style"
+    },
+    {
+        " level    Haskell: either ": null
+    },
+    {
+        "indent": "indent style"
+    },
+    {
+        " level or curly brackets can be used, and they can be freely mixed   Lua: uses do ... end   Final keyword: ": null
+    },
+    {
+        "Ada": "ada"
+    },
+    {
+        ", ": null
+    },
+    {
+        "ALGOL 42": "algol 68"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Modula42": "modula-2"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Fortran 42": "fortran 77"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Mythryl": "mythryl"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Visual Basic": "visual basic"
+    },
+    {
+        ". The forms of the final keyword vary:   Ada: final keyword is end + space + initial keyword e.g., if ... end if , loop ... end loop   ALGOL 42 Mythryl: initial keyword spelled backwards e.g., if ... fi , case ... esac   Fortran 42: final keyword is END + initial keyword e.g., IF ... ENDIF , DO ... ENDDO   Modula42: same final keyword END for everything   Visual Basic: every control structure has its own keyword. If ... End If ; For ... Next ; Do ... Loop ; While ... Wend                Conditional expressions and conditional constructs are features of a ": null
+    },
+    {
+        "programming language": "programming language"
+    },
+    {
+        " which perform different computations or actions depending on whether a programmer-specified ": null
+    },
+    {
+        "boolean": "boolean datatype"
+    },
+    {
+        " condition evaluates to true or false.   IF..GOTO . A form found in unstructured languages, mimicking a typical machine code instruction, would jump to a label or line number when the condition was met.   IF..THEN.. . Rather than being restricted to a jump, any simple statement, or nested block, could follow the THEN key keyword. This a structured form.   IF..THEN..ELSE.. . As above, but with a second action to be performed if the condition is false. This is one of the most common forms, with many variations. Some require a terminal ENDIF , others do not. ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        " and related languages do not require a terminal keyword, or a then, but do require parentheses around the condition.   Conditional statements can be and often are nested inside other conditional statements. Some languages allow ELSE and IF to be combined into ELSEIF , avoiding the need to have a series of ENDIF or other final statements at the end of a compound statement.     ": null
+    }
+]

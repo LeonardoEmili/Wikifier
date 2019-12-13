@@ -1,0 +1,965 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", some functions or groups of functions are important enough to deserve their own names. This is a listing of articles which explain some of these functions in more detail. There is a large theory of ": null
+    },
+    {
+        "special functions": "special functions"
+    },
+    {
+        " which developed out of ": null
+    },
+    {
+        "statistics": "statistics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "mathematical physics": "mathematical physics"
+    },
+    {
+        ". A modern, abstract point of view contrasts large ": null
+    },
+    {
+        "function space": "function space"
+    },
+    {
+        "s, which are infinite-dimensional and within which most functions are anonymous, with special functions picked out by properties such as ": null
+    },
+    {
+        "symmetry": "symmetry"
+    },
+    {
+        ", or relationship to ": null
+    },
+    {
+        "harmonic analysis": "harmonic analysis"
+    },
+    {
+        " and ": null
+    },
+    {
+        "group representation": "group representation"
+    },
+    {
+        "s.     See also ": null
+    },
+    {
+        "List of types of functions": "list of types of functions"
+    },
+    {
+        "       Elementary functions": "elementary functions"
+    },
+    {
+        " are functions built from basic operations       ": null
+    },
+    {
+        "Algebraic function": "algebraic function"
+    },
+    {
+        "s are functions that can be expressed as the solution of a polynomial equation with integer coefficients.   ": null
+    },
+    {
+        "Polynomial": "polynomial"
+    },
+    {
+        "s: Can be generated solely by addition, multiplication, and raising to the power of a positive integer.   ": null
+    },
+    {
+        "Constant function": "constant function"
+    },
+    {
+        ": polynomial of degree zero, graph is a horizontal straight line   ": null
+    },
+    {
+        "Linear function": "linear function"
+    },
+    {
+        ": First degree polynomial, graph is a straight line.   ": null
+    },
+    {
+        "Quadratic function": "quadratic function"
+    },
+    {
+        ": Second degree polynomial, graph is a ": null
+    },
+    {
+        "parabola": "parabola"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Cubic function": "cubic function"
+    },
+    {
+        ": Third degree polynomial.   ": null
+    },
+    {
+        "Quartic function": "quartic function"
+    },
+    {
+        ": Fourth degree polynomial.   ": null
+    },
+    {
+        "Quintic function": "quintic equation"
+    },
+    {
+        ": Fifth degree polynomial.   ": null
+    },
+    {
+        "Sextic function": "sextic equation"
+    },
+    {
+        ": Sixth degree polynomial.   ": null
+    },
+    {
+        "Rational function": "rational function"
+    },
+    {
+        "s: A ratio of two polynomials.   ": null
+    },
+    {
+        "nth root": "nth root"
+    },
+    {
+        " Square root": "square root"
+    },
+    {
+        ": Yields a number whose square is the given one.   ": null
+    },
+    {
+        "Cube root": "cube root"
+    },
+    {
+        ": Yields a number whose cube is the given one.       ": null
+    },
+    {
+        "Transcendental function": "transcendental function"
+    },
+    {
+        "s are functions that are not algebraic.   ": null
+    },
+    {
+        "Exponential function": "exponential function"
+    },
+    {
+        ": raises a fixed number to a variable power.   ": null
+    },
+    {
+        "Hyperbolic function": "hyperbolic function"
+    },
+    {
+        "s: formally similar to the trigonometric functions.   ": null
+    },
+    {
+        "Logarithm": "logarithm"
+    },
+    {
+        "s: the inverses of exponential functions; useful to solve equations involving exponentials.   ": null
+    },
+    {
+        "Natural logarithm": "natural logarithm"
+    },
+    {
+        " Common logarithm": "common logarithm"
+    },
+    {
+        " Binary logarithm": "binary logarithm"
+    },
+    {
+        " Power functions": "exponentiation"
+    },
+    {
+        ": raise a variable number to a fixed power; also known as ": null
+    },
+    {
+        "Allometric function": "allometric function"
+    },
+    {
+        "s; note: if the power is a rational number it is not strictly a transcendental function.   ": null
+    },
+    {
+        "Periodic function": "periodic function"
+    },
+    {
+        "s   ": null
+    },
+    {
+        "Trigonometric function": "trigonometric function"
+    },
+    {
+        "s: ": null
+    },
+    {
+        "sine": "sine"
+    },
+    {
+        ", ": null
+    },
+    {
+        "cosine": "cosine"
+    },
+    {
+        ", ": null
+    },
+    {
+        "tangent": "tangent"
+    },
+    {
+        ", ": null
+    },
+    {
+        "cotangent": "cotangent"
+    },
+    {
+        ", ": null
+    },
+    {
+        "secant": "secant"
+    },
+    {
+        ", ": null
+    },
+    {
+        "cosecant": "cosecant"
+    },
+    {
+        ", ": null
+    },
+    {
+        "exsecant": "exsecant"
+    },
+    {
+        ", ": null
+    },
+    {
+        "excosecant": "excosecant"
+    },
+    {
+        ", ": null
+    },
+    {
+        "versine": "versine"
+    },
+    {
+        ", ": null
+    },
+    {
+        "coversine": "coversine"
+    },
+    {
+        ", ": null
+    },
+    {
+        "vercosine": "vercosine"
+    },
+    {
+        ", ": null
+    },
+    {
+        "covercosine": "covercosine"
+    },
+    {
+        ", ": null
+    },
+    {
+        "haversine": "haversine"
+    },
+    {
+        ", ": null
+    },
+    {
+        "hacoversine": "hacoversine"
+    },
+    {
+        ", ": null
+    },
+    {
+        "havercosine": "havercosine"
+    },
+    {
+        ", ": null
+    },
+    {
+        "hacovercosine": "hacovercosine"
+    },
+    {
+        ", etc.; used in ": null
+    },
+    {
+        "geometry": "geometry"
+    },
+    {
+        " and to describe periodic phenomena. See also ": null
+    },
+    {
+        "Gudermannian function": "gudermannian function"
+    },
+    {
+        ".     ": null
+    },
+    {
+        "Special functions": "special functions"
+    },
+    {
+        "Indicator function": "indicator function"
+    },
+    {
+        ": maps x to either 42 or 42 depending on whether or not x belongs to some subset.   ": null
+    },
+    {
+        "Step function": "step function"
+    },
+    {
+        ": A finite ": null
+    },
+    {
+        "linear combination": "linear combination"
+    },
+    {
+        " of ": null
+    },
+    {
+        "indicator function": "indicator function"
+    },
+    {
+        "s of ": null
+    },
+    {
+        "half-open interval": "half-open interval"
+    },
+    {
+        "s.   ": null
+    },
+    {
+        "Heaviside step function": "heaviside step function"
+    },
+    {
+        ": 42 for negative arguments and 42 for positive arguments. The integral of the ": null
+    },
+    {
+        "Dirac delta function": "dirac delta function"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Sawtooth wave": "sawtooth wave"
+    },
+    {
+        " Square wave": "square wave"
+    },
+    {
+        " Triangle wave": "triangle wave"
+    },
+    {
+        " Floor function": "floor function"
+    },
+    {
+        ": Largest integer less than or equal to a given number.   ": null
+    },
+    {
+        "Ceiling function": "ceiling function"
+    },
+    {
+        ": Smallest integer larger than or equal to a given number.   ": null
+    },
+    {
+        "Sign function": "sign function"
+    },
+    {
+        ": Returns only the sign of a number, as 42 or & minus;42   ": null
+    },
+    {
+        "Absolute value": "absolute value"
+    },
+    {
+        ": distance to the origin     ": null
+    },
+    {
+        "Number theoretic functions": "arithmetic_function"
+    },
+    {
+        "Sigma function": "divisor function"
+    },
+    {
+        ": ": null
+    },
+    {
+        "Sums": "summation"
+    },
+    {
+        " of ": null
+    },
+    {
+        "power": "exponentiation"
+    },
+    {
+        "s of ": null
+    },
+    {
+        "divisor": "divisor"
+    },
+    {
+        "s of a given ": null
+    },
+    {
+        "natural number": "natural number"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Eulers totient function": "eulers totient function"
+    },
+    {
+        ": Number of numbers ": null
+    },
+    {
+        "coprime": "coprime"
+    },
+    {
+        " to a given one.   ": null
+    },
+    {
+        "Prime-counting function": "prime-counting function"
+    },
+    {
+        ": Number of ": null
+    },
+    {
+        "prime": "prime number"
+    },
+    {
+        "s less than or equal to a given number.   ": null
+    },
+    {
+        "Partition function": "partition function"
+    },
+    {
+        ": Order-independent count of ways to write a given positive integer as a sum of positive integers.   ": null
+    },
+    {
+        "Möbius μ function": "möbius function"
+    },
+    {
+        ": Sum of the nth primitive roots of unity, it depends on the prime factorization of n.       ": null
+    },
+    {
+        "Logarithmic integral function": "logarithmic integral function"
+    },
+    {
+        ": Integral of the reciprocal of the logarithm, important in the ": null
+    },
+    {
+        "prime number theorem": "prime number theorem"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Exponential integral": "exponential integral"
+    },
+    {
+        " Trigonometric integral": "trigonometric integral"
+    },
+    {
+        ": Including Sine Integral and Cosine Integral   ": null
+    },
+    {
+        "Error function": "error function"
+    },
+    {
+        ": An integral important for ": null
+    },
+    {
+        "normal random variables": "normal distribution"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Fresnel integral": "fresnel integral"
+    },
+    {
+        ": related to the error function; used in ": null
+    },
+    {
+        "optics": "optics"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Dawson function": "dawson function"
+    },
+    {
+        ": occurs in ": null
+    },
+    {
+        "probability": "probability"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Faddeeva function": "faddeeva function"
+    },
+    {
+        " Gamma function": "gamma function"
+    },
+    {
+        ": A generalization of the ": null
+    },
+    {
+        "factorial": "factorial"
+    },
+    {
+        " function.   ": null
+    },
+    {
+        "Barnes G-function": "barnes g-function"
+    },
+    {
+        " Beta function": "beta function"
+    },
+    {
+        ": Corresponding ": null
+    },
+    {
+        "binomial coefficient": "binomial coefficient"
+    },
+    {
+        " analogue.   ": null
+    },
+    {
+        "Digamma function": "digamma function"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Polygamma function": "polygamma function"
+    },
+    {
+        " Incomplete beta function": "incomplete beta function"
+    },
+    {
+        " Incomplete gamma function": "incomplete gamma function"
+    },
+    {
+        " K-function": "k-function"
+    },
+    {
+        " Multivariate gamma function": "multivariate gamma function"
+    },
+    {
+        ": A generalization of the Gamma function useful in ": null
+    },
+    {
+        "multivariate statistics": "multivariate statistics"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Students t-distribution": "students t-distribution"
+    },
+    {
+        " Elliptic integral": "elliptic integral"
+    },
+    {
+        "s: Arising from the path length of ": null
+    },
+    {
+        "ellipse": "ellipse"
+    },
+    {
+        "s; important in many applications. Related functions are the ": null
+    },
+    {
+        "quarter period": "quarter period"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "nome": "nome"
+    },
+    {
+        ". Alternate notations include:   ": null
+    },
+    {
+        "Carlson symmetric form": "carlson symmetric form"
+    },
+    {
+        " Legendre form": "legendre form"
+    },
+    {
+        " Elliptic function": "elliptic function"
+    },
+    {
+        "s: The inverses of elliptic integrals; used to model double-periodic phenomena. Particular types are ": null
+    },
+    {
+        "Weierstrasss elliptic functions": "weierstrasss elliptic functions"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Jacobis elliptic functions": "jacobis elliptic functions"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "sine lemniscate": "sine lemniscate"
+    },
+    {
+        " and ": null
+    },
+    {
+        "cosine lemniscate": "cosine lemniscate"
+    },
+    {
+        " functions.   ": null
+    },
+    {
+        "Theta function": "theta function"
+    },
+    {
+        " modular form": "modular form"
+    },
+    {
+        "s, which include   ": null
+    },
+    {
+        "J-invariant": "j-invariant"
+    },
+    {
+        " Dedekind eta function": "dedekind eta function"
+    },
+    {
+        " Airy function": "airy function"
+    },
+    {
+        " Bessel function": "bessel function"
+    },
+    {
+        "s: Defined by a ": null
+    },
+    {
+        "differential equation": "differential equation"
+    },
+    {
+        "; useful in ": null
+    },
+    {
+        "astronomy": "astronomy"
+    },
+    {
+        ", ": null
+    },
+    {
+        "electromagnetism": "electromagnetism"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "mechanics": "mechanics"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Bessel–Clifford function": "bessel–clifford function"
+    },
+    {
+        " Kelvin functions": "kelvin functions"
+    },
+    {
+        " Legendre function": "legendre function"
+    },
+    {
+        ": From the theory of ": null
+    },
+    {
+        "spherical harmonics": "spherical harmonics"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Scorers function": "scorers function"
+    },
+    {
+        " Sinc function": "sinc function"
+    },
+    {
+        " Hermite polynomials": "hermite polynomials"
+    },
+    {
+        " Laguerre polynomials": "laguerre polynomials"
+    },
+    {
+        " Chebyshev polynomials": "chebyshev polynomials"
+    },
+    {
+        " Riemann zeta function": "riemann zeta function"
+    },
+    {
+        ": A special case of ": null
+    },
+    {
+        "Dirichlet series": "dirichlet series"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Riemann Xi function": "riemann xi function"
+    },
+    {
+        " Dirichlet eta function": "dirichlet eta function"
+    },
+    {
+        ": An allied function.   ": null
+    },
+    {
+        "Dirichlet L-function": "dirichlet l-function"
+    },
+    {
+        " Hurwitz zeta function": "hurwitz zeta function"
+    },
+    {
+        " Legendre chi function": "legendre chi function"
+    },
+    {
+        " Lerch transcendent": "lerch transcendent"
+    },
+    {
+        " Polylogarithm": "polylogarithm"
+    },
+    {
+        " and related functions:   ": null
+    },
+    {
+        "Incomplete polylogarithm": "incomplete polylogarithm"
+    },
+    {
+        " Clausen function": "clausen function"
+    },
+    {
+        " Complete Fermi–Dirac integral": "complete fermi–dirac integral"
+    },
+    {
+        ", an alternate form of the polylogarithm.   ": null
+    },
+    {
+        "Incomplete Fermi–Dirac integral": "incomplete fermi–dirac integral"
+    },
+    {
+        " Kummers function": "kummers function"
+    },
+    {
+        " Spences function": "spences function"
+    },
+    {
+        " Riesz function": "riesz function"
+    },
+    {
+        " Hypergeometric function": "hypergeometric function"
+    },
+    {
+        "s: Versatile family of ": null
+    },
+    {
+        "power series": "power series"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Confluent hypergeometric function": "confluent hypergeometric function"
+    },
+    {
+        " Associated Legendre functions": "associated legendre functions"
+    },
+    {
+        " Meijer G-function": "meijer g-function"
+    },
+    {
+        " Hyper operator": "hyper operator"
+    },
+    {
+        "s   ": null
+    },
+    {
+        "Iterated logarithm": "iterated logarithm"
+    },
+    {
+        " Pentation": "pentation"
+    },
+    {
+        " Super-logarithm": "super-logarithm"
+    },
+    {
+        "s   ": null
+    },
+    {
+        "Super-root": "super-root"
+    },
+    {
+        "s   ": null
+    },
+    {
+        "Tetration": "tetration"
+    },
+    {
+        " Lambert W function": "lambert w function"
+    },
+    {
+        ": Inverse of f w exp.       Dirichlet lambda function, λ ζ where ζ is the ": null
+    },
+    {
+        "Riemann zeta function": "riemann zeta function"
+    },
+    {
+        " Liouville function": "liouville function"
+    },
+    {
+        ", λ Ω   ": null
+    },
+    {
+        "Von Mangoldt function": "von mangoldt function"
+    },
+    {
+        ", Λ log  p if n is a positive power of the prime p ": null
+    },
+    {
+        "Modular lambda function": "modular lambda function"
+    },
+    {
+        ", λ, a highly symmetric holomorphic function on the complex upper half-plane   ": null
+    },
+    {
+        "Lamé function": "lamé function"
+    },
+    {
+        " Mathieu function": "mathieu function"
+    },
+    {
+        " Mittag-Leffler function": "mittag-leffler function"
+    },
+    {
+        " Painlevé transcendents": "painlevé transcendents"
+    },
+    {
+        " Parabolic cylinder function": "parabolic cylinder function"
+    },
+    {
+        " Synchrotron function": "synchrotron function"
+    },
+    {
+        " Arithmetic–geometric mean": "arithmetic–geometric mean"
+    },
+    {
+        " Ackermann function": "ackermann function"
+    },
+    {
+        ": in the ": null
+    },
+    {
+        "theory of computation": "theory of computation"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "computable function": "computable function"
+    },
+    {
+        " that is not ": null
+    },
+    {
+        "primitive recursive": "primitive recursive function"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Böttchers function": "böttchers equation"
+    },
+    {
+        " Dirac delta function": "dirac delta function"
+    },
+    {
+        ": everywhere zero except for x 42; total integral is 42 Not a function but a ": null
+    },
+    {
+        "distribution": "distribution"
+    },
+    {
+        ", but sometimes informally referred to as a function, particularly by physicists and engineers.   ": null
+    },
+    {
+        "Dirichlet function": "dirichlet function"
+    },
+    {
+        ": is an ": null
+    },
+    {
+        "indicator function": "indicator function"
+    },
+    {
+        " that matches 42 to rational numbers and 42 to irrationals. It is ": null
+    },
+    {
+        "nowhere continuous": "nowhere continuous"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Thomaes function": "thomaes function"
+    },
+    {
+        ": is a function that is continuous at all irrational numbers and discontinuous at all rational numbers. It is also a modification of Dirichlet function and sometimes called Riemann function.   ": null
+    },
+    {
+        "Kronecker delta function": "kronecker delta function"
+    },
+    {
+        ": is a function of two variables, usually integers, which is 42 if they are equal, and 42 otherwise.   ": null
+    },
+    {
+        "Minkowskis question mark function": "minkowskis question mark function"
+    },
+    {
+        ": Derivatives vanish on the rationals.   ": null
+    },
+    {
+        "Weierstrass function": "weierstrass function"
+    },
+    {
+        ": is an example of ": null
+    },
+    {
+        "continuous function": "continuous function"
+    },
+    {
+        " that is nowhere ": null
+    },
+    {
+        "differentiable": "differentiable function"
+    }
+]

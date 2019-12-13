@@ -1,0 +1,77 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        ", the term multiplex baseband has the following meanings:   In ": null
+    },
+    {
+        "frequency-division multiplexing": "frequency-division multiplexing"
+    },
+    {
+        ", the frequency ": null
+    },
+    {
+        "band": "band"
+    },
+    {
+        " occupied by the aggregate of the signals in the ": null
+    },
+    {
+        "line": "line"
+    },
+    {
+        " interconnecting the multiplexing and ": null
+    },
+    {
+        "radio": "radio"
+    },
+    {
+        " or line equipment.   In frequency division multiplexed ": null
+    },
+    {
+        "carrier": "carrier signal"
+    },
+    {
+        " systems, at the input to any stage of ": null
+    },
+    {
+        "frequency translation": "frequency translation"
+    },
+    {
+        ", the frequency band occupied.     For example, the output of a group ": null
+    },
+    {
+        "multiplexer": "multiplexer"
+    },
+    {
+        " consists of a band of frequencies from 42  kHz to 42  kHz. This is the group-level ": null
+    },
+    {
+        "baseband": "baseband"
+    },
+    {
+        " that results from combining 42 ": null
+    },
+    {
+        "voice-frequency": "voice-frequency"
+    },
+    {
+        " input channels, having a ": null
+    },
+    {
+        "bandwidth": "bandwidth"
+    },
+    {
+        " of 42  kHz each, including guard bands. In turn, 42 groups are multiplexed into a super group having a baseband of 42  kHz to 42  kHz. This baseband, however, does not represent a group-level baseband. Ten super groups are in turn multiplexed into one master group, the output of which is a baseband that may be used to modulate a ": null
+    },
+    {
+        "microwave": "microwave"
+    },
+    {
+        "-frequency carrier.                  ": null
+    }
+]

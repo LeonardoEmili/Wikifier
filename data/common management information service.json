@@ -1,0 +1,83 @@
+[
+    {
+        "The Common Management Information Service  is the service interface specified in  that is employed by OSI network elements for network management. It defines the service interface that is implemented by the ": null
+    },
+    {
+        "Common Management Information Protocol": "common management information protocol"
+    },
+    {
+        " as specified in . CMIS is part of the ": null
+    },
+    {
+        "Open Systems Interconnection": "open systems interconnection"
+    },
+    {
+        " body of international network standards.     Note the term CMIP is sometimes used erroneously when CMIS is intended. CMIS/CMIP is most often used in ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        " applications, in other areas ": null
+    },
+    {
+        "SNMP": "simple network management protocol"
+    },
+    {
+        " has become more popular.       The following services are made available by the Common Management Information Service Element to allow management of network elements:       M-CREATE – Create an instance of a managed object   M-DELETE – Delete an instance of a managed object   M-GET – Request managed object attributes   M-CANCEL-GET – Cancel an outstanding GET request   M-SET – Set managed object attributes   M-ACTION – Request an action to be performed on a managed object       M-EVENT-REPORT – Send events occurring on managed objects       To ": null
+    },
+    {
+        "transfer": "transfer"
+    },
+    {
+        " management ": null
+    },
+    {
+        "information": "information"
+    },
+    {
+        " between open systems using CMIS/CMIP, peer connections, i.e., associations, must be established. This requires the establishment of an ": null
+    },
+    {
+        "Application layer": "application layer"
+    },
+    {
+        " association, a ": null
+    },
+    {
+        "Session layer": "session layer"
+    },
+    {
+        " connection": "telecommunication connection"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "Transport layer": "transport layer"
+    },
+    {
+        " connection, and, depending on supporting ": null
+    },
+    {
+        "communications": "telecommunication"
+    },
+    {
+        " technology, ": null
+    },
+    {
+        "Network layer": "network layer"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Link layer": "link layer"
+    },
+    {
+        " connections.     CMIS initially defined management association services but it was later decided these services could be provided by ": null
+    },
+    {
+        "ACSE": "association control service element"
+    }
+]

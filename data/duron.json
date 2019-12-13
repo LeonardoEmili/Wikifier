@@ -1,0 +1,251 @@
+[
+    {
+        "           Duron is a line of budget ": null
+    },
+    {
+        "x42": "x86"
+    },
+    {
+        "-compatible microprocessors manufactured by ": null
+    },
+    {
+        "AMD": "advanced micro devices"
+    },
+    {
+        ". Released on June 42 42 as a lower-cost offering to complement AMDs then mainstream performance ": null
+    },
+    {
+        "Athlon": "athlon"
+    },
+    {
+        " processor line, it also competed with rival chipmaker ": null
+    },
+    {
+        "Intel": "intel"
+    },
+    {
+        "s ": null
+    },
+    {
+        "Pentium III": "pentium iii"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Celeron": "celeron"
+    },
+    {
+        " processor offerings. The Duron brand name was retired in 42 succeeded by the ": null
+    },
+    {
+        "Sempron": "sempron"
+    },
+    {
+        " line of processors as AMDs budget offering.       The original Duron processors were derived from AMDs mainstream Athlon ": null
+    },
+    {
+        "Thunderbird": "athlonathlon thunderbird"
+    },
+    {
+        " processors, the primary difference being a reduction in L42 cache size to 42 ": null
+    },
+    {
+        "KB": "binary prefix"
+    },
+    {
+        " from the Athlons 42 KB. This was a relatively severe reduction, making it even smaller than the 42 KB L42 available on Intels competing budget ": null
+    },
+    {
+        "Celeron": "celeron"
+    },
+    {
+        " line. However, the originating Thunderbird architecture already featured one of the largest L42 caches at 42 KB and also introduced AMDs switch to an exclusive cache design which effectively unified the L42 and L42 caches. Because of this, the Duron behaved as if it had a high speed 42 KB cache combined with a somewhat slower 42 KB segment giving an effective 42 KB cache, versus the traditional inclusive cache design where the L42 cache had to store a duplicate of the data stored in the L42 cache. As a comparison the inclusive design of the Celeron effectively reduced the available size of the Level 42 cache by the size of the Level 42 which resulted in an effective size of 42 KB in contrast to the Durons exclusive design .     Consequently, the Duron inherited the Thunderbirds reduction in sensitivity to L42 cache size, allowing AMD to make their L42 cache higher latency and lower bandwidth to lessen processor complexity and allow better manufacturing ": null
+    },
+    {
+        "yields": "semiconductor device fabricationdevice test"
+    },
+    {
+        " without incurring a significant performance loss. The net result was that the budget Duron Spitfire CPU was roughly only 42% slower than an equivalently clocked Athlon Thunderbird .       The Duron line was pin-compatible and operated on the same ": null
+    },
+    {
+        "motherboard": "motherboard"
+    },
+    {
+        "s as the Athlon line, requiring only a BIOS update in most cases. The original Duron was introduced with a 42  MHz ": null
+    },
+    {
+        "front-side bus": "front-side bus"
+    },
+    {
+        " - the same as the then current Socket A Athlons. Later with the introduction of motherboard chipsets offering higher FSB speeds of 42  MHz and AMDs matching introduction of Athlon C processors supporting this speed, the Duron initially retained the 42  MHz FSB for purposes of market segmentation. Later Durons were given official support for 42  MHz bus operation only after the Athlon XP was used to introduce 42/42  MHz FSB speeds.       The original Duron, using the Spitfire core, was manufactured in 42 and 42 at speeds ranging from 42 to 42  MHz. It was based on the 42  nm ": null
+    },
+    {
+        "Thunderbird": "athlonathlon thunderbird"
+    },
+    {
+        " Athlon core.     The second-generation Duron, the Morgan core, was sold in speed grades between 42 and 42  MHz, and was based on the 42  nm ": null
+    },
+    {
+        "Palomino": "athlonpalomino"
+    },
+    {
+        " Athlon XP core. As a result, it featured a few important enhancements, namely full Intel SSE support, enlarged TLBs, hardware data prefetch, and an integrated thermal diode. Like the Palomino core, Morgan was also expected to reduce heat dissipation; however in Morgan s case this did not happen due to its increased core voltage.     The final generation Duron was called Applebred , sometimes called Appalbred , and was based on the Appaloosa Duron along with the 42  nm ": null
+    },
+    {
+        "Thoroughbred": "athlonthoroughbred a.2fb .28130 nm.29"
+    },
+    {
+        " Athlon XP. Appaloosa was never officially announced but it did see very limited circulation.       Duron was often a favorite of computer builders looking for performance while on a tight budget. In 42 the Applebred Duron was available in 42  GHz, 42  GHz and 42  GHz forms, all on a 42  MHz bus by default. Enthusiast groups quickly discovered these Durons to be rebadged Thoroughbred A/B cores with some cache disabled . With a basic chip configuration modification, it was found that Applebred Durons could be turned into Thoroughbred B Athlon XPs, with full 42KB cache, with a very high success rate. However, this was only possible for a period of approximately 42 weeks, as shortly after Applebred was released, AMD changed the chip configuration method to one that was not changeable.            ": null
+    },
+    {
+        "L42-Cache": "l1-cache"
+    },
+    {
+        ": 42 + 42 ": null
+    },
+    {
+        "KB": "kilobyte"
+    },
+    {
+        "   L42-Cache": "l2-cache"
+    },
+    {
+        ": 42 KB, full speed   ": null
+    },
+    {
+        "MMX": "mmx"
+    },
+    {
+        ", Extended MMX, ": null
+    },
+    {
+        "42DNow!": "3dnow!"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Extended 42DNow!": "3dnow!"
+    },
+    {
+        " Socket A": "socket a"
+    },
+    {
+        "   Front side bus": "front side bus"
+    },
+    {
+        ": 42  MHz   VCore: 42 ": null
+    },
+    {
+        "V": "volts"
+    },
+    {
+        " - 42 V   First release: June 42 42   ": null
+    },
+    {
+        "Clockrate": "clock rate"
+    },
+    {
+        ": 42  MHz - 42  MHz        ": null
+    },
+    {
+        "L42-Cache": "l1-cache"
+    },
+    {
+        ": 42 + 42 ": null
+    },
+    {
+        "KB": "kilobyte"
+    },
+    {
+        "   L42-Cache": "l2-cache"
+    },
+    {
+        ": 42 KB, full speed   ": null
+    },
+    {
+        "MMX": "mmx"
+    },
+    {
+        ", Extended MMX, ": null
+    },
+    {
+        "42DNow!": "3dnow!"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Extended 42DNow!": "3dnow!"
+    },
+    {
+        ", ": null
+    },
+    {
+        "SSE": "streaming simd extensions"
+    },
+    {
+        " Socket A": "socket a"
+    },
+    {
+        "   Front side bus": "front side bus"
+    },
+    {
+        ": 42  MHz   VCore: 4242 V   First release: August 42 42   ": null
+    },
+    {
+        "Clockrate": "clock rate"
+    },
+    {
+        ": 42  MHz - 42  MHz        ": null
+    },
+    {
+        "L42-Cache": "l1-cache"
+    },
+    {
+        ": 42 + 42 ": null
+    },
+    {
+        "KB": "kilobyte"
+    },
+    {
+        "   L42-Cache": "l2-cache"
+    },
+    {
+        ": 42 KB, full speed   ": null
+    },
+    {
+        "MMX": "mmx"
+    },
+    {
+        ", Extended MMX, ": null
+    },
+    {
+        "42DNow!": "3dnow!"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Extended 42DNow!": "3dnow!"
+    },
+    {
+        ", ": null
+    },
+    {
+        "SSE": "streaming simd extensions"
+    },
+    {
+        " Socket A": "socket a"
+    },
+    {
+        "   Front side bus": "front side bus"
+    },
+    {
+        ": 42  MHz   VCore: 42 V   First release: August 42 42   ": null
+    },
+    {
+        "Clockrate": "clock rate"
+    }
+]

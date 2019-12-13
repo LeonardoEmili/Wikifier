@@ -1,0 +1,107 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "axiomatic set theory": "axiomatic set theory"
+    },
+    {
+        ", the axiom of empty set is a statement that asserts the existence of a set with no elements. It is an ": null
+    },
+    {
+        "axiom": "axiom"
+    },
+    {
+        " of ": null
+    },
+    {
+        "Kripke–Platek set theory": "kripke–platek set theory"
+    },
+    {
+        " and the variant of ": null
+    },
+    {
+        "general set theory": "general set theory"
+    },
+    {
+        " that Burgess calls ST, and a demonstrable truth in ": null
+    },
+    {
+        "Zermelo set theory": "zermelo set theory"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Zermelo–Fraenkel set theory": "zermelo–fraenkel set theory"
+    },
+    {
+        ", with or without the ": null
+    },
+    {
+        "axiom of choice": "axiom of choice"
+    },
+    {
+        ".       In the ": null
+    },
+    {
+        "formal language": "formal language"
+    },
+    {
+        " of the Zermelo–Fraenkel axioms, the axiom reads:   : \\exists x\\, \\forall y\\, \\lnot   or in words:   :": null
+    },
+    {
+        "There is": "existential quantification"
+    },
+    {
+        " a ": null
+    },
+    {
+        "set": "set"
+    },
+    {
+        " such that no element is a member of it.       We can use the ": null
+    },
+    {
+        "axiom of extensionality": "axiom of extensionality"
+    },
+    {
+        " to show that there is only one empty set. Since it is unique we can name it. It is called the  empty set  . The axiom, stated in natural language, is in essence:   :An empty set exists.     This formula is a theorem and considered true in every version of set theory. The only controversy is over how it should be justified: by making it an axiom; by deriving it from a set-existence axiom and the axiom of separation; by deriving it from the axiom of infinity; or some other method.     In some formulations of ZF, the axiom of empty set is actually repeated in the ": null
+    },
+    {
+        "axiom of infinity": "axiom of infinity"
+    },
+    {
+        ". However, there are other formulations of that axiom that do not presuppose the existence of an empty set. The ZF axioms can also be written using a ": null
+    },
+    {
+        "constant symbol": "first-order logicnon-logical symbols"
+    },
+    {
+        " representing the empty set; then the axiom of infinity uses this symbol without requiring it to be empty, while the axiom of empty set is needed to state that it is in fact empty.     Furthermore, one sometimes considers set theories in which there are no infinite sets, and then the axiom of empty set may still be required. However, any axiom of set theory or logic that implies the existence of any set will imply the existence of the empty set, if one has the ": null
+    },
+    {
+        "axiom schema of separation": "axiom schema of separation"
+    },
+    {
+        ". This is true, since the empty set is a subset of any set consisting of those elements that satisfy a contradictory formula.     In many formulations of first-order predicate logic, the existence of at least one object is always guaranteed. If the axiomatization of set theory is formulated in such a ": null
+    },
+    {
+        "logical system": "logical system"
+    },
+    {
+        " with the ": null
+    },
+    {
+        "axiom schema of separation": "axiom schema of separation"
+    },
+    {
+        " as axioms, and if the theory makes no distinction between sets and other kinds of objects , then the existence of the empty set is a theorem.     If separation is not postulated as an axiom schema, but derived as a theorem schema from the schema of replacement , the situation is more complicated, and depends on the exact formulation of the replacement schema. The formulation used in the ": null
+    },
+    {
+        "axiom schema of replacement": "axiom schema of replacement"
+    },
+    {
+        " article only allows to construct the image Fa when a is contained in the domain of the class function F; then the derivation of separation requires the axiom of empty set. On the other hand, the constraint of totality of F": null
+    }
+]

@@ -1,0 +1,650 @@
+[
+    {
+        "   A loading coil or load coil is an ": null
+    },
+    {
+        "inductor": "inductor"
+    },
+    {
+        " that is inserted into an ": null
+    },
+    {
+        "electronic circuit": "electronic circuit"
+    },
+    {
+        " to increase its ": null
+    },
+    {
+        "inductance": "inductance"
+    },
+    {
+        ". The term originated in the 42th century for inductors used to prevent signal distortion in long-distance telegraph transmission cables. The term is also used for inductors in ": null
+    },
+    {
+        "radio antenna": "antenna"
+    },
+    {
+        "s, or between the antenna and its ": null
+    },
+    {
+        "feedline": "feedline"
+    },
+    {
+        ", to make an ": null
+    },
+    {
+        "electrically short": "electrically short"
+    },
+    {
+        " antenna ": null
+    },
+    {
+        "resonant": "resonance"
+    },
+    {
+        " at its operating frequency.     The concept of loading coils was discovered by ": null
+    },
+    {
+        "Oliver Heaviside": "oliver heaviside"
+    },
+    {
+        " in studying the problem of slow signalling speed of the first ": null
+    },
+    {
+        "transatlantic telegraph cable": "transatlantic telegraph cable"
+    },
+    {
+        " in the 42s. He concluded additional inductance was required to prevent amplitude and time delay distortion of the transmitted signal. The mathematical condition for distortion-free transmission is known as the ": null
+    },
+    {
+        "Heaviside condition": "heaviside condition"
+    },
+    {
+        ". Previous telegraph lines were overland or shorter and hence had less delay, and the need for extra inductance was not as great. ": null
+    },
+    {
+        "Submarine communications cable": "submarine communications cable"
+    },
+    {
+        "s are particularly subject to the problem, but early 42th century installations using ": null
+    },
+    {
+        "balanced pair": "balanced pair"
+    },
+    {
+        "s were often continuously loaded with iron wire or tape rather than discretely with loading coils, which avoided the sealing problem.     Loading coils are historically also known as Pupin coils after ": null
+    },
+    {
+        "Mihajlo Pupin": "mihajlo idvorski pupin"
+    },
+    {
+        ", especially when used for the Heaviside condition and the process of inserting them is sometimes called pupinization.                      A common application of loading coils is to improve the ": null
+    },
+    {
+        "voice-frequency": "voice frequency"
+    },
+    {
+        " amplitude response characteristics of the ": null
+    },
+    {
+        "twisted balanced pairs": "twisted pair"
+    },
+    {
+        " in a telephone cable. Because twisted pair is a ": null
+    },
+    {
+        "balanced": "balanced line"
+    },
+    {
+        " format, half the loading coil must be inserted in each leg of the pair to maintain the balance. It is common for both these windings to be formed on the same core. This increases the ": null
+    },
+    {
+        "flux": "magnetic flux"
+    },
+    {
+        " linkages, without which the number of turns on the coil would need to be increased. Despite the use of common cores, such loading coils do not comprise ": null
+    },
+    {
+        "transformer": "transformer"
+    },
+    {
+        "s, as they do not provide ": null
+    },
+    {
+        "coupling": "coupling"
+    },
+    {
+        " to other circuits.     Loading coils inserted periodically in series with a pair of wires reduce the ": null
+    },
+    {
+        "attenuation": "attenuation"
+    },
+    {
+        " at the higher voice frequencies up to the ": null
+    },
+    {
+        "cutoff frequency": "cutoff frequency"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "low-pass filter": "low-pass filter"
+    },
+    {
+        " formed by the inductance of the coils and the distributed capacitance between the wires. Above the cutoff frequency, attenuation increases rapidly. The shorter the distance between the coils, the higher the cut-off frequency. The cutoff effect is an artifact of using ": null
+    },
+    {
+        "lumped": "lumped-element model"
+    },
+    {
+        " inductors. With loading methods using continuous ": null
+    },
+    {
+        "distributed": "distributed-element model"
+    },
+    {
+        " inductance there is no cutoff.     Without loading coils, the line response is dominated by the resistance and capacitance of the line with the attenuation gently increasing with frequency. With loading coils of exactly the right inductance, neither capacitance nor inductance dominate: the response is flat, ": null
+    },
+    {
+        "waveform": "waveform"
+    },
+    {
+        "s are undistorted and the ": null
+    },
+    {
+        "characteristic impedance": "characteristic impedance"
+    },
+    {
+        " is resistive up to the cutoff frequency. The coincidental formation of an ": null
+    },
+    {
+        "audio frequency": "audio frequency"
+    },
+    {
+        " filter is also beneficial in that noise is reduced.       With loading coils, signal attenuation of a circuit remains low for signals within the ": null
+    },
+    {
+        "passband": "passband"
+    },
+    {
+        " of the transmission line but increases rapidly for frequencies above the audio cutoff frequency. If the telephone line is subsequently reused to support applications that require higher frequencies, such as in analog or digital ": null
+    },
+    {
+        "carrier system": "carrier system"
+    },
+    {
+        "s or ": null
+    },
+    {
+        "digital subscriber line": "digital subscriber line"
+    },
+    {
+        " , loading coils must be removed or replaced. Using coils with parallel capacitors forms a filter with the topology of an ": null
+    },
+    {
+        "m-derived filter": "m-derived filter"
+    },
+    {
+        " and a band of frequencies above the cut-off is also passed. Without removal, for subscribers at an extended distance, e.g., over 42 miles from the central office, DSL cannot be supported.       American early and middle 42th century telephone cables had load coils at intervals of a mile , usually in coil cases holding many. The coils had to be removed to pass higher frequencies, but the coil cases provided convenient places for repeaters of digital ": null
+    },
+    {
+        "T-carrier": "t-carrier"
+    },
+    {
+        " systems, which could then transmit a 42 Mbit/s signal that distance. Due to narrower streets and higher cost of copper, European cables had thinner wires and used closer spacing. Intervals of a kilometer allowed European systems to carry 42 Mbit/s.             Another type of loading coil is used in radio ": null
+    },
+    {
+        "antenna": "antenna"
+    },
+    {
+        "s. ": null
+    },
+    {
+        "Monopole": "monopole antenna"
+    },
+    {
+        " and ": null
+    },
+    {
+        "dipole": "dipole antenna"
+    },
+    {
+        " radio antennas are designed to act as ": null
+    },
+    {
+        "resonator": "resonator"
+    },
+    {
+        "s for radio waves; the power from the transmitter, applied to the antenna through the antennas ": null
+    },
+    {
+        "transmission line": "transmission line"
+    },
+    {
+        ", excites ": null
+    },
+    {
+        "standing wave": "standing wave"
+    },
+    {
+        "s of voltage and current in the antenna element. To be “naturally” resonant, the antenna must have a physical length of one quarter of the ": null
+    },
+    {
+        "wavelength": "wavelength"
+    },
+    {
+        " of the radio waves used . At resonance the antenna acts electrically as a pure ": null
+    },
+    {
+        "resistance": "electrical resistance"
+    },
+    {
+        ", absorbing all the power applied to it from the transmitter.     In many cases for practical reasons it is necessary to make the antenna shorter than the resonant length, this is called an ": null
+    },
+    {
+        "electrically short": "electrically short"
+    },
+    {
+        " antenna. An antenna shorter than a quarter wavelength presents ": null
+    },
+    {
+        "capacitive reactance": "capacitive reactance"
+    },
+    {
+        " to the transmission line. Some of the applied power is reflected back into the transmission line and travels back toward the transmitter. The two currents at the same frequency running in opposite directions causes ": null
+    },
+    {
+        "standing wave": "standing wave"
+    },
+    {
+        "s on the transmission line, measured as a ": null
+    },
+    {
+        "standing wave ratio": "standing wave ratio"
+    },
+    {
+        " greater than one. The elevated currents waste energy by heating the wire, and can even overheat the transmitter.     To make an ": null
+    },
+    {
+        "electrically short": "electrical length"
+    },
+    {
+        " antenna resonant, a loading coil is inserted in series with the antenna. The coil is built to have an ": null
+    },
+    {
+        "inductive reactance": "inductive reactance"
+    },
+    {
+        " equal and opposite to the capacitive reactance of the short antenna, so the combination of reactances cancels. When so loaded the antenna presents a pure resistance to the transmission line, preventing energy from being reflected. The loading coil is often placed at the base of the antenna, between it and the transmission line , but for more efficient radiation, it is sometimes inserted in the center of the antenna element itself .     Loading coils for powerful transmitters can have challenging design requirements, especially at low frequencies. The ": null
+    },
+    {
+        "radiation resistance": "radiation resistance"
+    },
+    {
+        " of short antennas can be very low, as low a few ohms in the ": null
+    },
+    {
+        "LF": "low frequency"
+    },
+    {
+        " or ": null
+    },
+    {
+        "VLF": "very low frequency"
+    },
+    {
+        " bands, where antennas are commonly short and inductive loading is most needed. Because resistance in the coil winding is comparable to, or exceeds the radiation resistance, loading coils for extremely electrically short antennas must have extremely low AC ": null
+    },
+    {
+        "resistance": "electrical resistance"
+    },
+    {
+        " at the operating frequency. To reduce ": null
+    },
+    {
+        "skin effect": "skin effect"
+    },
+    {
+        " losses the coil is often made of tubing or ": null
+    },
+    {
+        "Litz wire": "litz wire"
+    },
+    {
+        ", with single layer windings, with turns spaced apart to reduce ": null
+    },
+    {
+        "proximity effect": "proximity effect"
+    },
+    {
+        " resistance. They must often handle high voltages. To reduce power lost in ": null
+    },
+    {
+        "dielectric loss": "dielectric loss"
+    },
+    {
+        "es, the coil is often suspended in air supported on thin ceramic strips. The capacitively loaded antennas used at low frequencies have extremely narrow bandwidths, and therefore if the frequency is changed the loading coil must be adjustable to tune the antenna to resonance with the new transmitter frequency. ": null
+    },
+    {
+        "Variometers": "inductor"
+    },
+    {
+        " are often used.       To reduce losses due to high capacitance on long-distance ": null
+    },
+    {
+        "bulk power transmission lines": "electric power transmissionbulk power transmission"
+    },
+    {
+        ", inductance can be introduced to the circuit with a ": null
+    },
+    {
+        "flexible AC transmission system": "flexible ac transmission system"
+    },
+    {
+        " , a ": null
+    },
+    {
+        "static VAR compensator": "static var compensator"
+    },
+    {
+        ", or a ": null
+    },
+    {
+        "static synchronous series compensator": "static synchronous series compensator"
+    },
+    {
+        ". Series compensation can be thought of as an inductor connected to the circuit in series if it is supplying inductance to the circuit.       The Campbell equation is a relationship due to ": null
+    },
+    {
+        "George Ashley Campbell": "george ashley campbell"
+    },
+    {
+        " for predicting the ": null
+    },
+    {
+        "propagation constant": "propagation constant"
+    },
+    {
+        " of a loaded line. It is stated as; Brittain, p42     : \\cosh \\cosh + \\frac \\sinh     :where,     : \\gamma \\!\\, is the propagation constant of the unloaded line   : \\gamma \\!\\, is the propagation constant of the loaded line   : d \\!\\, is the interval between coils on the loaded line   : Z \\!\\, is the impedance of a loading coil and   : Z_42 \\!\\, is the characteristic impedance of the unloaded line.     A more engineer friendly rule of thumb is that the approximate requirement for spacing loading coils is ten coils per wavelength of the maximum frequency being transmitted. Brittain, p42 This approximation can be arrived at by treating the loaded line as a ": null
+    },
+    {
+        "constant k filter": "constant k filter"
+    },
+    {
+        " and applying ": null
+    },
+    {
+        "image filter theory": "image impedance"
+    },
+    {
+        " to it. From basic image filter theory the angular cutoff frequency and the characteristic impedance of a ": null
+    },
+    {
+        "low-pass": "low-pass filter"
+    },
+    {
+        " constant k filter are given by;     : \\omega_c \\frac  and,   Z_42 \\sqrt     :where L_ and C_ are the half section element values.     From these basic equations the necessary loading coil inductance and coil spacing can be found;     : L \\frac  and,   d \\frac     :where C is the capacitance per unit length of the line.     Expressing this in terms of number of coils per cutoff wavelength yields;     : \\frac \\pi v Z_42 C     :where v is the velocity of propagation of the cable in question.     Since v then     : \\frac \\pi .     Campbell arrived at this expression by analogy with a mechanical line periodically loaded with weights described by Charles Godfrey in 42 who obtained a similar result. Mechanical loaded lines of this sort were first studied by ": null
+    },
+    {
+        "Joseph-Louis Lagrange": "joseph-louis lagrange"
+    },
+    {
+        " . Mason, p. 42     The phenomenon of cutoff whereby frequencies above the cutoff frequency are not transmitted is an undesirable side effect of loading coils . Cutoff is avoided by the use of continuous loading since it arises from the lumped nature of the loading coils. Bakshi & Bakshi, p42              The origin of the loading coil can be found in the work of ": null
+    },
+    {
+        "Oliver Heaviside": "oliver heaviside"
+    },
+    {
+        " on the theory of ": null
+    },
+    {
+        "transmission line": "transmission line"
+    },
+    {
+        "s. Heaviside represented the line as a network of infinitesimally small circuit elements. By applying his ": null
+    },
+    {
+        "operational calculus": "operational calculus"
+    },
+    {
+        " to the analysis of this network he discovered what has become known as the ": null
+    },
+    {
+        "Heaviside condition": "heaviside condition"
+    },
+    {
+        ". Heaviside, O, Electromagnetic Induction and its propagation , The Electrician, 42 June 42 Heaviside, O, Electrical Papers, vol 42, pp4242 Boston, 42 This is the condition that must be fulfilled in order for a transmission line to be free from ": null
+    },
+    {
+        "distortion": "distortion"
+    },
+    {
+        ". The Heaviside condition is that the series ": null
+    },
+    {
+        "impedance": "electrical impedance"
+    },
+    {
+        ", Z, must be proportional to the shunt ": null
+    },
+    {
+        "admittance": "admittance"
+    },
+    {
+        ", Y, at all frequencies. In terms of the ": null
+    },
+    {
+        "primary line coefficients": "primary line coefficients"
+    },
+    {
+        " the condition is:     : \\frac\\frac     :where;     : R is the series resistance of the line per unit length   : L is the series self-inductance of the line per unit length   : G is the shunt leakage ": null
+    },
+    {
+        "conductance": "electrical resistance and conductance"
+    },
+    {
+        " of the line insulator per unit length   : C is the shunt capacitance between the line conductors per unit length     Heaviside was aware that this condition was not met in the practical telegraph cables in use in his day. In general, a real cable would have,     : \\frac \\gg \\frac     This is mainly due to the low value of leakage through the cable insulator, which is even more pronounced in modern cables which have better insulators than in Heavisides day. In order to meet the condition, the choices are therefore to try to increase G or L or to decrease R or C. Decreasing R requires larger conductors. Copper was already in use in telegraph cables and this is the very best conductor available short of using silver. Decreasing R means using more copper and a more expensive cable. Decreasing C would also mean a larger cable . Increasing G is highly undesirable; while it would reduce distortion, it would at the same time increase the signal loss. Heaviside considered, but rejected, this possibility which left him with the strategy of increasing L as the way to reduce distortion. Brittain, pp4242     Heaviside immediately proposed several methods of increasing the inductance, including spacing the conductors further apart and loading the insulator with iron dust. Finally, Heaviside made the proposal to use discrete inductors at intervals along the line. The Electrician, 42 and reproduced in Heaviside, O, Electromagnetic Theory, p.42 However, he never succeeded in persuading the British ": null
+    },
+    {
+        "GPO": "general post office"
+    },
+    {
+        " to take up the idea. Brittain attributes this to Heavisides failure to provide engineering details on the size and spacing of the coils for particular cable parameters. Heavisides eccentric character and setting himself apart from the establishment may also have played a part in their ignoring of him. Brittain, p42       ": null
+    },
+    {
+        "John S. Stone": "john stone stone"
+    },
+    {
+        " worked for the ": null
+    },
+    {
+        "American Telephone & Telegraph Company": "american telephone  &  telegraph company"
+    },
+    {
+        " and was the first to attempt to apply Heavisides ideas to real telecommunications. Stones idea was to use a bimetallic iron-copper cable which he had patented. Stone, M S, Electric Circuit, US patent 42 42 42 filed 42 September 42 issued 42 March 42 This cable of Stones would increase the line inductance due to the iron content and had the potential to meet the Heaviside condition. However, Stone left the company in 42 and the idea was never implemented. Brittain pp4242 Stones cable was an example of continuous loading, a principle that was eventually put into practice is other forms, see for instance ": null
+    },
+    {
+        "Krarup cable": "krarup cable"
+    },
+    {
+        " later in this article.       ": null
+    },
+    {
+        "George Campbell": "george ashley campbell"
+    },
+    {
+        " was another AT & T engineer working in their Boston facility. Campbell was tasked with continuing the investigation into Stones bimetallic cable, but soon abandoned it in favour of the loading coil. His was an independent discovery, Campbell was aware of Heavisides work in discovering the Heaviside condition, but unaware of Heavisides suggestion of using loading coils to enable a line to meet it. The motivation for the change of direction was Campbells limited budget.     Campbell was struggling to set up a practical demonstration over a real telephone route with the budget he had been allocated. After considering that his artificial line simulators used ": null
+    },
+    {
+        "lumped": "lumped-element model"
+    },
+    {
+        " components rather than the ": null
+    },
+    {
+        "distributed": "distributed-element model"
+    },
+    {
+        " quantities found in a real line, he wondered if he could not insert the inductance with lumped components instead of using Stones distributed line. When his calculations showed that the manholes on telephone routes were sufficiently close together to be able to insert the loading coils without the expense of either having to dig up the route or lay in new cables he changed to this new plan. Brittain, pp4242 The very first demonstration of loading coils on a telephone cable was on a 42-mile length of the so-called Pittsburgh cable on 42 September 42 carried out by Campbell himself and his assistant. Brittain, pp. 4242 The first telephone cable using loaded lines put into public service was between Jamaica Plain and West Newton in Boston on 42 May 42 Brittain p42     Campbells work on loading coils provided the theoretical basis for his subsequent work on filters which proved to be so important for ": null
+    },
+    {
+        "frequency-division multiplexing": "frequency-division multiplexing"
+    },
+    {
+        ". The cut-off phenomena of loading coils, an undesirable side-effect, can be exploited to produce a desirable filter frequency response. Campbell, G A, Physical Theory of the Electric Wave-Filter , Bell System Tech J, November 42 vol 42 no 42 pp 4242 Brittain, p42          ": null
+    },
+    {
+        "Michael Pupin": "mihajlo idvorski pupin"
+    },
+    {
+        ", inventor and ": null
+    },
+    {
+        "Serbia": "serbia"
+    },
+    {
+        "n immigrant to the USA, also played a part in the story of loading coils. Pupin filed a rival patent to the one of Campbells. Pupin, M, Art of Reducing Attenuation of Electrical Waves and Apparatus Therefor, US patent 42 42 42 filed 42 December 42 issued 42 June 42 This patent of Pupins dates from 42 There is an earlier patent Pupin, M, Apparatus for Telegraphic of Telephonic Transmission, US patent 42 42 42 filed 42 December 42 issued 42 May 42 which is sometimes cited as Pupins loading coil patent but is, in fact, something different. The confusion is easy to understand, Pupin himself claims that he first thought of the idea of loading coils while climbing a mountain in 42 Pupin, M I, From Immigrant to Inventor, pp4242 Charles Schribner & Sons, 42 although there is nothing from him published at that time. Brittain, p42     Pupins 42 patent loads the line with capacitors rather than inductors, a scheme that has been criticised as being theoretically flawed Brittain, p42 quoting a contemporary criticism in Electrical Review and experiments by the ": null
+    },
+    {
+        "GPO": "general post office"
+    },
+    {
+        " showing that the scheme does not work and never put into practice. To add to the confusion, one variant of the capacitor scheme proposed by Pupin does indeed have coils. However, these are not intended to compensate the line in any way. They are there merely to restore DC continuity to the line so that it may be tested with standard equipment. Pupin states that the inductance is to be so large that it blocks all AC signals above 42  Hz. Pupin, 42 p42 lines 4242 Consequently, only the capacitor is adding any significant impedance to the line and the coils will not exercise any material influence on the results before noted . Pupin, 42 p42 lines 4242          Heaviside never patented his idea; indeed, he took no commercial advantage of any of his work. Bray, p42 Despite the legal disputes surrounding this invention, it is unquestionable that Campbell was the first to actually construct a telephone circuit using loading coils. Brittain p42 There also can be little doubt that Heaviside was the first to publish and many would dispute Pupins priority. Brittain, p42 4242 Behrend to Searle, in letter quoted by Brittain, p42 Searle to Behrend, 42 in letter quoted by Brittain, p42 Nahin, p42     AT & T fought a legal battle with Pupin over his claim. Pupin was first to patent but Campbell had already conducted practical demonstrations before Pupin had even filed his patent . Pupin, M I, Art of Reducing Attenuation of Electrical Waves and Apparatus Therefore, US patent 42 42 42 filed 42 December 42 issued 42 June 42 Campbells delay in filing was due to the slow internal machinations of AT & T. Brittain, p42     However, AT & T foolishly deleted from Campbells proposed patent application all the tables and graphs detailing the exact value of inductance that would be required before the patent was submitted. Brittain p4242 Since Pupins patent contained a formula, AT & T was open to claims of incomplete disclosure. Fearing that there was a risk that the battle would end with the invention being declared unpatentable due to Heavisides prior publication, they decided to desist from the challenge and buy an option on Pupins patent for a yearly fee so that AT & T would control both patents. By January 42 Pupin had been paid $42  and by 42 when the AT & T monopoly ended and payments ceased, he had received a total of $42 . Brittain, p42 p42 , p42       The invention was of enormous value to AT & T. Telephone cables could now be used to twice the distance previously possible, or alternatively, a cable of half the previous quality could be used over the same distance. When considering whether to allow Campbell to go ahead with the demonstration, their engineers had estimated that they stood to save $42 in new installation costs in New York and New Jersey alone. Brittain, p42 It has been estimated that AT & T saved $42 million in the first quarter of the 42th century. Brittain, p42 Shaw, T & Fondiller, W, Developments and Applications of Loading for Telephone Circuits , Transactions of the American Institute of Electrical Engineers, vol 42, pp4242 42 Heaviside, who began it all, came away with nothing. He was offered a token payment but would not accept, wanting the credit for his work. He remarked ironically that if his prior publication had been admitted it would interfere ... with the flow of dollars in the proper direction ... . Brittain quoting Heaviside letter to Behrend, 42            Distortion is a particular problem for ": null
+    },
+    {
+        "submarine communication cable": "submarine communication cable"
+    },
+    {
+        "s, partly because their great length allows more distortion to build up, but also because they are more susceptible to distortion than open wires on poles due to the characteristics of the insulating material. Different wavelengths of the signal travel at different velocities in the material causing ": null
+    },
+    {
+        "dispersion": "dispersion"
+    },
+    {
+        ". It was this problem on the first ": null
+    },
+    {
+        "transatlantic telegraph cable": "transatlantic telegraph cable"
+    },
+    {
+        " that motivated Heaviside to study the problem and find the solution. Griffiths, p. 42 Loading coils solve the dispersion problem, and the first use of them on a submarine cable was in 42 by ": null
+    },
+    {
+        "Siemens and Halske": "siemens and halske"
+    },
+    {
+        " in a cable across ": null
+    },
+    {
+        "Lake Constance": "lake constance"
+    },
+    {
+        ". Newell, p. 42     There are a number of difficulties using loading coils with heavy submarine cables. The bulge of the loading coils could not easily pass through the cable laying apparatus of ": null
+    },
+    {
+        "cable ship": "cable ship"
+    },
+    {
+        "s and the ship had to slow down during the laying of a loading coil. Newell, p. 42 Discontinuities where the coils were installed caused stresses in the cable during laying. Without great care, the cable might part and would be difficult to repair. A further problem was that the material science of the time had difficulties sealing the joint between coil and cable against ingress of seawater. When this occurred the cable was ruined. Britannica, 42 Continuous loading was developed to overcome these problems, which also has the benefit of not having a cutoff frequency. Newell, p. 42       A Danish engineer, ": null
+    },
+    {
+        "Carl Emil Krarup": "carl emil krarup"
+    },
+    {
+        ", invented a form of continuously loaded cable which solved the problems of discrete loading coils. Krarup cable has iron wires continuously wound around the central copper conductor with adjacent turns in contact with each other. This cable was the first use of continuous loading on any telecommunication cable. Kragh, p. 42 In 42 Krarup both wrote his paper on this subject and saw the installation of the first cable between ": null
+    },
+    {
+        "Helsingør": "helsingør"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Helsingborg": "helsingborg"
+    },
+    {
+        " . Huurderman, pp. 4242          Even though the Krarup cable added inductance to the line, this was insufficient to meet the Heaviside condition. AT & T searched for a better material with higher ": null
+    },
+    {
+        "magnetic permeability": "permeability"
+    },
+    {
+        ". In 42 Gustav Elmen discovered ": null
+    },
+    {
+        "permalloy": "permalloy"
+    },
+    {
+        ", a magnetic nickel-iron annealed alloy. In c. 42 ": null
+    },
+    {
+        "Oliver E. Buckley": "oliver e. buckley"
+    },
+    {
+        ", H. D. Arnold, and Elmen, all at ": null
+    },
+    {
+        "Bell Labs": "bell labs"
+    },
+    {
+        ", greatly improved transmission speeds by suggesting a method of constructing ": null
+    },
+    {
+        "submarine communications cable": "submarine communications cable"
+    },
+    {
+        " using permalloy tape wrapped around the copper conductors. Huurdeman, p.42     The cable was tested in a trial in Bermuda in 42 The first permalloy cable placed in service connected ": null
+    },
+    {
+        "New York City": "new york city"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Horta ": "horta"
+    },
+    {
+        " in September 42 Permalloy cable enabled signalling speed on submarine telegraph cables to be increased to 42 words/min at a time when 42 words/min was considered good. Huurdeman, p.42 The first transatlantic cable achieved only two words/min. May, pages 42 42          ": null
+    },
+    {
+        "Mu-metal": "mu-metal"
+    },
+    {
+        " has similar magnetic properties to permalloy but the addition of copper to the alloy increases the ductility and allows the metal to be drawn into wire. Mu-metal cable is easier to construct than permalloy cable, the mu-metal being wound around the core copper conductor in much the same way as the iron wire in Krarup cable. A further advantage with mu-metal cable is that the construction lends itself to a variable loading profile whereby the loading is tapered towards the ends.     Mu-metal was invented in 42 by The Telegraph Construction and Maintenance Company Ltd., London, Smith, WS, Garnett, HJ, New and improved magnetic alloys, and their application in the manufacture of telegraphic and telephonic cables, Patent GB42 filed 42 Aug 42 issued 42 Nov 42 patented in the US as US42 and US42 who made the cable, initially, for the ": null
+    },
+    {
+        "Western Union Telegraph Co": "western union"
+    },
+    {
+        ". Western Union were in competition with AT & T and the ": null
+    },
+    {
+        "Western Electric Company": "western electric company"
+    },
+    {
+        " who were using permalloy. The patent for permalloy was held by Western Electric which prevented Western Union from using it. Allan Green, 42 Years Of Industry & Enterprise At ": null
+    },
+    {
+        "Enderbys Wharf": "enderbys wharf"
+    },
+    {
+        " paper presented at University College, July 42 for History of the Atlantic Cable & Undersea Communications  42 January 42          Continuous loading of cables is expensive and hence is only done when absolutely necessary. Lumped loading with coils is cheaper but has the disadvantages of difficult seals and a definite cutoff frequency. A compromise scheme is patch loading whereby the cable is continuously loaded in repeated sections. The intervening sections are left unloaded. Bakshi & Bakshi, p42       Loaded cable is no longer a useful technology for submarine communication cables, having first been superseded by ": null
+    },
+    {
+        "co-axial cable": "coaxial cable"
+    },
+    {
+        " using electrically powered in-line ": null
+    },
+    {
+        "repeater": "repeater"
+    },
+    {
+        "s and then by ": null
+    },
+    {
+        "fibre-optic cable": "optical fiber"
+    }
+]

@@ -1,0 +1,629 @@
+[
+    {
+        "Quantum chemistry is a branch of ": null
+    },
+    {
+        "chemistry": "chemistry"
+    },
+    {
+        " whose primary focus is the application of ": null
+    },
+    {
+        "quantum mechanics": "quantum mechanics"
+    },
+    {
+        " in ": null
+    },
+    {
+        "physical model": "physical model"
+    },
+    {
+        "s and experiments of chemical systems. It is also called molecular quantum mechanics.       Experimental quantum chemists rely heavily on ": null
+    },
+    {
+        "spectroscopy": "spectroscopy"
+    },
+    {
+        ", through which information regarding the ": null
+    },
+    {
+        "quantization": "quantization"
+    },
+    {
+        " of energy on a molecular scale can be obtained. Common methods are ": null
+    },
+    {
+        "infra-red spectroscopy": "infra-red  spectroscopy"
+    },
+    {
+        ", ": null
+    },
+    {
+        "nuclear magnetic resonance spectroscopy": "nuclear magnetic resonance  spectroscopy"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "scanning probe microscopy": "scanning probe microscopy"
+    },
+    {
+        ".     Theoretical quantum chemistry, the workings of which also tend to fall under the category of ": null
+    },
+    {
+        "computational chemistry": "computational chemistry"
+    },
+    {
+        ", seeks to calculate the predictions of quantum theory as atoms and molecules can only have discrete energies.     Quantum chemistry studies the ": null
+    },
+    {
+        "ground state": "ground state"
+    },
+    {
+        " of individual atoms and molecules, and the ": null
+    },
+    {
+        "excited state": "excited state"
+    },
+    {
+        "s, and ": null
+    },
+    {
+        "transition state": "transition state"
+    },
+    {
+        "s that occur during ": null
+    },
+    {
+        "chemical reaction": "chemical reaction"
+    },
+    {
+        "s.     On the calculations, quantum chemical studies use also ": null
+    },
+    {
+        "semi-empirical": "semi-empirical quantum chemistry method"
+    },
+    {
+        " and other methods based on quantum mechanical principles, and deal with time dependent problems. Many quantum chemical studies assume the nuclei are at rest . Many calculations involve iterative methods that include self-consistent field methods. Major goals of quantum chemistry include increasing the accuracy of the results for small molecular systems, and increasing the size of large molecules that can be processed, which is limited by scaling considerations—the computation time increases as a power of the number of atoms.       Some view the birth of quantum chemistry as starting with the discovery of the ": null
+    },
+    {
+        "Schrödinger equation": "schrödinger equation"
+    },
+    {
+        " and its application to the hydrogen atom in 42 However, the 42 article of ": null
+    },
+    {
+        "Walter Heitler": "walter heitler"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Fritz London": "fritz london"
+    },
+    {
+        ", is often recognized as the first milestone in the history of quantum chemistry. This is the first application of quantum mechanics to the diatomic hydrogen molecule, and thus to the phenomenon of the chemical bond. In the following years much progress was accomplished by ": null
+    },
+    {
+        "Robert S. Mulliken": "robert s. mulliken"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Max Born": "max born"
+    },
+    {
+        ", ": null
+    },
+    {
+        "J. Robert Oppenheimer": "j. robert oppenheimer"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Linus Pauling": "linus pauling"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Erich Hückel": "erich hückel"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Douglas Hartree": "douglas hartree"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Vladimir Fock": "vladimir fock"
+    },
+    {
+        ", to cite a few. The history of quantum chemistry also goes through the 42 discovery of ": null
+    },
+    {
+        "cathode rays": "cathode rays"
+    },
+    {
+        " by ": null
+    },
+    {
+        "Michael Faraday": "michael faraday"
+    },
+    {
+        ", the 42 statement of the ": null
+    },
+    {
+        "black-body radiation": "black-body radiation"
+    },
+    {
+        " problem by ": null
+    },
+    {
+        "Gustav Kirchhoff": "gustav kirchhoff"
+    },
+    {
+        ", the 42 suggestion by ": null
+    },
+    {
+        "Ludwig Boltzmann": "ludwig boltzmann"
+    },
+    {
+        " that the energy states of a physical system could be discrete, and the 42 quantum hypothesis by ": null
+    },
+    {
+        "Max Planck": "max planck"
+    },
+    {
+        " that any energy radiating atomic system can theoretically be divided into a number of discrete energy elements ε such that each of these energy elements is proportional to the ": null
+    },
+    {
+        "frequency": "frequency"
+    },
+    {
+        " ν with which they each individually radiate ": null
+    },
+    {
+        "energy": "energy"
+    },
+    {
+        " and a numerical value called ": null
+    },
+    {
+        "Plancks constant": "plancks constant"
+    },
+    {
+        ". Then, in 42 to explain the ": null
+    },
+    {
+        "photoelectric effect": "photoelectric effect"
+    },
+    {
+        " , i.e., that shining light on certain materials can function to eject electrons from the material, ": null
+    },
+    {
+        "Albert Einstein": "albert einstein"
+    },
+    {
+        " postulated, based on Plancks quantum hypothesis, that light itself consists of individual quantum particles, which later came to be called ": null
+    },
+    {
+        "photon": "photon"
+    },
+    {
+        "s . In the years to follow, this theoretical basis slowly began to be applied to chemical structure, reactivity, and bonding. Probably the greatest contribution to the field was made by ": null
+    },
+    {
+        "Linus Pauling": "linus pauling"
+    },
+    {
+        ".            The first step in solving a quantum chemical problem is usually solving the ": null
+    },
+    {
+        "Schrödinger equation": "schrödinger equation"
+    },
+    {
+        "  with the ": null
+    },
+    {
+        "electronic molecular Hamiltonian": "electronic molecular hamiltonian"
+    },
+    {
+        ". This is called determining the electronic structure of the molecule. It can be said that the electronic structure of a molecule or crystal implies essentially its chemical properties. An exact solution for the Schrödinger equation can only be obtained for the hydrogen atom . Since all other atomic, or molecular systems, involve the motions of three or more particles , their Schrödinger equations cannot be solved exactly and so approximate solutions must be sought.       The foundation of quantum mechanics and quantum chemistry is the wave model, in which the atom is a small, dense, positively charged ": null
+    },
+    {
+        "nucleus": "atomic nucleus"
+    },
+    {
+        " surrounded by electrons. The wave model is derived from the ": null
+    },
+    {
+        "wave function": "wave function"
+    },
+    {
+        ", a set of possible equations derived from the time evolution of the Schrödinger equation which is applied to the wavelike probability distribution of subatomic particles. Unlike the earlier ": null
+    },
+    {
+        "Bohr model": "bohr model"
+    },
+    {
+        " of the atom, however, the wave model describes electrons as ": null
+    },
+    {
+        "clouds": "electron cloud"
+    },
+    {
+        " moving in ": null
+    },
+    {
+        "orbitals": "molecular orbital"
+    },
+    {
+        ", and their positions are represented by ": null
+    },
+    {
+        "probability distributions": "probability amplitude"
+    },
+    {
+        " rather than discrete points. The strength of this model lies in its ": null
+    },
+    {
+        "predictive power": "predictive power"
+    },
+    {
+        ". Specifically, it predicts the pattern of chemically similar elements found in the ": null
+    },
+    {
+        "periodic table": "periodic table of elements"
+    },
+    {
+        ". The wave model is so named because electrons exhibit properties traditionally associated with waves. See ": null
+    },
+    {
+        "wave–particle duality": "wave–particle duality"
+    },
+    {
+        ". In this model, when we solve the Schrödinger Equation for an Hydrogenoid Atom, we obtain a solution that depends on some numbers, called quantum numbers, that describes the orbital, the most probable space where an electron can be. These are n, the principal quantum number, for the energy, l, or secondary quantum number, which correlates to the angular momentum, ml, for the orientation, and ms the spin. This model can explain the new lines that appeared in the spectroscopy of atoms. For multielectron atoms we must introduce some rules as that the electrons fill orbitals in a way to minimize the energy of the atom, in order of increasing energy, the ": null
+    },
+    {
+        "Pauli exclusion principle": "pauli exclusion principle"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Hunds rule": "hunds rule of maximum multiplicity"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "aufbau principle": "aufbau principle"
+    },
+    {
+        ".            Although the mathematical basis of quantum chemistry had been laid by ": null
+    },
+    {
+        "Schrödinger": "erwin schrödinger"
+    },
+    {
+        " in 42 it is generally accepted that the first true calculation in quantum chemistry was that of the German physicists ": null
+    },
+    {
+        "Walter Heitler": "walter heitler"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Fritz London": "fritz london"
+    },
+    {
+        " on the hydrogen molecule in 42 Heitler and Londons method was extended by the American theoretical physicist ": null
+    },
+    {
+        "John C. Slater": "john c. slater"
+    },
+    {
+        " and the American theoretical chemist ": null
+    },
+    {
+        "Linus Pauling": "linus pauling"
+    },
+    {
+        " to become the valence-bond method. In this method, attention is primarily devoted to the pairwise interactions between atoms, and this method therefore correlates closely with classical chemists drawings of ": null
+    },
+    {
+        "bonds": "chemical bond"
+    },
+    {
+        ". It focuses on how the atomic orbitals of an atom combine to give individual chemical bonds when a molecule is formed, incorporating the two key concepts of ": null
+    },
+    {
+        "orbital hybridization": "orbital hybridization"
+    },
+    {
+        " and ": null
+    },
+    {
+        "resonance": "resonance"
+    },
+    {
+        ".            An alternative approach was developed in 42 by ": null
+    },
+    {
+        "Friedrich Hund": "friedrich hund"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Robert S. Mulliken": "robert s. mulliken"
+    },
+    {
+        ", in which ": null
+    },
+    {
+        "electron": "electron"
+    },
+    {
+        "s are described by mathematical functions delocalized over an entire ": null
+    },
+    {
+        "molecule": "molecule"
+    },
+    {
+        ". The Hund–Mulliken approach or molecular orbital method is less intuitive to chemists, but has turned out capable of predicting ": null
+    },
+    {
+        "spectroscopic properties": "spectroscopy"
+    },
+    {
+        " better than the VB method. This approach is the conceptional basis of the ": null
+    },
+    {
+        "Hartree–Fock": "hartree–fock"
+    },
+    {
+        " method and further ": null
+    },
+    {
+        "post Hartree–Fock": "post hartree–fock"
+    },
+    {
+        " methods.            The ": null
+    },
+    {
+        "Thomas–Fermi model": "gas in a box"
+    },
+    {
+        " was developed independently by ": null
+    },
+    {
+        "Thomas": "l. h. thomas"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Fermi": "enrico fermi"
+    },
+    {
+        " in 42 This was the first attempt to describe many-electron systems on the basis of ": null
+    },
+    {
+        "electronic density": "electronic density"
+    },
+    {
+        " instead of ": null
+    },
+    {
+        "wave function": "wave function"
+    },
+    {
+        "s, although it was not very successful in the treatment of entire molecules. The method did provide the basis for what is now known as density functional theory . Modern day DFT uses the ": null
+    },
+    {
+        "Kohn–Sham method": "kohn–sham equations"
+    },
+    {
+        ", where the density functional is split into four terms; the Kohn–Sham kinetic energy, an external potential, exchange and correlation energies. A large part of the focus on developing DFT is on improving the exchange and correlation terms. Though this method is less developed than post Hartree–Fock methods, its significantly lower computational requirements  allow it to tackle larger ": null
+    },
+    {
+        "polyatomic molecule": "polyatomic molecule"
+    },
+    {
+        "s and even ": null
+    },
+    {
+        "macromolecule": "macromolecule"
+    },
+    {
+        "s. This computational affordability and often comparable accuracy to ": null
+    },
+    {
+        "MP42": "møller–plesset perturbation theory"
+    },
+    {
+        " and ": null
+    },
+    {
+        "CCSD": "coupled cluster"
+    },
+    {
+        " has made it one of the most popular methods in ": null
+    },
+    {
+        "computational chemistry": "computational chemistry"
+    },
+    {
+        ".       A further step can consist of solving the ": null
+    },
+    {
+        "Schrödinger equation": "schrödinger equation"
+    },
+    {
+        " with the total ": null
+    },
+    {
+        "molecular Hamiltonian": "molecular hamiltonian"
+    },
+    {
+        " in order to study the motion of molecules. Direct solution of the Schrödinger equation is called quantum molecular dynamics, within the semiclassical approximation semiclassical molecular dynamics, and within the ": null
+    },
+    {
+        "classical mechanics": "classical mechanics"
+    },
+    {
+        " framework  molecular dynamics . Statistical approaches, using for example ": null
+    },
+    {
+        "Monte Carlo method": "monte carlo method"
+    },
+    {
+        "s, are also possible.          In adiabatic dynamics, interatomic interactions are represented by single ": null
+    },
+    {
+        "scalar": "scalar"
+    },
+    {
+        " potential": "potential"
+    },
+    {
+        "s called ": null
+    },
+    {
+        "potential energy surface": "potential energy surface"
+    },
+    {
+        "s. This is the ": null
+    },
+    {
+        "Born–Oppenheimer approximation": "born–oppenheimer approximation"
+    },
+    {
+        " introduced by ": null
+    },
+    {
+        "Born": "max born"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Oppenheimer": "robert oppenheimer"
+    },
+    {
+        " in 42 Pioneering applications of this in chemistry were performed by ": null
+    },
+    {
+        "Rice": "oscar knefler rice"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Ramsperger": "herman carl ramsperger"
+    },
+    {
+        " in 42 and ": null
+    },
+    {
+        "Kassel": "l.s. kassel"
+    },
+    {
+        " in 42 and generalized into the ": null
+    },
+    {
+        "RRKM": "rrkm"
+    },
+    {
+        " theory in 42 by ": null
+    },
+    {
+        "Marcus": "rudolph a. marcus"
+    },
+    {
+        " who took the ": null
+    },
+    {
+        "transition state": "transition state"
+    },
+    {
+        " theory developed by ": null
+    },
+    {
+        "Eyring": "henry eyring"
+    },
+    {
+        " in 42 into account. These methods enable simple estimates of unimolecular ": null
+    },
+    {
+        "reaction rates": "reaction rates"
+    },
+    {
+        " from a few characteristics of the potential surface.            Non-adiabatic dynamics consists of taking the interaction between several coupled potential energy surface . The coupling terms are called vibronic couplings. The pioneering work in this field was done by ": null
+    },
+    {
+        "Stueckelberg": "ernst stueckelberg"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Landau": "lev davidovich landau"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Zener": "clarence zener"
+    },
+    {
+        " in the 42s, in their work on what is now known as the ": null
+    },
+    {
+        "Landau–Zener transition": "landau–zener transition"
+    },
+    {
+        ". Their formula allows the transition probability between two ": null
+    },
+    {
+        "diabatic": "diabatic"
+    },
+    {
+        " potential curves in the neighborhood of an ": null
+    },
+    {
+        "avoided crossing": "avoided crossing"
+    },
+    {
+        " to be calculated. ": null
+    },
+    {
+        "Spin-forbidden reactions": "spin forbidden reactions"
+    },
+    {
+        " are one type of non-adiabatic reactions where at least one change in ": null
+    },
+    {
+        "spin state": "spin states"
+    },
+    {
+        " occurs when progressing from ": null
+    },
+    {
+        "reactant": "reagent"
+    },
+    {
+        " to ": null
+    },
+    {
+        "product": "product"
+    }
+]

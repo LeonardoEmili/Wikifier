@@ -1,0 +1,233 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "colloquial": "colloquial"
+    },
+    {
+        " language, an average is a single number taken as representative of a list of numbers. Different concepts of average are used in different contexts. Often average refers to the ": null
+    },
+    {
+        "arithmetic mean": "arithmetic mean"
+    },
+    {
+        ", the sum of the numbers divided by how many numbers are being averaged. In ": null
+    },
+    {
+        "statistics": "statistics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "mean": "mean"
+    },
+    {
+        ", ": null
+    },
+    {
+        "median": "median"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "mode": "mode"
+    },
+    {
+        " are all known as ": null
+    },
+    {
+        "measure": "measurement"
+    },
+    {
+        "s of ": null
+    },
+    {
+        "central tendency": "central tendency"
+    },
+    {
+        ", and in colloquial usage any of these might be called an average value.               The arithmetic mean, the geometric mean and the harmonic mean are known collectively as the Pythagorean means.        The most common type of average is the arithmetic mean. If  n  numbers are given, each number denoted by a i  , the arithmetic mean is the ": null
+    },
+    {
+        "sum": "summation"
+    },
+    {
+        " of the as divided by n or     : \\text \\frac\\sum_^na_i \\frac     The arithmetic mean, often simply called the mean, of two numbers, such as 42 and 42 is obtained by finding a value A such that 42 + 42 A + A. One may find that A  /42  42 Switching the order of 42 and 42 to read 42 and 42 does not change the resulting value obtained for A. The mean 42 is not less than the minimum 42 nor greater than the maximum  42 If we increase the number of terms in the list to 42 42 and 42 the arithmetic mean is found by solving for the value of A in the equation 42  +  42  +  42  A  +  A  +  A. One finds that A  /42  42       The ": null
+    },
+    {
+        "geometric mean": "geometric mean"
+    },
+    {
+        " of n positive numbers is obtained by multiplying them all together and then taking the nth root. In algebraic terms, the geometric mean of a 42 ,  a 42 ,  ...,  a n is defined as     : \\text \\sqrt \\sqrt     Geometric mean can be thought of as the ": null
+    },
+    {
+        "antilog": "antilog"
+    },
+    {
+        " of the arithmetic mean of the ": null
+    },
+    {
+        "logs": "logarithm"
+    },
+    {
+        " of the numbers.     Example: Geometric mean of 42 and 42 is \\text \\sqrt 42       ": null
+    },
+    {
+        "Harmonic mean": "harmonic mean"
+    },
+    {
+        " for a non-empty collection of numbers a 42 ,  a 42 ,  ...,  a n , all different from 42 is defined as the ": null
+    },
+    {
+        "reciprocal": "multiplicative inverse"
+    },
+    {
+        " of the arithmetic mean of the reciprocals of the a i s:     : \\text \\frac \\frac     One example where the harmonic mean is useful is when examining the speed for a number of fixed-distance trips. For example, if the speed for going from point A to B was 42  km/h, and the speed for returning from B to A was 42  km/h, then the harmonic mean speed is given by     : \\frac 42       A well known inequality concerning arithmetic, geometric, and harmonic means for any set of positive numbers is     : \\text \\ge \\text \\ge \\text      See ": null
+    },
+    {
+        "Inequality of arithmetic and geometric means": "inequality of arithmetic and geometric means"
+    },
+    {
+        ".     Thus for the above harmonic mean example: AM 42 GM ≈ 42 and HM 42  km/h.       The ": null
+    },
+    {
+        "mode": "mode"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "median": "median"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "mid-range": "mid-range"
+    },
+    {
+        " are often used in addition to the ": null
+    },
+    {
+        "mean": "mean"
+    },
+    {
+        " as estimates of ": null
+    },
+    {
+        "central tendency": "central tendency"
+    },
+    {
+        " in ": null
+    },
+    {
+        "descriptive statistics": "descriptive statistics"
+    },
+    {
+        ". These can all be seen as minimizing variation by some measure; see .                The most frequently occurring number in a list is called the mode. For example, the mode of the list is 42 It may happen that there are two or more numbers which occur equally often and more often than any other number. In this case there is no agreed definition of mode. Some authors say they are all modes and some say there is no mode.          The median is the middle number of the group when they are ranked in order.     Thus to find the median, order the list according to its elements magnitude and then repeatedly remove the pair consisting of the highest and lowest values until either one or two values are left. If exactly one value is left, it is the median; if two values, the median is the arithmetic mean of these two. This method takes the list 42 42 42 42 and orders it to read 42 42 42 42 Then the 42 and 42 are removed to obtain the list 42 42 Since there are two elements in this remaining list, the median is their arithmetic mean, /42 42          The mid-range is the arithmetic mean of the highest and lowest values of a set.             The ": null
+    },
+    {
+        "table of mathematical symbols": "table of mathematical symbols"
+    },
+    {
+        " explains the symbols used below.         Other more sophisticated averages are: ": null
+    },
+    {
+        "trimean": "trimean"
+    },
+    {
+        ", ": null
+    },
+    {
+        "trimedian": "trimedian"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "normalized mean": "normalized mean"
+    },
+    {
+        ", with their generalizations.      One can create ones own average metric using the ": null
+    },
+    {
+        "generalized f-mean": "generalized f-mean"
+    },
+    {
+        ":     : y f^\\left     where f is any invertible function. The harmonic mean is an example of this using f 42/x, and the geometric mean is another, using f log  x.     However, this method for generating means is not general enough to capture all averages. A more general method for defining an average takes any function g of a list of arguments that is ": null
+    },
+    {
+        "continuous": "continuous function"
+    },
+    {
+        ", ": null
+    },
+    {
+        "strictly increasing": "monotonicity"
+    },
+    {
+        " in each argument, and symmetric . The average y is then the value that, when replacing each member of the list, results in the same function value:  . This most general definition still captures the important property of all averages that the average of a list of identical elements is that element itself. The function   provides the arithmetic mean. The function   provides the geometric mean. The function   provides the harmonic mean.           A type of average used in finance is the average percentage return. It is an example of a geometric mean. When the returns are annual, it is called the Compound Annual Growth Rate . For example, if we are considering a period of two years, and the investment return in the first year is −42% and the return in the second year is 42%, then the average percentage return or CAGR, R, can be obtained by solving the equation: . The value of R that makes this equation true is 42, or 42%. This means that the total return over the 42-year period is the same as if there had been 42% growth each year. The order of the years makes no difference – the average percentage returns of 42% and −42% is the same result as that for −42% and 42%.     This method can be generalized to examples in which the periods are not equal. For example, consider a period of a half of a year for which the return is −42% and a period of two and a half years for which the return is 42%. The average percentage return for the combined period is the single year return, R, that is the solution of the following equation: , giving an average return R of 42 or 42%.            Given a ": null
+    },
+    {
+        "time series": "time series"
+    },
+    {
+        " such as daily stock market prices or yearly temperatures people often want to create a smoother series.  This helps to show underlying trends or perhaps periodic behavior. An easy way to do this is the moving average: one chooses a number n and creates a new series by taking the arithmetic mean of the first n values, then moving forward one place by dropping the oldest value and introducing a new value at the other end of the list, and so on. This is the simplest form of moving average. More complicated forms involve using a ": null
+    },
+    {
+        "weighted average": "weighted average"
+    },
+    {
+        ". The weighting can be used to enhance or suppress various periodic behavior and there is very extensive analysis of what weightings to use in the literature on ": null
+    },
+    {
+        "filtering": "digital filter"
+    },
+    {
+        ". In ": null
+    },
+    {
+        "digital signal processing": "digital signal processing"
+    },
+    {
+        " the term moving average is used even when the sum of the weights is not 42 .  The reason for this is that the analyst is usually interested only in the trend or the periodic behavior.             The first recorded time that the ": null
+    },
+    {
+        "arithmetic mean": "arithmetic mean"
+    },
+    {
+        " was extended from 42 to n cases for the use of ": null
+    },
+    {
+        "estimation": "estimation"
+    },
+    {
+        " was in the sixteenth century. From the late sixteenth century onwards, it gradually became a common method to use for reducing errors of measurement in various areas.   At the time, astronomers wanted to know a real value from noisy measurement, such as the position of a planet or the diameter of the moon. Using the mean of several measured values, scientists assumed that the errors add up to a relatively small number when compared to the total of all measured values. The method of taking the mean for reducing observation errors was indeed mainly developed in astronomy.  A possible precursor to the arithmetic mean is the ": null
+    },
+    {
+        "mid-range": "mid-range"
+    },
+    {
+        " , used for example in Arabian astronomy of the ninth to eleventh centuries, but also in metallurgy and navigation.     However, there are various older vague references to the use of the arithmetic mean . In a text from the 42th century, it was written that :    : In the first place, we must set out in a row the sequence of numbers from the monad up to nine: 42 42 42 42 42 42 42 42 42 Then we must add up the amount of all of them together, and since the row contains nine terms, we must look for the ninth part of the total to see if it is already naturally present among the numbers in the row; and we will find that the property of being ninth only belongs to the mean itself...     Even older potential references exist. There are records that from about 42 BC, merchants and shippers agreed that damage to the cargo and ship should be shared equally among themselves. This might have been calculated using the average, although there seem to be no direct record of the calculation.       The root is found in Arabic as عوار awar, a defect, or anything defective or damaged, including partially spoiled merchandise; and عواري ʿawārī  of or relating to ʿawār, a state of partial damage . Medieval Arabic had عور ʿawr meaning blind in one eye and عوار ʿawār meant any defect, or anything defective or damaged . Some medieval Arabic dictionaries are at , and some translation to English of whats in the medieval Arabic dictionaries is in . The medieval dictionaries do not list the word-form عوارية ʿawārīa. ʿAwārīa can be naturally formed in Arabic grammar to refer to things that have ʿawār, but in practice in medieval Arabic texts ʿawārīa is a rarity or non-existent, while the forms عواري ʿawārī and عوارة ʿawāra are frequently used when referring to things that have ʿawār or damage – this can be seen in the searchable collection of medieval texts at  . Within the Western languages the words history begins in medieval sea-commerce on the Mediterranean. 42th and 42th century Genoa Latin avaria meant damage, loss and non-normal expenses arising in connection with a merchant sea voyage ; and the same meaning for avaria is in Marseille in 42 Barcelona in 42 and Florence in the late 42th. 42th-century French avarie had the same meaning, and it begot English averay and English average with the same meaning. Today, Italian avaria, Catalan avaria and French avarie still have the primary meaning of damage . The huge transformation of the meaning in English began with the practice in later medieval and early modern Western merchant-marine law contracts under which if the ship met a bad storm and some of the goods had to be thrown overboard to make the ship lighter and safer, then all merchants whose goods were on the ship were to suffer proportionately ; and more generally there was to be proportionate distribution of any avaria. From there the word was adopted by British insurers, creditors, and merchants for talking about their losses as being spread across their whole portfolio of assets and having a mean proportion. Todays meaning developed out of that, and started in the mid42th century, and started in English. The Arabic origin of avaria was first reported by Reinhart Dozy in the 42th century. Dozys original summary is in his 42 book . Summary information about the words early records in Italian-Latin, Italian, Catalan, and French is at . The seaport of Genoa is the location of the earliest-known record in European languages, year 42 A set of medieval Latin records of avaria at Genoa is in the downloadable lexicon , by Sergio Aprosio, year 42 avaria in Volume 42 pages 4242 Many more records in medieval Latin at Genoa are at , usually in the plurals avariis and avarias. At the port of Marseille in the 42st half of the 42th century notarized commercial contracts have dozens of instances of Latin avariis , as published in . Some information about the English word over the centuries is at . See also the definition of English average in English dictionaries published in the early 42th century, i.e., in the time period just before the big transformation of the meaning: , , , , . Some complexities surrounding the English words history are discussed in  and . Today there is consensus that: todays English average descends from medieval Italian avaria, Catalan avaria, and among the Latins the word avaria started in the 42th century and it started as a term of Mediterranean sea-commerce, and there is no root for avaria to be found in Latin, and a substantial number of Arabic words entered Italian, Catalan and Provençal in the 42th and 42th centuries starting as terms of Mediterranean sea-commerce, and the Arabic ʿawār | ʿawārī is phonetically a good match for avaria, as conversion of w to v was regular in Latin and Italian, and -ia is a suffix in Italian, and the Western words earliest records are in Italian-speaking locales . And most commentators agree that the Arabic ʿawār | ʿawārī damage | relating to damage is semantically a good match for avaria damage or damage expenses . A minority of commentators have been dubious about this on the grounds that the early records of Italian-Latin avaria have, in some cases, a meaning of an expense in a more general sense – . The majority view is that the meaning of an expense was an expansion from damage and damage expense , and the chronological order of the meanings in the records supports this view, and the broad meaning an expense was never the most commonly used meaning. On the basis of the above points, the inferential step is made that the Latinate word came or probably came from the Arabic word. .     Marine damage is either particular average, which is borne only by the owner of the damaged property, or ": null
+    },
+    {
+        "general average": "general average"
+    },
+    {
+        ", where the owner can claim a proportional contribution from all the parties to the marine venture. The type of calculations used in adjusting general average gave rise to the use of average to mean arithmetic mean .     A second English usage, documented as early as 42 and sometimes spelled averish , is as the residue and second growth of field crops, which were considered suited to consumption by ": null
+    },
+    {
+        "draught animal": "draught animal"
+    },
+    {
+        "s .      There is earlier , unrelated use of the word. It appears to be an old legal term for a tenants day labour obligation to a sheriff, probably anglicised from avera found in the English ": null
+    },
+    {
+        "Domesday Book": "domesday book"
+    },
+    {
+        " .     The Oxford English Dictionary, however, says that derivations from German hafen haven, and Arabic ʿawâr loss, damage, have been quite disposed of and the word has a Romance origin. average, n.42 . OED Online. September 42 Oxford University Press. ": null
+    }
+]

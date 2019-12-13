@@ -1,0 +1,122 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematical analysis": "mathematical analysis"
+    },
+    {
+        ", Hölders inequality, named after ": null
+    },
+    {
+        "Otto Hölder": "otto hölder"
+    },
+    {
+        ", is a fundamental ": null
+    },
+    {
+        "inequality": "inequality"
+    },
+    {
+        " between ": null
+    },
+    {
+        "integrals": "lebesgue integration"
+    },
+    {
+        " and an indispensable tool for the study of ": null
+    },
+    {
+        " spaces": "lp space"
+    },
+    {
+        ".     :Theorem . Let  be a ": null
+    },
+    {
+        "measure space": "measure space"
+    },
+    {
+        " and let   with . Then, for all ": null
+    },
+    {
+        "measurable": "measurable function"
+    },
+    {
+        " real": "real number"
+    },
+    {
+        "- or ": null
+    },
+    {
+        "complex": "complex number"
+    },
+    {
+        "-valued ": null
+    },
+    {
+        "functions": "function"
+    },
+    {
+        "  and  on ,     :: \\|fg\\|_42 \\le \\|f\\|_p \\|g\\|_q.     :If, in addition,   and  and , then Hölders inequality becomes an equality iff  and  are ": null
+    },
+    {
+        "linearly dependent": "linear dependence"
+    },
+    {
+        " in , meaning that there exist real numbers , not both of them zero, such that  -": null
+    },
+    {
+        "almost everywhere": "almost everywhere"
+    },
+    {
+        ".     The numbers  and  above are said to be Hölder conjugates of each other. The special case  gives a form of the ": null
+    },
+    {
+        "Cauchy–Schwarz inequality": "cauchy–schwarz inequality"
+    },
+    {
+        ". Hölders inequality holds even if  is infinite, the right-hand side also being infinite in that case. Conversely, if  & thinsp; is in  and  is in , then the pointwise product  is in .     Hölders inequality is used to prove the ": null
+    },
+    {
+        "Minkowski inequality": "minkowski inequality"
+    },
+    {
+        ", which is the ": null
+    },
+    {
+        "triangle inequality": "triangle inequality"
+    },
+    {
+        " in the space , and also to establish that  is the ": null
+    },
+    {
+        "dual space": "dual space"
+    },
+    {
+        " of  for  .     Hölders inequality was first found by ": null
+    },
+    {
+        "Leonard James Rogers": "leonard james rogers"
+    },
+    {
+        " , and discovered independently by .           The brief statement of Hölders inequality uses some conventions.     In the definition of Hölder conjugates,  means zero.   If  , then  and  stand for the expressions   :: \\begin   & \\left^ \\\\   & \\left^   \\end     If , then  stands for the ": null
+    },
+    {
+        "essential supremum": "essential supremum"
+    },
+    {
+        " of , similarly for .   The notation  with  is a slight abuse, because in general it is only a ": null
+    },
+    {
+        "norm": "norm"
+    },
+    {
+        " of  & thinsp; if  is finite and  & thinsp; is considered as ": null
+    },
+    {
+        "equivalence class": "equivalence class"
+    },
+    {
+        " of -almost everywhere equal functions. If  and , then the notation is adequate.   On the right-hand side of Hölders inequality, 42 × ∞ as well as ∞ × 42 means  42 Multiplying  math /math  math /math  math /math  math /math  math /math  math /math  math /math math /math  math /math math /math math /math math /math math r  and  math /math  math /math  math /math math /math  , then     : \\|f\\|_\\infty \\sup \\left\\.       Proof of the extremal equality       By Hölders inequality, the integrals are well defined and, for ,     : \\left |\\int_S fg\\,\\mathrm\\mu\\right|\\le\\int_S|fg|\\,\\mathrm\\mu\\le\\|f\\|_p,     hence the left-hand side is always bounded above by the right-hand side.     Conversely, for , observe first that the statement is obvious when . Therefore, we assume , define  on  by     : g \\begin\\|f\\|_p^ \\, |f|^p / f & \\textf\\not42\\\\ 42 & \\text\\end     By checking the cases  and , we have  ": null
+    }
+]

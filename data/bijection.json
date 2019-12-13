@@ -1,0 +1,224 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a bijection, bijective function, or one-to-one correspondence is a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " between the elements of two ": null
+    },
+    {
+        "sets": "set"
+    },
+    {
+        ", where each element of one set is paired with exactly one element of the other set, and each element of the other set is paired with exactly one element of the first set. There are no unpaired elements. In mathematical terms, a bijective function  is a ": null
+    },
+    {
+        "one-to-one ": "injective function"
+    },
+    {
+        " and ": null
+    },
+    {
+        "onto ": "surjective function"
+    },
+    {
+        " mapping of a set X to a set Y. The term one-to-one correspondence must not be confused with one-to-one function  .        A bijection from the set X to the set Y has an ": null
+    },
+    {
+        "inverse function": "inverse function"
+    },
+    {
+        " from Y to X. If X and Y are ": null
+    },
+    {
+        "finite set": "finite set"
+    },
+    {
+        "s, then the existence of a bijection means they have the same number of elements. For ": null
+    },
+    {
+        "infinite set": "infinite set"
+    },
+    {
+        "s the picture is more complicated, leading to the concept of ": null
+    },
+    {
+        "cardinal number": "cardinal number"
+    },
+    {
+        ", a way to distinguish the various sizes of infinite sets.     A bijective function from a set to itself is also called a  permutation .     Bijective functions are essential to many areas of mathematics including the definitions of ": null
+    },
+    {
+        "isomorphism": "isomorphism"
+    },
+    {
+        ", ": null
+    },
+    {
+        "homeomorphism": "homeomorphism"
+    },
+    {
+        ", ": null
+    },
+    {
+        "diffeomorphism": "diffeomorphism"
+    },
+    {
+        ", ": null
+    },
+    {
+        "permutation group": "permutation group"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "projective map": "projective map"
+    },
+    {
+        ".          For a pairing between X and Y  to be a bijection, four properties must hold:   each element of X must be paired with at least one element of Y,   no element of X may be paired with more than one element of Y,   each element of Y must be paired with at least one element of X, and   no element of Y may be paired with more than one element of X.     Satisfying properties and means that a bijection is a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " with ": null
+    },
+    {
+        "domain": "domain of a function"
+    },
+    {
+        " X. It is more common to see properties and written as a single statement: Every element of X is paired with exactly one element of Y. Functions which satisfy property are said to be ": null
+    },
+    {
+        "onto": "onto"
+    },
+    {
+        " Y and are called ": null
+    },
+    {
+        "surjections": "surjective function"
+    },
+    {
+        " . Functions which satisfy property are said to be ": null
+    },
+    {
+        "one-to-one function": "one-to-one function"
+    },
+    {
+        "s and are called ": null
+    },
+    {
+        "injections": "injective function"
+    },
+    {
+        " . There are names associated to properties and as well. A relation which satisfies property is called a total relation and a relation satisfying is a single valued relation. With this terminology, a bijection is a function which is both a surjection and an injection, or using other words, a bijection is a function which is both one-to-one and onto .     Bijections are sometimes denoted by a two-headed rightwards arrow with tail , as in f : X ⤖ Y. This symbol is a combination of the two-headed rightwards arrow  sometimes used to denote surjections and the rightwards arrow with a barbed tail  sometimes used to denote injections.           Consider the ": null
+    },
+    {
+        "batting line-up": "batting order"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "baseball": "baseball"
+    },
+    {
+        " or ": null
+    },
+    {
+        "cricket": "cricket"
+    },
+    {
+        " team . The set X will be the players on the team and the set Y will be the positions in the batting order The pairing is given by which player is in what position in this order. Property is satisfied since each player is somewhere in the list. Property is satisfied since no player bats in two positions in the order. Property says that for each position in the order, there is some player batting in that position and property states that two or more players are never batting in the same position in the list.       In a classroom there are a certain number of seats. A bunch of students enter the room and the instructor asks them all to be seated. After a quick look around the room, the instructor declares that there is a bijection between the set of students and the set of seats, where each student is paired with the seat they are sitting in. What the instructor observed in order to reach this conclusion was that:   Every student was in a seat ,   No student was in more than one seat,   Every seat had someone sitting there , and   No seat had more than one student in it.   The instructor was able to conclude that there were just as many seats as there were students, without having to count either set.       For any set X, the ": null
+    },
+    {
+        "identity function": "identity function"
+    },
+    {
+        " 42 X : X → X, 42 X  x, is bijective.   The function f: R → R, f 42x + 42 is bijective, since for each y there is a unique x /42 such that f y. In more generality, any ": null
+    },
+    {
+        "linear function": "linear function"
+    },
+    {
+        " over the reals, f: R → R, f ax + b  is a bijection. Each real number y is obtained from the real number x /a.   The function f: R → , given by f arctan is bijective since each real number x is paired with exactly one angle y in the interval so that tan x . If the ": null
+    },
+    {
+        "codomain": "codomain"
+    },
+    {
+        " was made larger to include an integer multiple of π/42 then this function would no longer be onto since there is no real number which could be paired with the multiple of π/42 by this arctan function.   The ": null
+    },
+    {
+        "exponential function": "exponential function"
+    },
+    {
+        ", g: R → R, g e x , is not bijective: for instance, there is no x in R such that g −42 showing that g is not onto . However, if the codomain is restricted to the positive real numbers \\scriptstyle \\R^+ \\;\\equiv\\; \\left , then g becomes bijective; its inverse is the ": null
+    },
+    {
+        "natural logarithm": "natural logarithm"
+    },
+    {
+        " function ln.   The function h: R → R + , h x 42 is not bijective: for instance, h h 42 showing that h is not one-to-one . However, if the ": null
+    },
+    {
+        "domain": "domain of a function"
+    },
+    {
+        " is restricted to \\scriptstyle\\R^+_42 \\;\\equiv\\; \\left42\\, +\\infty\\rightindicated by f: X → Y in ": null
+    },
+    {
+        "functional notation": "function notation"
+    },
+    {
+        "by turning the arrows around4242x": null
+    },
+    {
+        "themati": "themati"
+    },
+    {
+        "g \\,\\circ\\, f42f^g^": null
+    },
+    {
+        "ftrig": "ftrig"
+    },
+    {
+        "equinumerosity": "equinumerosity"
+    },
+    {
+        "∘": null
+    },
+    {
+        "geb": "geb"
+    },
+    {
+        "XX ": null
+    },
+    {
+        "factorial": "factorial"
+    },
+    {
+        "AB": null
+    },
+    {
+        "themati": "themati"
+    },
+    {
+        "themati": "themati"
+    },
+    {
+        "themati": "themati"
+    },
+    {
+        "properwhich turns out to be a partial functionfunction ": null
+    }
+]

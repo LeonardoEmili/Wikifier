@@ -1,0 +1,188 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        ", extended Backus–Naur form  is a family of ": null
+    },
+    {
+        "metasyntax": "metasyntax"
+    },
+    {
+        " notations, any of which can be used to express a ": null
+    },
+    {
+        "context-free grammar": "context-free grammar"
+    },
+    {
+        ". EBNF is used to make a formal description of a ": null
+    },
+    {
+        "formal language": "formal language"
+    },
+    {
+        " such as a computer ": null
+    },
+    {
+        "programming language": "programming language"
+    },
+    {
+        ". They are extensions of the basic ": null
+    },
+    {
+        "Backus–Naur form": "backus–naur form"
+    },
+    {
+        " metasyntax notation.     The earliest EBNF was developed by ": null
+    },
+    {
+        "Niklaus Wirth": "niklaus wirth"
+    },
+    {
+        " incorporating some of the concepts from ": null
+    },
+    {
+        "Wirth syntax notation": "wirth syntax notation"
+    },
+    {
+        ". However, many variants of EBNF are in use. The ": null
+    },
+    {
+        "International Organization for Standardization": "international organization for standardization"
+    },
+    {
+        " adopted an EBNF standard  in 42   However, according to Zaytsev this standard only ended up adding yet another three dialects to the chaos and, after noting its lack of success, also notes that the ISO EBNF is not even used in all ISO standards. Wheeler argues against using the ISO standard when using an EBNF, and recommends considering alternative EBNF notations such as the one from the W42C Extensible Markup Language 42 .     This article uses EBNF as specified by the ISO for examples applying to all EBNFs. Other EBNF variants use somewhat different syntactic conventions.       EBNF is a ": null
+    },
+    {
+        "code": "code"
+    },
+    {
+        " that expresses the grammar of a formal language. An EBNF consists of ": null
+    },
+    {
+        "terminal symbol": "terminal and nonterminal symbolsterminal_symbols"
+    },
+    {
+        "s and non-terminal production rules which are the restrictions governing how terminal symbols can be combined into a legal sequence. Examples of terminal symbols include ": null
+    },
+    {
+        "alphanumeric characters": "alphanumerics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "punctuation marks": "punctuation"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "whitespace character": "whitespace character"
+    },
+    {
+        "s.     The EBNF defines ": null
+    },
+    {
+        "production rules": "production"
+    },
+    {
+        " where sequences of symbols are respectively assigned to a ": null
+    },
+    {
+        "nonterminal": "terminal and nonterminal symbolsnonterminal_symbols"
+    },
+    {
+        ":       digit excluding zero 42 | 42 | 42 | 42 | 42 | 42 | 42 | 42 | 42 ;   digit 42 | digit excluding zero ;       This production rule defines the nonterminal digit which is on the left side of the assignment. The vertical bar represents an alternative and the terminal symbols are enclosed with quotation marks followed by a semicolon as terminating character. Hence a digit is a 42 or a digit excluding zero that can be 42 or 42 or 42 and so forth until 42.     A production rule can also include a sequence of terminals or nonterminals, each separated by a comma:       twelve 42 , 42 ;   two hundred one 42 , 42 , 42 ;   three hundred twelve 42 , twelve ;   twelve thousand two hundred one twelve, two hundred one ;       Expressions that may be omitted or repeated can be represented through curly braces :       natural number digit excluding zero, ;       In this case, the strings 42, 42, ..., 42, ..., 42, ... are correct expressions. To represent this, everything that is set within the curly braces may be repeated arbitrarily often, including not at all.     An option can be represented through squared brackets That is, everything that is set within the square brackets may be present just once, or not at all:       integer 42 | natural number ;       Therefore, an ": null
+    },
+    {
+        "integer": "integer"
+    },
+    {
+        " is a zero  or a ": null
+    },
+    {
+        "natural number": "natural number"
+    },
+    {
+        " that may be preceded by an optional ": null
+    },
+    {
+        "minus sign": "plus and minus signsminus sign"
+    },
+    {
+        ".     EBNF also provides, among other things, the syntax to describe repetitions , to exclude some part of a production, and to insert comments in an EBNF grammar.       The following represents a proposed ISO/IEC 42 standard, by R. S. Scowen, page 42 table 42            Even EBNF can be described using EBNF. Consider the sketched grammar below:       letter A | B | C | D | E | F | G   | H | I | J | K | L | M | N   | O | P | Q | R | S | T | U   | V | W | X | Y | Z | a | b   | c | d | e | f | g | h | i   | j | k | l | m | n | o | p   | q | r | s | t | u | v | w   | x | y | z ;   digit 42 | 42 | 42 | 42 | 42 | 42 | 42 | 42 | 42 | 42 ;   symbol | | |   | | | | | | . | , | ; ;   character letter | digit | symbol | _ ;     identifier letter , ;   terminal , character , ,   | , character , , ;     lhs identifier ;   rhs identifier   | terminal   |   |   |   | rhs , | , rhs   | rhs , , , rhs ;     rule lhs , , rhs , ; ;   grammar ;       A ": null
+    },
+    {
+        "Pascal": "pascal"
+    },
+    {
+        "-like programming language that allows only assignments can be defined in EBNF as follows:         program PROGRAM, white_space, identifier, white_space,   BEGIN, white_space,   ,   END. ;   identifier alphabetic_character, ;   number digit, ;   string , , ;   assignment identifier , : , ;   alphabetic_character A | B | C | D | E | F | G   | H | I | J | K | L | M | N   | O | P | Q | R | S | T | U   | V | W | X | Y | Z ;   digit 42 | 42 | 42 | 42 | 42 | 42 | 42 | 42 | 42 | 42 ;   white_space ? white_space characters ? ;   all_characters ? all visible characters ? ;       A syntactically correct program then would be:     PROGRAM DEMO42   BEGIN   A:42;   B:42;   H:42;   C:A;   D42:B42A;   BABOON:GIRAFFE;   TEXT: Hello world! ;   END.       The language can easily be extended with ": null
+    },
+    {
+        "control flow": "control flow"
+    },
+    {
+        "s, arithmetical expressions, and Input/Output instructions. Then a small, usable programming language would be developed.       Any ": null
+    },
+    {
+        "grammar": "grammar"
+    },
+    {
+        " defined in EBNF can also be represented in BNF, though representations in the latter are generally lengthier. E.g., options and repetitions cannot be directly expressed in BNF and require the use of an intermediate rule or alternative production defined to be either nothing or the optional production for option, or either the repeated production of itself, recursively, for repetition. The same constructs can still be used in EBNF.     The BNF uses the symbols for itself, but does not include quotes around terminal strings. This prevents these characters from being used in the languages, and requires a special symbol for the empty string. In EBNF, ": null
+    },
+    {
+        "terminals": "terminal symbol"
+    },
+    {
+        " are strictly enclosed within quotation marks . The angle brackets for ": null
+    },
+    {
+        "nonterminals": "terminal and nonterminal symbols"
+    },
+    {
+        " can be omitted.     BNF syntax can only represent a rule in one line, whereas in EBNF a terminating character, the semicolon character & ldquo; ; & rdquo; marks the end of a rule.     Furthermore, EBNF includes mechanisms for enhancements, defining the number of repetitions, excluding alternatives, comments, etc.          As examples, the following syntax rules illustrate the facilities for expressing repetition:     aa A ;   bb 42 aa, B ;   cc 42 C ;   dd , D ;   ee aa, , E ;   ff 42 aa, 42 F ;   gg , G ;     Terminal strings defined by these rules are as follows:   aa: A   bb: AAAB   cc: C AC AAC AAAC   dd: D AD AAD AAAD AAAAD etc.   ee: AE AAE AAAE AAAAE AAAAAE etc.   ff: AAAF AAAAF AAAAAF AAAAAAF   gg: G AAAG AAAAAAG etc.       According to the ISO 42 standard EBNF is meant to be extensible, and two facilities are mentioned. The first is part of EBNF grammar, the special sequence, which is arbitrary text enclosed with question marks. The interpretation of the text inside a special sequence is beyond the scope of the EBNF standard. For example, the space character could be defined by the following rule:       space ? US-ASCII character 42 ?;       The second facility for extension is using the fact that parentheses cannot in EBNF be placed next to identifiers . The following is valid EBNF:       something foo, ;       The following is not valid EBNF:       something foo ;       Therefore, an extension of EBNF could use that notation. For example, in a ": null
+    },
+    {
+        "Lisp": "lisp"
+    },
+    {
+        " grammar, function application could be defined by the following rule:       function application list;         The ": null
+    },
+    {
+        "W42C": "w3c"
+    },
+    {
+        " used  to specify the ": null
+    },
+    {
+        "XML": "xml"
+    },
+    {
+        " syntax.   The ": null
+    },
+    {
+        "British Standards Institution": "british standards institution"
+    },
+    {
+        " published a standard for an EBNF: ": null
+    },
+    {
+        "BS 42": "bs 6154"
+    },
+    {
+        " in 42   The ": null
+    },
+    {
+        "IETF": "ietf"
+    },
+    {
+        " uses ": null
+    },
+    {
+        "augmented BNF": "augmented backus–naur form"
+    }
+]

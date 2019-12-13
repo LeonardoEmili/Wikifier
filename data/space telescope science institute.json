@@ -1,0 +1,293 @@
+[
+    {
+        "        The Space Telescope Science Institute  is the science operations center for the ": null
+    },
+    {
+        "Hubble Space Telescope": "hubble space telescope"
+    },
+    {
+        " and for the ": null
+    },
+    {
+        "James Webb Space Telescope": "james webb space telescope"
+    },
+    {
+        " . STScI is located on the ": null
+    },
+    {
+        "Johns Hopkins University": "johns hopkins university"
+    },
+    {
+        " Homewood Campus": "homewood campus of johns hopkins university"
+    },
+    {
+        " in ": null
+    },
+    {
+        "Baltimore": "baltimore"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Maryland": "maryland"
+    },
+    {
+        " and was established in 42 as a community-based science center that is operated for ": null
+    },
+    {
+        "NASA": "nasa"
+    },
+    {
+        " by the ": null
+    },
+    {
+        "Association of Universities for Research in Astronomy": "association of universities for research in astronomy"
+    },
+    {
+        " . In addition to performing continuing science operations of HST and preparing for scientific exploration with JWST, STScI manages and operates the ": null
+    },
+    {
+        "Mikulski Archive for Space Telescopes": "mikulski archive for space telescopes"
+    },
+    {
+        " , the Data Management Center for the ": null
+    },
+    {
+        "Kepler mission": "kepler mission"
+    },
+    {
+        " and a number of other activities benefiting from its expertise in and infrastructure for supporting the operations of space-based astronomical observatories. Most of the funding for STScI activities comes from contracts with NASAs ": null
+    },
+    {
+        "Goddard Space Flight Center": "goddard space flight center"
+    },
+    {
+        " but there are smaller activities funded by NASAs ": null
+    },
+    {
+        "Ames Research Center": "ames research center"
+    },
+    {
+        ", NASAs ": null
+    },
+    {
+        "Jet Propulsion Laboratory": "jet propulsion laboratory"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "European Space Agency": "european space agency"
+    },
+    {
+        " . The staff at STScI consists of scientists , spacecraft engineers, software engineers, data management personnel, education and public outreach experts, and administrative and business support personnel. There are approximately 42 Ph.D. scientists working at STScI, 42 of which are ESA staff who are on assignment to the HST project. The total STScI staff consists of about 42 people in 42     STScI operates its missions on behalf of NASA, the worldwide astronomy community, and to the benefit of the public. The science operations activities directly serve the astronomy community, primarily in the form of , and eventually  observations and grants, but also include distributing data from other NASA missions, such as the ": null
+    },
+    {
+        "Far Ultraviolet Spectroscopic Explorer": "far ultraviolet spectroscopic explorer"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Galaxy Evolution Explorer": "galaxy evolution explorer"
+    },
+    {
+        " and ground-based sky surveys. The ground system development activities create and maintain the software systems that are needed to provide these services to the astronomy community. STScIs public outreach activities provide a wide range of information, on-line media, and programs for formal educators, planetariums and science museums, and the general public. STScIs award-winning public outreach websites receive millions of hits per month. STScI also serves as a source of guidance to NASA on a range of optical and UV space astrophysics issues.     The STScI staff interacts and communicates with the professional astronomy community through a number of channels, including participation at the bi-annual meetings of the ": null
+    },
+    {
+        "American Astronomical Society": "american astronomical society"
+    },
+    {
+        ", publication of quarterly STScI newsletters and the STScI website, hosting user committees and science working groups, and holding several scientific and technical symposia and workshops each year. These activities enable STScI to disseminate information to the telescope user community as well as enabling the STScI staff to maximize the scientific productivity of the facilities they operate by responding to the needs of the community and of NASA.           The STScI conducts all activities required to select, schedule, and implement the science programs of HST. The first step in this process is to support the annual community-led selection of the scientific programs that will be performed with HST. This begins with publishing of the annual Call for Proposals, which specifies the currently supported science instrument capabilities, proposal requirements and the submission deadline. Anyone is eligible to submit a proposal. All proposals are critically peer-reviewed by the Time Allocation Committee . The TAC consists of about 42 members of the U.S. and international astronomical community, selected to represent a broad range of research expertise needed to evaluate the proposals. Each proposal cycle typically involves reviewing 42 to 42 proposals. Only 42 - 42% of these proposals will eventually be selected for implementation. The TAC reviews several categories of observing time, as well as proposals for archival, theoretical, and combined research projects between HST and other space-based or ground-based observatories . STScI provides all technical and logistical support for these activities. The annual cycle of proposal calls was occasionally altered in duration in years when a HST servicing mission was scheduled.          Proposers fortunate enough to be awarded telescope time, referred to as General Observers , must then provide detailed requirements needed to schedule and implement their observing programs. This information is provided to STScI on what is called a Phase II proposal. The Phase II proposal specifies instrument operation modes, exposure times, telescope orientations, and so on. The STScI staff provide the web-based software called  that allow GOs to estimate how much observing time any of the onboard detectors will need to accumulate the amount of light required to accomplish their scientific objectives. In addition, the STScI staff carries out all the steps necessary to implement each specific program, as well as plan the entire ensemble of programs for the year. For HST, this includes finding guide stars, checking on bright object constraints, implementing specific scheduling requirements, and working with observers to understand and factor in specific or any non-standard requirements they may have.       Once the Phase II information is gathered, a long-range observing plan is developed that covers the entire year, finding appropriate times to schedule individual observations, and at the same time ensuring effective and efficient use of the telescope through the year. Detailed observing schedules are created each week, including, in the case of HST operations, scheduling the data communication paths via the Tracking and Data Relay Satellite System  and generating the binary command loads for uplink to the spacecraft. Adjustments can be made to both long-range and weekly plans in response to Targets of Opportunity . The STScI uses the ": null
+    },
+    {
+        "Min-conflicts algorithm": "min-conflicts algorithm"
+    },
+    {
+        " to schedule observation time on the telescope. The STScI is currently developing similar processes for JWST, although the operational details will be very different due to its different instrumentation and spacecraft constraints, and its location at the Sun-Earth L42 ": null
+    },
+    {
+        "Lagrange point": "lagrange point"
+    },
+    {
+        " rather than the low Earth orbit used by HST.       Flight Operations consists of the direct support and monitoring of HST functions in real-time. Real-time daily flight operations for HST include about 42 command load uplinks, about 42 data downlinks, and near continuous health and safety monitoring of the observatory. Real-time operations are staffed around the clock. Flight operations activities for HST are done at NASAs GSFC in Greenbelt, Maryland.       Science data from HST arrive at the STScI a few hours after being downlinked from TDRSS and subsequently passing through a data capture facility at NASAs Goddard Space Flight Center. Once at STScI, the data are processed by a series of computer algorithms that convert its format into an internationally accepted standard , correct for missing data, and perform final calibration of the data by removing instrumental artifacts. The calibration steps are different for each HST instrument, but as a general rule they include cosmic ray removal, correction for instrument/detector non-uniformities, flux calibration, and application of world coordinate system information . The calibrations applied are the best available at the time the data pass through the pipeline. The STScI is working with instrument developers to define similar processes for ": null
+    },
+    {
+        "Kepler": "kepler space observatory"
+    },
+    {
+        " and JWST data.       All HST science data are permanently archived after passing through the calibration pipeline. NASA policy mandates a one-year proprietary period on all data, which means that only the initial proposal team can access the data for the first year after it has been obtained. Subsequent to that year, the data become available to anyone who wishes to access it. Data sets retrieved from the archive are automatically re-calibrated to ensure that the most up-to-date calibration factors and software are applied. The STScI serves as the archive center for all of NASAs optical/UV space missions. In addition to archiving and storing HST science data, STScI holds data from 42 other missions including the ": null
+    },
+    {
+        "International Ultraviolet Explorer": "international ultraviolet explorer"
+    },
+    {
+        " , the ": null
+    },
+    {
+        "Extreme Ultraviolet Explorer": "extreme ultraviolet explorer"
+    },
+    {
+        " , the ": null
+    },
+    {
+        "Far Ultraviolet Spectroscopic Explorer": "far ultraviolet spectroscopic explorer"
+    },
+    {
+        " , and the ": null
+    },
+    {
+        "Galaxy Evolution Explorer": "galaxy evolution explorer"
+    },
+    {
+        " . Kepler and JWST science data will be archived and retrieved in similar fashions. The internet serves as the primary user interface to the data archives at STScI . The archive currently holds over 42 ": null
+    },
+    {
+        "terabyte": "terabyte"
+    },
+    {
+        "s of data. Each day about 42 ": null
+    },
+    {
+        "gigabyte": "gigabyte"
+    },
+    {
+        "s of new data are ingested and about 42 gigabytes of data are distributed to users. The Hubble Legacy Archive , currently in development, will act as a more integrated and user-friendly archive. It will provide raw Hubble data as well as higher-level science products .       STScI is responsible for in-flight calibration of the science instruments on HST and JWST. For HST, a calibration plan for the observatory is developed each year. This plan is designed to support the selected GO observation programs for that cycle, as well as to provide a basic calibration that spans the lifetime of each instrument. The calibration program includes measurements that are made relative to on-board calibration sources or to assess internal detector noise levels as well as observations of astronomical standard stars and fields, needed to determine absolute flux conversions and astrometric transformations. The external calibrations on HST typically total 4242% of the GO observing program, with more time required when an instrument is still relatively new. HST has had a total of 42 science instruments to date, 42 of which are currently active. Two new instruments were installed during the May 42 HST servicing mission ": null
+    },
+    {
+        "STS42": "sts-125"
+    },
+    {
+        ". Electronic failures in STIS and in the ACS Wide-Field Channel were also repaired on-orbit in May 42 bringing these instruments back to active status. All 42 HST instruments plus the 42 planned for JWST are summarized in the table below. HST instruments can detect light with wavelengths from the ": null
+    },
+    {
+        "ultraviolet": "ultraviolet"
+    },
+    {
+        " through the near ": null
+    },
+    {
+        "infrared": "infrared"
+    },
+    {
+        ". JWST instruments will operate from the red-end of optical wavelengths to the mid-infrared . Instruments listed as decommissioned are no longer on board.          STScI staff develops the calibration proposals, shepherd them through the scheduling process, and analyze the data they produce. These programs provide updated calibration and reference files to be used in the data processing pipeline. The calibration files are also archived so users can retrieve them if they need to manually recalibrate their data. All calibration activity and results are documented, usually in the form of Instrument Science Reports posted to the public website, and occasionally in the form of published papers. Results are also incorporated into the Data Handbooks and Instrument Handbooks.     In addition to calibration of the instruments, STScI staff characterizes and documents the performance of the instrument, so users can better understand how to interpret their data. These are generally effects that are not automatically corrected for in the pipeline . They include global effects, such as charge transfer efficiency in the ": null
+    },
+    {
+        "charge coupled device": "charge coupled device"
+    },
+    {
+        "s, as well as effects specific to modes and filters, such as filter ghosts . Awareness of these effects can come from STScI staff as they analyze calibration programs, or from observers who find oddities in their data and provide feedback to STScI.     The STScI staff also performs the characterization and calibration of the telescope itself. In the case of HST, this has evolved to primarily be a matter of monitoring and adjusting focus, and monitoring and measuring ": null
+    },
+    {
+        "point spread function": "point spread function"
+    },
+    {
+        "s. . In the case of JWST, the STScI will be responsible for using the ": null
+    },
+    {
+        "wavefront sensor": "wavefront sensor"
+    },
+    {
+        " system developed by JPL and ": null
+    },
+    {
+        "Northrop Grumman": "northrop grumman"
+    },
+    {
+        " Space Technology to monitor and adjust the segmented telescope.       The post observation support includes a HelpDesk that users can contact to answer their questions about any aspect of observing – from how to submit a proposal to how to analyze the data.       The STScI performs large HST science programs on behalf of the community. These are programs with broad scientific applications. To date, these programs include the ": null
+    },
+    {
+        "Hubble Deep Field": "hubble deep field"
+    },
+    {
+        " , the ": null
+    },
+    {
+        "Hubble Deep Field South": "hubble deep field south"
+    },
+    {
+        " , and the ": null
+    },
+    {
+        "Ultra Deep Field": "ultra deep field"
+    },
+    {
+        " . The raw and processed data for these observations are made available to the astronomy community nearly immediately. These products have then been used by many astronomers in pursuit of their own research topics, and have motivated a great deal of follow-up work .       STScI is responsible for developing, enhancing, and maintaining most of the ground systems used to carry out our Hubble science operations described above. These systems originally came from several sources, including in-house STScI developments and work done under NASA contracts with various vendors. Over HSTs lifetime substantial work has been done on these systems - even while they were supporting daily operations of Hubble. They have been integrated into a more effective and easier to operate end-to-end system. They have been through major technology upgrades . They have also been modified to support the succession of instruments installed in the telescope. In the last several years, they have been modified to support WFC42 and COS, the two new instruments that will be installed during the next HST servicing mission, and to support the 42-": null
+    },
+    {
+        "Gyroscope": "gyroscope"
+    },
+    {
+        " mode of HST operations. STScI also provides subsets of ground system services to other astronomy missions, including FUSE, Kepler, and JWST. STScIs software engineers maintain about 42,42 ": null
+    },
+    {
+        "source lines of code": "source lines of code"
+    },
+    {
+        ".       STScI routinely participates with NASA and industry system engineers and scientists in developing the overall mission architecture. For HST, this includes helping to determine and prioritize servicing mission activities and development of the servicing strategy. For JWST, this includes participating in the definition of high-level science requirements and the overall architecture for the mission. In both cases, the STScI focuses on the scientific capabilities of the mission, and also the requirements for smooth and efficient operations of the observatory.       STScI manages the selection of the Hubble Fellowship Program. Since 42 Hubble Fellowships support outstanding postdoctoral scientists whose research is broadly related to the scientific mission of the Hubble Space Telescope. In 42 it was combined with the Spitzer Fellowship that since 42 had been associated with the ": null
+    },
+    {
+        "Spitzer telescope": "spitzer telescope"
+    },
+    {
+        " and science program.  It now supports fellows undertaking research associated with all missions within the Cosmic Origins theme: the ": null
+    },
+    {
+        "Herschel Space Observatory": "herschel space observatory"
+    },
+    {
+        ", Hubble Space Telescope , ": null
+    },
+    {
+        "James Webb Space Telescope": "james webb space telescope"
+    },
+    {
+        " , ": null
+    },
+    {
+        "Stratospheric Observatory for Infrared Astronomy": "stratospheric observatory for infrared astronomy"
+    },
+    {
+        " , and the Spitzer Space Telescope.  The research may be theoretical, observational, or instrumental. Each year, since HSTs launch in 42 42 to 42 fellowships are awarded; from 42 it hovers about 42 STScI also sponsors a summer student intern program that allows talented undergraduate students from around the world to work with the Institutes scientific staff, providing these students with hands-on experience in state-of-the-art astronomical research. STScIs full-time scientific staff conducts original research spanning a broad range of astrophysics including investigations of the ": null
+    },
+    {
+        "solar system": "solar system"
+    },
+    {
+        ", ": null
+    },
+    {
+        "exoplanet": "exoplanet"
+    },
+    {
+        " detection and characterization, ": null
+    },
+    {
+        "star formation": "star formation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "galaxy": "galaxy"
+    },
+    {
+        " evolution, and ": null
+    },
+    {
+        "physical cosmology": "physical cosmology"
+    },
+    {
+        ". STScI hosts an annual scientific symposium held each spring as well as several smaller scientific workshops. The employment of an active scientific staff at STScI helps to ensure that HST, and eventually JWST, perform at peak capability.       The STScIs Office of Public Outreach provides a wide array of products and services designed to share and communicate the science and discoveries of HST with the general public. OPOs efforts focus on meeting the needs of four communities: the news media, web users, the formal education community and informal science education venues.     OPOs News Branch produces approximately 42 new press releases each year featuring HST discoveries and science results. These media packages include news stories, Hubble images, explanatory artwork, animations, and supplementary information for use by print, broadcast, and on-line media. The branch also conducts press conferences called NASA Science Updates for particularly newsworthy discoveries. Science Writers Workshops and other special events bring reporters to the Institute for in-depth sessions with scientists working on current astrophysical research problems.     The Formal Education Branch develops standards-based and rigorously evaluated educational products and lessons for use in K42 curricula throughout the country. Many of the branchs products are incorporated in its award-winning web site called Amazing Space where lessons and exercises are readily accessible by both teachers and students and is used in more than 42 school districts and in all 42 states.     The Informal Education Branch creates a variety of Hubble-related products and features for use in informal venues including museums, science centers, planetariums, and libraries. These include ViewSpace, a multimedia display system providing a series of educational features on the science of Hubble and other missions using imagery, text, and music. A short film called Hubble: Galaxies Across Space and Time which features a three-dimensional fly-through of the Hubble ": null
+    },
+    {
+        "Ultra Deep Field": "ultra deep field"
+    },
+    {
+        " has been produced for ": null
+    },
+    {
+        "IMAX": "imax"
+    }
+]

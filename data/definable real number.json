@@ -1,0 +1,161 @@
+[
+    {
+        "Informally, a definable real number is a ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        " that can be uniquely specified by its description. The description may be expressed as a construction or as a formula of a ": null
+    },
+    {
+        "formal language": "formal language"
+    },
+    {
+        ". For example, the positive square root of 42 \\sqrt , can be defined as the unique positive solution to the equation x^42 42 , and it can be constructed with a compass and straightedge.     Different choices of a formal language or its interpretation can give rise to different notions of definability. Specific varieties of definable numbers include the ": null
+    },
+    {
+        "constructible number": "constructible number"
+    },
+    {
+        "s of geometry, the ": null
+    },
+    {
+        "algebraic numbers": "algebraic numbers"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "computable number": "computable number"
+    },
+    {
+        "s.       One way of specifying a real number uses geometric techniques. A real number r is a ": null
+    },
+    {
+        "constructible number": "constructible number"
+    },
+    {
+        " if there is a method to construct a line segment of length r using a compass and straightedge, beginning with a fixed line segment of length 42     Each positive integer, and each positive rational number, is constructible. The positive square root of 42 is constructible. However, the cube root of 42 is not constructible; this is related to the impossibility of ": null
+    },
+    {
+        "doubling the cube": "doubling the cube"
+    },
+    {
+        ".            A real number r is called an ": null
+    },
+    {
+        "algebraic number": "algebraic number"
+    },
+    {
+        " if there is a polynomial p, with only integer coefficients, so that r is a root of p, that is, p42   Each algebraic number can be defined individually using the order relation on the reals. For example, if a polynomial q has 42 roots, the third one can be defined as the unique r such that q 42 and such that there are two distinct numbers less than r for which q is zero.     All rational numbers are algebraic, and all constructible numbers are algebraic. There are numbers such as the cube root of 42 which are algebraic but not constructible.     The algebraic numbers form a ": null
+    },
+    {
+        "subfield": "field extension"
+    },
+    {
+        " of the real numbers. This means that 42 and 42 are algebraic numbers and, moreover, if a and b are algebraic numbers, then so are a+b, a−b, ab and, if b is nonzero, a/b.     The algebraic numbers also have the property, which goes beyond being a subfield of the reals, that for each positive integer n and each algebraic number a, all of the nth roots of a that are real numbers are also algebraic.     There are only ": null
+    },
+    {
+        "countably many": "countable set"
+    },
+    {
+        " algebraic numbers, but there are uncountably many real numbers, so in the sense of ": null
+    },
+    {
+        "cardinality": "cardinality"
+    },
+    {
+        " most real numbers are not algebraic. This ": null
+    },
+    {
+        "nonconstructive proof": "nonconstructive proof"
+    },
+    {
+        " that not all real numbers are algebraic was first published by   Georg Cantor in his 42 paper ": null
+    },
+    {
+        "On a Property of the Collection of All Real Algebraic Numbers": "georg cantors first set theory article"
+    },
+    {
+        " .     Non-algebraic numbers are called ": null
+    },
+    {
+        "transcendental numbers": "transcendental numbers"
+    },
+    {
+        ". Specific examples of transcendental numbers include & pi; and ": null
+    },
+    {
+        "Eulers number": "eulers number"
+    },
+    {
+        " e.       A real number is a ": null
+    },
+    {
+        "computable number": "computable number"
+    },
+    {
+        " if there is an algorithm that, given a natural number n, produces a decimal expansion for the number accurate to n decimal places. This notion was introduced by ": null
+    },
+    {
+        "Alan Turing": "alan turing"
+    },
+    {
+        " in 42     The computable numbers include the algebraic numbers along with many transcendental numbers including & pi; and  e. Like the algebraic numbers, the computable numbers also form a subfield of the real numbers, and the positive computable numbers are closed under taking nth roots for each positive  n.     Not all real numbers are computable. The entire set of computable numbers is countable, so most reals are not computable. Specific examples of noncomputable real numbers include the limits of ": null
+    },
+    {
+        "Specker sequence": "specker sequence"
+    },
+    {
+        "s, and ": null
+    },
+    {
+        "algorithmically random real numbers": "algorithmically random sequence"
+    },
+    {
+        " such as ": null
+    },
+    {
+        "Chaitins & Omega; numbers": "chaitins constant"
+    },
+    {
+        ".       Another notion of definability comes from the formal theories of arithmetic, such as ": null
+    },
+    {
+        "Peano arithmetic": "peano arithmetic"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "language of arithmetic": "peano arithmetic"
+    },
+    {
+        " has symbols for 42 42 the successor operation, addition, and multiplication, intended to be interpreted in the usual way over the ": null
+    },
+    {
+        "natural number": "natural number"
+    },
+    {
+        "s. Because no variables of this language range over the ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s, a different sort of definability is needed to refer to real numbers. A real number a is definable in the language of arithmetic  if its ": null
+    },
+    {
+        "Dedekind cut": "dedekind cut"
+    },
+    {
+        " can be defined as a ": null
+    },
+    {
+        "predicate": "predicate"
+    },
+    {
+        " in that language; that is, if there is a first-order formula φ in the language of arithmetic, with three free variables, such that   : \\forall m \\, \\forall n \\, \\forall p \\left ": null
+    }
+]

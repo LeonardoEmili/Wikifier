@@ -1,0 +1,146 @@
+[
+    {
+        "The following list in ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        " contains the ": null
+    },
+    {
+        "finite group": "finite group"
+    },
+    {
+        "s of small ": null
+    },
+    {
+        "order": "order"
+    },
+    {
+        " up to": "up to"
+    },
+    {
+        " group isomorphism": "group isomorphism"
+    },
+    {
+        ".       For n42,\\dots the number of nonisomorphic groups of order n is   :42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 ...    For labeled groups, see .       Each group is named by their ": null
+    },
+    {
+        "Small Groups library": "small groups library"
+    },
+    {
+        " index as G o i , where o is the order of the group, and i is the index of the group within that order.     Common group names:   Z n : the ": null
+    },
+    {
+        "cyclic group": "cyclic group"
+    },
+    {
+        " of order n .   Dih n : the ": null
+    },
+    {
+        "dihedral group": "dihedral group"
+    },
+    {
+        " of order 42n    K 42 : the ": null
+    },
+    {
+        "Klein four-group": "klein four-group"
+    },
+    {
+        " of order 42 same as  or Dih 42 .   S n : the ": null
+    },
+    {
+        "symmetric group": "symmetric group"
+    },
+    {
+        " of degree n, containing the ": null
+    },
+    {
+        "n!": "factorial"
+    },
+    {
+        " permutation": "permutation"
+    },
+    {
+        "s of n elements.   A n : the ": null
+    },
+    {
+        "alternating group": "alternating group"
+    },
+    {
+        " of degree n, containing the ": null
+    },
+    {
+        "even permutation": "even permutation"
+    },
+    {
+        "s of n elements, of order 42 for , and order n!/42 otherwise.   Dic n or Q 42n : the ": null
+    },
+    {
+        "dicyclic group": "dicyclic group"
+    },
+    {
+        " of order 42n.   Q 42 : the ": null
+    },
+    {
+        "quaternion group": "quaternion group"
+    },
+    {
+        " of order 42 also Dic 42 .     The notations Z n and Dih n have the advantage that ": null
+    },
+    {
+        "point groups in three dimensions": "point groups in three dimensions"
+    },
+    {
+        " C n and D n do not have the same notation. There are more ": null
+    },
+    {
+        "isometry group": "isometry group"
+    },
+    {
+        "s than these two, of the same abstract group type.     The notation  denotes the ": null
+    },
+    {
+        "direct product": "direct product of groups"
+    },
+    {
+        " of the two groups; G n denotes the direct product of a group with itself n times. G ⋊ H denotes a ": null
+    },
+    {
+        "semidirect product": "semidirect product"
+    },
+    {
+        " where H acts on G; this may also depend on the choice of action of H on G     ": null
+    },
+    {
+        "Abelian": "abelian group"
+    },
+    {
+        " and ": null
+    },
+    {
+        "simple group": "simple group"
+    },
+    {
+        "s are noted. .   Order p 42 : The classification is complicated, and gets much harder as the exponent of p increases.     Most groups of small order have a Sylow p subgroup P with a normal p-complement N for some prime p dividing the order, so can be classified in terms of the possible primes p, p-groups P, groups N, and actions of P on N. In some sense this reduces the classification of these groups to the classification of p-groups. Some of the small groups that do not have a normal p complement include:   Order 42: The symmetric group S 42   Order 42: The binary octahedral group and the product  ": null
+    },
+    {
+        "computer algebra system": "computer algebra system"
+    },
+    {
+        " GAP": "gap computer algebra system"
+    },
+    {
+        " contains the Small Groups library which provides access to descriptions of small order groups. The groups are listed ": null
+    },
+    {
+        "up to": "up to"
+    },
+    {
+        " isomorphism": "group isomorphism"
+    },
+    {
+        ". At present, the library contains the following groups: Hans Ulrich Besche     those of order at most 42;   those of cubefree order at most 42 ;   those of squarefree order;   those of order p n for n at most 42 and p prime;   those of order p 42 for p 42 42 42 42 ;   those of order pq n where q n divides 42 42 , 42 42 , 42 42 or 42 42 and p is an arbitrary prime which differs from q": null
+    }
+]

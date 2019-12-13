@@ -1,0 +1,38 @@
+[
+    {
+        "The Remote Operations Service Element  is the ": null
+    },
+    {
+        "OSI": "open systems interconnection"
+    },
+    {
+        " service interface, specified in , that provides remote operation capabilities, allows interaction between entities in a ": null
+    },
+    {
+        "distributed application": "distributed application"
+    },
+    {
+        ", and upon receiving a remote operations service request, allows the receiving entity to attempt the operation and report the results of the attempt to the requesting entity.     ": null
+    },
+    {
+        "OSI": "open systems interconnection"
+    },
+    {
+        " application protocols such as ": null
+    },
+    {
+        "X.42": "x.400"
+    },
+    {
+        " and ": null
+    },
+    {
+        "X.42": "x.500"
+    },
+    {
+        " use the services provided by ROSE. The ROSE protocol itself is defined using the notation of ": null
+    },
+    {
+        "ASN.42": "abstract syntax notation one"
+    }
+]

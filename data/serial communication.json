@@ -1,0 +1,449 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        " and ": null
+    },
+    {
+        "data transmission": "data transmission"
+    },
+    {
+        ", serial communication is the process of sending ": null
+    },
+    {
+        "data": "data"
+    },
+    {
+        " one ": null
+    },
+    {
+        "bit": "bit"
+    },
+    {
+        " at a time, sequentially, over a ": null
+    },
+    {
+        "communication channel": "communication channel"
+    },
+    {
+        " or ": null
+    },
+    {
+        "computer bus": "computer bus"
+    },
+    {
+        ". This is in contrast to ": null
+    },
+    {
+        "parallel communication": "parallel communication"
+    },
+    {
+        ", where several bits are sent as a whole, on a link with several parallel channels.     Serial communication is used for all ": null
+    },
+    {
+        "long-haul communication": "long-haul communications"
+    },
+    {
+        " and most ": null
+    },
+    {
+        "computer network": "computer network"
+    },
+    {
+        "s, where the cost of ": null
+    },
+    {
+        "cable": "electrical cable"
+    },
+    {
+        " and ": null
+    },
+    {
+        "synchronization": "synchronization"
+    },
+    {
+        " difficulties make parallel communication impractical. Serial computer buses are becoming more common even at shorter distances, as improved ": null
+    },
+    {
+        "signal integrity": "signal integrity"
+    },
+    {
+        " and transmission speeds in newer serial technologies have begun to outweigh the parallel buss advantage of simplicity  and to outstrip its disadvantages . The migration from ": null
+    },
+    {
+        "PCI": "peripheral component interconnect"
+    },
+    {
+        " to ": null
+    },
+    {
+        "PCI Express": "pci express"
+    },
+    {
+        " is an example.          Many serial communication systems were originally designed to transfer data over relatively large distances through some sort of ": null
+    },
+    {
+        "data cable": "data cable"
+    },
+    {
+        ".     Practically all long-distance communication transmits data one bit at a time, rather than in parallel, because it reduces the cost of the cable. The cables that carry this data and the ": null
+    },
+    {
+        "computer ports": "computer port"
+    },
+    {
+        " they plug into are usually referred to with a more specific name, to reduce confusion.     Keyboard and mouse cables and ports are almost invariably serial—such as ": null
+    },
+    {
+        "PS/42 port": "ps/2 port"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Apple Desktop Bus": "apple desktop bus"
+    },
+    {
+        " and ": null
+    },
+    {
+        "USB": "usb"
+    },
+    {
+        ".     The cables that carry digital video are almost invariably serial—such as ": null
+    },
+    {
+        "coax cable": "coax cable"
+    },
+    {
+        " plugged into a ": null
+    },
+    {
+        "HD-SDI": "hd-sdi"
+    },
+    {
+        " port, a ": null
+    },
+    {
+        "webcam": "webcam"
+    },
+    {
+        " plugged into a USB port or ": null
+    },
+    {
+        "Firewire port": "firewire port"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Ethernet cable": "ethernet cable"
+    },
+    {
+        " connecting an ": null
+    },
+    {
+        "IP camera": "ip camera"
+    },
+    {
+        " to a ": null
+    },
+    {
+        "Power over Ethernet": "power over ethernet"
+    },
+    {
+        " port, ": null
+    },
+    {
+        "FPD-Link": "fpd-link"
+    },
+    {
+        ", etc.     Other such cables and ports, transmitting data one bit at a time, include ": null
+    },
+    {
+        "Serial ATA": "serial ata"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Serial SCSI": "scsi connectorserial scsi"
+    },
+    {
+        ", Ethernet cable plugged into ": null
+    },
+    {
+        "Ethernet port": "ethernet port"
+    },
+    {
+        "s, the ": null
+    },
+    {
+        "Display Data Channel": "display data channel"
+    },
+    {
+        " using previously reserved pins of the ": null
+    },
+    {
+        "VGA connector": "vga connector"
+    },
+    {
+        " or the ": null
+    },
+    {
+        "DVI port": "dvi port"
+    },
+    {
+        " or the ": null
+    },
+    {
+        "HDMI": "hdmi"
+    },
+    {
+        " port.          Many communication systems were generally designed to connect two integrated circuits on the same ": null
+    },
+    {
+        "printed circuit board": "printed circuit board"
+    },
+    {
+        ", connected by ": null
+    },
+    {
+        "signal trace": "signal trace"
+    },
+    {
+        "s on that board .     ": null
+    },
+    {
+        "Integrated circuit": "integrated circuit"
+    },
+    {
+        "s are more expensive when they have more pins. To reduce the number of pins in a package, many ICs use a serial bus to transfer data when speed is not important. Some examples of such low-cost serial buses include ": null
+    },
+    {
+        "RS42": "rs-232"
+    },
+    {
+        ", ": null
+    },
+    {
+        "SPI": "serial peripheral interface bus"
+    },
+    {
+        ", ": null
+    },
+    {
+        "I²C": "i²c"
+    },
+    {
+        ", ": null
+    },
+    {
+        "DC-BUS": "dc-bus"
+    },
+    {
+        ", ": null
+    },
+    {
+        "UNI/O": "uni/o"
+    },
+    {
+        ", ": null
+    },
+    {
+        "42-Wire": "1-wire"
+    },
+    {
+        " and ": null
+    },
+    {
+        "PCI Express": "pci express"
+    },
+    {
+        ". In IC, serial bus may be typically implemented by using ": null
+    },
+    {
+        "multiplexer": "multiplexer"
+    },
+    {
+        " .        The communication links, across which computers talk to one another, may be either serial or parallel. A parallel link transmits several streams of data simultaneously along multiple channels ; whereas, a serial link transmits only a single stream of data.     Although a serial link may seem inferior to a parallel one, since it can transmit less data per clock cycle, it is often the case that serial links can be clocked considerably faster than parallel links in order to achieve a higher data rate. Several factors allow serial to be clocked at a higher rate:   ": null
+    },
+    {
+        "Clock skew": "clock skew"
+    },
+    {
+        " between different channels is not an issue .   A serial connection requires fewer interconnecting cables and hence occupies less space. The extra space allows for better isolation of the channel from its surroundings.   ": null
+    },
+    {
+        "Crosstalk": "crosstalk"
+    },
+    {
+        " is less of an issue, because there are fewer conductors in proximity.     In many cases, serial is cheaper to implement than parallel. Many ": null
+    },
+    {
+        "IC": "integrated circuit"
+    },
+    {
+        "s have serial interfaces, as opposed to parallel ones, so that they have fewer pins and are therefore less expensive.        ": null
+    },
+    {
+        "ARINC 42": "arinc 818"
+    },
+    {
+        " Avionics Digital Video Bus   ": null
+    },
+    {
+        "Atari SIO": "atari sio"
+    },
+    {
+        "   CAN": "can bus"
+    },
+    {
+        " Control Area Network Vehicle Bus   ": null
+    },
+    {
+        "ccTalk": "cctalk"
+    },
+    {
+        " Used in the money transaction and point-of-sale industry   ": null
+    },
+    {
+        "CoaXPress": "coaxpress"
+    },
+    {
+        " industrial camera protocol over Coax   ": null
+    },
+    {
+        "DC-BUS": "dc-bus"
+    },
+    {
+        " communication over DC power lines   ": null
+    },
+    {
+        "DMX42": "dmx512"
+    },
+    {
+        " control of theatrical lighting   ": null
+    },
+    {
+        "Ethernet": "ethernet"
+    },
+    {
+        " Fibre Channel": "fibre channel"
+    },
+    {
+        "   FireWire": "firewire"
+    },
+    {
+        " HyperTransport": "hypertransport"
+    },
+    {
+        " InfiniBand": "infiniband"
+    },
+    {
+        "    I²C": "i²c"
+    },
+    {
+        " multidrop serial bus   ": null
+    },
+    {
+        "MIDI": "midi"
+    },
+    {
+        " control of electronic musical instruments   ": null
+    },
+    {
+        "MIL-STD42A/B": "mil-std-1553"
+    },
+    {
+        " Morse code": "morse code"
+    },
+    {
+        " telegraphy": "telegraphy"
+    },
+    {
+        " PCI Express": "pci express"
+    },
+    {
+        " Profibus": "profibus"
+    },
+    {
+        " RS42": "rs-232"
+    },
+    {
+        "    RS42": "rs-422"
+    },
+    {
+        " multidrop serial bus   ": null
+    },
+    {
+        "RS42": "rs-423"
+    },
+    {
+        " RS42": "rs-485"
+    },
+    {
+        " multidrop multimaster serial bus   ": null
+    },
+    {
+        "SDI42": "sdi-12"
+    },
+    {
+        " industrial sensor protocol   ": null
+    },
+    {
+        "Serial ATA": "serial ata"
+    },
+    {
+        " Serial Attached SCSI": "serial attached scsi"
+    },
+    {
+        " SONET": "synchronous optical networking"
+    },
+    {
+        " and ": null
+    },
+    {
+        "SDH": "synchronous optical networking"
+    },
+    {
+        "   SpaceWire": "spacewire"
+    },
+    {
+        " Spacecraft communication network   ": null
+    },
+    {
+        "SPI": "serial peripheral interface bus"
+    },
+    {
+        " T42": "t-carrier"
+    },
+    {
+        ", ": null
+    },
+    {
+        "E42": "e-carrier"
+    },
+    {
+        " and variants   ": null
+    },
+    {
+        "Universal Serial Bus": "universal serial bus"
+    },
+    {
+        "   UNI/O": "uni/o"
+    },
+    {
+        " multidrop serial bus   ": null
+    },
+    {
+        "42-Wire": "1-wire"
+    },
+    {
+        " multidrop serial bus   ": null
+    }
+]

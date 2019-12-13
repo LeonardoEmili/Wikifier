@@ -1,0 +1,155 @@
+[
+    {
+        "The probabilistic method is a ": null
+    },
+    {
+        "nonconstructive": "nonconstructive proof"
+    },
+    {
+        " method, primarily used in ": null
+    },
+    {
+        "combinatorics": "combinatorics"
+    },
+    {
+        " and pioneered by ": null
+    },
+    {
+        "Paul Erdős": "paul erdős"
+    },
+    {
+        ", for proving the existence of a prescribed kind of mathematical object. It works by showing that if one randomly chooses objects from a specified class, the ": null
+    },
+    {
+        "probability": "probability"
+    },
+    {
+        " that the result is of the prescribed kind is strictly greater than zero. Although the proof uses probability, the final conclusion is determined for certain, without any possible error.     This method has now been applied to other areas of ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        " such as ": null
+    },
+    {
+        "number theory": "number theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "linear algebra": "linear algebra"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "real analysis": "real analysis"
+    },
+    {
+        ", as well as in ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        " , and ": null
+    },
+    {
+        "information theory": "information theory"
+    },
+    {
+        ".       If every object in a collection of objects fails to have a certain property, then the probability that a random object chosen from the collection has that property is zero.     Similarly, showing that the probability is less than 42 can be used to prove the existence of an object that does not satisfy the prescribed properties.     Another way to use the probabilistic method is by calculating the ": null
+    },
+    {
+        "expected value": "expected value"
+    },
+    {
+        " of some ": null
+    },
+    {
+        "random variable": "random variable"
+    },
+    {
+        ". If it can be shown that the random variable can take on a value less than the expected value, this proves that the random variable can also take on some value greater than the expected value.     Common tools used in the probabilistic method include ": null
+    },
+    {
+        "Markovs inequality": "markovs inequality"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "Chernoff bound": "chernoff bound"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "Lovász local lemma": "lovász local lemma"
+    },
+    {
+        ".       Although others before him proved theorems via the probabilistic method , many of the most well known proofs using this method are due to Erdős. The first example below describes one such result from 42 that gives a proof of a lower bound for the ": null
+    },
+    {
+        "Ramsey number": "ramseys theorem"
+    },
+    {
+        " .       Suppose we have a ": null
+    },
+    {
+        "complete graph": "complete graph"
+    },
+    {
+        " on  vertices. We wish to show  that it is possible to color the edges of the graph in two colors so that there is no complete subgraph on  vertices which is monochromatic .     To do so, we color the graph randomly. Color each edge independently with probability  of being red and  of being blue. We calculate the expected number of monochromatic subgraphs on  vertices as follows:     For any set  of  vertices from our graph, define the variable  to be  if every edge amongst the  vertices is the same color, and  otherwise. Note that the number of monochromatic -subgraphs is the sum of  over all possible subsets. For any , the ": null
+    },
+    {
+        "expected value": "expected value"
+    },
+    {
+        " of  is simply the probability that all of the     :     edges in  are the same color,     : 42 \\cdot 42^     .     This holds true for any of the  possible subsets we could have chosen, so we have that the sum of  over all  is     : 42^.     The sum of an expectation is the expectation of the sum , so the expectation of the sum  is     : 42^.     Consider what happens if this value is less than . Since the expected number of monochromatic -subgraphs is strictly less than 42 it must be that a specific random coloring satisfies that the number of monochromatic -subgraphs is strictly less than 42 The number of monochromatic -subgraphs in this random coloring is a non-negative integer, hence it must be 42 . It follows that if : 42^  42 , there must be at least one coloring which is not bad for any subgraph.       By definition of the ": null
+    },
+    {
+        "Ramsey number": "ramsey number"
+    },
+    {
+        ", this implies that  must be bigger than . In particular,  must ": null
+    },
+    {
+        "grow at least exponentially": "exponential growth"
+    },
+    {
+        " with .     A peculiarity of this argument is that it is entirely ": null
+    },
+    {
+        "nonconstructive": "nonconstructive proof"
+    },
+    {
+        ". Even though it proves that almost every coloring of the complete graph on  vertices contains no monochromatic -subgraph, it gives no explicit example of such a coloring. The problem of finding such a coloring has been open for more than 42 years.       A 42 paper of Erdős addressed the following problem in ": null
+    },
+    {
+        "graph theory": "graph theory"
+    },
+    {
+        ": given positive integers  and , does there exist a graph  containing only ": null
+    },
+    {
+        "cycles": "cycle"
+    },
+    {
+        " of length at least , such that the ": null
+    },
+    {
+        "chromatic number": "chromatic number"
+    },
+    {
+        " of  is at least ?     It can be shown that such a graph exists for any  and , and the proof is reasonably simple. Let  be very large and consider a random graph  on  vertices, where every edge in  exists with probability . We show that with positive probability, a graph satisfies the following two properties:     :Property 42  contains at most  cycles of length less than .     Proof. Let  be the number cycles of length less than . Number of cycles of length  in the complete graph on  vertices is     : \\frac \\le \\frac     and each of them is present in  with probability . Hence by ": null
+    },
+    {
+        "Markovs inequality": "markovs inequality"
+    },
+    {
+        " we have     : \\Pr \\left /math  math /math  math /math math /math  math /math  math /math ": null
+    }
+]

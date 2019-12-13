@@ -1,0 +1,137 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", given two ": null
+    },
+    {
+        "groups": "group"
+    },
+    {
+        ",  and , a group homomorphism from  to  is a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " h : G → H such that for all u and v in G it holds that   : h h \\cdot h     where the group operation on the left hand side of the equation is that of G and on the right hand side that of H.     From this property, one can deduce that h maps the ": null
+    },
+    {
+        "identity element": "identity element"
+    },
+    {
+        " e G  of G to the identity element e H  of H,   : h e_H     and it also maps inverses to inverses in the sense that   : h\\left h^. \\,     Hence one can say that h is compatible with the group structure .     Older notations for the homomorphism h may be x h or x h , though this may be confused as an index or a general subscript. A more recent trend is to write group homomorphisms on the right of their arguments, omitting brackets, so that h becomes simply x h. This approach is especially prevalent in areas of group theory where ": null
+    },
+    {
+        "automata": "automata theory"
+    },
+    {
+        " play a role, since it accords better with the convention that automata read words from left to right.     In areas of mathematics where one considers groups endowed with additional structure, a homomorphism sometimes means a map which respects not only the group structure but also the extra structure. For example, a homomorphism of ": null
+    },
+    {
+        "topological group": "topological group"
+    },
+    {
+        "s is often required to be continuous.       The purpose of defining a group homomorphism is to create functions that preserve the algebraic structure. An equivalent definition of group homomorphism is: The function h : G → H is a group homomorphism if whenever     a ∗ b c   we have   h ⋅ h h.     In other words, the group H in some sense has a similar algebraic structure as G and the homomorphism h preserves that.       ;": null
+    },
+    {
+        "Monomorphism": "monomorphism"
+    },
+    {
+        ": A group homomorphism that is ": null
+    },
+    {
+        "injective": "injective function"
+    },
+    {
+        " ; i.e., preserves distinctness.   ;": null
+    },
+    {
+        "Epimorphism": "epimorphism"
+    },
+    {
+        ": A group homomorphism that is ": null
+    },
+    {
+        "surjective": "surjective function"
+    },
+    {
+        " ; i.e., reaches every point in the codomain.   ;": null
+    },
+    {
+        "Isomorphism": "group isomorphism"
+    },
+    {
+        ": A group homomorphism that is ": null
+    },
+    {
+        "bijective": "bijection"
+    },
+    {
+        "; i.e., injective and surjective. Its inverse is also a group homomorphism. In this case, the groups G and H are called isomorphic; they differ only in the notation of their elements and are identical for all practical purposes.   ;": null
+    },
+    {
+        "Endomorphism": "endomorphism"
+    },
+    {
+        ": A homomorphism, h: G → G; the domain and codomain are the same. Also called an endomorphism of G.   ;": null
+    },
+    {
+        "Automorphism": "automorphism"
+    },
+    {
+        ": An endomorphism that is bijective, and hence an isomorphism. The set of all ": null
+    },
+    {
+        "automorphism": "automorphism"
+    },
+    {
+        "s of a group G, with functional composition as operation, forms itself a group, the automorphism group of G. It is denoted by Aut. As an example, the automorphism group of  contains only two elements, the identity transformation and multiplication with −42; it is isomorphic to Z/42Z.          We define the  kernel of h to be the set of elements in G which are mapped to the identity in H   : \\operatorname \\equiv \\left\\.     and the  image of h to be   : \\operatorname \\equiv h \\equiv \\left\\.     The kernel and image of a homomorphism can be interpreted as measuring how close it is to being an isomorphism. The ": null
+    },
+    {
+        "first isomorphism theorem": "isomorphism theorem"
+    },
+    {
+        " states that the image of a group homomorphism, h is isomorphic to the quotient group G/ker h.     The kernel of h is a ": null
+    },
+    {
+        "normal subgroup": "normal subgroup"
+    },
+    {
+        " of G and the image of h is a ": null
+    },
+    {
+        "subgroup": "subgroup"
+    },
+    {
+        " of H:   : \\begin   h\\left & h^ \\cdot h \\cdot h \\\\   & h^ \\cdot e_H \\cdot h \\\\   & h^ \\cdot h e_H.   \\end     If and only if , the homomorphism, h, is a ": null
+    },
+    {
+        "group monomorphism": "monomorphism"
+    },
+    {
+        "; i.e., h is injective . Injection directly gives that there is a unique element in the kernel, and a unique element in the kernel gives injection:   : \\begin   & & h & h \\\\   \\Leftrightarrow & & h \\cdot h^ & e_H \\\\   \\Leftrightarrow & & h\\left & e_H,\\ \\operatorname \\ \\\\   \\Rightarrow & & g_42 \\circ g_42^ & e_G \\\\   \\Leftrightarrow & & g_42 & g_42   \\end       Consider the ": null
+    },
+    {
+        "cyclic group": "cyclic group"
+    },
+    {
+        " Z/42Z and the group of integers Z with addition. The map h : Z → Z/42Z with h u ": null
+    },
+    {
+        "mod": "modular arithmetic"
+    },
+    {
+        " 42 is a group homomorphism. It is ": null
+    },
+    {
+        "surjective": "surjective"
+    },
+    {
+        " and its kernel consists of all integers which are divisible by 42      ": null
+    }
+]

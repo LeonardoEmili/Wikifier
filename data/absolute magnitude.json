@@ -1,0 +1,419 @@
+[
+    {
+        "Absolute magnitude  is a measure of the ": null
+    },
+    {
+        "luminosity": "luminosity"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "celestial object": "celestial object"
+    },
+    {
+        ", on an inverse ": null
+    },
+    {
+        "logarithmic": "logarithmic scale"
+    },
+    {
+        " astronomical magnitude": "magnitude"
+    },
+    {
+        " scale. An objects absolute magnitude is defined to be equal to the ": null
+    },
+    {
+        "apparent magnitude": "apparent magnitude"
+    },
+    {
+        " that the object would have if it were viewed from a distance of exactly , without ": null
+    },
+    {
+        "extinction": "extinction"
+    },
+    {
+        " of its light due to absorption by ": null
+    },
+    {
+        "interstellar matter": "interstellar medium"
+    },
+    {
+        " and ": null
+    },
+    {
+        "cosmic dust": "cosmic dust"
+    },
+    {
+        ". By hypothetically placing all objects at a standard reference distance from the observer, their luminosities can be directly compared on a magnitude scale.     As with all astronomical ": null
+    },
+    {
+        "magnitudes": "magnitude"
+    },
+    {
+        ", the absolute magnitude can be specified for different ": null
+    },
+    {
+        "wavelength": "wavelength"
+    },
+    {
+        " ranges corresponding to specified ": null
+    },
+    {
+        "filter": "filter"
+    },
+    {
+        " bands or ": null
+    },
+    {
+        "passband": "passband"
+    },
+    {
+        "s; for stars a commonly quoted absolute magnitude is the absolute visual magnitude, which uses the visual band of the spectrum . Absolute magnitudes are denoted by a capital M, with a subscript representing the filter band used for measurement, such as M V for absolute magnitude in the V band.     The more luminous an object, the smaller the numerical value of its absolute magnitude. A difference of 42 magnitudes between the absolute magnitudes of two objects corresponds to a ratio of 42 in their luminosities, and a difference of n magnitudes in absolute magnitude corresponds to a luminosity ratio of 42 . For example, a star of absolute magnitude M V 42 would be 42 times more luminous than a star of absolute magnitude M V 42 as measured in the V filter band. The ": null
+    },
+    {
+        "Sun": "sun"
+    },
+    {
+        " has absolute magnitude M V 42. Highly luminous objects can have negative absolute magnitudes: for example, the ": null
+    },
+    {
+        "Milky Way": "milky way"
+    },
+    {
+        " galaxy has an absolute B magnitude of about −42.     An objects absolute bolometric magnitude represents its total ": null
+    },
+    {
+        "luminosity": "luminosity"
+    },
+    {
+        " over all ": null
+    },
+    {
+        "wavelengths": "wavelengths"
+    },
+    {
+        ", rather than in a single filter band, as expressed on a logarithmic magnitude scale. To convert from an absolute magnitude in a specific filter band to absolute bolometric magnitude, a ": null
+    },
+    {
+        "bolometric correction": "bolometric correction"
+    },
+    {
+        " is applied.     For ": null
+    },
+    {
+        "Solar System": "solar system"
+    },
+    {
+        " bodies that shine in reflected light, a different definition of absolute magnitude is used, based on a standard reference distance of one ": null
+    },
+    {
+        "astronomical unit": "astronomical unit"
+    },
+    {
+        ".       In stellar and galactic astronomy, the standard distance is 42 parsecs . A star at 42 parsecs has a ": null
+    },
+    {
+        "parallax": "parallax"
+    },
+    {
+        " of 42″ . Galaxies  are much larger than 42 parsecs, their light is radiated over an extended patch of sky, and their overall brightness cannot be directly observed from relatively short distances, but the same convention is used. A galaxys magnitude is defined by measuring all the light radiated over the entire object, treating that integrated brightness as the brightness of a single point-like or star-like source, and computing the magnitude of that point-like source as it would appear if observed at the standard 42 parsecs distance. Consequently, the absolute magnitude of any object equals the apparent magnitude it would have if it were 42 parsecs away.     The measurement of absolute magnitude is made with an instrument called a ": null
+    },
+    {
+        "bolometer": "bolometer"
+    },
+    {
+        ". When using an absolute magnitude, one must specify the type of ": null
+    },
+    {
+        "electromagnetic radiation": "electromagnetic radiation"
+    },
+    {
+        " being measured. When referring to total energy output, the proper term is bolometric magnitude. The bolometric magnitude usually is computed from the visual magnitude plus a ": null
+    },
+    {
+        "bolometric correction": "bolometric correction"
+    },
+    {
+        ", . This correction is needed because very hot stars radiate mostly ultraviolet radiation, whereas very cool stars radiate mostly infrared radiation .     Some stars visible to the naked eye have such a low absolute magnitude that they would appear bright enough to outshine the ": null
+    },
+    {
+        "planet": "planet"
+    },
+    {
+        "s and cast shadows if they were at 42 parsecs from the Earth. Examples include ": null
+    },
+    {
+        "Rigel": "rigel"
+    },
+    {
+        " , ": null
+    },
+    {
+        "Deneb": "deneb"
+    },
+    {
+        " , ": null
+    },
+    {
+        "Naos": "zeta puppis"
+    },
+    {
+        " , and ": null
+    },
+    {
+        "Betelgeuse": "betelgeuse"
+    },
+    {
+        " . For comparison, ": null
+    },
+    {
+        "Sirius": "sirius"
+    },
+    {
+        " has an absolute magnitude of 42, which is brighter than the ": null
+    },
+    {
+        "Sun": "sun"
+    },
+    {
+        ", whose absolute visual magnitude is ": null
+    },
+    {
+        "42": "fifth magnitude star"
+    },
+    {
+        " . The Suns absolute bolometric magnitude is set arbitrarily, usually at 42.   Absolute magnitudes of stars generally range from −42 to 42 The absolute magnitudes of galaxies can be much lower . For example, the giant ": null
+    },
+    {
+        "elliptical galaxy M42": "elliptical galaxy m87"
+    },
+    {
+        " has an absolute magnitude of −42 .            The Greek astronomer ": null
+    },
+    {
+        "Hipparchus": "hipparchus"
+    },
+    {
+        " established a numerical scale to describe the brightness of each star appearing in the sky. The brightest stars in the sky were assigned an apparent magnitude , and the dimmest stars visible to the naked eye are assigned . The difference between them corresponds to a factor of 42 in brightness. For objects within the immediate neighborhood of the Sun, the absolute magnitude  and apparent magnitude  from any distance   is related by:     : 42^\\frac \\left^,     where  is the radiant flux measured at distance  ,  the radiant flux measured at distance . The relation can be written in terms of logarithm:     : M m - 42 \\log_42     where the insignificance of ": null
+    },
+    {
+        "extinction by gas and dust": "extinction"
+    },
+    {
+        " is assumed. Typical extinction rates within the galaxy are 42 to 42 magnitudes per kiloparsec, when ": null
+    },
+    {
+        "dark clouds": "dark nebula"
+    },
+    {
+        " are taken into account.     For objects at very large distances the luminosity distance  must be used instead of  , because the Euclidean approximation is invalid for distant objects and ": null
+    },
+    {
+        "general relativity": "general relativity"
+    },
+    {
+        " must be taken into account. Moreover, the ": null
+    },
+    {
+        "cosmological redshift": "cosmological redshift"
+    },
+    {
+        " complicates the relation between absolute and apparent magnitude, because the radiation observed was shifted into the red range of the spectrum. To compare the magnitudes of very distant objects with those of local objects, a ": null
+    },
+    {
+        "K correction": "k correction"
+    },
+    {
+        " might have to be applied to the magnitudes of the distant objects.     The absolute magnitude  can also be approximated using apparent magnitude  and ": null
+    },
+    {
+        "stellar parallax": "stellar parallax"
+    },
+    {
+        " :     : M m + 42 \\left,     or using apparent magnitude  and ": null
+    },
+    {
+        "distance modulus": "distance modulus"
+    },
+    {
+        " :     : M m - \\mu .       ": null
+    },
+    {
+        "Rigel": "rigel"
+    },
+    {
+        " has a visual magnitude  of 42 and distance about 42 light-years   : M_\\mathrm 42 - 42 \\left 42.     ": null
+    },
+    {
+        "Vega": "vega"
+    },
+    {
+        " has a parallax  of 42″, and an apparent magnitude  of 42   : M_\\mathrm 42 + 42 \\left 42.     The ": null
+    },
+    {
+        "Black Eye Galaxy": "black eye galaxy"
+    },
+    {
+        " has a visual magnitude  of 42 and a distance modulus  of 42   : M_\\mathrm 42 - 42 42.         The ": null
+    },
+    {
+        "bolometric": "bolometer"
+    },
+    {
+        " magnitude , takes into account ": null
+    },
+    {
+        "electromagnetic radiation": "electromagnetic radiation"
+    },
+    {
+        " at all ": null
+    },
+    {
+        "wavelengths": "wavelengths"
+    },
+    {
+        ". It includes those unobserved due to instrumental ": null
+    },
+    {
+        "passband": "passband"
+    },
+    {
+        ", the Earths atmospheric absorption, and ": null
+    },
+    {
+        "extinction by interstellar dust": "extinction"
+    },
+    {
+        ". It is defined based on the ": null
+    },
+    {
+        "luminosity": "luminosity"
+    },
+    {
+        " of the stars. In the case of stars with few observations, it must be computed assuming an ": null
+    },
+    {
+        "effective temperature": "effective temperature"
+    },
+    {
+        ".     Classically, the difference in bolometric magnitude is related to the luminosity ratio according to:     : M_\\mathrm - M_\\mathrm 42 \\log_ \\left     which makes by inversion:     : \\frac 42^     where   : is the Suns luminosity   : is the stars luminosity   : is the bolometric magnitude of the Sun   : is the bolometric magnitude of the star.     In August 42 the ": null
+    },
+    {
+        "International Astronomical Union": "international astronomical union"
+    },
+    {
+        " passed Resolution B42 defining the ": null
+    },
+    {
+        "zero points": "zero point"
+    },
+    {
+        " of the absolute and apparent ": null
+    },
+    {
+        "bolometric magnitude": "bolometric magnitude"
+    },
+    {
+        " scales in SI units for power  and irradiance , respectively. Although bolometric magnitudes had been used by astronomers for many decades, there had been systematic differences in the absolute magnitude-luminosity scales presented in various astronomical references, and no international standardization. This led to systematic differences in bolometric corrections scales. Combined with incorrect assumed absolute bolometric magnitudes for the Sun could lead to systematic errors in estimated stellar luminosities .     Resolution B42 defines an absolute bolometric magnitude scale where  corresponds to luminosity , with the zero point ": null
+    },
+    {
+        "luminosity": "luminosity"
+    },
+    {
+        "  set such that the Sun  corresponds to absolute ": null
+    },
+    {
+        "bolometric magnitude": "bolometric magnitude"
+    },
+    {
+        " 42. Placing a ": null
+    },
+    {
+        "radiation": "radiation"
+    },
+    {
+        " source at the standard distance of 42 ": null
+    },
+    {
+        "parsecs": "parsecs"
+    },
+    {
+        ", it follows that the zero point of the apparent bolometric magnitude scale  corresponds to ": null
+    },
+    {
+        "irradiance": "irradiance"
+    },
+    {
+        " . Using the IAU 42 scale, the nominal total ": null
+    },
+    {
+        "solar irradiance": "solar irradiance"
+    },
+    {
+        "  measured at 42 ": null
+    },
+    {
+        "astronomical unit": "astronomical unit"
+    },
+    {
+        "  corresponds to an apparent bolometric magnitude of the ": null
+    },
+    {
+        "Sun": "sun"
+    },
+    {
+        " of −42.     Following Resolution B42 the relation between a stars absolute bolometric magnitude and its luminosity is no longer directly tied to the Suns luminosity:     : M_\\mathrm 42 \\log_ \\frac \\approx 42 \\log_ L_\\star + 42     where   : is the stars luminosity in ": null
+    },
+    {
+        "watt": "watt"
+    },
+    {
+        "s   : is the zero point luminosity    : is the bolometric magnitude of the star     The new IAU absolute magnitude scale permanently disconnects the scale from the variable Sun. However, on this SI power scale, the nominal solar luminosity corresponds closely to 42, a value that was commonly adopted by astronomers before the 42 IAU resolution.     The luminosity of the star in watts can be calculated as a function of its absolute bolometric magnitude  as:     : L_\\star L_42 42^     using the variables as defined previously.         AUan arrangement that is impossible in practice": null
+    },
+    {
+        "trono": "trono"
+    },
+    {
+        "trono": "trono"
+    },
+    {
+        "trono": "trono"
+    },
+    {
+        "ysi": "ysi"
+    },
+    {
+        "42\\left42q": null
+    },
+    {
+        "trono": "trono"
+    },
+    {
+        "\\alphathe ": null
+    },
+    {
+        "integration": "integral"
+    },
+    {
+        " of reflected light; a number in the 42 to 42 range\\alpha d_\\mathrm^42 + d_\\mathrm^42 - d_\\mathrm^42 42 d_\\mathrm d_\\mathrm\\alpha": null
+    },
+    {
+        "g": "g"
+    },
+    {
+        "\\alpha\\left\\cos+\\frac\\sin\\right \\alpha42^ 42\\pi \\alpha42^ \\alpha\\alphain ": null
+    },
+    {
+        "kilometer": "kilometer"
+    },
+    {
+        "s42\\sqrt42H km42\\fracBS AUBO km AU\\alpha42\\piaccording to the diffuse reflector model42\\left42\\left42q": null
+    },
+    {
+        "trono": "trono"
+    },
+    {
+        "with \\alpha in degrees ": null
+    }
+]

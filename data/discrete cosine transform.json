@@ -1,0 +1,1022 @@
+[
+    {
+        "A discrete cosine transform  expresses a finite sequence of ": null
+    },
+    {
+        "data points": "data points"
+    },
+    {
+        " in terms of a sum of ": null
+    },
+    {
+        "cosine": "cosine"
+    },
+    {
+        " functions oscillating at different ": null
+    },
+    {
+        "frequencies": "frequency"
+    },
+    {
+        ". The DCT, first proposed by ": null
+    },
+    {
+        "Nasir Ahmed": "n. ahmed"
+    },
+    {
+        " in 42 is the most widely used transformation technique in ": null
+    },
+    {
+        "signal processing": "signal processing"
+    },
+    {
+        " and ": null
+    },
+    {
+        "data compression": "data compression"
+    },
+    {
+        ". It is used in most ": null
+    },
+    {
+        "digital media": "digital media"
+    },
+    {
+        ", including ": null
+    },
+    {
+        "digital images": "digital images"
+    },
+    {
+        " , ": null
+    },
+    {
+        "digital video": "digital video"
+    },
+    {
+        " , ": null
+    },
+    {
+        "digital audio": "digital audio"
+    },
+    {
+        " , ": null
+    },
+    {
+        "digital television": "digital television"
+    },
+    {
+        " , ": null
+    },
+    {
+        "digital radio": "digital radio"
+    },
+    {
+        " , and ": null
+    },
+    {
+        "speech coding": "speech coding"
+    },
+    {
+        " . DCTs are also important to numerous other applications in ": null
+    },
+    {
+        "science and engineering": "science and engineering"
+    },
+    {
+        ", such as ": null
+    },
+    {
+        "digital signal processing": "digital signal processing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "communications device": "communications device"
+    },
+    {
+        "s, reducing ": null
+    },
+    {
+        "network bandwidth": "network bandwidth"
+    },
+    {
+        " usage, and ": null
+    },
+    {
+        "spectral method": "spectral method"
+    },
+    {
+        "s for the numerical solution of ": null
+    },
+    {
+        "partial differential equations": "partial differential equations"
+    },
+    {
+        ".     The use of cosine rather than ": null
+    },
+    {
+        "sine": "sine"
+    },
+    {
+        " functions is critical for compression, since it turns out that fewer cosine functions are needed to approximate a typical ": null
+    },
+    {
+        "signal": "signal"
+    },
+    {
+        ", whereas for differential equations the cosines express a particular choice of ": null
+    },
+    {
+        "boundary condition": "boundary condition"
+    },
+    {
+        "s. In particular, a DCT is a ": null
+    },
+    {
+        "Fourier-related transform": "list of fourier-related transforms"
+    },
+    {
+        " similar to the ": null
+    },
+    {
+        "discrete Fourier transform": "discrete fourier transform"
+    },
+    {
+        " , but using only ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s. The DCTs are generally related to Fourier Series coefficients of a periodically and symmetrically extended sequence whereas DFTs are related to Fourier Series coefficients of a periodically extended sequence. DCTs are equivalent to DFTs of roughly twice the length, operating on real data with ": null
+    },
+    {
+        "even": "even and odd functions"
+    },
+    {
+        " symmetry , whereas in some variants the input and/or output data are shifted by half a sample. There are eight standard DCT variants, of which four are common.     The most common variant of discrete cosine transform is the type-II DCT, which is often called simply the DCT . This was the original DCT, first proposed by ": null
+    },
+    {
+        "Nasir Ahmed": "n. ahmed"
+    },
+    {
+        " in 42 Its inverse, the type-III DCT, is correspondingly often called simply the inverse DCT or the IDCT . Two related transforms are the ": null
+    },
+    {
+        "discrete sine transform": "discrete sine transform"
+    },
+    {
+        " , which is equivalent to a DFT of real and odd functions, and the ": null
+    },
+    {
+        "modified discrete cosine transform": "modified discrete cosine transform"
+    },
+    {
+        " , which is based on a DCT of overlapping data. Multidimensional DCTs are developed to extend the concept of DCT on MD signals. There are several algorithms to compute MD DCT. A variety of fast algorithms have been developed to reduce the computational complexity of implementing DCT. One of these is the integer DCT , an ": null
+    },
+    {
+        "integer": "integer"
+    },
+    {
+        " approximation of the standard DCT,  used in several ": null
+    },
+    {
+        "ISO/IEC": "iso/iec"
+    },
+    {
+        " and ": null
+    },
+    {
+        "ITU-T": "itu-t"
+    },
+    {
+        " international standards.     DCT compression, also known as block compression, compresses data in sets of discrete DCT blocks. DCT blocks can have a number of sizes, including 42x42 ": null
+    },
+    {
+        "pixels": "pixels"
+    },
+    {
+        " for the standard DCT, and varied integer DCT sizes between 42x42 and 42x42 pixels. The DCT has a strong energy compaction property, capable of achieving high quality at high ": null
+    },
+    {
+        "data compression ratio": "data compression ratio"
+    },
+    {
+        "s. However, blocky ": null
+    },
+    {
+        "compression artifacts": "compression artifacts"
+    },
+    {
+        " can appear when heavy DCT compression is applied.            The discrete cosine transform was first conceived by ": null
+    },
+    {
+        "Nasir Ahmed": "n. ahmed"
+    },
+    {
+        ", while working at ": null
+    },
+    {
+        "Kansas State University": "kansas state university"
+    },
+    {
+        ", and he proposed the concept to the ": null
+    },
+    {
+        "National Science Foundation": "national science foundation"
+    },
+    {
+        " in 42 He originally intended DCT for ": null
+    },
+    {
+        "image compression": "image compression"
+    },
+    {
+        ".   Ahmed developed a practical DCT algorithm with his PhD student T. Natarajan and friend ": null
+    },
+    {
+        "K. R. Rao": "k. r. rao"
+    },
+    {
+        " at the ": null
+    },
+    {
+        "University of Texas at Arlington": "university of texas at arlington"
+    },
+    {
+        " in 42 and they found that it was the most efficient algorithm for image compression. They presented their results in a January 42 paper, titled Discrete Cosine Transform .   It described what is now called the type-II DCT ,  as well as the type-III inverse DCT . It was a benchmark publication, Selected Papers on Visual Communication: Technology and Applications, , Editors T. Russell Hsing and Andrew G. Tescher, April 42 pp. 4242 . Selected Papers and Tutorial in Digital Image Processing and Analysis, Volume 42 Digital Image Processing and Analysis, , Editors R. Chellappa and A. A. Sawchuk, June 42 p. 42 and has been cited as a fundamental development in thousands of works since its publication. DCT citations via Google Scholar . The basic research work and events that led to the development of the DCT were summarized in a later publication by Ahmed, How I Came Up with the Discrete Cosine Transform .     Since its introduction in 42 there has been significant research on the DCT. In 42 Wen-Hsiung Chen published a paper with C.H. Smith and S.C. Fralick presenting a fast DCT algorithm,  and he founded ": null
+    },
+    {
+        "Compression Labs": "compression labs, inc."
+    },
+    {
+        " to commercialize DCT technology. Further developments include a 42 paper by N.J. Narasinha and S.C. Fralick, and a 42 paper by B.G. Lee. These research papers, along with the original 42 Ahmed paper and the 42 Chen paper, were cited by the ": null
+    },
+    {
+        "Joint Photographic Experts Group": "joint photographic experts group"
+    },
+    {
+        " as the basis for ": null
+    },
+    {
+        "JPEG": "jpeg"
+    },
+    {
+        "s lossy image compression algorithm in 42      In 42 John A. Roese and Guner S. Robinson adapted the DCT for ": null
+    },
+    {
+        "inter-frame": "inter-frame"
+    },
+    {
+        " motion-compensated": "motion compensation"
+    },
+    {
+        " video coding": "video coding"
+    },
+    {
+        ". They experimented with the DCT and the ": null
+    },
+    {
+        "fast Fourier transform": "fast fourier transform"
+    },
+    {
+        " , developing inter-frame hybrid coders for both, and found that the DCT is the most efficient due to its reduced complexity, capable of compressing image data down to 42-": null
+    },
+    {
+        "bit": "bit"
+    },
+    {
+        " per ": null
+    },
+    {
+        "pixel": "pixel"
+    },
+    {
+        " for a ": null
+    },
+    {
+        "videotelephone": "videotelephone"
+    },
+    {
+        " scene with image quality comparable to an intra-frame coder requiring 42-bit per pixel.   The DCT was applied to video encoding by Wen-Hsiung Chen,  who developed a fast DCT algorithm with C.H. Smith and S.C. Fralick in 42   and founded ": null
+    },
+    {
+        "Compression Labs": "compression labs, inc."
+    },
+    {
+        " to commercialize DCT technology.  In 42 ": null
+    },
+    {
+        "Anil K. Jain": "anil k. jain"
+    },
+    {
+        " and Jaswant R. Jain further developed motion-compensated DCT video compression,   also called block motion compensation. This led to Chen developing a practical video compression algorithm, called motion-compensated DCT or adaptive scene coding, in 42 Motion-compensated DCT later became the standard coding technique for video compression from the late 42s onwards.      The integer DCT is used in ": null
+    },
+    {
+        "Advanced Video Coding": "advanced video coding"
+    },
+    {
+        " ,  introduced in 42 and ": null
+    },
+    {
+        "High Efficiency Video Coding": "high efficiency video coding"
+    },
+    {
+        " , introduced in 42 The integer DCT is also used in the ": null
+    },
+    {
+        "High Efficiency Image Format": "high efficiency image format"
+    },
+    {
+        " , which uses a subset of the ": null
+    },
+    {
+        "HEVC": "hevc"
+    },
+    {
+        " video coding format for coding still images.     A DCT variant, the ": null
+    },
+    {
+        "modified discrete cosine transform": "modified discrete cosine transform"
+    },
+    {
+        " , was developed by John P. Princen, A.W. Johnson and Alan B. Bradley at the ": null
+    },
+    {
+        "University of Surrey": "university of surrey"
+    },
+    {
+        " in 42  following earlier work by Princen and Bradley in 42 John P. Princen, Alan B. Bradley: Analysis/synthesis filter bank design based on time domain aliasing cancellation, IEEE Trans. Acoust. Speech Signal Processing, ASSP42 , 42–42 42 The MDCT is used in most modern ": null
+    },
+    {
+        "audio compression": "audio compression"
+    },
+    {
+        " formats, such as ": null
+    },
+    {
+        "Dolby Digital": "dolby digital"
+    },
+    {
+        " , ": null
+    },
+    {
+        "MP42": "mp3"
+    },
+    {
+        " ,  ": null
+    },
+    {
+        "Advanced Audio Coding": "advanced audio coding"
+    },
+    {
+        " ,  and ": null
+    },
+    {
+        "Vorbis": "vorbis"
+    },
+    {
+        " .     The ": null
+    },
+    {
+        "discrete sine transform": "discrete sine transform"
+    },
+    {
+        " was derived from the DCT, by replacing the ": null
+    },
+    {
+        "Neumann condition": "neumann boundary condition"
+    },
+    {
+        " at x42 with a ": null
+    },
+    {
+        "Dirichlet condition": "dirichlet condition"
+    },
+    {
+        ".  The DST was described in the 42 DCT paper by Ahmed, Natarajan and Rao. A type-I DST was later described by ": null
+    },
+    {
+        "Anil K. Jain": "anil k. jain"
+    },
+    {
+        " in 42 and a type-II DST was then described by H.B. Kekra and J.K. Solanka in 42      Nasir Ahmed also developed a lossless DCT algorithm with Giridhar Mandyam and Neeraj Magotra at the ": null
+    },
+    {
+        "University of New Mexico": "university of new mexico"
+    },
+    {
+        " in 42 This allows the DCT technique to be used for ": null
+    },
+    {
+        "lossless compression": "lossless compression"
+    },
+    {
+        " of images. It is a modification of the original DCT algorithm, and incorporates elements of inverse DCT and ": null
+    },
+    {
+        "delta modulation": "delta modulation"
+    },
+    {
+        ". It is a more effective lossless compression algorithm than ": null
+    },
+    {
+        "entropy coding": "entropy coding"
+    },
+    {
+        ".  Lossless DCT is also known as LDCT.      ": null
+    },
+    {
+        "Wavelet": "wavelet"
+    },
+    {
+        " coding, the use of ": null
+    },
+    {
+        "wavelet transforms": "wavelet transforms"
+    },
+    {
+        " in image compression, began after the development of DCT coding.  The introduction of the DCT led to the development of wavelet coding, a variant of DCT coding that uses wavelets instead of DCTs block-based algorithm. ": null
+    },
+    {
+        "Discrete wavelet transform": "discrete wavelet transform"
+    },
+    {
+        " coding is used in the ": null
+    },
+    {
+        "JPEG 42": "jpeg 2000"
+    },
+    {
+        " standard,  developed from 42 to 42  Wavelet coding is more processor-intensive, and was thus enable to replace DCT coding as the image compression standard.        The DCT is the most widely used transformation technique in ": null
+    },
+    {
+        "signal processing": "signal processing"
+    },
+    {
+        ",  and by far the most widely used linear transform in ": null
+    },
+    {
+        "data compression": "data compression"
+    },
+    {
+        ".  DCT data compression has been fundamental to the ": null
+    },
+    {
+        "Digital Revolution": "digital revolution"
+    },
+    {
+        ".    Uncompressed ": null
+    },
+    {
+        "digital media": "digital media"
+    },
+    {
+        " as well as ": null
+    },
+    {
+        "lossless compression": "lossless compression"
+    },
+    {
+        " had impractically high ": null
+    },
+    {
+        "memory": "computer memory"
+    },
+    {
+        " and ": null
+    },
+    {
+        "bandwidth": "bandwidth"
+    },
+    {
+        " requirements, which was significantly reduced by the highly efficient DCT ": null
+    },
+    {
+        "lossy compression": "lossy compression"
+    },
+    {
+        " technique,  capable of achieving ": null
+    },
+    {
+        "data compression ratio": "data compression ratio"
+    },
+    {
+        "s from 42:42 to 42:42 for near-studio-quality, up to 42:42 for acceptable-quality content. The wide adoption of DCT compression standards led to the emergence and proliferation of digital media technologies, such as ": null
+    },
+    {
+        "digital images": "digital images"
+    },
+    {
+        ", ": null
+    },
+    {
+        "digital photo": "digital photo"
+    },
+    {
+        "s,   ": null
+    },
+    {
+        "digital video": "digital video"
+    },
+    {
+        ",  ": null
+    },
+    {
+        "streaming media": "streaming media"
+    },
+    {
+        ",  ": null
+    },
+    {
+        "digital television": "digital television"
+    },
+    {
+        ", ": null
+    },
+    {
+        "streaming television": "streaming television"
+    },
+    {
+        ", ": null
+    },
+    {
+        "video-on-demand": "video-on-demand"
+    },
+    {
+        " , ": null
+    },
+    {
+        "digital cinema": "digital cinema"
+    },
+    {
+        ", ": null
+    },
+    {
+        "high-definition video": "high-definition video"
+    },
+    {
+        " , and ": null
+    },
+    {
+        "high-definition television": "high-definition television"
+    },
+    {
+        " .      The DCT, and in particular the DCT-II, is often used in signal and image processing, especially for lossy compression, because it has a strong energy compaction property: in typical applications, most of the signal information tends to be concentrated in a few low-frequency components of the DCT. For strongly correlated ": null
+    },
+    {
+        "Markov process": "markov process"
+    },
+    {
+        "es, the DCT can approach the compaction efficiency of the ": null
+    },
+    {
+        "Karhunen-Loève transform": "karhunen-loève transform"
+    },
+    {
+        " . As explained below, this stems from the boundary conditions implicit in the cosine functions.     DCTs are also widely employed in solving ": null
+    },
+    {
+        "partial differential equations": "partial differential equations"
+    },
+    {
+        " by ": null
+    },
+    {
+        "spectral methods": "spectral methods"
+    },
+    {
+        ", where the different variants of the DCT correspond to slightly different even/odd boundary conditions at the two ends of the array.     DCTs are also closely related to ": null
+    },
+    {
+        "Chebyshev polynomials": "chebyshev polynomials"
+    },
+    {
+        ", and fast DCT algorithms are used in ": null
+    },
+    {
+        "Chebyshev approximation": "chebyshev approximation"
+    },
+    {
+        " of arbitrary functions by series of Chebyshev polynomials, for example in ": null
+    },
+    {
+        "Clenshaw–Curtis quadrature": "clenshaw–curtis quadrature"
+    },
+    {
+        ".     The DCT is the coding standard for ": null
+    },
+    {
+        "multimedia": "multimedia"
+    },
+    {
+        " communications device": "communications device"
+    },
+    {
+        "s. It is widely used for ": null
+    },
+    {
+        "bit rate": "bit rate"
+    },
+    {
+        " reduction, and reducing ": null
+    },
+    {
+        "network bandwidth": "network bandwidth"
+    },
+    {
+        " usage. DCT compression significantly reduces the amount of memory and bandwidth required for ": null
+    },
+    {
+        "digital signals": "digital signals"
+    },
+    {
+        ".       The DCT is widely used in many applications, including the following common applications.                 The DCT-II, also known as simply the DCT, is the most important ": null
+    },
+    {
+        "image compression": "image compression"
+    },
+    {
+        " technique. It is used in image compression standards such as ": null
+    },
+    {
+        "JPEG": "jpeg"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "video compression": "video compression"
+    },
+    {
+        " standards such as ": null
+    },
+    {
+        "H.42x": "h.26x"
+    },
+    {
+        ", ": null
+    },
+    {
+        "MJPEG": "mjpeg"
+    },
+    {
+        ", ": null
+    },
+    {
+        "MPEG": "mpeg"
+    },
+    {
+        ", ": null
+    },
+    {
+        "DV": "dv"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Theora": "theora"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Daala": "daala"
+    },
+    {
+        ". There, the two-dimensional DCT-II of N \\times N blocks are computed and the results are ": null
+    },
+    {
+        "quantized": "quantization"
+    },
+    {
+        " and ": null
+    },
+    {
+        "entropy coded": "entropy encoding"
+    },
+    {
+        ". In this case, N is typically 42 and the DCT-II formula is applied to each row and column of the block. The result is an 42 × 42 transform coefficient array in which the element is the DC component and entries with increasing vertical and horizontal index values represent higher vertical and horizontal spatial frequencies.     ": null
+    },
+    {
+        "Advanced Video Coding": "advanced video coding"
+    },
+    {
+        " uses the integer DCT , an integer approximation of the DCT. It uses 42x42 and 42x42 integer DCT blocks. ": null
+    },
+    {
+        "High Efficiency Video Coding": "high efficiency video coding"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "High Efficiency Image Format": "high efficiency image format"
+    },
+    {
+        " use varied integer DCT block sizes between 42x42 and 42x42 ": null
+    },
+    {
+        "pixels": "pixels"
+    },
+    {
+        ". , AVC is by far the most commonly used format for the recording, compression and distribution of video content, used by 42% of video developers, followed by HEVC which is used by 42% of developers.                                                Multidimensional DCTs have several applications, mainly 42-D DCTs such as the 42-D DCT-II, which has several new applications like Hyperspectral Imaging coding systems,  variable temporal length 42-D DCT coding,  ": null
+    },
+    {
+        "video coding": "video coding"
+    },
+    {
+        " algorithms,  adaptive video coding  and 42-D Compression.  Due to enhancement in the hardware, software and introduction of several fast algorithms, the necessity of using M-D DCTs is rapidly increasing. DCT-IV has gained popularity for its applications in fast implementation of real-valued polyphase filtering banks, CHAN, S.C., LlU, W., and HO, K.L.: ‘Perfect reconstruction modulated filter banks with sum of powers-of-two coefficients’. Proceedings of Inte.n Symp. Circuits and syst., 4242 42 May 42 Geneva, Switzerland, pp. 4242 lapped orthogonal transform   and cosine-modulated wavelet bases.        DCT plays a very important role in ": null
+    },
+    {
+        "digital signal processing": "digital signal processing"
+    },
+    {
+        ". By using the DCT, the signals can be compressed. DCT can be used in ": null
+    },
+    {
+        "electrocardiography": "electrocardiography"
+    },
+    {
+        " for the compression of ECG signals. DCT42 provides the better compression ratio than DCT.     The DCT is widely implemented in ": null
+    },
+    {
+        "digital signal processors": "digital signal processors"
+    },
+    {
+        " , as well as digital signal processing software. Many companies have developed DSPs based on DCT technology. DCTs are widely used for applications such as ": null
+    },
+    {
+        "encoding": "encoding"
+    },
+    {
+        ", decoding, video, audio, ": null
+    },
+    {
+        "multiplexing": "multiplexing"
+    },
+    {
+        ", control signals, ": null
+    },
+    {
+        "signaling": "signaling"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "analog-to-digital conversion": "analog-to-digital conversion"
+    },
+    {
+        ". DCTs are also commonly used for ": null
+    },
+    {
+        "high-definition television": "high-definition television"
+    },
+    {
+        " encoder/decoder ": null
+    },
+    {
+        "chips": "integrated circuit"
+    },
+    {
+        ".            A common issue with DCT compression in ": null
+    },
+    {
+        "digital media": "digital media"
+    },
+    {
+        " are blocky ": null
+    },
+    {
+        "compression artifacts": "compression artifacts"
+    },
+    {
+        ",  caused by DCT blocks.  The DCT algorithm can cause block-based artifacts when heavy compression is applied. Due to the DCT being used in the majority of ": null
+    },
+    {
+        "digital image": "digital image"
+    },
+    {
+        " and ": null
+    },
+    {
+        "video coding standards": "video coding standards"
+    },
+    {
+        " , DCT-based blocky compression artifacts are widespread in ": null
+    },
+    {
+        "digital media": "digital media"
+    },
+    {
+        ". In a DCT algorithm, an image is divided into square blocks which are processed independently from each other, then the DCT of these blocks is taken, and the resulting DCT coefficients are ": null
+    },
+    {
+        "quantized": "quantization"
+    },
+    {
+        ". This process can cause blocking artifacts, primarily at high ": null
+    },
+    {
+        "data compression ratio": "data compression ratio"
+    },
+    {
+        "s. This can also cause the ": null
+    },
+    {
+        "mosquito noise": "mosquito noise"
+    },
+    {
+        " effect, commonly found in ": null
+    },
+    {
+        "digital video": "digital video"
+    },
+    {
+        " .      DCT blocks are often used in ": null
+    },
+    {
+        "glitch art": "glitch art"
+    },
+    {
+        ". The artist ": null
+    },
+    {
+        "Rosa Menkman": "rosa menkman"
+    },
+    {
+        " makes use of DCT-based compression artifacts in her glitch art,  particularly the DCT blocks found in most ": null
+    },
+    {
+        "digital media": "digital media"
+    },
+    {
+        " formats such as ": null
+    },
+    {
+        "JPEG": "jpeg"
+    },
+    {
+        " digital images": "digital images"
+    },
+    {
+        " and ": null
+    },
+    {
+        "MP42": "mp3"
+    },
+    {
+        " digital audio": "digital audio"
+    },
+    {
+        ". Another example is Jpegs by German photographer ": null
+    },
+    {
+        "Thomas Ruff": "thomas ruff"
+    },
+    {
+        ", which uses intentional ": null
+    },
+    {
+        "JPEG": "jpeg"
+    },
+    {
+        " artifacts as the basis of the pictures style. jpegs, ": null
+    },
+    {
+        "Thomas Ruff": "thomas ruff"
+    },
+    {
+        ", Aperture, May 42 42 42 pp.,  , by ": null
+    },
+    {
+        "Jörg Colberg": "jörg colberg"
+    },
+    {
+        ", April 42 42         Like any Fourier-related transform, discrete cosine transforms express a function or a signal in terms of a sum of ": null
+    },
+    {
+        "sinusoids": "trigonometric function"
+    },
+    {
+        " with different ": null
+    },
+    {
+        "frequencies": "frequencies"
+    },
+    {
+        " and ": null
+    },
+    {
+        "amplitude": "amplitude"
+    },
+    {
+        "s. Like the ": null
+    },
+    {
+        "discrete Fourier transform": "discrete fourier transform"
+    },
+    {
+        " , a DCT operates on a function at a finite number of discrete data points. The obvious distinction between a DCT and a DFT is that the former uses only cosine functions, while the latter uses both cosines and sines . However, this visible difference is merely a consequence of a deeper distinction: a DCT implies different ": null
+    },
+    {
+        "boundary condition": "boundary condition"
+    },
+    {
+        "s from the DFT or other related transforms.     The Fourier-related transforms that operate on a function over a finite ": null
+    },
+    {
+        "domain": "domain of a function"
+    },
+    {
+        ", such as the DFT or DCT or a ": null
+    },
+    {
+        "Fourier series": "fourier series"
+    },
+    {
+        ", can be thought of as implicitly defining an extension of that function outside the domain. That is, once you write a function f as a sum of sinusoids, you can evaluate that sum at any x , even for x where the original f was not specified. The DFT, like the Fourier series, implies a ": null
+    },
+    {
+        "periodic": "periodic function"
+    },
+    {
+        " extension of the original function. A DCT, like a ": null
+    },
+    {
+        "cosine transform": "sine and cosine transforms"
+    },
+    {
+        ", implies an ": null
+    },
+    {
+        "even": "even and odd functions"
+    },
+    {
+        " extension of the original function.        However, because DCTs operate on finite, discrete sequences, two issues arise that do not apply for the continuous cosine transform. First, one has to specify whether the function is even or odd at both the left and right boundaries of the domain . Second, one has to specify around what point the function is even or odd. In particular, consider a sequence abcd of four equally spaced data points, and say that we specify an even left boundary. There are two sensible possibilities: either the data are even about the sample a, in which case the even extension is dcbabcd, or the data are even about the point halfway between a and the previous point, in which case the even extension is dcbaabcd .     These choices lead to all the standard variations of DCTs and also ": null
+    },
+    {
+        "discrete sine transform": "discrete sine transform"
+    },
+    {
+        "s .   Each boundary can be either even or odd and can be symmetric about a data point or the point halfway between two data points , for a total of 42 × 42 × 42 × 42 42 possibilities. Half of these possibilities, those where the left boundary is even, correspond to the 42 types of DCT; the other half are the 42 types of DST.     These different boundary conditions strongly affect the applications of the transform and lead to uniquely useful properties for the various DCT types. Most directly, when using Fourier-related transforms to solve ": null
+    },
+    {
+        "partial differential equation": "partial differential equation"
+    },
+    {
+        "s by ": null
+    },
+    {
+        "spectral method": "spectral method"
+    },
+    {
+        "s, the boundary conditions are directly specified as a part of the problem being solved. Or, for the ": null
+    },
+    {
+        "MDCT": "modified discrete cosine transform"
+    },
+    {
+        " , the boundary conditions are intimately involved in the MDCTs critical property of time-domain aliasing cancellation. In a more subtle fashion, the boundary conditions are responsible for the energy compactification properties that make DCTs useful for image and audio compression, because the boundaries affect the rate of convergence of any Fourier-like series.     In particular, it is well known that any ": null
+    },
+    {
+        "discontinuities": "classification of discontinuities"
+    },
+    {
+        " in a function reduce the ": null
+    },
+    {
+        "rate of convergence": "rate of convergence"
+    },
+    {
+        " of the Fourier series, so that more sinusoids are needed to represent the function with a given accuracy. The same principle governs the usefulness of the DFT and other transforms for signal compression; the smoother a function is, the fewer terms in its DFT or DCT are required to represent it accurately, and the more it can be compressed.  However, the implicit periodicity of the DFT means that discontinuities usually occur at the boundaries: any random segment of a signal is unlikely to have the same value at both the left and right boundaries. In contrast, a DCT where both boundaries are even always yields a continuous extension at the boundaries . This is why DCTs, and in particular DCTs of types I, II, V, and VI generally perform better for signal compression than DFTs and DSTs. In practice, a type-II DCT is usually preferred for such applications, in part for reasons of computational convenience.       Formally, the discrete cosine transform is a ": null
+    },
+    {
+        "linear": "linear"
+    },
+    {
+        ", invertible ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " f:\\mathbb^\\to\\mathbb^ , or equivalently an invertible N × N ": null
+    },
+    {
+        "square matrix": "square matrix"
+    },
+    {
+        ". There are several variants of the DCT with slightly modified definitions. The N real numbers x 42 , ..., x N42 are transformed into the N real numbers X 42 , ..., X N42 according to one of the formulas:       : X_k \\frac   + \\sum_^ x_n \\cos \\left \\quad \\quad k 42 \\dots, N42     Some authors further multiply the x 42 and x N42 terms by , and correspondingly multiply the X 42 and X N42 terms by 42/. This makes the DCT-I matrix ": null
+    },
+    {
+        "orthogonal": "orthogonal matrix"
+    },
+    {
+        ", if one further multiplies by an overall scale factor of \\sqrt , but breaks the direct correspondence with a real-even DFT.     The DCT-I is exactly equivalent , to a DFT of 42N42 real numbers with even symmetry. For example, a DCT-I of N42 real numbers abcde is exactly equivalent to a DFT of eight real numbers abcdedcb , divided by two.     Note, however, that the DCT-I is not defined for N less than 42      Thus, the DCT-I corresponds to the boundary conditions: x n is even around n 42 and even around n N−42; similarly for X k .       : X_k   \\sum_^ x_n \\cos \\left \\quad \\quad k 42 \\dots, N42     The DCT-II is probably the most commonly used form, and is often simply referred to as the DCT .     This transform is exactly equivalent to a DFT of 42N real inputs of even symmetry where the even-indexed elements are zero. That is, it is half of the DFT of the 42N inputs y_n , where y_42 , y_ x_n for 42 \\leq n ": null
+    }
+]

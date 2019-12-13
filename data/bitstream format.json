@@ -1,0 +1,98 @@
+[
+    {
+        "A bitstream format is the format of the data found in a ": null
+    },
+    {
+        "stream": "stream"
+    },
+    {
+        " of bits used in a ": null
+    },
+    {
+        "digital communication": "digital communication"
+    },
+    {
+        " or ": null
+    },
+    {
+        "data storage": "data storage device"
+    },
+    {
+        " application. The term typically refers to the data format of the output of an ": null
+    },
+    {
+        "encoder": "encoder"
+    },
+    {
+        ", or the data format of the input to a decoder when using ": null
+    },
+    {
+        "data compression": "data compression"
+    },
+    {
+        ".     Processing      Standardized ": null
+    },
+    {
+        "interoperability": "interoperability"
+    },
+    {
+        " specifications such as the ": null
+    },
+    {
+        "video coding": "video coding"
+    },
+    {
+        " standards produced by the ": null
+    },
+    {
+        "MPEG": "mpeg"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "ITU-T": "itu-t"
+    },
+    {
+        ", and the audio coding standards produced by the MPEG, often specify only the ": null
+    },
+    {
+        "bitstream": "bitstream"
+    },
+    {
+        " format and the decoding process. This allows encoder implementations to use any methods whatsoever that produce bitstreams which conform to the specified bitstream format.     Normally, decoding of a bitstream can be initiated without having to start from the beginning of a ": null
+    },
+    {
+        "file": "computer file"
+    },
+    {
+        ", or the beginning of the data transmission. Some bitstreams are designed for this to occur, for example by using indexes or ": null
+    },
+    {
+        "key frames": "key frame"
+    },
+    {
+        ".     Uses of bit stream decoders :   ": null
+    },
+    {
+        "Graphics processing unit": "graphics processing unitsp-gpgpu"
+    },
+    {
+        "   H.42/MPEG42 AVC": "h.264/mpeg-4 avchw-based"
+    },
+    {
+        " Unified Video Decoder": "unified video decoder"
+    },
+    {
+        "  the video decoding bit-stream technology from ATI Technologies/AMD   ": null
+    },
+    {
+        "PureVideo": "nvidia purevideo"
+    },
+    {
+        " the video decoding bit-stream technology from Nvidia   ": null
+    },
+    {
+        "Quick Sync Video": "intel quick sync video"
+    }
+]

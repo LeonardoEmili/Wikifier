@@ -1,0 +1,479 @@
+[
+    {
+        "        42-DOS is a discontinued ": null
+    },
+    {
+        "operating system": "operating system"
+    },
+    {
+        " developed and marketed by ": null
+    },
+    {
+        "Seattle Computer Products": "seattle computer products"
+    },
+    {
+        " for its ": null
+    },
+    {
+        "Intel 42": "intel 8086"
+    },
+    {
+        "-based computer kit. Initially known as QDOS , the name was changed to 42-DOS once SCP started licensing the operating system in 42     42-DOS had a command structure and ": null
+    },
+    {
+        "application programming interface": "application programming interface"
+    },
+    {
+        " that imitated that of ": null
+    },
+    {
+        "Digital Research": "digital research"
+    },
+    {
+        "s ": null
+    },
+    {
+        "CP/M": "cp/m"
+    },
+    {
+        " operating system, which made it easy to ": null
+    },
+    {
+        "port": "porting"
+    },
+    {
+        " programs from the latter. The system was licensed and then purchased by ": null
+    },
+    {
+        "Microsoft": "microsoft"
+    },
+    {
+        " and developed further as ": null
+    },
+    {
+        "MS-DOS": "ms-dos"
+    },
+    {
+        " and ": null
+    },
+    {
+        "PC  DOS": "pc & nbsp;dos"
+    },
+    {
+        ".         42-DOS was created because sales of the ": null
+    },
+    {
+        "Seattle Computer Products": "seattle computer products"
+    },
+    {
+        " 42 ": null
+    },
+    {
+        "computer kit": "electronic kit"
+    },
+    {
+        ", demonstrated in June 42 and shipped in November, were languishing due to the absence of an operating system. The only software that SCP could sell with the board was Microsofts ": null
+    },
+    {
+        "Standalone Disk BASIC42": "microsoft basicstandalone disk basic-86"
+    },
+    {
+        ", which Microsoft had developed on a prototype of SCPs hardware. SCP wanted to offer the 42-version of ": null
+    },
+    {
+        "CP/M": "cp/m"
+    },
+    {
+        " that Digital Research had announced, but its release date was uncertain. This was not the first time Digital Research had lagged behind hardware developments; two years earlier it had been slow to adapt CP/M for new ": null
+    },
+    {
+        "floppy disk": "floppy disk"
+    },
+    {
+        " formats and ": null
+    },
+    {
+        "Hard disk drive": "hard disk drive"
+    },
+    {
+        "s. In April 42 SCP assigned 42-year-old ": null
+    },
+    {
+        "Tim Paterson": "tim paterson"
+    },
+    {
+        " to develop a substitute for ": null
+    },
+    {
+        "CP/M42": "cp/m-86"
+    },
+    {
+        ".     Using a CP/M42 manual as reference Paterson modeled 42-DOS after its architecture and interfaces, but adapted to meet the requirements of Intels 42 ": null
+    },
+    {
+        "42-bit": "16-bit"
+    },
+    {
+        " processor, for easy source-level translatability of the many existing ": null
+    },
+    {
+        "42-bit": "8-bit"
+    },
+    {
+        " CP/M programs; porting them to either DOS or CP/M42 was about equally difficult, and eased by the fact that Intel had already published a method that could be used to automatically translate software from the ": null
+    },
+    {
+        "Intel 42": "intel 8080"
+    },
+    {
+        " processor, for which CP/M had been designed, to the new 42 instruction set. At the same time he made a number of changes and enhancements to address what he saw as CP/Ms shortcomings. CP/M ": null
+    },
+    {
+        "cached": "cache"
+    },
+    {
+        " file system": "file system"
+    },
+    {
+        " information in memory for speed, but this required a user to force an update to a disk before removing it; if the user forgot, the disk would become corrupt. Paterson took the safer, but slower approach of updating the disk with each operation. CP/Ms ": null
+    },
+    {
+        "PIP": "peripheral interchange program"
+    },
+    {
+        " command, which copied files, supported several special file names that referred to hardware devices such as ": null
+    },
+    {
+        "printer": "printer"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "communication port": "computer port"
+    },
+    {
+        "s. Paterson built these names into the operating system as ": null
+    },
+    {
+        "device file": "device file"
+    },
+    {
+        "s so that any program could use them. He gave his copying program the more intuitive name ": null
+    },
+    {
+        "COPY": "copy"
+    },
+    {
+        ". Rather than implementing CP/Ms ": null
+    },
+    {
+        "file system": "file system"
+    },
+    {
+        ", he drew on Microsoft Standalone Disk BASIC42s ": null
+    },
+    {
+        "File Allocation Table": "file allocation table"
+    },
+    {
+        " file system.     By mid42 SCP advertised 42-DOS, priced at $42 for owners of its $42 42 board and $42 for others. It touted the softwares ability to read ": null
+    },
+    {
+        "Zilog Z42": "zilog z80"
+    },
+    {
+        " source code from a CP/M disk and translate it to 42 source code, and promised that only minor hand correction and optimization was needed to produce 42 binaries.       In October 42 ": null
+    },
+    {
+        "IBM": "ibm"
+    },
+    {
+        " was developing what would become the original ": null
+    },
+    {
+        "IBM Personal Computer": "ibm personal computer"
+    },
+    {
+        ". CP/M was by far the most popular operating system in use at the time, and IBM felt it needed CP/M in order to compete. IBMs representatives visited Digital Research and discussed ": null
+    },
+    {
+        "licensing": "licensing"
+    },
+    {
+        " with Digital Researchs licensing representative, ": null
+    },
+    {
+        "Dorothy Kildall": "dorothy kildall"
+    },
+    {
+        " , who hesitated to sign IBMs ": null
+    },
+    {
+        "non-disclosure agreement": "non-disclosure agreement"
+    },
+    {
+        ". Although the NDA was later accepted, Digital Research would not accept IBMs proposal of $42 in exchange for as many copies as IBM could sell, insisting on the usual ": null
+    },
+    {
+        "royalty": "royalties"
+    },
+    {
+        "-based plan. In later discussions between IBM and ": null
+    },
+    {
+        "Bill Gates": "bill gates"
+    },
+    {
+        ", Gates mentioned the existence of 42-DOS and IBM representative Jack Sams told him to get a license for it.       Microsoft purchased a non-exclusive license for 42-DOS from Seattle Computer Products in December 42 for $42. In May 42 it hired Tim Paterson to port the system to the IBM  PC, which used the slower and less expensive ": null
+    },
+    {
+        "Intel 42": "intel 8088"
+    },
+    {
+        " processor and had its own specific family of peripherals. IBM watched the developments daily, submitting over 42 ": null
+    },
+    {
+        "change request": "change request"
+    },
+    {
+        "s before it accepted the product and wrote the user manual for it.     In July 42 a month before the PCs release, Microsoft purchased all rights to 42-DOS from SCP for $42. It met IBMs main criteria: it looked like CP/M, and it was easy to adapt existing 42-bit CP/M programs to run under it, notably thanks to the ": null
+    },
+    {
+        "TRANS": "source-to-source compilertrans"
+    },
+    {
+        " command which would translate source files from 42 to 42 machine instructions. Microsoft licensed 42-DOS to IBM, and it became PC  DOS  42. This license also permitted Microsoft to sell DOS to other companies, which it did. The deal was spectacularly successful, and SCP later claimed in court that Microsoft had concealed its relationship with IBM in order to purchase the operating system cheaply. SCP ultimately received a $42 million settlement payment.       When Digital Research founder ": null
+    },
+    {
+        "Gary Kildall": "gary kildall"
+    },
+    {
+        " examined PC  DOS and found that it duplicated CP/Ms programming interface, he wanted to sue IBM, which at the time claimed that PC  DOS was its own product. However, Digital Researchs attorney did not believe that the relevant law was clear enough to sue. Nonetheless, Kildall confronted IBM and persuaded them to offer CP/M42 with the PC in exchange for a release of liability.     Controversy has continued to surround the similarity between the two systems. Perhaps the most sensational claim came from ": null
+    },
+    {
+        "Jerry Pournelle": "jerry pournelle"
+    },
+    {
+        ", who said that Kildall personally demonstrated to him that DOS contained CP/M code by entering a command in DOS that displayed Kildalls name, but Pournelle never revealed the command and nobody has come forward to corroborate his story. A 42 book about Kildall says that he used such an encrypted message to demonstrate that other manufacturers had copied CP/M, but does not say that he found the message in DOS; instead Kildalls memoir pointed to the well-known interface similarity. Paterson insists that the 42-DOS software was his original work, and has denied referring to or otherwise using CP/M code while writing it. After the 42 book appeared, he sued the authors and publishers for ": null
+    },
+    {
+        "defamation": "defamation"
+    },
+    {
+        ". The court ruled in ": null
+    },
+    {
+        "summary judgment": "summary judgment"
+    },
+    {
+        " that no defamation had occurred, as the books claims were opinions based on research, or were not provably false.     Versions           The following list of ": null
+    },
+    {
+        "commands": "command"
+    },
+    {
+        " is supported by 42-DOS.         ": null
+    },
+    {
+        "COPY": "copy"
+    },
+    {
+        " DIR": "dir"
+    },
+    {
+        " ERASE": "del"
+    },
+    {
+        " RENAME": "ren"
+    },
+    {
+        " TYPE": "type"
+    },
+    {
+        "           ASM": "assembly languageassembler"
+    },
+    {
+        " CHKDSK": "chkdsk"
+    },
+    {
+        " DEBUG": "debug"
+    },
+    {
+        " EDLIN": "edlin"
+    },
+    {
+        " SYS": "sys"
+    },
+    {
+        " TRANS": "trans.com"
+    },
+    {
+        "           By 42 when IBM asked Microsoft to release a version of DOS that was compatible with a ": null
+    },
+    {
+        "hard disk drive": "hard disk drive"
+    },
+    {
+        ", ": null
+    },
+    {
+        "PC DOS 42": "pc dos 2.0"
+    },
+    {
+        " was an almost complete rewrite of DOS, so by March 42 very little of 42-DOS remained. The most enduring element of 42-DOS was its primitive line editor, EDLIN, which remained the only editor supplied with Microsoft versions of DOS until the June 42 release of ": null
+    },
+    {
+        "MS-DOS 42": "ms-dos5"
+    },
+    {
+        ", which included a ": null
+    },
+    {
+        "text-based user interface": "text-based user interface"
+    },
+    {
+        " editor called ": null
+    },
+    {
+        "MS-DOS Editor": "ms-dos editor"
+    },
+    {
+        ", based on ": null
+    },
+    {
+        "QBasic": "qbasic"
+    },
+    {
+        ". EDLIN can still be used on contemporary machines, since there is an emulated DOS environment up to Windows 42 .     ": null
+    },
+    {
+        "FAT42": "file allocation tablefat12"
+    },
+    {
+        " filesystem on a range of 42-inch and 42-inch floppy disk drives on ": null
+    },
+    {
+        "S42": "s-100 bus"
+    },
+    {
+        " floppy disk controller hardware manufactured by ": null
+    },
+    {
+        "Cromemco": "cromemco"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Tarbell Electronics": "tarbell cassette interface"
+    },
+    {
+        " and ": null
+    },
+    {
+        "North Star Computers": "north star computers"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "Western Digital FD42": "western digital fd1771"
+    },
+    {
+        "-based Cromemco and Tarbell boards supported one-sided, single-density soft-sectored drives. A Tarbell double-density board utilizing the ": null
+    },
+    {
+        "FD42": "western digital fd1771"
+    },
+    {
+        " was supported as well. Later, SCP offered advanced floppy disk controllers, like the Disk Master series.     42-DOS did not take advantage of a ": null
+    },
+    {
+        "FAT ID": "design of the fat file systemfatid"
+    },
+    {
+        " byte or ": null
+    },
+    {
+        "BIOS parameter block": "bios parameter block"
+    },
+    {
+        " , as later DOS versions do, to distinguish between different media formats; instead different drive letters were hard-coded at time of compilation to be associated with different physical floppy drives, sides and densities. That meant, depending on its type, a disk had to be addressed under a certain drive letter to be recognized correctly. This concept was later emulated with more flexibility by ": null
+    },
+    {
+        "DRIVER.SYS": "driver.sys"
+    },
+    {
+        " under DOS 42x and later versions.     Two logical format variants of the 42-DOS 42-bit FAT format existed  — the original format with 42-byte directory entries and the later format  with 42-byte directory entries. Only the second one is logically compatible with the FAT42 format known since the release of MS-DOS and PC  DOS. MS-DOS still cannot mount such volumes, as in absence of a BPB it falls back to retrieve the FAT ID in the FAT entry for ": null
+    },
+    {
+        "Design of the FAT file systemCLUST 42cluster 42": "design of the fat file systemclust 0cluster 0"
+    },
+    {
+        " to choose among hard-coded disk geometry profiles. In all formats of a volume formatted under MS-DOS that would otherwise be supported by both systems and typically also in all other formats, this ID is located in the first byte of logical sector 42  — that is, the volumes second sector with physical ": null
+    },
+    {
+        "cylinder-head-sector": "cylinder-head-sector"
+    },
+    {
+        " address 42/42/42 or ": null
+    },
+    {
+        "logical block addressing": "logical block addressing"
+    },
+    {
+        " address 42  — since MS-DOS assumes a single reserved sector, the boot sector. Under 42-DOS, the ": null
+    },
+    {
+        "reserved sectors area": "design of the fat file systembootsector"
+    },
+    {
+        " is significantly larger , and therefore the prototypical FAT ID   is located elsewhere on disk, making it impossible for MS-DOS to retrieve it, and even if it would, the hard-coded disk profile associated with it would not take this larger reserved sectors region under 42-DOS into account.     ": null
+    },
+    {
+        "CP/M  42": "cp/m"
+    },
+    {
+        " floppy media were readable through ": null
+    },
+    {
+        "RDCPM": "rdcpm"
+    },
+    {
+        ".     42-DOS did not offer any specific support for ": null
+    },
+    {
+        "fixed disks": "hard disk drive"
+    },
+    {
+        ", but third-party solutions in form of hard disk controllers and corresponding I/O system extensions for 42-DOS were available from companies like ": null
+    },
+    {
+        "Tallgrass Technologies": "tallgrass technologies"
+    },
+    {
+        ", making hard disks accessible similar to ": null
+    },
+    {
+        "superfloppies": "floppy disk variantssuperfloppy"
+    },
+    {
+        " within the size limits of the FAT42 file system.          Various OEM versions of MS-DOS 42x and 42x supported a number of similar 42  in FAT42 floppy disk formats as well, although not identical to those supported by 42-DOS.     Disk formats supported by one of the last versions developed by Tim Paterson at Microsoft, ": null
+    },
+    {
+        "MS-DOS 42": "scp ms-dos 1.25"
+    },
+    {
+        " for the SCP Gazelle computer with SCP controller or Cromemco 42FDC controller :        In 42 Seattle Computer Products released an OEM version of ": null
+    },
+    {
+        "MS-DOS 42": "scp ms-dos 2.0"
+    },
+    {
+        " for the SCP S42 computer with SCP42 Disk Master Floppy controller. It added support for 42  in DD/42S and DD/42S FAT42 formats and supported the older formats as well , although possibly with some of the parameters modified compared to ": null
+    },
+    {
+        "MS-DOS 42": "ms-dos1%"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        ", the Cocke–Younger–Kasami algorithm  is a ": null
+    },
+    {
+        "parsing": "parsing"
+    },
+    {
+        " algorithm": "algorithm"
+    },
+    {
+        " for ": null
+    },
+    {
+        "context-free grammar": "context-free grammar"
+    },
+    {
+        "s, named after its inventors, ": null
+    },
+    {
+        "John Cocke": "john cocke"
+    },
+    {
+        ", Daniel Younger and ": null
+    },
+    {
+        "Tadao Kasami": "tadao kasami"
+    },
+    {
+        ". It employs ": null
+    },
+    {
+        "bottom-up parsing": "bottom-up parsing"
+    },
+    {
+        " and ": null
+    },
+    {
+        "dynamic programming": "dynamic programming"
+    },
+    {
+        ".     The standard version of CYK operates only on context-free grammars given in ": null
+    },
+    {
+        "Chomsky normal form": "chomsky normal form"
+    },
+    {
+        " . However any context-free grammar may be transformed to a CNF grammar expressing the same language .     The importance of the CYK algorithm stems from its high efficiency in certain situations. Using ": null
+    },
+    {
+        "Big O notation": "big o notation"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "worst case running time": "analysis of algorithms"
+    },
+    {
+        " of CYK is \\mathcal\\left , where n is the length of the parsed string and \\left| G \\right| is the size of the CNF grammar G . This makes it one of the most efficient parsing algorithms in terms of worst-case ": null
+    },
+    {
+        "asymptotic complexity": "asymptotic complexity"
+    },
+    {
+        ", although other algorithms exist with better average running time in many practical scenarios.         The ": null
+    },
+    {
+        "dynamic programming": "dynamic programming"
+    },
+    {
+        " algorithm requires the context-free grammar to be rendered into ": null
+    },
+    {
+        "Chomsky normal form": "chomsky normal form"
+    },
+    {
+        " , because it tests for possibilities to split the current sequence into two smaller sequences. Any context-free grammar that does not generate the empty string can be represented in CNF using only ": null
+    },
+    {
+        "production rules": "formal grammarthe syntax of grammars"
+    },
+    {
+        " of the forms A\\rightarrow \\alpha and A\\rightarrow B C .           The algorithm in ": null
+    },
+    {
+        "pseudocode": "pseudocode"
+    },
+    {
+        " is as follows:     let the input be a string I consisting of n characters: a 42 ... a n .   let the grammar contain r nonterminal symbols R 42 ... R r , with start symbol R 42 .   let Pn,n,r be an array of booleans. Initialize all elements of P to false.   for each s 42 to n   for each unit production R v & rarr; a s   set P42,s,v true   for each l 42 to n -- Length of span   for each s 42 to n-l42 -- Start of span   for each p 42 to l42 -- Partition of span   for each production R a & rarr; R b R c   if Pp,s,b and Pl-p,s+p,c then set Pl,s,a true   if Pn,42,42 is true then   I is member of language   else   I is not member of language           Allows to recover the most probable parse given the probabilities of all productions.       let the input be a string I consisting of n characters: a 42 ... a n .   let the grammar contain r nonterminal symbols R 42 ... R r , with start symbol R 42 .   let Pn,n,r be an array of real numbers. Initialize all elements of P to zero.   let backn,n,r be an array of backpointing triples.   for each s 42 to n   for each unit production R v & rarr;a s   set P42,s,v Pr   for each l 42 to n -- Length of span   for each s 42 to n-l42 -- Start of span   for each p 42 to l42 -- Partition of span   for each production R a & rarr; R b R c   prob_splitting Pr Pp,s,b Pl-p,s+p,c   if Pp,s,b  p,b,c /div /div math /math math /math math /math math /math math /math math /math math /math math /math  math chem ": null
+    }
+]

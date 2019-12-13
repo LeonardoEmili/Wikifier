@@ -1,0 +1,497 @@
+[
+    {
+        "In mathematics, a complete lattice is a ": null
+    },
+    {
+        "partially ordered set": "partially ordered set"
+    },
+    {
+        " in which all subsets have both a ": null
+    },
+    {
+        "supremum": "supremum"
+    },
+    {
+        " and an ": null
+    },
+    {
+        "infimum": "infimum"
+    },
+    {
+        " . Complete lattices appear in many applications in ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        ". Being a special instance of ": null
+    },
+    {
+        "lattices": "lattice"
+    },
+    {
+        ", they are studied both in ": null
+    },
+    {
+        "order theory": "order theory"
+    },
+    {
+        " and ": null
+    },
+    {
+        "universal algebra": "universal algebra"
+    },
+    {
+        ".     Complete lattices must not be confused with ": null
+    },
+    {
+        "complete partial order": "complete partial order"
+    },
+    {
+        "s , which constitute a strictly more general class of partially ordered sets. More specific complete lattices are ": null
+    },
+    {
+        "complete Boolean algebra": "complete boolean algebra"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "complete Heyting algebra": "complete heyting algebra"
+    },
+    {
+        "s .       A ": null
+    },
+    {
+        "partially ordered set": "partially ordered set"
+    },
+    {
+        "  is a complete lattice if every ": null
+    },
+    {
+        "subset": "subset"
+    },
+    {
+        " A of L has both a ": null
+    },
+    {
+        "greatest lower bound": "greatest lower bound"
+    },
+    {
+        "  and a ": null
+    },
+    {
+        "least upper bound": "least upper bound"
+    },
+    {
+        "  in .     The meet is denoted by \\bigwedge A , and the join by \\bigvee A .     Note that in the special case where A is the ": null
+    },
+    {
+        "empty set": "empty set"
+    },
+    {
+        ", the meet of A will be the ": null
+    },
+    {
+        "greatest element": "greatest element"
+    },
+    {
+        " of L. Likewise, the join of the empty set yields the ": null
+    },
+    {
+        "least element": "least element"
+    },
+    {
+        ". Since the definition also assures the existence of binary meets and joins, complete lattices thus form a special class of ": null
+    },
+    {
+        "bounded lattice": "bounded lattice"
+    },
+    {
+        "s.     More implications of the above definition are discussed in the article on ": null
+    },
+    {
+        "completeness properties": "completeness"
+    },
+    {
+        " in order theory.       In order theory, arbitrary meets can be expressed in terms of arbitrary joins and vice versa . In effect, this means that it is sufficient to require the existence of either all meets or all joins to obtain the class of all complete lattices.     As a consequence, some authors use the terms complete meet-semilattice  or complete join-semilattice  as another way to refer to complete lattices. Though similar on objects, the terms entail different notions of ": null
+    },
+    {
+        "homomorphism": "homomorphism"
+    },
+    {
+        ", as will be explained in the below section on morphisms.     On the other hand, some authors have no use for this distinction of morphisms . Consequently, complete meet-semilattices have also been defined as those ": null
+    },
+    {
+        "meet-semilattice": "meet-semilattice"
+    },
+    {
+        "s that are also ": null
+    },
+    {
+        "complete partial order": "complete partial order"
+    },
+    {
+        "s. This concept is arguably the most complete notion of a meet-semilattice that is not yet a lattice . This discussion is also found in the article on ": null
+    },
+    {
+        "semilattice": "semilattice"
+    },
+    {
+        "s.       A sublattice M of a complete lattice L is called a complete sublattice of L if for every subset A of M the elements \\bigwedge A and \\bigvee A , as defined in L, are actually in M. Burris, Stanley N., and H.P. Sankappanavar, H. P., 42 http://www.thoralf.uwaterloo.ca/htdocs/ualg.html A Course in Universal Algebra. Springer-Verlag.  .     If the above requirement is lessened to require only non-empty meet and joins to be in L, the sublattice M is called a closed sublattice of M.       Any non-empty finite lattice is trivially complete.   The ": null
+    },
+    {
+        "power set": "power set"
+    },
+    {
+        " of a given set, ordered by ": null
+    },
+    {
+        "inclusion": "subset"
+    },
+    {
+        ". The supremum is given by the ": null
+    },
+    {
+        "union": "union"
+    },
+    {
+        " and the infimum by the ": null
+    },
+    {
+        "intersection": "intersection"
+    },
+    {
+        " of subsets.   The ": null
+    },
+    {
+        "unit interval": "unit interval"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "extended real number line": "extended real number line"
+    },
+    {
+        ", with the familiar total order and the ordinary ": null
+    },
+    {
+        "suprema": "supremum"
+    },
+    {
+        " and ": null
+    },
+    {
+        "infima": "infimum"
+    },
+    {
+        ". Indeed, a totally ordered set  is ": null
+    },
+    {
+        "compact": "compact space"
+    },
+    {
+        " as a ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        " if it is complete as a lattice.   The non-negative ": null
+    },
+    {
+        "integer": "integer"
+    },
+    {
+        "s, ordered by ": null
+    },
+    {
+        "divisibility": "divisibility"
+    },
+    {
+        ". The least element of this lattice is the number 42 since it divides any other number. Perhaps surprisingly, the greatest element is 42 because it can be divided by any other number. The supremum of finite sets is given by the ": null
+    },
+    {
+        "least common multiple": "least common multiple"
+    },
+    {
+        " and the infimum by the ": null
+    },
+    {
+        "greatest common divisor": "greatest common divisor"
+    },
+    {
+        ". For infinite sets, the supremum will always be 42 while the infimum can well be greater than 42 For example, the set of all even numbers has 42 as the greatest common divisor. If 42 is removed from this structure it remains a lattice but ceases to be complete.   The subgroups of any given group under inclusion.  If e is the identity of G, then the trivial group  is the ": null
+    },
+    {
+        "minimum": "partial order"
+    },
+    {
+        " subgroup of G, while the ": null
+    },
+    {
+        "maximum": "partial order"
+    },
+    {
+        " subgroup is the group G itself.   The submodules of a ": null
+    },
+    {
+        "module": "module"
+    },
+    {
+        ", ordered by inclusion. The supremum is given by the sum of submodules and the infimum by the intersection.   The ": null
+    },
+    {
+        "ideals": "ideal"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "ring": "ring"
+    },
+    {
+        ", ordered by inclusion. The supremum is given by the sum of ideals and the infimum by the intersection.   The open sets of a ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        ", ordered by inclusion. The supremum is given by the union of open sets and the infimum by the ": null
+    },
+    {
+        "interior": "interior"
+    },
+    {
+        " of the intersection.   The ": null
+    },
+    {
+        "convex subset": "convex set"
+    },
+    {
+        "s of a ": null
+    },
+    {
+        "real": "real number"
+    },
+    {
+        " or ": null
+    },
+    {
+        "complex": "complex number"
+    },
+    {
+        " vector space": "vector space"
+    },
+    {
+        ", ordered by inclusion. The infimum is given by the intersection of convex sets and the supremum by the ": null
+    },
+    {
+        "convex hull": "convex hull"
+    },
+    {
+        " of the union.   The ": null
+    },
+    {
+        "topologies": "topological space"
+    },
+    {
+        " on a set, ordered by inclusion. The infimum is given by the intersection of topologies, and the supremum by the topology generated by the union of topologies.   The lattice of all ": null
+    },
+    {
+        "transitive relation": "transitive relation"
+    },
+    {
+        "s on a set.   The lattice of all sub-multisets of a ": null
+    },
+    {
+        "multiset": "multiset"
+    },
+    {
+        ".   The lattice of all ": null
+    },
+    {
+        "equivalence relation": "equivalence relation"
+    },
+    {
+        "s on a set; the equivalence relation ~ is considered to be smaller than ≈ if x~y always implies x≈y.   The lattice of self-adjoint projections of a von Neumann algebra.       A complete lattice L is said to be locally finite if the supremum of any infinite subset is equal to 42 or equivalently, the set \\ \\,\\! is finite for any 42 \\ne x \\in L . The lattice  is locally finite. Note that in this lattice, the element generally denoted 42 is actually 42 and vice versa.       The traditional morphisms between complete lattices are the complete homomorphisms . These are characterized as functions that ": null
+    },
+    {
+        "preserve": "limit preserving"
+    },
+    {
+        " all joins and all meets. Explicitly, this means that a function f: L→M between two complete lattices L and M is a complete homomorphism if     f\\left \\bigwedge\\ and   f\\left \\bigvee\\ ,     for all subsets A of L. Such functions are automatically ": null
+    },
+    {
+        "monotonic": "monotonic"
+    },
+    {
+        ", but the condition of being a complete homomorphism is in fact much more specific. For this reason, it can be useful to consider weaker notions of morphisms, that are only required to preserve all joins  or all meets , which are indeed inequivalent conditions. This notion may be considered as a homomorphism of complete meet-semilattices or complete join-semilattices, respectively.     Furthermore, morphisms that preserve all joins are equivalently characterized as the lower adjoint part of a unique ": null
+    },
+    {
+        "Galois connection": "galois connection"
+    },
+    {
+        ". Each of these determines a unique upper adjoint in the inverse direction that preserves all meets. Hence, considering complete lattices with complete semilattice morphisms boils down to considering Galois connections as morphisms. This also yields the insight that the introduced morphisms do basically describe just two different categories of complete lattices: one with complete homomorphisms and one with meet-preserving functions , ": null
+    },
+    {
+        "dual": "duality"
+    },
+    {
+        " to the one with join-preserving mappings .         As usual, the construction of ": null
+    },
+    {
+        "free object": "free object"
+    },
+    {
+        "s depends on the chosen class of morphisms. Let us first consider functions that preserve all joins , since this case is simpler than the situation for complete homomorphisms. Using the aforementioned terminology, this could be called a free complete join-semilattice.     Using the standard definition from ": null
+    },
+    {
+        "universal algebra": "universal algebra"
+    },
+    {
+        ", a free complete lattice over a generating set S is a complete lattice L together with a function i:S→L, such that any function f from S to the underlying set of some complete lattice M can be factored uniquely through a morphism f° from L to M. Stated differently, for every element s of S we find that f f° and that f° is the only morphism with this property. These conditions basically amount to saying that there is a functor from the category of sets and functions to the category of complete lattices and join-preserving functions which is ": null
+    },
+    {
+        "left adjoint": "adjoint functors"
+    },
+    {
+        " to the ": null
+    },
+    {
+        "forgetful functor": "forgetful functor"
+    },
+    {
+        " from complete lattices to their underlying sets.     Free complete lattices in this sense can be constructed very easily: the complete lattice generated by some set S is just the ": null
+    },
+    {
+        "powerset": "powerset"
+    },
+    {
+        " 42 S , i.e. the set of all subsets of S, ordered by ": null
+    },
+    {
+        "subset inclusion": "subset"
+    },
+    {
+        ". The required unit i:S→42 S maps any element s of S to the singleton set . Given a mapping f as above, the function f°:42 S →M is defined by     : f^\\circ \\bigvee \\ .     Then f° transforms unions into suprema and thus preserves joins.     Our considerations also yield a free construction for morphisms that do preserve meets instead of joins . In fact, we merely have to ": null
+    },
+    {
+        "dualize": "duality"
+    },
+    {
+        " what was said above: free objects are given as powersets ordered by reverse inclusion, such that set union provides the meet operation, and the function f° is defined in terms of meets instead of joins. The result of this construction could be called a free complete meet-semilattice. One should also note how these free constructions extend those that are used to obtain ": null
+    },
+    {
+        "free semilattices": "semilattice"
+    },
+    {
+        ", where we only need to consider finite sets.       The situation for complete lattices with complete homomorphisms obviously is more intricate. In fact, free complete lattices do generally not exist. Of course, one can formulate a word problem similar to the one for the case of ": null
+    },
+    {
+        "lattices": "lattice"
+    },
+    {
+        ", but the collection of all possible ": null
+    },
+    {
+        "words": "word problem"
+    },
+    {
+        " in this case would be a ": null
+    },
+    {
+        "proper class": "proper class"
+    },
+    {
+        ", because arbitrary meets and joins comprise operations for argument-sets of every ": null
+    },
+    {
+        "cardinality": "cardinality"
+    },
+    {
+        ".     This property in itself is not a problem: as the case of free complete semilattices above shows, it can well be that the solution of the word problem leaves only a set of equivalence classes. In other words, it is possible that proper classes of the class of all terms have the same meaning and are thus identified in the free construction. However, the equivalence classes for the word problem of complete lattices are too small , such that the free complete lattice would still be a proper class, which is not allowed.     Now one might still hope that there are some useful cases where the set of generators is sufficiently small for a free complete lattice to exist. Unfortunately, the size limit is very low and we have the following theorem:     : The free complete lattice on three generators does not exist; it is properly a ": null
+    },
+    {
+        "proper class": "proper class"
+    },
+    {
+        ".     A proof of this statement is given by Johnstone; P. T. Johnstone, Stone Spaces, Cambridge University Press, 42;  the original argument is attributed to ": null
+    },
+    {
+        "Alfred W. Hales": "alfred w. hales"
+    },
+    {
+        "; ": null
+    },
+    {
+        "A. W. Hales": "alfred w. hales"
+    },
+    {
+        ", On the non-existence of free complete Boolean algebras, Fundamenta Mathematicae 42: pp.4242 see also the article on ": null
+    },
+    {
+        "free lattice": "free lattice"
+    },
+    {
+        "s.            If a complete lattice is freely generated from a given poset used in place of the set of generators considered above, then one speaks of a completion of the poset. The definition of the result of this operation is similar to the above definition of free objects, where sets and functions are replaced by posets and monotone mappings . Likewise, one can describe the completion process as a functor from the category of posets with monotone functions to some category of complete lattices with appropriate morphisms that is left adjoint to the forgetful functor in the converse direction.     As long as one considers meet- or join-preserving functions as morphisms, this can easily be achieved through the so-called ": null
+    },
+    {
+        "Dedekind–MacNeille completion": "dedekind–macneille completion"
+    },
+    {
+        ". For this process, elements of the poset are mapped to cuts, which can then be mapped to the underlying posets of arbitrary complete lattices in much the same way as done for sets and free complete lattices above.     The aforementioned result that free complete lattices do not exist entails that an according free construction from a poset is not possible either. This is easily seen by considering posets with a discrete order, where every element only relates to itself. These are exactly the free posets on an underlying set. Would there be a free construction of complete lattices from posets, then both constructions could be composed, which contradicts the negative result above.       Already G. Birkhoffs Lattice Theory book Garrett Birkhoff, Lattice Theory, AMS Colloquium Publications Vol. 42  contains a very useful representation method. It associates a complete lattice to any binary relation between two sets by constructing a ": null
+    },
+    {
+        "Galois connection": "galois connection"
+    },
+    {
+        " from the relation, which then leads to two dually isomorphic ": null
+    },
+    {
+        "closure systems": "closure operator"
+    },
+    {
+        ". Closure systems are intersection-closed families of sets. When ordered by the subset relation & sube;, they are complete lattices.     A special instance of Birkhoffs construction starts from an arbitrary poset  and constructs the Galois connection from the order relation & le; between P and itself. The resulting complete lattice is the ": null
+    },
+    {
+        "Dedekind-MacNeille completion": "dedekind-macneille completion"
+    },
+    {
+        ". When this completion is applied to a poset that already is a complete lattice, then the result is ": null
+    },
+    {
+        "isomorphic": "order-isomorphism"
+    },
+    {
+        " to the original one. Thus we immediately find that every complete lattice is represented by Birkhoffs method, up to isomorphism.     The construction is utilized in ": null
+    },
+    {
+        "formal concept analysis": "formal concept analysis"
+    },
+    {
+        ", where one represents real-word data by binary relations  and uses the associated complete lattices  for data analysis. The mathematics behind formal concept analysis therefore is the theory of complete lattices.     Another representation is obtained as follows: A subset of a complete lattice is itself a complete lattice if and only if it is the image of an ": null
+    },
+    {
+        "increasing and idempotent": "closure operator"
+    },
+    {
+        " self-map.   The identity mapping obviously has these two properties. Thus all complete lattices occur.       Besides the previous representation results, there are some other statements that can be made about complete lattices, or that take a particularly simple form in this case. An example is the ": null
+    },
+    {
+        "Knaster–Tarski theorem": "knaster–tarski theorem"
+    },
+    {
+        ", which states that the set of ": null
+    },
+    {
+        "fixed point": "fixed point"
+    }
+]

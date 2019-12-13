@@ -1,0 +1,101 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        " CDR coding is a ": null
+    },
+    {
+        "compressed": "data compression"
+    },
+    {
+        " data representation": "data"
+    },
+    {
+        " for ": null
+    },
+    {
+        "Lisp": "lisp programming language"
+    },
+    {
+        " linked list": "linked list"
+    },
+    {
+        "s. It was developed and patented by the ": null
+    },
+    {
+        "MIT Artificial Intelligence Laboratory": "mit artificial intelligence laboratory"
+    },
+    {
+        ", and implemented in ": null
+    },
+    {
+        "computer": "computer"
+    },
+    {
+        " hardware in a number of ": null
+    },
+    {
+        "Lisp machine": "lisp machine"
+    },
+    {
+        "s derived from the MIT ": null
+    },
+    {
+        "CADR": "cadr"
+    },
+    {
+        ".     CDR coding is in fact a fairly general idea; whenever a data object A ends in a ": null
+    },
+    {
+        "reference": "reference"
+    },
+    {
+        " to another data structure B, we can instead place the structure B itself there, overlapping and running off the end of A. By doing this we free the space required by the reference, which can add up if done many times, and also improve ": null
+    },
+    {
+        "locality of reference": "locality of reference"
+    },
+    {
+        ", enhancing performance on modern machines. The transformation is especially effective for the ": null
+    },
+    {
+        "cons": "cons"
+    },
+    {
+        "-based lists it was created for; we free about half of the space for each node we perform this transformation on.     It is not always possible to perform this substitution, because there might not be a large enough chunk of free space beyond the end of A. Thus, some objects will end in a real reference, and some with the referenced object, and the machine must be able to tell by reading the final cell which one it is. This can be accomplished with some inefficiency in software by the use of ": null
+    },
+    {
+        "tagged pointer": "tagged pointer"
+    },
+    {
+        "s, which allow a pointer in a final position to be specifically tagged as such, but is best done in hardware.     In the presence of ": null
+    },
+    {
+        "mutable object": "mutable object"
+    },
+    {
+        "s, CDR coding becomes more complex. If a reference is updated to point to another object, but currently has an object stored in that field, the object must be relocated, along with any other pointers to it. Not only are such moves typically expensive or impossible, but over time they cause ": null
+    },
+    {
+        "fragmentation": "fragmentation"
+    },
+    {
+        " of the store. This problem is typically avoided by using CDR coding only on ": null
+    },
+    {
+        "immutable": "immutable object"
+    },
+    {
+        " data structures.     ": null
+    },
+    {
+        "Unrolled linked list": "unrolled linked list"
+    },
+    {
+        "s are simpler and often higher-performance than CDR coding . For short lists, CDR coding uses the least amount of space.                   ": null
+    }
+]

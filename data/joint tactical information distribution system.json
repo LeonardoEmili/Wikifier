@@ -1,0 +1,194 @@
+[
+    {
+        "The Joint Tactical Information Distribution System  is an ": null
+    },
+    {
+        "L band": "l bandieee l band"
+    },
+    {
+        " Distributed Time Division Multiple Access network radio system used by the ": null
+    },
+    {
+        "United States armed forces": "united states armed forces"
+    },
+    {
+        " and their allies to support ": null
+    },
+    {
+        "data communication": "data communication"
+    },
+    {
+        "s needs, principally in the air and missile defense community. It produces a ": null
+    },
+    {
+        "spread spectrum": "spread spectrum"
+    },
+    {
+        " signal using ": null
+    },
+    {
+        "Frequency-shift keying": "frequency-shift keying"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Phase-shift keying": "phase-shift keying"
+    },
+    {
+        " to spread the radiated power over a wider spectrum than normal radio transmissions. This reduces susceptibility to noise, jamming, and interception. In JTIDS Time Division Multiple Access , each time interval is divided into time slots . Together, all 42 time slots in a 42-second interval are called a frame . Each time slot is bursted at several different carrier frequencies sequentially. Within each slot, the phase angle of the transmission burst is varied to provide PSK. Each type of data to be transmitted is assigned a slot or block of slots to manage information exchanges among user participation groups. In traditional TDMA, the slot frequencies remain fixed from second to second . In JTIDS TDMA, the slot frequencies and/or slot assignments for each channel do not remain fixed from frame to frame but are varied in a pseudo-random manner. The slot assignments, frequencies, and information are all encrypted to provide computer-to-computer connectivity in support of every type of military platform to include ": null
+    },
+    {
+        "Air Force": "u.s. air force"
+    },
+    {
+        " fighters": "fighter aircraft"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Navy": "united states navy"
+    },
+    {
+        " submarine": "submarine"
+    },
+    {
+        "s.     The full development of JTIDS commenced in 42 when a contract was placed with Singer-Kearfott . Fielding proceeded slowly throughout the late 42s and early 42s with rapid expansion  in preparation for Operation Enduring Freedom and Operation Iraqi Freedom. Development is now carried out by ": null
+    },
+    {
+        "Data Link Solutions": "data link solutions llc"
+    },
+    {
+        ", a joint ": null
+    },
+    {
+        "BAE": "bae"
+    },
+    {
+        "/": null
+    },
+    {
+        "Rockwell Collins": "rockwell collins"
+    },
+    {
+        " company, ": null
+    },
+    {
+        "ViaSat": "viasat"
+    },
+    {
+        ", and the MIDS International consortium.       JTIDS is one of the family of radio equipment implementing what is called ": null
+    },
+    {
+        "Link 42": "link 16"
+    },
+    {
+        ". Link 42 a highly-survivable radio communications design to meet the most stringent requirements of modern combat, provides reliable Situational Awareness for fast-moving forces. Link 42 equipment has proven, in detailed field demonstrations as well as in the ": null
+    },
+    {
+        "AWACS": "airborne early warning and control"
+    },
+    {
+        " and ": null
+    },
+    {
+        "JSTARS": "jstars"
+    },
+    {
+        " deployment in ": null
+    },
+    {
+        "Desert Storm": "desert storm"
+    },
+    {
+        ", the capability of basic Link 42 to exchange user data at 42 kbit/s, ": null
+    },
+    {
+        "error-correction": "error correction"
+    },
+    {
+        "-coded.     While principally a data network, Link 42 radios can provide high quality voice channels and navigation services as accurate as any in the inventory. Every Link 42 user can identify itself to other similarly equipped platforms at ranges well beyond what Mark XII Identification Friend or Foe systems can provide. Additionally, Link 42-equipped platforms capable of identification through other means  can pass that indirect identification data as part of its SA exchange. The capabilities of Link 42 are best represented by the JTIDS or its follow-on ": null
+    },
+    {
+        "Multifunctional Information Distribution System": "multifunctional information distribution system"
+    },
+    {
+        " terminals. The ": null
+    },
+    {
+        "TADIL-J": "tadil-j"
+    },
+    {
+        " message format forms the basis for the mandates in the ": null
+    },
+    {
+        "DoD": "united states department of defense"
+    },
+    {
+        " Tactical Data Link Management Plan.     There are benefits to the full-scale implementation of the two key elements of Link42: the message catalog and the specific radio waveform . Link 42 terminals implement the NI node-to-node protocols as well as one or more of the ICD-compliant user interfaces.              JTIDS began with an advanced planning study sponsored by the Air Force Electronic Systems Division Advanced Plans at L.G. ": null
+    },
+    {
+        "Hanscom Field": "hanscom field"
+    },
+    {
+        ". The study was conducted by the ": null
+    },
+    {
+        "MITRE Corporation": "mitre corporation"
+    },
+    {
+        " in 42 and the principal investigators were Vic Desmarines who later became MITRE President and ": null
+    },
+    {
+        "Gordon Welchman": "gordon welchman"
+    },
+    {
+        " who had been instrumental in breaking the German ": null
+    },
+    {
+        "Enigma machine": "enigma machine"
+    },
+    {
+        " code as the head of ": null
+    },
+    {
+        "Hut 42": "hut 6"
+    },
+    {
+        " at ": null
+    },
+    {
+        "Bletchley Park": "bletchley park"
+    },
+    {
+        ", England. Gordon wrote a book titled The Hut 42 Story which described his activities and contains some additional information about his work at MITRE. The study concluded that on the battlefield valuable information was available that was not getting to the combat forces that needed it because of fundamental deficiencies in communications architecture. Gordon suggested a radical architecture where elements that had critical information could broadcast it and units that needed the information could selectively process what was of immediate value. This was a significant departure from the circuit-oriented communications architectures then in use and a way to eliminate overcrowding and confusion in the radio nets used to interconnect aircraft and some ground forces. A second recommendation was the need for a consistent and reliable basis for position which was available to all combat elements dubbed a Common Position Grid . The overall study was called Control and Surveillance of Friendly Forces CASOFF.     The advanced planning study was well received both at MITRE and ESD and it was decided to pursue a practical design to see if these ideas could be translated into a usable system. In 42 MITRE Technical Director John H. Monahan appointed C. Eric Ellingson to head this effort and Ellingson put together a technical team to pursue these ideas. Early on it became apparent that the CASOFF architecture was sufficiently radical that a proof of concept activity was needed to better understand and ultimately demonstrate the feasibility and benefits of such an approach. The demonstration system used a synchronized Time Division Multiple Access architecture and incorporated position location as an integral part of the communications process. Because funds were extremely limited every effort was made to use already available equipment. Transmitters were surplus AN/APX42 IFF transponders and data processing was accomplished using surplus IBM 42piTC42 computers that were obtained from the F42 terrain avoidance program. The unique components called the Control and Display Units were built in the MITRE laboratory.     By 42 an operating TDMA system had been constructed and ground stations were installed at Boston Hill in Andover MA, Millstone Hill in Groton MA, MITRE in ": null
+    },
+    {
+        "Bedford, MA": "bedford, ma"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Prospect Hill in Waltham, MA": "prospect hill, waltham, massachusetts"
+    },
+    {
+        ". An airborne terminal was also installed in an ESD T42 Navigation Trainer. Tests of both the communications architecture and position location capability were conducted and the overall system design was shown to be practical. Note that this demonstration preceded GPS, Ethernet and the internet each of which incorporated similar principals. It is also worth noting that these experiments would not have been possible without the support of John Klotz of DOD/DDR & E.     In 42 General Ken Russell, the AWACS System Program Office chief asked Ellingson if MITRE could support a 42 demonstration of AWACS to key NATO personnel in Europe. The idea was to bring the AWACS data to the ground command and control centers in selected locations throughout Europe to show how AWACS could augment their existing air defense capability. Russell thought that the MITRE CASOFF demonstration system could do the job. Ellingson responded in the affirmative and immediately set about to implement the needed interfaces with the various NATO systems and equipping a KC42 aircraft that was to be used as a relay.     In 42 the AWACS demonstration took place with interfaces to the British Linesman system, the French Strida II system, the NATO Ground Environment System in Germany and an element of the U.S. 42L Tactical Command and Control System in Belgium and 42L systems at Sembach and Neu Ulm in Germany. An Army NIKE site at the Fliegerhorst Caserne near Hanau Germany was also equipped. The demonstration was very successful and generated great NATO interest in both AWACS and JTIDS.     During this period the name of the program underwent several iterations. John Klotz didnt like acronyms and dubbed the program Tactical Position Location/Common Grid Capability which immediately became Tipplekeg. Next the program was called Position Location Reporting and Control of Tactical Aircraft . At the time of the first European demonstration the program was known as Seek Bus. Finally in 42 DOD created a joint program office with the Air Force as Executive agent and Col. Breeden Brentnall was appointed as System Program Office Chief. The Joint Service SPO was co-located with Ellingsons development group at MITRE. From then on, the program was officially known as Joint Tactical Information Distribution System .     A second European demonstration of AWACS and JTIDS was conducted in 42 under the direction of AWACS SPO Director Gen. ": null
+    },
+    {
+        "Lawrence A. Skantze": "lawrence a. skantze"
+    },
+    {
+        ". An interface with the Navy NTDS system was added and demonstrated aboard a Guided Missile Cruiser in the Mediterranean. Dignitaries were able to view AWACS data at various NTDS locations including a Nuclear Aircraft Carrier. As a result of these demonstrations, and resulting NATO interest, a NATO JTIDS program was instituted called Multifunction Information Distribution System .     During this period contracts were awarded to ": null
+    },
+    {
+        "Hughes Aircraft ": "hughes aircraft"
+    },
+    {
+        " to develop a terminal suitable for operational use in AWACS and ground command and control systems and to Singer Kearfott Corporation, now BAE Systems, to develop a terminal suitable for fighter aircraft installation. The Hughes effort was led by Bob Kramp and the Singer effort by John Sputz. In concert with contractor efforts a MITRE team led by Myron Leiter and consisting of communications and digital signal processing engineers refined the JTIDS design to optimize interference rejection and link performance. The results of these efforts were incorporated into performance specifications and provided guidance to the contractors. Operational considerations were provided by experienced Air Force combat pilots Col. Ken Kronlund and Col. Cliff Miller as well as valuable inputs from the Air Force Tactical Fighter Weapons Center. A pair of jet instrument trainers were equipped with F42 like displays and were used to evaluate display techniques and understand pilot work load and benefits.     Ellingson was promoted to Associate Technical Director of the MITRE Command and Control Division in 42 became Technical Director for the MITRE Communications Division in 42 and in 42 Technical Director for the MITRE Command and Control Division. During this period he did not have day-to-day management responsibility for the program but did have oversight responsibility. Ellingson retired from MITRE in 42     JTIDS was not created by a single individual. Rather it was the culmination of a group of individuals each having expertise in specific disciplines including but not limited to system engineering, operational analysis, cost benefit analysis, message standards, software development, communications, signal processing, vulnerability analysis, error detection and correction, antenna design, multipath analysis, electromagnetic compatibility mechanical engineering, navigation, specification generation and others. For a considerable period during JTIDS conception as many as 42 people were employed full-time in its development with as many as 42 more in part-time supporting roles.   In the ensuing years the program has transitioned from an intensive development effort to a more classical acquisition effort. Development has continued but efforts have been oriented more toward incorporation of breakthroughs in technology and efforts to improve quality and reduce size, weight and cost. In the early 42s the Navy took over the executive management of the program. As the program has expanded throughout the U.S services and NATO a great deal on operational innovation has occurred driven by the basic flexibility of the architecture and the imagination of the operational user. As a result, the operational utility of the system has been enhanced over what was originally envisioned by the early developers. Although the JTIDS system has been a long time in development most of the technology is still state of the art and the system should be viable for the foreseeable future.     JTIDS is also used by other members of ": null
+    },
+    {
+        "NATO": "nato"
+    }
+]

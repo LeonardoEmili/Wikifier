@@ -1,0 +1,449 @@
+[
+    {
+        "        In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a ring is one of the fundamental ": null
+    },
+    {
+        "algebraic structure": "algebraic structure"
+    },
+    {
+        "s used in ": null
+    },
+    {
+        "abstract algebra": "abstract algebra"
+    },
+    {
+        ". It consists of a ": null
+    },
+    {
+        "set": "set"
+    },
+    {
+        " equipped with two ": null
+    },
+    {
+        "binary operation": "binary operation"
+    },
+    {
+        "s that generalize the ": null
+    },
+    {
+        "arithmetic operation": "arithmetic operation"
+    },
+    {
+        "s of ": null
+    },
+    {
+        "addition": "addition"
+    },
+    {
+        " and ": null
+    },
+    {
+        "multiplication": "multiplication"
+    },
+    {
+        ". Through this generalization, theorems from ": null
+    },
+    {
+        "arithmetic": "arithmetic"
+    },
+    {
+        " are extended to non-numerical objects such as ": null
+    },
+    {
+        "polynomial": "polynomial"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "series": "series"
+    },
+    {
+        ", ": null
+    },
+    {
+        "matrices": "matrix"
+    },
+    {
+        " and ": null
+    },
+    {
+        "functions": "function"
+    },
+    {
+        ".     A ring is an ": null
+    },
+    {
+        "abelian group": "abelian group"
+    },
+    {
+        " with a second ": null
+    },
+    {
+        "binary operation": "binary operation"
+    },
+    {
+        " that is ": null
+    },
+    {
+        "associative": "associative property"
+    },
+    {
+        ", is ": null
+    },
+    {
+        "distributive": "distributive property"
+    },
+    {
+        " over the abelian group operation, and has an ": null
+    },
+    {
+        "identity element": "identity element"
+    },
+    {
+        " . By extension from the ": null
+    },
+    {
+        "integer": "integer"
+    },
+    {
+        "s, the abelian group operation is called addition and the second binary operation is called multiplication.     Whether a ring is commutative or not has profound implications on its behavior as an abstract object. As a result, commutative ring theory, commonly known as ": null
+    },
+    {
+        "commutative algebra": "commutative algebra"
+    },
+    {
+        ", is a key topic in ": null
+    },
+    {
+        "ring theory": "ring theory"
+    },
+    {
+        ". Its development has been greatly influenced by problems and ideas occurring naturally in ": null
+    },
+    {
+        "algebraic number theory": "algebraic number theory"
+    },
+    {
+        " and ": null
+    },
+    {
+        "algebraic geometry": "algebraic geometry"
+    },
+    {
+        ". Examples of commutative rings include the set of integers equipped with the addition and multiplication operations, the set of polynomials equipped with their addition and multiplication, the ": null
+    },
+    {
+        "coordinate ring": "coordinate ring"
+    },
+    {
+        " of an ": null
+    },
+    {
+        "affine algebraic variety": "affine algebraic variety"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "ring of integers": "ring of integers"
+    },
+    {
+        " of a number field. Examples of noncommutative rings include the ring of n × n real ": null
+    },
+    {
+        "square matrices": "square matrix"
+    },
+    {
+        " with n ≥ 42 ": null
+    },
+    {
+        "group ring": "group ring"
+    },
+    {
+        "s in ": null
+    },
+    {
+        "representation theory": "representation theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "operator algebra": "operator algebra"
+    },
+    {
+        "s in ": null
+    },
+    {
+        "functional analysis": "functional analysis"
+    },
+    {
+        ", ": null
+    },
+    {
+        "rings of differential operators": "ring of differential operators"
+    },
+    {
+        " in the theory of ": null
+    },
+    {
+        "differential operator": "differential operator"
+    },
+    {
+        "s, and the ": null
+    },
+    {
+        "cohomology ring": "cohomology ring"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        " in ": null
+    },
+    {
+        "topology": "topology"
+    },
+    {
+        ".     The conceptualization of rings began in the 42s and was completed in the 42s. Key contributors include ": null
+    },
+    {
+        "Dedekind": "richard dedekind"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Hilbert": "david hilbert"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Fraenkel": "abraham fraenkel"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Noether": "emmy noether"
+    },
+    {
+        ". Rings were first formalized as a generalization of ": null
+    },
+    {
+        "Dedekind domain": "dedekind domain"
+    },
+    {
+        "s that occur in ": null
+    },
+    {
+        "number theory": "number theory"
+    },
+    {
+        ", and of ": null
+    },
+    {
+        "polynomial ring": "polynomial ring"
+    },
+    {
+        "s and rings of invariants that occur in ": null
+    },
+    {
+        "algebraic geometry": "algebraic geometry"
+    },
+    {
+        " and ": null
+    },
+    {
+        "invariant theory": "invariant theory"
+    },
+    {
+        ". Afterward, they also proved to be useful in other branches of mathematics such as ": null
+    },
+    {
+        "geometry": "geometry"
+    },
+    {
+        " and ": null
+    },
+    {
+        "mathematical analysis": "mathematical analysis"
+    },
+    {
+        ".            The most familiar example of a ring is the set of all ": null
+    },
+    {
+        "integer": "integer"
+    },
+    {
+        "s, \\mathbb , consisting of the ": null
+    },
+    {
+        "number": "number"
+    },
+    {
+        "s     : …  , −42 −42 −42 −42 −42 42 42 42 42 42 42  …     The familiar properties for addition and multiplication of integers serve as a model for the axioms for rings.       A ring is a ": null
+    },
+    {
+        "set": "set"
+    },
+    {
+        " R equipped with two ": null
+    },
+    {
+        "binary operation": "binary operation"
+    },
+    {
+        "s This means that each operation is defined and produces a unique result in R for each ordered pair of elements of R. + and · satisfying the following three sets of axioms, called the ring axioms        R is an ": null
+    },
+    {
+        "abelian group": "abelian group"
+    },
+    {
+        " under addition, meaning that:    + c a +  for all a, b, c in R      .   a + b b + a for all a, b in R      .   There is an element 42 in R such that a + 42 a for all a in R      .   For each a in R there exists −a in R such that a +  42      .   R is a ": null
+    },
+    {
+        "monoid": "monoid"
+    },
+    {
+        " under multiplication, meaning that:    · c a ·  for all a, b, c in R      .   There is an element 42 in R such that a · 42 a and 42 · a a for all a in R      . The existence of 42 is not assumed by some authors; here, the term  rng  is used if existence of a multiplicative identity is not assumed. See ": null
+    },
+    {
+        "next subsection": "ring notes on the definition"
+    },
+    {
+        "   Multiplication is ": null
+    },
+    {
+        "distributive": "distributive law"
+    },
+    {
+        " with respect to addition, meaning that:   a ⋅   +  for all a, b, c in R      .    · a  +  for all a, b, c in R      .       As explained in  below, many authors follow an alternative convention in which a ring is not defined to have a multiplicative identity. This article adopts the convention that, unless otherwise stated, a ring is assumed to have such an identity.  Authors who follow this convention sometimes refer to a structure satisfying all the axioms except the requirement that there exists a multiplicative identity element as a  rng   and sometimes as a  pseudo-ring . For example, the set of even integers with the usual + and ⋅ is a rng, but not a ring.     The operations + and ⋅ are called addition and multiplication, respectively. The multiplication symbol ⋅ is often omitted, so the ": null
+    },
+    {
+        "juxtaposition": "wikt:juxtaposition"
+    },
+    {
+        " of ring elements is interpreted as multiplication. For example, xy means .     Although ring addition is ": null
+    },
+    {
+        "commutative": "commutative law"
+    },
+    {
+        ", ring multiplication is not required to be commutative: ab need not necessarily equal ba. Rings that also satisfy commutativity for multiplication  are called  commutative ring s. Books on commutative algebra or algebraic geometry often adopt the convention that ring means commutative ring, to simplify terminology.     In a ring, multiplication does not have to have an inverse. A  commutative ring such that every nonzero element has a ": null
+    },
+    {
+        "multiplicative inverse": "multiplicative inverse"
+    },
+    {
+        " is called a ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        ".     The additive group of a ring is the ring equipped just with the structure of addition. Although the definition assumes that the additive group is abelian, this can be inferred from the other ring axioms. I. M. Isaacs, Algebra: A Graduate Course, AMS, 42 p. 42 The proof makes use of the 42 , so does not work in a  rng .      Some authors define a ring without the requirement of associativity for multiplication.  This general definition of a ring is useful in the sense that then every ": null
+    },
+    {
+        "algebra": "algebra over a field"
+    },
+    {
+        " is a ring.       Some basic properties of a ring follow immediately from the axioms:   The additive identity, the additive inverse of each element, and the multiplicative identity are unique.   For any element x in a ring R, one has x42 42 42x  and x –x.   If 42 42 in a ring R , then R has only one element, and is called the ": null
+    },
+    {
+        "zero ring": "zero ring"
+    },
+    {
+        ".   The ": null
+    },
+    {
+        "binomial formula": "binomial formula"
+    },
+    {
+        " holds for any commuting pair of elements .            Equip the set \\mathbf_42 \\left\\ with the following operations:     The sum \\overline + \\overline in Z 42 is the remainder when the integer x + y is divided by 42 . For example, \\overline + \\overline \\overline and \\overline + \\overline \\overline .   The product \\overline \\cdot \\overline in Z 42 is the remainder when the integer xy is divided by 42 For example, \\overline \\cdot \\overline \\overline and \\overline \\cdot \\overline \\overline .     Then Z 42 is a ring: each axiom follows from the corresponding axiom for Z. If x is an integer, the remainder of x when divided by 42 may be considered as an element of Z 42 , and this element is often denoted by  or \\overline , which is consistent with the notation for 42 42 42 42 The additive inverse of any \\overline in Z 42 is \\overline . For example, -\\overline \\overline \\overline.          The set of 42-by42 ": null
+    },
+    {
+        "matrices": "matrix"
+    },
+    {
+        " with ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        " entries is written     : \\mathcal_42 \\left\\.     With the operations of matrix addition and ": null
+    },
+    {
+        "matrix multiplication": "matrix multiplication"
+    },
+    {
+        ", this set satisfies the above ring axioms. The element \\begin 42 & 42 \\\\ 42 & 42 \\end is the multiplicative identity of the ring. If A \\begin 42 & 42 \\\\ 42 & 42 \\end and B \\begin 42 & 42 \\\\ 42 & 42 \\end , then AB \\begin 42 & 42 \\\\ 42 & 42 \\end while BA \\begin 42 & 42 \\\\ 42 & 42 \\end ; this example shows that the ring is noncommutative.     More generally, for any ring R, commutative or not, and any nonnegative integer n, one may form the ring of n-by-n matrices with entries in R: see ": null
+    },
+    {
+        "Matrix ring": "matrix ring"
+    },
+    {
+        ".                   The study of rings originated from the theory of ": null
+    },
+    {
+        "polynomial ring": "polynomial ring"
+    },
+    {
+        "s and the theory of ": null
+    },
+    {
+        "algebraic integer": "algebraic integer"
+    },
+    {
+        "s.  In 42 ": null
+    },
+    {
+        "Richard Dedekind": "richard dedekind"
+    },
+    {
+        " defined the concept of the ring of integers of a number field. Kleiner 42 p.  42 In this context, he introduced the terms ideal  and module and studied their properties. But Dedekind did not use the term ring and did not define the concept of a ring in a general setting.       The term Zahlring was coined by ": null
+    },
+    {
+        "David Hilbert": "david hilbert"
+    },
+    {
+        " in 42 and published in 42 Hilbert 42 In 42th century German, the word Ring could mean association , which is still used today in English in a limited sense ,  so if that were the etymology then it would be similar to the way group entered mathematics by being a non-technical word for collection of related things . According to Harvey Cohn, Hilbert used the term for a ring that had the property of circling directly back to an element of itself.  Specifically, in a ring of algebraic integers, all high powers of an algebraic integer can be written as an integral combination of a fixed set of lower powers, and thus the powers cycle back . For instance, if  then , , , , , and so on; in general, a n is going to be an integral linear combination of 42 a, and a 42 .       The first axiomatic definition of a ring was given by ": null
+    },
+    {
+        "Adolf Fraenkel": "abraham fraenkel"
+    },
+    {
+        " in 42 Fraenkel, pp.  42–42 Jacobson , p. 42 footnote 42 but his axioms were stricter than those in the modern definition. For instance, he required every ": null
+    },
+    {
+        "non-zero-divisor": "zero divisor"
+    },
+    {
+        " to have a ": null
+    },
+    {
+        "multiplicative inverse": "multiplicative inverse"
+    },
+    {
+        ". Fraenkel, p.  42 axiom  R 42": null
+    },
+    {
+        "mmutati": "mmutati"
+    },
+    {
+        "d42": null
+    }
+]

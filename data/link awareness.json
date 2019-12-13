@@ -1,0 +1,35 @@
+[
+    {
+        "Link awareness is defined as the ability to discover, view, search and update global ": null
+    },
+    {
+        "hyperlink": "hyperlink"
+    },
+    {
+        " information about any resource with a ": null
+    },
+    {
+        "URL": "uniform resource locator"
+    },
+    {
+        " on the ": null
+    },
+    {
+        "World Wide Web": "world wide web"
+    },
+    {
+        ". This global link information is a shared information resource.     Implementing link awareness is difficult. In practice, an implementation only approximates link awareness. There are at least two qualitative axes on which we can classify these implementations.     Breadth of Coverage: The number and type of interlinked documents covered.   Liveness: The ability to update the link information on the fly.         Most ": null
+    },
+    {
+        "WikiWiki": "wikiwiki"
+    },
+    {
+        " implementations support link awareness within the scope of the documents that they host. Their breadth of coverage is narrow. A wiki, however, is very live .   ": null
+    },
+    {
+        "Google": "google search"
+    },
+    {
+        " supports link awareness through its web interface. Googles breadth is impressive , but it is a far cry from live .                  ": null
+    }
+]

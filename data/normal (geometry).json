@@ -1,0 +1,416 @@
+[
+    {
+        "         In ": null
+    },
+    {
+        "geometry": "geometry"
+    },
+    {
+        ", a normal is an object such as a ": null
+    },
+    {
+        "line": "line"
+    },
+    {
+        " or ": null
+    },
+    {
+        "vector": "vector"
+    },
+    {
+        " that is ": null
+    },
+    {
+        "perpendicular": "perpendicular"
+    },
+    {
+        " to a given object. For example, in two dimensions, the normal line to a curve at a given point is the line perpendicular to the ": null
+    },
+    {
+        "tangent line": "tangent line"
+    },
+    {
+        " to the curve at the point.     In three dimensions, a surface normal, or simply normal, to a ": null
+    },
+    {
+        "surface": "surface"
+    },
+    {
+        " at point P is a ": null
+    },
+    {
+        "vector": "vector"
+    },
+    {
+        " perpendicular": "perpendicular"
+    },
+    {
+        " to the ": null
+    },
+    {
+        "tangent plane": "tangent space"
+    },
+    {
+        " of the surface at P. The word normal is also used as an adjective: a ": null
+    },
+    {
+        "line": "line"
+    },
+    {
+        " normal to a ": null
+    },
+    {
+        "plane": "plane"
+    },
+    {
+        ", the normal component of a ": null
+    },
+    {
+        "force": "force"
+    },
+    {
+        ", the normal vector, etc. The concept of normality generalizes to ": null
+    },
+    {
+        "orthogonality": "orthogonality"
+    },
+    {
+        " .     The concept has been generalized to ": null
+    },
+    {
+        "differentiable manifold": "differentiable manifold"
+    },
+    {
+        "s of arbitrary dimension embedded in a ": null
+    },
+    {
+        "Euclidean space": "euclidean space"
+    },
+    {
+        ". The normal vector space or normal space of a manifold at point P is the set of vectors which are orthogonal to the ": null
+    },
+    {
+        "tangent space": "tangent space"
+    },
+    {
+        " at P. In the case of ": null
+    },
+    {
+        "smooth curves": "differential geometry of curves"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "curvature vector": "curvature vector"
+    },
+    {
+        " is a normal vector of special interest.     The normal is often used in ": null
+    },
+    {
+        "42D computer graphics": "3d computer graphics"
+    },
+    {
+        " to determine a surfaces orientation toward a ": null
+    },
+    {
+        "light source": "light source"
+    },
+    {
+        " for ": null
+    },
+    {
+        "flat shading": "flat shading"
+    },
+    {
+        ", or the orientation of each of the surfaces corners  to mimic a curved surface with ": null
+    },
+    {
+        "Phong shading": "phong shading"
+    },
+    {
+        ".              For a ": null
+    },
+    {
+        "convex": "convex set"
+    },
+    {
+        " polygon": "polygon"
+    },
+    {
+        " , a surface normal can be calculated as the vector ": null
+    },
+    {
+        "cross product": "cross product"
+    },
+    {
+        " of two edges of the polygon.     For a ": null
+    },
+    {
+        "plane": "plane"
+    },
+    {
+        " given by the equation ax+by+cz+d42 , the vector \\mathbf n is a normal.     For a plane whose equation is given in parametric form   : \\mathbf \\mathbf_42 + s \\mathbf + t \\mathbf ,   where r 42 is a point on the plane and p, q are non-parallel vectors pointing along the plane, a normal to the plane is a vector normal to both p and q, which can be found as the ": null
+    },
+    {
+        "cross product": "cross product"
+    },
+    {
+        " \\mathbf\\mathbf\\times\\mathbf .     If a surface S in 42-space R 42 is ": null
+    },
+    {
+        "parameterized": "coordinate system"
+    },
+    {
+        " by a system of ": null
+    },
+    {
+        "curvilinear coordinates": "curvilinear coordinates"
+    },
+    {
+        " r , with s and t ": null
+    },
+    {
+        "real": "real number"
+    },
+    {
+        " variables, then a normal to S is by definition a normal to a tangent plane, given by the cross product of the ": null
+    },
+    {
+        "partial derivative": "partial derivative"
+    },
+    {
+        "s     : \\mathbf\\times .     If a surface S is given ": null
+    },
+    {
+        "implicitly": "implicit function"
+    },
+    {
+        " as the set of points satisfying F42 , then a normal at a point on the surface is given by the ": null
+    },
+    {
+        "gradient": "gradient"
+    },
+    {
+        "   : \\mathbf\\nabla F.     since ": null
+    },
+    {
+        "the gradient at any point is perpendicular to the level set": "level setlevel sets versus the gradient"
+    },
+    {
+        " S.     For a surface S in R 42 given as the graph of a function zf , an upward-pointing normal can be found either from the parametrization \\mathbf , giving: \\mathbf\\frac\\times \\frac     \\times   ; or more simply from its implicit form F z-f 42 , giving \\mathbf\\nabla F .   Since a surface does not have a tangent plane at a ": null
+    },
+    {
+        "singular point": "singularity"
+    },
+    {
+        ", it has no well-defined normal at that point: for example, the vertex of a ": null
+    },
+    {
+        "cone": "cone"
+    },
+    {
+        ". In general, it is possible to define a normal almost everywhere for a surface that is ": null
+    },
+    {
+        "Lipschitz continuous": "lipschitz continuous"
+    },
+    {
+        ".          The normal to a surface is usually scaled to have ": null
+    },
+    {
+        "unit length": "unit vector"
+    },
+    {
+        ", but it does not have a unique direction, since its opposite is also a unit normal. For a surface which is the ": null
+    },
+    {
+        "topological boundary": "boundary"
+    },
+    {
+        " of a set in three dimensions, one can distinguish between the inward-pointing normal and outer-pointing normal. For an ": null
+    },
+    {
+        "oriented surface": "orientability"
+    },
+    {
+        ", the normal is usually determined by the ": null
+    },
+    {
+        "right-hand rule": "right-hand rule"
+    },
+    {
+        " or its analog in higher dimensions.     If the normal is constructed as the cross product of tangent vectors , it is a ": null
+    },
+    {
+        "pseudovector": "pseudovector"
+    },
+    {
+        ".       :Note: in this section we only use the upper 42x42 matrix, as translation is irrelevant to the calculation     When applying a transform to a surface it is often useful to derive normals for the resulting surface from the original normals.     Specifically, given a 42x42 transformation matrix M, we can determine the matrix W that transforms a vector n perpendicular to the tangent plane t into a vector n & prime; perpendicular to the transformed tangent plane M t, by the following logic:     Write n & prime; as W n. We must find W.       W\\mathbb n \\text M\\mathbb t     : \\iff \\cdot 42   : \\iff ^T 42   : \\iff 42   : \\iff \\mathbb n^T \\mathbb t 42     Clearly choosing W such that W^T M I , or W ^T , will satisfy the above equation, giving a W \\mathbb n perpendicular to M \\mathbb t , or an n & prime; perpendicular to t & prime;, as required.     Therefore, one should use the inverse transpose of the linear transformation when transforming surface normals. The inverse transpose is equal to the original matrix if the matrix is orthonormal, i.e. purely rotational with no scaling or shearing.     n-dimensional space": null
+    },
+    {
+        "hyperplane": "hyperplane"
+    },
+    {
+        " in ": null
+    },
+    {
+        "n-dimensional space": "n-dimensional space"
+    },
+    {
+        " R n given by its parametric representation     : \\mathbf \\mathbf_42 + t_42 \\mathbf_42 + \\cdots + t_\\mathbf_ ,     where p 42 is a point on the hyperplane and p i for i 42 ..., n42 are linearly independent vectors pointing along the hyperplane, a normal to the hyperplane is any vector \\mathbf n in the ": null
+    },
+    {
+        "null space": "null space"
+    },
+    {
+        " of the matrix P , meaning P\\mathbf n \\mathbf 42 . That is, any vector orthogonal to all in-plane vectors is by definition a surface normal. Alternatively, if the hyperplane is defined as the solution set of a single linear equation a_42x_42+\\cdots+a_nx_n c , then the vector \\mathbb is a normal.     The definition of a normal to a surface in three-dimensional space can be extended to -dimensional ": null
+    },
+    {
+        "hypersurface": "hypersurface"
+    },
+    {
+        "s in R n . A hypersurface may be ": null
+    },
+    {
+        "locally": "local property"
+    },
+    {
+        " defined implicitly as the set of points satisfying an equation F 42 , where F is a given ": null
+    },
+    {
+        "scalar function": "scalar field"
+    },
+    {
+        ". If F is ": null
+    },
+    {
+        "continuously differentiable": "continuously differentiable"
+    },
+    {
+        " then the hypersurface is a ": null
+    },
+    {
+        "differentiable manifold": "differentiable manifold"
+    },
+    {
+        " in the ": null
+    },
+    {
+        "neighbourhood": "neighbourhood"
+    },
+    {
+        " of the points where the ": null
+    },
+    {
+        "gradient": "gradient"
+    },
+    {
+        " is not zero. At these points a normal vector is given by the gradient:     : \\mathbb n \\nabla F \\left\\,.     The normal line is the one-dimensional subspace with basis .     n-dimensional space  differential variety  defined by implicit equations in the n-dimensional space R n is the set of the common zeros of a finite set of differentiable functions in n variables     : f_42 \\ldots, f_k.   The ": null
+    },
+    {
+        "Jacobian matrix": "jacobian matrix"
+    },
+    {
+        " of the variety is the k×n matrix whose i-th row is the gradient of f i . By the ": null
+    },
+    {
+        "implicit function theorem": "implicit function theorem"
+    },
+    {
+        ", the variety is a ": null
+    },
+    {
+        "manifold": "manifold"
+    },
+    {
+        " in the neighborhood of a point where the Jacobian matrix has rank k. At such a point P, the normal vector space is the vector space generated by the values at P of the gradient vectors of the f i .     In other words, a variety is defined as the intersection of k hypersurfaces, and the normal vector space at a point is the vector space generated by the normal vectors of the hypersurfaces at the point.     The normal space at a point P of the variety is the ": null
+    },
+    {
+        "affine subspace": "affine subspace"
+    },
+    {
+        " passing through P and generated by the normal vector space at P.     These definitions may be extended verbatim to the points where the variety is not a manifold.       Let V be the variety defined in the 42-dimensional space by the equations   : x\\,y42 \\quad z42\\,.   This variety is the union of the x-axis and the y-axis.     At a point , where , the rows of the Jacobian matrix are  and . Thus the normal affine space is the plane of equation . Similarly, if , the normal plane at  is the plane of equation .     At the point  the rows of the Jacobian matrix are  and . Thus the normal vector space and the normal affine space have dimension 42 and the normal affine space is the z-axis.         Surface normals are useful in defining ": null
+    },
+    {
+        "surface integral": "surface integral"
+    },
+    {
+        "s of ": null
+    },
+    {
+        "vector field": "vector field"
+    },
+    {
+        "s.   Surface normals are commonly used in ": null
+    },
+    {
+        "42D computer graphics": "3d computer graphics"
+    },
+    {
+        " for ": null
+    },
+    {
+        "lighting": "computer graphics lighting"
+    },
+    {
+        " calculations , often adjusted by ": null
+    },
+    {
+        "normal mapping": "normal mapping"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Render layers": "render layers"
+    },
+    {
+        " containing surface normal information may be used in ": null
+    },
+    {
+        "Digital compositing": "digital compositing"
+    },
+    {
+        " to change the apparent lighting of rendered elements.               The normal ray is the outward-pointing ray ": null
+    },
+    {
+        "perpendicular": "perpendicular"
+    },
+    {
+        " to the surface of an ": null
+    },
+    {
+        "optical medium": "optical medium"
+    },
+    {
+        " at a given point.  In ": null
+    },
+    {
+        "reflection of light": "reflection of light"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "angle of incidence": "angle of incidence"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "angle of reflection": "angle of reflection"
+    },
+    {
+        " are respectively the angle between the normal and the ": null
+    },
+    {
+        "incident ray": "incident ray"
+    },
+    {
+        "  and the angle between the normal and the ": null
+    },
+    {
+        "reflected ray": "reflected ray"
+    }
+]

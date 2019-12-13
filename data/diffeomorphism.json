@@ -1,0 +1,101 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a diffeomorphism is an ": null
+    },
+    {
+        "isomorphism": "isomorphism"
+    },
+    {
+        " of ": null
+    },
+    {
+        "smooth manifold": "smooth manifold"
+    },
+    {
+        "s. It is an ": null
+    },
+    {
+        "invertible function": "invertible function"
+    },
+    {
+        " that ": null
+    },
+    {
+        "map": "map"
+    },
+    {
+        "s one ": null
+    },
+    {
+        "differentiable manifold": "differentiable manifold"
+    },
+    {
+        " to another such that both the function and its inverse are ": null
+    },
+    {
+        "smooth": "smooth function"
+    },
+    {
+        ".              Given two ": null
+    },
+    {
+        "manifolds": "manifolds"
+    },
+    {
+        " M and N, a ": null
+    },
+    {
+        "differentiable": "differentiable manifolddifferentiable functions"
+    },
+    {
+        " map f  : M  → N is called a diffeomorphism if it is a ": null
+    },
+    {
+        "bijection": "bijection"
+    },
+    {
+        " and its inverse f −42  : N  → M is differentiable as well. If these functions are r times continuously differentiable, f is called a C r -diffeomorphism.     Two manifolds M and N are diffeomorphic if there is a diffeomorphism f from M to N. They are C r diffeomorphic if there is an r times continuously differentiable bijective map between them whose inverse is also r times continuously differentiable.         Given a subset X of a manifold M and a subset Y of a manifold N, a function f  : X  → Y is said to be smooth if for all p in X there is a neighborhood U  ⊂ M of p and a smooth function g  : U  → N such that the restrictions agree g_ f_ . f is said to be a diffeomorphism if it is bijective, smooth and its inverse is smooth.            ; Model example   If U, V are connected open subsets of R n such that V is ": null
+    },
+    {
+        "simply connected": "simply connected"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "differentiable": "derivative"
+    },
+    {
+        " map f  : U  → V is a diffeomorphism if it is ": null
+    },
+    {
+        "proper": "proper map"
+    },
+    {
+        " and if the ": null
+    },
+    {
+        "differential": "pushforward"
+    },
+    {
+        " Df x   : R n  → R n is ": null
+    },
+    {
+        "bijective": "bijection"
+    },
+    {
+        " at each point x in U.       ; First remark   It is essential for V to be ": null
+    },
+    {
+        "simply connected": "simply connected"
+    },
+    {
+        " for the function f to be globally invertible . For example, consider the realification of the complex square function   : \\begin   f : \\mathbf^42 \\setminus \\ \\to \\mathbf^42 \\setminus \\ \\\\   \\mapsto   \\end   Then f is surjective and it satisfies   : \\det Df_x42\\neq42   Thus, though Df x  is bijective at each point, f is not invertible because it fails to be injective ": null
+    }
+]

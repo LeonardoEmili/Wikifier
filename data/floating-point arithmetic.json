@@ -1,0 +1,611 @@
+[
+    {
+        "           In ": null
+    },
+    {
+        "computing": "computing"
+    },
+    {
+        ", floating-point arithmetic  is arithmetic using formulaic representation of ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s as an approximation to support a ": null
+    },
+    {
+        "trade-off": "trade-off"
+    },
+    {
+        " between range and ": null
+    },
+    {
+        "precision": "precision"
+    },
+    {
+        ". For this reason, floating-point computation is often found in systems which include very small and very large real numbers, which require fast processing times. A number is, in general, represented approximately to a fixed number of ": null
+    },
+    {
+        "significant digit": "significant digit"
+    },
+    {
+        "s  and scaled using an ": null
+    },
+    {
+        "exponent": "exponentiation"
+    },
+    {
+        " in some fixed base; the base for the scaling is normally two, ten, or sixteen. A number that can be represented exactly is of the following form:   : \\text \\times \\text^\\text,   where significand is an ": null
+    },
+    {
+        "integer": "integer"
+    },
+    {
+        ", base is an integer greater than or equal to two, and exponent is also an integer.   For example:   : 42 \\underbrace_\\text \\times \\underbrace_\\text\\!\\!\\!\\!\\!\\!^.     The term floating point refers to the fact that a numbers ": null
+    },
+    {
+        "radix point": "radix point"
+    },
+    {
+        "  can float ; that is, it can be placed anywhere relative to the significant digits of the number. This position is indicated as the exponent component, and thus the floating-point representation can be thought of as a kind of ": null
+    },
+    {
+        "scientific notation": "scientific notation"
+    },
+    {
+        ".     A floating-point system can be used to represent, with a fixed number of digits, numbers of different ": null
+    },
+    {
+        "orders of magnitude": "orders of magnitude"
+    },
+    {
+        ": e.g. the ": null
+    },
+    {
+        "distance between galaxies": "astronomical scales"
+    },
+    {
+        " or the ": null
+    },
+    {
+        "diameter of an atomic nucleus": "subatomic scales"
+    },
+    {
+        " can be expressed with the same unit of length. The result of this ": null
+    },
+    {
+        "dynamic range": "dynamic range"
+    },
+    {
+        " is that the numbers that can be represented are not uniformly spaced; the difference between two consecutive representable numbers grows with the chosen scale.          Over the years, a variety of floating-point representations have been used in computers. In 42 the ": null
+    },
+    {
+        "IEEE 42": "ieee 754"
+    },
+    {
+        " Standard for Floating-Point Arithmetic was established, and since the 42s, the most commonly encountered representations are those defined by the IEEE.     The speed of floating-point operations, commonly measured in terms of ": null
+    },
+    {
+        "FLOPS": "flops"
+    },
+    {
+        ", is an important characteristic of a ": null
+    },
+    {
+        "computer system": "computer system"
+    },
+    {
+        ", especially for applications that involve intensive mathematical calculations.     A ": null
+    },
+    {
+        "floating-point unit": "floating-point unit"
+    },
+    {
+        "  is a part of a computer system specially designed to carry out operations on floating-point numbers.         A ": null
+    },
+    {
+        "number representation": "number representation"
+    },
+    {
+        " specifies some way of encoding a number, usually as a string of digits.     There are several mechanisms by which strings of digits can represent numbers. In common mathematical notation, the digit string can be of any length, and the location of the ": null
+    },
+    {
+        "radix point": "radix point"
+    },
+    {
+        " is indicated by placing an explicit ": null
+    },
+    {
+        " point character": "decimal separator"
+    },
+    {
+        " there. If the radix point is not specified, then the string implicitly represents an ": null
+    },
+    {
+        "integer": "integer"
+    },
+    {
+        " and the unstated radix point would be off the right-hand end of the string, next to the least significant digit. In ": null
+    },
+    {
+        "fixed-point": "fixed-point arithmetic"
+    },
+    {
+        " systems, a position in the string is specified for the radix point. So a fixed-point scheme might be to use a string of 42 decimal digits with the decimal point in the middle, whereby 42 would represent 42.     In ": null
+    },
+    {
+        "scientific notation": "scientific notation"
+    },
+    {
+        ", the given number is scaled by a ": null
+    },
+    {
+        "power of 42": "exponentiation"
+    },
+    {
+        ", so that it lies within a certain range—typically between 42 and 42 with the radix point appearing immediately after the first digit. The scaling factor, as a power of ten, is then indicated separately at the end of the number. For example, the orbital period of ": null
+    },
+    {
+        "Jupiter": "jupiter"
+    },
+    {
+        "s moon ": null
+    },
+    {
+        "Io": "io"
+    },
+    {
+        " is  seconds, a value that would be represented in standard-form scientific notation as  seconds.     Floating-point representation is similar in concept to scientific notation. Logically, a floating-point number consists of:   A signed digit string of a given length in a given ": null
+    },
+    {
+        "base": "base"
+    },
+    {
+        " . This digit string is referred to as the ": null
+    },
+    {
+        "significand, mantissa, or coefficient": "significand"
+    },
+    {
+        ". The length of the significand determines the precision to which numbers can be represented. The radix point position is assumed always to be somewhere within the significand—often just after or just before the most significant digit, or to the right of the rightmost digit. This article generally follows the convention that the radix point is set just after the most significant digit.   A signed integer ": null
+    },
+    {
+        "exponent": "exponent"
+    },
+    {
+        " , which modifies the magnitude of the number.     To derive the value of the floating-point number, the significand is multiplied by the base raised to the power of the exponent, equivalent to shifting the radix point from its implied position by a number of places equal to the value of the exponent—to the right if the exponent is positive or to the left if the exponent is negative.     Using base42  as an example, the number , which has ten decimal digits of precision, is represented as the significand  together with 42 as the exponent. To determine the actual value, a decimal point is placed after the first digit of the significand and the result is multiplied by  to give , or . In storing such a number, the base need not be stored, since it will be the same for the entire range of supported numbers, and can thus be inferred.     Symbolically, this final value is:   : \\frac \\times b^e,     where  is the significand ,  is the precision ,  is the base , and  is the exponent.     Historically, several number bases have been used for representing floating-point numbers, with base two  being the most common, followed by base ten , and other less common varieties, such as base sixteen , eight , base four , base three  and even base 42 and base .     A floating-point number is a ": null
+    },
+    {
+        "rational number": "rational number"
+    },
+    {
+        ", because it can be represented as one integer divided by another; for example  is ×42 or /42 The base determines the fractions that can be represented; for instance, 42/42 cannot be represented exactly as a floating-point number using a binary base, but 42/42 can be represented exactly using a decimal base . However, 42/42 cannot be represented exactly by either binary or decimal , but in ": null
+    },
+    {
+        "base 42": "ternary numeral system"
+    },
+    {
+        ", it is trivial . The occasions on which infinite expansions occur ": null
+    },
+    {
+        "depend on the base and its prime factors": "positional notationinfinite representations"
+    },
+    {
+        ".       The way in which the significand and exponent are stored in a computer is implementation-dependent. The common IEEE formats are described in detail later and elsewhere, but as an example, in the binary single-precision floating-point representation, p 42 , and so the significand is a string of 42 ": null
+    },
+    {
+        "bit": "bit"
+    },
+    {
+        "s. For instance, the number ": null
+    },
+    {
+        "π": "pi"
+    },
+    {
+        "s first 42 bits are:   : 42\\ 42\\ 42\\underline\\ 42\\ 42     In this binary expansion, let us denote the positions from 42 to 42 . The 42-bit significand will stop at position  42 shown as the underlined bit  above. The next bit, at position  42 is called the round bit or rounding bit. It is used to round the 42-bit approximation to the nearest 42-bit number . This bit, which is  in this example, is added to the integer formed by the leftmost 42 bits, yielding:   : 42\\ 42\\ 42\\underline.     When this is stored in memory using the IEEE 42 encoding, this becomes the ": null
+    },
+    {
+        "significand": "significand"
+    },
+    {
+        " . The significand is assumed to have a binary point to the right of the leftmost bit. So, the binary representation of π is calculated from left-to-right as follows:   : \\begin   & \\left \\times 42^e \\\\   & \\left \\times 42^42 \\\\   \\approx & 42 \\times 42 \\\\   \\approx & 42   \\end     where  is the precision ,  is the position of the bit of the significand from the left  and  is the exponent .     It can be required that the most significant digit of the significand of a non-zero number be non-zero . This process is called normalization. For binary formats , this non-zero digit is necessarily . Therefore, it does not need to be represented in memory; allowing the format to have one more bit of precision. This rule is variously called the leading bit convention, the implicit bit convention, the hidden bit convention, or the assumed bit convention.       The floating-point representation is by far the most common way of representing in computers an approximation to real numbers. However, there are alternatives:   ": null
+    },
+    {
+        "Fixed-point": "fixed-point arithmetic"
+    },
+    {
+        " representation uses integer hardware operations controlled by a software implementation of a specific convention about the location of the binary or decimal point, for example, 42 bits or digits from the right. The hardware to manipulate these representations is less costly than floating point, and it can be used to perform normal integer operations, too. Binary fixed point is usually used in special-purpose applications on embedded processors that can only do integer arithmetic, but decimal fixed point is common in commercial applications.   ": null
+    },
+    {
+        "Logarithmic number system": "logarithmic number system"
+    },
+    {
+        "s represent a real number by the logarithm of its absolute value and a sign bit. The value distribution is similar to floating point, but the value-to-representation curve  is smooth . Conversely to floating-point arithmetic, in a logarithmic number system multiplication, division and exponentiation are simple to implement, but addition and subtraction are complex. The  ": null
+    },
+    {
+        "level-index arithmetic": "level-index arithmetic"
+    },
+    {
+        " of Charles Clenshaw, ": null
+    },
+    {
+        "Frank Olver": "frank william john olver"
+    },
+    {
+        " and Peter Turner is a scheme based on a ": null
+    },
+    {
+        "generalized logarithm": "generalized logarithm"
+    },
+    {
+        " representation.   ": null
+    },
+    {
+        "Tapered floating-point representation": "tapered floating-point representation"
+    },
+    {
+        ", which does not appear to be used in practice.   Where greater precision is desired, floating-point arithmetic can be implemented with variable-length significands that are sized depending on actual need and depending on how the calculation proceeds. This is called ": null
+    },
+    {
+        "arbitrary-precision": "arbitrary-precision arithmetic"
+    },
+    {
+        " floating-point arithmetic.   Floating-point expansions are another way to get a greater precision, benefiting from the floating-point hardware: a number is represented as an unevaluated sum of several floating-point numbers. An example is ": null
+    },
+    {
+        "double-double arithmetic": "quadruple-precision floating-point formatdouble-double arithmetic"
+    },
+    {
+        ", sometimes used for the C type ": null
+    },
+    {
+        "long double": "long double"
+    },
+    {
+        " .   Some simple rational numbers  cannot be represented exactly in binary floating point, no matter what the precision is. Using a different radix allows one to represent some of them , but the possibilities remain limited. Software packages that perform ": null
+    },
+    {
+        "rational arithmetic": "fraction"
+    },
+    {
+        " represent numbers as fractions with integral numerator and denominator, and can therefore represent any rational number exactly. Such packages generally need to use ": null
+    },
+    {
+        "bignum": "bignum"
+    },
+    {
+        " arithmetic for the individual integers.   ": null
+    },
+    {
+        "Interval arithmetic": "interval arithmetic"
+    },
+    {
+        " allows one to represent numbers as intervals and obtain guaranteed bounds on results. It is generally based on other arithmetics, in particular floating point.   ": null
+    },
+    {
+        "Computer algebra system": "computer algebra system"
+    },
+    {
+        "s such as ": null
+    },
+    {
+        "Mathematica": "mathematica"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Maxima": "maxima"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Maple": "maple"
+    },
+    {
+        " can often handle irrational numbers like \\pi or \\sqrt in a completely formal way, without dealing with a specific encoding of the significand. Such a program can evaluate expressions like \\sin exactly, because it is programmed to process the underlying mathematics directly, instead of using approximate values for each intermediate calculation.       In 42 ": null
+    },
+    {
+        "Leonardo Torres y Quevedo": "leonardo torres y quevedo"
+    },
+    {
+        " designed an ": null
+    },
+    {
+        "electro-mechanical": "electro-mechanical"
+    },
+    {
+        " version of ": null
+    },
+    {
+        "Charles Babbage": "charles babbage"
+    },
+    {
+        "s ": null
+    },
+    {
+        "Analytical Engine": "analytical engine"
+    },
+    {
+        ", and included floating-point arithmetic.   In 42 ": null
+    },
+    {
+        "Konrad Zuse": "konrad zuse"
+    },
+    {
+        " of Berlin completed the ": null
+    },
+    {
+        "Z42": "z1"
+    },
+    {
+        ", the first binary, programmable ": null
+    },
+    {
+        "mechanical computer": "mechanical computer"
+    },
+    {
+        "; it uses a 42-bit binary floating-point number representation with a 42-bit signed exponent, a 42-bit significand , and a sign bit. The more reliable ": null
+    },
+    {
+        "relay": "relay"
+    },
+    {
+        "-based ": null
+    },
+    {
+        "Z42": "z3"
+    },
+    {
+        ", completed in 42 has representations for both positive and negative infinities; in particular, it implements defined operations with infinity, such as ^42/_\\infty 42 , and it stops on undefined operations, such as 42 \\times \\infty .        Zuse also proposed, but did not complete, carefully rounded floating-point arithmetic that includes \\pm\\infty and NaN representations, anticipating features of the IEEE Standard by four decades. In contrast, ": null
+    },
+    {
+        "von Neumann": "john von neumann"
+    },
+    {
+        " recommended against floating-point numbers for the 42 ": null
+    },
+    {
+        "IAS machine": "ias machine"
+    },
+    {
+        ", arguing that fixed-point arithmetic is preferable.     The first commercial computer with floating-point hardware was Zuses ": null
+    },
+    {
+        "Z42": "z4"
+    },
+    {
+        " computer, designed in 42–42 In 42 Bell Laboratories introduced the Mark  V, which implemented ": null
+    },
+    {
+        "decimal floating-point numbers": "decimal floating point"
+    },
+    {
+        ".     The ": null
+    },
+    {
+        "Pilot ACE": "pilot ace"
+    },
+    {
+        " has binary floating-point arithmetic, and it became operational in 42 at ": null
+    },
+    {
+        "National Physical Laboratory, UK": "national physical laboratory, uk"
+    },
+    {
+        ". Thirty-three were later sold commercially as the ": null
+    },
+    {
+        "English Electric DEUCE": "english electric deuce"
+    },
+    {
+        ". The arithmetic is actually implemented in software, but with a one megahertz clock rate, the speed of floating-point and fixed-point operations in this machine were initially faster than those of many competing computers.     The mass-produced ": null
+    },
+    {
+        "IBM 42": "ibm 704"
+    },
+    {
+        " followed in 42; it introduced the use of a ": null
+    },
+    {
+        "biased exponent": "exponent bias"
+    },
+    {
+        ". For many decades after that, floating-point hardware was typically an optional feature, and computers that had it were said to be scientific computers , or to have ": null
+    },
+    {
+        "scientific computation": "scientific computation"
+    },
+    {
+        " capability . It was not until the launch of the Intel i42 in 42 that general-purpose personal computers had floating-point capability in hardware as a standard feature.     The ": null
+    },
+    {
+        "UNIVAC 42/42 series": "univac 1100/2200 series"
+    },
+    {
+        ", introduced in 42 supported two floating-point representations:   Single precision: 42 bits, organized as a 42-bit sign, an 42-bit exponent, and a 42-bit significand.   Double precision: 42 bits, organized as a 42-bit sign, an 42-bit exponent, and a 42-bit significand.     The ": null
+    },
+    {
+        "IBM 42": "ibm 7094"
+    },
+    {
+        ", also introduced in 42 supports single-precision and double-precision representations, but with no relation to the UNIVACs representations. Indeed, in 42 IBM introduced ": null
+    },
+    {
+        "hexadecimal floating-point representations": "ibm floating point architecture"
+    },
+    {
+        " in its ": null
+    },
+    {
+        "System/42": "system/360"
+    },
+    {
+        " mainframes; these same representations are still available for use in modern ": null
+    },
+    {
+        "z/Architecture": "z/architecture"
+    },
+    {
+        " systems. However, in 42 IBM included IEEE-compatible binary floating-point arithmetic to its mainframes; in 42 IBM also added IEEE-compatible decimal floating-point arithmetic.     Initially, computers used many different representations for floating-point numbers. The lack of standardization at the mainframe level was an ongoing problem by the early 42s for those writing and maintaining higher-level source code; these manufacturer floating-point standards differed in the word sizes, the representations, and the rounding behavior and general accuracy of operations. Floating-point compatibility across multiple computing systems was in desperate need of standardization by the early 42s, leading to the creation of the ": null
+    },
+    {
+        "IEEE 42": "ieee 754"
+    },
+    {
+        " standard once the 42-bit ": null
+    },
+    {
+        "word": "word"
+    },
+    {
+        " had become commonplace. This standard was significantly based on a proposal from Intel, which was designing the ": null
+    },
+    {
+        "i42": "intel 8087"
+    },
+    {
+        " numerical coprocessor; Motorola, which was designing the ": null
+    },
+    {
+        "42": "68000"
+    },
+    {
+        " around the same time, gave significant input as well.     In 42 mathematician and computer scientist ": null
+    },
+    {
+        "William Kahan": "william kahan"
+    },
+    {
+        " was honored with the ": null
+    },
+    {
+        "Turing Award": "turing award"
+    },
+    {
+        " for being the primary architect behind this proposal; he was aided by his student and a visiting professor .     Among the x42 innovations are these:   A precisely specified floating-point representation at the bit-string level, so that all compliant computers interpret bit patterns the same way. This makes it possible to accurately and efficiently transfer floating-point numbers from one computer to another .   A precisely specified behavior for the arithmetic operations: A result is required to be produced as if infinitely precise arithmetic were used to yield a value that is then rounded according to specific rules. This means that a compliant computer program would always produce the same result when given a particular input, thus mitigating the almost mystical reputation that floating-point computation had developed for its hitherto seemingly non-deterministic behavior.   The ability of ": null
+    },
+    {
+        "exceptional conditions": "ieee 754exception handling"
+    },
+    {
+        "  to propagate through a computation in a benign manner and then be handled by the software in a controlled fashion.       A floating-point number consists of two ": null
+    },
+    {
+        "fixed-point": "fixed-point arithmetic"
+    },
+    {
+        " components, whose range depends exclusively on the number of bits or digits in their representation. Whereas components linearly depend on their range, the floating-point range linearly depends on the significand range and exponentially on the range of exponent component, which attaches outstandingly wider range to the number.     On a typical computer system, a  double-precision  binary floating-point number has a coefficient of 42 bits , an exponent of 42 bits, and 42 sign bit. Since 42 42 42 the complete range of the positive normal floating-point numbers in this format is from 42 −42  ≈  42  ×  42 −42 to approximately 42 42  ≈  42  ×  42 42 .     The number of normalized floating-point numbers in a system  where     B is the base of the system,   P is the precision of the system to P numbers,   L is the smallest exponent representable in the system,   and U is the largest exponent used in the systemB - 42\\rightB^\\rightU - L + 42\\right42 - B^\\rightB^\\righta.k.a. IEC 42though this is ": null
+    },
+    {
+        "not guaranteed": "c data typesbasic types"
+    },
+    {
+        "42 bytesabout 42 decimal digitsthough this is ": null
+    },
+    {
+        "not guaranteed": "c data typesbasic types"
+    },
+    {
+        "42 bytesabout 42 decimal digits42 if the hidden/implicit bit rule is not usedabout 42 decimal digits42-bit significand precision, 42-bit exponent, thus fitting on 42 bitsthe ": null
+    },
+    {
+        "C42": "c99"
+    },
+    {
+        " and ": null
+    },
+    {
+        "C42": "c11"
+    },
+    {
+        " standards IEC 42 floating-point arithmetic extension- Annex F recommend the 42-bit extended format to be provided as long double when availablebinary42 bytesabout 42 decimal digitsdecimal42decimal42decimal42": null
+    },
+    {
+        "ogramming langua": "ogramming langua"
+    },
+    {
+        "+∞−∞−42 positive ": null
+    },
+    {
+        "NaN": "nan"
+    },
+    {
+        "sin the set of real numbersbasic and extended including the hidden bit42excluding the hidden bit42−42−42so that the identity 42/ ±∞ is maintainedxxflush to zeroas well as normal valuesbut not always, as it depends on the roundinglike Cs INFINITY macro, or ∞ if the programming language allows that syntax+∞42+∞+∞−42−∞+∞NaN−42including numerical comparisonszz − 42 + 42/ ": null
+    },
+    {
+        "acecra": "acecra"
+    },
+    {
+        "ULPfor example, a terminating decimal expansion in base42 or a terminating binary expansion in base42or bitswould be rounded to 42 or 42 where the rightmost digit 42 is not explicitly storedsuch as a character string42.42..such as 42/42 or 42/42ULPor a conversion to floating-point formatalthough in implementation only three extra bits are needed to ensure thisor rounding modes round to nearest, ties to even , sometimes called Bankers Roundinginfinitely precisenon-NaN Library functions such as cosine and log are not mandated.the default and by far the most common modeoptional for binary floating-point and commonly used in decimaltoward +∞; negative results thus round toward zerotoward −∞; negative results thus round away from zerotruncation; it is similar to the common behavior of float-to-integer conversions, which convert −42 to −42 and 42 to 42it does not affect the numerical value of the result42 × 42^42 × 42^42 × 42^42 × 42^42 + 42.42after shiftingtrue sum: 42final sum: 42after shiftingtrue sumafter rounding and normalizationafter rounding and normalizationalthough gradual underflow ensures that the result will not be zero unless the two operands were equaltrue productafter roundingafter normalizationsee ": null
+    },
+    {
+        "Booths multiplication algorithm": "booths multiplication algorithm"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Division algorithm": "division algorithm"
+    },
+    {
+        "both of which result in ": null
+    },
+    {
+        "complex number": "complex number"
+    },
+    {
+        "sexponent too largeexponent too smallprecision loss": null
+    },
+    {
+        "mputi": "mputi"
+    },
+    {
+        "The term exception as used in IEEE 42 is a general term meaning an exceptional condition, which is not necessarily an error, and is a different usage to that typically defined in programming languages such as a C++ or Java, in which an ": null
+    },
+    {
+        "exception": "exception handling"
+    },
+    {
+        " is an alternative flow of control, closer to what is termed a trap in IEEE 42 terminologythe IEEE 42 optional trapping and other alternate exception handling modes are not discussedby defaultarithmeticthis default of ∞ is designed to often return a finite result when used in subsequent operations and so be safely ignoredapart from assemblere.g., ": null
+    },
+    {
+        "C42": "c99"
+    },
+    {
+        "/C42 and Fortran": null
+    },
+    {
+        "mputer scien": "mputer scien"
+    },
+    {
+        "e.g. ": null
+    },
+    {
+        "C42": "c11"
+    },
+    {
+        " specifies that the flags have ": null
+    },
+    {
+        "thread-local storage": "thread-local storage"
+    },
+    {
+        " sticky bits and returnedas specified in IEEE 42or maybe limited to if it has denormalization loss, as per the 42 version of IEEE 42−42see fig. 42tot42/R_4242/R_42+\\cdots42/R_ntotsee the continued fraction example of ": null
+    },
+    {
+        "IEEE 42 design rationale": "floating pointieee 754: floating point in modern computers"
+    },
+    {
+        " for another example": null
+    },
+    {
+        "mputer scien": "mputer scien"
+    },
+    {
+        "in binarysingle precisiondecimalwith roundingand π/42π/42π/42pi/42using the tanf functionπapproximatelya + b b + a and a × b b × aa + bb + ca + baba + bc": null
+    }
+]

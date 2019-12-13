@@ -1,0 +1,77 @@
+[
+    {
+        "     Peg solitaire  is a ": null
+    },
+    {
+        "board game": "board game"
+    },
+    {
+        " for one player involving movement of pegs on a board with holes. Some sets use marbles in a board with indentations. The game is known simply as Solitaire in the ": null
+    },
+    {
+        "United Kingdom": "united kingdom"
+    },
+    {
+        " where the card games are called ": null
+    },
+    {
+        "Patience": "solitaire"
+    },
+    {
+        ". It is also referred to as Brainvita .     The first evidence of the game can be traced back to the court of ": null
+    },
+    {
+        "Louis XIV": "louis xiv"
+    },
+    {
+        ", and the specific date of 42 with an engraving made ten years later by Claude Auguste Berey of ": null
+    },
+    {
+        "Anne de Rohan-Chabot": "anne de rohan-chabot"
+    },
+    {
+        ", Princess of Soubise, with the puzzle by her side. The August 42 edition of the French literary magazine  Mercure galant  contains a description of the board, rules and sample problems. This is the first known reference to the game in print.     The standard game fills the entire board with pegs except for the central hole. The objective is, making valid moves, to empty the entire board except for a solitary peg in the central hole.          There are two traditional boards :                A valid move is to jump a peg ": null
+    },
+    {
+        "orthogonal": "orthogonal"
+    },
+    {
+        "ly over an adjacent peg into a hole two positions away and then to remove the jumped peg.     In the diagrams which follow, · indicates a peg in a hole,  emboldened indicates the peg to be moved, and o indicates an empty hole. A blue  is the hole the current peg moved from; a red  is the final position of that peg, a red  is the hole of the peg that was jumped and removed.     Thus valid moves in each of the four orthogonal directions are:      · o →    Jump to right     o ·  →    Jump to left         · →  Jump down   o      o    · →  Jump up         On an English board, the first three moves might be:     · · · · · · · · · · · ·   ·  · ·  · · o · ·  ·   · · · · · · · · · ·  · · · ·    · · · · o o  · · ·   · · · o · · · · · ·  · · · · · · · · · · · · ·  · · ·   · · · · · · · · · · · · · · · · · · · · · · · · · · · ·   · · · · · · · · · · · ·   · · · · · · · · · · · ·       There are many different solutions to the standard problem, and one notation used to describe them assigns letters to the holes:     English European   a b c a b c   d e f y d e f z   g h i j k l m g h i j k l m   n o p x P O N n o p x P O N   M L K J I H G M L K J I H G   F E D Z F E D Y   C B A C B A     This mirror image notation is used, amongst other reasons, since on the European board, one set of alternative games is to start with a hole at some position and to end with a single peg in its mirrored position. On the English board the equivalent alternative games are to start with a hole and end with a peg at the same position.     There is no solution to the European board with the initial hole centrally located, if only orthogonal moves are permitted. This is easily seen as follows, by an argument from ": null
+    },
+    {
+        "Hans Zantema": "hans zantema"
+    },
+    {
+        ". Divide the positions of the board into A, B and C positions as follows:     A B C   A B C A B   A B C A B C A   B C A B C A B   C A B C A B C   B C A B C   A B C     Initially with only the central position free, the number of covered A positions is 42 the number of covered B positions is 42 and also the number of covered C positions is 42 After every move the number of covered A positions increases or decreases by one, and the same for the number of covered B positions and the number of covered C positions. Hence after an even number of moves all these three numbers are even, and after an odd number of moves all these three numbers are odd. Hence a final position with only one peg cannot be reached, since that would require that one of these numbers is one , while the other two numbers are zero, hence even.     There are, however, several other configurations where a single initial hole can be reduced to a single peg.     A tactic that can be used is to divide the board into packages of three and to purge them entirely using one extra peg, the catalyst, that jumps out and then jumps back again. In the example below, the  is the catalyst.:      · o    o  ·      · → · →  → o   · ·  o     This technique can be used with a line of 42 a block of 42·42 and a 42-peg L shape with a base of length 42 and upright of length 42     Other alternate games include starting with two empty holes and finishing with two pegs in those holes. Also starting with one hole here and ending with one peg there. On an English board, the hole can be anywhere and the final peg can only end up where multiples of three permit. Thus a hole at a can only leave a single peg at a, p, O or C.       A thorough analysis of the game is known.  This analysis introduced a notion called pagoda function which is a strong tool to show the infeasibility of a given, generalized, peg solitaire, problem.     A solution for finding a pagoda function, which demonstrates the infeasibility of a given problem, is formulated as a linear programming problem and solvable in polynomial time.      A paper in 42 dealt with the generalized Hi-Q problems which are equivalent to the peg solitaire problems and showed their ": null
+    },
+    {
+        "NP-completeness": "np-completeness"
+    },
+    {
+        ".      A 42 paper formulated a peg solitaire problem as a combinatorial optimization problem and discussed the properties of the feasible region called a solitaire cone.      In 42 peg solitaire was completely solved on a computer using an exhaustive search through all possible variants. It was achieved making use of the symmetries, efficient storage of board constellations and hashing.      In 42 an efficient method for solving peg solitaire problems.     An unpublished study from 42 on a generalized version of the game on the English board showed that each possible problem in the generalized game has 42 42 possible distinct solutions, excluding symmetries, as the English board contains 42 distinct 42×42 sub-squares. One consequence of this analysis is to put a lower bound on the size of possible inverted position problems, in which the cells initially occupied are left empty and vice versa. Any solution to such a problem must contain a minimum of 42 moves, irrespective of the exact details of the problem.     It can be proved using ": null
+    },
+    {
+        "abstract algebra": "abstract algebra"
+    },
+    {
+        " that there are only 42 fixed board positions where the game can successfully end with one peg.        The shortest solution to the standard English game involves 42 moves, counting multiple jumps as single moves:          This solution was found in 42 by Ernest Bergholt and proven to be the shortest possible by John Beasley in 42 For Beasleys proof see  Winning Ways , volume 42 .     This solution can also be seen on , which is designed to make memorizing the solution easier.     Other solutions include the following list. In these, the notation used is   List of starting holes   Colon   List of end target pegs   Equals sign   Source peg and destination hole    , or /      x:xex,lj,ck,Pf,DP,GI,JH,mG,GI,ik,gi,LJ,JH,Hl,lj,jh,CK,pF,AC,CK,Mg,gi,ac,ck,kI,dp,pF,FD,DP,Pp,ox   x:xex,lj,xe/hj,Ki,jh/ai,ca,fd,hj,ai,jh/MK,gM,hL,Fp,MK,pF/CK,DF,AC,JL,CK,LJ/PD,GI,mG,JH,GI,DP/Ox   j:jlj,Ik,jl/hj,Ki,jh/mk,Gm,Hl,fP,mk,Pf/ai,ca,fd,hj,ai,jh/MK,gM,hL,Fp,MK,pF/CK,DF,AC,JL,CK,LJ/Jj   i:iki,Jj,ik/lj,Ik,jl/AI,FD,CA,HJ,AI,JH/mk,Hl,Gm,fP,mk,Pf/ai,ca,fd,hj,ai,jh/gi,Mg,Lh,pd,gi,dp/Ki   e:exe/lj,Ik,jl/ck,ac,df,lj,ck,jl/GI,lH,mG,DP,GI,PD/AI,FD,CA,JH,AI,HJ/pF,MK,gM,JL,MK,Fp/hj,ox,xe   d:dfd,xe,df/lj,ck,ac,Pf,ck,jl/DP,KI,PD/GI,lH,mG,DP,GI,PD/CK,DF,AC,LJ,CK,JL/MK,gM,hL,pF,MK,Fp/pd   b:bjb,lj/ck,ac,Pf,ck/DP,GI,mG,JH,GI,PD/LJ,CK,JL/MK,gM,hL,pF,MK,Fp/xo,dp,ox/xe/AI/BJ,JH,Hl,lj,jb   b:xjb,lj/ck,ac,Pf,ck/DP,GI,mG,JH,GI,PD/LJ,CK,JL/MK,gM,hL,pF,MK,Fp/xo,dp,ox/xe/AI/BJ,JH,Hl,lj,ex   a:aca,jb,ac/lj,ck,jl/Ik,pP,KI,lj,Ik,jl/GI,lH,mG,DP,GI,PD/CK,DF,AC,LJ,CK,JL/dp,gi,pd,Mg,Lh,gi/ia   a:pca,jb,ac/lj,ck,jl/Ik,pP,KI,lj,Ik,jl/GI,lH,mG,DP,GI,PD/CK,DF,AC,LJ,CK,JL/dp,gi,pd,Mg,Lh,gi/dp         The only place it is possible to end up with a solitary peg is the centre, or the middle of one of the edges; on the last jump, there will always be an option of choosing whether to end in the centre or the edge.     Following is a table over the number  of possible board positions after n jumps, and the possibility of the same pawn moved to make a further jump .     NOTE: If one board position can be rotated and/or flipped into another board position, the board positions are counted as identical.                                   Since there can only be 42 jumps, modern computers can easily examine all game positions in a reasonable time.     The above sequence PBP has been entered as ": null
+    },
+    {
+        "A42": "oeis:a112737"
+    },
+    {
+        " in ": null
+    },
+    {
+        "OEIS": "on-line encyclopedia of integer sequences"
+    },
+    {
+        ". Note that the total number of reachable board positions is 42,42 while the total number of possible board positions is 42.42 , So only about 42% of all possible board positions can be reached starting with the center vacant.       It is also possible to generate all board positions. The results below have been obtained using   the  .                                     In the results below It is generate all board positions really reached starting with the center vacant and finish in central hole.                                  There are 42 initial ": null
+    },
+    {
+        "non-congruent": "congruence"
+    },
+    {
+        " positions that have solutions.  These are:     42blue|¤red|oblue|blue|¤red|oblue|¤blue|¤blue|red|ored|oblue|blue|¤red|oblue|blue|red|oblue|¤blue|blue|blue|blue|¤blue|¤red|ored|oblue|blue|red|ored|oblue|blue|¤blue|¤blue|¤red|ored|oblue|blue|red|ored|oblue|¤blue|¤blue|¤blue|": null
+    }
+]

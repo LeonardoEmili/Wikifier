@@ -1,0 +1,377 @@
+[
+    {
+        "           A DVD player is a device that plays ": null
+    },
+    {
+        "DVD": "dvd"
+    },
+    {
+        "s produced under both the ": null
+    },
+    {
+        "DVD-Video": "dvd-video"
+    },
+    {
+        " and ": null
+    },
+    {
+        "DVD-Audio": "dvd-audio"
+    },
+    {
+        " technical standards, two different and incompatible standards. Some DVD players will also play audio CDs. DVD players are connected to a television to watch the DVD content, which could be a movie, a recorded TV show, or other content.     The first DVD player was created by Sony Corporation in Japan in collaboration with Pacific Digital Company from the United States in 42 Some manufacturers originally announced that DVD players would be available as early as the middle of 42 These predictions were too optimistic. Delivery was initially held up for political reasons of copy protection demanded by movie studios, but was later delayed by lack of movie titles. The first players appeared in Japan on November 42 42 followed by the United States on March 42 42 with distribution limited to only seven major cities for the first six months.     Players slowly trickled into other regions around the world. Prices for the first players in 42 started at $42 and could top out at prices over $42 By the end of 42 players were available for under $42 at discount retailers. In 42 players became available for under $42 Six years after the initial launch, close to one thousand models of DVD players were available from over a hundred consumer electronics manufacturers.     Fujitsu released the first DVD-ROM-equipped computer on November 42th in GB. Toshiba released a DVD-ROM-equipped computer and a DVD-ROM drive in Japan in early 42 . DVD-ROM drives from Toshiba, Pioneer, Panasonic, Hitachi, and Sony began appearing in sample quantities as early as January 42 but none were available before May. The first PC upgrade kits became available from Creative Labs, Hi-Val, and Diamond Multimedia in April and May 42 In 42 every major PC manufacturer has models that include DVD-ROM drives.     The first DVD-Audio players were released in Japan by Pioneer in late 42 but they did not play copy-protected discs. Matsushita first released full-fledged players in July 42 for $42 to $42. DVD-Audio players are now also made by Aiwa, Denon, JVC, Kenwood, Madrigal, Marantz, Nakamichi, Onkyo, Toshiba, Yamaha, and others. Sony released the first SACD players in May 42 for $42. Pioneers first DVD-Audio players released in late 42 also played SACD. SACD players are now also made by Accuphase, Aiwa, Denon, Kenwood, Marantz, Philips, Sharp, and others.            A DVD player has to complete these tasks:   Read a ": null
+    },
+    {
+        "DVD": "dvd"
+    },
+    {
+        " in ISO – ": null
+    },
+    {
+        "UDF": "universal disk format"
+    },
+    {
+        " version 42 format   Optionally decrypt the data with either ": null
+    },
+    {
+        "CSS": "content-scrambling system"
+    },
+    {
+        " and/or ": null
+    },
+    {
+        "Macrovision": "macrovision"
+    },
+    {
+        " Regional lockout": "regional lockout"
+    },
+    {
+        " codes and display a warning if the player is not authorized to play the DVD   Decode the ": null
+    },
+    {
+        "MPEG42": "mpeg-2"
+    },
+    {
+        " video stream with a maximum of 42 Mbit/s or 42 Mbit/s   Decode sound in ": null
+    },
+    {
+        "MP42": "mp2"
+    },
+    {
+        ", ": null
+    },
+    {
+        "PCM": "pulse-code modulation"
+    },
+    {
+        " or ": null
+    },
+    {
+        "AC42": "dolby ac-3"
+    },
+    {
+        " format and output on stereo connector, optical or electric digital connector   Output a video signal, either an analog one  on the ": null
+    },
+    {
+        "composite": "composite video"
+    },
+    {
+        ", ": null
+    },
+    {
+        "S-Video": "s-video"
+    },
+    {
+        ", ": null
+    },
+    {
+        "SCART": "scart"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "component video": "component video"
+    },
+    {
+        " connectors, or a digital one on the ": null
+    },
+    {
+        "DVI": "digital visual interface"
+    },
+    {
+        " or ": null
+    },
+    {
+        "HDMI": "high-definition multimedia interface"
+    },
+    {
+        " connectors.   DVD players cannot play ": null
+    },
+    {
+        "Blu-ray ": "blu-ray"
+    },
+    {
+        " discs due to using different wavelength lasers Blu ray use a Blue Violet laser instead of a Red laser. However, all Blu-ray players are backwards compatible and they will play DVDs and some are compatible with ": null
+    },
+    {
+        "CD": "compact disc"
+    },
+    {
+        " and other disc formats.       Additionally, most DVD players allow users to play audio ": null
+    },
+    {
+        "CD": "compact disc"
+    },
+    {
+        "s  and ": null
+    },
+    {
+        "Video CD": "video cd"
+    },
+    {
+        "s . A few include a ": null
+    },
+    {
+        "home cinema": "home cinema"
+    },
+    {
+        " decoder . Some newer devices also play videos in the ": null
+    },
+    {
+        "MPEG42 ASP": "advanced simple profile"
+    },
+    {
+        " video compression format  popular in the Internet.             Most hardware DVD players must be connected to a ": null
+    },
+    {
+        "television": "television"
+    },
+    {
+        "; there are portable devices which have an attached ": null
+    },
+    {
+        "LCD": "liquid crystal display"
+    },
+    {
+        " screen and stereo speakers. Portable DVD players are often used for long road trips and travel. They often have a plug for the 42 volt power jack in cars. Some models have two screens, so that two people in the back seat can both watch the movie. Other portable DVD players have a single screen that opens up like a laptop computer screen.          Due to multiple audio output devices, there are many outputs on a DVD player, such as an RCA jack, component outputs, and an HDMI output. Consumers may become confused with how to connect a player to a TV or amplifier. Most systems include an optional digital audio connector for this task, which is then paired with a similar input on the amplifier. The physical connection is typically ": null
+    },
+    {
+        "RCA connector": "rca connector"
+    },
+    {
+        "s or ": null
+    },
+    {
+        "TOSLINK": "toslink"
+    },
+    {
+        ", which transmits a ": null
+    },
+    {
+        "S/PDIF": "s/pdif"
+    },
+    {
+        " stream carrying either uncompressed digital audio or the original compressed audio data to be decoded by the audio equipment.       Video is another issue which continues to present most problems. Early generations of DVD players usually outputted ": null
+    },
+    {
+        "analog": "analog signal"
+    },
+    {
+        " video only, via both ": null
+    },
+    {
+        "composite video": "composite video"
+    },
+    {
+        " on an RCA jack and ": null
+    },
+    {
+        "S-Video": "s-video"
+    },
+    {
+        ". However, neither connector was intended to be used for ": null
+    },
+    {
+        "progressive video": "progressive video"
+    },
+    {
+        ", and most later players sold then gained another set of connectors, ": null
+    },
+    {
+        "component video": "component video"
+    },
+    {
+        ", which keeps the three components of the video, luminance and two color differentials, on fully separate wires. This video information is taken directly from the DVD itself. The three components compare well to S-Video, which uses two wires, uniting and degrading the two color signals, and composite, which uses only wire one, uniting and degrading all three signals.     The connectors are further confused by using a number of different physical connectors on different player models, RCA or ": null
+    },
+    {
+        "BNC": "bnc connector"
+    },
+    {
+        ", as well as using ": null
+    },
+    {
+        "VGA": "vga connector"
+    },
+    {
+        " cables in a non-standard way . Even worse, there are often two sets of component outputs, one carrying ": null
+    },
+    {
+        "interlaced video": "interlaced video"
+    },
+    {
+        ", and the other progressive, or an interlaced/progressive switch .     In Europe , ": null
+    },
+    {
+        "SCART": "scart"
+    },
+    {
+        " connectors are generally used, which can carry composite and analog RGB interlaced video signals or Y/C , as well as analog two-channel sound and automatic 42:42 or 42:42 switching on a single convenient multi-wire cable. The analog RGB component signal offers video quality which is superior to S-Video and identical to ": null
+    },
+    {
+        "YPbPr": "ypbpr"
+    },
+    {
+        " component video. However, analog RGB and S-Video signals can not be carried simultaneously, due to each using the same pins for different uses, and displays often must be manually configured as to the input signal, since no switching mode exists for S-Video. Some DVD players and set-top boxes offer YPbPr component video signals over the wires in the SCART connector intended for RGB, though this violates the official specification and manual configuration is again necessary.     ": null
+    },
+    {
+        "HDMI": "high-definition multimedia interface"
+    },
+    {
+        " is a digital connection for carrying high-definition video, similar to ": null
+    },
+    {
+        "DVI": "digital visual interface"
+    },
+    {
+        ". Along with video, HDMI also supports up to eight-channel digital audio. DVD players with connectors for high-definition video can ": null
+    },
+    {
+        "upconvert": "video scaler"
+    },
+    {
+        " the source to formats used for higher definition video , before outputting the signal. By no means, however, will the resulting signal be high-definition video; that is, aside from optional ": null
+    },
+    {
+        "deinterlacing": "deinterlacing"
+    },
+    {
+        ", upconverting generally consists of merely scaling the videos dimensions to match that of higher resolution formats, foregoing the scaling that would normally occur in the output device.       Some DVD players include a ": null
+    },
+    {
+        "USB video recorder": "usb video recorder"
+    },
+    {
+        ". As well as such, there are also have DVD players with a ": null
+    },
+    {
+        "USB port": "usb port"
+    },
+    {
+        " to be able to play digital media types as well as MP42 MP42 etc.       Wireless connections  are useful to manage wirelessly content from or to other devices .       , retail prices for such a device, depending on its optional features , start between 42 and 42 ": null
+    },
+    {
+        "USD": "usd"
+    },
+    {
+        "/": null
+    },
+    {
+        "Euro": "euro"
+    },
+    {
+        ". They are usually cheaper than ": null
+    },
+    {
+        "VCR": "vcr"
+    },
+    {
+        "s.        the largest producer of DVD players is China; in 42 they produced 42 million players, more than 42% of the world output. These producers have to pay US$42–$42 per player in license fees, to the ": null
+    },
+    {
+        "patent": "patent"
+    },
+    {
+        " holders of the DVD technology  as well as for ": null
+    },
+    {
+        "MPEG42": "mpeg-2"
+    },
+    {
+        " licenses.  To avoid these fees, China has developed the ": null
+    },
+    {
+        "Enhanced Versatile Disc": "enhanced versatile disc"
+    },
+    {
+        " standard as an intended successor of DVD; , EVD players were only being sold in China.       Software DVD players are ": null
+    },
+    {
+        "program": "software"
+    },
+    {
+        "s that allow users to view DVD videos on a ": null
+    },
+    {
+        "computer": "computer"
+    },
+    {
+        " with a ": null
+    },
+    {
+        "DVD-ROM": "dvd"
+    },
+    {
+        " drive. Some examples are the ": null
+    },
+    {
+        "VLC media player": "vlc media player"
+    },
+    {
+        ", 42KPlayer and ": null
+    },
+    {
+        "MPlayer": "mplayer"
+    },
+    {
+        " , as well as ": null
+    },
+    {
+        "WinDVD": "windvd"
+    },
+    {
+        ", ": null
+    },
+    {
+        "TotalMedia Theatre": "arcsoft totalmedia theatre"
+    },
+    {
+        ", ": null
+    },
+    {
+        "PowerDVD": "powerdvd"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Fluendo DVD Player": "fluendo dvd player"
+    },
+    {
+        " and ": null
+    },
+    {
+        "DVD Player": "dvd player"
+    },
+    {
+        ".      Among others, there are variants & huge kinds of software DVD players as well as multimedia player software which has DVD video playback capability, whether its proprietary-type, freeware, shareware or just a free software are available in the market.       In the battle to succeed and to improve upon the role of the DVD player as the mainstream medium for stored audiovisual content on optical disc, there were two major contestants: the ": null
+    },
+    {
+        "HD DVD": "hd dvd"
+    },
+    {
+        " player and the ": null
+    },
+    {
+        "Blu-ray Disc": "blu-ray disc"
+    }
+]

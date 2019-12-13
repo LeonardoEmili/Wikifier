@@ -1,0 +1,527 @@
+[
+    {
+        "Orbital elements are the ": null
+    },
+    {
+        "parameter": "parameter"
+    },
+    {
+        "s required to uniquely identify a specific ": null
+    },
+    {
+        "orbit": "orbit"
+    },
+    {
+        ". In ": null
+    },
+    {
+        "celestial mechanics": "celestial mechanics"
+    },
+    {
+        " these elements are generally considered in ": null
+    },
+    {
+        "classical": "classical mechanics"
+    },
+    {
+        " two-body system": "two-body system"
+    },
+    {
+        "s, where a ": null
+    },
+    {
+        "Kepler orbit": "kepler orbit"
+    },
+    {
+        " is used. There are many different ways to mathematically describe the same orbit, but certain schemes, each consisting of a set of six parameters, are commonly used in ": null
+    },
+    {
+        "astronomy": "astronomy"
+    },
+    {
+        " and ": null
+    },
+    {
+        "orbital mechanics": "orbital mechanics"
+    },
+    {
+        ".     A real orbit changes over time due to gravitational ": null
+    },
+    {
+        "perturbations": "perturbation"
+    },
+    {
+        " by other objects and the effects of ": null
+    },
+    {
+        "relativity": "general relativity"
+    },
+    {
+        ". A Keplerian orbit is merely an idealized, mathematical approximation at a particular time.        The traditional orbital elements are the six Keplerian elements, after ": null
+    },
+    {
+        "Johannes Kepler": "johannes kepler"
+    },
+    {
+        " and his ": null
+    },
+    {
+        "laws of planetary motion": "keplers laws"
+    },
+    {
+        ".     When viewed from an ": null
+    },
+    {
+        "inertial frame": "inertial frame"
+    },
+    {
+        ", two orbiting bodies trace out distinct trajectories. Each of these trajectories has its focus at the common ": null
+    },
+    {
+        "center of mass": "center of mass"
+    },
+    {
+        ". When viewed from a non-inertial frame centred on one of the bodies, only the trajectory of the opposite body is apparent; Keplerian elements describe these non-inertial trajectories. An orbit has two sets of Keplerian elements depending on which body is used as the point of reference. The reference body is called the  primary , the other body is called the secondary. The primary does not necessarily possess more mass than the secondary, and even when the bodies are of equal mass, the orbital elements depend on the choice of the primary.     Two elements define the shape and size of the ellipse:   ": null
+    },
+    {
+        "Eccentricity": "eccentricity"
+    },
+    {
+        " —shape of the ellipse, describing how much it is elongated compared to a circle .   ": null
+    },
+    {
+        "Semimajor axis": "semimajor axis"
+    },
+    {
+        " —the sum of the ": null
+    },
+    {
+        "periapsis and apoapsis distances": "apsis"
+    },
+    {
+        " divided by two. For classic two-body orbits, the semimajor axis is the distance between the centers of the bodies, not the distance of the bodies from the center of mass.     Two elements define the orientation of the ": null
+    },
+    {
+        "orbital plane": "orbital plane"
+    },
+    {
+        " in which the ellipse is embedded:   ": null
+    },
+    {
+        "Inclination": "inclination"
+    },
+    {
+        " —vertical tilt of the ellipse with respect to the reference plane, measured at the ": null
+    },
+    {
+        "ascending node": "ascending node"
+    },
+    {
+        " . Tilt angle is measured perpendicular to line of intersection between orbital plane and reference plane. Any three points on an ellipse will define the ellipse orbital plane. The plane and the ellipse are both two-dimensional objects defined in three-dimensional space.   ": null
+    },
+    {
+        "Longitude of the ascending node": "longitude of the ascending node"
+    },
+    {
+        " —horizontally orients the ": null
+    },
+    {
+        "ascending node": "ascending node"
+    },
+    {
+        " of the ellipse  with respect to the reference frames ": null
+    },
+    {
+        "vernal point": "vernal point"
+    },
+    {
+        " . This is measured in the reference plane, and is shown as the green angle  in the diagram.     The remaining two elements are as follows:   ": null
+    },
+    {
+        "Argument of periapsis": "argument of periapsis"
+    },
+    {
+        "  defines the orientation of the ellipse in the orbital plane, as an angle measured from the ascending node to the periapsis .   ": null
+    },
+    {
+        "True anomaly": "true anomaly"
+    },
+    {
+        "  at ": null
+    },
+    {
+        "epoch": "epoch"
+    },
+    {
+        "  defines the position of the orbiting body along the ellipse at a specific time .     The ": null
+    },
+    {
+        "mean anomaly": "mean anomaly"
+    },
+    {
+        "  is a mathematically convenient fictitious angle which varies linearly with time, but which does not correspond to a real geometric angle. It can be converted into the ": null
+    },
+    {
+        "true anomaly": "true anomaly"
+    },
+    {
+        " , which does represent the real geometric angle in the plane of the ellipse, between ": null
+    },
+    {
+        "periapsis": "apsis"
+    },
+    {
+        " and the position of the orbiting object at any given time. Thus, the true anomaly is shown as the red angle  in the diagram, and the mean anomaly is not shown.     The angles of inclination, longitude of the ascending node, and argument of periapsis can also be described as the ": null
+    },
+    {
+        "Euler angles": "euler angles"
+    },
+    {
+        " defining the orientation of the orbit relative to the reference coordinate system.     Note that non-elliptic trajectories also exist, but are not closed, and are thus not orbits. If the eccentricity is greater than one, the trajectory is a ": null
+    },
+    {
+        "hyperbola": "hyperbola"
+    },
+    {
+        ". If the eccentricity is equal to one and the angular momentum is zero, the trajectory is ": null
+    },
+    {
+        "radial": "radial trajectory"
+    },
+    {
+        ". If the eccentricity is one and there is angular momentum, the trajectory is a ": null
+    },
+    {
+        "parabola": "parabola"
+    },
+    {
+        ".       Given an ": null
+    },
+    {
+        "inertial frame of reference": "inertial frame of reference"
+    },
+    {
+        " and an arbitrary ": null
+    },
+    {
+        "epoch": "epoch"
+    },
+    {
+        " , exactly six parameters are necessary to unambiguously define an arbitrary and unperturbed orbit.     This is because the problem contains six ": null
+    },
+    {
+        "degrees of freedom": "degrees of freedom"
+    },
+    {
+        ". These correspond to the three spatial ": null
+    },
+    {
+        "dimension": "dimension"
+    },
+    {
+        "s which define position , plus the velocity in each of these dimensions. These can be described as ": null
+    },
+    {
+        "orbital state vectors": "orbital state vectors"
+    },
+    {
+        ", but this is often an inconvenient way to represent an orbit, which is why Keplerian elements are commonly used instead.     Sometimes the epoch is considered a seventh orbital parameter, rather than part of the reference frame.     If the epoch is defined to be at the moment when one of the elements is zero, the number of unspecified elements is reduced to five.       Keplerian elements can be obtained from ": null
+    },
+    {
+        "orbital state vectors": "orbital state vectors"
+    },
+    {
+        " by manual transformations or with computer software. For example, with      Other orbital parameters can be computed from the Keplerian elements such as the ": null
+    },
+    {
+        "period": "orbital period"
+    },
+    {
+        ", ": null
+    },
+    {
+        "apoapsis, and periapsis": "apsis"
+    },
+    {
+        ". It is common to specify the period instead of the semi-major axis in Keplerian element sets, as each can be computed from the other provided the ": null
+    },
+    {
+        "standard gravitational parameter": "standard gravitational parameter"
+    },
+    {
+        ", , is given for the central body.     Instead of the ": null
+    },
+    {
+        "mean anomaly": "mean anomaly"
+    },
+    {
+        " at ": null
+    },
+    {
+        "epoch": "epoch"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "mean anomaly": "mean anomaly"
+    },
+    {
+        " , ": null
+    },
+    {
+        "mean longitude": "mean longitude"
+    },
+    {
+        ", ": null
+    },
+    {
+        "true anomaly": "true anomaly"
+    },
+    {
+        " , or the ": null
+    },
+    {
+        "eccentric anomaly": "eccentric anomaly"
+    },
+    {
+        " might be used.     Using, for example, the mean anomaly instead of mean anomaly at epoch means that time  must be specified as a seventh orbital element. Sometimes it is assumed that mean anomaly is zero at the epoch , leaving only the five other orbital elements to be specified.     Different sets of elements are used for various astronomical bodies. The eccentricity, , and either the semi-major axis, , or the distance of periapsis, , are used to specify the shape and size of an orbit. The angle of the ascending node, , the inclination, , and the argument of periapsis, , or the longitude of periapsis, , specify the orientation of the orbit in its plane. Either the longitude at epoch, , the mean anomaly at epoch, , or the time of perihelion passage, , are used to specify a known point in the orbit. The choices made depend whether the vernal equinox or the node are used as the primary reference. The semi-major axis is known if the mean motion and the ": null
+    },
+    {
+        "gravitational mass": "massgravitational mass"
+    },
+    {
+        " are known.       It is also quite common to see either the mean anomaly  or the mean longitude  expressed directly, without either  or  as intermediary steps, as a ": null
+    },
+    {
+        "polynomial": "polynomial"
+    },
+    {
+        " function with respect to time. This method of expression will consolidate the mean motion  into the polynomial as one of the coefficients. The appearance will be that  or  are expressed in a more complicated manner, but we will appear to need one fewer orbital element.     Mean motion can also be obscured behind citations of the orbital period .     :       The angles , ,  are the ": null
+    },
+    {
+        "Euler angles": "euler angles"
+    },
+    {
+        "  characterizing the orientation of the coordinate system   :, ,  from the inertial coordinate frame , ,      where:   ,  is in the equatorial plane of the central body.  is in the direction of the vernal equinox.  is perpendicular to  and with  defines the reference plane.  is perpendicular to the reference plane. Orbital elements of bodies in the Solar System usually use the ": null
+    },
+    {
+        "ecliptic": "ecliptic"
+    },
+    {
+        " as that plane.   ,  are in the orbital plane and with  in the direction to the ": null
+    },
+    {
+        "pericenter": "pericenter"
+    },
+    {
+        " .  is perpendicular to the plane of the orbit.  is mutually perpendicular to  and .     Then, the transformation from the , ,  coordinate frame to the , ,  frame with the Euler angles , ,  is:   : \\begin   x_42 & \\cos \\Omega \\cdot \\cos \\omega - \\sin \\Omega \\cdot \\cos i \\cdot \\sin \\omega\\ ;\\\\   x_42 & \\sin \\Omega \\cdot \\cos \\omega + \\cos \\Omega \\cdot \\cos i \\cdot \\sin \\omega\\ ;\\\\   x_42 & \\sin i \\cdot \\sin \\omega ;\\\\   \\, \\\\   y_42 & -\\cos \\Omega \\cdot \\sin \\omega - \\sin \\Omega \\cdot \\cos i \\cdot \\cos \\omega\\ ;\\\\   y_42 & -\\sin \\Omega \\cdot \\sin \\omega + \\cos \\Omega \\cdot \\cos i \\cdot \\cos \\omega\\ ;\\\\   y_42 & \\sin i \\cdot \\cos \\omega\\ ;\\\\   \\, \\\\   z_42 & \\sin i \\cdot \\sin \\Omega\\ ;\\\\   z_42 & -\\sin i \\cdot \\cos \\Omega\\ ;\\\\   z_42 & \\cos i\\ ;\\\\   \\, \\end     : \\left   \\left   \\,   \\left   \\,   \\left ,;     where     : \\begin   \\hat & x_42\\hat + x_42\\hat + x_42\\hat\\ ;\\\\   \\hat & y_42\\hat + y_42\\hat + y_42\\hat\\ ;\\\\   \\hat & z_42\\hat + z_42\\hat + z_42\\hat\\ .\\\\   \\, \\end     The inverse transformation, which computes the 42 coordinates in the I-J-K system given the 42 coordinates in the x-y-z system, is represented by the inverse matrix. According to the rules of ": null
+    },
+    {
+        "matrix algebra": "invertible matrix"
+    },
+    {
+        ", the inverse matrix of the product of the 42 rotation matrices is obtained by inverting the order of the three matrices and switching the signs of the three Euler angles.     The transformation from , ,  to Euler angles , ,  is:     : \\begin   \\Omega & \\operatorname\\left\\\\   i & \\operatorname\\left\\\\   \\omega & \\operatorname\\left\\\\   \\, \\end     where  signifies the polar argument that can be computed with the standard function ": null
+    },
+    {
+        "atan42": "atan2"
+    },
+    {
+        " available in many programming languages.       Under ideal conditions of a perfectly spherical central body and zero perturbations, all orbital elements except the ": null
+    },
+    {
+        "mean anomaly": "mean anomaly"
+    },
+    {
+        " are constants. The mean anomaly changes linearly with time, scaled by the ": null
+    },
+    {
+        "mean motion": "mean motion"
+    },
+    {
+        ",   : n\\sqrt.   Hence if at any instant  the orbital parameters are , then the elements at time  is given by           Unperturbed, ": null
+    },
+    {
+        "two-body": "two-body problem"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Newtonian": "newtonian gravitation"
+    },
+    {
+        " orbits are always ": null
+    },
+    {
+        "conic section": "conic section"
+    },
+    {
+        "s, so the Keplerian elements define an ": null
+    },
+    {
+        "ellipse": "ellipse"
+    },
+    {
+        ", ": null
+    },
+    {
+        "parabola": "parabola"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "hyperbola": "hyperbola"
+    },
+    {
+        ". Real orbits have perturbations, so a given set of Keplerian elements accurately describes an orbit only at the epoch. Evolution of the orbital elements takes place due to the ": null
+    },
+    {
+        "gravitational": "gravitational"
+    },
+    {
+        " pull of bodies other than the primary, the ": null
+    },
+    {
+        "nonsphericity": "sphericity"
+    },
+    {
+        " of the primary, ": null
+    },
+    {
+        "atmospheric": "atmospheric"
+    },
+    {
+        " drag": "drag"
+    },
+    {
+        ", ": null
+    },
+    {
+        "relativistic effects": "theory of relativity"
+    },
+    {
+        ", ": null
+    },
+    {
+        "radiation pressure": "radiation pressure"
+    },
+    {
+        ", ": null
+    },
+    {
+        "electromagnetic force": "electromagnetic force"
+    },
+    {
+        "s, and so on.     Keplerian elements can often be used to produce useful predictions at times near the epoch. Alternatively, real trajectories can be modeled as a sequence of Keplerian orbits that ": null
+    },
+    {
+        "osculate": "osculating orbit"
+    },
+    {
+        " the real trajectory. They can also be described by the so-called planetary equations, differential equations which come in different forms developed by ": null
+    },
+    {
+        "Lagrange": "joseph louis lagrange"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Gauss": "carl friedrich gauss"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Delaunay": "charles-eugène delaunay"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Poincaré": "henri poincaré"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "Hill": "george william hill"
+    },
+    {
+        ".           Keplerian elements parameters can be encoded as text in a number of formats. The most common of them is the ": null
+    },
+    {
+        "NASA": "nasa"
+    },
+    {
+        "/": null
+    },
+    {
+        "NORAD": "norad"
+    },
+    {
+        "  two-line elements  format,  originally designed for use with 42-column punched cards, but still in use because it is the most common format, and can be handled easily by all modern data storages as well.     Depending on the application and object orbit, the data derived from TLEs older than 42 days can become unreliable. Orbital positions can be calculated from TLEs through the SGP/": null
+    },
+    {
+        "SGP42": "sgp4"
+    },
+    {
+        "/": null
+    },
+    {
+        "SDP42": "sdp4"
+    },
+    {
+        "/SGP42/SDP42 algorithms. Explanatory Supplement to the Astronomical Almanac. 42 K. P. Seidelmann, Ed., University Science Books, Mill Valley, California.     Example of a two-line element:   – orbit data at Heavens-Above.com     42 42U 42A 42 .42 4242 4242 42 42   42 42 42 42 42 42 42 42         The Delaunay orbital elements, commonly referred to as Delaunay variables, are ": null
+    },
+    {
+        "action-angle coordinates": "action-angle coordinates"
+    },
+    {
+        " consisting of the ": null
+    },
+    {
+        "argument of periapsis": "argument of periapsis"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "mean anomaly": "mean anomaly"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "longitude of the ascending node": "longitude of the ascending node"
+    },
+    {
+        ", along with their ": null
+    },
+    {
+        "conjugate momenta": "conjugate momentum"
+    },
+    {
+        ".  They are used to simplify perturbative calculations in celestial mechanics, for example while investigating the ": null
+    },
+    {
+        "Kozai–Lidov oscillations": "kozai–lidov oscillations"
+    },
+    {
+        " in hierarchical triple systems. They were introduced by ": null
+    },
+    {
+        "Charles-Eugène Delaunay": "charles-eugène delaunay"
+    },
+    {
+        " during his study of the motion of the ": null
+    },
+    {
+        "Moon": "moon"
+    },
+    {
+        ". ": null
+    }
+]

@@ -1,0 +1,308 @@
+[
+    {
+        "        Dynamic DNS  is a method of automatically updating a ": null
+    },
+    {
+        "name server": "name server"
+    },
+    {
+        " in the ": null
+    },
+    {
+        "Domain Name Server": "domain name server"
+    },
+    {
+        " , often in real time, with the active DDNS configuration of its configured hostnames, addresses or other information.     The term is used to describe two different concepts. The first is dynamic DNS updating which refers to systems that are used to update traditional DNS records without manual editing. These mechanisms are explained in RFC 42 and use the ": null
+    },
+    {
+        "TSIG": "tsig"
+    },
+    {
+        " mechanism to provide security. The second kind of dynamic DNS permits lightweight and immediate updates often using an update client, which do not use the RFC42 standard for updating DNS records. These clients provide a persistent addressing method for devices that change their location, configuration or ": null
+    },
+    {
+        "IP address": "classful network"
+    },
+    {
+        " frequently.       In the initial stages of the Internet , addressing of hosts on the network was achieved by static translation tables that mapped hostnames to ": null
+    },
+    {
+        "IP address": "ip address"
+    },
+    {
+        "es. The tables were maintained manually in form of the ": null
+    },
+    {
+        "host file": "host file"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "Domain Name System": "domain name system"
+    },
+    {
+        " brought a method of distributing the same address information automatically online through recursive queries to remote databases configured for each network, or ": null
+    },
+    {
+        "domain": "domain name"
+    },
+    {
+        ". Even this DNS facility still used static lookup tables at each participating node. IP addresses, once assigned to a particular host, rarely changed and the mechanism was initially sufficient. However, the rapid growth of the Internet and the proliferation of personal computers in the workplace and in homes created the substantial burden for administrators of keeping track of assigned IP addresses and managing their ": null
+    },
+    {
+        "address space": "address space"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "Dynamic Host Configuration Protocol": "dynamic host configuration protocol"
+    },
+    {
+        " allowed enterprises and ": null
+    },
+    {
+        "Internet service provider": "internet service provider"
+    },
+    {
+        "s to assign addresses to computers automatically as they powered up. In addition, this helped conserve the address space available, since not all devices might be actively used at all times and addresses could be assigned as needed. This feature required that DNS servers be kept current automatically as well. The first implementations of dynamic DNS fulfilled this purpose: Host computers gained the feature to notify their respective DNS server of the address they had received from a DHCP server or through self-configuration. This protocol-based DNS update method was documented and standardized in IETF publication RFC 42 in 42 and has become a standard part of the DNS protocol .     The explosive growth and proliferation of the Internet into homes brought a growing shortage of available IP addresses. DHCP became an important tool for ISPs as well to manage their address spaces for connecting home and small-business end-users with a single IP address each by implementing ": null
+    },
+    {
+        "network address translation": "network address translation"
+    },
+    {
+        " at the customer-premises router. The ": null
+    },
+    {
+        "private network": "private network"
+    },
+    {
+        " behind these routers uses address space set aside for these purposes , masqueraded by the NAT device. This, however, broke the ": null
+    },
+    {
+        "end-to-end principle": "end-to-end principle"
+    },
+    {
+        " of Internet architecture and methods were required to allow private networks, with frequently changing external IP addresses, to discover their public address and insert it into the Domain Name System in order to participate in Internet communications properly. Today, numerous providers, called Dynamic DNS service providers, offer such technology and services on the Internet.       DNS is based on a ": null
+    },
+    {
+        "distributed database": "distributed database"
+    },
+    {
+        " that takes some time to update globally. When DNS was first introduced, the database was small and could be easily maintained by hand. As the system grew this task became difficult for any one site to handle, and a new management structure was introduced to spread out the updates among many ": null
+    },
+    {
+        "domain name registrar": "domain name registrar"
+    },
+    {
+        "s. Registrars today offer end-user updating to their account information, typically using a web-based form, and the registrar then pushes out update information to other DNS servers.     Due to the distributed nature of the DNS systems and its registrars, updates to the global DNS system may take hours to distribute. Thus DNS is only suitable for services that do not change their IP address very often, as is the case for most large services like Wikipedia. Smaller services, however, are generally much more likely to move from host to host over shorter periods of time. Servers being run on certain types of ": null
+    },
+    {
+        "Internet service provider": "internet service provider"
+    },
+    {
+        ", ": null
+    },
+    {
+        "cable modem": "cable modem"
+    },
+    {
+        "s in particular, are likely to change their IP address over very short periods of time, on the order of days or hours.       Dynamic DNS is a system that addresses the problem of rapid updates. The term is used in two ways, which, while technically similar, have very different purposes and user populations. The first is standards-based DNS updates , which uses an extension of the DNS protocol to ask for an update; this is often used for company laptops to register their address. The second is usually a web-based protocol, normally a single HTTP fetch with username and password which then updates some DNS records ; this is commonly used for a domestic computer to register itself by a publicly-known name in order to be found by a wider group, for example as a games server or webcam.     End users of Internet access receive an allocation of IP addresses, often only a single address, by their Internet service provider. The assigned addresses may either be fixed , or may change from time to time, a situation called dynamic. Dynamic addresses are generally given only to residential customers and small businesses, as most enterprises specifically require static addresses.     Dynamic IP addresses present a problem if the customer wants to provide a service to other users on the Internet, such as a web service. As the IP address may change frequently, corresponding domain names must be quickly re-mapped in the ": null
+    },
+    {
+        "DNS": "domain name system"
+    },
+    {
+        ", to maintain accessibility using a well-known URL.     Many providers offer commercial or free Dynamic DNS service for this scenario. The automatic reconfiguration is generally implemented in the users ": null
+    },
+    {
+        "router": "router"
+    },
+    {
+        " or computer, which runs software to update the DDNS service. The communication between the users equipment and the provider is not standardized, although a few standard web-based methods of updating have emerged over time.       The standardized method of dynamically updating domain name server records is prescribed by RFC 42 commonly known as dynamic DNS update. The method described by RFC 42 is a network protocol for use with managed DNS servers, and it includes a security mechanism. RFC 42 supports all DNS record types, but often it is used only as an extension of the ": null
+    },
+    {
+        "DHCP": "dhcp"
+    },
+    {
+        " system, and in which the authorized DHCP servers register the client records in the DNS. This form of support for RFC 42 is provided by a plethora of client and server software, including those that are components of most current operating systems. Support for RFC 42 is also an integral part of many ": null
+    },
+    {
+        "directory service": "directory service"
+    },
+    {
+        "s, including ": null
+    },
+    {
+        "LDAP": "ldap"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Windows Active Directory": "active directory"
+    },
+    {
+        " domains.       In ": null
+    },
+    {
+        "Microsoft Windows": "microsoft windows"
+    },
+    {
+        " networks, dynamic DNS is an integral part of ": null
+    },
+    {
+        "Active Directory": "active directory"
+    },
+    {
+        ", because ": null
+    },
+    {
+        "domain controller": "domain controller"
+    },
+    {
+        "s register their ": null
+    },
+    {
+        "network service types": "srv record"
+    },
+    {
+        " in DNS so that other computers in the domain can access them.     Increasing efforts to secure Internet communications today involve encryption of all dynamic updates via the public Internet, as these public dynamic DNS services have been abused increasingly to design security breaches. Standards-based methods within the ": null
+    },
+    {
+        "DNSSEC": "dnssec"
+    },
+    {
+        " protocol suite, such as ": null
+    },
+    {
+        "TSIG": "tsig"
+    },
+    {
+        ", have been developed to secure DNS updates, but are not widely in use. Microsoft developed ": null
+    },
+    {
+        "alternative": "tsigalternatives to tsig"
+    },
+    {
+        " technology  based on ": null
+    },
+    {
+        "Kerberos": "kerberos"
+    },
+    {
+        " authentication.     Some ": null
+    },
+    {
+        "free": "free software"
+    },
+    {
+        " DNS server software systems, such as ": null
+    },
+    {
+        "dnsmasq": "dnsmasq"
+    },
+    {
+        ", support a dynamic update procedure that directly involves a built-in ": null
+    },
+    {
+        "DHCP": "dhcp"
+    },
+    {
+        " server. This server automatically updates or adds the DNS records as it assigns addresses, relieving the administrator of the task of specifically configuring dynamic updates.       Dynamic DNS providers offer a software ": null
+    },
+    {
+        "client": "client"
+    },
+    {
+        " program that automates the discovery and registration of the client systems public IP addresses. The client program is executed on a computer or device in the private network. It connects to the DDNS providers systems with a unique login name; the provider uses the name to link the discovered public IP address of the home network with a hostname in the domain name system. Depending on the provider, the hostname is registered within a domain owned by the provider, or within the customers own domain name. These services can function by a number of mechanisms. Often they use an ": null
+    },
+    {
+        "HTTP": "http"
+    },
+    {
+        " service request since even restrictive environments usually allow HTTP service. The provider might use RFC 42 to update the DNS servers.     Many home networking ": null
+    },
+    {
+        "modem/routers": "residential gateway"
+    },
+    {
+        " include client applications in their ": null
+    },
+    {
+        "firmware": "firmware"
+    },
+    {
+        ", compatible with a variety of DDNS providers.       Dynamic DNS is an expected feature or even requirement for IP-based security appliances like ": null
+    },
+    {
+        "DVRs": "digital video recorder"
+    },
+    {
+        " and ": null
+    },
+    {
+        "IP camera": "ip camera"
+    },
+    {
+        "s. Many options are available for todays manufacturer, and these include the use of existing DDNS services or the use of custom services hosted by the manufacturer themselves.     In almost all cases, a simple ": null
+    },
+    {
+        "HTTP": "http"
+    },
+    {
+        " based update ": null
+    },
+    {
+        "API": "application programming interface"
+    },
+    {
+        " is used as it allows for easy integration of a DDNS ": null
+    },
+    {
+        "client": "client"
+    },
+    {
+        " into a devices ": null
+    },
+    {
+        "firmware": "firmware"
+    },
+    {
+        ". There are several pre-made tools that can help to ease the burden of server and client development, like MintDNS, ": null
+    },
+    {
+        "cURL": "curl"
+    },
+    {
+        " and Inadyn. Most web-based DDNS services use a standard user name and password security schema. This requires that a user first create an account at the DDNS server website and then configure their device to send updates to the DDNS server whenever an ": null
+    },
+    {
+        "IP address": "ip address"
+    },
+    {
+        " change is detected.     Some device manufacturers go a step further by only allowing their DDNS Service to be used by the devices they manufacture, and also eliminate the need for user names and passwords altogether. Generally this is accomplished by ": null
+    },
+    {
+        "encrypting": "encrypting"
+    },
+    {
+        " the devices ": null
+    },
+    {
+        "MAC address": "mac address"
+    },
+    {
+        " using an cryptographic algorithm kept secret on both the DDNS server and within the devices firmware. The resulting ": null
+    },
+    {
+        "decryption": "decryption"
+    },
+    {
+        " or decryption failure is used to secure or deny updates. Resources for the development of custom DDNS services are generally limited and involve a full ": null
+    },
+    {
+        "software development cycle": "software development cycle"
+    }
+]

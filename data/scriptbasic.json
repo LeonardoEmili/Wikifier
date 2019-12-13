@@ -1,0 +1,245 @@
+[
+    {
+        "ScriptBasic is a ": null
+    },
+    {
+        "scripting language": "scripting language"
+    },
+    {
+        " variant of ": null
+    },
+    {
+        "BASIC": "basic programming language"
+    },
+    {
+        ". The source of the ": null
+    },
+    {
+        "interpreter": "interpreter"
+    },
+    {
+        " is available as a ": null
+    },
+    {
+        "C program": "c"
+    },
+    {
+        " under the ": null
+    },
+    {
+        "LGPL": "gnu lesser general public license"
+    },
+    {
+        " license.     ScriptBasic generates intermediary code which is then interpreted by a runtime environment. ScriptBasic is available for ": null
+    },
+    {
+        "Windows": "microsoft windows"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Unix": "unix"
+    },
+    {
+        " and Mac OS X and may be embedded in other programs as well. It can create standalone ": null
+    },
+    {
+        "executable": "executable"
+    },
+    {
+        " files. A runtime library is linked into the executable. It is available in precompiled binaries , ": null
+    },
+    {
+        "dpkg": "dpkg"
+    },
+    {
+        " and ": null
+    },
+    {
+        "rpm": "rpm package manager"
+    },
+    {
+        " for ": null
+    },
+    {
+        "Linux": "linux"
+    },
+    {
+        " and in source code form. The language, the interpreter is fully documented in the Users Guide available in text, ": null
+    },
+    {
+        "HTML": "html"
+    },
+    {
+        ", ": null
+    },
+    {
+        "HTML Help": "html help"
+    },
+    {
+        ", ": null
+    },
+    {
+        "TeX": "tex"
+    },
+    {
+        ", ": null
+    },
+    {
+        "texi": "texi"
+    },
+    {
+        " and ": null
+    },
+    {
+        "PDF": "portable document format"
+    },
+    {
+        " formats.     ScriptBasic has been developed since 42 and has reached a fairly matured state in terms of functions and stability. The precompiled version available for Windows and Linux includes a ": null
+    },
+    {
+        "command line": "command line"
+    },
+    {
+        " version and a standalone ": null
+    },
+    {
+        "web server": "web server"
+    },
+    {
+        ".     This BASIC can be the choice for developers, who seek a BASIC variant that runs on UNIX as well as under Windows and Mac OS X . The Basic is embeddable with an option to compile your applications to a small footprint executable.     ScriptBasic has an open interface for module developers. There are several external modules developed by the developer of ScriptBasic as well as by other developers. These include data base connection handling for various ": null
+    },
+    {
+        "database": "rdbms"
+    },
+    {
+        " systems , binding to the library ": null
+    },
+    {
+        "CURL": "curl"
+    },
+    {
+        ", ": null
+    },
+    {
+        "PNG": "portable network graphics"
+    },
+    {
+        " graphics, ": null
+    },
+    {
+        "GTK+": "gtk+"
+    },
+    {
+        " graphical user interface": "graphical user interface"
+    },
+    {
+        ", ": null
+    },
+    {
+        "sockets": "internet socket"
+    },
+    {
+        ", ": null
+    },
+    {
+        "regular expression": "regular expression"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "thread": "thread"
+    },
+    {
+        " support, ": null
+    },
+    {
+        "data compression": "data compression"
+    },
+    {
+        " and ": null
+    },
+    {
+        "CGI": "common gateway interface"
+    },
+    {
+        ".     ScriptBasic also has an open interface for ": null
+    },
+    {
+        "preprocessor": "preprocessor"
+    },
+    {
+        " developers. These are modules that may act not only during run-time but also compile time, thus making it possible to alter the language. Currently there is a single preprocessor that delivers ": null
+    },
+    {
+        "debugger": "debugger"
+    },
+    {
+        " functionality. This lets the BASIC programmer run the BASIC program line by line, examine variable contents, set break points and all the usual debugging features. This debugger supports not only the command line version but also the web server implementation allowing full interactive debugging of CGI applications in BASIC.     The architecture of the interpreter internally is ": null
+    },
+    {
+        "object oriented": "object oriented"
+    },
+    {
+        " and provides a clean and well documented interface to embed the interpreter into any application written in ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        " or ": null
+    },
+    {
+        "C++": "c++"
+    },
+    {
+        ". The whole source code is extensively documented and commented, which is an outstanding feature compared to other embeddable script language implementations. Slides in HTML format with English narration in ": null
+    },
+    {
+        "RealAudio": "realaudio"
+    },
+    {
+        " format are also available to get a jump start learning the architecture and module, preprocessor and embedding developments.     ScriptBasic is supported by a .         Open source LGPL project   Multi-platform   Fast multi-threaded ScriptBasic ": null
+    },
+    {
+        "HTTP": "http"
+    },
+    {
+        " application server   In memory session handling   Extension module API   HTML template file support   Command line interpreter for utility applications and standard CGI programming   Create standalone executables without compiling   ": null
+    },
+    {
+        "Namespace": "namespace"
+    },
+    {
+        " support   Relaxed / auto variable typing   TYPE, ": null
+    },
+    {
+        "ISARRAY, ISSTRING, ISINTEGER, ISREAL, ISNUMERIC, ISDEF, ISUNDEF, ISEMPTY": "is functions"
+    },
+    {
+        " GOTO": "goto"
+    },
+    {
+        ", ": null
+    },
+    {
+        "GOSUB": "gosub"
+    },
+    {
+        "/": null
+    },
+    {
+        "RETURN": "return statement"
+    },
+    {
+        ", ": null
+    },
+    {
+        "FOR/NEXT": "for loop"
+    },
+    {
+        ", DO/WHILE/UNTIL, REPEAT/UNTIL, CALL INPUT, PRINT, OPEN - files, ports, standard IOREPLACE, SPLIT, SPLITA  ": null
+    }
+]

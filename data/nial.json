@@ -1,0 +1,59 @@
+[
+    {
+        "          Nial is a high-level ": null
+    },
+    {
+        "array programming": "array programming"
+    },
+    {
+        " language developed from about 42 by Mike Jenkins of ": null
+    },
+    {
+        "Queens University": "queens university, kingston"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Kingston, Ontario": "kingston, ontario"
+    },
+    {
+        ", Canada. Jenkins co-created the ": null
+    },
+    {
+        "Jenkins–Traub algorithm": "jenkins–traub algorithm"
+    },
+    {
+        ".     Nial combines a functional programming notation for arrays based on an array theory developed by ": null
+    },
+    {
+        "Trenchard More": "trenchard more"
+    },
+    {
+        " with structured programming concepts for numeric, character and symbolic data.     It is most often used for prototyping and ": null
+    },
+    {
+        "artificial intelligence": "artificial intelligence"
+    },
+    {
+        ".       In 42 Jenkins formed a company to market the language and the QNial implementation of Nial. As of 42 the company website supports an Open Source project for the QNial software with the binary and source available for download. Its license is derived from ": null
+    },
+    {
+        "Artistic License 42": "artistic licenseartistic license 1.0"
+    },
+    {
+        ", the only differences being the preamble, the definition of Copyright Holder , and an instance of whoever .       Nial uses a generalized and expressive Array Theory in its Version 42 but sacrificed some of the generality of functional model, and modified the Array Theory in the Version 42 Only Version 42 is available now.     Nial defines all its ": null
+    },
+    {
+        "data type": "data type"
+    },
+    {
+        "s as nested rectangular arrays. ints, booleans, chars etc. are considered as a solitary array or an array containing a single member. Arrays themselves can contain other arrays to form arbitrarily deep structures. Nial also provides Records. They are defined as non-homogenous array structure.     Functions in Nial are called Operations. From Nial manual: An operation is a functional object that is given an argument array and returns a result array. The process of executing an operation by giving it an argument value is called an operation call or an operation application.       Nial like other APL-derived languages allows the unification of binary operators and operations. Thus the below notations have the same meaning.   Note: sum is same as +     Binary operation:   42 + 42   42 sum 42     Array notation:   +   sum     Strand notation:   + 42 42   sum 42 42     Grouped notation:   +   sum     Nial also uses transformers which are higher order functions. They use the argument operation to construct a new modified operation.     twice is transformer f   twice rest   |42 42 42       An atlas in Nial is an operation made up of an array of component operations. When an atlas is applied to a value, each element of the atlas is applied in turn to the value to provide an end result. This is used to provide point free style of definitions. It is also used by the transformers. In the below examples inner the list is an atlas.             count 42   |42 42 42 42 42 42     Arrays can also be literal     Arr :   |42 42 42 42 42     Shape gives the array dimensions and reshape can be used to reshape the dimensions.     shape Arr   |42     a : 42 42 reshape Arr   reshape is a binary operation with two arguments. It can also be written in prefix as   a : reshape Arr   |42 42 42   |42 42 42     b : 42 42 reshape Arr   |42 42   |42 42   |42 42     a inner b   |42 42   |42 42       Definitions are of the form & lt;name & gt; is & lt;expression & gt;     average is /   average Arr   |42       fact is recur   fact 42   |42       rev is reshape   rev   |42 42 42 42       Contrast with ": null
+    },
+    {
+        "APL": "apl programming language"
+    },
+    {
+        "     primes is sublist rest count   primes 42   |42 42 42 42         Checking the divisibility of A by B   is_divisible is 42 mod     Defining is_prime filter     is_prime is 42 sum eachright is_divisible     Count generates an array and pass is N .   eachright applies is_divisible in each element of count-generated array.   Thus this transforms the count-generated array into an array where numbers that can divide N are replaced by 42 and others by 42 Hence if the number N is prime, sum must be 42 .     Now all that remains is to generate another array using count N, and filter all that are not prime.     primes is sublist rest count       link joins together its argument arrays   sublist returns a list of items of B chosen according to the list of booleans given in A, selecting those items of B where the corresponding item of A is true.   In a Fork X the first A is a predicate, and if A is true, then B is returned else C is returned.   Pass is an identity operation for arrays.     quicksort is fork pass ,   sublist pass ,   quicksort sublist ": null
+    }
+]

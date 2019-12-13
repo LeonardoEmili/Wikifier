@@ -1,0 +1,47 @@
+[
+    {
+        "Universal Networking Language  is a declarative ": null
+    },
+    {
+        "formal language": "formal language"
+    },
+    {
+        " specifically designed to represent ": null
+    },
+    {
+        "semantic": "semantic"
+    },
+    {
+        " data extracted from ": null
+    },
+    {
+        "natural language": "natural language"
+    },
+    {
+        " texts. It can be used as a ": null
+    },
+    {
+        "pivot language": "pivot language"
+    },
+    {
+        " in ": null
+    },
+    {
+        "interlingual machine translation": "interlingual machine translation"
+    },
+    {
+        " systems or as a ": null
+    },
+    {
+        "knowledge representation": "knowledge representation"
+    },
+    {
+        " language in ": null
+    },
+    {
+        "information retrieval": "information retrieval"
+    },
+    {
+        " applications.       UNL is designed to establish a simple foundation for representing the most central aspects of information and meaning in a machine- and human-language-independent form. As a language-independent formalism, UNL aims to code, store, disseminate and retrieve information independently of the original language in which it was expressed. In this sense, UNL seeks to provide tools for overcoming the language barrier in a systematic way.     At first glance, UNL seems to be a kind of interlingua, into which source texts are converted before being translated into target languages. It can, in fact, be used for this purpose, and very efficiently, too. However, its real strength is knowledge representation and its primary objective is to provide an infrastructure for handling knowledge that already exists or can exist in any given language.     Nevertheless, it is important to note that at present it would be foolish to claim to represent the “full” meaning of any word, sentence, or text for any language. Subtleties of intention and interpretation make the “full meaning,” however we might conceive it, too variable and subjective for any systematic treatment. Thus UNL avoids the pitfalls of trying to represent the “full meaning” of sentences or texts, targeting instead the “core” or “consensual” meaning most often attributed to them. In this sense, much of the subtlety of poetry, metaphor, figurative language, innuendo, and other complex, indirect communicative behaviors is beyond the current scope and goals of UNL. Instead, UNL targets direct communicative behavior and literal meaning as a tangible, concrete basis for most human communication in practical, day-to-day settings.       In the UNL approach, information conveyed by natural language is represented sentence by sentence as a hypergraph composed of a set of directed binary labeled links  between nodes or hypernodes , which stand for concepts. UWs can also be annotated with attributes representing context information.     As an example, the English sentence ‘The sky was blue?!’ can be represented in UNL as follows:          In the example above, sky": null
+    }
+]

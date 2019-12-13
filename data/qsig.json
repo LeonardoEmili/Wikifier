@@ -1,0 +1,95 @@
+[
+    {
+        "QSIG is an ": null
+    },
+    {
+        "ISDN": "integrated services digital network"
+    },
+    {
+        " based ": null
+    },
+    {
+        "signaling protocol": "signaling protocol"
+    },
+    {
+        " for signaling between ": null
+    },
+    {
+        "private branch exchange": "private branch exchange"
+    },
+    {
+        "s in a ": null
+    },
+    {
+        "private integrated services network": "telephone exchange"
+    },
+    {
+        " . It makes use of the connection-level ": null
+    },
+    {
+        "Q.42": "q.931"
+    },
+    {
+        " protocol and the application-level ": null
+    },
+    {
+        "ROSE": "remote operations service element protocol"
+    },
+    {
+        " protocol. ISDN proper functions as the physical link layer.     QSIG was originally developed by ": null
+    },
+    {
+        "Ecma International": "ecma international"
+    },
+    {
+        ", adopted by ": null
+    },
+    {
+        "ETSI": "etsi"
+    },
+    {
+        " and is defined by a set of ": null
+    },
+    {
+        "ISO": "international organization for standardization"
+    },
+    {
+        " standard documents, so is not owned by any company. This allows interoperability between communications platforms provided by disparate vendors.     QSIG has two layers, called BC and GF . QSIG BC describes how to set up calls between PBXs. QSIG GF provides supplementary services for large-scale corporate, educational, and government networks, such as ": null
+    },
+    {
+        "line identification": "line identification"
+    },
+    {
+        ", ": null
+    },
+    {
+        "call intrusion": "call intrusion"
+    },
+    {
+        " and ": null
+    },
+    {
+        "call forwarding": "call forwarding"
+    },
+    {
+        ". Thus for a large or very distributed company that requires multiple PBXs, users can receive the same services across the network and be unaware of the switch that their telephone is connected to. This greatly eases the problems of management of large networks.     QSIG will likely never rival each vendors private network protocols, but it does provide an option for a higher level of integration than that of the traditional choices.       Note: This list is not complete. See the source after the list for more information.   ECMA42 - Private Integrated Services Network - Circuit Mode Bearer Services - Inter-Exchange Signalling Procedures and Protocol , Basic Call, International and European Versions: ISO/IEC 42 ETSI EN 42 42   ECMA42 - Private Integrated Services Network - Generic Functional Protocol for the Support of Supplementary Services - Inter-Exchange Signalling Procedures and Protocol , International and European Versions: ISO/IEC 42 ETSI ETS 42 42   ECMA42 - Private Integrated Services Network - Inter-Exchange Signalling Protocol - Name Identification Supplementary Services , International and European Versions: ISO/IEC 42 ETSI ETS 42 42   ECMA42 - Private Integrated Services Network - Inter-Exchange Signalling Protocol - Call Diversion Supplementary Services , International and European Versions: ISO/IEC 42 ETSI ETS 42 42   ECMA42 - Private Integrated Services Network - Inter-Exchange Signalling Protocol - Call Transfer Supplementary Service , International and European Versions: ISO/IEC 42 ETSI ETS 42 42     Source :      QSIG basically uses ": null
+    },
+    {
+        "ROSE": "remote operations service element protocol"
+    },
+    {
+        " to invoke specific supplementary service at the remote PINX. These ": null
+    },
+    {
+        "ROSE": "remote operations service element protocol"
+    },
+    {
+        " operations are coded in a ": null
+    },
+    {
+        "Q.42": "q.931"
+    },
+    {
+        " FACILITY info element. Here a list of QSIG opcodes:           ETS 42 42 - Multiple Subscriber Number   ETS 42 42 - Call Waiting   ETS 42 42 - Calling Line Identification Presentation   ETS 42 42 - Calling Line Identification Restriction   ETS 42 42 - Connected Line Identification Presentation   ETS 42 42 - Connected Line Identification Restriction   ETS 42 42 - Malicious Call Identification   ETS 42 42 - Call Hold   ETS 42 42 - Circuit-Mode Basic Service   ETS 42 42 - Called/Calling Line ID Presentation   ETS 42 42 - Advice Of Charge   ETS 42 42 - Three Way Conference   ETS 42 42 - Call Diversion   ETS 42 42 - Called/Calling Name Presentation   ETS 42 42 - Called/Calling Name Presentation   ETS 42 42 - Generic Functional Protocol   ETS 42 42 - CFU Supplementary Service   ETS 42 42 - Path Replacement   ETS 42 42 - Call Completion To Busy Subscriber   ETS 42 42 - Call Transfer By Join   ETS 42 42 - Call Transfer -   ETS 42 42 - Explicit Call Transfer   ETS 42 42 - Message Waiting Indication   ETS 42 42 - Path Replacement Additional Network Feature   ETS 42 42 - Recall Supplementary Service   ETS 42 42 - Single Step Call Transfer Supplementary Service   Source :      CCITT G.42 - Describes the physical/electrical characteristics of hierarchical digital interfaces.   Source : ": null
+    }
+]

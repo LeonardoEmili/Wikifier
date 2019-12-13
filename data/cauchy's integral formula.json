@@ -1,0 +1,233 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", Cauchys integral formula, named after ": null
+    },
+    {
+        "Augustin-Louis Cauchy": "augustin-louis cauchy"
+    },
+    {
+        ", is a central statement in ": null
+    },
+    {
+        "complex analysis": "complex analysis"
+    },
+    {
+        ". It expresses the fact that a ": null
+    },
+    {
+        "holomorphic function": "holomorphic function"
+    },
+    {
+        " defined on a disk is completely determined by its values on the boundary of the disk, and it provides integral formulas for all derivatives of a holomorphic function. Cauchys formula shows that, in complex analysis, differentiation is equivalent to integration : complex differentiation, like integration, behaves well under ": null
+    },
+    {
+        "uniform limits": "uniform convergence"
+    },
+    {
+        " – a result denied in ": null
+    },
+    {
+        "real analysis": "real analysis"
+    },
+    {
+        ".       Let  be an ": null
+    },
+    {
+        "open subset": "open subset"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "complex plane": "complex plane"
+    },
+    {
+        " , and suppose the closed disk  defined as     : D \\bigl\\     is completely contained in . Let  be a holomorphic function, and let  be the ": null
+    },
+    {
+        "circle": "circle"
+    },
+    {
+        ", oriented ": null
+    },
+    {
+        "counterclockwise": "curve orientation"
+    },
+    {
+        ", forming the ": null
+    },
+    {
+        "boundary": "boundary"
+    },
+    {
+        " of . Then for every  in the ": null
+    },
+    {
+        "interior": "interior"
+    },
+    {
+        " of ,     : f \\frac \\oint_\\gamma \\frac\\, dz.     The proof of this statement uses the ": null
+    },
+    {
+        "Cauchy integral theorem": "cauchy integral theorem"
+    },
+    {
+        " and like that theorem it only requires  to be ": null
+    },
+    {
+        "complex differentiable": "complex differentiable"
+    },
+    {
+        ". Since the reciprocal of the denominator of the integrand in Cauchys integral formula can be expanded as a ": null
+    },
+    {
+        "power series": "power series"
+    },
+    {
+        " in the variable  — namely, when ,     : \\frac     — it follows that ": null
+    },
+    {
+        "holomorphic functions are analytic": "holomorphic functions are analytic"
+    },
+    {
+        ". In particular  is actually infinitely differentiable, with     : f^ \\frac \\oint_\\gamma \\frac\\, dz.     This formula is sometimes referred to as Cauchys differentiation formula.     The theorem stated above can be generalized. The circle  can be replaced by any closed ": null
+    },
+    {
+        "rectifiable curve": "rectifiable curve"
+    },
+    {
+        " in  which has ": null
+    },
+    {
+        "winding number": "winding number"
+    },
+    {
+        " one about . Moreover, as for the Cauchy integral theorem, it is sufficient to require that  be holomorphic in the open region enclosed by the path and continuous on its ": null
+    },
+    {
+        "closure": "closure"
+    },
+    {
+        ".     Note that not every continuous function on the boundary can be used to produce a function inside the boundary that fits the given boundary function. For instance, if we put the function, defined for ,  into the Cauchy integral formula, we get zero for all points inside the circle. In fact, giving just the real part on the boundary of a holomorphic function is enough to determine the function ": null
+    },
+    {
+        "up to": "up to"
+    },
+    {
+        " an imaginary constant — there is only one imaginary part on the boundary that corresponds to the given real part, up to addition of a constant. We can use a combination of a ": null
+    },
+    {
+        "Möbius transformation": "möbius transformation"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Stieltjes inversion formula": "stieltjes inversion formula"
+    },
+    {
+        " to construct the holomorphic function from the real part on the boundary. For example, the function  has real part . On the unit circle this can be written . Using the Möbius transformation and the Stieltjes formula we construct the function inside the circle. The  term makes no contribution, and we find the function . This has the correct real part on the boundary, and also gives us the corresponding imaginary part, but off by a constant, namely .         By using the ": null
+    },
+    {
+        "Cauchy integral theorem": "cauchy integral theorem"
+    },
+    {
+        ", one can show that the integral over  is equal to the same integral taken over an arbitrarily small circle around . Since  is continuous, we can choose a circle small enough on which  is arbitrarily close to . On the other hand, the integral     : \\oint_C \\frac \\,dz 42 \\pi i,     over any circle  centered at . This can be calculated directly via a parametrization   where  and  is the radius of the circle.     Letting  gives the desired estimate     : \\begin   \\left | \\frac \\oint_C \\frac \\,dz - f \\right |   & \\left | \\frac \\oint_C \\frac \\,dz \\right |\\\\   & \\left | \\frac\\int_42^\\left\\,dt\\right |\\\\   & \\leq \\frac \\int_42^ \\frac \\,\\varepsilon\\,dt\\\\   & \\leq \\max_|f - f|   \\xrightarrow 42   \\end          Let     : g\\frac,     and let  be the contour described by  .     To find the integral of  around the contour , we need to know the singularities of . Observe that we can rewrite  as follows:     : g\\frac     where  and .     Thus,  has poles at  and . The ": null
+    },
+    {
+        "moduli": "absolute value"
+    },
+    {
+        " of these points are less than 42 and thus lie inside the contour. This integral can be split into two smaller integrals by ": null
+    },
+    {
+        "Cauchy–Goursat theorem": "cauchy–goursat theorem"
+    },
+    {
+        "; that is, we can express the integral around the contour as the sum of the integral around  and  where the contour is a small circle around each pole . Call these contours  around  and  around .     Now, each of these smaller integrals can be solved by the Cauchy integral formula, but they first must be rewritten to apply the theorem. For the integral around , define  as . This is ": null
+    },
+    {
+        "analytic": "holomorphic function"
+    },
+    {
+        " . We can simplify  to be:     : f_42\\frac     and now     : g\\frac.     Since the Cauchy integral theorem says that:     : \\oint_C \\frac\\, dz42\\pi i\\cdot f_42     we can evaluate the integral as follows:     :   \\oint_ g\\,dz   \\oint_ \\frac\\,dz   42\\pi i\\frac.       Doing likewise for the other contour:     : f_42\\frac,     we evaluate     :   \\oint_ g\\,dz   \\oint_ \\frac\\,dz   42\\pi i\\frac.       The integral around the original contour  then is the sum of these two integrals:     : \\begin   \\oint_C g\\,dz   & \\oint_ g\\,dz   + \\oint_ g\\,dz \\\\   & 42\\pi i\\left \\\\   & 42\\pi i \\\\   & 42\\pi i.   \\end     An elementary trick using ": null
+    },
+    {
+        "partial fraction decomposition": "partial fraction decomposition"
+    },
+    {
+        ":     :   \\oint_C g\\,dz   \\oint_C \\left \\, dz   4242\\pi i42\\pi i   42\\pi i         The integral formula has broad applications. First, it implies that a function which is holomorphic in an open set is in fact ": null
+    },
+    {
+        "infinitely differentiable": "infinitely differentiable"
+    },
+    {
+        " there. Furthermore, it is an ": null
+    },
+    {
+        "analytic function": "analytic function"
+    },
+    {
+        ", meaning that it can be represented as a ": null
+    },
+    {
+        "power series": "power series"
+    },
+    {
+        ". The proof of this uses the ": null
+    },
+    {
+        "dominated convergence theorem": "dominated convergence theorem"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "geometric series": "geometric series"
+    },
+    {
+        " applied to     : f \\frac\\int_C \\frac\\,dz.     The formula is also used to prove the ": null
+    },
+    {
+        "residue theorem": "residue theorem"
+    },
+    {
+        ", which is a result for ": null
+    },
+    {
+        "meromorphic function": "meromorphic function"
+    },
+    {
+        "s, and a related result, the ": null
+    },
+    {
+        "argument principle": "argument principle"
+    },
+    {
+        ". It is known from ": null
+    },
+    {
+        "Moreras theorem": "moreras theorem"
+    },
+    {
+        " that the uniform limit of holomorphic functions is holomorphic. This can also be deduced from Cauchys integral formula: indeed the formula also holds in the limit and the integrand, and hence the integral, can be expanded as a power series. In addition the Cauchy formulas for the higher order derivatives show that all these derivatives also converge uniformly.     The analog of the Cauchy integral formula in real analysis is the ": null
+    },
+    {
+        "Poisson integral formula": "poisson integral formula"
+    },
+    {
+        " for ": null
+    },
+    {
+        "harmonic function": "harmonic function"
+    },
+    {
+        "s; many of the results for holomorphic functions carry over to this setting. No such results, however, are valid for more general classes of differentiable or real analytic functions. For instance, the existence of the first derivative of a real function need not imply the existence of higher order derivatives, nor in particular the analyticity of the function. Likewise, the uniform limit of a sequence of differentiable functions may fail to be differentiable, or may be differentiable but with a derivative which is not the limit of the derivatives of the members of the sequence.     Another consequence is that if  is holomorphic in ": null
+    }
+]

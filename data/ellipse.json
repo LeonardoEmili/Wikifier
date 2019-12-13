@@ -1,0 +1,245 @@
+[
+    {
+        "               In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", an ellipse is a ": null
+    },
+    {
+        "plane curve": "plane curve"
+    },
+    {
+        " surrounding two ": null
+    },
+    {
+        "focal points": "focus"
+    },
+    {
+        ", such that for all points on the curve, the sum of the two distances to the focal points is a constant. As such, it generalizes a ": null
+    },
+    {
+        "circle": "circle"
+    },
+    {
+        ", which is the special type of ellipse in which the two focal points are the same. The elongation of an ellipse is measured by its eccentricity e, a number ranging from e  42  to e 42 .     ": null
+    },
+    {
+        "Analytically": "analytic geometry"
+    },
+    {
+        ", the equation of a standard ellipse centered at the origin with width 42a and height 42b is:   : \\frac+\\frac 42 .     Assuming a ≥ b, the foci are  for c \\sqrt . The standard parametric equation is:   : \\quad \\text \\quad 42\\leq t\\leq 42\\pi.     Ellipses are the ": null
+    },
+    {
+        "closed": "closed curve"
+    },
+    {
+        " type of ": null
+    },
+    {
+        "conic section": "conic section"
+    },
+    {
+        ": a plane curve tracing the intersection of a ": null
+    },
+    {
+        "cone": "cone"
+    },
+    {
+        " with a ": null
+    },
+    {
+        "plane": "plane"
+    },
+    {
+        " . Ellipses have many similarities with the other two forms of conic sections, ": null
+    },
+    {
+        "parabola": "parabola"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "hyperbola": "hyperbola"
+    },
+    {
+        "s, both of which are ": null
+    },
+    {
+        "open": "open curve"
+    },
+    {
+        " and ": null
+    },
+    {
+        "unbounded": "unbounded set"
+    },
+    {
+        ". An angled ": null
+    },
+    {
+        "cross section": "cross section"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "cylinder": "cylinder cylindric section"
+    },
+    {
+        " is also an ellipse.     An ellipse may also be defined in terms of one focal point and a line outside the ellipse called the ": null
+    },
+    {
+        "directrix": "ellipseeccentricity and the directrix property"
+    },
+    {
+        ": for all points on the ellipse, the ratio between the distance to the ": null
+    },
+    {
+        "focus": "focus"
+    },
+    {
+        " and the distance to the directrix is a constant. This constant ratio is the above-mentioned eccentricity:   : e \\frac \\sqrt .     Ellipses are common in ": null
+    },
+    {
+        "physics": "physics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "astronomy": "astronomy"
+    },
+    {
+        " and ": null
+    },
+    {
+        "engineering": "engineering"
+    },
+    {
+        ". For example, the ": null
+    },
+    {
+        "orbit": "kepler orbit"
+    },
+    {
+        " of each planet in the ": null
+    },
+    {
+        "solar system": "solar system"
+    },
+    {
+        " is approximately an ellipse with the Sun at one focus point . The same is true for moons orbiting planets and all other systems of two astronomical bodies. The shapes of planets and stars are often well described by ": null
+    },
+    {
+        "ellipsoids": "ellipsoids"
+    },
+    {
+        ". A circle viewed from a side angle looks like an ellipse: that is, the ellipse is the image of a circle under ": null
+    },
+    {
+        "parallel": "parallel projection"
+    },
+    {
+        " or ": null
+    },
+    {
+        "perspective projection": "perspective projection"
+    },
+    {
+        ". The ellipse is also the simplest ": null
+    },
+    {
+        "Lissajous figure": "lissajous figure"
+    },
+    {
+        " formed when the horizontal and vertical motions are ": null
+    },
+    {
+        "sinusoid": "sine wave"
+    },
+    {
+        "s with the same frequency: a similar effect leads to ": null
+    },
+    {
+        "elliptical polarization": "elliptical polarization"
+    },
+    {
+        " of light in ": null
+    },
+    {
+        "optics": "optics"
+    },
+    {
+        ".     The name,  , was given by ": null
+    },
+    {
+        "Apollonius of Perga": "apollonius of perga"
+    },
+    {
+        " in his Conics.             An ellipse can be defined geometrically as a set or ": null
+    },
+    {
+        "locus of points": "locus of points"
+    },
+    {
+        " in the Euclidean plane:   : Given two fixed points F_42 F_42 called the foci and a distance 42a which is greater than the distance between the foci, the ellipse is the set of points P such that the sum of the distances |PF_42|,\\ |PF_42| is equal to 42a : E \\\\ .     The midpoint C of the line segment joining the foci is called the center of the ellipse. The line through the foci is called the major axis, and the line perpendicular to it through the center is the minor axis. The major axis intersects the ellipse at the vertex points V_42V_42 , which have distance a to the center. The distance c of the foci to the center is called the focal distance or linear eccentricity. The quotient e\\tfrac is the eccentricity.     The case F_42F_42 yields a circle and is included as a special type of ellipse.     The equation |PF_42| + |PF_42 | 42a can be viewed in a different way :   : If c_42 is the circle with midpoint F_42 and radius 42a , then the distance of a point P to the circle c_42 equals the distance to the focus F_42 :   :: |PF_42||Pc_42|.     c_42 is called the circular directrix of the ellipse.  The German term for this circle is Leitkreis which can be translated as Director circle , but that term has a different meaning in the English literature . This property should not be confused with the definition of an ellipse using a directrix line below.     Using ": null
+    },
+    {
+        "Dandelin spheres": "dandelin spheres"
+    },
+    {
+        ", one can prove that any plane section of a cone with a plane is an ellipse, assuming the plane does not contain the apex and has slope less than that of the lines on the cone.              The standard form of an ellipse in Cartesian coordinates assumes that the origin is the center of the ellipse, the x-axis is the major axis, and:   : the foci are the points F_42 ,\\ F_42 ,   : the vertices are V_42 ,\\ V_42 .     For an arbitrary point the distance to the focus is   \\sqrt and to the other focus \\sqrt . Hence the point is on the ellipse whenever:   : \\sqrt + \\sqrt 42a\\ .     Removing the ": null
+    },
+    {
+        "radicals": "radical expression"
+    },
+    {
+        " by suitable squarings and using b^42 a^42-c^42 produces the standard equation of the ellipse:   : \\frac + \\frac 42     or, solved for y:   : y \\pm\\frac\\sqrt \\pm \\sqrt.     The width and height parameters a,\\; b are called the ": null
+    },
+    {
+        "semi-major and semi-minor axes": "semi-major and semi-minor axes"
+    },
+    {
+        ". The top and bottom points V_42 ,\\; V_42 are the co-vertices. The distances from a point on the ellipse to the left and right foci are a + ex and a - ex .     It follows from the equation that the ellipse is symmetric with respect to the coordinate axes and hence with respect to the origin.         a ≥ b Linear eccentricity c Eccentricity e Semi-latus rectum l latus rectum. One half of it is the semi-latus rectum \\ell . A calculation shows:   : \\ell \\fraca a \\left.     The semi-latus rectum \\ell is equal to the  radius of curvature of the ": null
+    },
+    {
+        "osculating circle": "osculating circle"
+    },
+    {
+        "s at the vertices.       An arbitrary line g intersects an ellipse at 42 42 or 42 points, respectively called an exterior line, tangent and secant. Through any point of an ellipse there is a unique tangent. The tangent at a point of the ellipse \\tfrac + \\tfrac 42 has the coordinate equation:     : \\fracx + \\fracy 42     A vector ": null
+    },
+    {
+        "parametric equation": "parametric equation"
+    },
+    {
+        " of the tangent is:   : \\vec x \\beginx_42 \\\\ y_42\\end + s\\begin   \\;\\! -y_42 a^42 \\\\   \\;\\ \\ \\ x_42 b^42   \\end\\ with \\ s \\in \\mathbb\\ .     Proof:   Let be a point on an ellipse and \\vec \\beginx_42 \\\\ y_42\\end + s\\beginu \\\\ v\\end be the equation of any line g containing . Inserting the lines equation into the ellipse equation and respecting \\frac + \\frac 42 yields:   :   \\frac + \\frac 42\\ \\quad\\Longrightarrow\\quad   42s\\left + s^42\\left 42\\ .   : There are then cases:   : \\fracu + \\fracv 42 Then line g and the ellipse have only point in common, and g is a tangent. The tangent direction has ": null
+    },
+    {
+        "perpendicular vector": "normal"
+    },
+    {
+        " \\begin\\frac & \\frac\\end , so the tangent line has equation \\fracx + \\tfracy k for some k . Because is on the tangent and the ellipse, one obtains k 42 .   : \\fracu + \\fracv \\ne 42 Then line g has a second point in common with the ellipse, and is a secant.     Using one finds that \\begin -y_42a^42 & x_42b^42 \\end is a tangent vector at point , which proves the vector equation.     If and are two points of the ellipse such that \\frac + \\tfrac 42 , then the points lie on two conjugate diameters .       If the standard ellipse is shifted to have center \\left , its equation is   : \\frac + \\frac 42 \\ .     The axes are still parallel to the x- and y-axes.                 In ": null
+    },
+    {
+        "analytic geometry": "analytic geometry"
+    },
+    {
+        ", the ellipse is defined as a quadric: the set of points of the ": null
+    },
+    {
+        "Cartesian plane": "cartesian plane"
+    },
+    {
+        " that, in non-degenerate cases, satisfy the ": null
+    },
+    {
+        "implicit": "implicit and explicit functions"
+    },
+    {
+        " equation           : AX^42 + B X Y + C Y^42 + D X + E Y + F 42     provided B^42 - 42AC     ": null
+    }
+]

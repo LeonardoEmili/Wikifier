@@ -1,0 +1,218 @@
+[
+    {
+        "UNICOS is the name of a range of ": null
+    },
+    {
+        "Unix-like": "unix-like"
+    },
+    {
+        " operating system": "operating system"
+    },
+    {
+        " variants developed by ": null
+    },
+    {
+        "Cray": "cray inc."
+    },
+    {
+        " for its ": null
+    },
+    {
+        "supercomputer": "supercomputer"
+    },
+    {
+        "s. UNICOS is the successor of the ": null
+    },
+    {
+        "Cray Operating System": "cray operating system"
+    },
+    {
+        " . It provides network ": null
+    },
+    {
+        "clustering": "cluster"
+    },
+    {
+        " and source code ": null
+    },
+    {
+        "compatibility layer": "compatibility layer"
+    },
+    {
+        "s for some other Unixes. UNICOS was originally introduced in 42 with the ": null
+    },
+    {
+        "Cray42": "cray-2"
+    },
+    {
+        " system and later ported to other Cray models. The original UNICOS was based on ": null
+    },
+    {
+        "UNIX System V Release 42": "unix system v"
+    },
+    {
+        ", and had numerous ": null
+    },
+    {
+        "BSD": "berkeley software distribution"
+    },
+    {
+        " features added to it.       CX-OS was the original name given to what is now UNICOS. This was a prototype system which ran on a ": null
+    },
+    {
+        "Cray X-MP": "cray x-mp"
+    },
+    {
+        " in 42 before the Cray42 port. It was used to demonstrate the feasibility of using ": null
+    },
+    {
+        "Unix": "unix"
+    },
+    {
+        " on a supercomputer system, prior to the availability of Cray42 hardware.     The operating system revamp was part of a larger movement inside Cray Research to modernize their corporate software: including rewriting their most important ": null
+    },
+    {
+        "Fortran": "fortran"
+    },
+    {
+        " compiler  in a higher-level language  with more modern optimizations and vectorizations.     As a migration path for existing COS customers wishing to transition to UNICOS, a Guest Operating System capability was introduced into COS. The only guest operating system that was ever supported was UNICOS. A COS batch job would be submitted to start up UNICOS, which would then run as a subsystem under COS - using a subset of the systems CPUs, memory, and peripheral devices. The UNICOS that ran under GOS was exactly the same as when it ran stand-alone - the difference was that the kernel would make certain low-level hardware requests through the COS GOS hook, rather than directly to the hardware.     One of the sites that ran very early versions of UNICOS was ": null
+    },
+    {
+        "Bell Labs": "bell labs"
+    },
+    {
+        ", where Unix pioneers including ": null
+    },
+    {
+        "Dennis Ritchie": "dennis ritchie"
+    },
+    {
+        " ported parts of their ": null
+    },
+    {
+        "Eighth Edition Unix": "version 8 unix"
+    },
+    {
+        "  to UNICOS. They also experimented with a guest facility within UNICOS, allowing the stand-alone version of the OS to host itself.       Cray have released several different OSs under the name UNICOS, including:   UNICOS: the original Cray Unix, based on System V. Used on the ": null
+    },
+    {
+        "Cray42": "cray-1"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Cray42": "cray-2"
+    },
+    {
+        ", ": null
+    },
+    {
+        "X-MP": "cray x-mp"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Y-MP": "cray y-mp"
+    },
+    {
+        ", ": null
+    },
+    {
+        "C42": "cray c90"
+    },
+    {
+        ", etc.   UNICOS MAX: a ": null
+    },
+    {
+        "Mach": "mach kernel"
+    },
+    {
+        "-based ": null
+    },
+    {
+        "microkernel": "microkernel"
+    },
+    {
+        " used on the ": null
+    },
+    {
+        "T42D": "cray t3d"
+    },
+    {
+        "s processing elements, in conjunction with UNICOS on the host Y-MP or C42 system.   UNICOS/mk: a serverized version of UNICOS using the ": null
+    },
+    {
+        "Chorus": "chorusos"
+    },
+    {
+        " microkernel": "microkernel"
+    },
+    {
+        " to make a ": null
+    },
+    {
+        "distributed operating system": "distributed operating system"
+    },
+    {
+        ". Used on the ": null
+    },
+    {
+        "T42E": "cray t3e"
+    },
+    {
+        ". This was the last Cray OS really based on UNICOS sources, as the following products were based on different sources and simply used the UNICOS name.   UNICOS/mp: not derived from UNICOS, but based on ": null
+    },
+    {
+        "IRIX": "irix"
+    },
+    {
+        " 42. Used on the ": null
+    },
+    {
+        "X42": "cray x1"
+    },
+    {
+        ".   UNICOS/lc: not derived from UNICOS, but based on ": null
+    },
+    {
+        "SUSE Linux": "suse linux"
+    },
+    {
+        ". Used on the ": null
+    },
+    {
+        "XT42": "cray xt3"
+    },
+    {
+        ", ": null
+    },
+    {
+        "XT42": "cray xt4"
+    },
+    {
+        " and ": null
+    },
+    {
+        "XT42": "cray xt5"
+    },
+    {
+        ". UNICOS/lc 42x comprises a combination of   the compute elements run the ": null
+    },
+    {
+        "Catamount": "catamount"
+    },
+    {
+        " microkernel    the service elements run SUSE Linux   Cray Linux Environment : from release 42 onwards, UNICOS/lc is now called Cray Linux Environment   the compute elements run ": null
+    },
+    {
+        "Compute Node Linux": "compute node linux"
+    },
+    {
+        "    the service elements run ": null
+    },
+    {
+        "SUSE Linux Enterprise Server": "suse linux enterprise server"
+    }
+]

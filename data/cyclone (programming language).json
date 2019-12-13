@@ -1,0 +1,146 @@
+[
+    {
+        "The Cyclone ": null
+    },
+    {
+        "programming language": "programming language"
+    },
+    {
+        " is intended to be a safe dialect of the ": null
+    },
+    {
+        "C language": "c"
+    },
+    {
+        ". Cyclone is designed to avoid ": null
+    },
+    {
+        "buffer overflow": "buffer overflow"
+    },
+    {
+        "s and other vulnerabilities that are possible in C programs, without losing the power and convenience of C as a tool for ": null
+    },
+    {
+        "system programming": "system programming"
+    },
+    {
+        ".     Cyclone development was started as a joint project of AT & T Labs Research and ": null
+    },
+    {
+        "Greg Morrisett": "greg morrisett"
+    },
+    {
+        "s group at Cornell in 42 Version 42 was released on May 42 42       Cyclone attempts to avoid some of the common pitfalls of ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        ", while still maintaining its look and performance. To this end, Cyclone places the following limits on programs:   ": null
+    },
+    {
+        "NULL": "null pointer"
+    },
+    {
+        " checks are inserted to prevent ": null
+    },
+    {
+        "segmentation fault": "segmentation fault"
+    },
+    {
+        "s   ": null
+    },
+    {
+        "Pointer arithmetic": "pointer arithmetic"
+    },
+    {
+        " is limited   Pointers must be initialized before use    ": null
+    },
+    {
+        "Dangling pointer": "dangling pointer"
+    },
+    {
+        "s are prevented through region analysis and limits on ": null
+    },
+    {
+        " free ": "malloc"
+    },
+    {
+        "  goto ": "control flow"
+    },
+    {
+        " into scopes is disallowed   ": null
+    },
+    {
+        " switch ": "control flow"
+    },
+    {
+        " labels in different scopes are disallowed   Pointer-returning functions must execute return   ": null
+    },
+    {
+        " setjmp ": "setjmp/longjmp"
+    },
+    {
+        " and ": null
+    },
+    {
+        " longjmp ": "setjmp/longjmp"
+    },
+    {
+        " are not supported     To maintain the tool set that C programmers are used to, Cyclone provides the following extensions:   Never- NULL pointers do not require NULL checks   Fat pointers support pointer arithmetic with run-time ": null
+    },
+    {
+        "bounds checking": "bounds checking"
+    },
+    {
+        " Garbage collection": "garbage collection"
+    },
+    {
+        " for heap-allocated values   ": null
+    },
+    {
+        "Tagged union": "tagged union"
+    },
+    {
+        "s support type-varying arguments   Injections help automate the use of tagged unions for programmers   ": null
+    },
+    {
+        "Polymorphism": "polymorphism"
+    },
+    {
+        " replaces some uses of ": null
+    },
+    {
+        " void ": "void pointer"
+    },
+    {
+        " Exceptions": "exception handling"
+    },
+    {
+        " replace some uses of setjmp and longjmp     For a better high-level introduction to Cyclone, the reasoning behind Cyclone and the source of these lists, see .     Cyclone looks, in general, much like ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        ", but it should be viewed as a C-like language.       Cyclone implements three kinds of ": null
+    },
+    {
+        "pointer": "pointer"
+    },
+    {
+        ":     @ , and   ? .   The purpose of introducing these new pointer types is to avoid common problems when using pointers. Take for instance a function, called foo that takes a pointer to an int:     int foo;     Although the person who wrote the function foo could have inserted NULL checks, let us assume that for performance reasons they did not. Calling foo; will result in ": null
+    },
+    {
+        "undefined behavior": "undefined behavior"
+    },
+    {
+        " . To avoid such problems, Cyclone introduces the @ pointer type, which can never be NULL . Thus, the safe version of foo would be:     int foo;     This tells the Cyclone compiler that the argument to foo should never be NULL , avoiding the aforementioned undefined behavior. The simple change of to @ saves the programmer from having to write NULL checks and the operating system from having to trap NULL pointer dereferences. This extra limit, however, can be a rather large stumbling block for most C programmers, who are used to being able to manipulate their pointers directly with arithmetic. Although this is desirable, it can lead to ": null
+    },
+    {
+        "buffer overflow": "buffer overflow"
+    },
+    {
+        "s and other off-by-one -style mistakes. To avoid this, the ? pointer type is delimited by a known bound, the size of the array. Although this adds overhead due to the extra information stored about the pointer, it improves safety and security. Take for instance a simple strlen function, written in C:     int strlen   ": null
+    }
+]

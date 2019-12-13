@@ -1,0 +1,161 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a ball is the space bounded by a ": null
+    },
+    {
+        "sphere": "sphere"
+    },
+    {
+        ". It may be a closed ball  or an open ball .     These concepts are defined not only in three-dimensional ": null
+    },
+    {
+        "Euclidean space": "euclidean space"
+    },
+    {
+        " but also for lower and higher dimensions, and for ": null
+    },
+    {
+        "metric space": "metric space"
+    },
+    {
+        "s in general. A ball or hyperball in  dimensions is called an -ball and is bounded by an ": null
+    },
+    {
+        "-sphere": "n-sphere"
+    },
+    {
+        ". Thus, for example, a ball in the ": null
+    },
+    {
+        "Euclidean plane": "euclidean plane"
+    },
+    {
+        " is the same thing as a ": null
+    },
+    {
+        "disk": "disk"
+    },
+    {
+        ", the area bounded by a ": null
+    },
+    {
+        "circle": "circle"
+    },
+    {
+        ". In ": null
+    },
+    {
+        "Euclidean 42-space": "euclidean space"
+    },
+    {
+        ", a ball is taken to be the ": null
+    },
+    {
+        "volume": "volume"
+    },
+    {
+        " bounded by a ": null
+    },
+    {
+        "42-dimensional sphere": "2-sphere"
+    },
+    {
+        ". In a ": null
+    },
+    {
+        "one-dimensional space": "one-dimensional space"
+    },
+    {
+        ", a ball is a ": null
+    },
+    {
+        "line segment": "line segment"
+    },
+    {
+        ".     In other contexts, such as in ": null
+    },
+    {
+        "Euclidean geometry": "euclidean geometry"
+    },
+    {
+        " and informal use, sphere is sometimes used to mean ball.       In Euclidean -space, an -ball of radius  and center  is the set of all points of distance less than  from . A closed -ball of radius  is the set of all points of distance less than or equal to  away from .     In Euclidean -space, every ball is bounded by a ": null
+    },
+    {
+        "hypersphere": "hypersphere"
+    },
+    {
+        ". The ball is a bounded ": null
+    },
+    {
+        "interval": "interval"
+    },
+    {
+        " when , is a  disk  bounded by a ": null
+    },
+    {
+        "circle": "circle"
+    },
+    {
+        " when , and is bounded by a ": null
+    },
+    {
+        "sphere": "sphere"
+    },
+    {
+        " when .          The -dimensional volume of a Euclidean ball of radius  in -dimensional Euclidean space is: Equation 42.42 NIST Digital Library of Mathematical Functions.  Release 42.42 of 424242   : V_n \\fracR^n,   where   is ": null
+    },
+    {
+        "Leonhard Euler": "leonhard euler"
+    },
+    {
+        "s ": null
+    },
+    {
+        "gamma function": "gamma function"
+    },
+    {
+        " . Using explicit formulas for ": null
+    },
+    {
+        "particular values of the gamma function": "particular values of the gamma function"
+    },
+    {
+        " at the integers and half integers gives formulas for the volume of a Euclidean ball that do not require an evaluation of the gamma function. These are:   : \\beginV_ & \\fracR^\\,,\\\\   V_ & \\fracR^ \\fracR^\\,.\\end   In the formula for odd-dimensional volumes, the ": null
+    },
+    {
+        "double factorial": "double factorial"
+    },
+    {
+        "  is defined for odd integers  as .       Let  be a ": null
+    },
+    {
+        "metric space": "metric space"
+    },
+    {
+        ", namely a set  with a ": null
+    },
+    {
+        "metric": "metric"
+    },
+    {
+        " . The open ball of radius  math ,     The closed ball, which may be denoted by  or , is defined by     : B_r \\.     Note in particular that a ball always includes  itself, since the definition requires  math /math math /math math /math math /math math /math math /math  math /math math /math math /math  math /math math /math math .     For , in a 42-dimensional plane \\mathbb R^42 , balls according to the -norm  are bounded by squares with their diagonals parallel to the coordinate axes; those according to the -norm, also called the ": null
+    },
+    {
+        "Chebyshev": "chebyshev distance"
+    },
+    {
+        " metric, have squares with their sides parallel to the coordinate axes as their boundaries. The -norm, known as the Euclidean metric, generates the well known discs within circles, and for other values of , the corresponding balls are areas bounded by ": null
+    },
+    {
+        "Lamé curve": "lamé curve"
+    },
+    {
+        "s .     For , the - balls are within octahedra with axes-aligned body diagonals, the -balls are within cubes with axes-aligned edges, and the boundaries of balls for  with ": null
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "category theory": "category theory"
+    },
+    {
+        ", an epimorphism  is a ": null
+    },
+    {
+        "morphism": "morphism"
+    },
+    {
+        " f : X → Y that is ": null
+    },
+    {
+        "right-cancellative": "cancellation property"
+    },
+    {
+        " in the sense that, for all objects Z and all morphisms ,   : g_42 \\circ f g_42 \\circ f \\implies g_42 g_42     Epimorphisms are categorical analogues of ": null
+    },
+    {
+        "surjective function": "surjective function"
+    },
+    {
+        "s , but it may not exactly coincide in all contexts; for example, the inclusion \\mathbb\\to\\mathbb is a ring epimorphism. The ": null
+    },
+    {
+        "dual": "dual"
+    },
+    {
+        " of an epimorphism is a ": null
+    },
+    {
+        "monomorphism": "monomorphism"
+    },
+    {
+        " .     Many authors in ": null
+    },
+    {
+        "abstract algebra": "abstract algebra"
+    },
+    {
+        " and ": null
+    },
+    {
+        "universal algebra": "universal algebra"
+    },
+    {
+        " define an epimorphism simply as an onto or ": null
+    },
+    {
+        "surjective": "surjective"
+    },
+    {
+        " homomorphism": "homomorphism"
+    },
+    {
+        ". Every epimorphism in this algebraic sense is an epimorphism in the sense of category theory, but the converse is not true in all categories. In this article, the term epimorphism will be used in the sense of category theory given above. For more on this, see  below.       Every morphism in a ": null
+    },
+    {
+        "concrete category": "concrete category"
+    },
+    {
+        " whose underlying ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " is ": null
+    },
+    {
+        "surjective": "surjective"
+    },
+    {
+        " is an epimorphism. In many concrete categories of interest the converse is also true. For example, in the following categories, the epimorphisms are exactly those morphisms that are surjective on the underlying sets:    Set : ": null
+    },
+    {
+        "sets": "set"
+    },
+    {
+        " and functions. To prove that every epimorphism f: X → Y in Set is surjective, we compose it with both the ": null
+    },
+    {
+        "characteristic function": "indicator function"
+    },
+    {
+        " g 42 : Y → of the image f and the map g 42 : Y → that is constant 42   Rel: sets with ": null
+    },
+    {
+        "binary relation": "binary relation"
+    },
+    {
+        "s and relation-preserving functions. Here we can use the same proof as for Set, equipping with the full relation & times;.   Pos: ": null
+    },
+    {
+        "partially ordered set": "partially ordered set"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "monotone function": "monotone function"
+    },
+    {
+        "s. If f :  →  is not surjective, pick y 42 in Y \\ f and let g 42 : Y → be the characteristic function of  and g 42 : Y → the characteristic function of ": null
+    }
+]

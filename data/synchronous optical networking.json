@@ -1,0 +1,545 @@
+[
+    {
+        "   Synchronous optical networking  and synchronous digital hierarchy  are standardized protocols that transfer multiple ": null
+    },
+    {
+        "digital": "digital data"
+    },
+    {
+        " bit stream": "bit stream"
+    },
+    {
+        "s ": null
+    },
+    {
+        "synchronous": "synchronous"
+    },
+    {
+        "ly over ": null
+    },
+    {
+        "optical fiber": "optical fiber"
+    },
+    {
+        " using ": null
+    },
+    {
+        "laser": "laser"
+    },
+    {
+        "s or highly ": null
+    },
+    {
+        "coherent": "coherence"
+    },
+    {
+        " light from ": null
+    },
+    {
+        "light-emitting diode": "light-emitting diode"
+    },
+    {
+        "s . At low ": null
+    },
+    {
+        "transmission rates": "bit rate"
+    },
+    {
+        " data can also be transferred via an electrical interface. The method was developed to replace the ": null
+    },
+    {
+        "plesiochronous digital hierarchy": "plesiochronous digital hierarchy"
+    },
+    {
+        " system for transporting large amounts of ": null
+    },
+    {
+        "telephone": "telephone"
+    },
+    {
+        " calls and ": null
+    },
+    {
+        "data": "data"
+    },
+    {
+        " traffic over the same fiber without the problems of synchronization.     SONET and SDH, which are essentially the same, were originally designed to transport ": null
+    },
+    {
+        "circuit mode": "circuit mode"
+    },
+    {
+        " communications  from a variety of different sources, but they were primarily designed to support real-time, uncompressed, circuit-switched voice encoded in ": null
+    },
+    {
+        "PCM": "pulse-code modulation"
+    },
+    {
+        " format. The primary difficulty in doing this prior to SONET/SDH was that the synchronization sources of these various circuits were different. This meant that each circuit was actually operating at a slightly different rate and with different phase. SONET/SDH allowed for the simultaneous transport of many different circuits of differing origin within a single framing protocol. SONET/SDH is not a complete communications protocol in itself, but a transport protocol .     Due to SONET/SDHs essential protocol neutrality and transport-oriented features, SONET/SDH was the obvious choice for transporting the fixed length ": null
+    },
+    {
+        "Asynchronous Transfer Mode": "asynchronous transfer mode"
+    },
+    {
+        " frames also known as cells. It quickly evolved mapping structures and concatenated payload containers to transport ATM connections. In other words, for ATM , the internal complex structure previously used to transport circuit-oriented connections was removed and replaced with a large and concatenated frame into which ATM cells, IP packets, or Ethernet frames are placed.        Both SDH and SONET are widely used today: SONET in the ": null
+    },
+    {
+        "United States": "united states"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Canada": "canada"
+    },
+    {
+        ", and SDH in the rest of the world. Although the SONET standards were developed before SDH, it is considered a variation of SDH because of SDHs greater worldwide market penetration.   SONET is subdivided into four sublayer with some factor such as the path, line, section and physical layer.     The SDH standard was originally defined by the ": null
+    },
+    {
+        "European Telecommunications Standards Institute": "european telecommunications standards institute"
+    },
+    {
+        " , and is formalised as ": null
+    },
+    {
+        "International Telecommunication Union": "international telecommunication union"
+    },
+    {
+        " standards G.42 G.42 G.42 and G.42 The SONET standard was defined by ": null
+    },
+    {
+        "Telcordia": "telcordia"
+    },
+    {
+        " and ": null
+    },
+    {
+        "American National Standards Institute": "american national standards institute"
+    },
+    {
+        " standard T42. which define the set of transmission formats and transmission rates in the range above 42 Mbit/s.       SDH differs from ": null
+    },
+    {
+        "Plesiochronous Digital Hierarchy": "plesiochronous digital hierarchy"
+    },
+    {
+        " in that the exact rates that are used to transport the data on SONET/SDH are tightly ": null
+    },
+    {
+        "synchronized": "synchronization"
+    },
+    {
+        " across the entire network, using ": null
+    },
+    {
+        "atomic clock": "atomic clock"
+    },
+    {
+        "s. This ": null
+    },
+    {
+        "synchronization system": "synchronization in telecommunications"
+    },
+    {
+        " allows entire inter-country networks to operate synchronously, greatly reducing the amount of buffering required between elements in the network.   Both SONET and SDH can be used to ": null
+    },
+    {
+        "encapsulate": "encapsulation"
+    },
+    {
+        " earlier digital transmission standards, such as the PDH standard, or they can be used to directly support either Asynchronous Transfer Mode or so-called ": null
+    },
+    {
+        "packet over SONET/SDH": "packet over sonet/sdh"
+    },
+    {
+        " networking. Therefore, it is inaccurate to think of SDH or SONET as communications protocols in and of themselves; they are generic, all-purpose transport containers for moving both voice and data. The basic format of a SONET/SDH signal allows it to carry many different services in its virtual container , because it is bandwidth-flexible.     ": null
+    },
+    {
+        "connection-oriented": "connection-oriented communication"
+    },
+    {
+        " in the way that term is usually used.     The protocol is a heavily multiplexed structure, with the ": null
+    },
+    {
+        "header": "header"
+    },
+    {
+        " interleaved between the data in a complex way. This permits the encapsulated data to have its own frame rate and be able to float around relative to the SDH/SONET frame structure and rate. This interleaving permits a very low ": null
+    },
+    {
+        "latency": "latency"
+    },
+    {
+        " for the encapsulated data. Data passing through equipment can be delayed by at most 42  ": null
+    },
+    {
+        "microsecond": "microsecond"
+    },
+    {
+        "s  , compared to a frame rate of 42  μs; many competing protocols buffer the data during such transits for at least one frame or packet before sending it on. Extra padding is allowed for the multiplexed data to move within the overall framing, as the data is clocked at a different rate than the frame rate. The protocol is made more complex by the decision to permit this padding at most levels of the multiplexing structure, but it improves all-around performance.       The basic unit of framing in SDH is a ": null
+    },
+    {
+        "STM42": "stm-1"
+    },
+    {
+        " , which operates at 42 ": null
+    },
+    {
+        "megabits per second": "mbit/s"
+    },
+    {
+        " . SONET refers to this basic unit as an STS42c . When the STS42c is carried over OC42 it is often colloquially referred to as ": null
+    },
+    {
+        "OC42": "oc-3"
+    },
+    {
+        "c, but this is not an official designation within the SONET standard as there is no physical layer difference between an STS42c and 42 STS42s carried within an OC42     SONET offers an additional basic unit of transmission, the STS42 or ": null
+    },
+    {
+        "OC42": "optical carrier transmission ratesoc-1"
+    },
+    {
+        ", operating at 42 Mbit/s—exactly one third of an STM42/STS42c/OC42c carrier. This speed is dictated by the bandwidth requirements for PCM-encoded telephonic voice signals: at this rate, an STS42/OC42 circuit can carry the bandwidth equivalent of a standard ": null
+    },
+    {
+        "DS42": "ds-3"
+    },
+    {
+        " channel, which can carry 42 42-kbit/s voice channels. In SONET, the STS42c signal is composed of three multiplexed STS42 signals; the STS42c may be carried on an OC42 signal. Some manufacturers also support the SDH equivalent of the STS42/OC42 known as STM42       In packet-oriented data transmission, such as ": null
+    },
+    {
+        "Ethernet": "ethernet"
+    },
+    {
+        ", a packet frame usually consists of a ": null
+    },
+    {
+        "header": "header"
+    },
+    {
+        " and a ": null
+    },
+    {
+        "payload": "payload"
+    },
+    {
+        ". The header is transmitted first, followed by the payload . In synchronous optical networking, this is modified slightly. The header is termed the overhead, and instead of being transmitted before the payload, is interleaved with it during transmission. Part of the overhead is transmitted, then part of the payload, then the next part of the overhead, then the next part of the payload, until the entire frame has been transmitted.     In the case of an STS42 the frame is 42 ": null
+    },
+    {
+        "octets": "octet"
+    },
+    {
+        " in size, while the STM42/STS42c frame is 42 octets in size. For STS42 the frame is transmitted as three octets of overhead, followed by 42 octets of payload. This is repeated nine times, until 42 octets have been transmitted, taking 42  ": null
+    },
+    {
+        "μs": "microsecond"
+    },
+    {
+        ". In the case of an STS42c/STM42 which operates three times faster than an STS42 nine octets of overhead are transmitted, followed by 42 octets of payload. This is also repeated nine times until 42 octets have been transmitted, also taking 42  ": null
+    },
+    {
+        "μs": "microsecond"
+    },
+    {
+        ". For both SONET and SDH, this is often represented by displaying the frame graphically: as a block of 42 columns and nine rows for STS42 and 42 columns and nine rows for STM42/STS42c. This representation aligns all the overhead columns, so the overhead appears as a contiguous block, as does the payload.     The internal structure of the overhead and payload within the frame differs slightly between SONET and SDH, and different terms are used in the standards to describe these structures. Their standards are extremely similar in implementation, making it easy to interoperate between SDH and SONET at any given bandwidth.     In practice, the terms STS42 and OC42 are sometimes used interchangeably, though the OC designation refers to the signal in its optical form. It is therefore incorrect to say that an OC42 contains 42 OC42s: an OC42 can be said to contain 42 STS42s.               The Synchronous Transport Module, level 42 frame is the basic transmission format for SDH—the first level of the synchronous digital hierarchy. The STM42 frame is transmitted in exactly 42  ": null
+    },
+    {
+        "μs": "microsecond"
+    },
+    {
+        ", therefore, there are 42 frames per second on a 42  Mbit/s OC42 fiber-optic circuit. 42 octets per frame × 42 bits per octet × 42 frames per second 42  Mbit/s The STM42 frame consists of overhead and pointers plus information payload. The first nine columns of each frame make up the section overhead and administrative unit pointers, and the last 42 columns make up the information payload. The pointers identify administrative units within the information payload. Thus, an OC42 circuit can carry 42  Mbit/s of payload, after accounting for the overhead. 42 octets of payload per frame × 42 bits per octet × 42 frames per second 42  Mbit/s     Carried within the information payload, which has its own frame structure of nine rows and 42 columns, are administrative units identified by pointers. Also within the administrative unit are one or more virtual containers . VCs contain path overhead and VC payload. The first column is for path overhead; it is followed by the payload container, which can itself carry other containers. Administrative units can have any phase alignment within the STM frame, and this alignment is indicated by the pointer in row four.     The section overhead of a STM42 signal is divided into two parts: the regenerator section overhead and the multiplex section overhead . The overheads contain information from the transmission system itself, which is used for a wide range of management functions, such as monitoring transmission quality, detecting failures, managing alarms, data communication channels, service channels, etc.     The STM frame is continuous and is transmitted in a serial fashion: byte-by-byte, row-by-row.       The transport overhead is used for signaling and measuring transmission ": null
+    },
+    {
+        "error rates": "bit error rate"
+    },
+    {
+        ", and is composed as follows:     :;Section overhead: Called regenerator section overhead in SDH terminology: 42 octets containing information about the frame structure required by the terminal equipment.   :;Line overhead: Called multiplex section overhead in SDH: 42 octets containing information about error correction and Automatic Protection Switching messages as may be required within the network. The error correction is included for STM42 and above.   :;Administrative unit pointer: Points to the location of the J42 byte in the payload .       Data transmitted from end to end is referred to as path data. It is composed of two components:   :;Payload overhead : 42 octets used for end-to-end signaling and error measurement.   :;Payload: User data     For STS42 the payload is referred to as the ": null
+    },
+    {
+        "synchronous payload envelope": "synchronous payload envelope"
+    },
+    {
+        " , which in turn has 42 stuffing bytes, leading to the STS42 payload capacity of 42 bytes.      The STS42 payload is designed to carry a full PDH ": null
+    },
+    {
+        "DS42": "t-carrier"
+    },
+    {
+        " frame. When the DS42 enters a SONET network, ": null
+    },
+    {
+        "path overhead": "path overhead"
+    },
+    {
+        " is added, and that SONET ": null
+    },
+    {
+        "network element": "network element"
+    },
+    {
+        " is said to be a path generator and terminator. The SONET NE is  line terminating  if it processes the line overhead. Note that wherever the line or path is terminated, the section is terminated also. SONET regenerators terminate the section, but not the paths or line.     An STS42 payload can also be subdivided into seven virtual tributary groups . Each VTG can then be subdivided into four ": null
+    },
+    {
+        "VT42": "vt1.5"
+    },
+    {
+        " signals, each of which can carry a PDH ": null
+    },
+    {
+        "DS42": "digital signal 1"
+    },
+    {
+        " signal. A VTG may instead be subdivided into three ": null
+    },
+    {
+        "VT42": "vt2"
+    },
+    {
+        " signals, each of which can carry a PDH ": null
+    },
+    {
+        "E42": "e-carrier level 1"
+    },
+    {
+        " signal. The SDH equivalent of a VTG is a TUG42; VT42 is equivalent to VC42 and VT42 is equivalent to VC42     Three STS42 signals may be ": null
+    },
+    {
+        "multiplexed": "multiplexing"
+    },
+    {
+        " by ": null
+    },
+    {
+        "time-division multiplexing": "time-division multiplexing"
+    },
+    {
+        " to form the next level of the SONET hierarchy, the ": null
+    },
+    {
+        "OC42": "oc-3"
+    },
+    {
+        " , running at 42  Mbit/s. The signal is multiplexed by interleaving the bytes of the three STS42 frames to form the STS42 frame, containing 42 bytes and transmitted in 42  ": null
+    },
+    {
+        "μs": "microsecond"
+    },
+    {
+        ".     Higher-speed circuits are formed by successively aggregating multiples of slower circuits, their speed always being immediately apparent from their designation. For example, four STS42 or AU42 signals can be aggregated to form a 42  Mbit/s signal designated ": null
+    },
+    {
+        "OC42": "oc-12"
+    },
+    {
+        " or ": null
+    },
+    {
+        "STM42": "stm-4"
+    },
+    {
+        ".     The highest rate commonly deployed is the ": null
+    },
+    {
+        "OC42": "oc-768"
+    },
+    {
+        " or ": null
+    },
+    {
+        "STM42": "stm-256"
+    },
+    {
+        " circuit, which operates at rate of just under 42 Gbit/s. Where fiber exhaustion is a concern, multiple SONET signals can be transported over multiple wavelengths on a single fiber pair by means of ": null
+    },
+    {
+        "wavelength-division multiplexing": "wavelength-division multiplexing"
+    },
+    {
+        ", including dense wavelength-division multiplexing and coarse wavelength-division multiplexing . DWDM circuits are the basis for all modern ": null
+    },
+    {
+        "submarine communications cable": "submarine communications cable"
+    },
+    {
+        " systems and other long-haul circuits.       Another type of high-speed data networking circuit is ": null
+    },
+    {
+        "42 Gigabit Ethernet": "10 gigabit ethernet"
+    },
+    {
+        " . The Gigabit Ethernet Alliance created two 42 Gigabit Ethernet variants: a local area variant  with a line rate of 42  Gbit/s, and a wide area variant  with the same line rate as OC42/STM42 . IEEE Std 42bv42 The WAN PHY variant encapsulates Ethernet data using a lightweight SDH/SONET frame, so as to be compatible at a low level with equipment designed to carry SDH/SONET signals, whereas the LAN PHY variant encapsulates Ethernet data using ": null
+    },
+    {
+        "42B/42B": "64b/66b encoding"
+    },
+    {
+        " line coding.     However, 42 Gigabit Ethernet does not explicitly provide any interoperability at the bitstream level with other SDH/SONET systems. This differs from WDM system transponders, including both coarse and dense wavelength-division multiplexing systems that currently support OC42 SONET signals, which can normally support thin-SONET–framed 42 Gigabit Ethernet.                 User throughput must not deduct path overhead from the payload bandwidth, but path-overhead bandwidth is variable based on the types of cross-connects built across the optical system.     Note that the data-rate progression starts at 42 Mbit/s and increases by multiples of four. The only exception is OC42 which is standardized in ANSI T42, but not a SDH standard rate in ITU-T G.42 Other rates, such as OC42 OC42 OC42 OC42 and OC42 are defined but not commonly deployed; most are considered orphaned rates.       The physical layer refers to the first layer in the OSI networking model. Tyson, Jeff. How OSI Works HowStuffWorks.com.  42 December 42 The ATM and SDH layers are the regenerator section level, digital line level, transmission path level, virtual path level, and virtual channel level. Black, Uyless D. Emerging Communications Technologies. Englewood Cliffs, NJ: PTR Prentice Hall, 42 4242 Print. The physical layer is modeled on three major entities: transmission path, digital line and the regenerator section. Hassan, Rosilah, James Irvine, and Ian Glover. Design and Analysis of Virtual Bus Transport Using Synchronous Digital Hierarchy/Synchronous Optical Networking. Journal of Computer Science 42 : 4242 Print. The regenerator section refers to the section and photonic layers. The photonic layer is the lowest SONET layer and it is responsible for transmitting the bits to the physical medium. The section layer is responsible for generating the proper STS-N frames which are to be transmitted across the physical medium. It deals with issues such as proper framing, error monitoring, section maintenance, and orderwire. The line layer ensures reliable transport of the payload and overhead generated by the path layer. It provides synchronization and multiplexing for multiple paths. It modifies overhead bits relating to quality control. The path layer is SONETs highest level layer. It takes data to be transmitted and transforms them into signals required by the line layer, and adds or modifies the path overhead bits for performance monitoring and protection switching. SONET: How Does SONET Work? Capybara.Org. Web. 42 December 42  . Introduction to SONET. Networking - Computer and Wireless Networking Basics - Home Networks Tutorials. Web. 42 December 42  .                 Network management systems are used to configure and monitor SDH and SONET equipment either locally or remotely.     The systems consist of three essential parts, covered later in more detail:   Software running on a network management system terminal e.g. workstation, dumb terminal or laptop housed in an exchange/ central office.   Transport of network management data between the network management system terminal and the SONET/ SDH equipment e.g. using TL42/ Q42 protocols.   Transport of network management data between SDH/ SONET equipment using dedicated embedded data communication channels within the section and line overhead.     The main functions of network management thereby include:   ;Network and network-element provisioning   :In order to allocate bandwidth throughout a network, each network element must be configured. Although this can be done locally, through a craft interface, it is normally done through a network management system that in turn operates through the SONET/SDH network management network.   ;Software upgrade   :Network-element software upgrades are done mostly through the SONET/SDH management network in modern equipment.   ;Performance management   :Network elements have a very large set of standards for performance management. The performance-management criteria allow not only monitoring the health of individual network elements, but isolating and identifying most network defects or outages. Higher-layer ": null
+    },
+    {
+        "network monitoring": "network monitoring"
+    },
+    {
+        " and management software allows the proper filtering and troubleshooting of network-wide performance management, so that defects and outages can be quickly identified and resolved.     Consider the three parts defined above:       ;Local Craft interface   :Local craftspersons can access a SDH/ SONET network element on a craft port and issue commands through a ": null
+    },
+    {
+        "dumb terminal": "dumb terminal"
+    },
+    {
+        " or terminal emulation program running on a laptop. This interface can also be attached to a ": null
+    },
+    {
+        "console server": "console server"
+    },
+    {
+        ", allowing for remote ": null
+    },
+    {
+        "out-of-band management": "out-of-band management"
+    },
+    {
+        " and ": null
+    },
+    {
+        "logging": "data logging"
+    },
+    {
+        ".     ; Network management system   This will often consist of software running on a Workstation covering a number of SDH/SONET network elements         ;TL42   SONET equipment is often managed with the ": null
+    },
+    {
+        "TL42": "tl1"
+    },
+    {
+        " protocol. TL42 is an telecom language for managing and reconfiguring SONET network elements. The command language used by a SONET network element, such as TL42 must be carried by other management protocols, such as ": null
+    },
+    {
+        "SNMP": "simple network management protocol"
+    },
+    {
+        ", ": null
+    },
+    {
+        "CORBA": "corba"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "XML": "xml"
+    },
+    {
+        ".   ;Q42   SDH has been mainly managed using the Q42 interface protocol suite defined in ITU recommendations Q.42 and Q.42 With the convergence of SONET and SDH on switching matrix and network elements architecture, newer implementations have also offered TL42     Most SONET ": null
+    },
+    {
+        "NEs": "network element"
+    },
+    {
+        " have a limited number of management interfaces defined:     ;TL42 Electrical interface   :The electrical interface, often a ": null
+    },
+    {
+        "42-ohm coaxial cable": "50 ω"
+    },
+    {
+        ", sends SONET TL42 commands from a local management network physically housed in the ": null
+    },
+    {
+        "central office": "telephone exchange"
+    },
+    {
+        " where the SONET network element is located. This is for local management of that network element and, possibly, remote management of other SONET network elements.         : SONET and SDH have dedicated data communication channels within the section and line overhead for management traffic. Generally, section overhead  is used. According to ": null
+    },
+    {
+        "ITU-T": "itu-t"
+    },
+    {
+        " G.42 there are three modes used for management:   :": null
+    },
+    {
+        "IP": "internet protocol"
+    },
+    {
+        "-only stack, using ": null
+    },
+    {
+        "PPP": "point-to-point protocol"
+    },
+    {
+        " as data-link   :": null
+    },
+    {
+        "OSI": "open systems interconnection"
+    },
+    {
+        "-only stack, using LAP-D as data-link   :Dual stack using PPP or LAP-D with tunneling functions to communicate between stacks.     To handle all of the possible management channels and signals, most modern network elements contain a router for the network commands and underlying protocols.       With advances in SONET and SDH chipsets, the traditional categories of network elements are no longer distinct. Nevertheless, as network architectures have remained relatively constant, even newer equipment  can be examined in light of the architectures they will support. Thus, there is value in viewing new, as well as traditional, equipment in terms of the older categories.       Traditional regenerators terminate the section overhead, but not the line or path. Regenerators extend long-haul routes in a way similar to most regenerators, by converting an optical signal that has already traveled a long distance into electrical format and then retransmitting a regenerated high-power signal.     Since the late 42s, regenerators have been largely replaced by ": null
+    },
+    {
+        "optical amplifier": "optical amplifier"
+    },
+    {
+        "s. Also, some of the functionality of regenerators has been absorbed by the transponders of wavelength-division multiplexing systems.       STS multiplexer and demultiplexer provide the interface between an electrical tributary network and the optical network.       ": null
+    },
+    {
+        "Add-drop multiplexer": "add-drop multiplexer"
+    },
+    {
+        "s are the most common type of network elements. Traditional ADMs were designed to support one of the network architectures, though new generation systems can often support several architectures, sometimes simultaneously. ADMs traditionally have a high-speed side , and a low-speed side, which can consist of electrical as well as optical interfaces. The low-speed side takes in low-speed signals, which are multiplexed by the network element and sent out from the high-speed side, or vice versa.       Recent ": null
+    },
+    {
+        "digital cross connect system": "digital cross connect system"
+    },
+    {
+        "s support numerous high-speed signals, and allow for cross-connection of DS42s, DS42s and even STS42s/42c and so on, from any input to any output. Advanced DCSs can support numerous subtending rings simultaneously.       SONET and SDH have a limited number of architectures defined. These architectures allow for efficient bandwidth usage as well as protection , and are fundamental to the worldwide deployment of SONET and SDH for moving digital traffic. Every SDH/SONET connection on the optical physical layer uses two optical fibers, regardless of the transmission speed.       Linear Automatic Protection Switching , also known as 4242, involves four fibers: two working fibers , and two protection fibers. Switching is based on the line state, and may be unidirectional , or bidirectional .       In unidirectional path-switched rings , two redundant copies of protected traffic are sent in either direction around a ring. A selector at the egress node determines which copy has the highest quality, and uses that copy, thus coping if one copy deteriorates due to a broken fiber or other failure. UPSRs tend to sit nearer to the edge of a network, and as such are sometimes called collector rings. Because the same data is sent around the ring in both directions, the total capacity of a UPSR is equal to the line rate N of the OC-N ring. For example, in an OC42 ring with 42 STS42s used to transport 42 DS42s from ingress node A to the egress node D, 42 percent of the ring bandwidth  would be consumed by nodes A and D. Any other nodes on the ring could only act as pass-through nodes. The SDH equivalent of UPSR is  subnetwork connection protection  ; SNCP does not impose a ring topology, but may also be used in mesh topologies.       Bidirectional line-switched ring comes in two varieties: two-fiber BLSR and four-fiber BLSR. BLSRs switch at the line layer. Unlike UPSR, BLSR does not send redundant copies from ingress to egress. Rather, the ring nodes adjacent to the failure reroute the traffic the long way around the ring on the protection fibers. BLSRs trade cost and complexity for bandwidth efficiency, as well as the ability to support extra traffic that can be pre-empted when a protection switching event occurs. In four-fiber ring, either single node failures, or multiple line failures can be supported, since a failure or maintenance action on one line causes the protection fiber connecting two nodes to be used rather than looping it around the ring.     BLSRs can operate within a metropolitan region or, often, will move traffic between municipalities. Because a BLSR does not send redundant copies from ingress to egress, the total bandwidth that a BLSR can support is not limited to the line rate N of the OC-N ring, and can actually be larger than N depending upon the traffic pattern on the ring. In the best case, all traffic is between adjacent nodes. The worst case is when all traffic on the ring egresses from a single node, i.e., the BLSR is serving as a collector ring. In this case, the bandwidth that the ring can support is equal to the line rate N of the OC-N ring. This is why BLSRs are seldom, if ever, deployed in collector rings, but often deployed in inter-office rings. The SDH equivalent of BLSR is called Multiplex Section-Shared Protection Ring .       Clock sources used for synchronization in telecommunications networks are rated by quality, commonly called a  stratum .  Typically, a network element uses the highest quality stratum available to it, which can be determined by monitoring the synchronization status messages of selected clock sources.     Synchronization sources available to a network element are:   ;Local external timing   :This is generated by an ": null
+    },
+    {
+        "atomic cesium clock": "cesium clock"
+    },
+    {
+        " or a satellite-derived clock by a device in the same central office as the network element. The interface is often a DS42 with sync-status messages supplied by the clock and placed into the DS42 overhead.   ;Line-derived timing   :A network element can choose to derive its timing from the line-level, by monitoring the S42 sync-status bytes to ensure quality.   ;Holdover   :As a last resort, in the absence of higher quality timing, a network element can go into a ": null
+    },
+    {
+        "holdover": "holdover in synchronization applications"
+    },
+    {
+        " mode until higher-quality external timing becomes available again. In this mode, the network element uses its own timing circuits as a reference.       A timing loop occurs when network elements in a network are each deriving their timing from other network elements, without any of them being a master timing source. This network loop will eventually see its own timing float away from any external networks, causing mysterious bit errors—and ultimately, in the worst cases, massive loss of traffic. The source of these kinds of errors can be hard to diagnose.  In general, a network that has been properly configured should never find itself in a timing loop, but some classes of silent failures could nevertheless cause this issue.          SONET/SDH development was originally driven by the need to transport multiple PDH signals—like DS42 E42 DS42 and E42—along with other groups of multiplexed 42  kbit/s ": null
+    },
+    {
+        "pulse-code modulated": "pulse-code modulated"
+    },
+    {
+        " voice traffic. The ability to transport ATM traffic was another early application. In order to support large ATM bandwidths, concatenation was developed, whereby smaller multiplexing containers are inversely multiplexed to build up a larger container to support large data-oriented pipes.     One problem with traditional concatenation, however, is inflexibility. Depending on the data and voice traffic mix that must be carried, there can be a large amount of unused bandwidth left over, due to the fixed sizes of concatenated containers. For example, fitting a 42  Mbit/s ": null
+    },
+    {
+        "Fast Ethernet": "fast ethernet"
+    },
+    {
+        " connection inside a 42  Mbit/s STS42c container leads to considerable waste. More important is the need for all intermediate network elements to support newly introduced concatenation sizes. This problem was overcome with the introduction of Virtual Concatenation.     ": null
+    },
+    {
+        "Virtual concatenation": "virtual concatenation"
+    },
+    {
+        " allows for a more arbitrary assembly of lower-order multiplexing containers, building larger containers of fairly arbitrary size without the need for intermediate network elements to support this particular form of concatenation. Virtual concatenation leverages the ": null
+    },
+    {
+        "X.42": "x.86"
+    },
+    {
+        " or ": null
+    },
+    {
+        "Generic Framing Procedure": "generic framing procedure"
+    },
+    {
+        " protocols in order to map payloads of arbitrary bandwidth into the virtually concatenated container.     The ": null
+    },
+    {
+        "Link Capacity Adjustment Scheme": "link capacity adjustment scheme"
+    },
+    {
+        " allows for dynamically changing the bandwidth via dynamic virtual concatenation, multiplexing containers based on the short-term bandwidth needs in the network.     The set of next-generation SONET/SDH protocols that enable Ethernet transport is referred to as ": null
+    },
+    {
+        "Ethernet over SONET/SDH": "ethernet over sdh"
+    }
+]

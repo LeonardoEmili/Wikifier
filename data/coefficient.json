@@ -1,0 +1,104 @@
+[
+    {
+        "      In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a coefficient is a multiplicative factor in some ": null
+    },
+    {
+        "term": "term"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "polynomial": "polynomial"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "series": "series"
+    },
+    {
+        ", or any ": null
+    },
+    {
+        "expression": "expression"
+    },
+    {
+        "; it is usually a number, but may be any expression. In the latter case, the ": null
+    },
+    {
+        "variables": "variable"
+    },
+    {
+        " appearing in the coefficients are often called ": null
+    },
+    {
+        "parameter": "parameter"
+    },
+    {
+        "s, and must be clearly distinguished from the other variables.     For example, in   : 42x^4242xy42+y,   the first two terms respectively have the coefficients 42 and −42 The third term 42 is a constant coefficient. The final term does not have any explicitly written coefficient, but is considered to have coefficient 42 since multiplying by that factor would not change the term.     Often coefficients are numbers as in this example, although they could be parameters of the problem or any expression in these parameters. In such a case one must clearly distinguish between symbols representing variables and symbols representing parameters. Following ": null
+    },
+    {
+        "René Descartes": "rené descartes"
+    },
+    {
+        ", the variables are often denoted by , , ..., and the parameters by , , , ..., but it is not always the case. For example, if  is considered as a parameter in the above expression, the coefficient of  is , and the constant coefficient is .     When one writes   : ax^42+bx+c,   it is generally supposed that  is the only variable and that ,  and  are parameters; thus the constant coefficient is  in this case.     Similarly, any ": null
+    },
+    {
+        "polynomial": "polynomial"
+    },
+    {
+        " in one variable  can be written as   : a_k x^k + \\dotsb + a_42 x^42 + a_42   for some positive integer k , where a_k, \\dotsc, a_42 a_42 are coefficients; to allow this kind of expression in all cases one must allow introducing terms with 42 as coefficient.   For the largest i with a_i \\ne 42 , a_i is called the leading coefficient of the polynomial. So for example the leading coefficient of the polynomial     : \\, 42x^42 + x^42 + 42x^42     is 42     Some specific coefficients that occur frequently in mathematics have received a name. This is the case of the ": null
+    },
+    {
+        "binomial coefficient": "binomial coefficient"
+    },
+    {
+        "s, the coefficients which occur in the expanded form of ^n , and are tabulated in ": null
+    },
+    {
+        "Pascals triangle": "pascals triangle"
+    },
+    {
+        ".       In ": null
+    },
+    {
+        "linear algebra": "linear algebra"
+    },
+    {
+        ", the leading coefficient  of a row in a matrix is the first nonzero entry in that row. So, for example, given     :   M \\begin   42 & 42 & 42 & 42\\\\   42 & 42 & 42 & 42\\\\   42 & 42 & 42 & 42\\\\   42 & 42 & 42 & 42   \\end.       The leading coefficient of the first row is 42; 42 is the leading coefficient of the second row; 42 is the leading coefficient of the third row, and the last row does not have a leading coefficient.     Though coefficients are frequently viewed as ": null
+    },
+    {
+        "constants": "constant"
+    },
+    {
+        " in elementary algebra, they can be variables more generally. For example, the ": null
+    },
+    {
+        "coordinates": "coordinates"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "vector": "vector"
+    },
+    {
+        " v in a ": null
+    },
+    {
+        "vector space": "vector space"
+    },
+    {
+        " with ": null
+    },
+    {
+        "basis": "basis"
+    }
+]

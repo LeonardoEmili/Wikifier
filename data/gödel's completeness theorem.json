@@ -1,0 +1,305 @@
+[
+    {
+        "Gödels completeness theorem is a fundamental theorem in ": null
+    },
+    {
+        "mathematical logic": "mathematical logic"
+    },
+    {
+        " that establishes a correspondence between ": null
+    },
+    {
+        "semantic": "semantics"
+    },
+    {
+        " truth and syntactic ": null
+    },
+    {
+        "provability": "provability logic"
+    },
+    {
+        " in ": null
+    },
+    {
+        "first-order logic": "first-order logic"
+    },
+    {
+        ". It makes a close link between ": null
+    },
+    {
+        "model theory": "model theory"
+    },
+    {
+        " that deals with what is true in different models, and ": null
+    },
+    {
+        "proof theory": "proof theory"
+    },
+    {
+        " that studies what can be formally proven in particular ": null
+    },
+    {
+        "formal system": "formal system"
+    },
+    {
+        "s.     It was first proved by ": null
+    },
+    {
+        "Kurt Gödel": "kurt gödel"
+    },
+    {
+        " in 42 It was then simplified in 42 when ": null
+    },
+    {
+        "Leon Henkin": "leon henkin"
+    },
+    {
+        " observed in his ": null
+    },
+    {
+        "Ph.D.": "ph.d."
+    },
+    {
+        " thesis": "thesis"
+    },
+    {
+        " that the hard part of the proof can be presented as the Model Existence Theorem . Henkins proof was simplified by ": null
+    },
+    {
+        "Gisbert Hasenjaeger": "gisbert hasenjaeger"
+    },
+    {
+        " in 42       There are numerous ": null
+    },
+    {
+        "deductive system": "deductive system"
+    },
+    {
+        "s for first-order logic, including systems of ": null
+    },
+    {
+        "natural deduction": "natural deduction"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Hilbert-style systems": "hilbert-style deduction system"
+    },
+    {
+        ". Common to all deductive systems is the notion of a formal deduction. This is a sequence  of formulas with a specially-designated conclusion. The definition of a deduction is such that it is finite and that it is possible to verify ": null
+    },
+    {
+        "algorithm": "algorithm"
+    },
+    {
+        "ically  that a given sequence of formulas is indeed a deduction.     A first-order formula is called  logically valid  if it is true in every ": null
+    },
+    {
+        "structure": "structure"
+    },
+    {
+        " for the language of the formula . To formally state, and then prove, the completeness theorem, it is necessary to also define a deductive system. A deductive system is called complete if every logically valid formula is the conclusion of some formal deduction, and the completeness theorem for a particular deductive system is the theorem that it is complete in this sense. Thus, in a sense, there is a different completeness theorem for each deductive system. A converse to completeness is  soundness , the fact that only logically valid formulas are provable in the deductive system.     If some specific deductive system of first-order logic is sound and complete, then it is perfect , thus equivalent to any other deductive system with the same quality .         We first fix a deductive system of first-order predicate calculus, choosing any of the well-known equivalent systems. Gödels original proof assumed the Hilbert-Ackermann proof system.         The completeness theorem says that if a formula is logically valid then there is a finite deduction of the formula.     Thus, the deductive system is complete in the sense that no additional inference rules are required to prove all the logically valid formulas. A converse to completeness is  soundness , the fact that only logically valid formulas are provable in the deductive system. Together with soundness , this theorem implies that a formula is logically valid ": null
+    },
+    {
+        "if and only if": "if and only if"
+    },
+    {
+        " it is the conclusion of a formal deduction.         The theorem can be expressed more generally in terms of ": null
+    },
+    {
+        "logical consequence": "logical consequence"
+    },
+    {
+        ". We say that a sentence s is a syntactic consequence of a theory T, denoted T\\vdash s , if s is provable from T in our deductive system. We say that s is a semantic consequence of T, denoted T\\models s , if s holds in every ": null
+    },
+    {
+        "model": "model"
+    },
+    {
+        " of T. The completeness theorem then says that for any first-order theory T with a ": null
+    },
+    {
+        "well-order": "well-order"
+    },
+    {
+        "able language, and any sentence s in the language of T,     :if T\\models s , then T\\vdash s .     Since the converse also holds, it follows that T\\models s iff T\\vdash s , and thus that syntactic and semantic consequence are equivalent for first-order logic.     This more general theorem is used implicitly, for example, when a sentence is shown to be provable from the axioms of ": null
+    },
+    {
+        "group theory": "group theory"
+    },
+    {
+        " by considering an arbitrary group and showing that the sentence is satisfied by that group.     Gödels original formulation is deduced by taking the particular case of a theory without any axiom.         The completeness theorem can also be understood in terms of ": null
+    },
+    {
+        "consistency": "consistency"
+    },
+    {
+        ", as a consequence of Henkins ": null
+    },
+    {
+        "model existence theorem": "consistencyhenkin.27s_theorem"
+    },
+    {
+        ". We say that a theory T is syntactically consistent if there is no sentence s such that both s and its negation ¬s are provable from T in our deductive system. The model existence theorem says that for any first-order theory T with a well-orderable language,     :if T is syntactically consistent, then T has a model.     Another version, with connections to the ": null
+    },
+    {
+        "Löwenheim–Skolem theorem": "löwenheim–skolem theorem"
+    },
+    {
+        ", says:     :Every syntactically consistent, ": null
+    },
+    {
+        "countable": "countable"
+    },
+    {
+        " first-order theory has a finite or countable model.     Given Henkins theorem, the completeness theorem can be proved as follows: If T \\models s , then T\\cup\\lnot s does not have models. By the contrapositive of Henkins theorem, then T\\cup\\lnot s is syntactically inconsistent. So a contradiction is provable from T\\cup\\lnot s in the deductive system. Hence \\vdash \\bot , and then by the properties of the deductive system, T\\vdash s .         The Model Existence Theorem and its proof can be formalized in the framework of ": null
+    },
+    {
+        "Peano arithmetic": "peano arithmetic"
+    },
+    {
+        ". Precisely, we can systematically define a model of any consistent effective first-order theory T in Peano arithmetic by interpreting each symbol of T by an arithmetical formula whose free variables are the arguments of the symbol. However, the definition expressed by this formula is not recursive.       An important consequence of the completeness theorem is that it is possible to ": null
+    },
+    {
+        "recursively enumerate": "enumerable set"
+    },
+    {
+        " the semantic consequences of any ": null
+    },
+    {
+        "effective": "effectively computable"
+    },
+    {
+        " first-order theory, by enumerating all the possible formal deductions from the axioms of the theory, and use this to produce an enumeration of their conclusions.     This comes in contrast with the direct meaning of the notion of semantic consequence, that quantifies over all structures in a particular language, which is clearly not a recursive definition.     Also, it makes the concept of provability, and thus of theorem, a clear concept that only depends on the chosen system of axioms of the theory, and not on the choice of a proof system.         Gödels second incompleteness theorem , another celebrated result, shows that there are inherent limitations in what can be achieved with formal proofs in mathematics. The name for the incompleteness theorem refers to another meaning of complete : A theory T  is complete if for every formula f in the language of T either T\\vdash f or T\\vdash \\neg f .     Gödels second incompleteness theorem states that in any ": null
+    },
+    {
+        "consistent": "consistent"
+    },
+    {
+        " effective": "effectively computable"
+    },
+    {
+        " theory T containing ": null
+    },
+    {
+        "Peano arithmetic": "peano arithmetic"
+    },
+    {
+        " , a formula C T  like C T \\neg  expressing the consistency of T cannot be proven within T.     The completeness theorem implies the existence of a model of T in which the formula C T  is false. Such a model is necessarily a ": null
+    },
+    {
+        "non-standard": "non-standard model of arithmetic"
+    },
+    {
+        ", as it contains the code number of a proof of a contradiction of T.   But T is consistent when viewed from the outside. Thus this code number of a proof of contradiction of T must be a non-standard number.     In fact, the model of any theory containing PA obtained by the systematic construction of the arithmetical model existence theorem, is always non-standard with a non-equivalent provability predicate and a non-equivalent way to interpret its own construction, so that this construction is non-recursive .     Also, ": null
+    },
+    {
+        "there is no recursive non-standard model of PA": "tennenbaums theorem"
+    },
+    {
+        ".       The completeness theorem and the ": null
+    },
+    {
+        "compactness theorem": "compactness theorem"
+    },
+    {
+        " are two cornerstones of first-order logic. While neither of these theorems can be proven in a completely ": null
+    },
+    {
+        "effective": "effectively computable"
+    },
+    {
+        " manner, each one can be effectively obtained from the other.     The compactness theorem says that if a formula φ is a logical consequence of a set of formulas Γ then it is a logical consequence of a finite subset of Γ. This is an immediate consequence of the completeness theorem, because only a finite number of axioms from Γ can be mentioned in a formal deduction of φ, and the soundness of the deductive system then implies φ is a logical consequence of this finite set. This proof of the compactness theorem is originally due to Gödel.     Conversely, for many deductive systems, it is possible to prove the completeness theorem as an effective consequence of the compactness theorem.     The ineffectiveness of the completeness theorem can be measured along the lines of ": null
+    },
+    {
+        "reverse mathematics": "reverse mathematics"
+    },
+    {
+        ". When considered over a countable language, the completeness and compactness theorems are equivalent to each other and equivalent to a weak form of choice known as ": null
+    },
+    {
+        "weak Königs lemma": "weak königs lemma"
+    },
+    {
+        ", with the equivalence provable in RCA 42 . Weak Königs lemma is provable in ZF, the system of ": null
+    },
+    {
+        "Zermelo–Fraenkel set theory": "zermelo–fraenkel set theory"
+    },
+    {
+        " without axiom of choice, and thus the completeness and compactness theorems for countable languages are provable in ZF. However the situation is different when the language is of arbitrary large cardinality since then, though the completeness and compactness theorems remain provably equivalent to each other in ZF, they are also provably equivalent to a weak form of the ": null
+    },
+    {
+        "axiom of choice": "axiom of choice"
+    },
+    {
+        " known as ": null
+    },
+    {
+        "the ultrafilter lemma": "boolean prime ideal theoremthe ultrafilter lemma"
+    },
+    {
+        ". In particular, no theory extending ZF can prove either the completeness or compactness theorems over arbitrary languages without also proving the ultrafilter lemma on a set of same cardinality.       The completeness theorem is a central property of ": null
+    },
+    {
+        "first-order logic": "first-order logic"
+    },
+    {
+        " that does not hold for all logics. ": null
+    },
+    {
+        "Second-order logic": "second-order logic"
+    },
+    {
+        ", for example, does not have a completeness theorem for its standard semantics , and the set of logically-valid formulas in second-order logic is not recursively enumerable. The same is true of all higher-order logics. It is possible to produce sound deductive systems for higher-order logics, but no such system can be complete.     ": null
+    },
+    {
+        "Lindströms theorem": "lindströms theorem"
+    },
+    {
+        " states that first-order logic is the strongest logic satisfying both compactness and completeness.     A completeness theorem can be proved for ": null
+    },
+    {
+        "modal logic": "modal logic"
+    },
+    {
+        " or ": null
+    },
+    {
+        "intuitionistic logic": "intuitionistic logic"
+    },
+    {
+        " with respect to ": null
+    },
+    {
+        "Kripke semantics": "kripke semantics"
+    },
+    {
+        ".       Gödels ": null
+    },
+    {
+        "original proof of the theorem": "original proof of gödels completeness theorem"
+    },
+    {
+        " proceeded by reducing the problem to a special case for formulas in a certain syntactic form, and then handling this form with an ad hoc argument.     In modern logic texts, Gödels completeness theorem is usually proved with ": null
+    },
+    {
+        "Henkin": "leon henkin"
+    },
+    {
+        "s proof, rather than with Gödels original proof. Henkins proof directly constructs a ": null
+    },
+    {
+        "term model": "term model"
+    },
+    {
+        " for any consistent first-order theory. James Margetson developed a computerized formal proof using the ": null
+    },
+    {
+        "Isabelle": "isabelle"
+    },
+    {
+        " theorem prover. ": null
+    }
+]

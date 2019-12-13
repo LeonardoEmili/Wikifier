@@ -1,0 +1,68 @@
+[
+    {
+        "     An inverse multiplexer  allows a ": null
+    },
+    {
+        "data stream": "data stream"
+    },
+    {
+        " to be broken into multiple lower data rate ": null
+    },
+    {
+        "communication link": "communication link"
+    },
+    {
+        "s. An inverse multiplexer differs from a ": null
+    },
+    {
+        "demultiplexer": "demultiplexer"
+    },
+    {
+        " because the multiple output streams from the former stay inter-related, whereas those from the latter are unrelated. An inverse multiplexer is the opposite of a ": null
+    },
+    {
+        "multiplexer": "multiplexer"
+    },
+    {
+        " in that it divides one high-speed link into multiple low-speed links, whereas a multiplexer combines multiple low-speed links into one high-speed link.     This provides an end to end connection of several times the data rate available on each of the low rate data links. Note that, as with multiplexers, links are often used in bi-directional pairs and, at either end of the link, an inverse multiplexer will be combined with its reverse and still be called an inverse MUX.     Inverse multiplexers are used, for example, to combine a number of ": null
+    },
+    {
+        "ISDN": "integrated services digital network"
+    },
+    {
+        " channels together into one high rate circuit, where a higher rate connection than is available from a single ": null
+    },
+    {
+        "ISDN": "integrated services digital network"
+    },
+    {
+        " connection is needed. This is typically useful in areas where higher rate circuits are not available.     An alternative to an inverse multiplexer is to use three separate links and load sharing of data between them. In the case of IP, network packets could be sent in ": null
+    },
+    {
+        "round-robin": "round-robin schedulingdata packet scheduling"
+    },
+    {
+        " mode between each separate link. Advantages of using inverse multiplexing over separate links include:     Lower link ": null
+    },
+    {
+        "latency": "lag"
+    },
+    {
+        "   Fairer ": null
+    },
+    {
+        "load balancing": "load balancing"
+    },
+    {
+        " Switch": "switch"
+    },
+    {
+        " needed between boxes with high-speed ": null
+    },
+    {
+        "interface": "network interface"
+    },
+    {
+        "s": null
+    }
+]

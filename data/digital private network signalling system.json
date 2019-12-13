@@ -1,0 +1,173 @@
+[
+    {
+        "The Digital Private Network Signalling System  is a ": null
+    },
+    {
+        "network protocol": "network protocol"
+    },
+    {
+        " used on digital ": null
+    },
+    {
+        "trunk lines": "trunk lines"
+    },
+    {
+        " for connecting to ": null
+    },
+    {
+        "PABX": "pabx"
+    },
+    {
+        ". It supports a defined set of inter-networking facilities.     DPNSS was originally defined by ": null
+    },
+    {
+        "British Telecom": "british telecom"
+    },
+    {
+        ". The specification for the protocol is defined in BTNR42 The specification currently comes under the Network Interoperability Consultative Committee.       DPNSS was developed in the early 42s by BT, or its forerunner, ": null
+    },
+    {
+        "Post Office Telecommunications": "post office telecommunications"
+    },
+    {
+        " in recognition that the emerging Digital Private Circuit Primary Rate product Megastream had to address the market for both data and voice, the latter being significantly greater because of the market for ": null
+    },
+    {
+        "PBX": "private branch exchange"
+    },
+    {
+        "s. At the time, BT dictated what signalling could be used on its leased lines and, whilst it only had a minority interest in the sales of PBXs, was requested by the PBX manufacturers to produce a standard to prevent the creation of a plethora of conflicting PBX protocols being developed. Under the ": null
+    },
+    {
+        "liberalization": "liberalization"
+    },
+    {
+        " rules of the day , BT was barred from manufacturing, selling or supplying PBXs of more than 42 extensions. Digital  PBXs were just starting to come into the marketplace with the ": null
+    },
+    {
+        "Plessey PDX": "plessey"
+    },
+    {
+        "  and the GEC SL42 . It was recognised that corporate customers would wish to network these systems across the country. At the time, ": null
+    },
+    {
+        "CAS": "channel-associated signaling"
+    },
+    {
+        " inter node signaling was slow and inter-register signaling MF42 developed from ": null
+    },
+    {
+        "PSTN": "pstn"
+    },
+    {
+        " signalling protocols, was complex and would not support sufficient features.   The support for DPNSS as BTs own signalling protocol also differentiated BTs private circuits services from those of its emerging rival ": null
+    },
+    {
+        "Mercury Communications": "mercury communications"
+    },
+    {
+        ".   DPNSS was an active collaboration between PBX manufacturers and BT which started relatively slowly but quickly snowballed with ": null
+    },
+    {
+        "MITEL": "mitel"
+    },
+    {
+        ", ": null
+    },
+    {
+        "GEC": "general electric company plc"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Ericsson": "ericsson"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Philips": "philips"
+    },
+    {
+        " and eventually Nortel all joining to create a powerful and feature rich protocol.   BT and some of the UK manufacturers championed DPNSS into ECMA and ": null
+    },
+    {
+        "CCITT": "ccitt"
+    },
+    {
+        " but it was eventually deprecated by the standards bodies in favour of ": null
+    },
+    {
+        "Q42": "q931"
+    },
+    {
+        " and QSig. Nevertheless, the elegance of the protocol and its compatibility with PBX features ensured the adoption DPNSS actually grew in Europe, compared to the much slower take-up of Qsig.   There were also attempts to take DPNSS into North America. Unfortunately the structures for the creation of standards in North America seemed to prevent manufacturer collaboration as a route forward and the ": null
+    },
+    {
+        "ANSI": "ansi"
+    },
+    {
+        " standards body was not interested in creating PBX interworking standards.   Version 42 of BTNR42 was issued in 42; the last version of DPNSS to be released 42 in 42 included compatibility with ": null
+    },
+    {
+        "ISDN": "isdn"
+    },
+    {
+        " features released in V42 A lightweight version of DPNSS APNSS was developed using analogue trunks and a ": null
+    },
+    {
+        "modem": "modem"
+    },
+    {
+        " to support D channel signalling.       Layer 42 ITU-G42 defines the physical and electrical interface. G42 defines the Frame structure of the 42 Mbs sent across the link. G42 defines the allocation of that frame structure into the 42 discrete 42Kbit channels, of which 42 is used for alignment of the frames and 42 is allocated to common channel signalling. Speech is carried as G42   Layer 42 Timeslot 42 42Kbs operates as ": null
+    },
+    {
+        "HDLC": "hdlc"
+    },
+    {
+        " LAPB": "lapb"
+    },
+    {
+        ", to support up to 42 PVCs or ": null
+    },
+    {
+        "DLC": "data link connection identifier"
+    },
+    {
+        "s as the specification describes them. Therefore, at maximum operation, each potential traffic channel can have two simultaneous data channels available for messages. Note that HDLC operates as a statistical ": null
+    },
+    {
+        "multiplexing": "multiplexing"
+    },
+    {
+        " system. When traffic deltas are low, a single call establishment message will have access to the full 42Kbs .   DPNSS is a layer 42 protocol functioning as common channel signalling. The functionality is divided into Levels Levels 4242 deal with simple call establishment and are the minimum requirements by which a PBX can be said to be DPNSS compatible. The remaining levels are allocated to telephony features, supplementary services or to administrative features. Note that support of levels by a PBX is not necessarily incremental. Some levels are interdependent but a PBX may omit support of some levels and support others.     DPNSS is a compelled protocol in that each instruction issued must be met with an appropriate response from the other PBX otherwise the message is re-transmitted . This means that when interworking two PBXs features invoked on PBX A must be acknowledged by PBX B even if that feature is not supported.   DPNSS carries its protocol messages as short strings of IA42 text. It is therefore much easier to interpret in its native form than Q42/Qsig or ": null
+    },
+    {
+        "H42": "h323"
+    },
+    {
+        "/H42 and a precursor to the plain language format of SIP.       As HDLC can operate successfully in quite poor data environments, DPNSS will work over a 42 Mbit/s link running without proper synchronisation and over poor quality connections . When setting up PBXs to run a DPNSS connection one end must be defined as the primary or A end. This is a protocol requirement and has nothing to do with link synchronisation. However, such badly synchronised links were frowned upon because of the problems associated with sending faxes and/or other modem based communication which were not specifically identified within the protocol.       For a protocol that began life in the 42s, DPNSS is natively a long way from ": null
+    },
+    {
+        "VoIP": "voip"
+    },
+    {
+        ". However, many of the hybrid VoIP PBXs available from manufacturers worldwide provide on-board DPNSS trunk cards. Where they do not, a protocol converter is necessary. Commercially available equipment offers the ability to convert from DPNSS to Q.Sig. Note that it is also possible to tunnel DPNSS and its associated PCM over an IP network. This can be point to point where the IP network carries packetised voice N x 42 Kbs speech and a separate IP signalling channel to carry the notional 42 Kbs of DPNSS signalling. A more sophisticated solution uses intelligence on the edge of the IP network to route voice to the correct node. This is a ": null
+    },
+    {
+        "Voice VPN": "voice vpn"
+    },
+    {
+        ".   Note that this should not be confused with the pre-VOIP Voice VPN deployed by routing calls intelligently in a TDM switching platform, often ": null
+    },
+    {
+        "Nortel": "nortel"
+    },
+    {
+        " DMS42 and customers PBX nodes.       Some critics of DPNSS suggest that it is too loosely defined and allows too much latitude in its interpretation of message formats and timers. It is also sometimes mistakenly believed that DPNSS is semi proprietary and that it is only possible to connect PBXs from the same manufacturer. i.e. ": null
+    },
+    {
+        "Siemens": "siemens"
+    }
+]

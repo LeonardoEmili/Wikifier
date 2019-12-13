@@ -1,0 +1,110 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "statistics": "statistics"
+    },
+    {
+        ", a unit is one member of a set of entities being studied. It is the main source for the mathematical abstraction of a ": null
+    },
+    {
+        "random variable": "payment"
+    },
+    {
+        " . Common examples of a unit would be a single person, animal, plant, manufactured item, or country that belongs to a larger collection of such entities being studied.     Units are often referred to as being either experimental units, sampling units or ": null
+    },
+    {
+        "units of observation": "unit of observation"
+    },
+    {
+        ":     An experimental unit is typically thought of as one member of a set of objects that are initially equal, with each object then subjected to one of several experimental treatments. Put simply, it is the smallest entity to which a treatment is applied.   A sampling unit is typically thought of as an object that has been sampled from a ": null
+    },
+    {
+        "statistical population": "statistical population"
+    },
+    {
+        ". This term is commonly used in ": null
+    },
+    {
+        "opinion polling": "opinion polling"
+    },
+    {
+        " and ": null
+    },
+    {
+        "survey sampling": "survey sampling"
+    },
+    {
+        ".     For example, in an experiment on educational methods, methods may be applied to classrooms of students. This would make the classroom as the experimental unit. Measurements of progress may be obtained from individual students, as observational units. But the treatment being applied to the class would not be applied independently to the individual students. Hence the student could not be regarded as the experimental unit. The class, or the teacher by method combination if the teacher had multiple classes, would be the appropriate experimental unit.     In most statistical studies, the goal is to generalize from the observed units to a larger set consisting of all comparable units that exist but are not directly observed. For example, if we randomly sample 42 people and ask them which candidate they intend to vote for in an election, our main interest is in the voting behavior of all eligible voters, not exclusively on the 42 observed units.     In some cases, the observed units may not form a sample from any meaningful population, but rather constitute a ": null
+    },
+    {
+        "convenience sample": "accidental sampling"
+    },
+    {
+        ", or may represent the entire population of interest. In this situation, we may study the units ": null
+    },
+    {
+        "descriptively": "descriptive statistics"
+    },
+    {
+        ", or we may study their ": null
+    },
+    {
+        "dynamics": "dynamic model"
+    },
+    {
+        " over time. But it typically does not make sense to talk about generalizing to a larger population of such units. Studies involving ": null
+    },
+    {
+        "countries": "country"
+    },
+    {
+        " or ": null
+    },
+    {
+        "business firms": "business"
+    },
+    {
+        " are often of this type. ": null
+    },
+    {
+        "Clinical trial": "clinical trial"
+    },
+    {
+        "s also typically use convenience samples, however the aim is often to make inferences about the effectiveness of treatments in other patients, and given the inclusion and exclusion criteria for some clinical trials, the sample may not be representative of the majority of patients with the condition or disease.     In simple ": null
+    },
+    {
+        "data": "data"
+    },
+    {
+        " sets, the units are in one-to-one correspondence with the data values. In more complex data sets, multiple measurements are made for each unit. For example, if blood pressure measurements are made daily for a week on each subject in a study, there would be seven data values for each statistical unit. Multiple measurements taken on an individual are not ": null
+    },
+    {
+        "independent": "independent and identically distributed random variables"
+    },
+    {
+        " . Ignoring these dependencies during the analysis can lead to an inflated sample size or ": null
+    },
+    {
+        "pseudoreplication": "pseudoreplication"
+    },
+    {
+        ".     While a unit is often the lowest level at which observations are made, in some cases, a unit can be further decomposed as a ": null
+    },
+    {
+        "statistical assembly": "statistical assembly"
+    },
+    {
+        ".     Many statistical analyses use quantitative ": null
+    },
+    {
+        "data": "data"
+    },
+    {
+        " that have ": null
+    },
+    {
+        "units of measurement": "units of measurement"
+    }
+]

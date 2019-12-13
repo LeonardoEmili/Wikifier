@@ -1,0 +1,488 @@
+[
+    {
+        "Xerox Network Systems  is a ": null
+    },
+    {
+        "computer network": "computer network"
+    },
+    {
+        "ing ": null
+    },
+    {
+        "protocol suite": "protocol suite"
+    },
+    {
+        " developed by ": null
+    },
+    {
+        "Xerox": "xerox"
+    },
+    {
+        " within the Xerox Network Systems Architecture. It provided general purpose network communications, internetwork ": null
+    },
+    {
+        "routing": "routing"
+    },
+    {
+        " and packet delivery, and higher level functions such as a ": null
+    },
+    {
+        "reliable stream": "reliable stream"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "remote procedure call": "remote procedure call"
+    },
+    {
+        "s. XNS predated and influenced the development of the ": null
+    },
+    {
+        "Open Systems Interconnection": "open systems interconnection"
+    },
+    {
+        " networking model, and was very influential in ": null
+    },
+    {
+        "local area networking": "local area networking"
+    },
+    {
+        " designs during the 42s. It had little impact on ": null
+    },
+    {
+        "TCP/IP": "tcp/ip"
+    },
+    {
+        ", however, which was designed earlier.     XNS was developed by the Xerox Systems Development Department in the early 42s, who were charged with bringing ": null
+    },
+    {
+        "Xerox Parc": "xerox parc"
+    },
+    {
+        "s research to market. XNS was based on the earlier ": null
+    },
+    {
+        "PARC Universal Packet": "parc universal packet"
+    },
+    {
+        " suite from the late 42s. Some of the protocols in the XNS suite were lightly modified versions of the ones in the Pup suite. XNS added the concept of a network number, allowing larger networks to be constructed from multiple smaller ones, with routers controlling the flow of information between the networks.     The protocol suite specifications for XNS were placed in the ": null
+    },
+    {
+        "public domain": "public domain"
+    },
+    {
+        " in 42 This helped XNS become the canonical ": null
+    },
+    {
+        "local area network": "local area network"
+    },
+    {
+        "ing protocol, copied to various degrees by practically all networking systems in use into the 42s. XNS was used unchanged by ": null
+    },
+    {
+        "42Com": "3com"
+    },
+    {
+        "s ": null
+    },
+    {
+        "42+Share": "3+share"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Ungermann-Bass": "ungermann-bass"
+    },
+    {
+        "s Net/One. It was also used, with modifications, as the basis for ": null
+    },
+    {
+        "Novell NetWare": "novell netware"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Banyan VINES": "banyan vines"
+    },
+    {
+        ". XNS was used as the basis for the ": null
+    },
+    {
+        "AppleNet": "applenet"
+    },
+    {
+        " system, but this never commercialized; a number of XNSs solutions to common problems were used in AppleNets replacement, ": null
+    },
+    {
+        "AppleTalk": "appletalk"
+    },
+    {
+        ".           In comparison to the ": null
+    },
+    {
+        "OSI model": "osi model"
+    },
+    {
+        "s 42 layers, XNS is a five-layer system, like the later ": null
+    },
+    {
+        "Internet protocol suite": "internet protocol suite"
+    },
+    {
+        ".     The Physical and Data Link layers of the OSI model correspond to the Physical layer in XNS, which was designed to use the transport mechanism of the underlying hardware and did not separate the data link. Specifically, XNSs Physical layer is really the ": null
+    },
+    {
+        "Ethernet": "ethernet"
+    },
+    {
+        " local area network": "local area network"
+    },
+    {
+        " system, also being developed by Xerox at the same time, and a number of its design decisions reflect that fact. The system was designed to allow Ethernet to be replaced by some other system, but that was not defined by the protocol .     The primary part of XNS is its definition of the Internal Transport layer , which corresponds to OSIs Network layer, and it is here that the primary internetworking protocol, IDP, is defined. XNS combined the OSIs Session and Transport layers into the single Interprocess Communications layer . Layer 42 was Resource Control, similar to the OSIs Presentation.     Finally, on top of both models, is the Application layer, although these layers were not defined in the XNS standard.       The main ": null
+    },
+    {
+        "internetwork": "internetwork"
+    },
+    {
+        " layer ": null
+    },
+    {
+        "protocol": "network protocol"
+    },
+    {
+        " is the Internet Datagram Protocol . IDP is a close descendant of Pups ": null
+    },
+    {
+        "internetwork protocol": "parc universal packetbasic internetwork protocol"
+    },
+    {
+        ", and roughly corresponds to the ": null
+    },
+    {
+        "Internet Protocol": "internet protocol"
+    },
+    {
+        " layer in ": null
+    },
+    {
+        "TCP/IP": "internet protocol suite"
+    },
+    {
+        ".     IDP uses Ethernets 42-bit address as the basis for its own ": null
+    },
+    {
+        "network address": "network address"
+    },
+    {
+        "ing, generally using the machines ": null
+    },
+    {
+        "MAC address": "mac address"
+    },
+    {
+        " as the primary unique identifier. To this is added another 42-bit address section provided by the networking equipment; 42-bits are provided by ": null
+    },
+    {
+        "router": "router"
+    },
+    {
+        "s to identify the network number in the internetwork, and another 42-bits define a socket number for service selection within a single host. The network number portion of the address also includes a special value which meant this network , for use by hosts which did not know their network number.     Unlike TCP/IP, socket numbers are part of the full network address in the IDP header, so that upper-layer protocols do not need to implement demultiplexing; IDP also supplies packet types . IDP also contains a checksum covering the entire packet, but it is optional, not mandatory. This reflects the fact that LANs generally have low-error rates, so XNS removed error correction from the lower-level protocols in order to improve performance. Error correction could be optionally added at higher levels in the protocol stack, for instance, in XNSs own SPP protocol. XNS was widely regarded as faster than IP due to this design note.     In keeping with the low-latency LAN connections it runs on, XNS uses a short packet size, which improves performance in the case of low error rates and short turnaround times. IDP packets are up to 42 bytes long, including the 42 byte IDP ": null
+    },
+    {
+        "header": "header"
+    },
+    {
+        ". In comparison, IP requires all hosts to support at least 42 but supports packets of up to 42K bytes. Individual XNS host pairs on a particular network might use larger packets, but no XNS router is required to handle them, and no mechanism is defined to discover if the intervening routers support larger packets. Also, packets can not be fragmented, as they can in IP.     The ": null
+    },
+    {
+        "Routing Information Protocol": "routing information protocol"
+    },
+    {
+        " , a descendant of Pups Gateway Information Protocol, is used as the router information-exchange system, and , remains in use today in other protocol suites, such as the ": null
+    },
+    {
+        "Internet protocol suite": "internet protocol suite"
+    },
+    {
+        ".     XNS also implements a simple echo protocol at the internetwork layer, similar to IPs ": null
+    },
+    {
+        "ping": "ping"
+    },
+    {
+        ", but operating at a lower level in the networking stack. Instead of adding the ICMP data as payload in an IP packet, as in ping, XNSs echo placed the command directly within the underlying IDP packet. The same might be achieved in IP by expanding the ICMP ": null
+    },
+    {
+        "Protocol": "ipv4protocol"
+    },
+    {
+        " field of the IP header.       There are two primary transport layer protocols, both very different from their Pup predecessor:     Sequenced Packet Protocol  is an acknowledged transport protocol, analogous to ": null
+    },
+    {
+        "TCP": "transmission control protocol"
+    },
+    {
+        "; one chief technical difference is that the sequence numbers count the packets, and not the bytes as in TCP and PUPs BSP; it is the direct antecedent to ": null
+    },
+    {
+        "Novells": "novell netware"
+    },
+    {
+        " IPX/SPX": "ipx/spx"
+    },
+    {
+        ".   Packet Exchange Protocol  is a connectionless non-reliable protocol similar in nature to ": null
+    },
+    {
+        "UDP": "user datagram protocol"
+    },
+    {
+        " and the antecedent to ": null
+    },
+    {
+        "Novells": "novell netware"
+    },
+    {
+        " PXP.     XNS, like Pup, also uses EP, the Error Protocol, as a reporting system for problems such as dropped packets. This provided a unique set of packets which can be filtered to look for problems.           In the original Xerox concept, application protocols such as remote printing, filing, and mailing, etc., employed a ": null
+    },
+    {
+        "remote procedure call": "remote procedure call"
+    },
+    {
+        " protocol named Courier. Courier contained primitives to implement most of the features of Xeroxs ": null
+    },
+    {
+        "Mesa programming language": "mesa"
+    },
+    {
+        " function calls. Applications had to manually serialize and de-serialize function calls in Courier; there was no automatic facility translate a function activation frame into an RPC . Because Courier was used by all applications, the XNS application protocol documents specified only courier function-call interfaces, and module+function binding tuples. There was a special facility in Courier to allow a function call to send or receive bulk data.     Initially, XNS service location was performed via broadcasting remote procedure-calls using a series of expanding ring broadcasts Later, the Clearinghouse Protocol 42-level directory service was created to perform service location, and the expanding-ring broadcasts were used only to locate an initial Clearinghouse.     Due to its tight integration with Mesa as an underlying technology, many of the traditional higher-level protocols were not part of the XNS system itself. This meant that vendors using the XNS protocols all created their own solutions for ": null
+    },
+    {
+        "file sharing": "file sharing"
+    },
+    {
+        " and ": null
+    },
+    {
+        "printer": "printer"
+    },
+    {
+        " support. While many of these 42rd party products theoretically could talk to each other at a packet level, there was little or no capability to call each others application services. This led to complete fragmentation of the XNS market, and has been cited as one of the reasons that IP easily displaced it.       The XNS protocols also included an Authentication Protocol and an Authentication Service to support it. After contacting the authentication service for credentials, this protocol provided a lightweight-way to digitally sign Courier procedure calls, so that receivers could verify the signature and authenticate senders over the XNS internet, without having to contact the Authentication service again for the length of the protocol communication session.       Xeroxs printing language, ": null
+    },
+    {
+        "Interpress": "interpress"
+    },
+    {
+        ", was a binary-formatted standard for controlling laser printers. The designers of this language, John Warnock and Chuck Geschke, later left Xerox PARC to start ": null
+    },
+    {
+        "Adobe Systems": "adobe systems"
+    },
+    {
+        ". Before leaving, they realized the difficulty of specifying a binary print language, where functions to serialize the print job were cumbersome and which made it difficult to debug errant printing jobs. To realize the value of specifying both a programmable and easily debug-able print job in ASCII, Warnock and Geschke created the Postscript language as one of their first products at Adobe.       Because all 42+ machines in the Xerox corporate Intranet ran the Wildflower architecture , there was a remote-debug protocol for microcode. Basically, a peek and poke function could halt and manipulate the microcode state of a C-series or D-series machine, anywhere on earth, and then restart the machine.     Also, there was a remote debug protocol for the world-swap debugger.    This protocol could, via the debugger nub , freeze a workstation and then peek and poke various parts of memory, change variables, and continue execution. If debugging symbols were available, a crashed machine could be remote debugged from anywhere on earth.           In his final year at ": null
+    },
+    {
+        "Harvard University": "harvard university"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Bob Metcalfe": "robert metcalfe"
+    },
+    {
+        " began interviewing at a number of companies and was given a warm welcome by ": null
+    },
+    {
+        "Jerry Elkind": "jerome i. elkind"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Bob Taylor": "robert taylor"
+    },
+    {
+        " at ": null
+    },
+    {
+        "Xerox PARC": "xerox parc"
+    },
+    {
+        ", who were beginning to work on the networked computer workstations that would become the ": null
+    },
+    {
+        "Xerox Alto": "xerox alto"
+    },
+    {
+        ". He agreed to join PARC in July, after defending his thesis. In 42 while ": null
+    },
+    {
+        "couch surfing": "couch surfing"
+    },
+    {
+        " at ": null
+    },
+    {
+        "Steve Crocker": "steve crocker"
+    },
+    {
+        "s home while attending a conference, Metcalfe picked up a copy ": null
+    },
+    {
+        "Proceedings of the Fall Joint Computer Conference": "joint computer conference"
+    },
+    {
+        " off the table with the aim of falling asleep while reading it. Instead, he became fascinated by an article on ": null
+    },
+    {
+        "ALOHAnet": "alohanet"
+    },
+    {
+        ", an earlier wide-area networking system. By June he had developed his own theories on networking and presented them to his professors, who rejected it and he was thrown out on my ass.      Metcalfe was welcomed at PARC in spite of his unsuccessful thesis, and soon started development of what was then referred to as ALOHAnet in a wire . He teamed up with ": null
+    },
+    {
+        "David Boggs": "david boggs"
+    },
+    {
+        " to help with the electronic implementation, and by the end of 42 they were building working hardware at 42  Mbit/s. The pair then began working on a simple protocol that would run on the system. This led to the development of the ": null
+    },
+    {
+        "PARC Universal Packet": "parc universal packet"
+    },
+    {
+        " system, and by late 42 the two had Pup successfully running on Ethernet. They filed a patent on the concepts, with Metcalfe adding several other names because he believed they deserved mention, and then submitted a paper on the concept to ": null
+    },
+    {
+        "Communications of the ACM": "communications of the acm"
+    },
+    {
+        " on Ethernet: Distributed Packet Switching for Local Computer Networks , published in July 42       By 42 long before Pup was complete, Metcalfe was already chafing under the stiff Xerox management. He believed the company should immediately put Ethernet into production, but found little interest among upper management. A seminal event took place when professors from ": null
+    },
+    {
+        "MIT": "mit"
+    },
+    {
+        "s famed ": null
+    },
+    {
+        "Artificial Intelligence Laboratory": "mit computer science and artificial intelligence laboratory"
+    },
+    {
+        " approached Xerox in 42 with the intention of buying Ethernet for use in their lab. Xerox management declined, believing Ethernet was better used to help sell their own equipment. The AI Lab would then go on to make their own version of Ethernet, ": null
+    },
+    {
+        "Chaosnet": "chaosnet"
+    },
+    {
+        ".     Metcalfe eventually left Xerox November 42 for Transaction Technology, a division of ": null
+    },
+    {
+        "Citibank": "citibank"
+    },
+    {
+        " tasked with advanced product development. However, he was lured back to Xerox seven months later by ": null
+    },
+    {
+        "David Liddle": "david liddle"
+    },
+    {
+        ", who had recently organized the Systems Development Division within Xerox specifically to bring PARCs concepts to market. Metcalfe immediately began re-designing Ethernet to work at 42  Mbit/s and started an effort to re-write Pup in a production quality version. Looking for help on Pup, Metcalfe approached ": null
+    },
+    {
+        "Yogin Dalal": "yogin dalal"
+    },
+    {
+        ", who was at that time completing his thesis under ": null
+    },
+    {
+        "Vint Cerf": "vint cerf"
+    },
+    {
+        " at ": null
+    },
+    {
+        "Stanford University": "stanford university"
+    },
+    {
+        ". Dalal was also being heavily recruited by ": null
+    },
+    {
+        "Bob Kahn": "bob kahn"
+    },
+    {
+        "s ": null
+    },
+    {
+        "ARPANET": "arpanet"
+    },
+    {
+        " team , but when Cerf left to join ": null
+    },
+    {
+        "DARPA": "darpa"
+    },
+    {
+        ", Dalal agreed to move to PARC and started there in 42     Dalal built a team including ": null
+    },
+    {
+        "William Crowther": "william crowther"
+    },
+    {
+        " and Hal Murray, and started with a complete review of Pup. Dalal also attempted to remain involved in the TCP efforts underway at DARPA, but eventually gave up and focussed fully on Pup. Dalal combined his experience with ARPANET with the concepts from Pup and by the end of 42 they had published the first draft of the Xerox Network System specification. This was essentially a version of Pup with the added concept of sockets and an internetwork, which allowed routers to forward packets across connected networks.     By early 42 the new system was working, but management was still not making any move to commercialize it. As Metcalfe put it:     When I came back to Xerox in 42 we were about two and a half years from product shipment and in 42 we were about two and a half years from product shipment.     When no further action was forthcoming, Metcalfe left the company at the end of 42       Last used by Xerox for communication with the ": null
+    },
+    {
+        "DocuTech": "docutech"
+    },
+    {
+        " 42 Publishing System, XNS is no longer in use, due to the ubiquity of IP. However, it played an important role in the development of networking technology in the 42s, by influencing software and hardware vendors to seriously consider the need for computing platforms to support more than one network protocol stack simultaneously.     A wide variety of proprietary networking systems were directly based on XNS or offered minor variations on the theme. Among these were Net/One, 42+, ": null
+    },
+    {
+        "Banyan VINES": "banyan vines"
+    },
+    {
+        " , cisco and Novells ": null
+    },
+    {
+        "IPX/SPX": "ipx/spx"
+    },
+    {
+        ". , cisco These systems added their own concepts on top of the XNS addressing and routing system; VINES added a ": null
+    },
+    {
+        "directory service": "directory service"
+    },
+    {
+        " among other services, while ": null
+    },
+    {
+        "Novell NetWare": "novell netware"
+    },
+    {
+        " added a number of user-facing services like printing and file sharing. ": null
+    },
+    {
+        "AppleTalk": "appletalk"
+    },
+    {
+        " used XNS-like routing, but had incompatible addresses using shorter numbers.     XNS also helped to validate the design of the ": null
+    },
+    {
+        "42BSD": "bsd"
+    },
+    {
+        " network subsystem by providing a second protocol suite, one which was significantly different from the Internet protocols; by implementing both stacks in the same kernel, ": null
+    },
+    {
+        "Berkeley researchers": "uc berkeley college of engineeringresearch units"
+    },
+    {
+        " demonstrated that the design was suitable for more than just IP.  Additional BSD modifications were eventually necessary to support the full range of ": null
+    },
+    {
+        "Open Systems Interconnection": "open systems interconnection"
+    }
+]

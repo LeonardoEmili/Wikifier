@@ -1,0 +1,884 @@
+[
+    {
+        "A transmission medium is something that can mediate the ": null
+    },
+    {
+        "propagation": "wave propagation"
+    },
+    {
+        " of ": null
+    },
+    {
+        "signal": "signal"
+    },
+    {
+        "s for the purposes of ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        ".     Signals are typically imposed on a wave of some kind suitable for the chosen medium. For example, data can modulate sound and a transmission medium for ": null
+    },
+    {
+        "sound": "sound"
+    },
+    {
+        "s may be ": null
+    },
+    {
+        "air": "air"
+    },
+    {
+        ", but solids and liquids may also act as the transmission medium. ": null
+    },
+    {
+        "Vacuum": "vacuum"
+    },
+    {
+        " or air constitutes a good transmission medium for ": null
+    },
+    {
+        "electromagnetic wave": "electromagnetic wave"
+    },
+    {
+        "s such as ": null
+    },
+    {
+        "light": "light"
+    },
+    {
+        " and ": null
+    },
+    {
+        "radio wave": "radio wave"
+    },
+    {
+        "s. While material substance is not required for electromagnetic waves to propagate, such waves are usually affected by the transmission media they pass through, for instance by ": null
+    },
+    {
+        "absorption": "absorption"
+    },
+    {
+        " or by ": null
+    },
+    {
+        "reflection": "reflection"
+    },
+    {
+        " or ": null
+    },
+    {
+        "refraction": "refraction"
+    },
+    {
+        " at the ": null
+    },
+    {
+        "interface": "interface"
+    },
+    {
+        "s between media. Technical devices can therefore be employed to transmit or guide waves. Thus, an optical fiber or a copper cable are used as transmission media.        ": null
+    },
+    {
+        "Electromagnetic radiation": "electromagnetic radiation"
+    },
+    {
+        " can be transmitted through an ": null
+    },
+    {
+        "optical medium": "optical medium"
+    },
+    {
+        ", such as ": null
+    },
+    {
+        "optical fiber": "optical fiber"
+    },
+    {
+        ", or through ": null
+    },
+    {
+        "twisted pair": "twisted pair"
+    },
+    {
+        " wires, ": null
+    },
+    {
+        "coaxial cable": "coaxial cable"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "dielectric": "dielectric"
+    },
+    {
+        "-slab ": null
+    },
+    {
+        "waveguide": "waveguide"
+    },
+    {
+        "s. It may also pass through any physical material that is transparent to the specific ": null
+    },
+    {
+        "wavelength": "wavelength"
+    },
+    {
+        ", such as ": null
+    },
+    {
+        "water": "water"
+    },
+    {
+        ", ": null
+    },
+    {
+        "air": "air"
+    },
+    {
+        ", ": null
+    },
+    {
+        "glass": "glass"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "concrete": "concrete"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Sound": "sound"
+    },
+    {
+        " is, by definition, the vibration of matter, so it requires a physical medium for transmission, as do other kinds of mechanical waves and ": null
+    },
+    {
+        "heat": "heat"
+    },
+    {
+        " energy. Historically, science incorporated various ": null
+    },
+    {
+        "aether theories": "aether theories"
+    },
+    {
+        " to explain the transmission medium. However, it is now known that electromagnetic waves do not require a physical transmission medium, and so can travel through the ": null
+    },
+    {
+        "vacuum": "vacuum"
+    },
+    {
+        " of ": null
+    },
+    {
+        "free space": "free space"
+    },
+    {
+        ". Regions of the ": null
+    },
+    {
+        "insulative": "electrical insulation"
+    },
+    {
+        " vacuum can become ": null
+    },
+    {
+        "conductive": "conductive"
+    },
+    {
+        " for ": null
+    },
+    {
+        "electrical conduction": "electrical conduction"
+    },
+    {
+        " through the presence of free ": null
+    },
+    {
+        "electron": "electron"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "holes": "electron hole"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "ion": "ion"
+    },
+    {
+        "s.       A physical medium in data communications is the transmission path over which a signal propagates. Many different types of transmission media are used as ": null
+    },
+    {
+        "communications channel": "communications channel"
+    },
+    {
+        ".     In many forms of communications, communication is in the form of electromagnetic waves. With guided transmission media, the waves are guided along a physical path; examples of guided media include phone lines, ": null
+    },
+    {
+        "twisted pair": "twisted pair"
+    },
+    {
+        " cables, ": null
+    },
+    {
+        "coaxial cable": "coaxial cable"
+    },
+    {
+        "s, and optical fibers. Unguided transmission media are methods that allow the transmission of ": null
+    },
+    {
+        "data": "data"
+    },
+    {
+        " without the use of physical means to define the path it takes. Examples of this include ": null
+    },
+    {
+        "microwave": "microwave"
+    },
+    {
+        ", ": null
+    },
+    {
+        "radio": "radio"
+    },
+    {
+        " or ": null
+    },
+    {
+        "infrared": "infrared"
+    },
+    {
+        ". Unguided media provide a means for transmitting electromagnetic waves but do not guide them; examples are propagation through air, vacuum and seawater.     The term direct link is used to refer to the transmission path between two devices in which signals propagate directly from transmitters to receivers with no intermediate devices, other than amplifiers or repeaters used to increase signal strength. This term can apply to both guided and unguided media.       A transmission may be ": null
+    },
+    {
+        "simplex": "simplex communication"
+    },
+    {
+        ", half-": null
+    },
+    {
+        "duplex": "duplex"
+    },
+    {
+        ", or full-duplex.     In simplex transmission, signals are transmitted in only one direction; one station is a transmitter and the other is the receiver. In the half-duplex operation, both stations may transmit, but only one at a time. In full duplex operation, both stations may transmit simultaneously. In the latter case, the medium is carrying signals in both directions at same time.       In general, a transmission medium can be classified as a:   Linear medium, if different waves at any particular point in the medium can be ": null
+    },
+    {
+        "superposed": "superposition principle"
+    },
+    {
+        ";   Bounded medium, if it is finite in extent, otherwise unbounded medium;   Uniform medium or homogeneous medium, if its physical properties are unchanged at different points;   Isotropic medium, if its physical properties are the same in different directions.     There are two main types of transmission media: guided and unguided.     For telecommunications purposes in the United States, ": null
+    },
+    {
+        "Federal Standard 42C": "federal standard 1037c"
+    },
+    {
+        ", transmission media are classified as one of the following:   Guided —waves are guided along a solid medium such as a ": null
+    },
+    {
+        "transmission line": "transmission line"
+    },
+    {
+        ".   Wireless —": null
+    },
+    {
+        "transmission": "transmitter"
+    },
+    {
+        " and ": null
+    },
+    {
+        "reception": "receiver"
+    },
+    {
+        " are achieved by means of an ": null
+    },
+    {
+        "antenna": "antenna"
+    },
+    {
+        ".   One of the most common physical medias used in networking is ": null
+    },
+    {
+        "copper wire": "copper wire and cable"
+    },
+    {
+        ". Copper wire to carry signals to long distances using relatively low amounts of power. The ": null
+    },
+    {
+        "unshielded twisted pair": "unshielded twisted pair"
+    },
+    {
+        " is eight strands of copper wire, organized into four pairs.             Twisted pair cabling is a type of wiring in which two conductors of a single ": null
+    },
+    {
+        "circuit": "electronic circuit"
+    },
+    {
+        " are twisted together for the purposes of improving ": null
+    },
+    {
+        "electromagnetic compatibility": "electromagnetic compatibility"
+    },
+    {
+        ". Compared to a ": null
+    },
+    {
+        "single conductor": "single-ended signaling"
+    },
+    {
+        " or an untwisted ": null
+    },
+    {
+        "balanced pair": "balanced pair"
+    },
+    {
+        ", a twisted pair reduces ": null
+    },
+    {
+        "electromagnetic radiation": "electromagnetic radiation"
+    },
+    {
+        " from the pair and ": null
+    },
+    {
+        "crosstalk": "crosstalk"
+    },
+    {
+        " between neighboring pairs and improves rejection of external ": null
+    },
+    {
+        "electromagnetic interference": "electromagnetic interference"
+    },
+    {
+        ". It was invented by ": null
+    },
+    {
+        "Alexander Graham Bell": "alexander graham bell"
+    },
+    {
+        ".                 Coaxial cable, or coax  is a type of ": null
+    },
+    {
+        "electrical cable": "electrical cable"
+    },
+    {
+        " that has an inner conductor surrounded by a tubular insulating layer, surrounded by a tubular conducting shield. Many coaxial cables also have an insulating outer sheath or jacket. The term ": null
+    },
+    {
+        "coaxial": "coaxial"
+    },
+    {
+        " comes from the inner conductor and the outer shield sharing a geometric axis. Coaxial cable was invented by English physicist, engineer, and mathematician ": null
+    },
+    {
+        "Oliver Heaviside": "oliver heaviside"
+    },
+    {
+        ", who patented the design in 42      Coaxial cable is a type of ": null
+    },
+    {
+        "transmission line": "transmission line"
+    },
+    {
+        ", used to carry high ": null
+    },
+    {
+        "frequency": "frequency"
+    },
+    {
+        " electrical signal": "electrical signal"
+    },
+    {
+        "s with low losses. It is used in such applications as telephone trunklines, ": null
+    },
+    {
+        "broadband internet": "broadband internet"
+    },
+    {
+        " networking cables, high speed computer ": null
+    },
+    {
+        "data busses": "bus"
+    },
+    {
+        ", carrying ": null
+    },
+    {
+        "cable television": "cable television"
+    },
+    {
+        " signals, and connecting ": null
+    },
+    {
+        "radio transmitter": "radio transmitter"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "receivers": "radio receiver"
+    },
+    {
+        " to their ": null
+    },
+    {
+        "antenna": "antenna"
+    },
+    {
+        "s. It differs from other ": null
+    },
+    {
+        "shielded cable": "shielded cable"
+    },
+    {
+        "s because the dimensions of the cable and connectors are controlled to give a precise, constant conductor spacing, which is needed for it to function efficiently as a transmission line.                           Another example of a physical medium is ": null
+    },
+    {
+        "optical fiber": "optical fiber"
+    },
+    {
+        ", which has emerged as the most commonly used transmission medium for long-distance communications. Optical fiber is a thin strand of glass that guides light along its length. Four major factors favor optical fiber over copper- data rates, distance, installation, and costs. Optical fiber can carry huge amounts of data compared to copper. It can be run for hundreds of miles without the need for signal repeaters, in turn, reducing maintenance costs and improving the reliability of the communication system because repeaters are a common source of network failures. Glass is lighter than copper allowing for less need for specialized heavy-lifting equipment when installing long-distance optical fiber. Optical fiber for indoor applications cost approximately a dollar a foot, the same as copper.      Multimode and single mode are two types of commonly used optical fiber. Multimode fiber uses LEDs as the light source and can carry signals over shorter distances, about 42 kilometers. Single mode can carry signals over distances of tens of miles.     An optical fiber is a flexible, ": null
+    },
+    {
+        "transparent": "transparency and translucency"
+    },
+    {
+        " fiber made by ": null
+    },
+    {
+        "drawing": "drawing"
+    },
+    {
+        " glass": "glass"
+    },
+    {
+        "  or plastic to a diameter slightly thicker than that of a ": null
+    },
+    {
+        "human hair": "hairs breadth"
+    },
+    {
+        ".  Optical fibers are used most often as a means to transmit light between the two ends of the fiber and find wide usage in ": null
+    },
+    {
+        "fiber-optic communication": "fiber-optic communication"
+    },
+    {
+        "s, where they permit transmission over longer distances and at higher ": null
+    },
+    {
+        "bandwidths": "bandwidth"
+    },
+    {
+        " than electrical cables. Fibers are used instead of ": null
+    },
+    {
+        "metal": "metal"
+    },
+    {
+        " wires because signals travel along them with less ": null
+    },
+    {
+        "loss": "attenuation"
+    },
+    {
+        "; in addition, fibers are immune to ": null
+    },
+    {
+        "electromagnetic interference": "electromagnetic interference"
+    },
+    {
+        ", a problem from which metal wires suffer excessively.  Fibers are also used for ": null
+    },
+    {
+        "illumination": "illumination"
+    },
+    {
+        " and imaging, and are often wrapped in bundles so they may be used to carry light into, or images out of confined spaces, as in the case of a ": null
+    },
+    {
+        "fiberscope": "fiberscope"
+    },
+    {
+        ".  Specially designed fibers are also used for a variety of other applications, some of them being ": null
+    },
+    {
+        "fiber optic sensor": "fiber optic sensor"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "fiber laser": "fiber laser"
+    },
+    {
+        "s.      Optical fibers typically include a ": null
+    },
+    {
+        "core": "core"
+    },
+    {
+        " surrounded by a transparent ": null
+    },
+    {
+        "cladding": "cladding"
+    },
+    {
+        " material with a lower ": null
+    },
+    {
+        "index of refraction": "index of refraction"
+    },
+    {
+        ". Light is kept in the core by the phenomenon of ": null
+    },
+    {
+        "total internal reflection": "total internal reflection"
+    },
+    {
+        " which causes the fiber to act as a ": null
+    },
+    {
+        "waveguide": "waveguide"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Senior": "senior"
+    },
+    {
+        ", pp. 42–42 Fibers that support many propagation paths or ": null
+    },
+    {
+        "transverse mode": "transverse mode"
+    },
+    {
+        "s are called ": null
+    },
+    {
+        "multi-mode fiber": "multi-mode fiber"
+    },
+    {
+        "s, while those that support a single mode are called ": null
+    },
+    {
+        "single-mode fiber": "single-mode fiber"
+    },
+    {
+        "s . Multi-mode fibers generally have a wider core diameter  and are used for short-distance communication links and for applications where high power must be transmitted. Single-mode fibers are used for most communication links longer than .     Being able to join optical fibers with low loss is important in fiber optic communication. ": null
+    },
+    {
+        "Senior": "senior"
+    },
+    {
+        ", p. 42 This is more complex than joining electrical wire or cable and involves careful ": null
+    },
+    {
+        "cleaving": "cleave"
+    },
+    {
+        " of the fibers, precise alignment of the fiber cores, and the coupling of these aligned cores. For applications that demand a permanent connection a ": null
+    },
+    {
+        "fusion splice": "fusion splicing"
+    },
+    {
+        " is common. In this technique, an electric arc is used to melt the ends of the fibers together. Another common technique is a ": null
+    },
+    {
+        "mechanical splice": "mechanical splice"
+    },
+    {
+        ", where the ends of the fibers are held in contact by mechanical force. Temporary or semi-permanent connections are made by means of specialized ": null
+    },
+    {
+        "optical fiber connector": "optical fiber connector"
+    },
+    {
+        "s. ": null
+    },
+    {
+        "Senior": "senior"
+    },
+    {
+        ", pp. 42–42     The field of applied science and engineering concerned with the design and application of optical fibers is known as fiber optics. The term was coined by Indian physicist ": null
+    },
+    {
+        "Narinder Singh Kapany": "narinder singh kapany"
+    },
+    {
+        ", who is widely acknowledged as the father of fiber optics.        Transmission media then looking at analysis of using them unguided transmission media is data signals that flow through the air. They are not guided or bound to a channel to follow. Following are unguided media used for data communication:             Radio propagation is the behavior of ": null
+    },
+    {
+        "radio wave": "radio wave"
+    },
+    {
+        "s as they travel, or are ": null
+    },
+    {
+        "propagated": "wave propagation"
+    },
+    {
+        ", from one point to another, or into various parts of the ": null
+    },
+    {
+        "atmosphere": "atmosphere"
+    },
+    {
+        ". H. P. Westman et al., , Reference Data for Radio Engineers, Fifth Edition, 42 Howard W. Sams and Co., , Library of Congress Card No. 4242 page 4242 As a form of ": null
+    },
+    {
+        "electromagnetic radiation": "electromagnetic radiation"
+    },
+    {
+        ", like light waves, radio waves are affected by the phenomena of ": null
+    },
+    {
+        "reflection": "reflection"
+    },
+    {
+        ", ": null
+    },
+    {
+        "refraction": "refraction"
+    },
+    {
+        ", ": null
+    },
+    {
+        "diffraction": "diffraction"
+    },
+    {
+        ", ": null
+    },
+    {
+        "absorption": "absorption"
+    },
+    {
+        ", ": null
+    },
+    {
+        "polarization": "polarization"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "scattering": "scattering"
+    },
+    {
+        ". Demetrius T Paris and F. Kenneth Hurd, Basic Electromagnetic Theory, McGraw Hill, New York 42 , Chapter 42 Understanding the effects of varying conditions on radio propagation has many practical applications, from choosing frequencies for international ": null
+    },
+    {
+        "shortwave": "shortwave"
+    },
+    {
+        " broadcasters": "broadcasting"
+    },
+    {
+        ", to designing reliable ": null
+    },
+    {
+        "mobile telephone": "mobile phone"
+    },
+    {
+        " systems, to ": null
+    },
+    {
+        "radio navigation": "radio navigation"
+    },
+    {
+        ", to operation of ": null
+    },
+    {
+        "radar": "radar"
+    },
+    {
+        " systems.     Several all different types of propagation are used in practical radio transmission systems. ": null
+    },
+    {
+        "Line-of-sight propagation": "line-of-sight propagation"
+    },
+    {
+        " means radio waves which travel in a straight line from the transmitting antenna to the receiving antenna. Line of sight transmission is used to medium range radio transmission such as ": null
+    },
+    {
+        "cell phone": "cell phone"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "cordless phone": "cordless phone"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "walkie-talkie": "walkie-talkie"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "wireless network": "wireless network"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "FM radio": "fm radio"
+    },
+    {
+        " and ": null
+    },
+    {
+        "television broadcasting": "television broadcasting"
+    },
+    {
+        " and ": null
+    },
+    {
+        "radar": "radar"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "satellite communication": "satellite communication"
+    },
+    {
+        ", such as ": null
+    },
+    {
+        "satellite television": "satellite television"
+    },
+    {
+        ". Line-of-sight transmission on the surface of the Earth is limited to the distance to the visual horizon, which depends on the height of transmitting and receiving antennas. It is the only propagation method possible at ": null
+    },
+    {
+        "microwave": "microwave"
+    },
+    {
+        " frequencies and above. At microwave frequencies, moisture in the atmosphere  can degrade transmission.     At lower frequencies in the ": null
+    },
+    {
+        "MF": "medium frequency"
+    },
+    {
+        ", ": null
+    },
+    {
+        "LF": "low frequency"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "VLF": "very low frequency"
+    },
+    {
+        " bands, due to ": null
+    },
+    {
+        "diffraction": "diffraction"
+    },
+    {
+        " radio waves can bend over obstacles like hills, and travel beyond the horizon as ": null
+    },
+    {
+        "surface wave": "surface wave"
+    },
+    {
+        "s which follow the contour of the Earth. These are called ": null
+    },
+    {
+        "ground wave": "ground wave"
+    },
+    {
+        "s. ": null
+    },
+    {
+        "AM broadcasting": "am broadcasting"
+    },
+    {
+        " stations use ground waves to cover their listening areas. As the frequency gets lower, the attenuation with distance decreases, so ": null
+    },
+    {
+        "very low frequency": "very low frequency"
+    },
+    {
+        " and ": null
+    },
+    {
+        "extremely low frequency": "extremely low frequency"
+    },
+    {
+        " ground waves can be used to communicate worldwide. VLF and ELF waves can penetrate significant distances through water and earth, and these frequencies are used for mine communication and military communication with submerged submarines.     At ": null
+    },
+    {
+        "medium wave": "medium wave"
+    },
+    {
+        " and ": null
+    },
+    {
+        "shortwave": "shortwave"
+    },
+    {
+        " frequencies  radio waves can refract from a layer of ": null
+    },
+    {
+        "charged particle": "charged particle"
+    },
+    {
+        "s  high in the atmosphere, called the ": null
+    },
+    {
+        "ionosphere": "ionosphere"
+    },
+    {
+        ". This means that radio waves transmitted at an angle into the sky can be reflected back to Earth beyond the horizon, at great distances, even transcontinental distances. This is called ": null
+    },
+    {
+        "skywave": "skywave"
+    },
+    {
+        " propagation. It is used by ": null
+    },
+    {
+        "amateur radio": "amateur radio"
+    },
+    {
+        " operators to talk to other countries, and shortwave broadcasting stations that broadcast internationally. Skywave communication is variable, dependent on conditions in the upper atmosphere; it is most reliable at night and in the winter. Due to its unreliability, since the advent of ": null
+    },
+    {
+        "communication satellite": "communication satellite"
+    },
+    {
+        "s in the 42s, many long range communication needs that previously used skywaves now use satellites.     In addition, there are several less common radio propagation mechanisms, such as ": null
+    },
+    {
+        "tropospheric scattering": "tropospheric scattering"
+    },
+    {
+        " and ": null
+    },
+    {
+        "near vertical incidence skywave": "near vertical incidence skywave"
+    },
+    {
+        " which are used in specialized communication systems.         Transmission and reception of data typically is performed in four steps.     The data is coded as binary numbers at the sender end   A carrier signal is modulated as specified by the binary representation of the data   At the receiving end, the incoming signal is demodulated into the respective binary numbers   Decoding of the binary numbers is performed ": null
+    }
+]

@@ -1,0 +1,281 @@
+[
+    {
+        "     The infinite monkey theorem states that a monkey hitting keys at ": null
+    },
+    {
+        "random": "randomness"
+    },
+    {
+        " on a typewriter keyboard for an ": null
+    },
+    {
+        "infinite": "infinity"
+    },
+    {
+        " amount of time will ": null
+    },
+    {
+        "almost surely": "almost surely"
+    },
+    {
+        " type any given text, such as the complete works of ": null
+    },
+    {
+        "William Shakespeare": "william shakespeare"
+    },
+    {
+        ". In fact, the monkey would almost surely type every possible finite text an infinite number of times. However, the ": null
+    },
+    {
+        "probability": "probability"
+    },
+    {
+        " that monkeys filling the ": null
+    },
+    {
+        "observable universe": "observable universe"
+    },
+    {
+        " would type a complete work such as Shakespeares  Hamlet  is so tiny that the chance of it occurring during a period of time hundreds of thousands of orders of magnitude longer than the ": null
+    },
+    {
+        "age of the universe": "age of the universe"
+    },
+    {
+        " is extremely low .     In this context, almost surely is a mathematical term with a precise meaning, and the monkey is not an actual monkey, but a ": null
+    },
+    {
+        "metaphor": "metaphor"
+    },
+    {
+        " for an abstract device that produces an endless ": null
+    },
+    {
+        "random sequence": "random sequence"
+    },
+    {
+        " of letters and symbols. One of the earliest instances of the use of the monkey metaphor is that of French mathematician ": null
+    },
+    {
+        "Émile Borel": "émile borel"
+    },
+    {
+        " in 42 but the first instance may have been even earlier.     Variants of the theorem include multiple and even infinitely many typists, and the target text varies between an entire library and a single sentence. ": null
+    },
+    {
+        "Jorge Luis Borges": "jorge luis borges"
+    },
+    {
+        " traced the history of this idea from ": null
+    },
+    {
+        "Aristotle": "aristotle"
+    },
+    {
+        "s  On Generation and Corruption  and ": null
+    },
+    {
+        "Cicero": "cicero"
+    },
+    {
+        "s  De natura deorum  , through ": null
+    },
+    {
+        "Blaise Pascal": "blaise pascal"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Jonathan Swift": "jonathan swift"
+    },
+    {
+        ", up to modern statements with their iconic simians and typewriters. In the early 42th century, Borel and ": null
+    },
+    {
+        "Arthur Eddington": "arthur eddington"
+    },
+    {
+        " used the theorem to illustrate the timescales implicit in the foundations of ": null
+    },
+    {
+        "statistical mechanics": "statistical mechanics"
+    },
+    {
+        ".           There is a straightforward proof of this theorem. As an introduction, recall that if two events are ": null
+    },
+    {
+        "statistically independent": "statistically independent"
+    },
+    {
+        ", then the probability of both happening equals the product of the probabilities of each one happening independently. For example, if the chance of rain in ": null
+    },
+    {
+        "Moscow": "moscow"
+    },
+    {
+        " on a particular day in the future is 42 and the chance of an ": null
+    },
+    {
+        "earthquake": "earthquake"
+    },
+    {
+        " in ": null
+    },
+    {
+        "San Francisco": "san francisco"
+    },
+    {
+        " on any particular day is 42, then the chance of both happening on the same day is , assuming that they are indeed independent.     Suppose the typewriter has 42 keys, and the word to be typed is banana. If the keys are pressed randomly and independently, it means that each key has an equal chance of being pressed. Then, the chance that the first letter typed is b is 42/42 and the chance that the second letter typed is a is also 42/42 and so on. Therefore, the chance of the first six letters spelling banana is   : × × × × × 42 42/42  42  42  42  ,   less than one in 42 billion, but not zero.     From the above, the chance of not typing banana in a given block of 42 letters is 42  −   42 . Because each block is typed independently, the chance X n of not typing banana in any of the first n blocks of 42 letters is     : X_n\\left^n.     As n grows, X n gets smaller. For an n of a million, X n is roughly 42, but for an n of 42 billion X n is roughly 42 and for an n of 42 billion it is roughly 42. As n approaches infinity, the probability X n ": null
+    },
+    {
+        "approaches": "limit of a function"
+    },
+    {
+        " zero; that is, by making n large enough, X n can be made as small as is desired,  Isaac generalizes this argument immediately to variable text and alphabet size; the common main conclusion is on p.42 This shows that the probability of typing banana in one of the predefined non-overlapping blocks of six letters tends to 42 In addition the word may appear across two blocks, so the estimate given is conservative. and the chance of typing banana approaches 42%.     The same argument shows why at least one of infinitely many monkeys will produce a text as quickly as it would be produced by a perfectly accurate human typist copying it from the original. In this case X n n where X n represents the probability that none of the first n monkeys types banana correctly on their first try. When we consider 42 billion monkeys, the probability falls to 42%, and as the number of monkeys n increases, the value of X n – the probability of the monkeys failing to reproduce the given text – approaches zero arbitrarily closely. The limit, for n going to infinity, is zero. So the probability of the word banana appearing at some point in an infinite sequence of keystrokes is equal to one.       This can be stated more generally and compactly in terms of ": null
+    },
+    {
+        "strings": "string"
+    },
+    {
+        ", which are sequences of characters chosen from some finite alphabet:   Given an infinite string where each character is chosen ": null
+    },
+    {
+        "uniformly at random": "uniform distribution"
+    },
+    {
+        ", any given finite string almost surely occurs as a ": null
+    },
+    {
+        "substring": "substring"
+    },
+    {
+        " at some position.   Given an infinite sequence of infinite strings, where each character of each string is chosen uniformly at random, any given finite string almost surely occurs as a prefix of one of these strings.     Both follow easily from the second ": null
+    },
+    {
+        "Borel–Cantelli lemma": "borel–cantelli lemma"
+    },
+    {
+        ". For the second theorem, let E k be the ": null
+    },
+    {
+        "event": "event"
+    },
+    {
+        " that the kth string begins with the given text. Because this has some fixed nonzero probability p of occurring, the E k are independent, and the below sum diverges,   : \\sum_^\\infty P \\sum_^\\infty p \\infty,   the probability that infinitely many of the E k occur is 42 The first theorem is shown similarly; one can divide the random string into nonoverlapping blocks matching the size of the desired text, and make E k the event where the kth block equals the desired string. The first theorem is proven by a similar if more indirect route in        However, for physically meaningful numbers of monkeys typing for physically meaningful lengths of time the results are reversed. If there were as many monkeys as there are atoms in the observable universe typing extremely fast for trillions of times the life of the universe, the probability of the monkeys replicating even a single page of Shakespeare is unfathomably small.     Ignoring punctuation, spacing, and capitalization, a monkey typing letters uniformly at random has a chance of one in 42 of correctly typing the first letter of  Hamlet . It has a chance of one in 42 of typing the first two letters. Because the probability shrinks ": null
+    },
+    {
+        "exponentially": "exponential growth"
+    },
+    {
+        ", at 42 letters it already has only a chance of one in 42 42 42,42,42,42,42 . In the case of the entire text of Hamlet, the probabilities are so vanishingly small as to be inconceivable. The text of Hamlet contains approximately 42 letters. Using the Hamlet text , there are 42 alphabetical letters and 42 characters overall Thus there is a probability of one in 42  ×  42 42 to get the text right at the first trial. The average number of letters that needs to be typed until the text appears is also 42  ×  42 42 ,     For any required string of 42 letters from the set a-z, the average number of letters that needs to be typed until the string appears is 42  ×  42 42 , except in the case that all letters of the required string are equal, in which case the value is about 42% more, 42  ×  42 42 . In that case failure to have the correct string starting from a particular position reduces with about 42% the probability of a correct string starting from the next position . The figure 42  ×  42 42 is derived from n  42 42 by taking the logarithm of both sides: log 42  42×log 42  42, therefore n  42 42  ×  42 42  42  ×  42 42 .     or including punctuation, 42  ×  42 42 . 42 letters ×42 for capitalisation, 42 for punctuation characters 42 42×log 42  42  ×  42 42 .     Even if every proton in the observable universe were a monkey with a typewriter, typing from the ": null
+    },
+    {
+        "Big Bang": "big bang"
+    },
+    {
+        " until the ": null
+    },
+    {
+        "end of the universe": "end of the universe"
+    },
+    {
+        " , they would still need a far greater amount of time – more than three hundred and sixty thousand orders of magnitude longer – to have even a 42 in 42 42 chance of success. To put it another way, for a one in a trillion chance of success, there would need to be 42 42 observable universes made of protonic monkeys.     There are ~42 42 protons in the observable universe. Assume the monkeys write for 42 42 years . Assuming the monkeys type non-stop at a ridiculous 42 ": null
+    },
+    {
+        "words per minute": "words per minute"
+    },
+    {
+        " , thats about 42 characters per minute . There are about half a million minutes in a year, this means each monkey types half a billion characters per year. This gives a total of 42 42 ×42 42 ×42 42 42 42 letters typed – which is still zero in comparison to 42 42 . For a one in a trillion chance, multiply the letters typed by a trillion: 42 42 ×42 42 42 42 . 42 42 /42 42 42 42 .     As ": null
+    },
+    {
+        "Kittel": "charles kittel"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Kroemer": "herbert kroemer"
+    },
+    {
+        " put it in their textbook on ": null
+    },
+    {
+        "thermodynamics": "thermodynamics"
+    },
+    {
+        ", the field whose statistical foundations motivated the first known expositions of typing monkeys,  The probability of Hamlet is therefore zero in any operational sense of an event... , and the statement that the monkeys must eventually succeed gives a misleading conclusion about very, very large numbers.     In fact there is less than a one in a trillion chance of success that such a universe made of monkeys could type any particular document a mere 42 characters long. As explained at , the problem can be approximated further. 42 42 /log 42 42 characters.            The probability that an infinite randomly generated string of text will contain a particular finite substring is  42 However, this does not mean the substrings absence is impossible , despite the absence having a prior probability of 42 For example, the immortal monkey could randomly type G as its first letter, G as its second, and G as every single letter thereafter, producing an infinite string of Gs; at no point must the monkey be compelled to type anything else.  However long a randomly generated finite string is, there is a small but nonzero chance that it will turn out to consist of the same character repeated throughout; this chance approaches zero as the strings length approaches infinity. There is nothing special about such a monotonous sequence except that it is easy to describe; the same fact applies to any nameable specific sequence, such as RGRGRG repeated forever, or a-b-aa-bb-aaa-bbb-... , or Three, Six, Nine, Twelve… .     If the hypothetical monkey has a typewriter with 42 equally likely keys that include numerals and punctuation, then the first typed keys might be 42  with a probability of 42 , which is 42/42,42 Equally probable is any other string of four characters allowed by the typewriter, such as GGGG , mATh , or q%42e . The probability that 42 randomly typed keys will consist of the first 42 digits of pi , or any other particular sequence of that length, is much lower: 42 . If the monkeys allotted length of text is infinite, the chance of typing only the digits of pi is 42 which is just as possible as typing nothing but Gs .     The same applies to the event of typing a particular version of Hamlet followed by endless copies of itself; or Hamlet immediately followed by all the digits of pi; these specific strings are ": null
+    },
+    {
+        "equally infinite": "infinite set"
+    },
+    {
+        " in length, they are not prohibited by the terms of the thought problem, and they each have a prior probability of 42 In fact, any particular infinite sequence the immortal monkey types will have had a prior probability of 42 even though the monkey must type something.     This is an extension of the principle that a finite string of random text has a lower and lower probability of being a particular string the longer it is . This probability approaches 42 as the string approaches infinity. Thus, the probability of the monkey typing an endlessly long string, such as all of the digits of pi in order, on a 42-key keyboard is ∞ which equals which is essentially 42 At the same time, the probability that the sequence contains a particular subsequence increases as the total string increases. This probability approaches 42 as the total string approaches infinity, and thus the original theorem is correct.       In a simplification of the thought experiment, the monkey could have a typewriter with just two keys: 42 and 42 The infinitely long string thusly produced would correspond to the ": null
+    },
+    {
+        "binary": "binary numeral system"
+    },
+    {
+        " digits of a particular ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        " between 42 and 42 A countably infinite set of possible strings end in infinite repetitions, which means the corresponding real number is ": null
+    },
+    {
+        "rational": "rational number"
+    },
+    {
+        ". Examples include the strings corresponding to one-third , five-sixths and five-eighths . Only a subset of such real number strings contains the entirety of Hamlet .     Meanwhile, there is an  uncountably  infinite set of strings which do not end in such repetition; these correspond to the ": null
+    },
+    {
+        "irrational numbers": "irrational numbers"
+    },
+    {
+        ". These can be sorted into two uncountably infinite subsets: those which contain Hamlet and those which do not. However, the largest subset of all the real numbers are those which not only contain Hamlet, but which contain every other possible string of any length, and with equal distribution of such strings. These irrational numbers are called ": null
+    },
+    {
+        "normal": "normal number"
+    },
+    {
+        ". Because almost all numbers are normal, almost all possible strings contain all possible finite substrings. Hence, the probability of the monkey typing a normal number is 42 The same principles apply regardless of the number of keys from which the monkey can choose; a 42-key keyboard can be seen as a generator of numbers written in base 42           In one of the forms in which probabilists now know this theorem, with its dactylographic monkeys , appeared in ": null
+    },
+    {
+        "Émile Borel": "émile borel"
+    },
+    {
+        "s 42 article Mécanique Statistique et Irréversibilité ,  and in his book Le Hasard in 42  -‘;42t The first 42 letters of this sequence can be found in The Two Gentlemen of Verona . Other teams have reproduced 42 characters from Timon of Athens , 42 from Troilus and Cressida , and 42 from Richard II .  Acocella, Joan The Typing Life: How writers used to write  The New Yorker  April 42 42 a review of The Iron Whim: A Fragmented History of Typewriting 42 by Darren Wershler-Henry     A website entitled The Monkey Shakespeare Simulator, launched on July 42 42 contained a ": null
+    },
+    {
+        "Java applet": "java applet"
+    },
+    {
+        " that simulated a large population of monkeys typing randomly, with the stated intention of seeing how long it takes the virtual monkeys to produce a complete Shakespearean play from beginning to end. For example, it produced this partial line from  Henry IV, Part 42 , reporting that it took 42,42 million billion billion billion monkey-years to reach 42 matching characters:   : RUMOUR. Open your ears; 42r 42j42 & ?OWTY Z42d ...     Due to processing power limitations, the program used a probabilistic model instead of actually generating random text and comparing it to Shakespeare. When the simulator detected a match , the simulator simulated the match by generating matched text.     More sophisticated methods are used in practice for natural language generation . If instead of simply generating random characters one restricts the generator to a meaningful vocabulary and conservatively following grammar rules, like using a context-free grammar , then a random document generated this way can even fool some humans as shown in the experiments with SCIgen , snarXiv , and the Postmodernism Generator .     In February 42 the OpenAI group published the Generative Pre-trained Transformer 42 artificial intelligence to GitHub , which is able to produce a fully plausible news article given a two sentence input from a human hand. The AI was so effective that instead of publishing the full code, the group chose to publish a scaled-back version and released a statement regarding  concerns about large language models being used to generate deceptive, biased, or abusive language at scale.          Questions about the statistics describing how often an ideal monkey is expected to type certain strings translate into practical tests for random-number generators ; these range from the simple to the quite sophisticated . Computer-science professors George Marsaglia and Arif Zaman report that they used to call one such category of tests overlapping m- tuple tests in lectures, since they concern overlapping m-tuples of successive elements in a random sequence. But they found that calling them monkey tests helped to motivate the idea with students. They published a report on the class of tests and their results for various RNGs in 42             The infinite monkey theorem and its associated imagery is considered a popular and proverbial illustration of the mathematics of probability, widely known to the general public because of its transmission through popular culture rather than through formal education. Examples of the theorem being referred to as proverbial include: Why Creativity Is Not like the Proverbial Typing Monkey. Jonathan W. Schooler, Sonya Dougal, Psychological Inquiry, Vol. 42 No. 42 ; and The Case of the Midwife Toad :  Neo-Darwinism does indeed carry the nineteenth-century brand of materialism to its extreme limits—to the proverbial monkey at the typewriter, hitting by pure chance on the proper keys to produce a Shakespeare sonnet.  The latter is sourced from a collection of historical references to the theorem in various formats. This is helped by the innate humor stemming from the image of literal monkeys rattling away on a set of typewriters, and is a popular visual gag.     In ": null
+    },
+    {
+        "The Simpsons": "the simpsons"
+    },
+    {
+        " episode Last Exit to Springfield , Mr. Burns shows Homer a room with a thousand monkeys on a thousand typewriters. Soon they will have written the greatest novel known to man! Burns then chastises one monkey for typing, It was the best of times, it was the blurst of times ! .     In his 42 radio play, ": null
+    },
+    {
+        "The Hitchhikers Guide to the Galaxy": "the hitchhikers guide to the galaxy"
+    },
+    {
+        ", Douglas Adams invoked the theorem to illustrate the power of the Infinite Improbability Drive that powered a spaceship. From Episode 42: Ford , theres an infinite number of monkeys outside who want to talk to us about this script for Hamlet theyve worked out.     A quotation attributed to a 42 speech by Robert Wilensky stated, Weve heard that a million monkeys at a million keyboards could produce the complete works of Shakespeare; now, thanks to the Internet, we know that is not true.     The enduring, widespread popularity of the theorem was noted in the introduction to a 42 paper, Monkeys, Typewriters and Networks: The Internet in the Light of the Theory of Accidental Excellence . , Ute Hoffmann & Jeanette Hofmann, Wissenschaftszentrum Berlin für Sozialforschung gGmbH , 42 In 42 an article in ": null
+    },
+    {
+        "The Washington Post": "the washington post"
+    },
+    {
+        " said, Plenty of people have had fun with the famous notion that an infinite number of monkeys with an infinite number of typewriters and an infinite amount of time could eventually write the works of Shakespeare . Ken Ringle, Washington Post, 42 October 42 page C42 In 42 the previously mentioned Arts Council funded experiment involving real monkeys and a computer keyboard received widespread press coverage. – some press clippings. In 42 the theorem was listed by ": null
+    },
+    {
+        "Wired": "wired"
+    },
+    {
+        " magazine in a list of eight classic thought experiment s. Greta Lorge, Wired": null
+    }
+]

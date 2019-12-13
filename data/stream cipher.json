@@ -1,0 +1,353 @@
+[
+    {
+        "A stream cipher is a ": null
+    },
+    {
+        "symmetric key": "symmetric key algorithm"
+    },
+    {
+        " cipher": "cipher"
+    },
+    {
+        " where plaintext digits are combined with a ": null
+    },
+    {
+        "pseudorandom": "pseudorandom"
+    },
+    {
+        " cipher digit stream . In a stream cipher, each ": null
+    },
+    {
+        "plaintext": "plaintext"
+    },
+    {
+        " digit": "numerical digit"
+    },
+    {
+        " is encrypted one at a time with the corresponding digit of the keystream, to give a digit of the ciphertext stream. Since encryption of each digit is dependent on the current state of the cipher, it is also known as state cipher. In practice, a digit is typically a ": null
+    },
+    {
+        "bit": "bit"
+    },
+    {
+        " and the combining operation is an ": null
+    },
+    {
+        "exclusive-or": "exclusive-or"
+    },
+    {
+        " .     The pseudorandom keystream is typically generated serially from a random seed value using digital ": null
+    },
+    {
+        "shift register": "shift register"
+    },
+    {
+        "s. The ": null
+    },
+    {
+        "seed value": "seed value"
+    },
+    {
+        " serves as the ": null
+    },
+    {
+        "cryptographic key": "cryptographic key"
+    },
+    {
+        " for decrypting the ciphertext stream. Stream ciphers represent a different approach to symmetric encryption from ": null
+    },
+    {
+        "block cipher": "block cipher"
+    },
+    {
+        "s. Block ciphers operate on large blocks of digits with a fixed, unvarying transformation. This distinction is not always clear-cut: in some ": null
+    },
+    {
+        "modes of operation": "block cipher mode of operation"
+    },
+    {
+        ", a block cipher primitive is used in such a way that it acts effectively as a stream cipher. Stream ciphers typically execute at a higher speed than block ciphers and have lower hardware complexity. However, stream ciphers can be susceptible to serious security problems if used incorrectly ; in particular, the same starting state must never be used twice.       Stream ciphers can be viewed as approximating the action of a proven unbreakable cipher, the ": null
+    },
+    {
+        "one-time pad": "one-time pad"
+    },
+    {
+        " . A one-time pad uses a ": null
+    },
+    {
+        "keystream": "keystream"
+    },
+    {
+        " of completely ": null
+    },
+    {
+        "random": "random"
+    },
+    {
+        " digits. The keystream is combined with the plaintext digits one at a time to form the ciphertext. This system was proved to be secure by ": null
+    },
+    {
+        "Claude E. Shannon": "claude e. shannon"
+    },
+    {
+        " in 42 However, the keystream must be generated completely at random with at least the same length as the plaintext and cannot be used more than once. This makes the system cumbersome to implement in many practical applications, and as a result the one-time pad has not been widely used, except for the most critical applications. Key generation, distribution and management are critical for those applications.     A stream cipher makes use of a much smaller and more convenient key such as 42 bits. Based on this key, it generates a pseudorandom keystream which can be combined with the plaintext digits in a similar fashion to the one-time pad. However, this comes at a cost. The keystream is now pseudorandom and so is not truly random. The proof of security associated with the one-time pad no longer holds. It is quite possible for a stream cipher to be completely insecure.       A stream cipher generates successive elements of the keystream based on an internal state. This state is updated in essentially two ways: if the state changes independently of the plaintext or ciphertext messages, the cipher is classified as a synchronous stream cipher. By contrast, self-synchronising stream ciphers update their state based on previous ciphertext digits.          In a synchronous stream cipher a stream of pseudo-random digits is generated independently of the plaintext and ciphertext messages, and then combined with the plaintext or the ciphertext . In the most common form, binary digits are used , and the keystream is combined with the plaintext using the ": null
+    },
+    {
+        "exclusive or": "exclusive or"
+    },
+    {
+        " operation . This is termed a binary additive stream cipher.     In a synchronous stream cipher, the sender and receiver must be exactly in step for decryption to be successful. If digits are added or removed from the message during transmission, synchronisation is lost. To restore synchronisation, various offsets can be tried systematically to obtain the correct decryption. Another approach is to tag the ciphertext with markers at regular points in the output.     If, however, a digit is corrupted in transmission, rather than added or lost, only a single digit in the plaintext is affected and the error does not propagate to other parts of the message. This property is useful when the transmission error rate is high; however, it makes it less likely the error would be detected without further mechanisms. Moreover, because of this property, synchronous stream ciphers are very susceptible to ": null
+    },
+    {
+        "active attack": "attack phenomenology"
+    },
+    {
+        "s: if an attacker can change a digit in the ciphertext, he might be able to make predictable changes to the corresponding plaintext bit; for example, flipping a bit in the ciphertext causes the same bit to be flipped in the plaintext.       Another approach uses several of the previous N ciphertext digits to compute the keystream. Such schemes are known as self-synchronizing stream ciphers, asynchronous stream ciphers or ciphertext autokey . The idea of self-synchronization was patented in 42 and has the advantage that the receiver will automatically synchronise with the keystream generator after receiving N ciphertext digits, making it easier to recover if digits are dropped or added to the message stream. Single-digit errors are limited in their effect, affecting only up to N plaintext digits.     An example of a self-synchronising stream cipher is a block cipher in ": null
+    },
+    {
+        "cipher feedback": "cipher feedback"
+    },
+    {
+        " mode": "block cipher modes of operation"
+    },
+    {
+        ".       Binary stream ciphers are often constructed using ": null
+    },
+    {
+        "linear-feedback shift register": "linear-feedback shift register"
+    },
+    {
+        "s because they can be easily implemented in hardware and can be readily analysed mathematically. The use of LFSRs on their own, however, is insufficient to provide good security. Various schemes have been proposed to increase the security of LFSRs.          Because LFSRs are inherently linear, one technique for removing the linearity is to feed the outputs of several parallel LFSRs into a non-linear ": null
+    },
+    {
+        "Boolean function": "boolean function"
+    },
+    {
+        " to form a combination generator. Various properties of such a combining function are critical for ensuring the security of the resultant scheme, for example, in order to avoid ": null
+    },
+    {
+        "correlation attack": "correlation attack"
+    },
+    {
+        "s.          Normally LFSRs are stepped regularly. One approach to introducing non-linearity is to have the LFSR clocked irregularly, controlled by the output of a second LFSR. Such generators include the ": null
+    },
+    {
+        "stop-and-go generator": "stop-and-go generator"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "alternating step generator": "alternating step generator"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "shrinking generator": "shrinking generator"
+    },
+    {
+        ".     An ": null
+    },
+    {
+        "alternating step generator": "alternating step generator"
+    },
+    {
+        " comprises three LFSRs, which we will call LFSR42 LFSR42 and LFSR42 for convenience. The output of one of the registers decides which of the other two is to be used; for instance if LFSR42 outputs a 42 LFSR42 is clocked, and if it outputs a 42 LFSR42 is clocked instead. The output is the exclusive OR of the last bit produced by LFSR42 and LFSR42 The initial state of the three LFSRs is the key.     The stop-and-go generator consists of two LFSRs. One LFSR is clocked if the output of a second is a 42 otherwise it repeats its previous output. This output is then combined with the output of a third LFSR clocked at a regular rate.     The ": null
+    },
+    {
+        "shrinking generator": "shrinking generator"
+    },
+    {
+        " takes a different approach. Two LFSRs are used, both clocked regularly. If the output of the first LFSR is 42 the output of the second LFSR becomes the output of the generator. If the first LFSR outputs 42 however, the output of the second is discarded, and no bit is output by the generator. This mechanism suffers from timing attacks on the second generator, since the speed of the output is variable in a manner that depends on the second generators state. This can be alleviated by buffering the output.       Another approach to improving the security of an LFSR is to pass the entire state of a single LFSR into a non-linear filtering function.               Instead of a linear driving device, one may use a nonlinear update function. For example, Klimov and Shamir proposed triangular functions  with a single cycle on n-bit words.               For a stream cipher to be secure, its keystream must have a large ": null
+    },
+    {
+        "period": "periodic function"
+    },
+    {
+        " and it must be impossible to recover the ciphers key or internal state from the keystream. Cryptographers also demand that the keystream be free of even subtle biases that would let attackers distinguish a stream from random noise, and free of detectable relationships between keystreams that correspond to related keys or related ": null
+    },
+    {
+        "cryptographic nonce": "cryptographic nonce"
+    },
+    {
+        "s. That should be true for all keys , even if the attacker can know or choose some plaintext or ciphertext.     As with other attacks in cryptography, stream cipher attacks can be certificational so they are not necessarily practical ways to break the cipher but indicate that the cipher might have other weaknesses.     Securely using a secure synchronous stream cipher requires that one never reuse the same keystream twice. That generally means a different ": null
+    },
+    {
+        "nonce": "cryptographic nonce"
+    },
+    {
+        " or key must be supplied to each invocation of the cipher. Application designers must also recognize that most stream ciphers provide not authenticity but privacy: encrypted messages may still have been modified in transit.     Short periods for stream ciphers have been a practical concern. For example, 42-bit block ciphers like ": null
+    },
+    {
+        "DES": "data encryption standard"
+    },
+    {
+        " can be used to generate a keystream in ": null
+    },
+    {
+        "output feedback": "output feedback"
+    },
+    {
+        " mode. However, when not using full feedback, the resulting stream has a period of around 42 42 blocks on average; for many applications, the period is far too low. For example, if encryption is being performed at a rate of 42 ": null
+    },
+    {
+        "megabyte": "megabyte"
+    },
+    {
+        "s per second, a stream of period 42 42 blocks will repeat after about a half an hour.     Some applications using the stream cipher ": null
+    },
+    {
+        "RC42": "rc4"
+    },
+    {
+        " are attackable because of weaknesses in RC42s key setup routine; new applications should either avoid RC42 or make sure all keys are unique and ideally ": null
+    },
+    {
+        "unrelated": "related key"
+    },
+    {
+        "  and that the first bytes of the keystream are discarded.     The elements of stream ciphers are often much simpler to understand than block ciphers and are thus less likely to hide any accidental or malicious weaknesses.       Stream ciphers are often used for their speed and simplicity of implementation in hardware, and in applications where plaintext comes in quantities of unknowable length like a secure ": null
+    },
+    {
+        "wireless": "wireless network"
+    },
+    {
+        " connection. If a ": null
+    },
+    {
+        "block cipher": "block cipher"
+    },
+    {
+        " were to be used in this type of application, the designer would need to choose either transmission efficiency or implementation complexity, since block ciphers cannot directly work on blocks shorter than their block size. For example, if a 42-bit block cipher received separate 42-bit bursts of plaintext, three quarters of the data transmitted would be ": null
+    },
+    {
+        "padding": "padding"
+    },
+    {
+        ". Block ciphers must be used in ": null
+    },
+    {
+        "ciphertext stealing": "ciphertext stealing"
+    },
+    {
+        " or ": null
+    },
+    {
+        "residual block termination": "residual block termination"
+    },
+    {
+        " mode to avoid padding, while stream ciphers eliminate this issue by naturally operating on the smallest unit that can be transmitted .     Another advantage of stream ciphers in military cryptography is that the cipher stream can be generated in a separate box that is subject to strict security measures and fed to other devices such as a radio set, which will perform the xor operation as part of their function. The latter device can then be designed and used in less stringent environments.     ": null
+    },
+    {
+        "ChaCha": "chacha20"
+    },
+    {
+        " is becoming the most widely used stream cipher in software  ; others include:   ": null
+    },
+    {
+        "RC42": "rc4"
+    },
+    {
+        ",   ": null
+    },
+    {
+        "A42/42": "a5/1"
+    },
+    {
+        ",   ": null
+    },
+    {
+        "A42/42": "a5/2"
+    },
+    {
+        ",   ": null
+    },
+    {
+        "Chameleon": "chameleon"
+    },
+    {
+        ",   ": null
+    },
+    {
+        "FISH": "fish"
+    },
+    {
+        ",   ": null
+    },
+    {
+        "Helix": "helix"
+    },
+    {
+        ",   ": null
+    },
+    {
+        "ISAAC": "isaac"
+    },
+    {
+        ",   ": null
+    },
+    {
+        "MUGI": "mugi"
+    },
+    {
+        ",   ": null
+    },
+    {
+        "Panama": "panama"
+    },
+    {
+        ",   ": null
+    },
+    {
+        "Phelix": "phelix"
+    },
+    {
+        ",   ": null
+    },
+    {
+        "Pike": "pike"
+    },
+    {
+        ",   ": null
+    },
+    {
+        "SEAL": "seal"
+    },
+    {
+        ",   ": null
+    },
+    {
+        "SOBER": "sober"
+    },
+    {
+        ",   ": null
+    },
+    {
+        "SOBER42": "sober-128"
+    },
+    {
+        ",   and   ": null
+    },
+    {
+        "WAKE": "wake"
+    },
+    {
+        ".           ": null
+    },
+    {
+        "National Security Agency": "national security agency"
+    },
+    {
+        " documents sometimes use the term combiner-type algorithms, referring to algorithms that use some function to combine a ": null
+    },
+    {
+        "pseudorandom number generator": "pseudorandom number generator"
+    },
+    {
+        " with a ": null
+    },
+    {
+        "plaintext": "plaintext"
+    }
+]

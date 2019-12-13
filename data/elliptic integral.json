@@ -1,0 +1,233 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "integral calculus": "integral calculus"
+    },
+    {
+        ", elliptic integrals originally arose in connection with the problem of giving the ": null
+    },
+    {
+        "arc length": "arc length"
+    },
+    {
+        " of an ": null
+    },
+    {
+        "ellipse": "ellipse"
+    },
+    {
+        ". They were first studied by ": null
+    },
+    {
+        "Giulio Fagnano": "giulio carlo de toschi di fagnano"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Leonhard Euler": "leonhard euler"
+    },
+    {
+        " . Modern mathematics defines an elliptic integral as any ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        "  which can be expressed in the form     : f \\int_^ R \\left \\, dt,     where  is a ": null
+    },
+    {
+        "rational function": "rational function"
+    },
+    {
+        " of its two arguments,  is a ": null
+    },
+    {
+        "polynomial": "polynomial"
+    },
+    {
+        " of degree 42 or 42 with no repeated roots, and  is a constant.     In general, integrals in this form cannot be expressed in terms of ": null
+    },
+    {
+        "elementary function": "elementary function"
+    },
+    {
+        "s. Exceptions to this general rule are when  has repeated roots, or when  contains no odd powers of . However, with the appropriate ": null
+    },
+    {
+        "reduction formula": "integration by reduction formulae"
+    },
+    {
+        ", every elliptic integral can be brought into a form that involves integrals over rational functions and the three ": null
+    },
+    {
+        "Legendre canonical form": "legendre form"
+    },
+    {
+        "s .     Besides the Legendre form given below, the elliptic integrals may also be expressed in ": null
+    },
+    {
+        "Carlson symmetric form": "carlson symmetric form"
+    },
+    {
+        ". Additional insight into the theory of the elliptic integral may be gained through the study of the ": null
+    },
+    {
+        "Schwarz–Christoffel mapping": "schwarz–christoffel mapping"
+    },
+    {
+        ". Historically, ": null
+    },
+    {
+        "elliptic functions": "elliptic functions"
+    },
+    {
+        " were discovered as inverse functions of elliptic integrals.       Incomplete elliptic integrals are functions of two arguments; complete elliptic integrals are functions of a single argument. These arguments are expressed in a variety of different but equivalent ways . Most texts adhere to a canonical naming scheme, using the following naming conventions.     For expressing one argument:   , the  modular angle  , the elliptic modulus or  eccentricity  , the parameter     Each of the above three quantities is completely determined by any of the others . Thus, they can be used interchangeably.     The other argument can likewise be expressed as , the amplitude, or as  or , where  and  is one of the ": null
+    },
+    {
+        "Jacobian elliptic functions": "jacobian elliptic functions"
+    },
+    {
+        ".     Specifying the value of any one of these quantities determines the others. Note that  also depends on . Some additional relationships involving u include     : \\cos \\varphi \\operatorname u, \\quad \\textrm \\quad \\sqrt \\operatorname u.     The latter is sometimes called the delta amplitude and written as . Sometimes the literature also refers to the complementary parameter, the complementary modulus, or the complementary modular angle. These are further defined in the article on ": null
+    },
+    {
+        "quarter period": "quarter period"
+    },
+    {
+        "s.       The incomplete elliptic integral of the first kind  is defined as     : F F\\left F \\int_42^\\varphi \\frac .     This is the trigonometric form of the integral; substituting  and , one obtains the Legendre normal form:     : F \\int_^ \\frac.     Equivalently, in terms of the amplitude and modular angle one has:     : F F \\int_42^\\varphi \\frac.     In this notation, the use of a vertical bar as delimiter indicates that the argument following it is the parameter , while the backslash indicates that it is the modular angle. The use of a semicolon implies that the argument preceding it is the sine of the amplitude:     : F F\\left F F.     This potentially confusing use of different argument delimiters is traditional in elliptic integrals and much of the notation is compatible with that used in the reference book by ": null
+    },
+    {
+        "Abramowitz and Stegun": "abramowitz and stegun"
+    },
+    {
+        " and that used in the integral tables by ": null
+    },
+    {
+        "Gradshteyn and Ryzhik": "gradshteyn and ryzhik"
+    },
+    {
+        ".     With  one has:     : F u;     thus, the ": null
+    },
+    {
+        "Jacobian elliptic functions": "jacobian elliptic functions"
+    },
+    {
+        " are inverses to the elliptic integrals.       There are still other conventions for the notation of elliptic integrals employed in the literature. The notation with interchanged arguments, , is often encountered; and similarly  for the integral of the second kind. ": null
+    },
+    {
+        "Abramowitz and Stegun": "abramowitz and stegun"
+    },
+    {
+        " substitute the integral of the first kind, , for the argument  in their definition of the integrals of the second and third kinds, unless this argument is followed by a vertical bar: i.e.  for . Moreover, their complete integrals employ the parameter  as argument in place of the modulus , i.e.  rather than . And the integral of the third kind defined by ": null
+    },
+    {
+        "Gradshteyn and Ryzhik": "gradshteyn and ryzhik"
+    },
+    {
+        ", , puts the amplitude  first and not the characteristic .     Thus one must be careful with the notation when using these functions, because various reputable references and software packages use different conventions in the definitions of the elliptic functions. For example, some references, and ": null
+    },
+    {
+        "Wolfram": "wolfram research"
+    },
+    {
+        "s ": null
+    },
+    {
+        "Mathematica": "mathematica"
+    },
+    {
+        " software and ": null
+    },
+    {
+        "Wolfram Alpha": "wolfram alpha"
+    },
+    {
+        ", define the complete elliptic integral of the first kind in terms of the parameter , instead of the elliptic modulus .   : K\\int_42^\\tfrac \\frac       The incomplete elliptic integral of the second kind  in trigonometric form is     : E E\\left E \\int_42^\\varphi \\sqrt\\, d\\theta.     Substituting  and , one obtains the Legendre normal form:     : E \\int_42^x \\frac\\, dt.     Equivalently, in terms of the amplitude and modular angle:     : E E \\int_42^\\varphi \\sqrt \\,d\\theta.     Relations with the ": null
+    },
+    {
+        "Jacobi elliptic functions": "jacobi elliptic functions"
+    },
+    {
+        " include     : E\\bigl \\int_42^u \\operatorname^42 \\, dw u - k^42 \\int_42^u \\operatorname^42 \\, dw \\leftu + k^42 \\int_42^u \\operatorname^42 \\, dw.     The ": null
+    },
+    {
+        "meridian arc": "meridian arc"
+    },
+    {
+        " length from the ": null
+    },
+    {
+        "equator": "equator"
+    },
+    {
+        " to ": null
+    },
+    {
+        "latitude": "latitude"
+    },
+    {
+        "  is written in terms of :     : m a\\left,   where  is the ": null
+    },
+    {
+        "semi-major axis": "semi-major axis"
+    },
+    {
+        ", and  is the ": null
+    },
+    {
+        "eccentricity": "eccentricity"
+    },
+    {
+        ".       The incomplete elliptic integral of the third kind  is   : \\Pi \\int_42^\\varphi \\frac \\frac     or     : \\Pi \\int_^ \\frac \\frac.     The number  is called the characteristic and can take on any value, independently of the other arguments. Note though that the value  is infinite, for any .     A relation with the Jacobian elliptic functions is     : \\Pi\\bigl \\int_42^u \\frac .     The meridian arc length from the equator to latitude  is also related to a special case of :     : ma\\left\\Pi\\left.             Elliptic Integrals are said to be complete when the amplitude  and therefore . The complete elliptic integral of the first kind  may thus be defined as     : K\\int_42^\\tfrac \\frac\\int_42^42 \\frac,     or more compactly in terms of the incomplete integral of the first kind as     : KF\\left F\\left F.     It can be expressed as a ": null
+    },
+    {
+        "power series": "power series"
+    },
+    {
+        "     : K\\frac\\sum_^\\infty \\left^42 k^\\frac\\sum_^\\infty \\bigl^42 k^,     where  is the ": null
+    },
+    {
+        "Legendre polynomials": "legendre polynomials"
+    },
+    {
+        ", which is equivalent to     : K\\frac\\left,     where  denotes the ": null
+    },
+    {
+        "double factorial": "double factorial"
+    },
+    {
+        ". In terms of the Gauss ": null
+    },
+    {
+        "hypergeometric function": "hypergeometric function"
+    },
+    {
+        ", the complete elliptic integral of the first kind can be expressed as     : K\\tfrac \\,_42F_42 \\left.     The complete elliptic integral of the first kind is sometimes called the ": null
+    },
+    {
+        "quarter period": "quarter period"
+    },
+    {
+        ". It can be computed very efficiently in terms of the ": null
+    },
+    {
+        "arithmetic–geometric mean": "arithmetic–geometric mean"
+    },
+    {
+        ":   : K\\frac.   See  for details.       The relation to ": null
+    },
+    {
+        "Jacobis theta function": "theta function"
+    },
+    {
+        " is given by   : K\\frac\\theta_42^42   where the ": null
+    },
+    {
+        "nome": "nome"
+    },
+    {
+        "  is   : q\\exp\\left.       : K\\left\\approx\\frac+\\frac\\frac-\\frac\\frac   This approximation has a relative precision better than  for ": null
+    }
+]

@@ -1,0 +1,404 @@
+[
+    {
+        "           Del, or nabla, is an ": null
+    },
+    {
+        "operator": "operator"
+    },
+    {
+        " used in mathematics, in particular in ": null
+    },
+    {
+        "vector calculus": "vector calculus"
+    },
+    {
+        ", as a ": null
+    },
+    {
+        "vector": "vector"
+    },
+    {
+        " differential operator": "differential operator"
+    },
+    {
+        ", usually represented by the ": null
+    },
+    {
+        "nabla symbol": "nabla symbol"
+    },
+    {
+        "  & nabla;. When applied to a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " defined on a ": null
+    },
+    {
+        "one-dimensional": "dimension"
+    },
+    {
+        " domain, it denotes its standard ": null
+    },
+    {
+        "derivative": "derivative"
+    },
+    {
+        " as defined in ": null
+    },
+    {
+        "calculus": "calculus"
+    },
+    {
+        ". When applied to a field , it may denote the ": null
+    },
+    {
+        "gradient": "gradient"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "scalar field": "scalar field"
+    },
+    {
+        " , the ": null
+    },
+    {
+        "divergence": "divergence"
+    },
+    {
+        " of a vector field, or the ": null
+    },
+    {
+        "curl": "curl"
+    },
+    {
+        " of a vector field, depending on the way it is applied.     Strictly speaking, del is not a specific operator, but rather a convenient ": null
+    },
+    {
+        "mathematical notation": "mathematical notation"
+    },
+    {
+        " for those three operators, that makes many ": null
+    },
+    {
+        "equations": "equations"
+    },
+    {
+        " easier to write and remember. The del symbol can be interpreted as a vector of ": null
+    },
+    {
+        "partial derivative": "partial derivative"
+    },
+    {
+        " operators, and its three possible meanings—gradient, divergence, and curl—can be formally viewed as the ": null
+    },
+    {
+        "product": "product"
+    },
+    {
+        " with a scalar, a ": null
+    },
+    {
+        "dot product": "dot product"
+    },
+    {
+        ", and a ": null
+    },
+    {
+        "cross product": "cross product"
+    },
+    {
+        ", respectively, of the del operator with the field. These formal products do not necessarily ": null
+    },
+    {
+        "commute": "commutative operation"
+    },
+    {
+        " with other operators or products. These three uses, detailed below, are summarized as:   Gradient: \\operatornamef \\nabla f   Divergence: \\operatorname\\vec v \\nabla \\cdot \\vec v   Curl: \\operatorname\\vec v \\nabla \\times \\vec v       In the ": null
+    },
+    {
+        "Cartesian coordinate system": "cartesian coordinate system"
+    },
+    {
+        " R  with coordinates and ": null
+    },
+    {
+        "standard basis": "standard basis"
+    },
+    {
+        " \\ , del is defined in terms of ": null
+    },
+    {
+        "partial derivative": "partial derivative"
+    },
+    {
+        " operators as   : \\nabla \\sum_^n \\vec e_i \\left     In ": null
+    },
+    {
+        "three-dimensional": "three-dimensional"
+    },
+    {
+        " Cartesian coordinate system R 42 with coordinates and standard basis or unit vectors of axes \\ , del is written as   : \\nabla \\vec e_x + \\vec e_y + \\vec e_z \\left     Del can also be expressed in other coordinate systems, see for example ": null
+    },
+    {
+        "del in cylindrical and spherical coordinates": "del in cylindrical and spherical coordinates"
+    },
+    {
+        ".       Del is used as a shorthand form to simplify many long mathematical expressions. It is most commonly used to simplify expressions for the ": null
+    },
+    {
+        "gradient": "gradient"
+    },
+    {
+        ", ": null
+    },
+    {
+        "divergence": "divergence"
+    },
+    {
+        ", ": null
+    },
+    {
+        "curl": "curl"
+    },
+    {
+        ", ": null
+    },
+    {
+        "directional derivative": "directional derivative"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Laplacian": "laplacian"
+    },
+    {
+        ".       The vector derivative of a ": null
+    },
+    {
+        "scalar field": "scalar field"
+    },
+    {
+        " f is called the ": null
+    },
+    {
+        "gradient": "gradient"
+    },
+    {
+        ", and it can be represented as:   : \\operatornamef \\vec e_x + \\vec e_y + \\vec e_z\\nabla f     It always points in the ": null
+    },
+    {
+        "direction": "direction_"
+    },
+    {
+        " of greatest increase of f , and it has a ": null
+    },
+    {
+        "magnitude": "magnitude"
+    },
+    {
+        " equal to the maximum rate of increase at the point & mdash;just like a standard derivative. In particular, if a hill is defined as a height function over a plane h , the gradient at a given location will be a vector in the xy-plane pointing along the steepest direction. The magnitude of the gradient is the value of this steepest slope.     In particular, this notation is powerful because the gradient product rule looks very similar to the 42d-derivative case:   : \\nabla f \\nabla g + g \\nabla f     However, the rules for ": null
+    },
+    {
+        "dot product": "dot product"
+    },
+    {
+        "s do not turn out to be simple, as illustrated by:   : \\nabla \\vec v + \\vec u + \\vec u \\times + \\vec v \\times       The ": null
+    },
+    {
+        "divergence": "divergence"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "vector field": "vector field"
+    },
+    {
+        "   \\vec v v_x \\vec e_x + v_y \\vec e_y + v_z \\vec e_z is a ": null
+    },
+    {
+        "scalar": "scalar field"
+    },
+    {
+        " function that can be represented as:   : \\operatorname\\vec v + + \\nabla \\cdot \\vec v     The divergence is roughly a measure of a vector fields increase in the direction it points; but more accurately, it is a measure of that fields tendency to converge toward or repel from a point.     The power of the del notation is shown by the following product rule:   : \\nabla \\cdot f + \\vec v \\cdot     The formula for the ": null
+    },
+    {
+        "vector product": "vector product"
+    },
+    {
+        " is slightly less intuitive, because this product is not commutative:   : \\nabla \\cdot \\vec v \\cdot - \\vec u \\cdot       The ": null
+    },
+    {
+        "curl": "curl"
+    },
+    {
+        " of a vector field \\vec v v_x\\vec e_x + v_y\\vec e_y + v_z\\vec e_z is a ": null
+    },
+    {
+        "vector": "vector field"
+    },
+    {
+        " function that can be represented as:   : \\operatorname\\vec v \\left \\vec e_x + \\left \\vec e_y + \\left \\vec e_z \\nabla \\times \\vec v     The curl at a point is proportional to the on-axis torque that a tiny pinwheel would be subjected to if it were centred at that point.     The vector product operation can be visualized as a pseudo-": null
+    },
+    {
+        "determinant": "determinant"
+    },
+    {
+        ":   : \\nabla \\times \\vec v \\left|\\begin \\vec e_x & \\vec e_y & \\vec e_z \\\\ & & \\\\ v_x & v_y & v_z \\end\\right|     Again the power of the notation is shown by the product rule:   : \\nabla \\times \\times \\vec v + f     Unfortunately the rule for the vector product does not turn out to be simple:   : \\nabla \\times \\vec u \\, - \\vec v \\, + \\, \\vec u - \\, \\vec v       The ": null
+    },
+    {
+        "directional derivative": "directional derivative"
+    },
+    {
+        " of a scalar field f in the direction   \\vec a a_x \\vec e_x + a_y \\vec e_y + a_z \\vec e_z is defined as:   : \\vec a\\cdot\\operatornamef a_x + a_y + a_z \\vec a \\cdot     This gives the rate of change of a field f in the direction of \\vec a . In operator notation, the element in parentheses can be considered a single coherent unit; ": null
+    },
+    {
+        "fluid dynamics": "fluid dynamics"
+    },
+    {
+        " uses this convention extensively, terming it the ": null
+    },
+    {
+        "convective derivative": "convective derivative"
+    },
+    {
+        " & mdash;the moving derivative of the fluid.     Note that is an operator that takes scalar to a scalar. It can be extended to operate on a vector, by separately operating on each of its components.       The ": null
+    },
+    {
+        "Laplace operator": "laplace operator"
+    },
+    {
+        " is a scalar operator that can be applied to either vector or scalar fields; for cartesian coordinate systems it is defined as:   : \\Delta + + \\nabla \\cdot \\nabla \\nabla^42   and the definition for more general coordinate systems is given in ": null
+    },
+    {
+        "vector Laplacian": "vector laplacian"
+    },
+    {
+        ".     The Laplacian is ubiquitous throughout modern ": null
+    },
+    {
+        "mathematical physics": "mathematical physics"
+    },
+    {
+        ", appearing for example in ": null
+    },
+    {
+        "Laplaces equation": "laplaces equation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Poissons equation": "poissons equation"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "heat equation": "heat equation"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "wave equation": "wave equation"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "Schrödinger equation": "schrödinger equation"
+    },
+    {
+        ".         While \\nabla^42 usually represents the ": null
+    },
+    {
+        "Laplacian": "laplacian"
+    },
+    {
+        ", sometimes \\nabla^42 also represents the ": null
+    },
+    {
+        "Hessian matrix": "hessian matrix"
+    },
+    {
+        ". The former refers to the inner product of \\nabla , while the latter refers to the dyadic product of \\nabla :     : \\nabla^42 \\nabla \\cdot \\nabla^T .     So whether \\nabla^42 refers to a Laplacian or a Hessian matrix depends on the context.       Del can also be applied to a vector field with the result being a ": null
+    },
+    {
+        "tensor": "tensor"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "tensor derivative": "tensor derivative"
+    },
+    {
+        " of a vector field \\vec is a 42-term second-rank tensor – that is, a 42×42 matrix – but can be denoted simply as \\nabla \\otimes \\vec , where \\otimes represents the ": null
+    },
+    {
+        "dyadic product": "dyadic product"
+    },
+    {
+        ". This quantity is equivalent to the transpose of the ": null
+    },
+    {
+        "Jacobian matrix": "jacobian matrix"
+    },
+    {
+        " of the vector field with respect to space. The divergence of the vector field can then be expressed as the ": null
+    },
+    {
+        "trace": "trace"
+    },
+    {
+        " of this matrix.     For a small displacement \\delta \\vec , the change in the vector field is given by:   : \\delta \\vec ^T \\sdot \\delta \\vec         For ": null
+    },
+    {
+        "vector calculus": "vector calculus"
+    },
+    {
+        ":     : \\begin   \\nabla & f\\nabla g + g\\nabla f \\\\   \\nabla & \\vec u \\times + \\vec v \\times + \\vec v + \\vec u \\\\   \\nabla \\cdot & f + \\vec v \\cdot \\\\   \\nabla \\cdot & \\vec v \\cdot - \\vec u \\cdot \\\\   \\nabla \\times & \\times \\vec v + f \\\\   \\nabla \\times & \\vec u \\, - \\vec v \\, + \\, \\vec u - \\, \\vec v   \\end     For ": null
+    },
+    {
+        "matrix calculus": "matrix calculus"
+    },
+    {
+        " :     : \\begin   ^\\text \\vec u & \\nabla^\\text - \\vec u   \\end     Another relation of interest  is the following, where \\vec u \\otimes \\vec v is the ": null
+    },
+    {
+        "outer product": "outer product"
+    },
+    {
+        " tensor:   : \\begin   \\nabla \\cdot \\vec v + \\vec v   \\end          When del operates on a scalar or vector, either a scalar or vector is returned. Because of the diversity of vector products one application of del already gives rise to three major derivatives: the gradient , divergence , and curl . Applying these three sorts of derivatives again to each other gives five possible second derivatives, for a scalar field f or a vector field v; the use of the scalar ": null
+    },
+    {
+        "Laplacian": "laplacian"
+    },
+    {
+        " and ": null
+    },
+    {
+        "vector Laplacian": "vector laplacian"
+    },
+    {
+        " gives two more:   : \\begin   \\operatorname & \\nabla \\cdot \\\\   \\operatorname & \\nabla \\times \\\\   \\Delta f & \\nabla^42 f \\\\   \\operatorname & \\nabla \\\\   \\operatorname & \\nabla \\cdot \\\\   \\operatorname & \\nabla \\times \\\\   \\Delta \\vec v & \\nabla^42 \\vec v   \\end     These are of interest principally because they are not always unique or independent of each other. As long as the functions are ": null
+    },
+    {
+        "well-behaved": "well-behaved"
+    },
+    {
+        ", two of them are always zero:   : \\begin   \\operatorname & \\nabla \\times 42 \\\\   \\operatorname & \\nabla \\cdot \\nabla \\times \\vec v 42   \\end     Two of them are always equal:   : \\operatorname \\nabla \\cdot \\nabla^42 f \\Delta f     The 42 remaining vector derivatives are related by the equation:   : \\nabla \\times \\left \\nabla - \\nabla^42 \\vec     And one of them can even be expressed with the tensor product, if the functions are well-behaved:   : \\nabla \\nabla \\cdot         Most of the above vector properties rely only on symbol rearrangement, and must necessarily hold if the del symbol is replaced by any other vector. This is part of the value to be gained in notationally representing this operator as a vector.     Though one can often replace del with a vector and obtain a vector identity, making those identities mnemonic, the reverse is not necessarily reliable, because del does not commute in general.     A counterexample that relies on dels failure to commute:   : \\begin   f & \\equiv f \\\\   f & \\left f   \\fracf + \\fracf + \\fracf \\\\   f & \\left f   v_x \\frac + v_y \\frac + v_z \\frac \\\\   \\Rightarrow f & \\ne f \\\\   \\end     A counterexample that relies on dels differential properties:   : \\begin   \\times & \\left \\times \\left \\\\   & \\times \\\\   & \\vec e_x \\times \\vec e_y \\\\   & \\vec e_z \\\\   \\times & x y \\\\   & x y \\vec 42 \\\\   & \\vec 42   \\end     Central to these distinctions is the fact that del is not simply a vector; it is a ": null
+    },
+    {
+        "vector operator": "vector operator"
+    },
+    {
+        ". Whereas a vector is an object with both a magnitude and direction, del has neither a magnitude nor a direction until it operates on a function.     For that reason, identities involving del must be derived with care, using both vector identities and differentiation": null
+    }
+]

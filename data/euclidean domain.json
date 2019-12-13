@@ -1,0 +1,125 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", more specifically in ": null
+    },
+    {
+        "ring theory": "ring theory"
+    },
+    {
+        ", a Euclidean domain  is an ": null
+    },
+    {
+        "integral domain": "integral domain"
+    },
+    {
+        " that can be endowed with a ": null
+    },
+    {
+        "Euclidean function": "definition"
+    },
+    {
+        " which allows a suitable generalization of the ": null
+    },
+    {
+        "Euclidean division": "euclidean division"
+    },
+    {
+        " of the integers. This generalized Euclidean algorithm can be put to many of the same uses as Euclids original algorithm in the ring of ": null
+    },
+    {
+        "integer": "integer"
+    },
+    {
+        "s: in any Euclidean domain, one can apply the Euclidean algorithm to compute the ": null
+    },
+    {
+        "greatest common divisor": "greatest common divisor"
+    },
+    {
+        " of any two elements. In particular, the greatest common divisor of any two elements exists and can be written as a linear combination   of them . Also every ": null
+    },
+    {
+        "ideal": "ideal"
+    },
+    {
+        " in a Euclidean domain is ": null
+    },
+    {
+        "principal": "principal ideal"
+    },
+    {
+        ", which implies a suitable generalization of the ": null
+    },
+    {
+        "fundamental theorem of arithmetic": "fundamental theorem of arithmetic"
+    },
+    {
+        ": every Euclidean domain is a ": null
+    },
+    {
+        "unique factorization domain": "unique factorization domain"
+    },
+    {
+        ".     It is important to compare the class of Euclidean domains with the larger class of ": null
+    },
+    {
+        "principal ideal domain": "principal ideal domain"
+    },
+    {
+        "s . An arbitrary PID has much the same structural properties of a Euclidean domain , but when an explicit ": null
+    },
+    {
+        "algorithm": "algorithm"
+    },
+    {
+        " for Euclidean division is known, one may use ": null
+    },
+    {
+        "Euclidean algorithm": "euclidean algorithm"
+    },
+    {
+        " and ": null
+    },
+    {
+        "extended Euclidean algorithm": "extended euclidean algorithm"
+    },
+    {
+        " to compute ": null
+    },
+    {
+        "greatest common divisor": "greatest common divisor"
+    },
+    {
+        "s and ": null
+    },
+    {
+        "Bézouts identity": "bézouts identity"
+    },
+    {
+        ". In particular, the existence of efficient algorithms for Euclidean division of integers and of polynomials in one variable over a field is of basic importance in ": null
+    },
+    {
+        "computer algebra": "computer algebra"
+    },
+    {
+        ".     So, given an integral domain , it is often very useful to know that  has a Euclidean function: in particular, this implies that  is a PID. However, if there is no obvious Euclidean function, then determining whether  is a PID is generally a much easier problem than determining whether it is a Euclidean domain.     Euclidean domains appear in the following chain of ": null
+    },
+    {
+        "class inclusions": "subclass"
+    },
+    {
+        ":             Let  be an integral domain. A Euclidean function on  is a function  from  to the ": null
+    },
+    {
+        "non-negative integer": "non-negative integer"
+    },
+    {
+        "s satisfying the following fundamental division-with-remainder property:     If  and  are in  and  is nonzero, then there exists  and  in  such that  and either  or ": null
+    }
+]

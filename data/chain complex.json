@@ -1,0 +1,347 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a chain complex is an ": null
+    },
+    {
+        "algebraic structure": "algebraic structure"
+    },
+    {
+        " that consists of a sequence of ": null
+    },
+    {
+        "abelian group": "abelian group"
+    },
+    {
+        "s  and a sequence of ": null
+    },
+    {
+        "homomorphisms": "group homomorphism"
+    },
+    {
+        " between consecutive groups such that the ": null
+    },
+    {
+        "image": "image"
+    },
+    {
+        " of each homomorphism is included in the ": null
+    },
+    {
+        "kernel": "kernel group homomorphisms"
+    },
+    {
+        " of the next. Associated to a chain complex is its ": null
+    },
+    {
+        "homology": "homology"
+    },
+    {
+        ", which describes how the images are included in the kernels.     A cochain complex is similar to a chain complex, except that its homomorphisms follow a different convention. The homology of a cochain complex is called its cohomology.     In ": null
+    },
+    {
+        "algebraic topology": "algebraic topology"
+    },
+    {
+        ", the singular chain complex of a ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        " X is constructed using ": null
+    },
+    {
+        "continuous maps": "continuous functioncontinuous functions between topological spaces"
+    },
+    {
+        " from a ": null
+    },
+    {
+        "simplex": "simplex"
+    },
+    {
+        " to X, and the homomorphisms of the chain complex capture how these maps restrict to the boundary of the simplex. The homology of this chain complex is called the ": null
+    },
+    {
+        "singular homology": "singular homology"
+    },
+    {
+        " of X, and is a commonly used ": null
+    },
+    {
+        "invariant": "topological invariant"
+    },
+    {
+        " of a topological space.     Chain complexes are studied in ": null
+    },
+    {
+        "homological algebra": "homological algebra"
+    },
+    {
+        ", but are used in several areas of mathematics, including ": null
+    },
+    {
+        "abstract algebra": "abstract algebra"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Galois theory": "galois theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "differential geometry": "differential geometry"
+    },
+    {
+        " and ": null
+    },
+    {
+        "algebraic geometry": "algebraic geometry"
+    },
+    {
+        ". They can be defined more generally in ": null
+    },
+    {
+        "abelian categories": "abelian categories"
+    },
+    {
+        ".       A chain complex is a sequence of abelian groups or modules ..., A 42 , A 42 , A 42 , A 42 , A 42 , ... connected by homomorphisms  d n : A n →A n−42 , such that the composition of any two consecutive maps is the zero map. Explicitly, the differentials satisfy d n ∘ d n42 42 or with indices suppressed, d 42 42 The complex may be written out as follows.     ::   \\cdots   \\xleftarrow A_42   \\xleftarrow A_42   \\xleftarrow A_42   \\xleftarrow A_42   \\xleftarrow A_42   \\xleftarrow   \\cdots       The cochain complex is the ": null
+    },
+    {
+        "dual": "dual"
+    },
+    {
+        " notion to a chain complex. It consists of a sequence of abelian groups or modules ..., A 42 , A 42 , A 42 , A 42 , A 42 , ... connected by homomorphisms d n : A n →A n42 satisfying d n42 ∘ d n 42 The cochain complex may be written out in a similar fashion to the chain complex.     ::   \\cdots   \\xrightarrow   A^42 \\xrightarrow   A^42 \\xrightarrow   A^42 \\xrightarrow   A^42 \\xrightarrow   A^42 \\xrightarrow   \\cdots       The index n in either A n or A n is referred to as the degree . The difference between chain and cochain complexes is that, in chain complexes, the differentials decrease dimension, whereas in cochain complexes they increase dimension. All the concepts and definitions for chain complexes apply to cochain complexes, except that they will follow this different convention for dimension, and often terms will be given the ": null
+    },
+    {
+        "prefix": "prefix"
+    },
+    {
+        " co-. In this article, definitions will be given for chain complexes when the distinction is not required.     A bounded chain complex is one in which ": null
+    },
+    {
+        "almost all": "almost allcardinality"
+    },
+    {
+        " the A n are 42; that is, a finite complex extended to the left and right by 42 An example is the chain complex defining the ": null
+    },
+    {
+        "simplicial homology": "simplicial homology"
+    },
+    {
+        " of a finite ": null
+    },
+    {
+        "simplicial complex": "simplicial complex"
+    },
+    {
+        ". A chain complex is bounded above if all modules above some fixed degree N are 42 and is bounded below if all modules below some fixed degree are 42 Clearly, a complex is bounded both above and below if and only if the complex is bounded.     The elements of the individual groups of a chain complex are called chains. The elements in the kernel of d are called cycles , and the elements in the image of d are called boundaries . Right from the definition of the differential, all boundaries are cycles. The n-th homology group H n  is the group of cycles ": null
+    },
+    {
+        "modulo": "modulo structures"
+    },
+    {
+        " boundaries in degree n, that is,     :: H_n \\frac\\quad \\left          An exact sequence  is a chain complex whose homology groups are all zero. This means all closed elements in the complex are exact. A short exact sequence is a bounded exact sequence in which only the groups A k , A k42 , A k42 may be nonzero. For example, the following chain complex is a short exact sequence.   :   \\cdots   \\xrightarrow \\; 42 \\;   \\xrightarrow \\; \\mathbf \\;   \\xrightarrow \\; \\mathbf   \\twoheadrightarrow \\mathbf/p\\mathbf \\;   \\xrightarrow \\; 42 \\;   \\xrightarrow   \\cdots     In the middle group, the closed elements are the elements pZ; these are clearly the exact elements in this group.       A chain map f between two chain complexes and is a sequence f_\\bullet of homomorphisms f_n : A_n \\rightarrow B_n for each n that commutes with the boundary operators on the two chain complexes, so d_ \\circ f_n f_ \\circ d_ . This is written out in the following ": null
+    },
+    {
+        "commutative diagram": "commutative diagram"
+    },
+    {
+        ".   :": null
+    },
+    {
+        "42 px": "image:chain map.svg"
+    },
+    {
+        "     A chain map sends cycles to cycles and boundaries to boundaries, and thus induces a map on homology _:H_\\bullet \\rightarrow H_\\bullet .     A continuous map f between topological spaces X and Y induces a chain map between the singular chain complexes of X and Y, and hence induces a map f between the singular homology of X and Y as well. When X and Y are both equal to the ": null
+    },
+    {
+        "n-sphere": "n-sphere"
+    },
+    {
+        ", the map induced on homology defines the ": null
+    },
+    {
+        "degree": "degree of a continuous mappingfrom sn to sn"
+    },
+    {
+        " of the map f.     The concept of chain map reduces to the one of boundary through the construction of the ": null
+    },
+    {
+        "cone": "mapping cone"
+    },
+    {
+        " of a chain map.          A chain homotopy offers a way to relate two chain maps that induce the same map on homology groups, even though the maps may be different. Given two chain complexes A and B, and two chain maps f,g : A → B, a chain homotopy is a sequence of homomorphisms h n : A n → B n42 such that hd A + d B h f − g. The maps may be written out in a diagram as follows, but this diagram is not commutative.     :": null
+    },
+    {
+        "42 px": "image:chain homotopy between chain complexes.svg"
+    },
+    {
+        "     The map hd A + d B h is easily verified to induce the zero map on homology, for any h. It immediately follows that f and g induce the same map on homology. One says f and g are chain homotopic , and this property defines an ": null
+    },
+    {
+        "equivalence relation": "equivalence relation"
+    },
+    {
+        " between chain maps.     Let X and Y be topological spaces. In the case of singular homology, a ": null
+    },
+    {
+        "homotopy": "homotopy"
+    },
+    {
+        " between continuous maps f,g : X → Y induces a chain homotopy between the chain maps corresponding to f and g. This shows that two homotopic maps induce the same map on singular homology. The name chain homotopy is motivated by this example.              Let X be a topological space. Define C n  for ": null
+    },
+    {
+        "natural": "natural number"
+    },
+    {
+        " n to be the ": null
+    },
+    {
+        "free abelian group": "free abelian group"
+    },
+    {
+        " formally generated by ": null
+    },
+    {
+        "singular n-simplices": "singular homology"
+    },
+    {
+        " in X, and define the boundary map \\partial_n: C_n \\to C_ to be     :: \\partial_n : \\, \\mapsto \\sum_^n ^i     where the hat denotes the omission of a ": null
+    },
+    {
+        "vertex": "vertex"
+    },
+    {
+        ". That is, the boundary of a singular simplex is the alternating sum of restrictions to its faces. It can be shown that ∂ 42 42 so is a chain complex; the singular homology H_\\bullet is the homology of this complex.     Singular homology is a useful invariant of topological spaces up to ": null
+    },
+    {
+        "homotopy equivalence": "homotopyhomotopy equivalence"
+    },
+    {
+        ". The degree zero homology group is a free abelian group on the ": null
+    },
+    {
+        "connected components": "connected spaceconnected components"
+    },
+    {
+        " of X.          The ": null
+    },
+    {
+        "differential k-forms": "differential form"
+    },
+    {
+        " on any ": null
+    },
+    {
+        "smooth manifold": "smooth manifold"
+    },
+    {
+        " M form a ": null
+    },
+    {
+        "real": "real number"
+    },
+    {
+        " vector space": "vector space"
+    },
+    {
+        " called Ω k  under addition.   The ": null
+    },
+    {
+        "exterior derivative": "exterior derivative"
+    },
+    {
+        " d maps Ω k  to Ω k42 , and d 42 42 follows essentially from ": null
+    },
+    {
+        "symmetry of second derivatives": "symmetry of second derivatives"
+    },
+    {
+        ", so the vector spaces of k-forms along with the exterior derivative are a cochain complex.     : \\Omega^42\\ \\stackrel\\ \\Omega^42 \\to \\Omega^42 \\to \\Omega^42 \\to \\cdots     The cohomology of this complex is called the de Rham cohomology of X. The homology group in dimension zero is isomorphic to the vector space of ": null
+    },
+    {
+        "locally constant function": "locally constant function"
+    },
+    {
+        "s from M to R. Thus for a compact manifold, this is the real vector space whose dimension is the number of connected components of M.     ": null
+    },
+    {
+        "Smooth maps": "smoothnesssmooth functions between manifolds"
+    },
+    {
+        " between manifolds induce chain maps, and smooth homotopies between maps induce chain homotopies.       Chain complexes of K-modules with chain maps form a ": null
+    },
+    {
+        "category": "category"
+    },
+    {
+        " Ch K , where K is a commutative ring.     If V V _ and W W _ are chain complexes, their tensor product V \\otimes W is a chain complex with degree n elements given by   : _n \\bigoplus_ V_i \\otimes W_j     and differential given by   : \\partial \\partial a \\otimes b + ^ a \\otimes \\partial b   where a and b are any two homogeneous vectors in V and W respectively, and \\left|a\\right| denotes the degree of a.     This tensor product makes the category Ch K into a ": null
+    },
+    {
+        "symmetric monoidal category": "symmetric monoidal category"
+    },
+    {
+        ". The identity object with respect to this monoidal product is the base ring K viewed as a chain complex in degree 42 The ": null
+    },
+    {
+        "braiding": "braided monoidal category"
+    },
+    {
+        " is given on simple tensors of homogeneous elements by   : a \\otimes b \\mapsto ^ b \\otimes a   The sign is necessary for the braiding to be a chain map.     Moreover, the category of chain complexes of K-modules also has ": null
+    },
+    {
+        "internal Hom": "closed monoidal category"
+    },
+    {
+        ": given chain complexes V and W, the internal Hom of V and W, denoted Hom, is the chain complex with degree n elements given by \\Pi_\\text_K and differential given by   : \\partial - ^ f .   We have a ": null
+    },
+    {
+        "natural isomorphism": "natural isomorphism"
+    },
+    {
+        "   : \\text \\cong \\text       ": null
+    },
+    {
+        "Amitsur complex": "amitsur complex"
+    },
+    {
+        " Blochs higher Chow groups": "blochs higher chow groups"
+    },
+    {
+        " Buchsbaum–Rim complex": "buchsbaum–rim complex"
+    },
+    {
+        " Čech complex": "čech complex"
+    },
+    {
+        " Cousin complex": "cousin complex"
+    },
+    {
+        " Eagon–Northcott complex": "eagon–northcott complex"
+    },
+    {
+        " Gersten complex": "gersten complex"
+    },
+    {
+        " Graph complex": "graph complex"
+    },
+    {
+        "    Koszul complex": "koszul complex"
+    },
+    {
+        " Moore complex": "moore complex"
+    },
+    {
+        " Schur complex": "schur complex"
+    }
+]

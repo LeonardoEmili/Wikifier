@@ -1,0 +1,116 @@
+[
+    {
+        "      In ": null
+    },
+    {
+        "computability theory": "computability theory"
+    },
+    {
+        ", a probabilistic Turing machine is a ": null
+    },
+    {
+        "non-deterministic Turing machine": "non-deterministic turing machine"
+    },
+    {
+        " which chooses between the available transitions at each point according to some ": null
+    },
+    {
+        "probability distribution": "probability distribution"
+    },
+    {
+        ".     In the case of equal probabilities for the transitions, it can be defined as a deterministic ": null
+    },
+    {
+        "Turing machine": "turing machine"
+    },
+    {
+        " having an additional write instruction where the value of the write is ": null
+    },
+    {
+        "uniformly distributed": "uniform distribution"
+    },
+    {
+        " in the Turing Machines alphabet Another common reformulation is simply a ": null
+    },
+    {
+        "deterministic Turing machine": "deterministic turing machine"
+    },
+    {
+        " with an added tape full of random bits called the random tape.     As a consequence, a probabilistic Turing machine can have ": null
+    },
+    {
+        "stochastic": "stochastic"
+    },
+    {
+        " results; on a given input and instruction state machine, it may have different run times, or it may not halt at all; further, it may accept an input in one execution and reject the same input in another execution.     Therefore, the notion of acceptance of a string by a probabilistic Turing machine can be defined in different ways. Various polynomial-time randomized ": null
+    },
+    {
+        "complexity classes": "computational complexity theory"
+    },
+    {
+        " that result from different definitions of acceptance include ": null
+    },
+    {
+        "RP": "rp"
+    },
+    {
+        ", co-RP, ": null
+    },
+    {
+        "BPP": "bounded-error probabilistic polynomial"
+    },
+    {
+        " and ": null
+    },
+    {
+        "ZPP": "zpp"
+    },
+    {
+        ". If the machine is restricted to logarithmic space instead of polynomial time, the analogous ": null
+    },
+    {
+        "RL": "rl"
+    },
+    {
+        ", co-RL, ": null
+    },
+    {
+        "BPL": "bpl"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "ZPL": "zpl"
+    },
+    {
+        " complexity classes are obtained. By enforcing both restrictions, ": null
+    },
+    {
+        "RLP": "randomized logarithmic-space polynomial-time"
+    },
+    {
+        ", co-RLP, ": null
+    },
+    {
+        "BPLP": "bplp"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "ZPLP": "zplp"
+    },
+    {
+        " are yielded.     Probabilistic computation is also critical for the definition of most classes of ": null
+    },
+    {
+        "interactive proof system": "interactive proof system"
+    },
+    {
+        "s, in which the verifier machine depends on randomness to avoid being predicted and tricked by the all-powerful prover machine. For example, the class  IP  equals  PSPACE , but if randomness is removed from the verifier, we are left with only  NP , which is not known but widely believed to be a considerably smaller class.     One of the central questions of complexity theory is whether randomness adds power; that is, is there a problem which can be solved in polynomial time by a probabilistic Turing machine but not a deterministic Turing machine? Or can deterministic Turing machines efficiently simulate all probabilistic Turing machines with at most a polynomial slowdown? It is currently widely believed by researchers that the latter is the case, which would imply P BPP. The same question for log space instead of polynomial time  is even more widely believed to be true. On the other hand, the power randomness gives to interactive proof systems, as well as the simple algorithms it creates for difficult problems such as polynomial-time primality testing and log-space graph connectedness testing, suggests that randomness may add power.     A ": null
+    },
+    {
+        "quantum computer": "quantum computer"
+    }
+]
