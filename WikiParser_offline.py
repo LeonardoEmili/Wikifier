@@ -99,6 +99,9 @@ def main():
 
     create_dir(_dir, dir_name)
 
+    if (len(files) == 0):
+            print("Please provide an input file an try again", file=sys.stderr)
+
     for filename in files:
         parse_wikidump(_dir + filename, dir_name, node_dict, occurence_map)
 
