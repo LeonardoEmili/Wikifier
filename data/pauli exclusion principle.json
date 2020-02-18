@@ -1,0 +1,698 @@
+[
+    {
+        "        The Pauli exclusion principle is the ": null
+    },
+    {
+        "quantum mechanical": "quantum mechanics"
+    },
+    {
+        " principle which states that two or more ": null
+    },
+    {
+        "identical": "identical particles"
+    },
+    {
+        "fermions": "fermion"
+    },
+    {
+        "  cannot occupy the same ": null
+    },
+    {
+        "quantum state": "quantum state"
+    },
+    {
+        " within a ": null
+    },
+    {
+        "quantum system": "quantum system"
+    },
+    {
+        " simultaneously. This principle was formulated by Austrian physicist ": null
+    },
+    {
+        "Wolfgang Pauli": "wolfgang pauli"
+    },
+    {
+        " in 1925 for electrons, and later extended to all fermions with his ": null
+    },
+    {
+        "spin–statistics theorem": "spin–statistics theorem"
+    },
+    {
+        " of 1940.     In the case of ": null
+    },
+    {
+        "electrons": "electron"
+    },
+    {
+        "in atoms, it can be stated as follows: it is impossible for two electrons of a poly-electron atom to have the same values of the four ": null
+    },
+    {
+        "quantum number": "quantum number"
+    },
+    {
+        "s: n, the ": null
+    },
+    {
+        "principal quantum number": "principal quantum number"
+    },
+    {
+        ", , the ": null
+    },
+    {
+        "azimuthal quantum number": "azimuthal quantum number"
+    },
+    {
+        ", m , the ": null
+    },
+    {
+        "magnetic quantum number": "magnetic quantum number"
+    },
+    {
+        ", and m s , the ": null
+    },
+    {
+        "spin quantum number": "spin quantum number"
+    },
+    {
+        ". For example, if two electrons reside in the same ": null
+    },
+    {
+        "orbital": "atomic orbital"
+    },
+    {
+        ", then their n, , and m  values are the same, therefore their m s  must be different, and thus the electrons must have opposite half-integer spin projections of 1/2 and −1/2.     Particles with an integer spin, or ": null
+    },
+    {
+        "boson": "boson"
+    },
+    {
+        "s, are not subject to the Pauli exclusion principle: any number of identical bosons can occupy the same quantum state, as with, for instance, photons produced by a ": null
+    },
+    {
+        "laser": "laser"
+    },
+    {
+        " or atoms in a ": null
+    },
+    {
+        "Bose–Einstein condensate": "bose–einstein condensate"
+    },
+    {
+        ".     A more rigorous statement is that concerning the exchange of two identical particles the total ": null
+    },
+    {
+        "wave function": "wave function"
+    },
+    {
+        " is ": null
+    },
+    {
+        "antisymmetric": "identical particlesquantum mechanical description of identical particles"
+    },
+    {
+        " for fermions, and symmetric for bosons. This means that if the space and spin coordinates of two identical particles are interchanged, then the wave function changes its sign for fermions and does not change for bosons.       The Pauli exclusion principle describes the behavior of all ": null
+    },
+    {
+        "fermions": "fermion"
+    },
+    {
+        " , while ": null
+    },
+    {
+        "bosons": "boson"
+    },
+    {
+        " are subject to other principles. Fermions include ": null
+    },
+    {
+        "elementary particles": "elementary particle"
+    },
+    {
+        "such as ": null
+    },
+    {
+        "quark": "quark"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "electrons": "electron"
+    },
+    {
+        "and ": null
+    },
+    {
+        "neutrino": "neutrino"
+    },
+    {
+        "s. Additionally, ": null
+    },
+    {
+        "baryons": "baryon"
+    },
+    {
+        "such as ": null
+    },
+    {
+        "protons": "proton"
+    },
+    {
+        "and ": null
+    },
+    {
+        "neutrons": "neutron"
+    },
+    {
+        "  and some ": null
+    },
+    {
+        "atoms": "atom"
+    },
+    {
+        "  are fermions, and are therefore described by the Pauli exclusion principle as well. Atoms can have different overall spin , which determines whether they are fermions or bosons — for example ": null
+    },
+    {
+        "helium-3": "helium-3"
+    },
+    {
+        " has spin 1/2 and is therefore a fermion, in contrast to ": null
+    },
+    {
+        "helium-4": "helium-4"
+    },
+    {
+        " which has spin 0 and is a boson.   As such, the Pauli exclusion principle underpins many properties of everyday matter, from its large-scale stability, to the ": null
+    },
+    {
+        "chemical behavior of atoms": "periodic table"
+    },
+    {
+        ".     Half-integer spin means that the intrinsic ": null
+    },
+    {
+        "angular momentum": "angular momentum"
+    },
+    {
+        " value of fermions is \\hbar h/2\\pi  times a ": null
+    },
+    {
+        "half-integer": "half-integer"
+    },
+    {
+        " . In the theory of ": null
+    },
+    {
+        "quantum mechanics": "quantum mechanics"
+    },
+    {
+        " fermions are described by ": null
+    },
+    {
+        "antisymmetric states": "identical particles"
+    },
+    {
+        ". In contrast, particles with integer spin have symmetric wave functions; unlike fermions they may share the same quantum states. Bosons include the ": null
+    },
+    {
+        "photon": "photon"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "Cooper pairs": "cooper pairs"
+    },
+    {
+        " which are responsible for ": null
+    },
+    {
+        "superconductivity": "superconductivity"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "W and Z bosons": "w and z bosons"
+    },
+    {
+        ".          In the early 20th century it became evident that atoms and molecules with even numbers of electrons are more ": null
+    },
+    {
+        "chemically stable": "chemical stabilityoutside chemistry"
+    },
+    {
+        " than those with odd numbers of electrons. In the 1916 article The Atom and the Molecule by ": null
+    },
+    {
+        "Gilbert N. Lewis": "gilbert n. lewis"
+    },
+    {
+        ", for example, the third of his six postulates of chemical behavior states that the atom tends to hold an even number of electrons in any given shell, and especially to hold eight electrons which are normally arranged symmetrically at the eight corners of a cube .  In 1919 chemist ": null
+    },
+    {
+        "Irving Langmuir": "irving langmuir"
+    },
+    {
+        " suggested that the ": null
+    },
+    {
+        "periodic table": "periodic table"
+    },
+    {
+        " could be explained if the electrons in an atom were connected or clustered in some manner. Groups of electrons were thought to occupy a set of ": null
+    },
+    {
+        "electron shells": "electron shell"
+    },
+    {
+        "around the nucleus.  In 1922, ": null
+    },
+    {
+        "Niels Bohr": "niels bohr"
+    },
+    {
+        " updated his model of the atom by assuming that certain numbers of electrons corresponded to stable closed shells .       Pauli looked for an explanation for these numbers, which were at first only ": null
+    },
+    {
+        "empirical": "empirical relationship"
+    },
+    {
+        ". At the same time he was trying to explain experimental results of the ": null
+    },
+    {
+        "Zeeman effect": "zeeman effect"
+    },
+    {
+        " in atomic ": null
+    },
+    {
+        "spectroscopy": "spectroscopy"
+    },
+    {
+        " and in ": null
+    },
+    {
+        "ferromagnetism": "ferromagnetism"
+    },
+    {
+        ". He found an essential clue in a 1924 paper by ": null
+    },
+    {
+        "Edmund C. Stoner": "edmund clifton stoner"
+    },
+    {
+        ", which pointed out that, for a given value of the ": null
+    },
+    {
+        "principal quantum number": "principal quantum number"
+    },
+    {
+        " , the number of energy levels of a single electron in the ": null
+    },
+    {
+        "alkali metal": "alkali metal"
+    },
+    {
+        " spectra in an external magnetic field, where all ": null
+    },
+    {
+        "degenerate energy levels": "degenerate energy level"
+    },
+    {
+        "are separated, is equal to the number of electrons in the closed shell of the ": null
+    },
+    {
+        "noble gas": "noble gas"
+    },
+    {
+        "es for the same value of n. This led Pauli to realize that the complicated numbers of electrons in closed shells can be reduced to the simple rule of one electron per state if the electron states are defined using four quantum numbers. For this purpose he introduced a new two-valued quantum number, identified by ": null
+    },
+    {
+        "Samuel Goudsmit": "samuel goudsmit"
+    },
+    {
+        " and ": null
+    },
+    {
+        "George Uhlenbeck": "george uhlenbeck"
+    },
+    {
+        " as ": null
+    },
+    {
+        "electron spin": "electron spin"
+    },
+    {
+        ".           The Pauli exclusion principle with a single-valued many-particle wavefunction is equivalent to requiring the wavefunction to be ": null
+    },
+    {
+        "antisymmetric with respect to exchange": "identical_particlessymmetrical_and_antisymmetrical_states"
+    },
+    {
+        ". An antisymmetric two-particle state is represented as a ": null
+    },
+    {
+        "sum of states": "superposition principle"
+    },
+    {
+        " in which one particle is in state \\scriptstyle |x \\rangle and the other in state \\scriptstyle |y\\rangle , and is given by:   :   |\\psi\\rangle \\sum_ A |x,y\\rangle,        and antisymmetry under exchange means that . This implies  when , which is Pauli exclusion. It is true in any basis since local changes of basis keep antisymmetric matrices antisymmetric.     Conversely, if the diagonal quantities  are zero in every basis, then the wavefunction component   :   A\\langle \\psi|x,y\\rangle \\langle \\psi |        is necessarily antisymmetric. To prove it, consider the matrix element   :   \\langle\\psi| \\Big.       This is zero, because the two particles have zero probability to both be in the superposition state |x\\rangle + |y\\rangle . But this is equal to   :   \\langle \\psi |x,x\\rangle + \\langle \\psi |x,y\\rangle + \\langle \\psi |y,x\\rangle + \\langle \\psi | y,y \\rangle.       The first and last terms are diagonal elements and are zero, and the whole sum is equal to zero. So the wavefunction matrix elements obey:     :   \\langle \\psi|x,y\\rangle + \\langle\\psi |y,x\\rangle 0,       or   :   A -A.         According to the ": null
+    },
+    {
+        "spin–statistics theorem": "spin–statistics theorem"
+    },
+    {
+        ", particles with integer spin occupy symmetric quantum states, and particles with half-integer spin occupy antisymmetric states; furthermore, only integer or half-integer values of spin are allowed by the principles of quantum mechanics.   In relativistic ": null
+    },
+    {
+        "quantum field theory": "quantum field theory"
+    },
+    {
+        ", the Pauli principle follows from applying a ": null
+    },
+    {
+        "rotation operator": "rotation operator"
+    },
+    {
+        " in ": null
+    },
+    {
+        "imaginary time": "imaginary time"
+    },
+    {
+        " to particles of half-integer spin.     In one dimension, bosons, as well as fermions, can obey the exclusion principle. A one-dimensional Bose gas with delta-function repulsive interactions of infinite strength is equivalent to a gas of free fermions. The reason for this is that, in one dimension, the exchange of particles requires that they pass through each other; for infinitely strong repulsion this cannot happen. This model is described by a quantum ": null
+    },
+    {
+        "nonlinear Schrödinger equation": "nonlinear schrödinger equation"
+    },
+    {
+        ". In momentum space, the exclusion principle is valid also for finite repulsion in a Bose gas with delta-function interactions,  as well as for ": null
+    },
+    {
+        "interacting spins": "heisenberg model"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Hubbard model": "hubbard model"
+    },
+    {
+        " in one dimension, and for other models solvable by ": null
+    },
+    {
+        "Bethe ansatz": "bethe ansatz"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "ground state": "stationary state"
+    },
+    {
+        " in models solvable by Bethe ansatz is a ": null
+    },
+    {
+        "Fermi sphere": "fermi energy"
+    },
+    {
+        ".            The Pauli exclusion principle helps explain a wide variety of physical phenomena. One particularly important consequence of the principle is the elaborate ": null
+    },
+    {
+        "electron shell": "electron configuration"
+    },
+    {
+        " structure of ": null
+    },
+    {
+        "atoms": "atom"
+    },
+    {
+        "and the way atoms share electrons, explaining the variety of chemical elements and their chemical combinations. An ": null
+    },
+    {
+        "electrically neutral": "electric charge"
+    },
+    {
+        " atom contains bound ": null
+    },
+    {
+        "electrons": "electron"
+    },
+    {
+        "equal in number to the protons in the ": null
+    },
+    {
+        "nucleus": "atomic nucleus"
+    },
+    {
+        ". Electrons, being fermions, cannot occupy the same quantum state as other electrons, so electrons have to stack within an atom, i.e. have different spins while at the same electron orbital as described below.     An example is the neutral ": null
+    },
+    {
+        "helium atom": "helium atom"
+    },
+    {
+        ", which has two bound electrons, both of which can occupy the lowest-energy  states by acquiring opposite spin; as spin is part of the quantum state of the electron, the two electrons are in different quantum states and do not violate the Pauli principle. However, the spin can take only two different values . In a ": null
+    },
+    {
+        "lithium": "lithium"
+    },
+    {
+        " atom, with three bound electrons, the third electron cannot reside in a 1s state and must occupy one of the higher-energy 2s states instead. Similarly, successively larger elements must have shells of successively higher energy. The chemical properties of an element largely depend on the number of electrons in the outermost shell; atoms with different numbers of occupied electron shells but the same number of electrons in the outermost shell have similar properties, which gives rise to the ": null
+    },
+    {
+        "periodic table of the elements": "periodic table"
+    },
+    {
+        ".         In ": null
+    },
+    {
+        "conductors": "electrical conductor"
+    },
+    {
+        "and ": null
+    },
+    {
+        "semiconductor": "semiconductor"
+    },
+    {
+        "s, there are very large numbers of ": null
+    },
+    {
+        "molecular orbitals": "molecular orbital"
+    },
+    {
+        "which effectively form a continuous ": null
+    },
+    {
+        "band structure": "electronic band structure"
+    },
+    {
+        " of ": null
+    },
+    {
+        "energy level": "energy level"
+    },
+    {
+        "s. In strong conductors  electrons are so ": null
+    },
+    {
+        "degenerate": "degenerate energy level"
+    },
+    {
+        " that they cannot even contribute much to the ": null
+    },
+    {
+        "thermal capacity": "thermal capacity"
+    },
+    {
+        " of a metal.   Many mechanical, electrical, magnetic, optical and chemical properties of solids are the direct consequence of Pauli exclusion.       The stability of each electron state in an atom is described by the quantum theory of the atom, which shows that close approach of an electron to the nucleus necessarily increases the electrons kinetic energy, an application of the ": null
+    },
+    {
+        "uncertainty principle": "uncertainty principle"
+    },
+    {
+        " of Heisenberg.  The Stability of Matter and Quantum Electrodynamics However, stability of large systems with many electrons and many ": null
+    },
+    {
+        "nucleons": "nucleons"
+    },
+    {
+        " is a different question, and requires the Pauli exclusion principle. This realization is attributed by  and by  to F. J. Dyson and A. Lenard: Stability of Matter, Parts I and II .     It has been shown that the Pauli exclusion principle is responsible for the fact that ordinary bulk matter is stable and occupies volume. This suggestion was first made in 1931 by ": null
+    },
+    {
+        "Paul Ehrenfest": "paul ehrenfest"
+    },
+    {
+        ", who pointed out that the electrons of each atom cannot all fall into the lowest-energy orbital and must occupy successively larger shells. Atoms, therefore, occupy a volume and cannot be squeezed too closely together. As described by F. J. Dyson , Ehrenfest made this suggestion in his address on the occasion of the award of the ": null
+    },
+    {
+        "Lorentz Medal": "lorentz medal"
+    },
+    {
+        " to Pauli.     A more rigorous proof was provided in 1967 by ": null
+    },
+    {
+        "Freeman Dyson": "freeman dyson"
+    },
+    {
+        " and Andrew Lenard, who considered the balance of attractive and repulsive forces and showed that ordinary matter would collapse and occupy a much smaller volume without the Pauli principle. F. J. Dyson and A. Lenard: Stability of Matter, Parts I and II       The consequence of the Pauli principle here is that electrons of the same spin are kept apart by a repulsive ": null
+    },
+    {
+        "exchange interaction": "exchange interaction"
+    },
+    {
+        ", which is a short-range effect, acting simultaneously with the long-range electrostatic or ": null
+    },
+    {
+        "Coulombic force": "coulombic force"
+    },
+    {
+        ". This effect is partly responsible for the everyday observation in the macroscopic world that two solid objects cannot be in the same place at the same time.       ": null
+    },
+    {
+        "Freeman Dyson": "freeman dyson"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Andrew Lenard": "andrew lenard"
+    },
+    {
+        " did not consider the extreme magnetic or gravitational forces that occur in some ": null
+    },
+    {
+        "astronomical": "astronomical"
+    },
+    {
+        " objects. In 1995 ": null
+    },
+    {
+        "Elliott Lieb": "elliott lieb"
+    },
+    {
+        " and coworkers showed that the Pauli principle still leads to stability in intense magnetic fields such as in ": null
+    },
+    {
+        "neutron star": "neutron star"
+    },
+    {
+        "s, although at a much higher density than in ordinary matter.  It is a consequence of ": null
+    },
+    {
+        "general relativity": "general relativity"
+    },
+    {
+        " that, in sufficiently intense gravitational fields, matter collapses to form a ": null
+    },
+    {
+        "black hole": "black hole"
+    },
+    {
+        ".     Astronomy provides a spectacular demonstration of the effect of the Pauli principle, in the form of ": null
+    },
+    {
+        "white dwarf": "white dwarf"
+    },
+    {
+        " and ": null
+    },
+    {
+        "neutron star": "neutron star"
+    },
+    {
+        "s. In both bodies, the atomic structure is disrupted by extreme pressure, but the stars are held in ": null
+    },
+    {
+        "hydrostatic equilibrium": "hydrostatic equilibrium"
+    },
+    {
+        " by  degeneracy pressure , also known as Fermi pressure. This exotic form of matter is known as ": null
+    },
+    {
+        "degenerate matter": "degenerate matter"
+    },
+    {
+        ". The immense gravitational force of a stars mass is normally held in equilibrium by ": null
+    },
+    {
+        "thermal pressure": "ideal gas law"
+    },
+    {
+        " caused by heat produced in ": null
+    },
+    {
+        "thermonuclear fusion": "thermonuclear fusion"
+    },
+    {
+        " in the stars core. In white dwarfs, which do not undergo nuclear fusion, an opposing force to gravity is provided by ": null
+    },
+    {
+        "electron degeneracy pressure": "electron degeneracy pressure"
+    },
+    {
+        ". In ": null
+    },
+    {
+        "neutron star": "neutron star"
+    },
+    {
+        "s, subject to even stronger gravitational forces, electrons have merged with ": null
+    },
+    {
+        "protons": "proton"
+    },
+    {
+        "to form ": null
+    },
+    {
+        "neutron": "neutron"
+    },
+    {
+        "s. Neutrons are capable of producing an even higher degeneracy pressure, ": null
+    },
+    {
+        "neutron degeneracy pressure": "neutron degeneracy pressure"
+    },
+    {
+        ", albeit over a shorter range. This can stabilize neutron stars from further collapse, but at a smaller size and higher ": null
+    },
+    {
+        "density": "density"
+    },
+    {
+        " than a white dwarf. Neutron stars are the most rigid objects known; their ": null
+    },
+    {
+        "Young modulus": "young modulus"
+    },
+    {
+        "  is 20 orders of magnitude larger than that of ": null
+    },
+    {
+        "diamond": "diamond"
+    },
+    {
+        ". However, even this enormous rigidity can be overcome by the ": null
+    },
+    {
+        "gravitational field": "gravitational field"
+    },
+    {
+        " of a massive star or by the pressure of a ": null
+    },
+    {
+        "supernova": "supernova"
+    },
+    {
+        ", leading to the formation of a ": null
+    },
+    {
+        "black hole": "black hole"
+    },
+    {
+        ".  ": null
+    }
+]

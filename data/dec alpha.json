@@ -1,0 +1,770 @@
+[
+    {
+        "            Alpha, originally known as Alpha AXP, is a ": null
+    },
+    {
+        "64-bit": "64-bit computing"
+    },
+    {
+        " reduced instruction set computing": "reduced instruction set computing"
+    },
+    {
+        " instruction set architecture": "instruction set architecture"
+    },
+    {
+        " developed by ": null
+    },
+    {
+        "Digital Equipment Corporation": "digital equipment corporation"
+    },
+    {
+        " , designed to replace their ": null
+    },
+    {
+        "32-bit": "32-bit"
+    },
+    {
+        " VAX": "vax"
+    },
+    {
+        " complex instruction set computer": "complex instruction set computer"
+    },
+    {
+        " ISA. Alpha was implemented in ": null
+    },
+    {
+        "microprocessors": "microprocessor"
+    },
+    {
+        "originally developed and ": null
+    },
+    {
+        "fabricated": "semiconductor device fabrication"
+    },
+    {
+        " by DEC. These microprocessors were most prominently used in a variety of DEC workstations and servers, which eventually formed the basis for almost all of their mid-to-upper-scale lineup. Several third-party vendors also produced Alpha systems, including ": null
+    },
+    {
+        "PC form factor": "pc motherboard form factor"
+    },
+    {
+        " motherboards.     ": null
+    },
+    {
+        "Operating systems": "operating system"
+    },
+    {
+        "that supported Alpha included ": null
+    },
+    {
+        "OpenVMS": "openvms"
+    },
+    {
+        " , ": null
+    },
+    {
+        "Tru64 UNIX": "tru64 unix"
+    },
+    {
+        " , ": null
+    },
+    {
+        "Windows NT": "windows nt"
+    },
+    {
+        " ,  ": null
+    },
+    {
+        "Linux": "linux"
+    },
+    {
+        " , ": null
+    },
+    {
+        "BSD": "berkeley software distribution"
+    },
+    {
+        " UNIX , ": null
+    },
+    {
+        "Plan 9 from Bell Labs": "plan 9 from bell labs"
+    },
+    {
+        ", as well as the ": null
+    },
+    {
+        "L4Ka::Pistachio": "l4 microkernel family"
+    },
+    {
+        " kernel. The Alpha architecture was sold, along with most parts of DEC, to ": null
+    },
+    {
+        "Compaq": "compaq"
+    },
+    {
+        " in 1998.  Compaq, already an ": null
+    },
+    {
+        "Intel": "intel"
+    },
+    {
+        " customer, phased out Alpha in favor of the forthcoming ": null
+    },
+    {
+        "Hewlett-Packard": "hewlett-packard"
+    },
+    {
+        "/Intel ": null
+    },
+    {
+        "Itanium": "itanium"
+    },
+    {
+        " architecture, and sold all Alpha ": null
+    },
+    {
+        "intellectual property": "intellectual property"
+    },
+    {
+        " to Intel in 2001, effectively killing the product. Hewlett-Packard purchased Compaq later that same year, continuing development of the existing product line until 2004, and selling Alpha-based systems, largely to the existing customer base, until April 2007.               Alpha was born out of an earlier RISC project named ": null
+    },
+    {
+        "Prism": "dec prism"
+    },
+    {
+        " , itself the product of several earlier projects. PRISM was intended to be a flexible design, supporting both Unix-like applications, as well as Digitals existing ": null
+    },
+    {
+        "VMS": "openvms"
+    },
+    {
+        " programs from the ": null
+    },
+    {
+        "VAX": "vax"
+    },
+    {
+        " after minor conversion. A new Unix-like   ": null
+    },
+    {
+        "operating system": "operating system"
+    },
+    {
+        " known as Mica would run applications natively, supporting VMS under emulation running at the same time.     During development, the Palo Alto design team were working on a Unix-only ": null
+    },
+    {
+        "workstation": "workstation"
+    },
+    {
+        " that originally included the PRISM. However, development of the workstation was well ahead of the PRISM, and the engineers proposed that they release the machines using the ": null
+    },
+    {
+        "MIPS R2000": "r2000"
+    },
+    {
+        " processor instead,  moving its release date up considerably. DEC management doubted the need to produce a new computer architecture to replace their existing VAX and DECstation lines, and eventually ended the PRISM project in 1988.      By the time of cancellation, however, second-generation RISC chips  were offering much better ": null
+    },
+    {
+        "price/performance ratios": "price/performance ratio"
+    },
+    {
+        "than the VAX lineup. It was clear a third generation would completely outperform the VAX in all ways, not just on cost.       Another study was started to see if a new RISC architecture could be defined that could directly support the VMS operating system. The new design used most of the basic PRISM concepts, but was re-tuned to allow VMS and VMS programs to run at reasonable speed with no conversion at all. The decision was also made to upgrade the design to a full ": null
+    },
+    {
+        "64-bit": "64-bit"
+    },
+    {
+        " implementation from PRISMs 32-bit, a conversion all of the major RISC vendors were undertaking. Eventually that new architecture became Alpha. The primary Alpha instruction set architects were Richard L. Sites and Richard T. Witek.  The PRISMs Epicode was developed into the Alphas ": null
+    },
+    {
+        "PALcode": "palcode"
+    },
+    {
+        ", providing an abstracted interface to platform- and processor implementation-specific features.     The main contribution of Alpha to the microprocessor industry, and the main reason for its performance, was not so much the architecture but rather its implementation.  At that time , the microchip industry was dominated by automated design and layout tools. The chip designers at Digital continued pursuing sophisticated manual circuit design in order to deal with the overly complex VAX architecture. The Alpha chips showed that manual circuit design applied to a simpler, cleaner architecture allowed for much higher operating frequencies than those that were possible with the more automated design systems. These chips caused a renaissance of custom circuit design within the microprocessor design community.     Originally, the Alpha processors were designated the DECchip 21x64 series,  with DECchip replaced in the mid-1990s with Alpha . The first two digits, 21 signifies the 21st century, and the last two digits, 64 signifies 64 bits. The Alpha was designed as 64-bit from the start and there is no 32-bit version. The middle digit corresponded to the generation of the Alpha architecture. Internally, Alpha processors were also identified by EV numbers, EV officially standing for Extended VAX but having an alternative humorous meaning of Electric ": null
+    },
+    {
+        "Vlasic": "vlasic pickles"
+    },
+    {
+        " , giving homage to the Electric Pickle experiment at Western Research Lab.        The first few generations of the Alpha chips were some of the most innovative of their time.   The first version, the  Alpha 21064  or EV4, was the first ": null
+    },
+    {
+        "CMOS": "cmos"
+    },
+    {
+        " microprocessor whose operating frequency rivalled higher-powered ": null
+    },
+    {
+        "ECL": "emitter coupled logic"
+    },
+    {
+        " minicomputers and mainframes.   The second, 21164 or EV5, was the first microprocessor to place a large secondary cache on-chip.    The third, 21264 or EV6, was the first microprocessor to combine both high operating frequency and the more complicated ": null
+    },
+    {
+        "out-of-order execution": "out-of-order execution"
+    },
+    {
+        " microarchitecture.   The 21364 or EV7 was the first high performance processor to have an on-chip ": null
+    },
+    {
+        "memory controller": "memory controller"
+    },
+    {
+        ".    The unproduced  21464  or EV8 would have been the first to include ": null
+    },
+    {
+        "simultaneous multithreading": "simultaneous multithreading"
+    },
+    {
+        ", but this version was canceled after the sale of DEC to ": null
+    },
+    {
+        "Compaq": "compaq"
+    },
+    {
+        ". The  Tarantula  research project, which most likely would have been called EV9, would have been the first Alpha processor to feature a ": null
+    },
+    {
+        "vector unit": "vector processor"
+    },
+    {
+        ".      A persistent report attributed to DEC insiders suggests the choice of the AXP tag for the processor was made by DECs legal department, which was still smarting from the ": null
+    },
+    {
+        "VAX trademark": "vax_trademark_conflict"
+    },
+    {
+        " fiasco.  After a lengthy search the tag AXP was found to be entirely unencumbered. Within the computer industry, a joke got started that the acronym AXP meant Almost eXactly PRISM .       The Alpha architecture was intended to be a high-performance design. Digital intended the architecture to support a one-thousandfold increase in performance over twenty-five years. To ensure this, any architectural feature that impeded multiple instruction issue, clock rate or multiprocessing was removed. As a result, the Alpha does not have:     ": null
+    },
+    {
+        "Branch delay slots": "branch delay slot"
+    },
+    {
+        "  Suppressed instructions   Byte load or store instructions         The Alpha does not have ": null
+    },
+    {
+        "condition codes": "status register"
+    },
+    {
+        "for integer instructions  to remove a potential bottleneck at the condition status register. Instructions resulting in an overflow, such as adding two numbers whose result does not fit in 64 bits, write the 32 or 64 ": null
+    },
+    {
+        "least significant bits": "least significant bit"
+    },
+    {
+        "to the destination register. The carry is generated by performing an unsigned compare on the result with either operand to see if the result is smaller than either operand. If the test was true, the value one is written to the least significant bit of the destination register to indicate the condition.            The architecture defined a set of 32 integer ": null
+    },
+    {
+        "registers": "processor register"
+    },
+    {
+        "and a set of 32 floating-point registers in addition to a ": null
+    },
+    {
+        "program counter": "program counter"
+    },
+    {
+        ", two lock registers and a floating-point control register . It also defined registers that were optional, implemented only if the implementation required them. Lastly, registers for ": null
+    },
+    {
+        "PALcode": "palcode"
+    },
+    {
+        " were defined.     The integer registers were denoted by R0 to R31 and floating-point registers were denoted by F0 to F31. The R31 and F31 registers were hardwired to zero and writes to those registers by instructions are ignored. Digital considered using a combined register file, but a split register file was determined to be better as it enabled two-chip implementations to have a register file located on each chip and integer-only implementations to omit the floating-point register file containing the floating point registers. A split register file was also determined to be more suitable for multiple instruction issue due to the reduced number of read and write ports. The number of registers per register file was also considered, with 32 and 64 being contenders. Digital concluded that 32 registers was more suitable as it required less ": null
+    },
+    {
+        "die": "die"
+    },
+    {
+        " space, which improved clock frequencies. This number of registers was deemed not to be a major issue in respect to performance and future growth, as thirty-two registers could support at least eight-way instruction issue.     The ": null
+    },
+    {
+        "program counter": "program counter"
+    },
+    {
+        " is a 64-bit register which contains a longword-aligned virtual byte address, that is, the low two bits of the program counter are always zero. The PC is incremented by four to the address of the next instruction when an instruction is decoded. A lock flag and locked physical address register are used by the load-locked and store-conditional instructions for multiprocessor support. The floating-point control register is a 64-bit register defined by the architecture intended for use by Alpha implementations with ": null
+    },
+    {
+        "IEEE 754": "ieee 754"
+    },
+    {
+        "-compliant floating-point hardware.       In the Alpha architecture, a  byte  was defined as an ": null
+    },
+    {
+        "8-bit": "8-bit"
+    },
+    {
+        " datum": "data"
+    },
+    {
+        " , a  word  as a ": null
+    },
+    {
+        "16-bit": "16-bit"
+    },
+    {
+        " datum, a  longword  as a ": null
+    },
+    {
+        "32-bit": "32-bit"
+    },
+    {
+        " datum, a  quadword  as a ": null
+    },
+    {
+        "64-bit": "64-bit"
+    },
+    {
+        " datum, and an  octaword  as a ": null
+    },
+    {
+        "128-bit": "128-bit"
+    },
+    {
+        " datum.     The Alpha architecture originally defined six data types:     Quadword integer   Longword integer   IEEE T-floating-point   IEEE S-floating-point     To maintain a level of compatibility with the ": null
+    },
+    {
+        "VAX": "vax"
+    },
+    {
+        ", the 32-bit architecture that preceded the Alpha, two other floating-point data types were included:     VAX G-floating point   VAX F-floating point   VAX H-floating point was not supported,  but another 128-bit floating point option, X-floating point, was available on Alpha, but not VAX.  H and X have been described as similar, but not identical. Software emulation for H-floating is available from DEC, as is a source-code level converter named DECmigrate.       The Alpha has a 64-bit linear ": null
+    },
+    {
+        "virtual address": "virtual address"
+    },
+    {
+        " space with no memory segmentation. Implementations can implement a smaller virtual address space with a minimum size of 43 bits. Although the unused bits were not implemented in hardware such as ": null
+    },
+    {
+        "TLBs": "translation lookaside buffer"
+    },
+    {
+        ", the architecture required implementations to check whether they are zero to ensure software compatibility with implementations with a larger virtual address space.       The Alpha ISA has a fixed instruction length of 32 bits. It has six instruction formats.          The integer operate format is used by integer instructions. It contains a 6-bit opcode field, followed by the Ra field, which specifies the register containing the first operand and the Rb field, specifies the register containing the second operand. Next is a 3-bit field which is unused and reserved. A 1-bit field contains a 0 , which distinguished this format from the integer literal format. A 7-bit function field follows, which is used in conjunction with the opcode to specify an operation. The last field is the Rc field, which specifies the register which the result of a computation should be written to. The register fields are all 5 bits long, required to address 32 unique locations, the 32 integer registers.     The integer literal format is used by integer instructions which use a literal as one of the operands. The format is the same as the integer operate format except for the replacement of the 5-bit Rb field and the 3 bits of unused space with an 8-bit literal field which is zero-extended to a 64-bit operand.     The floating-point operate format is used by floating-point instructions. It is similar to the integer operate format, but has an 11-bit function field made possible by using the literal and unused bits which are reserved in integer operate format.     The memory format is used mostly by load and store instructions. It has a 6-bit opcode field, a 5-bit Ra field, a 5-bit Rb field and a 16-bit displacement field.     Branch instructions have a 6-bit opcode field, a 5-bit Ra field and a 21-bit displacement field. The Ra field specifies a register to be tested by a conditional branch instruction, and if the condition is met, the program counter is updated by adding the contents of the displacement field with the program counter. The displacement field contains a signed integer and if the value of the integer is positive, if the branch is taken then the program counter is incremented. If the value of the integer is negative, then program counter is decremented if the branch is taken. The range of a branch thus is ±1 Mi instructions, or ±4 MiB. The Alpha Architecture was designed with a large range as part of the architectures forward-looking goal.     The CALL_PAL format is used by the CALL_PAL instruction, which is used to call ": null
+    },
+    {
+        "PALcode": "palcode"
+    },
+    {
+        " subroutines. The format retains the opcode field but replaces the others with a 26-bit function field, which contains an integer specifying a PAL subroutine.           The ": null
+    },
+    {
+        "control": "control flow"
+    },
+    {
+        " instructions consist of conditional and unconditional branches, and jumps. The conditional and unconditional branch instructions use the branch instruction format, while the jump instructions use the memory instruction format.     Conditional branches test whether the least significant bit of a register is set or clear, or compare a register as a signed quadword to zero, and branch if the specified condition is true. The conditions available for comparing a register to zero are equality, inequality, less than, less than or equal to, greater than or equal to, and greater than. The new address is computed by longword aligning and sign extending the 21-bit displacement and adding it to the address of the instruction following the conditional branch.     Unconditional branches update the program counter with a new address computed in the same way as conditional branches. They also save the address of the instruction following the unconditional branch to a register. There are two such instructions, and they differ only in the hints provided for the branch prediction hardware.     There are four jump instructions. These all perform the same operation, saving the address of the instruction following the jump, and providing the program counter with a new address from a register. They differ in the hints provided to the branch prediction hardware. The unused displacement field is used for this purpose.       The integer arithmetic instructions perform addition, multiplication, and subtraction on longwords and quadwords; and comparison on quadwords. There is no instruction for division as the architects considered the implementation of division in hardware to be adverse to simplicity. In addition to the standard add and subtract instructions, there are scaled versions. These versions shift the second operand to the left by two or three bits before adding or subtracting. The Multiply Longword and Multiply Quadword instructions write the least significant 32 or 64 bits of a 64- or 128-bit result to the destination register, respectively. Since it is useful to obtain the most significant half, the Unsigned Multiply Quadword High instruction is provided. UMULH is used for implementing multi-precision arithmetic and division algorithms. The concept of a separate instruction for multiplication that returns the most significant half of a result was taken from ": null
+    },
+    {
+        "PRISM": "dec prism"
+    },
+    {
+        ".     The instructions that operate on longwords ignore the most significant half of the register and the 32-bit result is sign-extended before it is written to the destination register. By default, the add, multiply, and subtract instructions, with the exception of UMULH and scaled versions of add and subtract, do not trap on overflow. When such functionality is required, versions of these instructions that perform overflow detection and trap on overflow are provided.     The compare instructions compare two registers or a register and a literal and write 1 to the destination register if the specified condition is true or 0 if not. The conditions are equality, inequality, less than or equal to, and less than. With the exception of the instructions that specify the former two conditions, there are versions that perform signed and unsigned compares.     The integer arithmetic instructions use the integer operate instruction formats.       The logical instructions consist of those for performing ": null
+    },
+    {
+        "bitwise": "bitwise operation"
+    },
+    {
+        " logical operations and ": null
+    },
+    {
+        "conditional moves": "conditional move"
+    },
+    {
+        "on the integer registers. The bitwise logical instructions perform ": null
+    },
+    {
+        "AND": "logical conjunction"
+    },
+    {
+        ", ": null
+    },
+    {
+        "NAND": "sheffer stroke"
+    },
+    {
+        ", ": null
+    },
+    {
+        "NOR": "logical nor"
+    },
+    {
+        ", ": null
+    },
+    {
+        "OR": "logical disjunction"
+    },
+    {
+        ", ": null
+    },
+    {
+        "XNOR": "xnor"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "XOR": "xor"
+    },
+    {
+        " between two registers or a register and literal. The conditional move instructions test a register as a signed quadword to zero and move if the specified condition is true. The specified conditions are equality, inequality, less than or equal to, less than, greater than or equal to, and greater than. The shift instructions perform ": null
+    },
+    {
+        "arithmetic right shift": "arithmetic shift"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "logical left and right shifts": "logical shift"
+    },
+    {
+        ". The shift amount is given by a register or literal. Logical and shift instructions use the integer operate instruction formats.           Later, the Alpha included byte-word extensions, a set of instructions to manipulate 8-bit and 16-bit data types. These instructions were first introduced in the ": null
+    },
+    {
+        "21164A": "alpha 21164alpha 21164"
+    },
+    {
+        " microprocessor and are present in all subsequent implementations. These instructions performed operations that previously required multiple instructions to implement, which improved code density and the performance of certain applications. BWX also made the emulation of x86 machine code and the writing of ": null
+    },
+    {
+        "device drivers": "device driver"
+    },
+    {
+        "easier.             Motion Video Instructions was an instruction set extension to the Alpha ISA that added instructions for ": null
+    },
+    {
+        "single instruction, multiple data": "simd"
+    },
+    {
+        " operations. Gwennap, Linley . Digital, MIPS Add Multimedia Extensions .  Microprocessor Report . Alpha implementations that implement MVI, in chronological order, are the ": null
+    },
+    {
+        "Alpha 21164PC": "alpha 21164alpha 21164pc"
+    },
+    {
+        " , ": null
+    },
+    {
+        "Alpha 21264": "alpha 21264"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Alpha 21364": "alpha 21364"
+    },
+    {
+        " . Unlike most other SIMD instruction sets of the same period, such as ": null
+    },
+    {
+        "MIPS": "mips architecture"
+    },
+    {
+        " MDMX": "mdmx"
+    },
+    {
+        " or ": null
+    },
+    {
+        "SPARCs": "sparc"
+    },
+    {
+        " Visual Instruction Set": "visual instruction set"
+    },
+    {
+        ", but like ": null
+    },
+    {
+        "PA-RISCs": "pa-risc"
+    },
+    {
+        " Multimedia Acceleration eXtensions": "multimedia acceleration extensions"
+    },
+    {
+        " , MVI was a simple instruction set composed of a few instructions that operate on integer data types stored in existing integer registers.     MVIs simplicity was due to two reasons. Firstly, Digital had determined that the ": null
+    },
+    {
+        "Alpha 21164": "alpha 21164"
+    },
+    {
+        " was already capable of performing ": null
+    },
+    {
+        "DVD": "dvd"
+    },
+    {
+        " decoding through software, therefore not requiring hardware provisions for the purpose, but was inefficient in ": null
+    },
+    {
+        "MPEG-2": "mpeg-2"
+    },
+    {
+        " encoding. The second reason was the requirement to retain the fast cycle times of implementations. Adding many instructions would have complicated and enlarged the instruction decode logic, reducing an implementations clock frequency.     MVI consisted of 13 instructions:                 Floating-point extensions was an extension the Alpha Architecture. It introduced nine instructions for floating-point square-root and for transferring data to and from the integer registers and floating-point registers. The ": null
+    },
+    {
+        "Alpha 21264": "alpha 21264"
+    },
+    {
+        " was the first microprocessor to implement these instructions.            Count Extensions was an extension to the architecture which introduced three instructions for counting bits. These instructions were categorized as integer arithmetic instructions. They were first implemented on the ": null
+    },
+    {
+        "Alpha 21264A": "alpha 21264alpha 21264a"
+    },
+    {
+        " .            At the time of its announcement, Alpha was heralded as an architecture for the next 25 years. While this was not to be, Alpha has nevertheless had a reasonably long life. The first version, the  Alpha 21064   was introduced in November 1992 running at up to 192  MHz; a slight shrink of the die  ran at 200  MHz a few months later. The 64-bit processor was a ": null
+    },
+    {
+        "superpipelined": "superpipelined"
+    },
+    {
+        " and ": null
+    },
+    {
+        "superscalar": "superscalar"
+    },
+    {
+        " design, like other RISC designs, but nevertheless outperformed them all and DEC touted it as the worlds fastest processor. Careful attention to circuit design, a hallmark of the Hudson design team, like a huge centralized clock circuitry, allowed them to run the CPU at higher speeds, even though the microarchitecture was fairly similar to other RISC chips. In comparison, the less expensive ": null
+    },
+    {
+        "Intel Pentium": "original intel pentium"
+    },
+    {
+        " ran at 66  MHz when it was launched the following spring.     The  Alpha 21164  or EV5 became available in 1995 at processor frequencies of up to 333  MHz. In July 1996 the line was speed bumped to 500  MHz, in March 1998 to 666  MHz. Also in 1998 the  Alpha 21264   was released at 450  MHz, eventually reaching  1.25  GHz. In 2003, the  Alpha 21364  or EV7 Marvel was launched, essentially an EV68 core with four 1.6 GB/s In the context of data transfer, 1 GB is used to mean 1 billion bytes inter-processor communication links for improved ": null
+    },
+    {
+        "multiprocessor": "multiprocessor"
+    },
+    {
+        " system performance, running at 1 or 1.15  GHz.     In 1996, the production of Alpha chips was licensed to ": null
+    },
+    {
+        "Samsung Electronics Company": "samsung electronics"
+    },
+    {
+        ". Following the purchase of Digital by ": null
+    },
+    {
+        "Compaq": "compaq"
+    },
+    {
+        " the majority of the Alpha products were placed with ": null
+    },
+    {
+        "API NetWorks, Inc.": "api networks"
+    },
+    {
+        " , a private company funded by Samsung and Compaq. In October 2001, ": null
+    },
+    {
+        "Microway": "microway"
+    },
+    {
+        " became the exclusive sales and service provider of API NetWorks Alpha-based product line.     On June 25, 2001, Compaq announced that Alpha would be phased out by 2004 in favor of ": null
+    },
+    {
+        "Intels": "intel"
+    },
+    {
+        " Itanium": "itanium"
+    },
+    {
+        ", canceled the planned  EV8  chip, and sold all Alpha intellectual property to ": null
+    },
+    {
+        "Intel": "intel"
+    },
+    {
+        ".  HP, new owner of Compaq later the same year, announced that development of the Alpha series would continue for a few more years, including the release of a 1.3  GHz EV7 variant called the EV7z. This would be the final iteration of Alpha, the 0.13  µm EV79 also being canceled.     Alpha was also implemented in the Piranha, a research prototype developed by Compaqs Corporate Research and Nonstop Hardware Development groups at the Western Research Laboratory and Systems Research Center. Piranha was a ": null
+    },
+    {
+        "multicore": "multi-core processor"
+    },
+    {
+        " design for ": null
+    },
+    {
+        "transaction processing": "transaction processing"
+    },
+    {
+        " workloads that contained eight simple cores. It was described at the 27th Annual International Symposium on Computer Architecture in June 2000.             ;ISA extensions:     R – Hardware support for rounding to infinity and negative infinity.      B – BWX, the Byte/Word Extension , adding instructions to allow 8- and 16-bit operations from memory and I/O   M – MVI, multimedia instructions   F – FIX, instructions to move data between integer and floating point registers and for square root   C – CIX, instructions for counting and finding bits   T – support for prefetch with modify intent to improve the performance of the first attempt to acquire a lock       To illustrate the comparative performance of Alpha-based systems, some ": null
+    },
+    {
+        "SPEC": "standard performance evaluation corporation"
+    },
+    {
+        " performance numbers are listed below. Note that the SPEC results claim to report the measured performance of a whole computer system , not just the CPU. Also note that the benchmark and scale changed from 1992 to 1995. However, the figures give a rough impression of the performance of the Alpha architecture , compared with the contemporary HP and Intel-based offerings . Perhaps the most obvious trend is that while Intel could always get reasonably close to Alpha in integer performance, in floating point performance the difference was considerable. On the other side, HP  is also reasonably close to Alpha, but these CPUs are running at significantly lower clock rates . The tables lack two important values: the power consumption and the price of a CPU.                           The first generation of DEC Alpha-based systems comprised the ": null
+    },
+    {
+        "DEC 3000 AXP": "dec 3000 axp"
+    },
+    {
+        " series workstations and low-end servers, ": null
+    },
+    {
+        "DEC 4000 AXP": "dec 4000 axp"
+    },
+    {
+        " series mid-range servers, and ": null
+    },
+    {
+        "DEC 7000 AXP and 10000 AXP": "dec 7000/10000 axp"
+    },
+    {
+        " series high-end servers. The DEC 3000 AXP systems used the same ": null
+    },
+    {
+        "TURBOchannel": "turbochannel"
+    },
+    {
+        " bus as the previous ": null
+    },
+    {
+        "MIPS": "mips architecture"
+    },
+    {
+        "-based DECstation models, whereas the 4000 was based on ": null
+    },
+    {
+        "FutureBus+": "futurebus"
+    },
+    {
+        " and the 7000/10000 shared an architecture with corresponding ": null
+    },
+    {
+        "VAX": "vax"
+    },
+    {
+        " models.     DEC also produced a ": null
+    },
+    {
+        "PC": "personal computer"
+    },
+    {
+        "-like Alpha workstation with an ": null
+    },
+    {
+        "EISA": "extended industry standard architecture"
+    },
+    {
+        " bus, the ": null
+    },
+    {
+        "DECpc AXP 150": "decpc axp 150"
+    },
+    {
+        " . This was the first Alpha system to support ": null
+    },
+    {
+        "Windows NT": "windows nt"
+    },
+    {
+        ". DEC later produced Alpha versions of their Celebris XL and ": null
+    },
+    {
+        "Digital Personal Workstation": "digital personal workstation"
+    },
+    {
+        " PC lines, with 21164 processors.     Digital also produced ": null
+    },
+    {
+        "single board computers": "single board computer"
+    },
+    {
+        "based on the ": null
+    },
+    {
+        "VMEbus": "vmebus"
+    },
+    {
+        " for embedded and industrial use. The first generation included the 21068-based AXPvme 64 and AXPvme 64LC, and the 21066-based AXPvme 160. These were introduced on March 1, 1994. Later models such as the AXPvme 100, AXPvme 166 and AXPvme 230 were based on the 21066A processor, while the Alpha VME 4/224 and Alpha VME 4/288 were based on the 21064A processor. The last models, the Alpha VME 5/352 and Alpha VME 5/480, were based on the 21164 processor.     The 21066 chip was used in the ": null
+    },
+    {
+        "DEC Multia": "dec multia"
+    },
+    {
+        " VX40/41/42 compact workstation and the ALPHAbook 1 laptop from Tadpole Technology.     In 1994, DEC launched a new range of ": null
+    },
+    {
+        "AlphaStation": "alphastation"
+    },
+    {
+        " and ": null
+    },
+    {
+        "AlphaServer": "alphaserver"
+    },
+    {
+        " systems. These used 21064 or 21164 processors and introduced the ": null
+    },
+    {
+        "PCI": "peripheral component interconnect"
+    },
+    {
+        " bus, ": null
+    },
+    {
+        "VGA": "vga"
+    },
+    {
+        "-compatible ": null
+    },
+    {
+        "frame buffers": "frame buffer"
+    },
+    {
+        "and ": null
+    },
+    {
+        "PS/2": "ps/2 connector"
+    },
+    {
+        "-style keyboards and mice. The AlphaServer 8000 series superseded the DEC 7000/10000 AXP and also employed XMI and FutureBus+ buses.     The AlphaStation XP1000 was the first workstation based on the 21264 processor. Later AlphaServer/Station models based on the 21264 were categorised into DS , ES or GS families.     The final 21364 chip was used in the AlphaServer ES47, ES80 and GS1280 models and the AlphaStation ES47.     A number of ": null
+    },
+    {
+        "OEM": "original equipment manufacturer"
+    },
+    {
+        "motherboards": "motherboard"
+    },
+    {
+        "were produced by DEC, such as the 21066 and 21068-based AXPpci 33 NoName , which was part of a major push into the OEM market by the company, Reinhardt Krause. DEC launching Alpha board push . Electronic News, April 4, 1994. the 21164-based AlphaPC 164 and AlphaPC 164LX, the 21164PC-based AlphaPC 164SX and AlphaPC 164RX and the 21264-based AlphaPC 264DP. Several third parties such as Samsung and API also produced OEM motherboards such as the API UP1000 and UP2000.     To assist third parties in developing hardware and software for the platform, DEC produced Evaluation Boards, such as the EB64+ and EB164 for the Alpha 21064A and 21164 microprocessors respectively.     The 21164 and 21264 processors were used by ": null
+    },
+    {
+        "NetApp": "netapp"
+    },
+    {
+        " in various ": null
+    },
+    {
+        "network-attached storage": "network-attached storage"
+    },
+    {
+        " systems, while the 21064 and 21164 processors were used by ": null
+    },
+    {
+        "Cray": "cray"
+    },
+    {
+        " in their ": null
+    },
+    {
+        "T3D": "cray t3d"
+    },
+    {
+        " and ": null
+    },
+    {
+        "T3E": "cray t3e"
+    },
+    {
+        " massively parallel": "massively parallel"
+    },
+    {
+        " supercomputers.       The fastest supercomputer based on Alpha processors was the ": null
+    },
+    {
+        "ASCI Q": "asci q"
+    },
+    {
+        " at Los Alamos National Laboratory. The machine machine was built as an HP AlphaServer SC45/GS Cluster. It had 4096 Alpha CPUs, and reached an R max of 7.727 Teraflops. ": null
+    }
+]

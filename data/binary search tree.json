@@ -1,0 +1,179 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        ", binary search trees , sometimes called ordered or sorted binary trees, are a particular type of ": null
+    },
+    {
+        "container": "collection"
+    },
+    {
+        ": a ": null
+    },
+    {
+        "data structure": "data structure"
+    },
+    {
+        " that stores items in ": null
+    },
+    {
+        "memory": "computer memory"
+    },
+    {
+        ". They allow fast lookup, addition and removal of items, and can be used to implement either ": null
+    },
+    {
+        "dynamic sets": "set"
+    },
+    {
+        " of items, or ": null
+    },
+    {
+        "lookup tables": "lookup table"
+    },
+    {
+        "that allow finding an item by its key .     Binary search trees keep their keys in sorted order, so that lookup and other operations can use the principle of ": null
+    },
+    {
+        "binary search": "binary search"
+    },
+    {
+        ": when looking for a key in a tree , they traverse the tree from root to leaf, making comparisons to keys stored in the nodes of the tree and deciding, on the basis of the comparison, to continue searching in the left or right subtrees. On average, this means that each comparison allows the operations to skip about half of the tree, so that each lookup, insertion or deletion takes ": null
+    },
+    {
+        "time proportional to": "time complexity"
+    },
+    {
+        " the ": null
+    },
+    {
+        "logarithm": "logarithm"
+    },
+    {
+        " of the number of items stored in the tree. This is much better than the ": null
+    },
+    {
+        "linear time": "linear time"
+    },
+    {
+        " required to find items by key in an array, but slower than the corresponding operations on ": null
+    },
+    {
+        "hash table": "hash table"
+    },
+    {
+        "s.     Several variants of the binary search tree have been studied in computer science; this article deals primarily with the basic type, making references to more advanced types when appropriate.       A binary search tree is a ": null
+    },
+    {
+        "rooted": "rooted tree"
+    },
+    {
+        " binary tree": "binary tree"
+    },
+    {
+        ", whose internal nodes each store a key and each have two distinguished sub-trees, commonly denoted left and right. The tree additionally satisfies the ": null
+    },
+    {
+        "binary search": "binary search"
+    },
+    {
+        " property, which states that the key in each node must be greater than or equal to any key stored in the left sub-tree, and less than or equal to any key stored in the right sub-tree.   The leaves of the tree contain no key and have no structure to distinguish them from one another.     Frequently, the information represented by each node is a record rather than a single data element. However, for sequencing purposes, nodes are compared according to their keys rather than any part of their associated records. The major advantage of binary search trees over other data structures is that the related ": null
+    },
+    {
+        "sorting algorithms": "sorting algorithm"
+    },
+    {
+        "and ": null
+    },
+    {
+        "search algorithms": "search algorithm"
+    },
+    {
+        "such as ": null
+    },
+    {
+        "in-order traversal": "in-order traversal"
+    },
+    {
+        " can be very efficient; they are also easy to code.     Binary search trees are a fundamental data structure used to construct more abstract data structures such as ": null
+    },
+    {
+        "sets": "set"
+    },
+    {
+        ", ": null
+    },
+    {
+        "multisets": "set multiset"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "associative array": "associative array"
+    },
+    {
+        "s.   When inserting or searching for an element in a binary search tree, the key of each visited node has to be compared with the key of the element to be inserted or found.   The shape of the binary search tree depends entirely on the order of insertions and deletions, and can become degenerate.   After a long intermixed sequence of random insertion and deletion, the expected height of the tree approaches square root of the number of keys, , which grows much faster than .   There has been a lot of research to prevent degeneration of the tree resulting in worst case time complexity of  .       Binary search requires an order relation by which every element can be compared with every other element in the sense of a ": null
+    },
+    {
+        "total preorder": "total preorder"
+    },
+    {
+        ". The part of the element which effectively takes place in the comparison is called its key. Whether duplicates, i.e. different elements with same key, shall be allowed in the tree or not, does not depend on the order relation, but on the application only.     In the context of binary search trees a total preorder is realized most flexibly by means of a ": null
+    },
+    {
+        "three-way comparison": "three-way comparison"
+    },
+    {
+        " subroutine": "subroutine"
+    },
+    {
+        ".       Binary search trees support three main operations: insertion of elements, deletion of elements, and lookup .       Searching in a binary search tree for a specific key can be programmed ": null
+    },
+    {
+        "recursively": "recursion"
+    },
+    {
+        " or ": null
+    },
+    {
+        "iteratively": "iterationcomputing"
+    },
+    {
+        ".     We begin by examining the ": null
+    },
+    {
+        "root node": "tree root nodes"
+    },
+    {
+        ". If the tree is null, the key we are searching for does not exist in the tree. Otherwise, if the key equals that of the root, the search is successful and we return the node. If the key is less than that of the root, we search the left subtree. Similarly, if the key is greater than that of the root, we search the right subtree. This process is repeated until the key is found or the remaining subtree is null. If the searched key is not found after a null subtree is reached, then the key is not present in the tree. This is easily expressed as a recursive algorithm :       def search_recursively:   if node is None or node.key current_node.key:   return current_node   if key current_node.key:   current_node current_node.right   return current_node     These two examples rely on the order relation being a total order.     If the order relation is only a total preorder, a reasonable extension of the functionality is the following: also in case of equality search down to the leaves in a direction specified by the user. A ": null
+    },
+    {
+        "binary tree sort": "tree sort"
+    },
+    {
+        " equipped with such a comparison function becomes ": null
+    },
+    {
+        "stable": "sorting algorithmstability"
+    },
+    {
+        ".     Because in the worst case this algorithm must search from the root of the tree to the leaf farthest from the root, the search operation takes time proportional to the trees height . On average, binary search trees with  nodes have  height. However, in the worst case, binary search trees can have  height, when the unbalanced tree resembles a ": null
+    },
+    {
+        "linked list": "linked list"
+    },
+    {
+        " .        Insertion begins as a search would begin; if the key is not equal to that of the root, we search the left or right subtrees as before. Eventually, we will reach an external node and add the new key-value pair as its right or left child, depending on the nodes key. In other words, we examine the root and recursively insert the new node to the left subtree if its key is less than that of the root, or the right subtree if its key is greater than or equal to the root.     Heres how a typical binary search tree insertion might be performed in a binary tree in ": null
+    },
+    {
+        "C++": "c++"
+    },
+    {
+        ":       void insert ": null
+    }
+]

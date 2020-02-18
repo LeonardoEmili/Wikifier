@@ -1,0 +1,218 @@
+[
+    {
+        "Chrominance  is the signal used in ": null
+    },
+    {
+        "video": "video"
+    },
+    {
+        " systems to convey the ": null
+    },
+    {
+        "color": "color"
+    },
+    {
+        " information of the picture, separately from the accompanying ": null
+    },
+    {
+        "luma": "luma"
+    },
+    {
+        " signal . Chrominance is usually represented as two color-difference components: U    B′  −  Y′ and V    R′  −  Y′ . Each of these difference components may have scale factors and offsets applied to it, as specified by the applicable video standard.     In ": null
+    },
+    {
+        "composite video": "composite video"
+    },
+    {
+        " signals, the U and V signals modulate a color ": null
+    },
+    {
+        "subcarrier": "subcarrier"
+    },
+    {
+        " signal, and the result is referred to as the chrominance signal; the ": null
+    },
+    {
+        "phase": "phase"
+    },
+    {
+        " and ": null
+    },
+    {
+        "amplitude": "amplitude"
+    },
+    {
+        " of this modulated chrominance signal correspond approximately to the ": null
+    },
+    {
+        "hue": "hue"
+    },
+    {
+        " and ": null
+    },
+    {
+        "saturation": "saturation"
+    },
+    {
+        " of the color. In digital-video and still-image ": null
+    },
+    {
+        "color spaces": "color space"
+    },
+    {
+        "such as ": null
+    },
+    {
+        "Y′CbCr": "y′cbcr"
+    },
+    {
+        ", the luma and chrominance components are digital sample values.     Separating ": null
+    },
+    {
+        "RGB": "rgb"
+    },
+    {
+        " color signals into luma and chrominance allows the ": null
+    },
+    {
+        "bandwidth": "bandwidth"
+    },
+    {
+        " of each to be determined separately. Typically, the chrominance bandwidth is reduced in analog composite video by reducing the bandwidth of a modulated color subcarrier, and in digital systems by ": null
+    },
+    {
+        "chroma subsampling": "chroma subsampling"
+    },
+    {
+        ".       The idea of transmitting a ": null
+    },
+    {
+        "color television": "color television"
+    },
+    {
+        " signal with distinct ": null
+    },
+    {
+        "luma": "luma"
+    },
+    {
+        " and chrominance components originated with ": null
+    },
+    {
+        "Georges Valensi": "georges valensi"
+    },
+    {
+        ", who patented the idea in 1938. French patent 841335, issued Feb. 6, 1939; cited in U.S. Patent 2375966 , issued May 15, 1945. Valensis patent application described:       The use of two channels, one transmitting the predominating color , and the other the mean brilliance output from a single television transmitter to be received not only by color television receivers provided with the necessary more expensive equipment, but also by the ordinary type of television receiver which is more numerous and less expensive and which reproduces the pictures in black and white only.       Previous schemes for color television systems, which were incompatible with existing monochrome receivers, transmitted ": null
+    },
+    {
+        "RGB": "rgb"
+    },
+    {
+        " signals in various ways.       In ": null
+    },
+    {
+        "analog television": "analog television"
+    },
+    {
+        ", chrominance is encoded into a ": null
+    },
+    {
+        "video signal": "video signal"
+    },
+    {
+        " using a ": null
+    },
+    {
+        "subcarrier": "subcarrier"
+    },
+    {
+        " frequency. Depending on the video standard, the chrominance subcarrier may be either ": null
+    },
+    {
+        "quadrature-amplitude-modulated": "quadrature amplitude modulation"
+    },
+    {
+        "  or ": null
+    },
+    {
+        "frequency-modulated": "frequency modulation"
+    },
+    {
+        " .     In the PAL system, the color subcarrier is 4.43  MHz above the video carrier, while in the NTSC system it is 3.58  MHz above the video carrier. The NTSC and PAL standards are the most commonly used, although there are other video standards that employ different subcarrier frequencies. For example, ": null
+    },
+    {
+        "PAL-M": "pal-m"
+    },
+    {
+        " uses a 3.58  MHz subcarrier, and ": null
+    },
+    {
+        "SECAM": "secam"
+    },
+    {
+        " uses two different frequencies, 4.250  MHz and 4.40625  MHz above the video carrier.     The presence of chrominance in a video signal is indicated by a ": null
+    },
+    {
+        "color burst": "color burst"
+    },
+    {
+        " signal transmitted on the ": null
+    },
+    {
+        "back porch": "analog televisionstructure of a video signal"
+    },
+    {
+        ", just after horizontal synchronization and before each line of video starts. If the color burst signal were visible on a television screen, it would appear as a vertical strip of a very dark olive color. In ": null
+    },
+    {
+        "NTSC": "ntsc"
+    },
+    {
+        " and ": null
+    },
+    {
+        "PAL": "pal"
+    },
+    {
+        ", hue is represented by a ": null
+    },
+    {
+        "phase shift": "phase shift"
+    },
+    {
+        "  of the chrominance signal relative to the color burst, while saturation is determined by the amplitude of the subcarrier. In ": null
+    },
+    {
+        "SECAM": "secam"
+    },
+    {
+        " and signals are transmitted alternately and phase does not matter.     Chrominance is represented by the ": null
+    },
+    {
+        "U-V": "yuv"
+    },
+    {
+        " color plane in PAL and SECAM video signals, and by the ": null
+    },
+    {
+        "I-Q": "yiq"
+    },
+    {
+        " color plane in NTSC.       Digital video and digital still photography systems sometimes use a luma/chroma decomposition for improved compression. For example, when an ordinary ": null
+    },
+    {
+        "RGB": "rgb"
+    },
+    {
+        " digital image is compressed via the ": null
+    },
+    {
+        "JPEG": "jpeg"
+    },
+    {
+        " standard, the RGB colorspace is first converted  to a ": null
+    },
+    {
+        "YCbCr": "ycbcr"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "Image and Scanner Interface Specification  is an industry standard interface for ": null
+    },
+    {
+        "image scanning": "image scanning"
+    },
+    {
+        " technologies, developed by Pixel Translations in 1990 .     ISIS is an open standard for scanner control and a complete image-processing framework. It is currently supported by a number of application and scanner vendors.         The modular design allows the scanner to be accessed both directly or with built-in routines to handle most situations automatically.     A message-based interface with ": null
+    },
+    {
+        "tags": "tag"
+    },
+    {
+        " is used so that features, operations, and formats not yet supported by ISIS can be added as desired without waiting for a new version of the specification.     The standard addresses all of the issues that an application using a scanner needs to be concerned with. Functions include but are not limited to selecting, installing, and configuring a new scanner; setting scanner-specific parameters; scanning, reading and writing files, and fast ": null
+    },
+    {
+        "image scaling": "image scaling"
+    }
+]

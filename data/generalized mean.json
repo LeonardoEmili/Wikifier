@@ -1,0 +1,47 @@
+[
+    {
+        "In mathematics, generalized means are a family of functions for aggregating sets of numbers, that include as special cases the ": null
+    },
+    {
+        "Pythagorean means": "pythagorean means"
+    },
+    {
+        " . The generalized mean is also known as power mean or Hölder mean .       If p is a non-zero ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        ", and x_1,\\dots,x_n are ": null
+    },
+    {
+        "positive real numbers": "positive real numbers"
+    },
+    {
+        ", then the generalized mean or power mean with exponent p of these positive real numbers is:     : M_p \\left^ .     . For  we set it equal to the geometric mean :     : M_0 \\sqrt     Furthermore, for a sequence of positive weights w i  with sum \\sum w_i 1 we define the weighted power mean as:     : \\begin   M_p & \\left^ \\\\   M_0 & \\prod_^n x_i^   \\end     The unweighted means correspond to setting all .               :     :          Each generalized mean always lies between the smallest and largest of the x values.   Each generalized mean is a symmetric function of its arguments; permuting the arguments of a generalized mean does not change its value.   Like most ": null
+    },
+    {
+        "mean": "meanproperties"
+    },
+    {
+        "s, the generalized mean is a ": null
+    },
+    {
+        "homogeneous function": "homogeneous function"
+    },
+    {
+        " of its arguments x 1 , ..., x n . That is, if b is a positive real number, then the generalized mean with exponent p of the numbers b\\cdot x_1,\\dots, b\\cdot x_n is equal to b times the generalized mean of the numbers x 1 , …, x n .   Like the ": null
+    },
+    {
+        "quasi-arithmetic mean": "quasi-arithmetic mean"
+    },
+    {
+        "s, the computation of the mean can be split into computations of equal sized sub-blocks. This enables use of a ": null
+    },
+    {
+        "divide and conquer algorithm": "divide and conquer algorithm"
+    },
+    {
+        " to calculate the means, when desirable.   : M_p M_p\\left       In general,   : if p  ": null
+    }
+]

@@ -1,0 +1,836 @@
+[
+    {
+        "   AppleTalk is a discontinued ": null
+    },
+    {
+        "proprietary": "proprietary protocol"
+    },
+    {
+        " suite of networking protocols": "protocol stack"
+    },
+    {
+        " developed by ": null
+    },
+    {
+        "Apple Inc.": "apple inc."
+    },
+    {
+        " for their ": null
+    },
+    {
+        "Macintosh computers": "apple macintosh"
+    },
+    {
+        ". AppleTalk includes a number of features that allow ": null
+    },
+    {
+        "local area networks": "local area network"
+    },
+    {
+        "to be connected with no prior setup or the need for a centralized router or server of any sort. Connected AppleTalk-equipped systems automatically assign addresses, update the distributed namespace, and configure any required inter-networking routing.     AppleTalk was released in 1985, and was the primary protocol used by Apple devices through the 1980s and 1990s. Versions were also released for the ": null
+    },
+    {
+        "IBM PC": "ibm pc"
+    },
+    {
+        " and compatibles and the ": null
+    },
+    {
+        "Apple IIGS": "apple iigs"
+    },
+    {
+        ". AppleTalk support was also available in most networked printers , some ": null
+    },
+    {
+        "file server": "file server"
+    },
+    {
+        "s, and a number of ": null
+    },
+    {
+        "router": "router"
+    },
+    {
+        "s.     The rise of ": null
+    },
+    {
+        "TCP/IP": "tcp/ip"
+    },
+    {
+        " during the 1990s led to a reimplementation of most of these types of support on that protocol, and AppleTalk became unsupported as of the release of ": null
+    },
+    {
+        "Mac OS X v10.6": "mac os x v10.6"
+    },
+    {
+        " in 2009. Many of AppleTalks more advanced autoconfiguration features have since been introduced in ": null
+    },
+    {
+        "Bonjour": "bonjour"
+    },
+    {
+        ", while ": null
+    },
+    {
+        "Universal Plug and Play": "universal plug and play"
+    },
+    {
+        " serves similar needs.           After the release of the ": null
+    },
+    {
+        "Apple Lisa": "apple lisa"
+    },
+    {
+        " computer in January 1983, Apple invested considerable effort in the development of a ": null
+    },
+    {
+        "local area networking": "local area networking"
+    },
+    {
+        " system for the machines. Known as AppleNet, it was based on the seminal ": null
+    },
+    {
+        "Xerox XNS": "xerox xns"
+    },
+    {
+        " protocol stack": "protocol stack"
+    },
+    {
+        " John Markoff, , InfoWorld, 14 February 1983, p. 14 but running on a custom 1  Mbit/s ": null
+    },
+    {
+        "coaxial cable": "coaxial cable"
+    },
+    {
+        " system rather than Xeroxs 2.94 Mbit/s ": null
+    },
+    {
+        "Ethernet": "ethernet"
+    },
+    {
+        ". AppleNet was announced early in 1983 with a full introduction at the target price of $500 for plug-in AppleNet cards for the Lisa and the ": null
+    },
+    {
+        "Apple II": "apple ii"
+    },
+    {
+        ".     At that time, early LAN systems were just coming to market, including ": null
+    },
+    {
+        "Ethernet": "ethernet"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Token Ring": "token ring"
+    },
+    {
+        " and ": null
+    },
+    {
+        "ARCNET": "arcnet"
+    },
+    {
+        ". This was a topic of major commercial effort at the time, dominating shows like the ": null
+    },
+    {
+        "National Computer Conference": "national computer conference"
+    },
+    {
+        " in Anaheim in May 1983. All of the systems were jockeying for position in the market, but even at this time Ethernets widespread acceptance suggested it was to become a de facto standard. David Ahl, , Creative Computing, August 1983, p. 188 It was at this show that ": null
+    },
+    {
+        "Steve Jobs": "steve jobs"
+    },
+    {
+        " asked Gursharan Sidhu a seemingly innocuous question, Why has networking not caught on?      Four months later, in October, AppleNet was cancelled. At the time, they announced that Apple realized that its not in the business to create a networking system. We built and used AppleNet in-house, but we realized that if we had shipped it, we would have seen new standards coming up.  In January, Jobs announced that they would instead be supporting ": null
+    },
+    {
+        "IBMs": "ibm"
+    },
+    {
+        "Token Ring, which he expected to come out in a few months .       Through this period, Apple was deep in development of the Macintosh computer. During development, engineers had made the decision to use the ": null
+    },
+    {
+        "Zilog 8530": "zilog scc"
+    },
+    {
+        " serial controller chip instead of the lower-cost and more common ": null
+    },
+    {
+        "UART": "uart"
+    },
+    {
+        " to provide ": null
+    },
+    {
+        "serial port": "serial port"
+    },
+    {
+        " connections. The SCC cost about $5 more than a UART, but offered much higher speeds of up to 250  kilobits per second and internally supported a number of basic networking-like protocols like IBMs ": null
+    },
+    {
+        "Bisync": "binary synchronous communications"
+    },
+    {
+        ". , Zilog, p. 1-1     The SCC was chosen because it would allow multiple devices to be attached to the port. ": null
+    },
+    {
+        "Peripherals": "peripherals"
+    },
+    {
+        " equipped with similar SCCs could communicate using the built-in protocols, interleaving their data with other peripherals on the same bus. This would eliminate the need for more ports on the back of the machine, and allowed for the elimination of ": null
+    },
+    {
+        "expansion slots": "expansion slot"
+    },
+    {
+        "for supporting more complex devices. The initial concept was known as AppleBus, envisioning a system controlled by the host Macintosh polling dumb devices in a fashion similar to the modern ": null
+    },
+    {
+        "Universal Serial Bus": "universal serial bus"
+    },
+    {
+        ".       The Macintosh team had already begun work on what would become the ": null
+    },
+    {
+        "LaserWriter": "laserwriter"
+    },
+    {
+        ", and had considered a number of other options to answer the question of how to share these expensive machines and other resources. A series of memos from Bob Belleville clarified these concepts, outlining the Mac, LaserWriter and a ": null
+    },
+    {
+        "file server": "file server"
+    },
+    {
+        " system which would become the ": null
+    },
+    {
+        "Macintosh Office": "macintosh office"
+    },
+    {
+        ". By late 1983 it was clear that IBMs Token Ring would not be ready in time for the launch of the Mac, and might miss the launch of these other products as well. In the end, Token Ring would not ship until October 1985.  , Section 1.2     Jobs earlier question to Sidhu had already sparked a number of ideas. When AppleNet was cancelled in October, Sidhu led an effort to develop a new networking system based on the AppleBus hardware. This new system would not have to conform to any existing preconceptions, and was designed to be worthy of the Mac – a system that was user-installable, had zero-configuration, and no fixed network addresses – in short, a true plug-and-play network. Considerable effort was needed, but by the time the Mac was released, the basic concepts had been outlined, and some of the low-level protocols were on their way to completion. Sidhu mentioned the work to Belleville only two hours after the Mac was announced.     The new AppleBus was announced in early 1984, AppleBus is mentioned by name in Steve Jobs introduction of the Macintosh at the Boston Computer Society meeting in 1984. It appears just after the 7:20 mark . allowing direct connection from the Mac or Lisa through a small box that plugged into the serial port and connected via cables to the next computer upstream and downstream. Adaptors for ": null
+    },
+    {
+        "Apple II": "apple ii"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Apple III": "apple iii"
+    },
+    {
+        " were also announced. Jim Barimo, , InfoWorld, 26 March 1984, pp 45-46 Apple also announced that AppleBus networks could be attached to, and would appear to be a single node within, a Token Ring system. Details of how this would work were sketchy.       Just prior to its release in early 1985, AppleBus was renamed AppleTalk. The system had a number of limitations, including a speed of only 230.4  kbit/s, a maximum distance of 1000  feet from end to end, and only 32 nodes per LAN. But as the basic hardware was built into the Mac, adding nodes only cost about $50 for the adaptor box. In comparison, Ethernet or Token Ring cards cost hundreds or thousands of dollars. Additionally, the entire ": null
+    },
+    {
+        "networking stack": "networking stack"
+    },
+    {
+        " required only about 6  kB of RAM, allowing it to run on any Mac.     The relatively slow speed of AppleTalk allowed further reductions in cost. Instead of using ": null
+    },
+    {
+        "RS-422s": "rs-422"
+    },
+    {
+        "balanced transmit and receive circuits, the AppleTalk Personal Network cabling used a single common ": null
+    },
+    {
+        "electrical ground": "electrical ground"
+    },
+    {
+        ", which limited speeds to about 500  kbit/s, but allowed one conductor to be removed. This meant that common three-conductor cables could be used for wiring. Additionally, the adaptors were designed to be self-terminating , meaning that nodes at the end of the network could simply leave their last connector unconnected. There was no need for the wires to be connected back together into a loop, nor the need for hubs or other devices.     The system was designed for future expansion; the addressing system allowed for expansion to 255 nodes in a LAN , and by using bridges one could interconnect LANs into larger collections. Zones allowed devices to be addressed within a bridge-connected internet. Additionally, AppleTalk was designed from the start to allow use with any potential underlying physical link.     The main advantage of AppleTalk was that it was completely maintenance-free. To join a device to a network, you simply plugged the adaptor into the machine, then connected a cable from it to any free port on any other adaptor. AppleTalks internal protocols negotiated a working network address number, automatically gave the computer a human-readable name, and collected up a list of the names and types of other machines on the network so the user could browse the devices through the GUI-based ": null
+    },
+    {
+        "Chooser": "chooser"
+    },
+    {
+        ". AppleTalk was so easy to use that ad-hoc networks tended to appear whenever multiple Macs were in the same room. Lee Larson, , Louisville Computer News, October 1999 Apple would later use this in an advertisement showing a network being created between two seats in an airplane.        A thriving 3rd party market for AppleTalk devices developed over the next few years. One particularly notable example was an alternate adaptor designed by ": null
+    },
+    {
+        "BMUG": "berkeley macintosh users group"
+    },
+    {
+        " and commercialized by Farallon as ": null
+    },
+    {
+        "PhoneNet": "phonenet"
+    },
+    {
+        " in 1987. This was essentially a replacement for Apples connector that had conventional ": null
+    },
+    {
+        "phone jacks": "telephone plug"
+    },
+    {
+        " instead of Apples round connectors. PhoneNet allowed AppleTalk networks to be connected together using normal telephone wires, and with very little extra work, could run analog phones and AppleTalk on a single four-conductor phone cable.     Other companies took advantage of the SCCs ability to read external clocks in order to support higher transmission speeds, up to 1  Mbit/s. In these systems the external adaptor also included its own ": null
+    },
+    {
+        "clock": "clock"
+    },
+    {
+        ", and used that to signal the SCCs clock input pins. The best known such system was Centrams FlashTalk, which ran at 768  kbit/s, and was intended to be used with their ": null
+    },
+    {
+        "TOPS": "tops"
+    },
+    {
+        " networking system. Tim Brown, , Network World, 26 October 1987, p. 27 A similar solution was the 850  kbit/s DaynaTalk, which used a separate box that plugged in between the computer and a normal LocalTalk/PhoneNet box. Dayna also offered a PC expansion card that ran up to 1.7  Mbit/s when talking to other Dayna PC cards. John Battelle, , MacWEEK, 23 May 1989 , InfoWorld, 11 December 1989 Several other systems also existed with even higher performance, but these often required special cabling that was incompatible with LocalTalk/PhoneNet, and also required patches to the networking stack that often caused problems.       As Apple expanded into more commercial and education markets, they needed to integrate AppleTalk into existing network installations. Many of these organizations had already invested in a very expensive Ethernet infrastructure and there was no direct way to connect a Macintosh to Ethernet. AppleTalk included a protocol structure for inter-connecting AppleTalk subnets and so as a solution, EtherTalk was initially created to use the Ethernet as a backbone between AppleTalk subnets. To accomplish this, organizations would need to purchase a ": null
+    },
+    {
+        "LocalTalk-to-Ethernet bridge": "localtalk-to-ethernet bridge"
+    },
+    {
+        " and Apple left it to third parties to produce these products. A number of companies responded, including ": null
+    },
+    {
+        "Hayes": "hayes microcomputer products"
+    },
+    {
+        " and a few newly formed companies like Kinetics.       By 1987 Ethernet was clearly winning the standards battle over Token Ring, and in the middle of that year Apple introduced EtherTalk 1.0 for the newly released ": null
+    },
+    {
+        "Macintosh II": "macintosh ii"
+    },
+    {
+        " computer, Apples first Macintosh with bus slots that allowed compatible cards from non-Apple 3rd party vendors. The operating system included a new Network ": null
+    },
+    {
+        "control panel": "control panel"
+    },
+    {
+        " that allowed the user to select which physical connection to use for networking . At introduction, Ethernet interface cards were available from ": null
+    },
+    {
+        "3Com": "3com"
+    },
+    {
+        " and Kinetics that plugged into a ": null
+    },
+    {
+        "Nubus": "nubus"
+    },
+    {
+        " slot in the machine. The releases new networking stack also expanded the system to allow a full 255 nodes per LAN. With its release, AppleTalk Personal Network was renamed  LocalTalk . Token Ring would eventually be supported with the similar TokenTalk product, which used the same Network control panel and underlying software. Eventually, many third party companies would introduce compatible Ethernet and Token Ring cards that used these same drivers.     The appearance of a Macintosh with a direct Ethernet connection also magnified the Ethernet and LocalTalk compatibility problem: Networks with new and old Macs needed some way to communicate with each other. This could be as simple as a network of Ethernet Mac IIs trying to talk to a LaserWriter that only connected to LocalTalk. Apple initially relied on the aforementioned LocalTalk-to-Ethernet bridge products, but contrary to Apples belief these would be low-volume products, by the end of 1987, 130,000 such networks were in use. AppleTalk was at that time the most used networking system in the world, with over three times the installations of any other vendor.     1987 also marked the introduction of the ": null
+    },
+    {
+        "AppleShare": "appleshare"
+    },
+    {
+        " product, a dedicated ": null
+    },
+    {
+        "file server": "file server"
+    },
+    {
+        " that ran on any Mac with 512 kB of ": null
+    },
+    {
+        "RAM": "ram"
+    },
+    {
+        " or more. A common AppleShare machine was the ": null
+    },
+    {
+        "Mac Plus": "mac plus"
+    },
+    {
+        " with an external ": null
+    },
+    {
+        "SCSI": "scsi"
+    },
+    {
+        " hard drive": "hard drive"
+    },
+    {
+        ". AppleShare was the 3 ": null
+    },
+    {
+        "network operating system": "network operating system"
+    },
+    {
+        " in the late 1980s, behind ": null
+    },
+    {
+        "Novell NetWare": "novell netware"
+    },
+    {
+        " and Microsofts ": null
+    },
+    {
+        "MS-Net": "ms-net"
+    },
+    {
+        ". Laura DiDio, , Network World, 11 July 1988, p. 17. AppleShare was effectively the replacement for the failed Macintosh Office efforts, which had been based on a dedicated file server device.       A significant re-design was released in 1989 as AppleTalk Phase II. In many ways, Phase II can be considered an effort to make the earlier version more generic. LANs could now support more than 255 nodes, and zones were no longer associated with physical networks, but were entirely virtual constructs used simply to organize nodes. For instance, one could now make a Printers zone that would list all the printers in an organization, or one might want to place that same device in the 2nd Floor zone to indicate its physical location. Phase II also included changes to the underlying inter-networking protocols to make them less chatty , which had previously been a serious problem on networks that bridged over wide-area networks.     By this point Apple had a wide variety of communications products under development, and many of these were announced along with AppleTalk Phase II. These included updates to EtherTalk and TokenTalk, AppleTalk software and LocalTalk hardware for the ": null
+    },
+    {
+        "IBM PC": "ibm pc"
+    },
+    {
+        ", EtherTalk for Apples ": null
+    },
+    {
+        "A/UX": "a/ux"
+    },
+    {
+        " operating system": "operating system"
+    },
+    {
+        " allowing it to use LaserPrinters and other network resources, and the Mac X.25 and ": null
+    },
+    {
+        "MacX": "macx"
+    },
+    {
+        " products.     Ethernet had become almost universal by 1990, and it was time to build Ethernet into Macs direct from the factory. However, the physical wiring used by these networks was not yet completely standardized. Apple solved this problem using a single port on the back of the computer into which the user could plug an adaptor for any given cabling system. This FriendlyNet system was based on the industry-standard ": null
+    },
+    {
+        "Attachment Unit Interface": "attachment unit interface"
+    },
+    {
+        " or AUI, but deliberately chose a non-standard connector that was smaller and easier to use, which they called Apple AUI , or AAUI. FriendlyNet was first introduced on the ": null
+    },
+    {
+        "Quadra 700": "quadra 700"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Quadra 900": "quadra 900"
+    },
+    {
+        " computers, and used across much of the Mac line for some time. As with LocalTalk, a number of 3rd party FriendlyNet adaptors quickly appeared.     As ": null
+    },
+    {
+        "10BASE-T": "10base-t"
+    },
+    {
+        " became the de facto cabling system for Ethernet, second-generation ": null
+    },
+    {
+        "Power Macintosh": "power macintosh"
+    },
+    {
+        " machines added a 10BASE-T port in addition to AAUI. The ": null
+    },
+    {
+        "PowerBook 3400c": "powerbook 3400c"
+    },
+    {
+        " and lower-end Power Macs also added 10BASE-T. The ": null
+    },
+    {
+        "Power Macintosh 7300": "power macintosh 7300"
+    },
+    {
+        "/": null
+    },
+    {
+        "8600": "power macintosh 8600"
+    },
+    {
+        "/": null
+    },
+    {
+        "9600": "power macintosh 9600"
+    },
+    {
+        " were the final Macs to include AAUI, and 10BASE-T became universal starting with the ": null
+    },
+    {
+        "Power Macintosh G3": "power macintosh g3"
+    },
+    {
+        " and ": null
+    },
+    {
+        "PowerBook G3": "powerbook g3"
+    },
+    {
+        ".       From the beginning of AppleTalk, users wanted to connect the Macintosh to the TCP/IP network environments. In 1984, Bill Croft at ": null
+    },
+    {
+        "Stanford University": "stanford university"
+    },
+    {
+        " pioneered the development of IP packets encapsulated in DDP as part of the SEAGATE project. SEAGATE was commercialized by Kinetics in their ": null
+    },
+    {
+        "LocalTalk-to-Ethernet bridge": "localtalk-to-ethernet bridge"
+    },
+    {
+        " as an additional routing option. A few years later, ": null
+    },
+    {
+        "MacIP": "macip"
+    },
+    {
+        ", was separated from the SEAGATE code and became the de facto method for IP packets to be routed over LocalTalk networks. By 1986, Columbia University released the first version of the Columbia AppleTalk Package that allowed higher integration of Unix, TCP/IP and AppleTalk environments. In 1988 Apple released ": null
+    },
+    {
+        "MacTCP": "mactcp"
+    },
+    {
+        ", a system that allowed the Mac to support ": null
+    },
+    {
+        "TCP/IP": "tcp/ip"
+    },
+    {
+        " on machines with suitable Ethernet hardware. However, this left many universities with the problem of supporting IP on their many LocalTalk-equipped Macs. It was soon common to include MacIP support in ": null
+    },
+    {
+        "LocalTalk-to-Ethernet bridges": "localtalk-to-ethernet bridge"
+    },
+    {
+        ". MacTCP would not become a standard part of the ": null
+    },
+    {
+        "Classic Mac OS": "classic mac os"
+    },
+    {
+        " until 1994, by which time it also supported ": null
+    },
+    {
+        "SNMP": "snmp"
+    },
+    {
+        " and ": null
+    },
+    {
+        "PPP": "point-to-point protocol"
+    },
+    {
+        ".     For some time in the early 1990s, the Mac was a primary client on the rapidly expanding Internet. Among the better known programs in wide use were Fetch, Eudora, eXodus, NewsWatcher and the NCSA packages, especially ": null
+    },
+    {
+        "NCSA Mosaic": "ncsa mosaic"
+    },
+    {
+        "  and its offspring, ": null
+    },
+    {
+        "Netscape Navigator": "netscape navigator"
+    },
+    {
+        ". Additionally, a number of server products appeared that allowed the Mac to host Internet content. Through this period, Macs had about 2 to 3 times as many clients connected to the Internet as any other platform, despite the relatively small overall microcomputer market share.     As the world quickly moved to IP for both LAN and WAN uses, Apple was faced with maintaining two increasingly outdated code bases on an ever-wider group of machines as well as the introduction of the ": null
+    },
+    {
+        "PowerPC": "powerpc"
+    },
+    {
+        " based machines. This led to the ": null
+    },
+    {
+        "Open Transport": "open transport"
+    },
+    {
+        " efforts, which re-implemented both MacTCP and AppleTalk on an entirely new code base adapted from the Unix standard ": null
+    },
+    {
+        "STREAMS": "streams"
+    },
+    {
+        ". Early versions had problems and did not become stable for some time. By that point, Apple was deep in their ultimately doomed ": null
+    },
+    {
+        "Copland": "copland"
+    },
+    {
+        " efforts.       With the purchase of ": null
+    },
+    {
+        "NeXT": "next"
+    },
+    {
+        " and subsequent development of ": null
+    },
+    {
+        "Mac OS X": "mac os x"
+    },
+    {
+        ", AppleTalk was strictly a legacy system. Support was added to OS X in order to provide support for the large number of existing AppleTalk devices, notably ": null
+    },
+    {
+        "laser printers": "laser printer"
+    },
+    {
+        "and file shares, but alternate connection solutions common in this era, notably USB for printers, limited their demand. As Apple abandoned many of these product categories, and all new systems were based on IP, AppleTalk became less and less common. AppleTalk support was finally removed from the MacOS in ": null
+    },
+    {
+        "Mac OS X v10.6": "mac os x v10.6"
+    },
+    {
+        " in 2009. . Retrieved on 2 September 2009.     However, the loss of AppleTalk did not reduce the desire for networking solutions that combined its ease-of-use with IP routing. Apple has led development of many such efforts, from the introduction of the ": null
+    },
+    {
+        "AirPort": "airport"
+    },
+    {
+        " router to the development of the ": null
+    },
+    {
+        "Zero configuration networking": "zero configuration networking"
+    },
+    {
+        " system and their implementation of it, ": null
+    },
+    {
+        "Bonjour": "bonjour"
+    },
+    {
+        ".          The AppleTalk design rigorously followed the ": null
+    },
+    {
+        "OSI model": "osi model"
+    },
+    {
+        " of protocol layering. Unlike most of the early ": null
+    },
+    {
+        "LAN": "local area network"
+    },
+    {
+        " systems, AppleTalk was not built using the archetypal ": null
+    },
+    {
+        "Xerox XNS": "xerox xns"
+    },
+    {
+        " system. The intended target was not Ethernet, and it did not have 48-bit addresses to route. Nevertheless, many portions of the AppleTalk system have direct analogs in XNS.     One key differentiation for AppleTalk was it contained two protocols aimed at making the system completely self-configuring. The AppleTalk address resolution protocol  allowed AppleTalk hosts to automatically generate their own network addresses, and the Name Binding Protocol  was a dynamic system for mapping network addresses to user-readable names. Although systems similar to AARP existed in other systems, ": null
+    },
+    {
+        "Banyan VINES": "banyan vines"
+    },
+    {
+        " for instance, nothing like NBP has existed until recently.     Both AARP and NBP had defined ways to allow controller devices to override the default mechanisms. The concept was to allow routers to provide the information or hardwire the system to known addresses and names. On larger networks where AARP could cause problems as new nodes searched for free addresses, the addition of a router could reduce chattiness. Together AARP and NBP made AppleTalk an easy-to-use networking system. New machines were added to the network by plugging them and optionally giving them a name. The NBP lists were examined and displayed by a program known as the  Chooser  which would display a list of machines on the local network, divided into classes such as file-servers and printers.       An AppleTalk address was a four-byte quantity. This consisted of a two-byte network number, a one-byte node number, and a one-byte socket number. Of these, only the network number required any configuration, being obtained from a router. Each node dynamically chose its own node number, according to a protocol  which handled contention between different nodes accidentally choosing the same number. For socket numbers, a few well-known numbers were reserved for special purposes specific to the AppleTalk protocol itself. Apart from these, all application-level protocols were expected to use dynamically-assigned socket numbers at both the client and server end.     Because of this dynamism, users could not be expected to access services by specifying their address. Instead, all services had names which, being chosen by humans, could be expected to be meaningful to users, and also could be sufficiently long to minimize the chance of conflicts.     As NBP names translated to an address, which included a socket number as well as a node number, a name in AppleTalk mapped directly to a service being provided by a machine, which was entirely separate from the name of the machine itself. Thus, services could be moved to a different machine and, so long as they kept the same service name, there was no need for users to do anything different in order to continue accessing the service. And the same machine could host any number of instances of services of the same type, without any network connection conflicts.     Contrast this with A records in the ": null
+    },
+    {
+        "DNS": "domain name system"
+    },
+    {
+        ", in which a name translates to a machines address, not including the port number that might be providing a service. Thus, if people are accustomed to using a particular machine name to access a particular service, their access will break when the service is moved to a different machine. This can be mitigated somewhat by insistence on using CNAME records indicating service rather than actual machine names to refer to the service, but there is no way of guaranteeing that users will follow such a convention. Some newer protocols, such as ": null
+    },
+    {
+        "Kerberos": "kerberos"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Active Directory": "active directory"
+    },
+    {
+        " use DNS ": null
+    },
+    {
+        "SRV records": "srv record"
+    },
+    {
+        "to identify services by name, which is much closer to the AppleTalk model.              AARP resolves AppleTalk addresses to ": null
+    },
+    {
+        "link layer": "link layer"
+    },
+    {
+        ", usually ": null
+    },
+    {
+        "MAC": "mac address"
+    },
+    {
+        ", addresses. It is functionally equivalent to ": null
+    },
+    {
+        "ARP": "address resolution protocol"
+    },
+    {
+        " and obtains address resolution by a method very similar to ARP.     AARP is a fairly simple system. When powered on, an AppleTalk machine broadcasts an AARP probe packet asking for a network address, intending to hear back from controllers such as routers. If no address is provided, one is picked at random from the base subnet , 0. It then broadcasts another packet saying I am selecting this address , and then waits to see if anyone else on the network complains. If another machine has that address, it will pick another address, and keep trying until it finds a free one. On a network with many machines it may take several tries before a free address is found, so for performance purposes the successful address is written down in ": null
+    },
+    {
+        "NVRAM": "nvram"
+    },
+    {
+        " and used as the default address in the future. This means that in most real-world setups where machines are added a few at a time, only one or two tries are needed before the address effectively become constant.       This was a comparatively late addition to the AppleTalk protocol suite, done when it became clear that a ": null
+    },
+    {
+        "TCP": "transmission control protocol"
+    },
+    {
+        "-style reliable connection-oriented transport was needed. Significant differences from TCP were that:   a connection attempt could be rejected   there were no half-open connections; once one end initiated a tear-down of the connection, the whole connection would be closed .   AppleTalk had an included attention message system which allowed short messages to be sent which would bypass the normal stream data flow. These were delivered reliably but out of order with respect the to stream. Any attention message would be delivered as soon as possible instead of waiting for the current stream byte sequence point to become current.       The ": null
+    },
+    {
+        "Apple Filing Protocol": "apple filing protocol"
+    },
+    {
+        " , formerly AppleTalk Filing Protocol, is the protocol for communicating with ": null
+    },
+    {
+        "AppleShare": "appleshare"
+    },
+    {
+        " file servers. Built on top of AppleTalk Session Protocol or the ": null
+    },
+    {
+        "Data Stream Interface": "data stream interface"
+    },
+    {
+        " , it provides services for authenticating users and for performing operations specific to the Macintosh ": null
+    },
+    {
+        "HFS": "hierarchical file system"
+    },
+    {
+        " filesystem. AFP is still in use in macOS, even though most other AppleTalk protocols have been deprecated.       ASP was an intermediate protocol, built on top of ATP, which in turn was the foundation of AFP. It provided basic services for requesting responses to arbitrary commands d performing out-of-band status queries. It also allowed the server to send asynchronous attention messages to the client.       DDP was the lowest-level data-link-independent transport protocol. It provided a ": null
+    },
+    {
+        "datagram": "datagram"
+    },
+    {
+        " service with no guarantees of delivery. All application-level protocols, including the infrastructure protocols NBP, RTMP and ZIP, were built on top of DDP. AppleTalks DDP corresponds closely to the Network layer of the Open Systems Interconnection  communication model.       Name Binding Protocol was a dynamic, distributed system for managing AppleTalk names. When a service started up on a machine, it registered a name for itself as chosen by a human administrator. At this point, NBP provided a system for checking that no other machine had already registered the same name. Later, when a client wanted to access that service, it used NBP to query machines to find that service. NBP provided browseability as well as the ability to find a service with a particular name. Names were human readable, containing spaces, upper and lower case letters, and including support for searching.       AEP is a transport layer protocol designed to test the reachability of network nodes. AEP generates packets to be sent to the network node and is identified in the Type field of a packet as an AEP packet. The packet is first passed to the source DDP. After it is identified as an AEP packet, it is forwarded to the node where the packet is examined by the DDP at the destination. After the packet is identified as an AEP packet, the packet is then copied and a field in the packet is altered to create an AEP reply packet, and is then returned to the source node.       PAP was the standard way of communicating with ": null
+    },
+    {
+        "PostScript": "postscript"
+    },
+    {
+        " printers. It was built on top of ATP. When a PAP connection was opened, each end sent the other an ATP request which basically meant send me more data . The clients response to the server was to send a block of PostScript code, while the server could respond with any diagnostic messages that might be generated as a result, after which another send-more-data request was sent. This use of ATP provided automatic ": null
+    },
+    {
+        "flow control": "flow control"
+    },
+    {
+        "; each end could only send data to the other end if there was an outstanding ATP request to respond to.     PAP also provided for out-of-band status queries, handled by separate ATP transactions. Even while it was busy servicing a print job from one client, a PAP server could continue to respond to status requests from any number of other clients. This allowed other Macintoshes on the LAN that were waiting to print to display status messages indicating that the printer was busy, and what the job was that it was busy with.       RTMP was the protocol by which routers kept each other informed about the topology of the network. This was the only part of AppleTalk that required periodic unsolicited broadcasts: every 10 seconds, each router had to send out a list of all the network numbers it knew about and how far away it thought they were.       ZIP was the protocol by which AppleTalk network numbers were associated with zone names. A zone was a subdivision of the network that made sense to humans ; but while a network number had to be assigned to a topologically-contiguous section of the network, a zone could include several different discontiguous portions of the network.             The initial default hardware implementation for AppleTalk was a high-speed serial protocol known as  LocalTalk  that used the ": null
+    },
+    {
+        "Macintoshs": "apple macintosh"
+    },
+    {
+        "built-in ": null
+    },
+    {
+        "RS-422": "rs-422"
+    },
+    {
+        " ports at 230.4 kbit/s. LocalTalk used a splitter box in the RS-422 port to provide an upstream and downstream cable from a single port. The topology was a ": null
+    },
+    {
+        "bus": "bus network"
+    },
+    {
+        ": cables were daisy-chained from each connected machine to the next, up to the maximum of 32 permitted on any ": null
+    },
+    {
+        "LocalTalk": "localtalk"
+    },
+    {
+        " segment. The system was slow by todays standards, but at the time the additional cost and complexity of networking on PC machines was such that it was common that Macs were the only networked personal computers in an office. Other larger computers, such as UNIX or VAX workstations, would commonly be networked via Ethernet.     Other physical implementations were also available. A very popular replacement for LocalTalk was  PhoneNet , a 3rd party solution from Farallon Computing, Inc.  that also used the RS-422 port and was indistinguishable from LocalTalk as far as Apples LocalTalk port drivers were concerned, but ran over the two unused wires in standard four-wire phone cabling. Foreshadowing todays network hubs and switches, Farallon provided solutions for PhoneNet to be used in star as well as bus configurations, with both passive star connections , and active star with PhoneNet Star Controller hub hardware. Apples LocalTalk connectors didnt have a locking feature, so connectors could easily come loose, and the bus configuration resulted in any loose connector bringing down the whole network, and being hard to track down. PhoneNet RJ-11 connectors, on the other hand, snapped into place, and in a star configuration any wiring issue only affected one device, and problems were easy to pinpoint. PhoneNets low cost, flexibility, and easy troubleshooting resulted in it being the dominant choice for Mac networks into the early 1990s.     AppleTalk protocols also came to run over Ethernet and ": null
+    },
+    {
+        "Token Ring": "token ring"
+    },
+    {
+        " physical layers, labeled by Apple as EtherTalk and TokenTalk, respectively. EtherTalk gradually became the dominant implementation method for AppleTalk as Ethernet became generally popular in the PC industry throughout the 1990s. Besides AppleTalk and ": null
+    },
+    {
+        "TCP/IP": "tcp/ip"
+    },
+    {
+        ", any Ethernet network could also simultaneously carry other protocols such as ": null
+    },
+    {
+        "DECnet": "decnet"
+    },
+    {
+        " and ": null
+    },
+    {
+        "IPX": "ipx"
+    },
+    {
+        ".                        When AppleTalk was first introduced, the dominant office computing platform was the PC compatible running MS-DOS. Apple introduced the AppleTalk PC Card in early 1987, allowing PCs to join AppleTalk networks and print to LaserWriter printers. Mary Petrosky, , Network World, 2 February 1987, p. 4 A year later AppleShare PC was released, allowing PCs to access AppleShare file servers. , InfoWorld, 18 January 1988, p. 29     The TOPS Teleconnector Mark Stephens, , InfoWorld, 25 January 1988, p. 12 MS-DOS networking system over AppleTalk system enabled MS-DOS PCs to communicate over AppleTalk network hardware; it comprised an AppleTalk interface card for the PC and a suite of networking software allowing such functions as file, drive and printer sharing. As well as allowing the construction of a PC-only AppleTalk network, it allowed communication between PCs and Macs with TOPS software installed. The Mac TOPS software did not match the quality of Apples own either in ease of use or in robustness and freedom from crashes, but the DOS software was relatively simple to use in DOS terms, and was robust.     The ": null
+    },
+    {
+        "BSD": "bsd"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Linux": "linux"
+    },
+    {
+        " operating systems support AppleTalk through an open source project called ": null
+    },
+    {
+        "Netatalk": "netatalk"
+    },
+    {
+        ", which implements the complete protocol suite and allows them to both act as native file or print servers for Macintosh computers, and print to LocalTalk printers over the network.     The ": null
+    },
+    {
+        "Windows": "microsoft windows"
+    },
+    {
+        " Server operating systems supported AppleTalk starting with ": null
+    },
+    {
+        "Windows NT": "windows nt"
+    },
+    {
+        " and ending after ": null
+    },
+    {
+        "Windows Server 2003": "windows server 2003"
+    },
+    {
+        ". Miramar included AppleTalk in its PC MacLAN product which was discontinued by CA in 2007. ": null
+    },
+    {
+        "GroupLogic": "grouplogic"
+    },
+    {
+        " continues to bundle its AppleTalk protocol with its ": null
+    },
+    {
+        "ExtremeZ-IP": "extremez-ip"
+    },
+    {
+        " server software for Macintosh-Windows integration which supports ": null
+    },
+    {
+        "Windows 2008 Server": "windows 2008 server"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Windows Vista": "windows vista"
+    },
+    {
+        " as well prior versions.  offers a proprietary implementation of the AppleTalk protocol stack, as part of their HELIOS UB2 server. This is essentially a File and Print Server suite that runs on a whole range of different platforms.     In addition, Columbia University released the Columbia AppleTalk Package which implemented the protocol suite for various Unix flavors including ": null
+    },
+    {
+        "Ultrix": "ultrix"
+    },
+    {
+        ", ": null
+    },
+    {
+        "SunOS": "sunos"
+    },
+    {
+        ", ": null
+    },
+    {
+        "BSD": "bsd"
+    },
+    {
+        " and ": null
+    },
+    {
+        "IRIX": "irix"
+    }
+]

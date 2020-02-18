@@ -1,0 +1,251 @@
+[
+    {
+        "        An exon is any part of a ": null
+    },
+    {
+        "gene": "gene"
+    },
+    {
+        " that will encode a part of the final mature ": null
+    },
+    {
+        "RNA": "rna"
+    },
+    {
+        " produced by that gene after ": null
+    },
+    {
+        "introns": "intron"
+    },
+    {
+        "have been removed by ": null
+    },
+    {
+        "RNA splicing": "rna splicing"
+    },
+    {
+        ". The term exon refers to both the DNA sequence within a gene and to the corresponding sequence in RNA transcripts. In RNA splicing, introns are removed and exons are covalently joined to one another as part of generating the mature ": null
+    },
+    {
+        "messenger RNA": "messenger rna"
+    },
+    {
+        ". Just as the entire set of genes for a ": null
+    },
+    {
+        "species": "species"
+    },
+    {
+        " constitutes the ": null
+    },
+    {
+        "genome": "genome"
+    },
+    {
+        ", the entire set of exons constitutes the ": null
+    },
+    {
+        "exome": "exome"
+    },
+    {
+        ".       The term exon derives from the expressed region and was coined by American ": null
+    },
+    {
+        "biochemist": "biochemistry"
+    },
+    {
+        " Walter Gilbert": "walter gilbert"
+    },
+    {
+        " in 1978: The notion of the ": null
+    },
+    {
+        "cistron": "cistron"
+    },
+    {
+        "… must be replaced by that of a transcription unit containing regions which will be lost from the mature messengerwhich I suggest we call introns alternating with regions which will be expressedexons.      This definition was originally made for protein-coding transcripts that are spliced before being translated. The term later came to include sequences removed from ": null
+    },
+    {
+        "rRNA": "rrna"
+    },
+    {
+        "  and ": null
+    },
+    {
+        "tRNA": "trna"
+    },
+    {
+        ",  and it also was used later for RNA molecules originating from different parts of the genome that are then ligated by trans-splicing.        Although unicellular ": null
+    },
+    {
+        "eukaryotes": "eukaryote"
+    },
+    {
+        "such as yeast have either no introns or very few, ": null
+    },
+    {
+        "metazoans": "animal"
+    },
+    {
+        " and especially ": null
+    },
+    {
+        "vertebrate": "vertebrate"
+    },
+    {
+        " genomes have a large fraction of ": null
+    },
+    {
+        "non-coding DNA": "noncoding dna"
+    },
+    {
+        ". For instance, in the ": null
+    },
+    {
+        "human genome": "human genome"
+    },
+    {
+        " only 1.1% of the genome is spanned by exons, whereas 24% is in introns, with 75% of the genome being ": null
+    },
+    {
+        "intergenic DNA": "intergenic region"
+    },
+    {
+        ".  This can provide a practical advantage in ": null
+    },
+    {
+        "omics": "omics"
+    },
+    {
+        "-aided ": null
+    },
+    {
+        "health care": "health care"
+    },
+    {
+        "  because it makes commercialized ": null
+    },
+    {
+        "whole exome sequencing": "exome sequencing"
+    },
+    {
+        " a smaller and less expensive challenge than commercialized ": null
+    },
+    {
+        "whole genome sequencing": "whole genome sequencing"
+    },
+    {
+        ". The large variation in ": null
+    },
+    {
+        "genome size": "genome size"
+    },
+    {
+        " and ": null
+    },
+    {
+        "C-value": "c-value"
+    },
+    {
+        " across ": null
+    },
+    {
+        "life": "life"
+    },
+    {
+        " forms has posed an interesting challenge called the ": null
+    },
+    {
+        "C-value enigma": "c-valuevariation among species"
+    },
+    {
+        ".     Across all eukaryotic genes in GenBank, there were , on average, 5.48 exons per gene. The average exon encoded 30-36 ": null
+    },
+    {
+        "amino acid": "amino acid"
+    },
+    {
+        "s.  While the longest exon in the human genome is 11555 ": null
+    },
+    {
+        "bp": "base pair"
+    },
+    {
+        " long, several exons have been found to be only 2 bp long.  A single-nucleotide exon has been reported from the  Arabidopsis  genome.             In protein-coding genes, the exons include both the protein-coding sequence and the 5′- and 3′-": null
+    },
+    {
+        "untranslated regions": "untranslated region"
+    },
+    {
+        " . Often the first exon includes both the 5′-UTR and the first part of the coding sequence, but exons containing only regions of 5′-UTR or 3′-UTR occur in some genes, i.e. the UTRs may contain introns.  Some ": null
+    },
+    {
+        "non-coding RNA": "non-coding rna"
+    },
+    {
+        " transcripts also have exons and introns.     Mature mRNAs originating from the same gene need not include the same exons, since different introns in the pre-mRNA can be removed by the process of ": null
+    },
+    {
+        "alternative splicing": "alternative splicing"
+    },
+    {
+        ".     Exonization is the creation of a new exon, as a result of mutations in ": null
+    },
+    {
+        "introns": "introns"
+    },
+    {
+        ".        ": null
+    },
+    {
+        "Exon trapping": "exon trapping"
+    },
+    {
+        " or ": null
+    },
+    {
+        "gene trapping": "gene trapping"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "molecular biology": "molecular biology"
+    },
+    {
+        " technique that exploits the existence of the intron-exon ": null
+    },
+    {
+        "splicing": "rna splicing"
+    },
+    {
+        " to find new genes.  The first exon of a trapped gene splices into the exon that is contained in the ": null
+    },
+    {
+        "insertional DNA": "insertional dna"
+    },
+    {
+        ". This new exon contains the ORF for a ": null
+    },
+    {
+        "reporter gene": "reporter gene"
+    },
+    {
+        " that can now be expressed using the ": null
+    },
+    {
+        "enhancers": "enhancer"
+    },
+    {
+        "that control the target gene. A scientist knows that a new gene has been trapped when the reporter gene is expressed.     Splicing can be experimentally modified so that targeted exons are excluded from mature mRNA transcripts by blocking the access of splice-directing small nuclear ribonucleoprotein particles to pre-mRNA using ": null
+    },
+    {
+        "Morpholino antisense oligos": "morpholino"
+    },
+    {
+        ".  This has become a standard technique in ": null
+    },
+    {
+        "developmental biology": "developmental biology"
+    }
+]

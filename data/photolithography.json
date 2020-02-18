@@ -1,0 +1,203 @@
+[
+    {
+        "Photolithography, also called optical lithography or UV lithography, is a process used in ": null
+    },
+    {
+        "microfabrication": "microfabrication"
+    },
+    {
+        " to pattern parts of a ": null
+    },
+    {
+        "thin film": "thin film"
+    },
+    {
+        " or the bulk of a ": null
+    },
+    {
+        "substrate": "wafer"
+    },
+    {
+        " . It uses light to transfer a ": null
+    },
+    {
+        "geometric pattern": "geometry"
+    },
+    {
+        " from a ": null
+    },
+    {
+        "photomask": "photomask"
+    },
+    {
+        "  to a ": null
+    },
+    {
+        "photosensitive": "photosensitivity"
+    },
+    {
+        " chemical ": null
+    },
+    {
+        "photoresist": "photoresist"
+    },
+    {
+        " on the substrate. A series of ": null
+    },
+    {
+        "chemical treatments": "chemical engineering"
+    },
+    {
+        " then either ": null
+    },
+    {
+        "etches": "etching"
+    },
+    {
+        " the exposure pattern into the material or enables deposition of a new material in the desired pattern upon the material underneath the photoresist. In complex ": null
+    },
+    {
+        "integrated circuit": "integrated circuit"
+    },
+    {
+        "s, a ": null
+    },
+    {
+        "CMOS": "cmos"
+    },
+    {
+        " wafer may go through the photolithographic cycle as many as 50 times.     Photolithography shares some fundamental principles with ": null
+    },
+    {
+        "photography": "photography"
+    },
+    {
+        " in that the pattern in the photoresist etching is created by exposing it to ": null
+    },
+    {
+        "light": "light"
+    },
+    {
+        ", either directly or with a projected image using a photomask. This procedure is comparable to a high precision version of the method used to make ": null
+    },
+    {
+        "printed circuit board": "printed circuit board"
+    },
+    {
+        "s. Subsequent stages in the process have more in common with etching than with ": null
+    },
+    {
+        "lithographic printing": "lithography"
+    },
+    {
+        ". This method can create extremely small patterns, down to a few tens of ": null
+    },
+    {
+        "nanometers": "nanometer"
+    },
+    {
+        "in size. It provides precise control of the shape and size of the objects it creates and can create patterns over an entire surface cost-effectively. Its main disadvantages are that it requires a flat substrate to start with, it is not very effective at creating shapes that are not flat, and it can require extremely clean operating conditions. Photolithography is the standard method of printed circuit board and ": null
+    },
+    {
+        "microprocessor fabrication": "semiconductor fabrication"
+    },
+    {
+        ".       The root words photo, litho, and graphy all have Greek origins, with the meanings light, stone and writing respectively. As suggested by the name compounded from them, photolithography is a printing method in which light plays an essential role. In the 1820s, ": null
+    },
+    {
+        "Nicephore Niepce": "nicephore niepce"
+    },
+    {
+        " invented a ": null
+    },
+    {
+        "photographic": "photography"
+    },
+    {
+        " process that used ": null
+    },
+    {
+        "Bitumen of Judea": "bitumen of judea"
+    },
+    {
+        ", a natural asphalt, as the first ": null
+    },
+    {
+        "photoresist": "photoresist"
+    },
+    {
+        ". A thin coating of the bitumen on a sheet of metal, glass or stone became less soluble where it was exposed to light; the unexposed parts could then be rinsed away with a suitable solvent, baring the material beneath, which was then chemically etched in an acid bath to produce a printing plate. The light-sensitivity of bitumen was very poor and very long exposures were required, but despite the later introduction of more sensitive alternatives, its low cost and superb resistance to strong acids prolonged its commercial life into the early 20th century. In 1940, Oskar Süß created a positive photoresist by using ": null
+    },
+    {
+        "diazonaphthoquinone": "diazonaphthoquinone"
+    },
+    {
+        ", which worked in the opposite manner: the coating was initially insoluble and was rendered soluble where it was exposed to light.  In 1954, Louis Plambeck Jr. developed the Dycryl polymeric letterpress plate, which made the platemaking process faster.      In 1952, the U.S. military assigned Jay W. Lathrop and James R. Nall at the ": null
+    },
+    {
+        "National Bureau of Standards": "national bureau of standards"
+    },
+    {
+        "  with the task of finding a way to reduce the size of electronic circuits in order to better fit the necessary circuitry in the limited space available inside a ": null
+    },
+    {
+        "proximity fuze": "proximity fuze"
+    },
+    {
+        ".  Inspired by the application of photoresist, a photosensitive liquid used to mark the boundaries of rivet holes in metal aircraft wings, Nall determined that a similar process can be used to protect the germanium in the transistors and even pattern the surface with light.  During development, Lathrop and Nall were successful in creating a 2D miniaturized hybrid integrated circuit with transistors using this technique. In 1958, during the IRE Professional Group on Electron Devices conference in Washington, D.C., they presented the first paper to describe the fabrication of transistors using photographic techniques and adopted the term photolithography to describe the process, marking the first published use of the term to describe semiconductor device patterning.      Despite the fact that photolithography of electronic components concerns etching metal duplicates, rather than etching stone to produce a master as in conventional lithographic printing, Lathrop and Nall chose the term photolithography over photoetching because the former sounded high tech. A year after the conference, Lathrop and Nalls patent on photolithography was formally approved on June 9, 1959.  Photolithography would later contribute to the development of the first semiconductor ICs as well as the first microchips.          A single iteration of photolithography combines several steps in sequence. Modern cleanrooms use automated, ": null
+    },
+    {
+        "robot": "industrial robot"
+    },
+    {
+        "ic wafer track systems to coordinate the process. The procedure described here omits some advanced treatments, such as thinning agents or edge-bead removal.  The Photolithography process is carried out by the wafer track and stepper/scanner, and the wafer track system and the stepper/scanner are installed side by side.       If organic or inorganic contaminations are present on the wafer surface, they are usually removed by wet chemical treatment, e.g. the ": null
+    },
+    {
+        "RCA clean": "rca clean"
+    },
+    {
+        " procedure based on solutions containing ": null
+    },
+    {
+        "hydrogen peroxide": "hydrogen peroxide"
+    },
+    {
+        ". Other solutions made with trichloroethylene, acetone or methanol can also be used to clean.        The wafer is initially heated to a temperature sufficient to drive off any moisture that may be present on the wafer surface; 150  °C for ten minutes is sufficient. Wafers that have been in storage must be chemically cleaned to remove ": null
+    },
+    {
+        "contamination": "contamination"
+    },
+    {
+        ". A ": null
+    },
+    {
+        "liquid": "liquid"
+    },
+    {
+        " or ": null
+    },
+    {
+        "gas": "gas"
+    },
+    {
+        "eous adhesion promoter , such as ": null
+    },
+    {
+        "Bisamine ": "bisamine"
+    },
+    {
+        ", is applied to promote adhesion of the photoresist to the wafer. The surface layer of silicon dioxide on the wafer reacts with HMDS to form tri-methylated silicon-dioxide, a highly water repellent layer not unlike the layer of wax on a cars paint. This water repellent layer prevents the aqueous developer from penetrating between the photoresist layer and the wafers surface, thus preventing so-called lifting of small photoresist structures in the pattern. In order to ensure the development of the image, it is best covered and placed over a hot plate and let it dry while stabilizing the temperature at 120  °C.        The wafer is covered with ": null
+    },
+    {
+        "photoresist": "photoresist"
+    },
+    {
+        " by ": null
+    },
+    {
+        "spin coating": "spin coating"
+    },
+    {
+        ". Thus, the top layer of resist is quickly ejected from the wafers edge while the bottom layer still creeps slowly radially along the wafer. In this way, any bump or ridge of resist is removed, leaving a very flat layer. Final thickness is also determined by the evaporation of liquid solvents from the resist. For very small, dense features ": null
+    }
+]

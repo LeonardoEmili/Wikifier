@@ -1,0 +1,29 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", there are many  logarithm ic identities .                  Logarithms and exponentials with the same base cancel each other. This is true because logarithms and exponentials are inverse operations .     : b^ x\\text\\mbox_b x     : \\log_b x\\text\\log_b x     Both of the above are derived from the following two equations that define a logarithm:     : b^c x\\text\\log_b c     Substituting  in the left equation gives , and substituting  in the right gives . Finally, replace  with .         Logarithms can be used to make calculations easier. For example, two numbers can be multiplied just by using a logarithm table and adding. The first three operations below assume , and/or  so that  and . Derivations also use the log definitions  and .          Where b , x , and y are positive real numbers and b \\ne 1 . Both c and d are real numbers.     The laws result from canceling exponentials and appropriate law of indices. Starting with the first law:     xy b^ b^ b^ \\Rightarrow \\log_b \\log_b \\log_b + \\log_b     The law for powers exploits another of the laws of indices:     x^y ^y b^ \\Rightarrow \\log_b y \\log_b     The law relating to quotients then follows:     \\log_b \\bigg \\log_b \\log_b + \\log_b \\log_b - \\log_b     \\log_b \\bigg \\log_b - \\log_b     Similarly, the root law is derived by rewriting the root as a reciprocal power:     \\log_b \\log_b \\frac\\log_b         : \\log_b a\\frac     This identity is useful to evaluate logarithms on calculators. For instance, most calculators have buttons for ": null
+    },
+    {
+        "ln": "natural logarithm"
+    },
+    {
+        " and for , but not all calculators have buttons for the logarithm of an arbitrary base.     :Consider the equation b^ca     :Take logarithm base d of both sides: \\log_d b^c\\log_d a     :Simplify and solve for c : c\\log_d b\\log_d a     : c\\frac     :Since c\\log_b a , then \\log_b a\\frac     This formula has several consequences:     : \\log_b a \\frac     : \\log_ a     : b^ d^     : - \\log_b a \\log_b \\left \\log_ a          : \\log_a_1 \\,\\cdots\\, \\log_a_n   \\log_a_1\\, \\cdots\\, \\log_a_n,     where \\scriptstyle\\pi is any ": null
+    },
+    {
+        "permutation": "permutation"
+    },
+    {
+        " of the subscripts 1,  ...,  n. For example     : \\log_b w\\cdot \\log_a x\\cdot \\log_d c\\cdot \\log_d z   \\log_d w\\cdot \\log_b x\\cdot \\log_a c\\cdot \\log_d z.       The following summation/subtraction rule is especially useful in ": null
+    },
+    {
+        "probability theory": "probability theory"
+    },
+    {
+        " when one is dealing with a sum of log-probabilities:     : \\log_b \\log_b a + \\log_b \\left     : \\log_b \\log_b a + \\log_b \\left     Note that in practice a and c have to be switched on the right hand side of the equations if c /math math /math code /code math /math math /math math /math math ": null
+    }
+]

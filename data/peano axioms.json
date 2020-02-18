@@ -1,0 +1,482 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematical logic": "mathematical logic"
+    },
+    {
+        ", the Peano axioms, also known as the Dedekind–Peano axioms or the Peano postulates, are ": null
+    },
+    {
+        "axioms": "axiom"
+    },
+    {
+        "for the ": null
+    },
+    {
+        "natural numbers": "natural number"
+    },
+    {
+        "presented by the 19th century ": null
+    },
+    {
+        "Italian": "italian people"
+    },
+    {
+        " mathematician": "mathematician"
+    },
+    {
+        " Giuseppe Peano": "giuseppe peano"
+    },
+    {
+        ". These axioms have been used nearly unchanged in a number of ": null
+    },
+    {
+        "metamathematical": "metamathematics"
+    },
+    {
+        " investigations, including research into fundamental questions of whether ": null
+    },
+    {
+        "number theory": "number theory"
+    },
+    {
+        " is ": null
+    },
+    {
+        "consistent": "consistency proof"
+    },
+    {
+        " and ": null
+    },
+    {
+        "complete": "completeness"
+    },
+    {
+        ".     The need to formalize ": null
+    },
+    {
+        "arithmetic": "arithmetic"
+    },
+    {
+        " was not well appreciated until the work of ": null
+    },
+    {
+        "Hermann Grassmann": "hermann grassmann"
+    },
+    {
+        ", who showed in the 1860s that many facts in arithmetic could be derived from more basic facts about the ": null
+    },
+    {
+        "successor operation": "successor function"
+    },
+    {
+        " and ": null
+    },
+    {
+        "induction": "mathematical induction"
+    },
+    {
+        ". In 1881, ": null
+    },
+    {
+        "Charles Sanders Peirce": "charles sanders peirce"
+    },
+    {
+        " provided an ": null
+    },
+    {
+        "axiomatization": "axiomatic systemaxiomatization"
+    },
+    {
+        " of natural-number arithmetic. ,  In  1888, ": null
+    },
+    {
+        "Richard Dedekind": "richard dedekind"
+    },
+    {
+        " proposed another axiomatization of natural-number arithmetic, and in  1889, Peano published a simplified version of them as a collection of axioms in his book, ": null
+    },
+    {
+        "The principles of arithmetic presented by a new method": "arithmetices principia, nova methodo exposita"
+    },
+    {
+        " .     The Peano axioms contain three types of statements. The first axiom asserts the existence of at least one member of the set of natural numbers. The next four are general statements about ": null
+    },
+    {
+        "equality": "equality"
+    },
+    {
+        "; in modern treatments these are often not taken as part of the Peano axioms, but rather as axioms of the underlying logic . The next three axioms are ": null
+    },
+    {
+        "first-order": "first-order logic"
+    },
+    {
+        " statements about natural numbers expressing the fundamental properties of the successor operation. The ninth, final axiom is a ": null
+    },
+    {
+        "second order": "second-order logic"
+    },
+    {
+        " statement of the principle of mathematical induction over the natural numbers. A weaker first-order system called Peano arithmetic is obtained by explicitly adding the addition and multiplication operation symbols and replacing the ": null
+    },
+    {
+        "second-order induction": "second-order arithmeticinduction and comprehension schema"
+    },
+    {
+        " axiom with a first-order ": null
+    },
+    {
+        "axiom schema": "axiom schema"
+    },
+    {
+        ".         When Peano formulated his axioms, the language of ": null
+    },
+    {
+        "mathematical logic": "mathematical logic"
+    },
+    {
+        " was in its infancy. The system of logical notation he created to present the axioms did not prove to be popular, although it was the genesis of the modern notation for ": null
+    },
+    {
+        "set membership": "element"
+    },
+    {
+        " and ": null
+    },
+    {
+        "implication": "logical implication"
+    },
+    {
+        " Peano maintained a clear distinction between mathematical and logical symbols, which was not yet common in mathematics; such a separation had first been introduced in the  Begriffsschrift  by ": null
+    },
+    {
+        "Gottlob Frege": "gottlob frege"
+    },
+    {
+        ", published in 1879. Peano was unaware of Freges work and independently recreated his logical apparatus based on the work of ": null
+    },
+    {
+        "Boole": "george boole"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Schröder": "ernst schröder"
+    },
+    {
+        ".     The Peano axioms define the arithmetical properties of  natural numbers , usually represented as a ": null
+    },
+    {
+        "set": "set"
+    },
+    {
+        " N or \\mathbb. The ": null
+    },
+    {
+        "non-logical symbols": "non-logical symbol"
+    },
+    {
+        "for the axioms consist of a constant symbol 0 and a unary function symbol S.     The first axiom states that the constant 0 is a natural number:      The next four axioms describe the ": null
+    },
+    {
+        "equality": "equality"
+    },
+    {
+        " relation": "relation"
+    },
+    {
+        ". Since they are logically valid in first-order logic with equality, they are not considered to be part of the Peano axioms in modern treatments.      The remaining axioms define the arithmetical properties of the natural numbers. The naturals are assumed to be closed under a single-valued ": null
+    },
+    {
+        "successor": "successor function"
+    },
+    {
+        " function": "function"
+    },
+    {
+        " S.      Peanos original formulation of the axioms used 1 instead of 0 as the first natural number. This choice is arbitrary, as axiom 1 does not endow the constant 0 with any additional properties. However, because 0 is the ": null
+    },
+    {
+        "additive identity": "identity element"
+    },
+    {
+        " in arithmetic, most modern formulations of the Peano axioms start from 0. Axioms 1, 6, 7, 8 define a ": null
+    },
+    {
+        "unary representation": "unary numeral system"
+    },
+    {
+        " of the intuitive notion of natural numbers: the number 1 can be defined as S, 2 as S, etc. However, considering the notion of natural numbers as being defined by these axioms, axioms 1, 6, 7, 8 do not imply that the successor function generates all the natural numbers different from 0. Put differently, they do not guarantee that every natural number other than zero must succeed some other natural number.     The intuitive notion that each natural number can be obtained by applying successor sufficiently often to zero requires an additional axiom, which is sometimes called the  axiom of induction .          The induction axiom is sometimes stated in the following form:        In Peanos original formulation, the induction axiom is a ": null
+    },
+    {
+        "second-order axiom": "second-order logic"
+    },
+    {
+        ". It is now common to replace this second-order principle with a weaker ": null
+    },
+    {
+        "first-order": "first-order logic"
+    },
+    {
+        " induction scheme. There are important differences between the second-order and first-order formulations, as discussed in the section  below.         The Peano axioms can be augmented with the operations of ": null
+    },
+    {
+        "addition": "addition"
+    },
+    {
+        " and ": null
+    },
+    {
+        "multiplication": "multiplication"
+    },
+    {
+        " and the usual ": null
+    },
+    {
+        "total ordering": "total order"
+    },
+    {
+        " on ": null
+    },
+    {
+        "N": "natural numbersnotation"
+    },
+    {
+        ". The respective functions and relations are constructed in ": null
+    },
+    {
+        "set theory": "set theory"
+    },
+    {
+        " or ": null
+    },
+    {
+        "second-order logic": "second-order logic"
+    },
+    {
+        ", and can be shown to be unique using the Peano axioms.         ": null
+    },
+    {
+        "Addition": "addition in n"
+    },
+    {
+        " is a function that ": null
+    },
+    {
+        "maps": "map"
+    },
+    {
+        " two natural numbers  to another one. It is defined ": null
+    },
+    {
+        "recursively": "recursion"
+    },
+    {
+        " as:     : \\begin   a + 0 & a , & \\textrm\\\\   a + S & S . & \\textrm   \\end   For example:     : \\begin   a + 1 & a + S & \\mbox \\\\   & S & \\mbox \\\\   & S, & \\mbox \\\\   \\\\   a + 2 & a + S & \\mbox \\\\   & S & \\mbox \\\\   & S & \\mbox a + 1 S \\\\   \\\\   a + 3 & a + S & \\mbox \\\\   & S & \\mbox \\\\   & S & \\mbox a + 2 S \\\\   \\text & \\\\   \\end     The ": null
+    },
+    {
+        "structure": "structure"
+    },
+    {
+        "  is a ": null
+    },
+    {
+        "commutative": "commutative"
+    },
+    {
+        " monoid": "monoid"
+    },
+    {
+        " with identity element 0.  is also a ": null
+    },
+    {
+        "cancellative": "cancellation property"
+    },
+    {
+        " magma": "magma"
+    },
+    {
+        ", and thus ": null
+    },
+    {
+        "embeddable": "embedding"
+    },
+    {
+        " in a ": null
+    },
+    {
+        "group": "group"
+    },
+    {
+        ". The smallest group embedding N is the ": null
+    },
+    {
+        "integer": "integer"
+    },
+    {
+        "s.         Similarly, ": null
+    },
+    {
+        "multiplication": "multiplication"
+    },
+    {
+        " is a function mapping two natural numbers to another one. Given addition, it is defined recursively as:     : \\begin     a \\cdot 0 & 0, \\\\   a \\cdot S & a + .   \\end   It is easy to see that S  is the multiplicative ": null
+    },
+    {
+        "right identity": "identity element"
+    },
+    {
+        ":     : a · S a +  a + 0 a     To show that S is also the multiplicative left identity requires the induction axiom due to the way multiplication is defined:     S is the left identity of 0: S · 0 0.   If S is the left identity of a , then S is also the left identity of S: S · S S + S · a S + a a + S S S.     Therefore, by the induction axiom S is the multiplicative left identity of all natural numbers. Moreover, it can be shown that multiplication ": null
+    },
+    {
+        "distributes over": "distributive law"
+    },
+    {
+        " addition:     : a ·   + .     Thus,  is a commutative ": null
+    },
+    {
+        "semiring": "semiring"
+    },
+    {
+        ".         The usual ": null
+    },
+    {
+        "total order": "total order"
+    },
+    {
+        " relation ≤ on natural numbers can be defined as follows, assuming 0 is a natural number:     : For all ,  if and only if there exists some  such that .     This relation is stable under addition and multiplication: for a, b, c \\in \\mathbf , if , then:     a + c ≤ b + c, and   a · c ≤ b · c.     Thus, the structure  is an ": null
+    },
+    {
+        "ordered semiring": "ordered ring"
+    },
+    {
+        "; because there is no natural number between 0 and 1, it is a discrete ordered semiring.     The axiom of induction is sometimes stated in the following form that uses a stronger hypothesis, making use of the order relation ≤ :     : For any ": null
+    },
+    {
+        "predicate": "predicate"
+    },
+    {
+        " φ, if   : φ is true, and   : for every , if  implies that φ is true, then φ is true,   : then for every , φ is true.     This form of the induction axiom, called strong induction, is a consequence of the standard formulation, but is often better suited for reasoning about the ≤ order. For example, to show that the naturals are ": null
+    },
+    {
+        "well-order": "well-order"
+    },
+    {
+        "ed—every ": null
+    },
+    {
+        "nonempty": "empty set"
+    },
+    {
+        " subset": "subset"
+    },
+    {
+        " of N has a ": null
+    },
+    {
+        "least element": "least element"
+    },
+    {
+        "—one can reason as follows. Let a nonempty  be given and assume X has no least element.     Because 0 is the least element of N, it must be that .   For any , suppose for every , . Then , for otherwise it would be the least element of X.     Thus, by the strong induction principle, for every , . Thus, , which ": null
+    },
+    {
+        "contradicts": "contradiction"
+    },
+    {
+        " X being a nonempty subset of N. Thus X has a least element.         All of the Peano axioms except the ninth axiom are statements in ": null
+    },
+    {
+        "first-order logic": "first-order logic"
+    },
+    {
+        ". The arithmetical operations of addition and multiplication and the order relation can also be defined using first-order axioms. The axiom of induction is in ": null
+    },
+    {
+        "second-order": "second-order logic"
+    },
+    {
+        ", since it ": null
+    },
+    {
+        "quantifies": "quantifier"
+    },
+    {
+        " over predicates , but it can be transformed into a first-order  axiom schema  of induction. Such a schema includes one axiom per predicate definable in the first-order language of Peano arithmetic, making it weaker than the second-order axiom. The reason that it is weaker is that the number of predicates in first-order language is countable, whereas the number of sets of natural numbers is uncountable. Thus, there exist sets that cannot be described in first-order language .     First-order axiomatizations of Peano arithmetic have another technical limitation. In second-order logic, it is possible to define the addition and multiplication operations from the ": null
+    },
+    {
+        "successor operation": "successor function"
+    },
+    {
+        ", but this cannot be done in the more restrictive setting of first-order logic. Therefore, the addition and multiplication operations are directly included in the ": null
+    },
+    {
+        "signature": "signature"
+    },
+    {
+        " of Peano arithmetic, and axioms are included that relate the three operations to each other.     The following list of axioms , which contains six of the seven axioms of ": null
+    },
+    {
+        "Robinson arithmetic": "robinson arithmetic"
+    },
+    {
+        ", is sufficient for this purpose: ": null
+    },
+    {
+        "recursively enumerable": "recursively enumerable set"
+    },
+    {
+        " set of ": null
+    },
+    {
+        "axioms": "axioms"
+    },
+    {
+        ". For each formula  in the language of Peano arithmetic, the first-order induction axiom for φ is the sentence     : \\forall \\bar     where \\bar is an abbreviation for y 1 ,...,y k . The first-order induction schema includes every instance of the first-order induction axiom, that is, it includes the induction axiom for every formula φ.       There are many different, but equivalent, axiomatizations of Peano arithmetic. While some axiomatizations, such as the one just described, use a signature that only has symbols for 0 and the successor, addition, and multiplications operations, other axiomatizations use the language of ": null
+    },
+    {
+        "ordered semirings": "ordered ring"
+    },
+    {
+        ", including an additional order relation symbol. One such axiomatization begins with the following axioms that describe a discrete ordered semiring.       \\forall x, y, z \\ , i.e., addition is ": null
+    },
+    {
+        "associative": "associative property"
+    },
+    {
+        ".   \\forall x, y \\ , i.e., addition is ": null
+    },
+    {
+        "commutative": "commutative property"
+    },
+    {
+        ".   \\forall x, y, z \\ , i.e., multiplication is associative.   \\forall x, y \\ , i.e., multiplication is commutative.   \\forall x, y, z \\ , i.e., multiplication ": null
+    },
+    {
+        "distributes": "distributive property"
+    },
+    {
+        " over addition.   \\forall x \\ , i.e., zero is an ": null
+    },
+    {
+        "identity": "identity element"
+    },
+    {
+        " for addition, and an ": null
+    },
+    {
+        "absorbing element": "absorbing element"
+    },
+    {
+        " for multiplication  /math  math , i.e., the & lt; operator is ": null
+    },
+    {
+        "irreflexive": "reflexive relation"
+    },
+    {
+        ".   \\forall x, y \\ ": null
+    }
+]

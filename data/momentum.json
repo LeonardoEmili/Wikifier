@@ -1,0 +1,428 @@
+[
+    {
+        "               In ": null
+    },
+    {
+        "Newtonian mechanics": "newtonian mechanics"
+    },
+    {
+        ", linear momentum, translational momentum, or simply momentum  is the product of the ": null
+    },
+    {
+        "mass": "mass"
+    },
+    {
+        " and ": null
+    },
+    {
+        "velocity": "velocity"
+    },
+    {
+        " of an object. It is a ": null
+    },
+    {
+        "vector": "euclidean vector"
+    },
+    {
+        " quantity, possessing a magnitude and a direction. If  is an objects mass and  is its velocity , then the object’s momentum is:   \\mathbf m \\mathbf.   In ": null
+    },
+    {
+        "SI units": "international system of units"
+    },
+    {
+        ", momentum is measured in ": null
+    },
+    {
+        "kilogram meters per second": "kilogram metre per second"
+    },
+    {
+        " .     ": null
+    },
+    {
+        "Newtons second law": "newtons second law"
+    },
+    {
+        " of motion states that a bodys rate of change in momentum is equal to the net force acting on it. Momentum depends on the ": null
+    },
+    {
+        "frame of reference": "frame of reference"
+    },
+    {
+        ", but in any inertial frame it is a conserved quantity, meaning that if a ": null
+    },
+    {
+        "closed system": "closed system"
+    },
+    {
+        " is not affected by external forces, its total linear momentum does not change. Momentum is also conserved in ": null
+    },
+    {
+        "special relativity": "special relativity"
+    },
+    {
+        " and, in a modified form, in ": null
+    },
+    {
+        "electrodynamics": "electrodynamics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "quantum mechanics": "quantum mechanics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "quantum field theory": "quantum field theory"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "general relativity": "general relativity"
+    },
+    {
+        ". It is an expression of one of the fundamental symmetries of space and time: ": null
+    },
+    {
+        "translational symmetry": "translational symmetry"
+    },
+    {
+        ".     Advanced formulations of classical mechanics, ": null
+    },
+    {
+        "Lagrangian": "lagrangian mechanics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Hamiltonian mechanics": "hamiltonian mechanics"
+    },
+    {
+        ", allow one to choose coordinate systems that incorporate symmetries and constraints. In these systems the conserved quantity is generalized momentum, and in general this is different from the kinetic momentum defined above. The concept of generalized momentum is carried over into quantum mechanics, where it becomes an operator on a ": null
+    },
+    {
+        "wave function": "wave function"
+    },
+    {
+        ". The momentum and position operators are related by the ": null
+    },
+    {
+        "Heisenberg uncertainty principle": "heisenberg uncertainty principle"
+    },
+    {
+        ".     In continuous systems such as electromagnetic fields, fluids and deformable bodies, a momentum density can be defined, and a continuum version of the conservation of momentum leads to equations such as the ": null
+    },
+    {
+        "Navier–Stokes equations": "navier–stokes equations"
+    },
+    {
+        " for fluids or the ": null
+    },
+    {
+        "Cauchy momentum equation": "cauchy momentum equation"
+    },
+    {
+        " for deformable solids or fluids.            Momentum is a ": null
+    },
+    {
+        "vector quantity": "vector quantity"
+    },
+    {
+        ": it has both magnitude and direction. Since momentum has a direction, it can be used to predict the resulting direction and speed of motion of objects after they collide. Below, the basic properties of momentum are described in one dimension. The vector equations are almost identical to the scalar equations .       The momentum of a particle is conventionally represented by the letter . It is the product of two quantities, the particles ": null
+    },
+    {
+        "mass": "mass"
+    },
+    {
+        "  and its ": null
+    },
+    {
+        "velocity": "velocity"
+    },
+    {
+        " :    : p m v.     The unit of momentum is the product of the units of mass and velocity. In ": null
+    },
+    {
+        "SI units": "si units"
+    },
+    {
+        ", if the mass is in kilograms and the velocity is in meters per second then the momentum is in kilogram meters per second . In ": null
+    },
+    {
+        "cgs units": "centimetre–gram–second system of units"
+    },
+    {
+        ", if the mass is in grams and the velocity in centimeters per second, then the momentum is in gram centimeters per second .     Being a vector, momentum has magnitude and direction. For example, a 1  kg model airplane, traveling due north at 1  m/s in straight and level flight, has a momentum of 1  kg⋅m/s due north measured with reference to the ground.       The momentum of a system of particles is the vector sum of their momenta. If two particles have respective masses  and , and velocities  and , the total momentum is   : \\begin p & p_1 + p_2 \\\\   & m_1 v_1 + m_2 v_2\\,. \\end   The momenta of more than two particles can be added more generally with the following:   : p \\sum_ m_i v_i .     A system of particles has a ": null
+    },
+    {
+        "center of mass": "center of mass"
+    },
+    {
+        ", a point determined by the weighted sum of their positions:   : r_\\text \\frac \\frac.     If one or more of the particles is moving, the center of mass of the system will generally be moving as well . If the total mass of the particles is m , and the center of mass is moving at velocity , the momentum of the system is:   : p mv_\\text.   This is known as ": null
+    },
+    {
+        "Eulers first law": "eulers laws of motion"
+    },
+    {
+        ".           If the net force  applied to a particle is constant, and is applied for a time interval , the momentum of the particle changes by an amount   : \\Delta p F \\Delta t\\,.     In differential form, this is ": null
+    },
+    {
+        "Newtons second law": "newtons second law"
+    },
+    {
+        "; the rate of change of the momentum of a particle is equal to the instantaneous force  acting on it,   : F \\frac.     If the net force experienced by a particle changes as a function of time, , the change in momentum  between times  and  is   : \\Delta p J \\int_^ F\\, dt\\,.     Impulse is measured in the ": null
+    },
+    {
+        "derived units": "si derived unit"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "newton second": "newton second"
+    },
+    {
+        " or ": null
+    },
+    {
+        "dyne": "dyne"
+    },
+    {
+        " second     Under the assumption of constant mass , it is equivalent to write   : F \\frac m\\frac m a,   hence the net force is equal to the mass of the particle times its ": null
+    },
+    {
+        "acceleration": "acceleration"
+    },
+    {
+        ".     Example: A model airplane of mass 1  kg accelerates from rest to a velocity of 6  m/s due north in 2  s. The net force required to produce this acceleration is 3  ": null
+    },
+    {
+        "newtons": "newton"
+    },
+    {
+        " due north. The change in momentum is 6  kg⋅m/s due north. The rate of change of momentum is 3  /s due north which is numerically equivalent to 3  newtons.       In a ": null
+    },
+    {
+        "closed system": "closed system"
+    },
+    {
+        " the total momentum is constant. This fact, known as the law of conservation of momentum, is implied by ": null
+    },
+    {
+        "Newtons laws of motion": "newtons laws of motion"
+    },
+    {
+        ".   Suppose, for example, that two particles interact. Because of the third law, the forces between them are equal and opposite. If the particles are numbered 1 and 2, the second law states that  and . Therefore,   : \\frac - \\frac,   with the negative sign indicating that the forces oppose. Equivalently,   : \\frac \\left 0.     If the velocities of the particles are  and  before the interaction, and afterwards they are  and , then   : m_1 u_ + m_2 u_ m_1 v_ + m_2 v_.     This law holds no matter how complicated the force is between particles. Similarly, if there are several particles, the momentum exchanged between each pair of particles adds up to zero, so the total change in momentum is zero. This conservation law applies to all interactions, including ": null
+    },
+    {
+        "collisions": "collision"
+    },
+    {
+        "and separations caused by explosive forces. It can also be generalized to situations where Newtons laws do not hold, for example in the ": null
+    },
+    {
+        "theory of relativity": "theory of relativity"
+    },
+    {
+        " and in ": null
+    },
+    {
+        "electrodynamics": "classical electromagnetism"
+    },
+    {
+        ".          Momentum is a measurable quantity, and the measurement depends on the motion of the observer. For example: if an apple is sitting in a glass elevator that is descending, an outside observer, looking into the elevator, sees the apple moving, so, to that observer, the apple has a non-zero momentum. To someone inside the elevator, the apple does not move, so, it has zero momentum. The two observers each have a ": null
+    },
+    {
+        "frame of reference": "frame of reference"
+    },
+    {
+        ", in which, they observe motions, and, if the elevator is descending steadily, they will see behavior that is consistent with those same physical laws.     Suppose a particle has position  in a stationary frame of reference. From the point of view of another frame of reference, moving at a uniform speed , the position changes with time as   : x x - ut\\,.   This is called a ": null
+    },
+    {
+        "Galilean transformation": "galilean transformation"
+    },
+    {
+        ". If the particle is moving at speed  in the first frame of reference, in the second, it is moving at speed   : v \\frac v-u\\,.   Since  does not change, the accelerations are the same:   : a \\frac a\\,.   Thus, momentum is conserved in both reference frames. Moreover, as long as the force has the same form, in both frames, Newtons second law is unchanged. Forces such as Newtonian gravity, which depend only on the scalar distance between objects, satisfy this criterion. This independence of reference frame is called Newtonian relativity or ": null
+    },
+    {
+        "Galilean invariance": "galilean invariance"
+    },
+    {
+        ".      A change of reference frame, can, often, simplify calculations of motion. For example, in a collision of two particles, a reference frame can be chosen, where, one particle begins at rest. Another, commonly used reference frame, is the ": null
+    },
+    {
+        "center of mass frame": "center of mass frame"
+    },
+    {
+        " – one that is moving with the center of mass. In this frame,   the total momentum is zero.       By itself, the law of conservation of momentum is not enough to determine the motion of particles after a collision. Another property of the motion, ": null
+    },
+    {
+        "kinetic energy": "kinetic energy"
+    },
+    {
+        ", must be known. This is not necessarily conserved. If it is conserved, the collision is called an  elastic collision ; if not, it is an  inelastic collision .                An elastic collision is one in which no ": null
+    },
+    {
+        "kinetic energy": "kinetic energy"
+    },
+    {
+        " is absorbed in the collision. Perfectly elastic collisions can occur when the objects do not touch each other, as for example in atomic or nuclear scattering where electric repulsion keeps them apart. A ": null
+    },
+    {
+        "slingshot maneuver": "gravity assist"
+    },
+    {
+        " of a satellite around a planet can also be viewed as a perfectly elastic collision. A collision between two ": null
+    },
+    {
+        "pool": "pool billiards"
+    },
+    {
+        " balls is a good example of an almost totally elastic collision, due to their high ": null
+    },
+    {
+        "rigidity": "stiffness"
+    },
+    {
+        ", but when bodies come in contact there is always some ": null
+    },
+    {
+        "dissipation": "dissipation"
+    },
+    {
+        ".      A head-on elastic collision between two bodies can be represented by velocities in one dimension, along a line passing through the bodies. If the velocities are  and  before the collision and  and  after, the equations expressing conservation of momentum and kinetic energy are:   : \\begin m_1 u_1 + m_2 u_2 & m_1 v_1 + m_2 v_2\\\\   \\tfrac m_1 u_1^2 + \\tfrac m_2 u_2^2 & \\tfrac m_1 v_1^2 + \\tfrac m_2 v_2^2\\,.\\end     A change of reference frame can simplify analysis of a collision. For example, suppose there are two bodies of equal mass , one stationary and one approaching the other at a speed  . The center of mass is moving at speed  and both bodies are moving towards it at speed . Because of the symmetry, after the collision both must be moving away from the center of mass at the same speed. Adding the speed of the center of mass to both, we find that the body that was moving is now stopped and the other is moving away at speed . The bodies have exchanged their velocities. Regardless of the velocities of the bodies, a switch to the center of mass frame leads us to the same conclusion. Therefore, the final velocities are given by   : \\begin v_1 & u_2\\\\   v_2 & u_1\\,. \\end     In general, when the initial velocities are known, the final velocities are given by    : v_ \\left u_ + \\left u_\\,   : v_ \\left u_ + \\left u_\\,.   If one body has much greater mass than the other, its velocity will be little affected by a collision while the other body will experience a large change.               In an inelastic collision, some of the kinetic energy of the colliding bodies is converted into other forms of energy . Examples include ": null
+    },
+    {
+        "traffic collisions": "traffic collisions"
+    },
+    {
+        ",  in which the effect of loss of kinetic energy can be seen in the damage to the vehicles; electrons losing some of their energy to atoms ;  and ": null
+    },
+    {
+        "particle accelerators": "particle accelerator"
+    },
+    {
+        "in which the kinetic energy is converted into mass in the form of new particles.     In a perfectly inelastic collision , both bodies have the same motion afterwards. If one body is motionless to begin with, the equation for conservation of momentum is   : m_1 u_1 \\left v\\,,   so   : v \\frac u_1\\,.   In a frame of reference moving at the speed R\\frac": null
+    },
+    {
+        "omet": "omet"
+    },
+    {
+        "vv_x,v_y,v_z \\rightpp_x,p_y,p_z \\rightpvalignalign": null
+    },
+    {
+        "themati": "themati"
+    },
+    {
+        "as in the figure": null
+    },
+    {
+        "trophysi": "trophysi"
+    },
+    {
+        "tdvdttdmdtincorrecttdvdtdmdtdmdmt+dt m - dm v + dv v - u talignalignalign t - \\frac \\right x - v t \\rightalign1\\sqrtpvFd \\mathbfdt": null
+    },
+    {
+        "ysi": "ysi"
+    },
+    {
+        "in this expression and in what follows the  ": null
+    },
+    {
+        "metric signature": "metric signature"
+    },
+    {
+        " has been used, different authors use different conventionsUV": null
+    },
+    {
+        "contravariant": "covariance and contravariance of vectors"
+    },
+    {
+        "Ud \\mathbfd \\taud \\mathbfdtcontravariantPUin Minkowski spacePc,\\mathbf\\rightm c,\\mathbfP\\frac, \\mathbf\\rightPPPc^2-v^2m_0cP\\frac,\\vec\\rightK\\frac,\\vec\\rightLknown as the Lagrange or ": null
+    },
+    {
+        "Euler–Lagrange equations": "euler–lagrange equation"
+    },
+    {
+        " dd t\\frac\\right\\partial \\mathcal\\partial q_j\\partial \\mathcal \\partial \\dot_jalthough its time derivative might appearconstanta function of generalized coordinates and their derivativesH\\mathbf,\\mathbf,t\\rightp\\mathbfL\\mathbf,\\dot,t\\rightalignq\\partial\\mathcal\\partial p_ip\\partial\\mathcal\\partial q_i\\partial \\mathcal\\partial td \\mathcald talign": null
+    },
+    {
+        "ysi": "ysi"
+    },
+    {
+        "shift ": null
+    },
+    {
+        "symmetry": "symmetry"
+    },
+    {
+        "position in space is the ": null
+    },
+    {
+        "canonical conjugate": "canonical conjugate"
+    },
+    {
+        " quantity to momentum Lorentz force F\\mathbf + \\mathbf \\times \\mathbfin ": null
+    },
+    {
+        "SI units": "international system of units"
+    },
+    {
+        "P\\mathbfAP\\mathbfAg1\\mu_0 c^2EBg\\mathbfc^2d \\mathbf_\\textd tQ\\rho\\mathbf + \\mathbf\\times\\mathbf\\rightPfield1\\mu_0c^2QEBdd t\\mathbf_\\text+ \\mathbf_\\text \\right\\sigma\\sum\\limits_ T_ n_j\\righti jE_i E_j - \\frac \\delta_ E^2\\right1\\mu_0B_i B_j - \\frac \\delta_ B^2\\rightor on a very small scale in mediag1c^2EH\\mathbfc^2B\\mathbf + \\mathbf\\rightp\\hbar\\over ipppincluding ": null
+    },
+    {
+        "visible light": "light"
+    },
+    {
+        ", ": null
+    },
+    {
+        "ultraviolet": "ultraviolet"
+    },
+    {
+        " light, and ": null
+    },
+    {
+        "radio waves": "radio waves"
+    },
+    {
+        "the particle aspect of lightsee ": null
+    },
+    {
+        "Abraham–Minkowski controversy": "abraham–minkowski controversy"
+    },
+    {
+        "gDDt\\partial\\partial tv\\nablazx\\partial v_x\\partial zD \\mathbfD t\\nablavgD \\mathbfD t\\nabla\\sigmaf": null
+    },
+    {
+        "chani": "chani"
+    },
+    {
+        "see ": null
+    },
+    {
+        "Types of viscosity": "viscositytypes of viscosity"
+    },
+    {
+        "\\partial^2 p\\partial t^2": null
+    },
+    {
+        "P-waves": "p-wave"
+    },
+    {
+        " S-waves": "s-waves"
+    },
+    {
+        "also known by his Latinized name ": null
+    },
+    {
+        "Avicenna": "avicenna"
+    },
+    {
+        "2004": null
+    }
+]

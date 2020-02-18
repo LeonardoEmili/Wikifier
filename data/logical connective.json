@@ -1,0 +1,245 @@
+[
+    {
+        "        In ": null
+    },
+    {
+        "logic": "mathematical logic"
+    },
+    {
+        ", a logical connective  is a ": null
+    },
+    {
+        "symbol": "symbol"
+    },
+    {
+        " or ": null
+    },
+    {
+        "word": "word"
+    },
+    {
+        " used to connect two or more ": null
+    },
+    {
+        "sentences": "sentence"
+    },
+    {
+        "  in a ": null
+    },
+    {
+        "grammatically valid": "syntax"
+    },
+    {
+        " way, such that the value of the compound sentence produced depends only on that of the original sentences and on the meaning of the connective.     The most common logical connectives are  binary connectives  which join two sentences which can be thought of as the functions ": null
+    },
+    {
+        "operand": "operand"
+    },
+    {
+        "s. Also commonly, ": null
+    },
+    {
+        "negation": "negation"
+    },
+    {
+        " is considered to be a  unary connective.     Logical connectives along with ": null
+    },
+    {
+        "quantifiers": "quantifier"
+    },
+    {
+        "are the two main types of ": null
+    },
+    {
+        "logical constants": "logical constant"
+    },
+    {
+        "used in ": null
+    },
+    {
+        "formal systems": "formal system"
+    },
+    {
+        "such as ": null
+    },
+    {
+        "propositional logic": "propositional logic"
+    },
+    {
+        " and ": null
+    },
+    {
+        "predicate logic": "predicate logic"
+    },
+    {
+        ". Semantics of a logical connective is often, but not always, presented as a ": null
+    },
+    {
+        "truth function": "truth function"
+    },
+    {
+        ".     A logical connective is similar to but not equivalent to a ": null
+    },
+    {
+        "conditional operator": "conditional operator"
+    },
+    {
+        ".            In the grammar of natural languages two sentences may be joined by a ": null
+    },
+    {
+        "grammatical conjunction": "grammatical conjunction"
+    },
+    {
+        " to form a grammatically ": null
+    },
+    {
+        "compound sentence": "compound sentence"
+    },
+    {
+        ". Some but not all such grammatical conjunctions are ": null
+    },
+    {
+        "truth function": "truth function"
+    },
+    {
+        "al. For example, consider the following sentences:          The words and and so are grammatical conjunctions joining the sentences and to form the compound sentences and . The and in is a logical connective, since the truth of is completely determined by and : it would make no sense to affirm and but deny . However, so in is not a logical connective, since it would be quite reasonable to affirm and but deny : perhaps, after all, Jill went up the hill to fetch a pail of water, not because Jack had gone up the hill at all.     Various English words and word pairs express logical connectives, and some of them are synonymous. Examples are:            In formal languages, truth functions are represented by unambiguous symbols. These symbols are called logical connectives, logical operators, propositional operators, or, in ": null
+    },
+    {
+        "classical logic": "classical logic"
+    },
+    {
+        ",  truth-functional connectives. See ": null
+    },
+    {
+        "well-formed formula": "well-formed formula"
+    },
+    {
+        " for the rules which allow new well-formed formulas to be constructed by joining other well-formed formulas using truth-functional connectives.     Logical connectives can be used to link more than two statements, so one can speak about  -ary logical connective.              Commonly used logical connectives include   ": null
+    },
+    {
+        "Negation ": "negation"
+    },
+    {
+        ": ¬ , N , ~   ": null
+    },
+    {
+        "Conjunction ": "logical conjunction"
+    },
+    {
+        ": & and; , K , &  , ∙   ": null
+    },
+    {
+        "Disjunction ": "logical disjunction"
+    },
+    {
+        ": & or;, A   ": null
+    },
+    {
+        "Material implication ": "material conditional"
+    },
+    {
+        ": & rarr; , C , & rArr; , & sup;   ": null
+    },
+    {
+        "Biconditional ": "logical biconditional"
+    },
+    {
+        ": & harr; , E , & equiv; ,     Alternative names for biconditional are iff, xnor, and bi-implication.     For example, the meaning of the statements it is raining and I am indoors is transformed when the two are combined with logical connectives. For statement P It is raining and Q I am indoors:   It is not raining    It is raining and  I am indoors   It is raining or I am indoors   If it is raining, then I am indoors   If I am indoors, then it is raining   I am indoors if and only if it is raining     It is also common to consider the always true formula and the always false formula to be connective:   ": null
+    },
+    {
+        "True": "truth"
+    },
+    {
+        " formula   ": null
+    },
+    {
+        "False": "false"
+    },
+    {
+        " formula       Negation: the symbol ¬ appeared in ": null
+    },
+    {
+        "Heyting": "arend heyting"
+    },
+    {
+        " in 1929. ": null
+    },
+    {
+        "Heyting": "heyting"
+    },
+    {
+        " Die formalen Regeln der intuitionistischen Logik. Denis Roegel,;l,;l.;, , http://www.loria.fr/~roegel/cours/symboles-logiques.pdf Petit panorama des notations logiques du 20e siècle . ; the symbol ~ appeared in Russell in 1908; ": null
+    },
+    {
+        "Russell": "bertrand russell"
+    },
+    {
+        " Mathematical logic as based on the theory of types . an alternative notation is to add a horizontal line on top of the formula, as in \\overline ; another alternative notation is to use a ": null
+    },
+    {
+        "prime symbol": "prime"
+    },
+    {
+        " as in P.   Conjunction: the symbol ∧ appeared in Heyting in 1929 ; & appeared at least in ": null
+    },
+    {
+        "Schönfinkel": "moses schönfinkel"
+    },
+    {
+        " in 1924; ": null
+    },
+    {
+        "Schönfinkel": "moses schönfinkel"
+    },
+    {
+        "  Über die Bausteine der mathematischen Logik, translated as On the building blocks of mathematical logic in From Frege to Gödel edited by van Heijenoort. . comes from ": null
+    },
+    {
+        "Booles": "george boole"
+    },
+    {
+        "interpretation of logic as an ": null
+    },
+    {
+        "elementary algebra": "elementary algebra"
+    },
+    {
+        ".   Disjunction: the symbol ∨ appeared in ": null
+    },
+    {
+        "Russell": "bertrand russell"
+    },
+    {
+        " in 1908 ; the symbol + is also used, in spite of the ambiguity coming from the fact that the + of ordinary ": null
+    },
+    {
+        "elementary algebra": "elementary algebra"
+    },
+    {
+        " is an ": null
+    },
+    {
+        "exclusive or": "exclusive or"
+    },
+    {
+        " when interpreted logically in a two-element ": null
+    },
+    {
+        "ring": "boolean ring"
+    },
+    {
+        "; punctually in the history a + together with a dot in the lower right corner has been used by ": null
+    },
+    {
+        "Peirce": "charles sanders peirce"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Peirce": "charles sanders peirce"
+    },
+    {
+        " On an improvement in Booles calculus of logic.   Implication: the symbol → can be seen in Hilbert in 1917; Hilbert Prinzipien der Mathematik . ⊃ was used by Russell in 1908 ; & rArr; was used in Vax. Vax Lexique logique, Presses Universitaires de France.   Biconditional: the symbol ≡ was used at least by Russell in 1908; ↔ was used at least by Tarski in 1940; Tarski Introduction to logic and to the methodology of deductive sciences. ⇔ was used in Vax; other symbols appeared punctually in the history such as ⊃⊂ in Gentzen , Gentzen Untersuchungen über das logische Schließen. ~ in Schönfinkel or ⊂⊃ in Chazal. Chazal : Éléments de logique formelle.   True: the symbol 1 comes from Boole s interpretation of logic as an elementary algebra over the two-element Boolean algebra ; other notations include \\bigwedge to be found in Peano.   False: the symbol 0 comes also from Booles interpretation of logic as a ring; other notations include \\bigvee to be found in Peano.     Some authors used letters for connectives at some time of the history: u. for conjunction and o. for disjunction in earlier works by Hilbert ; Np for negation, Kpq for conjunction, Dpq for alternative denial, Apq for disjunction, Xpq for joint denial, Cpq for implication, Epq for biconditional in Łukasiewicz ; See Roegel cf. Polish notation .         Such a logical connective as converse implication ← is actually the same as material conditional with swapped arguments; thus, the symbol for converse implication is redundant. In some logical calculi certain essentially different compound statements are logically equivalent . A less trivial example of a redundancy is the classical equivalence between and . Therefore, a classical-based logical system does not need the conditional operator → if ¬ and ∨ are already in use, or may use the → only as a syntactic sugar for a compound having one negation and one disjunction.     There are sixteen Boolean function s associating the input truth value s and with four-digit binary outputs. Bocheński , A Précis of Mathematical Logic, passim. These correspond to possible choices of binary logical connectives for classical logic . Different implementations of classical logic can choose different functionally complete subsets of connectives.     One approach is to choose a minimal set, and define other connectives by some logical form, as in the example with the material conditional above.   The following are the minimal functionally complete sets of operators in classical logic whose arities do not exceed 2:   ;One element: , .   ;Two elements: \\ , \\ , \\ , \\ , \\ , \\ , \\ , \\ , \\ , \\ , \\ , \\ , \\ , \\ , \\ , \\ , \\ , \\ .   ;Three elements: \\ , \\ , \\ , \\ , \\ , \\ .     Another approach is to use with equal rights connectives of a certain convenient and functionally complete, but not minimal set. This approach requires more propositional axiom s, and each equivalence between logical forms must be either an axiom or provable as a theorem.     The situation, however, is more complicated in intuitionistic logic . Of its five connectives, , only negation ¬ can be reduced to other connectives . Neither conjunction, disjunction, nor material conditional has an equivalent form constructed of the other four logical connectives.       Some logical connectives possess properties which may be expressed in the theorems containing the connective. Some of those properties that a logical connective may have are:     ; Associativity : Within an expression containing two or more of the same associative connectives in a row, the order of the operations does not matter as long as the sequence of the operands is not changed.   ; Commutativity : The operands of the connective may be swapped preserving logical equivalence to the original expression.   ; Distributivity : A connective denoted by · distributes over another connective denoted by +, if for all operands , , .   ; Idempotence : Whenever the operands of the operation are the same, the compound is logically equivalent to the operand.   ; Absorption : A pair of connectives & and;, & or; satisfies the absorption law if a\\landa for all operands , .   ; Monotonicity : If f ≤ f for all a 1 , ..., a n , b 1 , ..., b n ∈ such that a 1 ≤ b 1 , a 2 ≤ b 2 , ..., a n ≤ b n": null
+    }
+]

@@ -1,0 +1,707 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "quantum mechanics": "quantum mechanics"
+    },
+    {
+        ", bra–ket notation is a common notation for ": null
+    },
+    {
+        "quantum states": "quantum state"
+    },
+    {
+        "i.e. vectors in a complex ": null
+    },
+    {
+        "Hilbert space": "hilbert space"
+    },
+    {
+        " on which an algebra of observables act. More generally the notation uses the ": null
+    },
+    {
+        "angle brackets": "angle bracket"
+    },
+    {
+        " and a ": null
+    },
+    {
+        "vertical bar": "vertical bar"
+    },
+    {
+        " , for a ket  like |v \\rangle to denote a ": null
+    },
+    {
+        "vector": "vector space"
+    },
+    {
+        " in an abstract ": null
+    },
+    {
+        "vector space": "vector space"
+    },
+    {
+        " V and a bra,  like \\langle f| to denote a ": null
+    },
+    {
+        "linear functional": "linear functional"
+    },
+    {
+        " on V , i.e. a co-vector, an element of the ": null
+    },
+    {
+        "dual vector space": "dual vector space"
+    },
+    {
+        " V^\\vee . The natural pairing \\mapsto f of a linear functional f \\langle f| with a vector v |v\\rangle is then written as \\langle f| v\\rangle . On Hilbert spaces, the ": null
+    },
+    {
+        "scalar product": "scalar product"
+    },
+    {
+        " gives an identification of a vector ket \\phi |\\phi\\rangle with a linear functional bra \\langle\\phi| . Using this notation, the scalar product \\langle\\phi|\\psi\\rangle .   For the vector space \\mathbb^n , kets can be identified with column vectors, and bras with row vectors. Combinations of bras, kets, and operators are interpreted using ": null
+    },
+    {
+        "matrix multiplication": "matrix multiplication"
+    },
+    {
+        ". If \\mathbb^n has the standard hermitian inner product v^\\dagger w , under this identification, the identification of kets and bras and vice versa provided by the inner product is taking the hermitian conjugate \\dagger .     It is common to suppress the vector or functional from the bra–ket notation and only use a label inside the typography for the bra or ket. For example the spin operator \\sigma_z on a two dimensional space \\Delta of ": null
+    },
+    {
+        "spinors": "spinors"
+    },
+    {
+        ", has eigenvalues \\pm \\frac12 with eigen spinors \\psi_+,\\psi_- \\in \\Delta . In bra-ket notation one typically denotes this as \\psi_+ |+\\rangle , and   \\psi_- |-\\rangle . Just as above, kets and bras with the same label are interpreted as kets and bras corresponding to each other using the inner product. In particular when also identified with row and column vectors, kets and bras with the same label are identified with ": null
+    },
+    {
+        "Hermitian conjugate": "hermitian conjugate"
+    },
+    {
+        " column and row vectors.     Bra-ket notation was introduced in 1939 by ": null
+    },
+    {
+        "Paul Dirac": "paul dirac"
+    },
+    {
+        "   and is also known as the Dirac notation. However the bra-ket notation has a precursor in ": null
+    },
+    {
+        "Hermann Grassmanns": "hermann grassmann"
+    },
+    {
+        "use of the notation for his inner products nearly 100 years earlier.  , Leonard Susskind on complex numbers, complex conjugate, bra, ket. 2006-10-02.       Bra–ket notation is a notation for ": null
+    },
+    {
+        "linear algebra": "linear algebra"
+    },
+    {
+        " and ": null
+    },
+    {
+        "linear operators": "linear operator"
+    },
+    {
+        " on ": null
+    },
+    {
+        "complex vector spaces": "complex vector space"
+    },
+    {
+        "together with their ": null
+    },
+    {
+        "dual space": "dual space"
+    },
+    {
+        " both in the finite-dimensional and infinite-dimensional case. It is specifically designed to ease the types of calculations that frequently come up in ": null
+    },
+    {
+        "quantum mechanics": "quantum mechanics"
+    },
+    {
+        ". Its use in quantum mechanics is quite widespread. Many phenomena that are explained using quantum mechanics are explained using bra–ket notation.             In mathematics, the term vector is used for an element of any vector space. In physics, however, the term vector is much more specific: vector refers almost exclusively to quantities like ": null
+    },
+    {
+        "displacement": "displacement"
+    },
+    {
+        " or ": null
+    },
+    {
+        "velocity": "velocity"
+    },
+    {
+        ", which have components that relate directly to the three dimensions of space, or relativistically, to the four of space time. Such vectors are typically denoted with over arrows , boldface or indices .     In quantum mechanics, a ": null
+    },
+    {
+        "quantum state": "quantum state"
+    },
+    {
+        " is typically represented as an element of a complex Hilbert space, for example, the infinite-dimensional vector space of all possible ": null
+    },
+    {
+        "wavefunctions": "wavefunction"
+    },
+    {
+        " or some more abstract Hilbert space constructed more algebraically. Since the term vector is already used for something else , and physicists tend to prefer conventional notation to stating what space something is an element of, it is common and useful to denote an element \\phi of an abstract complex vector spaces as a ket |\\phi\\rangle using vertical bars and angular brackets and refer to them as kets rather than as vectors and pronounced ket- \\phi or ket-A for . Symbols, letters, numbers, or even words—whatever serves as a convenient label—can be used as the label inside a ket, with the |\\ \\rangle making clear that the label indicates a vector in vector space. In other words, the symbol  has a specific and universal mathematical meaning, while just the  by itself does not. For example,  might or might not be equal to . Nevertheless, for convenience, there is usually some logical scheme behind the labels inside kets, such as the common practice of labeling ": null
+    },
+    {
+        "energy eigenkets": "stationary state"
+    },
+    {
+        " in quantum mechanics through a listing of their ": null
+    },
+    {
+        "quantum number": "quantum number"
+    },
+    {
+        "s.     Ket notation was invented by Dirac          Since kets are just vectors in a vector space they can be manipulated using the usual rules of linear algebra, for example:     : \\begin   |A \\rangle & |B\\rangle + |C\\rangle \\\\   |C \\rangle & |D \\rangle \\\\   |D \\rangle & \\int_^ e^ |x\\rangle \\, \\mathrmx \\,.   \\end     Note how the last line above involves infinitely many different kets, one for each real number .     If the ket is an element of a vector space, a bra \\langle A| is an element of its ": null
+    },
+    {
+        "dual space": "dual space"
+    },
+    {
+        ", i.e a bra is a linear functional which is a linear map from the vector space to the complex numbers. Thus, it is useful to think of kets and bras as being elements of different vector spaces with both being different useful concepts     A bra \\langle\\phi| and a ket |\\psi\\rangle , can be combined to an operator |\\psi\\rangle\\langle\\phi| of rank one with ": null
+    },
+    {
+        "outer product": "outer product"
+    },
+    {
+        "     : |\\psi\\rangle\\langle\\phi| : |\\xi\\rangle \\mapsto |\\psi\\rangle\\langle\\phi|\\xi\\rangle            The bra-ket notation is particularly useful in Hilbert spaces which have an ": null
+    },
+    {
+        "inner product": "inner product"
+    },
+    {
+        " , Leonard Susskind on inner product, 2006-10-02. that allows ": null
+    },
+    {
+        "Hermitian conjugation": "hermitian conjugation"
+    },
+    {
+        " and identifying a vector with a linear functional, i.e. a ket with a bra, and vice versa . The ": null
+    },
+    {
+        "inner product": "inner product"
+    },
+    {
+        " on Hilbert space is fully equivalent to an identification between the space of kets and that of bras in the bra ket notation: for a vector ket \\phi |\\phi\\rangle define a functional f_\\phi \\langle\\phi| by     : : f_\\phi \\langle\\phi| \\, \\bigl \\langle\\phi\\psi\\rangle             In the simple case where we consider the vector space \\mathbf^n , a ket can be identified with a ": null
+    },
+    {
+        "column vector": "column vector"
+    },
+    {
+        ", and a bra as a ": null
+    },
+    {
+        "row vector": "row vector"
+    },
+    {
+        ". If moreover we use the standard hermitian innerproduct on \\mathbf^n , the bra corresponding to a ket, in particular a bra  and a ket  with the same label are ": null
+    },
+    {
+        "conjugate transpose": "conjugate transpose"
+    },
+    {
+        ". Moreover, conventions are set up in such a way that writing bras, kets, and linear operators next to each other simply imply ": null
+    },
+    {
+        "matrix multiplication": "matrix multiplication"
+    },
+    {
+        ".  In particular the outer product |\\psi\\rangle\\langle\\phi| of a column and a row vector ket and bra can be identified with matrix multiplication .       For a finite-dimensional vector space, using a fixed ": null
+    },
+    {
+        "orthonormal basis": "orthonormal basis"
+    },
+    {
+        ", the inner product can be written as a ": null
+    },
+    {
+        "matrix multiplication": "matrix multiplication"
+    },
+    {
+        " of a row vector with a column vector:   : \\langle A | B \\rangle \\doteq A_1^ B_1 + A_2^ B_2 + \\cdots + A_N^ B_N   \\begin A_1^ & A_2^ & \\cdots & A_N^ \\end   \\begin B_1 \\\\ B_2 \\\\ \\vdots \\\\ B_N \\end   Based on this, the bras and kets can be defined as:   : \\begin \\langle A | & \\doteq \\begin A_1^ & A_2^ & \\cdots & A_N^ \\end \\\\   | B \\rangle & \\doteq \\begin B_1 \\\\ B_2 \\\\ \\vdots \\\\ B_N \\end \\end   and then it is understood that a bra next to a ket implies ": null
+    },
+    {
+        "matrix multiplication": "matrix multiplication"
+    },
+    {
+        ".     The ": null
+    },
+    {
+        "conjugate transpose": "conjugate transpose"
+    },
+    {
+        "  of a bra is the corresponding ket and vice versa:   : \\langle A |^\\dagger |A \\rangle, \\quad |A \\rangle^\\dagger \\langle A |   because if one starts with the bra   : \\begin A_1^ & A_2^ & \\cdots & A_N^ \\end \\,,   then performs a ": null
+    },
+    {
+        "complex conjugation": "complex conjugation"
+    },
+    {
+        ", and then a ": null
+    },
+    {
+        "matrix transpose": "matrix transpose"
+    },
+    {
+        ", one ends up with the ket   : \\begin A_1 \\\\ A_2 \\\\ \\vdots \\\\ A_N \\end     Writing elements of a finite dimensional vector space as a column vector of numbers requires picking a ": null
+    },
+    {
+        "basis": "basis"
+    },
+    {
+        ". Picking a basis is not always helpful because quantum mechanics calculations involve frequently switching between different bases , and one can write something like  without committing to any particular basis. In situations involving two different important basis vectors, the basis vectors can be taken in the notation explicitly and here will be referred simply as  and  .         Bra–ket notation can be used even if the vector space is not a ": null
+    },
+    {
+        "Hilbert space": "hilbert space"
+    },
+    {
+        ".     In quantum mechanics, it is common practice to write down kets which have infinite ": null
+    },
+    {
+        "norm": "norm"
+    },
+    {
+        ", i.e. non-": null
+    },
+    {
+        "normalizable wavefunction": "normalizable wavefunction"
+    },
+    {
+        "s. Examples include states whose ": null
+    },
+    {
+        "wavefunctions": "wavefunction"
+    },
+    {
+        "are ": null
+    },
+    {
+        "Dirac delta functions": "dirac delta function"
+    },
+    {
+        "or infinite ": null
+    },
+    {
+        "plane wave": "plane wave"
+    },
+    {
+        "s. These do not, technically, belong to the ": null
+    },
+    {
+        "Hilbert space": "hilbert space"
+    },
+    {
+        " itself. However, the definition of Hilbert space can be broadened to accommodate these states . The bra–ket notation continues to work in an analogous way in this broader context.     ": null
+    },
+    {
+        "Banach spaces": "banach space"
+    },
+    {
+        "are a different generalization of Hilbert spaces. In a Banach space , the vectors may be notated by kets and the continuous ": null
+    },
+    {
+        "linear functionals": "linear functional"
+    },
+    {
+        "by bras. Over any vector space without ": null
+    },
+    {
+        "topology": "topology"
+    },
+    {
+        ", we may also notate the vectors by kets and the linear functionals by bras. In these more general contexts, the bracket does not have the meaning of an inner product, because the Riesz representation theorem does not apply.         The mathematical structure of ": null
+    },
+    {
+        "quantum mechanics": "quantum mechanics"
+    },
+    {
+        " is based in large part on ": null
+    },
+    {
+        "linear algebra": "linear algebra"
+    },
+    {
+        ":   ": null
+    },
+    {
+        "Wave functions": "wave function"
+    },
+    {
+        "and other ": null
+    },
+    {
+        "quantum states": "quantum state"
+    },
+    {
+        "can be represented as vectors in a complex ": null
+    },
+    {
+        "Hilbert space": "hilbert space"
+    },
+    {
+        ". In bra–ket notation, for example, an electron might be in the state .    ": null
+    },
+    {
+        "Quantum superpositions": "quantum superposition"
+    },
+    {
+        "can be described as vector sums of the constituent states. For example, an electron in the state  is in a quantum superposition of the states  and .   ": null
+    },
+    {
+        "Measurements": "measurement in quantum mechanics"
+    },
+    {
+        " are associated with ": null
+    },
+    {
+        "linear operators": "linear operator"
+    },
+    {
+        "  on the Hilbert space of quantum states.   Dynamics are also described by linear operators on the Hilbert space. For example, in the ": null
+    },
+    {
+        "Schrödinger picture": "schrödinger picture"
+    },
+    {
+        ", there is a linear ": null
+    },
+    {
+        "time evolution": "time evolution"
+    },
+    {
+        " operator  with the property that if an electron is in state  right now, at a later time it will be in the state , the same  for every possible .   ": null
+    },
+    {
+        "Wave function normalization": "normalizable wave function"
+    },
+    {
+        " is scaling a wave function so that its ": null
+    },
+    {
+        "norm": "norm"
+    },
+    {
+        " is 1.     Since virtually every calculation in quantum mechanics involves vectors and linear operators, it can involve, and often does involve, bra–ket notation. A few examples follow:            The Hilbert space of a ": null
+    },
+    {
+        "spin": "spin"
+    },
+    {
+        "-0 point particle is spanned by a position ": null
+    },
+    {
+        "basis": "basis"
+    },
+    {
+        " , where the label  extends over the set of all points in ": null
+    },
+    {
+        "position space": "position space"
+    },
+    {
+        ". This label is the eigenvalue of the position operator acting on such a basis state, \\hat|\\mathbf\\rangle \\mathbf|\\mathbf\\rangle . Since there are an ": null
+    },
+    {
+        "uncountably infinite": "uncountably infinite"
+    },
+    {
+        " number of vector components in the basis, this is an uncountably infinite-dimensional Hilbert space. The dimensions of the Hilbert space and position space are not to be conflated.     Starting from any ket  in this Hilbert space, one may define a complex scalar function of , known as a ": null
+    },
+    {
+        "wavefunction": "wavefunction"
+    },
+    {
+        ",   : \\Psi \\ \\stackrel\\ \\lang \\mathbf|\\Psi\\rang \\,.     On the left-hand side,  is a function mapping any point in space to a complex number; on the right-hand side,  is a ket consisting of a superposition of kets with relative coefficients specified by that function.     It is then customary to define linear operators acting on wavefunctions in terms of linear operators acting on kets, by   : \\hat A \\Psi \\ \\stackrel\\ \\lang \\mathbf|\\hat A|\\Psi\\rang \\,.     For instance, the ": null
+    },
+    {
+        "momentum": "momentum"
+    },
+    {
+        " operator \\hat \\mathbf has the following form,   : \\hat\\Psi \\ \\stackrel\\ \\lang \\mathbf |\\hat \\mathbf|\\Psi\\rang - i \\hbar \\nabla \\Psi \\,.     One occasionally encounters an expression such as   : \\nabla |\\Psi\\rang \\,,   though this is something of an ": null
+    },
+    {
+        "abuse of notation": "abuse of notation"
+    },
+    {
+        ". The differential operator must be understood to be an abstract operator, acting on kets, that has the effect of differentiating wavefunctions once the expression is projected onto the position basis, \\nabla \\lang\\mathbf|\\Psi\\rang \\,,   even though, in the momentum basis, this operator amounts to a mere multiplication operator . That is, to say,   : \\langle \\mathbf |\\hat \\mathbf - i \\hbar \\nabla \\langle \\mathbf| ~,   or   : \\hat \\mathbf \\int d^3 \\mathbf ~| \\mathbf\\rangle \\langle \\mathbf| ~.       In quantum mechanics the expression  is typically interpreted as the ": null
+    },
+    {
+        "probability amplitude": "probability amplitude"
+    },
+    {
+        " for the state  to ": null
+    },
+    {
+        "collapse": "wavefunction collapse"
+    },
+    {
+        " into the state . Mathematically, this means the coefficient for the projection of  onto . It is also described as the projection of state  onto state .      particle": null
+    },
+    {
+        "spin-": "spin-½"
+    },
+    {
+        " particle has a two-dimensional Hilbert space. One ": null
+    },
+    {
+        "orthonormal basis": "orthonormal basis"
+    },
+    {
+        " is:   : |_z \\rangle \\,, \\; |_z \\rangle   where  is the state with a definite value of the ": null
+    },
+    {
+        "spin operator ": "angular momentum operator"
+    },
+    {
+        " equal to + and  is the state with a definite value of the ": null
+    },
+    {
+        "spin operator ": "angular momentum operator"
+    },
+    {
+        " equal to −.     Since these are a ": null
+    },
+    {
+        "basis": "basis"
+    },
+    {
+        ", any ": null
+    },
+    {
+        "quantum state": "quantum state"
+    },
+    {
+        " of the particle can be expressed as a ": null
+    },
+    {
+        "linear combination": "linear combination"
+    },
+    {
+        "  of these two states:   : |\\psi \\rangle a_ |_z \\rangle + b_ |_z \\rangle   where  and  are complex numbers.     A different basis for the same Hilbert space is:   : |_x \\rangle \\,, \\; |_x \\rangle   defined in terms of  rather than .     Again, any state of the particle can be expressed as a linear combination of these two:   : |\\psi \\rangle c_ |_x \\rangle + d_ |_x \\rangle     In vector form, you might write   : |\\psi\\rangle \\doteq \\begin a_\\psi \\\\ b_\\psi \\end \\quad \\text \\quad |\\psi\\rangle \\doteq \\begin c_\\psi \\\\ d_\\psi \\end   depending on which basis you are using. In other words, the coordinates of a vector depend on the basis used.     There is a mathematical relationship between , ,  and ; see ": null
+    },
+    {
+        "change of basis": "change of basis"
+    },
+    {
+        ".            There are a few conventions and abuses of notation that are generally accepted by the physics community, but which might confuse the non-initiated.     It is common to use the same symbol for labels and constants in the same equation. For example, , where the symbol  is used simultaneously as the name of the operator , its eigenvector  and the associated eigenvalue .     Something similar occurs in component notation of vectors. While  is traditionally associated with wavefunctions,  may be used to denote a label, a wave function or complex constant in the same context, usually differentiated only by a subscript.     The main abuses are including operations inside the vector labels. This is done for a fast notation of scaling vectors. E.g. if the vector  is scaled by , it might be denoted by , which makes no sense since  is a label, not a function or a number, so you cant perform operations on it.     This is especially common when denoting vectors as tensor products, where part of the labels are moved outside the designed slot, e.g. . Here part of the labeling that should state that all three vectors are different was moved outside the kets, as subscripts 1 and 2. And a further abuse occurs, since  is meant to refer to the norm of the first vector—which is a label denoting a value.                A ": null
+    },
+    {
+        "linear operator": "linear operator"
+    },
+    {
+        " is a map that inputs a ket and outputs a ket.  In other words, if  is a linear operator and  is a ket, then  is another ket.     In an -dimensional Hilbert space,  can be written as an  ": null
+    },
+    {
+        "column vector": "column vector"
+    },
+    {
+        ", and then  is an  matrix with complex entries. The ket  can be computed by normal ": null
+    },
+    {
+        "matrix multiplication": "matrix multiplication"
+    },
+    {
+        ".     Linear operators are ubiquitous in the theory of quantum mechanics. For example, observable physical quantities are represented by ": null
+    },
+    {
+        "self-adjoint operator": "self-adjoint operator"
+    },
+    {
+        "s, such as ": null
+    },
+    {
+        "energy": "energy"
+    },
+    {
+        " or ": null
+    },
+    {
+        "momentum": "momentum"
+    },
+    {
+        ", whereas transformative processes are represented by ": null
+    },
+    {
+        "unitary": "unitary operator"
+    },
+    {
+        " linear operators such as rotation or the progression of time.         Operators can also be viewed as acting on bras from the right hand side. Specifically, if  is a linear operator and  is a bra, then  is another bra defined by the rule     : \\bigl |\\psi\\rangle \\langle\\phi| \\bigl \\,,     . This expression is commonly written as      : \\langle\\phi|\\boldsymbol|\\psi\\rangle \\,.     In an -dimensional Hilbert space,  can be written as a  ": null
+    },
+    {
+        "row vector": "row vector"
+    },
+    {
+        ", and  is an  matrix. Then the bra  can be computed by normal ": null
+    },
+    {
+        "matrix multiplication": "matrix multiplication"
+    },
+    {
+        ".     If the same state vector appears on both bra and ket side,   : \\langle\\psi|\\boldsymbol|\\psi\\rangle \\,,   then this expression gives the ": null
+    },
+    {
+        "expectation value": "expectation value"
+    },
+    {
+        ", or mean or average value, of the observable represented by operator  for the physical system in the state .         A convenient way to define linear operators on a Hilbert space  is given by the ": null
+    },
+    {
+        "outer product": "outer product"
+    },
+    {
+        ": if  is a bra and  is a ket, the outer product   : |\\phi\\rang \\, \\lang \\psi|   denotes the ": null
+    },
+    {
+        "rank-one operator": "finite-rank operator"
+    },
+    {
+        " with the rule   : \\bigl \\lang \\psi | x \\rang |\\phi \\rang .     For a finite-dimensional vector space, the outer product can be understood as simple matrix multiplication:   : |\\phi \\rangle \\, \\langle \\psi | \\doteq   \\begin \\phi_1 \\\\ \\phi_2 \\\\ \\vdots \\\\ \\phi_N \\end   \\begin \\psi_1^ & \\psi_2^ & \\cdots & \\psi_N^ \\end   \\begin   \\phi_1 \\psi_1^ & \\phi_1 \\psi_2^ & \\cdots & \\phi_1 \\psi_N^ \\\\   \\phi_2 \\psi_1^ & \\phi_2 \\psi_2^ & \\cdots & \\phi_2 \\psi_N^ \\\\   \\vdots & \\vdots & \\ddots & \\vdots \\\\   \\phi_N \\psi_1^ & \\phi_N \\psi_2^ & \\cdots & \\phi_N \\psi_N^ \\end     The outer product is an  matrix, as expected for a linear operator.     One of the uses of the outer product is to construct ": null
+    },
+    {
+        "projection operator": "projection operator"
+    },
+    {
+        "s. Given a ket  of norm 1, the orthogonal projection onto the ": null
+    },
+    {
+        "subspace": "linear subspace"
+    },
+    {
+        " spanned by  is   : |\\psi\\rangle \\, \\langle\\psi| \\,.          Just as kets and bras can be transformed into each other , the element from the dual space corresponding to  is , where  denotes the ": null
+    },
+    {
+        "Hermitian conjugate": "hermitian conjugate"
+    },
+    {
+        " of the operator . In other words,   : |\\phi\\rangle A |\\psi\\rangle \\quad \\text \\quad \\langle\\phi| \\langle \\psi | A^\\dagger \\,.     If  is expressed as an  matrix, then  is its ": null
+    },
+    {
+        "conjugate transpose": "conjugate transpose"
+    },
+    {
+        ".     ": null
+    },
+    {
+        "Self-adjoint": "self-adjoint"
+    },
+    {
+        " operators, where , play an important role in quantum mechanics; for example, an ": null
+    },
+    {
+        "observable": "observable"
+    },
+    {
+        " is always described by a self-adjoint operator. If  is a self-adjoint operator, then  is always a real number . This implies that ": null
+    },
+    {
+        "expectation values": "expectation value"
+    },
+    {
+        " of observables are real.       Bra–ket notation was designed to facilitate the formal manipulation of linear-algebraic expressions. Some of the properties that allow this manipulation are listed herein. In what follows,  and  denote arbitrary ": null
+    },
+    {
+        "complex number": "complex number"
+    },
+    {
+        "s,  denotes the ": null
+    },
+    {
+        "complex conjugate": "complex conjugate"
+    },
+    {
+        " of ,  and  denote arbitrary linear operators, and these properties are to hold for any choice of bras and kets.       Since bras are linear functionals,     :: \\langle\\phi| \\bigl c_1\\langle\\phi|\\psi_1\\rangle + c_2\\langle\\phi|\\psi_2\\rangle \\,.     By the definition of addition and scalar multiplication of linear functionals in the ": null
+    },
+    {
+        "dual space": "dual space"
+    },
+    {
+        ", , eqns 12 and 13     :: \\bigl |\\psi\\rangle c_1 \\langle\\phi_1|\\psi\\rangle + c_2 \\langle\\phi_2|\\psi\\rangle \\,.       Given any expression involving complex numbers, bras, kets, inner products, outer products, and/or linear operators , written in bra–ket notation, the parenthetical groupings do not matter . For example:   : \\begin   \\lang \\psi| \\bigl \\bigl|\\phi\\rang \\, & \\stackrel \\, \\lang \\psi | A | \\phi \\rang \\\\   \\bigl\\lang \\phi| A\\bigl \\, & \\stackrel \\, A | \\psi \\rang \\lang \\phi |   \\end   and so forth. The expressions on the right are allowed to be written unambiguously because of the equalities on the left. Note that the associative property does not hold for expressions that include nonlinear operators, such as the ": null
+    },
+    {
+        "antilinear": "antilinear"
+    },
+    {
+        " time reversal operator": "t-symmetry"
+    },
+    {
+        " in physics.       Bra–ket notation makes it particularly easy to compute the Hermitian conjugate  of expressions. The formal rules are:   The Hermitian conjugate of a bra is the corresponding ket, and vice versa.   The Hermitian conjugate of a complex number is its complex conjugate.   The Hermitian conjugate of the Hermitian conjugate of anything is itself—i.e.,   :: \\left^\\daggerx \\,.   Given any combination of complex numbers, bras, kets, inner products, outer products, and/or linear operators, written in bra–ket notation, its Hermitian conjugate can be computed by reversing the order of the components, and taking the Hermitian conjugate of each.     These rules are sufficient to formally write the Hermitian conjugate of any such expression; some examples are as follows:   Kets:   ::   \\bigl^\\dagger c_1^ \\langle\\psi_1| + c_2^ \\langle\\psi_2| \\,.     Inner products:   :: \\langle \\phi | \\psi \\rangle^ \\langle \\psi|\\phi\\rangle \\,.     :Note that  is a scalar, so the Hermitian conjugate is just the complex conjugate, i.e.   :: \\bigl^\\dagger \\langle \\phi | \\psi \\rangle^   Matrix elements:   :: \\begin   \\langle \\phi| A | \\psi \\rangle^ & \\left\\langle \\psi \\left| A^\\dagger \\right|\\phi \\right\\rangle \\\\   \\left\\langle \\phi\\left| A^\\dagger B^\\dagger \\right| \\psi \\right\\rangle^ & \\langle \\psi | BA |\\phi \\rangle \\,.   \\end   Outer products:   :: \\Big^\\dagger \\bigl + \\bigl \\,.       Two Hilbert spaces  and  may form a third space  by a ": null
+    },
+    {
+        "tensor product": "tensor product"
+    },
+    {
+        ". In quantum mechanics, this is used for describing composite systems. If a system is composed of two subsystems described in  and  respectively, then the Hilbert space of the entire system is the tensor product of the two spaces.      If  is a ket in  and  is a ket in , the direct product of the two kets is a ket in . This is written in various notations:   : |\\psi\\rangle|\\phi\\rangle \\,,\\quad |\\psi\\rangle \\otimes |\\phi\\rangle\\,,\\quad|\\psi \\phi\\rangle\\,,\\quad|\\psi ,\\phi\\rangle\\,.     See ": null
+    },
+    {
+        "quantum entanglement": "quantum entanglementquantum mechanical framework"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "EPR paradox": "epr paradoxmathematical formulation"
+    },
+    {
+        " for applications of this product.       Consider a complete ": null
+    },
+    {
+        "orthonormal": "orthonormal"
+    },
+    {
+        " system ,   : \\ \\,,   for a Hilbert space , with respect to the norm from an inner product .     From basic ": null
+    },
+    {
+        "functional analysis": "functional analysis"
+    },
+    {
+        ", it is known that any ket  can also be written as   : |\\psi\\rangle \\sum_ \\langle e_i | \\psi \\rangle | e_i \\rangle,   with  the inner product on the Hilbert space.     From the commutativity of kets with scalars, it follows that   : \\sum_ | e_i \\rangle \\langle e_i | \\mathbb   must be the identity operator, which sends each vector to itself.     This, then, can be inserted in any expression without affecting its value; for example   : \\begin   \\langle v | w \\rangle & \\langle v | \\left | w \\rangle \\\\   & \\langle v | \\left \\left| w \\rangle \\\\   & \\langle v | e_i \\rangle \\langle e_i | e_j \\rangle \\langle e_j | w \\rangle \\,,   \\end   where, in the last identity, the ": null
+    },
+    {
+        "Einstein summation convention": "einstein summation convention"
+    },
+    {
+        " has been used.     In ": null
+    },
+    {
+        "quantum mechanics": "quantum mechanics"
+    },
+    {
+        ", it often occurs that little or no information about the inner product  of two arbitrary kets is present, while it is still possible to say something about the expansion coefficients  and  of those vectors with respect to a specific basis. In this case, it is particularly useful to insert the unit operator into the bracket one time or more.     For more information, see ": null
+    },
+    {
+        "Resolution of the identity": "resolution of the identity"
+    },
+    {
+        ",       , where .     Since , plane waves follow, . In his book , Ch. III.20, Dirac defines the standard ket which, up to a normalization, is the translationally invariant momentum eigenstate |\\varpi\\rangle\\lim_ |p\\rangle in the momentum representation, i.e., \\hat|\\varpi\\rangle0 . Consequently, the corresponding wavefunction is a constant, \\langle x|\\varpi\\rangle \\sqrt1 , and |x\\rangle \\delta |\\varpi\\rangle \\sqrt .     Typically, when all matrix elements of an operator such as   : \\langle x| A |y\\rangle   are available,   this resolution serves to reconstitute the full operator,   : \\int dx dy ~~ |x\\rangle \\langle x| A |y\\rangle \\langle y | A ~.         The object physicists are considering when using bra–ket notation is a ": null
+    },
+    {
+        "Hilbert space": "hilbert space"
+    },
+    {
+        " .     Let  be a Hilbert space and  a vector in . What physicists would denote by  is the vector itself. That is,     : |h\\rangle\\in \\mathcal .     Let  be the ": null
+    },
+    {
+        "dual space": "dual space"
+    },
+    {
+        " of . This is the space of linear functionals on . The isomorphism  is defined by , where for every  we define   : \\phi_h \\mbox \\langle h,g \\rangle \\langle h|g \\rangle ,   where , ,  and  are just different notations for expressing an inner product between two elements in a Hilbert space . Notational confusion arises when identifying  and  with  and  respectively. This is because of literal symbolic substitutions. Let  and let . This gives     : \\phi_h H H\\langle h| \\langle h|\\bigl \\,.     One ignores the parentheses and removes the double bars. Some properties of this notation are convenient since we are dealing with linear operators and composition acts like a ": null
+    },
+    {
+        "ring": "ring"
+    },
+    {
+        " multiplication.     Moreover, mathematicians usually write the dual entity not at the first place, as the physicists do, but at the second one, and they usually use not an ": null
+    },
+    {
+        "asterisk": "asterisk"
+    },
+    {
+        " but an overline  to denote ": null
+    },
+    {
+        "complex conjugate": "complex conjugate"
+    }
+]

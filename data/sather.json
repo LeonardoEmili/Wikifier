@@ -1,0 +1,197 @@
+[
+    {
+        "For people with the surname, see Sather .        Sather is an ": null
+    },
+    {
+        "object-oriented": "object-oriented"
+    },
+    {
+        " programming language": "programming language"
+    },
+    {
+        ". It originated circa 1990 at the International Computer Science Institute at the ": null
+    },
+    {
+        "University of California, Berkeley": "university of california, berkeley"
+    },
+    {
+        ", developed by an international team led by ": null
+    },
+    {
+        "Steve Omohundro": "steve omohundro"
+    },
+    {
+        ". It supports ": null
+    },
+    {
+        "garbage collection": "garbage collection"
+    },
+    {
+        " and ": null
+    },
+    {
+        "generics": "generic programming"
+    },
+    {
+        " by ": null
+    },
+    {
+        "subtypes": "subtypes"
+    },
+    {
+        ".     Originally, it was based on ": null
+    },
+    {
+        "Eiffel": "eiffel"
+    },
+    {
+        ", but it has diverged, and now includes several ": null
+    },
+    {
+        "functional programming": "functional programming"
+    },
+    {
+        " features.     The name is inspired by Eiffel; the ": null
+    },
+    {
+        "Sather Tower": "sather tower"
+    },
+    {
+        " is a recognizable landmark at Berkeley, named after ": null
+    },
+    {
+        "Jane Krom Sather": "jane krom sather"
+    },
+    {
+        ", the widow of ": null
+    },
+    {
+        "Peder Sather": "peder sather"
+    },
+    {
+        ", who donated large sums to the foundation of the university.     Sather also takes inspiration from other programming languages and paradigms: ": null
+    },
+    {
+        "iterator": "iterator"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "design by contract": "design by contract"
+    },
+    {
+        ", ": null
+    },
+    {
+        "abstract class": "abstract class"
+    },
+    {
+        "es, ": null
+    },
+    {
+        "multiple inheritance": "multiple inheritance"
+    },
+    {
+        ", ": null
+    },
+    {
+        "anonymous function": "anonymous function"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "operator overloading": "operator overloading"
+    },
+    {
+        ", ": null
+    },
+    {
+        "contravariant": "covariance and contravariance"
+    },
+    {
+        " type system.     The original Berkeley implementation  has been adopted by the ": null
+    },
+    {
+        "Free Software Foundation": "free software foundation"
+    },
+    {
+        " therefore becoming GNU Sather. Last stable GNU version was released in July 2007  and the software is currently not maintained. There were several other variants: Sather-K from the ": null
+    },
+    {
+        "University of Karlsruhe": "university of karlsruhe"
+    },
+    {
+        ";   Sather-W from the ": null
+    },
+    {
+        "University of Waikato": "university of waikato"
+    },
+    {
+        "  ; Peter Naulls port of ICSI Sather 1.1 to ": null
+    },
+    {
+        "RISC OS": "risc os"
+    },
+    {
+        "; Peter Naulls port is no longer available on the Web. and pSather,   a parallel version of ICSI Sather addressing ": null
+    },
+    {
+        "non-uniform memory access": "non-uniform memory access"
+    },
+    {
+        " multiprocessor architectures but presenting a shared memory model to the programmer.     The former ICSI Sather compiler is implemented as a compiler to ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        ", i.e., the compiler does not output ": null
+    },
+    {
+        "object": "object file"
+    },
+    {
+        " or ": null
+    },
+    {
+        "machine": "machine language"
+    },
+    {
+        " code, but takes Sather ": null
+    },
+    {
+        "source code": "source code"
+    },
+    {
+        " and generates C source code as an ": null
+    },
+    {
+        "intermediate language": "intermediate language"
+    },
+    {
+        ". Optimizing is left to the C compiler.     The GNU Sather compiler, written in Sather itself, is ": null
+    },
+    {
+        "dual licensed": "dual licensed"
+    },
+    {
+        " under the GNU ": null
+    },
+    {
+        "GPL": "gnu general public license"
+    },
+    {
+        " & ": null
+    },
+    {
+        "LGPL": "lgpl"
+    },
+    {
+        ".         class HELLO_WORLD is   main is   OUT+ Hello World\\n ;   end;   end;     A few remarks:   Class names are ALL CAPS; this is not only a convention but is enforced by the compiler.   The method called main is the entry point for execution. It may belong to any class, but if this is different from MAIN , it must be specified as a compiler option.   is the constructor symbol, calling method create of the corresponding class; here it is used for instantiating the OUT class, which is actually stdout.   The + operator has been overloaded here to stand for stream append.   Operators such as + are ": null
+    },
+    {
+        "syntactic sugar": "syntactic sugar"
+    }
+]

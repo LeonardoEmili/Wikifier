@@ -1,0 +1,623 @@
+[
+    {
+        "Lossless compression is a class of ": null
+    },
+    {
+        "data compression": "data compression"
+    },
+    {
+        " algorithms that allows the original data to be perfectly reconstructed from the compressed data. By contrast, ": null
+    },
+    {
+        "lossy compression": "lossy compression"
+    },
+    {
+        " permits reconstruction only of an approximation of the original data, though usually with greatly improved ": null
+    },
+    {
+        "compression rates": "bit ratebitrates in multimedia"
+    },
+    {
+        " .     Lossless data compression is used in many applications. For example, it is used in the ": null
+    },
+    {
+        "ZIP": "zip"
+    },
+    {
+        " file format and in the ": null
+    },
+    {
+        "GNU": "gnu"
+    },
+    {
+        " tool ": null
+    },
+    {
+        "gzip": "gzip"
+    },
+    {
+        ". It is also often used as a component within lossy data compression technologies .     Lossless compression is used in cases where it is important that the original and the decompressed data be identical, or where deviations from the original data would be unfavourable. Typical examples are executable programs, text documents, and source code. Some image file formats, like ": null
+    },
+    {
+        "PNG": "portable network graphics"
+    },
+    {
+        " or ": null
+    },
+    {
+        "GIF": "graphics interchange format"
+    },
+    {
+        ", use only lossless compression, while others like ": null
+    },
+    {
+        "TIFF": "tiff"
+    },
+    {
+        " and ": null
+    },
+    {
+        "MNG": "multiple-image network graphics"
+    },
+    {
+        " may use either lossless or lossy methods. ": null
+    },
+    {
+        "Lossless audio": "audio compression lossless"
+    },
+    {
+        " formats are most often used for archiving or production purposes, while smaller ": null
+    },
+    {
+        "lossy audio": "audio compression lossy audio compression"
+    },
+    {
+        " files are typically used on portable players and in other cases where storage space is limited or exact replication of the audio is unnecessary.       Most lossless compression programs do two things in sequence: the first step generates a statistical model for the input data, and the second step uses this model to map input data to bit sequences in such a way that probable data will produce shorter output than improbable data.     The primary encoding algorithms used to produce bit sequences are ": null
+    },
+    {
+        "Huffman coding": "huffman coding"
+    },
+    {
+        "  and ": null
+    },
+    {
+        "arithmetic coding": "arithmetic coding"
+    },
+    {
+        ". Arithmetic coding achieves compression rates close to the best possible for a particular statistical model, which is given by the ": null
+    },
+    {
+        "information entropy": "information entropy"
+    },
+    {
+        ", whereas Huffman compression is simpler and faster but produces poor results for models that deal with symbol probabilities close to 1.     There are two primary ways of constructing statistical models: in a static model, the data is analyzed and a model is constructed, then this model is stored with the compressed data. This approach is simple and modular, but has the disadvantage that the model itself can be expensive to store, and also that it forces using a single model for all data being compressed, and so performs poorly on files that contain heterogeneous data. Adaptive models dynamically update the model as the data is compressed. Both the encoder and decoder begin with a trivial model, yielding poor compression of initial data, but as they learn more about the data, performance improves. Most popular types of compression used in practice now use adaptive coders.     Lossless compression methods may be categorized according to the type of data they are designed to compress. While, in principle, any general-purpose lossless compression algorithm  can be used on any type of data, many are unable to achieve significant compression on data that are not of the form for which they were designed to compress. Many of the lossless compression techniques used for text also work reasonably well for ": null
+    },
+    {
+        "indexed image": "indexed color"
+    },
+    {
+        "s.       These techniques take advantage of the specific characteristics of images such as the common phenomenon of contiguous 2-D areas of similar tones.   Every pixel but the first is replaced by the difference to its left neighbor. This leads to small values having a much higher probability than large values.   This is often also applied to sound files, and can compress files that contain mostly low frequencies and low volumes.   For images, this step can be repeated by taking the difference to the top pixel, and then in videos, the difference to the pixel in the next frame can be taken.     A hierarchical version of this technique takes neighboring pairs of data points, stores their difference and sum, and on a higher level with lower resolution continues with the sums. This is called ": null
+    },
+    {
+        "discrete wavelet transform": "discrete wavelet transform"
+    },
+    {
+        ". ": null
+    },
+    {
+        "JPEG2000": "jpeg2000"
+    },
+    {
+        " additionally uses data points from other pairs and multiplication factors to mix them into the difference. These factors must be integers, so that the result is an integer under all circumstances. So the values are increased, increasing file size, but hopefully the distribution of values is more peaked.      The adaptive encoding uses the probabilities from the previous sample in sound encoding, from the left and upper pixel in image encoding, and additionally from the previous frame in video encoding. In the wavelet transformation, the probabilities are also passed through the hierarchy.       Many of these methods are implemented in open-source and proprietary tools, particularly LZW and its variants. Some algorithms are patented in the ": null
+    },
+    {
+        "United States": "united states"
+    },
+    {
+        " and other countries and their legal usage requires licensing by the patent holder. Because of patents on certain kinds of LZW compression, and in particular licensing practices by patent holder Unisys that many developers considered abusive, some open source proponents encouraged people to avoid using the ": null
+    },
+    {
+        "Graphics Interchange Format": "graphics interchange format"
+    },
+    {
+        " for compressing still image files in favor of ": null
+    },
+    {
+        "Portable Network Graphics": "portable network graphics"
+    },
+    {
+        " , which combines the ": null
+    },
+    {
+        "LZ77": "lz77 and lz78"
+    },
+    {
+        "-based ": null
+    },
+    {
+        "deflate": "deflate"
+    },
+    {
+        " algorithm with a selection of domain-specific prediction filters. However, the patents on LZW expired on June 20, 2003.      Many of the lossless compression techniques used for text also work reasonably well for ": null
+    },
+    {
+        "indexed image": "indexed image"
+    },
+    {
+        "s, but there are other techniques that do not work for typical text that are useful for some images , and other techniques that take advantage of the specific characteristics of images .     As mentioned previously, lossless sound compression is a somewhat specialized area. Lossless sound compression algorithms can take advantage of the repeating patterns shown by the wave-like nature of the data – essentially using ": null
+    },
+    {
+        "autoregressive": "autoregressive"
+    },
+    {
+        " models to predict the next value and encoding the difference between the expected value and the actual data. If the difference between the predicted and the actual data  tends to be small, then certain difference values become very frequent, which can be exploited by encoding them in few output bits.     It is sometimes beneficial to compress only the differences between two versions of a file . This is called ": null
+    },
+    {
+        "delta encoding": "delta encoding"
+    },
+    {
+        " , but the term is typically only used if both versions are meaningful outside compression and decompression. For example, while the process of compressing the error in the above-mentioned lossless audio compression scheme could be described as delta encoding from the approximated sound wave to the original sound wave, the approximated version of the sound wave is not meaningful in any other context.            By operation of the ": null
+    },
+    {
+        "pigeonhole principle": "pigeonhole principle"
+    },
+    {
+        ", no lossless compression algorithm can efficiently compress all possible data. For this reason, many different algorithms exist that are designed either with a specific type of input data in mind or with specific assumptions about what kinds of redundancy the uncompressed data are likely to contain.     Some of the most common lossless compression algorithms are listed below.       ": null
+    },
+    {
+        "bzip2": "bzip2"
+    },
+    {
+        " – Combines ": null
+    },
+    {
+        "Burrows–Wheeler transform": "burrows–wheeler transform"
+    },
+    {
+        " with RLE and Huffman coding   ": null
+    },
+    {
+        "Finite State Entropy": "finite state entropy"
+    },
+    {
+        " – ": null
+    },
+    {
+        "Entropy encoding": "entropy encoding"
+    },
+    {
+        ", a tabled variant of ": null
+    },
+    {
+        "ANS": "asymmetric numeral systems"
+    },
+    {
+        ", used by LZFSE and Zstandard   ": null
+    },
+    {
+        "Huffman coding": "huffman coding"
+    },
+    {
+        " – Entropy encoding, pairs well with other algorithms, used by Unixs ": null
+    },
+    {
+        "pack": "pack"
+    },
+    {
+        " utility   ": null
+    },
+    {
+        "Lempel-Ziv compression": "lz77 and lz78"
+    },
+    {
+        " – Dictionary-based algorithm that forms the basis for many other algorithms   ": null
+    },
+    {
+        "Lempel–Ziv–Markov chain algorithm": "lempel–ziv–markov chain algorithm"
+    },
+    {
+        " – Very high compression ratio, used by ": null
+    },
+    {
+        "7zip": "7zip"
+    },
+    {
+        " and ": null
+    },
+    {
+        "xz": "xz utils"
+    },
+    {
+        " Lempel–Ziv–Oberhumer": "lempel–ziv–oberhumer"
+    },
+    {
+        " – Designed for speed at the expense of compression ratios   ": null
+    },
+    {
+        "Lempel–Ziv–Storer–Szymanski": "lempel–ziv–storer–szymanski"
+    },
+    {
+        " – Used by ": null
+    },
+    {
+        "WinRAR": "winrar"
+    },
+    {
+        " in tandem with Huffman coding   ": null
+    },
+    {
+        "DEFLATE": "deflate"
+    },
+    {
+        " – Combines LZSS compression with Huffman coding, used by ": null
+    },
+    {
+        "ZIP": "zip"
+    },
+    {
+        ", ": null
+    },
+    {
+        "gzip": "gzip"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "PNG": "portable network graphics"
+    },
+    {
+        " images   ": null
+    },
+    {
+        "Lempel–Ziv–Welch": "lempel–ziv–welch"
+    },
+    {
+        " – Used by ": null
+    },
+    {
+        "GIF": "gif"
+    },
+    {
+        " images and Unixs ": null
+    },
+    {
+        "compress": "compress"
+    },
+    {
+        " utility   ": null
+    },
+    {
+        "Lempel–Ziv Finite State Entropy": "lzfse"
+    },
+    {
+        " – Combines ": null
+    },
+    {
+        "Lempel–Ziv": "lempel–ziv"
+    },
+    {
+        " and Finite State Entropy, used by ": null
+    },
+    {
+        "iOS": "ios"
+    },
+    {
+        " and ": null
+    },
+    {
+        "macOS": "macos"
+    },
+    {
+        " Zstandard": "zstandard"
+    },
+    {
+        " – Combines LZ77, Finite State Entropy, and Huffman coding, used by the ": null
+    },
+    {
+        "Linux kernel": "linux kernel"
+    },
+    {
+        " Prediction by partial matching": "prediction by partial matching"
+    },
+    {
+        " – Optimized for compressing ": null
+    },
+    {
+        "plain text": "plain text"
+    },
+    {
+        " Run-length encoding": "run-length encoding"
+    },
+    {
+        " – Simple scheme that provides good compression of data containing lots of runs of the same value       ": null
+    },
+    {
+        "Apple Lossless": "apple lossless"
+    },
+    {
+        "   Adaptive Transform Acoustic Coding": "adaptive transform acoustic coding"
+    },
+    {
+        "   Audio Lossless Coding": "audio lossless coding"
+    },
+    {
+        "   Direct Stream Transfer": "super audio cddst"
+    },
+    {
+        "   Dolby TrueHD": "dolby truehd"
+    },
+    {
+        " DTS-HD Master Audio": "dts-hd master audio"
+    },
+    {
+        " Free Lossless Audio Codec": "free lossless audio codec"
+    },
+    {
+        "   Meridian Lossless Packing": "meridian lossless packing"
+    },
+    {
+        "   Monkeys Audio": "monkeys audio"
+    },
+    {
+        "   MPEG-4 SLS": "mpeg-4 sls"
+    },
+    {
+        "   OptimFROG": "optimfrog"
+    },
+    {
+        " Original Sound Quality": "original sound quality"
+    },
+    {
+        "   RealPlayer": "realplayer"
+    },
+    {
+        "   Shorten": "shorten"
+    },
+    {
+        "   TTA": "tta"
+    },
+    {
+        "   WavPack": "wavpack"
+    },
+    {
+        "   WMA Lossless": "windows media audio 9 lossless"
+    },
+    {
+        "       HEIF": "high efficiency image file format"
+    },
+    {
+        " – High Efficiency Image File Format    ": null
+    },
+    {
+        "ILBM": "ilbm"
+    },
+    {
+        " –    ": null
+    },
+    {
+        "LDCT": "discrete cosine transform"
+    },
+    {
+        " – Lossless ": null
+    },
+    {
+        "Discrete Cosine Transform": "discrete cosine transform"
+    },
+    {
+        "     JBIG2": "jbig2"
+    },
+    {
+        " –   ": null
+    },
+    {
+        "JPEG 2000": "jpeg 2000"
+    },
+    {
+        " –    ": null
+    },
+    {
+        "JPEG XR": "jpeg xr"
+    },
+    {
+        " – formerly WMPhoto and HD Photo, includes a lossless compression method   ": null
+    },
+    {
+        "JPEG-LS": "lossless jpegjpeg-ls"
+    },
+    {
+        " –   ": null
+    },
+    {
+        "PCX": "pcx"
+    },
+    {
+        " – PiCture eXchange   ": null
+    },
+    {
+        "PDF": "portable document format"
+    },
+    {
+        " – Portable Document Format   ": null
+    },
+    {
+        "PNG": "portable network graphics"
+    },
+    {
+        " – Portable Network Graphics   ": null
+    },
+    {
+        "TIFF": "tagged image file format"
+    },
+    {
+        " – Tagged Image File Format   ": null
+    },
+    {
+        "TGA": "truevision tga"
+    },
+    {
+        " – Truevision TGA   ": null
+    },
+    {
+        "WebP": "webp"
+    },
+    {
+        " –   ": null
+    },
+    {
+        "FLIF": "flif"
+    },
+    {
+        " – Free Lossless Image Format       ": null
+    },
+    {
+        "OpenCTM": "openctm"
+    },
+    {
+        " – Lossless compression of 3D triangle meshes         See ": null
+    },
+    {
+        "this list": "list of codecslossless video compression"
+    },
+    {
+        " of lossless video codecs.       ": null
+    },
+    {
+        "Cryptosystems": "cryptosystem"
+    },
+    {
+        "often compress data before encryption for added security. When properly implemented, compression greatly increases the ": null
+    },
+    {
+        "unicity distance": "unicity distance"
+    },
+    {
+        " by removing patterns that might facilitate ": null
+    },
+    {
+        "cryptanalysis": "cryptanalysis"
+    },
+    {
+        ".  However, many ordinary lossless compression algorithms produce headers, wrappers, tables, or other predictable output that might instead make cryptanalysis easier. Thus, cryptosystems must utilize compression algorithms whose output does not contain these predictable patterns.       Genetics compression algorithms  are the latest generation of lossless algorithms that compress data using both conventional compression algorithms and specific algorithms adapted to genetic data. In 2012, a team of scientists from Johns Hopkins University published the first genetic compression algorithm that does not rely on external genetic databases for compression. HAPZIPPER was tailored for ": null
+    },
+    {
+        "HapMap": "international_hapmap_project"
+    },
+    {
+        " data and achieves over 20-fold compression , providing 2- to 4-fold better compression much faster than leading general-purpose compression utilities.      Genomic sequence compression algorithms, also known as DNA sequence compressors, explore the fact that DNA sequences have characteristic properties, such as inverted repeats. The most successful compressors are XM and GeCo.  For ": null
+    },
+    {
+        "eukaryotes": "eukaryotes"
+    },
+    {
+        " XM is slightly better in compression ratio, though for sequences larger than 100 MB its computational requirements are impractical.          Self-extracting executables contain a compressed application and a decompressor. When executed, the decompressor transparently decompresses and runs the original application. This is especially often used in ": null
+    },
+    {
+        "demo": "demo"
+    },
+    {
+        " coding, where competitions are held for demos with strict size limits, as small as ": null
+    },
+    {
+        "1k": "kilobyte"
+    },
+    {
+        ".   This type of compression is not strictly limited to binary executables, but can also be applied to scripts, such as ": null
+    },
+    {
+        "JavaScript": "javascript"
+    },
+    {
+        ".       Lossless compression algorithms and their implementations are routinely tested in head-to-head ": null
+    },
+    {
+        "benchmark": "benchmark"
+    },
+    {
+        "s. There are a number of better-known compression benchmarks. Some benchmarks cover only the ": null
+    },
+    {
+        "data compression ratio": "data compression ratio"
+    },
+    {
+        ", so winners in these benchmarks may be unsuitable for everyday use due to the slow speed of the top performers. Another drawback of some benchmarks is that their data files are known, so some program writers may optimize their programs for best performance on a particular data set. The winners on these benchmarks often come from the class of ": null
+    },
+    {
+        "context-mixing": "context-mixing"
+    },
+    {
+        " compression software.     ": null
+    },
+    {
+        "Matt Mahoney": "matt mahoney"
+    },
+    {
+        ", in his February 2010 edition of the free booklet Data Compression Explained, additionally lists the following:    The ": null
+    },
+    {
+        "Calgary Corpus": "calgary corpus"
+    },
+    {
+        " dating back to 1987 is no longer widely used due to its small size. Matt Mahoney currently maintains the Calgary Compression Challenge, created and maintained from May 21, 1996 through May 21, 2016 by Leonid A. Broukhis.   The Large Text Compression Benchmark  and the similar ": null
+    },
+    {
+        "Hutter Prize": "hutter prize"
+    },
+    {
+        " both use a trimmed ": null
+    },
+    {
+        "Wikipedia": "wikipedia"
+    },
+    {
+        " XML": "xml"
+    },
+    {
+        " UTF-8": "utf-8"
+    },
+    {
+        " data set.   The Generic Compression Benchmark  , maintained by Mahoney himself, test compression on random data.   Sami Runsas maintains Compression Ratings, a benchmark similar to Maximum Compression multiple file test, but with minimum speed requirements. It also offers a calculator that allows the user to weight the importance of speed and compression ratio. The top programs here are fairly different due to speed requirement. In January 2010, the top programs were NanoZip followed by ": null
+    },
+    {
+        "FreeArc": "freearc"
+    },
+    {
+        ", ": null
+    },
+    {
+        "CCM": "ccm"
+    },
+    {
+        ", ": null
+    },
+    {
+        "flashzip": "flashzip"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "7-Zip": "7-zip"
+    },
+    {
+        ".   The Monster of Compression benchmark by N. F. Antonio tests compression on 1Gb of public data with a 40-minute time limit. As of Dec. 20, 2009 the top ranked archiver is NanoZip 0.07a and the top ranked single file compressor is ": null
+    },
+    {
+        "ccmx": "ccmx"
+    },
+    {
+        " 1.30c, both ": null
+    },
+    {
+        "context mixing": "context mixing"
+    },
+    {
+        ".     The Compression Ratings website published a chart summary of the frontier in compression ratio and time.      The Compression Analysis Tool  is a Windows application that enables end users to benchmark the performance characteristics of streaming implementations of LZF4, DEFLATE, ZLIB, GZIP, BZIP2 and LZMA using their own data. It produces measurements and charts with which users can compare the compression speed, decompression speed and compression ratio of the different compression methods and to examine how the compression level, buffer size and flushing operations affect the results.       Lossless data compression algorithms cannot guarantee compression for all input data sets. In other words, for any lossless data compression algorithm, there will be an input data set that does not get smaller when processed by the algorithm, and for any lossless data compression algorithm that makes at least one file smaller, there will be at least one file that it makes larger. This is easily proven with elementary mathematics using a ": null
+    },
+    {
+        "counting argument": "counting argument"
+    },
+    {
+        ", as follows:     Assume that each file is represented as a string of bits of some arbitrary length.   Suppose that there is a compression algorithm that transforms every file into an output file that is no longer than the original file, and that at least one file will be compressed into an output file that is shorter than the original file.   Let M be the least number such that there is a file F with length M bits that compresses to something shorter. Let N be the length of the compressed version of F.   Because N ": null
+    }
+]

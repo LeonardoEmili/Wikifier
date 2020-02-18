@@ -1,0 +1,167 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "statistics": "statistics"
+    },
+    {
+        ", stratified sampling is a method of ": null
+    },
+    {
+        "sampling": "sampling"
+    },
+    {
+        " from a ": null
+    },
+    {
+        "population": "population"
+    },
+    {
+        " which can be ": null
+    },
+    {
+        "partitioned": "partition of a set"
+    },
+    {
+        " into ": null
+    },
+    {
+        "subpopulation": "subpopulation"
+    },
+    {
+        "s.        In ": null
+    },
+    {
+        "statistical survey": "statistical survey"
+    },
+    {
+        "s, when subpopulations within an overall population vary, it could be advantageous to sample each subpopulation independently. Stratification is the process of dividing members of the population into homogeneous subgroups before sampling. The strata should define a partition of the population. That is, it should be  collectively exhaustive  and  mutually exclusive : every element in the population must be assigned to one and only one stratum. Then ": null
+    },
+    {
+        "simple random sampling": "simple random sampling"
+    },
+    {
+        " or ": null
+    },
+    {
+        "systematic sampling": "systematic sampling"
+    },
+    {
+        " is applied within each stratum. The objective is to improve the precision of the sample by reducing ": null
+    },
+    {
+        "sampling error": "sampling error"
+    },
+    {
+        ". It can produce a ": null
+    },
+    {
+        "weighted mean": "weighted mean"
+    },
+    {
+        " that has less variability than the ": null
+    },
+    {
+        "arithmetic mean": "arithmetic mean"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "simple random sample": "simple random sample"
+    },
+    {
+        " of the population.     In ": null
+    },
+    {
+        "computational statistics": "computational statistics"
+    },
+    {
+        ", stratified sampling is a method of ": null
+    },
+    {
+        "variance reduction": "variance reduction"
+    },
+    {
+        " when ": null
+    },
+    {
+        "Monte Carlo methods": "monte carlo method"
+    },
+    {
+        "are used to estimate population statistics from a known population.      Assume that we need to estimate the average number of votes for each candidate in an election. Assume that a country has 3 towns: Town A has 1 million factory workers, Town B has 2 million office workers and Town C has 3 million retirees. We can choose to get a random sample of size 60 over the entire population but there is some chance that the resulting random sample is poorly balanced across these towns and hence is biased, causing a significant error in estimation. Instead if we choose to take a random sample of 10, 20 and 30 from Town A, B and C respectively, then we can produce a smaller error in estimation for the same total sample size. This method is generally used when a population is not a homogeneous group.       Proportionate allocation uses a ": null
+    },
+    {
+        "sampling fraction": "sampling fraction"
+    },
+    {
+        " in each of the strata that is proportional to that of the total population. For instance, if the population consists of X total individuals, m of which are male and f female , then the relative size of the two samples  should reflect this proportion.   Optimum allocation  - The sampling fraction of each stratum is proportionate to both the proportion and the ": null
+    },
+    {
+        "standard deviation": "standard deviation"
+    },
+    {
+        " of the distribution of the variable. Larger samples are taken in the strata with the greatest variability to generate the least possible overall sampling variance.     A real-world example of using stratified sampling would be for a political ": null
+    },
+    {
+        "survey": "statistical survey"
+    },
+    {
+        ". If the respondents needed to reflect the diversity of the population, the researcher would specifically seek to include participants of various minority groups such as race or religion, based on their proportionality to the total population as mentioned above. A stratified survey could thus claim to be more representative of the population than a survey of ": null
+    },
+    {
+        "simple random sampling": "simple random sampling"
+    },
+    {
+        " or ": null
+    },
+    {
+        "systematic sampling": "systematic sampling"
+    },
+    {
+        ".       The reasons to use stratified sampling rather than ": null
+    },
+    {
+        "simple random sampling": "simple random sample"
+    },
+    {
+        " include    If measurements within strata have lower standard deviation, stratification gives smaller error in estimation.   For many applications, measurements become more manageable and/or cheaper when the population is grouped into strata.   It is often desirable to have estimates of population parameters for groups within the population.   If the population density varies greatly within a region, stratified sampling will ensure that estimates can be made with equal accuracy in different parts of the region, and that comparisons of sub-regions can be made with equal ": null
+    },
+    {
+        "statistical power": "statistical power"
+    },
+    {
+        ". For example, in ": null
+    },
+    {
+        "Ontario": "ontario"
+    },
+    {
+        " a survey taken throughout the province might use a larger sampling fraction in the less populated north, since the disparity in population between north and south is so great that a sampling fraction based on the provincial sample as a whole might result in the collection of only a handful of data from the north.       Stratified sampling is not useful when the population cannot be exhaustively partitioned into disjoint subgroups.   It would be a misapplication of the technique to make subgroups sample sizes proportional to the amount of data available from the subgroups, rather than scaling sample sizes to subgroup sizes . Data representing each subgroup are taken to be of equal importance if suspected variation among them warrants stratified sampling. If subgroup variances differ significantly and the data needs to be stratified by variance, it is not possible to simultaneously make each subgroup sample size proportional to subgroup size within the total population. For an efficient way to partition sampling resources among groups that vary in their means, variance and costs, see ": null
+    },
+    {
+        " optimum allocation ": "sample sizestratified sample size"
+    },
+    {
+        ".   The problem of stratified sampling in the case of unknown class priors can have deleterious effect on the performance of any analysis on the dataset, e.g. classification. In that regard, ": null
+    },
+    {
+        "minimax sampling ratio": "minimax"
+    },
+    {
+        " can be used to make the dataset robust with respect to uncertainty in the underlying data generating process.     Combining sub-strata to ensure adequate numbers can lead to ": null
+    },
+    {
+        "Simpsons paradox": "simpsons paradox"
+    },
+    {
+        ", where trends that actually exist in different groups of data disappear or even reverse when the groups are combined.       The mean and variance of stratified random sampling are given by:     : \\bar \\frac \\sum_^L N_h \\bar     : s_\\bar^2 \\sum_^L \\left^2 \\left\\frac     where,     : L number of strata     : N the sum of all stratum sizes     : N_h size of stratum h     : \\bar sample mean of stratum h     : n_h number of observations in stratum h     : s_h sample standard deviation of stratum h     Note that the term / , which equals , is a ": null
+    },
+    {
+        "finite population correction": "standard errorcorrection for finite population"
+    },
+    {
+        " and N_h must be expressed in sample units . Foregoing the finite population correction gives:     : s_\\bar^2 \\sum_^L \\left^2 \\frac     where the w_h N_h / N is the population weight of stratum h .       For proportional allocation strategy, the size of the sample in each stratum is taken in proportion to the size of the stratum. Suppose that in a company there are the following staff: ": null
+    }
+]

@@ -1,0 +1,455 @@
+[
+    {
+        "          In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", especially in ": null
+    },
+    {
+        "order theory": "order theory"
+    },
+    {
+        ", a preorder or quasiorder is a ": null
+    },
+    {
+        "binary relation": "binary relation"
+    },
+    {
+        " that is ": null
+    },
+    {
+        "reflexive": "reflexive relation"
+    },
+    {
+        " and ": null
+    },
+    {
+        "transitive": "transitive relation"
+    },
+    {
+        ". Preorders are more general than ": null
+    },
+    {
+        "equivalence relations": "equivalence relation"
+    },
+    {
+        "and ": null
+    },
+    {
+        "partial order": "partial order"
+    },
+    {
+        "s, both of which are special cases of a preorder. An ": null
+    },
+    {
+        "antisymmetric": "antisymmetric relation"
+    },
+    {
+        " preorder is a partial order, and a ": null
+    },
+    {
+        "symmetric": "symmetric relation"
+    },
+    {
+        " preorder is an ": null
+    },
+    {
+        "equivalence relation": "equivalence relation"
+    },
+    {
+        ".     The name preorder comes from the idea that preorders are almost orders, but not quite; they are neither necessarily antisymmetric nor ": null
+    },
+    {
+        "asymmetric": "asymmetric relation"
+    },
+    {
+        ". Because a preorder is a binary relation, the symbol ≤ can be used as the notational device for the relation. However, because they are not necessarily antisymmetric, some of the ordinary intuition associated to the symbol ≤ may not apply. On the other hand, a preorder can be used, in a straightforward fashion, to define a partial order and an equivalence relation. Doing so, however, is not always useful or worthwhile, depending on the problem domain being studied.     In words, when , one may say that b covers a or that a precedes b, or that b reduces to a. Occasionally, the notation ← or ≲ is used instead of ≤.     To every preorder, there corresponds a ": null
+    },
+    {
+        "directed graph": "directed graph"
+    },
+    {
+        ", with elements of the set corresponding to vertices, and the order relation between pairs of elements corresponding to the directed edges between vertices. The converse is not true: most directed graphs are neither reflexive nor transitive. In general, the corresponding graphs may contain ": null
+    },
+    {
+        "cycles": "cycle"
+    },
+    {
+        ". A preorder that is antisymmetric no longer has cycles; it is a partial order, and corresponds to a ": null
+    },
+    {
+        "directed acyclic graph": "directed acyclic graph"
+    },
+    {
+        ". A preorder that is symmetric is an equivalence relation; it can be thought of as having lost the direction markers on the edges of the graph. In general, a preorders corresponding directed graph may have many disconnected components.         Consider some ": null
+    },
+    {
+        "set": "set"
+    },
+    {
+        " P and a ": null
+    },
+    {
+        "binary relation": "binary relation"
+    },
+    {
+        " ≤ on P. Then ≤ is a preorder, or quasiorder, if it is ": null
+    },
+    {
+        "reflexive": "reflexive relation"
+    },
+    {
+        " and ": null
+    },
+    {
+        "transitive": "transitive relation"
+    },
+    {
+        "; i.e., for all a, b and c in P, we have that:   : a ≤ a   : if a ≤ b and b ≤ c then a ≤ c     A set that is equipped with a preorder is called a preordered set . For proset , see e.g. .     If a preorder is also ": null
+    },
+    {
+        "antisymmetric": "antisymmetric relation"
+    },
+    {
+        ", that is,  and  implies , then it is a ": null
+    },
+    {
+        "partial order": "partially ordered set"
+    },
+    {
+        ".     On the other hand, if it is ": null
+    },
+    {
+        "symmetric": "symmetric relation"
+    },
+    {
+        ", that is, if  implies , then it is an ": null
+    },
+    {
+        "equivalence relation": "equivalence relation"
+    },
+    {
+        ".     A preorder is ": null
+    },
+    {
+        "total": "total preorder"
+    },
+    {
+        " if either  or  for all a, b.     Equivalently, the notion of a preordered set P can be formulated in a ": null
+    },
+    {
+        "categorical framework": "category theory"
+    },
+    {
+        " as a ": null
+    },
+    {
+        "thin category": "thin category"
+    },
+    {
+        "; i.e., as a category with at most one morphism from an object to another. Here the ": null
+    },
+    {
+        "objects": "object"
+    },
+    {
+        " correspond to the elements of P, and there is one morphism for objects which are related, zero otherwise. Alternately, a preordered set can be understood as an ": null
+    },
+    {
+        "enriched category": "enriched category"
+    },
+    {
+        ", enriched over the category .     A ": null
+    },
+    {
+        "preordered class": "preordered class"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "class": "class"
+    },
+    {
+        " equipped with a preorder. Every set is a class and so every preordered set is a preordered class.       The ": null
+    },
+    {
+        "reachability": "reachability"
+    },
+    {
+        " relationship in any ": null
+    },
+    {
+        "directed graph": "directed graph"
+    },
+    {
+        " gives rise to a preorder, where  in the preorder if and only if there is a path from x to y in the directed graph. Conversely, every preorder is the reachability relationship of a directed graph . However, many different graphs may have the same reachability preorder as each other. In the same way, reachability of ": null
+    },
+    {
+        "directed acyclic graph": "directed acyclic graph"
+    },
+    {
+        "s, directed graphs with no cycles, gives rise to ": null
+    },
+    {
+        "partially ordered sets": "partially ordered set"
+    },
+    {
+        ".   Every ": null
+    },
+    {
+        "finite topological space": "finite topological space"
+    },
+    {
+        " gives rise to a preorder on its points by defining  if and only if x belongs to every ": null
+    },
+    {
+        "neighborhood": "neighborhood"
+    },
+    {
+        " of y. Every finite preorder can be formed as the ": null
+    },
+    {
+        "specialization preorder": "specialization order"
+    },
+    {
+        " of a topological space in this way. That is, there is a ": null
+    },
+    {
+        "one-to-one correspondence": "one-to-one correspondence"
+    },
+    {
+        " between finite topologies and finite preorders. However, the relation between infinite topological spaces and their specialization preorders is not one-to-one.   A ": null
+    },
+    {
+        "net": "net"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "directed": "directed set"
+    },
+    {
+        " preorder, that is, each pair of elements has an ": null
+    },
+    {
+        "upper bound": "upper bound"
+    },
+    {
+        ". The definition of convergence via nets is important in ": null
+    },
+    {
+        "topology": "topology"
+    },
+    {
+        ", where preorders cannot be replaced by ": null
+    },
+    {
+        "partially ordered sets": "partially ordered set"
+    },
+    {
+        "without losing important features.   The relation defined by  if , where f is a function into some preorder.   The relation defined by  if there exists some ": null
+    },
+    {
+        "injection": "injective function"
+    },
+    {
+        " from x to y. Injection may be replaced by ": null
+    },
+    {
+        "surjection": "surjection"
+    },
+    {
+        ", or any type of structure-preserving function, such as ": null
+    },
+    {
+        "ring homomorphism": "ring homomorphism"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "permutation": "permutation"
+    },
+    {
+        ".   The ": null
+    },
+    {
+        "embedding": "embedding"
+    },
+    {
+        " relation for countable ": null
+    },
+    {
+        "total order": "total order"
+    },
+    {
+        "ings.   The ": null
+    },
+    {
+        "graph-minor": "graph-minor"
+    },
+    {
+        " relation in ": null
+    },
+    {
+        "graph theory": "graph theory"
+    },
+    {
+        ".   A ": null
+    },
+    {
+        "category": "category"
+    },
+    {
+        " with at most one ": null
+    },
+    {
+        "morphism": "morphism"
+    },
+    {
+        " from any object x to any other object y is a preorder. Such categories are called ": null
+    },
+    {
+        "thin": "thin category"
+    },
+    {
+        ". In this sense, categories generalize preorders by allowing more than one relation between objects: each morphism is a distinct preorder relation.     In computer science, one can find examples of the following preorders.   ": null
+    },
+    {
+        "Many-one": "many-one reduction"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Turing reductions": "turing reduction"
+    },
+    {
+        "are preorders on complexity classes.   The ": null
+    },
+    {
+        "subtyping": "subtype"
+    },
+    {
+        " relations are usually preorders.   ": null
+    },
+    {
+        "Simulation preorders": "simulation preorder"
+    },
+    {
+        "are preorders .   ": null
+    },
+    {
+        "Reduction relations": "reduction relation"
+    },
+    {
+        "in ": null
+    },
+    {
+        "abstract rewriting system": "abstract rewriting system"
+    },
+    {
+        "s.   The ": null
+    },
+    {
+        "encompassment preorder": "encompassment preorder"
+    },
+    {
+        " on the set of ": null
+    },
+    {
+        "term": "term"
+    },
+    {
+        "s, defined by  if a ": null
+    },
+    {
+        "subterm": "term operations with terms"
+    },
+    {
+        " of t is a ": null
+    },
+    {
+        "substitution instance": "substitution instance"
+    },
+    {
+        " of s.     Example of a ": null
+    },
+    {
+        "total preorder": "strict weak orderingtotal preorders"
+    },
+    {
+        ":   ": null
+    },
+    {
+        "Preference": "preference"
+    },
+    {
+        ", according to common models.       Preorders play a pivotal role in several situations:   Every preorder can be given a topology, the ": null
+    },
+    {
+        "Alexandrov topology": "alexandrov topology"
+    },
+    {
+        "; and indeed, every preorder on a set is in one-to-one correspondence with an Alexandrov topology on that set.   Preorders may be used to define ": null
+    },
+    {
+        "interior algebra": "interior algebra"
+    },
+    {
+        "s.   Preorders provide the ": null
+    },
+    {
+        "Kripke semantics": "kripke semantics"
+    },
+    {
+        " for certain types of ": null
+    },
+    {
+        "modal logic": "modal logic"
+    },
+    {
+        ".         Every binary relation R on a set S can be extended to a preorder on S by taking the ": null
+    },
+    {
+        "transitive closure": "transitive closure"
+    },
+    {
+        " and ": null
+    },
+    {
+        "reflexive closure": "binary relationoperations on binary relations"
+    },
+    {
+        ", R + . The transitive closure indicates path connection in  if and only if there is an R-": null
+    },
+    {
+        "path": "path"
+    },
+    {
+        " from x to y.     Given a preorder ≲ on S one may define an ": null
+    },
+    {
+        "equivalence relation": "equivalence relation"
+    },
+    {
+        " ~ on S such that  if and only if  and .     Using this relation, it is possible to construct a partial order on the quotient set of the equivalence, S / ~, the set of all ": null
+    },
+    {
+        "equivalence class": "equivalence class"
+    },
+    {
+        "es of ~. Note that if the preorder is R + ,  is the set of R-": null
+    },
+    {
+        "cycle": "cycle"
+    },
+    {
+        " equivalence classes:  if and only if  or x is in an R-cycle with y. In any case, on  we can define  if and only if . By the construction of ~, this definition is independent of the chosen representatives and the corresponding relation is indeed well-defined. It is readily verified that this yields a partially ordered set.     Conversely, from a partial order on a partition of a set S one can construct a preorder on S. There is a 1-to-1 correspondence between preorders and pairs .     For a preorder ≲ , a relation ": null
+    }
+]

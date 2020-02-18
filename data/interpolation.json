@@ -1,0 +1,122 @@
+[
+    {
+        "   In the ": null
+    },
+    {
+        "mathematical": "mathematics"
+    },
+    {
+        " field of ": null
+    },
+    {
+        "numerical analysis": "numerical analysis"
+    },
+    {
+        ", interpolation is a type of ": null
+    },
+    {
+        "estimation": "estimation"
+    },
+    {
+        ", a method of constructing new ": null
+    },
+    {
+        "data points": "data points"
+    },
+    {
+        " within the range of a ": null
+    },
+    {
+        "discrete set": "discrete set"
+    },
+    {
+        " of known data points.     In ": null
+    },
+    {
+        "engineering": "engineering"
+    },
+    {
+        " and ": null
+    },
+    {
+        "science": "science"
+    },
+    {
+        ", one often has a number of data points, obtained by ": null
+    },
+    {
+        "sampling": "sampling"
+    },
+    {
+        " or ": null
+    },
+    {
+        "experimentation": "experimentation"
+    },
+    {
+        ", which represent the values of a function for a limited number of values of the ": null
+    },
+    {
+        "independent variable": "dependent and independent variables"
+    },
+    {
+        ". It is often required to interpolate, i.e., estimate the value of that function for an intermediate value of the independent variable.     A closely related problem is the ": null
+    },
+    {
+        "approximation": "function approximation"
+    },
+    {
+        " of a complicated function by a simple function. Suppose the formula for some given function is known, but too complicated to evaluate efficiently. A few data points from the original function can be interpolated to produce a simpler function which is still fairly close to the original. The resulting gain in simplicity may outweigh the loss from interpolation error.            This table gives some values of an unknown function f .         Interpolation provides a means of estimating the function at intermediate points, such as x2.5 .     We describe some ": null
+    },
+    {
+        "methods": "algorithm"
+    },
+    {
+        " of interpolation, differing in such properties as: accuracy, cost, number of data points needed, and ": null
+    },
+    {
+        "smoothness": "smooth function"
+    },
+    {
+        " of the resulting ": null
+    },
+    {
+        "interpolant": "interpolant"
+    },
+    {
+        " function.                The simplest interpolation method is to locate the nearest data value, and assign the same value. In simple problems, this method is unlikely to be used, as linear interpolation is almost as easy, but in higher-dimensional ": null
+    },
+    {
+        "multivariate interpolation": "multivariate interpolation"
+    },
+    {
+        ", this could be a favourable choice for its speed and simplicity.                One of the simplest methods is ": null
+    },
+    {
+        "linear": "linear"
+    },
+    {
+        " interpolation . Consider the above example of estimating f. Since 2.5 is midway between 2 and 3, it is reasonable to take f midway between f 0.9093 and f 0.1411, which yields 0.5252.     Generally, linear interpolation takes two data points, say  and , and the interpolant is given by:   : y y_a + \\left \\frac \\text \\left       : \\frac \\frac       : \\frac \\frac       This previous equation states that the slope of the new line between and is the same as the slope of the line between and     Linear interpolation is quick and easy, but it is not very precise. Another disadvantage is that the interpolant is not ": null
+    },
+    {
+        "differentiable": "derivative"
+    },
+    {
+        " at the point x k .     The following error estimate shows that linear interpolation is not very precise. Denote the function which we want to interpolate by g, and suppose that x lies between x a and x b and that g is twice continuously differentiable. Then the linear interpolation error is     : |f-g| \\le C^2 \\quad\\text\\quad C \\frac18 \\max_ |g x 2.5, we find that f 0.5965.     Generally, if we have n data points, there is exactly one polynomial of degree at most n & minus;1 going through all the data points. The interpolation error is proportional to the distance between the data points to the power n. Furthermore, the interpolant is a polynomial and thus infinitely differentiable. So, we see that polynomial interpolation overcomes most of the problems of linear interpolation.     However, polynomial interpolation also has some disadvantages. Calculating the interpolating polynomial is computationally expensive compared to linear interpolation. Furthermore, polynomial interpolation may exhibit oscillatory artifacts, especially at the end points .     Polynomial interpolation can estimate local maxima and minima that are outside the range of the samples, unlike linear interpolation. For example, the interpolant above has a local maximum at x ≈ 1.566, f ≈ 1.003 and a local minimum at x ≈ 4.708, f ≈ −1.003. However, these maxima and minima may exceed the theoretical range of the function—for example, a function that is always positive may have an interpolant with negative values, and whose inverse therefore contains false vertical asymptotes .     More generally, the shape of the resulting curve, especially for very high or low values of the independent variable, may be contrary to commonsense, i.e. to what is known about the experimental system which has generated the data points. These disadvantages can be reduced by using spline interpolation or restricting attention to Chebyshev polynomials .         rig       Remember that linear interpolation uses a linear function for each of intervals x k ,x k+1 . Spline interpolation uses low-degree polynomials in each of the intervals, and chooses the polynomial pieces such that they fit smoothly together. The resulting function is called a spline .     For instance, the natural cubic spline is piecewise cubic and twice continuously differentiable. Furthermore, its second derivative is zero at the end points. The natural cubic spline interpolating the points in the table above is given by     : f \\begin   -0.1522 x^3 + 0.9937 x, & \\text x \\in \\\\   -0.01258 x^3 - 0.4189 x^2 + 1.4126 x - 0.1396, & \\text x \\in \\\\   0.1403 x^3 - 1.3359 x^2 + 3.2467 x - 1.3623, & \\text x \\in \\\\   0.1579 x^3 - 1.4945 x^2 + 3.7225 x - 1.8381, & \\text x \\in \\\\   0.05375 x^3 -0.2450 x^2 - 1.2756 x + 4.8259, & \\text x \\in \\\\   -0.1871 x^3 + 3.3673 x^2 - 19.3370 x + 34.9282, & \\text x \\in   \\end     In this case we get f    0.5972.     Like polynomial interpolation, spline interpolation incurs a smaller error than linear interpolation and the interpolant is smoother. However, the interpolant is easier to evaluate than the high-degree polynomials used in polynomial interpolation. However, the global nature of the basis functions leads to ill-conditioning. This is completely mitigated by using splines of compact support, such as are implemented in Boost.Math and discussed in Kress.         Interpolation is a common way to approximate functions. Given a function f: \\to \\mathbb with a set of points x_1, x_2, \\dots, x_n \\in one can form a function s: \\to \\mathbb such that fs for i1, 2, \\dots, n . In general, an interpolant need not be a good approximation, but there are well known and often reasonable conditions where it will. For example, if f\\in C^4 then cubic spline interpolation has an error bound given by \\|f-s\\|_\\infty \\leq C \\|f^\\|_\\infty h^4 where h \\max_ |x_-x_i| and C is a constant.       Gaussian process is a powerful non-linear interpolation tool. Many popular interpolation tools are actually equivalent to particular Gaussian processes. Gaussian processes can be used not only for fitting an interpolant that passes exactly through the given data points but also for regression, i.e., for fitting a curve through noisy data. In the geostatistics community Gaussian process regression is also known as Kriging .       Other forms of interpolation can be constructed by picking a different class of interpolants. For instance, rational interpolation is interpolation by rational function s using Padé approximant , and trigonometric interpolation is interpolation by trigonometric polynomial s using Fourier series . Another possibility is to use wavelet s.     The Whittaker–Shannon interpolation formula can be used if the number of data points is infinite.     Sometimes, we know not only the value of the function that we want to interpolate, at some points, but also its derivative. This leads to Hermite interpolation problems.     When each data point is itself a function, it can be useful to see the interpolation problem as a partial advection problem between each data point. This idea leads to the displacement interpolation problem used in transportation theory .           Multivariate interpolation is the interpolation of functions of more than one variable.   Methods include bilinear interpolation and bicubic interpolation in two dimensions, and trilinear interpolation in three dimensions.   They can be applied to gridded or scattered data.       Image:Nearest2DInterpolExample.png|Nearest neighbor   Image:BilinearInterpolExample.png|Bilinear   Image:BicubicInterpolationExample.png|Bicubic         In the domain of digital signal processing, the term interpolation refers to the process of converting a sampled digital signal to that of a higher sampling rate using various digital filtering techniques . In this application there is a specific requirement that the harmonic content of the original signal be preserved without creating aliased harmonic content of the original signal above the original Nyquist limit of the signal . An early and fairly elementary discussion on this subject can be found in Rabiner and Crochieres book Multirate Digital Signal Processing.       The term ": null
+    },
+    {
+        "extrapolation": "extrapolation"
+    },
+    {
+        " is used to find data points outside the range of known data points.     In curve fitting problems, the constraint that the interpolant has to go exactly through the data points is relaxed. It is only required to approach the data points as closely as possible . This requires parameterizing the potential interpolants and having some way of measuring the error. In the simplest case this leads to least squares approximation.     Approximation theory studies how to find the best approximation to a given function by another function from some predetermined class, and how good this approximation is. This clearly yields a bound on how well the interpolant can approximate the unknown function.       If we consider x as a variable in a topological space , with and the function f mapping to a Banach space , then the problem is treated as interpolation of operators . Colin Bennett, Robert C. Sharpley, Interpolation of Operators, Academic Press 1988 The classical results about interpolation of operators are the ": null
+    },
+    {
+        "Riesz–Thorin theorem": "riesz–thorin theorem"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Marcinkiewicz theorem": "marcinkiewicz theorem"
+    }
+]

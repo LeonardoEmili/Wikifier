@@ -1,0 +1,137 @@
+[
+    {
+        "        In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a geometric series is a ": null
+    },
+    {
+        "series": "series"
+    },
+    {
+        " with a constant ratio between successive ": null
+    },
+    {
+        "terms": "term"
+    },
+    {
+        ". For example, ": null
+    },
+    {
+        "the series": "1/2 + 1/4 + 1/8 + 1/16 + · · ·"
+    },
+    {
+        "     : \\frac \\,+\\, \\frac \\,+\\, \\frac \\,+\\, \\frac \\,+\\, \\cdots     is geometric, because each successive term can be obtained by multiplying the previous term by 1/2.     Geometric series are among the simplest examples of ": null
+    },
+    {
+        "infinite series": "infinite series"
+    },
+    {
+        " with finite sums, although not all of them have this property. Historically, geometric series played an important role in the early development of ": null
+    },
+    {
+        "calculus": "calculus"
+    },
+    {
+        ", and they continue to be central in the study of ": null
+    },
+    {
+        "convergence": "convergent series"
+    },
+    {
+        " of series. Geometric series are used throughout mathematics, and they have important applications in ": null
+    },
+    {
+        "physics": "physics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "engineering": "engineering"
+    },
+    {
+        ", ": null
+    },
+    {
+        "biology": "biology"
+    },
+    {
+        ", ": null
+    },
+    {
+        "economics": "economics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        ", ": null
+    },
+    {
+        "queueing theory": "queueing theory"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "finance": "finance"
+    },
+    {
+        ".               The terms of a geometric series form a ": null
+    },
+    {
+        "geometric progression": "geometric progression"
+    },
+    {
+        ", meaning that the ratio of successive terms in the series is constant. This relationship allows for the representation of a geometric series using only two terms, r and a. The term r is the common ratio, and a is the first term of the series. As an example the geometric series given in the introduction,     :": null
+    },
+    {
+        " \\frac \\,+\\, \\frac \\,+\\, \\frac \\,+\\, \\frac \\,+\\, \\cdots ": "1/2 + 1/4 + 1/8 + 1/16 + · · ·"
+    },
+    {
+        "     may simply be written as     : a + a r + a r^2 + a r^3 + \\cdots , with a \\frac and r \\frac .     The following table shows several geometric series with different start terms and common ratios:          The behavior of the terms depends on the common ratio r:   :If r is between & minus;1 and +1, the terms of the series approach zero in the limit , and the series converges to a sum. In the case above, where r is 1/2, the series converges to 1.   :If r is greater than one or less than minus one the terms of the series become larger and larger in magnitude. The sum of the terms also gets larger and larger, and the series has no sum.    :If r is equal to one, all of the terms of the series are the same. The series diverges.   :If r is minus one the terms take two values alternately . The sum of the terms ": null
+    },
+    {
+        "oscillates": "oscillation"
+    },
+    {
+        " between two values . This is a different type of divergence and again the series has no sum. See for example ": null
+    },
+    {
+        "Grandis series": "grandis series"
+    },
+    {
+        ": 1 & minus; 1 + 1 & minus; 1 + ···.            The ": null
+    },
+    {
+        "sum": "summation"
+    },
+    {
+        " of a geometric series is finite as long as the absolute value of the ratio is less than 1; as the numbers near zero, they become insignificantly small, allowing a sum to be calculated despite the series containing infinitely many terms. The sum can be computed using the ": null
+    },
+    {
+        "self-similarity": "self-similarity"
+    },
+    {
+        " of the series.          Consider the sum of the following geometric series:   : s \\;\\; 1 \\,+\\, \\frac \\,+\\, \\frac \\,+\\, \\frac \\,+\\, \\cdots .   This series has common ratio 2/3. If we multiply through by this common ratio, then the initial 1 becomes a 2/3, the 2/3 becomes a 4/9, and so on:   : \\fracs \\;\\; \\frac \\,+\\, \\frac \\,+\\, \\frac \\,+\\, \\frac \\,+\\, \\cdots .   This new series is the same as the original, except that the first term is missing. Subtracting the new series s from the original series s cancels every term in the original but the first,   : s \\,-\\, \\fracs \\;\\; 1,\\;\\;\\;\\mboxs3.   A similar technique can be used to evaluate any ": null
+    },
+    {
+        "self-similar": "self-similar"
+    },
+    {
+        " expression.         For r\\neq 1 , the ": null
+    },
+    {
+        "sum of the first n terms of a geometric series": "finite geometric series"
+    },
+    {
+        " is     : a + ar + a r^2 + a r^3 + \\cdots + a r^ \\sum_^ ar^k a \\left,     where  is the first term of the series, and  is the common ratio. We can derive this formula as follows:   :   \\begin   s & a + ar + ar^2 + ar^3 + \\cdots + ar^, \\\\   rs & ar + ar^2 + ar^3 + ar^4 + \\cdots + ar^, \\\\   s - rs & a-ar^, \\\\   s & a,   \\end     so,   : s a \\left \\quad \\text.   As  goes to infinity, the absolute value of  must be less than one for the series to converge. The sum then becomes     : a+ar+ar^2+ar^3+ar^4+\\cdots \\sum_^\\infty ar^k \\frac, \\text |r| ": null
+    }
+]

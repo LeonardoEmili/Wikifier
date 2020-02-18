@@ -1,0 +1,326 @@
+[
+    {
+        "      In ": null
+    },
+    {
+        "elementary geometry": "elementary geometry"
+    },
+    {
+        ", a polygon  is a ": null
+    },
+    {
+        "plane": "plane"
+    },
+    {
+        " figure": "shape"
+    },
+    {
+        " that is described by a finite number of straight ": null
+    },
+    {
+        "line segments": "line segment"
+    },
+    {
+        "connected to form a closed ": null
+    },
+    {
+        "polygonal chain": "polygonal chain"
+    },
+    {
+        " or polygonal circuit. The solid plane region, the bounding circuit, or the two together, may be called a polygon.     The segments of a polygonal circuit are called its  edges  or sides, and the points where two edges meet are the polygons  vertices  or corners. The interior of a solid polygon is sometimes called its body. An n-gon is a polygon with n sides; for example, a ": null
+    },
+    {
+        "triangle": "triangle"
+    },
+    {
+        " is a 3-gon.     A ": null
+    },
+    {
+        "simple polygon": "simple polygon"
+    },
+    {
+        " is one which does not intersect itself. Mathematicians are often concerned only with the bounding polygonal chains of simple polygons and they often define a polygon accordingly. A polygonal boundary may be allowed to cross over itself, creating ": null
+    },
+    {
+        "star polygons": "star polygon"
+    },
+    {
+        "and other ": null
+    },
+    {
+        "self-intersecting polygons": "list of self-intersecting polygons"
+    },
+    {
+        ".     A polygon is a 2-dimensional example of the more general ": null
+    },
+    {
+        "polytope": "polytope"
+    },
+    {
+        " in any number of dimensions. There are many more ": null
+    },
+    {
+        "generalizations of polygons": "generalizations"
+    },
+    {
+        " defined for different purposes.       The word polygon derives from the ": null
+    },
+    {
+        "Greek": "greek language"
+    },
+    {
+        " adjective πολύς  much , many and γωνία  corner or angle . It has been suggested that γόνυ  knee may be the origin of gon.                Polygons are primarily classified by the number of sides. See the ": null
+    },
+    {
+        "table below": "naming"
+    },
+    {
+        ".       Polygons may be characterized by their convexity or type of non-convexity:   ": null
+    },
+    {
+        "Convex": "convex polygon"
+    },
+    {
+        ": any line drawn through the polygon meets its boundary exactly twice. As a consequence, all its interior angles are less than 180°. Equivalently, any line segment with endpoints on the boundary passes through only interior points between its endpoints.   Non-convex: a line may be found which meets its boundary more than twice. Equivalently, there exists a line segment between two boundary points that passes outside the polygon.   ": null
+    },
+    {
+        "Simple": "simple polygon"
+    },
+    {
+        ": the boundary of the polygon does not cross itself. All convex polygons are simple.   ": null
+    },
+    {
+        "Concave": "concave polygon"
+    },
+    {
+        ": Non-convex and simple. There is at least one interior angle greater than 180°.   ": null
+    },
+    {
+        "Star-shaped": "star-shaped polygon"
+    },
+    {
+        ": the whole interior is visible from at least one point, without crossing any edge. The polygon must be simple, and may be convex or concave. All convex polygons are star-shaped.   ": null
+    },
+    {
+        "Self-intersecting": "list of self-intersecting polygons"
+    },
+    {
+        ": the boundary of the polygon crosses itself. The term complex is sometimes used in contrast to simple, but this usage risks confusion with the idea of a  complex polygon  as one which exists in the complex ": null
+    },
+    {
+        "Hilbert": "hilbert space"
+    },
+    {
+        " plane consisting of two ": null
+    },
+    {
+        "complex": "complex number"
+    },
+    {
+        " dimensions.   ": null
+    },
+    {
+        "Star polygon": "star polygon"
+    },
+    {
+        ": a polygon which self-intersects in a regular way. A polygon cannot be both a star and star-shaped.       ": null
+    },
+    {
+        "Equiangular": "equiangular polygon"
+    },
+    {
+        ": all corner angles are equal.   ": null
+    },
+    {
+        "Cyclic": "cyclic polygon"
+    },
+    {
+        ": all corners lie on a single ": null
+    },
+    {
+        "circle": "circle"
+    },
+    {
+        ", called the ": null
+    },
+    {
+        "circumcircle": "circumcircle"
+    },
+    {
+        ".   Isogonal or ": null
+    },
+    {
+        "vertex-transitive": "vertex-transitive"
+    },
+    {
+        ": all corners lie within the same ": null
+    },
+    {
+        "symmetry orbit": "symmetry orbit"
+    },
+    {
+        ". The polygon is also cyclic and equiangular.   ": null
+    },
+    {
+        "Equilateral": "equilateral polygon"
+    },
+    {
+        ": all edges are of the same length. The polygon need not be convex.   ": null
+    },
+    {
+        "Tangential": "tangential polygon"
+    },
+    {
+        ": all sides are tangent to an ": null
+    },
+    {
+        "inscribed circle": "inscribed circle"
+    },
+    {
+        ".   Isotoxal or ": null
+    },
+    {
+        "edge-transitive": "edge-transitive"
+    },
+    {
+        ": all sides lie within the same ": null
+    },
+    {
+        "symmetry orbit": "symmetry orbit"
+    },
+    {
+        ". The polygon is also equilateral and tangential.   ": null
+    },
+    {
+        "Regular": "regular polygon"
+    },
+    {
+        ": the polygon is both isogonal and isotoxal. Equivalently, it is both cyclic and equilateral, or both equilateral and equiangular. A non-convex regular polygon is called a regular star polygon .       ": null
+    },
+    {
+        "Rectilinear": "rectilinear polygon"
+    },
+    {
+        ": the polygons sides meet at right angles, i.e., all its interior angles are 90 or 270 degrees.   ": null
+    },
+    {
+        "Monotone": "monotone polygon"
+    },
+    {
+        " with respect to a given line L: every line ": null
+    },
+    {
+        "orthogonal": "orthogonal"
+    },
+    {
+        " to L intersects the polygon not more than twice.       ": null
+    },
+    {
+        "Euclidean geometry": "euclidean geometry"
+    },
+    {
+        " is assumed throughout.       Any polygon has as many corners as it has sides. Each corner has several angles. The two most important ones are:    Interior angle  – The sum of the interior angles of a simple n-gon is  ": null
+    },
+    {
+        "radians": "radian"
+    },
+    {
+        "or  ": null
+    },
+    {
+        "degrees": "degree"
+    },
+    {
+        ". This is because any simple n-gon  can be considered to be made up of  triangles, each of which has an angle sum of π radians or 180 degrees. The measure of any interior angle of a convex regular n-gon is \\left\\pi radians or 180-\\tfrac degrees. The interior angles of regular ": null
+    },
+    {
+        "star polygons": "star polygon"
+    },
+    {
+        "were first studied by Poinsot, in the same paper in which he describes the four ": null
+    },
+    {
+        "regular star polyhedra": "kepler–poinsot polyhedron"
+    },
+    {
+        ": for a regular \\tfrac -gon , each interior angle is \\tfrac radians or \\tfrac degrees.     Exterior angle  – The exterior angle is the ": null
+    },
+    {
+        "supplementary angle": "supplementary angle"
+    },
+    {
+        " to the interior angle. Tracing around a convex n-gon, the angle turned at a corner is the exterior or external angle. Tracing all the way around the polygon makes one full ": null
+    },
+    {
+        "turn": "turn"
+    },
+    {
+        ", so the sum of the exterior angles must be 360°. This argument can be generalized to concave simple polygons, if external angles that turn in the opposite direction are subtracted from the total turned. Tracing around an n-gon in general, the sum of the exterior angles can be any integer multiple d of 360°, e.g. 720° for a ": null
+    },
+    {
+        "pentagram": "pentagram"
+    },
+    {
+        " and 0° for an angular eight or ": null
+    },
+    {
+        "antiparallelogram": "antiparallelogram"
+    },
+    {
+        ", where d is the density or starriness of the polygon. See also ": null
+    },
+    {
+        "orbit ": "orbit"
+    },
+    {
+        ".            In this section, the vertices of the polygon under consideration are taken to be , , \\ldots, in order. For convenience in some formulas, the notation  will also be used.     If the polygon is non-self-intersecting , the signed ": null
+    },
+    {
+        "area": "area"
+    },
+    {
+        " is   : A \\frac \\sum_^ \\quad \\text x_x_ \\text y_ny_,   or, using ": null
+    },
+    {
+        "determinants": "determinant"
+    },
+    {
+        "  : 16 A^ \\sum_^ \\sum_^ \\begin Q_ & Q_ \\\\   Q_ & Q_ \\end ,   where Q_ is the squared distance between and . B.Sz. Nagy, L. Rédey: Eine Verallgemeinerung der Inhaltsformel von Heron. Publ.   Math. Debrecen 1, 42–50        The signed area depends on the ordering of the vertices and of the ": null
+    },
+    {
+        "orientation": "orientation"
+    },
+    {
+        " of the plane. Commonly, the positive orientation is defined by the rotation that maps the positive -axis to the positive -axis. If the vertices are ordered counterclockwise , the signed area is positive; otherwise, it is negative. In either case, the area formula is correct in ": null
+    },
+    {
+        "absolute value": "absolute value"
+    },
+    {
+        ". This is commonly called the ": null
+    },
+    {
+        "shoelace formula": "shoelace formula"
+    },
+    {
+        " or Surveyors formula.      The area A of a simple polygon can also be computed if the lengths of the sides, a 1 , a 2 , ..., a n  and the ": null
+    },
+    {
+        "exterior angle": "exterior angle"
+    },
+    {
+        "s, θ 1 , θ 2 , ..., θ n  are known, from:   : \\beginA \\frac12 . \\end   The formula was described by Lopshits in 1963.      If the polygon can be drawn on an equally spaced grid such that all its vertices are grid points, ": null
+    },
+    {
+        "Picks theorem": "picks theorem"
+    },
+    {
+        " gives a simple formula for the polygons area based on the numbers of interior and boundary grid points: the former number plus one-half the latter number, minus 1.     In every polygon with perimeter p and area A , the ": null
+    },
+    {
+        "isoperimetric inequality": "isoperimetric inequality"
+    },
+    {
+        " p^2 /math ref  /ref  ref  /ref  ref  /ref  math /math  math /math  math /math  math /math math /math   math /math math /math math /math ": null
+    }
+]

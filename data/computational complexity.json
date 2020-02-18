@@ -1,0 +1,413 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        ", the computational complexity, or simply complexity of an ": null
+    },
+    {
+        "algorithm": "algorithm"
+    },
+    {
+        " is the amount of resources required for running it . The computational complexity of a problem is the minimum of the complexities of all possible algorithms for this problem .     As the amount of needed resources varies with the input, the complexity is generally expressed as a function , where  is the size of the input, and  is either the ": null
+    },
+    {
+        "worst-case complexity": "worst-case complexity"
+    },
+    {
+        ", that is the maximum of the amount of resources that are needed for all inputs of size , or the ": null
+    },
+    {
+        "average-case complexity": "average-case complexity"
+    },
+    {
+        ", that is average of the amount of resources over all input of size .     When the nature of the resources is not explicitly given, this is usually the time needed for running the algorithm, and one talks of ": null
+    },
+    {
+        "time complexity": "time complexity"
+    },
+    {
+        ". However, this depends on the ": null
+    },
+    {
+        "computer": "computer"
+    },
+    {
+        " that is used, and the time is generally expressed as the number of needed elementary operations, which are supposed to take a constant time on a given computer, and to change by a constant factor when one changes computer.     Otherwise, the resource that is considered is often the size of the memory that is needed, and one talks of ": null
+    },
+    {
+        "space complexity": "space complexity"
+    },
+    {
+        ".     The study of the complexity of explicitly given algorithms is called ": null
+    },
+    {
+        "analysis of algorithms": "analysis of algorithms"
+    },
+    {
+        ", while the study of the complexity of problems is called ": null
+    },
+    {
+        "computational complexity theory": "computational complexity theory"
+    },
+    {
+        ". Clearly, both areas are strongly related, as the complexity of an algorithm is always an ": null
+    },
+    {
+        "upper bound": "upper bound"
+    },
+    {
+        " of the complexity of the problem solved by this algorithm.         The resource that is most commonly considered is the time, and one talks of ": null
+    },
+    {
+        "time complexity": "time complexity"
+    },
+    {
+        ". When complexity is used without being qualified, this generally means time complexity.     The usual units of time are not used in ": null
+    },
+    {
+        "complexity theory": "computational complexity theory"
+    },
+    {
+        ", because they are too dependent on the choice of a specific computer and of the evolution of the technology. Therefore, instead of the real time, one generally consider the elementary operations that are done during the computation. These operations are supposed to take a constant time on a given machine, and are often called steps.       Another important resource is the size of ": null
+    },
+    {
+        "computer memory": "computer memory"
+    },
+    {
+        " that is needed for running algorithms.       The number of ": null
+    },
+    {
+        "arithmetic operations": "arithmetic operations"
+    },
+    {
+        " is another resource that is commonly used. In this case, one talks of arithmetic complexity. If one knows an ": null
+    },
+    {
+        "upper bound": "upper bound"
+    },
+    {
+        " on the size of the ": null
+    },
+    {
+        "binary representation": "binary representation"
+    },
+    {
+        " of the numbers that occur during a computation, the time complexity is generally the product of the arithmetic complexity by a constant factor.     For many algorithms the size of the integers that are used during a computation is not bounded, and it is not realistic to consider that arithmetic operations take a constant time. Therefore, the time complexity, generally called ": null
+    },
+    {
+        "bit complexity": "bit complexity"
+    },
+    {
+        " in this context, may be much larger than the arithmetic complexity. For example, the arithmetic complexity of the computation of the ": null
+    },
+    {
+        "determinant": "determinant"
+    },
+    {
+        " of a  ": null
+    },
+    {
+        "integer matrix": "integer matrix"
+    },
+    {
+        " is O for the usual algorithms . The bit complexity of the same algorithms is ": null
+    },
+    {
+        "exponential": "exponential function"
+    },
+    {
+        " in , because the size of the coefficients may grow exponentially during the computation. On the other hand, if these algorithms are coupled with ": null
+    },
+    {
+        "multi-modular arithmetic": "modular arithmetic"
+    },
+    {
+        ", the bit complexity may be reduced to .     In ": null
+    },
+    {
+        "sorting": "sorting"
+    },
+    {
+        " and ": null
+    },
+    {
+        "searching": "search algorithm"
+    },
+    {
+        ", the resource that is generally considered is the number of entries comparisons. This is generally a good measure of the time complexity if data are suitably organized.       :For clarity, only time complexity is considered in this section, but everything applies to the complexity with respect to other resources.   It is impossible to count the number of steps of an algorithm on all possible inputs. As the complexity increases generally with the size of the input, the complexity is generally expressed as a function of the size   of the input, and therefore, the complexity is a function of . However, the complexity of an algorithm may vary dramatically for different inputs of the same size. Therefore, several complexity functions are commonly used.     The ": null
+    },
+    {
+        "worst-case complexity": "worst-case complexity"
+    },
+    {
+        " is the maximum of the complexity over all inputs of size , and the ": null
+    },
+    {
+        "average-case complexity": "average-case complexity"
+    },
+    {
+        " is the average of the complexity over all inputs of size  . Generally, when complexity is used without being further specified, this is the worst-case time complexity that is considered.          It is generally difficult to compute precisely the worst-case and the average-case complexity. In addition, these exact values provide little practical application, as any change of computer or of model of computation would change the complexity somewhat. Moreover, the resource use is not critical for small values of , and this makes that, for small , the ease of implementation is generally more interesting than a good complexity.     For these reasons, one generally focuses on the behavior of the complexity for large , that is on its ": null
+    },
+    {
+        "asymptotic behavior": "asymptotic analysis"
+    },
+    {
+        " when  tends to the infinity. Therefore, the complexity is generally expressed by using ": null
+    },
+    {
+        "big O notation": "big o notation"
+    },
+    {
+        ".     For example, the usual algorithm for integer ": null
+    },
+    {
+        "multiplication": "multiplication"
+    },
+    {
+        " has a complexity of O, this means that there is a constant c_u such that the multiplication of two integers of at most  digits may be done in a time less than c_un^2. This bound is sharp in the sense that the worst-case complexity and the average-case complexity are \\Omega, which means that there is a constant c_l such that these complexities are larger than c_ln^2. The ": null
+    },
+    {
+        "radix": "radix"
+    },
+    {
+        " does not appear in these complexity, as changing of radix changes only the constants c_u and c_l.       The evaluation of the complexity relies on the choice of a ": null
+    },
+    {
+        "model of computation": "model of computation"
+    },
+    {
+        ", which consists in defining the basic operations that are done in a unit of time. When the model of computation is not explicitly specified, this is generally meant as being ": null
+    },
+    {
+        "multitape Turing machine": "multitape turing machine"
+    },
+    {
+        ".       A ": null
+    },
+    {
+        "deterministic model": "deterministic model"
+    },
+    {
+        " of computation is a model of computation such that the successive states of the machine and the operations to be performed are completely determined by the preceding state. Historically, the first deterministic models were ": null
+    },
+    {
+        "recursive function": "μ-recursive function"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "lambda calculus": "lambda calculus"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Turing machine": "turing machine"
+    },
+    {
+        "s. The model of ": null
+    },
+    {
+        "Random access machines": "random access machine"
+    },
+    {
+        " is also widely used, as closer to real ": null
+    },
+    {
+        "computer": "computer"
+    },
+    {
+        "s.     When the model of computation is not specified, it is generally the model of ": null
+    },
+    {
+        "multitape Turing machine": "multitape turing machine"
+    },
+    {
+        "s. For most algorithms, the complexity is the same on multitape Turing machines and on RAM-machines, although, some care may be needed in storing data for getting this equivalence.       In a ": null
+    },
+    {
+        "non-deterministic model of computation": "non-deterministic algorithm"
+    },
+    {
+        ", such as ": null
+    },
+    {
+        "non-deterministic Turing machine": "non-deterministic turing machine"
+    },
+    {
+        "s, some choices may be done at some steps of the computation. In complexity theory, one considers all possible choices simultaneously, and the non-deterministic time complexity is the time needed, when the best choices are always done. In other words, one considers that the computation is done simultaneously on as many processors as needed, and the non-deterministic computation time is the time spent by the first processor that finishes the computation. This parallelism is partly amenable to ": null
+    },
+    {
+        "quantum computing": "quantum computing"
+    },
+    {
+        " via superposed ": null
+    },
+    {
+        "entangled states": "entangled state"
+    },
+    {
+        "in running specific ": null
+    },
+    {
+        "quantum algorithms": "quantum algorithms"
+    },
+    {
+        ", like e.g. ": null
+    },
+    {
+        "Shors factorization": "shors algorithm"
+    },
+    {
+        " of yet only small integers .     Even when such a computation model is not realistic yet, it has theoretical importance, mostly related to the ": null
+    },
+    {
+        "P NP": "p  np"
+    },
+    {
+        " problem, which questions the identity of the complexity classes formed by taking polynomial time and non-deterministic polynomial time as least upper bounds. Simulating an NP-algorithm on a deterministic computer usually takes exponential time . A problem is in the complexity class ": null
+    },
+    {
+        "NP": "np"
+    },
+    {
+        ", if it may be solved in ": null
+    },
+    {
+        "polynomial time": "polynomial time"
+    },
+    {
+        " on a non-deterministic machine. A problem is ": null
+    },
+    {
+        "NP-complete": "np-complete"
+    },
+    {
+        " if, roughly speaking, it is in NP and is not easier than any other NP problem. Many ": null
+    },
+    {
+        "combinatorial": "combinatorics"
+    },
+    {
+        " problems, such as the ": null
+    },
+    {
+        "Knapsack problem": "knapsack problem"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "travelling salesman problem": "travelling salesman problem"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "Boolean satisfiability problem": "boolean satisfiability problem"
+    },
+    {
+        " are NP-complete. For all these problems, the best known algorithm has exponential complexity. If any one of these problems could be solved in polynomial time on a deterministic machine, then all NP problems could also be solved in polynomial time, and one would have P NP.  it is generally conjectured that  with the practical implication that the worst cases of NP problems are intrinsically difficult to solve, i.e., take longer than any reasonable time span for interesting lengths of input.          Parallel and distributed computing consist of splitting computation on several processors, which work simultaneously. The difference between the different model lies mainly in the way of transmitting information between processors. Typically, in parallel computing the data transmission between processors is very fast, while, in distributed computing, the data transmission is done through a ": null
+    },
+    {
+        "network": "computer network"
+    },
+    {
+        " and is therefore much slower.     The time needed for a computation on  processors is at least the quotient by  of the time needed by a single processor. In fact this theoretically optimal bound can never be reached, because some subtasks cannot be parallelized, and some processors may have to wait a result from another processor.     The main complexity problem is thus to design algorithms such that the product of the computation time by the number of processors is as close as possible to the time needed for the same computation on a single processor.       A ": null
+    },
+    {
+        "quantum computer": "quantum computer"
+    },
+    {
+        " is a computer whose model of computation is based on ": null
+    },
+    {
+        "quantum mechanics": "quantum mechanics"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "Church–Turing thesis": "church–turing thesis"
+    },
+    {
+        " applies to quantum computers, that is, every problem that can be solved by a quantum computer may be also solved by a Turing machine. However, some problems may theoretically be solved with a much lower complexity using a quantum computer than using a classical computer. This is, for the moment, purely theoretical, as no one knows how to build an efficient quantum computer.     ": null
+    },
+    {
+        "Quantum complexity theory": "quantum complexity theory"
+    },
+    {
+        " has been developed for studying computational complexity of quantum computing. It is used in ": null
+    },
+    {
+        "post-quantum cryptography": "post-quantum cryptography"
+    },
+    {
+        ", which consists of designing ": null
+    },
+    {
+        "cryptographic protocols": "cryptographic protocol"
+    },
+    {
+        "that will resist to attacks with quantum computers, when such computers will really exist.       The complexity of a problem is the ": null
+    },
+    {
+        "infimum": "infimum"
+    },
+    {
+        " of the complexities of the algorithms that may solve the problem, including unknown algorithms. Thus the complexity of a problem is not greater than the complexity of any algorithm that solves the problems.     It follows that every complexity that is expressed with ": null
+    },
+    {
+        "big O notation": "big o notation"
+    },
+    {
+        " is a complexity of the algorithm as well as of the corresponding problem.     On the other hand, it is generally hard to obtain nontrivial lower bounds for problem complexity, and there are few methods for obtaining such lower bounds.     For solving most problems, it is required to read all input data, which, normally, needs a time proportional to the size of the data. Thus, such problems have a complexity that is at least ": null
+    },
+    {
+        "linear": "linear time"
+    },
+    {
+        ", that is, using ": null
+    },
+    {
+        "big omega notation": "big omega notation"
+    },
+    {
+        ", a complexity \\Omega.     The solution of some problems, typically in ": null
+    },
+    {
+        "computer algebra": "computer algebra"
+    },
+    {
+        " and ": null
+    },
+    {
+        "computational algebraic geometry": "computational algebraic geometry"
+    },
+    {
+        ", may be very large. In such a case, the complexity is lower bounded by the maximal size of the output, since the output must be written. For example, a ": null
+    },
+    {
+        "system of polynomial equations of degree in indeterminates": "system of polynomial equations"
+    },
+    {
+        " may have up to d^n ": null
+    },
+    {
+        "complex": "complex number"
+    },
+    {
+        " solutions, if the number of solutions is finite . As these solutions must be written down, the complexity of this problem is \\Omega. For this problem, an algorithm of complexity d^ is known, which may thus be considered as asymptotically quasi-optimal.     A nonlinear lower bound of \\Omega is known for the number of comparisons needed for a ": null
+    },
+    {
+        "sorting algorithm": "sorting algorithm"
+    },
+    {
+        ". Thus the best sorting algorithms are optimal, as their complexity is O. This lower bound results from the fact that there are  ways of ordering  objects. As each comparison splits in two parts this set of  orders, the number of  of comparisons that are needed for distinguishing all orders must verify 2^N /math math /math  math /math  math /math  math /math  math /math  math /math ": null
+    }
+]

@@ -1,0 +1,395 @@
+[
+    {
+        "        In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a binary operation or dyadic operation is a calculation that combines two elements  to produce another element. More formally, a binary operation is an ": null
+    },
+    {
+        "operation": "operation"
+    },
+    {
+        " of ": null
+    },
+    {
+        "arity": "arity"
+    },
+    {
+        " two.     More specifically, a binary operation on a set  is a binary operation whose two ": null
+    },
+    {
+        "domains": "domain of a function"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "codomain": "codomain"
+    },
+    {
+        " are the same set. Examples include the familiar ": null
+    },
+    {
+        "arithmetic operations": "arithmetic operations"
+    },
+    {
+        " of ": null
+    },
+    {
+        "addition": "addition"
+    },
+    {
+        ", ": null
+    },
+    {
+        "subtraction": "subtraction"
+    },
+    {
+        ", ": null
+    },
+    {
+        "multiplication": "multiplication"
+    },
+    {
+        ". Other examples are readily found in different areas of mathematics, such as ": null
+    },
+    {
+        "vector addition": "vector addition"
+    },
+    {
+        ", ": null
+    },
+    {
+        "matrix multiplication": "matrix multiplication"
+    },
+    {
+        " and ": null
+    },
+    {
+        "conjugation in groups": "conjugation"
+    },
+    {
+        ".     However, a binary operation may also involve several sets. For example, ": null
+    },
+    {
+        "scalar multiplication": "scalar multiplication"
+    },
+    {
+        " of ": null
+    },
+    {
+        "vector spaces": "vector spaces"
+    },
+    {
+        " takes a scalar and a vector to produce a vector, and ": null
+    },
+    {
+        "scalar product": "scalar product"
+    },
+    {
+        " takes two vectors to produce a scalar.     Binary operations are the keystone of most ": null
+    },
+    {
+        "algebraic structure": "algebraic structure"
+    },
+    {
+        "s, that are studied in ": null
+    },
+    {
+        "algebra": "algebra"
+    },
+    {
+        ", and used in all mathematics, such as ": null
+    },
+    {
+        "fields": "field"
+    },
+    {
+        ", ": null
+    },
+    {
+        "groups": "group"
+    },
+    {
+        ", ": null
+    },
+    {
+        "monoid": "monoid"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "ring": "ring"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "algebras": "algebra over a field"
+    },
+    {
+        ", and many more.       More precisely, a binary operation on a ": null
+    },
+    {
+        "set": "set"
+    },
+    {
+        " S is a ": null
+    },
+    {
+        "map": "map"
+    },
+    {
+        " which sends elements of the ": null
+    },
+    {
+        "Cartesian product": "cartesian product"
+    },
+    {
+        "  to S:      : \\,f \\colon S \\times S \\rightarrow S.   Because the result of performing the operation on a pair of elements of S is again an element of S, the operation is called a closed binary operation on S .  If f is not a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        ", but is instead a ": null
+    },
+    {
+        "partial function": "partial function"
+    },
+    {
+        ", it is called a partial binary operation. For instance, division of ": null
+    },
+    {
+        "real numbers": "real numbers"
+    },
+    {
+        " is a partial binary operation, because one cant ": null
+    },
+    {
+        "divide by zero": "division by zero"
+    },
+    {
+        ": a/0 is not defined for any real a. However, both in ": null
+    },
+    {
+        "universal algebra": "universal algebra"
+    },
+    {
+        " and ": null
+    },
+    {
+        "model theory": "model theory"
+    },
+    {
+        " the binary operations considered are defined on all of .     Sometimes, especially in ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        ", the term is used for any ": null
+    },
+    {
+        "binary function": "binary function"
+    },
+    {
+        ".       Typical examples of binary operations are the ": null
+    },
+    {
+        "addition": "addition"
+    },
+    {
+        " and ": null
+    },
+    {
+        "multiplication": "multiplication"
+    },
+    {
+        " of ": null
+    },
+    {
+        "numbers": "number"
+    },
+    {
+        "and ": null
+    },
+    {
+        "matrices": "matrix"
+    },
+    {
+        " as well as ": null
+    },
+    {
+        "composition of functions": "composition of functions"
+    },
+    {
+        " on a single set.   For instance,   On the set of real numbers R,  is a binary operation since the sum of two real numbers is a real number.   On the set of natural numbers N,  is a binary operation since the sum of two natural numbers is a natural number. This is a different binary operation than the previous one since the sets are different.   On the set M of  matrices with real entries,  is a binary operation since the sum of two such matrices is a  matrix.   On the set M of  matrices with real entries,  is a binary operation since the product of two such matrices is a  matrix.   For a given set C, let S be the set of all functions . Define  by  for all , the composition of the two functions h and h in S. Then f is a binary operation since the composition of the two functions is again a function on the set C .     Many binary operations of interest in both algebra and formal logic are ": null
+    },
+    {
+        "commutative": "commutative"
+    },
+    {
+        ", satisfying  for all elements a and b in S, or ": null
+    },
+    {
+        "associative": "associative"
+    },
+    {
+        ", satisfying  for all a, b and c in S. Many also have ": null
+    },
+    {
+        "identity elements": "identity element"
+    },
+    {
+        "and ": null
+    },
+    {
+        "inverse element": "inverse element"
+    },
+    {
+        "s.     The first three examples above are commutative and all of the above examples are associative.     On the set of real numbers R, ": null
+    },
+    {
+        "subtraction": "subtraction"
+    },
+    {
+        ", that is, , is a binary operation which is not commutative since, in general, . It is also not associative, since, in general, ; for instance,  but .     On the set of natural numbers N, the binary operation ": null
+    },
+    {
+        "exponentiation": "exponentiation"
+    },
+    {
+        ", , is not commutative since,  , and is also not associative since . For instance, with ,  and , , but . By changing the set N to the set of integers Z, this binary operation becomes a partial binary operation since it is now undefined when  and b is any negative integer. For either set, this operation has a right identity since  for all a in the set, which is not an identity since  in general.     ": null
+    },
+    {
+        "Division": "division"
+    },
+    {
+        " , a partial binary operation on the set of real or rational numbers, is not commutative or associative. ": null
+    },
+    {
+        "Tetration": "tetration"
+    },
+    {
+        " , as a binary operation on the natural numbers, is not commutative or associative and has no identity element.       Binary operations are often written using ": null
+    },
+    {
+        "infix notation": "infix notation"
+    },
+    {
+        " such as , ,  or  ab rather than by functional notation of the form . Powers are usually also written without operator, but with the second argument as ": null
+    },
+    {
+        "superscript": "superscript"
+    },
+    {
+        ".     Binary operations sometimes use prefix or postfix notation, both of which dispense with parentheses. They are also called, respectively, ": null
+    },
+    {
+        "Polish notation": "polish notation"
+    },
+    {
+        " and ": null
+    },
+    {
+        "reverse Polish notation": "reverse polish notation"
+    },
+    {
+        ".       A binary operation, ab, depends on the ": null
+    },
+    {
+        "ordered pair": "ordered pair"
+    },
+    {
+        "  and so c  depends in general on the ordered pair . Thus, for the general, non-associative case, binary operations can be represented with ": null
+    },
+    {
+        "binary tree": "binary tree"
+    },
+    {
+        "s.     However:   If the operation is associative, c a, then the value of c depends only on the ": null
+    },
+    {
+        "tuple": "tuple"
+    },
+    {
+        " .   If the operation is commutative, ab ba, then the value of c depends only on , where braces indicate ": null
+    },
+    {
+        "multiset": "multiset"
+    },
+    {
+        "s.   If the operation is both associative and commutative then the value of c depends only on the multiset .   If the operation is associative, commutative and ": null
+    },
+    {
+        "idempotent": "idempotent"
+    },
+    {
+        ", aa a, then the value of c depends only on the ": null
+    },
+    {
+        "set": "set"
+    },
+    {
+        " .         A binary operation f on a set S may be viewed as a ternary ": null
+    },
+    {
+        "relation": "finitary relation"
+    },
+    {
+        " on S, that is, the set of triples  in S × S × S for all a and b in S.       An  external binary operation is a binary function from K & times; S to S. This differs from a binary operation on a set in the sense in that K need not be S; its elements come from outside.     An example of an ": null
+    },
+    {
+        "external": "external"
+    },
+    {
+        " binary operation is ": null
+    },
+    {
+        "scalar multiplication": "scalar multiplication"
+    },
+    {
+        " in ": null
+    },
+    {
+        "linear algebra": "linear algebra"
+    },
+    {
+        ". Here K is a ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        " and S is a ": null
+    },
+    {
+        "vector space": "vector space"
+    },
+    {
+        " over that field.     An ": null
+    },
+    {
+        "external": "external"
+    },
+    {
+        " binary operation may alternatively be viewed as an ": null
+    },
+    {
+        "action": "group action"
+    },
+    {
+        "; K is acting on S.     The ": null
+    },
+    {
+        "dot product": "dot product"
+    },
+    {
+        " of two vectors maps from S & times; S to K, where K is a field and S is a vector space over K": null
+    }
+]

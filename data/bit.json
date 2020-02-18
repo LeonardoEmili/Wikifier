@@ -1,0 +1,347 @@
+[
+    {
+        "           The bit is a ": null
+    },
+    {
+        "basic unit": "units of information"
+    },
+    {
+        " of ": null
+    },
+    {
+        "information": "information"
+    },
+    {
+        " in ": null
+    },
+    {
+        "information theory": "information theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "computing": "computing"
+    },
+    {
+        ", and digital ": null
+    },
+    {
+        "communication": "communication"
+    },
+    {
+        "s. The name is a ": null
+    },
+    {
+        "portmanteau": "portmanteau"
+    },
+    {
+        " of binary digit.     In ": null
+    },
+    {
+        "information theory": "information theory"
+    },
+    {
+        ", one bit is typically defined as the ": null
+    },
+    {
+        "information entropy": "information entropy"
+    },
+    {
+        " of a binary random variable that is 0 or 1 with equal probability, or the information that is gained when the value of such a variable becomes known. As a ": null
+    },
+    {
+        "unit of information": "unit of information"
+    },
+    {
+        ", the bit has also been called a  shannon , named after ": null
+    },
+    {
+        "Claude E. Shannon": "claude e. shannon"
+    },
+    {
+        ".     As a ": null
+    },
+    {
+        "binary": "binary number"
+    },
+    {
+        " digit, the bit represents a ": null
+    },
+    {
+        "logical value": "truth value"
+    },
+    {
+        ", having only one of two ": null
+    },
+    {
+        "values": "value"
+    },
+    {
+        ". It may be physically implemented with a two-state device. These state values are most commonly represented as either , but other representations such as true/false, yes/no, +/−, or on/off are possible. The correspondence between these values and the physical states of the underlying ": null
+    },
+    {
+        "storage": "data storage device"
+    },
+    {
+        " or ": null
+    },
+    {
+        "device": "computing device"
+    },
+    {
+        " is a matter of convention, and different assignments may be used even within the same device or ": null
+    },
+    {
+        "program": "computer program"
+    },
+    {
+        ".     The symbol for the binary digit is either simply bit per recommendation by the ": null
+    },
+    {
+        "IEC 80000-13": "iec 80000-13"
+    },
+    {
+        ":2008 standard, or the lowercase character b, as recommended by the ": null
+    },
+    {
+        "IEEE 1541-2002": "ieee 1541-2002"
+    },
+    {
+        " and ": null
+    },
+    {
+        "IEEE Std 260.1-2004": "ieee std 260.1-2004"
+    },
+    {
+        " standards. A group of eight binary digits is commonly called one  ": null
+    },
+    {
+        "byte": "byte"
+    },
+    {
+        ", but historically the size of the byte is not strictly defined.       The encoding of data by discrete bits was used in the ": null
+    },
+    {
+        "punched cards": "punched card"
+    },
+    {
+        "invented by ": null
+    },
+    {
+        "Basile Bouchon": "basile bouchon"
+    },
+    {
+        " and Jean-Baptiste Falcon , developed by ": null
+    },
+    {
+        "Joseph Marie Jacquard": "joseph marie jacquard"
+    },
+    {
+        " , and later adopted by ": null
+    },
+    {
+        "Semyon Korsakov": "semyon korsakov"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Charles Babbage": "charles babbage"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Hermann Hollerith": "hermann hollerith"
+    },
+    {
+        ", and early computer manufacturers like ": null
+    },
+    {
+        "IBM": "ibm"
+    },
+    {
+        ". Another variant of that idea was the perforated ": null
+    },
+    {
+        "paper tape": "paper tape"
+    },
+    {
+        ". In all those systems, the medium conceptually carried an array of hole positions; each position could be either punched through or not, thus carrying one  bit of information. The encoding of text by bits was also used in ": null
+    },
+    {
+        "Morse code": "morse code"
+    },
+    {
+        " and early digital communications machines such as ": null
+    },
+    {
+        "teletypes": "teleprinter"
+    },
+    {
+        "and ": null
+    },
+    {
+        "stock ticker machines": "stock ticker machine"
+    },
+    {
+        ".     ": null
+    },
+    {
+        "Ralph Hartley": "ralph hartley"
+    },
+    {
+        " suggested the use of a logarithmic measure of information in 1928. Claude E. Shannon first used the word bit in his seminal 1948 paper ": null
+    },
+    {
+        "A Mathematical Theory of Communication": "a mathematical theory of communication"
+    },
+    {
+        " . He attributed its origin to ": null
+    },
+    {
+        "John W. Tukey": "john w. tukey"
+    },
+    {
+        ", who had written a Bell Labs memo on 9 January 1947 in which he contracted binary information digit to simply bit . ": null
+    },
+    {
+        "Vannevar Bush": "vannevar bush"
+    },
+    {
+        " had written in 1936 of bits of information that could be stored on the ": null
+    },
+    {
+        "punched cards": "punched card"
+    },
+    {
+        "used in the mechanical computers of that time. The first programmable computer, built by ": null
+    },
+    {
+        "Konrad Zuse": "konrad zuse"
+    },
+    {
+        ", used binary notation for numbers.     ": null
+    },
+    {
+        "Flip-flop ": "flip-flop"
+    },
+    {
+        " --  ref name NIST_2008 /  ref name Bemer_2000 / ref name Buchholz_1956 / ref name Buchholz_1977 / ref name Buchholz_1962 / ref name Bemer_1959 /  ref name Information in small bits /  n  bits of information, then that information can in principle be encoded in about m  bits, at least on the average. This principle is the basis of ": null
+    },
+    {
+        "data compression": "lossless data compression"
+    },
+    {
+        " technology. Using an analogy, the hardware binary digits refer to the amount of storage space available , and the information content the filling, which comes in different levels of granularity . When the granularity is finer—when information is more compressed—the same bucket can hold more.     For example, it is estimated that the combined technological capacity of the world to store information provides 1,300 ": null
+    },
+    {
+        "exabytes": "exabytes"
+    },
+    {
+        " of hardware digits in 2007. However, when this storage space is filled and the corresponding content is optimally compressed, this only represents 295 ": null
+    },
+    {
+        "exabytes": "exabytes"
+    },
+    {
+        " of information. When optimally compressed, the resulting carrying capacity approaches ": null
+    },
+    {
+        "Shannon information": "shannon information"
+    },
+    {
+        " or ": null
+    },
+    {
+        "information entropy": "information entropy"
+    },
+    {
+        ".       Certain ": null
+    },
+    {
+        "bitwise": "bitwise operation"
+    },
+    {
+        " computer ": null
+    },
+    {
+        "processor": "central processing unit"
+    },
+    {
+        " instructions  operate at the level of manipulating bits rather than manipulating data interpreted as an aggregate of bits.     In the 1980s, when ": null
+    },
+    {
+        "bitmap": "bitmap"
+    },
+    {
+        "ped computer displays became popular, some computers provided specialized ": null
+    },
+    {
+        "bit block transfer": "bitblt"
+    },
+    {
+        " instructions to set or copy the bits that corresponded to a given rectangular area on the screen.     In most computers and programming languages, when a bit within a group of bits, such as a byte or word, is referred to, it is usually specified by a number from 0 upwards corresponding to its position within the byte or word. However, 0 can refer to either the ": null
+    },
+    {
+        "most": "most significant bit"
+    },
+    {
+        " or ": null
+    },
+    {
+        "least significant bit": "least significant bit"
+    },
+    {
+        " depending on the context.          Similar to ": null
+    },
+    {
+        "angular momentum": "angular momentum"
+    },
+    {
+        " and ": null
+    },
+    {
+        "energy": "energy"
+    },
+    {
+        " in physics; ": null
+    },
+    {
+        "information-theoretic information": "informationinformation theory approach"
+    },
+    {
+        " and data storage size have the same ": null
+    },
+    {
+        "dimensionality": "dimensional analysis"
+    },
+    {
+        " of ": null
+    },
+    {
+        "units of measurement": "unit of measurement"
+    },
+    {
+        ", but there is in general no meaning to adding, subtracting or otherwise combining the units mathematically.     Other units of information, sometimes used in information theory, include the  natural digit  also called a  nat  or  nit  and defined as ": null
+    },
+    {
+        "log": "logarithm"
+    },
+    {
+        " 2  e  bits, where e is the ": null
+    },
+    {
+        "base of the natural logarithms": "e"
+    },
+    {
+        "; and the  dit ,  ban , or  hartley , defined as log 2  10  bits. This value, slightly less than 10/3, may be understood because 10 3 1000 ≈ 1024 2 10 : three decimal digits are slightly less information than ten binary digits, so one decimal digit is slightly less than 10/3 binary digits. Conversely, one  bit of information corresponds to about ": null
+    },
+    {
+        "ln": "natural logarithm"
+    },
+    {
+        "  2 nats, or log 10  2 hartleys. As with the inverse ratio, this value, approximately 3/10, but slightly more, corresponds to the fact that 2 10 1024 ~ 1000 10 3 : ten binary digits are slightly more information than three decimal digits, so one binary digit is slightly more than 3/10 decimal digits. Some authors also define a binit": null
+    }
+]

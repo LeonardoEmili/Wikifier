@@ -1,0 +1,1478 @@
+[
+    {
+        "Biostatistics are the development and application of ": null
+    },
+    {
+        "statistical": "statistical"
+    },
+    {
+        " methods to a wide range of topics in ": null
+    },
+    {
+        "biology": "biology"
+    },
+    {
+        ". It encompasses the design of biological ": null
+    },
+    {
+        "experiment": "experiment"
+    },
+    {
+        "s, the collection and analysis of data from those experiments and the interpretation of the results.           Biostatistical modeling forms an important part of numerous modern biological theories. ": null
+    },
+    {
+        "Genetics": "genetics"
+    },
+    {
+        " studies, since its beginning, used statistical concepts to understand observed experimental results. Some genetics scientists even contributed with statistical advances with the development of methods and tools. ": null
+    },
+    {
+        "Gregor Mendel": "gregor mendel"
+    },
+    {
+        " started the genetics studies investigating genetics segregation patterns in families of peas and used statistics to explain the collected data. In the early 1900s, after the rediscovery of Mendels Mendelian inheritance work, there were gaps in understanding between genetics and evolutionary Darwinism. ": null
+    },
+    {
+        "Francis Galton": "francis galton"
+    },
+    {
+        " tried to expand Mendels discoveries with human data and proposed a different model with fractions of the heredity coming from each ancestral composing an infinite series. He called this the theory of ": null
+    },
+    {
+        "Law of Ancestral Heredity": "francis galton"
+    },
+    {
+        " . His ideas were strongly disagreed by ": null
+    },
+    {
+        "William Bateson": "william bateson"
+    },
+    {
+        ", who followed Mendels conclusions, that genetic inheritance were exclusively from the parents, half from each of them. This led to a vigorous debate between the biometricians, who supported Galtons ideas, as ": null
+    },
+    {
+        "Walter Weldon": "walter weldon"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Arthur Dukinfield Darbishire": "arthur dukinfield darbishire"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Karl Pearson": "karl pearson"
+    },
+    {
+        ", and Mendelians, who supported Batesons ideas, such as ": null
+    },
+    {
+        "Charles Davenport": "charles davenport"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Wilhelm Johannsen": "wilhelm johannsen"
+    },
+    {
+        ". Later, biometricians could not reproduce Galton conclusions in different experiments, and Mendels ideas prevailed. By the 1930s, models built on statistical reasoning had helped to resolve these differences and to produce the neo-Darwinian modern evolutionary synthesis.     Solving these differences also allowed to define the concept of population genetics and brought together genetics and evolution. The three leading figures in the establishment of ": null
+    },
+    {
+        "population genetics": "population genetics"
+    },
+    {
+        " and this synthesis all relied on statistics and developed its use in biology.     ": null
+    },
+    {
+        "Ronald Fisher": "ronald fisher"
+    },
+    {
+        " developed several basic statistical methods in support of his work studying the crop experiments at ": null
+    },
+    {
+        "Rothamsted Research": "rothamsted research"
+    },
+    {
+        ", including in his books ": null
+    },
+    {
+        "Statistical Methods for Research Workers": "statistical methods for research workers"
+    },
+    {
+        " end ": null
+    },
+    {
+        "The Genetical Theory of Natural Selection": "the genetical theory of natural selection"
+    },
+    {
+        " . He gave many contributions to genetics and statistics. Some of them include the ": null
+    },
+    {
+        "ANOVA": "anova"
+    },
+    {
+        ", ": null
+    },
+    {
+        "p-value": "p-value"
+    },
+    {
+        " concepts, ": null
+    },
+    {
+        "Fishers exact test": "ronald fisher"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Fishers equation": "ronald fisher"
+    },
+    {
+        " for ": null
+    },
+    {
+        "population dynamics": "population dynamics"
+    },
+    {
+        ". He is credited for the sentence “Natural selection is a mechanism for generating an exceedingly high degree of improbability”.    ": null
+    },
+    {
+        "Sewall G. Wright": "sewall g. wright"
+    },
+    {
+        " developed ": null
+    },
+    {
+        "F-statistics": "f-statistics"
+    },
+    {
+        " and methods of computing them and defined ": null
+    },
+    {
+        "inbreeding coefficient": "inbreeding coefficient"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "J. B. S. Haldanes": "j. b. s. haldane"
+    },
+    {
+        "book, The Causes of Evolution, reestablished natural selection as the premier mechanism of evolution by explaining it in terms of the mathematical consequences of Mendelian genetics. Also developed the theory of ": null
+    },
+    {
+        "primordial soup": "primordial soup"
+    },
+    {
+        ".     These and other biostatisticians, ": null
+    },
+    {
+        "mathematical biologists": "mathematical biology"
+    },
+    {
+        ", and statistically inclined geneticists helped bring together ": null
+    },
+    {
+        "evolutionary biology": "evolutionary biology"
+    },
+    {
+        " and ": null
+    },
+    {
+        "genetics": "genetics"
+    },
+    {
+        " into a consistent, coherent whole that could begin to be ": null
+    },
+    {
+        "quantitative": "statistics"
+    },
+    {
+        "ly modeled.     In parallel to this overall development, the pioneering work of ": null
+    },
+    {
+        "DArcy Thompson": "darcy thompson"
+    },
+    {
+        " in On Growth and Form also helped to add quantitative discipline to biological study.     Despite the fundamental importance and frequent necessity of statistical reasoning, there may nonetheless have been a tendency among biologists to distrust or deprecate results which are not ": null
+    },
+    {
+        "qualitatively": "qualitative data"
+    },
+    {
+        " apparent. One anecdote describes ": null
+    },
+    {
+        "Thomas Hunt Morgan": "thomas hunt morgan"
+    },
+    {
+        " banning the ": null
+    },
+    {
+        "Friden calculator": "friden, inc."
+    },
+    {
+        " from his department at ": null
+    },
+    {
+        "Caltech": "caltech"
+    },
+    {
+        ", saying Well, I am like a guy who is prospecting for gold along the banks of the Sacramento River in 1849. With a little intelligence, I can reach down and pick up big nuggets of gold. And as long as I can do that, Im not going to let any people in my department waste scarce resources in ": null
+    },
+    {
+        "placer mining": "placer mining"
+    },
+    {
+        ".          Any research in ": null
+    },
+    {
+        "life sciences": "life sciences"
+    },
+    {
+        " is proposed to answer a ": null
+    },
+    {
+        "scientific question": "scientific question"
+    },
+    {
+        " we might have. To answer this question with a high certainty, we need ": null
+    },
+    {
+        "accurate": "accuracy and precision"
+    },
+    {
+        " results. The correct definition of the main ": null
+    },
+    {
+        "hypothesis": "hypothesis"
+    },
+    {
+        " and the research plan will reduce errors while taking a decision in understanding a phenomenon. The research plan might include the research question, the hypothesis to be tested, the ": null
+    },
+    {
+        "experimental design": "experimental design"
+    },
+    {
+        ", ": null
+    },
+    {
+        "data collection": "data collection"
+    },
+    {
+        " methods, ": null
+    },
+    {
+        "data analysis": "data analysis"
+    },
+    {
+        " perspectives and costs evolved. It is essential to carry the study based on the three basic principles of experimental statistics: ": null
+    },
+    {
+        "randomization": "randomization"
+    },
+    {
+        ", ": null
+    },
+    {
+        "replication": "replication"
+    },
+    {
+        ", and local control.         The research question will define the objective of a study. The research will be headed by the question, so it needs to be concise, at the same time it is focused on interesting and novel topics that may improve science and knowledge and that field. To define the way to ask the ": null
+    },
+    {
+        "scientific question": "scientific question"
+    },
+    {
+        ", an exhaustive ": null
+    },
+    {
+        "literature review": "literature review"
+    },
+    {
+        " might be necessary. So, the research can be useful to add value to the ": null
+    },
+    {
+        "scientific community": "scientific community"
+    },
+    {
+        ".          Once the aim of the study is defined, the possible answers to the research question can be proposed, transforming this question into a ": null
+    },
+    {
+        "hypothesis": "hypothesis"
+    },
+    {
+        ". The main propose is called ": null
+    },
+    {
+        "null hypothesis": "null hypothesis"
+    },
+    {
+        " and is usually based on a permanent knowledge about the topic or an obvious occurrence of the phenomena, sustained by a deep literature review. We can say it is the standard expected answer for the data under the situation in ": null
+    },
+    {
+        "test": "experiment"
+    },
+    {
+        ". In general, H O assumes no association between treatments . On the other hand, the ": null
+    },
+    {
+        "alternative hypothesis": "alternative hypothesis"
+    },
+    {
+        " is the denial of H O . It assumes some degree of association between the treatment and the outcome. Although, the hypothesis is sustained by question research and its expected and unexpected answers.     As an example, consider groups of similar animals under two different diet systems. The research question would be: what is the best diet? In this case, H 0 would be that there is no difference between the two diets in mice ": null
+    },
+    {
+        "metabolism": "metabolism"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "alternative hypothesis": "alternative hypothesis"
+    },
+    {
+        " would be that the diets have different effects over animals metabolism .     The ": null
+    },
+    {
+        "hypothesis": "hypothesis"
+    },
+    {
+        " is defined by the researcher, according to his/her interests in answering the main question. Besides that, the ": null
+    },
+    {
+        "alternative hypothesis": "alternative hypothesis"
+    },
+    {
+        " can be more than one hypothesis. It can assume not only differences across observed parameters, but their degree of differences .         Usually, a study aims to understand an effect of a phenomenon over a ": null
+    },
+    {
+        "population": "population"
+    },
+    {
+        ". In ": null
+    },
+    {
+        "biology": "biology"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "population": "population"
+    },
+    {
+        " is defined as all the ": null
+    },
+    {
+        "individuals": "individuals"
+    },
+    {
+        " of a given ": null
+    },
+    {
+        "species": "species"
+    },
+    {
+        ", in a specific area at a given time. In biostatistics, this concept is extended to a variety of collections possible of study. Although, in biostatistics, a ": null
+    },
+    {
+        "population": "population"
+    },
+    {
+        " is not only the ": null
+    },
+    {
+        "individuals": "individuals"
+    },
+    {
+        ", but the total of one specific component of their ": null
+    },
+    {
+        "organisms": "organisms"
+    },
+    {
+        ", as the whole ": null
+    },
+    {
+        "genome": "genome"
+    },
+    {
+        ", or all the sperm ": null
+    },
+    {
+        "cells": "cell"
+    },
+    {
+        ", for animals, or the total leaf area, for a plant, for example.     It is not possible to take the ": null
+    },
+    {
+        "measures": "measurement"
+    },
+    {
+        " from all the elements of a ": null
+    },
+    {
+        "population": "population"
+    },
+    {
+        ". Because of that, the ": null
+    },
+    {
+        "sampling": "sampling"
+    },
+    {
+        " process is very important for ": null
+    },
+    {
+        "statistical inference": "statistical inference"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Sampling": "sampling"
+    },
+    {
+        " is defined as to randomly get a representative part of the entire population, to make posterior inferences about the population. So, the ": null
+    },
+    {
+        "sample": "sample"
+    },
+    {
+        " might catch the most ": null
+    },
+    {
+        "variability": "statistical variability"
+    },
+    {
+        " across a population.  The ": null
+    },
+    {
+        "sample size": "sample size"
+    },
+    {
+        " is determined by several things, since the scope of the research to the resources available. In ": null
+    },
+    {
+        "clinical research": "clinical research"
+    },
+    {
+        ", the trial type, as ": null
+    },
+    {
+        "inferiority": "inferiority"
+    },
+    {
+        ", ": null
+    },
+    {
+        "equivalence": "equivalence"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "superior": "superior"
+    },
+    {
+        "ity is a key in determining sample ": null
+    },
+    {
+        "size": "size"
+    },
+    {
+        ".       ": null
+    },
+    {
+        "Experimental designs": "experimental designs"
+    },
+    {
+        " sustain those basic principles of ": null
+    },
+    {
+        "experimental statistics": "design of experiments"
+    },
+    {
+        ". There are three basic experimental designs to randomly allocate ": null
+    },
+    {
+        "treatments": "treatment group"
+    },
+    {
+        " in all ": null
+    },
+    {
+        "plots": "quadrat"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "experiment": "experiment"
+    },
+    {
+        ". They are ": null
+    },
+    {
+        "completely randomized design": "completely randomized design"
+    },
+    {
+        ", ": null
+    },
+    {
+        "randomized block design": "randomized block design"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "factorial designs": "factorial designs"
+    },
+    {
+        ". Treatments can be arranged in many ways inside the experiment. In ": null
+    },
+    {
+        "agriculture": "agriculture"
+    },
+    {
+        ", the correct ": null
+    },
+    {
+        "experimental design": "experimental design"
+    },
+    {
+        " is the root of a good study and the arrangement of ": null
+    },
+    {
+        "treatments": "treatment group"
+    },
+    {
+        " within the study is essential because ": null
+    },
+    {
+        "environment": "environment"
+    },
+    {
+        " largely affects the ": null
+    },
+    {
+        "plots": "quadrat"
+    },
+    {
+        " . These main arrangements can be found in the literature under the names of “": null
+    },
+    {
+        "lattices": "lattice model"
+    },
+    {
+        "”, “incomplete blocks”, “": null
+    },
+    {
+        "split plot": "split plot"
+    },
+    {
+        "”, “augmented blocks”, and many others. All of the designs might include ": null
+    },
+    {
+        "control plots": "scientific control"
+    },
+    {
+        ", determined by the researcher, to provide an ": null
+    },
+    {
+        "error estimation": "estimation theory"
+    },
+    {
+        " during ": null
+    },
+    {
+        "inference": "inference"
+    },
+    {
+        ".     In ": null
+    },
+    {
+        "clinical studies": "clinical studies"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "samples": "sample"
+    },
+    {
+        "are usually smaller than in other biological studies, and in most cases, the ": null
+    },
+    {
+        "environment": "environment"
+    },
+    {
+        " effect can be controlled or measured. It is common to use ": null
+    },
+    {
+        "randomized controlled clinical trials": "randomized controlled trial"
+    },
+    {
+        ", where results are usually compared with ": null
+    },
+    {
+        "observational study": "observational study"
+    },
+    {
+        " designs such as ": null
+    },
+    {
+        "case–control": "case–control"
+    },
+    {
+        " or ": null
+    },
+    {
+        "cohort": "cohort"
+    },
+    {
+        ".          Data collection methods must be considered in research planning, because it highly influences the sample size and experimental design.     Data collection varies according to type of data. For ": null
+    },
+    {
+        "qualitative": "qualitative data"
+    },
+    {
+        " data, collection can be done with structured questionnaires or by observation, considering presence or intensity of disease, using score criterion to categorize levels of occurrence.  For ": null
+    },
+    {
+        "quantitative data": "quantitative data"
+    },
+    {
+        ", collection is done by measuring numerical information using instruments.     In agriculture and biology studies, yield data and its components can be obtained by ": null
+    },
+    {
+        "metric measure": "metric measure"
+    },
+    {
+        "s. However, pest and disease injuries in plats are obtained by observation, considering score scales for levels of damage. Especially, in genetic studies, modern methods for data collection in field and laboratory should be considered, as high-throughput platforms for phenotyping and genotyping. These tools allow bigger experiments, while turn possible evaluate many plots in lower time than a human-based only method for data collection.   Finally, all data collected of interest must be stored in an organized data frame for further analysis.                Data can be represented through ": null
+    },
+    {
+        "tables": "table"
+    },
+    {
+        " or ": null
+    },
+    {
+        "graphical": "chart"
+    },
+    {
+        " representation, such as line charts, bar charts, histograms, scatter plot. Also, ": null
+    },
+    {
+        "measures of central": "central tendency"
+    },
+    {
+        " tendency and ": null
+    },
+    {
+        "variability": "statistical dispersion"
+    },
+    {
+        " can be very useful to describe an overview of the data. Follow some examples:     Frequency tables     One type of tables are the ": null
+    },
+    {
+        "frequency": "frequency"
+    },
+    {
+        " table, which consists of data arranged in rows and columns, where the frequency is the number of occurrences or repetitions of data. Frequency can be:      Absolute: represents the number of times that a determined value appear;          Relative: obtained by the division of the absolute frequency by the total number;          In the next example, we have the number of genes in ten ": null
+    },
+    {
+        "operons": "operon"
+    },
+    {
+        "of the same organism.     Genes 2,3,3,4,5,3,3,3,3,4    Line graph          ": null
+    },
+    {
+        "Line graphs": "line graph"
+    },
+    {
+        "represent the variation of a value over another metric, such as time. In general, values are represented in the vertical axis, while the time variation is represented in the horizontal axis.      Bar chart     A ": null
+    },
+    {
+        "bar chart": "bar chart"
+    },
+    {
+        " is a graph that shows categorical data as bars presenting heights or widths proportional to represent values. Bar charts provide an image that could also be represented in a tabular format.     In the bar chart example, we have the birth rate in ": null
+    },
+    {
+        "Brazil": "brazil"
+    },
+    {
+        " for the December months from 2010 to 2016. The sharp fall in December 2016 reflects the outbreak of ": null
+    },
+    {
+        "Zika virus": "zika virus"
+    },
+    {
+        " in the birth rate in ": null
+    },
+    {
+        "Brazil": "brazil"
+    },
+    {
+        ".     Histograms     The ": null
+    },
+    {
+        "histogram": "histogram"
+    },
+    {
+        " is a graphical representation of a dataset tabulated and divided into uniform or non-uniform classes. It was first introduced by ": null
+    },
+    {
+        "Karl Pearson": "karl pearson"
+    },
+    {
+        ".      Scatter Plot     A ": null
+    },
+    {
+        "scatter plot": "scatter plot"
+    },
+    {
+        " is a mathematical diagram that uses Cartesian coordinates to display values of a dataset. A scatter plot shows the data as a set of points, each one presenting the value of one variable determining the position on the horizontal axis and another variable on the vertical axis.  They are also called scatter graph, scatter chart, scattergram, or scatter diagram.      Mean        The ": null
+    },
+    {
+        "arithmetic mean": "arithmetic mean"
+    },
+    {
+        " is the sum of a collection of values divided by the number of items of this collection .     \\bar \\frac\\left \\frac     Median        The ": null
+    },
+    {
+        "median": "median"
+    },
+    {
+        " is the value in the middle of a dataset.     Mode        The ": null
+    },
+    {
+        "mode": "mode"
+    },
+    {
+        " is the value of a set of data that appears most often.     Box Plot     ": null
+    },
+    {
+        "Box plot": "box plot"
+    },
+    {
+        " is a method for graphically depicting groups of numerical data. The maximum and minimum values are represented by the lines, and the interquartile range represent 25–75% of the data. ": null
+    },
+    {
+        "Outliers": "outlier"
+    },
+    {
+        "may be plotted as circles.     Correlation Coefficients     Although correlations between two different kinds of data could be inferred by graphs, such as scatter plot, is necessary validate this though numerical information. For this reason, correlation coefficients are required. They provide a numerical value that reflects the strength of an association.     Pearson Correlation Coefficient     ": null
+    },
+    {
+        "Pearson correlation coefficient": "pearson correlation coefficient"
+    },
+    {
+        " is a measure of association between two variables, X and Y. This coefficient, usually represented by ρ for the population and r for the sample, assumes values between −1 and 1, where ρ 1 represents a perfect positive correlation, ρ -1 represents a perfect negative correlation, and ρ 0 is no linear correlation.            It is used to make ": null
+    },
+    {
+        "inferences": "inference"
+    },
+    {
+        "  about an unknown population, by estimation and/or hypothesis testing. In other words, it is desirable to obtain parameters to describe the population of interest, but since the data is limited, it is necessary to make use of a representative sample in order to estimate them. With that, it is possible to test previously defined hypotheses and apply the conclusions to the entire population. The ": null
+    },
+    {
+        " standard error of the mean": "standard error"
+    },
+    {
+        " is a measure of variability that is crucial to do inferences.     ": null
+    },
+    {
+        "Hypothesis testing": "statistical hypothesis testing"
+    },
+    {
+        "     Hypothesis testing is essential to make inferences about populations aiming to answer research questions, as settled in Research planning section. Authors defined four steps to be set:     The hypothesis to be tested: as stated earlier, we have to work with the definition of a ": null
+    },
+    {
+        "null hypothesis": "null hypothesis"
+    },
+    {
+        " , that is going to be tested, and an ": null
+    },
+    {
+        "alternative hypothesis": "alternative hypothesis"
+    },
+    {
+        ". But they must be defined before the experiment implementation.   Significance level and decision rule: A decision rule depends on the ": null
+    },
+    {
+        "level of significance": "significance level"
+    },
+    {
+        ", or in other words, the acceptable error rate . It is easier to think that we define a critical value that determines the statistical significance when a ": null
+    },
+    {
+        "test statistic": "test statistic"
+    },
+    {
+        " is compared with it. So, α also has to be predefined before the experiment.   Experiment and statistical analysis: This is when the experiment is really implemented following the appropriate ": null
+    },
+    {
+        "experimental design": "design of experiments"
+    },
+    {
+        ", data is collected and the more suitable statistical tests are evaluated.   Inference: Is made when the ": null
+    },
+    {
+        "null hypothesis": "null hypothesis"
+    },
+    {
+        " is rejected or not rejected, based on the evidence that the comparison of ": null
+    },
+    {
+        "p-values": "p-value"
+    },
+    {
+        "and α brings. It is pointed that the failure to reject H 0 just means that there is not enough evidence to support its rejection, but not that this hypothesis is true.     ": null
+    },
+    {
+        "Confidence intervals": "confidence intervals"
+    },
+    {
+        "     A confidence interval is a range of values that can contain the true real parameter value in given a certain level of confidence. The first step is to estimate the best-unbiased estimate of the population parameter. The upper value of the interval is obtained by the sum of this estimate with the multiplication between the standard error of the mean and the confidence level. The calculation of lower value is similar, but instead of a sum, a subtraction must be applied.             When testing a hypothesis, there are two types of statistic errors possible: ": null
+    },
+    {
+        "Type I error": "type i error"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Type II error": "type ii error"
+    },
+    {
+        ". The type I error or ": null
+    },
+    {
+        "false positive": "false positives and false negatives"
+    },
+    {
+        " is the incorrect rejection of a true null hypothesis and the type II error or ": null
+    },
+    {
+        "false negative": "false positives and false negatives"
+    },
+    {
+        " is the failure to reject a false ": null
+    },
+    {
+        "null hypothesis": "null hypothesis"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "significance level": "significance level"
+    },
+    {
+        " denoted by α is the type I error rate and should be chosen before performing the test. The type II error rate is denoted by β and ": null
+    },
+    {
+        "statistical power of the test": "statistical power"
+    },
+    {
+        " is 1 − β.         The ": null
+    },
+    {
+        "p-value": "p-value"
+    },
+    {
+        " is the probability of obtaining results as extreme as or more extreme than those observed, assuming the ": null
+    },
+    {
+        "null hypothesis": "null hypothesis"
+    },
+    {
+        " is true. It is also called the calculated probability. It is common to confuse the p-value with the ": null
+    },
+    {
+        "significance level ": "statistical significance"
+    },
+    {
+        ", but, the α is a predefined threshold for calling significant results. If p is less than α, the null hypothesis is rejected.          In multiple tests of the same hypothesis, the probability of the occurrence of ": null
+    },
+    {
+        "falses positives": "false positives and false negatives"
+    },
+    {
+        "  increase and some strategy are used to control this occurrence. This is commonly achieved by using a more stringent threshold to reject null hypotheses. The ": null
+    },
+    {
+        "Bonferroni correction": "bonferroni correction"
+    },
+    {
+        " defines an acceptable global significance level, denoted by α and each test is individually compared with a value of α α/m. This ensures that the familywise error rate in all m tests, is less than or equal to α. When m is large, the Bonferroni correction may be overly conservative. An alternative to the Bonferroni correction is to control the ": null
+    },
+    {
+        "false discovery rate ": "false discovery rate"
+    },
+    {
+        ". The FDR controls the expected proportion of the rejected ": null
+    },
+    {
+        "null hypotheses": "null hypothesis"
+    },
+    {
+        " that are false . This procedure ensures that, for independent tests, the false discovery rate is at most q. Thus, the FDR is less conservative than the Bonferroni correction and have more power, at the cost of more false positives. Benjamini, Y. & Hochberg, Y. Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing. Journal of the Royal Statistical Society. Series B 57, 289–300 .         The main hypothesis being tested is often accompanied by other technical assumptions that are also part of the null hypothesis. When the technical assumptions are violated in practice, then the null may be frequently rejected even if the main hypothesis is true. Such rejections are said to be due to model mis-specification.  Verifying whether the outcome of a statistical test does not change when the technical assumptions are slightly altered is the main way of combating mis-specification.         ": null
+    },
+    {
+        "Model criteria selection": "model selection"
+    },
+    {
+        " will select or model that more approximate true model. The ": null
+    },
+    {
+        "Akaikes Information Criterion ": "model selection"
+    },
+    {
+        " and The ": null
+    },
+    {
+        "Bayesian Information Criterion ": "model selection"
+    },
+    {
+        " are examples of asymptotically efficient criteria.            Recent developments have made a large impact on biostatistics. Two important changes have been the ability to collect data on a high-throughput scale, and the ability to perform much more complex analysis using computational techniques. This comes from the development in areas as ": null
+    },
+    {
+        "sequencing": "dna sequencing"
+    },
+    {
+        " technologies, ": null
+    },
+    {
+        "Bioinformatics": "bioinformatics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Machine learning": "machine learning"
+    },
+    {
+        " .         New biomedical technologies like ": null
+    },
+    {
+        "microarrays": "dna microarray"
+    },
+    {
+        ", ": null
+    },
+    {
+        "next-generation sequencers": "dna sequencing"
+    },
+    {
+        " and ": null
+    },
+    {
+        "mass spectrometry": "mass spectrometers"
+    },
+    {
+        " generate enormous amounts of data, allowing many tests to be performed simultaneously.  Careful analysis with biostatistical methods is required to separate the signal from the noise. For example, a microarray could be used to measure many thousands of genes simultaneously, determining which of them have different expression in diseased cells compared to normal cells. However, only a fraction of genes will be differentially expressed.      ": null
+    },
+    {
+        "Multicollinearity": "multicollinearity"
+    },
+    {
+        " often occurs in high-throughput biostatistical settings. Due to high intercorrelation between the predictors , the information of one predictor might be contained in another one. It could be that only 5% of the predictors are responsible for 90% of the variability of the response. In such a case, one could apply the biostatistical technique of dimension reduction . Classical statistical techniques like linear or ": null
+    },
+    {
+        "logistic regression": "logistic regression"
+    },
+    {
+        " and ": null
+    },
+    {
+        "linear discriminant analysis": "linear discriminant analysis"
+    },
+    {
+        " do not work well for high dimensional data  sup /sup  ref  /ref  ref name :4  /ref  ref  /ref ref  /ref  ref  /ref ref  /ref ref  and NCBI.      Nowadays, increase in size and complexity of molecular datasets leads to use of powerful statistical methods provided by computer science algorithms which are developed by ": null
+    },
+    {
+        "machine learning": "machine learning"
+    },
+    {
+        " area. Therefore, data mining and machine learning allow detection of patterns in data with a complex structure, as biological ones, by using methods of ": null
+    },
+    {
+        "supervised": "supervised learning"
+    },
+    {
+        " and ": null
+    },
+    {
+        "unsupervised learning": "unsupervised learning"
+    },
+    {
+        ", regression, detection of ": null
+    },
+    {
+        "clusters": "cluster analysis"
+    },
+    {
+        " and ": null
+    },
+    {
+        "association rule mining": "association rule learning"
+    },
+    {
+        ", among others. To indicate some of them, ": null
+    },
+    {
+        "self-organizing maps": "self-organizing map"
+    },
+    {
+        "and ": null
+    },
+    {
+        "k-means": "k-means clustering"
+    },
+    {
+        " are examples of cluster algorithms; ": null
+    },
+    {
+        "neural networks": "artificial neural network"
+    },
+    {
+        " implementation and ": null
+    },
+    {
+        "support vector machines": "support vector machine"
+    },
+    {
+        "models are examples of common machine learning algorithms.     Collaborative work among molecular biologists, bioinformaticians, statisticians and computer scientists is important to perform an experiment correctly, going from planning, passing through data generation and analysis, and ending with biological interpretation of the results.         On the other hand, the advent of modern computer technology and relatively cheap computing resources have enabled computer-intensive biostatistical methods like ": null
+    },
+    {
+        "bootstrapping": "bootstrapping"
+    },
+    {
+        " and ": null
+    },
+    {
+        "re-sampling": "re-sampling"
+    },
+    {
+        " methods.     In recent times, ": null
+    },
+    {
+        "random forests": "random forests"
+    },
+    {
+        " have gained popularity as a method for performing ": null
+    },
+    {
+        "statistical classification": "statistical classification"
+    },
+    {
+        ". Random forest techniques generate a panel of decision trees. Decision trees have the advantage that you can draw them and interpret them . Random Forests have thus been used for clinical decision support systems.              ": null
+    },
+    {
+        "Public health": "public health"
+    },
+    {
+        ", including ": null
+    },
+    {
+        "epidemiology": "epidemiology"
+    },
+    {
+        ", ": null
+    },
+    {
+        "health services research": "health services research"
+    },
+    {
+        ", ": null
+    },
+    {
+        "nutrition": "nutrition"
+    },
+    {
+        ", ": null
+    },
+    {
+        "environmental health": "environmental health"
+    },
+    {
+        " and health care policy & management. In these ": null
+    },
+    {
+        "medicine": "medicine"
+    },
+    {
+        " contents, its important to consider the design and analysis of the ": null
+    },
+    {
+        "clinical trial": "clinical trial"
+    },
+    {
+        "s. As one example, there is the assessment of severity state of a patient with a prognosis of an outcome of a disease.     With new technologies and genetics knowledge, biostatistics are now also used for ": null
+    },
+    {
+        "Systems medicine": "systems medicine"
+    },
+    {
+        ", which consists in a more personalized medicine. For this, is made an integration of data from different sources, including conventional patient data, clinico-pathological parameters, molecular and genetic data as well as data generated by additional new-omics technologies.          The study of ": null
+    },
+    {
+        "Population genetics": "population genetics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Statistical genetics": "statistical genetics"
+    },
+    {
+        " in order to link variation in ": null
+    },
+    {
+        "genotype": "genotype"
+    },
+    {
+        " with a variation in ": null
+    },
+    {
+        "phenotype": "phenotype"
+    },
+    {
+        ". In other words, it is desirable to discover the genetic basis of a measurable trait, a quantitative trait, that is under polygenic control. A genome region that is responsible for a continuous trait is called ": null
+    },
+    {
+        "Quantitative trait locus": "quantitative trait locus"
+    },
+    {
+        " . The study of QTLs become feasible by using ": null
+    },
+    {
+        "molecular markers": "molecular marker"
+    },
+    {
+        "and measuring traits in populations, but their mapping needs the obtaining of a population from an experimental crossing, like an F2 or ": null
+    },
+    {
+        "Recombinant inbred strain": "recombinant inbred strain"
+    },
+    {
+        "s/lines . To scan for QTLs regions in a genome, a ": null
+    },
+    {
+        "gene map": "gene map"
+    },
+    {
+        " based on linkage have to be built. Some of the best-known QTL mapping algorithms are Interval Mapping, Composite Interval Mapping, and Multiple Interval Mapping.      However, QTL mapping resolution is impaired by the amount of recombination assayed, a problem for species in which it is difficult to obtain large offspring. Furthermore, allele diversity is restricted to individuals originated from contrasting parents, which limit studies of allele diversity when we have a panel of individuals representing a natural population.  For this reason, the ": null
+    },
+    {
+        "Genome-wide association study": "genome-wide association study"
+    },
+    {
+        " was proposed in order to identify QTLs based on ": null
+    },
+    {
+        "linkage disequilibrium": "linkage disequilibrium"
+    },
+    {
+        ", that is the non-random association between traits and molecular markers. It was leveraged by the development of high-throughput ": null
+    },
+    {
+        "SNP genotyping": "snp genotyping"
+    },
+    {
+        ".      In ": null
+    },
+    {
+        "animal": "animal breeding"
+    },
+    {
+        " and ": null
+    },
+    {
+        "plant breeding": "plant breeding"
+    },
+    {
+        ", the use of markers in ": null
+    },
+    {
+        "selection": "selective breeding"
+    },
+    {
+        " aiming for breeding, mainly the molecular ones, collaborated to the development of ": null
+    },
+    {
+        "marker-assisted selection": "marker-assisted selection"
+    },
+    {
+        ". While QTL mapping is limited due resolution, GWAS does not have enough power when rare variants of small effect that are also influenced by environment. So, the concept of Genomic Selection arises in order to use all molecular markers in the selection and allow the prediction of the performance of candidates in this selection. The proposal is to genotype and phenotype a training population, develop a model that can obtain the genomic estimated breeding values of individuals belonging to a genotyped and but not phenotyped population, called testing population.  This kind of study could also include a validation population, thinking in the concept of ": null
+    },
+    {
+        "cross-validation": "cross-validation"
+    },
+    {
+        ", in which the real phenotype results measured in this population are compared with the phenotype results based on the prediction, what used to check the accuracy of the model.     As a summary, some points about the application of quantitative genetics are:   This has been used in agriculture to improve crops  and ": null
+    },
+    {
+        "livestock": "livestock"
+    },
+    {
+        " .   In biomedical research, this work can assist in finding candidates ": null
+    },
+    {
+        "gene": "gene"
+    },
+    {
+        "alleles": "allele"
+    },
+    {
+        "that can cause or influence predisposition to diseases in ": null
+    },
+    {
+        "human genetics": "human genetics"
+    },
+    {
+        "         Studies for differential expression of genes from ": null
+    },
+    {
+        "RNA-Seq": "rna-seq"
+    },
+    {
+        " data, as for ": null
+    },
+    {
+        "RT-qPCR": "real-time polymerase chain reaction"
+    },
+    {
+        " and ": null
+    },
+    {
+        "microarrays": "microarrays"
+    },
+    {
+        ", demands comparison of conditions. The goal is to identify genes which have a significant change in abundance between different conditions. Then, experiments are designed appropriately, with replicates for each condition/treatment, randomization and blocking, when necessary. In RNA-Seq, the quantification of expression uses the information of mapped reads that are summarized in some genetic unit, as ": null
+    },
+    {
+        "exons": "exon"
+    },
+    {
+        "that are part of a gene sequence. As ": null
+    },
+    {
+        "microarray": "microarray"
+    },
+    {
+        " results can be approximated by a normal distribution, RNA-Seq counts data are better explained by other distributions. The first used distribution was the ": null
+    },
+    {
+        "Poisson": "poisson distribution"
+    },
+    {
+        " one, but it underestimate the sample error, leading to false positives. Currently, biological variation is considered by methods that estimate a dispersion parameter of a ": null
+    },
+    {
+        "negative binomial distribution": "negative binomial distribution"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Generalized linear models": "generalized linear model"
+    },
+    {
+        "are used to perform the tests for statistical significance and as the number of genes is high, multiple tests correction have to be considered.  Some examples of other analysis on ": null
+    },
+    {
+        "genomics": "genomics"
+    },
+    {
+        " data comes from microarray or ": null
+    },
+    {
+        "proteomics": "proteomics"
+    },
+    {
+        " experiments.   Often concerning diseases or disease stages.          ": null
+    },
+    {
+        "Ecology": "ecology"
+    },
+    {
+        ", ": null
+    },
+    {
+        "ecological forecasting": "ecological forecasting"
+    },
+    {
+        " sequence analysis": "sequence analysis"
+    },
+    {
+        "    Systems biology": "systems biology"
+    },
+    {
+        " for gene network inference or pathways analysis.    ": null
+    },
+    {
+        "Population dynamics": "population dynamics"
+    },
+    {
+        ", especially in regards to ": null
+    },
+    {
+        "fisheries science": "fisheries science"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Phylogenetics": "phylogenetics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "evolution": "evolution"
+    },
+    {
+        "         There are a lot of tools that can be used to do statistical analysis in biological data. Most of them are useful in other areas of knowledge, covering a large number of applications . Here are brief descriptions of some of them:     ": null
+    },
+    {
+        "ASReml": "asreml"
+    },
+    {
+        ": Another software developed by VSNi  that can be used also in R environment as a package. It is developed to estimate variance components under a general linear mixed model using ": null
+    },
+    {
+        "restricted maximum likelihood": "restricted maximum likelihood"
+    },
+    {
+        " . Models with fixed effects and random effects and nested or crossed ones are allowed. Gives the possibility to investigate different ": null
+    },
+    {
+        "variance-covariance": "covariance matrix"
+    },
+    {
+        " matrix structures.   CycDesigN:  A computer package developed by VSNi that helps the researchers create experimental designs and analyze data coming from a design present in one of three classes handled by CycDesigN. These classes are resolvable, non-resolvable, partially replicated and ": null
+    },
+    {
+        "crossover designs": "crossover study"
+    },
+    {
+        ". It includes less used designs the Latinized ones, as t-Latinized design.    ": null
+    },
+    {
+        "Orange": "orange"
+    },
+    {
+        ": A programming interface for high-level data processing, data mining and data visualization. Include tools for gene expression and genomics.   ": null
+    },
+    {
+        "R": "r"
+    },
+    {
+        ": An open source environment and programming language dedicated to statistical computing and graphics. It is an implementation of ": null
+    },
+    {
+        "S": "s"
+    },
+    {
+        " language maintained by CRAN.  In addition to its functions to read data tables, take descriptive statistics, develop and evaluate models, its repository contains packages developed by researchers around the world. This allows the development of functions written to deal with the statistical analysis of data that comes from specific applications. In the case of Bioinformatics, for example, there are packages located in the main repository and in others, as ": null
+    },
+    {
+        "Bioconductor": "bioconductor"
+    },
+    {
+        ". It is also possible to use packages under development that are shared in hosting-services as ": null
+    },
+    {
+        "GitHub": "github"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "SAS": "sas"
+    },
+    {
+        ": A data analysis software widely used, going through universities, services and industry. Developed by a company with the same name , it uses ": null
+    },
+    {
+        "SAS language": "sas language"
+    },
+    {
+        " for programming.   PLA 3.0:  Is a biostatistical analysis software for regulated environments which supports Quantitative Response Assays and Dichotomous Assays . It also supports weighting methods for combination calculations and the automatic data aggregation of independent assay data.   ": null
+    },
+    {
+        "Weka": "weka"
+    },
+    {
+        ": A ": null
+    },
+    {
+        "Java": "java"
+    },
+    {
+        " software for ": null
+    },
+    {
+        "machine learning": "machine learning"
+    },
+    {
+        " and ": null
+    },
+    {
+        "data mining": "data mining"
+    },
+    {
+        ", including tools and methods for visualization, clustering, regression, association rule, and classification. There are tools for cross-validation, bootstrapping and a module of algorithm comparison. Weka also can be run in other programming languages as Perl or R.         Almost all educational programmes in biostatistics are at ": null
+    },
+    {
+        "postgraduate": "postgraduate"
+    },
+    {
+        " level. They are most often found in schools of public health, affiliated with schools of medicine, forestry, or agriculture, or as a focus of application in departments of statistics.     In the United States, where several universities have dedicated biostatistics departments, many other top-tier universities integrate biostatistics faculty into statistics or other departments, such as ": null
+    },
+    {
+        "epidemiology": "epidemiology"
+    },
+    {
+        ". Thus, departments carrying the name biostatistics may exist under quite different structures. For instance, relatively new biostatistics departments have been founded with a focus on ": null
+    },
+    {
+        "bioinformatics": "bioinformatics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "computational biology": "computational biology"
+    },
+    {
+        ", whereas older departments, typically affiliated with schools of ": null
+    },
+    {
+        "public health": "public health"
+    },
+    {
+        ", will have more traditional lines of research involving epidemiological studies and ": null
+    },
+    {
+        "clinical trials": "clinical trial"
+    },
+    {
+        "as well as bioinformatics. In larger universities around the world, where both a statistics and a biostatistics department exist, the degree of integration between the two departments may range from the bare minimum to very close collaboration. In general, the difference between a statistics program and a biostatistics program is twofold: statistics departments will often host theoretical/methodological research which are less common in biostatistics programs and statistics departments have lines of research that may include biomedical applications but also other areas such as industry , business and ": null
+    },
+    {
+        "economics": "economics"
+    },
+    {
+        " and biological areas other than medicine.       Biostatistics    International Journal of Biostatistics    Journal of Epidemiology and Biostatistics    Biostatistics and Public Health  Epidemiology   Biometrics    Biometrika    Biometrical Journal    Communications in Biometry and Crop Science    Statistical Applications in Genetics and Molecular Biology    Statistical Methods in Medical Research    Pharmaceutical Statistics    Statistics in Medicine ": null
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", pointless topology  is an approach to ": null
+    },
+    {
+        "topology": "topology"
+    },
+    {
+        " that avoids mentioning points.       Traditionally, a ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        " consists of a ": null
+    },
+    {
+        "set": "set"
+    },
+    {
+        " of ": null
+    },
+    {
+        "points": "point"
+    },
+    {
+        " together with a topology, a system of subsets called ": null
+    },
+    {
+        "open sets": "open set"
+    },
+    {
+        "that with the operations of ": null
+    },
+    {
+        "intersection": "intersection"
+    },
+    {
+        " and ": null
+    },
+    {
+        "union": "union"
+    },
+    {
+        " forms a ": null
+    },
+    {
+        "lattice": "lattice"
+    },
+    {
+        " with certain properties. Point-free topology is based on the concept of a realistic spot instead of a point without extent. Spots can be ": null
+    },
+    {
+        "joined": "join"
+    },
+    {
+        " and if a spot meets a join of others it has to meet some of the constituents, which, roughly speaking, leads to the distributive law     b \\wedge \\left \\bigvee \\left .         The basic concept is that of a frame, a ": null
+    },
+    {
+        "complete lattice": "complete lattice"
+    },
+    {
+        " satisfying the distributive law above; frame homomorphisms respect all ": null
+    },
+    {
+        "joins": "join"
+    },
+    {
+        "  and finite ": null
+    },
+    {
+        "meets": "meet"
+    },
+    {
+        " .     Frames, together with frame homomorphisms, form a ": null
+    },
+    {
+        "category": "category"
+    },
+    {
+        ".       In classical topology, represented on a set X by the system \\Omega of open sets, \\Omega is a frame, and if f\\colon X\\to Y is a continuous map, \\Omega\\colon \\Omega\\to\\Omega defined by \\Omegaf^ is a frame homomorphism. For ": null
+    },
+    {
+        "sober spaces": "sober space"
+    },
+    {
+        "such \\Omega are precisely the frame homomorphisms h\\colon \\Omega\\to\\Omega . Hence \\Omega is a ": null
+    },
+    {
+        "full embedding": "full embedding"
+    },
+    {
+        " of the category of sober spaces into the dual of the category of frames . This justifies thinking of frames as of generalized topological spaces. A frame is spatial if it is isomorphic to a \\Omega . There are plenty of non-spatial ones and this fact turned out to be helpful in several problems.       The theory of ": null
+    },
+    {
+        "frames and locales": "frames and locales"
+    },
+    {
+        " in the contemporary sense was initiated in the late 1950s  and developed through the following decades  into a lively branch of topology, with application in various fields, in particular also in theoretical computer science. For more on the history of locale theory see. Peter T. Johnstone, Elements of the history of locale theory, in: Handbook of the History of General Topology, vol. 3, pp. 835-851, Springer, , 2001.     It is possible to translate most concepts of ": null
+    },
+    {
+        "point-set topology": "point-set topology"
+    },
+    {
+        " into the context of locales, and prove analogous theorems. Regarding the advantages of the point-free approach let us point out, for example, the fact that some important facts of classical topology depending on ": null
+    },
+    {
+        "choice principles": "axiom of choice"
+    },
+    {
+        " become choice-free . Thus for instance, products of compact locales are compact constructively, or completions of uniform locales are constructive. This can be useful if one works in a ": null
+    },
+    {
+        "topos": "topos"
+    },
+    {
+        " that does not have the axiom of choice. Other advantages include the much better behaviour of paracompactness, or the fact that subgroups of localic groups are always closed.     Another point where locale theory and topology diverge strongly is the concepts of subspaces versus sublocales: by ": null
+    },
+    {
+        "Isbell": "john r. isbell"
+    }
+]

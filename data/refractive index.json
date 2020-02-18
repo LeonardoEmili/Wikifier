@@ -1,0 +1,605 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "optics": "optics"
+    },
+    {
+        ", the refractive index or index of refraction of a ": null
+    },
+    {
+        "material": "optical medium"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "dimensionless number": "dimensionless number"
+    },
+    {
+        " that describes how fast ": null
+    },
+    {
+        "light": "em radiation"
+    },
+    {
+        " travels through the material. It is defined as   : n \\frac,   where c is the ": null
+    },
+    {
+        "speed of light": "speed of light"
+    },
+    {
+        " in ": null
+    },
+    {
+        "vacuum": "vacuum"
+    },
+    {
+        " and v is the ": null
+    },
+    {
+        "phase velocity": "phase velocity"
+    },
+    {
+        " of light in the medium. For example, the refractive index of water is 1.333, meaning that light travels 1.333 times as fast in vacuum as in water.          The refractive index determines how much the path of light is bent, or ": null
+    },
+    {
+        "refracted": "refraction"
+    },
+    {
+        ", when entering a material. This is described by ": null
+    },
+    {
+        "Snells law": "snells law"
+    },
+    {
+        " of refraction, n 1  sinθ 1    n 2  sinθ 2 ,   where θ 1 and θ 2 are the ": null
+    },
+    {
+        "angles of incidence": "angle of incidence"
+    },
+    {
+        " and refraction, respectively, of a ray crossing the interface between two media with refractive indices n 1 and n 2 . The refractive indices also determine the amount of light that is ": null
+    },
+    {
+        "reflected": "reflectivity"
+    },
+    {
+        " when reaching the interface, as well as the critical angle for ": null
+    },
+    {
+        "total internal reflection": "total internal reflection"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Brewsters angle": "brewsters angle"
+    },
+    {
+        ".      The refractive index can be seen as the factor by which the speed and the ": null
+    },
+    {
+        "wavelength": "wavelength"
+    },
+    {
+        " of the radiation are reduced with respect to their vacuum values: the speed of light in a medium is v c/n, and similarly the wavelength in that medium is λ λ 0 /n, where λ 0 is the wavelength of that light in vacuum. This implies that vacuum has a refractive index of 1, and that the ": null
+    },
+    {
+        "frequency": "frequency"
+    },
+    {
+        "  of the wave is not affected by the refractive index. As a result, the perceived color of the refracted light to a human eye which depends on the frequency is not affected by the refraction or the refractive index of the medium.     While the refractive index affects wavelength, it depends on frequency, color and energy so the resulting difference in the bending angles causes white light to split into its constituent colors. This is called ": null
+    },
+    {
+        "dispersion": "dispersion"
+    },
+    {
+        ". It can be observed in ": null
+    },
+    {
+        "prisms": "prism"
+    },
+    {
+        " and ": null
+    },
+    {
+        "rainbow": "rainbow"
+    },
+    {
+        "s, and ": null
+    },
+    {
+        "chromatic aberration": "chromatic aberration"
+    },
+    {
+        " in lenses. Light propagation in ": null
+    },
+    {
+        "absorbing": "absorption"
+    },
+    {
+        " materials can be described using a ": null
+    },
+    {
+        "complex": "complex number"
+    },
+    {
+        "-valued refractive index.  The ": null
+    },
+    {
+        "imaginary": "imaginary number"
+    },
+    {
+        " part then handles the ": null
+    },
+    {
+        "attenuation": "attenuation"
+    },
+    {
+        ", while the ": null
+    },
+    {
+        "real": "real number"
+    },
+    {
+        " part accounts for refraction.     The concept of refractive index applies within the full ": null
+    },
+    {
+        "electromagnetic spectrum": "electromagnetic spectrum"
+    },
+    {
+        ", from ": null
+    },
+    {
+        "X-rays": "x-ray"
+    },
+    {
+        "to ": null
+    },
+    {
+        "radio wave": "radio wave"
+    },
+    {
+        "s. It can also be applied to ": null
+    },
+    {
+        "wave": "wave"
+    },
+    {
+        " phenomena such as ": null
+    },
+    {
+        "sound": "sound"
+    },
+    {
+        ". In this case the speed of sound is used instead of that of light, and a reference medium other than vacuum must be chosen.        The refractive index n of an optical medium is defined as the ratio of the speed of light in vacuum, c , and the ": null
+    },
+    {
+        "phase velocity": "phase velocity"
+    },
+    {
+        " v of light in the medium,   : n\\frac.   The phase velocity is the speed at which the crests or the ": null
+    },
+    {
+        "phase": "phase"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "wave": "wave"
+    },
+    {
+        " moves, which may be different from the ": null
+    },
+    {
+        "group velocity": "group velocity"
+    },
+    {
+        ", the speed at which the pulse of light or the ": null
+    },
+    {
+        "envelope": "envelope"
+    },
+    {
+        " of the wave moves.     The definition above is sometimes referred to as the absolute refractive index or the absolute index of refraction to distinguish it from definitions where the speed of light in other reference media than vacuum is used. Historically ": null
+    },
+    {
+        "air": "air"
+    },
+    {
+        " at a standardized ": null
+    },
+    {
+        "pressure": "pressure"
+    },
+    {
+        " and ": null
+    },
+    {
+        "temperature": "temperature"
+    },
+    {
+        " has been common as a reference medium.            ": null
+    },
+    {
+        "Thomas Young": "thomas young"
+    },
+    {
+        " was presumably the person who first used, and invented, the name index of refraction , in 1807.    At the same time he changed this value of refractive power into a single number, instead of the traditional ratio of two numbers. The ratio had the disadvantage of different appearances. ": null
+    },
+    {
+        "Newton": "isaac newton"
+    },
+    {
+        ", who called it the proportion of the sines of incidence and refraction , wrote it as a ratio of two numbers, like 529 to 396 .  ": null
+    },
+    {
+        "Hauksbee": "francis hauksbee"
+    },
+    {
+        ", who called it the ratio of refraction , wrote it as a ratio with a fixed numerator, like 10000 to 7451.9 .  ": null
+    },
+    {
+        "Hutton": "charles hutton"
+    },
+    {
+        " wrote it as a ratio with a fixed denominator, like 1.3358 to 1 .      Young did not use a symbol for the index of refraction, in 1807. In the next years, others started using different symbols:   n, m, and µ.  Exponent des Brechungsverhältnisses is index of refraction   The symbol n gradually prevailed.                      For ": null
+    },
+    {
+        "visible light": "visible light"
+    },
+    {
+        " most ": null
+    },
+    {
+        "transparent": "transparency and translucency"
+    },
+    {
+        " media have refractive indices between 1 and 2. A few examples are given in the adjacent table. These values are measured at the yellow doublet ": null
+    },
+    {
+        "D-line": "d2 line"
+    },
+    {
+        " of ": null
+    },
+    {
+        "sodium": "sodium"
+    },
+    {
+        ", with a wavelength of 589 ": null
+    },
+    {
+        "nanometers": "nanometers"
+    },
+    {
+        ", as is conventionally done. Gases at atmospheric pressure have refractive indices close to 1 because of their low density. Almost all solids and liquids have refractive indices above 1.3, with ": null
+    },
+    {
+        "aerogel": "aerogel"
+    },
+    {
+        " as the clear exception. Aerogel is a very low density solid that can be produced with refractive index in the range from 1.002 to 1.265.  ": null
+    },
+    {
+        "Moissanite": "moissanite"
+    },
+    {
+        " lies at the other end of the range with a refractive index as high as 2.65. Most plastics have refractive indices in the range from 1.3 to 1.7, but some ": null
+    },
+    {
+        "high-refractive-index polymers": "high-refractive-index polymer"
+    },
+    {
+        "can have values as high as 1.76. Naoki Sadayori and Yuji Hotta Polycarbodiimide having high index of refraction and production method thereof      For ": null
+    },
+    {
+        "infrared": "infrared"
+    },
+    {
+        " light refractive indices can be considerably higher. ": null
+    },
+    {
+        "Germanium": "germanium"
+    },
+    {
+        " is transparent in the wavelength region from 2 to 14  µm and has a refractive index of about 4. Tosi, Jeffrey L., article on  in the Photonics Handbook, accessed on 2014-09-10 A type of new materials, called topological insulator, was recently found holding higher refractive index of up to 6 in near to mid infrared frequency range. Moreover, topological insulator material are transparent when they have nanoscale thickness. These excellent properties make them a type of significant materials for infrared optics.        According to the ": null
+    },
+    {
+        "theory of relativity": "theory of relativity"
+    },
+    {
+        ", no information can travel faster than the speed of light in vacuum, but this does not mean that the refractive index cannot be less than 1. The refractive index measures the ": null
+    },
+    {
+        "phase velocity": "phase velocity"
+    },
+    {
+        " of light, which does not carry ": null
+    },
+    {
+        "information": "information"
+    },
+    {
+        ".  The phase velocity is the speed at which the crests of the wave move and can be faster than the speed of light in vacuum, and thereby give a refractive index below 1. This can occur close to ": null
+    },
+    {
+        "resonance frequencies": "resonance frequency"
+    },
+    {
+        ", for absorbing media, in ": null
+    },
+    {
+        "plasmas": "plasma"
+    },
+    {
+        ", and for ": null
+    },
+    {
+        "X-ray": "x-ray"
+    },
+    {
+        "s. In the X-ray regime the refractive indices are lower than but very close to 1 .    As an example, water has a refractive index of  1 −  for X-ray radiation at a photon energy of  .     An example of a plasma with an index of refraction less than unity is Earths ": null
+    },
+    {
+        "ionosphere": "ionosphere"
+    },
+    {
+        ". Since the refractive index of the ionosphere , is less than unity, electromagnetic waves propagating through the plasma are bent away from the normal  allowing the radio wave to be refracted back toward earth, thus enabling long-distance radio communications. See also ": null
+    },
+    {
+        "Radio Propagation": "radio propagation"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Skywave": "skywave"
+    },
+    {
+        ".                Recent research has also demonstrated the existence of materials with a negative refractive index, which can occur if ": null
+    },
+    {
+        "permittivity": "permittivity"
+    },
+    {
+        " and ": null
+    },
+    {
+        "permeability": "magnetic permeability"
+    },
+    {
+        " have simultaneous negative values.  This can be achieved with periodically constructed ": null
+    },
+    {
+        "metamaterials": "metamaterials"
+    },
+    {
+        ". The resulting ": null
+    },
+    {
+        "negative refraction": "negative refraction"
+    },
+    {
+        "  offers the possibility of the ": null
+    },
+    {
+        "superlens": "superlens"
+    },
+    {
+        " and other exotic phenomena.              At the atomic scale, an electromagnetic waves phase velocity is slowed in a material because the ": null
+    },
+    {
+        "electric field": "electric field"
+    },
+    {
+        " creates a disturbance in the charges of each atom  proportional to the ": null
+    },
+    {
+        "electric susceptibility": "electric susceptibility"
+    },
+    {
+        " of the medium.  As the electromagnetic fields oscillate in the wave, the charges in the material will be shaken back and forth at the same frequency.  The charges thus radiate their own electromagnetic wave that is at the same frequency, but usually with a ": null
+    },
+    {
+        "phase delay": "phase"
+    },
+    {
+        ", as the charges may move out of phase with the force driving them . The light wave traveling in the medium is the macroscopic ": null
+    },
+    {
+        "superposition ": "superposition principle"
+    },
+    {
+        " of all such contributions in the material: the original wave plus the waves radiated by all the moving charges. This wave is typically a wave with the same frequency but shorter wavelength than the original, leading to a slowing of the waves phase velocity. Most of the radiation from oscillating material charges will modify the incoming wave, changing its velocity. However, some net energy will be radiated in other directions or even at other frequencies .     Depending on the relative phase of the original driving wave and the waves radiated by the charge motion, there are several possibilities:   If the electrons emit a light wave which is 90° out of phase with the light wave shaking them, it will cause the total light wave to travel slower. This is the normal refraction of transparent materials like glass or water, and corresponds to a refractive index which is real and greater than 1.    If the electrons emit a light wave which is 270° out of phase with the light wave shaking them, it will cause the wave to travel faster. This is called anomalous refraction , and is observed close to absorption lines , with ": null
+    },
+    {
+        "X-rays": "x-ray"
+    },
+    {
+        "in ordinary materials, and with radio waves in Earths ": null
+    },
+    {
+        "ionosphere": "ionosphere"
+    },
+    {
+        ". It corresponds to a ": null
+    },
+    {
+        "permittivity": "permittivity"
+    },
+    {
+        " less than 1, which causes the refractive index to be also less than unity and the ": null
+    },
+    {
+        "phase velocity": "phase velocity"
+    },
+    {
+        " of light greater than the ": null
+    },
+    {
+        "speed of light in vacuum": "speed of light"
+    },
+    {
+        " c . If the response is sufficiently strong and out-of-phase, the result is a negative value of ": null
+    },
+    {
+        "permittivity": "permittivity"
+    },
+    {
+        " and imaginary index of refraction, as observed in metals or plasma.   If the electrons emit a light wave which is 180° out of phase with the light wave shaking them, it will destructively interfere with the original light to reduce the total light intensity. This is ": null
+    },
+    {
+        "light absorption in opaque materials": "absorption"
+    },
+    {
+        " and corresponds to an ": null
+    },
+    {
+        "imaginary": "imaginary number"
+    },
+    {
+        " refractive index.   If the electrons emit a light wave which is in phase with the light wave shaking them, it will amplify the light wave. This is rare, but occurs in ": null
+    },
+    {
+        "lasers": "laser"
+    },
+    {
+        "due to ": null
+    },
+    {
+        "stimulated emission": "stimulated emission"
+    },
+    {
+        ". It corresponds to an imaginary index of refraction, with the opposite sign to that of absorption.   For most materials at visible-light frequencies, the phase is somewhere between 90° and 180°, corresponding to a combination of both refraction and absorption.                     The refractive index of materials varies with the wavelength  of light. R. Paschotta, article on   in the  , accessed on 2014-09-08 This is called dispersion and causes ": null
+    },
+    {
+        "prisms": "prism"
+    },
+    {
+        " and ": null
+    },
+    {
+        "rainbows": "rainbow"
+    },
+    {
+        "to divide white light into its constituent spectral ": null
+    },
+    {
+        "color": "color"
+    },
+    {
+        "s. Carl R. Nave, page on   in  , Department of Physics and Astronomy, Georgia State University, accessed on 2014-09-08 As the refractive index varies with wavelength, so will the refraction angle as light goes from one material to another. Dispersion also causes the ": null
+    },
+    {
+        "focal length": "focal length"
+    },
+    {
+        " of ": null
+    },
+    {
+        "lenses": "lens"
+    },
+    {
+        " to be wavelength dependent. This is a type of ": null
+    },
+    {
+        "chromatic aberration": "chromatic aberration"
+    },
+    {
+        ", which often needs to be corrected for in imaging systems. In regions of the spectrum where the material does not absorb light, the refractive index tends to decrease with increasing wavelength, and thus increase with frequency. This is called normal dispersion , in contrast to anomalous dispersion , where the refractive index increases with wavelength. For visible light normal dispersion means that the refractive index is higher for blue light than for red.     For optics in the visual range, the amount of dispersion of a lens material is often quantified by the ": null
+    },
+    {
+        "Abbe number": "abbe number"
+    },
+    {
+        ":   : V \\frac.   For a more accurate description of the wavelength dependence of the refractive index, the ": null
+    },
+    {
+        "Sellmeier equation": "sellmeier equation"
+    },
+    {
+        " can be used. R. Paschotta, article on   in the  , accessed on 2014-09-08 It is an empirical formula that works well in describing dispersion. Sellmeier coefficients are often quoted instead of the refractive index in tables.     Because of dispersion, it is usually important to specify the vacuum wavelength of light for which a refractive index is measured. Typically, measurements are done at various well-defined spectral ": null
+    },
+    {
+        "emission line": "emission line"
+    },
+    {
+        "s; for example, n D usually denotes the refractive index at the ": null
+    },
+    {
+        "Fraunhofer": "fraunhofer lines"
+    },
+    {
+        " D line, the centre of the yellow ": null
+    },
+    {
+        "sodium": "sodium"
+    },
+    {
+        " double emission at 589.29 ": null
+    },
+    {
+        "nm": "nanometre"
+    },
+    {
+        " wavelength.                When light passes through a medium, some part of it will always be ": null
+    },
+    {
+        "attenuated": "attenuation"
+    },
+    {
+        ". This can be conveniently taken into account by defining a complex refractive index,   : \\underline n + i\\kappa.   Here, the real part n is the refractive index and indicates the ": null
+    },
+    {
+        "phase velocity": "phase velocity"
+    },
+    {
+        ", while the imaginary part κ is called the extinction coefficient — although κ can also refer to the ": null
+    },
+    {
+        "mass attenuation coefficient": "mass attenuation coefficient"
+    },
+    {
+        "—   and indicates the amount of attenuation when the electromagnetic wave propagates through the material.      That κ corresponds to attenuation can be seen by inserting this refractive index into the expression for ": null
+    },
+    {
+        "electric field": "electric field"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "plane": "plane wave"
+    },
+    {
+        " electromagnetic wave traveling in the z-direction. We can do this by relating the complex wave number k to the complex refractive index n through k 2π n /λ 0 , with λ 0 being the vacuum wavelength; this can be inserted into the plane wave expression as   : \\mathbf \\operatorname\\! \\left \\operatorname\\! \\left e^ \\operatorname\\! \\left   Here we see that κ gives an exponential decay, as expected from the ": null
+    },
+    {
+        "Beer–Lambert law": "beer–lambert law"
+    },
+    {
+        ". Since intensity is proportional to the square of the electric field, it will depend on the depth into the material as exp, and the ": null
+    },
+    {
+        "attenuation coefficient": "attenuation coefficient"
+    },
+    {
+        " becomes α 4πκ/λ 0 .  This also relates it to the ": null
+    },
+    {
+        "penetration depth": "penetration depth"
+    },
+    {
+        ", the distance after which the intensity is reduced by 1/e, δ p 1/α λ 0 /.     Both n and κ are dependent on the frequency. In most circumstances κ  0, corresponding to an amplification of the light.     An alternative convention uses n n − iκ instead of n n + iκ, but where κ  u  /u  ref nameAttwood/ math /math math /math  math /math math /math  math  /math math /math math  /math math /math math /math sup /sup sup /sup  ref  /ref math /math  ref nameHecht/ ": null
+    },
+    {
+        "ub /sub sub /sub sub /su": "ub  /sub  sub  /sub  sub  /su"
+    },
+    {
+        " sub /sub  sub /sub  sub /sub  sub /sub  ref  /ref math /math  sub /sub math ": null
+    }
+]

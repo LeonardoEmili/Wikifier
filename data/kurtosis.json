@@ -1,0 +1,347 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "probability theory": "probability theory"
+    },
+    {
+        " and ": null
+    },
+    {
+        "statistics": "statistics"
+    },
+    {
+        ", kurtosis  is a measure of the tailedness of the ": null
+    },
+    {
+        "probability distribution": "probability distribution"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "real": "real number"
+    },
+    {
+        "-valued ": null
+    },
+    {
+        "random variable": "random variable"
+    },
+    {
+        ". Like ": null
+    },
+    {
+        "skewness": "skewness"
+    },
+    {
+        ", kurtosis describes the shape of a probability distribution and, like skewness, there are different ways of quantifying it for a theoretical distribution and corresponding ways of estimating it from a sample from a population. Different measures of kurtosis may have different ": null
+    },
+    {
+        "interpretations": "interpretation"
+    },
+    {
+        ".     The standard measure of a distributions kurtosis, originating with ": null
+    },
+    {
+        "Karl Pearson": "karl pearson"
+    },
+    {
+        ", is a scaled version of the fourth ": null
+    },
+    {
+        "moment": "moment"
+    },
+    {
+        " of the distribution. This number is related to the tails of the distribution, not its peak; hence, the sometimes-seen characterization of kurtosis as peakedness is incorrect. For this measure, higher kurtosis corresponds to more frequent extreme ": null
+    },
+    {
+        "deviations": "deviation"
+    },
+    {
+        " , as opposed to frequent modestly sized deviations.     The kurtosis of any univariate ": null
+    },
+    {
+        "normal distribution": "normal distribution"
+    },
+    {
+        " is  3. It is common to compare the kurtosis of a distribution to this value. Distributions with kurtosis less than  3 are said to be platykurtic, although this does not imply the distribution is flat-topped as is sometimes reported. Rather, it means the distribution produces fewer and less extreme outliers than does the normal distribution. An example of a platykurtic distribution is the ": null
+    },
+    {
+        "uniform distribution": "uniform distribution"
+    },
+    {
+        ", which does not produce outliers. Distributions with kurtosis greater than 3 are said to be leptokurtic. An example of a leptokurtic distribution is the ": null
+    },
+    {
+        "Laplace distribution": "laplace distribution"
+    },
+    {
+        ", which has tails that asymptotically approach zero more slowly than a Gaussian, and therefore produces more outliers than the normal distribution. It is also common practice to use an adjusted version of Pearsons kurtosis, the excess kurtosis, which is the kurtosis minus 3, to provide the comparison to the ": null
+    },
+    {
+        "normal distribution": "normal distribution"
+    },
+    {
+        ". Some authors use kurtosis by itself to refer to the excess kurtosis. For clarity and generality, however, this article follows the non-excess convention and explicitly indicates where excess kurtosis is meant.     Alternative measures of kurtosis are: the ": null
+    },
+    {
+        "L-kurtosis": "l-kurtosis"
+    },
+    {
+        ", which is a scaled version of the fourth ": null
+    },
+    {
+        "L-moment": "l-moment"
+    },
+    {
+        "; measures based on four population or sample ": null
+    },
+    {
+        "quantiles": "quantiles"
+    },
+    {
+        ". These are analogous to the alternative measures of ": null
+    },
+    {
+        "skewness": "skewness"
+    },
+    {
+        " that are not based on ordinary moments.       The kurtosis is the fourth ": null
+    },
+    {
+        "standardized moment": "standardized moment"
+    },
+    {
+        ", defined as   :   \\operatorname \\operatorname\\left \\frac \\frac,     where μ 4 is the fourth ": null
+    },
+    {
+        "central moment": "central moment"
+    },
+    {
+        " and σ is the ": null
+    },
+    {
+        "standard deviation": "standard deviation"
+    },
+    {
+        ". Several letters are used in the literature to denote the kurtosis. A very common choice is κ, which is fine as long as it is clear that it does not refer to a ": null
+    },
+    {
+        "cumulant": "cumulant"
+    },
+    {
+        ". Other choices include γ 2 , to be similar to the notation for skewness, although sometimes this is instead reserved for the excess kurtosis.     The kurtosis is bounded below by the squared ": null
+    },
+    {
+        "skewness": "skewness"
+    },
+    {
+        " plus 1:   : \\frac \\geq \\left^2 + 1,   where μ 3 is the third ": null
+    },
+    {
+        "central moment": "central moment"
+    },
+    {
+        ". The lower bound is realized by the ": null
+    },
+    {
+        "Bernoulli distribution": "bernoulli distribution"
+    },
+    {
+        ". There is no upper limit to the kurtosis of a general probability distribution, and it may be infinite.     A reason why some authors favor the excess kurtosis is that cumulants are ": null
+    },
+    {
+        "extensive": "intensive and extensive properties"
+    },
+    {
+        ". Formulas related to the extensive property are more naturally expressed in terms of the excess kurtosis. For example, let X 1 , ..., X n be independent random variables for which the fourth moment exists, and let Y be the random variable defined by the sum of the X i . The excess kurtosis of Y is     : \\operatorname - 3 \\frac \\sum_^n \\sigma_i^ \\cdot \\left,   where \\sigma_i is the standard deviation of X_i . In particular if all of the X i have the same variance, then this simplifies to     : \\operatorname - 3 \\sum_^n .     The reason not to subtract off 3 is that the bare ": null
+    },
+    {
+        "fourth moment": "fourth moment"
+    },
+    {
+        " better generalizes to ": null
+    },
+    {
+        "multivariate distribution": "multivariate distribution"
+    },
+    {
+        "s, especially when independence is not assumed. The ": null
+    },
+    {
+        "cokurtosis": "cokurtosis"
+    },
+    {
+        " between pairs of variables is an order four ": null
+    },
+    {
+        "tensor": "tensor"
+    },
+    {
+        ". For a bivariate normal distribution, the cokurtosis tensor has off-diagonal terms that are neither 0 nor 3 in general, so attempting to correct for an excess becomes confusing. It is true, however, that the joint cumulants of degree greater than two for any ": null
+    },
+    {
+        "multivariate normal distribution": "multivariate normal distribution"
+    },
+    {
+        " are zero.     For two random variables, X and Y, not necessarily independent, the kurtosis of the sum, X  +  Y, is   ::   \\begin   \\operatorname \\big.   \\end     Note that the ": null
+    },
+    {
+        "binomial coefficients": "binomial coefficient"
+    },
+    {
+        "appear in the above equation.       The exact interpretation of the Pearson measure of kurtosis used to be disputed, but is now settled. As Westfall notes in 2014,  ...its only unambiguous interpretation is in terms of tail extremity; i.e., either existing outliers or propensity to produce outliers .  The logic is simple: Kurtosis is the average  of the ": null
+    },
+    {
+        "standardized data": "standardized data"
+    },
+    {
+        " raised to the fourth power. Any standardized values that are less than 1 , contribute virtually nothing to kurtosis, since raising a number that is less than 1 to the fourth power makes it closer to zero. The only data values that contribute to kurtosis in any meaningful way are those outside the region of the peak; i.e., the outliers. Therefore, kurtosis measures outliers only; it measures nothing about the peak .     Many incorrect interpretations of kurtosis that involve notions of peakedness have been given. One is that kurtosis measures both the peakedness of the distribution and the ": null
+    },
+    {
+        "heaviness of its tail": "heavy-tailed distribution"
+    },
+    {
+        ". Various other incorrect interpretations have been suggested, such as lack of shoulders  or bimodality . Balanda and MacGillivray assert that the standard definition of kurtosis is a poor measure of the kurtosis, peakedness, or tail weight of a distribution  and instead propose to define kurtosis vaguely as the location- and scale-free movement of ": null
+    },
+    {
+        "probability mass": "probability mass"
+    },
+    {
+        " from the ": null
+    },
+    {
+        "shoulders of a distribution": "shoulders of a distribution"
+    },
+    {
+        " into its center and tails .         In 1986 Moors gave an interpretation of kurtosis. Let     : Z \\frac \\sigma,     where X is a random variable, μ is the mean and σ is the standard deviation.     Now by definition of the kurtosis \\kappa , and by the well-known identity E \\operatorname + EV ^2,     : \\kappa E \\operatorname + EZ^2 ^2 \\operatorname + \\operatornameZ ^2 \\operatorname + 1 .     The kurtosis can now be seen as a measure of the dispersion of Z 2 around its expectation. Alternatively it can be seen to be a measure of the dispersion of Z around +1 and  −1. κ attains its minimal value in a symmetric two-point distribution. In terms of the original variable X, the kurtosis is a measure of the dispersion of X around the two values μ  ±  σ.     High values of κ arise in two circumstances:     where the probability mass is concentrated around the mean and the data-generating process produces occasional values far from the mean,   where the probability mass is concentrated in the tails of the distribution.         The excess kurtosis is defined as kurtosis minus  3. There are 3 distinct regimes as described below.       Distributions with zero excess kurtosis are called mesokurtic, or mesokurtotic. The most prominent example of a mesokurtic distribution is the normal distribution family, regardless of the values of its ": null
+    },
+    {
+        "parameter": "parameter"
+    },
+    {
+        "s. A few other well-known distributions can be mesokurtic, depending on parameter values: for example, the ": null
+    },
+    {
+        "binomial distribution": "binomial distribution"
+    },
+    {
+        " is mesokurtic for p 1/2 \\pm \\sqrt .       A distribution with ": null
+    },
+    {
+        "positive": "positive number"
+    },
+    {
+        " excess kurtosis is called leptokurtic, or leptokurtotic. Lepto- means slender .  In terms of shape, a leptokurtic distribution has  fatter tails . Examples of leptokurtic distributions include the ": null
+    },
+    {
+        "Students t-distribution": "students t-distribution"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Rayleigh distribution": "rayleigh distribution"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Laplace distribution": "laplace distribution"
+    },
+    {
+        ", ": null
+    },
+    {
+        "exponential distribution": "exponential distribution"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Poisson distribution": "poisson distribution"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "logistic distribution": "logistic distribution"
+    },
+    {
+        ". Such distributions are sometimes termed super-Gaussian.          A distribution with ": null
+    },
+    {
+        "negative": "negative number"
+    },
+    {
+        " excess kurtosis is called platykurtic, or platykurtotic. Platy- means broad .  In terms of shape, a platykurtic distribution has thinner tails. Examples of platykurtic distributions include the ": null
+    },
+    {
+        "continuous": "continuous uniform distribution"
+    },
+    {
+        " and ": null
+    },
+    {
+        "discrete uniform distribution": "discrete uniform distribution"
+    },
+    {
+        "s, and the ": null
+    },
+    {
+        "raised cosine distribution": "raised cosine distribution"
+    },
+    {
+        ". The most platykurtic distribution of all is the ": null
+    },
+    {
+        "Bernoulli distribution": "bernoulli distribution"
+    },
+    {
+        " with p 1/2 , for which the excess kurtosis is −2. Such distributions are sometimes termed  sub-Gaussian distribution , originally proposed by ": null
+    },
+    {
+        "Jean-Pierre Kahane": "jean-pierre kahane"
+    },
+    {
+        " and further described by Buldygin and Kozachenko.                      The effects of kurtosis are illustrated using a ": null
+    },
+    {
+        "parametric family": "parametric family"
+    },
+    {
+        " of distributions whose kurtosis can be adjusted while their lower-order moments and cumulants remain constant. Consider the ": null
+    },
+    {
+        "Pearson type VII family": "pearson distribution"
+    },
+    {
+        ", which is a special case of the ": null
+    },
+    {
+        "Pearson type IV family": "pearson distribution"
+    },
+    {
+        " restricted to symmetric densities. The ": null
+    },
+    {
+        "probability density function": "probability density function"
+    },
+    {
+        " is given by     : f \\frac \\left , \\!     where a is a ": null
+    },
+    {
+        "scale parameter": "scale parameter"
+    },
+    {
+        " and m is a ": null
+    },
+    {
+        "shape parameter": "shape parameter"
+    },
+    {
+        ".     All densities in this family are symmetric. The kth moment exists provided m   ": null
+    }
+]

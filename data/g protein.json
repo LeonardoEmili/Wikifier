@@ -1,0 +1,866 @@
+[
+    {
+        "           G proteins, also known as guanine nucleotide-binding proteins, are a ": null
+    },
+    {
+        "family of proteins": "protein family"
+    },
+    {
+        " that act as ": null
+    },
+    {
+        "molecular switch": "molecular switch"
+    },
+    {
+        "es inside cells, and are involved in transmitting signals from a variety of stimuli outside a ": null
+    },
+    {
+        "cell": "cell"
+    },
+    {
+        " to its interior. Their activity is regulated by factors that control their ability to bind to and hydrolyze ": null
+    },
+    {
+        "guanosine triphosphate": "guanosine triphosphate"
+    },
+    {
+        " to ": null
+    },
+    {
+        "guanosine diphosphate": "guanosine diphosphate"
+    },
+    {
+        " . When they are bound to GTP, they are on, and, when they are bound to GDP, they are off. G proteins belong to the larger group of enzymes called ": null
+    },
+    {
+        "GTPase": "gtpase"
+    },
+    {
+        "s.     There are two classes of G proteins. The first function as ": null
+    },
+    {
+        "monomeric": "monomeric"
+    },
+    {
+        "small GTPases": "small gtpase"
+    },
+    {
+        ", while the second function as ": null
+    },
+    {
+        "heterotrimeric G protein": "heterotrimeric g protein"
+    },
+    {
+        " complexes": "protein complex"
+    },
+    {
+        ". The latter class of complexes is made up of  alpha  , beta and gamma ": null
+    },
+    {
+        "subunit": "protein subunit"
+    },
+    {
+        "s.  In addition, the beta and gamma subunits can form a stable dimeric complex referred to as the ": null
+    },
+    {
+        "beta-gamma complex": "g beta-gamma complex"
+    },
+    {
+        "   .      Heterotrimeric G proteins located within the cell are activated by ": null
+    },
+    {
+        "G protein-coupled receptors": "g protein-coupled receptor"
+    },
+    {
+        " that span the cell membrane.  Signaling molecules bind to a domain of the GPCR located outside the cell, and an intracellular GPCR domain then in turn activates a particular G protein. Some active-state GPCRs have also been shown to be pre-coupled with G proteins. The G protein activates a cascade of further signaling events that finally results in a change in cell function. G protein-coupled receptor and G proteins working together transmit signals from many ": null
+    },
+    {
+        "hormone": "hormone"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "neurotransmitter": "neurotransmitter"
+    },
+    {
+        "s, and other signaling factors.  G proteins regulate metabolic ": null
+    },
+    {
+        "enzyme": "enzyme"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "ion channel": "ion channel"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "transporter proteins": "membrane transport protein"
+    },
+    {
+        ", and other parts of the cell machinery, controlling ": null
+    },
+    {
+        "transcription": "transcription"
+    },
+    {
+        ", ": null
+    },
+    {
+        "motility": "motility"
+    },
+    {
+        ", ": null
+    },
+    {
+        "contractility": "contractility"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "secretion": "secretion"
+    },
+    {
+        ", which in turn regulate diverse systemic functions such as ": null
+    },
+    {
+        "embryonic development": "embryonic development"
+    },
+    {
+        ", learning and memory, and ": null
+    },
+    {
+        "homeostasis": "homeostasis"
+    },
+    {
+        ".             G proteins were discovered when ": null
+    },
+    {
+        "Alfred G. Gilman": "alfred g. gilman"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Martin Rodbell": "martin rodbell"
+    },
+    {
+        " investigated stimulation of cells by ": null
+    },
+    {
+        "adrenaline": "adrenaline"
+    },
+    {
+        ". They found that when adrenaline binds to a receptor, the receptor does not stimulate enzymes directly. Instead, the receptor stimulates a G protein, which then stimulates an enzyme. An example is ": null
+    },
+    {
+        "adenylate cyclase": "adenylate cyclase"
+    },
+    {
+        ", which produces the ": null
+    },
+    {
+        "second messenger": "second messenger"
+    },
+    {
+        " cyclic AMP": "cyclic amp"
+    },
+    {
+        ". , Illustrated Lecture. For this discovery, they won the 1994 ": null
+    },
+    {
+        "Nobel Prize in Physiology or Medicine": "nobel prize in physiology or medicine"
+    },
+    {
+        ".  The Nobel Assembly at the Karolinska Institute decided to award the Nobel Prize in Physiology or Medicine for 1994 jointly to Alfred G. Gilman and Martin Rodbell for their discovery of G-proteins and the role of these proteins in signal transduction in cells . 10 October 1994     Nobel prizes have been awarded for many aspects of signaling by G proteins and GPCRs. These include ": null
+    },
+    {
+        "receptor antagonist": "receptor antagonist"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "neurotransmitters": "neurotransmitters"
+    },
+    {
+        ", neurotransmitter ": null
+    },
+    {
+        "reuptake": "reuptake"
+    },
+    {
+        ", ": null
+    },
+    {
+        "G protein-coupled receptor": "g protein-coupled receptor"
+    },
+    {
+        "s, G proteins, ": null
+    },
+    {
+        "second messenger": "second messenger"
+    },
+    {
+        "s, the enzymes that trigger protein ": null
+    },
+    {
+        "phosphorylation": "phosphorylation"
+    },
+    {
+        " in response to ": null
+    },
+    {
+        "cAMP": "cyclic adenosine monophosphate"
+    },
+    {
+        ", and consequent metabolic processes such as ": null
+    },
+    {
+        "glycogenolysis": "glycogenolysis"
+    },
+    {
+        ".     Prominent examples include :     The 1947 ": null
+    },
+    {
+        "Nobel Prize in Physiology or Medicine": "nobel prize in physiology or medicine"
+    },
+    {
+        " to ": null
+    },
+    {
+        "Carl Cori": "carl cori"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Gerty Cori": "gerty cori"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Bernardo Houssay": "bernardo houssay"
+    },
+    {
+        ", for their discovery of how ": null
+    },
+    {
+        "glycogen": "glycogen"
+    },
+    {
+        " is broken down to ": null
+    },
+    {
+        "glucose": "glucose"
+    },
+    {
+        " and resynthesized in the body, for use as a store and source of energy. ": null
+    },
+    {
+        "Glycogenolysis": "glycogenolysis"
+    },
+    {
+        " is stimulated by numerous ": null
+    },
+    {
+        "hormones": "hormone"
+    },
+    {
+        "and ": null
+    },
+    {
+        "neurotransmitters": "neurotransmitter"
+    },
+    {
+        "including ": null
+    },
+    {
+        "adrenaline": "adrenaline"
+    },
+    {
+        ".   The 1970 ": null
+    },
+    {
+        "Nobel Prize in Physiology or Medicine": "nobel prize in physiology or medicine"
+    },
+    {
+        " to ": null
+    },
+    {
+        "Julius Axelrod": "julius axelrod"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Bernard Katz": "bernard katz"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Ulf von Euler": "ulf von euler"
+    },
+    {
+        " for their work on the release and ": null
+    },
+    {
+        "reuptake": "reuptake"
+    },
+    {
+        " of ": null
+    },
+    {
+        "neurotransmitter": "neurotransmitter"
+    },
+    {
+        "s.   The 1971 ": null
+    },
+    {
+        "Nobel Prize in Physiology or Medicine": "nobel prize in physiology or medicine"
+    },
+    {
+        " to ": null
+    },
+    {
+        "Earl Sutherland": "earl sutherland"
+    },
+    {
+        " for discovering the key role of ": null
+    },
+    {
+        "adenylate cyclase": "adenylate cyclase"
+    },
+    {
+        ", which produces the second messenger ": null
+    },
+    {
+        "cyclic AMP": "cyclic amp"
+    },
+    {
+        ".   The 1988 ": null
+    },
+    {
+        "Nobel Prize in Physiology or Medicine": "nobel prize in physiology or medicine"
+    },
+    {
+        " to ": null
+    },
+    {
+        "George H. Hitchings": "george h. hitchings"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Sir James Black": "sir james black"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Gertrude Elion": "gertrude elion"
+    },
+    {
+        " for their discoveries of important principles for drug treatment targeting GPCRs.   The 1992 ": null
+    },
+    {
+        "Nobel Prize in Physiology or Medicine": "nobel prize in physiology or medicine"
+    },
+    {
+        " to ": null
+    },
+    {
+        "Edwin G. Krebs": "edwin g. krebs"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Edmond H. Fischer": "edmond h. fischer"
+    },
+    {
+        " for describing how reversible ": null
+    },
+    {
+        "phosphorylation": "phosphorylation"
+    },
+    {
+        " works as a switch to activate ": null
+    },
+    {
+        "protein": "protein"
+    },
+    {
+        "s, and to regulate various cellular processes including ": null
+    },
+    {
+        "glycogenolysis": "glycogenolysis"
+    },
+    {
+        ".    The 1994 ": null
+    },
+    {
+        "Nobel Prize in Physiology or Medicine": "nobel prize in physiology or medicine"
+    },
+    {
+        " to ": null
+    },
+    {
+        "Alfred G. Gilman": "alfred g. gilman"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Martin Rodbell": "martin rodbell"
+    },
+    {
+        " for their discovery of G-proteins and the role of these proteins in signal transduction in cells .    The 2000 ": null
+    },
+    {
+        "Nobel Prize in Physiology or Medicine": "nobel prize in physiology or medicine"
+    },
+    {
+        " to ": null
+    },
+    {
+        "Eric Kandel": "eric kandel"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Arvid Carlsson": "arvid carlsson"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Paul Greengard": "paul greengard"
+    },
+    {
+        ", for research on ": null
+    },
+    {
+        "neurotransmitters": "neurotransmitter"
+    },
+    {
+        "such as ": null
+    },
+    {
+        "dopamine": "dopamine"
+    },
+    {
+        ", which act via GPCRs.   The 2004 ": null
+    },
+    {
+        "Nobel Prize in Physiology or Medicine": "nobel prize in physiology or medicine"
+    },
+    {
+        " to ": null
+    },
+    {
+        "Richard Axel": "richard axel"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Linda B. Buck": "linda b. buck"
+    },
+    {
+        " for their work on G protein-coupled ": null
+    },
+    {
+        "olfactory receptor": "olfactory receptor"
+    },
+    {
+        "s.    The 2012 ": null
+    },
+    {
+        "Nobel Prize in Chemistry": "nobel prize in chemistry"
+    },
+    {
+        " to ": null
+    },
+    {
+        "Brian Kobilka": "brian kobilka"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Robert Lefkowitz": "robert lefkowitz"
+    },
+    {
+        " for their work on GPCR function.        G proteins are important ": null
+    },
+    {
+        "signal transducing": "signal transducing"
+    },
+    {
+        " molecules in cells. Malfunction of GPCR signaling pathways are involved in many diseases, such as ": null
+    },
+    {
+        "diabetes": "diabetes"
+    },
+    {
+        ", blindness, allergies, depression, cardiovascular defects, and certain forms of ": null
+    },
+    {
+        "cancer": "cancer"
+    },
+    {
+        ". It is estimated that about 30% of the modern drugs cellular targets are GPCRs.  The human genome encodes roughly 800  ": null
+    },
+    {
+        "G protein-coupled receptors": "g protein-coupled receptors"
+    },
+    {
+        ", which detect photons of light, hormones, growth factors, drugs, and other endogenous ": null
+    },
+    {
+        "ligands": "ligand"
+    },
+    {
+        ". Approximately 150 of the GPCRs found in the human genome still have unknown functions.     Whereas G proteins are activated by ": null
+    },
+    {
+        "G protein-coupled receptor": "g protein-coupled receptor"
+    },
+    {
+        "s, they are inactivated by ": null
+    },
+    {
+        "RGS proteins": "regulator of g protein signalling"
+    },
+    {
+        " . Receptors stimulate GTP binding . RGS proteins stimulate GTP hydrolysis .          All eukaryotes use G proteins for signaling and has evolved a large diversity of G proteins. For instance, humans encode 18 different G α proteins, 5 G β proteins, and 12 G γ proteins.       G protein can refer to two distinct families of proteins. ": null
+    },
+    {
+        "Heterotrimeric G protein": "heterotrimeric g protein"
+    },
+    {
+        "s, sometimes referred to as the large G proteins, are activated by ": null
+    },
+    {
+        "G protein-coupled receptors": "g protein-coupled receptor"
+    },
+    {
+        "and are made up of alpha , beta , and gamma ": null
+    },
+    {
+        "subunit": "protein subunit"
+    },
+    {
+        "s.  Small G proteins belong to the ": null
+    },
+    {
+        "Ras": "ras"
+    },
+    {
+        " superfamily of ": null
+    },
+    {
+        "small GTPase": "small gtpase"
+    },
+    {
+        "s. These proteins are ": null
+    },
+    {
+        "homologous": "sequence homology"
+    },
+    {
+        " to the alpha subunit found in heterotrimers, but are in fact monomeric, consisting of only a single unit. However, like their larger relatives, they also bind GTP and GDP and are involved in ": null
+    },
+    {
+        "signal transduction": "signal transduction"
+    },
+    {
+        ".          Different types of heterotrimeric G proteins share a common mechanism. They are activated in response to a ": null
+    },
+    {
+        "conformational change": "conformational change"
+    },
+    {
+        " in the GPCR, exchanging GDP for GTP, and dissociating in order to activate other proteins in a particular ": null
+    },
+    {
+        "signal transduction": "signal transduction"
+    },
+    {
+        " pathway. The specific mechanisms, however, differ between protein types.          Receptor-activated G proteins are bound to the inner surface of the ": null
+    },
+    {
+        "cell membrane": "cell membrane"
+    },
+    {
+        ". They consist of the G α and the tightly associated G βγ subunits. There are many classes of G α subunits: G s α , G i α , G o α , G q/11 α, and G 12/13 α are some examples. They behave differently in the recognition of the effector molecule, but share a similar mechanism of activation.     ": null
+    },
+    {
+        "ligand": "ligand"
+    },
+    {
+        " activates the ": null
+    },
+    {
+        "G protein-coupled receptor": "g protein-coupled receptor"
+    },
+    {
+        ", it induces a conformational change in the receptor that allows the receptor to function as a ": null
+    },
+    {
+        "guanine nucleotide exchange factor": "guanine nucleotide exchange factor"
+    },
+    {
+        " that exchanges GDP for GTP – thus turning the GPCR on . The GTP is bound to the G α subunit in the traditional view of heterotrimeric GPCR activation. This exchange triggers the dissociation of the G α subunit from the G βγ dimer and the receptor as a whole. However, models which suggest molecular rearrangement, reorganization, and pre-complexing of effector molecules are beginning to be accepted.    Both G α -GTP and G βγ can then activate different signaling cascades  and effector proteins, while the receptor is able to activate the next G protein.      ": null
+    },
+    {
+        "hydrolyze": "hydrolysis"
+    },
+    {
+        " the attached GTP to GDP by its inherent ": null
+    },
+    {
+        "enzymatic": "enzyme"
+    },
+    {
+        " activity, allowing it to re-associate with G βγ and starting a new cycle. A group of proteins called ": null
+    },
+    {
+        "Regulator of G protein signalling": "regulator of g protein signalling"
+    },
+    {
+        " , act as ": null
+    },
+    {
+        "GTPase-activating proteins": "gtpase-activating proteins"
+    },
+    {
+        " , are specific for G α subunits. These proteins accelerate the hydrolysis of GTP to GDP, thus terminating the transduced signal. In some cases, the effector itself may possess intrinsic GAP activity, which then can help deactivate the pathway. This is true in the case of ": null
+    },
+    {
+        "phospholipase C": "phospholipase c"
+    },
+    {
+        "-beta, which possesses GAP activity within its ": null
+    },
+    {
+        "C-terminal": "c-terminus"
+    },
+    {
+        " region. This is an alternate form of regulation for the G α subunit. Such G α GAPs do not have catalytic residues to activate the G α protein. They work instead by lowering the required activation energy for the reaction to take place.           G αs  activates the ": null
+    },
+    {
+        "cAMP-dependent pathway": "camp-dependent pathway"
+    },
+    {
+        " by stimulating the production of ": null
+    },
+    {
+        "cyclic AMP": "cyclic amp"
+    },
+    {
+        " from ": null
+    },
+    {
+        "ATP": "adenosine triphosphate"
+    },
+    {
+        ". This is accomplished by direct stimulation of the membrane-associated enzyme ": null
+    },
+    {
+        "adenylate cyclase": "adenylate cyclase"
+    },
+    {
+        ". cAMP can then act as a second messenger that goes on to interact with and activate ": null
+    },
+    {
+        "protein kinase A": "protein kinase a"
+    },
+    {
+        " . PKA can phosphorylate a myriad downstream targets.     The ": null
+    },
+    {
+        "cAMP-dependent pathway": "camp-dependent pathway"
+    },
+    {
+        " is used as a signal transduction pathway for many hormones including:     ": null
+    },
+    {
+        "ADH": "antidiuretic hormone"
+    },
+    {
+        " – Promotes water retention by the ": null
+    },
+    {
+        "kidneys": "kidneys"
+    },
+    {
+        "    GHRH": "ghrh"
+    },
+    {
+        " – Stimulates the synthesis and release of GH    ": null
+    },
+    {
+        "GHIH": "ghih"
+    },
+    {
+        " – Inhibits the synthesis and release of GH   ": null
+    },
+    {
+        "CRH": "corticotropin-releasing hormone"
+    },
+    {
+        " – Stimulates the synthesis and release of ACTH   ": null
+    },
+    {
+        "ACTH": "acth"
+    },
+    {
+        " – Stimulates the synthesis and release of ": null
+    },
+    {
+        "cortisol": "cortisol"
+    },
+    {
+        "    TSH": "thyroid-stimulating hormone"
+    },
+    {
+        " – Stimulates the synthesis and release of a majority of ": null
+    },
+    {
+        "T4": "thyroxine"
+    },
+    {
+        "   LH": "luteinizing hormone"
+    },
+    {
+        " – Stimulates follicular maturation and ovulation in women; or testosterone production and spermatogenesis in men   ": null
+    },
+    {
+        "FSH": "follicle stimulating hormone"
+    },
+    {
+        " – Stimulates follicular development in women; or ": null
+    },
+    {
+        "spermatogenesis": "spermatogenesis"
+    },
+    {
+        " in men   ": null
+    },
+    {
+        "PTH": "parathyroid hormone"
+    },
+    {
+        " – Increases ": null
+    },
+    {
+        "blood calcium": "blood calcium"
+    },
+    {
+        " levels. This is accomplished via the ": null
+    },
+    {
+        "parathyroid hormone 1 receptor": "parathyroid hormone 1 receptor"
+    },
+    {
+        " in the kidneys and bones, or via the ": null
+    },
+    {
+        "parathyroid hormone 2 receptor": "parathyroid hormone 2 receptor"
+    },
+    {
+        " in the central nervous system and brain, as well as the bones and kidneys.   ": null
+    },
+    {
+        "Calcitonin": "calcitonin"
+    },
+    {
+        " – Decreases blood calcium levels    ": null
+    },
+    {
+        "Glucagon": "glucagon"
+    },
+    {
+        " – Stimulates ": null
+    },
+    {
+        "glycogen": "glycogen"
+    },
+    {
+        " breakdown in the liver   ": null
+    },
+    {
+        "hCG": "human chorionic gonadotropin"
+    },
+    {
+        " – Promotes cellular differentiation, and is potentially involved in ": null
+    },
+    {
+        "apoptosis": "apoptosis"
+    },
+    {
+        ".    ": null
+    },
+    {
+        "Epinephrine": "epinephrine"
+    },
+    {
+        " – released by the  adrenal medulla  during the fasting state, when body is under metabolic duress. It stimulates ": null
+    },
+    {
+        "glycogenolysis": "glycogenolysis"
+    },
+    {
+        ", in addition to the actions of ": null
+    },
+    {
+        "glucagon": "glucagon"
+    },
+    {
+        ".      G αi  inhibits the production of cAMP from ATP.   eg. somatostatin,prostaglandins      G αq/11  stimulates the membrane-bound ": null
+    },
+    {
+        "phospholipase C": "phospholipase c"
+    },
+    {
+        " beta, which then cleaves PIP 2  into two second messengers, ": null
+    },
+    {
+        "IP3": "inositol trisphosphate"
+    },
+    {
+        " and ": null
+    },
+    {
+        "diacylglycerol": "diglyceride"
+    },
+    {
+        " .   The Inositol Phospholipid Dependent Pathway is used as a signal transduction pathway for many hormones including:   ADH  – Induces the synthesis and release of ": null
+    },
+    {
+        "glucocorticoids": "glucocorticoid"
+    },
+    {
+        " ; Induces vasoconstriction    TRH – Induces the synthesis and release of TSH    TSH – Induces the synthesis and release of a small amount of T4    Angiotensin II – Induces Aldosterone synthesis and release    GnRH – Induces the synthesis and release of FSH and LH      G α12/13  are involved in Rho family GTPase signaling . This is through the RhoGEF superfamily involving the ": null
+    },
+    {
+        "RhoGEF domain": "rhogef domain"
+    },
+    {
+        " of the proteins structuresα20-kDa to 25-kDa": null
+    },
+    {
+        "GTP": "guanosine triphosphate"
+    }
+]

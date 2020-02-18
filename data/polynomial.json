@@ -1,0 +1,512 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a polynomial is an ": null
+    },
+    {
+        "expression": "expression"
+    },
+    {
+        " consisting of ": null
+    },
+    {
+        "variables": "variable"
+    },
+    {
+        "  and ": null
+    },
+    {
+        "coefficient": "coefficient"
+    },
+    {
+        "s, that involves only the operations of ": null
+    },
+    {
+        "addition": "addition"
+    },
+    {
+        ", ": null
+    },
+    {
+        "subtraction": "subtraction"
+    },
+    {
+        ", ": null
+    },
+    {
+        "multiplication": "multiplication"
+    },
+    {
+        ", and non-negative ": null
+    },
+    {
+        "integer": "integer"
+    },
+    {
+        " exponents": "exponentiation"
+    },
+    {
+        " of variables. An example of a polynomial of a single indeterminate, , is . An example in three variables is .     Polynomials appear in many areas of mathematics and science. For example, they are used to form ": null
+    },
+    {
+        "polynomial equation": "polynomial equation"
+    },
+    {
+        "s, which encode a wide range of problems, from elementary ": null
+    },
+    {
+        "word problems": "word problem"
+    },
+    {
+        " to complicated scientific problems; they are used to define polynomial functions, which appear in settings ranging from basic ": null
+    },
+    {
+        "chemistry": "chemistry"
+    },
+    {
+        " and ": null
+    },
+    {
+        "physics": "physics"
+    },
+    {
+        " to ": null
+    },
+    {
+        "economics": "economics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "social science": "social science"
+    },
+    {
+        "; they are used in ": null
+    },
+    {
+        "calculus": "calculus"
+    },
+    {
+        " and ": null
+    },
+    {
+        "numerical analysis": "numerical analysis"
+    },
+    {
+        " to approximate other functions. In advanced mathematics, polynomials are used to construct ": null
+    },
+    {
+        "polynomial rings": "polynomial ring"
+    },
+    {
+        "and ": null
+    },
+    {
+        "algebraic varieties": "algebraic variety"
+    },
+    {
+        ", central concepts in ": null
+    },
+    {
+        "algebra": "algebra"
+    },
+    {
+        " and ": null
+    },
+    {
+        "algebraic geometry": "algebraic geometry"
+    },
+    {
+        ".       The word polynomial ": null
+    },
+    {
+        "joins two diverse roots": "hybrid word"
+    },
+    {
+        ": the Greek poly, meaning many, and the Latin nomen, or name. It was derived from the term  binomial  by replacing the Latin root bi- with the Greek poly-. The word polynomial was first used in the 17th century. See polynomial and binomial , Compact Oxford English Dictionary          The x occurring in a polynomial is commonly called either a variable or an indeterminate. When the polynomial is considered as an expression, x is a fixed symbol which does not have any value . However, when one considers the ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " defined by the polynomial, then x represents the argument of the function, and is therefore called a variable . Many authors use these two words interchangeably.     It is common to use uppercase letters for indeterminates and corresponding lowercase letters for the variables of the associated function.     A polynomial P in the indeterminate x is commonly denoted either as P or as P. Formally, the name of the polynomial is P, not P, but the use of the ": null
+    },
+    {
+        "functional notation": "functional notation"
+    },
+    {
+        " P date from the time where the distinction between a polynomial and the associated function was unclear. Moreover, the functional notation is often useful for specifying, in a single phrase, a polynomial and its indeterminate. For example, let P be a polynomial is a shorthand for let P be a polynomial in the indeterminate x . On the other hand, when it is not necessary to emphasize the name of the indeterminate, many formulas are much simpler and easier to read if the name of the indeterminate do not appear at each occurrence of the polynomial.     The ambiguity of having two notations for a single mathematical object may be formally resolved by considering the general meaning of the functional notation for polynomials.   If a denotes a number, a variable, another polynomial, or, more generally any expression, then P denotes, by convention, the result of substituting a for x in P. Thus, the polynomial P defines the function   : a\\mapsto P,   which is the polynomial function associated to P.   Frequently, when using this notation, one supposes that a is a number. However one may use it over any domain where addition and multiplication are defined . In particular, if a is a polynomial then P is also a polynomial.     More specifically, when a is the indeterminate x, then the ": null
+    },
+    {
+        "image": "image"
+    },
+    {
+        " of x by this function is the polynomial P itself . In other words,   : PP,   which justifies formally the existence of two notations for the same polynomial.       A polynomial is an ": null
+    },
+    {
+        "expression": "expression"
+    },
+    {
+        " that can be built from ": null
+    },
+    {
+        "constants": "constant"
+    },
+    {
+        " and symbols called indeterminates or variables by means of ": null
+    },
+    {
+        "addition": "addition"
+    },
+    {
+        ", ": null
+    },
+    {
+        "multiplication": "multiplication"
+    },
+    {
+        " and ": null
+    },
+    {
+        "exponentiation": "exponentiation"
+    },
+    {
+        " to a ": null
+    },
+    {
+        "non-negative integer": "non-negative integer"
+    },
+    {
+        " power. Two such expressions that may be transformed, one to the other, by applying the usual properties of ": null
+    },
+    {
+        "commutativity": "commutative property"
+    },
+    {
+        ", ": null
+    },
+    {
+        "associativity": "associative property"
+    },
+    {
+        " and ": null
+    },
+    {
+        "distributivity": "distributive property"
+    },
+    {
+        " of addition and multiplication are considered as defining the same polynomial.     A polynomial in a single indeterminate x can always be written in the form   : a_n x^n + a_x^ + \\dotsb + a_2 x^2 + a_1 x + a_0,   where a_0, \\ldots, a_n are constants and x is the indeterminate. The word indeterminate means that x represents no particular value, although any value may be substituted for it. The mapping that associates the result of this substitution to the substituted value is a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        ", called a polynomial function.     This can be expressed more concisely by using ": null
+    },
+    {
+        "summation notation": "summationcapital-sigma notation"
+    },
+    {
+        ":   : \\sum_^n a_k x^k     That is, a polynomial can either be zero or can be written as the sum of a finite number of non-zero ": null
+    },
+    {
+        "terms": "term"
+    },
+    {
+        ". Each term consists of the product of a number called the ": null
+    },
+    {
+        "coefficient": "coefficient"
+    },
+    {
+        " of the term The coefficient of a term may be any number from a specified set. If that set is the set of real numbers, we speak of polynomials over the reals . Other common kinds of polynomials are polynomials with integer coefficients, polynomials with complex coefficients, and polynomials with coefficients that are integers ": null
+    },
+    {
+        "modulo": "modular arithmetic"
+    },
+    {
+        " of some ": null
+    },
+    {
+        "prime number": "prime number"
+    },
+    {
+        " .  and a finite number of indeterminates, raised to nonnegative integer powers.          The exponent on an indeterminate in a term is called the degree of that indeterminate in that term; the degree of the term is the sum of the degrees of the indeterminates in that term, and the degree of a polynomial is the largest degree of any one term with nonzero coefficient. Because , the degree of an indeterminate without a written exponent is one.     A term with no indeterminates and a polynomial with no indeterminates are called, respectively, a ": null
+    },
+    {
+        "constant term": "constant term"
+    },
+    {
+        " and a constant polynomial. This terminology dates from the time when the distinction was not clear between a polynomial and the function that it defines: a constant term and a constant polynomial define ": null
+    },
+    {
+        "constant function": "constant function"
+    },
+    {
+        "s. The degree of a constant term and of a nonzero constant polynomial is 0. The degree of the zero polynomial, 0, is generally treated as not defined .      For example:   : -5x^2y     is a term. The coefficient is , the indeterminates are  and , the degree of  is two, while the degree of  is one. The degree of the entire term is the sum of the degrees of each indeterminate in it, so in this example the degree is .     Forming a sum of several terms produces a polynomial. For example, the following is a polynomial:   : \\underbrace_ \\underbrace_ \\underbrace_.     It consists of three terms: the first is degree two, the second is degree one, and the third is degree zero.     Polynomials of small degree have been given specific names. A polynomial of degree zero is a constant polynomial or simply a constant. Polynomials of degree one, two or three are respectively linear polynomials, quadratic polynomials and cubic polynomials. For higher degrees the specific names are not commonly used, although quartic polynomial and quintic polynomial are sometimes used. The names for the degrees may be applied to the polynomial or to its terms. For example, in  the term  is a linear term in a quadratic polynomial.     The polynomial 0, which may be considered to have no terms at all, is called the zero polynomial. Unlike other constant polynomials, its degree is not zero. Rather the degree of the zero polynomial is either left explicitly undefined, or defined as negative .  These conventions are useful when defining ": null
+    },
+    {
+        "Euclidean division of polynomials": "euclidean division of polynomials"
+    },
+    {
+        ". The zero polynomial is also unique in that it is the only polynomial in one indeterminate having an infinite number of ": null
+    },
+    {
+        "roots": "root of a function"
+    },
+    {
+        ". The graph of the zero polynomial, , is the -axis.     In the case of polynomials in more than one indeterminate, a polynomial is called homogeneous of  if all its non-zero terms have . The zero polynomial is homogeneous, and, as homogeneous polynomial, its degree is undefined. In fact, as ": null
+    },
+    {
+        "homogeneous function": "homogeneous function"
+    },
+    {
+        ", it is homogeneous of every degree For example,  is homogeneous of degree 5. For more details, see ": null
+    },
+    {
+        "homogeneous polynomial": "homogeneous polynomial"
+    },
+    {
+        ".     The ": null
+    },
+    {
+        "commutative law": "commutative law"
+    },
+    {
+        " of addition can be used to rearrange terms into any preferred order. In polynomials with one indeterminate, the terms are usually ordered according to degree, either in descending powers of  , with the term of largest degree first, or in ascending powers of  . The polynomial in the example above is written in descending powers of . The first term has coefficient , indeterminate , and exponent . In the second term, the coefficient . The third term is a constant. Because the degree of a non-zero polynomial is the largest degree of any one term, this polynomial has degree two.      Two terms with the same indeterminates raised to the same powers are called similar terms or like terms , and they can be combined, using the ": null
+    },
+    {
+        "distributive law": "distributive law"
+    },
+    {
+        ", into a single term whose coefficient is the sum of the coefficients of the terms that were combined. It may happen that this makes the coefficient 0. Polynomials can be classified by the number of terms with nonzero coefficients, so that a one-term polynomial is called a ": null
+    },
+    {
+        "monomial": "monomial"
+    },
+    {
+        ", Some authors use monomial to mean ": null
+    },
+    {
+        "monic": "monic polynomial"
+    },
+    {
+        " monomial . See  a two-term polynomial is called a ": null
+    },
+    {
+        "binomial": "binomial"
+    },
+    {
+        ", and a three-term polynomial is called a trinomial. The term quadrinomial is occasionally used for a four-term polynomial.     A real polynomial is a polynomial with ": null
+    },
+    {
+        "real": "real number"
+    },
+    {
+        " coefficients. When it is used to define a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "domain": "domain"
+    },
+    {
+        " is not so restricted. However, a real polynomial function is a function from the reals to the reals that is defined by a real polynomial. Similarly, an integer polynomial is a polynomial with ": null
+    },
+    {
+        "integer": "integer"
+    },
+    {
+        " coefficients, and a complex polynomial is a polynomial with ": null
+    },
+    {
+        "complex": "complex number"
+    },
+    {
+        " coefficients.     A polynomial in one indeterminate is called a  univariate polynomial, a polynomial in more than one indeterminate is called a multivariate polynomial. A polynomial with two indeterminates is called a bivariate polynomial. These notions refer more to the kind of polynomials one is generally working with than to individual polynomials; for instance when working with univariate polynomials one does not exclude constant polynomials , although strictly speaking constant polynomials do not contain any indeterminates at all. It is possible to further classify multivariate polynomials as bivariate, trivariate, and so on, according to the maximum number of indeterminates allowed. Again, so that the set of objects under consideration be closed under subtraction, a study of trivariate polynomials usually allows bivariate polynomials, and so on. It is common, also, to say simply polynomials in , and  , listing the indeterminates allowed.     The evaluation of a polynomial consists of substituting a numerical value to each indeterminate and carrying out the indicated multiplications and additions. For polynomials in one indeterminate, the evaluation is usually more efficient using ": null
+    },
+    {
+        "Horners method": "horners method"
+    },
+    {
+        ":   : x + a_0.       Polynomials can be added using the ": null
+    },
+    {
+        "associative law": "associative law"
+    },
+    {
+        " of addition , possibly followed by reordering, and combining of like terms.   For example, if   : \\begin   P & 3x^2 - 2x + 5xy - 2 \\\\   Q & -3x^2 + 3x + 4y^2 + 8   \\end     then   : P + Q 3x^2 - 2x + 5xy - 2 - 3x^2 + 3x + 4y^2 + 8     which can be simplified to   : P + Q x + 5xy + 4y^2 + 6     To work out the product of two polynomials into a sum of terms, the distributive law is repeatedly applied, which results in each term of one polynomial being multiplied by every term of the other. For example, if   : \\begin   \\color P & \\color \\\\   \\color Q & \\color   \\end     then   : \\begin   &  & &   & + & & + & & + &   \\\\ & & + & & + & & + & & + &     \\\\ & & + & & + & & + &   & + &   \\end     which can be simplified to   : PQ 4x^2 + 21xy + 2x^2y + 12x + 15y^2 + 3xy^2 + 28y + 5.     Polynomial evaluation can be used to compute the remainder of ": null
+    },
+    {
+        "polynomial division": "euclidean division of polynomials"
+    },
+    {
+        " by a polynomial of degree one, because the remainder of the division of  by  is ; see the ": null
+    },
+    {
+        "polynomial remainder theorem": "polynomial remainder theorem"
+    },
+    {
+        ". This is more efficient than the usual algorithm of division when the quotient is not needed.   A ": null
+    },
+    {
+        "sum": "summation"
+    },
+    {
+        " of polynomials is a polynomial.   A ": null
+    },
+    {
+        "product": "product"
+    },
+    {
+        " of polynomials is a polynomial.   A ": null
+    },
+    {
+        "composition": "function composition"
+    },
+    {
+        " of two polynomials is a polynomial, which is obtained by substituting a variable of the first polynomial by the second polynomial.   The ": null
+    },
+    {
+        "derivative": "derivative"
+    },
+    {
+        " of the polynomial  is the polynomial . If the set of the coefficients does not contain the integers , then  should be interpreted as the sum of  with itself,  times. For example, over the integers modulo , the derivative of the polynomial  is the polynomial .    A primitive integral or ": null
+    },
+    {
+        "antiderivative": "antiderivative"
+    },
+    {
+        " of the polynomial  is the polynomial , where  is an arbitrary constant. For instance, the antiderivatives of  have the form .     As for the integers, two kinds of divisions are considered for the polynomials. The  Euclidean division of polynomials  that generalizes the ": null
+    },
+    {
+        "Euclidean division": "euclidean division"
+    },
+    {
+        " of the integers. It results in two polynomials, a quotient and a remainder that are characterized by the following property of the polynomials: given two polynomials  and  such that , there exists a unique pair of polynomials, , the quotient, and , the remainder, such that  and  . Two polynomials sharing the same value of n are considered equal if and only if the sequences of their coefficients are equal; furthermore any polynomial is equal to any polynomial with greater value of  obtained from it by adding terms in front whose coefficient is zero. These polynomials can be added by simply adding corresponding coefficients . Thus each polynomial is actually equal to the sum of the terms used in its formal expression, if such a term  is interpreted as a polynomial that has zero coefficients at all powers of  other than . Then to define multiplication, it suffices by the ": null
+    },
+    {
+        "distributive law": "distributive law"
+    },
+    {
+        " to describe the product of any two such terms, which is given by the rule     : a x^k \\; b x^l ab x^  for all elements a, b of the ring R and all ": null
+    },
+    {
+        "natural numbers": "natural numbers"
+    },
+    {
+        " k and l.     Thus the set of all polynomials with coefficients in the ring  forms itself a ring, the ring of polynomials over , which is denoted by . The map from  to  sending  to  is an injective homomorphism of rings, by which  is viewed as a subring of . If  is ": null
+    },
+    {
+        "commutative": "commutative ring"
+    },
+    {
+        ", then  is an ": null
+    },
+    {
+        "algebra": "algebra"
+    },
+    {
+        " over .     One can think of the ring  as arising from  by adding one new element x to R, and extending in a minimal way to a ring in which  satisfies no other relations than the obligatory ones, plus commutation with all elements of  . To do this, one must add all powers of  and their linear combinations as well.     Formation of the polynomial ring, together with forming factor rings by factoring out ": null
+    },
+    {
+        "ideals": "ideal"
+    },
+    {
+        ", are important tools for constructing new rings out of known ones. For instance, the ring of complex numbers, which can be constructed from the polynomial ring  over the real numbers by factoring out the ideal of multiples of the polynomial . Another example is the construction of ": null
+    },
+    {
+        "finite field": "finite field"
+    },
+    {
+        "s, which proceeds similarly, starting out with the field of integers modulo some ": null
+    },
+    {
+        "prime number": "prime number"
+    },
+    {
+        " as the coefficient ring  .     If  is commutative, then one can associate to every polynomial  in , a polynomial function  with domain and range equal to  . One obtains the value  by ": null
+    },
+    {
+        "substitution": "substitution"
+    },
+    {
+        " of the value  for the symbol  in . One reason to distinguish between polynomials and polynomial functions is that over some rings different polynomials may give rise to the same polynomial function . This is not the case when  is the real or complex numbers, whence the two concepts are not always distinguished in ": null
+    },
+    {
+        "analysis": "analysis"
+    },
+    {
+        ". An even more important reason to distinguish between polynomials and polynomial functions is that many operations on polynomials  require looking at what a polynomial is composed of as an expression rather than evaluating it at some constant value for .          In ": null
+    },
+    {
+        "commutative algebra": "commutative algebra"
+    },
+    {
+        ", one major focus of study is divisibility among polynomials. If  is an ": null
+    },
+    {
+        "integral domain": "integral domain"
+    },
+    {
+        " and  and  are polynomials in , it is said that  divides  or  is a divisor of  if there exists a polynomial  in  such that . One can show that every zero gives rise to a linear divisor, or more formally, if  is a polynomial in  and  is an element of  such that , then the polynomial  divides . The converse is also true. The quotient can be computed using the ": null
+    },
+    {
+        "polynomial long division": "polynomial long division"
+    },
+    {
+        ".       If  is a ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        " and  and  are polynomials in  with , then there exist unique polynomials  and  in  with   : f q \\, g + r   and such that the degree of  is smaller than the degree of  . The polynomials  and  are uniquely determined by  and . This is called  Euclidean division , division with remainder or polynomial long division and shows that the ring  is a ": null
+    },
+    {
+        "Euclidean domain": "euclidean domain"
+    },
+    {
+        ".     Analogously, prime polynomials  can be defined as non-zero polynomials which cannot be factorized into the product of two non-constant polynomials. In the case of coefficients in a ring,  non-constant  must be replaced by  non-constant or non- unit  . Any polynomial may be decomposed into the product of an invertible constant by a product of irreducible polynomials. If the coefficients belong to a field or a ": null
+    },
+    {
+        "unique factorization domain": "unique factorization domain"
+    },
+    {
+        " this decomposition is unique up to the order of the factors and the multiplication of any non-unit factor by a unit . When the coefficients belong to integers, rational numbers or a finite field, there are algorithms to test irreducibility and to compute the factorization into irreducible polynomials . These algorithms are not practicable for hand-written computation, but are available in any ": null
+    },
+    {
+        "computer algebra system": "computer algebra system"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Eisensteins criterion": "eisensteins criterion"
+    },
+    {
+        " can also be used in some cases to determine irreducibility.          In modern positional numbers systems, such as the ": null
+    },
+    {
+        "decimal system": "decimal"
+    },
+    {
+        ", the digits and their positions in the representation of an integer, for example, 45, are a shorthand notation for a polynomial in the ": null
+    },
+    {
+        "radix": "radix"
+    },
+    {
+        " or base, in this case, . As another example, in radix 5, a string of digits such as 132 denotes the number  42. This representation is unique. Let b be a positive integer greater than 1. Then every positive integer a can be expressed uniquely in the form     : a r_m b^m + r_ b^ + \\dotsb + r_1 b + r_0,     where m is a nonnegative integer and the ": null
+    }
+]

@@ -1,0 +1,644 @@
+[
+    {
+        "           Autocorrelation, also known as serial correlation, is the ": null
+    },
+    {
+        "correlation": "correlation"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "signal": "signal"
+    },
+    {
+        " with a delayed copy of itself as a function of delay. Informally, it is the similarity between observations as a function of the time lag between them. The analysis of autocorrelation is a mathematical tool for finding repeating patterns, such as the presence of a ": null
+    },
+    {
+        "periodic signal": "periodic signal"
+    },
+    {
+        " obscured by ": null
+    },
+    {
+        "noise": "noise"
+    },
+    {
+        ", or identifying the ": null
+    },
+    {
+        "missing fundamental frequency": "missing fundamental frequency"
+    },
+    {
+        " in a signal implied by its ": null
+    },
+    {
+        "harmonic": "harmonic"
+    },
+    {
+        " frequencies. It is often used in ": null
+    },
+    {
+        "signal processing": "signal processing"
+    },
+    {
+        " for analyzing functions or series of values, such as ": null
+    },
+    {
+        "time domain": "time domain"
+    },
+    {
+        " signals.     Different fields of study define autocorrelation differently, and not all of these definitions are equivalent. In some fields, the term is used interchangeably with ": null
+    },
+    {
+        "autocovariance": "autocovariance"
+    },
+    {
+        ".     ": null
+    },
+    {
+        "Unit root": "unit root"
+    },
+    {
+        " processes, ": null
+    },
+    {
+        "trend stationary": "trend stationary"
+    },
+    {
+        " processes, ": null
+    },
+    {
+        "autoregressive process": "autoregressive process"
+    },
+    {
+        "es, and ": null
+    },
+    {
+        "moving average process": "moving average process"
+    },
+    {
+        "es are specific forms of processes with autocorrelation.       In ": null
+    },
+    {
+        "statistics": "statistics"
+    },
+    {
+        ", the autocorrelation of a real or complex ": null
+    },
+    {
+        "random process": "random process"
+    },
+    {
+        " is the ": null
+    },
+    {
+        "Pearson correlation": "pearson correlation coefficient"
+    },
+    {
+        " between values of the process at different times, as a function of the two times or of the time lag . Let \\left\\ be a random process, and t be any point in time . Then X_t is the value  produced by a given ": null
+    },
+    {
+        "run": "execution"
+    },
+    {
+        " of the process at time t . Suppose that the process has ": null
+    },
+    {
+        "mean": "mean"
+    },
+    {
+        " \\mu_t and ": null
+    },
+    {
+        "variance": "variance"
+    },
+    {
+        " \\sigma_t^2 at time t , for each t . Then the definition of the auto-correlation function between times t_1 and t_2 is   Kun Il Park, Fundamentals of Probability and Stochastic Processes with Applications to Communications, Springer, 2018,            where \\operatorname is the ": null
+    },
+    {
+        "expected value": "expected value"
+    },
+    {
+        " operator and the bar represents complex conjugation. Note that the expectation may be not well defined.     Subtracting the mean before multiplication yields the auto-covariance function between times t_1 and t_2 :            Note that this expression is not well-defined for all-time series or processes, because the mean may not exist, or the variance may be zero or infinite .       If \\left\\ is a ": null
+    },
+    {
+        "wide-sense stationary process": "wide-sense stationary process"
+    },
+    {
+        " then the mean \\mu and the variance \\sigma^2 are time-independent, and further the autocovariance function depends only on the lag between t_1 and t_2 : the autocovariance depends only on the time-distance between the pair of values but not on their position in time. This further implies that the autocovariance and auto-correlation can be expressed as a function of the time-lag, and that this would be an ": null
+    },
+    {
+        "even function": "even function"
+    },
+    {
+        " of the lag \\taut_2-t_1 . This gives the more familiar forms for the auto-correlation function           and the auto-covariance function:            It is common practice in some disciplines  to normalize the autocovariance function to get a time-dependent ": null
+    },
+    {
+        "Pearson correlation coefficient": "pearson correlation coefficient"
+    },
+    {
+        ". However, in other disciplines the normalization is usually dropped and the terms autocorrelation and autocovariance are used interchangeably.     The definition of the auto-correlation coefficient of a stochastic process is      : \\rho_ \\frac \\frac .     If the function \\rho_ is well-defined, its value must lie in the range , with 1 indicating perfect correlation and −1 indicating perfect ": null
+    },
+    {
+        "anti-correlation": "anti-correlation"
+    },
+    {
+        ".     For a weak-sense ": null
+    },
+    {
+        "stationarity, wide-sense stationarity": "stationary processweak or wide-sense stationarity"
+    },
+    {
+        " process, the definition is     : \\rho_ \\frac \\frac     where     : \\operatorname_ \\sigma^2 .     The normalization is important both because the interpretation of the autocorrelation as a correlation provides a scale-free measure of the strength of ": null
+    },
+    {
+        "statistical dependence": "statistical dependence"
+    },
+    {
+        ", and because the normalization has an effect on the statistical properties of the estimated autocorrelations.         The fact that the auto-correlation function \\operatorname_ this is an ": null
+    },
+    {
+        "even function": "even function"
+    },
+    {
+        " can be stated as    : \\operatorname_ \\overline   Respectively for WSS a process:    : \\operatorname_ \\overline .       For a WSS process:    : \\left|\\operatorname_\\right| \\leq \\operatorname_   Notice that \\operatorname_ is always real.       The ": null
+    },
+    {
+        "Cauchy–Schwarz inequality": "cauchy–schwarz inequality"
+    },
+    {
+        ", inequality for stochastic processes:    : \\left|\\operatorname_\\right|^2 \\leq \\operatorname \\operatorname       The autocorrelation of a continuous-time ": null
+    },
+    {
+        "white noise": "white noise"
+    },
+    {
+        " signal will have a strong peak  at \\tau0 and will be exactly 0 for all other \\tau .       The ": null
+    },
+    {
+        "Wiener–Khinchin theorem": "wiener–khinchin theorem"
+    },
+    {
+        " relates the autocorrelation function \\operatorname_ to the ": null
+    },
+    {
+        "power spectral density": "spectral density"
+    },
+    {
+        " S_ via the ": null
+    },
+    {
+        "Fourier transform": "fourier transform"
+    },
+    {
+        ":     : \\operatorname_ \\int_^\\infty S_ e^ \\, f     : S_ \\int_^\\infty \\operatorname_ e^ \\, \\tau .     For real-valued functions, the symmetric autocorrelation function has a real symmetric transform, so the ": null
+    },
+    {
+        "Wiener–Khinchin theorem": "wiener–khinchin theorem"
+    },
+    {
+        " can be re-expressed in terms of real cosines only:     : \\operatorname_ \\int_^\\infty S_ \\cos \\, f     : S_ \\int_^\\infty \\operatorname_ \\cos \\, \\tau .     auto-correlation matrix of a ": null
+    },
+    {
+        "random vector": "random vector"
+    },
+    {
+        " \\mathbf ^ is an n \\times n matrix containing as elements the ": null
+    },
+    {
+        "autocorrelations": "autocorrelation"
+    },
+    {
+        " of all pairs of elements of the random vector \\mathbf . The autocorrelation matrix is used in various digital signal processing algorithms.     For a ": null
+    },
+    {
+        "random vector": "random vector"
+    },
+    {
+        " \\mathbf ^ containing ": null
+    },
+    {
+        "random elements": "random element"
+    },
+    {
+        "whose ": null
+    },
+    {
+        "expected value": "expected value"
+    },
+    {
+        " and ": null
+    },
+    {
+        "variance": "variance"
+    },
+    {
+        " exist, the auto-correlation matrix is defined by Papoulis, Athanasius, Probability, Random variables and Stochastic processes, McGraw-Hill, 1991             where ^ denotes transposition and has dimensions n \\times n .     Written component-wise:     : \\operatorname_   \\begin   \\operatorname & \\operatorname & \\cdots & \\operatorname \\\\ \\\\   \\operatorname & \\operatorname & \\cdots & \\operatorname \\\\ \\\\   \\vdots & \\vdots & \\ddots & \\vdots \\\\ \\\\   \\operatorname & \\operatorname & \\cdots & \\operatorname \\\\ \\\\   \\end       If \\mathbf is a ": null
+    },
+    {
+        "complex random vector": "complex random vector"
+    },
+    {
+        ", the autocorrelation matrix is instead defined by     : \\operatorname_ \\triangleq\\ \\operatorname .     Here ^ denotes ": null
+    },
+    {
+        "Hermitian transposition": "hermitian transpose"
+    },
+    {
+        ".     For example, if \\mathbf \\left^ is a random vectors, then \\operatorname_ is a 3 \\times 3 matrix whose -th entry is \\operatorname .       The autocorrelation matrix is a ": null
+    },
+    {
+        "Hermitian matrix": "hermitian matrix"
+    },
+    {
+        " for complex random vectors and a ": null
+    },
+    {
+        "symmetric matrix": "symmetric matrix"
+    },
+    {
+        " for real random vectors.  , i.e. \\mathbf^ \\operatorname_ \\mathbf \\ge 0 \\quad \\text \\mathbf \\in \\mathbb^n for a real random vector respectively \\mathbf^ \\operatorname_ \\mathbf \\ge 0 \\quad \\text \\mathbf \\in \\mathbb^n in case of a complex random vector.   All eigenvalues of the autocorrelation matrix are real and non-negative.   The auto-covariance matrix is related to the autocorrelation matrix as follows:   : \\operatorname_ \\operatorname \\operatorname_ - \\operatorname \\operatorname   : Respectively for complex random vectors:   : \\operatorname_ \\operatorname \\operatorname_ - \\operatorname \\operatorname       In ": null
+    },
+    {
+        "signal processing": "signal processing"
+    },
+    {
+        ", the above definition is often used without the normalization, that is, without subtracting the mean and dividing by the variance. When the autocorrelation function is normalized by mean and variance, it is sometimes referred to as the autocorrelation coefficient  or autocovariance function.       Given a ": null
+    },
+    {
+        "signal": "signal"
+    },
+    {
+        " f , the continuous autocorrelation R_ is most often defined as the continuous cross-correlation integral of f with itself, at lag \\tau .           where \\overline represents the ": null
+    },
+    {
+        "complex conjugate": "complex conjugate"
+    },
+    {
+        " of f . Note that the parameter t in the integral is a dummy variable and is only necessary to calculate the integral. It has no specific meaning.       The discrete autocorrelation R at lag \\ell for a discrete-time signal y is          The above definitions work for signals that are square integrable, or square summable, that is, of finite energy. Signals that last forever are treated instead as random processes, in which case different definitions are needed, based on expected values. For ": null
+    },
+    {
+        "wide-sense-stationary random processes": "stationary process"
+    },
+    {
+        ", the autocorrelations are defined as     : R_ \\operatorname\\left   : R_ \\operatorname\\left     For processes that are not ": null
+    },
+    {
+        "stationary": "stationary process"
+    },
+    {
+        ", these will also be functions of t , or n .     For processes that are also ": null
+    },
+    {
+        "ergodic": "ergodic process"
+    },
+    {
+        ", the expectation can be replaced by the limit of a time average. The autocorrelation of an ergodic process is sometimes defined as or equated to     : R_ \\lim_ \\frac 1 T \\int_0^T f\\overline\\, t   : R_ \\lim_ \\frac 1 N \\sum_^ y\\,\\overline.     These definitions have the advantage that they give sensible well-defined single-parameter results for periodic functions, even when those functions are not the output of stationary ergodic processes.     Alternatively, signals that last forever can be treated by a short-time autocorrelation function analysis, using finite time integrals.        If f is a continuous periodic functions of period T , the integration from -\\infty to \\infty is replaced by integration over any interval of length T :     : R_ \\triangleq \\int_^ f \\overline \\,dt     which is equivalent to     : R_ \\triangleq \\int_^ f \\overline \\,dt       In the following, we will describe properties of one-dimensional autocorrelations only, since most properties are easily transferred from the one-dimensional case to the multi-dimensional cases. These properties hold for ": null
+    },
+    {
+        "wide-sense stationary processes": "stationary processweak or wide-sense stationarity"
+    },
+    {
+        ".      A fundamental property of the autocorrelation is symmetry, R_ R_ , which is easy to prove from the definition. In the continuous case,   :the autocorrelation is an ": null
+    },
+    {
+        "even function": "even function"
+    },
+    {
+        "     :: R_ R_\\, when f is a real function,     :and the autocorrelation is a ": null
+    },
+    {
+        "Hermitian function": "hermitian function"
+    },
+    {
+        "     :: R_ R_^\\, when f is a ": null
+    },
+    {
+        "complex function": "complex function"
+    },
+    {
+        ".     The continuous autocorrelation function reaches its peak at the origin, where it takes a real value, i.e. for any delay \\tau , |R_| \\leq R_ .  This is a consequence of the ": null
+    },
+    {
+        "rearrangement inequality": "rearrangement inequality"
+    },
+    {
+        ". The same result holds in the discrete case.   The autocorrelation of a ": null
+    },
+    {
+        "periodic function": "periodic function"
+    },
+    {
+        " is, itself, periodic with the same period.   The autocorrelation of the sum of two completely uncorrelated functions is the sum of the autocorrelations of each function separately.   Since autocorrelation is a specific type of ": null
+    },
+    {
+        "cross-correlation": "cross-correlation"
+    },
+    {
+        ", it maintains all the properties of cross-correlation.   By using the symbol to represent ": null
+    },
+    {
+        "convolution": "convolution"
+    },
+    {
+        " and g_ is a function which manipulates the function f and is defined as g_f , the definition for R_ may be written as:     :: R_       Multi-": null
+    },
+    {
+        "dimension": "dimension"
+    },
+    {
+        "al autocorrelation is defined similarly. For example, in ": null
+    },
+    {
+        "three dimensions": "three-dimensional space"
+    },
+    {
+        " the autocorrelation of a square-summable ": null
+    },
+    {
+        "discrete signal": "discrete signal"
+    },
+    {
+        " would be     : R \\sum_ x_\\,x_ .     When mean values are subtracted from signals before computing an autocorrelation function, the resulting function is usually called an auto-covariance function.       For data expressed as a ": null
+    },
+    {
+        "discrete": "discrete signal"
+    },
+    {
+        " sequence, it is frequently necessary to compute the autocorrelation with high ": null
+    },
+    {
+        "computational efficiency": "algorithmic efficiency"
+    },
+    {
+        ". A brute force method based on the signal processing definition R_ \\sum_n x_n\\,\\overline_ can be used when the signal size is small. For example, to calculate the autocorrelation of the real signal sequence x  by hand, we first recognize that the definition just given is the same as the usual multiplication, but with right shifts, where each vertical addition gives the autocorrelation for particular lag values:   : \\begin   & 2 & 3 & -1 \\\\   \\times & 2 & 3 & -1 \\\\   \\hline   & -2 & -3 & 1 \\\\   & & 6 & 9 & -3 \\\\   + & & & 4 & 6 & -2 \\\\   \\hline   & -2 & 3 & 14 & 3 & -2   \\end     Thus the required autocorrelation sequence is R_ , where R_14, R_ R_3, and R_ R_ -2, the autocorrelation for other lag values being zero. In this calculation we do not perform the carry-over operation during addition as is usual in normal multiplication. Note that we can halve the number of operations required by exploiting the inherent symmetry of the autocorrelation. If the signal happens to be periodic, i.e. x, then we get a circular autocorrelation  where the left and right tails of the previous autocorrelation sequence will overlap and give R_ which has the same period as the signal sequence x. The procedure can be regarded as an application of the convolution property of ": null
+    },
+    {
+        "z-transform": "z-transform"
+    },
+    {
+        " of a discrete signal.     While the brute force algorithm is ": null
+    },
+    {
+        "order": "big o notation"
+    },
+    {
+        " , several efficient algorithms exist which can compute the autocorrelation in order . For example, the ": null
+    },
+    {
+        "Wiener–Khinchin theorem": "wiener–khinchin theorem"
+    },
+    {
+        " allows computing the autocorrelation from the raw data  with two ": null
+    },
+    {
+        "fast Fourier transforms": "fast fourier transform"
+    },
+    {
+        ":      : \\begin   F_R & \\operatorname \\\\   S & F_R F^_R \\\\   R & \\operatorname   \\end     where IFFT denotes the inverse ": null
+    },
+    {
+        "fast Fourier transform": "fast fourier transform"
+    },
+    {
+        ". The asterisk denotes ": null
+    },
+    {
+        "complex conjugate": "complex conjugate"
+    },
+    {
+        ".     Alternatively, a multiple  correlation can be performed by using brute force calculation for low  values, and then progressively binning the  data with a ": null
+    },
+    {
+        "logarithm": "logarithm"
+    },
+    {
+        "ic density to compute higher values, resulting in the same  efficiency, but with lower memory requirements.         For a ": null
+    },
+    {
+        "discrete": "discrete signal"
+    },
+    {
+        " process with known mean and variance for which we observe n observations \\ , an estimate of the autocorrelation may be obtained as     : \\hat\\frac \\sum_^     for any positive integer k  q .         Autocorrelation analysis is used heavily in ": null
+    },
+    {
+        "fluorescence correlation spectroscopy": "fluorescence correlation spectroscopy"
+    },
+    {
+        ".   Another application of autocorrelation is the measurement of ": null
+    },
+    {
+        "optical spectra": "optical spectrum"
+    },
+    {
+        " and the measurement of very-short-duration ": null
+    },
+    {
+        "light": "light"
+    },
+    {
+        " pulses": "ultrashort pulse"
+    },
+    {
+        " produced by ": null
+    },
+    {
+        "laser": "laser"
+    },
+    {
+        "s, both using ": null
+    },
+    {
+        "optical autocorrelators": "optical autocorrelation"
+    },
+    {
+        ".   Autocorrelation is used to analyze ": null
+    },
+    {
+        "dynamic light scattering": "dynamic light scattering"
+    },
+    {
+        " data, which notably enables determination of the ": null
+    },
+    {
+        "particle size distributions": "particle size distribution"
+    },
+    {
+        "of nanometer-sized particles or ": null
+    },
+    {
+        "micelles": "micelle"
+    },
+    {
+        "suspended in a fluid. A laser shining into the mixture produces a ": null
+    },
+    {
+        "speckle pattern": "speckle pattern"
+    },
+    {
+        " that results from the motion of the particles. Autocorrelation of the signal can be analyzed in terms of the diffusion of the particles. From this, knowing the viscosity of the fluid, the sizes of the particles can be calculated.   The ": null
+    },
+    {
+        "small-angle X-ray scattering": "small-angle x-ray scattering"
+    },
+    {
+        " intensity of a nanostructured system is the Fourier transform of the spatial autocorrelation function of the electron density.   In optics, normalized autocorrelations and cross-correlations give the ": null
+    },
+    {
+        "degree of coherence": "degree of coherence"
+    },
+    {
+        " of an electromagnetic field.   In ": null
+    },
+    {
+        "signal processing": "signal processing"
+    },
+    {
+        ", autocorrelation can give information about repeating events like ": null
+    },
+    {
+        "music": "music"
+    },
+    {
+        "al ": null
+    },
+    {
+        "beats": "beat"
+    },
+    {
+        "  or ": null
+    },
+    {
+        "pulsar": "pulsar"
+    },
+    {
+        " frequencies": "frequency"
+    },
+    {
+        ", though it cannot tell the position in time of the beat. It can also be used to ": null
+    },
+    {
+        "estimate the pitch of a musical tone": "pitch detection algorithm"
+    },
+    {
+        ".   In ": null
+    },
+    {
+        "music recording": "music recording"
+    },
+    {
+        ", autocorrelation is used as a ": null
+    },
+    {
+        "pitch detection algorithm": "pitch detection algorithm"
+    },
+    {
+        " prior to vocal processing, as a distortion effect or to eliminate undesired mistakes and inaccuracies.      Autocorrelation in space rather than time, via the ": null
+    },
+    {
+        "Patterson function": "patterson function"
+    },
+    {
+        ", is used by X-ray diffractionists to help recover the Fourier phase information on atom positions not available through diffraction alone.   In statistics, spatial autocorrelation between sample locations also helps one estimate ": null
+    },
+    {
+        "mean value uncertainties": "variancegeneralizations"
+    },
+    {
+        " when sampling a heterogeneous population.   The ": null
+    },
+    {
+        "SEQUEST": "sequest"
+    },
+    {
+        " algorithm for analyzing ": null
+    },
+    {
+        "mass spectra": "mass spectrum"
+    },
+    {
+        " makes use of autocorrelation in conjunction with ": null
+    },
+    {
+        "cross-correlation": "cross-correlation"
+    },
+    {
+        " to score the similarity of an observed spectrum to an idealized spectrum representing a ": null
+    },
+    {
+        "peptide": "peptide"
+    },
+    {
+        ".   In ": null
+    },
+    {
+        "astrophysics": "astrophysics"
+    },
+    {
+        ", autocorrelation is used to study and characterize the spatial distribution of ": null
+    },
+    {
+        "galaxies": "galaxy"
+    },
+    {
+        " in the universe and in multi-wavelength observations of low mass ": null
+    },
+    {
+        "X-ray binaries": "x-ray binary"
+    },
+    {
+        ".   In ": null
+    },
+    {
+        "panel data": "panel data"
+    },
+    {
+        ", spatial autocorrelation refers to correlation of a variable with itself through space.   In analysis of ": null
+    },
+    {
+        "Markov chain Monte Carlo": "markov chain monte carlo"
+    },
+    {
+        " data, autocorrelation must be taken into account for correct error determination.   In geosciences it can be used to compute an autocorrelation seismic attribute, out of a 3D seismic survey of the underground.   In ": null
+    },
+    {
+        "medical ultrasound": "medical ultrasound"
+    },
+    {
+        " imaging, autocorrelation is used to visualize blood flow.   In ": null
+    },
+    {
+        "intertemporal portfolio choice": "intertemporal portfolio choice"
+    },
+    {
+        ", the presence or absence of autocorrelation in an assets ": null
+    },
+    {
+        "rate of return": "rate of return"
+    },
+    {
+        " can affect the optimal portion of the portfolio to hold in that asset.       Serial dependence is closely linked to the notion of autocorrelation, but represents a distinct concept . In particular, it is possible to have serial dependence but no correlation. In some fields however, the two terms are used as synonyms.     A ": null
+    },
+    {
+        "time series": "time series"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "random variable": "random variable"
+    },
+    {
+        " has serial dependence if the value at some time t in the series is ": null
+    },
+    {
+        "statistically dependent": "statistical independence"
+    },
+    {
+        " on the value at another time s . A series is serially independent if there is no dependence between any pair.     If a time series \\left\\ is ": null
+    },
+    {
+        "stationary": "stationary process"
+    }
+]

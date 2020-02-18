@@ -1,0 +1,278 @@
+[
+    {
+        "      Luminance is a ": null
+    },
+    {
+        "photometric": "photometry"
+    },
+    {
+        " measure of the ": null
+    },
+    {
+        "luminous intensity": "luminous intensity"
+    },
+    {
+        " per ": null
+    },
+    {
+        "unit area": "units of measurement"
+    },
+    {
+        " of ": null
+    },
+    {
+        "light": "light"
+    },
+    {
+        " travelling in ": null
+    },
+    {
+        "a given": "wikt:givennoun"
+    },
+    {
+        " direction. It describes the amount of light that passes through, is emitted from, or is reflected from a particular area, and falls within a given ": null
+    },
+    {
+        "solid angle": "solid angle"
+    },
+    {
+        ".     ": null
+    },
+    {
+        "Brightness": "brightness"
+    },
+    {
+        " is the ": null
+    },
+    {
+        "term": "terminology"
+    },
+    {
+        " for the subjective impression of the objective luminance measurement standard .     The ": null
+    },
+    {
+        "SI unit": "si base unit"
+    },
+    {
+        " for luminance is ": null
+    },
+    {
+        "candela per square metre": "candela per square metre"
+    },
+    {
+        " , as defined by the International System of Units  standard for the ": null
+    },
+    {
+        "modern metric system": "modern metric system"
+    },
+    {
+        ". A non-SI term for the same unit is the ": null
+    },
+    {
+        "nit": "nit"
+    },
+    {
+        ". The unit in the ": null
+    },
+    {
+        "Centimetre–gram–second system of units ": "centimetre–gram–second system of units"
+    },
+    {
+        " is the ": null
+    },
+    {
+        "stilb": "stilb"
+    },
+    {
+        ", which is equal to one candela per square centimetre or 10  kcd/m 2 .       Luminance is often used to characterize emission or reflection from flat, ": null
+    },
+    {
+        "diffuse": "diffuse reflection"
+    },
+    {
+        " surfaces. Luminance levels indicate how much ": null
+    },
+    {
+        "luminous power": "luminous flux"
+    },
+    {
+        " could be detected by the ": null
+    },
+    {
+        "human eye": "human eye"
+    },
+    {
+        " looking at a particular surface from a particular ": null
+    },
+    {
+        "angle of view": "angle of view"
+    },
+    {
+        ". Luminance is thus an indicator of how ": null
+    },
+    {
+        "bright": "brightness"
+    },
+    {
+        " the surface will appear. In this case, the solid angle of interest is the solid angle subtended by the eyes ": null
+    },
+    {
+        "pupil": "pupil"
+    },
+    {
+        ".     Luminance is used in the video industry to characterize the brightness of displays. A typical computer display emits between 50 and . The sun has a luminance of about  at noon.      Luminance is ": null
+    },
+    {
+        "invariant": "invariant"
+    },
+    {
+        " in ": null
+    },
+    {
+        "geometric optics": "geometric optics"
+    },
+    {
+        ".  This means that for an ideal optical system, the luminance at the output is the same as the input luminance.     For real, passive optical systems, the output luminance is at most equal to the input. As an example, if one uses a lens to form an image that is smaller than the source object, the luminous power is concentrated into a smaller area, meaning that the ": null
+    },
+    {
+        "illuminance": "illuminance"
+    },
+    {
+        " is higher at the image. The light at the image plane, however, fills a larger solid angle so the luminance comes out to be the same assuming there is no loss at the lens. The image can never be brighter than the source.          Retinal damage can occur when the eye is exposed to high luminance. Damage can occur because of local heating of the retina. Photochemical effects can also cause damage, especially at short wavelengths.       A luminance meter is a device used in ": null
+    },
+    {
+        "photometry": "photometry"
+    },
+    {
+        " that can measure the luminance in a particular direction and with a particular ": null
+    },
+    {
+        "solid angle": "solid angle"
+    },
+    {
+        ". The simplest devices measure the luminance in a single direction while imaging luminance meters measure luminance in a way similar to the way a ": null
+    },
+    {
+        "digital camera": "digital camera"
+    },
+    {
+        " records color images.           The luminance of a specified point of a light source, in a specified direction, is defined by the ": null
+    },
+    {
+        "derivative": "derivative"
+    },
+    {
+        "     :   L_\\mathrm \\frac         where    v is the luminance ,   d 2  v is the ": null
+    },
+    {
+        "luminous flux": "luminous flux"
+    },
+    {
+        "  leaving the area d in any direction contained inside the solid angle d Σ ,   d is an ": null
+    },
+    {
+        "infinitesimal": "infinitesimal"
+    },
+    {
+        " area  of the source containing the specified point,   d Σ is an infinitesimal ": null
+    },
+    {
+        "solid angle": "solid angle"
+    },
+    {
+        "  containing the specified direction,    Σ is the ": null
+    },
+    {
+        "angle": "angle"
+    },
+    {
+        " between the ": null
+    },
+    {
+        "normal": "normal"
+    },
+    {
+        " n Σ to the surface d and the specified direction.      If light travels through a ": null
+    },
+    {
+        "lossless": "lossless"
+    },
+    {
+        " medium, the luminance does not change along a given ": null
+    },
+    {
+        "light ray": "light ray"
+    },
+    {
+        ". As the ray crosses an arbitrary surface S, the luminance is given by     :   L_\\mathrm \\frac         where   d is the infinitesimal area of S seen from the source inside the solid angle d Σ ,   d S is the infinitesimal solid angle ": null
+    },
+    {
+        "subtended": "subtended angle"
+    },
+    {
+        " by d as seen from d,    S is the angle between the normal n S to d and the direction of the light.     More generally, the luminance along a light ray can be defined as     :   L_\\mathrm n^2\\frac       where   d is the ": null
+    },
+    {
+        "etendue": "etendue"
+    },
+    {
+        " of an infinitesimally narrow beam containing the specified ray,   d v is the luminous flux carried by this beam,    is the ": null
+    },
+    {
+        "index of refraction": "index of refraction"
+    },
+    {
+        " of the medium.       The luminance of a reflecting surface is related to the ": null
+    },
+    {
+        "illuminance": "illuminance"
+    },
+    {
+        " it receives:     :   \\begin   \\int_ L_\\mathrm \\mathrm\\Omega_\\Sigma \\cos \\theta_\\Sigma   & M_\\mathrm \\\\   & E_\\mathrm R   \\end       where the integral covers all the directions of emission , and    v is the surfaces ": null
+    },
+    {
+        "luminous exitance": "luminous exitance"
+    },
+    {
+        "  v is the received illuminance, and    is the ": null
+    },
+    {
+        "reflectance": "reflectance"
+    },
+    {
+        ".     In the case of a perfectly ": null
+    },
+    {
+        "diffuse reflector": "diffuse reflector"
+    },
+    {
+        " , the luminance is isotropic, per ": null
+    },
+    {
+        "Lamberts cosine law": "lamberts cosine law"
+    },
+    {
+        ". Then the relationship is simply     :   L_\\mathrm E_\\mathrm R / \\pi         A variety of units have been used for luminance, besides the candela per square metre.     One candela per square metre is equal to:   10 −4 ": null
+    },
+    {
+        "stilbs": "stilb"
+    },
+    {
+        "    & pi; ": null
+    },
+    {
+        "apostilbs": "apostilb"
+    },
+    {
+        "  & pi;×10 −4 ": null
+    },
+    {
+        "lamberts": "lambert"
+    },
+    {
+        "  0.292 ": null
+    },
+    {
+        "foot-lambert": "foot-lambert"
+    }
+]

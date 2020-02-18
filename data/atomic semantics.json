@@ -1,0 +1,23 @@
+[
+    {
+        "Atomic semantics is a type of guarantee provided by a ": null
+    },
+    {
+        "data register": "data register"
+    },
+    {
+        " shared by several ": null
+    },
+    {
+        "processors": "central processing unit"
+    },
+    {
+        " in a ": null
+    },
+    {
+        "parallel machine": "parallel machine"
+    },
+    {
+        " or in a network of computers working together.   Atomic semantics are very strong. An atomic register provides strong guarantees even when there is concurrency and failures.     A read/write register R stores a value and is accessed by two basic operations: read and write. A read returns the value stored in R and write changes the value stored in R to v.   A register is called atomic if it satisfies the two following properties:     1opopopopopopopop1op2": null
+    }
+]

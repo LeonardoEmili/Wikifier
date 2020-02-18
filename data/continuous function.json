@@ -1,0 +1,221 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a continuous function is a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " that does not have any jumps or other ": null
+    },
+    {
+        "discontinuities": "classification of discontinuities"
+    },
+    {
+        ". More precisely, sufficiently small changes in the input of a continuous function result in arbitrarily small changes in its output. Otherwise, a function is said to be a discontinuous function. A continuous function with a continuous ": null
+    },
+    {
+        "inverse function": "inverse function"
+    },
+    {
+        " is called a ": null
+    },
+    {
+        "homeomorphism": "homeomorphism"
+    },
+    {
+        ".     Continuity of functions is one of the core concepts of ": null
+    },
+    {
+        "topology": "topology"
+    },
+    {
+        ", which is treated in full generality below. The introductory portion of this article focuses on the special case where the inputs and outputs of functions are ": null
+    },
+    {
+        "real number": "real number"
+    },
+    {
+        "s. A stronger form of continuity is ": null
+    },
+    {
+        "uniform continuity": "uniform continuity"
+    },
+    {
+        ". In addition, this article discusses the definition for the more general case of functions between two ": null
+    },
+    {
+        "metric space": "metric space"
+    },
+    {
+        "s. In ": null
+    },
+    {
+        "order theory": "order theory"
+    },
+    {
+        ", especially in ": null
+    },
+    {
+        "domain theory": "domain theory"
+    },
+    {
+        ", one considers a notion of continuity known as ": null
+    },
+    {
+        "Scott continuity": "scott continuity"
+    },
+    {
+        ". Other forms of continuity do exist but they are not discussed in this article.     As an example, consider the function h, which describes the ": null
+    },
+    {
+        "height": "height"
+    },
+    {
+        " of a growing flower at time t. This function is continuous. By contrast, if M denotes the amount of money in a bank account at time t, then the function jumps at each point in time when money is deposited or withdrawn, so the function M is discontinuous.         A form of the ": null
+    },
+    {
+        "epsilon–delta definition": "-definition of limit"
+    },
+    {
+        " of continuity was first given by ": null
+    },
+    {
+        "Bernard Bolzano": "bernard bolzano"
+    },
+    {
+        " in 1817. ": null
+    },
+    {
+        "Augustin-Louis Cauchy": "augustin-louis cauchy"
+    },
+    {
+        " defined continuity of yf as follows: an infinitely small increment \\alpha of the independent variable x always produces an infinitely small change f-f of the dependent variable y . Cauchy defined infinitely small quantities in terms of variable quantities, and his definition of continuity closely parallels the infinitesimal definition used today . The formal definition and the distinction between pointwise continuity and ": null
+    },
+    {
+        "uniform continuity": "uniform continuity"
+    },
+    {
+        " were first given by Bolzano in the 1830s but the work wasnt published until the 1930s. Like Bolzano,  ": null
+    },
+    {
+        "Karl Weierstrass": "karl weierstrass"
+    },
+    {
+        "  denied continuity of a function at a point c unless it was defined at and on both sides of c, but ": null
+    },
+    {
+        "Édouard Goursat": "édouard goursat"
+    },
+    {
+        "  allowed the function to be defined only at and on one side of c, and ": null
+    },
+    {
+        "Camille Jordan": "camille jordan"
+    },
+    {
+        "  allowed it even if the function was defined only at c. All three of those nonequivalent definitions of pointwise continuity are still in use.  ": null
+    },
+    {
+        "Eduard Heine": "eduard heine"
+    },
+    {
+        " provided the first published definition of uniform continuity in 1872, but based these ideas on lectures given by ": null
+    },
+    {
+        "Peter Gustav Lejeune Dirichlet": "peter gustav lejeune dirichlet"
+    },
+    {
+        " in 1854.                 A ": null
+    },
+    {
+        "real function": "real function"
+    },
+    {
+        ", that is a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " from ": null
+    },
+    {
+        "real numbers": "real number"
+    },
+    {
+        "to real numbers can be represented by a ": null
+    },
+    {
+        "graph": "graph of a function"
+    },
+    {
+        " in the ": null
+    },
+    {
+        "Cartesian plane": "cartesian coordinate system"
+    },
+    {
+        "; such a function is continuous if, roughly speaking, the graph is a single unbroken ": null
+    },
+    {
+        "curve": "curve"
+    },
+    {
+        " whose ": null
+    },
+    {
+        "domain": "domain"
+    },
+    {
+        " is the entire real line. A more mathematically rigorous definition is given below.      A rigorous definition of continuity of real functions is usually given in a first course in calculus in terms of the idea of a ": null
+    },
+    {
+        "limit": "limit"
+    },
+    {
+        ". First, a function  with variable  is said to be continuous at the point  on the real line, if the limit of , as  approaches that point , is equal to the value ; and second, the function  is said to be continuous, if it is continuous at every point. A function is said to be discontinuous  at some point when it is not continuous there. These points themselves are also addressed as discontinuities.     There are several different definitions of continuity of a function. Sometimes a function is said to be continuous if it is continuous at every point in its domain. In this case, the function , with the domain of all real ,   any integer, is continuous. Sometimes an exception is made for boundaries of the domain. For example, the graph of the function , with the domain of all non-negative reals, has a left-hand endpoint. In this case only the limit from the right is required to equal the value of the function. Under this definition f is continuous at the boundary  and so for all non-negative arguments. The most common and restrictive definition is that a function is continuous if it is continuous at all real numbers. In this case, the previous two examples are not continuous, but every ": null
+    },
+    {
+        "polynomial": "polynomial"
+    },
+    {
+        " function is continuous, as are the ": null
+    },
+    {
+        "sine": "sine"
+    },
+    {
+        ", ": null
+    },
+    {
+        "cosine": "cosine"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "exponential functions": "exponential functions"
+    },
+    {
+        ". Care should be exercised in using the word continuous, so that it is clear from the context which meaning of the word is intended.     Using mathematical notation, there are several ways to define continuous functions in each of the three senses mentioned above.     Let   : f\\colon D \\rightarrow \\mathbf R \\quad be a function defined on a ": null
+    },
+    {
+        "subset": "subset"
+    },
+    {
+        " D of the set \\mathbf R of real numbers.     This subset D is the ": null
+    },
+    {
+        "domain": "domain of a function"
+    },
+    {
+        " of f. Some possible choices include   : D \\mathbf R \\quad , or, for a and b real numbers,   : D \\ \\quad , or   : D \\  0 such that for all x in the domain of f with x 0  −  δ   ": null
+    }
+]

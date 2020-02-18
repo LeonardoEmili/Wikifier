@@ -1,0 +1,143 @@
+[
+    {
+        "     A quine is a ": null
+    },
+    {
+        "computer program": "computer program"
+    },
+    {
+        " which takes no input and produces a copy of its own ": null
+    },
+    {
+        "source code": "source code"
+    },
+    {
+        " as its only output. The standard terms for these programs in the ": null
+    },
+    {
+        "computability theory": "computability theory"
+    },
+    {
+        " and ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        " literature are self-replicating programs , self-reproducing programs , and self-copying programs .     A quine is a ": null
+    },
+    {
+        "fixed point": "fixed point"
+    },
+    {
+        " of an execution environment, when the execution environment is viewed as a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " transforming programs into their outputs. Quines are possible in any ": null
+    },
+    {
+        "Turing complete": "turing completeness"
+    },
+    {
+        " programming language, as a direct consequence of ": null
+    },
+    {
+        "Kleenes recursion theorem": "kleenes recursion theorem"
+    },
+    {
+        ". For amusement, programmers sometimes attempt to develop the shortest possible quine in any given ": null
+    },
+    {
+        "programming language": "programming language"
+    },
+    {
+        ".     The name quine was coined by ": null
+    },
+    {
+        "Douglas Hofstadter": "douglas hofstadter"
+    },
+    {
+        ", in his popular science book  Gödel, Escher, Bach , in honor of philosopher ": null
+    },
+    {
+        "Willard Van Orman Quine": "willard van orman quine"
+    },
+    {
+        " , who made an extensive study of ": null
+    },
+    {
+        "indirect self-reference": "indirect self-reference"
+    },
+    {
+        ", and in particular for the following paradox-producing expression, known as ": null
+    },
+    {
+        "Quines paradox": "quines paradox"
+    },
+    {
+        ":       Yields falsehood when preceded by its quotation yields falsehood when preceded by its quotation.       The idea of ": null
+    },
+    {
+        "self-reproducing automata": "von neumann universal constructor"
+    },
+    {
+        " came from the dawn of computing, if not before. ": null
+    },
+    {
+        "John von Neumann": "john von neumann"
+    },
+    {
+        " theorized about them in the 1940s. Later, ": null
+    },
+    {
+        "Paul Bratley": "paul bratley"
+    },
+    {
+        " and Jean Millos article Computer Recreations: Self-Reproducing Automata discussed them in 1972.    Bratley first became interested in self-reproducing programs after seeing the first known such program written in ": null
+    },
+    {
+        "Atlas Autocode": "atlas autocode"
+    },
+    {
+        " at Edinburgh in the 1960s by the ": null
+    },
+    {
+        "University of Edinburgh": "university of edinburgh"
+    },
+    {
+        " lecturer and researcher ": null
+    },
+    {
+        "Hamish Dewar": "hamish dewar"
+    },
+    {
+        ".     The download source requirement of the ": null
+    },
+    {
+        "Affero General Public License": "affero general public license"
+    },
+    {
+        " is based on the idea of a quine.         In general, the method used to create a quine in any programming language is to have, within the program, two pieces:  ": null
+    },
+    {
+        "code": "source code"
+    },
+    {
+        " used to do the actual printing and  ": null
+    },
+    {
+        "data": "data"
+    },
+    {
+        " that represents the textual form of the code. The code functions by using the data to print the code , but it also uses the data, processed in a simple way, to print the textual representation of the data itself.     The following ": null
+    },
+    {
+        "Java": "java"
+    },
+    {
+        " code demonstrates the basic structure of a quine.   public class Quine   ": null
+    }
+]

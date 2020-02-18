@@ -1,0 +1,1196 @@
+[
+    {
+        "   Information theory studies the ": null
+    },
+    {
+        "quantification": "quantification"
+    },
+    {
+        ", ": null
+    },
+    {
+        "storage": "computer data storage"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "communication": "telecommunication"
+    },
+    {
+        " of ": null
+    },
+    {
+        "information": "information"
+    },
+    {
+        ". It was originally proposed by ": null
+    },
+    {
+        "Claude Shannon": "claude shannon"
+    },
+    {
+        " in 1948 to find fundamental limits on ": null
+    },
+    {
+        "signal processing": "signal processing"
+    },
+    {
+        " and communication operations such as ": null
+    },
+    {
+        "data compression": "data compression"
+    },
+    {
+        ", in a landmark paper titled ": null
+    },
+    {
+        "A Mathematical Theory of Communication": "a mathematical theory of communication"
+    },
+    {
+        " . Its impact has been crucial to the success of the ": null
+    },
+    {
+        "Voyager": "voyager program"
+    },
+    {
+        " missions to deep space, the invention of the ": null
+    },
+    {
+        "compact disc": "compact disc"
+    },
+    {
+        ", the feasibility of ": null
+    },
+    {
+        "mobile phone": "mobile phone"
+    },
+    {
+        "s, the development of the ": null
+    },
+    {
+        "Internet": "internet"
+    },
+    {
+        ", the study of ": null
+    },
+    {
+        "linguistics": "linguistics"
+    },
+    {
+        " and of human perception, the understanding of ": null
+    },
+    {
+        "black hole": "black hole"
+    },
+    {
+        "s, and numerous other fields.     The field is at the intersection of ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "statistics": "statistics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        ", ": null
+    },
+    {
+        "physics": "physics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "neurobiology": "neurobiology"
+    },
+    {
+        ", ": null
+    },
+    {
+        "information engineering": "information engineering"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "electrical engineering": "electrical engineering"
+    },
+    {
+        ". The theory has also found applications in other areas, including ": null
+    },
+    {
+        "statistical inference": "statistical inference"
+    },
+    {
+        ", ": null
+    },
+    {
+        "natural language processing": "natural language processing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "cryptography": "cryptography"
+    },
+    {
+        ", ": null
+    },
+    {
+        "neurobiology": "neurobiology"
+    },
+    {
+        ",  ": null
+    },
+    {
+        "human vision": "human vision"
+    },
+    {
+        ",  the evolution  and function  of molecular codes , ": null
+    },
+    {
+        "model selection": "model selection"
+    },
+    {
+        " in statistics, Burnham, K. P. and Anderson D. R. Model Selection and Multimodel Inference: A Practical Information-Theoretic Approach, Second Edition . ": null
+    },
+    {
+        "thermal physics": "thermal physics"
+    },
+    {
+        ",  ": null
+    },
+    {
+        "quantum computing": "quantum computing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "linguistics": "linguistics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "plagiarism detection": "plagiarism detection"
+    },
+    {
+        ",  ": null
+    },
+    {
+        "pattern recognition": "pattern recognition"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "anomaly detection": "anomaly detection"
+    },
+    {
+        ".    Important sub-fields of information theory include ": null
+    },
+    {
+        "source coding": "source coding"
+    },
+    {
+        ", ": null
+    },
+    {
+        "channel coding": "channel coding"
+    },
+    {
+        ", ": null
+    },
+    {
+        "algorithmic complexity theory": "algorithmic complexity theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "algorithmic information theory": "algorithmic information theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "information-theoretic security": "information-theoretic security"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Grey system theory": "grey system theory"
+    },
+    {
+        " and measures of information.     Applications of fundamental topics of information theory include ": null
+    },
+    {
+        "lossless data compression": "lossless data compression"
+    },
+    {
+        " , ": null
+    },
+    {
+        "lossy data compression": "lossy data compression"
+    },
+    {
+        " , and ": null
+    },
+    {
+        "channel coding": "channel capacity"
+    },
+    {
+        " . Information theory is used in ": null
+    },
+    {
+        "information retrieval": "information retrieval"
+    },
+    {
+        ", ": null
+    },
+    {
+        "intelligence gathering": "intelligence"
+    },
+    {
+        ", ": null
+    },
+    {
+        "gambling": "gambling"
+    },
+    {
+        ", ": null
+    },
+    {
+        "statistics": "statistics"
+    },
+    {
+        ", and even in ": null
+    },
+    {
+        "musical composition": "musical composition"
+    },
+    {
+        ".     A key measure in information theory is ": null
+    },
+    {
+        "entropy": "information entropy"
+    },
+    {
+        " . Entropy quantifies the amount of uncertainty involved in the value of a ": null
+    },
+    {
+        "random variable": "random variable"
+    },
+    {
+        " or the outcome of a ": null
+    },
+    {
+        "random process": "random process"
+    },
+    {
+        ". For example, identifying the outcome of a fair ": null
+    },
+    {
+        "coin flip": "coin flip"
+    },
+    {
+        " provides less information than specifying the outcome from a roll of a  . Some other important measures in information theory are ": null
+    },
+    {
+        "mutual information": "mutual information"
+    },
+    {
+        ", ": null
+    },
+    {
+        "channel capacity": "channel capacity"
+    },
+    {
+        ", ": null
+    },
+    {
+        "error exponent": "error exponent"
+    },
+    {
+        "s, and ": null
+    },
+    {
+        "relative entropy": "relative entropy"
+    },
+    {
+        ".         Information theory studies the transmission, processing, extraction, and utilization of information. Abstractly, information can be thought of as the resolution of uncertainty. In the case of communication of information over a noisy channel, this abstract concept was made concrete in 1948 by ": null
+    },
+    {
+        "Claude Shannon": "claude shannon"
+    },
+    {
+        " in his paper ": null
+    },
+    {
+        "A Mathematical Theory of Communication": "a mathematical theory of communication"
+    },
+    {
+        " , in which information is thought of as a set of possible messages, where the goal is to send these messages over a noisy channel, and then to have the receiver reconstruct the message with low probability of error, in spite of the channel noise. Shannons main result, the ": null
+    },
+    {
+        "noisy-channel coding theorem": "noisy-channel coding theorem"
+    },
+    {
+        " showed that, in the limit of many channel uses, the rate of information that is asymptotically achievable is equal to the ": null
+    },
+    {
+        "channel capacity": "channel capacity"
+    },
+    {
+        ", a quantity dependent merely on the statistics of the channel over which the messages are sent.     Information theory is closely associated with a collection of pure and applied disciplines that have been investigated and reduced to engineering practice under a variety of ": null
+    },
+    {
+        "rubrics": "rubric"
+    },
+    {
+        " throughout the world over the past half century or more: ": null
+    },
+    {
+        "adaptive system": "adaptive system"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "anticipatory system": "anticipatory system"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "artificial intelligence": "artificial intelligence"
+    },
+    {
+        ", ": null
+    },
+    {
+        "complex system": "complex system"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "complexity science": "complexity science"
+    },
+    {
+        ", ": null
+    },
+    {
+        "cybernetics": "cybernetics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "informatics": "informatics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "machine learning": "machine learning"
+    },
+    {
+        ", along with ": null
+    },
+    {
+        "systems sciences": "systems science"
+    },
+    {
+        "of many descriptions. Information theory is a broad and deep mathematical theory, with equally broad and deep applications, amongst which is the vital field of ": null
+    },
+    {
+        "coding theory": "coding theory"
+    },
+    {
+        ".     Coding theory is concerned with finding explicit methods, called codes, for increasing the efficiency and reducing the error rate of data communication over noisy channels to near the ": null
+    },
+    {
+        "channel capacity": "channel capacity"
+    },
+    {
+        ". These codes can be roughly subdivided into ": null
+    },
+    {
+        "data compression": "data compression"
+    },
+    {
+        " and ": null
+    },
+    {
+        "error-correction": "error-correction"
+    },
+    {
+        " techniques. In the latter case, it took many years to find the methods Shannons work proved were possible.     A third class of information theory codes are cryptographic algorithms . Concepts, methods and results from coding theory and information theory are widely used in ": null
+    },
+    {
+        "cryptography": "cryptography"
+    },
+    {
+        " and ": null
+    },
+    {
+        "cryptanalysis": "cryptanalysis"
+    },
+    {
+        ". See the article ban for a historical application.            The landmark event that established the discipline of information theory and brought it to immediate worldwide attention was the publication of ": null
+    },
+    {
+        "Claude E. Shannons": "claude e. shannon"
+    },
+    {
+        "classic paper ": null
+    },
+    {
+        "A Mathematical Theory of Communication": "a mathematical theory of communication"
+    },
+    {
+        " in the  Bell System Technical Journal  in July and October 1948.     Prior to this paper, limited information-theoretic ideas had been developed at ": null
+    },
+    {
+        "Bell Labs": "bell labs"
+    },
+    {
+        ", all implicitly assuming events of equal probability. ": null
+    },
+    {
+        "Harry Nyquists": "harry nyquist"
+    },
+    {
+        "1924 paper, Certain Factors Affecting Telegraph Speed, contains a theoretical section quantifying intelligence and the line speed at which it can be transmitted by a communication system, giving the relation  , where W is the speed of transmission of intelligence, m is the number of different voltage levels to choose from at each time step, and K is a constant. ": null
+    },
+    {
+        "Ralph Hartleys": "ralph hartley"
+    },
+    {
+        "1928 paper, Transmission of Information, uses the word information as a measurable quantity, reflecting the receivers ability to distinguish one ": null
+    },
+    {
+        "sequence of symbols": "sequence of symbols"
+    },
+    {
+        " from any other, thus quantifying information as , where S was the number of possible symbols, and n the number of symbols in a transmission. The unit of information was therefore the ": null
+    },
+    {
+        "decimal digit": "decimal digit"
+    },
+    {
+        ", which has since sometimes been called the ": null
+    },
+    {
+        "hartley": "hartley"
+    },
+    {
+        " in his honor as a unit or scale or measure of information. ": null
+    },
+    {
+        "Alan Turing": "alan turing"
+    },
+    {
+        " in 1940 used similar ideas as part of the statistical analysis of the breaking of the German second world war ": null
+    },
+    {
+        "Enigma": "cryptanalysis of the enigma"
+    },
+    {
+        " ciphers.     Much of the mathematics behind information theory with events of different probabilities were developed for the field of ": null
+    },
+    {
+        "thermodynamics": "thermodynamics"
+    },
+    {
+        " by ": null
+    },
+    {
+        "Ludwig Boltzmann": "ludwig boltzmann"
+    },
+    {
+        " and ": null
+    },
+    {
+        "J. Willard Gibbs": "j. willard gibbs"
+    },
+    {
+        ". Connections between information-theoretic entropy and thermodynamic entropy, including the important contributions by ": null
+    },
+    {
+        "Rolf Landauer": "rolf landauer"
+    },
+    {
+        " in the 1960s, are explored in  Entropy in thermodynamics and information theory .     In Shannons revolutionary and groundbreaking paper, the work for which had been substantially completed at Bell Labs by the end of 1944, Shannon for the first time introduced the qualitative and quantitative model of communication as a statistical process underlying information theory, opening with the assertion that   : The fundamental problem of communication is that of reproducing at one point, either exactly or approximately, a message selected at another point.     With it came the ideas of   the ": null
+    },
+    {
+        "information entropy": "information entropy"
+    },
+    {
+        " and ": null
+    },
+    {
+        "redundancy": "redundancy"
+    },
+    {
+        " of a source, and its relevance through the ": null
+    },
+    {
+        "source coding theorem": "source coding theorem"
+    },
+    {
+        ";   the ": null
+    },
+    {
+        "mutual information": "mutual information"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "channel capacity": "channel capacity"
+    },
+    {
+        " of a noisy channel, including the promise of perfect loss-free communication given by the ": null
+    },
+    {
+        "noisy-channel coding theorem": "noisy-channel coding theorem"
+    },
+    {
+        ";   the practical result of the ": null
+    },
+    {
+        "Shannon–Hartley law": "shannon–hartley law"
+    },
+    {
+        " for the channel capacity of a ": null
+    },
+    {
+        "Gaussian channel": "gaussian channel"
+    },
+    {
+        "; as well as   the ": null
+    },
+    {
+        "bit": "bit"
+    },
+    {
+        "—a new way of seeing the most fundamental unit of information.            Information theory is based on ": null
+    },
+    {
+        "probability theory": "probability theory"
+    },
+    {
+        " and ": null
+    },
+    {
+        "statistics": "statistics"
+    },
+    {
+        ". Information theory often concerns itself with measures of information of the distributions associated with random variables. Important quantities of information are ": null
+    },
+    {
+        "entropy": "entropy"
+    },
+    {
+        ", a measure of information in a single ": null
+    },
+    {
+        "random variable": "random variable"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "mutual information": "mutual information"
+    },
+    {
+        ", a measure of information in common between two random variables. The former quantity is a property of the probability distribution of a random variable and gives a limit on the rate at which data generated by independent samples with the given distribution can be reliably ": null
+    },
+    {
+        "compressed": "data compression"
+    },
+    {
+        ". The latter is a property of the joint distribution of two random variables, and is the maximum rate of reliable communication across a noisy ": null
+    },
+    {
+        "channel": "communication channel"
+    },
+    {
+        " in the limit of long block lengths, when the channel statistics are determined by the joint distribution.     The choice of logarithmic base in the following formulae determines the ": null
+    },
+    {
+        "unit": "units of measurement"
+    },
+    {
+        " of ": null
+    },
+    {
+        "information entropy": "information entropy"
+    },
+    {
+        " that is used. A common unit of information is the ": null
+    },
+    {
+        "bit": "bit"
+    },
+    {
+        ", based on the ": null
+    },
+    {
+        "binary logarithm": "binary logarithm"
+    },
+    {
+        ". Other units include the ": null
+    },
+    {
+        "nat": "nat"
+    },
+    {
+        ", which is based on the ": null
+    },
+    {
+        "natural logarithm": "natural logarithm"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "decimal digit": "deciban"
+    },
+    {
+        ", which is based on the ": null
+    },
+    {
+        "common logarithm": "common logarithm"
+    },
+    {
+        ".     In what follows, an expression of the form  is considered by convention to be equal to zero whenever . This is justified because \\lim_ p \\log p 0 for any logarithmic base.       Based on the ": null
+    },
+    {
+        "probability mass function": "probability mass function"
+    },
+    {
+        " of each source symbol to be communicated, the Shannon ": null
+    },
+    {
+        "entropy": "entropy"
+    },
+    {
+        " , in units of bits , is given by   : H - \\sum_ p_i \\log_2   where  is the probability of occurrence of the -th possible value of the source symbol. This equation gives the entropy in the units of bits because it uses a logarithm of base 2, and this base-2 measure of entropy has sometimes been called the ": null
+    },
+    {
+        "shannon": "shannon"
+    },
+    {
+        " in his honor. Entropy is also commonly computed using the ": null
+    },
+    {
+        "natural logarithm": "natural logarithm"
+    },
+    {
+        " , which produces a measurement of entropy in ": null
+    },
+    {
+        "nats": "nat"
+    },
+    {
+        " per symbol and sometimes simplifies the analysis by avoiding the need to include extra constants in the formulas. Other bases are also possible, but less commonly used. For example, a logarithm of base  will produce a measurement in ": null
+    },
+    {
+        "bytes": "byte"
+    },
+    {
+        "per symbol, and a logarithm of base 10 will produce a measurement in decimal digits per symbol.     Intuitively, the entropy  of a discrete random variable  is a measure of the amount of uncertainty associated with the value of  when only its distribution is known.     The entropy of a source that emits a sequence of  symbols that are ": null
+    },
+    {
+        "independent and identically distributed": "independent and identically distributed"
+    },
+    {
+        " is  bits . If the source data symbols are identically distributed but not independent, the entropy of a message of length  will be less than .          If one transmits 1000 bits , and the value of each of these bits is known to the receiver ahead of transmission, it is clear that no information is transmitted. If, however, each bit is independently equally likely to be 0 or 1, 1000 shannons of information have been transmitted. Between these two extremes, information can be quantified as follows. If 𝕏 is the set of all messages  that  could be, and  is the probability of some x \\in \\mathbb X , then the entropy, , of  is defined:      : H \\mathbb_ -\\sum_ p \\log p.      A property of entropy is that it is maximized when all the messages in the message space are equiprobable ; i.e., most unpredictable, in which case .     The special case of information entropy for a random variable with two outcomes is the  binary entropy function , usually taken to the logarithmic base 2, thus having the shannon as unit:     : H_ - p \\log_2 p - \\log_2 .       The  joint entropy  of two discrete random variables  and  is merely the entropy of their pairing: . This implies that if  and  are ": null
+    },
+    {
+        "independent": "statistical independence"
+    },
+    {
+        ", then their joint entropy is the sum of their individual entropies.     For example, if  represents the position of a ": null
+    },
+    {
+        "chess": "chess"
+    },
+    {
+        " piece —  the row and  the column, then the joint entropy of the row of the piece and the column of the piece will be the entropy of the position of the piece.     : H \\mathbb_ - \\sum_ p \\log p \\,     Despite similar notation, joint entropy should not be confused with  cross entropy .       The  conditional entropy  or conditional uncertainty of  given random variable   is the average conditional entropy over :      : H \\mathbb E_Y -\\sum_ p \\sum_ p \\log p -\\sum_ p \\log p.     Because entropy can be conditioned on a random variable or on that random variable being a certain value, care should be taken not to confuse these two definitions of conditional entropy, the former of which is in more common use. A basic property of this form of conditional entropy is that:     : H H - H .\\,        Mutual information  measures the amount of information that can be obtained about one random variable by observing another. It is important in communication where it can be used to maximize the amount of information shared between sent and received signals. The mutual information of  relative to  is given by:     : I \\mathbb_ \\sum_ p \\log \\frac   where   is the ": null
+    },
+    {
+        "pointwise mutual information": "pointwise mutual information"
+    },
+    {
+        ".     A basic property of the mutual information is that   : I H - H.\\,   That is, knowing Y, we can save an average of  bits in encoding X compared to not knowing Y.     Mutual information is ": null
+    },
+    {
+        "symmetric": "symmetric function"
+    },
+    {
+        ":   : I I H + H - H.\\,     Mutual information can be expressed as the average ": null
+    },
+    {
+        "Kullback–Leibler divergence": "kullback–leibler divergence"
+    },
+    {
+        " between the ": null
+    },
+    {
+        "posterior probability distribution": "posterior probability"
+    },
+    {
+        " of X given the value of Y and the ": null
+    },
+    {
+        "prior distribution": "prior probability"
+    },
+    {
+        " on X:   : I \\mathbb E_   In other words, this is a measure of how much, on the average, the probability distribution on X will change if we are given the value of Y. This is often recalculated as the divergence from the product of the marginal distributions to the actual joint distribution:   : I D_.     Mutual information is closely related to the ": null
+    },
+    {
+        "log-likelihood ratio test": "likelihood-ratio test"
+    },
+    {
+        " in the context of contingency tables and the ": null
+    },
+    {
+        "multinomial distribution": "multinomial distribution"
+    },
+    {
+        " and to ": null
+    },
+    {
+        "Pearsons χ 2 test": "pearsons chi-squared test"
+    },
+    {
+        ": mutual information can be considered a statistic for assessing independence between a pair of variables, and has a well-specified asymptotic distribution.       The  Kullback–Leibler divergence   is a way of comparing two distributions: a true ": null
+    },
+    {
+        "probability distribution": "probability distribution"
+    },
+    {
+        " p, and an arbitrary probability distribution q. If we compress data in a manner that assumes q is the distribution underlying some data, when, in reality, p is the correct distribution, the Kullback–Leibler divergence is the number of average additional bits per datum necessary for compression. It is thus defined     : D_ \\sum_ -p \\log \\, - \\, \\sum_ -p \\log \\sum_ p \\log \\frac.     Although it is sometimes used as a distance metric, KL divergence is not a true ": null
+    },
+    {
+        "metric": "metric"
+    },
+    {
+        " since it is not symmetric and does not satisfy the ": null
+    },
+    {
+        "triangle inequality": "triangle inequality"
+    },
+    {
+        " .     Another interpretation of the KL divergence is the unnecessary surprise introduced by a prior from the truth: suppose a number X is about to be drawn randomly from a discrete set with probability distribution p. If Alice knows the true distribution p, while Bob believes  that the distribution is q, then Bob will be more ": null
+    },
+    {
+        "surprised": "self-information"
+    },
+    {
+        " than Alice, on average, upon seeing the value of X. The KL divergence is the expected value of Bobs ": null
+    },
+    {
+        "surprisal": "surprisal"
+    },
+    {
+        " minus Alices surprisal, measured in bits if the log is in base 2. In this way, the extent to which Bobs prior is wrong can be quantified in terms of how unnecessarily surprised it is expected to make him.       Other important information theoretic quantities include ": null
+    },
+    {
+        "Rényi entropy": "rényi entropy"
+    },
+    {
+        " , ": null
+    },
+    {
+        "differential entropy": "differential entropy"
+    },
+    {
+        " , and the ": null
+    },
+    {
+        "conditional mutual information": "conditional mutual information"
+    },
+    {
+        ".                 ": null
+    },
+    {
+        "Coding theory": "coding theory"
+    },
+    {
+        " is one of the most important and direct applications of information theory. It can be subdivided into ": null
+    },
+    {
+        "source coding": "data compression"
+    },
+    {
+        " theory and ": null
+    },
+    {
+        "channel coding": "error correction"
+    },
+    {
+        " theory. Using a statistical description for data, information theory quantifies the number of bits needed to describe the data, which is the information entropy of the source.     Data compression : There are two formulations for the compression problem:   ": null
+    },
+    {
+        "lossless data compression": "lossless data compression"
+    },
+    {
+        ": the data must be reconstructed exactly;   ": null
+    },
+    {
+        "lossy data compression": "lossy data compression"
+    },
+    {
+        ": allocates bits needed to reconstruct the data, within a specified fidelity level measured by a distortion function. This subset of information theory is called  rate–distortion theory .   Error-correcting codes : While data compression removes as much ": null
+    },
+    {
+        "redundancy": "redundancy"
+    },
+    {
+        " as possible, an error correcting code adds just the right kind of redundancy  needed to transmit the data efficiently and faithfully across a noisy channel.     This division of coding theory into compression and transmission is justified by the information transmission theorems, or source–channel separation theorems that justify the use of bits as the universal currency for information in many contexts. However, these theorems only hold in the situation where one transmitting user wishes to communicate to one receiving user. In scenarios with more than one transmitter , more than one receiver  or intermediary helpers , or more general ": null
+    },
+    {
+        "networks": "computer network"
+    },
+    {
+        ", compression followed by transmission may no longer be optimal. ": null
+    },
+    {
+        "Network information theory": "network information theory"
+    },
+    {
+        " refers to these multi-agent communication models.       Any process that generates successive messages can be considered a  source  of information. A memoryless source is one in which each message is an ": null
+    },
+    {
+        "independent identically distributed random variable": "independent identically distributed random variables"
+    },
+    {
+        ", whereas the properties of ": null
+    },
+    {
+        "ergodicity": "ergodic theory"
+    },
+    {
+        " and ": null
+    },
+    {
+        "stationarity": "stationary process"
+    },
+    {
+        " impose less restrictive constraints. All such sources are ": null
+    },
+    {
+        "stochastic": "stochastic process"
+    },
+    {
+        ". These terms are well studied in their own right outside information theory.        Information  rate  is the average entropy per symbol. For memoryless sources, this is merely the entropy of each symbol, while, in the case of a stationary stochastic process, it is     : r \\lim_ H;     that is, the conditional entropy of a symbol given all the previous symbols generated. For the more general case of a process that is not necessarily stationary, the average rate is     : r \\lim_ \\frac H;     that is, the limit of the joint entropy per symbol. For stationary sources, these two expressions give the same result.      It is common in information theory to speak of the rate or entropy of a language. This is appropriate, for example, when the source of information is English prose. The rate of a source of information is related to its ": null
+    },
+    {
+        "redundancy": "redundancy"
+    },
+    {
+        " and how well it can be ": null
+    },
+    {
+        "compressed": "data compression"
+    },
+    {
+        ", the subject of source coding.            Communications over a channel—such as an ": null
+    },
+    {
+        "ethernet": "ethernet"
+    },
+    {
+        " cable": "electrical cable"
+    },
+    {
+        "—is the primary motivation of information theory. As anyone whos ever used a telephone knows, however, such channels often fail to produce exact reconstruction of a signal; noise, periods of silence, and other forms of signal corruption often degrade quality.     Consider the communications process over a discrete channel. A simple model of the process is shown below:          Here X represents the space of messages transmitted, and Y the space of messages received during a unit time over our channel. Let  be the ": null
+    },
+    {
+        "conditional probability": "conditional probability"
+    },
+    {
+        " distribution function of Y given X. We will consider  to be an inherent fixed property of our communications channel . Then the joint distribution of X and Y is completely determined by our channel and by our choice of , the marginal distribution of messages we choose to send over the channel. Under these constraints, we would like to maximize the rate of information, or the  signal , we can communicate over the channel. The appropriate measure for this is the ": null
+    },
+    {
+        "mutual information": "mutual information"
+    },
+    {
+        ", and this maximum mutual information is called the  channel capacity  and is given by:   : C \\max_ I.\\!   This capacity has the following property related to communicating at information rate R . For any information rate R  0, for large enough N, there exists a code of length N and rate ≥ R and a decoding algorithm, such that the maximal probability of block error is ≤ ε; that is, it is always possible to transmit with arbitrarily small block error. In addition, for any rate R & gt; C, it is impossible to transmit with arbitrarily small block error.      Channel coding  is concerned with finding such nearly optimal ": null
+    },
+    {
+        "codes": "error detection and correction"
+    },
+    {
+        " that can be used to transmit data over a noisy channel with a small coding error at a rate near the channel capacity.       A continuous-time analog communications channel subject to ": null
+    },
+    {
+        "Gaussian noise": "gaussian noise"
+    },
+    {
+        " — see ": null
+    },
+    {
+        "Shannon–Hartley theorem": "shannon–hartley theorem"
+    },
+    {
+        ".   A ": null
+    },
+    {
+        "binary symmetric channel": "binary symmetric channel"
+    },
+    {
+        " with crossover probability p is a binary input, binary output channel that flips the input bit with probability p. The BSC has a capacity of  bits per channel use, where  is the ": null
+    },
+    {
+        "binary entropy function": "binary entropy function"
+    },
+    {
+        " to the base-2 logarithm:     :: ": null
+    },
+    {
+        "binary erasure channel": "binary erasure channel"
+    },
+    {
+        " with erasure probability p is a binary input, ternary output channel. The possible channel outputs are 0, 1, and a third symbol e called an erasure. The erasure represents complete loss of information about an input bit. The capacity of the BEC is  bits per channel use.     ::           Information theoretic concepts apply to ": null
+    },
+    {
+        "cryptography": "cryptography"
+    },
+    {
+        " and ": null
+    },
+    {
+        "cryptanalysis": "cryptanalysis"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Turings": "turing"
+    },
+    {
+        "information unit, the ": null
+    },
+    {
+        "ban": "ban"
+    },
+    {
+        ", was used in the ": null
+    },
+    {
+        "Ultra": "ultra"
+    },
+    {
+        " project, breaking the German ": null
+    },
+    {
+        "Enigma machine": "enigma machine"
+    },
+    {
+        " code and hastening the ": null
+    },
+    {
+        "end of World War II in Europe": "victory in europe day"
+    },
+    {
+        ". Shannon himself defined an important concept now called the ": null
+    },
+    {
+        "unicity distance": "unicity distance"
+    },
+    {
+        ". Based on the ": null
+    },
+    {
+        "redundancy": "redundancy"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "plaintext": "plaintext"
+    },
+    {
+        ", it attempts to give a minimum amount of ": null
+    },
+    {
+        "ciphertext": "ciphertext"
+    },
+    {
+        " necessary to ensure unique decipherability.     Information theory leads us to believe it is much more difficult to keep secrets than it might first appear. A ": null
+    },
+    {
+        "brute force attack": "brute force attack"
+    },
+    {
+        " can break systems based on ": null
+    },
+    {
+        "asymmetric key algorithms": "public-key cryptography"
+    },
+    {
+        " or on most commonly used methods of ": null
+    },
+    {
+        "symmetric key algorithms": "symmetric-key algorithm"
+    },
+    {
+        " , such as ": null
+    },
+    {
+        "block cipher": "block cipher"
+    },
+    {
+        "s. The security of all such methods currently comes from the assumption that no known attack can break them in a practical amount of time.     ": null
+    },
+    {
+        "Information theoretic security": "information theoretic security"
+    },
+    {
+        " refers to methods such as the ": null
+    },
+    {
+        "one-time pad": "one-time pad"
+    },
+    {
+        " that are not vulnerable to such brute force attacks. In such cases, the positive conditional ": null
+    },
+    {
+        "mutual information": "mutual information"
+    },
+    {
+        " between the ": null
+    },
+    {
+        "plaintext": "plaintext"
+    },
+    {
+        " and ": null
+    },
+    {
+        "ciphertext": "ciphertext"
+    },
+    {
+        "  can ensure proper transmission, while the unconditional mutual information between the plaintext and ciphertext remains zero, resulting in absolutely secure communications. In other words, an eavesdropper would not be able to improve his or her guess of the plaintext by gaining knowledge of the ciphertext but not of the key. However, as in any other cryptographic system, care must be used to correctly apply even information-theoretically secure methods; the ": null
+    },
+    {
+        "Venona project": "venona project"
+    },
+    {
+        " was able to crack the one-time pads of the Soviet Union due to their improper reuse of key material.       ": null
+    },
+    {
+        "Pseudorandom number generators": "pseudorandom number generator"
+    },
+    {
+        "are widely available in computer language libraries and application programs. They are, almost universally, unsuited to cryptographic use as they do not evade the deterministic nature of modern computer equipment and software. A class of improved random number generators is termed ": null
+    },
+    {
+        "cryptographically secure pseudorandom number generator": "cryptographically secure pseudorandom number generator"
+    },
+    {
+        "s, but even they require ": null
+    },
+    {
+        "random seeds": "random seed"
+    },
+    {
+        "external to the software to work as intended. These can be obtained via ": null
+    },
+    {
+        "extractors": "extractor"
+    },
+    {
+        ", if done carefully. The measure of sufficient randomness in extractors is ": null
+    },
+    {
+        "min-entropy": "min-entropy"
+    },
+    {
+        ", a value related to Shannon entropy through ": null
+    },
+    {
+        "Rényi entropy": "rényi entropy"
+    },
+    {
+        "; Rényi entropy is also used in evaluating randomness in cryptographic systems. Although related, the distinctions among these measures mean that a ": null
+    },
+    {
+        "random variable": "random variable"
+    },
+    {
+        " with high Shannon entropy is not necessarily satisfactory for use in an extractor and so for cryptography uses.       One early commercial application of information theory was in the field of seismic oil exploration. Work in this field made it possible to strip off and separate the unwanted noise from the desired seismic signal. Information theory and ": null
+    },
+    {
+        "digital signal processing": "digital signal processing"
+    },
+    {
+        " offer a major improvement of resolution and image clarity over previous analog methods. , Haggerty, Patrick, Strategic Management Journal, Vol. 2, 97-118       ": null
+    },
+    {
+        "Semioticians": "semiotics"
+    },
+    {
+        " Doede Nauta": ":nl:doede nauta"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Winfried Nöth": "winfried nöth"
+    },
+    {
+        " both considered ": null
+    },
+    {
+        "Charles Sanders Peirce": "charles sanders peirce"
+    },
+    {
+        " as having created a theory of information in his works on semiotics.     Nauta defined semiotic information theory as the study of the internal processes of coding, filtering, and information processing.      Concepts from information theory such as redundancy and code control have been used by semioticians such as ": null
+    },
+    {
+        "Umberto Eco": "umberto eco"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Ferruccio Rossi-Landi": ":it:ferruccio rossi-landi"
+    },
+    {
+        " to explain ideology as a form of message transmission whereby a dominant social class emits its message by using signs that exhibit a high degree of redundancy such that only one message is decoded among a selection of competing ones. Nöth, Winfried .  . Semiotica, Issue 148.       Information theory also has applications in ": null
+    },
+    {
+        "gambling and investing": "gambling and information theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "black holes": "black hole information paradox"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "bioinformatics": "bioinformatics"
+    }
+]

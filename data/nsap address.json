@@ -1,0 +1,122 @@
+[
+    {
+        "A Network Service Access Point address , defined in ISO/IEC 8348, is an identifying label for a ": null
+    },
+    {
+        "Service Access Point": "service access point"
+    },
+    {
+        " used in ": null
+    },
+    {
+        "OSI": "osi model"
+    },
+    {
+        " networking.     These are roughly comparable to ": null
+    },
+    {
+        "IP address": "ip address"
+    },
+    {
+        "es used in the ": null
+    },
+    {
+        "Internet Protocol": "internet protocol"
+    },
+    {
+        "; they can specify a piece of equipment connected to an ": null
+    },
+    {
+        "Asynchronous Transfer Mode": "asynchronous transfer mode"
+    },
+    {
+        " network. A specific stream, analogous to a TCP/IP ": null
+    },
+    {
+        "port": "computer port"
+    },
+    {
+        " or ": null
+    },
+    {
+        "socket": "berkeley sockets"
+    },
+    {
+        ", is specified by using a Transport Service Access Point . ATM can also use a Presentation and Session Access Point, but these may also be unspecified; this is up to the application.       NSAP addresses are allocated by the ": null
+    },
+    {
+        "International Organization for Standardization": "international organization for standardization"
+    },
+    {
+        " , through a system of delegated authorities, which are generally national standards organizations. One of the schemes to generate NSAPs uses ": null
+    },
+    {
+        "E.164": "e.164"
+    },
+    {
+        " which is the addressing format describing telephone numbers.     NSAP addresses do not specify where a network terminal is located. ": null
+    },
+    {
+        "Routing": "routing"
+    },
+    {
+        " equipment must translate NSAP addresses to ": null
+    },
+    {
+        "SNPAs": "snpa"
+    },
+    {
+        " to route OSI packets; ": null
+    },
+    {
+        "VCI": "virtual circuit identifier"
+    },
+    {
+        " numbers are an example of a datalink layer SNPAs in ATM; when OSI packets are sent encapsulated in IP packets the IP address is considered an SNPA.     Currently SDH/SONET networks are a major part of the network infrastructure and NSAPs are used extensively. They are usually assigned by the Network Management/NOC personnel and agreed upon within an organization to be unique and are required before any operational connectivity is established at the commissioning stage.     NSAP addresses are used in the following OSI-based network technologies:   ": null
+    },
+    {
+        "ATM": "asynchronous transfer mode"
+    },
+    {
+        " switched virtual circuit networks   ": null
+    },
+    {
+        "X.25": "x.25"
+    },
+    {
+        "    Frame relay": "frame relay"
+    },
+    {
+        " IS-IS": "is-is"
+    },
+    {
+        " SDH": "synchronous optical networking"
+    },
+    {
+        " & ": null
+    },
+    {
+        "SONET": "sonet"
+    },
+    {
+        " networks.     NSAP-style addresses are used in the ": null
+    },
+    {
+        "IS-IS": "is-is"
+    },
+    {
+        " routing protocol.       The NSEL is a field in the NSAP address that identifies the ": null
+    },
+    {
+        "network layer": "network layer"
+    },
+    {
+        " service to which a packet should be sent. This part of the address for a router will always be 0x00. In the ": null
+    },
+    {
+        "IS-IS": "is-is"
+    },
+    {
+        " routing protocol, the field is sometimes referred to as the SEL field.  ": null
+    }
+]

@@ -1,0 +1,476 @@
+[
+    {
+        "      In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", an isomorphism  is a ": null
+    },
+    {
+        "homomorphism": "homomorphism"
+    },
+    {
+        " or ": null
+    },
+    {
+        "morphism": "morphism"
+    },
+    {
+        "  that can be reversed by an ": null
+    },
+    {
+        "inverse": "inverse function"
+    },
+    {
+        " morphism. Two ": null
+    },
+    {
+        "mathematical objects": "mathematical object"
+    },
+    {
+        "are isomorphic if an isomorphism exists between them. An  automorphism  is an isomorphism whose source and target coincide. The interest of isomorphisms lies in the fact that two isomorphic objects cannot be distinguished by using only the properties used to define morphisms; thus isomorphic objects may be considered the same as long as one considers only these properties and their consequences.     For most ": null
+    },
+    {
+        "algebraic structure": "algebraic structure"
+    },
+    {
+        "s, including ": null
+    },
+    {
+        "groups": "group"
+    },
+    {
+        "and ": null
+    },
+    {
+        "ring": "ring"
+    },
+    {
+        "s, a homomorphism is an isomorphism if and only if it is ": null
+    },
+    {
+        "bijective": "bijective"
+    },
+    {
+        ".     In ": null
+    },
+    {
+        "topology": "topology"
+    },
+    {
+        ", where the morphisms are ": null
+    },
+    {
+        "continuous function": "continuous function"
+    },
+    {
+        "s, isomorphisms are also called  homeomorphism s or bicontinuous functions. In ": null
+    },
+    {
+        "mathematical analysis": "mathematical analysis"
+    },
+    {
+        ", where the morphisms are ": null
+    },
+    {
+        "differentiable function": "differentiable function"
+    },
+    {
+        "s, isomorphisms are also called  diffeomorphism s.     A canonical isomorphism is a ": null
+    },
+    {
+        "canonical map": "canonical map"
+    },
+    {
+        " that is an isomorphism. Two objects are said to be canonically isomorphic if there is a canonical isomorphism between them. For example, the canonical map from a finite-dimensional vector space V to its second dual space is a canonical isomorphism; on the other hand, V is isomorphic to its dual space but not canonically in general.     Isomorphisms are formalized using ": null
+    },
+    {
+        "category theory": "category theory"
+    },
+    {
+        ". A morphism  in a ": null
+    },
+    {
+        "category": "category"
+    },
+    {
+        " is an isomorphism if it admits a two-sided inverse, meaning that there is another morphism  in that category such that  and , where 1 X and 1 Y are the identity morphisms of X and Y respectively.             Let \\mathbb^+ be the ": null
+    },
+    {
+        "multiplicative group": "multiplicative group"
+    },
+    {
+        " of ": null
+    },
+    {
+        "positive real numbers": "positive real numbers"
+    },
+    {
+        ", and let \\mathbb be the additive group of real numbers.     The ": null
+    },
+    {
+        "logarithm function": "logarithm function"
+    },
+    {
+        " \\log \\colon \\mathbb^+ \\to \\mathbb satisfies \\log \\log x + \\log y for all x,y \\in \\mathbb^+ , so it is a ": null
+    },
+    {
+        "group homomorphism": "group homomorphism"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "exponential function": "exponential function"
+    },
+    {
+        " \\exp \\colon \\mathbb \\to \\mathbb^+ satisfies \\exp for all x,y \\in \\mathbb , so it too is a homomorphism.     The identities \\log \\exp x x and \\exp \\log y y show that \\log and \\exp are ": null
+    },
+    {
+        "inverses": "inverse function"
+    },
+    {
+        " of each other. Since \\log is a homomorphism that has an inverse that is also a homomorphism, \\log is an isomorphism of groups.     Because \\log is an isomorphism, it translates multiplication of positive real numbers into addition of real numbers. This facility makes it possible to multiply real numbers using a ": null
+    },
+    {
+        "ruler": "ruler"
+    },
+    {
+        " and a ": null
+    },
+    {
+        "table of logarithms": "table of logarithms"
+    },
+    {
+        ", or using a ": null
+    },
+    {
+        "slide rule": "slide rule"
+    },
+    {
+        " with a logarithmic scale.       Consider the group , the integers from 0 to 5 with addition ": null
+    },
+    {
+        "modulo": "modular arithmetic"
+    },
+    {
+        "  6. Also consider the group , the ordered pairs where the x coordinates can be 0 or 1, and the y coordinates can be 0, 1, or 2, where addition in the x-coordinate is modulo 2 and addition in the y-coordinate is modulo 3.     These structures are isomorphic under addition, under the following scheme:     : ↦ 0   : ↦ 1   : ↦ 2   : ↦ 3   : ↦ 4   : ↦ 5     or in general  mod 6.     For example, , which translates in the other system as .     Even though these two groups look different in that the sets contain different elements, they are indeed isomorphic: their structures are exactly the same. More generally, the ": null
+    },
+    {
+        "direct product": "direct product of groups"
+    },
+    {
+        " of two ": null
+    },
+    {
+        "cyclic groups": "cyclic group"
+    },
+    {
+        " \\mathbb_m and \\mathbb_n is isomorphic to if and only if m and n are ": null
+    },
+    {
+        "coprime": "coprime"
+    },
+    {
+        ", per the ": null
+    },
+    {
+        "Chinese remainder theorem": "chinese remainder theorem"
+    },
+    {
+        ".       If one object consists of a set X with a ": null
+    },
+    {
+        "binary relation": "binary relation"
+    },
+    {
+        " R and the other object consists of a set Y with a binary relation S then an isomorphism from X to Y is a bijective function  such that:    : \\operatorname \\iff \\operatorname     S is ": null
+    },
+    {
+        "reflexive": "reflexive relation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "irreflexive": "irreflexive relation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "symmetric": "symmetric relation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "antisymmetric": "antisymmetric relation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "asymmetric": "asymmetric relation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "transitive": "transitive relation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "total": "total relation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "trichotomous": "binary relationrelations over a set"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "partial order": "partial order"
+    },
+    {
+        ", ": null
+    },
+    {
+        "total order": "total order"
+    },
+    {
+        ", ": null
+    },
+    {
+        "well-order": "well-order"
+    },
+    {
+        ", ": null
+    },
+    {
+        "strict weak order": "strict weak order"
+    },
+    {
+        ", ": null
+    },
+    {
+        "total preorder": "strict weak ordertotal preorders"
+    },
+    {
+        " , an ": null
+    },
+    {
+        "equivalence relation": "equivalence relation"
+    },
+    {
+        ", or a relation with any other special properties, if and only if R is.     For example, R is an ": null
+    },
+    {
+        "ordering": "order theory"
+    },
+    {
+        " ≤ and S an ordering \\scriptstyle \\sqsubseteq , then an isomorphism from X to Y is a bijective function  such that   : f \\sqsubseteq f \\iff u \\le v .   Such an isomorphism is called an  order isomorphism  or an isotone isomorphism.     If , then this is a relation-preserving ": null
+    },
+    {
+        "automorphism": "automorphism"
+    },
+    {
+        ".       In a ": null
+    },
+    {
+        "concrete category": "concrete category"
+    },
+    {
+        " , such as the category of topological spaces or categories of algebraic objects like groups, rings, and ": null
+    },
+    {
+        "module": "module"
+    },
+    {
+        "s, an isomorphism must be bijective on the ": null
+    },
+    {
+        "underlying set": "underlying set"
+    },
+    {
+        "s. In algebraic categories , an isomorphism is the same as a homomorphism which is bijective on underlying sets. However, there are concrete categories in which bijective morphisms are not necessarily isomorphisms .       In ": null
+    },
+    {
+        "abstract algebra": "abstract algebra"
+    },
+    {
+        ", two basic isomorphisms are defined:   ": null
+    },
+    {
+        "Group isomorphism": "group isomorphism"
+    },
+    {
+        ", an isomorphism between ": null
+    },
+    {
+        "groups": "group"
+    },
+    {
+        " Ring isomorphism": "ring isomorphism"
+    },
+    {
+        ", an isomorphism between ": null
+    },
+    {
+        "rings": "ring"
+    },
+    {
+        ".      Just as the ": null
+    },
+    {
+        "automorphisms": "automorphism"
+    },
+    {
+        "of an ": null
+    },
+    {
+        "algebraic structure": "algebraic structure"
+    },
+    {
+        " form a ": null
+    },
+    {
+        "group": "group"
+    },
+    {
+        ", the isomorphisms between two algebras sharing a common structure form a ": null
+    },
+    {
+        "heap": "heap"
+    },
+    {
+        ". Letting a particular isomorphism identify the two structures turns this heap into a group.     In ": null
+    },
+    {
+        "mathematical analysis": "mathematical analysis"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "Laplace transform": "laplace transform"
+    },
+    {
+        " is an isomorphism mapping hard ": null
+    },
+    {
+        "differential equations": "differential equations"
+    },
+    {
+        " into easier ": null
+    },
+    {
+        "algebra": "algebra"
+    },
+    {
+        "ic equations.     In category theory, let the category C consist of two ": null
+    },
+    {
+        "classes": "class"
+    },
+    {
+        ", one of objects and the other of morphisms. Then a general definition of isomorphism that covers the previous and many other cases is that an isomorphism is a morphism  that has an inverse morphism , i.e.  and . For example, a bijective ": null
+    },
+    {
+        "linear map": "linear map"
+    },
+    {
+        " is an isomorphism between ": null
+    },
+    {
+        "vector space": "vector space"
+    },
+    {
+        "s, and a bijective ": null
+    },
+    {
+        "continuous function": "continuous function"
+    },
+    {
+        " whose inverse is also continuous is an isomorphism between ": null
+    },
+    {
+        "topological space": "topological space"
+    },
+    {
+        "s, called a ": null
+    },
+    {
+        "homeomorphism": "homeomorphism"
+    },
+    {
+        ".     In ": null
+    },
+    {
+        "graph theory": "graph theory"
+    },
+    {
+        ", an isomorphism between two graphs G and H is a ": null
+    },
+    {
+        "bijective": "bijective"
+    },
+    {
+        " map f from the vertices of G to the vertices of H that preserves the edge structure in the sense that there is an edge from ": null
+    },
+    {
+        "vertex": "vertex"
+    },
+    {
+        " u to vertex v in G if and only if there is an edge from ƒ to ƒ in H. See ": null
+    },
+    {
+        "graph isomorphism": "graph isomorphism"
+    },
+    {
+        ".     In mathematical analysis, an isomorphism between two ": null
+    },
+    {
+        "Hilbert spaces": "hilbert spaces"
+    },
+    {
+        " is a bijection preserving addition, scalar multiplication, and inner product.     In early theories of ": null
+    },
+    {
+        "logical atomism": "logical atomism"
+    },
+    {
+        ", the formal relationship between facts and true propositions was theorized by ": null
+    },
+    {
+        "Bertrand Russell": "bertrand russell"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Ludwig Wittgenstein": "ludwig wittgenstein"
+    },
+    {
+        " to be isomorphic. An example of this line of thinking can be found in Russells  Introduction to Mathematical Philosophy .     In ": null
+    },
+    {
+        "cybernetics": "cybernetics"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "good regulator": "good regulator"
+    },
+    {
+        " or Conant–Ashby theorem is stated Every good regulator of a system must be a model of that system . Whether regulated or self-regulating, an isomorphism is required between the regulator and processing parts of the system.            In certain areas of mathematics, notably category theory, it is valuable to distinguish between  equality  on the one hand and isomorphism on the other.  Equality is when two objects are exactly the same, and everything thats true about one object is true about the other, while an isomorphism implies everything thats true about a designated part of one objects structure is true about the others. For example, the sets   : A \\  ": null
+    }
+]

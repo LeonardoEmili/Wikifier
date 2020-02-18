@@ -1,0 +1,203 @@
+[
+    {
+        "      In ": null
+    },
+    {
+        "probability theory": "probability theory"
+    },
+    {
+        " and ": null
+    },
+    {
+        "statistics": "statistics"
+    },
+    {
+        ", a central moment is a ": null
+    },
+    {
+        "moment": "moment"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "probability distribution": "probability distribution"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "random variable": "random variable"
+    },
+    {
+        " about the random variables ": null
+    },
+    {
+        "mean": "mean"
+    },
+    {
+        "; that is, it is the ": null
+    },
+    {
+        "expected value": "expected value"
+    },
+    {
+        " of a specified integer power of the deviation of the random variable from the mean. The various moments form one set of values by which the properties of a probability distribution can be usefully characterized. Central moments are used in preference to ordinary moments, computed in terms of deviations from the mean instead of from zero, because the higher-order central moments relate only to the spread and shape of the distribution, rather than also to its ": null
+    },
+    {
+        "location": "location parameter"
+    },
+    {
+        ".     Sets of central moments can be defined for both univariate and multivariate distributions.         The nth ": null
+    },
+    {
+        "moment": "moment"
+    },
+    {
+        " about the ": null
+    },
+    {
+        "mean": "mean"
+    },
+    {
+        "  of a real-valued ": null
+    },
+    {
+        "random variable": "random variable"
+    },
+    {
+        " X is the quantity μ n : E n , where E is the ": null
+    },
+    {
+        "expectation operator": "expected value"
+    },
+    {
+        ". For a ": null
+    },
+    {
+        "continuous": "continuous probability distribution"
+    },
+    {
+        " univariate": "univariate"
+    },
+    {
+        " probability distribution": "probability distribution"
+    },
+    {
+        " with ": null
+    },
+    {
+        "probability density function": "probability density function"
+    },
+    {
+        " f, the nth moment about the mean μ is   : \\mu_n \\operatorname \\left \\int_^ ^n f\\,\\mathrm x.      For random variables that have no mean, such as the ": null
+    },
+    {
+        "Cauchy distribution": "cauchy distribution"
+    },
+    {
+        ", central moments are not defined.     The first few central moments have intuitive interpretations:   The zeroth central moment μ 0 is 1.   The first central moment μ 1 is 0 .   The second central moment μ 2 is called the ": null
+    },
+    {
+        "variance": "variance"
+    },
+    {
+        ", and is usually denoted σ 2 , where σ represents the ": null
+    },
+    {
+        "standard deviation": "standard deviation"
+    },
+    {
+        ".   The third and fourth central moments are used to define the ": null
+    },
+    {
+        "standardized moments": "standardized moment"
+    },
+    {
+        "which are used to define ": null
+    },
+    {
+        "skewness": "skewness"
+    },
+    {
+        " and ": null
+    },
+    {
+        "kurtosis": "kurtosis"
+    },
+    {
+        ", respectively.       The nth central moment is translation-invariant, i.e. for any random variable X and any constant c, we have     : \\mu_n\\mu_n.\\,     For all n, the nth central moment is ": null
+    },
+    {
+        "homogeneous": "homogeneous function"
+    },
+    {
+        " of degree n:     : \\mu_nc^n\\mu_n.\\,     Only for n such that n equals 1, 2, or 3 do we have an additivity property for random variables X and Y that are ": null
+    },
+    {
+        "independent": "statistical independence"
+    },
+    {
+        ":     : \\mu_n\\mu_n+\\mu_n\\, provided n ∈ .     A related functional that shares the translation-invariance and homogeneity properties with the nth central moment, but continues to have this additivity property even when n  ≥  4 is the nth ": null
+    },
+    {
+        "cumulant": "cumulant"
+    },
+    {
+        " κ n . For n    1, the nth cumulant is just the ": null
+    },
+    {
+        "expected value": "expected value"
+    },
+    {
+        "; for n   either 2 or 3, the nth cumulant is just the nth central moment; for n  ≥  4, the nth cumulant is an nth-degree monic polynomial in the first n moments , and is also a nth-degree polynomial in the first n central moments.       Sometimes it is convenient to convert moments about the origin to moments about the mean. The general equation for converting the nth-order moment about the origin to the moment about the mean is     :   \\mu_n \\operatorname\\left \\sum_^n ^ \\mu_j \\mu^,       where μ is the mean of the distribution, and the moment about the origin is given by     :   \\mu_m \\int_^ x^m f\\,dx \\operatorname \\sum_^m \\mu_j \\mu^.       For the cases n 2, 3, 4 — which are of most interest because of the relations to ": null
+    },
+    {
+        "variance": "variance"
+    },
+    {
+        ", ": null
+    },
+    {
+        "skewness": "skewness"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "kurtosis": "kurtosis"
+    },
+    {
+        ", respectively — this formula becomes :,     : \\mu_2 \\mu_2 - \\mu^2\\, which is commonly referred to as \\operatorname \\operatorname - \\left^2     : \\mu_3 \\mu_3 - 3 \\mu \\mu_2 +2 \\mu^3\\,     : \\mu_4 \\mu_4 - 4 \\mu \\mu_3 + 6 \\mu^2 \\mu_2 - 3 \\mu^4.\\,     ... and so on,  following ": null
+    },
+    {
+        "Pascals triangle": "pascals triangle"
+    },
+    {
+        ", i.e.     : \\mu_5 \\mu_5 - 5 \\mu \\mu_4 + 10 \\mu^2 \\mu_3 - 10 \\mu^3 \\mu_2 + 4 \\mu^5.\\,     because 5\\mu^4\\mu_1 - \\mu^5 \\mu_0 5\\mu^4\\mu - \\mu^5 5 \\mu^5 - \\mu^5 4 \\mu^5     The following sum is a stochastic variable having a compound distribution     : W \\sum_^M Y_i,     where the Y_i are mutually independent random variables sharing the same common distribution and M a random integer variable independent of the Y_k with its own distribution. The moments of W are obtained as      : \\operatorname \\sum_^n\\operatorname\\left sum_^i ^\\operatorname \\left     where \\operatorname \\left is defined as zero for j0 .         In a ": null
+    },
+    {
+        "symmetric distribution": "symmetric distribution"
+    },
+    {
+        " , all odd central moments equal zero, because in the formula for the nth moment, each term involving a value of X less than the mean by a certain amount exactly cancels out the term involving a value of X greater than the mean by the same amount.         For a ": null
+    },
+    {
+        "continuous": "continuous probability distribution"
+    },
+    {
+        " bivariate": "joint probability distribution"
+    },
+    {
+        " probability distribution": "probability distribution"
+    },
+    {
+        " with ": null
+    },
+    {
+        "probability density function": "probability density function"
+    },
+    {
+        " f the  moment about the mean μ    ": null
+    }
+]

@@ -1,0 +1,419 @@
+[
+    {
+        "   The geometric algebra  of a ": null
+    },
+    {
+        "vector space": "vector space"
+    },
+    {
+        " is an ": null
+    },
+    {
+        "algebra over a field": "algebra over a field"
+    },
+    {
+        ", noted for its multiplication operation called the geometric product on a space of elements called ": null
+    },
+    {
+        "multivector": "multivector"
+    },
+    {
+        "s, which is a superset of both the ": null
+    },
+    {
+        "scalars": "scalar"
+    },
+    {
+        " F and the vector space V . Mathematically, a geometric algebra may be defined as the ": null
+    },
+    {
+        "Clifford algebra": "clifford algebra"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "vector space": "vector space"
+    },
+    {
+        " with a ": null
+    },
+    {
+        "quadratic form": "quadratic form"
+    },
+    {
+        ". Cliffords contribution was to define a new product, the geometric product, that united the Grassmann and Hamilton algebras into a single structure. Adding the ": null
+    },
+    {
+        "dual": "duality"
+    },
+    {
+        " of the Grassmann exterior product allows the use of the ": null
+    },
+    {
+        "Grassmann–Cayley algebra": "grassmann–cayley algebra"
+    },
+    {
+        ", and a ": null
+    },
+    {
+        "conformal version": "conformal geometry"
+    },
+    {
+        " of the latter together with a conformal Clifford algebra yields a ": null
+    },
+    {
+        "conformal geometric algebra ": "conformal geometric algebra"
+    },
+    {
+        " providing a framework for ": null
+    },
+    {
+        "classical geometries": "klein geometry"
+    },
+    {
+        ". In practice, these and several derived operations allow a correspondence of elements, subspaces and operations of the algebra with geometric interpretations.     The scalars and vectors have their usual interpretation, and make up distinct subspaces of a GA. ": null
+    },
+    {
+        "Bivectors": "bivector"
+    },
+    {
+        "provide a more natural representation of pseudovector quantities in ": null
+    },
+    {
+        "vector algebra": "vector algebra"
+    },
+    {
+        " such as oriented area, oriented angle of rotation, torque, angular momentum, electromagnetic field and the ": null
+    },
+    {
+        "Poynting vector": "poynting vector"
+    },
+    {
+        ". A ": null
+    },
+    {
+        "trivector": "trivector"
+    },
+    {
+        " can represent an oriented volume, and so on. An element called a ": null
+    },
+    {
+        "blade": "blade"
+    },
+    {
+        " may be used to represent a subspace of V and orthogonal projections onto that subspace. Rotations and reflections are represented as elements. Unlike vector algebra, a GA naturally accommodates any number of dimensions and any quadratic form such as in ": null
+    },
+    {
+        "relativity": "theory of relativity"
+    },
+    {
+        ".     Specific examples of geometric algebras applied in physics include the ": null
+    },
+    {
+        "spacetime algebra": "spacetime algebra"
+    },
+    {
+        "  and the ": null
+    },
+    {
+        "conformal geometric algebra": "conformal geometric algebra"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Geometric calculus": "geometric calculus"
+    },
+    {
+        ", an extension of GA that incorporates ": null
+    },
+    {
+        "differentiation": "differentiation"
+    },
+    {
+        " and ": null
+    },
+    {
+        "integration": "integral"
+    },
+    {
+        ", can be used to formulate other theories such as ": null
+    },
+    {
+        "complex analysis": "complex analysis"
+    },
+    {
+        ", ": null
+    },
+    {
+        "differential geometry": "differential geometry"
+    },
+    {
+        ", e.g. by using the Clifford algebra instead of ": null
+    },
+    {
+        "differential form": "differential form"
+    },
+    {
+        "s. Geometric algebra has been advocated, most notably by ": null
+    },
+    {
+        "David Hestenes": "david hestenes"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Chris Doran": "chris j. l. doran"
+    },
+    {
+        ", as the preferred mathematical framework for ": null
+    },
+    {
+        "physics": "physics"
+    },
+    {
+        ". Proponents claim that it provides compact and intuitive descriptions in many areas including ": null
+    },
+    {
+        "classical": "classical mechanics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "quantum mechanics": "quantum mechanics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "electromagnetic theory": "electromagnetic theory"
+    },
+    {
+        " and ": null
+    },
+    {
+        "relativity": "theory of relativity"
+    },
+    {
+        ". GA has also found use as a computational tool in ": null
+    },
+    {
+        "computer graphics": "computer graphics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "robotics": "robotics"
+    },
+    {
+        ".     The geometric product was first briefly mentioned by ": null
+    },
+    {
+        "Hermann Grassmann": "hermann grassmann"
+    },
+    {
+        ", who was chiefly interested in developing the closely related ": null
+    },
+    {
+        "exterior algebra": "exterior algebra"
+    },
+    {
+        ". In 1878, ": null
+    },
+    {
+        "William Kingdon Clifford": "william kingdon clifford"
+    },
+    {
+        " greatly expanded on Grassmanns work to form what are now usually called Clifford algebras in his honor . For several decades, geometric algebras went somewhat ignored, greatly eclipsed by the ": null
+    },
+    {
+        "vector calculus": "vector calculus"
+    },
+    {
+        " then newly developed to describe electromagnetism. The term geometric algebra was repopularized in the 1960s by ": null
+    },
+    {
+        "Hestenes": "david hestenes"
+    },
+    {
+        ", who advocated its importance to relativistic physics.       There are a number of different ways to define a geometric algebra. Hesteness original approach was axiomatic, full of geometric significance and equivalent to the universal Clifford algebra.   Given a finite-dimensional ": null
+    },
+    {
+        "quadratic space": "quadratic space"
+    },
+    {
+        " V over a ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        " F with a symmetric bilinear form  g : V \\times V \\rightarrow F , the geometric algebra for this quadratic space is the ": null
+    },
+    {
+        "Clifford algebra": "clifford algebra"
+    },
+    {
+        " \\operatorname . As usual in this domain, for the remainder of this article, only the ": null
+    },
+    {
+        "real": "real number"
+    },
+    {
+        " case, F \\mathbf , will be considered. The notation \\mathcal G will be used to denote a geometric algebra for which the bilinear form g has the ": null
+    },
+    {
+        "signature": "metric signature"
+    },
+    {
+        " .     The essential product in the algebra is called the geometric product, and the product in the contained exterior algebra is called the exterior product . It is standard to denote these respectively by juxtaposition and the symbol \\wedge . The above definition of the geometric algebra is abstract, so we summarize the properties of the geometric product by the following set of axioms. The geometric product has the following properties, for A, B, C\\in \\mathcal :   : AB \\in \\mathcal    : 1AA1A , where 1 is the identity element    : AC    : AAB+AC and ABA+CA    : a^2 g1 , where a is any element of the subspace V of the algebra.     The exterior product has the same properties, except that the last property above is replaced by a \\wedge a 0 for a \\in V .     Note that in the last property above, the real number g need not be nonnegative if g is not positive-definite. An important property of the geometric product is the existence of elements having a multiplicative inverse. For a vector a , if a^2 \\ne 0 then a^ exists and is equal to g^a . A nonzero element of the algebra does not necessarily have a multiplicative inverse. For example, if u is a vector in V such that u^2 1 , the element \\textstyle\\frac is both a nontrivial ": null
+    },
+    {
+        "idempotent element": "idempotent element"
+    },
+    {
+        " and a nonzero ": null
+    },
+    {
+        "zero divisor": "zero divisor"
+    },
+    {
+        ", and thus has no inverse.     It is usual to identify 1 \\in \\mathbf with 1 \\in \\mathcal , with associated natural ": null
+    },
+    {
+        "embeddings": "embedding"
+    },
+    {
+        " \\mathbf \\to \\mathcal and V \\to \\mathcal . In this article, this identification is assumed. Throughout, the term vector refers to an element of V .                For vectors a and b , we may write the geometric product of any two vectors a and b as the sum of a symmetric product and an antisymmetric product:     : ab\\frac+\\frac     Thus we can define the inner product of vectors as     : a \\cdot b : g,     so that the symmetric product can be written as     : \\frac \\frac\\left a \\cdot b     Conversely, g is completely determined by the algebra. The antisymmetric part is the exterior product of the two vectors, the product of the contained ": null
+    },
+    {
+        "exterior algebra": "exterior algebra"
+    },
+    {
+        ":     : a \\wedge b : \\frac -     Then by simple addition:     : aba \\cdot b + a \\wedge b the ungeneralized or vector form of the geometric product.     The inner and exterior products are associated with familiar concepts from standard vector algebra. Geometrically, a and b are ": null
+    },
+    {
+        "parallel": "parallel"
+    },
+    {
+        " if their geometric product is equal to their inner product, whereas a and b are ": null
+    },
+    {
+        "perpendicular": "perpendicular"
+    },
+    {
+        " if their geometric product is equal to their exterior product. In a geometric algebra for which the square of any nonzero vector is positive, the inner product of two vectors can be identified with the ": null
+    },
+    {
+        "dot product": "dot product"
+    },
+    {
+        " of standard vector algebra. The exterior product of two vectors can be identified with the ": null
+    },
+    {
+        "signed area": "signed area"
+    },
+    {
+        " enclosed by a ": null
+    },
+    {
+        "parallelogram": "parallelogram"
+    },
+    {
+        " the sides of which are the vectors. The ": null
+    },
+    {
+        "cross product": "cross product"
+    },
+    {
+        " of two vectors in 3 dimensions with positive-definite quadratic form is closely related to their exterior product.     Most instances of geometric algebras of interest have a nondegenerate quadratic form. If the quadratic form is fully ": null
+    },
+    {
+        "degenerate": "nondegenerate quadratic form"
+    },
+    {
+        ", the inner product of any two vectors is always zero, and the geometric algebra is then simply an exterior algebra. Unless otherwise stated, this article will treat only nondegenerate geometric algebras.     The exterior product is naturally extended as an associative bilinear binary operator between any two elements of the algebra, satisfying the identities     : \\begin   1 \\wedge a_i & a_i \\wedge 1 a_i \\\\   a_1 \\wedge a_2\\wedge\\cdots\\wedge a_r & \\frac\\sum_ \\operatorname a_a_ \\cdots a_,   \\end     where the sum is over all permutations of the indices, with \\operatorname the ": null
+    },
+    {
+        "sign of the permutation": "parity of a permutation"
+    },
+    {
+        ", and a_i are vectors . Since every element of the algebra can be expressed as the sum of products of this form, this defines the exterior product for every pair of elements of the algebra. It follows from the definition that the exterior product forms an ": null
+    },
+    {
+        "alternating algebra": "alternating algebra"
+    },
+    {
+        ".       A multivector that is the exterior product of r linearly independent vectors is called a blade, and the blade is said to be a multivector of grade r . From the axioms, with closure, every multivector of the geometric algebra is a sum of blades.     Consider a set of r linearly independent vectors \\ spanning an r -dimensional subspace of the vector space. With these, we can define a real ": null
+    },
+    {
+        "symmetric matrix": "symmetric matrix"
+    },
+    {
+        "      : a_i\\cdot a_j     By the ": null
+    },
+    {
+        "spectral theorem": "spectral theorem"
+    },
+    {
+        ", \\mathbf can be diagonalized to ": null
+    },
+    {
+        "diagonal matrix": "diagonal matrix"
+    },
+    {
+        " \\mathbf by an ": null
+    },
+    {
+        "orthogonal matrix": "orthogonal matrix"
+    },
+    {
+        " \\mathbf via     : \\sum_ \\sum_     Define a new set of vectors \\ , known as orthogonal basis vectors, to be those transformed by the orthogonal matrix:     : e_i\\sum_j a_j     Since orthogonal transformations preserve inner products, it follows that e_i\\cdot e_j and thus the \\ are perpendicular. In other words, the geometric product of two distinct vectors e_i \\ne e_j is completely specified by their exterior product, or more generally     : \\begine_1e_2\\cdots e_r & e_1 \\wedge e_2 \\wedge \\cdots \\wedge e_r \\\\   & \\left \\wedge \\left \\wedge \\cdots \\wedge \\left \\\\   & \\det a_1 \\wedge a_2 \\wedge \\cdots \\wedge a_r \\end     Therefore, every blade of grade r can be written as a geometric product of r vectors. More generally, if a degenerate geometric algebra is allowed, then the orthogonal matrix is replaced by a ": null
+    },
+    {
+        "block matrix": "block matrix"
+    },
+    {
+        " that is orthogonal in the nondegenerate block, and the diagonal matrix has zero-valued entries along the degenerate dimensions. If the new vectors of the nondegenerate subspace are ": null
+    },
+    {
+        "normalized": "unit vector"
+    },
+    {
+        " according to     : \\hat_i\\frace_i,     then these normalized vectors must square to +1 or -1 . By ": null
+    },
+    {
+        "Sylvesters law of inertia": "sylvesters law of inertia"
+    },
+    {
+        ", the total number of +1 s and the total number of -1 s along the diagonal matrix is invariant. By extension, the total number p of these vectors that square to +1 and the total number q that square to -1 is invariant. We denote this algebra \\mathcal . For example, \\mathcal G models 3 -dimensional ": null
+    },
+    {
+        "Euclidean space": "euclidean space"
+    },
+    {
+        ", \\mathcal G relativistic ": null
+    },
+    {
+        "spacetime": "spacetime"
+    },
+    {
+        " and \\mathcal G a ": null
+    },
+    {
+        "conformal geometric algebra": "conformal geometric algebra"
+    },
+    {
+        " of a 3 -dimensional space.     The set of all possible products of n orthogonal basis vectors with indices in increasing order, including 1 as the empty product, forms a basis for the entire geometric algebra . For example, the following is a basis for the geometric algebra \\mathcal :   : \\   A basis formed this way is called a canonical basis for the geometric algebra, and any other orthogonal basis for V will produce another canonical basis. Each canonical basis consists of 2^n elements. Every multivector of the geometric algebra can be expressed as a linear combination of the canonical basis elements. If the canonical basis elements are \\ with S being an index set, then the geometric product of any two multivectors is   : \\left \\left \\sum_ \\alpha_i\\beta_j B_i B_j .     The terminology k -vector is often encountered to describe multivectors containing elements of only one grade. In higher dimensional space, some such multivectors are not blades . By way of example, e_1 \\wedge e_2 + e_3 \\wedge e_4 in \\mathcal cannot be factored; typically, however, such elements of the algebra do not yield to any geometric interpretation. Only 0,1, and n -vectors are always blades in n -space.         Using an orthogonal basis, a ": null
+    },
+    {
+        "graded vector space": "graded vector space"
+    },
+    {
+        " structure can be established. Elements of the geometric algebra that are scalar multiples of 1 are grade- 0 blades and are called scalars. Multivectors that are in the span of \\ are grade- 1 blades and are the ordinary vectors. Multivectors in the span of \\    ": null
+    }
+]

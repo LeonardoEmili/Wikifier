@@ -1,0 +1,95 @@
+[
+    {
+        "QSIG is an ": null
+    },
+    {
+        "ISDN": "integrated services digital network"
+    },
+    {
+        " based ": null
+    },
+    {
+        "signaling protocol": "signaling protocol"
+    },
+    {
+        " for signaling between ": null
+    },
+    {
+        "private branch exchanges": "private branch exchange"
+    },
+    {
+        " in a ": null
+    },
+    {
+        "private integrated services network": "telephone exchange"
+    },
+    {
+        " . It makes use of the connection-level ": null
+    },
+    {
+        "Q.931": "q.931"
+    },
+    {
+        " protocol and the application-level ": null
+    },
+    {
+        "ROSE": "remote operations service element protocol"
+    },
+    {
+        " protocol. ISDN proper functions as the physical link layer.     QSIG was originally developed by ": null
+    },
+    {
+        "Ecma International": "ecma international"
+    },
+    {
+        ", adopted by ": null
+    },
+    {
+        "ETSI": "etsi"
+    },
+    {
+        " and is defined by a set of ": null
+    },
+    {
+        "ISO": "international organization for standardization"
+    },
+    {
+        " standard documents, so is not owned by any company. This allows interoperability between communications platforms provided by disparate vendors.     QSIG has two layers, called BC and GF . QSIG BC describes how to set up calls between PBXs. QSIG GF provides supplementary services for large-scale corporate, educational, and government networks, such as ": null
+    },
+    {
+        "line identification": "line identification"
+    },
+    {
+        ", ": null
+    },
+    {
+        "call intrusion": "call intrusion"
+    },
+    {
+        " and ": null
+    },
+    {
+        "call forwarding": "call forwarding"
+    },
+    {
+        ". Thus for a large or very distributed company that requires multiple PBXs, users can receive the same services across the network and be unaware of the switch that their telephone is connected to. This greatly eases the problems of management of large networks.     QSIG will likely never rival each vendors private network protocols, but it does provide an option for a higher level of integration than that of the traditional choices.       Note: This list is not complete. See the source after the list for more information.   ECMA-143 - Private Integrated Services Network - Circuit Mode Bearer Services - Inter-Exchange Signalling Procedures and Protocol , Basic Call, International and European Versions: ISO/IEC 11572, ETSI EN 300 172   ECMA-165 - Private Integrated Services Network - Generic Functional Protocol for the Support of Supplementary Services - Inter-Exchange Signalling Procedures and Protocol , International and European Versions: ISO/IEC 11582, ETSI ETS 300 239   ECMA-164 - Private Integrated Services Network - Inter-Exchange Signalling Protocol - Name Identification Supplementary Services , International and European Versions: ISO/IEC 13868, ETSI ETS 300 238   ECMA-174 - Private Integrated Services Network - Inter-Exchange Signalling Protocol - Call Diversion Supplementary Services , International and European Versions: ISO/IEC 13873, ETSI ETS 300 257   ECMA-178 - Private Integrated Services Network - Inter-Exchange Signalling Protocol - Call Transfer Supplementary Service , International and European Versions: ISO/IEC 13869, ETSI ETS 300 261     Source :      QSIG basically uses ": null
+    },
+    {
+        "ROSE": "remote operations service element protocol"
+    },
+    {
+        " to invoke specific supplementary service at the remote PINX. These ": null
+    },
+    {
+        "ROSE": "remote operations service element protocol"
+    },
+    {
+        " operations are coded in a ": null
+    },
+    {
+        "Q.931": "q.931"
+    },
+    {
+        " FACILITY info element. Here a list of QSIG opcodes:           ETS 300 052 - Multiple Subscriber Number   ETS 300 055 - Call Waiting   ETS 300 092 - Calling Line Identification Presentation   ETS 300 093 - Calling Line Identification Restriction   ETS 300 097 - Connected Line Identification Presentation   ETS 300 098 - Connected Line Identification Restriction   ETS 300 130 - Malicious Call Identification   ETS 300 141 - Call Hold   ETS 300 172 - Circuit-Mode Basic Service   ETS 300 173 - Called/Calling Line ID Presentation   ETS 300 182 - Advice Of Charge   ETS 300 188 - Three Way Conference   ETS 300 207 - Call Diversion   ETS 300 237 - Called/Calling Name Presentation   ETS 300 238 - Called/Calling Name Presentation   ETS 300 239 - Generic Functional Protocol   ETS 300 256 - CFU Supplementary Service   ETS 300 258 - Path Replacement   ETS 300 359 - Call Completion To Busy Subscriber   ETS 300 260 - Call Transfer By Join   ETS 300 261 - Call Transfer -   ETS 300 369 - Explicit Call Transfer   ETS 300 745 - Message Waiting Indication   ETS 300 259 - Path Replacement Additional Network Feature   ETS 301 258 - Recall Supplementary Service   ETS 301 919 - Single Step Call Transfer Supplementary Service   Source :      CCITT G.703 - Describes the physical/electrical characteristics of hierarchical digital interfaces.   Source : ": null
+    }
+]

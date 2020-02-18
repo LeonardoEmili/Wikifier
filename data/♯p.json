@@ -1,0 +1,119 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "computational complexity theory": "computational complexity theory"
+    },
+    {
+        ", the complexity class P is the set of the ": null
+    },
+    {
+        "counting problems": "counting problem"
+    },
+    {
+        "associated with the ": null
+    },
+    {
+        "decision problems": "decision problem"
+    },
+    {
+        "in the set  NP . More formally, P is the class of function problems of the form compute f , where f is the number of accepting paths of a ": null
+    },
+    {
+        "nondeterministic Turing machine": "nondeterministic turing machine"
+    },
+    {
+        " running in ": null
+    },
+    {
+        "polynomial time": "time complexitypolynomial time"
+    },
+    {
+        ". Unlike most well-known complexity classes, it is not a class of ": null
+    },
+    {
+        "decision problems": "decision problem"
+    },
+    {
+        "but a class of ": null
+    },
+    {
+        "function problem": "function problem"
+    },
+    {
+        "s.       An NP decision problem is often of the form Are there any solutions that satisfy certain constraints? For example:   Are there any subsets of a list of integers that add up to zero?    Are there any ": null
+    },
+    {
+        "Hamiltonian cycles": "hamiltonian cycle"
+    },
+    {
+        "in a given ": null
+    },
+    {
+        "graph": "graph theory"
+    },
+    {
+        " with cost less than 100?    Are there any variable assignments that satisfy a given ": null
+    },
+    {
+        "CNF ": "conjunctive normal form"
+    },
+    {
+        " formula?      The corresponding P function problems ask how many rather than are there any . For example:   How many subsets of a list of integers add up to zero?   How many Hamiltonian cycles in a given graph have cost less than 100?   How many variable assignments satisfy a given CNF formula?       Clearly, a P problem must be at least as hard as the corresponding NP problem. If its easy to count answers, then it must be easy to tell whether there are any answers—just count them and see whether the count is greater than zero.     One consequence of ": null
+    },
+    {
+        "Todas theorem": "todas theorem"
+    },
+    {
+        " is that a ": null
+    },
+    {
+        "polynomial-time": "time complexitypolynomial time"
+    },
+    {
+        " machine with a P ": null
+    },
+    {
+        "oracle": "oracle machine"
+    },
+    {
+        "  can solve all problems in  PH , the entire ": null
+    },
+    {
+        "polynomial hierarchy": "polynomial hierarchy"
+    },
+    {
+        ". In fact, the polynomial-time machine only needs to make one P query to solve any problem in PH. This is an indication of the extreme difficulty of solving P-complete problems exactly.     Surprisingly, some P problems that are believed to be difficult correspond to easy  P  problems. For more information on this, see ": null
+    },
+    {
+        "P-complete": "sharp-p-complete"
+    },
+    {
+        ".     The closest decision problem class to P is  PP , which asks whether a majority of the computation paths accept. This finds the most significant bit in the P problem answer. The decision problem class  & oplus;P  instead asks for the least significant bit of the P answer.       The complexity class P was first defined by ": null
+    },
+    {
+        "Leslie Valiant": "leslie valiant"
+    },
+    {
+        " in a 1979 article on the computation of the ": null
+    },
+    {
+        "permanent": "permanent"
+    },
+    {
+        ", in which he proved that ": null
+    },
+    {
+        "permanent is P-complete": "permanent is sharp-p-complete"
+    },
+    {
+        ".      ": null
+    },
+    {
+        "Larry Stockmeyer": "larry stockmeyer"
+    },
+    {
+        " has proved that for every P problem P there exists a randomized algorithm using an oracle for SAT, which given an instance a of P and ε  math /math ref  /ref ": null
+    }
+]

@@ -1,0 +1,704 @@
+[
+    {
+        "An integrated development environment  is a ": null
+    },
+    {
+        "software application": "application software"
+    },
+    {
+        " that provides comprehensive facilities to ": null
+    },
+    {
+        "computer programmers": "computer programmer"
+    },
+    {
+        "for ": null
+    },
+    {
+        "software development": "software development"
+    },
+    {
+        ". An IDE normally consists of at least a ": null
+    },
+    {
+        "source code editor": "source code editor"
+    },
+    {
+        ", ": null
+    },
+    {
+        "build automation": "build automation"
+    },
+    {
+        " tools, and a ": null
+    },
+    {
+        "debugger": "debugger"
+    },
+    {
+        ". Some IDEs, such as ": null
+    },
+    {
+        "NetBeans": "netbeans"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Eclipse": "eclipse"
+    },
+    {
+        ", contain the necessary ": null
+    },
+    {
+        "compiler": "compiler"
+    },
+    {
+        ", ": null
+    },
+    {
+        "interpreter": "interpreter"
+    },
+    {
+        ", or both; others, such as ": null
+    },
+    {
+        "SharpDevelop": "sharpdevelop"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Lazarus": "lazarus"
+    },
+    {
+        ", do not.     The boundary between an IDE and other parts of the broader software development environment is not well-defined; sometimes a ": null
+    },
+    {
+        "version control system": "version control system"
+    },
+    {
+        " or various tools to simplify the construction of a ": null
+    },
+    {
+        "graphical user interface": "graphical user interface"
+    },
+    {
+        " are integrated. Many modern IDEs also have a ": null
+    },
+    {
+        "class browser": "class browser"
+    },
+    {
+        ", an ": null
+    },
+    {
+        "object browser": "object browser"
+    },
+    {
+        ", and a ": null
+    },
+    {
+        "class hierarchy diagram": "class diagram"
+    },
+    {
+        " for use in ": null
+    },
+    {
+        "object-oriented software development": "object-oriented programming"
+    },
+    {
+        ".       Integrated development environments are designed to maximize programmer productivity by providing tight-knit components with similar ": null
+    },
+    {
+        "user interface": "user interface"
+    },
+    {
+        "s. IDEs present a single program in which all development is done. This program typically provides many features for authoring, modifying, compiling, deploying and debugging software. This contrasts with software development using unrelated tools, such as ": null
+    },
+    {
+        "vi": "vi"
+    },
+    {
+        ", ": null
+    },
+    {
+        "GCC": "gnu compiler collection"
+    },
+    {
+        " or ": null
+    },
+    {
+        "make": "make"
+    },
+    {
+        ".     One aim of the IDE is to reduce the configuration necessary to piece together multiple development utilities, instead it provides the same set of capabilities as one cohesive unit. Reducing setup time can increase developer productivity, especially in cases where learning to use the IDE is faster than manually integrating and learning all of the individual tools. Tighter integration of all development tasks has the potential to improve overall productivity beyond just helping with setup tasks. For example, code can be continuously parsed while it is being edited, providing instant feedback when syntax errors are introduced. Allowing developers to debug code much faster and easier with an IDE.     Some IDEs are dedicated to a specific ": null
+    },
+    {
+        "programming language": "programming language"
+    },
+    {
+        ", allowing a feature set that most closely matches the ": null
+    },
+    {
+        "programming paradigms": "programming paradigm"
+    },
+    {
+        "of the language. However, there are many multiple-language IDEs.     While most modern IDEs are graphical, text-based IDEs such as ": null
+    },
+    {
+        "Turbo Pascal": "turbo pascal"
+    },
+    {
+        " were in popular use before the availability of windowing systems like ": null
+    },
+    {
+        "Microsoft Windows": "microsoft windows"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "X Window System": "x window system"
+    },
+    {
+        " . They commonly use function keys or ": null
+    },
+    {
+        "hotkeys": "keyboard shortcut"
+    },
+    {
+        " to execute frequently used commands or macros.            IDEs initially became possible when developing via a ": null
+    },
+    {
+        "console": "system console"
+    },
+    {
+        " or ": null
+    },
+    {
+        "terminal": "computer terminal"
+    },
+    {
+        ". Early systems could not support one, since programs were prepared using flowcharts, entering programs with ": null
+    },
+    {
+        "punched cards": "punched card"
+    },
+    {
+        " before submitting them to a ": null
+    },
+    {
+        "compiler": "compiler"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Dartmouth BASIC": "dartmouth basic"
+    },
+    {
+        " was the first language to be created with an IDE . Its IDE  was command-based, and therefore did not look much like the menu-driven, graphical IDEs popular after the advent of the ": null
+    },
+    {
+        "Graphical User Interface": "graphical user interface"
+    },
+    {
+        ". However it integrated editing, file management, compilation, debugging and execution in a manner consistent with a modern IDE.     See also ": null
+    },
+    {
+        "Structured Programming Facility": "structured programming facility"
+    },
+    {
+        " from IBM .     ": null
+    },
+    {
+        "Maestro I": "maestro i"
+    },
+    {
+        " is a product from Softlab Munich and was the worlds first integrated development environment  from Computerwoche  for software. ": null
+    },
+    {
+        "Maestro I": "maestro i"
+    },
+    {
+        " was installed for 22,000 programmers worldwide. Until 1989, 6,000 installations existed in the ": null
+    },
+    {
+        "Federal Republic of Germany": "west germany"
+    },
+    {
+        ". Maestro was arguably the world leader in this field during the 1970s and 1980s. Today one of the last Maestro I can be found in the Museum of Information Technology at Arlington.     One of the first IDEs with a plug-in concept was ": null
+    },
+    {
+        "Softbench": "softbench"
+    },
+    {
+        ". In 1995 Computerwoche commented that the use of an IDE was not well received by developers since it would fence in their creativity.     As of March 2015, the most popular IDEs are ": null
+    },
+    {
+        "Eclipse": "eclipse"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Visual Studio": "visual studio"
+    },
+    {
+        ".              The IDE editor usually provides ": null
+    },
+    {
+        "syntax highlighting": "syntax highlighting"
+    },
+    {
+        ", it can show both the structures, the language keywords and the syntax errors with visually distinct colors and font effects.         Code completion is an important IDE feature, meant to speed up programming, and modern IDEs even have ": null
+    },
+    {
+        "intelligent code completion": "intelligent code completion"
+    },
+    {
+        ".         Advanced IDEs provide support for ": null
+    },
+    {
+        "automated refactoring": "source-to-source compilerrefactoring tools"
+    },
+    {
+        ".          An IDE is expected to provide integrated ": null
+    },
+    {
+        "version control": "version control"
+    },
+    {
+        ", in order to interact with source repositories.         IDEs are also used for debugging, using an integrated ": null
+    },
+    {
+        "debugger": "debugger"
+    },
+    {
+        ", with support for setting breakpoints in the editor, visual rendering of steps, etc.          IDEs may provide advanced support for code search: in order to find class and function declarations, usages, variable and field read/write, etc. IDEs can use different kinds of user interface for code search, for example form-based widgets  and natural-language based interfaces.        ": null
+    },
+    {
+        "Visual programming": "visual programming"
+    },
+    {
+        " is a usage scenario in which an IDE is generally required. Visual Basic allows users to create new applications by moving programming, building blocks, or code nodes to create flowcharts or structure diagrams that are then compiled or interpreted. These flowcharts often are based on the ": null
+    },
+    {
+        "Unified Modeling Language": "unified modeling language"
+    },
+    {
+        ".     This interface has been popularized with the ": null
+    },
+    {
+        "Lego Mindstorms": "lego mindstorms"
+    },
+    {
+        " system, and is being actively pursued by a number of companies wishing to capitalize on the power of custom browsers like those found at ": null
+    },
+    {
+        "Mozilla": "mozilla"
+    },
+    {
+        ". ": null
+    },
+    {
+        "KTechlab": "ktechlab"
+    },
+    {
+        " supports flowcode and is a popular opensource IDE and Simulator for developing software for microcontrollers. Visual programming is also responsible for the power of ": null
+    },
+    {
+        "distributed programming": "distributed programming"
+    },
+    {
+        " . An early visual programming system, ": null
+    },
+    {
+        "Max": "max"
+    },
+    {
+        ", was modeled after analog ": null
+    },
+    {
+        "synthesizer": "synthesizer"
+    },
+    {
+        " design and has been used to develop real-time music performance software since the 1980s. Another early example was ": null
+    },
+    {
+        "Prograph": "prograph"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "dataflow": "dataflow programming"
+    },
+    {
+        "-based system originally developed for the ": null
+    },
+    {
+        "Macintosh": "macintosh"
+    },
+    {
+        ". The graphical programming environment Grape is used to program ": null
+    },
+    {
+        "qfix robot kits": "qfix robot kits"
+    },
+    {
+        ".     This approach is also used in specialist software such as ": null
+    },
+    {
+        "Openlab": "openlab"
+    },
+    {
+        ", where the end users want the flexibility of a full programming language, without the traditional learning curve associated with one.       Some IDEs support multiple languages, such as ": null
+    },
+    {
+        "GNU Emacs": "gnu emacs"
+    },
+    {
+        " based on ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Emacs Lisp": "emacs lisp"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "IntelliJ IDEA": "intellij idea"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Eclipse": "eclipse"
+    },
+    {
+        ", ": null
+    },
+    {
+        "MyEclipse": "myeclipse"
+    },
+    {
+        " or ": null
+    },
+    {
+        "NetBeans": "netbeans"
+    },
+    {
+        ", all based on ": null
+    },
+    {
+        "Java": "java"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "MonoDevelop": "monodevelop"
+    },
+    {
+        ", based on ": null
+    },
+    {
+        "C": "c sharp"
+    },
+    {
+        ", or PlayCode.     Support for alternative languages is often provided by ": null
+    },
+    {
+        "plugins": "plug-in"
+    },
+    {
+        ", allowing them to be installed on the same IDE at the same time. For example, ": null
+    },
+    {
+        "Flycheck": "flycheck"
+    },
+    {
+        " is a modern on-the-fly syntax checking extension for ": null
+    },
+    {
+        "GNU Emacs": "gnu emacs"
+    },
+    {
+        " 24 with support for 39 languages.  ": null
+    },
+    {
+        "Eclipse": "eclipse"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Netbeans": "netbeans"
+    },
+    {
+        " have plugins for ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        "/": null
+    },
+    {
+        "C++": "c++"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Ada": "ada"
+    },
+    {
+        ", ": null
+    },
+    {
+        "GNAT": "gnat"
+    },
+    {
+        " , ": null
+    },
+    {
+        "Perl": "perl"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Python": "python"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Ruby": "ruby"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "PHP": "php"
+    },
+    {
+        ", which are selected between automatically based on file extension, environment or project settings.       ": null
+    },
+    {
+        "Unix": "unix"
+    },
+    {
+        " programmers can combine ": null
+    },
+    {
+        "command-line": "command-line"
+    },
+    {
+        " POSIX": "posix"
+    },
+    {
+        " tools into a complete development environment, capable of developing large programs such as the ": null
+    },
+    {
+        "Linux kernel": "linux kernel"
+    },
+    {
+        " and its environment.   Rehman, Christopher Paul, Christopher R. Paul.   The Linux Development Platform: Configuring, Using and Maintaining a Complete Programming Environment .   2002.      In this sense, the entire Unix system functions as an IDE.  The free software ": null
+    },
+    {
+        "GNU": "gnu"
+    },
+    {
+        " tools  are available on many platforms, including Windows.   The pervasive Unix philosophy of everything is a text stream enables developers who favor ": null
+    },
+    {
+        "command-line": "command-line"
+    },
+    {
+        " oriented tools to use editors with support for many of the standard Unix and GNU build tools, building an IDE with programs like   ": null
+    },
+    {
+        "Emacs": "emacs"
+    },
+    {
+        "      or ": null
+    },
+    {
+        "Vim": "vim"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Data Display Debugger": "data display debugger"
+    },
+    {
+        " is intended to be an advanced graphical front-end for many text-based ": null
+    },
+    {
+        "debugger": "debugger"
+    },
+    {
+        " standard tools. Some programmers prefer managing ": null
+    },
+    {
+        "makefiles": "makefile"
+    },
+    {
+        "and their derivatives to the similar code building tools included in a full IDE. For example, most contributors to the ": null
+    },
+    {
+        "PostgreSQL": "postgresql"
+    },
+    {
+        " database use ": null
+    },
+    {
+        "make": "makefile"
+    },
+    {
+        " and ": null
+    },
+    {
+        "gdb": "gnu debugger"
+    },
+    {
+        " directly to develop new features.  Even when building PostgreSQL for ": null
+    },
+    {
+        "Microsoft Windows": "microsoft windows"
+    },
+    {
+        " using ": null
+    },
+    {
+        "Visual C++": "visual c++"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Perl": "perl"
+    },
+    {
+        " scripts are used as a replacement for ": null
+    },
+    {
+        "make": "makefile"
+    },
+    {
+        " rather than relying on any IDE features.  Some Linux IDEs such as ": null
+    },
+    {
+        "Geany": "geany"
+    },
+    {
+        " attempt to provide a graphical front end to traditional build operations.     On the various ": null
+    },
+    {
+        "Microsoft Windows": "microsoft windows"
+    },
+    {
+        " platforms, command-line tools for development are seldom used. Accordingly, there are many commercial and non-commercial products. However, each has a different design commonly creating incompatibilities. Most major compiler vendors for Windows still provide free copies of their command-line tools, including ": null
+    },
+    {
+        "Microsoft": "microsoft"
+    },
+    {
+        " .     IDEs have always been popular on the Apple Macintoshs ": null
+    },
+    {
+        "classic Mac OS": "classic mac os"
+    },
+    {
+        " and ": null
+    },
+    {
+        "macOS": "macos"
+    },
+    {
+        ", dating back to ": null
+    },
+    {
+        "Macintosh Programmers Workshop": "macintosh programmers workshop"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Turbo Pascal": "turbo pascal"
+    },
+    {
+        ", THINK Pascal and ": null
+    },
+    {
+        "THINK C": "think c"
+    },
+    {
+        " environments of the mid-1980s. Currently macOS programmers can choose between native IDEs like ": null
+    },
+    {
+        "Xcode": "xcode"
+    },
+    {
+        " and open-source tools such as ": null
+    },
+    {
+        "Eclipse": "eclipse"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Netbeans": "netbeans"
+    },
+    {
+        ". ": null
+    },
+    {
+        "ActiveState Komodo": "activestate komodo"
+    },
+    {
+        " is a proprietary multilanguage IDE supported on macOS.         Some features of IDEs can benefit from advances in AI.  In particular, one can collect information from IDE actions across developers in order to augment IDE features.  For instance, a data-driven approach to ": null
+    },
+    {
+        "code completion": "code completion"
+    },
+    {
+        " results in ": null
+    },
+    {
+        "intelligent code completion": "intelligent code completion"
+    },
+    {
+        ".            An ": null
+    },
+    {
+        "web integrated development environment": "online integrated development environment"
+    },
+    {
+        " , also known as an ": null
+    },
+    {
+        "Online IDE": "online integrated development environment"
+    },
+    {
+        " or Cloud IDE, is a ": null
+    },
+    {
+        "browser": "web browser"
+    },
+    {
+        " based IDE that allows for software development or web development. ": null
+    }
+]

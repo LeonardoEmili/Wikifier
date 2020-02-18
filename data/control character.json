@@ -1,0 +1,332 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "computing": "computing"
+    },
+    {
+        " and ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        ", a control character  or non-printing character  is a ": null
+    },
+    {
+        "code point": "code point"
+    },
+    {
+        "  in a ": null
+    },
+    {
+        "character set": "character encoding"
+    },
+    {
+        ", that does not represent a written symbol. They are used as ": null
+    },
+    {
+        "in-band signaling": "in-band signaling"
+    },
+    {
+        " to cause effects other than the addition of a symbol to the text. All other characters are mainly printing, printable, or  graphic character s, except perhaps for the space character .     All entries in the ": null
+    },
+    {
+        "ASCII": "ascii"
+    },
+    {
+        " table below code 32  are of this kind, including ": null
+    },
+    {
+        "CR and LF": "newline"
+    },
+    {
+        " used to separate lines of text. The code 127  is also a control character. ": null
+    },
+    {
+        "Extended ASCII": "extended ascii"
+    },
+    {
+        " sets defined by ": null
+    },
+    {
+        "ISO 8859": "iso 8859"
+    },
+    {
+        " added the codes 128 through 159 as control characters, this was primarily done so that if the high bit was stripped it would not change a printing character to a C0 control code, but there have been some assignments here, in particular ": null
+    },
+    {
+        "NEL": "newline"
+    },
+    {
+        ". This second set is called the ": null
+    },
+    {
+        "C1": "c0 and c1 control codes"
+    },
+    {
+        " set.     These 65 control codes were carried over to ": null
+    },
+    {
+        "Unicode": "unicode"
+    },
+    {
+        ". Unicode added more characters that could be considered controls, but it makes a distinction between these Formatting characters , and the 65 Control characters.     The ": null
+    },
+    {
+        "Extended Binary Coded Decimal Interchange Code": "extended binary coded decimal interchange code"
+    },
+    {
+        " character set contains 65 control codes, including all of the ASCII control codes as well as additional codes which are mostly used to control IBM peripherals.             ": null
+    },
+    {
+        "Procedural signs": "prosigns for morse code"
+    },
+    {
+        " in ": null
+    },
+    {
+        "Morse code": "morse code"
+    },
+    {
+        " are a form of control character.     A form of control characters were introduced in the 1870 ": null
+    },
+    {
+        "Baudot code": "baudot code"
+    },
+    {
+        ": NUL and DEL.   The 1901 ": null
+    },
+    {
+        "Murray code": "murray code"
+    },
+    {
+        " added the ": null
+    },
+    {
+        "carriage return": "carriage return"
+    },
+    {
+        " and ": null
+    },
+    {
+        "line feed": "line feed"
+    },
+    {
+        " , and other versions of the Baudot code included other control characters.     The ": null
+    },
+    {
+        "bell character": "bell character"
+    },
+    {
+        " , which rang a bell to alert operators, was also an early ": null
+    },
+    {
+        "teletype": "teleprinter"
+    },
+    {
+        " control character.     Control characters have also been called format effectors .       The control characters in ASCII still in common use include:   0 , originally intended to be an ignored character, but now used by many ": null
+    },
+    {
+        "programming languages": "programming language"
+    },
+    {
+        "including ": null
+    },
+    {
+        "C": "c programming language"
+    },
+    {
+        " to ": null
+    },
+    {
+        "mark the end of a string": "null-terminated string"
+    },
+    {
+        ".   7 , which may cause the device to emit a warning such as a bell or beep sound or the screen flashing.   8 , may overprint the previous character.   9 , moves the printing position right to the next tab stop.   10 , moves the print head down one line, or to the left edge and down. Used as the end of line marker in most ": null
+    },
+    {
+        "UNIX systems": "unix"
+    },
+    {
+        " and variants.   11 , vertical tabulation.   12 , to cause a printer to eject paper to the top of the next page, or a video terminal to clear the screen.   13 , moves the printing position to the start of the line, allowing overprinting. Used as the end of line marker in ": null
+    },
+    {
+        "Classic Mac OS": "classic mac os"
+    },
+    {
+        ", ": null
+    },
+    {
+        "OS-9": "os-9"
+    },
+    {
+        ", ": null
+    },
+    {
+        "FLEX": "flex"
+    },
+    {
+        " . A CR+LF pair is used by ": null
+    },
+    {
+        "CP/M": "cp/m"
+    },
+    {
+        "-80 and its derivatives including ": null
+    },
+    {
+        "DOS": "dos"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Windows": "microsoft windows"
+    },
+    {
+        ", and by ": null
+    },
+    {
+        "Application Layer": "application layer"
+    },
+    {
+        " protocols": "communications protocol"
+    },
+    {
+        " such as ": null
+    },
+    {
+        "FTP": "file transfer protocol"
+    },
+    {
+        ", ": null
+    },
+    {
+        "SMTP": "simple mail transfer protocol"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "HTTP": "hypertext transfer protocol"
+    },
+    {
+        ".   26 . Acts as an end-of-file for the Windows text-mode file i/o.   27 . Introduces an ": null
+    },
+    {
+        "escape sequence": "escape sequence"
+    },
+    {
+        ".     Control characters may be described as doing something when the user inputs them, such as code 3  to interrupt the running process, or code 4 , used to end text input or to exit a ": null
+    },
+    {
+        "Unix shell": "unix shell"
+    },
+    {
+        ". These uses usually have little to do with their use when they are in text being output, and on modern systems usually do not involve the transmission of the code number at all .     There were quite a few control characters defined . This was because early terminals had very primitive mechanical or electrical controls that made any kind of state-remembering ": null
+    },
+    {
+        "API": "api"
+    },
+    {
+        " quite expensive to implement, thus a different code for each and every function looked like a requirement. It quickly became possible and inexpensive to interpret sequences of codes to perform a function, and device makers found a way to send hundreds of device instructions. Specifically, they used ASCII code 27 , followed by a series of characters called a control sequence or escape sequence . The mechanism was invented by ": null
+    },
+    {
+        "Bob Bemer": "bob bemer"
+    },
+    {
+        ", the father of ASCII. For example, the sequence of code 27, followed by the printable characters 2;10H , would cause a ": null
+    },
+    {
+        "DEC VT-102": "vt100"
+    },
+    {
+        " terminal to move its ": null
+    },
+    {
+        "cursor": "cursor"
+    },
+    {
+        " to the 10th cell of the 2nd line of the screen. Several standards exist for these sequences, notably ": null
+    },
+    {
+        "ANSI X3.64": "ansi x3.64"
+    },
+    {
+        ". But the number of non-standard variations in use is large, especially among printers, where technology has advanced far faster than any standards body can possibly keep up with.          In Unicode, Control-characters are U+0000 & mdash;U+001F , U+007F , and U+0080 & mdash;U+009F . Their ": null
+    },
+    {
+        "General Category": "unicode character propertiesgeneral category"
+    },
+    {
+        " is Cc . Formatting codes are distinct, in General Category Cf . The Cc control characters have no Name in Unicode, but are given labels such as instead.        There are a number of techniques to display non-printing characters, which may be illustrated with the ": null
+    },
+    {
+        "bell character": "bell character"
+    },
+    {
+        " in ": null
+    },
+    {
+        "ASCII": "ascii"
+    },
+    {
+        " encoding:   ": null
+    },
+    {
+        "Code point": "code point"
+    },
+    {
+        ": decimal 7, hexadecimal 0x07   An abbreviation, often three capital letters: BEL   A special character condensing the abbreviation: Unicode U+2407 , symbol for bell   An ": null
+    },
+    {
+        "ISO 2047": "iso 2047"
+    },
+    {
+        " graphical representation: Unicode U+237E , graphic for bell   ": null
+    },
+    {
+        "Caret notation": "caret notation"
+    },
+    {
+        " in ASCII, where code point 00xxxxx is represented as a caret followed by the capital letter at code point 10xxxxx: ^G   An ": null
+    },
+    {
+        "escape sequence": "escape sequence"
+    },
+    {
+        ", as in ": null
+    },
+    {
+        "C": "c"
+    },
+    {
+        "/": null
+    },
+    {
+        "C++": "c++"
+    },
+    {
+        " character string codes: \\a , \\007 , \\x07 , etc.       ASCII-based ": null
+    },
+    {
+        "keyboards": "keyboard"
+    },
+    {
+        " have a key labelled ": null
+    },
+    {
+        "Control": "control key"
+    },
+    {
+        " , Ctrl , or Cntl which is used much like a shift key, being pressed in combination with another letter or symbol key. In one implementation, the control key generates the code 64 places below the code for the uppercase letter it is pressed in combination with . The other implementation is to take the ASCII code produced by the key and ": null
+    },
+    {
+        "bitwise AND": "bitwise operation"
+    },
+    {
+        " it with 31, forcing bits 6 and 7 to zero. For example, pressing control and the letter g or G ": null
+    }
+]

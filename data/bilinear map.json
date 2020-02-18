@@ -1,0 +1,155 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", a bilinear map is a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " combining elements of two ": null
+    },
+    {
+        "vector spaces": "vector space"
+    },
+    {
+        "to yield an element of a third vector space, and is ": null
+    },
+    {
+        "linear": "linear map"
+    },
+    {
+        " in each of its arguments. ": null
+    },
+    {
+        "Matrix multiplication": "matrix multiplication"
+    },
+    {
+        " is an example.           Let V, W and X be three ": null
+    },
+    {
+        "vector spaces": "vector space"
+    },
+    {
+        "over the same base ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        " \\mathbb . A bilinear map is a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        "   : B : V \\times W \\to X   such that \\forall w \\in W , the map B_w   : v \\mapsto B   is a ": null
+    },
+    {
+        "linear map": "linear map"
+    },
+    {
+        " from V to X , and \\forall v \\in V , the map B_v   : w \\mapsto B   is a linear map from W to X .     In other words, when we hold the first entry of the bilinear map fixed while letting the second entry vary, the result is a linear operator, and similarly for when we hold the second entry fixed.     If  and we have  for all v, w in V, then we say that B is  symmetric .     The case where X is the base field F, and we have a  bilinear form , is particularly useful .       The definition works without any changes if instead of vector spaces over a field F, we use ": null
+    },
+    {
+        "modules": "module"
+    },
+    {
+        "over a ": null
+    },
+    {
+        "commutative ring": "commutative ring"
+    },
+    {
+        " R. It generalizes to n-ary functions, where the proper term is  multilinear .     For non-commutative rings R and S, a left R-module M and a right S-module N, a bilinear map is a map  with T an -": null
+    },
+    {
+        "bimodule": "bimodule"
+    },
+    {
+        ", and for which any n in N,  is an R-module homomorphism, and for any m in M,  is an S-module homomorphism. This satisfies     :B r ⋅ B   :B B ⋅ s     for all m in M, n in N, r in R and s in S, as well as B being ": null
+    },
+    {
+        "additive": "additive map"
+    },
+    {
+        " in each argument.       A first immediate consequence of the definition is that  whenever  or . This may be seen by writing the ": null
+    },
+    {
+        "zero vector": "zero vector"
+    },
+    {
+        " 0 V as   and moving the scalar 0 outside , in front of B, by linearity.     The set  of all bilinear maps is a ": null
+    },
+    {
+        "linear subspace": "linear subspace"
+    },
+    {
+        " of the space  of all maps from  into X.          If V, W, X are ": null
+    },
+    {
+        "finite-dimensional": "finite-dimensional"
+    },
+    {
+        ", then so is . For , i.e. bilinear forms, the dimension of this space is  . To see this, choose a ": null
+    },
+    {
+        "basis": "basis"
+    },
+    {
+        " for V and W; then each bilinear map can be uniquely represented by the matrix , and vice versa.   Now, if X is a space of higher dimension, we obviously have .       ": null
+    },
+    {
+        "Matrix multiplication": "matrix"
+    },
+    {
+        " is a bilinear map .   If a ": null
+    },
+    {
+        "vector space": "vector space"
+    },
+    {
+        " V over the ": null
+    },
+    {
+        "real numbers": "real number"
+    },
+    {
+        " R carries an ": null
+    },
+    {
+        "inner product": "inner product space"
+    },
+    {
+        ", then the inner product is a bilinear map .   In general, for a vector space V over a field F, a ": null
+    },
+    {
+        "bilinear form": "bilinear form"
+    },
+    {
+        " on V is the same as a bilinear map .   If V is a vector space with ": null
+    },
+    {
+        "dual space": "dual space"
+    },
+    {
+        " V ∗ , then the application operator,  is a bilinear map from  to the base field.   Let V and W be vector spaces over the same base field F. If f is a member of V ∗ and g a member of W ∗ , then  defines a bilinear map .   The ": null
+    },
+    {
+        "cross product": "cross product"
+    },
+    {
+        " in R 3 is a bilinear map .   Let  be a bilinear map, and  be a ": null
+    },
+    {
+        "linear map": "linear map"
+    },
+    {
+        ", then  is a bilinear map on ": null
+    }
+]

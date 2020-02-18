@@ -1,0 +1,878 @@
+[
+    {
+        "      In ": null
+    },
+    {
+        "physics": "physics"
+    },
+    {
+        ", angular momentum  is the rotational equivalent of ": null
+    },
+    {
+        "linear momentum": "linear momentum"
+    },
+    {
+        ". It is an important quantity in physics because it is a ": null
+    },
+    {
+        "conserved quantity": "conservation law"
+    },
+    {
+        "—the total angular momentum of a closed system remains constant.     In three ": null
+    },
+    {
+        "dimensions": "dimensions"
+    },
+    {
+        ", the angular momentum for a ": null
+    },
+    {
+        "point particle": "point particle"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "pseudovector": "pseudovector"
+    },
+    {
+        " r × p, the ": null
+    },
+    {
+        "cross product": "cross product"
+    },
+    {
+        " of the particles ": null
+    },
+    {
+        "position vector": "position vector"
+    },
+    {
+        " r and its ": null
+    },
+    {
+        "momentum vector": "momentum vector"
+    },
+    {
+        "; the latter is p mv in Newtonian mechanics. This definition can be applied to each point in ": null
+    },
+    {
+        "continua": "continuum mechanics"
+    },
+    {
+        " like solids or fluids, or ": null
+    },
+    {
+        "physical fields": "field"
+    },
+    {
+        ". Unlike momentum, angular momentum does depend on where the origin is chosen, since the particles position is measured from it.     Just like for ": null
+    },
+    {
+        "angular velocity": "angular velocity"
+    },
+    {
+        ", there are two special types of angular momentum: the spin angular momentum and the orbital angular momentum. The spin angular momentum of an object is defined as the angular momentum about its ": null
+    },
+    {
+        "centre of mass": "centre of mass"
+    },
+    {
+        " coordinate. The orbital angular momentum of an object about a chosen origin is defined as the angular momentum of the centre of mass about the origin. The total angular momentum of an object is the sum of the spin and orbital angular momenta. The orbital angular momentum vector of a particle is always parallel and directly proportional to the orbital ": null
+    },
+    {
+        "angular velocity": "angular velocity"
+    },
+    {
+        " vector ω of the particle, where the constant of proportionality depends on both the mass of the particle and its distance from origin. However, the spin angular momentum of the object is proportional but not always parallel to the spin angular velocity Ω, making the constant of proportionality a second-rank ": null
+    },
+    {
+        "tensor": "tensor"
+    },
+    {
+        " rather than a scalar.     Angular momentum is additive; the total angular momentum of any composite system is the ": null
+    },
+    {
+        "vector sum": "vector sum"
+    },
+    {
+        " of the angular momenta of its constituent parts. For a continuous rigid body, the total angular momentum is the volume integral of angular momentum density over the entire body.     Torque can be defined as the rate of change of angular momentum, analogous to ": null
+    },
+    {
+        "force": "force"
+    },
+    {
+        ". The net external torque on any system is always equal to the total torque on the system; in other words, the sum of all internal torques of any system is always 0 . Therefore, for a closed system , the total torque on the system must be 0, which means that the total angular momentum of the system is constant. The conservation of angular momentum helps explain many observed phenomena, for example the increase in rotational speed of a spinning ": null
+    },
+    {
+        "figure skater": "figure skater"
+    },
+    {
+        " as the skaters arms are contracted, the high rotational rates of ": null
+    },
+    {
+        "neutron star": "neutron star"
+    },
+    {
+        "s, the ": null
+    },
+    {
+        "Coriolis effect": "coriolis effect"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "precession": "precession"
+    },
+    {
+        " of ": null
+    },
+    {
+        "gyroscope": "gyroscope"
+    },
+    {
+        "s. In general, conservation does limit the possible motion of a system, but does not uniquely determine what the exact motion is.     In ": null
+    },
+    {
+        "quantum mechanics": "quantum mechanics"
+    },
+    {
+        ", angular momentum is expressed as an ": null
+    },
+    {
+        "operator": "operator"
+    },
+    {
+        "  , and its one-dimensional projections have ": null
+    },
+    {
+        "quantized eigenvalues": "point spectrum"
+    },
+    {
+        ". Angular momentum is subject to the ": null
+    },
+    {
+        "Heisenberg uncertainty principle": "heisenberg uncertainty principle"
+    },
+    {
+        ", implying that at any time, only one ": null
+    },
+    {
+        "projection": "vector projection"
+    },
+    {
+        " can be measured with definite precision; the other two then remain uncertain. Because of this, it turns out that the notion of a quantum particle literally spinning about an axis does not exist. Nevertheless, elementary particles still possess a spin angular momentum, but this angular momentum does not correspond to spinning motion in the ordinary sense.                         Angular momentum is a ": null
+    },
+    {
+        "vector": "euclidean vector"
+    },
+    {
+        " quantity  that represents the product of a bodys ": null
+    },
+    {
+        "rotational inertia": "moment of inertia"
+    },
+    {
+        " and ": null
+    },
+    {
+        "rotational velocity": "angular velocity"
+    },
+    {
+        " about a particular axis. However, if the particles trajectory lies in a single ": null
+    },
+    {
+        "plane": "plane"
+    },
+    {
+        ", it is sufficient to discard the vector nature of angular momentum, and treat it as a ": null
+    },
+    {
+        "scalar": "scalar"
+    },
+    {
+        " .  Angular momentum can be considered a rotational analog of ": null
+    },
+    {
+        "linear momentum": "momentum"
+    },
+    {
+        ". Thus, where ": null
+    },
+    {
+        "linear momentum": "linear momentum"
+    },
+    {
+        " p is proportional to ": null
+    },
+    {
+        "mass": "mass"
+    },
+    {
+        " m and ": null
+    },
+    {
+        "linear speed": "speed"
+    },
+    {
+        "    : p mv,     angular momentum L is proportional to ": null
+    },
+    {
+        "moment of inertia": "moment of inertia"
+    },
+    {
+        " I and ": null
+    },
+    {
+        "angular speed": "angular frequency"
+    },
+    {
+        " \\omega measured in radians per second.    : L I\\omega.     Unlike mass, which depends only on amount of matter, moment of inertia is also dependent on the position of the axis of rotation and the shape of the matter. Unlike linear speed, which does not depend upon the choice of origin, angular velocity is always measured with respect to a fixed origin. Therefore, strictly speaking, L should be referred to as the angular momentum relative to that center.        Because I r^2m for a single particle and \\omega \\frac for circular motion, angular momentum can be expanded, L r^2 m \\cdot \\frac, and reduced to,   : L rmv,     the product of the ": null
+    },
+    {
+        "radius": "radius"
+    },
+    {
+        " of rotation r and the ": null
+    },
+    {
+        "linear momentum": "linear momentum"
+    },
+    {
+        " of the particle p mv , where v in this case is the equivalent ": null
+    },
+    {
+        "linear speed": "speedtangential_speed"
+    },
+    {
+        " at the radius .     This simple analysis can also apply to non-circular motion if only the component of the motion which is ": null
+    },
+    {
+        "perpendicular": "perpendicular"
+    },
+    {
+        " to the ": null
+    },
+    {
+        "radius vector": "position"
+    },
+    {
+        " is considered. In that case,   : L rmv_\\perp,     where v_\\perp v\\sin is the perpendicular component of the motion. Expanding, L rmv\\sin, rearranging, L r\\sinmv, and reducing, angular momentum can also be expressed,   : L r_\\perp mv,     where r_\\perp r\\sin is the length of the ": null
+    },
+    {
+        "moment arm": "torquemoment arm formula"
+    },
+    {
+        ", a line dropped perpendicularly from the origin onto the path of the particle. It is this definition,  to which the term moment of momentum refers.        Another approach is to define angular momentum as the conjugate momentum  of the angular coordinate \\phi expressed in the ": null
+    },
+    {
+        "Lagrangian": "lagrangian mechanics"
+    },
+    {
+        " of the mechanical system. Consider a mechanical system with a mass m constrained to move in a circle of radius a in the absence of any external force field. The kinetic energy of the system is   : T \\fracma^2 \\omega^2 \\fracma^2 \\dot^2.     And the potential energy is   : U 0.     Then the Lagrangian is   : \\mathcal\\left T - U \\fracma^2 \\dot^2.     The generalized momentum canonically conjugate to the coordinate \\phi is defined by   : p_\\phi \\frac ma^2 \\dot I\\omega L.            To completely define orbital angular momentum in ": null
+    },
+    {
+        "three dimensions": "three-dimensional space"
+    },
+    {
+        ", it is required to know the rate at which the position vector sweeps out angle, the direction perpendicular to the instantaneous plane of angular displacement, and the ": null
+    },
+    {
+        "mass": "mass"
+    },
+    {
+        " involved, as well as how this mass is distributed in space  . By retaining this ": null
+    },
+    {
+        "vector": "euclidean vector"
+    },
+    {
+        " nature of angular momentum, the general nature of the equations is also retained, and can describe any sort of three-dimensional ": null
+    },
+    {
+        "motion": "motion"
+    },
+    {
+        " about the center of rotation – ": null
+    },
+    {
+        "circular": "circular motion"
+    },
+    {
+        ", ": null
+    },
+    {
+        "linear": "linear motion"
+    },
+    {
+        ", or otherwise. In ": null
+    },
+    {
+        "vector notation": "vector notation"
+    },
+    {
+        ", the orbital angular momentum of a ": null
+    },
+    {
+        "point particle": "point particle"
+    },
+    {
+        " in motion about the origin can be expressed as:     : \\mathbf I\\boldsymbol,     where   :: I r^2m is the ": null
+    },
+    {
+        "moment of inertia": "moment of inertia"
+    },
+    {
+        " for a ": null
+    },
+    {
+        "point mass": "point particle"
+    },
+    {
+        ",   :: \\boldsymbol\\frac is the orbital ": null
+    },
+    {
+        "angular velocity": "angular velocity"
+    },
+    {
+        " in radians/sec of the particle about the origin,   :: \\mathbf is the ": null
+    },
+    {
+        "position vector": "position"
+    },
+    {
+        " of the particle relative to the origin, r\\left\\vert\\mathbf\\right\\vert ,   :: \\mathbf is the ": null
+    },
+    {
+        "linear velocity": "velocity"
+    },
+    {
+        " of the particle relative to the origin, and   :: m is the ": null
+    },
+    {
+        "mass": "mass"
+    },
+    {
+        " of the particle.     This can be expanded, reduced, and by the rules of ": null
+    },
+    {
+        "vector algebra": "vector calculus"
+    },
+    {
+        ", rearranged:   : \\begin   \\mathbf & \\left\\left \\\\   & m\\left \\\\   & \\mathbf\\times m\\mathbf \\\\   & \\mathbf\\times\\mathbf,   \\end     which is the ": null
+    },
+    {
+        "cross product": "cross product"
+    },
+    {
+        " of the position vector \\mathbf and the linear momentum \\mathbf m\\mathbf of the particle. By the definition of the cross product, the \\mathbf vector is ": null
+    },
+    {
+        "perpendicular": "perpendicular"
+    },
+    {
+        " to both \\mathbf and \\mathbf . It is directed perpendicular to the plane of angular displacement, as indicated by the ": null
+    },
+    {
+        "right-hand rule": "right-hand rule"
+    },
+    {
+        " – so that the angular velocity is seen as ": null
+    },
+    {
+        "counter-clockwise": "clockwise"
+    },
+    {
+        " from the head of the vector. Conversely, the \\mathbf vector defines the ": null
+    },
+    {
+        "plane": "plane"
+    },
+    {
+        " in which \\mathbf and \\mathbf lie.     By defining a ": null
+    },
+    {
+        "unit vector": "unit vector"
+    },
+    {
+        " \\mathbf perpendicular to the plane of angular displacement, a ": null
+    },
+    {
+        "scalar angular speed": "angular frequency"
+    },
+    {
+        " \\omega results, where   : \\omega\\mathbf \\boldsymbol, and   : \\omega \\frac, where v_\\perp is the perpendicular component of the motion, as above.     The two-dimensional scalar equations of the previous section can thus be given direction:   : \\begin   \\mathbf & I\\boldsymbol\\\\   & I\\omega\\mathbf\\\\   & \\left\\omega\\mathbf\\\\   & rmv_\\perp \\mathbf\\\\   & r_\\perp mv\\mathbf,   \\end     and \\mathbf rmv\\mathbf for circular motion, where all of the motion is perpendicular to the radius r .       Angular momentum can be described as the rotational analog of ": null
+    },
+    {
+        "linear momentum": "linear momentum"
+    },
+    {
+        ". Like linear momentum it involves elements of ": null
+    },
+    {
+        "mass": "mass"
+    },
+    {
+        " and ": null
+    },
+    {
+        "displacement": "displacement"
+    },
+    {
+        ". Unlike linear momentum it also involves elements of ": null
+    },
+    {
+        "position": "position"
+    },
+    {
+        " and ": null
+    },
+    {
+        "shape": "shape"
+    },
+    {
+        ".     Many problems in physics involve matter in motion about some certain point in space, be it in actual rotation about it, or simply moving past it, where it is desired to know what effect the moving matter has on the point—can it exert energy upon it or perform work about it? ": null
+    },
+    {
+        "Energy": "energy"
+    },
+    {
+        ", the ability to do ": null
+    },
+    {
+        "work": "work"
+    },
+    {
+        ", can be stored in matter by setting it in motion—a combination of its ": null
+    },
+    {
+        "inertia": "inertia"
+    },
+    {
+        " and its displacement. Inertia is measured by its ": null
+    },
+    {
+        "mass": "mass"
+    },
+    {
+        ", and displacement by its ": null
+    },
+    {
+        "velocity": "velocity"
+    },
+    {
+        ". Their product,     : \\begin   \\times & \\text\\\\   \\text \\times \\text & \\text\\\\   m \\times v & p\\\\   \\end       is the matters ": null
+    },
+    {
+        "momentum": "momentum"
+    },
+    {
+        ".  Referring this momentum to a central point introduces a complication: the momentum is not applied to the point directly. For instance, a particle of matter at the outer edge of a wheel is, in effect, at the end of a ": null
+    },
+    {
+        "lever": "lever"
+    },
+    {
+        " of the same length as the wheels radius, its momentum turning the lever about the center point. This imaginary lever is known as the moment arm. It has the effect of multiplying the momentums effort in proportion to its length, an effect known as a ": null
+    },
+    {
+        "moment.": "moment"
+    },
+    {
+        " Hence, the particles momentum referred to a particular point,     : \\begin   \\times \\times & \\text\\\\   \\text \\times \\text \\times \\text & \\text\\\\   r \\times m \\times v & L\\\\   \\end       is the angular momentum, sometimes called, as here, the moment of momentum of the particle versus that particular center point. The equation Lrmv combines a moment with a linear speed v . Linear speed referred to the central point is simply the product of the distance r and the angular speed \\omega versus the point: vr\\omega, another moment. Hence, angular momentum contains a double moment: Lrmr\\omega. Simplifying slightly, Lr^2m\\omega, the quantity r^2m is the particles ": null
+    },
+    {
+        "moment of inertia": "moment of inertia"
+    },
+    {
+        ", sometimes called the second moment of mass. It is a measure of rotational inertia.           Because ": null
+    },
+    {
+        "moment of inertia": "moment of inertia"
+    },
+    {
+        " is a crucial part of the spin angular momentum, the latter necessarily includes all of the complications of the former, which is calculated by multiplying elementary bits of the mass by the ": null
+    },
+    {
+        "squares": "square"
+    },
+    {
+        " of their ": null
+    },
+    {
+        "distances": "distances"
+    },
+    {
+        " from the center of rotation.  Therefore, the total moment of inertia, and the angular momentum, is a complex function of the configuration of the ": null
+    },
+    {
+        "matter": "matter"
+    },
+    {
+        " about the center of rotation and the orientation of the rotation for the various bits.     For a ": null
+    },
+    {
+        "rigid body": "rigid body"
+    },
+    {
+        ", for instance a wheel or an asteroid, the orientation of rotation is simply the position of the ": null
+    },
+    {
+        "rotation axis": "rotation around a fixed axis"
+    },
+    {
+        " versus the matter of the body. It may or may not pass through the ": null
+    },
+    {
+        "center of mass": "center of mass"
+    },
+    {
+        ", or it may lie completely outside of the body. For the same body, angular momentum may take a different value for every possible axis about which rotation may take place.  It reaches a minimum when the axis passes through the center of mass.      For a collection of objects revolving about a center, for instance all of the bodies of the ": null
+    },
+    {
+        "Solar System": "solar system"
+    },
+    {
+        ", the orientations may be somewhat organized, as is the Solar System, with most of the bodies axes lying close to the systems axis. Their orientations may also be completely random.     In brief, the more mass and the farther it is from the center of rotation , the greater the moment of inertia, and therefore the greater the angular momentum for a given ": null
+    },
+    {
+        "angular velocity": "angular velocity"
+    },
+    {
+        ". In many cases the ": null
+    },
+    {
+        "moment of inertia": "moment of inertia"
+    },
+    {
+        ", and hence the angular momentum, can be simplified by,    : Ik^2m,   :where k is the ": null
+    },
+    {
+        "radius of gyration": "radius of gyration"
+    },
+    {
+        ", the distance from the axis at which the entire mass m may be considered as concentrated.   Similarly, for a ": null
+    },
+    {
+        "point mass": "point particle"
+    },
+    {
+        " m the ": null
+    },
+    {
+        "moment of inertia": "moment of inertia"
+    },
+    {
+        " is defined as,   : Ir^2m   :where r is the ": null
+    },
+    {
+        "radius": "radius"
+    },
+    {
+        " of the point mass from the center of rotation,   and for any collection of particles m_i as the sum,   : \\sum_i I_i \\sum_i r_i^2m_i     Angular momentums dependence on position and shape is reflected in its ": null
+    },
+    {
+        "units": "units of measurement"
+    },
+    {
+        " versus linear momentum: kg⋅m 2 /s, N⋅m⋅s, or J⋅s for angular momentum versus ": null
+    },
+    {
+        "kg⋅m/s": "si derived unit"
+    },
+    {
+        " or ": null
+    },
+    {
+        "N⋅s": "si derived unit"
+    },
+    {
+        " for linear momentum. When calculating angular momentum as the product of the moment of inertia times the angular velocity, the angular velocity must be expressed in radians per second, where the radian assumes the dimensionless value of unity. . Angular momentums units can be interpreted as ": null
+    },
+    {
+        "torque": "torque"
+    },
+    {
+        "⋅time or as energy⋅time per angle. An object with angular momentum of  can be reduced to zero rotation by an angular ": null
+    },
+    {
+        "impulse": "impulse"
+    },
+    {
+        " of   or equivalently, by torque or work of  for one second, or energy of  for one second.      The ": null
+    },
+    {
+        "plane": "plane"
+    },
+    {
+        " perpendicular": "perpendicular"
+    },
+    {
+        " to the axis of angular momentum and passing through the center of mass , p. 97 is sometimes called the invariable plane, because the direction of the axis remains fixed if only the interactions of the bodies within the system, free from outside influences, are considered.  One such plane is the ": null
+    },
+    {
+        "invariable plane of the Solar System": "invariable plane"
+    },
+    {
+        ".          ": null
+    },
+    {
+        "Newtons second law of motion": "newtons laws of motionnewtons second law"
+    },
+    {
+        " can be expressed mathematically,   : \\mathbf m\\mathbf,   or ": null
+    },
+    {
+        "force": "force"
+    },
+    {
+        " mass": "mass"
+    },
+    {
+        " × ": null
+    },
+    {
+        "acceleration": "acceleration"
+    },
+    {
+        ". The rotational equivalent for point particles may be derived as follows:   : \\mathbf I\\boldsymbol   which means that the torque  is   : \\boldsymbol \\frac\\boldsymbol + I\\frac.     Because the moment of inertia is mr^2 , it follows that \\frac 2mr\\frac 2rp_ , and \\frac I\\frac + 2rp_\\boldsymbol, which, reduces to     : \\boldsymbol I\\boldsymbol + 2rp_\\boldsymbol.   This is the rotational analog of Newtons Second Law. Note that the torque is not necessarily proportional or parallel to the angular acceleration . The reason for this is that the moment of inertia of a particle can change with time, something that cannot occur for ordinary mass.             A rotational analog of ": null
+    },
+    {
+        "Newtons third law of motion": "newtons laws of motionnewtons third law"
+    },
+    {
+        " might be written, In a ": null
+    },
+    {
+        "closed system": "closed system"
+    },
+    {
+        ", no torque can be exerted on any matter without the exertion on some other matter of an equal and opposite torque. Hence, angular momentum can be exchanged between objects in a closed system, but total angular momentum before and after an exchange remains constant .      Seen another way, a rotational analogue of ": null
+    },
+    {
+        "Newtons first law of motion": "newtons laws of motionnewtons first law"
+    },
+    {
+        " might be written, A rigid body continues in a state of uniform rotation unless acted by an external influence.  Thus with no external influence to act upon it, the original angular momentum of the system remains constant.      The conservation of angular momentum is used in analyzing ": null
+    },
+    {
+        "central force motion": "classical central-force problem"
+    },
+    {
+        ". If the net force on some body is directed always toward some point, the center, then there is no torque on the body with respect to the center, as all of the force is directed along the ": null
+    },
+    {
+        "radius vector": "position"
+    },
+    {
+        ", and none is ": null
+    },
+    {
+        "perpendicular": "perpendicular"
+    },
+    {
+        " to the radius. Mathematically, torque \\boldsymbol \\mathbf \\times \\mathbf \\mathbf, because in this case \\mathbf and \\mathbf are parallel vectors. Therefore, the angular momentum of the body about the center is constant. This is the case with ": null
+    },
+    {
+        "gravitational attraction": "gravity"
+    },
+    {
+        " in the ": null
+    },
+    {
+        "orbits": "orbit"
+    },
+    {
+        "of ": null
+    },
+    {
+        "planets": "planet"
+    },
+    {
+        "and ": null
+    },
+    {
+        "satellite": "satellite"
+    },
+    {
+        "s, where the gravitational force is always directed toward the primary body and orbiting bodies conserve angular momentum by exchanging distance and velocity as they move about the primary. Central force motion is also used in the analysis of the ": null
+    },
+    {
+        "Bohr model": "bohr model"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "atom": "atom"
+    },
+    {
+        ".     For a planet, angular momentum is distributed between the spin of the planet and its revolution in its orbit, and these are often exchanged by various mechanisms. The conservation of angular momentum in the ": null
+    },
+    {
+        "Earth–Moon system": "lunar theory"
+    },
+    {
+        " results in the transfer of angular momentum from Earth to Moon, due to ": null
+    },
+    {
+        "tidal torque": "tidal acceleration"
+    },
+    {
+        " the Moon exerts on the Earth. This in turn results in the slowing down of the rotation rate of Earth, at about 65.7 nanoseconds per day,  +2.40 ms/century divided by 36525 days. and in gradual increase of the radius of Moons orbit, at about 3.82  centimeters per year.           The conservation of angular momentum explains the angular acceleration of an ": null
+    },
+    {
+        "ice skater": "ice skating"
+    },
+    {
+        " as she brings her arms and legs close to the vertical axis of rotation. By bringing part of the mass of her body closer to the axis, she decreases her bodys moment of inertia. Because angular momentum is the product of ": null
+    },
+    {
+        "moment of inertia": "moment of inertia"
+    },
+    {
+        " and ": null
+    },
+    {
+        "angular velocity": "angular velocity"
+    },
+    {
+        ", if the angular momentum remains constant , then the angular velocity of the skater must increase.     The same phenomenon results in extremely fast spin of compact stars  when they are formed out of much larger and slower rotating stars. Decrease in the size of an object n times results in increase of its angular velocity by the factor of n 2 .     Conservation is not always a full explanation for the dynamics of a system but is a key constraint. For example, a spinning ": null
+    },
+    {
+        "top": "top"
+    },
+    {
+        " is subject to gravitational torque making it lean over and change the angular momentum about the ": null
+    },
+    {
+        "nutation": "nutation"
+    },
+    {
+        " axis, but neglecting friction at the point of spinning contact, it has a conserved angular momentum about its spinning axis, and another about its ": null
+    },
+    {
+        "precession": "precession"
+    },
+    {
+        " axis. Also, in any ": null
+    },
+    {
+        "planetary system": "planetary system"
+    },
+    {
+        ", the planets, star, comets, and asteroids can all move in numerous complicated ways, but only so that the angular momentum of the system is conserved.     ": null
+    },
+    {
+        "Noethers theorem": "noethers theorem"
+    },
+    {
+        " states that every ": null
+    },
+    {
+        "conservation law": "conservation law"
+    },
+    {
+        " is associated with a ": null
+    },
+    {
+        "symmetry": "symmetry"
+    },
+    {
+        " of the underlying physics. The symmetry associated with conservation of angular momentum is ": null
+    },
+    {
+        "rotational invariance": "rotational invariance"
+    },
+    {
+        ". The fact that the physics of a system is unchanged if it is rotated by any angle about an axis implies that angular momentum is conserved.           In astrodynamics and ": null
+    },
+    {
+        "celestial mechanics": "celestial mechanics"
+    },
+    {
+        ", a massless  angular momentum is defined    : \\mathbf \\mathbf \\times \\mathbf,   called  specific angular momentum . Note that \\mathbf m\\mathbf. ": null
+    },
+    {
+        "Mass": "mass"
+    },
+    {
+        " is often unimportant in orbital mechanics calculations, because motion is defined by ": null
+    },
+    {
+        "gravity": "gravity"
+    },
+    {
+        ". The primary body of the system is often so much larger than any bodies in motion about it that the smaller bodies have a negligible gravitational effect on it; it is, in effect, stationary. All bodies are apparently attracted by its gravity in the same way, regardless of mass, and therefore all move approximately the same way under the same conditions.       For a continuous mass distribution with ": null
+    },
+    {
+        "density": "density"
+    },
+    {
+        " function ρ, a differential ": null
+    },
+    {
+        "volume element": "volume element"
+    },
+    {
+        " dV with ": null
+    },
+    {
+        "position vector": "position vector"
+    },
+    {
+        " r within the mass has a mass element dm ρdV. Therefore, the ": null
+    },
+    {
+        "infinitesimal": "infinitesimal"
+    },
+    {
+        " angular momentum of this element is:     : d\\mathbf \\mathbf\\times dm \\mathbf \\mathbf\\times \\rho dV \\mathbf dV \\mathbf\\times \\rho \\mathbf     and ": null
+    },
+    {
+        "integrating": "volume integral"
+    },
+    {
+        " this ": null
+    },
+    {
+        "differential": "differential"
+    },
+    {
+        " over the volume of the entire mass gives its total angular momentum:     : \\mathbf\\int_V dV \\mathbf\\times \\rho \\mathbf     In the derivation which follows, integrals similar to this can replace the sums for the case of continuous mass.                For a collection of particles in motion about an arbitrary origin, it is informative to develop the equation of angular momentum by resolving their motion into components about their own center of mass and about the origin. Given,   : m_i is the mass of particle i ,   : \\mathbf_i is the position vector of particle i vs the origin,   : \\mathbf_i is the velocity of particle i vs the origin,   : \\mathbf is the position vector of the center of mass vs the origin,   : \\mathbf is the velocity of the center of mass vs the origin,   : \\mathbf_i is the position vector of particle i vs the center of mass,   : \\mathbf_i is the velocity of particle i vs the center of mass,     The total mass of the particles is simply their sum,   : M\\sum_i m_i.     The position vector of the center of mass is defined by,    : M\\mathbf\\sum_i m_i \\mathbf_i.     By inspection,   : \\mathbf_i \\mathbf + \\mathbf_i and \\mathbf_i \\mathbf + \\mathbf_i.     The total angular momentum of the collection of particles is the sum of the angular momentum of each particle,        Expanding \\mathbf_i ,   : \\begin   \\mathbf & \\sum_i \\left \\\\   & \\sum_i \\left   \\end     Expanding \\mathbf_i ,   : \\begin   \\mathbf & \\sum_i \\left \\   & \\sum_i \\left \\   & \\sum_i \\mathbf \\times m_i\\mathbf + \\sum_i \\mathbf \\times m_i\\mathbf_i + \\sum_i \\mathbf_i \\times m_i\\mathbf + \\sum_i \\mathbf_i \\times m_i\\mathbf_i   \\end     It can be shown that ,        : \\sum_i m_i\\mathbf_i \\mathbf and \\sum_i m_i\\mathbf_i \\mathbf,   therefore the second and third terms vanish,   : \\mathbf \\sum_i \\mathbf \\times m_i\\mathbf + \\sum_i \\mathbf_i \\times m_i\\mathbf_i .     The first term can be rearranged,   : \\sum_i \\mathbf \\times m_i\\mathbf \\mathbf \\times \\sum_i m_i\\mathbf \\mathbf \\times M\\mathbf,     and total angular momentum for the collection of particles is finally,         The first term is the angular momentum of the center of mass relative to the origin. Similar to ": null
+    },
+    {
+        "Single particle": "angular momentumsingle particle"
+    },
+    {
+        ", below, it is the angular momentum of one particle of mass M at the center of mass moving with velocity V. The second term is the angular momentum of the particles moving relative to the center of mass, similar to ": null
+    },
+    {
+        "Fixed center of mass": "angular momentumfixed center of mass"
+    },
+    {
+        ", below. The result is general—the motion of the particles is not restricted to rotation or revolution about the origin or center of mass. The particles need not be individual masses, but can be elements of a continuous distribution, such as a solid body.     Rearranging equation  by vector identities, multiplying both terms by one , and grouping appropriately,     : \\begin   \\mathbf & M + \\sum_i \\left \\\\   & \\fracM\\left + \\sum_i \\left , \\\\   & R^2M \\left + \\sum_i \\left , \\\\   \\end     gives the total angular momentum of the system of particles in terms of ": null
+    },
+    {
+        "moment of inertia": "moment of inertia"
+    },
+    {
+        " I and ": null
+    },
+    {
+        "angular velocity": "angular velocity"
+    },
+    {
+        " \\boldsymbol ,              LRV\\omegannn32121232alignalignn + 1n + 11232ni\\hbarJ\\mathbfnPArrrrrr": null
+    },
+    {
+        " r": "th"
+    },
+    {
+        " v ⊥": "th"
+    },
+    {
+        " rmv ⊥": "th"
+    }
+]

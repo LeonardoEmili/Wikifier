@@ -1,0 +1,389 @@
+[
+    {
+        "An audio file format is a ": null
+    },
+    {
+        "file format": "file format"
+    },
+    {
+        " for storing ": null
+    },
+    {
+        "digital audio": "digital audio"
+    },
+    {
+        " data on a ": null
+    },
+    {
+        "computer": "computer"
+    },
+    {
+        " system. The bit layout of the audio data is called the ": null
+    },
+    {
+        "audio coding format": "audio coding format"
+    },
+    {
+        " and can be uncompressed, or ": null
+    },
+    {
+        "compressed": "audio compression"
+    },
+    {
+        " to reduce the file size, often using ": null
+    },
+    {
+        "lossy compression": "lossy compression"
+    },
+    {
+        ". The data can be a raw ": null
+    },
+    {
+        "bitstream": "bitstream"
+    },
+    {
+        " in an audio coding format, but it is usually embedded in a ": null
+    },
+    {
+        "container format": "container format"
+    },
+    {
+        " or an audio data format with defined storage layer.       It is important to distinguish between the ": null
+    },
+    {
+        "audio coding format": "audio coding format"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "container": "container format"
+    },
+    {
+        " containing the raw audio data, and an ": null
+    },
+    {
+        "audio codec": "audio codec"
+    },
+    {
+        ". A codec performs the encoding and decoding of the raw audio data while this encoded data is stored in a container file. Although most audio file formats support only one type of audio coding data , a multimedia container format  may support multiple types of audio and video data.     There are three major groups of audio file formats:     Uncompressed audio formats, such as ": null
+    },
+    {
+        "WAV": "wav"
+    },
+    {
+        ", ": null
+    },
+    {
+        "AIFF": "aiff"
+    },
+    {
+        ", ": null
+    },
+    {
+        "AU": "au file format"
+    },
+    {
+        " or ": null
+    },
+    {
+        "raw": "raw audio format"
+    },
+    {
+        " header-less ": null
+    },
+    {
+        "PCM": "pulse-code modulation"
+    },
+    {
+        ";   Formats with ": null
+    },
+    {
+        "lossless compression": "lossless compression"
+    },
+    {
+        ", such as ": null
+    },
+    {
+        "FLAC": "free lossless audio codec"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Monkeys Audio": "monkeys audio"
+    },
+    {
+        " , ": null
+    },
+    {
+        "WavPack": "wavpack"
+    },
+    {
+        " , ": null
+    },
+    {
+        "TTA": "tta"
+    },
+    {
+        ", ": null
+    },
+    {
+        "ATRAC": "atrac"
+    },
+    {
+        " Advanced Lossless, ": null
+    },
+    {
+        "ALAC": "apple lossless"
+    },
+    {
+        " , ": null
+    },
+    {
+        "MPEG-4 SLS": "mpeg-4 sls"
+    },
+    {
+        ", ": null
+    },
+    {
+        "MPEG-4 ALS": "mpeg-4 als"
+    },
+    {
+        ", ": null
+    },
+    {
+        "MPEG-4 DST": "mpeg-4 dst"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Windows Media Audio Lossless ": "windows media audiowindows media audio lossless"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Shorten": "shorten"
+    },
+    {
+        " .   Formats with ": null
+    },
+    {
+        "lossy": "lossy data compression"
+    },
+    {
+        " compression, such as ": null
+    },
+    {
+        "Opus": "opus"
+    },
+    {
+        ", ": null
+    },
+    {
+        "MP3": "mp3"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Vorbis": "vorbis"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Musepack": "musepack"
+    },
+    {
+        ", ": null
+    },
+    {
+        "AAC": "advanced audio coding"
+    },
+    {
+        ", ": null
+    },
+    {
+        "ATRAC": "atrac"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Windows Media Audio Lossy ": "windows media audiowindows media audio lossy"
+    },
+    {
+        ".          One major uncompressed audio format, ": null
+    },
+    {
+        "LPCM": "pulse-code modulation"
+    },
+    {
+        ", is the same variety of PCM as used in ": null
+    },
+    {
+        "Compact Disc Digital Audio": "compact disc digital audio"
+    },
+    {
+        " and is the format most commonly accepted by low level audio ": null
+    },
+    {
+        "APIs": "api"
+    },
+    {
+        "and ": null
+    },
+    {
+        "D/A converter": "digital-to-analog converter"
+    },
+    {
+        " hardware. Although LPCM can be stored on a computer as a ": null
+    },
+    {
+        "raw audio format": "raw audio format"
+    },
+    {
+        ", it is usually stored in a .wav file on ": null
+    },
+    {
+        "Windows": "microsoft windows"
+    },
+    {
+        " or in a .aiff file on ": null
+    },
+    {
+        "macOS": "macos"
+    },
+    {
+        ". The AIFF format is based on the ": null
+    },
+    {
+        "Interchange File Format": "interchange file format"
+    },
+    {
+        " , and the WAV format is based on the similar ": null
+    },
+    {
+        "Resource Interchange File Format": "riff"
+    },
+    {
+        " . WAV and AIFF are designed to store a wide variety of audio formats, lossless and lossy; they just add a small, ": null
+    },
+    {
+        "metadata": "metadata"
+    },
+    {
+        "-containing header before the audio data to declare the format of the audio data, such as LPCM with a particular ": null
+    },
+    {
+        "sample rate": "sampling"
+    },
+    {
+        ", ": null
+    },
+    {
+        "bit depth": "audio bit depth"
+    },
+    {
+        ", ": null
+    },
+    {
+        "endianness": "endianness"
+    },
+    {
+        " and number of ": null
+    },
+    {
+        "channels": "audio channel"
+    },
+    {
+        ". Since WAV and AIFF are widely supported and can store LPCM, they are suitable file formats for storing and archiving an original recording.     ": null
+    },
+    {
+        "BWF": "broadcast wave format"
+    },
+    {
+        " is a standard audio format created by the ": null
+    },
+    {
+        "European Broadcasting Union": "european broadcasting union"
+    },
+    {
+        " as a successor to WAV. Among other enhancements, BWF allows more robust ": null
+    },
+    {
+        "metadata": "metadata"
+    },
+    {
+        " to be stored in the file. See  European Broadcasting Union: Specification of the Broadcast Wave Format  . This is the primary recording format used in many professional audio workstations in the television and film industry. BWF files include a standardized ": null
+    },
+    {
+        "timestamp": "timestamp"
+    },
+    {
+        " reference which allows for easy synchronization with a separate picture element. Stand-alone, file based, multi-track recorders from AETA,  Sound Devices,  Zaxcom,  HHB Communications Ltd,  ": null
+    },
+    {
+        "Fostex": "fostex"
+    },
+    {
+        ", Nagra, Aaton,  and ": null
+    },
+    {
+        "TASCAM": "tascam"
+    },
+    {
+        " all use BWF as their preferred format.       A lossless compressed format stores data in less space without losing any information. The original, uncompressed data can be recreated from the compressed version.     Uncompressed audio formats encode both sound and silence with the same number of bits per unit of time. Encoding an uncompressed minute of absolute silence produces a file of the same size as encoding an uncompressed minute of music. In a lossless compressed format, however, the music would occupy a smaller file than an uncompressed format and the silence would take up almost no space at all.     Lossless compression formats include the common  ": null
+    },
+    {
+        "FLAC": "flac"
+    },
+    {
+        ", ": null
+    },
+    {
+        "WavPack": "wavpack"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Monkeys Audio": "monkeys audio"
+    },
+    {
+        ", ": null
+    },
+    {
+        "ALAC": "apple lossless"
+    },
+    {
+        " . They provide a compression ratio of about 2:1 . Development in lossless compression formats aims to reduce processing time while maintaining a good compression ratio.       Lossy compression enables even greater reductions in file size by removing some of the audio information and simplifying the data. This, of course, results in a reduction in audio quality, but a variety of techniques are used, mainly by exploiting ": null
+    },
+    {
+        "psychoacoustics": "psychoacoustics"
+    },
+    {
+        ", to remove the parts of the sound that have the least effect on perceived quality, and to minimize the amount of audible noise added during the process. The popular ": null
+    },
+    {
+        "MP3 format": "mp3"
+    },
+    {
+        " is probably the best-known example, but the ": null
+    },
+    {
+        "AAC format": "advanced audio coding"
+    },
+    {
+        " found on the iTunes Music Store is also common. Most formats offer a range of degrees of compression, generally measured in ": null
+    },
+    {
+        "bit rate": "bit rate"
+    },
+    {
+        ". The lower the rate, the smaller the file and the more significant the quality loss.            ": null
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "statistics": "statistics"
+    },
+    {
+        ", the likelihood principle is the proposition that, given a ": null
+    },
+    {
+        "statistical model": "statistical model"
+    },
+    {
+        ", all the evidence in a ": null
+    },
+    {
+        "sample": "sampling"
+    },
+    {
+        " relevant to model parameters is contained in the ": null
+    },
+    {
+        "likelihood function": "likelihood function"
+    },
+    {
+        ".     A likelihood function arises from a ": null
+    },
+    {
+        "probability density function": "probability density function"
+    },
+    {
+        " considered as a function of its distributional parameterization argument. For example, consider a model which gives the probability density function ƒ X  of observable ": null
+    },
+    {
+        "random variable": "random variable"
+    },
+    {
+        " X as a function of a parameter  θ. Then for a specific value x of X, the function \\mathcal L   ƒ X  is a likelihood function of  θ: it gives a measure of how likely any particular value of θ is, if we know that X has the value  x. The density function may be a density with respect to counting measure, i.e. a ": null
+    },
+    {
+        "probability mass function": "probability mass function"
+    },
+    {
+        ".     Two likelihood functions are equivalent if one is a scalar multiple of the other. The likelihood principle is this: all information from the data that is relevant to inferences about the value of the model parameters is in the equivalence class to which the likelihood function belongs. The strong likelihood principle applies this same criterion to cases such as sequential experiments where the sample of data that is available results from applying a ": null
+    },
+    {
+        "stopping rule": "stopping rule"
+    },
+    {
+        " to the observations earlier in the experiment. Dodge, Y. The Oxford Dictionary of Statistical Terms. OUP.          Suppose     X is the number of successes in twelve ": null
+    },
+    {
+        "independent": "statistical independence"
+    },
+    {
+        "Bernoulli trials": "bernoulli trial"
+    },
+    {
+        "with probability θ of success on each trial, and   Y is the number of independent Bernoulli trials needed to get three successes, again with probability θ of success on each trial.     Then the observation that X 3 induces the likelihood function     : \\mathcal L \\binom 3 \\theta^3^9 220\\theta^3^9,     while the observation that Y 12 induces the likelihood function     : \\mathcal L \\binom 2 \\theta^3^9 55\\theta^3^9.     The likelihood principle says that, as the data are the same in both cases, the inferences drawn about the value of θ should also be the same. In addition, all the inferential content in the data about the value of θ is contained in the two likelihoods, and is the same if they are proportional to one another. This is the case in the above example, reflecting the fact that the difference between observing X 3 and observing Y 12 lies not in the actual data, but merely in the ": null
+    },
+    {
+        "design of the experiment": "design of experiments"
+    },
+    {
+        ". Specifically, in one case, one has decided in advance to try twelve times; in the other, to keep trying until three successes are observed. The inference about θ should be the same, and this is reflected in the fact that the two likelihoods are proportional to each other.     This is not always the case, however. The use of ": null
+    },
+    {
+        "frequentist": "frequentist"
+    },
+    {
+        " methods involving ": null
+    },
+    {
+        "p-values": "p-values"
+    },
+    {
+        " leads to different inferences for the two cases above,  showing that the outcome of frequentist methods depends on the experimental procedure, and thus violates the likelihood principle.         A related concept is the law of likelihood, the notion that the extent to which the evidence supports one parameter value or hypothesis against another is equal to the ratio of their likelihoods, their ": null
+    },
+    {
+        "likelihood ratio": "likelihood ratio"
+    },
+    {
+        ". That is,   : \\Lambda   is the degree to which the observation x supports parameter value or hypothesis a against b. If this ratio is 1, the evidence is indifferent; if greater than 1, the evidence supports the value a against b; or if less, then vice versa.     In ": null
+    },
+    {
+        "Bayesian statistics": "bayesian statistics"
+    },
+    {
+        ", this ratio is known as the ": null
+    },
+    {
+        "Bayes factor": "bayes factor"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Bayes rule": "bayes rule"
+    },
+    {
+        " can be seen as the application of the law of likelihood to inference.     In ": null
+    },
+    {
+        "frequentist inference": "frequentist inference"
+    },
+    {
+        ", the likelihood ratio is used in the ": null
+    },
+    {
+        "likelihood-ratio test": "likelihood-ratio test"
+    },
+    {
+        ", but other non-likelihood tests are used as well. The ": null
+    },
+    {
+        "Neyman–Pearson lemma": "neyman–pearson lemma"
+    },
+    {
+        " states the likelihood-ratio test is the most ": null
+    },
+    {
+        "powerful": "statistical power"
+    },
+    {
+        " test for comparing two ": null
+    },
+    {
+        "simple hypotheses": "simple hypothesis"
+    },
+    {
+        " at a given ": null
+    },
+    {
+        "significance level": "significance level"
+    },
+    {
+        ", which gives a frequentist justification for the law of likelihood.     Combining the likelihood principle with the law of likelihood yields the consequence that the parameter value which maximizes the likelihood function is the value which is most strongly supported by the evidence. This is the basis for the widely used ": null
+    },
+    {
+        "method of maximum likelihood": "maximum likelihood"
+    },
+    {
+        ".         The likelihood principle was first identified by that name in print in 1962   ,   but arguments for the same principle, unnamed, and the use of the principle in applications goes back to the works of ": null
+    },
+    {
+        "R.A. Fisher": "ronald a. fisher"
+    },
+    {
+        " in the 1920s.   The law of likelihood was identified by that name by ": null
+    },
+    {
+        "I. Hacking": "ian hacking"
+    },
+    {
+        " .   More recently the likelihood principle as a general principle of inference has been championed by ": null
+    },
+    {
+        "A. W. F. Edwards": "a. w. f. edwards"
+    },
+    {
+        ". The likelihood principle has been applied to the ": null
+    },
+    {
+        "philosophy of science": "philosophy of science"
+    },
+    {
+        " by R. Royall. Royall, Richard Statistical Evidence: A likelihood paradigm. Chapman and Hall, Boca Raton.      ": null
+    },
+    {
+        "Birnbaum": "allan birnbaum"
+    },
+    {
+        " proved that the likelihood principle follows from two more primitive and seemingly reasonable principles, the  conditionality principle  and the  sufficiency principle . The conditionality principle says that if an experiment is chosen by a random process independent of the states of nature \\theta , then only the experiment actually performed is relevant to inferences about \\theta . The sufficiency principle says that if T is a ": null
+    },
+    {
+        "sufficient statistic": "sufficient statistic"
+    },
+    {
+        " for \\theta , and if in two experiments with data x_1 and x_2 we have TT , then the evidence about \\theta given by the two experiments is the same.       Some widely used methods of conventional statistics, for example many ": null
+    },
+    {
+        "significance test": "statistical hypothesis testing"
+    },
+    {
+        "s, are not consistent with the likelihood principle.     Let us briefly consider some of the arguments for and against the likelihood principle.         Birnbaums proof of the likelihood principle has been disputed by philosophers of science, including ": null
+    },
+    {
+        "Deborah Mayo": "deborah mayo"
+    },
+    {
+        " Mayo, D.  in Error and Inference: Recent Exchanges on Experimental Reasoning, Reliability and the Objectivity and Rationality of Science , Cambridge: Cambridge University Press: 305-314. Mayo, Deborah ,  ,  Statistical Science , 29: 227-266 . and statisticians including Michael Evans. Evans, Michael  On the other hand, a new proof of the likelihood principle has been provided by Greg Gandenberger. Gandenberger, Greg , A new proof of the likelihood principle ,  British Journal for the Philosophy of Science , 66: 475-503; .       Unrealized events play a role in some common statistical methods. For example, the result of a ": null
+    },
+    {
+        "significance test": "statistical hypothesis testing"
+    },
+    {
+        " depends on the ": null
+    },
+    {
+        "p-value": "p-value"
+    },
+    {
+        ", the probability of a result as extreme or more extreme than the observation, and that probability may depend on the design of the experiment. To the extent that the likelihood principle is accepted, such methods are therefore denied.     Some classical significance tests are not based on the likelihood. A commonly cited example is the ": null
+    },
+    {
+        "optional stopping": "optional stopping"
+    },
+    {
+        " problem. Suppose I tell you that I tossed a coin 12 times and in the process observed 3 heads. You might make some inference about the probability of heads and whether the coin was fair. Suppose now I tell that I tossed the coin until I observed 3 heads, and I tossed it 12 times. Will you now make some different inference?     The likelihood function is the same in both cases: it is proportional to   : p^3 ^9.     According to the likelihood principle, the inference should be the same in either case.     Suppose a number of scientists are assessing the probability of a certain outcome in experimental trials. Conventional wisdom suggests that if there is no bias towards success or failure then the success probability would be one half. Adam, a scientist, conducted 12 trials and obtains 3 successes and 9 failures. Then he left the lab.     Bill, a colleague in the same lab, continued Adams work and published Adams results, along with a significance test. He tested the ": null
+    },
+    {
+        "null hypothesis": "null hypothesis"
+    },
+    {
+        " that p, the success probability, is equal to a half, versus p ": null
+    }
+]

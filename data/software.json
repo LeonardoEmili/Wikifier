@@ -1,0 +1,1118 @@
+[
+    {
+        "              Computer software, or simply software, is a collection of ": null
+    },
+    {
+        "data": "data"
+    },
+    {
+        " or ": null
+    },
+    {
+        "computer": "computer"
+    },
+    {
+        " instructions that tell the computer how to work. This is in contrast to ": null
+    },
+    {
+        "physical hardware": "computer hardware"
+    },
+    {
+        ", from which the system is built and actually performs the work. In ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        " and ": null
+    },
+    {
+        "software engineering": "software engineering"
+    },
+    {
+        ", computer software is all ": null
+    },
+    {
+        "information": "information"
+    },
+    {
+        " processed by ": null
+    },
+    {
+        "computer system": "computer system"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "programs": "computer program"
+    },
+    {
+        "and ": null
+    },
+    {
+        "data": "data"
+    },
+    {
+        ". Computer software includes ": null
+    },
+    {
+        "computer program": "computer program"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "libraries": "library"
+    },
+    {
+        " and related non-executable ": null
+    },
+    {
+        "data": "data"
+    },
+    {
+        ", such as ": null
+    },
+    {
+        "online documentation": "software documentation"
+    },
+    {
+        " or ": null
+    },
+    {
+        "digital media": "digital media"
+    },
+    {
+        ". Computer hardware and software require each other and neither can be realistically used on its own.     At the lowest programming level, ": null
+    },
+    {
+        "executable code": "executable code"
+    },
+    {
+        " consists of ": null
+    },
+    {
+        "machine language": "machine code"
+    },
+    {
+        " instructions supported by an individual ": null
+    },
+    {
+        "processor": "microprocessor"
+    },
+    {
+        "—typically a ": null
+    },
+    {
+        "central processing unit": "central processing unit"
+    },
+    {
+        " or a ": null
+    },
+    {
+        "graphics processing unit": "graphics processing unit"
+    },
+    {
+        " . A machine language consists of groups of ": null
+    },
+    {
+        "binary values": "binary numbers"
+    },
+    {
+        " signifying ": null
+    },
+    {
+        "processor instructions": "instruction"
+    },
+    {
+        " that change the state of the computer from its preceding state. For example, an instruction may change the value stored in a particular storage location in the computer—an effect that is not directly observable to the user. An instruction ": null
+    },
+    {
+        "may also invoke": "system call"
+    },
+    {
+        " one of many ": null
+    },
+    {
+        "input or output operations": "input/output"
+    },
+    {
+        ", for example displaying some text on a computer screen; causing state changes which should be visible to the ": null
+    },
+    {
+        "user": "user"
+    },
+    {
+        ". The processor ": null
+    },
+    {
+        "executes": "instruction cycle"
+    },
+    {
+        " the instructions in the order they are provided, unless it is instructed to ": null
+    },
+    {
+        " jump to a different instruction": "branch instruction"
+    },
+    {
+        ", or is ": null
+    },
+    {
+        "interrupt": "interrupt"
+    },
+    {
+        "ed by the operating system. , most ": null
+    },
+    {
+        "personal computer": "personal computer"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "smartphone": "smartphone"
+    },
+    {
+        " devices and ": null
+    },
+    {
+        "servers": "server"
+    },
+    {
+        " have ": null
+    },
+    {
+        "processors with multiple execution units": "multi-core processor"
+    },
+    {
+        " or ": null
+    },
+    {
+        "multiple processors performing computation": "multiprocessing"
+    },
+    {
+        " together, and computing has become a much more ": null
+    },
+    {
+        "concurrent": "concurrent computing"
+    },
+    {
+        " activity than in the past.     The majority of software is written in ": null
+    },
+    {
+        "high-level programming language": "high-level programming language"
+    },
+    {
+        "s. They are easier and more efficient for programmers because they are closer to ": null
+    },
+    {
+        "natural languages": "natural language"
+    },
+    {
+        "than machine languages.  High-level languages are translated into machine language using a ": null
+    },
+    {
+        "compiler": "compiler"
+    },
+    {
+        " or an ": null
+    },
+    {
+        "interpreter": "interpreter"
+    },
+    {
+        " or a combination of the two. Software may also be written in a low-level ": null
+    },
+    {
+        "assembly language": "assembly language"
+    },
+    {
+        ", which has strong correspondence to the computers machine language instructions and is translated into machine language using an ": null
+    },
+    {
+        "assembler": "assembly language"
+    },
+    {
+        ".          An outline  for what would have been the first piece of software was written by ": null
+    },
+    {
+        "Ada Lovelace": "ada lovelace"
+    },
+    {
+        " in the 19th century, for the planned ": null
+    },
+    {
+        "Analytical Engine": "analytical engine"
+    },
+    {
+        ". She created ": null
+    },
+    {
+        "proofs": "mathematical proof"
+    },
+    {
+        " to show how the engine would calculate ": null
+    },
+    {
+        "Bernoulli Numbers": "bernoulli number"
+    },
+    {
+        ". Because of the proofs and the algorithm, she is considered the first computer programmer.       The first theory about software—prior to creation of computers as we know them today—was proposed by ": null
+    },
+    {
+        "Alan Turing": "alan turing"
+    },
+    {
+        " in his 1935 essay On Computable Numbers, with an Application to the Entscheidungsproblem .     This eventually led to the creation of the academic fields of ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        " and ": null
+    },
+    {
+        "software engineering": "software engineering"
+    },
+    {
+        "; Both fields study software and its creation. Computer science is the theoretical study of computer and software , whereas software engineering is the application of engineering and development of software.     However, prior to 1946, software was not yet the programs stored in the memory of stored-program digital computers, as we now understand it. The first electronic computing devices were instead rewired in order to reprogram them.     In 2000, Fred Shapiro, a librarian at the Yale Law School, published a letter revealing that ": null
+    },
+    {
+        "John Wilder Tukeys": "john wilder tukey"
+    },
+    {
+        "1958 paper The Teaching of Concrete Mathematics contained the earliest known usage of the term software found in a search of ": null
+    },
+    {
+        "JSTORs": "jstor"
+    },
+    {
+        "electronic archives, predating the ": null
+    },
+    {
+        "OEDs": "oed"
+    },
+    {
+        "citation by two years. This led many to credit Tukey with coining the term, particularly in obituaries published that same year, although Tukey never claimed credit for any such coinage. In 1995, Paul Niquette claimed he had originally coined the term in October 1953, although he could not find any documents supporting his claim. The earliest known publication of the term software in an engineering context was in August 1953 by Richard R. Carhart, in a ": null
+    },
+    {
+        "Rand Corporation": "rand corporation"
+    },
+    {
+        " Research Memorandum.               On virtually all computer platforms, software can be grouped into a few broad categories.          Based on the goal, computer software can be divided into:      Application software  which is software that uses the computer system to perform special functions or provide ": null
+    },
+    {
+        "entertainment functions": "video game"
+    },
+    {
+        " beyond the basic operation of the computer itself. There are many different types of application software, because the range of tasks that can be performed with a modern computer is so large—see ": null
+    },
+    {
+        "list of software": "list of software"
+    },
+    {
+        ".    System software  which is software for managing  computer hardware  behaviour, as to provide basic functionalities that are required by users, or for other software to run properly, if at all. System software is also designed for providing a platform for running application software,  and it includes the following:    Operating system s which are essential collections of software that manage resources and provides common services for other software that runs on top of them. ": null
+    },
+    {
+        "Supervisory program": "supervisory program"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "boot loader": "boot loader"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "shells": "shell"
+    },
+    {
+        " and ": null
+    },
+    {
+        "window systems": "window system"
+    },
+    {
+        "are core parts of operating systems. In practice, an operating system comes bundled with additional software so that a user can potentially do some work with a computer that only has one operating system.    Device driver s which operate or control a particular type of device that is attached to a computer. Each device needs at least one corresponding device driver; because a computer typically has at minimum at least one input device and at least one output device, a computer typically needs more than one device driver.    Utilities  which are computer ": null
+    },
+    {
+        "programs": "programs and features"
+    },
+    {
+        " designed to assist users in the maintenance and care of their computers.    Malicious software  or malware which is software that is developed to harm and disrupt computers. As such, malware is undesirable. Malware is closely associated with computer-related crimes, though some malicious programs may have been designed as ": null
+    },
+    {
+        "practical joke": "practical joke"
+    },
+    {
+        "s.       ": null
+    },
+    {
+        "Desktop applications": "desktop applications"
+    },
+    {
+        " such as ": null
+    },
+    {
+        "web browsers": "web browser"
+    },
+    {
+        "and ": null
+    },
+    {
+        "Microsoft Office": "microsoft office"
+    },
+    {
+        ", as well as ": null
+    },
+    {
+        "smartphone": "smartphone"
+    },
+    {
+        " and ": null
+    },
+    {
+        "tablet": "tablet computer"
+    },
+    {
+        " applications .    ": null
+    },
+    {
+        "JavaScript": "javascript"
+    },
+    {
+        " scripts are pieces of software traditionally embedded in ": null
+    },
+    {
+        "web pages": "web pages"
+    },
+    {
+        " that are run directly inside the ": null
+    },
+    {
+        "web browser": "web browser"
+    },
+    {
+        " when a web page is loaded without the need for a web browser plugin. Software written in other programming languages can also be run within the web browser if the software is either translated into JavaScript, or if a web browser plugin that supports that language is installed; the most common example of the latter is ": null
+    },
+    {
+        "ActionScript": "actionscript"
+    },
+    {
+        " scripts, which are supported by the ": null
+    },
+    {
+        "Adobe Flash": "adobe flash"
+    },
+    {
+        " plugin.   ": null
+    },
+    {
+        "Server software": "server software"
+    },
+    {
+        ", including:   ": null
+    },
+    {
+        "Web application": "web application"
+    },
+    {
+        "s, which usually run on the ": null
+    },
+    {
+        "web server": "web server"
+    },
+    {
+        " and output dynamically generated web pages to web browsers, using e.g. ": null
+    },
+    {
+        "PHP": "php"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Java": "java"
+    },
+    {
+        ", ": null
+    },
+    {
+        "ASP.NET": "asp.net"
+    },
+    {
+        ", or even ": null
+    },
+    {
+        "JavaScript that runs on the server": "node.js"
+    },
+    {
+        ". In modern times these commonly include some JavaScript to be run in the web browser as well, in which case they typically run partly on the server, partly in the web browser.   ": null
+    },
+    {
+        "Plugins": "plug-in"
+    },
+    {
+        " and extensions are software that extends or modifies the functionality of another piece of software, and require that software be used in order to function;   ": null
+    },
+    {
+        "Embedded software": "embedded software"
+    },
+    {
+        " resides as ": null
+    },
+    {
+        "firmware": "firmware"
+    },
+    {
+        " within ": null
+    },
+    {
+        "embedded system": "embedded system"
+    },
+    {
+        "s, devices dedicated to a single use or a few uses such as ": null
+    },
+    {
+        "cars": "car"
+    },
+    {
+        "and ": null
+    },
+    {
+        "televisions": "television"
+    },
+    {
+        " .  In the embedded system context there is sometimes no clear distinction between the system software and the application software. However, some embedded systems run ": null
+    },
+    {
+        "embedded operating system": "embedded operating system"
+    },
+    {
+        "s, and these systems do retain the distinction between system software and application software .   ": null
+    },
+    {
+        "Microcode": "microcode"
+    },
+    {
+        " is a special, relatively obscure type of embedded software which tells the processor itself how to execute machine code, so it is actually a lower level than machine code. It is typically proprietary to the processor manufacturer, and any necessary correctional microcode software updates are supplied by them to users . Thus an ordinary programmer would not expect to ever have to deal with it.          Programming tools are also software in the form of programs or applications that ": null
+    },
+    {
+        "software developers": "software developer"
+    },
+    {
+        "  use to create, ": null
+    },
+    {
+        "debug": "debugging"
+    },
+    {
+        ", ": null
+    },
+    {
+        "maintain": "software maintenance"
+    },
+    {
+        " , or otherwise ": null
+    },
+    {
+        "support": "technical support"
+    },
+    {
+        " software.     Software is written in one or more programming languages; there are many programming languages in existence, and each has at least one implementation, each of which consists of its own set of programming tools. These tools may be relatively self-contained programs such as ": null
+    },
+    {
+        "compiler": "compiler"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "debugger": "debugger"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "interpreters": "interpreter"
+    },
+    {
+        ", ": null
+    },
+    {
+        "linkers": "linker"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "text editor": "text editor"
+    },
+    {
+        "s, that can be combined together to accomplish a task; or they may form an ": null
+    },
+    {
+        "integrated development environment": "integrated development environment"
+    },
+    {
+        " , which combines much or all of the functionality of such self-contained tools. IDEs may do this by either invoking the relevant individual tools or by re-implementing their functionality in a new way. An IDE can make it easier to do specific tasks, such as searching in files in a particular project. Many programming language implementations provide the option of using both individual tools or an IDE.            Users often see things differently from programmers. People who use modern general purpose computers  usually see three layers of software performing a variety of tasks: platform, application, and user software.     Platform software The ": null
+    },
+    {
+        "Platform": "platform"
+    },
+    {
+        " includes the ": null
+    },
+    {
+        "firmware": "firmware"
+    },
+    {
+        ", ": null
+    },
+    {
+        "device driver": "device driver"
+    },
+    {
+        "s, an ": null
+    },
+    {
+        "operating system": "operating system"
+    },
+    {
+        ", and typically a ": null
+    },
+    {
+        "graphical user interface": "graphical user interface"
+    },
+    {
+        " which, in total, allow a user to interact with the computer and its ": null
+    },
+    {
+        "peripherals": "peripheral"
+    },
+    {
+        ". Platform software often comes bundled with the computer. On a ": null
+    },
+    {
+        "PC": "personal computer"
+    },
+    {
+        " one will usually have the ability to change the platform software.   Application software ": null
+    },
+    {
+        "Application software": "application software"
+    },
+    {
+        " or Applications are what most people think of when they think of software. Typical examples include office suites and video games. ": null
+    },
+    {
+        "Application software": "application software"
+    },
+    {
+        " is often purchased separately from computer hardware. Sometimes applications are bundled with the computer, but that does not change the fact that they run as independent applications. Applications are usually independent programs from the operating system, though they are often tailored for specific platforms. Most users think of compilers, databases, and other system software as applications.   User-written software ": null
+    },
+    {
+        "End-user development": "end-user development"
+    },
+    {
+        " tailors systems to meet users specific needs. User software include spreadsheet templates and ": null
+    },
+    {
+        "word processor": "word processor"
+    },
+    {
+        " templates. Even email filters are a kind of user software. Users create this software themselves and often overlook how important it is. Depending on how competently the user-written software has been integrated into default application packages, many users may not be aware of the distinction between the original packages, and what has been added by co-workers.          Computer software has to be loaded into the ": null
+    },
+    {
+        "computers storage": "computer storage"
+    },
+    {
+        " . Once the software has loaded, the computer is able to execute the software. This involves passing ": null
+    },
+    {
+        "instructions": "instruction"
+    },
+    {
+        " from the ": null
+    },
+    {
+        "application software": "application software"
+    },
+    {
+        ", through the system software, to the hardware which ultimately receives the instruction as ": null
+    },
+    {
+        "machine code": "machine code"
+    },
+    {
+        ". Each instruction causes the computer to carry out an operation—moving ": null
+    },
+    {
+        "data": "data"
+    },
+    {
+        ", carrying out a ": null
+    },
+    {
+        "computation": "computation"
+    },
+    {
+        ", or altering the ": null
+    },
+    {
+        "control flow": "control flow"
+    },
+    {
+        " of instructions.     Data movement is typically from one place in memory to another. Sometimes it involves moving data between memory and registers which enable high-speed data access in the CPU. Moving data, especially large amounts of it, can be costly. So, this is sometimes avoided by using pointers to data instead. Computations include simple operations such as incrementing the value of a variable data element. More complex computations may involve many operations and data elements together.           Software quality is very important, especially for ": null
+    },
+    {
+        "commercial": "commercial software"
+    },
+    {
+        " and system software like ": null
+    },
+    {
+        "Microsoft Office": "microsoft office"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Microsoft Windows": "microsoft windows"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Linux": "linux"
+    },
+    {
+        ". If software is faulty , it can delete a persons work, crash the computer and do other unexpected things. Faults and errors are called ": null
+    },
+    {
+        "bugs": "software bug"
+    },
+    {
+        " which are often discovered during alpha and beta testing. Software is often also a victim to what is known as ": null
+    },
+    {
+        "software aging": "software aging"
+    },
+    {
+        ", the progressive performance degradation resulting from a combination of unseen bugs.     Many bugs are discovered and eliminated through ": null
+    },
+    {
+        "software testing": "software testing"
+    },
+    {
+        ". However, software testing rarely—if ever—eliminates every bug; some programmers say that every program has at least one more bug .  In the ": null
+    },
+    {
+        "waterfall": "waterfall model"
+    },
+    {
+        " method of software development, separate testing teams are typically employed, but in newer approaches, collectively termed ": null
+    },
+    {
+        "agile software development": "agile software development"
+    },
+    {
+        ", developers often do all their own testing, and demonstrate the software to users/clients regularly to obtain feedback. Software can be tested through ": null
+    },
+    {
+        "unit testing": "unit testing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "regression testing": "regression testing"
+    },
+    {
+        " and other methods, which are done manually, or most commonly, automatically, since the amount of code to be tested can be quite large. For instance, ": null
+    },
+    {
+        "NASA": "nasa"
+    },
+    {
+        " has extremely rigorous software testing procedures for many operating systems and communication functions. Many NASA-based operations interact and identify each other through command programs. This enables many people who work at NASA to check and evaluate functional systems overall. Programs containing command software enable hardware engineering and system operations to function much easier together.          The softwares license gives the user the right to use the software in the licensed environment, and in the case of ": null
+    },
+    {
+        "free software license": "free software license"
+    },
+    {
+        "s, also grants other rights such as the right to make copies.     ": null
+    },
+    {
+        "Proprietary software": "proprietary software"
+    },
+    {
+        " can be divided into two types:     ": null
+    },
+    {
+        "freeware": "freeware"
+    },
+    {
+        ", which includes the category of free trial software or ": null
+    },
+    {
+        "freemium": "freemium"
+    },
+    {
+        " software . As the name suggests, freeware can be used free, although in the case of free trials or freemium software, this is sometimes only true for a limited period of time or with limited functionality.   software available for a fee, often inaccurately termed ": null
+    },
+    {
+        "commercial software": "commercial software"
+    },
+    {
+        " , which can only be legally used on purchase of a license.     ": null
+    },
+    {
+        "Open source software": "open source software"
+    },
+    {
+        ", on the other hand, comes with a ": null
+    },
+    {
+        "free software license": "free software license"
+    },
+    {
+        ", granting the recipient the rights to modify and redistribute the software.          Software patents, like other types of patents, are theoretically supposed to give an inventor an exclusive, time-limited license for a detailed idea on how to implement a piece of software, or a component of a piece of software. Ideas for useful things that software could do, and user requirements, are not supposed to be patentable, and concrete implementations are not supposed to be patentable either—the latter are already covered by copyright, generally automatically. So software patents are supposed to cover the middle area, between requirements and concrete implementation. In some countries, a requirement for the claimed invention to have an effect on the physical world may also be part of the requirements for a software patent to be held valid—although since all useful software has effects on the physical world, this requirement may be open to debate. Meanwhile, American copyright law was applied to various aspects of the writing of the software code. Gerardo Con Díaz, The Text in the Machine: American Copyright Law and the Many Natures of Software, 1974–1978,” Technology and Culture 57 , 753–79.     Software patents are controversial in the software industry with many people holding different views about them. One of the sources of controversy is that the aforementioned split between initial ideas and patent does not seem to be honored in practice by patent lawyers—for example the patent for ": null
+    },
+    {
+        "Aspect-Oriented Programming": "aspect-oriented programming"
+    },
+    {
+        " , which purported to claim rights over any programming tool implementing the idea of AOP, howsoever implemented. Another source of controversy is the effect on innovation, with many distinguished experts and companies arguing that software is such a fast-moving field that software patents merely create vast additional litigation costs and risks, and actually retard innovation. In the case of debates about software patents outside the United States, the argument has been made that large American corporations and patent lawyers are likely to be the primary beneficiaries of allowing or continue to allow software patents.          Design and implementation of software varies depending on the complexity of the software. For instance, the design and creation of ": null
+    },
+    {
+        "Microsoft Word": "microsoft word"
+    },
+    {
+        " took much more time than designing and developing ": null
+    },
+    {
+        "Microsoft Notepad": "microsoft notepad"
+    },
+    {
+        " because the latter has much more basic functionality.     Software is usually designed and created in ": null
+    },
+    {
+        "integrated development environments": "integrated development environment"
+    },
+    {
+        " like ": null
+    },
+    {
+        "Eclipse": "eclipse"
+    },
+    {
+        ", ": null
+    },
+    {
+        "IntelliJ": "intellij idea"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Microsoft Visual Studio": "microsoft visual studio"
+    },
+    {
+        " that can simplify the process and ": null
+    },
+    {
+        "compile": "compiler"
+    },
+    {
+        " the software . As noted in a different section, software is usually created on top of existing software and the ": null
+    },
+    {
+        "application programming interface": "application programming interface"
+    },
+    {
+        " that the underlying software provides like ": null
+    },
+    {
+        "GTK+": "gtk+"
+    },
+    {
+        ", JavaBeans or ": null
+    },
+    {
+        "Swing": "swing"
+    },
+    {
+        ". Libraries can be categorized by their purpose. For instance, the ": null
+    },
+    {
+        "Spring Framework": "spring framework"
+    },
+    {
+        " is used for implementing ": null
+    },
+    {
+        "enterprise application": "enterprise application"
+    },
+    {
+        "s, the ": null
+    },
+    {
+        "Windows Forms": "windows forms"
+    },
+    {
+        " library is used for designing graphical user interface applications like ": null
+    },
+    {
+        "Microsoft Word": "microsoft word"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Windows Communication Foundation": "windows communication foundation"
+    },
+    {
+        " is used for designing ": null
+    },
+    {
+        "web service": "web service"
+    },
+    {
+        "s. When a program is designed, it relies upon the API. For instance, a Microsoft Windows desktop application might call API functions in the ": null
+    },
+    {
+        ".NET": ".net framework"
+    },
+    {
+        " Windows Forms library like Form1.Close and Form1.Show  to close or open the application. Without these APIs, the programmer needs to write these functionalities entirely themselves. Companies like ": null
+    },
+    {
+        "Oracle": "oracle corporation"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Microsoft": "microsoft"
+    },
+    {
+        " provide their own APIs so that many applications are written using their ": null
+    },
+    {
+        "software libraries": "library"
+    },
+    {
+        " that usually have numerous APIs in them.     ": null
+    },
+    {
+        "Data structures": "data structure"
+    },
+    {
+        "such as ": null
+    },
+    {
+        "hash table": "hash table"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "arrays": "array data type"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "binary tree": "binary tree"
+    },
+    {
+        "s, and ": null
+    },
+    {
+        "algorithms": "algorithm"
+    },
+    {
+        "such as ": null
+    },
+    {
+        "quicksort": "quicksort"
+    },
+    {
+        ", can be useful for creating software.     Computer software has special economic characteristics that make its design, creation, and distribution different from most other economic goods.       A person who creates software is called a ": null
+    },
+    {
+        "programmer": "programmer"
+    },
+    {
+        ", ": null
+    },
+    {
+        "software engineer": "software engineer"
+    },
+    {
+        " or ": null
+    },
+    {
+        "software developer": "software developer"
+    },
+    {
+        ", terms that all have a similar meaning. More informal terms for programmer also exist such as coder and hacker although use of the latter word may cause confusion, because it is more often used to mean ": null
+    },
+    {
+        "someone who illegally breaks into computer systems": "hacker"
+    },
+    {
+        ".          A great variety of software companies and programmers in the world comprise a software industry. Software can be quite a profitable industry: ": null
+    },
+    {
+        "Bill Gates": "bill gates"
+    },
+    {
+        ", the co-founder of ": null
+    },
+    {
+        "Microsoft": "microsoft"
+    },
+    {
+        " was the richest person in the world in 2009, largely due to his ownership of a significant number of shares in Microsoft, the company responsible for ": null
+    },
+    {
+        "Microsoft Windows": "microsoft windows"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Microsoft Office": "microsoft office"
+    },
+    {
+        " software products - both market leaders in their respective product categories.     Non-profit software organizations include the ": null
+    },
+    {
+        "Free Software Foundation": "free software foundation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "GNU Project": "gnu project"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Mozilla Foundation": "mozilla foundation"
+    },
+    {
+        ". Software standard organizations like the ": null
+    },
+    {
+        "W3C": "w3c"
+    },
+    {
+        ", ": null
+    },
+    {
+        "IETF": "ietf"
+    },
+    {
+        " develop recommended software standards such as ": null
+    },
+    {
+        "XML": "xml"
+    },
+    {
+        ", ": null
+    },
+    {
+        "HTTP": "http"
+    },
+    {
+        " and ": null
+    },
+    {
+        "HTML": "html"
+    },
+    {
+        ", so that software can interoperate through these standards.     Other well-known large software companies include ": null
+    },
+    {
+        "Google": "google"
+    },
+    {
+        ", ": null
+    },
+    {
+        "IBM": "ibm"
+    },
+    {
+        ", ": null
+    },
+    {
+        "TCS": "tata consultancy services"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Infosys": "infosys"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Wipro": "wipro"
+    },
+    {
+        ", ": null
+    },
+    {
+        "HCL Technologies": "hcl technologies"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Oracle": "oracle corporation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Novell": "novell"
+    },
+    {
+        ", ": null
+    },
+    {
+        "SAP": "sap ag"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Symantec": "nortonlifelock"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Adobe Systems": "adobe systems"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Sidetrade": "sidetrade"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Corel": "corel"
+    }
+]

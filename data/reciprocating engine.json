@@ -1,0 +1,590 @@
+[
+    {
+        "     A reciprocating engine, also often known as a piston engine, is typically a ": null
+    },
+    {
+        "heat engine": "heat engine"
+    },
+    {
+        "  that uses one or more ": null
+    },
+    {
+        "reciprocating": "reciprocating motion"
+    },
+    {
+        "pistons": "piston"
+    },
+    {
+        "to convert ": null
+    },
+    {
+        "pressure": "pressure"
+    },
+    {
+        " into a ": null
+    },
+    {
+        "rotating motion": "circular motion"
+    },
+    {
+        ". This article describes the common features of all types. The main types are: the ": null
+    },
+    {
+        "internal combustion engine": "internal combustion engine"
+    },
+    {
+        ", used extensively in motor vehicles; the ": null
+    },
+    {
+        "steam engine": "steam engine"
+    },
+    {
+        ", the mainstay of the ": null
+    },
+    {
+        "Industrial Revolution": "industrial revolution"
+    },
+    {
+        "; and the niche application ": null
+    },
+    {
+        "Stirling engine": "stirling engine"
+    },
+    {
+        ". Internal combustion engines are further classified in two ways: either a ": null
+    },
+    {
+        "spark-ignition engine": "spark-ignition engine"
+    },
+    {
+        ", where the spark plug initiates the combustion; or a ": null
+    },
+    {
+        "compression-ignition engine": "compression-ignition engine"
+    },
+    {
+        ", where the air within the cylinder is compressed, ": null
+    },
+    {
+        "thus heating it": "adiabatic process"
+    },
+    {
+        ", so that the heated air ignites fuel that is injected ": null
+    },
+    {
+        "then": "diesel engine"
+    },
+    {
+        " or ": null
+    },
+    {
+        "earlier": "hot bulb engine"
+    },
+    {
+        ". Thermodynamics: An Engineering Approach by Yunus A. Cengal and Michael A. Boles       There may be one or more pistons. Each piston is inside a ": null
+    },
+    {
+        "cylinder": "cylinder"
+    },
+    {
+        ", into which a gas is introduced, either already under pressure , or heated inside the cylinder either by ": null
+    },
+    {
+        "ignition": "ignition system"
+    },
+    {
+        " of a fuel air mixture  or by contact with a hot heat exchanger in the cylinder . The hot gases expand, pushing the piston to the bottom of the cylinder. This position is also known as the Bottom Dead Center , or where the piston forms the largest volume in the cylinder. The piston is returned to the cylinder top  by a ": null
+    },
+    {
+        "flywheel": "flywheel"
+    },
+    {
+        ", the power from other pistons connected to the same shaft or  by the same process acting on the other side of the piston. This is where the piston forms the smallest volume in the cylinder. In most types the expanded or ": null
+    },
+    {
+        "exhausted": "exhaust gas"
+    },
+    {
+        " gases are removed from the cylinder by this ": null
+    },
+    {
+        "stroke": "stroke"
+    },
+    {
+        ". The exception is the ": null
+    },
+    {
+        "Stirling engine": "stirling engine"
+    },
+    {
+        ", which repeatedly heats and cools the same sealed quantity of gas. The stroke is simply the distance between the TDC and the BDC, or the greatest distance that the piston can travel in one direction.     In some designs the piston may be powered in both directions in the cylinder, in which case it is said to be ": null
+    },
+    {
+        "double-acting": "single- and double-acting cylinderdouble-acting"
+    },
+    {
+        ".          In most types, the linear movement of the piston is converted to a rotating movement via a ": null
+    },
+    {
+        "connecting rod": "connecting rod"
+    },
+    {
+        " and a ": null
+    },
+    {
+        "crankshaft": "crankshaft"
+    },
+    {
+        " or by a ": null
+    },
+    {
+        "swashplate": "swashplate"
+    },
+    {
+        " or other suitable mechanism. A ": null
+    },
+    {
+        "flywheel": "flywheel"
+    },
+    {
+        " is often used to ensure smooth rotation or to store energy to carry the engine through an un-powered part of the cycle. The more cylinders a reciprocating engine has, generally, the more vibration-free it can operate. The power of a reciprocating engine is proportional to the volume of the combined pistons displacement.     A seal must be made between the sliding ": null
+    },
+    {
+        "piston": "piston"
+    },
+    {
+        " and the walls of the ": null
+    },
+    {
+        "cylinder": "cylinder"
+    },
+    {
+        " so that the high pressure gas above the piston does not leak past it and reduce the efficiency of the engine. This seal is usually provided by one or more ": null
+    },
+    {
+        "piston ring": "piston ring"
+    },
+    {
+        "s. These are rings made of a hard metal, and are sprung into a circular groove in the piston head. The rings fit closely in the groove and press lightly against the cylinder wall to form a seal, and more heavily when higher combustion pressure moves around to their inner surfaces.     It is common to classify such engines by the number and alignment of cylinders and total volume of ": null
+    },
+    {
+        "displacement": "engine displacement"
+    },
+    {
+        " of gas by the pistons moving in the cylinders usually measured in cubic centimetres or ": null
+    },
+    {
+        "litres": "litre"
+    },
+    {
+        " or . For example, for internal combustion engines, single and two-cylinder designs are common in smaller vehicles such as ": null
+    },
+    {
+        "motorcycles": "motorcycles"
+    },
+    {
+        ", while ": null
+    },
+    {
+        "automobiles": "automobile"
+    },
+    {
+        "typically have between four and eight, and ": null
+    },
+    {
+        "locomotive": "locomotive"
+    },
+    {
+        "s, and ": null
+    },
+    {
+        "ships": "ships"
+    },
+    {
+        " may have a dozen cylinders or more. Cylinder capacities may range from 10  cm³ or less in model engines up to thousands of liters in ships engines. Hanlon, Mike.  GizMag. Accessed: 14 April 2017.     The ": null
+    },
+    {
+        "compression ratio": "compression ratio"
+    },
+    {
+        " affects the performance in most types of reciprocating engine. It is the ratio between the volume of the cylinder, when the piston is at the bottom of its stroke, and the volume when the piston is at the top of its stroke.     The ": null
+    },
+    {
+        "bore/stroke ratio": "stroke ratio"
+    },
+    {
+        " is the ratio of the diameter of the piston, or bore , to the length of travel within the cylinder, or stroke . If this is around 1 the engine is said to be square , if it is greater than 1, i.e. the bore is larger than the stroke, it is oversquare . If it is less than 1, i.e. the stroke is larger than the bore, it is undersquare .     Cylinders may be aligned ": null
+    },
+    {
+        "in line": "straight engine"
+    },
+    {
+        ", in a ": null
+    },
+    {
+        "V configuration": "v engine"
+    },
+    {
+        ", ": null
+    },
+    {
+        "horizontally opposite": "flat engine"
+    },
+    {
+        " each other, or ": null
+    },
+    {
+        "radially": "radial engine"
+    },
+    {
+        " around the crankshaft. ": null
+    },
+    {
+        "Opposed-piston engines": "opposed-piston engine"
+    },
+    {
+        "put two pistons working at opposite ends of the same cylinder and this has been extended into triangular arrangements such as the ": null
+    },
+    {
+        "Napier Deltic": "napier deltic"
+    },
+    {
+        ". Some designs have set the cylinders in motion around the shaft, such as the ": null
+    },
+    {
+        "Rotary engine": "rotary engine"
+    },
+    {
+        ".          In steam engines and internal combustion engines, valves are required to allow the entry and exit of gases at the correct times in the pistons cycle. These are worked by cams, eccentrics or cranks driven by the shaft of the engine. Early designs used the ": null
+    },
+    {
+        "D slide valve": "d slide valve"
+    },
+    {
+        " but this has been largely superseded by ": null
+    },
+    {
+        "Piston valve": "piston valve"
+    },
+    {
+        " or ": null
+    },
+    {
+        "Poppet valve": "poppet valve"
+    },
+    {
+        " designs. In steam engines the point in the piston cycle at which the steam inlet valve closes is called the ": null
+    },
+    {
+        "cutoff": "cutoff"
+    },
+    {
+        " and this can often be controlled to adjust the ": null
+    },
+    {
+        "torque": "torque"
+    },
+    {
+        " supplied by the engine and improve efficiency. In some steam engines, the action of the valves can be replaced by an ": null
+    },
+    {
+        "oscillating cylinder": "oscillating cylinder"
+    },
+    {
+        ".     Internal combustion engines operate through a sequence of strokes that admit and remove gases to and from the cylinder. These operations are repeated cyclically and an engine is said to be ": null
+    },
+    {
+        "2-stroke": "two-stroke cycle"
+    },
+    {
+        ", ": null
+    },
+    {
+        "4-stroke": "four-stroke cycle"
+    },
+    {
+        " or ": null
+    },
+    {
+        "6-stroke": "six stroke engine"
+    },
+    {
+        " depending on the number of strokes it takes to complete a cycle.     In some steam engines, the cylinders may be of varying size with the smallest bore cylinder working the highest pressure steam. This is then fed through one or more, increasingly larger bore cylinders successively, to extract power from the steam at increasingly lower pressures. These engines are called ": null
+    },
+    {
+        "Compound engine": "compound engine"
+    },
+    {
+        "s.     Aside from looking at the power that the engine can produce, the Mean Effective Pressure , can also be used in comparing the power output and performance of reciprocating engines of the same size. The mean effective pressure is the fictitious pressure which would produce the same amount of net work that was produced during the power stroke cycle. This is shown by:   : W net MEP × Piston Area × Stroke MEP × Displacement Volume     and therefore:   : MEP W net / Displacement Volume     Whichever engine with the larger value of MEP produces more net work per cycle and performs more efficiently.            An early known example of rotary to reciprocating motion is the ": null
+    },
+    {
+        "crank": "crank"
+    },
+    {
+        " mechanism. The earliest hand-operated cranks appeared in ": null
+    },
+    {
+        "China": "china"
+    },
+    {
+        " during the ": null
+    },
+    {
+        "Han Dynasty": "han dynasty"
+    },
+    {
+        " . Needham, Joseph. . Science and Civilization in China: Volume 4, Part 2, Mechanical Engineering. Taipei: Caves Books, Ltd. Pages 118–119. Several ": null
+    },
+    {
+        "saw mills": "saw mill"
+    },
+    {
+        "in ": null
+    },
+    {
+        "Roman Asia": "roman asia"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Byzantine Syria": "byzantine syria"
+    },
+    {
+        " during the 3rd–6th centuries AD had a crank and ": null
+    },
+    {
+        "connecting rod": "connecting rod"
+    },
+    {
+        " mechanism which converted the rotary motion of a ": null
+    },
+    {
+        "water wheel": "water wheel"
+    },
+    {
+        " into the linear movement of saw blades.  In 1206, Arab engineer ": null
+    },
+    {
+        "Al-Jazari": "al-jazari"
+    },
+    {
+        " invented a ": null
+    },
+    {
+        "crankshaft": "crankshaft"
+    },
+    {
+        ".      The reciprocating engine developed in Europe during the 18th century, first as the ": null
+    },
+    {
+        "atmospheric engine": "atmospheric engine"
+    },
+    {
+        " then later as the ": null
+    },
+    {
+        "steam engine": "steam engine"
+    },
+    {
+        ". These were followed by the ": null
+    },
+    {
+        "Stirling engine": "stirling engine"
+    },
+    {
+        " and ": null
+    },
+    {
+        "internal combustion engine": "internal combustion engine"
+    },
+    {
+        " in the 19th century. Today the most common form of reciprocating engine is the internal combustion engine running on the combustion of ": null
+    },
+    {
+        "petrol": "petrol"
+    },
+    {
+        ", ": null
+    },
+    {
+        "diesel": "diesel fuel"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Liquefied petroleum gas": "liquefied petroleum gas"
+    },
+    {
+        " or ": null
+    },
+    {
+        "compressed natural gas": "compressed natural gas"
+    },
+    {
+        " and used to power ": null
+    },
+    {
+        "motor vehicles": "motor vehicle"
+    },
+    {
+        "and ": null
+    },
+    {
+        "engine power plant": "engine power plant"
+    },
+    {
+        "s.     One notable reciprocating engine from the World War II Era was the 28-cylinder,  ": null
+    },
+    {
+        "Pratt & Whitney R-4360": "pratt  &  whitney r-4360"
+    },
+    {
+        " Wasp Major radial engine. It powered the last generation of large piston-engined planes before jet engines and turboprops took over from 1944 onward. It had a total engine capacity of , and a high power-to-weight ratio.     The largest reciprocating engine in production at present, but not the largest ever built, is the ": null
+    },
+    {
+        "Wärtsilä-Sulzer RTA96-C": "wärtsilä-sulzer rta96-c"
+    },
+    {
+        " turbocharged two-stroke diesel engine of 2006 built by ": null
+    },
+    {
+        "Wärtsilä": "wärtsilä"
+    },
+    {
+        ". It is used to power the largest modern container ships such as the ": null
+    },
+    {
+        "Emma Mærsk": "emma mærsk"
+    },
+    {
+        ". It is five stories high ,  long, and weighs over  in its largest 14 cylinders version producing more than 84.42  MW . Each cylinder has a capacity of , making a total capacity of  for the largest versions.       For piston engines, an engines capacity is the ": null
+    },
+    {
+        "engine displacement": "engine displacement"
+    },
+    {
+        ", in other words the volume swept by all the pistons of an engine in a single movement. It is generally measured in ": null
+    },
+    {
+        "litres": "litre"
+    },
+    {
+        " or cubic inches  for larger engines, and cubic centimetres for smaller engines. All else being equal, engines with greater capacities are more powerful and consumption of fuel increases accordingly , although power and fuel consumption are affected by many factors outside of engine displacement.       Reciprocating engines can be characterized by their ": null
+    },
+    {
+        "specific power": "power density"
+    },
+    {
+        ", which is typically given in kilowatts per litre of ": null
+    },
+    {
+        "engine displacement": "engine displacement"
+    },
+    {
+        " . The result offers an approximation of the peak power output of an engine. This is not to be confused with ": null
+    },
+    {
+        "fuel efficiency": "fuel efficiency"
+    },
+    {
+        ", since high efficiency often requires a lean fuel-air ratio, and thus lower power density. A modern high-performance car engine makes in excess of 75  kW/L .       Reciprocating engines that are powered by compressed air, steam or other hot gases are still used in some applications such as to drive many modern torpedoes or as pollution-free motive power. Most steam-driven applications use ": null
+    },
+    {
+        "steam turbine": "steam turbine"
+    },
+    {
+        "s, which are more efficient than piston engines.     The French-designed FlowAIR vehicles use compressed air stored in a cylinder to drive a reciprocating engine in a local-pollution-free urban vehicle.  manufactured by MDI SA. Accessed February 19, 2015     Torpedoes may use a working gas produced by ": null
+    },
+    {
+        "high test peroxide": "high test peroxide"
+    },
+    {
+        " or ": null
+    },
+    {
+        "Otto fuel II": "otto fuel ii"
+    },
+    {
+        ", which pressurise without combustion. The  ": null
+    },
+    {
+        "Mark 46 torpedo": "mark 46 torpedo"
+    },
+    {
+        ", for example, can travel  underwater at  fuelled by Otto fuel without ": null
+    },
+    {
+        "oxidant": "oxidant"
+    },
+    {
+        ".       ": null
+    },
+    {
+        "Quantum heat engines": "quantum heat engines"
+    },
+    {
+        " are devices that generate power from heat that flows from a hot to a cold reservoir.   The mechanism of operation of the engine can be described by the laws of ": null
+    },
+    {
+        "quantum mechanics": "quantum mechanics"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Quantum refrigerators": "quantum refrigerators"
+    },
+    {
+        " are devices that consume power with the purpose to pump heat from a cold to a hot reservoir.     In a reciprocating quantum heat engine, the working medium is a quantum system such as spin systems or a harmonic oscillator.   The ": null
+    },
+    {
+        "Carnot cycle": "carnot cycle"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Otto cycle": "otto cycle"
+    },
+    {
+        " are the ones most studied.  Irreversible performance of a quantum harmonic heat engine, Rezek and Kosloff, New J. Phys. 8 83   The quantum versions obey the laws of ": null
+    },
+    {
+        "thermodynamics": "thermodynamics"
+    },
+    {
+        ". In addition, these models can justify the assumptions of   ": null
+    },
+    {
+        "endoreversible thermodynamics": "endoreversible thermodynamics"
+    },
+    {
+        ".   A theoretical study has shown that it is possible and practical to build a reciprocating engine that is composed of a single oscillating atom. This is an area for future research and could have applications in ": null
+    },
+    {
+        "nanotechnology": "nanotechnology"
+    },
+    {
+        ".  Physorg, November 30, 2012 by Lisa Zyga. Accessed 01-12-12       There are a large number of unusual varieties of piston engines that have various claimed advantages, many of which see little if any current use:   ": null
+    },
+    {
+        "Free-piston engine": "free-piston engine"
+    },
+    {
+        " Opposed-piston engine": "opposed-piston engine"
+    },
+    {
+        " Swing-piston engine": "swing-piston engine"
+    },
+    {
+        " IRIS engine": "iris engine"
+    },
+    {
+        " Bourke engine": "bourke engine"
+    },
+    {
+        " Thermo-magnetic motor": "thermo-magnetic motor"
+    }
+]

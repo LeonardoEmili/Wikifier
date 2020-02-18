@@ -1,0 +1,131 @@
+[
+    {
+        "   The Au file format is a simple ": null
+    },
+    {
+        "audio file format": "audio file format"
+    },
+    {
+        " introduced by ": null
+    },
+    {
+        "Sun Microsystems": "sun microsystems"
+    },
+    {
+        ". The format was common on ": null
+    },
+    {
+        "NeXT": "next"
+    },
+    {
+        " systems and on early Web pages. Originally it was headerless, being simply 8-bit ": null
+    },
+    {
+        "μ-law": "mu-law"
+    },
+    {
+        "-encoded data at an 8000  Hz sample rate. Hardware from other vendors often used sample rates as high as 8192  Hz, often integer multiples of video clock signal frequencies. Newer files have a header that consists of six ": null
+    },
+    {
+        "unsigned": "signedness"
+    },
+    {
+        " 32-bit": "32-bit"
+    },
+    {
+        " words, an optional information chunk and then the data .     Although the format now supports many ": null
+    },
+    {
+        "audio encoding": "digital audio"
+    },
+    {
+        " formats, it remains associated with the ": null
+    },
+    {
+        "μ-law": "mu-law"
+    },
+    {
+        " logarithmic encoding. This encoding was native to the ": null
+    },
+    {
+        "SPARCstation 1": "sparcstation 1"
+    },
+    {
+        " hardware, where ": null
+    },
+    {
+        "SunOS": "sunos"
+    },
+    {
+        " exposed the encoding to application programs through the /dev/audio interface. This encoding and interface became a ": null
+    },
+    {
+        "de facto": "de facto"
+    },
+    {
+        " standard for ": null
+    },
+    {
+        "Unix": "unix"
+    },
+    {
+        " sound.       All fields are stored in ": null
+    },
+    {
+        "big-endian": "big-endian"
+    },
+    {
+        " format, including the sample data.           The type of encoding depends on the value of the encoding field . Formats 2 through 7 are uncompressed linear ": null
+    },
+    {
+        "PCM": "pulse-code modulation"
+    },
+    {
+        ", therefore technically ": null
+    },
+    {
+        "lossless": "lossless"
+    },
+    {
+        " . Formats 1 and 27 are ": null
+    },
+    {
+        "μ-law": "μ-law algorithm"
+    },
+    {
+        " and ": null
+    },
+    {
+        "A-law": "a-law"
+    },
+    {
+        ", respectively, both ": null
+    },
+    {
+        "companding": "companding"
+    },
+    {
+        " logarithmic representations of PCM, and arguably lossy as they pack what would otherwise be almost 16 bits of dynamic range into 8 bits of encoded data, even though this is achieved by an altered dynamic response and no data is actually thrown away . Formats 23 through 26 are ADPCM, which is an early form of ": null
+    },
+    {
+        "lossy compression": "lossy compression"
+    },
+    {
+        ", usually but not always with 4 bits of encoded data per audio sample . Several of the others are ": null
+    },
+    {
+        "DSP": "digital signal processing"
+    },
+    {
+        " commands or data, designed to be processed by the ": null
+    },
+    {
+        "NeXT": "next"
+    },
+    {
+        " Music Kit": "music kit"
+    },
+    {
+        " software.     Note: PCM formats are encoded as signed data .     Following the header structure is a variable-length annotation field. The contents of this field are currently undefined, except that its length must be a multiple of eight bytes and it must be terminated with at least one null byte. The audio data segment begins on an eight-byte boundary immediately following the annotation field. Audio data is encoded in the format identified by the file header. The current implementation supports only a single audio data segment per file. The variable-length annotation field is currently ignored by most audio applications.                            ": null
+    }
+]

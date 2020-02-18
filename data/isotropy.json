@@ -1,0 +1,434 @@
+[
+    {
+        "   Isotropy is uniformity in all orientations; it is derived from the Greek isos and tropos . Precise definitions depend on the subject area. Exceptions, or inequalities, are frequently indicated by the prefix an, hence  anisotropy . Anisotropy is also used to describe situations where properties vary systematically, dependent on direction. ": null
+    },
+    {
+        "Isotropic radiation": "isotropic radiation"
+    },
+    {
+        " has the same intensity regardless of the direction of ": null
+    },
+    {
+        "measurement": "measurement"
+    },
+    {
+        ", and an isotropic field exerts the same action regardless of how the test ": null
+    },
+    {
+        "particle": "elementary particle"
+    },
+    {
+        " is oriented.       Within ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", isotropy has a few different meanings:   ; ": null
+    },
+    {
+        "Isotropic manifold": "isotropic manifold"
+    },
+    {
+        "s: A ": null
+    },
+    {
+        "manifold": "manifold"
+    },
+    {
+        " is isotropic if the ": null
+    },
+    {
+        "geometry": "geometry"
+    },
+    {
+        " on the manifold is the same regardless of direction. A similar concept is ": null
+    },
+    {
+        "homogeneity": "homogeneous space"
+    },
+    {
+        ".   ; ": null
+    },
+    {
+        "Isotropic quadratic form": "isotropic quadratic form"
+    },
+    {
+        ": A ": null
+    },
+    {
+        "quadratic form": "quadratic form"
+    },
+    {
+        " q is said to be isotropic if there is a non-zero vector v such that ; such a v is an ": null
+    },
+    {
+        "isotropic vector": "isotropic vector"
+    },
+    {
+        " or null vector. In complex geometry, a line through the origin in the direction of an isotropic vector is an ": null
+    },
+    {
+        "isotropic line": "isotropic line"
+    },
+    {
+        ".   ; ": null
+    },
+    {
+        "Isotropic coordinates": "isotropic coordinates"
+    },
+    {
+        ": Isotropic coordinates are coordinates on an isotropic chart for ": null
+    },
+    {
+        "Lorentzian manifolds": "lorentzian manifolds"
+    },
+    {
+        ".   ; ": null
+    },
+    {
+        "Isotropy group": "isotropy group"
+    },
+    {
+        ": An isotropy group is the group of ": null
+    },
+    {
+        "isomorphisms": "isomorphism"
+    },
+    {
+        "from any ": null
+    },
+    {
+        "object": "object"
+    },
+    {
+        " to itself in a ": null
+    },
+    {
+        "groupoid": "groupoid"
+    },
+    {
+        ". A ": null
+    },
+    {
+        "groupoid": "groupoid"
+    },
+    {
+        " \\mathcal G is a ": null
+    },
+    {
+        "category": "category"
+    },
+    {
+        " where all ": null
+    },
+    {
+        "morphisms": "morphism"
+    },
+    {
+        "are ": null
+    },
+    {
+        "isomorphism": "isomorphism"
+    },
+    {
+        "s, i.e., invertible. If G \\in \\mathcal G is any object, then \\mathcal G denotes its ": null
+    },
+    {
+        "isotropy group": "isotropy group"
+    },
+    {
+        ": the group of isomorphisms from G to G . An ": null
+    },
+    {
+        "isotropy representation": "isotropy representation"
+    },
+    {
+        " is a representation of an isotropy group.   ; ": null
+    },
+    {
+        "Isotropic position": "isotropic position"
+    },
+    {
+        ": A ": null
+    },
+    {
+        "probability distribution": "probability distribution"
+    },
+    {
+        " over a ": null
+    },
+    {
+        "vector space": "vector space"
+    },
+    {
+        " is in isotropic position if its ": null
+    },
+    {
+        "covariance matrix": "covariance matrix"
+    },
+    {
+        " is the ": null
+    },
+    {
+        "identity": "identity matrix"
+    },
+    {
+        ".       ; ": null
+    },
+    {
+        "Quantum mechanics": "quantum mechanics"
+    },
+    {
+        " or ": null
+    },
+    {
+        "particle physics": "particle physics"
+    },
+    {
+        ": When a spinless particle decays, the resulting decay distribution must be isotropic in the rest frame of the decaying particle regardless of the detailed physics of the decay. This follows from ": null
+    },
+    {
+        "rotational invariance": "rotational invariance"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "Hamiltonian": "hamiltonian mechanics"
+    },
+    {
+        ", which in turn is guaranteed for a spherically symmetric potential.   :": null
+    },
+    {
+        "Kinetic theory of gases": "kinetic theory of gases"
+    },
+    {
+        " is also an example of isotropy. It is assumed that the molecules move in random directions and as a consequence, there is an equal probability of a molecule moving in any direction. Thus when there are many molecules in the gas, with high probability there will be very similar numbers moving in one direction as any other, demonstrating approximate isotropy.     ; ": null
+    },
+    {
+        "Fluid dynamics": "fluid dynamics"
+    },
+    {
+        ": Fluid flow is isotropic if there is no directional preference . An example of anisotropy is in flows with a background density as gravity works in only one direction. The apparent surface separating two differing isotropic fluids would be referred to as an isotrope.     ; ": null
+    },
+    {
+        "Thermal expansion": "thermal expansion"
+    },
+    {
+        ": A solid is said to be isotropic if the expansion of solid is equal in all directions when thermal energy is provided to the solid.     ; ": null
+    },
+    {
+        "Electromagnetics": "electromagnetism"
+    },
+    {
+        ": An isotropic medium is one such that the permittivity, ε, and permeability, μ, of the medium are uniform in all directions of the medium, the simplest instance being free space.     ; ": null
+    },
+    {
+        "Optics": "optics"
+    },
+    {
+        ": Optical isotropy means having the same optical properties in all directions. The individual ": null
+    },
+    {
+        "reflectance": "reflectance"
+    },
+    {
+        " or ": null
+    },
+    {
+        "transmittance": "transmittance"
+    },
+    {
+        " of the domains is averaged if the macroscopic reflectance or transmittance is to be calculated. This can be verified simply by investigating, e.g., a ": null
+    },
+    {
+        "polycrystalline": "polycrystalline"
+    },
+    {
+        " material under a polarizing microscope having the polarizers crossed: If the crystallites are larger than the resolution limit, they will be visible.     ; ": null
+    },
+    {
+        "Cosmology": "cosmology"
+    },
+    {
+        ":The ": null
+    },
+    {
+        "Big Bang": "big bang"
+    },
+    {
+        " theory of the evolution of the observable universe assumes that space is isotropic.  It also assumes that space is homogeneous. These two assumptions together are known as the ": null
+    },
+    {
+        "cosmological principle": "cosmological principle"
+    },
+    {
+        ". As of 2006, the observations suggest that, on distance scales much larger than galaxies, galaxy clusters are ": null
+    },
+    {
+        " Great ": "great wall"
+    },
+    {
+        " features, but small compared to so-called ": null
+    },
+    {
+        "multiverse": "multiverse"
+    },
+    {
+        " scenarios. Here homogeneous means that the universe is the same everywhere and isotropic implies that there is no preferred direction.          In the study of ": null
+    },
+    {
+        "mechanical properties of materials": "list of materials properties"
+    },
+    {
+        ", isotropic means having identical values of a property in all directions. This definition is also used in ": null
+    },
+    {
+        "geology": "geology"
+    },
+    {
+        " and ": null
+    },
+    {
+        "mineralogy": "mineralogy"
+    },
+    {
+        ". Glass and metals are examples of isotropic materials.  Common anisotropic materials include ": null
+    },
+    {
+        "wood": "wood"
+    },
+    {
+        ", because its material properties are different parallel and perpendicular to the grain, and layered rocks such as ": null
+    },
+    {
+        "slate": "slate"
+    },
+    {
+        ".     Isotropic materials are useful since they are easier to shape, and their behavior is easier to predict. Anisotropic materials can be tailored to the forces an object is expected to experience. For example, the fibers in ": null
+    },
+    {
+        "carbon fiber": "carbon fiber"
+    },
+    {
+        " materials and ": null
+    },
+    {
+        "rebars": "rebar"
+    },
+    {
+        "in ": null
+    },
+    {
+        "reinforced concrete": "reinforced concrete"
+    },
+    {
+        " are oriented to withstand tension.       In industrial processes, such as etching steps, isotropic means that the process proceeds at the same rate, regardless of direction. Simple chemical reaction and removal of a substrate by an acid, a solvent or a reactive gas is often very close to isotropic. Conversely, anisotropic means that the attack rate of the substrate is higher in a certain direction. Anisotropic etch processes, where vertical etch-rate is high, but lateral etch-rate is very small are essential processes in ": null
+    },
+    {
+        "microfabrication": "microfabrication"
+    },
+    {
+        " of ": null
+    },
+    {
+        "integrated circuits": "integrated circuits"
+    },
+    {
+        " and ": null
+    },
+    {
+        "MEMS": "microelectromechanical systems"
+    },
+    {
+        " devices.       An ": null
+    },
+    {
+        "isotropic antenna": "isotropic antenna"
+    },
+    {
+        " is an idealized ": null
+    },
+    {
+        "radiating element": "radiator"
+    },
+    {
+        " used as a ": null
+    },
+    {
+        "reference": "reference"
+    },
+    {
+        "; an ": null
+    },
+    {
+        "antenna": "antenna"
+    },
+    {
+        " that broadcasts power equally  in all directions. The ": null
+    },
+    {
+        "gain": "antenna gain"
+    },
+    {
+        " of an arbitrary antenna is usually reported in ": null
+    },
+    {
+        "decibels": "decibel"
+    },
+    {
+        "relative to an isotropic antenna, and is expressed as dBi or dB.       ; ": null
+    },
+    {
+        "Cell biology": "cell biology"
+    },
+    {
+        ": If the properties of the ": null
+    },
+    {
+        "cell wall": "cell"
+    },
+    {
+        " are more or less the same everywhere, it is said to be isotropic. The interior of the cell is anisotropic due to intracellular ": null
+    },
+    {
+        "organelle": "organelle"
+    },
+    {
+        "s.     ; ": null
+    },
+    {
+        "Physiology": "physiology"
+    },
+    {
+        ": In skeletal muscle cells , the term ": null
+    },
+    {
+        "isotropic": "isotropic bands"
+    },
+    {
+        " refers to the light bands  that contribute to the striated pattern of the cells.     ; ": null
+    },
+    {
+        "Pharmacology": "pharmacology"
+    },
+    {
+        ": While it is well established that the skin provides an ideal site for the administration of local and systemic drugs, it presents a formidable barrier to the permeation of most substances. Landman L. “The Epidermal Permeability Barrier.”  Anatomy and Embryology  1988; 178:1-13  Most recently, ": null
+    },
+    {
+        "isotropic formulations": "isotropic formulations"
+    },
+    {
+        " have been used extensively in dermatology for drug delivery. Gregoriadis G. “Lipsomes in Drug Delivery.” Harwood Academic Publishers, 1993;        ; ": null
+    },
+    {
+        "Economics": "economics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "geography": "geography"
+    }
+]

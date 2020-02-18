@@ -1,0 +1,158 @@
+[
+    {
+        "   A refreshable braille display or braille terminal is an electro-mechanical device for displaying ": null
+    },
+    {
+        "braille": "braille"
+    },
+    {
+        " characters, usually by means of round-tipped pins raised through holes in a flat surface. ": null
+    },
+    {
+        "Visually impaired": "visual impairment"
+    },
+    {
+        " computer": "computer"
+    },
+    {
+        " users who cannot use a ": null
+    },
+    {
+        "computer monitor": "computer display"
+    },
+    {
+        " can use it to read text output. ": null
+    },
+    {
+        "Deafblind": "deafblindness"
+    },
+    {
+        " computer users may also use refreshable braille displays.     ": null
+    },
+    {
+        "Speech synthesizers": "speech synthesizer"
+    },
+    {
+        "are also commonly used for the same task, and a blind user may switch between the two systems or use both at the same time depending on circumstances.          The base of a refreshable braille display often integrates a pure braille keyboard. Similar to the ": null
+    },
+    {
+        "Perkins Brailler": "perkins brailler"
+    },
+    {
+        ", the input is performed by two sets of four keys on each side, while output is via a refreshable braille display consisting of a row of electro-mechanical ": null
+    },
+    {
+        "character cells": "braille cell"
+    },
+    {
+        ", each of which can raise or lower a combination of eight round-tipped pins. Other variants exist that use a conventional ": null
+    },
+    {
+        "QWERTY": "qwerty"
+    },
+    {
+        " keyboard for input and braille pins for output, as well as input-only and output-only devices.     The mechanism which raises the dots uses the ": null
+    },
+    {
+        "piezo effect": "piezo effect"
+    },
+    {
+        " of some crystals, whereby they expand when a voltage is applied to them. Such a crystal is connected to a lever, which in turn raises the dot. There has to be a crystal for each dot of the display, i.e. eight per character.     Because of the complexity of producing a reliable display that will cope with daily wear and tear, these displays are expensive. Usually, only 40 or 80 ": null
+    },
+    {
+        "braille cells": "braille cell"
+    },
+    {
+        "are displayed. Models with between 18 and 40 cells exist in some notetaker devices.     On some models the position of the ": null
+    },
+    {
+        "cursor": "cursor"
+    },
+    {
+        " is represented by vibrating the dots, and some models have a switch associated with each cell to move the cursor to that cell directly.       The software that controls the display is called a ": null
+    },
+    {
+        "screen reader": "screen reader"
+    },
+    {
+        ". It gathers the content of the screen from the ": null
+    },
+    {
+        "operating system": "operating system"
+    },
+    {
+        ", converts it into braille characters and sends it to the display.     Screen readers for graphical operating systems are especially complex, because graphical elements like windows or slidebars have to be interpreted and described in text form. Modern operating systems usually have an ": null
+    },
+    {
+        "Application Programming Interface": "application programming interface"
+    },
+    {
+        " to help screen readers obtain this information, such as ": null
+    },
+    {
+        "UI Automation": "ui automation"
+    },
+    {
+        " for ": null
+    },
+    {
+        "Microsoft Windows": "microsoft windows"
+    },
+    {
+        ", ": null
+    },
+    {
+        "VoiceOver": "voiceover"
+    },
+    {
+        " for ": null
+    },
+    {
+        "macOS": "macos"
+    },
+    {
+        " and ": null
+    },
+    {
+        "iOS": "ios"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "AT-SPI": "at-spi"
+    },
+    {
+        " for ": null
+    },
+    {
+        "GNOME": "gnome"
+    },
+    {
+        ".       A rotating-wheel Braille display was developed in 2000 by the ": null
+    },
+    {
+        "National Institute of Standards and Technology": "national institute of standards and technology"
+    },
+    {
+        " and another at the ": null
+    },
+    {
+        "Leuven University": "katholieke universiteit leuven"
+    },
+    {
+        " in Belgium.  Both wheels are still in the process of commercialization. In these units, braille dots are put on the edge of a spinning ": null
+    },
+    {
+        "wheel": "wheel"
+    },
+    {
+        ", which allows the user to read continuously with a stationary finger while the wheel spins at a selected speed. The braille dots are set in a simple scanning-style fashion as the dots on the wheel spin past a stationary ": null
+    },
+    {
+        "actuator": "actuator"
+    },
+    {
+        " that sets the braille characters. As a result, manufacturing complexity is greatly reduced and rotating-wheel braille displays, when in actual production, should be less expensive than traditional braille displays.       ": null
+    }
+]

@@ -1,0 +1,311 @@
+[
+    {
+        "              In ": null
+    },
+    {
+        "logic": "logic"
+    },
+    {
+        " and ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", or is the ": null
+    },
+    {
+        "truth-functional": "truth function"
+    },
+    {
+        " operator of  disjunction, also known as alternation; the or of a set of operands is true ": null
+    },
+    {
+        "if and only if": "if and only if"
+    },
+    {
+        " one or more of its operands is true. The ": null
+    },
+    {
+        "logical connective": "logical connective"
+    },
+    {
+        " that represents this operator is typically written as ∨ or +.     A \\lor B is true if A is true, or if B is true, or if both A and B are true.     In logic, or by itself means the inclusive or, distinguished from an ": null
+    },
+    {
+        "exclusive or": "exclusive or"
+    },
+    {
+        ", which is false when both of its arguments are true, while an or is true in that case.     An operand of a disjunction is called a disjunct.     Related concepts in other fields are:   In ": null
+    },
+    {
+        "natural language": "natural language"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "coordinating conjunction": "grammatical conjunctioncoordinating conjunctions"
+    },
+    {
+        " or .   In programming languages, the ": null
+    },
+    {
+        "short-circuit or": "short-circuit evaluation"
+    },
+    {
+        " control structure": "control structure"
+    },
+    {
+        ".   In ": null
+    },
+    {
+        "set theory": "set theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "union": "union"
+    },
+    {
+        ".   In ": null
+    },
+    {
+        "predicate logic": "predicate logic"
+    },
+    {
+        ", ": null
+    },
+    {
+        "existential quantification": "existential quantification"
+    },
+    {
+        ".       Or is usually expressed with an infix operator: in mathematics and logic, ∨; in electronics, +; and in most programming languages,  ,  , or or. In ": null
+    },
+    {
+        "Jan Łukasiewiczs": "jan łukasiewicz"
+    },
+    {
+        " prefix notation for logic": "polish notationpolish notation for logic"
+    },
+    {
+        ", the operator is A, for Polish alternatywa . ": null
+    },
+    {
+        "Józef Maria Bocheński": "józef maria bocheński"
+    },
+    {
+        " , A Précis of Mathematical Logic, translated by Otto Bird from the French and German editions, Dordrecht, North Holland: D. Reidel, passim.       Logical disjunction is an ": null
+    },
+    {
+        "operation": "logical operation"
+    },
+    {
+        " on two ": null
+    },
+    {
+        "logical value": "logical value"
+    },
+    {
+        "s, typically the values of two ": null
+    },
+    {
+        "proposition": "proposition"
+    },
+    {
+        "s, that has a value of false if and only if both of its operands are false. More generally, a disjunction is a logical formula that can have one or more ": null
+    },
+    {
+        "literals": "literal"
+    },
+    {
+        "separated only by ors. A single literal is often considered to be a degenerate disjunction.     The disjunctive ": null
+    },
+    {
+        "identity": "identity element"
+    },
+    {
+        " is false, which is to say that the or of an expression with false has the same value as the original expression. In keeping with the concept of ": null
+    },
+    {
+        "vacuous truth": "vacuous truth"
+    },
+    {
+        ", when disjunction is defined as an operator or function of arbitrary ": null
+    },
+    {
+        "arity": "arity"
+    },
+    {
+        ", the empty disjunction is generally defined as false.         The ": null
+    },
+    {
+        "truth table": "truth table"
+    },
+    {
+        " of A \\lor B :              The following properties apply to disjunction:     ": null
+    },
+    {
+        "associativity": "associativity"
+    },
+    {
+        ": a \\lor \\equiv \\lor c   ": null
+    },
+    {
+        "commutativity": "commutativity"
+    },
+    {
+        ": a \\lor b \\equiv b \\lor a   ": null
+    },
+    {
+        "distributivity": "distributivity"
+    },
+    {
+        ": \\equiv   ::: \\equiv   ::: \\equiv     ": null
+    },
+    {
+        "idempotency": "idempotency"
+    },
+    {
+        ": a \\lor a \\equiv a   ": null
+    },
+    {
+        "monotonicity": "monotonicity"
+    },
+    {
+        ": \\rightarrow   ::: \\rightarrow     truth-preserving: The interpretation under which all variables are assigned a ": null
+    },
+    {
+        "truth value": "truth value"
+    },
+    {
+        " of true produces a truth value of true as a result of disjunction.   falsehood-preserving: The interpretation under which all variables are assigned a ": null
+    },
+    {
+        "truth value": "truth value"
+    },
+    {
+        " of false produces a truth value of false as a result of disjunction.       The mathematical symbol for logical disjunction varies in the literature. In addition to the word or , and the formula Apq , the symbol \\lor , deriving from the Latin word  vel  is commonly used for disjunction. For example: A \\lor B   is read as A or B   . Such a disjunction is false if both A and B are false. In all other cases it is true.     All of the following are disjunctions:   : A \\lor B   : \\neg A \\lor B   : A \\lor \\neg B \\lor \\neg C \\lor D \\lor \\neg E.     The corresponding operation in set theory is the ": null
+    },
+    {
+        "set-theoretic union": "union"
+    },
+    {
+        ".          ": null
+    },
+    {
+        "Operators": "operator"
+    },
+    {
+        " corresponding to logical disjunction exist in most ": null
+    },
+    {
+        "programming language": "programming language"
+    },
+    {
+        "s.       Disjunction is often used for bitwise operations. Examples:   0 or 0 0   0 or 1 1   1 or 0 1   1 or 1 1   1010 or 1100 1110     The or operator can be used to set bits in a ": null
+    },
+    {
+        "bit field": "bit field"
+    },
+    {
+        " to 1, by or -ing the field with a constant field with the relevant bits set to 1. For example, x x | 0b00000001 will force the final bit to 1 while leaving other bits unchanged.       Many languages distinguish between bitwise and logical disjunction by providing two distinct operators; in languages following C, bitwise disjunction is performed with the single pipe and logical disjunction with the double pipe operators.     Logical disjunction is usually ": null
+    },
+    {
+        "short-circuited": "short-circuit evaluation"
+    },
+    {
+        "; that is, if the first operand evaluates to true then the second operand is not evaluated. The logical disjunction operator thus usually constitutes a ": null
+    },
+    {
+        "sequence point": "sequence point"
+    },
+    {
+        ".        In a parallel language, it is possible to short-circuit both sides: they are evaluated in parallel,   and if one terminates with value true, the other is interrupted. This operator is thus called the parallel or.     Although in most languages the type of a logical disjunction expression is boolean and thus can only have the value true or false , in some  the logical disjunction operator returns one of its operands: the first operand if it evaluates to a true value, and the second operand otherwise.       The ": null
+    },
+    {
+        "Curry–Howard correspondence": "curry–howard correspondence"
+    },
+    {
+        " relates a ": null
+    },
+    {
+        "constructivist": "constructivism"
+    },
+    {
+        " form of disjunction to ": null
+    },
+    {
+        "tagged union": "tagged union"
+    },
+    {
+        " types.       The ": null
+    },
+    {
+        "membership": "element"
+    },
+    {
+        " of an element of a ": null
+    },
+    {
+        "union set": "union"
+    },
+    {
+        " in ": null
+    },
+    {
+        "set theory": "set theory"
+    },
+    {
+        " is defined in terms of a logical disjunction: x ∈ A ∪ B if and only if  ∨ . Because of this, logical disjunction satisfies many of the same identities as set-theoretic union, such as associativity, commutativity, distributivity, and ": null
+    },
+    {
+        "de Morgans laws": "de morgans laws"
+    },
+    {
+        ", identifying ": null
+    },
+    {
+        "logical conjunction": "logical conjunction"
+    },
+    {
+        " with ": null
+    },
+    {
+        "set intersection": "set intersection"
+    },
+    {
+        ", ": null
+    },
+    {
+        "logical negation": "logical negation"
+    },
+    {
+        " with ": null
+    },
+    {
+        "set complement": "set complement"
+    },
+    {
+        ".       As with other notions formalized in ": null
+    },
+    {
+        "mathematical logic": "mathematical logic"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "meaning": "meaning"
+    },
+    {
+        " of the natural-language ": null
+    },
+    {
+        "coordinating conjunction": "grammatical conjunctioncoordinating conjunctions"
+    },
+    {
+        " or is closely related to but different from the logical or": null
+    }
+]

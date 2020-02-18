@@ -1,0 +1,509 @@
+[
+    {
+        "Developmental biology is the study of the process by which ": null
+    },
+    {
+        "animals": "animal"
+    },
+    {
+        "and ": null
+    },
+    {
+        "plants": "plant"
+    },
+    {
+        "grow and develop. Developmental biology also encompasses the biology of ": null
+    },
+    {
+        "regeneration": "regeneration"
+    },
+    {
+        ", ": null
+    },
+    {
+        "asexual reproduction": "asexual reproduction"
+    },
+    {
+        ", ": null
+    },
+    {
+        "metamorphosis": "metamorphosis"
+    },
+    {
+        ", and the growth and differentiation of ": null
+    },
+    {
+        "stem cells": "stem cell"
+    },
+    {
+        "in the adult organism.     In the late 20th century, the discipline largely transformed into ": null
+    },
+    {
+        "evolutionary developmental biology": "evolutionary developmental biology"
+    },
+    {
+        ".       The main processes involved in the ": null
+    },
+    {
+        "embryonic development": "embryogenesis"
+    },
+    {
+        " of animals are: ": null
+    },
+    {
+        "regional specification": "regional specification"
+    },
+    {
+        ", ": null
+    },
+    {
+        "morphogenesis": "morphogenesis"
+    },
+    {
+        ", ": null
+    },
+    {
+        "cell differentiation": "cellular differentiation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "growth": "cell growth"
+    },
+    {
+        ", and the overall control of timing explored in ": null
+    },
+    {
+        "evolutionary developmental biology": "evolutionary developmental biology"
+    },
+    {
+        ":     ": null
+    },
+    {
+        "Regional specification": "regional specification"
+    },
+    {
+        " refers to the processes that create spatial pattern in a ball or sheet of initially similar cells. This generally involves the action of ": null
+    },
+    {
+        "cytoplasmic determinant": "cytoplasmic determinant"
+    },
+    {
+        "s, located within parts of the fertilized egg, and of inductive signals emitted from signaling centers in the embryo. The early stages of ": null
+    },
+    {
+        "regional specification": "regional specification"
+    },
+    {
+        " do not generate functional differentiated cells, but cell populations committed to develop to a specific region or part of the organism. These are defined by the expression of specific combinations of ": null
+    },
+    {
+        "transcription factors": "transcription factors"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Morphogenesis": "morphogenesis"
+    },
+    {
+        " relates to the formation of three-dimensional shape. It mainly involves the orchestrated movements of cell sheets and of individual cells. Morphogenesis is important for creating the three germ layers of the early embryo  and for building up complex structures during organ development.   ": null
+    },
+    {
+        "Cell differentiation": "cell differentiation"
+    },
+    {
+        " relates specifically to the formation of functional cell types such as nerve, muscle, secretory epithelia etc. Differentiated cells contain large amounts of specific proteins associated with the cell function.   ": null
+    },
+    {
+        "Growth": "cell growth"
+    },
+    {
+        " involves both an overall increase in size, and also the differential growth of parts  which contributes to morphogenesis. Growth mostly occurs through cell division but also through changes of cell size and the deposition of extracellular materials.   The control of timing of events and the integration of the various processes with one another is the least well understood area of the subject. It remains unclear whether animal embryos contain a master clock mechanism or not.     The development of plants involves similar processes to that of animals. However plant cells are mostly immotile so morphogenesis is achieved by differential growth, without cell movements. Also, the inductive signals and the genes involved are different from those that control animal development.                  ": null
+    },
+    {
+        "Cell differentiation": "cell differentiation"
+    },
+    {
+        " is the process whereby different functional cell types arise in development. For example, neurons, muscle fibers and hepatocytes are well known types of differentiated cells. Differentiated cells usually produce large amounts of a few proteins that are required for their specific function and this gives them the characteristic appearance that enables them to be recognized under the light microscope. The genes encoding these proteins are highly active. Typically their ": null
+    },
+    {
+        "chromatin": "chromatin"
+    },
+    {
+        " structure is very open, allowing access for the transcription enzymes, and specific transcription factors bind to regulatory sequences in the DNA in order to activate gene expression.   For example, ": null
+    },
+    {
+        "NeuroD": "neurod"
+    },
+    {
+        " is a key transcription factor for neuronal differentiation, ": null
+    },
+    {
+        "myogenin": "myogenin"
+    },
+    {
+        " for muscle differentiation, and ": null
+    },
+    {
+        "HNF4": "hnf4"
+    },
+    {
+        " for hepatocyte differentiation.   Cell differentiation is usually the final stage of development, preceded by several states of commitment which are not visibly differentiated. A single tissue, formed from a single type of progenitor cell or stem cell, often consists of several differentiated cell types. Control of their formation involves a process of lateral inhibition,  based on the properties of the ": null
+    },
+    {
+        "Notch signaling pathway": "notch signaling pathway"
+    },
+    {
+        ".  For example, in the neural plate of the embryo this system operates to generate a population of neuronal precursor cells in which NeuroD is highly expressed.       ": null
+    },
+    {
+        "Regeneration": "regeneration"
+    },
+    {
+        " indicates the ability to regrow a missing part. Carlson, B.M. Principles of Regenerative Biology. Academic Press, Burlington MA. This is very prevalent amongst plants, which show continuous growth, and also among colonial animals such as hydroids and ascidians. But most interest by developmental biologists has been shown in the regeneration of parts in free living animals. In particular four models have been the subject of much investigation. Two of these have the ability to regenerate whole bodies:  Hydra , which can regenerate any part of the polyp from a small fragment,  and ": null
+    },
+    {
+        "planarian": "planarian"
+    },
+    {
+        " worms, which can usually regenerate both heads and tails.  Both of these examples have continuous cell turnover fed by ": null
+    },
+    {
+        "stem cells": "stem cells"
+    },
+    {
+        " and, at least in planaria, at least some of the stem cells have been shown to be ": null
+    },
+    {
+        "pluripotent": "cell potency"
+    },
+    {
+        ".  The other two models show only distal regeneration of appendages. These are the insect appendages, usually the legs of hemimetabolous insects such as the cricket,  and the limbs of ": null
+    },
+    {
+        "urodele amphibians": "urodele amphibians"
+    },
+    {
+        ".  Considerable information is now available about amphibian limb regeneration and it is known that each cell type regenerates itself, except for connective tissues where there is considerable interconversion between cartilage, dermis and tendons. In terms of the pattern of structures, this is controlled by a re-activation of signals active in the embryo.   There is still debate about the old question of whether regeneration is a pristine or an adaptive property. Slack, J.M.W. Essential Developmental Biology. Chapter 20. Wiley-Blackwell, Oxford. If the former is the case, with improved knowledge, we might expect to be able to improve regenerative ability in humans. If the latter, then each instance of regeneration is presumed to have arisen by natural selection in circumstances particular to the species, so no general rules would be expected.                The sperm and egg fuse in the process of fertilization to form a fertilized egg, or ": null
+    },
+    {
+        "zygote": "zygote"
+    },
+    {
+        ".  This undergoes a period of divisions to form a ball or sheet of similar cells called a ": null
+    },
+    {
+        "blastula": "blastula"
+    },
+    {
+        " or ": null
+    },
+    {
+        "blastoderm": "blastoderm"
+    },
+    {
+        ". These cell divisions are usually rapid with no growth so the daughter cells are half the size of the mother cell and the whole embryo stays about the same size. They are called ": null
+    },
+    {
+        "cleavage": "cleavage"
+    },
+    {
+        " divisions.     Mouse ": null
+    },
+    {
+        "epiblast": "epiblast"
+    },
+    {
+        " primordial ": null
+    },
+    {
+        "germ cells": "germ cell"
+    },
+    {
+        "  undergo extensive ": null
+    },
+    {
+        "epigenetic": "epigenetics"
+    },
+    {
+        " reprogramming.  This process involves ": null
+    },
+    {
+        "genome": "genome"
+    },
+    {
+        "-wide ": null
+    },
+    {
+        "DNA demethylation": "dna demethylation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "chromatin": "chromatin"
+    },
+    {
+        " reorganization and ": null
+    },
+    {
+        "epigenetic": "epigenetics"
+    },
+    {
+        " imprint erasure leading to ": null
+    },
+    {
+        "totipotency": "cell potency"
+    },
+    {
+        ". DNA demethylation is carried out by a process that utilizes the DNA ": null
+    },
+    {
+        "base excision repair": "base excision repair"
+    },
+    {
+        " pathway.      Morphogenetic movements convert the cell mass into a three layered structure consisting of multicellular sheets called ": null
+    },
+    {
+        "ectoderm": "ectoderm"
+    },
+    {
+        ", ": null
+    },
+    {
+        "mesoderm": "mesoderm"
+    },
+    {
+        " and ": null
+    },
+    {
+        "endoderm": "endoderm"
+    },
+    {
+        ", which are known as ": null
+    },
+    {
+        "germ layers": "germ layers"
+    },
+    {
+        ". This is the process of ": null
+    },
+    {
+        "gastrulation": "gastrulation"
+    },
+    {
+        ". During cleavage and gastrulation the first regional specification events occur. In addition to the formation of the three germ layers themselves, these often generate extraembryonic structures, such as the mammalian ": null
+    },
+    {
+        "placenta": "placenta"
+    },
+    {
+        ", needed for support and nutrition of the embryo, Steven, D.H. Comparative Placentation. Academic Press, London and also establish differences of commitment along the anteroposterior axis .      ": null
+    },
+    {
+        "Regional specification": "regional specification"
+    },
+    {
+        " is initiated by the presence of ": null
+    },
+    {
+        "cytoplasmic determinants": "cytoplasmic determinant"
+    },
+    {
+        "in one part of the zygote. The cells that contain the determinant become a signaling center and emit an inducing factor. Because the inducing factor is produced in one place, diffuses away, and decays, it forms a concentration gradient, high near the source cells and low further away.   The remaining cells of the embryo, which do not contain the determinant, are competent to respond to different concentrations by upregulating specific developmental control genes. This results in a series of zones becoming set up, arranged at progressively greater distance from the signaling center. In each zone a different combination of developmental control genes is upregulated.  These genes encode ": null
+    },
+    {
+        "transcription factors": "transcription factors"
+    },
+    {
+        " which upregulate new combinations of gene activity in each region. Among other functions, these transcription factors control expression of genes conferring specific adhesive and motility properties on the cells in which they are active. Because of these different morphogenetic properties, the cells of each germ layer move to form sheets such that the ectoderm ends up on the outside, mesoderm in the middle, and endoderm on the inside.   Morphogenetic movements not only change the shape and structure of the embryo, but by bringing cell sheets into new spatial relationships they also make possible new phases of signaling and response between them.     ": null
+    },
+    {
+        "Growth": "human development"
+    },
+    {
+        " in embryos is mostly autonomous. OFarrell, P. H. . How metazoans reach their full size: the natural history of bigness. In Cell Growth: Control of Cell Size, , pp. 1-21: Cold Spring Harbor Laboratory Press For each territory of cells the growth rate is controlled by the combination of genes that are active. Free-living embryos do not grow in mass as they have no external food supply. But embryos fed by a placenta or extraembryonic yolk supply can grow very fast, and changes to relative growth rate between parts in these organisms help to produce the final overall anatomy.     The whole process needs to be coordinated in time and how this is controlled is not understood. There may be a master clock able to communicate with all parts of the embryo that controls the course of events, or timing may depend simply on local causal sequences of events.        Developmental processes are very evident during the process of ": null
+    },
+    {
+        "metamorphosis": "metamorphosis"
+    },
+    {
+        ". This occurs in various types of animal. Well-known are the examples of the frog, which usually hatches as a tadpole and metamorphoses to an adult frog, and certain insects which hatch as a larva and then become remodeled to the adult form during a pupal stage.     All the developmental processes listed above occur during metamorphosis. Examples that have been especially well studied include tail loss and other changes in the tadpole of the frog Xenopus,   and the biology of the imaginal discs, which generate the adult body parts of the fly Drosophila melanogaster. Cohen, S.M. Imaginal Disc Development. In Bate and Martinez-Arias , The Development of Drosophila melanogaster, Cold Spring Harbor Press           Plant development is the process by which structures originate and mature as a plant grows. It is studied in ": null
+    },
+    {
+        "plant anatomy": "plant anatomy"
+    },
+    {
+        " and ": null
+    },
+    {
+        "plant physiology": "plant physiology"
+    },
+    {
+        " as well as plant morphology.     Plants constantly produce new tissues and structures throughout their life from ": null
+    },
+    {
+        "meristems": "meristem"
+    },
+    {
+        "  Review. located at the tips of organs, or between mature tissues. Thus, a living plant always has embryonic tissues. By contrast, an animal ": null
+    },
+    {
+        "embryo": "embryo"
+    },
+    {
+        " will very early produce all of the body parts that it will ever have in its life. When the animal is born , it has all its body parts and from that point will only grow larger and more mature.     The properties of organization seen in a plant are ": null
+    },
+    {
+        "emergent properties": "emergence"
+    },
+    {
+        " which are more than the sum of the individual parts. The assembly of these tissues and functions into an integrated multicellular organism yields not only the characteristics of the separate parts and processes but also quite a new set of characteristics which would not have been predictable on the basis of examination of the separate parts. Leopold, A. C. Plant Growth and Development, page 183. .       A ": null
+    },
+    {
+        "vascular plant": "vascular plant"
+    },
+    {
+        " begins from a single celled ": null
+    },
+    {
+        "zygote": "zygote"
+    },
+    {
+        ", formed by ": null
+    },
+    {
+        "fertilisation": "fertilisation"
+    },
+    {
+        " of an egg cell by a sperm cell. From that point, it begins to divide to form a plant ": null
+    },
+    {
+        "embryo": "embryo"
+    },
+    {
+        " through the process of ": null
+    },
+    {
+        "embryogenesis": "embryogenesis"
+    },
+    {
+        ". As this happens, the resulting cells will organize so that one end becomes the first root, while the other end forms the tip of the shoot. In ": null
+    },
+    {
+        "seed": "seed"
+    },
+    {
+        " plants, the embryo will develop one or more seed leaves . By the end of embryogenesis, the young plant will have all the parts necessary to begin in its life.     Once the embryo ": null
+    },
+    {
+        "germinates": "germination"
+    },
+    {
+        " from its seed or parent plant, it begins to produce additional organs through the process of ": null
+    },
+    {
+        "organogenesis": "organogenesis"
+    },
+    {
+        ". New roots grow from root ": null
+    },
+    {
+        "meristems": "meristem"
+    },
+    {
+        "located at the tip of the root, and new stems and leaves grow from shoot ": null
+    },
+    {
+        "meristems": "meristem"
+    },
+    {
+        "located at the tip of the shoot.  Review. Branching occurs when small clumps of cells left behind by the meristem, and which have not yet undergone ": null
+    },
+    {
+        "cellular differentiation": "cellular differentiation"
+    },
+    {
+        " to form a specialized tissue, begin to grow as the tip of a new root or shoot. Growth from any such meristem at the tip of a root or shoot is termed ": null
+    },
+    {
+        "primary growth": "primary growth"
+    },
+    {
+        " and results in the lengthening of that root or shoot. ": null
+    },
+    {
+        "Secondary growth": "secondary growth"
+    },
+    {
+        " results in widening of a root or shoot from divisions of cells in a ": null
+    },
+    {
+        "cambium": "cambium"
+    },
+    {
+        ".      In addition to growth by ": null
+    },
+    {
+        "cell": "cell"
+    },
+    {
+        " division, a plant may grow through cell elongation. This occurs when individual cells or groups of cells grow longer. Not all plant cells will grow to the same length. When cells on one side of a stem grow longer and faster than cells on the other side, the stem will bend to the side of the slower growing cells as a result. This directional growth can occur via a plants response to a particular stimulus, such as light , gravity , water, , and physical contact .     Plant growth and development are mediated by specific ": null
+    },
+    {
+        "plant hormones": "plant hormone"
+    },
+    {
+        "and plant growth regulators . Ross, S.D.; Pharis, R.P.; Binder, W.D. 1983. Growth regulators and conifers: their physiology and potential uses in forestry. p. 35–78 in Nickell, L.G. , Plant growth regulating chemicals. Vol. 2, CRC Press, Boca Raton FL. Endogenous hormone levels are influenced by plant age, cold hardiness, dormancy, and other metabolic conditions; photoperiod, drought, temperature, and other external environmental conditions; and exogenous sources of PGRs, e.g., externally applied and of rhizospheric origin.       Plants exhibit natural variation in their form and structure. While all organisms vary from individual to individual, plants exhibit an additional type of variation. Within a single individual, parts are repeated which may differ in form and structure from other similar parts. This variation is most easily seen in the leaves of a plant, though other organs such as stems and flowers may show similar variation. There are three primary causes of this variation: positional effects, environmental effects, and juvenility.       Transcription factors and transcriptional regulatory networks play key roles in plant morphogenesis and their evolution. During plant landing, many novel transcription factor families emerged and are preferentially wired into the networks of multicellular development, reproduction, and organ development, contributing to more complex morphogenesis of land plants.          Much of developmental biology research in recent decades has focused on the use of a small number of ": null
+    },
+    {
+        "model organisms": "model organisms"
+    },
+    {
+        ". It has turned out that there is much conservation of developmental mechanisms across the animal kingdom. In early development different vertebrate species all use essentially the same inductive signals and the same genes encoding regional identity. Even invertebrates use a similar repertoire of signals and genes although the body parts formed are significantly different. Model organisms each have some particular experimental advantages which have enabled them to become popular among researchers. In one sense they are models for the whole animal kingdom, and in another sense they are models for human development, which is difficult to study directly for both ethical and practical reasons. Model organisms have been most useful for elucidating the broad nature of developmental mechanisms. The more detail is sought, the more they differ from each other and from humans.     Plants: ": null
+    },
+    {
+        "Thale cress": "thale cress"
+    },
+    {
+        "      Vertebrates:  Xenopus  . Nieuwkoop, P.D. and Faber, J. Normal table of Xenopus laevis . North-Holland, Amsterdam.  Good embryo supply. Especially suitable for microsurgery.   ": null
+    },
+    {
+        "Zebrafish": "zebrafish"
+    },
+    {
+        ": Danio rerio.  Good embryo supply. Well developed genetics.   Chicken: Gallus gallus.  Early stages similar to mammal, but microsurgery easier. Low cost.   Mouse: Mus musculus. Behringer, R., Gertsenstein, M, Vintersten, K. and Nagy, M. Manipulating the Mouse Embryo. A Laboratory Manual, Fourth Edition. Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press. A mammal with well developed genetics.     Invertebrates:  Drosophila melanogaster .  Good embryo supply. Well developed genetics.   Nematode:  Caenorhabditis elegans . Riddle, D.L., Blumenthal, T., Meyer, B.J. and Priess, J.R. C.elegans II. Cold Spring Harbor Laboratory Press, Cold Spring Harbor, NY. Good embryo supply. Well developed genetics. Low cost.     Also popular for some purposes have been ": null
+    },
+    {
+        "sea urchins": "sea urchin"
+    },
+    {
+        "  and ": null
+    },
+    {
+        "ascidians": "ascidiacea"
+    },
+    {
+        ".  For studies of regeneration ": null
+    },
+    {
+        "urodele amphibians": "urodele amphibians"
+    },
+    {
+        " such as the ": null
+    },
+    {
+        "axolotl": "axolotl"
+    },
+    {
+        " Ambystoma mexicanum are used,  and also planarian worms such as  Schmidtea mediterranea .  ": null
+    },
+    {
+        "Organoids": "organoid"
+    },
+    {
+        "have also been demonstrated as an efficient model for development.  Plant development has focused on the thale cress  Arabidopsis thaliana ": null
+    }
+]

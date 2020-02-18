@@ -1,0 +1,125 @@
+[
+    {
+        "      In ": null
+    },
+    {
+        "abstract algebra": "abstract algebra"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "field extension": "field extension"
+    },
+    {
+        " L/K is called algebraic if every element of L is ": null
+    },
+    {
+        "algebraic": "algebraic element"
+    },
+    {
+        " over K, i.e. if every element of L is a ": null
+    },
+    {
+        "root": "root of a function"
+    },
+    {
+        " of some non-zero ": null
+    },
+    {
+        "polynomial": "polynomial"
+    },
+    {
+        " with coefficients in K. Field extensions that are not algebraic, i.e. which contain ": null
+    },
+    {
+        "transcendental element": "transcendental element"
+    },
+    {
+        "s, are called transcendental.     For example, the field extension R/Q, that is the field of ": null
+    },
+    {
+        "real numbers": "real number"
+    },
+    {
+        "as an extension of the field of ": null
+    },
+    {
+        "rational number": "rational number"
+    },
+    {
+        "s, is transcendental, while the field extensions C/R and Q/Q are algebraic, where C is the field of ": null
+    },
+    {
+        "complex number": "complex number"
+    },
+    {
+        "s.     All transcendental extensions are of ": null
+    },
+    {
+        "infinite degree": "degree of a field extension"
+    },
+    {
+        ". This in turn implies that all finite extensions are algebraic. See also Hazewinkel et al. , p. 3. The converse is not true however: there are infinite extensions which are algebraic. For instance, the field of all ": null
+    },
+    {
+        "algebraic numbers": "algebraic number"
+    },
+    {
+        "is an infinite algebraic extension of the rational numbers.     If a is algebraic over K, then Ka, the set of all polynomials in a with coefficients in K, is not only a ring but a field: an algebraic extension of K which has finite degree over K. The converse is true as well, if Ka is a field, then a is algebraic over K. In the special case where K Q is the ": null
+    },
+    {
+        "field of rational numbers": "rational number"
+    },
+    {
+        ", Qa is an example of an ": null
+    },
+    {
+        "algebraic number field": "algebraic number field"
+    },
+    {
+        ".     A field with no nontrivial algebraic extensions is called ": null
+    },
+    {
+        "algebraically closed": "algebraically closed field"
+    },
+    {
+        ". An example is the field of ": null
+    },
+    {
+        "complex number": "complex number"
+    },
+    {
+        "s. Every field has an algebraic extension which is algebraically closed , but proving this in general requires some form of the ": null
+    },
+    {
+        "axiom of choice": "axiom of choice"
+    },
+    {
+        ".     An extension L/K is algebraic ": null
+    },
+    {
+        "if and only if": "if and only if"
+    },
+    {
+        " every sub K-algebra of L is a ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        ".       The class of algebraic extensions forms a ": null
+    },
+    {
+        "distinguished class of field extensions": "distinguished class of field extensions"
+    },
+    {
+        ", that is, the following three properties hold: Lang p.228   If E is an algebraic extension of F and F is an algebraic extension of K then E is an algebraic extension of K.   If E and F are algebraic extensions of K in a common overfield C, then the ": null
+    },
+    {
+        "compositum": "compositum"
+    },
+    {
+        " EF is an algebraic extension of K.   If E is an algebraic extension of F and E ": null
+    }
+]

@@ -1,0 +1,536 @@
+[
+    {
+        "              Infocom was a ": null
+    },
+    {
+        "software company": "software company"
+    },
+    {
+        " based in ": null
+    },
+    {
+        "Cambridge, Massachusetts": "cambridge, massachusetts"
+    },
+    {
+        " that produced numerous works of ": null
+    },
+    {
+        "interactive fiction": "interactive fiction"
+    },
+    {
+        ". They also produced one notable business application, a ": null
+    },
+    {
+        "relational database": "relational database"
+    },
+    {
+        " called  Cornerstone .     Infocom was founded on June 22, 1979, by staff and students of ": null
+    },
+    {
+        "Massachusetts Institute of Technology": "massachusetts institute of technology"
+    },
+    {
+        ", and lasted as an independent company until 1986, when it was bought by ": null
+    },
+    {
+        "Activision": "activision"
+    },
+    {
+        ". Activision shut down the Infocom division in 1989, although they released some titles in the 1990s under the Infocom  Zork  brand. Activision abandoned the Infocom trademark in 2002.       Infocom games are ": null
+    },
+    {
+        "text adventures": "text adventure"
+    },
+    {
+        "where users direct the action by entering short strings of words to give commands when prompted. Generally the program will respond by describing the results of the action, often the contents of a room if the player has moved within the virtual world. The user reads this information, decides what to do, and enters another short series of words. Examples include go west or take flashlight .     Infocom games were written using a roughly ": null
+    },
+    {
+        "LISP": "lisp"
+    },
+    {
+        "-like programming language called ZIL that compiled into a ": null
+    },
+    {
+        "byte code": "byte code"
+    },
+    {
+        " able to run on a standardized ": null
+    },
+    {
+        "virtual machine": "virtual machine"
+    },
+    {
+        " called the ": null
+    },
+    {
+        "Z-machine": "z-machine"
+    },
+    {
+        ". As the games were text based and used variants of the same Z-machine interpreter, the interpreter had to be ported to new ": null
+    },
+    {
+        "computer architectures": "computer architecture"
+    },
+    {
+        "only once per architecture, rather than once per game. Each game file included a sophisticated ": null
+    },
+    {
+        "parser": "parser"
+    },
+    {
+        " which allowed the user to type complex instructions to the game. Unlike earlier works of interactive fiction which only understood commands of the form verb noun, Infocoms parser could understand a wider variety of sentences. For instance one might type open the large door, then go west , or go to festeron .  with more examples of complex commands possible with Infocom games.     With the Z-machine, Infocom was able to release most of their games for most popular ": null
+    },
+    {
+        "home computers": "home computer"
+    },
+    {
+        "of the day simultaneously—the ": null
+    },
+    {
+        "Apple II family": "apple ii family"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Atari 800": "atari 8-bit family"
+    },
+    {
+        ", ": null
+    },
+    {
+        "IBM PC compatible": "ibm pc compatible"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "Amstrad CPC": "amstrad cpc"
+    },
+    {
+        "/": null
+    },
+    {
+        "PCW": "amstrad pcw"
+    },
+    {
+        " , ": null
+    },
+    {
+        "Commodore 64": "commodore 64"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Commodore Plus/4": "commodore plus/4"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Commodore 128": "commodore 128"
+    },
+    {
+        ", Infocom was actually one of the very few companies to release game software for the ": null
+    },
+    {
+        "C128s": "commodore 128"
+    },
+    {
+        "native mode, contrary to most software houses practice of only catering for the combined C64/128 market ": null
+    },
+    {
+        "Kaypro": "kaypro"
+    },
+    {
+        " CP/M": "cp/m"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Texas Instruments TI-99/4A": "texas instruments ti-99/4a"
+    },
+    {
+        ", ": null
+    },
+    {
+        "the Mac": "apple macintosh"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Atari ST": "atari st"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "Commodore Amiga": "amiga"
+    },
+    {
+        ", and the Radio Shack ": null
+    },
+    {
+        "TRS-80": "trs-80"
+    },
+    {
+        ". The company was also known for shipping creative props, or feelies , with its games.                  Inspired by  Colossal Cave , Marc Blank and Dave Lebling created what was to become the first Infocom game,  Zork , in 1977 at ": null
+    },
+    {
+        "MITs": "massachusetts institute of technology"
+    },
+    {
+        " Laboratory for Computer Science": "project mac"
+    },
+    {
+        ". Despite the development of a revolutionary virtual memory system that allowed games to be much larger than the average personal computers normal capacity, the enormous mainframe-developed game had to be split into three roughly equal parts.  Zork I  was released originally for the ": null
+    },
+    {
+        "TRS-80": "trs-80"
+    },
+    {
+        " in 1980.  Infocom was founded on June 22, 1979; the founding members were ": null
+    },
+    {
+        "Tim Anderson": "tim anderson"
+    },
+    {
+        ", Joel Berez, ": null
+    },
+    {
+        "Marc Blank": "marc blank"
+    },
+    {
+        ", Mike Broos, Scott Cutler, Stu Galley, ": null
+    },
+    {
+        "Dave Lebling": "dave lebling"
+    },
+    {
+        ", ": null
+    },
+    {
+        "J. C. R. Licklider": "j. c. r. licklider"
+    },
+    {
+        ", Chris Reeve, and ": null
+    },
+    {
+        "Al Vezza": "al vezza"
+    },
+    {
+        ".      Lebling and Blank each authored several more games, and additional game writers  were hired, notably including ": null
+    },
+    {
+        "Steve Meretzky": "steve meretzky"
+    },
+    {
+        ". Other popular and inventive titles included a number of sequels and spinoff games in the Zork series,  The Hitchhikers Guide to the Galaxy  by ": null
+    },
+    {
+        "Douglas Adams": "douglas adams"
+    },
+    {
+        ", and  A Mind Forever Voyaging .     In its first few years of operation, text adventures proved to be a huge revenue stream for the company. Whereas most computer games of the era would achieve initial success and then suffer a significant drop-off in sales, Infocom titles continued to sell for years and years. Employee ": null
+    },
+    {
+        "Tim Anderson": "tim anderson"
+    },
+    {
+        " said of their situation, It was phenomenal – we had a basement that just printed money. By 1983 Infocom was perhaps the most dominant computer-game company; for example, all ten of its games were on the Softsel top 40 list of best-selling computer games for the week of December 12, 1983, with Zork in first place and two others in the top ten. In late 1984, management declined an offer by publisher ": null
+    },
+    {
+        "Simon & Schuster": "simon  &  schuster"
+    },
+    {
+        " to acquire Infocom for $28  million, far more than the board of directorss valuation of $10–12  million.  In 1993, Computer Gaming World described this era as the Cambridge ": null
+    },
+    {
+        "Camelot": "camelot"
+    },
+    {
+        ", where the ": null
+    },
+    {
+        "Great Underground Empire": "great underground empire"
+    },
+    {
+        " was formed .        Infocom games were popular,  InfoWorld  said, in part because in offices all over America executives and managers are playing games on their computers . An estimated 25% had a computer game hidden somewhere in their drawers ,  Inc.  reported, and they preferred Infocom adventures to arcade games.  The company stated that year that 75% of players were over 25 years old and that 80% were men; more women played its games than other companies, especially the mysteries. Most players enjoyed reading books;  in 1987 president ": null
+    },
+    {
+        "Joel Berez": "joel berez"
+    },
+    {
+        " stated, audience tends to be composed of heavy readers. We sell to the minority that does read .     A 1996 article in  Next Generation  said Infocoms games were noted for having more depth than any other adventure games, before or since.  Three components proved key to Infocoms success: marketing strategy, rich storytelling and ": null
+    },
+    {
+        "feelies": "feelies"
+    },
+    {
+        ". Whereas most game developers sold their games mainly in software stores, Infocom also distributed their games via bookstores. Infocoms products appealed more to those with expensive computers, such as the ": null
+    },
+    {
+        "Apple Macintosh": "apple macintosh"
+    },
+    {
+        ", ": null
+    },
+    {
+        "IBM PC": "ibm pc"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Commodore Amiga": "commodore amiga"
+    },
+    {
+        ". Berez stated that there is no noticeable correlation between graphics machines and our penetration. There is a high correlation between the price of the machine and our sales ... people who are putting more money into their machines tend to buy more of our software .  Since their games were text-based, patrons of bookstores were drawn to the Infocom games as they were already interested in reading. Unlike most computer software, Infocom titles were distributed under a no-returns policy, which allowed them to make money from a single game for a longer period of time.     Next, Infocom titles featured strong storytelling and rich descriptions, eschewing the inherent restrictions of graphic displays and allowing users to use their own imaginations for the lavish and exotic locations the games described.  Infocoms puzzles were unique in that they were usually tightly integrated into the storyline, and rarely did gamers feel like they were being made to jump through one arbitrary hoop after another, as was the case in many of the competitors games. The puzzles were generally logical but also required close attention to the clues and hints given in the story, causing many gamers to keep copious notes as they went along.     Sometimes, though, Infocom threw in puzzles just for the humor of it—if the user never ran into these, they could still finish the game. But discovering these early ": null
+    },
+    {
+        "Easter Eggs": "easter egg"
+    },
+    {
+        " was satisfying for some fans of the games. For example, one popular Easter egg was in the  Enchanter  game, which involves collecting magic spells to use in accomplishing the quest. One of these is a summoning spell, which the player needs to use to summon certain characters at different parts of the game. At one point the game mentions the ": null
+    },
+    {
+        "Implementers": "implementer"
+    },
+    {
+        " who were responsible for creating the land of Zork. If the player tries to summon the Implementers, the game produces a vision of ": null
+    },
+    {
+        "Dave Lebling": "dave lebling"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Marc Blank": "marc blank"
+    },
+    {
+        " at their computers, surprised at this bug in the game and working feverishly to fix it.     Third, the inclusion of feelies —imaginative props and extras tied to the games theme—provided ": null
+    },
+    {
+        "copy protection": "copy protection"
+    },
+    {
+        " against ": null
+    },
+    {
+        "copyright infringement": "copyright infringement of software"
+    },
+    {
+        ". Some games were unsolvable without the extra content provided with the boxed game. And because of the cleverness and uniqueness of the ": null
+    },
+    {
+        "feelies": "feelies"
+    },
+    {
+        ", users rarely felt like they were an intrusion or inconvenience, as was the case with most of the other copy-protection schemes of the time.     Although Infocom started out with Zork, and although the Zork world was the centerpiece of their product line throughout the Zork and Enchanter series, the company quickly branched out into a wide variety of story lines: fantasy, science-fiction, mystery, horror, historical adventure, childrens stories, and others that defied easy categorization. In an attempt to reach out to female customers, Infocom also produced  Plundered Hearts , which cast the gamer in the role of the heroine of a swashbuckling adventure on the high seas, and which required the heroine to use more feminine tactics to win the game, since hacking-and-slashing was not a very ladylike way to behave. And to compete with the  Leisure Suit Larry  style games that were also appearing, Infocom also came out with  Leather Goddesses of Phobos  in 1986, which featured tame , suggestive , and lewd playing modes. It included among its feelies a scratch-and-sniff card with six odors that corresponded to cues given to the player during the game.       Originally, hints for the game were provided as a pay-per-hint service created by ": null
+    },
+    {
+        "Mike Dornbrook": "mike dornbrook"
+    },
+    {
+        ", called the Zork Users Group . Dornbrook also started Infocoms customer newsletter, called The New Zork Times, to discuss game hints and preview and showcase new products.     The pay-per-hint service eventually led to the development of ": null
+    },
+    {
+        "InvisiClues": "invisiclues"
+    },
+    {
+        ": books with hints, maps, clues, and solutions for puzzles in the games. The answers to the puzzles were printed in ": null
+    },
+    {
+        "invisible ink": "invisible ink"
+    },
+    {
+        " that only became visible when rubbed with a special marker that was provided with each book. Usually, two or more answers were given for each question that a gamer might have. The first answer would provide a subtle hint, the second a less subtle hint, and so forth until the last one gave an explicit ": null
+    },
+    {
+        "walkthrough": "strategy guide"
+    },
+    {
+        ". Gamers could thus reveal only the hints that they needed to have to play the game. To prevent the mere questions from giving away too much information about the game, a certain number of misleading fake questions were included in every InvisiClues book. Answers to these questions would start by giving misleading or impossible to carry out answers, before the final answer revealed that the question was a fake . The InvisiClues books were regularly ranked in near the top of best seller lists for computer books.     In the Solid Gold line of re-releases, InvisiClues were integrated into the game. By typing HINT twice the player would open up a screen of possible topics where they could then reveal one hint at a time for each puzzle, just like the books.       Infocom also released a small number of interactive fiction paperbacks , which were based on the games and featured the ability to choose a different path through the story. Similar to the  Choose Your Own Adventure  series, every couple of pages the book would give the reader the chance to make a choice, such as which direction they wanted to go or how they wanted to respond to another character. The reader would then choose one of the given answers and turn to the appropriate page. These books, however, never did sell particularly well, and quickly disappeared from the bookshelves.       Despite their success with computer games, Vezza and other company founders hoped to produce successful business programs like ": null
+    },
+    {
+        "Lotus Development": "lotus development"
+    },
+    {
+        ", also founded by people from MIT  and located in the same building as Infocom. Lotus released its first product, ": null
+    },
+    {
+        "1-2-3": "lotus 1-2-3"
+    },
+    {
+        ", in January 1983; within a year it had earned $53  million, compared to Infocoms $6  million. In 1982 Infocom started putting resources into a new division to produce business products. In 1985 they released a ": null
+    },
+    {
+        "database": "relational database"
+    },
+    {
+        " product,  Cornerstone , aimed at capturing the then booming database market for small business. Though this application was hailed upon its release for ease of use, it sold only 10,000 copies; not enough to cover the development expenses.     The program failed for a number of reasons. Although it was packaged in a slick hard plastic carrying case and was a very good database for personal and home use, it was originally priced at ": null
+    },
+    {
+        "USD": "united states dollar"
+    },
+    {
+        "$495 per copy and used copy-protected disks. Another serious miscalculation was that the program did not include any kind of ": null
+    },
+    {
+        "scripting language": "scripting language"
+    },
+    {
+        ", so it was not promoted by any of the database consultants that small businesses typically hired to create and maintain their DB applications. Reviewers were also consistently disappointed that Infocom—noted for the natural language syntax of their games—did not include a natural language query ability, which had been the most anticipated feature for this database application. In a final disappointment, Cornerstone was available only for ": null
+    },
+    {
+        "IBM PC": "ibm pc"
+    },
+    {
+        "s; while Cornerstone had been programmed with its own virtual machine for maximum portability, it was not ported to any of the other platforms that Infocom supported for their games, so that feature had become essentially irrelevant. And because Cornerstone used this virtual machine for its processing, it suffered from slow, lackluster performance.       Infocoms games sales benefited significantly from the portability offered by running on top of a virtual machine. InfoWorld wrote in 1984 that the company always sells games for computers you dont normally think of as game machines, such as the ": null
+    },
+    {
+        "DEC Rainbow": "dec rainbow"
+    },
+    {
+        " or the ": null
+    },
+    {
+        "Texas Instruments Professional Computer": "texas instruments professional computer"
+    },
+    {
+        ". This is one of the key reasons for the continued success of old titles such as Zork.  Dornbrook estimated that year that of the 1.8  million home computers in America, one half million homes had Infocom games . Computer companies sent prototypes of new systems to encourage Infocom to port Z-machine to them; the virtual machine supported more than 20 different systems, including ": null
+    },
+    {
+        "orphaned computers": "orphaned technology"
+    },
+    {
+        " for which Infocom games were among the only commercial products. The company produced the only third-party games available for the Macintosh at launch, and Berlyn promised that all 13 of its games would be available for the Atari ST within one month of its release.      The virtual machine significantly slowed Cornerstones execution speed, however. Businesses were moving en masse to the IBM PC platform by that time, so portability was no longer a significant differentiator. Infocom had sunk much of the money from games sales into Cornerstone; this, in addition to a slump in computer game sales, left the company in a very precarious financial position. By the time Infocom removed the copy-protection and reduced the price to less than $100, it was too late, and the market had moved on to other database solutions.     By 1982 the market was moving to graphic adventures. Infocom was interested in producing them, that year proposing to ": null
+    },
+    {
+        "Penguin Software": "penguin software"
+    },
+    {
+        " that Antonio Antiochia, author of its  Transylvania , provide artwork. Within Infocom the game designers tended to oppose graphics, while marketing and business employees supported using them for the company to remain competitive. The partnership negotiations failed, in part because of the difficulty of adding graphics to the Z-machine, and Infocom instead began a series of advertisements mocking graphical games as graffiti compared to the human imagination. The marketing campaign was very successful, and Infocoms success led to other companies like ": null
+    },
+    {
+        "Broderbund": "broderbund"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Electronic Arts": "electronic arts"
+    },
+    {
+        " also releasing their own text games.        After Cornerstones failure, Infocom laid off half of its 100 employees,  and ": null
+    },
+    {
+        "Activision": "activision"
+    },
+    {
+        " acquired the company on June 13, 1986 for $7.5  million. The merger was pushed by Activisions CEO ": null
+    },
+    {
+        "Jim Levy": "jim levy"
+    },
+    {
+        ", who was a fan of Infocom games and felt their two companies were in similar situations.  Berez stated that although the two companies headquarters and product lines would remain separate, One of the effects of the merger will be for both of us to broaden our horizons . He said that Were looking at graphics a lot , while Activision was reportedly interested in using Infocoms parser.      While relations were cordial between the two companies at first, Activisions ousting of Levy with new CEO ": null
+    },
+    {
+        "Bruce Davis": "bruce davis"
+    },
+    {
+        " created problems in the working relationship with Infocom. Davis believed that his company had paid too much for Infocom and initiated a lawsuit against them to recoup some of the cost, along with changing the way Infocom was run. For example:   Davis required they use Activisions packaging plant instead of their own in-house one, raising the cost of each package from $0.45 to over $0.90. In addition, the Activision plant made numerous mistakes in packaging, whereas the Infocom one almost never did.   Infocom had a successful marketing approach that kept its ": null
+    },
+    {
+        "backlist": "backlist"
+    },
+    {
+        " in store inventories for years. Because of this, older titles continued to sell, and their sales rose when the company released newer games. Zork especially benefited; its sales rose for years after its initial release in 1980. To Infocoms surprise it sold almost 100,000 copies of the game in 1983, and the figure rose by more than 50% in 1984.  Activision preferred to market Infocoms games the way they marketed their other titles: replacing older titles with newer ones. While this made sense for the graphically intensive games that made up the rest of Activisions catalog, since Infocom games were text based, it didnt make sense – the newer games didnt have improved text. This marketing approach cut off potential revenue for numerous Infocom titles that had consistently brought in money for several years.   Davis required the struggling developer to produce eight titles a year. Infocom had traditionally produced about four games per year with more staff than they had post-merger.   Davis pushed Infocom to release more graphical games, but the one they did release,  Fooblitzky , bombed. This was, in part, due to Infocoms long-standing rule of maximum portability; a game that could display graphics on a number of different systems couldnt take advantage of the strengths of any of them.   The cost of acquisition was amortized by deducting it from Infocoms operating revenue during the next several years.       By 1988, rumors spread of disputes between Activision and Infocom.  Infocom employees reportedly believed that Activision gave poorer-quality games to Infocom, such as ": null
+    },
+    {
+        "Tom Snyder Productions": "tom snyder productions"
+    },
+    {
+        " unsuccessful Infocomics. Activision moved Infocom development to California in 1989, and the company was now just a ": null
+    },
+    {
+        "publishing label": "imprint"
+    },
+    {
+        ". Rising costs and falling profits, exacerbated by the lack of new products in 1988 and technical issues with its DOS products, caused Activision to close Infocom in 1989, after which some of the remaining Infocom designers such as Steve Meretzky moved to the company ": null
+    },
+    {
+        "Legend Entertainment": "legend entertainment"
+    },
+    {
+        ", founded by ": null
+    },
+    {
+        "Bob Bates": "bob bates"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Mike Verdu": "mike verdu"
+    },
+    {
+        ", to continue creating games in the Infocom tradition.     Activision itself was struggling in the marketplace following Davis promotion to CEO. Activision had rebranded itself as Mediagenic and tried to produce business productivity software, but became significantly in debt. In 1991, Mediagenic was purchased by ": null
+    },
+    {
+        "Bobby Kotick": "bobby kotick"
+    },
+    {
+        ", who put into measures immediately to try to turn the company around, which included returning to its Activision name, and putting to use its past IP properties. This included the Infocom games; Kotick recognized the value of the branding of Zork and other titles.  Activision began to sell bundles of the Infocom games that year, packaged as themed collections ; in 1991, they published  The Lost Treasures of Infocom , followed in 1992 by  The Lost Treasures of Infocom II . These compilations featured nearly every game produced by Infocom before 1988.  The compilations lacked the feelies that came with each game, but in some cases included photographs of them. In 1996, the first bundles were followed by  Classic Text Adventure Masterpieces of Infocom , a single CD-ROM which contained the works of both collections. This release, however, was missing The Hitchhikers Guide to the Galaxy and Shogun because the licenses from Douglas Adams and ": null
+    },
+    {
+        "James Clavells": "james clavell"
+    },
+    {
+        "estates had expired. Under Koticks leadership, Activision also developed  Return to Zork , published under its Infocom label.     Eventually, Activision abandoned the Infocom name. The brand name was registered by Oliver Klaeffling of Germany in 2007, then was abandoned the following year. The Infocom trademark was then held by Pete Hottelets ": null
+    },
+    {
+        "Omni Consumer Products": "omni consumer products"
+    },
+    {
+        ", who registered the name around the same time as Klaeffling in 2007.  As of March 2017, the trademark is owned by infocom.xyz, according to Bob Bates.            The  Zork  series:   The original Zork Trilogy :    Zork I: The Great Underground Empire     Zork II: The Wizard of Frobozz     Zork III: The Dungeon Master    The Enchanter Trilogy:    Enchanter     Sorcerer      Spellbreaker     Mini Zork I: The Great Underground Empire      Beyond Zork: The Coconut of Quendor      Zork Zero: The Revenge of Megaboz     Zork: The Undiscovered Underground     The  Planetfall  series:    Planetfall     Stationfall     Deadline     Starcross     Suspended: A Cryogenic Nightmare     The Witness      Infidel     Seastalker      Cutthroats      The Hitchhikers Guide to the Galaxy      Suspect     A Mind Forever Voyaging     Wishbringer: The Magick Stone of Dreams     Ballyhoo      Hollywood Hijinx      Leather Goddesses of Phobos     Moonmist      Trinity     Border Zone     Bureaucracy     The Lurking Horror     Nord and Bert Couldnt Make Head or Tail of It     Plundered Hearts      Sherlock: The Riddle of the Crown Jewels      Arthur: The Quest for Excalibur     James Clavells Shogun     Journey        Graphic adventures    Leather Goddesses of Phobos 2: Gas Pump Girls Meet the Pulsating Inconvenience from Planet X!     Return to Zork     Zork Nemesis: The Forbidden Lands      Zork Grand Inquisitor     ": null
+    },
+    {
+        "BattleTech": "battletech"
+    },
+    {
+        " games    BattleTech: The Crescent Hawks Inception      BattleTech: The Crescent Hawks Revenge    Other games    Fooblitzky      Quarterstaff: The Tomb of Setmoth      Mines of Titan      Tombs & Treasure      Circuits Edge     Infocomics   Lane Mastodon vs. the Blubbermen   Gamma Force in Pit of a Thousand Screams   ZorkQuest: Assault on Egreth Castle    ZorkQuest II: The Crystal of Doom       The Zork Trilogy    The Enchanter Trilogy     The Lost Treasures of Infocom     The Lost Treasures of Infocom II     The Zork Anthology      Interactive Fiction Collections     Classic Text Adventure Masterpieces of Infocom     Zork Special Edition    Zork Classics: Interactive Fiction   The Zork Legacy Collection    Lost Treasures of Infocom       With the exception of The Hitchhikers Guide to the Galaxy and Shogun, the copyrights to the Infocom games are believed to be still held by Activision.  Dungeon , the mainframe precursor to the commercial Zork trilogy, is believed to be free for non-commercial use. After a systems engineer at DEC obtained the source code for the MDL version by working out how to work around the implementors directory protection and then brute-forcing their encryption, the implementors conceded that he deserved it if he was willing to go to that much effort. but prohibited commercial use.  It was this copy that the popular Fortran mainframe version was based on.  The C version was based on the Fortran version.  and is available from The Interactive Fiction Archive as original ": null
+    },
+    {
+        "FORTRAN": "fortran"
+    },
+    {
+        " source code": "source code"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "Z-machine": "z-machine"
+    },
+    {
+        " story file and as various native ": null
+    },
+    {
+        "source port": "source port"
+    },
+    {
+        "s. Many Infocom titles can be downloaded via the ": null
+    },
+    {
+        "Internet": "internet"
+    },
+    {
+        ", but only in violation of the copyright. Activision did at one point release the original trilogy for free-of-charge download as a promotion  but prohibited redistribution  and have since discontinued this.  /ref  ref  /ref ref  /ref ref  /ref  ref  /ref ": null
+    }
+]

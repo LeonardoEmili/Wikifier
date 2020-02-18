@@ -1,0 +1,803 @@
+[
+    {
+        "      Computer animation is the process used for digitally generating animated images. The more general term ": null
+    },
+    {
+        "computer-generated imagery": "computer-generated imagery"
+    },
+    {
+        " encompasses both static scenes and dynamic images, while computer ": null
+    },
+    {
+        "animation": "animation"
+    },
+    {
+        " only refers to moving images. ": null
+    },
+    {
+        "Modern computer animation": "virtual cinematography"
+    },
+    {
+        " usually uses ": null
+    },
+    {
+        "3D computer graphics": "3d computer graphics"
+    },
+    {
+        ", although ": null
+    },
+    {
+        "2D computer graphics": "2d computer graphics"
+    },
+    {
+        " are still used for stylistic, low bandwidth, and faster ": null
+    },
+    {
+        "real-time rendering": "real-time rendering"
+    },
+    {
+        "s. Sometimes, the target of the animation is the computer itself, but sometimes ": null
+    },
+    {
+        "film": "film"
+    },
+    {
+        " as well.     Computer animation is essentially a digital successor to ": null
+    },
+    {
+        "stop motion": "stop motion"
+    },
+    {
+        " techniques, but using 3D models, and ": null
+    },
+    {
+        "traditional animation": "traditional animation"
+    },
+    {
+        " techniques using frame-by-frame animation of 2D illustrations. Computer-generated animations are more controllable than other, more physically based processes, like constructing ": null
+    },
+    {
+        "miniatures": "miniature effect"
+    },
+    {
+        " for ": null
+    },
+    {
+        "effects": "special effect"
+    },
+    {
+        " shots, or hiring ": null
+    },
+    {
+        "extras": "extra"
+    },
+    {
+        " for crowd scenes, because it allows the creation of images that would not be feasible using any other technology. It can also allow a single graphic artist to produce such content without the use of actors, expensive set pieces, or ": null
+    },
+    {
+        "props": "theatrical property"
+    },
+    {
+        ". To create the illusion of movement, an image is displayed on the ": null
+    },
+    {
+        "computer monitor": "computer monitor"
+    },
+    {
+        " and repeatedly replaced by a new image that is similar to it but advanced slightly in time . This technique is identical to how the illusion of movement is achieved with ": null
+    },
+    {
+        "television": "television"
+    },
+    {
+        " and ": null
+    },
+    {
+        "motion pictures": "film"
+    },
+    {
+        ".     For ": null
+    },
+    {
+        "3D animation": "3d animation"
+    },
+    {
+        "s, objects are built on the computer monitor and 3D figures are rigged with a ": null
+    },
+    {
+        "virtual skeleton": "skeletal animation"
+    },
+    {
+        ". For 2D figure animations, separate objects and separate transparent layers are used with or without that virtual skeleton. Then the limbs, eyes, mouth, clothes, etc. of the figure are moved by the animator on ": null
+    },
+    {
+        "key frame": "key frame"
+    },
+    {
+        "s. The differences in appearance between key frames are automatically calculated by the computer in a process known as ": null
+    },
+    {
+        "tweening": "inbetweening"
+    },
+    {
+        " or ": null
+    },
+    {
+        "morphing": "morphing"
+    },
+    {
+        ". Finally, the animation is ": null
+    },
+    {
+        "rendered": "rendering"
+    },
+    {
+        ".     For 3D animations, all frames must be rendered after the modeling is complete. For 2D vector animations, the ": null
+    },
+    {
+        "rendering": "rendering"
+    },
+    {
+        " process is the key frame illustration process, while tweened frames are rendered as needed. For pre-recorded presentations, the rendered frames are transferred to a different format or medium, like digital video. The frames may also be rendered in real time as they are presented to the end-user audience. Low bandwidth animations transmitted via the internet  often use software on the end-users computer to render in real time as an alternative to ": null
+    },
+    {
+        "streaming": "streaming media"
+    },
+    {
+        " or pre-loaded high bandwidth animations.       To trick the ": null
+    },
+    {
+        "eye": "human eye"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "brain": "human brain"
+    },
+    {
+        " into thinking they are seeing a smoothly moving object, the pictures should be drawn at around 12 ": null
+    },
+    {
+        "frames per second": "frame rate"
+    },
+    {
+        " or faster.  With rates above 75-120 frames per second, no improvement in realism or smoothness is perceivable due to the way the eye and the brain both process images. At rates below 12 frames per second, most people can detect ": null
+    },
+    {
+        "jerkiness": "jerkiness"
+    },
+    {
+        " associated with the drawing of new images that detracts from the illusion of realistic movement. Conventional hand-drawn cartoon animation often uses 15 frames per second in order to save on the number of drawings needed, but this is usually accepted because of the stylized nature of cartoons. To produce more realistic imagery, computer animation demands higher frame rates.     Films seen in theaters in the United States run at 24 frames per second, which is sufficient to create the illusion of continuous movement. For high resolution, adapters are used.             Early digital computer animation was developed at ": null
+    },
+    {
+        "Bell Telephone Laboratories": "bell labs"
+    },
+    {
+        " in the 1960s by Edward E. Zajac, Frank W. Sinden, Kenneth C. Knowlton, and A. Michael Noll. Other digital animation was also practiced at the ": null
+    },
+    {
+        "Lawrence Livermore National Laboratory": "lawrence livermore national laboratory"
+    },
+    {
+        ".     In 1967, a computer animation named Hummingbird was created by Charles Csuri and James Shaffer.      In 1968, a computer animation called ": null
+    },
+    {
+        "Kitty": ":ru:кошечка"
+    },
+    {
+        " was created with ": null
+    },
+    {
+        "BESM": "besm"
+    },
+    {
+        "-4 by Nikolai Konstantinov, depicting a cat moving around.      In 1971, a computer animation called Metadata was created, showing various shapes.      An early step in the history of computer animation was the sequel to the 1973 film  Westworld , a science-fiction film about a society in which robots live and work among humans. The sequel,  Futureworld  , used the 3D ": null
+    },
+    {
+        "wire-frame": "wire-frame model"
+    },
+    {
+        " imagery, which featured a computer-animated hand and face both created by ": null
+    },
+    {
+        "University of Utah": "university of utah"
+    },
+    {
+        " graduates ": null
+    },
+    {
+        "Edwin Catmull": "edwin catmull"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Fred Parke": "fred parke"
+    },
+    {
+        ". This imagery originally appeared in their student film  A Computer Animated Hand , which they completed in 1972.     Developments in CGI technologies are reported each year at ": null
+    },
+    {
+        "SIGGRAPH": "siggraph"
+    },
+    {
+        ", an annual conference on computer graphics and interactive techniques that is attended by thousands of computer professionals each year. Developers of computer games and 3D video cards strive to achieve the same visual quality on personal computers in real-time as is possible for CGI films and animation. With the rapid advancement of real-time rendering quality, artists began to use ": null
+    },
+    {
+        "game engines": "game engine"
+    },
+    {
+        "to render non-interactive movies, which led to the art form ": null
+    },
+    {
+        "Machinima": "machinima"
+    },
+    {
+        ".     The very first full length computer animated television series was  ReBoot , which debuted in September 1994; the series followed the adventures of characters who lived inside a computer. The first feature-length computer animated film was  Toy Story  , which was made by ": null
+    },
+    {
+        "Pixar": "pixar"
+    },
+    {
+        ". Our Story , Pixar, 1986-2013. Retrieved on 2013-02-15.  It followed an adventure centered around toys and their owners. This groundbreaking film was also the first of many fully computer-animated movies.          In most 3D computer animation systems, an animator creates a simplified representation of a characters anatomy, which is analogous to a ": null
+    },
+    {
+        "skeleton": "skeleton"
+    },
+    {
+        " or ": null
+    },
+    {
+        "stick figure": "stick figure"
+    },
+    {
+        ". They are by default arranged into a default position known as a ": null
+    },
+    {
+        "bind pose": "bind pose"
+    },
+    {
+        ". The position of each segment of the skeletal model is defined by animation variables, or ": null
+    },
+    {
+        "Avars": "avar"
+    },
+    {
+        " for short. In human and animal characters, many parts of the skeletal model correspond to the actual bones, but ": null
+    },
+    {
+        "skeletal animation": "skeletal animation"
+    },
+    {
+        " is also used to animate other things, with facial features . The character Woody in  Toy Story , for example, uses 700 Avars . The computer doesnt usually render the skeletal model directly , but it does use the skeletal model to compute the exact position and orientation of that certain character, which is eventually rendered into an image. Thus by changing the values of Avars over time, the animator creates motion by making the character move from frame to frame.     There are several methods for generating the Avar values to obtain realistic motion. Traditionally, animators manipulate the Avars directly. Rather than set Avars for every frame, they usually set Avars at strategic points in time and let the computer interpolate or ": null
+    },
+    {
+        "tween": "tweening"
+    },
+    {
+        " between them in a process called  keyframing . Keyframing puts control in the hands of the animator and has roots in hand-drawn ": null
+    },
+    {
+        "traditional animation": "traditional animation"
+    },
+    {
+        ".     In contrast, a newer method called  motion capture  makes use of ": null
+    },
+    {
+        "live action": "live action"
+    },
+    {
+        " footage. When computer animation is driven by motion capture, a real performer acts out the scene as if they were the character to be animated. His/her motion is recorded to a computer using ": null
+    },
+    {
+        "video cameras": "video camera"
+    },
+    {
+        "and markers and that performance is then applied to the animated character.     Each method has its advantages and as of 2007, games and films are using either or both of these methods in productions. Keyframe animation can produce motions that would be difficult or impossible to act out, while motion capture can reproduce the subtleties of a particular actor. For example, in the 2006 film  Pirates of the Caribbean: Dead Mans Chest , ": null
+    },
+    {
+        "Bill Nighy": "bill nighy"
+    },
+    {
+        " provided the performance for the character ": null
+    },
+    {
+        "Davy Jones": "davy jones"
+    },
+    {
+        ". Even though Nighy doesnt appear in the movie himself, the movie benefited from his performance by recording the nuances of his body language, posture, facial expressions, etc. Thus motion capture is appropriate in situations where believable, realistic behavior and action is required, but the types of characters required exceed what can be done throughout the conventional costuming.       3D computer animation combines 3D models of objects and programmed or hand keyframed movement. These models are constructed out of geometrical vertices, faces, and edges in a 3D coordinate system. Objects are ": null
+    },
+    {
+        "sculpted": "digital sculpting"
+    },
+    {
+        " much like real clay or plaster, working from general forms to specific details with various sculpting tools. Unless a 3D model is intended to be a solid color, it must be painted with ": null
+    },
+    {
+        "textures": "texture mapping"
+    },
+    {
+        " for realism. A bone/joint animation system is set up to deform the CGI model . In a process known as rigging, the virtual marionette is given various controllers and handles for controlling movement. Animation data can be created using ": null
+    },
+    {
+        "motion capture": "motion capture"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "keyframing": "keyframing"
+    },
+    {
+        " by a human animator, or a combination of the two.     3D models rigged for animation may contain thousands of control points — for example, Woody from  Toy Story  uses 700 specialized animation controllers. ": null
+    },
+    {
+        "Rhythm and Hues Studios": "rhythm and hues studios"
+    },
+    {
+        " labored for two years to create ": null
+    },
+    {
+        "Aslan": "aslan"
+    },
+    {
+        " in the movie  The Chronicles of Narnia: The Lion, the Witch and the Wardrobe , which had about 1,851 controllers . In the 2004 film  The Day After Tomorrow , designers had to design forces of extreme weather with the help of video references and accurate meteorological facts. For the ": null
+    },
+    {
+        "2005 remake": "king kong"
+    },
+    {
+        " of  King Kong , actor ": null
+    },
+    {
+        "Andy Serkis": "andy serkis"
+    },
+    {
+        " was used to help designers pinpoint the gorillas prime location in the shots and used his expressions to model human characteristics onto the creature. Serkis had earlier provided the voice and performance for ": null
+    },
+    {
+        "Gollum": "gollum"
+    },
+    {
+        " in ": null
+    },
+    {
+        "J. R. R. Tolkiens": "j. r. r. tolkien"
+    },
+    {
+        "  The Lord of the Rings  trilogy.          Computer animation can be created with a computer and an animation software. Some impressive animation can be achieved even with basic programs; however, the rendering can take a lot of time on an ordinary home computer. Professional animators of movies, television and video games could make photorealistic animation with high detail. This level of quality for movie animation would take hundreds of years to create on a home computer. Instead, many powerful ": null
+    },
+    {
+        "workstation": "workstation"
+    },
+    {
+        " computers are used. Graphics workstation computers use two to four processors, and they are a lot more powerful than an actual home computer and are specialized for rendering. A large number of workstations  are networked together to effectively act as a giant computer. The result is a computer-animated movie that can be completed in about one to five years . A workstation typically costs $2,000-16,000 with the more expensive stations being able to render much faster due to the more technologically-advanced hardware that they contain. Professionals also use digital ": null
+    },
+    {
+        "movie camera": "movie camera"
+    },
+    {
+        "s, motion/": null
+    },
+    {
+        "performance capture": "performance capture"
+    },
+    {
+        ", ": null
+    },
+    {
+        "bluescreens": "chroma key"
+    },
+    {
+        ", ": null
+    },
+    {
+        "film editing software": "list of video editing software"
+    },
+    {
+        ", props, and other tools used for movie animation. Programs like Blender allow for people who cant afford expensive animation and rendering software to be able to work in a similar manner to those who use the commercial grade equipment.           The realistic modeling of human facial features is both one of the most challenging and sought after elements in computer-generated imagery. ": null
+    },
+    {
+        "Computer facial animation": "computer facial animation"
+    },
+    {
+        " is a highly complex field where models typically include a very large number of animation variables. Historically speaking, the first ": null
+    },
+    {
+        "SIGGRAPH": "siggraph"
+    },
+    {
+        " tutorials on State of the art in Facial Animation in 1989 and 1990 proved to be a turning point in the field by bringing together and consolidating multiple research elements and sparked interest among a number of researchers.     The ": null
+    },
+    {
+        "Facial Action Coding System": "facial action coding system"
+    },
+    {
+        " , which had been developed in 1976, became a popular basis for many systems. As early as 2001, ": null
+    },
+    {
+        "MPEG-4": "mpeg-4"
+    },
+    {
+        " included 68 ": null
+    },
+    {
+        "Face Animation Parameters": "face animation parameter"
+    },
+    {
+        " for lips, jaws, etc., and the field has made significant progress since then and the use of facial ": null
+    },
+    {
+        "microexpression": "microexpression"
+    },
+    {
+        " has increased.     In some cases, an ": null
+    },
+    {
+        "affective space": "affect measures"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "PAD emotional state model": "pad emotional state model"
+    },
+    {
+        ", can be used to assign specific emotions to the faces of ": null
+    },
+    {
+        "avatars": "avatar"
+    },
+    {
+        ". In this approach, the PAD model is used as a high level emotional space and the lower level space is the MPEG-4 Facial Animation Parameters . A mid-level Partial Expression Parameters space is then used to in a two-level structure – the PAD-PEP mapping and the PEP-FAP translation model.          Realism in computer animation can mean making each frame look ": null
+    },
+    {
+        "photorealistic": "photorealism"
+    },
+    {
+        ", in the sense that the scene is rendered to resemble a photograph or make the characters animation believable and lifelike. Computer animation can also be realistic with or without the ": null
+    },
+    {
+        "photorealistic rendering": "photorealistic rendering"
+    },
+    {
+        ".     One of the greatest challenges in computer animation has been creating human characters that look and move with the highest degree of realism. Part of the difficulty in making pleasing, realistic human characters is the ": null
+    },
+    {
+        "uncanny valley": "uncanny valley"
+    },
+    {
+        ", the concept where the human audience tends to have an increasingly negative, emotional response as a human replica looks and acts more and more human. Films that have attempted photorealistic human characters, such as  The Polar Express ,     Beowulf ,   – New York Times, November 14, 2007 and  A Christmas Carol      have been criticized as creepy and disconcerting .     The goal of computer animation is not always to emulate live action as closely as possible, so many animated films instead feature characters who are ": null
+    },
+    {
+        "anthropomorphic": "anthropomorphic"
+    },
+    {
+        " animals, fantasy creatures and characters, superheroes, or otherwise have non-realistic, cartoon-like proportions. Computer animation can also be tailored to mimic or substitute for other kinds of animation, like traditional stop-motion animation . Some of the long-standing ": null
+    },
+    {
+        "basic principles of animation": "12 basic principles of animation"
+    },
+    {
+        ", like squash & stretch, call for movement that is not strictly realistic, and such principles still see widespread application in computer animation.            CGI short films have been produced as ": null
+    },
+    {
+        "independent animation": "independent animation"
+    },
+    {
+        " since 1976. An early example of an animated feature film to incorporate CGI animation was the 1983 Japanese ": null
+    },
+    {
+        "anime": "anime"
+    },
+    {
+        " film  Golgo 13: The Professional .  The popularity of computer animation  skyrocketed during the ": null
+    },
+    {
+        "modern era of U.S. animation": "modern animation in the united states"
+    },
+    {
+        ". The first completely computer-animated movie was  Toy Story  , but  VeggieTales  is the first American fully 3D computer animated series sold directly ; its success inspired other animation series, such as  ReBoot  in 1994. While other films like  Avatar  used CGI for a majority of the movie, it still incorporated human actors into the mix.              Some notable producers of computer-animated feature films include:     ": null
+    },
+    {
+        "Animal Logic": "animal logic"
+    },
+    {
+        "  – Films include  Happy Feet  ,  Legend of the Guardians: The Owls of GaHoole  ,  Walking with Dinosaurs  and  The Lego Movie    ": null
+    },
+    {
+        "Aardman Animations": "aardman animations"
+    },
+    {
+        "  – Films include  Flushed Away  and  Arthur Christmas    ": null
+    },
+    {
+        "Blue Sky Studios": "blue sky studios"
+    },
+    {
+        "  – Films include  Ice Age  ,  Robots  ,  Horton Hears a Who!  ,  Rio  ,  The Peanuts Movie    ": null
+    },
+    {
+        "DreamWorks Animation": "dreamworks animation"
+    },
+    {
+        "  – Films include  Shrek  ,  Madagascar  ,  Kung Fu Panda  ,  How to Train Your Dragon  ,  The Croods  ,  Trolls  ,  The Boss Baby    ": null
+    },
+    {
+        "ImageMovers": "imagemovers"
+    },
+    {
+        "  – Films include  The Polar Express  ,  Monster House  ,  A Christmas Carol  ,  Mars Needs Moms    ": null
+    },
+    {
+        "Ilion Animation Studios": "ilion animation studios"
+    },
+    {
+        " — Films include  Planet 51  ,  Mortadelo and Filemon: Mission Implausible   Wonder Park    ": null
+    },
+    {
+        "Illumination": "illumination"
+    },
+    {
+        " — Films include  Despicable Me  ,  The Lorax  ,  Minions  ,  The Secret Life of Pets  ,  Sing  ,  The Grinch    ": null
+    },
+    {
+        "Industrial Light & Magic": "industrial light  &  magic"
+    },
+    {
+        "  – Films include  Rango  and  Strange Magic    ": null
+    },
+    {
+        "Pacific Data Images": "pacific data images"
+    },
+    {
+        "  – Films include  Antz  ,  Shrek  ,  Madagascar  ,  Megamind  ,  Mr. Peabody and Sherman    ": null
+    },
+    {
+        "Pixar Animation Studios": "pixar"
+    },
+    {
+        "  – Films include  Toy Story  ,  A Bugs Life  ,  Monsters, Inc.  ,  Finding Nemo  ,  The Incredibles  ,  Ratatouille  ,  WALL-E  ,  Up  ,  Inside Out  ,  The Good Dinosaur  ,  Coco    ": null
+    },
+    {
+        "Rainmaker Studios": "rainmaker studios"
+    },
+    {
+        "  – Films include  Escape from Planet Earth  and  Ratchet & Clank    ": null
+    },
+    {
+        "Reel FX Animation Studios": "reel fx creative studios"
+    },
+    {
+        "  – Films include  Free Birds  and  The Book of Life    ": null
+    },
+    {
+        "Sony Pictures Animation": "sony pictures animation"
+    },
+    {
+        "  – Films include  Open Season  ,  Surfs Up  ,  Cloudy with a Chance of Meatballs  ,  The Smurfs  ,  Hotel Transylvania  ,  Cloudy with a Chance of Meatballs 2  ,  Hotel Transylvania 2  ,  The Emoji Movie  ,  Spider-Man: Into the Spider-Verse    ": null
+    },
+    {
+        "Sony Pictures Imageworks": "sony pictures imageworks"
+    },
+    {
+        "  – Films include  The Angry Birds Movie    ": null
+    },
+    {
+        "Triggerfish Animation Studios": "triggerfish animation studios"
+    },
+    {
+        "  – Films include  Zambezia  ,  Khumba    ": null
+    },
+    {
+        "Walt Disney Animation Studios": "walt disney animation studios"
+    },
+    {
+        "  – Films include  Bolt  ,  Tangled  ,  Wreck-It Ralph  ,  Frozen  ,  Big Hero 6  ,  Zootopia  ,  Moana    ": null
+    },
+    {
+        "Warner Animation Group": "warner animation group"
+    },
+    {
+        "  – Films include  The Lego Movie  ,  Storks  ,  The Lego Batman Movie  ,  Smallfoot    ": null
+    },
+    {
+        "Wizart Animation": "wizart animation"
+    },
+    {
+        "  – Films include  The Snow Queen  ,  Sheep and Wolves        The popularity of ": null
+    },
+    {
+        "websites": "website"
+    },
+    {
+        "that allow members to upload their own movies for others to view has created a growing community of ": null
+    },
+    {
+        "amateur": "amateur"
+    },
+    {
+        " computer animators. With utilities and programs often included free with modern ": null
+    },
+    {
+        "operating system": "operating system"
+    },
+    {
+        "s, many users can make their own animated movies and shorts. Several ": null
+    },
+    {
+        "free and open-source": "free and open-source software"
+    },
+    {
+        " animation software applications exist as well. The ease at which these animations can be distributed has attracted professional animation talent also. Companies such as ": null
+    },
+    {
+        "PowToon": "powtoon"
+    },
+    {
+        " and ": null
+    },
+    {
+        "GoAnimate": "goanimate"
+    },
+    {
+        " attempt to bridged the gap by giving amateurs access to professional animations as ": null
+    },
+    {
+        "clip art": "clip art"
+    },
+    {
+        ".     The oldest web-based animations are in the animated ": null
+    },
+    {
+        "GIF": "gif"
+    },
+    {
+        " format, which can be uploaded and seen on the web easily. However, the ": null
+    },
+    {
+        "raster graphics": "raster graphics"
+    },
+    {
+        " format of GIF animations slows the ": null
+    },
+    {
+        "download": "download"
+    },
+    {
+        " and frame rate, especially with larger screen sizes. The growing demand for higher quality web-based animations was met by a ": null
+    },
+    {
+        "vector graphics": "vector graphics"
+    },
+    {
+        " alternative that relied on the use of a ": null
+    },
+    {
+        "plugin": "browser extension"
+    },
+    {
+        ". For decades, ": null
+    },
+    {
+        "Flash animations": "flash animation"
+    },
+    {
+        "were the most popular format, until the web development community abandoned support for the ": null
+    },
+    {
+        "Flash player": "adobe flash player"
+    },
+    {
+        " plugin. Web browsers on ": null
+    },
+    {
+        "mobile devices": "mobile device"
+    },
+    {
+        "and ": null
+    },
+    {
+        "mobile operating systems": "mobile operating system"
+    },
+    {
+        "never fully supported the Flash plugin.     By this time, ": null
+    },
+    {
+        "internet bandwidth": "bandwidth"
+    },
+    {
+        " and download speeds increased, making raster graphic animations more convenient. Some of the more complex vector graphic animations had a slower frame rate due to complex ": null
+    },
+    {
+        "rendering": "rendering"
+    },
+    {
+        " than some of the raster graphic alternatives. Many of the GIF and Flash animations were already converted to ": null
+    },
+    {
+        "digital video": "digital video"
+    },
+    {
+        " formats, which were compatible with mobile devices and reduced file sizes via ": null
+    },
+    {
+        "video compression": "video compression"
+    },
+    {
+        " technology. However, compatibility was still problematic as some of the popular video formats such as Apples ": null
+    },
+    {
+        "QuickTime": "quicktime"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Microsoft Silverlight": "microsoft silverlight"
+    },
+    {
+        " required plugins. ": null
+    },
+    {
+        "YouTube": "youtube"
+    },
+    {
+        ", the most popular video viewing website, was also relying on the Flash plugin to deliver digital video in the ": null
+    },
+    {
+        "Flash Video": "flash video"
+    },
+    {
+        " format.     The latest alternatives are ": null
+    },
+    {
+        "HTML5": "html5"
+    },
+    {
+        " compatible animations. Technologies such as ": null
+    },
+    {
+        "JavaScript": "javascript"
+    },
+    {
+        " and ": null
+    },
+    {
+        "CSS animations": "css animation"
+    },
+    {
+        "made sequencing the movement of images in HTML5 web pages more convenient. ": null
+    },
+    {
+        "SVG animations": "svg animation"
+    },
+    {
+        "offered a vector graphic alternative to the original Flash graphic format, ": null
+    },
+    {
+        "SmartSketch": "smartsketch"
+    },
+    {
+        ". YouTube offers an HTML5 alternative for digital video. ": null
+    },
+    {
+        "APNG": "apng"
+    },
+    {
+        " offered a raster graphic alternative to animated GIF files that enables multi-level transparency not available in GIFs            In 2D computer animation, moving objects are often referred to as ": null
+    },
+    {
+        "sprites": "sprite"
+    },
+    {
+        ". A sprite is an image that has a location associated with it. The location of the sprite is changed slightly, between each displayed frame, to make the sprite appear to move. The following ": null
+    },
+    {
+        "pseudocode": "pseudocode"
+    },
+    {
+        " makes a sprite move from left to right:     var int x : 0, y : screenHeight / 2;   while x ": null
+    }
+]

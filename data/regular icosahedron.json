@@ -1,0 +1,962 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "geometry": "geometry"
+    },
+    {
+        ", a regular icosahedron   is a convex ": null
+    },
+    {
+        "polyhedron": "polyhedron"
+    },
+    {
+        " with 20 faces, 30 edges and 12 vertices. It is one of the five ": null
+    },
+    {
+        "Platonic solid": "platonic solid"
+    },
+    {
+        "s, and the one with the most sides.     It has five equilateral triangular faces meeting at each vertex. It is represented by its ": null
+    },
+    {
+        "Schläfli symbol": "schläfli symbol"
+    },
+    {
+        " , or sometimes by its ": null
+    },
+    {
+        "vertex figure": "vertex figure"
+    },
+    {
+        " as 3.3.3.3.3 or 3 5 . It is the ": null
+    },
+    {
+        "dual": "dual polyhedron"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "dodecahedron": "regular dodecahedron"
+    },
+    {
+        ", which is represented by , having three pentagonal faces around each vertex.     A regular icosahedron is a ": null
+    },
+    {
+        "gyroelongated": "johnson solidnames"
+    },
+    {
+        " pentagonal bipyramid": "pentagonal bipyramid"
+    },
+    {
+        " and a biaugmented ": null
+    },
+    {
+        "pentagonal antiprism": "pentagonal antiprism"
+    },
+    {
+        " in any of six orientations.     The name comes . The plural can be either icosahedrons or icosahedra .          If the edge length of a regular icosahedron is a, the ": null
+    },
+    {
+        "radius": "radius"
+    },
+    {
+        " of a circumscribed ": null
+    },
+    {
+        "sphere": "sphere"
+    },
+    {
+        " is   : r_u \\frac \\sqrt \\frac \\sqrt a\\sin\\frac \\approx 0.951\\,056\\,5163 \\cdot a      and the radius of an inscribed sphere  is   : r_i \\frac \\frac \\left a \\approx 0.755\\,761\\,3141\\cdot a      while the midradius, which touches the middle of each edge, is   : r_m \\frac \\frac \\left a a\\cos\\frac \\approx 0.809\\,016\\,99\\cdot a      where ϕ is the ": null
+    },
+    {
+        "golden ratio": "golden ratio"
+    },
+    {
+        ".       The surface area A and the ": null
+    },
+    {
+        "volume": "volume"
+    },
+    {
+        " V of a regular icosahedron of edge length a are:     : A 5\\sqrta^2 \\approx 8.660\\,254\\,04a^2      : V \\frac a^3 \\approx 2.181\\,694\\,99a^3      The latter is F    20 times the volume of a general ": null
+    },
+    {
+        "tetrahedron": "tetrahedron"
+    },
+    {
+        " with apex at the center of the   inscribed sphere, where the volume of the tetrahedron is one third times the base area  times its height r i .     The volume filling factor of the circumscribed sphere is:     : f\\frac \\frac\\approx 0.605\\,461\\,3829          The vertices of an icosahedron centered at the origin with an edge-length of 2 and a ": null
+    },
+    {
+        "circumradius": "circumradius"
+    },
+    {
+        " of \\sqrt \\approx 1.9 are described by ": null
+    },
+    {
+        "circular permutations": "circular shift"
+    },
+    {
+        " of:    :   where ϕ     is the ": null
+    },
+    {
+        "golden ratio": "golden ratio"
+    },
+    {
+        ".     Taking all permutations results in the ": null
+    },
+    {
+        "Compound of two icosahedra": "compound of two icosahedra"
+    },
+    {
+        ".     Note that these vertices form five sets of three concentric, mutually ": null
+    },
+    {
+        "orthogonal": "orthogonal"
+    },
+    {
+        " golden rectangle": "golden rectangle"
+    },
+    {
+        "s, whose edges form ": null
+    },
+    {
+        "Borromean rings": "borromean rings"
+    },
+    {
+        ".     If the original icosahedron has edge length 1, its dual ": null
+    },
+    {
+        "dodecahedron": "dodecahedron"
+    },
+    {
+        " has edge length   ϕ  −  1.        The 12 edges of a regular ": null
+    },
+    {
+        "octahedron": "octahedron"
+    },
+    {
+        " can be subdivided in the golden ratio so that the resulting vertices define a regular icosahedron. This is done by first placing vectors along the octahedrons edges such that each face is bounded by a cycle, then similarly subdividing each edge into the golden mean along the direction of its vector. The ": null
+    },
+    {
+        "five octahedra": "compound of five octahedra"
+    },
+    {
+        " defining any given icosahedron form a regular ": null
+    },
+    {
+        "polyhedral compound": "polyhedral compound"
+    },
+    {
+        ", while the ": null
+    },
+    {
+        "two icosahedra": "compound of two icosahedra"
+    },
+    {
+        " that can be defined in this way from any given octahedron form a ": null
+    },
+    {
+        "uniform polyhedron compound": "uniform polyhedron compound"
+    },
+    {
+        ".            The locations of the vertices of a regular icosahedron can be described using ": null
+    },
+    {
+        "spherical coordinates": "spherical coordinates"
+    },
+    {
+        ", for instance as ": null
+    },
+    {
+        "latitude and longitude": "latitude and longitude"
+    },
+    {
+        ". If two vertices are taken to be at the north and south poles , then the other ten vertices are at latitude ±": null
+    },
+    {
+        "arctan": "arctan"
+    },
+    {
+        " ≈ ±26.57°. These ten vertices are at evenly spaced longitudes , alternating between north and south latitudes.     This scheme takes advantage of the fact that the regular icosahedron is a pentagonal ": null
+    },
+    {
+        "gyroelongated bipyramid": "gyroelongated bipyramid"
+    },
+    {
+        ", with D 5d ": null
+    },
+    {
+        "dihedral symmetry": "dihedral symmetry in three dimensions"
+    },
+    {
+        "—that is, it is formed of two congruent pentagonal pyramids joined by a pentagonal ": null
+    },
+    {
+        "antiprism": "antiprism"
+    },
+    {
+        ".       The icosahedron has three special ": null
+    },
+    {
+        "orthogonal projection": "orthogonal projection"
+    },
+    {
+        "s, centered on a face, an edge and a vertex:          The icosahedron can also be represented as a ": null
+    },
+    {
+        "spherical tiling": "spherical tiling"
+    },
+    {
+        ", and projected onto the plane via a ": null
+    },
+    {
+        "stereographic projection": "stereographic projection"
+    },
+    {
+        ". This projection is ": null
+    },
+    {
+        "conformal": "conformal map"
+    },
+    {
+        ", preserving angles but not areas or lengths. Straight lines on the sphere are projected as circular arcs on the plane.    ": null
+    },
+    {
+        "nets": "net"
+    },
+    {
+        ".    To color the icosahedron, such that no two adjacent faces have the same color, requires at least 3 colors. ": null
+    },
+    {
+        "dodecahedron": "dodecahedron"
+    },
+    {
+        " inscribed in the same sphere. The problem was solved by ": null
+    },
+    {
+        "Hero": "hero of alexandria"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Pappus": "pappus of alexandria"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Fibonacci": "fibonacci"
+    },
+    {
+        ", among others. . ": null
+    },
+    {
+        "Apollonius of Perga": "apollonius of perga"
+    },
+    {
+        " discovered the curious result that the ratio of volumes of these two shapes is the same as the ratio of their surface areas. . Both volumes have formulas involving the ": null
+    },
+    {
+        "golden ratio": "golden ratio"
+    },
+    {
+        ", but taken to different powers. . As it turns out, the icosahedron occupies less of the spheres volume than the dodecahedron . Numerical values for the volumes of the inscribed Platonic solids may be found in .            The following construction of the icosahedron avoids tedious computations in the ": null
+    },
+    {
+        "number field": "algebraic number field"
+    },
+    {
+        "  necessary in more elementary approaches.     The existence of the icosahedron amounts to the existence of six ": null
+    },
+    {
+        "equiangular lines": "equiangular lines"
+    },
+    {
+        " in . Indeed, intersecting such a system of equiangular lines with a Euclidean sphere centered at their common intersection yields the twelve vertices of a regular icosahedron as can easily be checked. Conversely, supposing the existence of a regular icosahedron, lines defined by its six pairs of opposite vertices form an equiangular system.     In order to construct such an equiangular system, we start with this 6  ×  6 square ": null
+    },
+    {
+        "matrix": "matrix"
+    },
+    {
+        ":   : A\\left.     A straightforward computation yields  . This implies that A has ": null
+    },
+    {
+        "eigenvalues": "eigenvalue, eigenvector and eigenspace"
+    },
+    {
+        " – and , both with multiplicity 3 since A is ": null
+    },
+    {
+        "symmetric": "symmetric matrix"
+    },
+    {
+        " and of ": null
+    },
+    {
+        "trace": "trace"
+    },
+    {
+        " zero.     The matrix  induces thus a ": null
+    },
+    {
+        "Euclidean structure": "euclidean space"
+    },
+    {
+        " on the ": null
+    },
+    {
+        "quotient space": "quotient space"
+    },
+    {
+        " , which is ": null
+    },
+    {
+        "isomorphic": "isomorphism"
+    },
+    {
+        " to  since the ": null
+    },
+    {
+        "kernel": "kernel"
+    },
+    {
+        "  of  has ": null
+    },
+    {
+        "dimension": "dimension"
+    },
+    {
+        " 3. The image under the ": null
+    },
+    {
+        "projection": "projection"
+    },
+    {
+        "  of the six coordinate axes v, …, v in  forms thus a system of six equiangular lines in  intersecting pairwise at a common acute angle of arccos  . Orthogonal projection of ±v 1 , …, ±v 6 onto the ": null
+    },
+    {
+        "-eigenspace": "eigenvalue, eigenvector and eigenspace"
+    },
+    {
+        " of A yields thus the twelve vertices of the icosahedron.     A second straightforward construction of the icosahedron uses ": null
+    },
+    {
+        "representation theory": "group representation"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "alternating group": "alternating group"
+    },
+    {
+        " A 5 acting by direct ": null
+    },
+    {
+        "isometries": "isometry"
+    },
+    {
+        " on the icosahedron.             The rotational ": null
+    },
+    {
+        "symmetry group": "symmetry group"
+    },
+    {
+        " of the regular icosahedron is ": null
+    },
+    {
+        "isomorphic": "isomorphic"
+    },
+    {
+        " to the ": null
+    },
+    {
+        "alternating group": "alternating group"
+    },
+    {
+        " on five letters. This non-": null
+    },
+    {
+        "abelian": "abelian group"
+    },
+    {
+        " simple group": "simple group"
+    },
+    {
+        " is the only non-trivial ": null
+    },
+    {
+        "normal subgroup": "normal subgroup"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "symmetric group": "symmetric group"
+    },
+    {
+        " on five letters. Since the ": null
+    },
+    {
+        "Galois group": "galois group"
+    },
+    {
+        " of the general ": null
+    },
+    {
+        "quintic equation": "quintic equation"
+    },
+    {
+        " is isomorphic to the symmetric group on five letters, and this normal subgroup is simple and non-abelian, the general quintic equation does not have a solution in radicals. The proof of the ": null
+    },
+    {
+        "Abel–Ruffini theorem": "abel–ruffini theorem"
+    },
+    {
+        " uses this simple fact, and ": null
+    },
+    {
+        "Felix Klein": "felix klein"
+    },
+    {
+        " wrote a book that made use of the theory of icosahedral symmetries to derive an analytical solution to the general quintic equation, . See ": null
+    },
+    {
+        "icosahedral symmetry: related geometries": "icosahedral symmetryrelated geometries"
+    },
+    {
+        " for further history, and related symmetries on seven and eleven letters.     The full symmetry group of the icosahedron is known as the ": null
+    },
+    {
+        "full icosahedral group": "full icosahedral group"
+    },
+    {
+        ", and is isomorphic to the product of the rotational symmetry group and the group C 2 of size two, which is generated by the reflection through the center of the icosahedron.       The icosahedron has a large number of ": null
+    },
+    {
+        "stellation": "stellation"
+    },
+    {
+        "s. According to specific rules defined in the book  The Fifty-Nine Icosahedra , 59 stellations were identified for the regular icosahedron. The first form is the icosahedron itself. One is a regular ": null
+    },
+    {
+        "Kepler–Poinsot polyhedron": "kepler–poinsot polyhedron"
+    },
+    {
+        ". Three are ": null
+    },
+    {
+        "regular compound polyhedra": "polyhedral compoundregular compounds"
+    },
+    {
+        ".             The ": null
+    },
+    {
+        "small stellated dodecahedron": "small stellated dodecahedron"
+    },
+    {
+        ", ": null
+    },
+    {
+        "great dodecahedron": "great dodecahedron"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "great icosahedron": "great icosahedron"
+    },
+    {
+        " are three ": null
+    },
+    {
+        "facetings": "faceting"
+    },
+    {
+        "of the regular icosahedron. They share the same ": null
+    },
+    {
+        "vertex arrangement": "vertex arrangement"
+    },
+    {
+        ". They all have 30 edges. The regular icosahedron and great dodecahedron share the same ": null
+    },
+    {
+        "edge arrangement": "edge arrangement"
+    },
+    {
+        " but differ in faces , as do the small stellated dodecahedron and great icosahedron .          There are distortions of the icosahedron that, while no longer regular, are nevertheless ": null
+    },
+    {
+        "vertex-uniform": "vertex-uniform"
+    },
+    {
+        ". These are ": null
+    },
+    {
+        "invariant": "invariant"
+    },
+    {
+        " under the same ": null
+    },
+    {
+        "rotations": "rotation"
+    },
+    {
+        "as the tetrahedron, and are somewhat analogous to the ": null
+    },
+    {
+        "snub cube": "snub cube"
+    },
+    {
+        " and ": null
+    },
+    {
+        "snub dodecahedron": "snub dodecahedron"
+    },
+    {
+        ", including some forms which are ": null
+    },
+    {
+        "chiral": "chirality"
+    },
+    {
+        " and some with T h -symmetry, i.e. have different planes of symmetry from the tetrahedron.     The icosahedron is unique among the ": null
+    },
+    {
+        "Platonic solids": "platonic solids"
+    },
+    {
+        " in possessing a ": null
+    },
+    {
+        "dihedral angle": "dihedral angle"
+    },
+    {
+        " not less than 120°. Its dihedral angle is approximately 138.19°. Thus, just as hexagons have angles not less than 120° and cannot be used as the faces of a convex regular polyhedron because such a construction would not meet the requirement that at least three faces meet at a vertex and leave a positive ": null
+    },
+    {
+        "defect": "defect"
+    },
+    {
+        " for folding in three dimensions, icosahedra cannot be used as the ": null
+    },
+    {
+        "cells": "cell"
+    },
+    {
+        " of a convex regular ": null
+    },
+    {
+        "polychoron": "polychoron"
+    },
+    {
+        " because, similarly, at least three cells must meet at an edge and leave a positive defect for folding in four dimensions . However, when combined with suitable cells having smaller dihedral angles, icosahedra can be used as cells in semi-regular polychora , just as hexagons can be used as faces in semi-regular polyhedra . Finally, non-convex polytopes do not carry the same strict requirements as convex polytopes, and icosahedra are indeed the cells of the ": null
+    },
+    {
+        "icosahedral 120-cell": "icosahedral 120-cell"
+    },
+    {
+        ", one of the ten ": null
+    },
+    {
+        "non-convex regular polychora": "schläfli–hess polychoron"
+    },
+    {
+        ".     An icosahedron can also be called a ": null
+    },
+    {
+        "gyroelongated pentagonal bipyramid": "gyroelongated dipyramid"
+    },
+    {
+        ". It can be decomposed into a ": null
+    },
+    {
+        "gyroelongated pentagonal pyramid": "gyroelongated pentagonal pyramid"
+    },
+    {
+        " and a ": null
+    },
+    {
+        "pentagonal pyramid": "pentagonal pyramid"
+    },
+    {
+        " or into a ": null
+    },
+    {
+        "pentagonal antiprism": "pentagonal antiprism"
+    },
+    {
+        " and two equal pentagonal pyramids.       :   It can be projected to 3D from the 6D ": null
+    },
+    {
+        "6-demicube": "6-demicube"
+    },
+    {
+        " using the same basis vectors that form the hull of the ": null
+    },
+    {
+        "Rhombic triacontahedron": "rhombic triacontahedron"
+    },
+    {
+        " from the ": null
+    },
+    {
+        "6-cube": "6-cube"
+    },
+    {
+        ". Shown here including the inner 20 vertices which are not connected by the 30 outer hull edges of 6D norm length . The inner vertices form a ": null
+    },
+    {
+        "dodecahedron": "dodecahedron"
+    },
+    {
+        ".     The 3D projection basis vectors used are:   :u    :v    :w           There are 3 ": null
+    },
+    {
+        "uniform colorings": "uniform coloring"
+    },
+    {
+        "of the icosahedron. These colorings can be represented as 11213, 11212, 11111, naming the 5 triangular faces around each vertex by their color.     The icosahedron can be considered a snub tetrahedron, as ": null
+    },
+    {
+        "snubification": "snub"
+    },
+    {
+        " of a regular tetrahedron gives a regular icosahedron having chiral ": null
+    },
+    {
+        "tetrahedral symmetry": "tetrahedral symmetry"
+    },
+    {
+        ". It can also be constructed as an alternated truncated octahedron, having ": null
+    },
+    {
+        "pyritohedral symmetry": "pyritohedral symmetry"
+    },
+    {
+        ". The pyritohedral symmetry version is sometimes called a ": null
+    },
+    {
+        "pseudoicosahedron": "pseudoicosahedron"
+    },
+    {
+        ", and is dual to the ": null
+    },
+    {
+        "pyritohedron": "pyritohedron"
+    },
+    {
+        ".                    Many ": null
+    },
+    {
+        "virus": "virus"
+    },
+    {
+        "es, e.g. ": null
+    },
+    {
+        "herpes virus": "herpesviridae"
+    },
+    {
+        ", have icosahedral ": null
+    },
+    {
+        "shells": "capsid"
+    },
+    {
+        ". C. Michael Hogan. 2010. . eds. S. Draggan and C. Cleveland Viral structures are built of repeated identical ": null
+    },
+    {
+        "protein": "protein"
+    },
+    {
+        " subunits known as ": null
+    },
+    {
+        "capsomere": "capsomere"
+    },
+    {
+        "s, and the icosahedron is the easiest shape to assemble using these subunits. A regular polyhedron is used because it can be built from a single basic unit protein used over and over again; this saves space in the viral ": null
+    },
+    {
+        "genome": "genome"
+    },
+    {
+        ".     Various bacterial organelles with an icosahedral shape were also found.  The icosahedral shell encapsulating enzymes and labile intermediates are built of different types of proteins with ": null
+    },
+    {
+        "BMC domain": "bmc domain"
+    },
+    {
+        "s.     In 1904, ": null
+    },
+    {
+        "Ernst Haeckel": "ernst haeckel"
+    },
+    {
+        " described a number of species of ": null
+    },
+    {
+        "Radiolaria": "radiolaria"
+    },
+    {
+        ", including Circogonia icosahedra, whose skeleton is shaped like a regular icosahedron. A copy of Haeckels illustration for this radiolarian appears in the article on ": null
+    },
+    {
+        "regular polyhedra": "regular polyhedra"
+    },
+    {
+        ".       The ": null
+    },
+    {
+        "closo": "closo cluster"
+    },
+    {
+        "-": null
+    },
+    {
+        "carboranes": "carboranes"
+    },
+    {
+        " are chemical compounds with shape very close to icosahedron. ": null
+    },
+    {
+        "Icosahedral": "icosahedral twins"
+    },
+    {
+        " twinning": "crystal twinning"
+    },
+    {
+        " also occurs in crystals, especially ": null
+    },
+    {
+        "nanoparticle": "nanoparticle"
+    },
+    {
+        "s.     Many ": null
+    },
+    {
+        "borides": "crystal structure of boron-rich metal borides"
+    },
+    {
+        " and ": null
+    },
+    {
+        "allotropes of boron": "allotropes of boron"
+    },
+    {
+        " contain boron B 12 icosahedron as a basic structure unit.                  Icosahedral ": null
+    },
+    {
+        "dice": "dice"
+    },
+    {
+        " with twenty sides have been used since ancient times. Cromwell, Peter R. Polyhedra Page 327.     In several ": null
+    },
+    {
+        "roleplaying game": "roleplaying game"
+    },
+    {
+        "s, such as  Dungeons & Dragons , the twenty-sided die  is commonly used in determining success or failure of an action. This die is in the form of a regular icosahedron. It may be numbered from 0 to 9 twice , but most modern versions are labeled from 1 to 20 .     An icosahedron is the three-dimensional game board for Icosagame, formerly known as the Ico Crystal Game.     An icosahedron is used in the board game  Scattergories  to choose a letter of the alphabet. Six letters are omitted .     In the Nintendo 64 game  Kirby 64: The Crystal Shards , the boss Miracle Matter is a regular icosahedron.     Inside a ": null
+    },
+    {
+        "Magic 8-Ball": "magic 8-ball"
+    },
+    {
+        ", various answers to ": null
+    },
+    {
+        "yes–no questions": "yes–no question"
+    },
+    {
+        "are inscribed on a regular icosahedron.         ": null
+    },
+    {
+        "R. Buckminster Fuller": "r. buckminster fuller"
+    },
+    {
+        " and Japanese ": null
+    },
+    {
+        "cartographer": "cartographer"
+    },
+    {
+        " Shoji Sadao": "shoji sadao"
+    },
+    {
+        "  designed a world map in the form of an unfolded icosahedron, called the ": null
+    },
+    {
+        "Fuller projection": "fuller projection"
+    },
+    {
+        ", whose maximum ": null
+    },
+    {
+        "distortion": "distortionmap projections"
+    },
+    {
+        " is only 2%. The American ": null
+    },
+    {
+        "electronic music": "electronic music"
+    },
+    {
+        " duo ": null
+    },
+    {
+        "ODESZA": "odesza"
+    },
+    {
+        " use a regular icosahedron as their logo.          The ": null
+    },
+    {
+        "skeleton": "n-skeleton"
+    },
+    {
+        " of the icosahedron forms a ": null
+    },
+    {
+        "graph": "graph"
+    },
+    {
+        ". It is one of 5 ": null
+    },
+    {
+        "Platonic graph": "platonic graph"
+    },
+    {
+        "s, each a skeleton of its ": null
+    },
+    {
+        "Platonic solid": "platonic solid"
+    },
+    {
+        ".     The high degree of symmetry of the polygon is replicated in the properties of this graph, which is ": null
+    },
+    {
+        "distance-transitive": "distance-transitive graph"
+    },
+    {
+        " and ": null
+    },
+    {
+        "symmetric": "symmetric graph"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "automorphism group": "graph automorphism"
+    },
+    {
+        " has order 120. The vertices can be ": null
+    },
+    {
+        "colored": "graph coloring"
+    },
+    {
+        " with 4 colors, the edges with 5 colors, and the ": null
+    },
+    {
+        "diameter": "graph diameter"
+    },
+    {
+        " is 3.      The icosahedral graph is ": null
+    },
+    {
+        "Hamiltonian": "hamiltonian graph"
+    },
+    {
+        ": there is a cycle containing all the vertices. It is also a ": null
+    },
+    {
+        "planar graph": "planar graph"
+    },
+    {
+        ".               There are 4 related ": null
+    },
+    {
+        "Johnson solid": "johnson solid"
+    },
+    {
+        "s, including pentagonal faces with a subset of the 12 vertices. The similar ": null
+    },
+    {
+        "dissected regular icosahedron": "dissected regular icosahedron"
+    },
+    {
+        " has 2 adjacent vertices diminished, leaving two trapezoidal faces, and a bifastigium has 2 opposite sets of vertices removed and 4 trapezoidal faces. The pentagonal antiprism is formed by removing two opposite vertices.            The icosahedron can be transformed by a ": null
+    },
+    {
+        "truncation": "truncation"
+    },
+    {
+        " sequence into its ": null
+    },
+    {
+        "dual": "dual polyhedron"
+    },
+    {
+        ", the dodecahedron:        As a snub tetrahedron, and alternation of a truncated octahedron it also exists in the tetrahedral and octahedral symmetry families:           This polyhedron is topologically related as a part of sequence of regular polyhedra with ": null
+    },
+    {
+        "Schläfli symbols": "schläfli symbol"
+    },
+    {
+        " , continuing into the ": null
+    },
+    {
+        "hyperbolic plane": "hyperbolic space"
+    },
+    {
+        ".        The regular icosahedron, seen as a snub tetrahedron, is a member of a sequence of ": null
+    },
+    {
+        "snubbed": "snub"
+    },
+    {
+        " polyhedra and tilings with vertex figure  and ": null
+    },
+    {
+        "Coxeter–Dynkin diagram": "coxeter–dynkin diagram"
+    },
+    {
+        " . These figures and their duals have  rotational ": null
+    },
+    {
+        "symmetry": "orbifold notation"
+    },
+    {
+        ", being in the Euclidean plane for n 6, and hyperbolic plane for any higher n. The series can be considered to begin with n 2, with one set of faces degenerated into ": null
+    },
+    {
+        "digon": "digon"
+    },
+    {
+        "s.               The icosahedron can tessellate hyperbolic space in the ": null
+    },
+    {
+        "order-3 icosahedral honeycomb": "order-3 icosahedral honeycomb"
+    },
+    {
+        ", with 3 icosahedra around each edge, 12 icosahedra around each vertex, with ": null
+    },
+    {
+        "Schläfli symbol": "schläfli symbol"
+    },
+    {
+        " . It is ": null
+    },
+    {
+        "one of four regular tessellations": "list of regular polytopestessellations of hyperbolic 3-space"
+    },
+    {
+        " in the hyperbolic 3-space.   ": null
+    }
+]

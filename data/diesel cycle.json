@@ -1,0 +1,233 @@
+[
+    {
+        "        The Diesel cycle is a combustion process of a reciprocating ": null
+    },
+    {
+        "internal combustion engine": "internal combustion engine"
+    },
+    {
+        ". In it, ": null
+    },
+    {
+        "fuel": "fuel"
+    },
+    {
+        " is ignited by heat generated during the compression of air in the combustion chamber, into which fuel is then injected. This is in contrast to igniting the fuel-air mixture with a ": null
+    },
+    {
+        "spark plug": "spark plug"
+    },
+    {
+        " as in the ": null
+    },
+    {
+        "Otto cycle": "otto cycle"
+    },
+    {
+        " engine. Diesel engines are used in ": null
+    },
+    {
+        "aircraft": "aircraft_diesel_engine"
+    },
+    {
+        ", ": null
+    },
+    {
+        "automobile": "automobile"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "power generation": "power generation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "diesel-electric": "diesel-electric transmission"
+    },
+    {
+        " locomotive": "locomotive"
+    },
+    {
+        "s, and both surface ": null
+    },
+    {
+        "ships": "ship"
+    },
+    {
+        "and ": null
+    },
+    {
+        "submarine": "submarine"
+    },
+    {
+        "s.     The Diesel cycle is assumed to have constant pressure during the initial part of the combustion phase . This is an idealized mathematical model: real physical diesels do have an increase in pressure during this period, but it is less pronounced than in the Otto cycle. In contrast, the idealized ": null
+    },
+    {
+        "Otto cycle": "otto cycle"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "gasoline engine": "four-stroke cycle"
+    },
+    {
+        " approximates a constant volume process during that phase.            The image shows a ": null
+    },
+    {
+        "p-V diagram": "p-v diagram"
+    },
+    {
+        " for the ideal Diesel cycle; where p is ": null
+    },
+    {
+        "pressure": "pressure"
+    },
+    {
+        " and V the volume or v the ": null
+    },
+    {
+        "specific volume": "specific volume"
+    },
+    {
+        " if the process is placed on a unit mass basis. The idealized Diesel cycle assumes an ": null
+    },
+    {
+        "ideal gas": "ideal gas"
+    },
+    {
+        " and ignores ": null
+    },
+    {
+        "combustion": "combustion"
+    },
+    {
+        " chemistry, ": null
+    },
+    {
+        "exhaust-": "exhaust gas"
+    },
+    {
+        " and recharge procedures and simply follows four distinct processes:     1→2 : ": null
+    },
+    {
+        "isentropic": "isentropic"
+    },
+    {
+        " compression of the fluid   2→3 : ": null
+    },
+    {
+        "reversible": "reversible process"
+    },
+    {
+        " constant pressure heating   3→4 : isentropic expansion   4→1 : reversible constant volume cooling Eastop & McConkey 1993, Applied Thermodynamics for Engineering Technologists, Pearson Education Limited, Fifth Edition, p.137     The Diesel engine is a heat engine: it converts ": null
+    },
+    {
+        "heat": "heat"
+    },
+    {
+        " into ": null
+    },
+    {
+        "work": "work"
+    },
+    {
+        ". During the bottom isentropic processes , energy is transferred into the system in the form of work W_ , but by definition no energy is transferred into or out of the system in the form of heat. During the constant pressure  process, energy enters the system as heat Q_ . During the top isentropic processes , energy is transferred out of the system in the form of W_ , but by definition no energy is transferred into or out of the system in the form of heat. During the constant volume  process, some of energy flows out of the system as heat through the right depressurizing process Q_ . The work that leaves the system is equal to the work that enters the system plus the difference between the heat added to the system and the heat that leaves the system; in other words, net gain of work is equal to the difference between the heat added to the system and the heat that leaves the system.     Work in is done by the piston compressing the air   Heat in is done by the ": null
+    },
+    {
+        "combustion": "combustion"
+    },
+    {
+        " of the fuel   Work out is done by the working fluid expanding and pushing a piston   Heat out is done by venting the air   Net work produced Q_ - Q_     The net work produced is also represented by the area enclosed by the cycle on the P-V diagram. The net work is produced per cycle and is also called the useful work, as it can be turned to other useful types of energy and propel a vehicle  or produce electrical energy. The summation of many such cycles per unit of time is called the developed power. The W_ is also called the gross work, some of which is used in the next cycle of the engine to compress the next charge of air              The maximum thermal efficiency of a Diesel cycle is dependent on the compression ratio and the cut-off ratio. It has the following formula under cold ": null
+    },
+    {
+        "air standard": "standard state"
+    },
+    {
+        " analysis:     \\eta_1-\\frac\\left     where   : \\eta_ is ": null
+    },
+    {
+        "thermal efficiency": "thermal efficiency"
+    },
+    {
+        "   : \\alpha is the cut-off ratio \\frac   : is the ": null
+    },
+    {
+        "compression ratio": "compression ratio"
+    },
+    {
+        " \\frac   : \\gamma is ratio of ": null
+    },
+    {
+        "specific heats": "specific heat capacity"
+    },
+    {
+        "      The cut-off ratio can be expressed in terms of temperature as shown below:   : \\frac r^     : \\displaystyle r^     : \\frac \\frac     : \\alpha \\left\\left     T_3 can be approximated to the flame temperature of the fuel used. The flame temperature can be approximated to the ": null
+    },
+    {
+        "adiabatic flame temperature": "adiabatic flame temperature"
+    },
+    {
+        " of the fuel with corresponding air-to-fuel ratio and compression pressure, p_3 .   T_1 can be approximated to the inlet air temperature.     This formula only gives the ideal thermal efficiency. The actual thermal efficiency will be significantly lower due to heat and friction losses. The formula is more complex than the ": null
+    },
+    {
+        "Otto cycle": "otto cycle"
+    },
+    {
+        " relation that has the following formula:     \\eta_1-\\frac     The additional complexity for the Diesel formula comes around since the heat addition is at constant pressure and the heat rejection is at constant volume. The Otto cycle by comparison has both the heat addition and rejection at constant volume.       Comparing the two formulae it can be seen that for a given compression ratio , the ideal ": null
+    },
+    {
+        "Otto cycle": "otto cycle"
+    },
+    {
+        " will be more efficient. However, a real ": null
+    },
+    {
+        "diesel engine": "diesel engine"
+    },
+    {
+        " will be more efficient overall since it will have the ability to operate at higher compression ratios. If a petrol engine were to have the same compression ratio, then knocking would occur and this would severely reduce the efficiency, whereas in a diesel engine, the self ignition is the desired behavior. Additionally, both of these cycles are only idealizations, and the actual behavior does not divide as clearly or sharply. Furthermore, the ideal Otto cycle formula stated above does not include throttling losses, which do not apply to diesel engines.              Diesel engines have the lowest ": null
+    },
+    {
+        "specific fuel consumption": "specific fuel consumption"
+    },
+    {
+        " of any large internal combustion engine employing a single cycle, 0.26  lb/hp·h for very large marine engines . Two-stroke diesels with high pressure forced induction, particularly ": null
+    },
+    {
+        "turbocharging": "turbocharging"
+    },
+    {
+        ", make up a large percentage of the very largest diesel engines.     In ": null
+    },
+    {
+        "North America": "north america"
+    },
+    {
+        ", diesel engines are primarily used in large trucks, where the low-stress, high-efficiency cycle leads to much longer engine life and lower operational costs. These advantages also make the diesel engine ideal for use in the heavy-haul railroad and earthmoving environments.       Many ": null
+    },
+    {
+        "model airplanes": "model airplane"
+    },
+    {
+        "use very simple glow and diesel engines. Glow engines use ": null
+    },
+    {
+        "glow plug": "glow plug"
+    },
+    {
+        "s. Diesel model airplane engines have variable compression ratios. Both types depend on special fuels.     Some 19th-century or earlier experimental engines used external flames, exposed by valves, for ignition, but this becomes less attractive with increasing compression.  A historical implication of this is that the diesel engine could have been invented without the aid of electricity.   See the development of the ": null
+    },
+    {
+        "hot bulb engine": "hot bulb engine"
+    },
+    {
+        " and ": null
+    },
+    {
+        "indirect injection": "indirect injection"
+    }
+]

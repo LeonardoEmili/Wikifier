@@ -1,0 +1,323 @@
+[
+    {
+        "     A perimeter is a path that encompasses/surrounds a ": null
+    },
+    {
+        "two-dimensional": "two-dimensional"
+    },
+    {
+        " shape": "shape"
+    },
+    {
+        ". The term may be used either for the path, or its ": null
+    },
+    {
+        "length": "length"
+    },
+    {
+        " & mdash;in one dimension. It can be thought of as the length of the outline of a shape. The perimeter of a ": null
+    },
+    {
+        "circle": "circle"
+    },
+    {
+        " or ": null
+    },
+    {
+        "ellipse": "ellipse"
+    },
+    {
+        " is called its ": null
+    },
+    {
+        "circumference": "circumference"
+    },
+    {
+        ".     Calculating the perimeter has several practical applications. A calculated perimeter is the length of fence required to surround a yard or garden. The perimeter of a wheel/circle describes how far it will roll in one ": null
+    },
+    {
+        "revolution": "revolution"
+    },
+    {
+        ". Similarly, the amount of string wound around a spool is related to the spools perimeter; if the length of the string was exact, it would equal the perimeter.             The perimeter is the distance around a shape. Perimeters for more general shapes can be calculated, as any path, with \\int_0^L \\mathrms , where L is the length of the path and ds is an infinitesimal line element. Both of these must be replaced with by algebraic forms in order to be practically calculated. If the perimeter is given as a closed ": null
+    },
+    {
+        "piecewise smooth plane curve": "plane curve"
+    },
+    {
+        " \\gamma: rightarrow \\mathbb^2 with   : \\gamma\\beginx\\\\y\\end   then its length L can be computed as follows:   : L \\int\\limits_a^b\\sqrt\\,\\mathrm dt     A generalized notion of perimeter, which includes ": null
+    },
+    {
+        "hypersurfaces": "hypersurface"
+    },
+    {
+        "bounding volumes in n -": null
+    },
+    {
+        "dimensional": "dimension"
+    },
+    {
+        " Euclidean space": "euclidean space"
+    },
+    {
+        "s, is described by the theory of ": null
+    },
+    {
+        "Caccioppoli set": "caccioppoli set"
+    },
+    {
+        "s.          ": null
+    },
+    {
+        "Polygons": "polygon"
+    },
+    {
+        "are fundamental to determining perimeters, not only because they are the simplest shapes but also because the perimeters of many shapes are calculated by ": null
+    },
+    {
+        "approximating": "approximationmathematics"
+    },
+    {
+        " them with ": null
+    },
+    {
+        "sequences": "limit of a sequence"
+    },
+    {
+        " of polygons tending to these shapes. The first mathematician known to have used this kind of reasoning is ": null
+    },
+    {
+        "Archimedes": "archimedes"
+    },
+    {
+        ", who approximated the perimeter of a circle by surrounding it with ": null
+    },
+    {
+        "regular polygon": "regular polygon"
+    },
+    {
+        "s.     The perimeter of a polygon equals the ": null
+    },
+    {
+        "sum": "summation"
+    },
+    {
+        " of the lengths of its ": null
+    },
+    {
+        "sides ": "edge"
+    },
+    {
+        ". In particular, the perimeter of a ": null
+    },
+    {
+        "rectangle": "rectangle"
+    },
+    {
+        " of width w and length \\ell equals 2w + 2\\ell.     An ": null
+    },
+    {
+        "equilateral polygon": "equilateral polygon"
+    },
+    {
+        " is a polygon which has all sides of the same length . To calculate the perimeter of an equilateral polygon, one must multiply the common length of the sides by the number of sides.     A ": null
+    },
+    {
+        "regular polygon": "regular polygon"
+    },
+    {
+        " may be characterized by the number of its sides and by its ": null
+    },
+    {
+        "circumradius": "circumradius"
+    },
+    {
+        ", that is to say, the constant distance between its ": null
+    },
+    {
+        "centre": "centre"
+    },
+    {
+        " and each of its ": null
+    },
+    {
+        "vertices": "vertex"
+    },
+    {
+        ". The length of its sides can be calculated using ": null
+    },
+    {
+        "trigonometry": "trigonometry"
+    },
+    {
+        ". If  is a regular polygons radius and  is the number of its sides, then its perimeter is   : 2nR \\sin\\left.     A ": null
+    },
+    {
+        "splitter": "splitter"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "triangle": "triangle"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "cevian": "cevian"
+    },
+    {
+        " that divides the perimeter into two equal lengths, this common length being called the ": null
+    },
+    {
+        "semiperimeter": "semiperimeter"
+    },
+    {
+        " of the triangle. The three splitters of a triangle ": null
+    },
+    {
+        "all intersect each other": "concurrent lines"
+    },
+    {
+        " at the ": null
+    },
+    {
+        "Nagel point": "nagel point"
+    },
+    {
+        " of the triangle.     A ": null
+    },
+    {
+        "cleaver": "cleaver"
+    },
+    {
+        " of a triangle is a segment from the midpoint of a side of a triangle to the opposite side such that the perimeter is divided into two equal lengths. The three cleavers of a triangle all intersect each other at the triangles ": null
+    },
+    {
+        "Spieker center": "spieker center"
+    },
+    {
+        ".             The perimeter of a ": null
+    },
+    {
+        "circle": "circle"
+    },
+    {
+        ", often called the circumference, is proportional to its ": null
+    },
+    {
+        "diameter": "diameter"
+    },
+    {
+        " and its ": null
+    },
+    {
+        "radius": "radius"
+    },
+    {
+        ". That is to say, there exists a constant number ": null
+    },
+    {
+        "pi": "pi"
+    },
+    {
+        ",  , such that if  is the circles perimeter and  its diameter then,   : P \\pi\\cdot.\\!     In terms of the radius  of the circle, this formula becomes,     : P2\\pi\\cdot r.     To calculate a circles perimeter, knowledge of its radius or diameter and the number  suffices. The problem is that  is not ": null
+    },
+    {
+        "rational": "rational number"
+    },
+    {
+        " , nor is it ": null
+    },
+    {
+        "algebraic": "algebraic number"
+    },
+    {
+        " . So, obtaining an accurate approximation of  is important in the calculation. The computation of the digits of  is relevant to many fields, such as ": null
+    },
+    {
+        "mathematical analysis": "mathematical analysis"
+    },
+    {
+        ", ": null
+    },
+    {
+        "algorithmics": "algorithmics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        ".                The perimeter and the ": null
+    },
+    {
+        "area": "area"
+    },
+    {
+        " are two main measures of geometric figures. Confusing them is a common error, as well as believing that the greater one of them is, the greater the other must be. Indeed, a commonplace observation is that an enlargement of a shape make its area grow as well as its perimeter. For example, if a field is drawn on a 1/ scale map, the actual field perimeter can be calculated multiplying the drawing perimeter by . The real area is  times the area of the shape on the map. Nevertheless, there is no relation between the area and the perimeter of an ordinary shape. For example, the perimeter of a rectangle of width 0.001 and length 1000 is slightly above 2000, while the perimeter of a rectangle of width 0.5 and length 2 is 5. Both areas equal to 1.     ": null
+    },
+    {
+        "Proclus": "proclus"
+    },
+    {
+        " reported that Greek peasants fairly parted fields relying on their perimeters.  However, a fields production is proportional to its area, not to its perimeter, so many naive peasants may have gotten fields with long perimeters but small areas .     If one removes a piece from a figure, its area decreases but its perimeter may not. In the case of very irregular shapes, confusion between the perimeter and the ": null
+    },
+    {
+        "convex hull": "convex hull"
+    },
+    {
+        " may arise. The convex hull of a figure may be visualized as the shape formed by a rubber band stretched around it. In the animated picture on the left, all the figures have the same convex hull; the big, first ": null
+    },
+    {
+        "hexagon": "hexagon"
+    },
+    {
+        ".            The isoperimetric problem is to determine a figure with the largest area, amongst those having a given perimeter. The solution is intuitive; it is the ": null
+    },
+    {
+        "circle": "circle"
+    },
+    {
+        ". In particular, this can be used to explain why drops of fat on a ": null
+    },
+    {
+        "broth": "broth"
+    },
+    {
+        " surface are circular.     This problem may seem simple, but its mathematical proof requires some sophisticated theorems. The isoperimetric problem is sometimes simplified by restricting the type of figures to be used. In particular, to find the ": null
+    },
+    {
+        "quadrilateral": "quadrilateral"
+    },
+    {
+        ", or the triangle, or another particular figure, with the largest area amongst those with the same shape having a given perimeter. The solution to the quadrilateral isoperimetric problem is the ": null
+    },
+    {
+        "square": "square"
+    },
+    {
+        ", and the solution to the triangle problem is the ": null
+    },
+    {
+        "equilateral triangle": "equilateral triangle"
+    },
+    {
+        ". In general, the polygon with  sides having the largest area and a given perimeter is the ": null
+    },
+    {
+        "regular polygon": "regular polygon"
+    },
+    {
+        ", which is closer to being a circle than is any irregular polygon with the same number of sides.       The word comes from the ": null
+    },
+    {
+        "Greek": "ancient greek"
+    },
+    {
+        " περίμετρος perimetros from περί peri around and μέτρον metron": null
+    }
+]

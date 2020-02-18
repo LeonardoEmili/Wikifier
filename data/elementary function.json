@@ -1,0 +1,272 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", an elementary function is a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " of one ": null
+    },
+    {
+        "variable": "variable"
+    },
+    {
+        " which is a finite sum, product, and/or composition of the ": null
+    },
+    {
+        "rational functions": "rational function"
+    },
+    {
+        " , ": null
+    },
+    {
+        "sin": "sine"
+    },
+    {
+        ", ": null
+    },
+    {
+        "cos": "trigonometric functions"
+    },
+    {
+        ", ": null
+    },
+    {
+        "exp": "exponential function"
+    },
+    {
+        ", and their ": null
+    },
+    {
+        "inverse functions": "inverse function"
+    },
+    {
+        " .      Elementary functions were introduced by ": null
+    },
+    {
+        "Joseph Liouville": "joseph liouville"
+    },
+    {
+        " in a series of papers from 1833 to 1841. . . . An algebraic treatment of elementary functions was started by ": null
+    },
+    {
+        "Joseph Fels Ritt": "joseph fels ritt"
+    },
+    {
+        " in the 1930s. .           The elementary functions  include:   ": null
+    },
+    {
+        "Constant function": "constant function"
+    },
+    {
+        "s: 2,\\ \\pi,\\ e, etc.   Powers of x\\text x,\\ x^2,\\ x^3, etc.   Roots of x\\text \\sqrt,\\ \\sqrt etc.   ": null
+    },
+    {
+        "Exponential function": "exponential function"
+    },
+    {
+        "s: e^x   ": null
+    },
+    {
+        "Logarithm": "logarithm"
+    },
+    {
+        "s: \\log x   ": null
+    },
+    {
+        "Trigonometric function": "trigonometric function"
+    },
+    {
+        "s: \\sin x,\\ \\cos x,\\ \\tan x, etc.   ": null
+    },
+    {
+        "Inverse trigonometric function": "inverse trigonometric function"
+    },
+    {
+        "s: \\arcsin x,\\ \\arccos x, etc.   ": null
+    },
+    {
+        "Hyperbolic function": "hyperbolic function"
+    },
+    {
+        "s: \\sinh x,\\ \\cosh x, etc.   ": null
+    },
+    {
+        "Inverse hyperbolic function": "inverse hyperbolic function"
+    },
+    {
+        "s: \\operatorname x,\\ \\operatorname x, etc.   All functions obtained by adding, subtracting, multiplying or dividing any of the previous functions    All functions obtained by ": null
+    },
+    {
+        "composing": "function composition"
+    },
+    {
+        " previously listed functions     Some elementary functions, such as roots, logarithms, or ": null
+    },
+    {
+        "inverse trigonometric function": "inverse trigonometric function"
+    },
+    {
+        "s, are not ": null
+    },
+    {
+        "entire functions": "entire function"
+    },
+    {
+        "and may be ": null
+    },
+    {
+        "multivalued": "multivalued function"
+    },
+    {
+        ".       Examples of elementary functions include:     Addition, e.g.    Multiplication, e.g.    ": null
+    },
+    {
+        "Polynomial": "polynomial"
+    },
+    {
+        " functions   \\dfrac\\sin\\left   -i\\ln     The last function is equal to \\arccos x , the ": null
+    },
+    {
+        "inverse cosine": "inverse_trigonometric_functionslogarithmic_forms"
+    },
+    {
+        ", in the entire ": null
+    },
+    {
+        "complex plane": "complex plane"
+    },
+    {
+        ". Hence, it is an elementary function.     All ": null
+    },
+    {
+        "monomial": "monomial"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "polynomials": "polynomial"
+    },
+    {
+        "and ": null
+    },
+    {
+        "rational functions": "rational function"
+    },
+    {
+        "are elementary. Also, the ": null
+    },
+    {
+        "absolute value function": "absolute value"
+    },
+    {
+        ", for real x , is also elementary as it can be expressed as the composition of a power and root of x : |x|\\sqrt .       An example of a function that is not elementary is the ": null
+    },
+    {
+        "error function": "error function"
+    },
+    {
+        " Risch algorithm": "risch algorithm"
+    },
+    {
+        ".     See also the examples in ": null
+    },
+    {
+        "Liouvillian function": "liouvillian_functionexamples"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Nonelementary integral": "nonelementary integral"
+    },
+    {
+        ".       It follows directly from the definition that the set of elementary functions is ": null
+    },
+    {
+        "closed": "closure"
+    },
+    {
+        " under arithmetic operations and composition. The elementary functions are closed under ": null
+    },
+    {
+        "differentiation": "derivative"
+    },
+    {
+        ". They are not closed under ": null
+    },
+    {
+        "limits and infinite sums": "series"
+    },
+    {
+        ". Importantly, the elementary functions are  closed under ": null
+    },
+    {
+        "integration": "antiderivative"
+    },
+    {
+        ", as shown by ": null
+    },
+    {
+        "Liouvilles theorem": "liouvilles theorem"
+    },
+    {
+        ", see ": null
+    },
+    {
+        "Nonelementary integral": "nonelementary integral"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "Liouvillian functions": "liouvillian function"
+    },
+    {
+        "are defined as the elementary functions and, recursively, the integrals of the Liouvillian functions.         The mathematical definition of an elementary function, or a function in elementary form, is considered in the context of ": null
+    },
+    {
+        "differential algebra": "differential algebra"
+    },
+    {
+        ". A differential algebra is an algebra with the extra operation of derivation . Using the derivation operation new equations can be written and their solutions used in ": null
+    },
+    {
+        "extensions": "field extension"
+    },
+    {
+        " of the algebra. By starting with the ": null
+    },
+    {
+        "field": "field"
+    },
+    {
+        " of ": null
+    },
+    {
+        "rational function": "rational function"
+    },
+    {
+        "s, two special types of transcendental extensions can be added to the field building a tower containing elementary functions.     A differential field F is a field F 0  together with a derivation map u  →  ∂u.  The derivation captures the properties of differentiation, so that for any two elements of the base field, the derivation is linear     : \\partial \\partial u + \\partial v     and satisfies the ": null
+    },
+    {
+        "Leibniz product rule": "product rule"
+    },
+    {
+        "     : \\partial\\partial u\\cdot v+u\\cdot\\partial v\\,.     An element h is a constant if ∂h    0. If the base field is over the rationals, care must be taken when extending the field to add the needed transcendental constants.     A function u of a differential extension Fu of a differential field F is an elementary function over F if the function u ": null
+    },
+    {
+        "algebraic": "algebraic function"
+    },
+    {
+        " over F, or   is an exponential, that is, ∂u u ∂a for a ∈ F, or   is a logarithm, that is, ∂u ∂a  /  a for a ∈ F.   ": null
+    }
+]

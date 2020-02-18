@@ -1,0 +1,776 @@
+[
+    {
+        "     Digital signal processing  is the use of ": null
+    },
+    {
+        "digital processing": "digital processing"
+    },
+    {
+        ", such as by computers or more specialized ": null
+    },
+    {
+        "digital signal processor": "digital signal processor"
+    },
+    {
+        "s, to perform a wide variety of ": null
+    },
+    {
+        "signal processing": "signal processing"
+    },
+    {
+        " operations. The signals processed in this manner are a sequence of numbers that represent ": null
+    },
+    {
+        "samples": "sampling"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "continuous variable": "continuous variable"
+    },
+    {
+        " in a domain such as time, space, or frequency.     Digital signal processing and ": null
+    },
+    {
+        "analog signal processing": "analog signal processing"
+    },
+    {
+        " are subfields of signal processing. DSP applications include ": null
+    },
+    {
+        "audio": "audio signal processing"
+    },
+    {
+        " and ": null
+    },
+    {
+        "speech processing": "speech processing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "sonar": "sonar"
+    },
+    {
+        ", ": null
+    },
+    {
+        "radar": "radar"
+    },
+    {
+        " and other ": null
+    },
+    {
+        "sensor array": "sensor array"
+    },
+    {
+        " processing, ": null
+    },
+    {
+        "spectral density estimation": "spectral density estimation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "statistical signal processing": "statistical signal processing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "digital image processing": "digital image processing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "data compression": "data compression"
+    },
+    {
+        ", ": null
+    },
+    {
+        "video coding": "video coding"
+    },
+    {
+        ", ": null
+    },
+    {
+        "audio coding": "audio coding"
+    },
+    {
+        ", ": null
+    },
+    {
+        "image compression": "image compression"
+    },
+    {
+        ", signal processing for ": null
+    },
+    {
+        "telecommunication": "telecommunication"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "control system": "control system"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "biomedical engineering": "biomedical engineering"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "seismology": "seismology"
+    },
+    {
+        ", among others.     DSP can involve linear or nonlinear operations. Nonlinear signal processing is closely related to ": null
+    },
+    {
+        "nonlinear system identification": "nonlinear system identification"
+    },
+    {
+        "  and can be implemented in the ": null
+    },
+    {
+        "time": "time domain"
+    },
+    {
+        ", ": null
+    },
+    {
+        "frequency": "frequency domain"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "spatio-temporal domains": "film"
+    },
+    {
+        ".      The application of digital computation to signal processing allows for many advantages over analog processing in many applications, such as ": null
+    },
+    {
+        "error detection and correction": "error detection and correction"
+    },
+    {
+        " in transmission as well as ": null
+    },
+    {
+        "data compression": "data compression"
+    },
+    {
+        ".  Digital signal processing is also fundamental to ": null
+    },
+    {
+        "digital technology": "digital technology"
+    },
+    {
+        ", such as ": null
+    },
+    {
+        "digital telecommunication": "digital telecommunication"
+    },
+    {
+        " and ": null
+    },
+    {
+        "wireless communications": "wireless communications"
+    },
+    {
+        ".  DSP is applicable to both ": null
+    },
+    {
+        "streaming data": "streaming data"
+    },
+    {
+        " and static data.            To digitally analyze and manipulate an analog signal, it must be digitized with an ": null
+    },
+    {
+        "analog-to-digital converter": "analog-to-digital converter"
+    },
+    {
+        " .  Sampling is usually carried out in two stages, ": null
+    },
+    {
+        "discretization": "discretization"
+    },
+    {
+        " and ": null
+    },
+    {
+        "quantization": "quantization"
+    },
+    {
+        ". Discretization means that the signal is divided into equal intervals of time, and each interval is represented by a single measurement of amplitude. Quantization means each amplitude measurement is approximated by a value from a finite set. Rounding ": null
+    },
+    {
+        "real numbers": "real numbers"
+    },
+    {
+        " to integers is an example.     The ": null
+    },
+    {
+        "Nyquist–Shannon sampling theorem": "nyquist–shannon sampling theorem"
+    },
+    {
+        " states that a signal can be exactly reconstructed from its samples if the sampling frequency is greater than twice the highest frequency component in the signal. In practice, the sampling frequency is often significantly higher than twice the ": null
+    },
+    {
+        "Nyquist frequency": "nyquist frequency"
+    },
+    {
+        ".      Theoretical DSP analyses and derivations are typically performed on ": null
+    },
+    {
+        "discrete-time signal": "discrete-time signal"
+    },
+    {
+        " models with no amplitude inaccuracies , created by the abstract process of ": null
+    },
+    {
+        "sampling": "sampling"
+    },
+    {
+        ". Numerical methods require a quantized signal, such as those produced by an ADC. The processed result might be a frequency spectrum or a set of statistics. But often it is another quantized signal that is converted back to analog form by a ": null
+    },
+    {
+        "digital-to-analog converter": "digital-to-analog converter"
+    },
+    {
+        " .       In DSP, engineers usually study digital signals in one of the following domains: ": null
+    },
+    {
+        "time domain": "time domain"
+    },
+    {
+        " , spatial domain , ": null
+    },
+    {
+        "frequency domain": "frequency domain"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "wavelet": "wavelet"
+    },
+    {
+        " domains. They choose the domain in which to process a signal by making an informed assumption as to which domain best represents the essential characteristics of the signal and the processing to be applied to it. A sequence of samples from a measuring device produces a temporal or spatial domain representation, whereas a ": null
+    },
+    {
+        "discrete Fourier transform": "discrete fourier transform"
+    },
+    {
+        " produces the frequency domain representation.            The most common processing approach in the time or space domain is enhancement of the input signal through a method called filtering. ": null
+    },
+    {
+        "Digital filter": "digital filter"
+    },
+    {
+        "ing generally consists of some linear transformation of a number of surrounding samples around the current sample of the input or output signal. There are various ways to characterize filters; for example:     A linear filter is a ": null
+    },
+    {
+        "linear transformation": "linear transformation"
+    },
+    {
+        " of input samples; other filters are  nonlinear . Linear filters satisfy the ": null
+    },
+    {
+        "superposition principle": "superposition principle"
+    },
+    {
+        ", i.e. if an input is a weighted linear combination of different signals, the output is a similarly weighted linear combination of the corresponding output signals.   A causal filter uses only previous samples of the input or output signals; while a non-causal filter uses future input samples. A non-causal filter can usually be changed into a causal filter by adding a delay to it.   A time-invariant filter has constant properties over time; other filters such as ": null
+    },
+    {
+        "adaptive filters": "adaptive filter"
+    },
+    {
+        "change in time.   A stable filter produces an output that converges to a constant value with time, or remains bounded within a finite interval. An unstable filter can produce an output that grows without bounds, with bounded or even zero input.   A ": null
+    },
+    {
+        "finite impulse response": "finite impulse response"
+    },
+    {
+        " filter uses only the input signals, while an ": null
+    },
+    {
+        "infinite impulse response": "infinite impulse response"
+    },
+    {
+        " filter uses both the input signal and previous samples of the output signal. FIR filters are always stable, while IIR filters may be unstable.     A filter can be represented by a ": null
+    },
+    {
+        "block diagram": "block diagram"
+    },
+    {
+        ", which can then be used to derive a sample processing ": null
+    },
+    {
+        "algorithm": "algorithm"
+    },
+    {
+        " to implement the filter with hardware instructions. A filter may also be described as a ": null
+    },
+    {
+        "difference equation": "difference equation"
+    },
+    {
+        ", a collection of ": null
+    },
+    {
+        "zeros and poles": "zeros and poles"
+    },
+    {
+        " or an ": null
+    },
+    {
+        "impulse response": "impulse response"
+    },
+    {
+        " or ": null
+    },
+    {
+        "step response": "step response"
+    },
+    {
+        ".     The output of a linear digital filter to any given input may be calculated by ": null
+    },
+    {
+        "convolving": "convolution"
+    },
+    {
+        " the input signal with the ": null
+    },
+    {
+        "impulse response": "impulse response"
+    },
+    {
+        ".            Signals are converted from time or space domain to the frequency domain usually through use of the ": null
+    },
+    {
+        "Fourier transform": "fourier transform"
+    },
+    {
+        ". The Fourier transform converts the time or space information to a magnitude and phase component of each frequency. With some applications, how the phase varies with frequency can be a significant consideration. Where phase is unimportant, often the Fourier transform is converted to the power spectrum, which is the magnitude of each frequency component squared.     The most common purpose for analysis of signals in the frequency domain is analysis of signal properties. The engineer can study the spectrum to determine which frequencies are present in the input signal and which are missing. Frequency domain analysis is also called spectrum- or spectral analysis.     Filtering, particularly in non-realtime work can also be achieved in the frequency domain, applying the filter and then converting back to the time domain. This can be an efficient implementation and can give essentially any filter response including excellent approximations to ": null
+    },
+    {
+        "brickwall filter": "brickwall filter"
+    },
+    {
+        "s.     There are some commonly-used frequency domain transformations. For example, the ": null
+    },
+    {
+        "cepstrum": "cepstrum"
+    },
+    {
+        " converts a signal to the frequency domain through Fourier transform, takes the logarithm, then applies another Fourier transform. This emphasizes the harmonic structure of the original spectrum.       Digital filters come in both IIR and FIR types. Whereas FIR filters are always stable, IIR filters have feedback loops that may become unstable and oscillate. The ": null
+    },
+    {
+        "Z-transform": "z-transform"
+    },
+    {
+        " provides a tool for analyzing stability issues of digital IIR filters. It is analogous to the ": null
+    },
+    {
+        "Laplace transform": "laplace transform"
+    },
+    {
+        ", which is used to design and analyze analog IIR filters.          In ": null
+    },
+    {
+        "numerical analysis": "numerical analysis"
+    },
+    {
+        " and ": null
+    },
+    {
+        "functional analysis": "functional analysis"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "discrete wavelet transform": "discrete wavelet transform"
+    },
+    {
+        " is any ": null
+    },
+    {
+        "wavelet transform": "wavelet transform"
+    },
+    {
+        " for which the ": null
+    },
+    {
+        "wavelets": "wavelet"
+    },
+    {
+        "are discretely sampled. As with other wavelet transforms, a key advantage it has over ": null
+    },
+    {
+        "Fourier transforms": "fourier transform"
+    },
+    {
+        "is temporal resolution: it captures both frequency and location information.The accuracy of the joint time-frequency resolution is limited by the ": null
+    },
+    {
+        "uncertainty principle": "uncertainty principlesignal processing"
+    },
+    {
+        " of time-frequency.       Applications of DSP include ": null
+    },
+    {
+        "audio signal processing": "audio signal processing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "audio compression": "audio compression"
+    },
+    {
+        ", ": null
+    },
+    {
+        "digital image processing": "digital image processing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "video compression": "video compression"
+    },
+    {
+        ", ": null
+    },
+    {
+        "speech processing": "speech processing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "speech recognition": "speech recognition"
+    },
+    {
+        ", ": null
+    },
+    {
+        "digital communication": "digital communication"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "digital synthesizer": "digital synthesizer"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "radar": "radar"
+    },
+    {
+        ", ": null
+    },
+    {
+        "sonar": "sonar"
+    },
+    {
+        ", ": null
+    },
+    {
+        "financial signal processing": "financial signal processing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "seismology": "seismology"
+    },
+    {
+        " and ": null
+    },
+    {
+        "biomedicine": "biomedicine"
+    },
+    {
+        ". Specific examples include ": null
+    },
+    {
+        "speech coding": "speech coding"
+    },
+    {
+        " and transmission in digital ": null
+    },
+    {
+        "mobile phone": "mobile phone"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "room correction": "digital room correction"
+    },
+    {
+        " of sound in ": null
+    },
+    {
+        "hi-fi": "hi-fi"
+    },
+    {
+        " and ": null
+    },
+    {
+        "sound reinforcement": "sound reinforcement"
+    },
+    {
+        " applications, ": null
+    },
+    {
+        "weather forecasting": "weather forecasting"
+    },
+    {
+        ", ": null
+    },
+    {
+        "economic forecasting": "economic forecasting"
+    },
+    {
+        ", ": null
+    },
+    {
+        "seismic": "seismology"
+    },
+    {
+        " data processing, analysis and control of ": null
+    },
+    {
+        "industrial process": "industrial process"
+    },
+    {
+        "es, ": null
+    },
+    {
+        "medical imaging": "medical imaging"
+    },
+    {
+        " such as ": null
+    },
+    {
+        "CAT": "computed axial tomography"
+    },
+    {
+        " scans and ": null
+    },
+    {
+        "MRI": "mri"
+    },
+    {
+        ", ": null
+    },
+    {
+        "MP3": "mp3"
+    },
+    {
+        " compression, ": null
+    },
+    {
+        "computer graphics": "computer graphics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "image manipulation": "image manipulation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "audio crossovers": "audio crossover"
+    },
+    {
+        "and ": null
+    },
+    {
+        "equalization": "equalization"
+    },
+    {
+        ", and audio ": null
+    },
+    {
+        "effects unit": "effects unit"
+    },
+    {
+        "s.        DSP ": null
+    },
+    {
+        "algorithms": "algorithm"
+    },
+    {
+        "may be run on general-purpose computers and ": null
+    },
+    {
+        "digital signal processor": "digital signal processor"
+    },
+    {
+        "s. DSP algorithms are also implemented on purpose-built hardware such as ": null
+    },
+    {
+        "application-specific integrated circuit": "application-specific integrated circuit"
+    },
+    {
+        " . Additional technologies for digital signal processing include more powerful general purpose ": null
+    },
+    {
+        "microprocessor": "microprocessor"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "field-programmable gate arrays": "field-programmable gate array"
+    },
+    {
+        ", ": null
+    },
+    {
+        "digital signal controllers": "digital signal controller"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "stream processors": "stream processing"
+    },
+    {
+        ".      For systems that do not have a ": null
+    },
+    {
+        "real-time computing": "real-time computing"
+    },
+    {
+        " requirement and the signal data exists in data files, processing may be done economically with a general-purpose computer. This is essentially no different from any other ": null
+    },
+    {
+        "data processing": "data processing"
+    },
+    {
+        ", except DSP mathematical techniques  are used, and the sampled data is usually assumed to be uniformly sampled in time or space. An example of such an application is processing ": null
+    },
+    {
+        "digital photographs": "digital photograph"
+    },
+    {
+        "with software such as ": null
+    },
+    {
+        "Photoshop": "photoshop"
+    },
+    {
+        ".     When the application requirement is real-time, DSP is often implemented using specialized or dedicated processors or microprocessors, sometimes using multiple processors or multiple processing cores. These may process data using fixed-point arithmetic or floating point. For more demanding applications ": null
+    },
+    {
+        "FPGAs": "fpga"
+    },
+    {
+        "may be used.  For the most demanding applications or high-volume products, ": null
+    },
+    {
+        "ASICs": "application-specific integrated circuit"
+    },
+    {
+        "might be designed specifically for the application.        ": null
+    },
+    {
+        "Bilinear transform": "bilinear transform"
+    },
+    {
+        " Discrete Fourier transform": "discrete fourier transform"
+    },
+    {
+        " Discrete-time Fourier transform": "discrete-time fourier transform"
+    },
+    {
+        " Filter design": "filter design"
+    },
+    {
+        " Goertzel algorithm": "goertzel algorithm"
+    },
+    {
+        " LTI system theory": "lti system theory"
+    },
+    {
+        " Minimum phase": "minimum phase"
+    },
+    {
+        " s-plane": "s-plane"
+    },
+    {
+        " Transfer function": "transfer function"
+    },
+    {
+        " Z-transform": "z-transform"
+    },
+    {
+        "           Analog signal processing": "analog signal processing"
+    },
+    {
+        " Automatic control": "automatic control"
+    },
+    {
+        " Computer Engineering": "computer engineering"
+    },
+    {
+        " Computer science": "computer science"
+    },
+    {
+        " Data compression": "data compression"
+    },
+    {
+        " Dataflow programming": "dataflow programming"
+    },
+    {
+        " Discrete cosine transform": "discrete cosine transform"
+    },
+    {
+        " Electrical engineering": "electrical engineering"
+    },
+    {
+        " Fourier analysis": "fourier analysis"
+    },
+    {
+        " Information theory": "information theory"
+    },
+    {
+        " Machine learning": "machine learning"
+    },
+    {
+        " Real-time computing": "real-time computing"
+    },
+    {
+        " Stream processing": "stream processing"
+    },
+    {
+        " Telecommunication": "telecommunication"
+    },
+    {
+        " Time series": "time series"
+    },
+    {
+        " Wavelet": "wavelet"
+    },
+    {
+        "   ": null
+    }
+]

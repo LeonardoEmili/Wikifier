@@ -1,0 +1,383 @@
+[
+    {
+        "      In physics, power is the rate of doing ": null
+    },
+    {
+        "work": "work"
+    },
+    {
+        " or of ": null
+    },
+    {
+        "transferring heat": "transferring heat"
+    },
+    {
+        ", i.e. the amount of ": null
+    },
+    {
+        "energy": "energy"
+    },
+    {
+        " transferred or converted per unit time. Having no direction, it is a ": null
+    },
+    {
+        "scalar": "scalar"
+    },
+    {
+        " quantity. In the ": null
+    },
+    {
+        "International System of Units": "international system of units"
+    },
+    {
+        ", the unit of power is the ": null
+    },
+    {
+        "joule": "joule"
+    },
+    {
+        " per ": null
+    },
+    {
+        "second": "second"
+    },
+    {
+        " , known as the ": null
+    },
+    {
+        "watt": "watt"
+    },
+    {
+        " in honour of ": null
+    },
+    {
+        "James Watt": "james watt"
+    },
+    {
+        ", the eighteenth-century developer of the ": null
+    },
+    {
+        "condenser steam engine": "watt steam engine"
+    },
+    {
+        ". Another common and traditional measure is ": null
+    },
+    {
+        "horsepower": "horsepower"
+    },
+    {
+        " ; 1 horsepower equals about 745.7 watts. Being the rate of work, the equation for power can be written as:   : \\text\\frac     As a physical concept, power requires both a change in the physical system and a specified time in which the change occurs. This is distinct from the concept of work, which is measured only in terms of a net change in the state of the physical system. The same amount of work is done when carrying a load up a flight of stairs whether the person carrying it walks or runs, but more power is needed for running because the work is done in a shorter amount of time.     The output power of an electric motor is the product of the ": null
+    },
+    {
+        "torque": "torque"
+    },
+    {
+        " that the motor generates and the ": null
+    },
+    {
+        "angular velocity": "angular velocity"
+    },
+    {
+        " of its output shaft. The power involved in moving a ground vehicle is the product of the ": null
+    },
+    {
+        "traction": "traction"
+    },
+    {
+        " force on the wheels and the velocity of the vehicle. The power of a ": null
+    },
+    {
+        "jet-propelled": "jet propulsion"
+    },
+    {
+        " vehicle is the product of the engine ": null
+    },
+    {
+        "thrust": "thrust"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "velocity": "velocity"
+    },
+    {
+        " of the vehicle. The rate at which a light bulb converts electrical energy into light and heat is measured in watts & mdash;the higher the wattage, the more power, or equivalently the more electrical energy is used per unit time.  Chapter 13, & sect; 3, pp 13-2,3  The Feynman Lectures on Physics  Volume I, 1963       The dimension of power is energy divided by time. The ": null
+    },
+    {
+        "SI": "international system of units"
+    },
+    {
+        " unit of power is the ": null
+    },
+    {
+        "watt": "watt"
+    },
+    {
+        " , which is equal to one ": null
+    },
+    {
+        "joule": "joule"
+    },
+    {
+        " per second. Other units of power include ": null
+    },
+    {
+        "ergs": "erg"
+    },
+    {
+        "per second , ": null
+    },
+    {
+        "horsepower": "horsepower"
+    },
+    {
+        " , ": null
+    },
+    {
+        "metric horsepower": "horsepowerps"
+    },
+    {
+        " , and ": null
+    },
+    {
+        "foot-pounds": "foot-pound force"
+    },
+    {
+        " per minute. Other units include ": null
+    },
+    {
+        "dBm": "dbm"
+    },
+    {
+        ", a logarithmic measure relative to a reference of 1 milliwatt, ": null
+    },
+    {
+        "calories": "calorie"
+    },
+    {
+        "per hour, ": null
+    },
+    {
+        "BTU": "btu"
+    },
+    {
+        " per hour , and ": null
+    },
+    {
+        "tons of refrigeration": "refrigeration ton"
+    },
+    {
+        ".       Power, as a function of time, is the rate  at which work is done, so can be expressed by this equation:     : P \\frac     where P is power, W is work, and t is time. Because work is a ": null
+    },
+    {
+        "force": "force"
+    },
+    {
+        " F applied over a ": null
+    },
+    {
+        "distance": "distance"
+    },
+    {
+        " x,   : W \\mathbf \\cdot \\mathbf     for a constant force, power can be rewritten as:   : P \\frac \\frac\\left \\mathbf\\cdot \\frac \\mathbf \\cdot \\mathbf     In fact, this is valid for any force, as a consequence of applying the ": null
+    },
+    {
+        "fundamental theorem of calculus": "fundamental theorem of calculus"
+    },
+    {
+        ".       As a simple example, burning one kilogram of ": null
+    },
+    {
+        "coal": "coal"
+    },
+    {
+        " releases much more energy than does detonating a kilogram of ": null
+    },
+    {
+        "TNT": "trinitrotoluene"
+    },
+    {
+        ", Burning coal produces around 15-30 ": null
+    },
+    {
+        "megajoules": "megajoule"
+    },
+    {
+        "per kilogram, while detonating TNT produces about 4.7 megajoules per kilogram. For the coal value, see  For the TNT value, see the article ": null
+    },
+    {
+        "TNT equivalent": "tnt equivalent"
+    },
+    {
+        ". Neither value includes the weight of oxygen from the air used during combustion. but because the TNT reaction releases energy much more quickly, it delivers far more power than the coal.   If ΔW is the amount of ": null
+    },
+    {
+        "work": "mechanical work"
+    },
+    {
+        " performed during a period of ": null
+    },
+    {
+        "time": "time"
+    },
+    {
+        " of duration Δt, the average power P avg over that period is given by the formula   :   P_\\mathrm \\frac\\,.     It is the average amount of work done or energy converted per unit of time. The average power is often simply called power when the context makes it clear.     The instantaneous power is then the limiting value of the average power as the time interval Δt approaches zero.   :   P \\lim _ P_\\mathrm \\lim _ \\frac \\frac\\,.       In the case of constant power P, the amount of work performed during a period of duration t is given by:   :   W Pt\\,.       In the context of energy conversion, it is more customary to use the symbol E rather than W.          Power in mechanical systems is the combination of forces and movement. In particular, power is the product of a force on an object and the objects velocity, or the product of a torque on a shaft and the shafts angular velocity.     Mechanical power is also described as the time derivative of work. In ": null
+    },
+    {
+        "mechanics": "mechanics"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "work": "mechanical work"
+    },
+    {
+        " done by a force F on an object that travels along a curve C is given by the ": null
+    },
+    {
+        "line integral": "line integral"
+    },
+    {
+        ":   : W_C \\int_\\mathbf\\cdot \\mathbf\\,\\mathrmt \\int_ \\mathbf \\cdot \\mathrm\\mathbf,   where x defines the path C and v is the velocity along this path.     If the force F is derivable from a potential , then applying the ": null
+    },
+    {
+        "gradient theorem": "gradient theorem"
+    },
+    {
+        "  yields:     : W_C U-U,     where A and B are the beginning and end of the path along which the work was done.     The power at any point along the curve C is the time derivative     : P \\frac\\mathbf\\cdot \\mathbf-\\frac.     In one dimension, this can be simplified to:     : P F\\cdot v.     In rotational systems, power is the product of the ": null
+    },
+    {
+        "torque": "torque"
+    },
+    {
+        " τ and ": null
+    },
+    {
+        "angular velocity": "angular velocity"
+    },
+    {
+        " ω ,   : P \\boldsymbol \\cdot \\boldsymbol, \\,   where ω measured in ": null
+    },
+    {
+        "radians": "radian"
+    },
+    {
+        " per second. The \\cdot represents ": null
+    },
+    {
+        "scalar product": "scalar product"
+    },
+    {
+        ".     In fluid power systems such as hydraulic actuators, power is given by   : P pQ, \\!   where p is ": null
+    },
+    {
+        "pressure": "pressure"
+    },
+    {
+        " in ": null
+    },
+    {
+        "pascals": "pascal"
+    },
+    {
+        ", or N/m 2 and Q is ": null
+    },
+    {
+        "volumetric flow rate": "volumetric flow rate"
+    },
+    {
+        " in m 3 /s in SI units.       If a mechanical system has no losses, then the input power must equal the output power. This provides a simple formula for the ": null
+    },
+    {
+        "mechanical advantage": "mechanical advantage"
+    },
+    {
+        " of the system.     Let the input power to a device be a force F A  acting on a point that moves with velocity v A  and the output power be a force F B  acts on a point that moves with velocity v B . If there are no losses in the system, then   : P F_B v_B F_A v_A, \\!   and the ": null
+    },
+    {
+        "mechanical advantage": "mechanical advantage"
+    },
+    {
+        " of the system is given by   : \\mathrm \\frac \\frac.     The similar relationship is obtained for rotating systems, where T A  and ω A  are the torque and angular velocity of the input and T B  and ω B  are the torque and angular velocity of the output. If there are no losses in the system, then   : P T_A \\omega_A T_B \\omega_B, \\!   which yields the ": null
+    },
+    {
+        "mechanical advantage": "mechanical advantage"
+    },
+    {
+        "   : \\mathrm \\frac \\frac.     These relations are important because they define the maximum performance of a device in terms of ": null
+    },
+    {
+        "velocity ratios": "velocity ratio"
+    },
+    {
+        "determined by its physical dimensions. See for example ": null
+    },
+    {
+        "gear ratio": "gear ratio"
+    },
+    {
+        "s.             The instantaneous electrical power P delivered to a component is given by   :   P I \\cdot V \\,       where   :P is the instantaneous power, measured in ": null
+    },
+    {
+        "watts": "watt"
+    },
+    {
+        "    :V is the ": null
+    },
+    {
+        "potential difference": "potential difference"
+    },
+    {
+        " across the component, measured in ": null
+    },
+    {
+        "volts": "volt"
+    },
+    {
+        "  :I is the ": null
+    },
+    {
+        "current": "electric current"
+    },
+    {
+        " through it, measured in ": null
+    },
+    {
+        "amperes": "ampere"
+    },
+    {
+        "    If the component is a ": null
+    },
+    {
+        "resistor": "resistor"
+    },
+    {
+        " with time-invariant ": null
+    },
+    {
+        "voltage": "voltage"
+    },
+    {
+        " to ": null
+    },
+    {
+        "current": "electric current"
+    },
+    {
+        " ratio, then:   :   PI \\cdot V I^2 \\cdot R \\frac \\,       where   :   R \\frac \\,     is the ": null
+    },
+    {
+        "resistance": "electrical resistance"
+    },
+    {
+        ", measured in ": null
+    },
+    {
+        "ohm": "ohm"
+    },
+    {
+        "s.            In the case of a periodic signal s of period T , like a train of identical pulses, the instantaneous power p |s|^2 is also a periodic function of period T . The peak power is simply defined by:   :   P_0 \\max   .     The peak power is not always readily measurable, however, and the measurement of the average power P_\\mathrm is more commonly performed by an instrument. If one defines the energy per pulse as:   :   \\epsilon_\\mathrm \\int_^p \\mathrmt \\,     then the average power is:   :   P_\\mathrm \\frac \\int_^p \\mathrmt \\frac \\,   .     One may define the pulse length \\tau such that P_0\\tau \\epsilon_\\mathrm so that the ratios   :   \\frac \\frac \\,       are equal. These ratios are called the duty cycle of the pulse train.       Power is related to intensity at a radius r ; the power emitted by a source can be written as:": null
+    }
+]

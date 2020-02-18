@@ -1,0 +1,176 @@
+[
+    {
+        "        The MOS Technology 6510 is an ": null
+    },
+    {
+        "8-bit": "8-bit"
+    },
+    {
+        " microprocessor": "microprocessor"
+    },
+    {
+        " designed by ": null
+    },
+    {
+        "MOS Technology": "mos technology"
+    },
+    {
+        ". It is a modified form of the very successful ": null
+    },
+    {
+        "6502": "mos technology 6502"
+    },
+    {
+        ". The 6510 was only widely used in the ": null
+    },
+    {
+        "Commodore 64": "commodore 64"
+    },
+    {
+        " home computer": "home computer"
+    },
+    {
+        " and its variants.     The primary change from the 6502 was the addition of an 8-bit general purpose ": null
+    },
+    {
+        "I/O": "input/output"
+    },
+    {
+        " port, although only six I/O pins were available in the most common version of the 6510. In addition, the address bus could be made ": null
+    },
+    {
+        "tristate": "three-state logic"
+    },
+    {
+        ".       In the C64, the extra I/O pins of the processor were used to control the computers ": null
+    },
+    {
+        "memory map": "memory map"
+    },
+    {
+        " by ": null
+    },
+    {
+        "bank switching": "bank switching"
+    },
+    {
+        ", and for controlling three of the four signal lines of the ": null
+    },
+    {
+        "Datasette": "commodore datasette"
+    },
+    {
+        " tape recorder . It was possible, by writing the correct ": null
+    },
+    {
+        "bit pattern": "bit pattern"
+    },
+    {
+        " to the processor at address $01, to completely expose almost the full 64  ": null
+    },
+    {
+        "KB": "kilobyte"
+    },
+    {
+        " of ": null
+    },
+    {
+        "RAM": "random-access memory"
+    },
+    {
+        " in the C64, leaving no ": null
+    },
+    {
+        "ROM": "read-only memory"
+    },
+    {
+        " or ": null
+    },
+    {
+        "I/O": "i/o"
+    },
+    {
+        " hardware exposed except for the processor I/O port itself and its data directional register.               In 1985, MOS produced the 8500, an ": null
+    },
+    {
+        "HMOS": "hmos"
+    },
+    {
+        " version of the 6510. Other than the process modification, it is virtually identical to the ": null
+    },
+    {
+        "NMOS": "nmos logic"
+    },
+    {
+        " version of the 6510. The 8500 was originally designed for use in the modernised C64, the C64C. However, in 1985, limited quantities of 8500s were found on older NMOS-based C64s. It finally made its official debut in 1987, appearing in a motherboard using the new 85xx HMOS chipset.       The 7501/8501 variant of the 6510 was introduced in 1984.  Hardware – MOS 7501/8501 Compared to the 6510, this variant extends the number of I/O port pins from 6 to 8, but omits the pins for non-maskable interrupt and clock output.  CPU 7501 / 8501 . It was used in Commodores ": null
+    },
+    {
+        "C16": "commodore 16"
+    },
+    {
+        ", ": null
+    },
+    {
+        "C116": "commodore 16"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Plus/4": "commodore plus/4"
+    },
+    {
+        " home computers, where its I/O port controlled not only the ": null
+    },
+    {
+        "Datasette": "commodore datasette"
+    },
+    {
+        " but also the ": null
+    },
+    {
+        "CBM Bus": "commodore 1541interface"
+    },
+    {
+        " interface. The main difference between 7501 and 8501 CPUs is that they were manufactured with slightly different processes: 7501 was manufactured with ": null
+    },
+    {
+        "HMOS-1": "hmos"
+    },
+    {
+        " and 8501 with HMOS-2.       The 2  ": null
+    },
+    {
+        "MHz": "hertz"
+    },
+    {
+        "-capable ": null
+    },
+    {
+        "8502": "mos technology 8502"
+    },
+    {
+        " variant was used in the ": null
+    },
+    {
+        "Commodore 128": "commodore 128"
+    },
+    {
+        ". All these CPUs are ": null
+    },
+    {
+        "opcode": "opcode"
+    },
+    {
+        " compatible .        The ": null
+    },
+    {
+        "Commodore 1551": "commodore 1551"
+    },
+    {
+        " disk drive used the 6510T, a version of the 6510 with eight I/O lines. The ": null
+    },
+    {
+        "NMI": "non-maskable interrupt"
+    }
+]

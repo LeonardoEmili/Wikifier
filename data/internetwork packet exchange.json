@@ -1,0 +1,302 @@
+[
+    {
+        "   Internetwork Packet Exchange  is the ": null
+    },
+    {
+        "network layer": "network layer"
+    },
+    {
+        " protocol": "protocol"
+    },
+    {
+        " in the ": null
+    },
+    {
+        "IPX/SPX": "ipx/spx"
+    },
+    {
+        " protocol suite": "protocol stack"
+    },
+    {
+        ". IPX is derived from ": null
+    },
+    {
+        "Xerox Network Systems": "xerox network systems"
+    },
+    {
+        " IDP": "xerox network systemsbasic internetwork protocol"
+    },
+    {
+        ". It may act as a ": null
+    },
+    {
+        "transport layer": "transport layer"
+    },
+    {
+        " protocol as well.     The IPX/SPX protocol suite was very popular through the late 1980s into the mid-1990s because it was used by the ": null
+    },
+    {
+        "Novell": "novell, inc."
+    },
+    {
+        " NetWare": "netware"
+    },
+    {
+        " network operating system": "network operating system"
+    },
+    {
+        ". Because of Novell NetWare popularity, the IPX became a prominent ": null
+    },
+    {
+        "internetworking": "internetworking"
+    },
+    {
+        " protocol.     A big advantage of IPX was a small ": null
+    },
+    {
+        "memory footprint": "memory footprint"
+    },
+    {
+        " of the IPX driver, which was vital for ": null
+    },
+    {
+        "DOS": "dos"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Windows": "windows"
+    },
+    {
+        " up to the version ": null
+    },
+    {
+        "Windows 95": "windows 95"
+    },
+    {
+        " because of limited size of the ": null
+    },
+    {
+        "conventional memory": "conventional memory"
+    },
+    {
+        ". Another IPX advantage is an easy configuration of the client computers. However, IPX does not scale well for large networks such as the Internet, . and as such, IPX usage decreased as the boom of the ": null
+    },
+    {
+        "Internet": "internet"
+    },
+    {
+        " made ": null
+    },
+    {
+        "TCP/IP": "tcp/ip"
+    },
+    {
+        " nearly universal. Computers and networks can run multiple ": null
+    },
+    {
+        "network protocol": "network protocol"
+    },
+    {
+        "s, so almost all IPX sites will be running TCP/IP as well to allow Internet connectivity.  It is also possible to run later Novell products without IPX, with the beginning of full support for both IPX and TCP/IP by NetWare version 5 . support.novell.com. in late 1998.       A big advantage of IPX protocol is its little or no need for configuration. In the time when protocols for ": null
+    },
+    {
+        "dynamic host configuration": "dynamic host configuration protocol"
+    },
+    {
+        " did not exist and the ": null
+    },
+    {
+        "BOOTP": "bootstrap protocol"
+    },
+    {
+        " protocol for centralized assigning of addresses was not common, the IPX network could be configured almost automatically. A client computer uses the MAC address of its network card as the node address and learns what it needs to know about the network topology from the servers or ": null
+    },
+    {
+        "routers": "router"
+    },
+    {
+        " – routes are propagated by ": null
+    },
+    {
+        "Routing Information Protocol": "routing information protocol"
+    },
+    {
+        ", services by ": null
+    },
+    {
+        "Service Advertising Protocol": "service advertising protocol"
+    },
+    {
+        ".     A small IPX network administrator had to care only   to assign all servers in the same network the same network number,   to assign different network numbers to different frame formats in the same network,   to assign different network numbers to different interfaces of servers with multiple network cards ,   to assign different network numbers to servers in different interconnected networks,   to start router process on nodes with multiple network cards in more complex networks.         Each IPX packet begins with a header with the following structure:          The Packet Type values are:              An IPX address has the following structure:              The network number allows to address the IPX nodes which do not belong to the same network or cabling system. The cabling system is a network in which a ": null
+    },
+    {
+        "data link layer": "data link layer"
+    },
+    {
+        " protocol can be used for communication. To allow communication between different networks, they must be connected with IPX ": null
+    },
+    {
+        "routers": "router"
+    },
+    {
+        ". A set of interconnected networks is called an internetwork. Any ": null
+    },
+    {
+        "Novell NetWare": "novell netware"
+    },
+    {
+        " server may serve as an IPX router. Novell also supplied stand-alone routers. Multiprotocol routers of other vendors often support IPX routing. Using different ": null
+    },
+    {
+        "frame formats": "frame formats"
+    },
+    {
+        " in one cabling system is possible, but it works similarly as if separate cabling systems were used .     Logical networks are assigned a unique 32-bit address in the range 0x1 to 0xFFFFFFFE .   Hosts have a 48-bit node address, which is by default set to the last 4 bytes of the network interface card ": null
+    },
+    {
+        "MAC address": "mac address"
+    },
+    {
+        ". The node address is appended to the network number to create a unique ": null
+    },
+    {
+        "network address": "network address"
+    },
+    {
+        " for the host on the network.   Network number 00:00:00:00 means current network.   Broadcast network number is FF:FF:FF:FF.         The node number is used to address an individual computer in the network. Client stations use its network interface card ": null
+    },
+    {
+        "MAC address": "mac address"
+    },
+    {
+        " as the node number.     The value FF:FF:FF:FF:FF:FF may be used as a node number in a destination address to ": null
+    },
+    {
+        "broadcast": "broadcast address"
+    },
+    {
+        " a packet to all nodes in the current network .         The socket number serves to select a process or application in the destination node.   The presence of a socket number in the IPX address allows the IPX to act as a ": null
+    },
+    {
+        "transport layer": "transport layer"
+    },
+    {
+        " protocol, comparable with the ": null
+    },
+    {
+        "User Datagram Protocol": "user datagram protocol"
+    },
+    {
+        " in the ": null
+    },
+    {
+        "Internet protocol suite": "internet protocol suite"
+    },
+    {
+        ".            The IPX network number is conceptually identical to the network part of the ": null
+    },
+    {
+        "IP address": "ip address"
+    },
+    {
+        " ; the node number has the same meaning as the bits of IP address with netmask bits set to 0. The difference is that the boundary between network and node part of address in IP is variable, while in IPX it is fixed. As the node address is usually identical to the MAC address of the network adapter, the ": null
+    },
+    {
+        "Address Resolution Protocol": "address resolution protocol"
+    },
+    {
+        " is not needed in IPX.     For ": null
+    },
+    {
+        "routing": "routing"
+    },
+    {
+        ", the entries in the IPX ": null
+    },
+    {
+        "routing table": "routing table"
+    },
+    {
+        " are similar to IP routing tables; routing is done by network address, and for each network address a network:node of the next router is specified in a similar fashion an IP address/netmask is specified in IP routing tables.     There are three routing protocols available for IPX networks. In early IPX networks, a version of ": null
+    },
+    {
+        "Routing Information Protocol": "routing information protocol"
+    },
+    {
+        " was the only available protocol to exchange routing information. Unlike RIP for ": null
+    },
+    {
+        "IP": "internet protocol"
+    },
+    {
+        ", it uses delay time as the main metric, retaining the hop count as a secondary metric. Since NetWare 3, the ": null
+    },
+    {
+        "NetWare Link Services Protocol": "netware link services protocol"
+    },
+    {
+        " based on ": null
+    },
+    {
+        "IS-IS": "is-is"
+    },
+    {
+        " is available, which is more suitable for larger networks. ": null
+    },
+    {
+        "Cisco": "cisco"
+    },
+    {
+        " routers implement an IPX version of ": null
+    },
+    {
+        "EIGRP": "enhanced interior gateway routing protocol"
+    },
+    {
+        " protocol as well.        IPX can be transmitted over Ethernet using one of the following 4 frame formats or encapsulation types:     ": null
+    },
+    {
+        "802.3 ": "ethernet framenovell raw ieee 802.3"
+    },
+    {
+        " encapsulation comprises an IEEE 802.3 frame header immediately followed by IPX data. It is used in legacy systems, and can be distinguished by the first two bytes of the IPX header always containing a value of 0xFFFF, which cannot be interpreted as valid LLC Destination and Source ": null
+    },
+    {
+        "Service Access Points": "service access point"
+    },
+    {
+        "in this location of the frame.   ": null
+    },
+    {
+        "802.2 ": "ethernet frameieee 802.2 llc"
+    },
+    {
+        " comprises an IEEE 802.3 frame header followed by an ": null
+    },
+    {
+        "LLC": "logical link control"
+    },
+    {
+        " header  followed by IPX data. The 0xE0 fields of the LLC header indicate NetWare .   ": null
+    },
+    {
+        "802.2": "802.2"
+    },
+    {
+        "  comprises an IEEE 802.3 frame header, an LLC header , a SNAP header , and IPX data. The 0xAA fields of the LLC header indicate SNAP , and the OUI 0x000000 in the SNAP header indicates an encapsulated ": null
+    },
+    {
+        "EtherType": "ethertype"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Ethernet II": "ethernet frameethernet ii"
+    },
+    {
+        " encapsulation comprises an Ethernet II frame header ": null
+    }
+]

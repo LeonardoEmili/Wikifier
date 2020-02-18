@@ -1,0 +1,227 @@
+[
+    {
+        "   The Motorola 68030  is a ": null
+    },
+    {
+        "32-bit": "32-bit"
+    },
+    {
+        " microprocessor": "microprocessor"
+    },
+    {
+        " in the ": null
+    },
+    {
+        "Motorola 68000 family": "motorola 68000 family"
+    },
+    {
+        ". It was released in 1987. The 68030 was the successor to the ": null
+    },
+    {
+        "Motorola 68020": "motorola 68020"
+    },
+    {
+        ", and was followed by the ": null
+    },
+    {
+        "Motorola 68040": "motorola 68040"
+    },
+    {
+        ". In keeping with general ": null
+    },
+    {
+        "Motorola": "motorola"
+    },
+    {
+        " naming, this CPU is often referred to as the 030 .     The 68030 features 273,000 transistors with on-chip instruction and data caches of 256 ": null
+    },
+    {
+        "bytes": "byte"
+    },
+    {
+        "each. It also has an on-chip ": null
+    },
+    {
+        "memory management unit": "memory management unit"
+    },
+    {
+        " but does not have a built in ": null
+    },
+    {
+        "floating-point unit": "floating-point unit"
+    },
+    {
+        " . The ": null
+    },
+    {
+        "68881": "motorola 68881"
+    },
+    {
+        " and the faster ": null
+    },
+    {
+        "68882": "motorola 68882"
+    },
+    {
+        " floating point unit chips could be used with the 68030. A lower cost version of the 68030, the Motorola 68EC030, was also released, lacking the on-chip MMU. It was commonly available in both 132 pin ": null
+    },
+    {
+        "QFP": "quad flat package"
+    },
+    {
+        " and 128 pin ": null
+    },
+    {
+        "PGA": "pin grid array"
+    },
+    {
+        " packages. The poorer thermal characteristics of the QFP package limited the full 68030 QFP variant to 33  MHz; the PGA 68030s included 40  MHz and 50  MHz versions. There was also a small supply of QFP packaged EC variants.          As a microarchitecture, the 68030 is basically a 68020 core with an additional 256 byte data cache and a process shrink and an added ": null
+    },
+    {
+        "burst mode": "burst mode"
+    },
+    {
+        " for the caches, where four ": null
+    },
+    {
+        "longwords": "longword"
+    },
+    {
+        "can be placed in the cache without further CPU intervention. Motorola used the process shrink to pack more hardware on the die; in this case it was the ": null
+    },
+    {
+        "MMU": "memory management unit"
+    },
+    {
+        ", which mostly  compatible with the external 68851. The integration of the MMU made it more cost-effective than the 68020 with an external MMU; it also allowed the 68030 to access memory one cycle faster than a 68020/68851 combo. However, the 68030 can switch between synchronous and asynchronous buses without a reset. The 68030 also lacks some of the 68020s instructions, but it increases performance by & asymp;5% while reducing power draw by & asymp;25% compared to the 68020.     The 68030 can be used with the 68020 bus, in which case its performance is similar to 68020 that it was derived from. However, the 68030 provides an additional synchronous bus interface which, if used, accelerates memory accesses up to 33% compared to an equally clocked 68020. The finer manufacturing process allowed Motorola to scale the full-version processor to 50  MHz. The EC variety topped out at 40  MHz.       The 68030 was used in many models of the ": null
+    },
+    {
+        "Apple": "apple computer"
+    },
+    {
+        " Macintosh II": "macintosh ii"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Commodore Amiga": "commodore amiga"
+    },
+    {
+        " series of ": null
+    },
+    {
+        "personal computer": "personal computer"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "NeXT": "next"
+    },
+    {
+        " Cube, later ": null
+    },
+    {
+        "Alpha Microsystems": "alpha microsystems"
+    },
+    {
+        " multiuser systems, and some descendants of the ": null
+    },
+    {
+        "Atari ST": "atari st"
+    },
+    {
+        " line such as the ": null
+    },
+    {
+        "Atari TT": "atari tt"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Atari Falcon": "atari falcon"
+    },
+    {
+        ". It was also used in Unix ": null
+    },
+    {
+        "workstations": "workstation"
+    },
+    {
+        " such as the ": null
+    },
+    {
+        "Sun Microsystems": "sun microsystems"
+    },
+    {
+        " Sun-3x": "sun-3sun-3x"
+    },
+    {
+        " line of desktop workstations , ": null
+    },
+    {
+        "laser printers": "laser printer"
+    },
+    {
+        "and the Nortel Networks ": null
+    },
+    {
+        "DMS-100": "dms-100"
+    },
+    {
+        " telephone central office switch. More recently, the 68030 core has also been adapted by ": null
+    },
+    {
+        "Freescale": "freescale"
+    },
+    {
+        " into a ": null
+    },
+    {
+        "microcontroller": "microcontroller"
+    },
+    {
+        " for embedded applications.     ": null
+    },
+    {
+        "LeCroy": "lecroy corporation"
+    },
+    {
+        " has used the 68EC030 in certain models of their 9300 Series digital oscilloscopes including “C” suffix models and high performance 9300 Series models, LeCroy 1996 Test & Measurement Product Catalog, 9300 Series Hardware Options, Mega Waveform Processing, Pages 66-67 along with the Mega Waveform Processing hardware option for 68020-based 9300 Series models.       The 68EC030 is a low cost version of the 68030, the difference between the two being that the 68EC030 omits the on-chip ": null
+    },
+    {
+        "memory management unit": "memory management unit"
+    },
+    {
+        " and is thus essentially an upgraded 68020.     The 68EC030 was used as the CPU for the low-cost model of the ": null
+    },
+    {
+        "Amiga 4000": "amiga 4000"
+    },
+    {
+        ", and on a number of CPU accelerator cards for the ": null
+    },
+    {
+        "Commodore Amiga": "commodore amiga"
+    },
+    {
+        " line of computers. It was also used in the ": null
+    },
+    {
+        "Cisco Systems": "cisco systems"
+    },
+    {
+        " 2500 Series": "cisco 2500 series"
+    },
+    {
+        " router, a small-to-medium enterprise computer internetworking appliance.     The 50  MHz speed is exclusive to the ceramic ": null
+    },
+    {
+        "PGA": "pin grid array"
+    },
+    {
+        " package, the plastic 030 stopped at 40  MHz.              ": null
+    }
+]

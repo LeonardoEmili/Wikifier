@@ -1,0 +1,1400 @@
+[
+    {
+        "                 Bioinformatics  is an ": null
+    },
+    {
+        "interdisciplinary": "interdisciplinary"
+    },
+    {
+        " field that develops methods and ": null
+    },
+    {
+        "software tools": "software tool"
+    },
+    {
+        "for understanding ": null
+    },
+    {
+        "biological": "biology"
+    },
+    {
+        " data. As an interdisciplinary field of science, bioinformatics combines ": null
+    },
+    {
+        "biology": "biology"
+    },
+    {
+        ", ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        ", ": null
+    },
+    {
+        "information engineering": "information engineering"
+    },
+    {
+        ", ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "statistics": "statistics"
+    },
+    {
+        " to analyze and interpret biological data. Bioinformatics has been used for  in silico  analyses of biological queries using mathematical and statistical techniques.     Bioinformatics includes biological studies that use ": null
+    },
+    {
+        "computer programming": "computer programming"
+    },
+    {
+        " as part of their methodology, as well as a specific analysis pipelines that are repeatedly used, particularly in the field of ": null
+    },
+    {
+        "genomics": "genomics"
+    },
+    {
+        ". Common uses of bioinformatics include the identification of candidates ": null
+    },
+    {
+        "genes": "gene"
+    },
+    {
+        "and single ": null
+    },
+    {
+        "nucleotide": "nucleotide"
+    },
+    {
+        " polymorphisms . Often, such identification is made with the aim of better understanding the genetic basis of disease, unique adaptations, desirable properties , or differences between populations. In a less formal way, bioinformatics also tries to understand the organisational principles within ": null
+    },
+    {
+        "nucleic acid": "nucleic acid"
+    },
+    {
+        " and ": null
+    },
+    {
+        "protein": "protein"
+    },
+    {
+        " sequences, called ": null
+    },
+    {
+        "proteomics": "proteomics"
+    },
+    {
+        ".        Bioinformatics has become an important part of many areas of biology. In experimental ": null
+    },
+    {
+        "molecular biology": "molecular biology"
+    },
+    {
+        ", bioinformatics techniques such as ": null
+    },
+    {
+        "image": "image processing"
+    },
+    {
+        " and ": null
+    },
+    {
+        "signal processing": "signal processing"
+    },
+    {
+        " allow extraction of useful results from large amounts of raw data. In the field of genetics, it aids in sequencing and annotating genomes and their observed ": null
+    },
+    {
+        "mutation": "mutation"
+    },
+    {
+        "s. It plays a role in the ": null
+    },
+    {
+        "text mining": "text mining"
+    },
+    {
+        " of biological literature and the development of biological and gene ": null
+    },
+    {
+        "ontologies": "ontology"
+    },
+    {
+        " to organize and query biological data. It also plays a role in the analysis of gene and protein expression and regulation. Bioinformatics tools aid in comparing, analyzing and interpreting of genetic and genomic data and more generally in the understanding of evolutionary aspects of molecular biology. At a more integrative level, it helps analyze and catalogue the biological pathways and networks that are an important part of ": null
+    },
+    {
+        "systems biology": "systems biology"
+    },
+    {
+        ". In ": null
+    },
+    {
+        "structural biology": "structural biology"
+    },
+    {
+        ", it aids in the simulation and modeling of DNA,  RNA,  proteins  as well as biomolecular interactions.           Historically, the term bioinformatics did not mean what it means today. ": null
+    },
+    {
+        "Paulien Hogeweg": "paulien hogeweg"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Ben Hesper": "ben hesper"
+    },
+    {
+        " coined it in 1970 to refer to the study of information processes in biotic systems.    This definition placed bioinformatics as a field parallel to ": null
+    },
+    {
+        "biochemistry": "biochemistry"
+    },
+    {
+        " .            Computers became essential in molecular biology when ": null
+    },
+    {
+        "protein sequences": "protein sequences"
+    },
+    {
+        " became available after ": null
+    },
+    {
+        "Frederick Sanger": "frederick sanger"
+    },
+    {
+        " determined the sequence of ": null
+    },
+    {
+        "insulin": "insulin"
+    },
+    {
+        " in the early 1950s. Comparing multiple sequences manually turned out to be impractical. A pioneer in the field was ": null
+    },
+    {
+        "Margaret Oakley Dayhoff": "margaret oakley dayhoff"
+    },
+    {
+        ".  She compiled one of the first protein sequence databases, initially published as books Dayhoff, M.O. Atlas of protein sequence and structure. National Biomedical Research Foundation, 215 pp. and pioneered methods of sequence alignment and molecular evolution.  Another early contributor to bioinformatics was ": null
+    },
+    {
+        "Elvin A. Kabat": "elvin a. kabat"
+    },
+    {
+        ", who pioneered biological sequence analysis in 1970 with his comprehensive volumes of antibody sequences released with Tai Te Wu between 1980 and 1991.        To study how normal cellular activities are altered in different disease states, the biological data must be combined to form a comprehensive picture of these activities. Therefore, the field of bioinformatics has evolved such that the most pressing task now involves the analysis and interpretation of various types of data. This includes nucleotide and ": null
+    },
+    {
+        "amino acid sequence": "amino acid sequence"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "protein domain": "protein domain"
+    },
+    {
+        "s, and ": null
+    },
+    {
+        "protein structure": "protein structure"
+    },
+    {
+        "s.  The actual process of analyzing and interpreting data is referred to as ": null
+    },
+    {
+        "computational biology": "computational biology"
+    },
+    {
+        ". Important sub-disciplines within bioinformatics and computational biology include:     Development and implementation of computer programs that enable efficient access to, management and use of, various types of information   Development of new algorithms and statistical measures that assess relationships among members of large data sets. For example, there are methods to locate a ": null
+    },
+    {
+        "gene": "gene"
+    },
+    {
+        " within a sequence, to predict protein structure and/or function, and to ": null
+    },
+    {
+        "cluster": "cluster analysis"
+    },
+    {
+        " protein sequences into families of related sequences.     The primary goal of bioinformatics is to increase the understanding of biological processes. What sets it apart from other approaches, however, is its focus on developing and applying computationally intensive techniques to achieve this goal. Examples include: ": null
+    },
+    {
+        "pattern recognition": "pattern recognition"
+    },
+    {
+        ", ": null
+    },
+    {
+        "data mining": "data mining"
+    },
+    {
+        ", ": null
+    },
+    {
+        "machine learning": "machine learning"
+    },
+    {
+        " algorithms, and ": null
+    },
+    {
+        "visualization": "biological data visualization"
+    },
+    {
+        ". Major research efforts in the field include ": null
+    },
+    {
+        "sequence alignment": "sequence alignment"
+    },
+    {
+        ", ": null
+    },
+    {
+        "gene finding": "gene finding"
+    },
+    {
+        ", ": null
+    },
+    {
+        "genome assembly": "genome assembly"
+    },
+    {
+        ", ": null
+    },
+    {
+        "drug design": "drug design"
+    },
+    {
+        ", ": null
+    },
+    {
+        "drug discovery": "drug discovery"
+    },
+    {
+        ", ": null
+    },
+    {
+        "protein structure alignment": "protein structural alignment"
+    },
+    {
+        ", ": null
+    },
+    {
+        "protein structure prediction": "protein structure prediction"
+    },
+    {
+        ", prediction of ": null
+    },
+    {
+        "gene expression": "gene expression"
+    },
+    {
+        " and ": null
+    },
+    {
+        "protein–protein interactions": "protein–protein interactions"
+    },
+    {
+        ", ": null
+    },
+    {
+        "genome-wide association studies": "genome-wide association studies"
+    },
+    {
+        ", the modeling of ": null
+    },
+    {
+        "evolution": "evolution"
+    },
+    {
+        " and ": null
+    },
+    {
+        "cell division/mitosis.": "cellular model"
+    },
+    {
+        "     Bioinformatics now entails the creation and advancement of databases, algorithms, computational and statistical techniques, and theory to solve formal and practical problems arising from the management and analysis of biological data.     Over the past few decades, rapid developments in genomic and other molecular research technologies and developments in ": null
+    },
+    {
+        "information technologies": "information technologies"
+    },
+    {
+        " have combined to produce a tremendous amount of information related to molecular biology. Bioinformatics is the name given to these mathematical and computing approaches used to glean understanding of biological processes.     Common activities in bioinformatics include mapping and analyzing ": null
+    },
+    {
+        "DNA": "dna"
+    },
+    {
+        " and protein sequences, aligning DNA and protein sequences to compare them, and creating and viewing 3-D models of protein structures.       Bioinformatics is a science field that is similar to but distinct from ": null
+    },
+    {
+        "biological computation": "biological computation"
+    },
+    {
+        ", while it is often considered synonymous to ": null
+    },
+    {
+        "computational biology": "computational biology"
+    },
+    {
+        ". Biological computation uses ": null
+    },
+    {
+        "bioengineering": "bioengineering"
+    },
+    {
+        " and ": null
+    },
+    {
+        "biology": "biology"
+    },
+    {
+        " to build biological ": null
+    },
+    {
+        "computer": "computer"
+    },
+    {
+        "s, whereas bioinformatics uses computation to better understand biology. Bioinformatics and computational biology involve the analysis of biological data, particularly DNA, RNA, and protein sequences. The field of bioinformatics experienced explosive growth starting in the mid-1990s, driven largely by the ": null
+    },
+    {
+        "Human Genome Project": "human genome project"
+    },
+    {
+        " and by rapid advances in DNA sequencing technology.     Analyzing biological data to produce meaningful information involves writing and running software programs that use ": null
+    },
+    {
+        "algorithms": "algorithm"
+    },
+    {
+        "from ": null
+    },
+    {
+        "graph theory": "graph theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "artificial intelligence": "artificial intelligence"
+    },
+    {
+        ", ": null
+    },
+    {
+        "soft computing": "soft computing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "data mining": "data mining"
+    },
+    {
+        ", ": null
+    },
+    {
+        "image processing": "image processing"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "computer simulation": "computer simulation"
+    },
+    {
+        ". The algorithms in turn depend on theoretical foundations such as ": null
+    },
+    {
+        "discrete mathematics": "discrete mathematics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "control theory": "control theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "system theory": "system theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "information theory": "information theory"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "statistics": "statistics"
+    },
+    {
+        ".               Since the ": null
+    },
+    {
+        "Phage Φ-X174": "phi x 174"
+    },
+    {
+        " was ": null
+    },
+    {
+        "sequenced": "sequencing"
+    },
+    {
+        " in 1977,  the ": null
+    },
+    {
+        "DNA sequences": "dna sequence"
+    },
+    {
+        "of thousands of organisms have been decoded and stored in databases. This sequence information is analyzed to determine genes that encode ": null
+    },
+    {
+        "protein": "protein"
+    },
+    {
+        "s, RNA genes, regulatory sequences, structural motifs, and repetitive sequences. A comparison of genes within a ": null
+    },
+    {
+        "species": "species"
+    },
+    {
+        " or between different species can show similarities between protein functions, or relations between species . With the growing amount of data, it long ago became impractical to analyze DNA sequences manually. Today, ": null
+    },
+    {
+        "computer programs": "computer program"
+    },
+    {
+        "such as ": null
+    },
+    {
+        "BLAST": "blast"
+    },
+    {
+        " are used daily to search sequences from more than 260 000 organisms, containing over 190 billion ": null
+    },
+    {
+        "nucleotide": "nucleotide"
+    },
+    {
+        "s.  These programs can compensate for mutations in the DNA sequence, to identify sequences that are related, but not identical. A variant of this ": null
+    },
+    {
+        "sequence alignment": "sequence alignment"
+    },
+    {
+        " is used in the sequencing process itself. For the special task of taxonomic classification of sequence snippets, modern ": null
+    },
+    {
+        "k-mer": "k-mer"
+    },
+    {
+        " based software like Kraken achieves throughput unreachable by alignment methods.          Before sequences can be analyzed they have to be obtained from the data storage bank example the Genbank. ": null
+    },
+    {
+        "DNA sequencing": "dna sequencing"
+    },
+    {
+        " is still a non-trivial problem as the raw data may be noisy or afflicted by weak signals. ": null
+    },
+    {
+        "Algorithms": "algorithm"
+    },
+    {
+        "have been developed for ": null
+    },
+    {
+        "base calling": "base calling"
+    },
+    {
+        " for the various experimental approaches to DNA sequencing.          Most DNA sequencing techniques produce short fragments of sequence that need to be assembled to obtain complete gene or genome sequences. The so-called ": null
+    },
+    {
+        "shotgun sequencing": "shotgun sequencing"
+    },
+    {
+        " technique   generates the sequences of many thousands of small DNA fragments . The ends of these fragments overlap and, when aligned properly by a genome assembly program, can be used to reconstruct the complete genome. Shotgun sequencing yields sequence data quickly, but the task of assembling the fragments can be quite complicated for larger genomes. For a genome as large as the ": null
+    },
+    {
+        "human genome": "human genome"
+    },
+    {
+        ", it may take many days of CPU time on large-memory, multiprocessor computers to assemble the fragments, and the resulting assembly usually contains numerous gaps that must be filled in later. Shotgun sequencing is the method of choice for virtually all genomes sequenced today, and genome assembly algorithms are a critical area of bioinformatics research.                 In the context of ": null
+    },
+    {
+        "genomics": "genomics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "annotation": "genome projectgenome annotation"
+    },
+    {
+        " is the process of marking the genes and other biological features in a DNA sequence. This process needs to be automated because most genomes are too large to annotate by hand, not to mention the desire to annotate as many genomes as possible, as the rate of ": null
+    },
+    {
+        "sequencing": "dna sequencing"
+    },
+    {
+        " has ceased to pose a bottleneck. Annotation is made possible by the fact that genes have recognisable start and stop regions, although the exact sequence found in these regions can vary between genes.     The first description of a comprehensive genome annotation system was published in 1995 by the team at ": null
+    },
+    {
+        "The Institute for Genomic Research": "the institute for genomic research"
+    },
+    {
+        " that performed the first complete sequencing and analysis of the genome of a free-living organism, the bacterium  Haemophilus influenzae . ": null
+    },
+    {
+        "Owen White": "owen white"
+    },
+    {
+        " designed and built a software system to identify the genes encoding all proteins, transfer RNAs, ribosomal RNAs and to make initial functional assignments. Most current genome annotation systems work similarly, but the programs available for analysis of genomic DNA, such as the ": null
+    },
+    {
+        "GeneMark": "genemark"
+    },
+    {
+        " program trained and used to find protein-coding genes in  Haemophilus influenzae , are constantly changing and improving.     Following the goals that the Human Genome Project left to achieve after its closure in 2003, a new project developed by the National Human Genome Research Institute in the U.S appeared. The so-called ": null
+    },
+    {
+        "ENCODE": "encode"
+    },
+    {
+        " project is a collaborative data collection of the functional elements of the human genome that uses next-generation DNA-sequencing technologies and genomic tiling arrays, technologies able to automatically generate large amounts of data at a dramatically reduced per-base cost but with the same accuracy and fidelity .            ": null
+    },
+    {
+        "Evolutionary biology": "evolutionary biology"
+    },
+    {
+        " is the study of the origin and descent of ": null
+    },
+    {
+        "species": "species"
+    },
+    {
+        ", as well as their change over time. ": null
+    },
+    {
+        "Informatics": "informatics"
+    },
+    {
+        " has assisted evolutionary biologists by enabling researchers to:   trace the evolution of a large number of organisms by measuring changes in their ": null
+    },
+    {
+        "DNA": "dna"
+    },
+    {
+        ", rather than through physical taxonomy or physiological observations alone,   compare entire ": null
+    },
+    {
+        "genomes": "genomes"
+    },
+    {
+        ", which permits the study of more complex evolutionary events, such as ": null
+    },
+    {
+        "gene duplication": "gene duplication"
+    },
+    {
+        ", ": null
+    },
+    {
+        "horizontal gene transfer": "horizontal gene transfer"
+    },
+    {
+        ", and the prediction of factors important in bacterial ": null
+    },
+    {
+        "speciation": "speciation"
+    },
+    {
+        ",   build complex computational ": null
+    },
+    {
+        "population genetics": "population genetics"
+    },
+    {
+        " models to predict the outcome of the system over time    track and share information on an increasingly large number of species and organisms   Future work endeavours to reconstruct the now more complex ": null
+    },
+    {
+        "tree of life": "evolutionary tree"
+    },
+    {
+        ".     The area of research within ": null
+    },
+    {
+        "computer science": "computer science"
+    },
+    {
+        " that uses ": null
+    },
+    {
+        "genetic algorithms": "genetic algorithm"
+    },
+    {
+        "is sometimes confused with computational evolutionary biology, but the two areas are not necessarily related.            The core of comparative genome analysis is the establishment of the correspondence between ": null
+    },
+    {
+        "genes": "genes"
+    },
+    {
+        "  or other genomic features in different organisms. It is these intergenomic maps that make it possible to trace the evolutionary processes responsible for the divergence of two genomes. A multitude of evolutionary events acting at various organizational levels shape genome evolution. At the lowest level, point mutations affect individual nucleotides. At a higher level, large chromosomal segments undergo duplication, lateral transfer, inversion, transposition, deletion and insertion.  Ultimately, whole genomes are involved in processes of hybridization, polyploidization and ": null
+    },
+    {
+        "endosymbiosis": "endosymbiosis"
+    },
+    {
+        ", often leading to rapid speciation. The complexity of genome evolution poses many exciting challenges to developers of mathematical models and algorithms, who have recourse to a spectrum of algorithmic, statistical and mathematical techniques, ranging from exact, ": null
+    },
+    {
+        "heuristics": "heuristics"
+    },
+    {
+        ", fixed parameter and ": null
+    },
+    {
+        "approximation algorithms": "approximation algorithms"
+    },
+    {
+        " for problems based on parsimony models to ": null
+    },
+    {
+        "Markov chain Monte Carlo": "markov chain monte carlo"
+    },
+    {
+        " algorithms for ": null
+    },
+    {
+        "Bayesian analysis": "bayesian analysis"
+    },
+    {
+        " of problems based on probabilistic models.     Many of these studies are based on the detection of ": null
+    },
+    {
+        "sequence homology": "sequence homology"
+    },
+    {
+        " to assign sequences to ": null
+    },
+    {
+        "protein families": "protein family"
+    },
+    {
+        ".             Pan genomics is a concept introduced in 2005 by Tettelin and Medini which eventually took root in bioinformatics. Pan genome is the complete gene repertoire of a particular taxonomic group: although initially applied to closely related strains of a species, it can be applied to a larger context like genus, phylum etc. It is divided in two parts- The Core genome: Set of genes common to all the genomes under study and The Dispensable/Flexible Genome: Set of genes not present in all but one or some genomes under study. A bioinformatics tool BPGA can be used to characterize the Pan Genome of bacterial species.             With the advent of next-generation sequencing we are obtaining enough sequence data to map the genes of complex diseases ": null
+    },
+    {
+        "infertility": "infertility"
+    },
+    {
+        ",  ": null
+    },
+    {
+        "breast cancer": "breast cancer"
+    },
+    {
+        "  or ": null
+    },
+    {
+        "Alzheimers disease": "alzheimers disease"
+    },
+    {
+        ".  Genome-wide association studies are a useful approach to pinpoint the mutations responsible for such complex diseases.  Through these studies, thousands of DNA variants have been identified that are associated with similar diseases and traits.  Furthermore, the possibility for genes to be used at prognosis, diagnosis or treatment is one of the most essential applications. Many studies are discussing both the promising ways to choose the genes to be used and the problems and pitfalls of using genes to predict disease presence or prognosis.             In ": null
+    },
+    {
+        "cancer": "cancer"
+    },
+    {
+        ", the genomes of affected cells are rearranged in complex or even unpredictable ways. Massive sequencing efforts are used to identify previously unknown ": null
+    },
+    {
+        "point mutations": "point mutation"
+    },
+    {
+        "in a variety of ": null
+    },
+    {
+        "genes": "gene"
+    },
+    {
+        "in cancer. Bioinformaticians continue to produce specialized automated systems to manage the sheer volume of sequence data produced, and they create new algorithms and software to compare the sequencing results to the growing collection of ": null
+    },
+    {
+        "human genome": "human genome"
+    },
+    {
+        " sequences and ": null
+    },
+    {
+        "germline": "germline"
+    },
+    {
+        " polymorphisms. New physical detection technologies are employed, such as ": null
+    },
+    {
+        "oligonucleotide": "oligonucleotide"
+    },
+    {
+        " microarrays to identify chromosomal gains and losses , and ": null
+    },
+    {
+        "single-nucleotide polymorphism": "single-nucleotide polymorphism"
+    },
+    {
+        " arrays to detect known point mutations. These detection methods simultaneously measure several hundred thousand sites throughout the genome, and when used in high-throughput to measure thousands of samples, generate ": null
+    },
+    {
+        "terabytes": "terabyte"
+    },
+    {
+        "of data per experiment. Again the massive amounts and new types of data generate new opportunities for bioinformaticians. The data is often found to contain considerable variability, or ": null
+    },
+    {
+        "noise": "noise"
+    },
+    {
+        ", and thus ": null
+    },
+    {
+        "Hidden Markov model": "hidden markov model"
+    },
+    {
+        " and change-point analysis methods are being developed to infer real ": null
+    },
+    {
+        "copy number": "copy number variation"
+    },
+    {
+        " changes.     Two important principles can be used in the analysis of cancer genomes bioinformatically pertaining to the identification of mutations in the ": null
+    },
+    {
+        "exome": "exome"
+    },
+    {
+        ". First, cancer is a disease of accumulated somatic mutations in genes. Second cancer contains driver mutations which need to be distinguished from passengers.      With the breakthroughs that this next-generation sequencing technology is providing to the field of Bioinformatics, cancer genomics could drastically change. These new methods and software allow bioinformaticians to sequence many cancer genomes quickly and affordably. This could create a more flexible process for classifying types of cancer by analysis of cancer driven mutations in the genome. Furthermore, tracking of patients while the disease progresses may be possible in the future with the sequence of cancer samples.      Another type of data that requires novel informatics development is the analysis of ": null
+    },
+    {
+        "lesions": "lesion"
+    },
+    {
+        "found to be recurrent among many tumors.           The ": null
+    },
+    {
+        "expression": "gene expression"
+    },
+    {
+        " of many genes can be determined by measuring ": null
+    },
+    {
+        "mRNA": "messenger rna"
+    },
+    {
+        " levels with multiple techniques including ": null
+    },
+    {
+        "microarrays": "dna microarray"
+    },
+    {
+        ", ": null
+    },
+    {
+        "expressed cDNA sequence tag": "expressed sequence tag"
+    },
+    {
+        " sequencing, ": null
+    },
+    {
+        "serial analysis of gene expression": "serial analysis of gene expression"
+    },
+    {
+        " tag sequencing, ": null
+    },
+    {
+        "massively parallel signature sequencing": "massively parallel signature sequencing"
+    },
+    {
+        " , ": null
+    },
+    {
+        "RNA-Seq": "rna-seq"
+    },
+    {
+        ", also known as Whole Transcriptome Shotgun Sequencing , or various applications of multiplexed in-situ hybridization. All of these techniques are extremely noise-prone and/or subject to bias in the biological measurement, and a major research area in computational biology involves developing statistical tools to separate ": null
+    },
+    {
+        "signal": "signal"
+    },
+    {
+        " from ": null
+    },
+    {
+        "noise": "noise"
+    },
+    {
+        " in high-throughput gene expression studies.  Such studies are often used to determine the genes implicated in a disorder: one might compare microarray data from cancerous ": null
+    },
+    {
+        "epithelial": "epithelial"
+    },
+    {
+        " cells to data from non-cancerous cells to determine the transcripts that are up-regulated and down-regulated in a particular population of cancer cells.       ": null
+    },
+    {
+        "Protein microarrays": "protein microarray"
+    },
+    {
+        "and high throughput ": null
+    },
+    {
+        "mass spectrometry": "mass spectrometry"
+    },
+    {
+        " can provide a snapshot of the proteins present in a biological sample. Bioinformatics is very much involved in making sense of protein microarray and HT MS data; the former approach faces similar problems as with microarrays targeted at mRNA, the latter involves the problem of matching large amounts of mass data against predicted masses from protein sequence databases, and the complicated statistical analysis of samples where multiple, but incomplete peptides from each protein are detected. Cellular protein localization in a tissue context can be achieved through affinity ": null
+    },
+    {
+        "proteomics": "proteomics"
+    },
+    {
+        " displayed as spatial data based on ": null
+    },
+    {
+        "immunohistochemistry": "immunohistochemistry"
+    },
+    {
+        " and ": null
+    },
+    {
+        "tissue microarray": "tissue microarray"
+    },
+    {
+        "s.        ": null
+    },
+    {
+        "Gene regulation": "regulation of gene expression"
+    },
+    {
+        " is the complex orchestration of events by which a signal, potentially an extracellular signal such as a ": null
+    },
+    {
+        "hormone": "hormone"
+    },
+    {
+        ", eventually leads to an increase or decrease in the activity of one or more ": null
+    },
+    {
+        "protein": "protein"
+    },
+    {
+        "s. Bioinformatics techniques have been applied to explore various steps in this process.     For example, gene expression can be regulated by nearby elements in the genome. Promoter analysis involves the identification and study of ": null
+    },
+    {
+        "sequence motifs": "sequence motif"
+    },
+    {
+        "in the DNA surrounding the coding region of a gene. These motifs influence the extent to which that region is transcribed into mRNA. ": null
+    },
+    {
+        "Enhancer": "enhancer"
+    },
+    {
+        " elements far away from the promoter can also regulate gene expression, through three-dimensional looping interactions. These interactions can be determined by bioinformatic analysis of ": null
+    },
+    {
+        "chromosome conformation capture": "chromosome conformation capture"
+    },
+    {
+        " experiments.     Expression data can be used to infer gene regulation: one might compare ": null
+    },
+    {
+        "microarray": "microarray"
+    },
+    {
+        " data from a wide variety of states of an organism to form hypotheses about the genes involved in each state. In a single-cell organism, one might compare stages of the ": null
+    },
+    {
+        "cell cycle": "cell cycle"
+    },
+    {
+        ", along with various stress conditions . One can then apply ": null
+    },
+    {
+        "clustering algorithms": "cluster analysis"
+    },
+    {
+        " to that expression data to determine which genes are co-expressed. For example, the upstream regions of co-expressed genes can be searched for over-represented ": null
+    },
+    {
+        "regulatory elements": "regulatory elements"
+    },
+    {
+        ". Examples of clustering algorithms applied in gene clustering are ": null
+    },
+    {
+        "k-means clustering": "k-means clustering"
+    },
+    {
+        ", ": null
+    },
+    {
+        "self-organizing maps": "self-organizing map"
+    },
+    {
+        ", ": null
+    },
+    {
+        "hierarchical clustering": "hierarchical clustering"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "consensus clustering": "consensus clustering"
+    },
+    {
+        " methods.       Several approaches have been developed to analyze the location of organelles, genes, proteins, and other components within cells. This is relevant as the location of these components affects the events within a cell and thus helps us to predict the behavior of biological systems. A ": null
+    },
+    {
+        "gene ontology": "gene ontology"
+    },
+    {
+        " category, cellular compartment, has been devised to capture subcellular localization in many ": null
+    },
+    {
+        "biological database": "biological database"
+    },
+    {
+        "s.       Microscopic pictures allow us to locate both ": null
+    },
+    {
+        "organelles": "organelle"
+    },
+    {
+        "as well as molecules. It may also help us to distinguish between normal and abnormal cells, e.g. in ": null
+    },
+    {
+        "cancer": "cancer"
+    },
+    {
+        ".       The localization of proteins helps us to evaluate the role of a protein. For instance, if a protein is found in the ": null
+    },
+    {
+        "nucleus": "cell nucleus"
+    },
+    {
+        " it may be involved in ": null
+    },
+    {
+        "gene regulation": "regulation of gene expression"
+    },
+    {
+        " or ": null
+    },
+    {
+        "splicing": "rna splicing"
+    },
+    {
+        ". By contrast, if a protein is found in ": null
+    },
+    {
+        "mitochondria": "mitochondrion"
+    },
+    {
+        ", it may be involved in ": null
+    },
+    {
+        "respiration": "cellular respiration"
+    },
+    {
+        " or other ": null
+    },
+    {
+        "metabolic processes": "metabolism"
+    },
+    {
+        ". Protein localization is thus an important component of ": null
+    },
+    {
+        "protein function prediction": "protein function prediction"
+    },
+    {
+        ". There are well developed ": null
+    },
+    {
+        "protein subcellular localization prediction": "protein subcellular localization prediction"
+    },
+    {
+        " resources available, including protein subcellular location databases, and prediction tools.            Data from high-throughput ": null
+    },
+    {
+        "chromosome conformation capture": "chromosome conformation capture"
+    },
+    {
+        " experiments, such as ": null
+    },
+    {
+        "Hi-C ": "hi-c"
+    },
+    {
+        " and ": null
+    },
+    {
+        "ChIA-PET": "chia-pet"
+    },
+    {
+        ", can provide information on the spatial proximity of DNA loci. Analysis of these experiments can determine the three-dimensional structure and ": null
+    },
+    {
+        "nuclear organization": "nuclear organization"
+    },
+    {
+        " of chromatin. Bioinformatic challenges in this field include partitioning the genome into domains, such as ": null
+    },
+    {
+        "Topologically Associating Domains": "topologically associating domain"
+    },
+    {
+        ", that are organised together in three-dimensional space.                   Protein structure prediction is another important application of bioinformatics. The ": null
+    },
+    {
+        "amino acid": "amino acid"
+    },
+    {
+        " sequence of a protein, the so-called ": null
+    },
+    {
+        "primary structure": "primary structure"
+    },
+    {
+        ", can be easily determined from the sequence on the gene that codes for it. In the vast majority of cases, this primary structure uniquely determines a structure in its native environment.  Knowledge of this structure is vital in understanding the function of the protein. Structural information is usually classified as one of  secondary ,  tertiary  and  quaternary  structure. A viable general solution to such predictions remains an open problem. Most efforts have so far been directed towards heuristics that work most of the time.     One of the key ideas in bioinformatics is the notion of ": null
+    },
+    {
+        "homology": "sequence homology"
+    },
+    {
+        ". In the genomic branch of bioinformatics, homology is used to predict the function of a gene: if the sequence of gene A, whose function is known, is homologous to the sequence of gene B, whose function is unknown, one could infer that B may share As function. In the structural branch of bioinformatics, homology is used to determine which parts of a protein are important in structure formation and interaction with other proteins. In a technique called ": null
+    },
+    {
+        "homology modeling": "homology modeling"
+    },
+    {
+        ", this information is used to predict the structure of a protein once the structure of a homologous protein is known. This currently remains the only way to predict protein structures reliably.     One example of this is hemoglobin in humans and the hemoglobin in legumes , which are distant relatives from the same ": null
+    },
+    {
+        "protein superfamily": "protein superfamily"
+    },
+    {
+        ". Both serve the same purpose of transporting oxygen in the organism. Although both of these proteins have completely different amino acid sequences, their protein structures are virtually identical, which reflects their near identical purposes and shared ancestor.      Other techniques for predicting protein structure include protein threading and de novo physics-based modeling.     Another aspect of structural bioinformatics include the use of protein structures for ": null
+    },
+    {
+        "Virtual Screening": "virtual screening"
+    },
+    {
+        " models such as ": null
+    },
+    {
+        "Quantitative Structure-Activity Relationship": "qsar"
+    },
+    {
+        " models and proteochemometric models . Furthermore, a proteins crystal structure can be used in simulation of for example ligand-binding studies and in silico mutagenesis studies.            Network analysis seeks to understand the relationships within ": null
+    },
+    {
+        "biological networks": "biological network"
+    },
+    {
+        "such as ": null
+    },
+    {
+        "metabolic": "metabolic network"
+    },
+    {
+        " or ": null
+    },
+    {
+        "protein–protein interaction networks": "interactome"
+    },
+    {
+        ". Although biological networks can be constructed from a single type of molecule or entity , network biology often attempts to integrate many different data types, such as proteins, small molecules, gene expression data, and others, which are all connected physically, functionally, or both.     Systems biology involves the use of ": null
+    },
+    {
+        "computer simulations": "computer simulation"
+    },
+    {
+        "of ": null
+    },
+    {
+        "cellular": "cell"
+    },
+    {
+        " subsystems  to both analyze and visualize the complex connections of these cellular processes. ": null
+    },
+    {
+        "Artificial life": "artificial life"
+    },
+    {
+        " or virtual evolution attempts to understand evolutionary processes via the computer simulation of simple life forms.               Tens of thousands of three-dimensional protein structures have been determined by ": null
+    },
+    {
+        "X-ray crystallography": "x-ray crystallography"
+    },
+    {
+        " and ": null
+    },
+    {
+        "protein nuclear magnetic resonance spectroscopy": "protein nuclear magnetic resonance spectroscopy"
+    },
+    {
+        " and a central question in structural bioinformatics is whether it is practical to predict possible protein–protein interactions only based on these 3D shapes, without performing ": null
+    },
+    {
+        "protein–protein interaction": "protein–protein interaction"
+    },
+    {
+        " experiments. A variety of methods have been developed to tackle the ": null
+    },
+    {
+        "protein–protein docking": "protein–protein docking"
+    },
+    {
+        " problem, though it seems that there is still much work to be done in this field.     Other interactions encountered in the field include Protein–ligand and ": null
+    },
+    {
+        "protein–peptide": "protein–peptide"
+    },
+    {
+        ". Molecular dynamic simulation of movement of atoms about rotatable bonds is the fundamental principle behind computational ": null
+    },
+    {
+        "algorithm": "algorithm"
+    },
+    {
+        "s, termed docking algorithms, for studying ": null
+    },
+    {
+        "molecular interactions": "interactome"
+    },
+    {
+        ".                The growth in the number of published literature makes it virtually impossible to read every paper, resulting in disjointed sub-fields of research. Literature analysis aims to employ computational and statistical linguistics to mine this growing library of text resources. For example:   Abbreviation recognition – identify the long-form and abbreviation of biological terms   Named entity recognition – recognizing biological terms such as gene names   Protein–protein interaction – identify which ": null
+    },
+    {
+        "proteins": "protein"
+    },
+    {
+        "interact with which proteins from text     The area of research draws from ": null
+    },
+    {
+        "statistics": "statistics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "computational linguistics": "computational linguistics"
+    },
+    {
+        ".       Computational technologies are used to accelerate or fully automate the processing, quantification and analysis of large amounts of high-information-content ": null
+    },
+    {
+        "biomedical imagery": "medical imaging"
+    },
+    {
+        ". Modern ": null
+    },
+    {
+        "image analysis": "image analysis"
+    },
+    {
+        " systems augment an observers ability to make measurements from a large or complex set of images, by improving ": null
+    },
+    {
+        "accuracy": "accuracy"
+    },
+    {
+        ", ": null
+    },
+    {
+        "objectivity": "objectivity"
+    },
+    {
+        ", or speed. A fully developed analysis system may completely replace the observer. Although these systems are not unique to biomedical imagery, biomedical imaging is becoming more important for both ": null
+    },
+    {
+        "diagnostics": "diagnostics"
+    },
+    {
+        " and research. Some examples are:   high-throughput and high-fidelity quantification and sub-cellular localization    ": null
+    },
+    {
+        "morphometrics": "morphometrics"
+    },
+    {
+        " DNA mapping": "gene mapping"
+    },
+    {
+        ", e.g. the ": null
+    },
+    {
+        "Sulston score": "sulston score"
+    },
+    {
+        "          Computational techniques are used to analyse high-throughput, low-measurement single cell data, such as that obtained from ": null
+    },
+    {
+        "flow cytometry": "flow cytometry"
+    },
+    {
+        ". These methods typically involve finding populations of cells that are relevant to a particular disease state or experimental condition.          Biodiversity informatics deals with the collection and analysis of ": null
+    },
+    {
+        "biodiversity": "biodiversity"
+    },
+    {
+        " data, such as ": null
+    },
+    {
+        "taxonomic database": "taxonomic database"
+    },
+    {
+        "s, or ": null
+    },
+    {
+        "microbiome": "microbiome"
+    },
+    {
+        " data. Examples of such analyses include ": null
+    },
+    {
+        "phylogenetics": "phylogenetics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "niche modelling": "niche modelling"
+    },
+    {
+        ", ": null
+    },
+    {
+        "species richness": "species richness"
+    },
+    {
+        " mapping, ": null
+    },
+    {
+        "DNA barcoding": "dna barcoding"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "species": "speciesism"
+    },
+    {
+        " identification tools.       Biological ontologies are ": null
+    },
+    {
+        "directed acyclic graphs": "directed acyclic graph"
+    },
+    {
+        "of ": null
+    },
+    {
+        "controlled vocabularies": "controlled vocabulary"
+    },
+    {
+        ". They are designed to capture biological concepts and descriptions in a way that can be easily categorised and analysed with computers. When categorised in this way, it is possible to gain added value from holistic and integrated analysis.     The ": null
+    },
+    {
+        "OBO Foundry": "obo foundry"
+    },
+    {
+        " was an effort to standardise certain ontologies. One of the most widespread is the ": null
+    },
+    {
+        "Gene ontology": "gene ontology"
+    },
+    {
+        " which describes gene function. There are also ontologies which describe phenotypes.          Databases are essential for bioinformatics research and applications. Many databases exist, covering various information types: for example, DNA and protein sequences, molecular structures, phenotypes and biodiversity. Databases may contain empirical data , predicted data , or, most commonly, both. They may be specific to a particular organism, pathway or molecule of interest. Alternatively, they can incorporate data compiled from multiple other databases. These databases vary in their format, access mechanism, and whether they are public or not.     Some of the most commonly used databases are listed below. For a more comprehensive list, please check the link at the beginning of the subsection.     Used in biological sequence analysis: ": null
+    },
+    {
+        "Genbank": "genbank"
+    },
+    {
+        ", ": null
+    },
+    {
+        "UniProt": "uniprot"
+    },
+    {
+        " Protein Data Bank": "protein data bank"
+    },
+    {
+        "   Used in finding Protein Families and ": null
+    },
+    {
+        "Motif": "sequence motif"
+    },
+    {
+        " Finding: ": null
+    },
+    {
+        "InterPro": "interpro"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Pfam": "pfam"
+    },
+    {
+        " Sequence Read Archive": "sequence read archive"
+    },
+    {
+        " KEGG": "kegg"
+    },
+    {
+        ", ": null
+    },
+    {
+        "BioCyc": "biocyc database collection"
+    },
+    {
+        "mputi": "mputi"
+    },
+    {
+        "ftwa": "ftwa"
+    },
+    {
+        "BOSCSequence Search ServicesMultiple Sequence AlignmentBiological Sequence Analysis": null
+    },
+    {
+        "mputational biolo": "mputational biolo"
+    },
+    {
+        "rkflow engi": "rkflow engi"
+    },
+    {
+        "ucation platfo": "ucation platfo"
+    },
+    {
+        "UC San Diego": "university of california, san diego"
+    },
+    {
+        "Johns Hopkins": "johns hopkins university"
+    },
+    {
+        "Harvard": "harvard university"
+    },
+    {
+        "ISMBECCB": null
+    }
+]

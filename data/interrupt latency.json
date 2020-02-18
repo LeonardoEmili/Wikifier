@@ -1,0 +1,143 @@
+[
+    {
+        "      In computing, interrupt latency is the time that elapses from when an ": null
+    },
+    {
+        "interrupt": "interrupt"
+    },
+    {
+        " is generated to when the source of the interrupt is serviced. For many operating systems, devices are serviced as soon as the devices ": null
+    },
+    {
+        "interrupt handler": "interrupt handler"
+    },
+    {
+        " is executed. Interrupt latency may be affected by ": null
+    },
+    {
+        "microprocessor": "microprocessor"
+    },
+    {
+        " design, ": null
+    },
+    {
+        "interrupt controller": "interrupt controller"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "interrupt mask": "interrupt mask"
+    },
+    {
+        "ing, and the ": null
+    },
+    {
+        "operating systems": "operating system"
+    },
+    {
+        " interrupt handling methods.       There is usually a trade-off between interrupt latency, ": null
+    },
+    {
+        "throughput": "throughput"
+    },
+    {
+        ", and processor utilization. Many of the techniques of ": null
+    },
+    {
+        "CPU": "microprocessor"
+    },
+    {
+        " and ": null
+    },
+    {
+        "OS": "operating system"
+    },
+    {
+        " design that improve interrupt latency will decrease throughput and increase processor utilization. Techniques that increase throughput may increase interrupt latency and increase processor utilization. Lastly, trying to reduce processor utilization may increase interrupt latency and decrease throughput.     Minimum interrupt latency is largely determined by the ": null
+    },
+    {
+        "interrupt controller": "interrupt controller"
+    },
+    {
+        " circuit and its configuration. They can also affect the ": null
+    },
+    {
+        "jitter": "jitter"
+    },
+    {
+        " in the interrupt latency, which can drastically affect the ": null
+    },
+    {
+        "real-time": "real-time computing"
+    },
+    {
+        " schedulability": "scheduling"
+    },
+    {
+        " of the system. The ": null
+    },
+    {
+        "Intel APIC architecture": "intel apic architecture"
+    },
+    {
+        " is well known for producing a huge amount of interrupt latency jitter.     Maximum interrupt latency is largely determined by the methods an OS uses for interrupt handling. For example, most processors allow programs to disable interrupts, putting off the execution of interrupt handlers, in order to protect ": null
+    },
+    {
+        "critical sections": "critical section"
+    },
+    {
+        "of code. During the execution of such a critical section, all interrupt handlers that cannot execute safely within a critical section are blocked . So the interrupt latency for a blocked interrupt is extended to the end of the critical section, plus any interrupts with equal and higher priority that arrived while the block was in place.     Many computer systems require low interrupt latencies, especially ": null
+    },
+    {
+        "embedded systems": "embedded system"
+    },
+    {
+        "that need to ": null
+    },
+    {
+        "control": "control system"
+    },
+    {
+        " machinery in real-time. Sometimes these systems use a ": null
+    },
+    {
+        "real-time operating system": "real-time operating system"
+    },
+    {
+        " . An RTOS makes the promise that no more than a specified maximum amount of time will pass between executions of ": null
+    },
+    {
+        "subroutine": "subroutine"
+    },
+    {
+        "s. In order to do this, the RTOS must also guarantee that interrupt latency will never exceed a predefined maximum.       Advanced interrupt controllers implement a multitude of hardware features in order to minimize the overhead during ": null
+    },
+    {
+        "context switch": "context switch"
+    },
+    {
+        "es and the effective interrupt latency. These include features like:     Minimum jitter through non-interruptible instructions   Zero wait states for the memory system   Switchable register banks   Tail chaining   Lazy stacking   Late arrival   Pop preemption   Sleep-on-exit feature     Also, there are many other methods hardware may use to help lower the requirements for shorter interrupt latency in order to make a given interrupt latency tolerable in a situation. These include buffers, and ": null
+    },
+    {
+        "flow control": "flow control"
+    },
+    {
+        ". For example, most network cards implement transmit and receive ": null
+    },
+    {
+        "ring buffer": "ring buffer"
+    },
+    {
+        "s, interrupt rate limiting, and hardware flow control. Buffers allow data to be stored until it can be transferred, and flow control allows the network card to pause communications without having to discard data if the buffer is full.     Modern hardware also implements interrupt rate limiting. This helps prevent ": null
+    },
+    {
+        "interrupt storms": "interrupt storm"
+    },
+    {
+        "or ": null
+    },
+    {
+        "live-lock": "live-lock"
+    }
+]

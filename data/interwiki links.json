@@ -1,0 +1,170 @@
+[
+    {
+        "          Interwiki linking  is a facility for creating ": null
+    },
+    {
+        "links": "hyperlink"
+    },
+    {
+        "to the many ": null
+    },
+    {
+        "wikis": "wiki"
+    },
+    {
+        "on the ": null
+    },
+    {
+        "World Wide Web": "world wide web"
+    },
+    {
+        ". Users avoid pasting in entire ": null
+    },
+    {
+        "URLs": "uniform resource locator"
+    },
+    {
+        " and instead use a ": null
+    },
+    {
+        "shorthand": "shorthand"
+    },
+    {
+        " similar to links within the same wiki .     Unlike ": null
+    },
+    {
+        "domain names": "domain name"
+    },
+    {
+        "on the Internet, there is no globally defined list of interwiki prefixes, so owners of a wiki must define an interwiki map appropriate to their needs. Users generally have to create separate accounts for each wiki they intend to use . Variations in text formatting and layout can also hinder a seamless transition from one wiki to the next.     By making wiki links simpler to type for the members of a particular community, these features help bring the different wikis closer together. Furthering that goal, interwiki bus tours  have been created to explain the purposes and highlights of different wikis. Such examples on ": null
+    },
+    {
+        "Wikipedia": "wikipedia"
+    },
+    {
+        " include  and .       Interwiki link notation varies, depending largely on the syntax a wiki uses for markup. The two most common link patterns in wikis are ": null
+    },
+    {
+        "CamelCase": "camel_case"
+    },
+    {
+        " and free links . ": null
+    },
+    {
+        "CURIE": "curie"
+    },
+    {
+        " syntax—an emerging W3C standard—uses a single set of square brackets.     Interwiki links on a CamelCase-based wiki frequently take the form of Code:PageName , where Code is the defined InterMap prefix for another wiki. Thus, a link WikiPedia:InterWiki could be rendered in ": null
+    },
+    {
+        "HTML": "html"
+    },
+    {
+        " as a link to an article on Wikipedia: for example, . Linking from a CamelCase-wiki to a page that contains spaces in its title typically requires replacing the spaces with underscores .     Interwiki links on wikis based on free links, such as Wikipedia, typically follow the same principle, but using the delimiters that would be used for internal links. These links can then be parsed and escaped as they would be if they were internal, allowing easier typing of spaces but potentially causing problems with other special characters. For example, on Wikipedia, ": null
+    },
+    {
+        "MeatBall:AssumeGoodFaith": "meatball:assumegoodfaith"
+    },
+    {
+        " appears as ": null
+    },
+    {
+        "MeatBall:AssumeGoodFaith": "meatball:assumegoodfaith"
+    },
+    {
+        ", and ": null
+    },
+    {
+        ":de:InterWiki": ":de:interwiki"
+    },
+    {
+        "  appears as ": null
+    },
+    {
+        ":de:InterWiki": ":de:interwiki"
+    },
+    {
+        ".     The ": null
+    },
+    {
+        "MediaWiki": "mediawiki"
+    },
+    {
+        " software has an additional feature which uses similar notation to create automatic interlanguage links—for instance, the link ": null
+    },
+    {
+        "de:InterWiki": "de:interwiki"
+    },
+    {
+        " automatically creates a reference labeled Other languages: ": null
+    },
+    {
+        "Deutsch": ":de:interwiki"
+    },
+    {
+        " wiki software": "wiki software"
+    },
+    {
+        " systems have features for semi-internal links of this kind, such as support for ": null
+    },
+    {
+        "namespaces": "namespace"
+    },
+    {
+        "or multiple sub-communities.     Most InterMap implementations simply replace the interwiki prefix with a full URL prefix, so many non-wiki websites can also be referred to using the system. A reference to a definition on the ": null
+    },
+    {
+        "Free On-line Dictionary of Computing": "free on-line dictionary of computing"
+    },
+    {
+        ", for instance, could take the form ": null
+    },
+    {
+        "Foldoc:foo": "foldoc:foo"
+    },
+    {
+        " which would tell the system to append and display the link as . This makes it very easy to link to commonly referenced resources from within a wiki page, without the need to even know the form of the URL in question.     The interwiki concept can equally be applied to links from non-wiki websites. ": null
+    },
+    {
+        "Advogato": "advogato"
+    },
+    {
+        ", for instance, offers a syntax for creating shorthand links based on a MeatBall-derived InterMap.     ": null
+    },
+    {
+        "WordPress": "wordpress"
+    },
+    {
+        " offers a similar shortcode shorthand notation for embedding images, videos, LaTeX formulas and equations, maps, etc. hosted on other websites.            Internally, a wiki that uses interwiki links needs to have a mapping from wiki-code links to full URLs. For example, ": null
+    },
+    {
+        "MeatBall:InterWiki": "meatball:interwiki"
+    },
+    {
+        " might appear as ": null
+    },
+    {
+        "MeatBall:InterWiki": "meatball:interwiki"
+    },
+    {
+        ", but link to  .     Since most wiki systems use URLs for individual pages where the pages title appears at the end of an otherwise unchanging address, the simplest way of defining such mappings is by substituting the interwiki prefix for the unchanging part of the URL. So in the example above, the MeatBall: has simply been replaced by ? in creating the target of the ": null
+    },
+    {
+        "HTML": "html"
+    },
+    {
+        " rendered link.     Rather than creating a new list from scratch for every wiki, it is often useful to obtain a copy of that from another site. Sites such as ": null
+    },
+    {
+        "MeatballWiki": "meatballwiki"
+    },
+    {
+        "  and the ": null
+    },
+    {
+        "UseModWiki": "usemodwiki"
+    },
+    {
+        " site contain comprehensive lists which are often used for this purpose - the former being publicly editable in the same way as any other wiki page, and the latter being verified as usable but potentially out of date. MediaWikis default list of interwiki links is derived from an old version of MeatballWikis list.  ": null
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "      Spontaneous emission is the process in which a ": null
+    },
+    {
+        "quantum mechanical": "quantum mechanics"
+    },
+    {
+        " system  transitions from an ": null
+    },
+    {
+        "excited energy state": "excited state"
+    },
+    {
+        " to a lower energy state  and emits a quantised amount of energy in the form of a ": null
+    },
+    {
+        "photon": "photon"
+    },
+    {
+        ". Spontaneous emission is ultimately responsible for most of the light we see all around us; it is so ubiquitous that there are many names given to what is essentially the same process. If atoms are excited by some means other than heating, the spontaneous emission is called ": null
+    },
+    {
+        "luminescence": "luminescence"
+    },
+    {
+        ". For example, fireflies are luminescent. And there are different forms of luminescence depending on how excited atoms are produced . If the excitation is affected by the absorption of radiation the spontaneous emission is called ": null
+    },
+    {
+        "fluorescence": "fluorescence"
+    },
+    {
+        ". Sometimes molecules have a metastable level and continue to fluoresce long after the exciting radiation is turned off; this is called ": null
+    },
+    {
+        "phosphorescence": "phosphorescence"
+    },
+    {
+        ". Figurines that glow in the dark are phosphorescent. ": null
+    },
+    {
+        "Lasers": "laser"
+    },
+    {
+        "start via spontaneous emission, then during continuous operation work by ": null
+    },
+    {
+        "stimulated emission": "stimulated emission"
+    },
+    {
+        ".     Spontaneous emission cannot be explained by ": null
+    },
+    {
+        "classical electromagnetic theory": "classical electromagnetism"
+    },
+    {
+        " and is fundamentally a quantum process. The first person to derive the rate of spontaneous emission accurately from first principles was ": null
+    },
+    {
+        "Dirac": "paul dirac"
+    },
+    {
+        " in his quantum theory of radiation,  the precursor to the theory which he later coined ": null
+    },
+    {
+        "quantum electrodynamics": "quantum electrodynamics"
+    },
+    {
+        ".  Contemporary physicists, when asked to give a physical explanation for spontaneous emission, generally invoke the ": null
+    },
+    {
+        "zero-point energy": "zero-point energy"
+    },
+    {
+        " of the electromagnetic field.   In 1963 the ": null
+    },
+    {
+        "Jaynes-Cummings model": "jaynes-cummings model"
+    },
+    {
+        "  was developed describing the system of a ": null
+    },
+    {
+        "two-level atom": "two-level system"
+    },
+    {
+        " interacting with a quantized field mode within an optical cavity. It gave the nonintuitive prediction that the rate of spontaneous emission could be controlled depending on the boundary conditions of the surrounding vacuum field. These experiments gave rise to ": null
+    },
+    {
+        "cavity quantum electrodynamics": "cavity quantum electrodynamics"
+    },
+    {
+        " , the study of effects of mirrors and cavities on radiative corrections.       If a light source is in an excited state with energy E_2 , it may spontaneously decay to a lower lying level with energy E_1 , releasing the difference in energy between the two states as a photon. The photon will have ": null
+    },
+    {
+        "angular frequency": "angular frequency"
+    },
+    {
+        " \\omega and an ": null
+    },
+    {
+        "energy": "energy"
+    },
+    {
+        " \\hbar \\omega :     : E_2 - E_1 \\hbar \\omega,     where \\hbar is the ": null
+    },
+    {
+        "reduced Planck constant": "reduced planck constant"
+    },
+    {
+        ". Note: \\hbar \\omega h\\nu , where h is the ": null
+    },
+    {
+        "Planck constant": "planck constant"
+    },
+    {
+        " and \\nu is the linear ": null
+    },
+    {
+        "frequency": "frequency"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "phase": "phase"
+    },
+    {
+        " of the photon in spontaneous emission is random as is the direction in which the photon propagates. This is not true for ": null
+    },
+    {
+        "stimulated emission": "stimulated emission"
+    },
+    {
+        ". An energy level diagram illustrating the process of spontaneous emission is shown below:     ": null
+    },
+    {
+        "Image:Spontaneousemission.png": "image:spontaneousemission.png"
+    },
+    {
+        "     If the number of light sources in the excited state at time t is given by N , the rate at which N decays is:     : \\frac -A_ N,     where A_ is the rate of spontaneous emission. In the rate-equation A_ is a proportionality constant for this particular transition in this particular light source. The constant is referred to as the  Einstein A coefficient , and has units s^ . R. Loudon, The Quantum Theory of Light, 3rd ed. .   The above equation can be solved to give:     : N N e^ N e^,     where N is the initial number of light sources in the excited state, t is the time and \\Gamma_ is the radiative decay rate of the transition. The number of excited states N thus decays exponentially with time, similar to ": null
+    },
+    {
+        "radioactive decay": "radioactive decay"
+    },
+    {
+        ". After one lifetime, the number of excited states decays to 36.8% of its original value . The radiative decay rate \\Gamma_ is inversely proportional to the lifetime \\tau_ :     : A_\\Gamma_\\frac.       Spontaneous transitions were not explainable within the framework of the ": null
+    },
+    {
+        "Schrödinger equation": "schrödinger equation"
+    },
+    {
+        ", in which the electronic energy levels were quantized, but the electromagnetic field was not. Given that the eigenstates of an atom are properly diagonalized, the overlap of the wavefunctions between the excited state and the ground state of the atom is zero. Thus, in the absence of a quantized electromagnetic field, the excited state atom cannot decay to the ground state. In order to explain spontaneous transitions, quantum mechanics must be extended to a ": null
+    },
+    {
+        "quantum field theory": "quantum field theory"
+    },
+    {
+        ", wherein the electromagnetic field is quantized at every point in space. The quantum field theory of electrons and electromagnetic fields is known as ": null
+    },
+    {
+        "quantum electrodynamics": "quantum electrodynamics"
+    },
+    {
+        ".     In quantum electrodynamics , the electromagnetic field has a ": null
+    },
+    {
+        "ground state": "ground state"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "QED vacuum": "qed vacuum"
+    },
+    {
+        ", which can mix with the excited stationary states of the atom. As a result of this interaction, the stationary state of the atom is no longer a true ": null
+    },
+    {
+        "eigenstate": "eigenstate"
+    },
+    {
+        " of the combined system of the atom plus electromagnetic field. In particular, the electron transition from the excited state to the electronic ground state mixes with the transition of the electromagnetic field from the ground state to an excited state, a field state with one photon in it. Spontaneous emission in free space depends upon ": null
+    },
+    {
+        "vacuum fluctuations": "quantum fluctuation"
+    },
+    {
+        "to get started.               Although there is only one electronic transition from the excited state to ground state, there are many ways in which the electromagnetic field may go from the ground state to a one-photon state. That is, the electromagnetic field has infinitely more degrees of freedom, corresponding to the different directions in which the photon can be emitted. Equivalently, one might say that the ": null
+    },
+    {
+        "phase space": "phase space"
+    },
+    {
+        " offered by the electromagnetic field is infinitely larger than that offered by the atom. This infinite degree of freedom for the emission of the photon results in the apparent irreversible decay, i.e., spontaneous emission.     In the presence of electromagnetic vacuum modes, the combined atom-vacuum system is explained by the superposition of the wavefunctions of the excited state atom with no photon and the ground state atom with a single emitted photon:     : |\\psi\\rangle ae^|e;0\\rangle + \\sum_ b_e^|g;1_\\rangle     where |e;0\\rangle and a are the atomic excited state-electromagnetic vacuum wavefunction and its probability amplitude, |g;1_\\rangle and b_ are the ground state atom with a single photon wavefunction and its probability amplitude, \\omega_0 is the atomic transition frequency, and \\omega_k c|k| is the frequency of the photon. The sum is over k and s , which are the wavenumber and polarization of the emitted photon, respectively. As mentioned above, the emitted photon has a chance to be emitted with different wavenumbers and polarizations, and the resulting wavefunction is a superposition of these possibilities. To calculate the probability of the atom at the ground state , one needs to solve the time evolution of the wavefunction with an appropriate Hamiltonian. To solve for the transition amplitude, one needs to average over all the vacuum modes, since one must consider the probabilities that the emitted photon occupies various parts of phase space equally. The spontaneously emitted photon has infinite different modes to propagate into, thus the probability of the atom re-absorbing the photon and returning to the original state is negligible, making the atomic decay practically irreversible. Such irreversible time evolution of the atom-vacuum system is responsible for the apparent spontaneous decay of an excited atom. If one were to keep track of all the vacuum modes, the combined atom-vacuum system would undergo unitary time evolution, making the decay process reversible. ": null
+    },
+    {
+        "Cavity quantum electrodynamics": "cavity quantum electrodynamics"
+    },
+    {
+        " is one such system where the vacuum modes are modified resulting in the reversible decay process, see also ": null
+    },
+    {
+        "Quantum revival": "quantum revival"
+    },
+    {
+        ". The theory of the spontaneous emission under the QED framework was first calculated by Weisskopf and Wigner.     In spectroscopy one can frequently find that atoms or molecules in the excited states dissipate their energy in the absence of any external source of photons. This is not spontaneous emission, but is actually nonradiative relaxation of the atoms or molecules caused by the fluctuation of the surrounding molecules present inside the bulk.       The rate of spontaneous emission can be described by ": null
+    },
+    {
+        "Fermis golden rule": "fermis golden rule"
+    },
+    {
+        ". B. Henderson and G. Imbusch, Optical Spectroscopy of Inorganic Solids . The rate of emission depends on two factors: an atomic part, which describes   the internal structure of the light source and a field part, which describes the density of electromagnetic modes of the environment. The atomic part describes the strength of a transition between two states in terms of transition moments. In a homogeneous medium, such as ": null
+    },
+    {
+        "free space": "free space"
+    },
+    {
+        ", the rate of spontaneous emission in the dipole approximation is given by:     : \\Gamma_ \\frac   \\frac     : \\frac   4 \\alpha | \\langle 1|\\mathbf|2\\rangle |^2     where \\omega is the emission frequency, n is the ": null
+    },
+    {
+        "index of refraction": "index of refraction"
+    },
+    {
+        ", \\mu_ is the ": null
+    },
+    {
+        "transition dipole moment": "transition dipole moment"
+    },
+    {
+        ", \\varepsilon_0 is the ": null
+    },
+    {
+        "vacuum permittivity": "vacuum permittivity"
+    },
+    {
+        ", \\hbar is the ": null
+    },
+    {
+        "reduced Planck constant": "reduced planck constant"
+    },
+    {
+        ", c is the vacuum ": null
+    },
+    {
+        "speed of light": "speed of light"
+    },
+    {
+        ", and \\alpha is the ": null
+    },
+    {
+        "fine structure constant": "fine structure constant"
+    },
+    {
+        ". The above equation clearly shows that the rate of spontaneous emission in free space increases proportionally to \\omega^3 .     In contrast with atoms, which have a discrete emission spectrum, ": null
+    },
+    {
+        "quantum dots": "quantum dots"
+    },
+    {
+        " can be tuned continuously by changing their size. This property has been used to check the \\omega^3 -frequency dependence of the spontaneous emission rate as described by Fermis golden rule. A. F. van Driel, G. Allan, C. Delerue, P. Lodahl,W. L. Vos and D. Vanmaekelbergh,   Frequency-dependent spontaneous emission rate from CdSe   and CdTe nanocrystals: Influence of dark states, Physical Review Letters,   95, 236804 .http://cops.tnw.utwente.nl/pdf/05/PHYSICAL%20REVIEW%20LETTERS%2095%20236804%20.pdf       In the rate-equation above, it is assumed that decay of the number of excited states N only occurs under emission of light. In this case one speaks of full radiative decay and this means that the quantum efficiency is 100%. Besides radiative decay, which occurs under the emission of light, there is a second decay mechanism; nonradiative decay. To determine the total decay rate \\Gamma_ , radiative and nonradiative rates should be summed:     : \\Gamma_\\Gamma_ + \\Gamma_     where \\Gamma_ is the total decay rate, \\Gamma_ is the radiative decay rate and \\Gamma_ the nonradiative decay rate. The quantum efficiency is defined as the fraction of emission processes in which emission of light is involved:     : QE\\frac.     In nonradiative relaxation, the energy is released as ": null
+    },
+    {
+        "phonon": "phonon"
+    },
+    {
+        "s, more commonly known as ": null
+    },
+    {
+        "heat": "heat"
+    },
+    {
+        ". Nonradiative relaxation occurs when the energy difference between the levels is very small, and these typically occur on a much faster time scale than radiative transitions. For many materials , electrons move quickly from a high energy level to a meta-stable level via small nonradiative transitions and then make the final move down to the bottom level via an optical or radiative transition. This final transition is the transition over the ": null
+    },
+    {
+        "bandgap": "bandgap"
+    },
+    {
+        " in semiconductors. Large nonradiative transitions do not occur frequently because the ": null
+    },
+    {
+        "crystal structure": "crystal structure"
+    },
+    {
+        " generally cannot support large vibrations without destroying bonds . ": null
+    },
+    {
+        "Meta-stable states": "metastabilityatomic and molecular ph"
+    },
+    {
+        " form a very important feature that is exploited in the construction of ": null
+    },
+    {
+        "laser": "laser"
+    },
+    {
+        "s. Specifically, since electrons decay slowly from them, they can be deliberately piled up in this state without too much loss and then ": null
+    },
+    {
+        "stimulated emission": "stimulated emission"
+    }
+]

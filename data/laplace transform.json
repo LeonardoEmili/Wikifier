@@ -1,0 +1,248 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "mathematics"
+    },
+    {
+        ", the Laplace transform is an ": null
+    },
+    {
+        "integral transform": "integral transform"
+    },
+    {
+        " named after its inventor ": null
+    },
+    {
+        "Pierre-Simon Laplace": "pierre-simon laplace"
+    },
+    {
+        " . It transforms a function of a real variable  to a function of a ": null
+    },
+    {
+        "complex variable": "complex analysis"
+    },
+    {
+        "  . The transform has many applications in science and engineering.     The Laplace transform is similar to the ": null
+    },
+    {
+        "Fourier transform": "fourier transform"
+    },
+    {
+        ". While the Fourier transform of a function is a ": null
+    },
+    {
+        "complex function": "complex function"
+    },
+    {
+        " of a real variable , the Laplace transform of a function is a complex function of a complex variable. Laplace transforms are usually restricted to functions of  with . A consequence of this restriction is that the Laplace transform of a function is a ": null
+    },
+    {
+        "holomorphic function": "holomorphic function"
+    },
+    {
+        " of the variable . Unlike the Fourier transform, the Laplace transform of a ": null
+    },
+    {
+        "distribution": "distribution"
+    },
+    {
+        " is generally a ": null
+    },
+    {
+        "well-behaved": "well-behaved"
+    },
+    {
+        " function. Techniques of complex variables can also be used to directly study Laplace transforms. As a holomorphic function, the Laplace transform has a power series representation. This power series expresses a function as a linear superposition of ": null
+    },
+    {
+        "moments": "moment"
+    },
+    {
+        " of the function. This perspective has applications in ": null
+    },
+    {
+        "probability theory": "probability theory"
+    },
+    {
+        ".     The Laplace transform is invertible on a large class of functions. The inverse Laplace transform takes a function of a complex variable s and yields a function of a real variable t . Given a simple mathematical or functional description of an input or output to a ": null
+    },
+    {
+        "system": "system"
+    },
+    {
+        ", the Laplace transform provides an alternative functional description that often simplifies the process of analyzing the behavior of the system, or in synthesizing a new system based on a set of specifications.  So, for example, Laplace transformation from the ": null
+    },
+    {
+        "time domain": "time domain"
+    },
+    {
+        " to the ": null
+    },
+    {
+        "frequency domain": "frequency domain"
+    },
+    {
+        " transforms differential equations into algebraic equations and ": null
+    },
+    {
+        "convolution": "convolution"
+    },
+    {
+        " into multiplication.     Laplace wrote extensively about the use of ": null
+    },
+    {
+        "generating functions": "generating function"
+    },
+    {
+        " in Essai philosophique sur les probabilités and the integral form of the Laplace transform evolved naturally as a result  .       The Laplace transform is named after mathematician and astronomer Pierre-Simon Laplace, who used a similar transform in his work on probability theory.  Laplaces use of generating functions was similar to what is now known as the z-transform and he gave little attention to the continuous variable case which was discussed by ": null
+    },
+    {
+        "Niels Henrik Abel": "niels henrik abel"
+    },
+    {
+        ".   The theory was further developed in the 19th and early 20th centuries by ": null
+    },
+    {
+        "Mathias Lerch": "mathias lerch"
+    },
+    {
+        ",  ": null
+    },
+    {
+        "Oliver Heaviside": "oliver heaviside"
+    },
+    {
+        ",  and ": null
+    },
+    {
+        "Thomas Bromwich": "thomas john ianson bromwich"
+    },
+    {
+        ".  The current widespread use of the transform came about during and soon after World War II An influential book was:  replacing the earlier Heaviside operational calculus. The advantages of the Laplace transform had been emphasized by ": null
+    },
+    {
+        "Gustav Doetsch": "gustav doetsch"
+    },
+    {
+        "  translation 1943 to whom the name Laplace Transform is apparently due.     The early history of methods having some similarity to Laplace transform is as follows. From 1744, ": null
+    },
+    {
+        "Leonhard Euler": "leonhard euler"
+    },
+    {
+        " investigated integrals of the form   : z \\int X e^\\, dx \\quad\\text\\quad z \\int X x^A \\, dx   as solutions of ": null
+    },
+    {
+        "differential equations": "laplace transform applied to differential equations"
+    },
+    {
+        " but did not pursue the matter very far. , ,      ": null
+    },
+    {
+        "Joseph Louis Lagrange": "joseph louis lagrange"
+    },
+    {
+        " was an admirer of Euler and, in his work on integrating ": null
+    },
+    {
+        "probability density function": "probability density function"
+    },
+    {
+        "s, investigated expressions of the form   : \\int X e^ a^x\\, dx,   which some modern historians have interpreted within modern Laplace transform theory.        These types of integrals seem first to have attracted Laplaces attention in 1782 where he was following in the spirit of Euler in using the integrals themselves as solutions of equations.  However, in 1785, Laplace took the critical step forward when, rather than just looking for a solution in the form of an integral, he started to apply the transforms in the sense that was later to become popular. He used an integral of the form   : \\int x^s \\varphi \\, dx,   akin to a ": null
+    },
+    {
+        "Mellin transform": "mellin transform"
+    },
+    {
+        ", to transform the whole of a ": null
+    },
+    {
+        "difference equation": "difference equation"
+    },
+    {
+        ", in order to look for solutions of the transformed equation. He then went on to apply the Laplace transform in the same way and started to derive some of its properties, beginning to appreciate its potential power.      Laplace also recognised that ": null
+    },
+    {
+        "Joseph Fouriers": "joseph fourier"
+    },
+    {
+        "method of ": null
+    },
+    {
+        "Fourier series": "fourier series"
+    },
+    {
+        " for solving the ": null
+    },
+    {
+        "diffusion equation": "diffusion equation"
+    },
+    {
+        " could only apply to a limited region of space because those solutions were periodic. In 1809, Laplace applied his transform to find solutions that diffused indefinitely in space.        The Laplace transform of a ": null
+    },
+    {
+        "function": "function"
+    },
+    {
+        " , defined for all ": null
+    },
+    {
+        "real numbers": "real number"
+    },
+    {
+        " , is the function , which is a unilateral transform defined by      where s is a ": null
+    },
+    {
+        "complex number": "complex number"
+    },
+    {
+        " frequency parameter   : s \\sigma + i \\omega , with real numbers  and .     An alternate notation for the Laplace transform is \\mathcal\\ instead of .     The meaning of the integral depends on types of functions of interest. A necessary condition for existence of the integral is that  must be ": null
+    },
+    {
+        "locally integrable": "locally integrable"
+    },
+    {
+        " on . For locally integrable functions that decay at infinity or are of ": null
+    },
+    {
+        "exponential type": "exponential type"
+    },
+    {
+        ", the integral can be understood to be a ": null
+    },
+    {
+        "Lebesgue integral": "lebesgue integral"
+    },
+    {
+        ". However, for many applications it is necessary to regard it as a ": null
+    },
+    {
+        "conditionally convergent": "conditionally convergent"
+    },
+    {
+        " improper integral": "improper integral"
+    },
+    {
+        " at . Still more generally, the integral can be understood in a ": null
+    },
+    {
+        "weak sense": "distribution"
+    },
+    {
+        ", and this is dealt with below.     One can define the Laplace transform of a finite ": null
+    },
+    {
+        "Borel measure": "borel measure"
+    },
+    {
+        "  by the Lebesgue integral    : \\mathcal\\ \\int_-sttLf\\s0^-t-st\\varepsilon\\rightarrow 0^+-\\varepsilonBf\\": null
+    },
+    {
+        "themati": "themati"
+    },
+    {
+        "the Bromwich integral, the Fourier–Mellin integral, and Mellins inverse formulaLf\\sE-sXxL-1\\frac\\operatorname\\left right\\xL-1\\frac\\mathcal\\\\right\\xor more generally a Borel measure locally of bounded variationR\\to\\inftyt-stt-stas a proper Lebesgue integral": null
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "An -extractor is a ": null
+    },
+    {
+        "bipartite graph": "bipartite graph"
+    },
+    {
+        " with N nodes on the left and M nodes on the right such that each node on the left has D neighbors , which has the added property that   for any subset A of the left vertices of size at least K , the distribution on right vertices obtained by choosing a random node in A and then following a random ": null
+    },
+    {
+        "edge": "graph theory"
+    },
+    {
+        " to get a node x on the right side is \\epsilon -close to the ": null
+    },
+    {
+        "uniform distribution": "uniform distribution"
+    },
+    {
+        " in terms of ": null
+    },
+    {
+        "total variation distance": "total variation distance"
+    },
+    {
+        ".     A ": null
+    },
+    {
+        "disperser": "disperser"
+    },
+    {
+        " is a related graph.     An equivalent way to view an extractor is as a bivariate function     : E : \\times \\rightarrow     in the natural way. With this view it turns out that the extractor property is equivalent to: for any source of randomness X that gives n ": null
+    },
+    {
+        "bits": "bit"
+    },
+    {
+        "with ": null
+    },
+    {
+        "min-entropy": "min-entropy"
+    },
+    {
+        " \\log K , the distribution E is \\epsilon -close to U_M , where U_T denotes the uniform distribution on .     Extractors are interesting when they can be constructed with small K,D,\\epsilon relative to N and M is as close to KD as possible.     Extractor functions were originally researched as a way to extract ": null
+    },
+    {
+        "randomness": "randomness"
+    },
+    {
+        " from weakly random sources. See ": null
+    },
+    {
+        "randomness extractor": "randomness extractor"
+    },
+    {
+        ".     Using the ": null
+    },
+    {
+        "probabilistic method": "probabilistic method"
+    },
+    {
+        " it is easy to show that extractor graphs with really good parameters exist. The challenge is to find explicit or ": null
+    },
+    {
+        "polynomial time": "polynomial time"
+    },
+    {
+        " computable examples of such graphs with good parameters. Algorithms that compute extractor graphs have found many applications in ": null
+    },
+    {
+        "computer science": "computer science"
+    }
+]
