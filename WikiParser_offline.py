@@ -9,6 +9,7 @@ import bz2
 import subprocess
 import mwparserfromhell
 import wikipedia
+import click
 
 
 # A list of subject namespaces following Wikipedia convention's that have to be removed.
@@ -31,8 +32,8 @@ class TextList(list):
 
         # Change any number to a constant value
         # CHECK: The 1903 World Series -> The 42 World Series
-        re_numbers = re.compile(r'[+-]*[0-9]+[,.]?[0-9]*')
-        item = re.sub(re_numbers, '42', item)
+        # re_numbers = re.compile(r'[+-]*[0-9]+[,.]?[0-9]*')
+        # item = re.sub(re_numbers, '42', item)
 
         # The flag below checks wheter to insert the current element as a separated element.
         new_element = value is not None or (
@@ -87,12 +88,13 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
 
 # Dumps from: https://dumps.wikimedia.org/enwiki/20191201/
 
+
 def main():
     _dir = "/home/leo/Downloads/"
     #_file = "enwiki-20190101-pages-articles-multistream.xml.bz2"
     _file = "enwiki-20191201-pages-articles-multistream1.xml-p10p30302.bz2"
     dir_name = "data/"
-    file_path = _dir + _file
+    # file_path = _dir + _file
     node_dict = {mwparserfromhell.nodes.Template: SKIP_NODE, mwparserfromhell.nodes.ExternalLink: SKIP_NODE,
                  mwparserfromhell.nodes.Text: TEXT_NODE, mwparserfromhell.nodes.Tag: TAG_NODE, mwparserfromhell.nodes.Wikilink: WIKILINK_NODE}
     occurence_map = dict()
@@ -101,7 +103,7 @@ def main():
     create_dir(_dir, dir_name)
 
     if (len(files) == 0):
-            print("Please provide an input file an try again", file=sys.stderr)
+        print("Please provide an input file an try again", file=sys.stderr)
 
     for filename in files:
         parse_wikidump(_dir + filename, dir_name, node_dict, occurence_map)
@@ -136,14 +138,15 @@ def parse_wikidump(path, dir_name, node_dict, occurence_map):
         if not len(handler._pages) % 100 and len(handler._pages) > last_num:
             last_num = len(handler._pages)
 
-        #if (len(handler._pages) == PAGES_LIMIT):
+        # if (len(handler._pages) == PAGES_LIMIT):
         #    break
 
     print("\nRead {} pages from file: {}.\n".format(len(handler._pages), path))
 
-    for i in range(len(handler._pages)):
-        parse_page(handler, i, dir_name, node_dict, occurence_map)
-
+    with click.progressbar(range(len(handler._pages))) as pages:
+        for i in pages:
+            parse_page(handler, i, dir_name, node_dict, occurence_map)
+    print()
 
 def create_dir(_dir, dir_name):
     try:
@@ -193,11 +196,14 @@ def parse_page(handler, page_index, path, node_dict, occurence_map):
         elif "disambiguation" in x:
             return
 
-    # This will read at maximum the first 100 lines of each page to check if it is about a redirect page.
+    # This will read at maximum the first 40 lines of each page to check if it is about a redirect page.
     short_summary = "".join(
-        map(lambda x: str(x), wiki.nodes[:min(100, len(wiki.nodes))])).lower()
-    if "#redirect" in short_summary or "disambiguation" in short_summary or "/ref" in short_summary:
+        map(lambda x: str(x), wiki.nodes[:min(40, len(wiki.nodes))])).lower()
+    if "#redirect" in short_summary or "disambiguation" in short_summary or "/ref" in short_summary or "may refer to:" in short_summary:
         return
+
+    if page_title == "Spring":
+        print(wiki.nodes)
 
     for line in wiki.nodes:
 
@@ -231,6 +237,19 @@ def parse_line(line, text_content, new_element, tag_detected, parentheses_detect
         # Get the 'buffered' version of the current line and update flags.
         buffer, tag_detected, parentheses_detected = get_text_from(
             line, tag_detected, parentheses_detected)
+        previous_was_link = len(text_content) > 0 and list(
+            text_content[-1].values())[0] != None
+        if previous_was_link:
+            leading_sentence = buffer.lstrip()
+            is_a_plural_form = len(leading_sentence) > 0 and leading_sentence[0] == 's' and (len(
+                leading_sentence) == 1 or (not len(leading_sentence) >= 2 or leading_sentence[1] == ' '))
+            if is_a_plural_form:
+                link_key, link_value = list(text_content[-1].items())[0]
+                del text_content[-1][link_key]
+                text_content[-1][link_key.strip() + 's'] = link_value
+                buffer = leading_sentence[2:] if len(
+                    leading_sentence) >= 3 else ' '
+
         # Create a new item in the list representing a node of plain text.
         text_content.append(buffer, None, new_element)
         # Allow text concatenations for future Text nodes.
@@ -278,8 +297,8 @@ def parse_line(line, text_content, new_element, tag_detected, parentheses_detect
                 text = text[:-2]
             else:
                 # They're essentially the same thing, but as usually the key is first lowered or unique purposes.
-                url, text = line[2:-2].lower().strip(), line[2:-2]
-
+                url, text = line[2:-2].lower().strip(), line[2:-2]  # maybe replace lower() with title()
+            url = url.lower().strip()
             if url in occurence_map:
                 occurence_map[url] += 1
             else:
