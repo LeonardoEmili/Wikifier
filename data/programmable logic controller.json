@@ -3,673 +3,673 @@
         "   A programmable logic controller  or programmable controller is an industrial ": null
     },
     {
-        "digital computer": "digital computer"
+        "digital computer": "Digital Computer"
     },
     {
         " which has been ": null
     },
     {
-        "ruggedized": "rugged computer"
+        "ruggedized": "Rugged Computer"
     },
     {
         " and adapted for the control of manufacturing processes, such as ": null
     },
     {
-        "assembly line": "assembly line"
+        "assembly line": "Assembly Line"
     },
     {
         "s, or ": null
     },
     {
-        "robotic": "robotic"
+        "robotic": "Robotic"
     },
     {
         " devices, or any activity that requires high reliability control and ease of programming and process fault diagnosis.     PLCs were first developed in the automobile manufacturing industry to provide flexible, ruggedized and easily programmable controllers to replace hard-wired relays, timers and sequencers. Since then, they have been widely adopted as high-reliability automation controllers suitable for harsh environments. A PLC is an example of a hard ": null
     },
     {
-        "real-time": "real-time computing"
+        "real-time": "Real-Time Computing"
     },
     {
         " system since output results must be produced in response to input conditions within a limited time, otherwise unintended operation will result.          PLCs can range from small modular devices with tens of inputs and outputs , in a housing integral with the processor, to large rack-mounted modular devices with a count of thousands of I/O, and which are often networked to other PLC and ": null
     },
     {
-        "SCADA": "scada"
+        "SCADA": "Scada"
     },
     {
         " systems.     They can be designed for multiple arrangements of digital and analog I/O, extended temperature ranges, immunity to ": null
     },
     {
-        "electrical noise": "noise"
+        "electrical noise": "Noise"
     },
     {
         ", and resistance to vibration and impact. Programs to control machine operation are typically stored in battery-backed-up or ": null
     },
     {
-        "non-volatile memory": "non-volatile memory"
+        "non-volatile memory": "Non-Volatile Memory"
     },
     {
         ".     It was from the automotive industry in the USA that the PLC was born. Before the PLC, control, sequencing, and safety interlock logic for manufacturing automobiles was mainly composed of ": null
     },
     {
-        "relay": "relay"
+        "relay": "Relay"
     },
     {
         "s, ": null
     },
     {
-        "cam timer": "cam timer"
+        "cam timer": "Cam Timer"
     },
     {
         "s, ": null
     },
     {
-        "drum sequencer": "drum sequencer"
+        "drum sequencer": "Drum Sequencer"
     },
     {
         "s, and dedicated closed-loop controllers. Since these could number in the hundreds or even thousands, the process for updating such facilities for the yearly model ": null
     },
     {
-        "change-over": "changeover"
+        "change-over": "Changeover"
     },
     {
         " was very time consuming and expensive, as ": null
     },
     {
-        "electricians": "electrician"
+        "electricians": "Electrician"
     },
     {
         "needed to individually rewire the relays to change their operational characteristics.     When digital computers became available, being general-purpose programmable devices, they were soon applied to control sequential and combinatorial logic in industrial processes. However these early computers required specialist programmers and stringent operating environmental control for temperature, cleanliness, and power quality. To meet these challenges the PLC was developed with several key attributes. It would tolerate the shop-floor environment, it would support discrete input and output in an easily extensible manner, it would not require years of training to use, and it would permit its operation to be monitored. Since many industrial processes have timescales easily addressed by millisecond response times, modern electronics greatly facilitate building reliable controllers, and performance could be traded off for reliability. E. A. Parr, Industrial Control Handbook, Industrial Press Inc., 1999        In 1968 GM ": null
     },
     {
-        "Hydramatic": "hydramatic"
+        "Hydramatic": "Hydramatic"
     },
     {
         "  issued a request for proposals for an electronic replacement for hard-wired relay systems based on a white paper written by engineer Edward R. Clark. The winning proposal came from Bedford Associates of ": null
     },
     {
-        "Bedford, Massachusetts": "bedford, massachusetts"
+        "Bedford, Massachusetts": "Bedford, Massachusetts"
     },
     {
         ". The first PLC, designated the 084 because it was Bedford Associates eighty-fourth project, was the result. M. A. Laughton, D. J. Warne , Electrical Engineers Reference book, 16th edition,Newnes, 2003 Chapter 16 Programmable Controller Bedford Associates started a new company dedicated to developing, manufacturing, selling, and servicing this new product: , which stood for modular digital controller. One of the people who worked on that project was ": null
     },
     {
-        "Dick Morley": "dick morley"
+        "Dick Morley": "Dick Morley"
     },
     {
         ", who is considered to be the father of the PLC.  The Modicon brand was sold in 1977 to ": null
     },
     {
-        "Gould Electronics": "gould electronics"
+        "Gould Electronics": "Gould Electronics"
     },
     {
         ", later acquired by German Company ": null
     },
     {
-        "AEG": "aeg"
+        "AEG": "Aeg"
     },
     {
         ", and then by French ": null
     },
     {
-        "Schneider Electric": "schneider electric"
+        "Schneider Electric": "Schneider Electric"
     },
     {
         ", the current owner.     One of the very first 084 models built is now on display at Schneider Electrics facility in ": null
     },
     {
-        "North Andover, Massachusetts": "north andover, massachusetts"
+        "North Andover, Massachusetts": "North Andover, Massachusetts"
     },
     {
         ". It was presented to Modicon by ": null
     },
     {
-        "GM": "general motors"
+        "GM": "General Motors"
     },
     {
         ", when the unit was retired after nearly twenty years of uninterrupted service. Modicon used the 84 moniker at the end of its product range until the 984 made its appearance.     The automotive industry is still one of the largest users of PLCs.     In a parallel development ": null
     },
     {
-        "Odo Josef Struger": "odo josef struger"
+        "Odo Josef Struger": "Odo Josef Struger"
     },
     {
         " is sometimes known as the father of the programmable logic controller as well.   He was involved in the invention of the ": null
     },
     {
-        "Allen-Bradley": "allen-bradley"
+        "Allen-Bradley": "Allen-Bradley"
     },
     {
         " programmable logic controller during 1958 to 1960.   Anzovin, p. 100, item 2189. Programmable logic controller was invented by the Austrian-born American engineer Odo J. Struger in 1958-60 at the Allen-Bradley company in Milwaukee, WI, USA. A programmable logic controller, or PLC, is a simple electronic device that allows precise numerical control of machinery. It is widely used to control everything from washing machines to roller coaster to automated manufacturing equipment. Struger is credited with creating the PLC acronym. Allen-Bradley , the manufacturer of the controller, became a major programmable logic controller device manufacturer in the United States during the tenure of Struger.      Early PLCs were designed to replace relay logic systems. Relay systems were large and bulky and had an assortment of issues. The hard-wired nature made it difficult for design engineers to alter the process. Even small changes would require rewiring and careful updating of the documentation. If even one wire were out of place, or one relay failed, the whole system would become faulty. Often times technicians would spend hours troubleshooting by examining the schematics and comparing them to existing wiring.  It was for this reason PLCs were programmed in ": null
     },
     {
-        "ladder logic": "ladder logic"
+        "ladder logic": "Ladder Logic"
     },
     {
         " , which strongly resembles a schematic diagram of relay logic. This program notation was chosen to reduce training demands for the existing technicians. Other early PLCs used a form of ": null
     },
     {
-        "instruction list": "instruction list"
+        "instruction list": "Instruction List"
     },
     {
         " programming, based on a stack-based logic solver.     Modern PLCs can be programmed in a variety of ways, from the relay-derived ladder logic to programming languages such as specially adapted dialects of ": null
     },
     {
-        "BASIC": "basic"
+        "BASIC": "Basic"
     },
     {
         " and ": null
     },
     {
-        "C": "c"
+        "C": "C"
     },
     {
         ". Another method is ": null
     },
     {
-        "state logic": "state logic"
+        "state logic": "State Logic"
     },
     {
         ", a ": null
     },
     {
-        "very high-level programming language": "very high-level programming language"
+        "very high-level programming language": "Very High-Level Programming Language"
     },
     {
         " designed to program PLCs based on ": null
     },
     {
-        "state transition diagrams": "state diagram"
+        "state transition diagrams": "State Diagram"
     },
     {
         ". The majority of PLC systems today adhere to the IEC 61131/3 control systems programming standard that defines 5 languages: Ladder Diagram , Structured Text , Function Block Diagram , Instruction List and ": null
     },
     {
-        "sequential function chart": "sequential function chart"
+        "sequential function chart": "Sequential Function Chart"
     },
     {
         " .     Many early PLCs did not have accompanying programming terminals that were capable of graphical representation of the logic, and so the logic was instead represented as a series of logic expressions in some version of ": null
     },
     {
-        "Boolean format": "boolean logic"
+        "Boolean format": "Boolean Logic"
     },
     {
         ", similar to ": null
     },
     {
-        "Boolean algebra": "boolean algebra"
+        "Boolean algebra": "Boolean Algebra"
     },
     {
         ". As programming terminals evolved, it became more common for ladder logic to be used, for the aforementioned reasons and because it was a familiar format used for electro-mechanical control panels. Newer formats such as state logic and Function Block exist, but they are still not as popular as ladder logic. A primary reason for this is that PLCs solve the logic in a predictable and repeating sequence, and ladder logic allows the programmer to see any issues with the timing of the logic sequence more easily than would be possible in other formats.       PLC programs are typically written in a special application on a personal computer, then downloaded by a direct-connection cable or over a network to the PLC. The program is stored in the PLC either in battery-backed-up ": null
     },
     {
-        "RAM": "ram"
+        "RAM": "Ram"
     },
     {
         " or some other non-volatile ": null
     },
     {
-        "flash memory": "flash memory"
+        "flash memory": "Flash Memory"
     },
     {
         ". Often, a single PLC can be programmed to replace thousands of ": null
     },
     {
-        "relay": "relay"
+        "relay": "Relay"
     },
     {
         "s. W. Bolton, Programmable Logic Controllers, Fifth Edition, Newnes, 2009 , Chapter 1     Early PLCs, up to the mid-1990s, were programmed using proprietary programming panels or special-purpose programming ": null
     },
     {
-        "terminals": "computer terminal"
+        "terminals": "Computer Terminal"
     },
     {
         ", which often had dedicated function keys representing the various logical elements of PLC programs. Some proprietary programming terminals displayed the elements of PLC programs as graphic symbols, but plain ": null
     },
     {
-        "ASCII": "ascii art"
+        "ASCII": "Ascii Art"
     },
     {
         " character representations of contacts, coils, and wires were common. Programs were stored on ": null
     },
     {
-        "cassette tape cartridge": "cassette tape cartridge"
+        "cassette tape cartridge": "Cassette Tape Cartridge"
     },
     {
         "s. Facilities for printing and documentation were minimal due to lack of memory capacity. The oldest PLCs used ": null
     },
     {
-        "non-volatile": "non-volatile"
+        "non-volatile": "Non-Volatile"
     },
     {
-        " magnetic core memory": "magnetic core memory"
+        " magnetic core memory": "Magnetic Core Memory"
     },
     {
         ".     More recently, PLCs are programmed using application software on personal computers, which now represent the logic in graphic form instead of character symbols. The computer is connected to the PLC through ": null
     },
     {
-        "USB": "usb"
+        "USB": "Usb"
     },
     {
         ", ": null
     },
     {
-        "Ethernet": "ethernet"
+        "Ethernet": "Ethernet"
     },
     {
         ", ": null
     },
     {
-        "RS-232": "rs-232"
+        "RS-232": "Rs-232"
     },
     {
         ", ": null
     },
     {
-        "RS-485": "rs-485"
+        "RS-485": "Rs-485"
     },
     {
         ", or ": null
     },
     {
-        "RS-422": "rs-422"
+        "RS-422": "Rs-422"
     },
     {
         " cabling. The programming software allows entry and editing of the ladder-style logic. In some software packages, it is also possible to view and edit the program in function block diagrams, sequence flow charts and ": null
     },
     {
-        "structured text": "structured text"
+        "structured text": "Structured Text"
     },
     {
         ". Generally the software provides functions for debugging and troubleshooting the PLC software, for example, by highlighting portions of the logic to show current status during operation or via simulation. The software will upload and download the PLC program, for backup and restoration purposes. In some models of programmable controller, the program is transferred from a personal computer to the PLC through a programming board which writes the program into a removable chip such as an ": null
     },
     {
-        "EPROM": "eprom"
+        "EPROM": "Eprom"
     },
     {
         ".     Under the ": null
     },
     {
-        "IEC 61131-3": "iec 61131-3"
+        "IEC 61131-3": "Iec 61131-3"
     },
     {
         " standard, PLCs can be programmed using standards-based programming languages. The most commonly used programming language is Ladder diagram also known as Ladder logic. It uses Contact-Coil logic to make programs like an electrical control diagram. A graphical programming notation called ": null
     },
     {
-        "Sequential Function Charts": "sequential function chart"
+        "Sequential Function Charts": "Sequential Function Chart"
     },
     {
         " is available on certain programmable controllers. A model which emulated electromechanical control panel devices which PLCs replaced. This model remains common today.     IEC 61131-3 currently defines five programming languages for programmable control systems: ": null
     },
     {
-        "function block diagram": "function block diagram"
+        "function block diagram": "Function Block Diagram"
     },
     {
         " , ": null
     },
     {
-        "ladder diagram": "ladder logic"
+        "ladder diagram": "Ladder Logic"
     },
     {
         " , ": null
     },
     {
-        "structured text": "structured text"
+        "structured text": "Structured Text"
     },
     {
         " , ": null
     },
     {
-        "instruction list": "instruction list"
+        "instruction list": "Instruction List"
     },
     {
         " , and ": null
     },
     {
-        "sequential function chart": "sequential function chart"
+        "sequential function chart": "Sequential Function Chart"
     },
     {
         " . Keller, William L Jr. Grafcet, A Functional Chart for Sequential Processes, 14th Annual International Programmable Controllers Conference Proceedings, 1984, p. 71-96. These techniques emphasize logical organization of operations.     While the fundamental concepts of PLC programming are common to all manufacturers, differences in I/O addressing, memory organization, and instruction sets mean that PLC programs are never perfectly interchangeable between different makers. Even within the same product line of a single manufacturer, different models may not be directly compatible.       This is a programming example in ": null
     },
     {
-        "ladder diagram": "ladder logic"
+        "ladder diagram": "Ladder Logic"
     },
     {
         " which shows the control system. A ladder diagram is a method of drawing control circuits which pre-dates PLCs. The ladder diagram resembles the schematic diagram of a system built with electromechanical relays.     As an example, say a facility needs to store water in a tank. The water is drawn from the tank by another system, as needed, and our example system must manage the water level in the tank by controlling the valve that refills the tank. Shown are:     Two inputs represented by contacts of the float switches   An output to the fill valve, labelled as the fill valve which it controls   An internal contact, representing the output signal to the fill valve which is created in the program.   A logical control scheme created by the interconnection of these items in software     In ladder diagram, the contact symbols represent the state of bits in processor memory, which corresponds to the state of physical inputs to the system. If a discrete input is energized, the memory bit is a 1, and a normally open contact controlled by that bit will pass a logic true signal on to the next element of the ladder. Therefore, the contacts in the PLC program that read or look at the physical switch contacts in this case must be opposite or open in order to return a TRUE for the closed physical switches. Internal status bits, corresponding to the state of discrete outputs, are also available to the program.     In the example, the physical state of the float switch contacts must be considered when choosing normally open or normally closed symbols in the ladder diagram. The PLC has two discrete inputs from ": null
     },
     {
-        "float switch": "float switch"
+        "float switch": "Float Switch"
     },
     {
         "es . Both float switches open their contacts when the water level in the tank is above the physical location of the switch.     When the water level is below both switches, the float switch physical contacts are both closed, and a true value is passed to the Fill Valve output. Water begins to fill the tank. The internal Fill Valve contact latches the circuit so that even when the Low Level contact opens , the fill valve remains on. Since the High Level is also normally closed, water continues to flow as the water level remains between the two switch levels. Once the water level rises enough so that the High Level switch is off , the PLC will shut the inlet to stop the water from overflowing; this is an example of seal-in logic. The output is sealed in until a high level condition breaks the circuit. After that the fill valve remains off until the level drops so low that the Low Level switch is activated, and the process repeats again.       | |   | Low Level High Level Fill Valve |   |------ -----|------ ------------------------------|   | | |   | | |   | | |   | Fill Valve | |   |------ -----| |   | |   | |       A complete program may contain thousands of rungs, evaluated in sequence. Typically the PLC processor will alternately scan all its inputs and update outputs, then evaluate the ladder logic; input changes during a program scan will not be effective until the next I/O update. A complete program scan may take only a few milliseconds, much faster than changes in the controlled process.     Programmable controllers vary in their capabilities for a rung of a ladder diagram. Some only allow a single output bit. There are typically limits to the number of series contacts in line, and the number of branches that can be used. Each element of the rung is evaluated sequentially. If elements change their state during evaluation of a rung, hard-to-diagnose faults can be generated, although sometimes the technique is useful. Some implementations forced evaluation from left-to-right as displayed and did not allow reverse flow of a logic signal to affect the output.       The functionality of the PLC has evolved over the years to include sequential relay control, motion control, ": null
     },
     {
-        "process control": "process control"
+        "process control": "Process Control"
     },
     {
         ", ": null
     },
     {
-        "distributed control system": "distributed control system"
+        "distributed control system": "Distributed Control System"
     },
     {
         "s, and ": null
     },
     {
-        "networking": "computer network"
+        "networking": "Computer Network"
     },
     {
         ". The data handling, storage, processing power, and communication capabilities of some modern PLCs are approximately equivalent to ": null
     },
     {
-        "desktop computer": "desktop computer"
+        "desktop computer": "Desktop Computer"
     },
     {
         "s. PLC-like programming combined with remote I/O hardware, allow a general-purpose desktop computer to overlap some PLCs in certain applications. Desktop computer controllers have not been generally accepted in heavy industry because the desktop computers run on less stable operating systems than PLCs, and because the desktop computer hardware is typically not designed to the same levels of tolerance to temperature, humidity, vibration, and longevity as the processors used in PLCs. Operating systems such as Windows do not lend themselves to deterministic logic execution, with the result that the controller may not always respond to changes of input status with the consistency in timing expected from PLCs. Desktop logic applications find use in less critical situations, such as laboratory automation and use in small facilities where the application is less demanding and critical.         The most basic function of a programmable controller is to emulate the functions of electro-mechanical relays. Discrete inputs are given a unique address, and a PLC instruction can test if the input state is on or off. Just as a series of relay contacts perform a logical AND function, not allowing current to pass unless all the contacts are closed, so a series of examine if on instructions will energize its output storage bit if all the input bits are on. Similarly, a parallel set of instructions will perform a logical OR. In an electro-mechanical relay wiring diagram, a group of contacts controlling one coil is called a rung of a ladder diagram , and this concept is also used to describe PLC logic. Some models of PLC limit the number of series and parallel instructions in one rung of logic. The output of each rung sets or clears a storage bit, which may be associated with a physical output address or which may be an internal coil with no physical connection. Such internal coils can be used, for example, as a common element in multiple separate rungs. Unlike physical relays, there is usually no limit to the number of times an input, output or internal coil can be referenced in a PLC program.     Some PLCs enforce a strict left-to-right, top-to-bottom execution order for evaluating the rung logic. This is different from electro-mechanical relay contacts, which in a sufficiently complex circuit may either pass current left-to-right or right-to-left, depending on the configuration of surrounding contacts. The elimination of these sneak paths is either a bug or a feature, depending on programming style.     More advanced instructions of the PLC may be implemented as functional blocks, which carry out some operation when enabled by a logical input and which produce outputs to signal, for example, completion or errors, while manipulating variable internally that may not correspond to discrete logic.         The main function of a timer is to keep an output on for a specific length of time. A good example of this is a garage light, where you want power to be cut off after 2 minutes so as to give someone time to go into the house. The three different types of timers that are commonly used are a Delay-OFF, a Delay-ON, and a Delay-ON-Retentive. A Delay-OFF timer activates immediately when turned on, counts down from a programmed time before cutting off, and is cleared when the enabling input is off. A Delay-ON timer is activated by input and starts accumulating time, counts up to a programmed time before cutting off, and is cleared when the enabling input is turned off. A Delay-ON-Retentive timer is activated by input and starts accumulating time, retains the accumulated value even if the rung goes false, and can be reset only by a RESET contact.     Counters are primarily used for counting items such as cans going into a box on an assembly line. This is important because once something is filled to its max the item needs to be moved on so something else can be filled. Many companies use counters in PLCs to count boxes, count how many feet of something is covered, or to count how many pallets are on a truck. There are three types of counters, Up counters, Down counters, and Up/Down counters. Up counters count up to the preset value, turn on the CTU when the preset value is reached, and are cleared upon receiving a reset. Down counters count down from a preset value, turns on the CTD when 0 is reached, and are cleared upon reset. Up/Down counters count up on CU, count down on CD, turn on CTUD when the preset value is reached, and cleared on reset. Yanik, P. . Timers and Counters. Cullowhee, NC, United States of America.       In more recent years, small products called PLRs , and also by similar names, have become more common and accepted. These are much like PLCs, and are used in light industry where only a few points of ": null
     },
     {
-        "I/O": "i/o"
+        "I/O": "I/O"
     },
     {
         " are needed, and low cost is desired. These small devices are typically made in a common physical size and shape by several manufacturers, and branded by the makers of larger PLCs to fill out their low end product range. Popular names include PICO Controller, NANO PLC, and other names implying very small controllers. Most of these have 8 to 12 discrete inputs, 4 to 8 discrete outputs, and up to 2 analog inputs. Size is usually about 4 wide, 3 high, and 3 deep. Most such devices include a tiny postage-stamp-sized LCD screen for viewing simplified ladder logic and status of I/O points, and typically these screens are accompanied by a 4-way rocker push-button plus four more separate push-buttons, similar to the key buttons on a VCR remote control, and used to navigate and edit the logic. Most have a small plug for connecting via RS-232 or RS-485 to a personal computer so that programmers can use simple Windows applications for programming instead of being forced to use the tiny LCD and push-button set for this purpose. Unlike regular PLCs that are usually modular and greatly expandable, the PLRs are usually not modular or expandable, but their price can be two ": null
     },
     {
-        "orders of magnitude": "orders of magnitude"
+        "orders of magnitude": "Orders Of Magnitude"
     },
     {
         " less than a PLC, and they still offer robust design and deterministic execution of the logics.                 The main difference from most other computing devices is that PLCs are intended-for and therefore tolerant-of more severe conditions , while offering extensive ": null
     },
     {
-        "input/output": "input/output"
+        "input/output": "Input/Output"
     },
     {
         " to connect the PLC to ": null
     },
     {
-        "sensors": "sensor"
+        "sensors": "Sensor"
     },
     {
         "and ": null
     },
     {
-        "actuator": "actuator"
+        "actuator": "Actuator"
     },
     {
         "s. PLC input can include simple digital elements such as ": null
     },
     {
-        "limit switch": "limit switch"
+        "limit switch": "Limit Switch"
     },
     {
         "es, analog variables from process sensors , and more complex data such as that from positioning or ": null
     },
     {
-        "machine vision": "machine vision"
+        "machine vision": "Machine Vision"
     },
     {
         " systems. Harms, Toni M. & Kinner, Russell H. P.E., Enhancing PLC Performance with Vision Systems. 18th Annual ESD/HMI International Programmable Controllers Conference Proceedings, 1989, p. 387-399. PLC output can include elements such as indicator lamps, sirens, ": null
     },
     {
-        "electric motor": "electric motor"
+        "electric motor": "Electric Motor"
     },
     {
         "s, ": null
     },
     {
-        "pneumatic": "pneumatic"
+        "pneumatic": "Pneumatic"
     },
     {
         " or ": null
     },
     {
-        "hydraulic": "hydraulic"
+        "hydraulic": "Hydraulic"
     },
     {
         " cylinders, magnetic ": null
     },
     {
-        "relay": "relay"
+        "relay": "Relay"
     },
     {
         "s, ": null
     },
     {
-        "solenoid": "solenoid"
+        "solenoid": "Solenoid"
     },
     {
         "s, or ": null
     },
     {
-        "analog": "analog signal"
+        "analog": "Analog Signal"
     },
     {
         " outputs. The input/output arrangements may be built into a simple PLC, or the PLC may have external ": null
     },
     {
-        "I/O modules": "i/o module"
+        "I/O modules": "I/O Module"
     },
     {
         "attached to a fieldbus or computer network that plugs into the PLC.       A PLC program generally loops i.e. executes repeatedly, as long as the controlled system is running. At the start of each execution loop, the status of all physical inputs are copied to an area of memory, sometimes called the I/O Image Table , which is accessible to the processor. The program then runs from its first instruction rung down to the last rung. It takes some time for the processor of the PLC to evaluate all the rungs and update the I/O image table with the status of outputs. Maher, Michael J. Real-Time Control and Communications. 18th Annual ESD/SMI International Programmable Controllers Conference Proceedings, 1989, p. 431-436. Scan times of a few milliseconds may be encountered for small programs and fast processors, but for older processors and very large programs much longer scan times may be encountered. Excessively long scan times may mean the response of the PLC to changing inputs or process conditions is too slow to be useful.     As PLCs became more advanced, methods were developed to change the sequence of ladder execution, and subroutines were implemented. Kinner, Russell H., P.E. Designing Programmable Controller Application Programs Using More than One Designer. 14th Annual International Programmable Controllers Conference Proceedings, 1985, p. 97-110. This enhanced programming could be used to save scan time for high-speed processes; for example, parts of the program used only for setting up the machine could be segregated from those parts required to operate at higher speed. Newer PLCs now have the option to run the logic program synchronously with the IO scanning. This means that IO is updated in the background and the logic reads and writes values as required during the logic scanning.     Special-purpose I/O modules may be used where the scan time of the PLC is too long to allow predictable performance. Precision timing modules, or counter modules for use with ": null
     },
     {
-        "shaft encoder": "rotary encoder"
+        "shaft encoder": "Rotary Encoder"
     },
     {
         "s, are used where the scan time would be too long to reliably count pulses or detect the sense of rotation of an encoder. This allows even a relatively slow PLC to still interpret the counted values to control a machine, as the accumulation of pulses is done by a dedicated module that is unaffected by the speed of program execution on the PLC.         There are 5 main steps in a scan cycle:   Reading inputs   Executing the program   Processing communication requests   Executing CPU diagnostics   Writing outputs       A small PLC will have a fixed number of connections built in for inputs and outputs. Typically, expansions are available if the base model has insufficient I/O.     Modular PLCs have a chassis into which are placed modules with different functions. The processor and selection of I/O modules are customized for the particular application. Several racks can be administered by a single processor, and may have thousands of inputs and outputs. Either a special high speed serial I/O link or comparable communication method is used so that racks can be distributed away from the processor, reducing the wiring costs for large plants. Options are also available to mount I/O points directly to the machine and utilize quick disconnecting cables to sensors and valves, saving time for wiring and replacing components.          PLCs may need to interact with people for the purpose of configuration, alarm reporting, or everyday control. A ": null
     },
     {
-        "human-machine interface": "scadahuman-machine interface"
+        "human-machine interface": "Scadahuman-Machine Interface"
     },
     {
         " is employed for this purpose. HMIs are also referred to as man-machine interfaces and graphical user interfaces . A simple system may use buttons and lights to interact with the user. Text displays are available as well as graphical touch screens. More complex systems use programming and monitoring software installed on a computer, with the PLC connected via a communication interface.       Many models of PLCs have built-in communications ports, using ": null
     },
     {
-        "RS-232": "rs-232"
+        "RS-232": "Rs-232"
     },
     {
         ", ": null
     },
     {
-        "RS-422": "rs-422"
+        "RS-422": "Rs-422"
     },
     {
         ", ": null
     },
     {
-        "RS-485": "rs-485"
+        "RS-485": "Rs-485"
     },
     {
         ", or ": null
     },
     {
-        "Ethernet": "ethernet"
+        "Ethernet": "Ethernet"
     },
     {
         ". Various protocols are usually included. Many of these protocols are vendor specific.     Most modern PLCs can communicate over a network to some other system, such as a computer running a ": null
     },
     {
-        "SCADA": "scada"
+        "SCADA": "Scada"
     },
     {
         " system or web browser.     PLCs used in larger I/O systems may have ": null
     },
     {
-        "peer-to-peer": "peer-to-peer"
+        "peer-to-peer": "Peer-To-Peer"
     },
     {
         " communication between processors. This allows separate parts of a complex process to have individual control while allowing the subsystems to co-ordinate over the communication link. These communication links are also often used for ": null
     },
     {
-        "HMI": "user interface"
+        "HMI": "User Interface"
     },
     {
         " devices such as keypads or ": null
     },
     {
-        "PC": "personal computer"
+        "PC": "Personal Computer"
     },
     {
         "-type workstations.     Formerly, some manufacturers offered dedicated communication modules as an add-on function where the processor had no network connection built-in.       Prior to the discovery of the ": null
     },
     {
-        "Stuxnet": "stuxnet"
+        "Stuxnet": "Stuxnet"
     },
     {
-        " computer worm": "computer worm"
+        " computer worm": "Computer Worm"
     },
     {
         " in June 2010, security of PLCs received little attention. Modern PLCs generally contain a real-time operating system such as ": null
     },
     {
-        "OS-9": "os-9"
+        "OS-9": "Os-9"
     },
     {
         " or ": null
     },
     {
-        "VxWorks": "vxworks"
+        "VxWorks": "Vxworks"
     },
     {
         ", and exploits for these systems exist much as they do for desktop computer operating systems such as ": null
     },
     {
-        "Microsoft Windows": "microsoft windows"
+        "Microsoft Windows": "Microsoft Windows"
     },
     {
         ". PLCs can also be attacked by gaining control of a computer they communicate with.          In order to properly understand the operation of a PLC, it is necessary to spend considerable time ": null
     },
     {
-        "programming": "computer programming"
+        "programming": "Computer Programming"
     },
     {
         ", testing, and ": null
     },
     {
-        "debugging": "debugging"
+        "debugging": "Debugging"
     },
     {
         " PLC programs. PLC systems are inherently expensive, and down-time is often very costly. In addition, if a PLC is programmed incorrectly it can result in lost productivity and dangerous conditions. PLC simulation software such as PLCLogix can save time in the design of automated control applications and can also increase the level of safety associated with equipment since many what if scenarios can be tried and tested before the system is activated.        Some special processes need to work permanently with minimum unwanted down time. Therefore, it is necessary to design a system which is fault-tolerant and capable of handling the process with faulty modules. In such cases to increase the system availability in the event of hardware component failure, redundant CPU or I/O modules with the same functionality can be added to hardware configuration for preventing total or partial process shutdown due to hardware failure.             PLCs are well adapted to a range of ": null
     },
     {
-        "automation": "automation"
+        "automation": "Automation"
     },
     {
         " tasks. These are typically industrial processes in manufacturing where the cost of developing and maintaining the automation system is high relative to the total cost of the automation, and where changes to the system would be expected during its operational life. PLCs contain input and output devices compatible with industrial pilot devices and controls; little electrical design is required, and the design problem centers on expressing the desired sequence of operations. PLC applications are typically highly customized systems, so the cost of a packaged PLC is low compared to the cost of a specific custom-built controller design. On the other hand, in the case of mass-produced goods, customized control systems are economical. This is due to the lower cost of the components, which can be optimally chosen instead of a generic solution, and where the non-recurring engineering charges are spread over thousands or millions of units.     For high volume or very simple fixed automation tasks, different techniques are used. For example, a cheap consumer ": null
     },
     {
-        "dishwasher": "dishwasher"
+        "dishwasher": "Dishwasher"
     },
     {
         " would be controlled by an electromechanical ": null
     },
     {
-        "cam timer": "cam timer"
+        "cam timer": "Cam Timer"
     },
     {
         " costing only a few dollars in production quantities.     A ": null
     },
     {
-        "microcontroller": "microcontroller"
+        "microcontroller": "Microcontroller"
     },
     {
         "-based design would be appropriate where hundreds or thousands of units will be produced and so the development cost can be spread over many sales, and where the end-user would not need to alter the control. Automotive applications are an example; millions of units are built each year, and very few end-users alter the programming of these controllers. However, some specialty vehicles such as transit buses economically use PLCs instead of custom-designed controls, because the volumes are low and the development cost would be uneconomical. Gregory K. McMillan, Douglas M. Considine , Process/Industrial Instruments and Controls Handbook Fifth Edition, McGraw-Hill, 1999  Section 3 Controllers     Very complex process control, such as used in the chemical industry, may require algorithms and performance beyond the capability of even high-performance PLCs. Very high-speed or precision controls may also require customized solutions; for example, aircraft flight controls. ": null
     },
     {
-        "Single-board computers": "single-board computer"
+        "Single-board computers": "Single-Board Computer"
     },
     {
         "using semi-customized or fully proprietary hardware may be chosen for very demanding control applications where the high development and maintenance cost can be supported. Soft PLCs running on desktop-type computers can interface with industrial I/O hardware while executing programs within a version of commercial operating systems adapted for process control needs.     Programmable controllers are widely used in motion, positioning, or torque control. Some manufacturers produce motion control units to be integrated with PLC so that ": null
     },
     {
-        "G-code": "g-code"
+        "G-code": "G-Code"
     },
     {
         "  can be used to instruct machine movements.       PLCs may include logic for single-variable feedback analog control loop, a ": null
     },
     {
-        "proportional, integral, derivative controller": "pid controller"
+        "proportional, integral, derivative controller": "Pid Controller"
     },
     {
         ". A PID loop could be used to control the temperature of a manufacturing process, for example. Historically PLCs were usually configured with only a few analog control loops; where processes required hundreds or thousands of loops, a ": null
     },
     {
-        "distributed control system": "distributed control system"
+        "distributed control system": "Distributed Control System"
     },
     {
         " would instead be used. As PLCs have become more powerful, the boundary between DCS and PLC applications has been blurred.     PLCs have similar functionality as ": null
     },
     {
-        "remote terminal unit": "remote terminal unit"
+        "remote terminal unit": "Remote Terminal Unit"
     },
     {
         "s. An RTU, however, usually does not support control algorithms or control loops. As hardware rapidly becomes more powerful and cheaper, RTUs, PLCs, and DCSs are increasingly beginning to overlap in responsibilities, and many vendors sell RTUs with PLC-like features, and vice versa. The industry has standardized on the ": null
     },
     {
-        "IEC 61131-3": "iec 61131-3"
+        "IEC 61131-3": "Iec 61131-3"
     },
     {
         " functional block language for creating programs to run on RTUs and PLCs, although nearly all vendors also offer proprietary alternatives and associated development environments.     In recent years safety PLCs have started to become popular, either as standalone models or as functionality and safety-rated hardware added to existing controller architectures . These differ from conventional PLC types as being suitable for use in safety-critical applications for which PLCs have traditionally been supplemented with hard-wired ": null
     },
     {
-        "safety relay": "safety relay"
+        "safety relay": "Safety Relay"
     },
     {
         "s. For example, a safety PLC might be used to control access to a robot cell with ": null
     },
     {
-        "trapped-key access": "trapped key interlocking"
+        "trapped-key access": "Trapped Key Interlocking"
     },
     {
         ", or perhaps to manage the shutdown response to an emergency stop on a conveyor production line. Such PLCs typically have a restricted regular instruction set augmented with safety-specific instructions designed to interface with emergency stops, light screens, and so forth. The flexibility that such systems offer has resulted in rapid growth of demand for these controllers.       Discrete signals behave as binary switches, yielding simply an On or Off signal . Push buttons, ": null
     },
     {
-        "limit switch": "limit switch"
+        "limit switch": "Limit Switch"
     },
     {
         "es, and ": null
     },
     {
-        "photoelectric sensors": "photoelectric sensor"
+        "photoelectric sensors": "Photoelectric Sensor"
     },
     {
         "are examples of devices providing a discrete signal. Discrete signals are sent using either ": null
     },
     {
-        "voltage": "voltage"
+        "voltage": "Voltage"
     },
     {
         " or ": null
     },
     {
-        "current": "current"
+        "current": "Current"
     },
     {
         ", where a specific range is designated as On and another as Off. For example, a PLC might use 24 V DC I/O, with values above 22 V DC representing On, values below 2VDC representing Off, and intermediate values undefined. Initially, PLCs had only digital I/O.     Analog signals are like volume controls, with a range of values between zero and full-scale. These are typically interpreted as integer values by the PLC, with various ranges of accuracy depending on the device and the number of bits available to store the data. As PLCs typically use 16-bit signed binary processors, the integer values are limited between -32,768 and +32,767. Pressure, temperature, flow, and weight are often represented by analog signals. Analog signals can use ": null
     },
     {
-        "voltage": "voltage"
+        "voltage": "Voltage"
     },
     {
         " or ": null
     },
     {
-        "current": "current"
+        "current": "Current"
     },
     {
         " with a magnitude proportional to the value of the process signal. For example, an analog 0 to 10  V or ": null
     },
     {
-        "4-20 mA": "4-20 ma"
+        "4-20 mA": "4-20 Ma"
     },
     {
         " input would be ": null
     },
     {
-        "converted": "analog-to-digital converter"
+        "converted": "Analog-To-Digital Converter"
     },
     {
         " into an integer value of 0 to 32767.     ": null
     },
     {
-        "Current inputs": "current loop"
+        "Current inputs": "Current Loop"
     },
     {
         " are less sensitive to electrical noise than voltage inputs.     PLCs are at the forefront of manufacturing automation. An engineer working in a manufacturing environment will at least encounter some PLCs, if not use them on a regular basis. Electrical engineering students should have basic knowledge of PLCs because of their widespread use in industrial applications.   ": null

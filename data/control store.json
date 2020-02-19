@@ -3,252 +3,252 @@
         "A control store is the part of a ": null
     },
     {
-        "CPUs": "central processing unit"
+        "CPUs": "Central Processing Unit"
     },
     {
-        " control unit": "control unit"
+        " control unit": "Control Unit"
     },
     {
         " that stores the CPUs ": null
     },
     {
-        "microprogram": "microprogram"
+        "microprogram": "Microprogram"
     },
     {
         ". It is usually accessed by a ": null
     },
     {
-        "microsequencer": "microsequencer"
+        "microsequencer": "Microsequencer"
     },
     {
         ". Early types of control store took the form of diode-arrays that were accessed via address decoders, but were later implemented as writable microcode that was stored in a form of ": null
     },
     {
-        "read-only memory": "read-only memory"
+        "read-only memory": "Read-Only Memory"
     },
     {
         " called a writable control store. The outputs generally had to go through a register to prevent a race condition from occurring. The register was clocked by the clock signal of the system it was running on.           Early control stores were implemented as a diode-array accessed via address decoders, a form of read-only memory. This tradition dates back to the program timing matrix on the ": null
     },
     {
-        "MIT Whirlwind": "mit whirlwind"
+        "MIT Whirlwind": "Mit Whirlwind"
     },
     {
         ", first described in 1947. Modern ": null
     },
     {
-        "VLSI": "vlsi"
+        "VLSI": "Vlsi"
     },
     {
         " processors instead use matrices of ": null
     },
     {
-        "field-effect transistors": "field-effect transistor"
+        "field-effect transistors": "Field-Effect Transistor"
     },
     {
         "to build the ": null
     },
     {
-        "ROM": "read-only memory"
+        "ROM": "Read-Only Memory"
     },
     {
         " and/or ": null
     },
     {
-        "PLA": "programmable logic array"
+        "PLA": "Programmable Logic Array"
     },
     {
         " structures used to control the processor as well as its internal sequencer in a ": null
     },
     {
-        "microcode": "microcode"
+        "microcode": "Microcode"
     },
     {
         "d implementation. IBM System/360 used a variety of techniques: ": null
     },
     {
-        "CCROS": "ccros"
+        "CCROS": "Ccros"
     },
     {
         " on the ": null
     },
     {
-        "Model 30": "ibm system/360 model 30"
+        "Model 30": "Ibm System/360 Model 30"
     },
     {
         ", ": null
     },
     {
-        "TROS": "tros"
+        "TROS": "Tros"
     },
     {
         " on the ": null
     },
     {
-        "Model 40": "ibm system/360 model 40"
+        "Model 40": "Ibm System/360 Model 40"
     },
     {
         ", and ": null
     },
     {
-        "BCROS": "bcros"
+        "BCROS": "Bcros"
     },
     {
         " on the ": null
     },
     {
-        "Model 50": "ibm system/360 model 50"
+        "Model 50": "Ibm System/360 Model 50"
     },
     {
         ".         Some computers were built using writable microcode — rather than storing the microcode in ROM or hard-wired logic, the microcode was stored in a RAM called a writable control store or WCS. Such a computer is sometimes called a Writable Instruction Set Computer or WISC.  article by Philip Koopman Jr. 1987 Many of these machines were experimental laboratory prototypes, such as the WISC CPU/16  by Phil Koopman 1989 and the RTX 32P.  by Philip Koopman 1989     The original ": null
     },
     {
-        "System/360": "ibm system/360"
+        "System/360": "Ibm System/360"
     },
     {
         " models of ": null
     },
     {
-        "IBM mainframe": "ibm mainframe"
+        "IBM mainframe": "Ibm Mainframe"
     },
     {
         " had read-only control store, but later System/360, ": null
     },
     {
-        "System/370": "ibm system/370"
+        "System/370": "Ibm System/370"
     },
     {
         " and successor models loaded part or all of their microprograms from floppy disks or other DASD into a writable control store consisting of ultra-high speed ": null
     },
     {
-        "random-access": "random-access memory"
+        "random-access": "Random-Access Memory"
     },
     {
-        " read-write memory": "read-write memory"
+        " read-write memory": "Read-Write Memory"
     },
     {
         ". The System/370 architecture included a facility called Initial-Microprogram Load   that could be invoked from the console, as part of  Power On Reset   or from another processor in a ": null
     },
     {
-        "tightly coupled": "tightly coupled system"
+        "tightly coupled": "Tightly Coupled System"
     },
     {
-        " multiprocessor": "multiprocessor"
+        " multiprocessor": "Multiprocessor"
     },
     {
         " complex. This permitted IBM to easily repair microprogramming defects in the field. Even when the majority of the control store is stored in ROM, computer vendors would often sell writable control store as an option, allowing the customers to customize the machines microprogram. Other vendors, e.g., IBM, use the WCS to run microcode for emulator features   and hardware diagnostics.      Other commercial machines that used writable microcode include the ": null
     },
     {
-        "Burroughs Small Systems": "burroughs small systems"
+        "Burroughs Small Systems": "Burroughs Small Systems"
     },
     {
         " , the Xerox processors in their ": null
     },
     {
-        "Lisp machines": "lisp machine"
+        "Lisp machines": "Lisp Machine"
     },
     {
         "and ": null
     },
     {
-        "Xerox Star": "xerox star"
+        "Xerox Star": "Xerox Star"
     },
     {
         " workstations, the ": null
     },
     {
-        "DEC": "digital equipment corporation"
+        "DEC": "Digital Equipment Corporation"
     },
     {
-        " VAX": "vax"
+        " VAX": "Vax"
     },
     {
         " 8800 family, and the ": null
     },
     {
-        "Symbolics": "symbolics"
+        "Symbolics": "Symbolics"
     },
     {
         " L- and G-machines . Some DEC ": null
     },
     {
-        "PDP-10": "pdp-10"
+        "PDP-10": "Pdp-10"
     },
     {
         " machines stored their microcode in SRAM chips , which was typically loaded on power-on through some other front-end CPU.  Many more machines offered user-programmable writable control stores as an option .   The ": null
     },
     {
-        "Mentec M11": "mentec pdp-11m11"
+        "Mentec M11": "Mentec Pdp-11M11"
     },
     {
         " and ": null
     },
     {
-        "Mentec M1": "mentec pdp-11m1"
+        "Mentec M1": "Mentec Pdp-11M1"
     },
     {
         " stored its microcode in SRAM chips, loaded on power-on through another CPU.   The ": null
     },
     {
-        "Data General Eclipse MV/8000": "data general eclipse mv/8000"
+        "Data General Eclipse MV/8000": "Data General Eclipse Mv/8000"
     },
     {
         " had a SRAM writable control store, loaded on power-on through another CPU.      WCS offered several advantages including the ease of patching the microprogram and, for certain hardware generations, faster access than ROMs could provide. User-programmable WCS allowed the user to optimize the machine for specific purposes.     Some CPU designs compile the instruction set to a writable ": null
     },
     {
-        "RAM": "ram"
+        "RAM": "Ram"
     },
     {
         " or ": null
     },
     {
-        "FLASH": "flash memory"
+        "FLASH": "Flash Memory"
     },
     {
         " inside the CPU ,  or an FPGA .     Several Intel CPUs in the ": null
     },
     {
-        "x86": "x86"
+        "x86": "X86"
     },
     {
         " architecture family have writable microcode,   , chapter 9.11: Microcode update facilities , December 2009.   starting with the ": null
     },
     {
-        "Pentium Pro": "pentium pro"
+        "Pentium Pro": "Pentium Pro"
     },
     {
         " in 1995.    This has allowed bugs in the ": null
     },
     {
-        "Intel Core 2": "intel core 2"
+        "Intel Core 2": "Intel Core 2"
     },
     {
         " microcode and Intel ": null
     },
     {
-        "Xeon": "xeon"
+        "Xeon": "Xeon"
     },
     {
         " microcode to be fixed in software, rather than requiring the entire chip to be replaced.   Such fixes can be installed by Linux,  ": null
     },
     {
-        "FreeBSD": "freebsd"
+        "FreeBSD": "Freebsd"
     },
     {
         ",  Microsoft Windows,  or the motherboard BIOS.        The control store usually has a register on its outputs. The outputs that go back into the sequencer to determine the next address have to go through some sort of register to prevent the creation of a ": null
     },
     {
-        "race condition": "race condition"
+        "race condition": "Race Condition"
     },
     {
         ". In most designs all of the other bits also go through a register. This is because the machine will work faster if the execution of the next microinstruction is delayed by one cycle. This register is known as a pipeline register. Very often the execution of the next microinstruction is dependent on the result of the current microinstruction, which will not be stable until the end of the current microcycle. It can be seen that either way, all of the outputs of the control store go into one big register. Historically it used to be possible to buy EPROMs with these register bits on the same chip.     The ": null
     },
     {
-        "clock signal": "clock signal"
+        "clock signal": "Clock Signal"
     },
     {
         " determining the ": null
     },
     {
-        "clock rate": "clock rate"
+        "clock rate": "Clock Rate"
     }
 ]

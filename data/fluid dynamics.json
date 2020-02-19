@@ -3,661 +3,661 @@
         "        In ": null
     },
     {
-        "physics": "physics"
+        "physics": "Physics"
     },
     {
         " and ": null
     },
     {
-        "engineering": "engineering"
+        "engineering": "Engineering"
     },
     {
         ", fluid dynamics is a subdiscipline of ": null
     },
     {
-        "fluid mechanics": "fluid mechanics"
+        "fluid mechanics": "Fluid Mechanics"
     },
     {
         " that describes the flow of ": null
     },
     {
-        "fluid": "fluid"
+        "fluid": "Fluid"
     },
     {
         "s—": null
     },
     {
-        "liquids": "liquid"
+        "liquids": "Liquid"
     },
     {
         "and ": null
     },
     {
-        "gas": "gas"
+        "gas": "Gas"
     },
     {
         "es. It has several subdisciplines, including ": null
     },
     {
-        "aerodynamics": "aerodynamics"
+        "aerodynamics": "Aerodynamics"
     },
     {
         " and hydrodynamics . Fluid dynamics has a wide range of applications, including calculating ": null
     },
     {
-        "forces": "force"
+        "forces": "Force"
     },
     {
         "and ": null
     },
     {
-        "moments": "moment"
+        "moments": "Moment"
     },
     {
         "on ": null
     },
     {
-        "aircraft": "aircraft"
+        "aircraft": "Aircraft"
     },
     {
         ", determining the ": null
     },
     {
-        "mass flow rate": "mass flow rate"
+        "mass flow rate": "Mass Flow Rate"
     },
     {
         " of ": null
     },
     {
-        "petroleum": "petroleum"
+        "petroleum": "Petroleum"
     },
     {
         " through ": null
     },
     {
-        "pipelines": "pipeline transport"
+        "pipelines": "Pipeline Transport"
     },
     {
         ", ": null
     },
     {
-        "predicting weather pattern": "weather forecasting"
+        "predicting weather pattern": "Weather Forecasting"
     },
     {
         "s, understanding ": null
     },
     {
-        "nebula": "nebula"
+        "nebulae": "Nebula"
     },
     {
-        "e in ": null
+        "in ": null
     },
     {
-        "interstellar space": "interstellar space"
+        "interstellar space": "Interstellar Space"
     },
     {
         " and ": null
     },
     {
-        "modelling fission weapon detonation": "nuclear weapon design"
+        "modelling fission weapon detonation": "Nuclear Weapon Design"
     },
     {
         ".     Fluid dynamics offers a systematic structure—which underlies these ": null
     },
     {
-        "practical disciplines": "practical disciplines"
+        "practical disciplines": "Practical Disciplines"
     },
     {
         "—that embraces empirical and semi-empirical laws derived from ": null
     },
     {
-        "flow measurement": "flow measurement"
+        "flow measurement": "Flow Measurement"
     },
     {
         " and used to solve practical problems. The solution to a fluid dynamics problem typically involves the calculation of various properties of the fluid, such as ": null
     },
     {
-        "flow velocity": "flow velocity"
+        "flow velocity": "Flow Velocity"
     },
     {
         ", ": null
     },
     {
-        "pressure": "pressure"
+        "pressure": "Pressure"
     },
     {
         ", ": null
     },
     {
-        "density": "density"
+        "density": "Density"
     },
     {
         ", and ": null
     },
     {
-        "temperature": "temperature"
+        "temperature": "Temperature"
     },
     {
         ", as functions of space and time.     Before the twentieth century, hydrodynamics was synonymous with fluid dynamics. This is still reflected in names of some fluid dynamics topics, like ": null
     },
     {
-        "magnetohydrodynamics": "magnetohydrodynamics"
+        "magnetohydrodynamics": "Magnetohydrodynamics"
     },
     {
         " and ": null
     },
     {
-        "hydrodynamic stability": "hydrodynamic stability"
+        "hydrodynamic stability": "Hydrodynamic Stability"
     },
     {
         ", both of which can also be applied to gases.        The foundational axioms of fluid dynamics are the ": null
     },
     {
-        "conservation law": "conservation law"
+        "conservation law": "Conservation Law"
     },
     {
         "s, specifically, ": null
     },
     {
-        "conservation of mass": "conservation of mass"
+        "conservation of mass": "Conservation Of Mass"
     },
     {
         ", ": null
     },
     {
-        "conservation of linear momentum": "conservation of momentum"
+        "conservation of linear momentum": "Conservation Of Momentum"
     },
     {
         ", and ": null
     },
     {
-        "conservation of energy": "conservation of energy"
+        "conservation of energy": "Conservation Of Energy"
     },
     {
         " . These are based on ": null
     },
     {
-        "classical mechanics": "classical mechanics"
+        "classical mechanics": "Classical Mechanics"
     },
     {
         " and are modified in ": null
     },
     {
-        "quantum mechanics": "quantum mechanics"
+        "quantum mechanics": "Quantum Mechanics"
     },
     {
         " and ": null
     },
     {
-        "general relativity": "general relativity"
+        "general relativity": "General Relativity"
     },
     {
         ". They are expressed using the ": null
     },
     {
-        "Reynolds transport theorem": "reynolds transport theorem"
+        "Reynolds transport theorem": "Reynolds Transport Theorem"
     },
     {
         ".     In addition to the above, fluids are assumed to obey the . Fluids are composed of molecules that collide with one another and solid objects. However, the continuum assumption assumes that fluids are continuous, rather than discrete. Consequently, it is assumed that properties such as density, pressure, temperature, and flow velocity are well-defined at ": null
     },
     {
-        "infinitesimal": "infinitesimal"
+        "infinitesimal": "Infinitesimal"
     },
     {
         "ly small points in space and vary continuously from one point to another. The fact that the fluid is made up of discrete molecules is ignored.     For fluids that are sufficiently dense to be a continuum, do not contain ionized species, and have flow velocities small in relation to the speed of light, the momentum equations for ": null
     },
     {
-        "Newtonian fluids": "newtonian fluid"
+        "Newtonian fluids": "Newtonian Fluid"
     },
     {
         "are the ": null
     },
     {
-        "Navier–Stokes equations": "navier–stokes equations"
+        "Navier–Stokes equations": "Navier–Stokes Equations"
     },
     {
         "—which is a ": null
     },
     {
-        "non-linear": "non-linear"
+        "non-linear": "Non-Linear"
     },
     {
         " set of ": null
     },
     {
-        "differential equations": "differential equations"
+        "differential equations": "Differential Equations"
     },
     {
         " that describes the flow of a fluid whose stress depends linearly on flow velocity gradients and pressure. The unsimplified equations do not have a general ": null
     },
     {
-        "closed-form solution": "solution in closed form"
+        "closed-form solution": "Solution In Closed Form"
     },
     {
         ", so they are primarily of use in ": null
     },
     {
-        "Computational Fluid Dynamics": "computational fluid dynamics"
+        "Computational Fluid Dynamics": "Computational Fluid Dynamics"
     },
     {
         ". The equations can be simplified in a number of ways, all of which make them easier to solve. Some of the simplifications allow some simple fluid dynamics problems to be solved in closed form.     In addition to the mass, momentum, and energy conservation equations, a ": null
     },
     {
-        "thermodynamic": "thermodynamics"
+        "thermodynamic": "Thermodynamics"
     },
     {
         " equation of state that gives the pressure as a function of other thermodynamic variables is required to completely describe the problem. An example of this would be the ": null
     },
     {
-        "perfect gas equation of state": "ideal gas law"
+        "perfect gas equation of state": "Ideal Gas Law"
     },
     {
         ":     : p \\frac     where p is pressure, ρ is density, T the absolute temperature, while R u  is the ": null
     },
     {
-        "gas constant": "gas constant"
+        "gas constant": "Gas Constant"
     },
     {
         " and M is ": null
     },
     {
-        "molar mass": "molar mass"
+        "molar mass": "Molar Mass"
     },
     {
         " for a particular gas.       Three conservation laws are used to solve fluid dynamics problems, and may be written in ": null
     },
     {
-        "integral": "integral"
+        "integral": "Integral"
     },
     {
         " or ": null
     },
     {
-        "differential": "differential"
+        "differential": "Differential"
     },
     {
         " form. The conservation laws may be applied to a region of the flow called a control volume. A control volume is a discrete volume in space through which fluid is assumed to flow. The integral formulations of the conservation laws are used to describe the change of mass, momentum, or energy within the control volume. Differential formulations of the conservation laws apply ": null
     },
     {
-        "Stokes theorem": "stokes theorem"
+        "Stokes theorem": "Stokes Theorem"
     },
     {
         " to yield an expression which may be interpreted as the integral form of the law applied to an infinitesimally small volume within the flow.     ": null
     },
     {
-        "Mass continuity": "continuity equationfluid dynamics"
+        "Mass continuity": "Continuity Equationfluid Dynamics"
     },
     {
         " : The rate of change of fluid mass inside a control volume must be equal to the net rate of fluid flow into the volume. Physically, this statement requires that mass is neither created nor destroyed in the control volume,  and can be translated into the integral form of the continuity equation:   :: \\iiint_V \\rho \\, dV - \\,      :Above, \\rho is the fluid density, u is the ": null
     },
     {
-        "flow velocity": "flow velocity"
+        "flow velocity": "Flow Velocity"
     },
     {
         " vector, and t is time. The left-hand side of the above expression is the rate of increase of mass within the volume and contains a triple integral over the control volume, whereas the right-hand side contains an integration over the surface of the control volume of mass convected into the system. Mass flow into the system is accounted as positive, and since the normal vector to the surface is opposite the sense of flow into the system the term is negated. The differential form of the continuity equation is, by the ": null
     },
     {
-        "divergence theorem": "divergence theorem"
+        "divergence theorem": "Divergence Theorem"
     },
     {
         ":     :: \\ + \\nabla \\cdot 0   ": null
     },
     {
-        "Conservation of momentum": "momentum"
+        "Conservation of momentum": "Momentum"
     },
     {
         ": ": null
     },
     {
-        "Newtons second law of motion": "newtons second law of motion"
+        "Newtons second law of motion": "Newtons Second Law Of Motion"
     },
     {
         " applied to a control volume, is a statement that any change in momentum of the fluid within that control volume will be due to the net flow of momentum into the volume and the action of external forces acting on the fluid within the volume.     :: \\frac \\iiint_ \\rho\\mathbf \\, dV -\\,  \\mathbf -  \\displaystyle+ \\iiint_ \\rho \\mathbf_\\text \\, dV + \\mathbf_\\text     :In the above integral formulation of this equation, the term on the left is the net change of momentum within the volume. The first term on the right is the net rate at which momentum is convected into the volume. The second term on the right is the force due to pressure on the volumes surfaces. The first two terms on the right are negated since momentum entering the system is accounted as positive, and the normal is opposite the direction of the velocity \\mathbf and pressure forces. The third term on the right is the net acceleration of the mass within the volume due to any ": null
     },
     {
-        "body forces": "body force"
+        "body forces": "Body Force"
     },
     {
         " . ": null
     },
     {
-        "Surface force": "surface force"
+        "Surface force": "Surface Force"
     },
     {
         "s, such as viscous forces, are represented by  \\mathbf_\\text , the net force due to ": null
     },
     {
-        "shear forces": "stress"
+        "shear forces": "Stress"
     },
     {
         " acting on the volume surface. The momentum balance can also be written for a moving control volume.          :The following is the differential form of the momentum conservation equation. Here, the volume is reduced to an infinitesimally small point, and both surface and body forces are accounted for in one total force, F. For example, F may be expanded into an expression for the frictional and gravitational forces acting at a point in a flow.   :: \\ \\mathbf -     :In aerodynamics, air is assumed to be a ": null
     },
     {
-        "Newtonian fluid": "newtonian fluid"
+        "Newtonian fluid": "Newtonian Fluid"
     },
     {
         ", which posits a linear relationship between the shear stress and the rate of strain of the fluid. The equation above is a vector equation in a three-dimensional flow, but it can be expressed as three scalar equations in three coordinate directions. The conservation of momentum equations for the compressible, viscous flow case are called the Navier–Stokes equations.   ": null
     },
     {
-        "Conservation of energy": "conservation of energy"
+        "Conservation of energy": "Conservation Of Energy"
     },
     {
         ": Although ": null
     },
     {
-        "energy": "energy"
+        "energy": "Energy"
     },
     {
         " can be converted from one form to another, the total ": null
     },
     {
-        "energy": "energy"
+        "energy": "Energy"
     },
     {
         " in a closed system remains constant.     :: \\ \\rho + \\nabla \\cdot \\left + \\Phi     :Above, h is ": null
     },
     {
-        "enthalpy": "enthalpy"
+        "enthalpy": "Enthalpy"
     },
     {
         ", k is the ": null
     },
     {
-        "thermal conductivity": "thermal conductivity"
+        "thermal conductivity": "Thermal Conductivity"
     },
     {
         " of the fluid, T is temperature, and \\Phi is the viscous dissipation function. The viscous dissipation function governs the rate at which mechanical energy of the flow is converted to heat. The ": null
     },
     {
-        "second law of thermodynamics": "second law of thermodynamics"
+        "second law of thermodynamics": "Second Law Of Thermodynamics"
     },
     {
         " requires that the dissipation term is always positive: viscosity cannot create energy within the control volume.  The expression on the left side is a ": null
     },
     {
-        "material derivative": "material derivative"
+        "material derivative": "Material Derivative"
     },
     {
         ".       All fluids are ": null
     },
     {
-        "compressible": "compressibility"
+        "compressible": "Compressibility"
     },
     {
         " to some extent; that is, changes in pressure or temperature cause changes in density. However, in many situations the changes in pressure and temperature are sufficiently small that the changes in density are negligible. In this case the flow can be modelled as an ": null
     },
     {
-        "incompressible flow": "incompressible flow"
+        "incompressible flow": "Incompressible Flow"
     },
     {
         ". Otherwise the more general ": null
     },
     {
-        "compressible flow": "compressible flow"
+        "compressible flow": "Compressible Flow"
     },
     {
         " equations must be used.     Mathematically, incompressibility is expressed by saying that the density ρ of a ": null
     },
     {
-        "fluid parcel": "fluid parcel"
+        "fluid parcel": "Fluid Parcel"
     },
     {
         " does not change as it moves in the flow field, i.e.,   : \\frac 0 \\, ,   where D/Dt is the ": null
     },
     {
-        "material derivative": "material derivative"
+        "material derivative": "Material Derivative"
     },
     {
         ", which is the sum of ": null
     },
     {
-        "local": "time derivative"
+        "local": "Time Derivative"
     },
     {
         " and ": null
     },
     {
-        "convective derivative": "convective derivative"
+        "convective derivative": "Convective Derivative"
     },
     {
         "s. This additional constraint simplifies the governing equations, especially in the case when the fluid has a uniform density.     For flow of gases, to determine whether to use compressible or incompressible fluid dynamics, the ": null
     },
     {
-        "Mach number": "mach number"
+        "Mach number": "Mach Number"
     },
     {
         " of the flow is evaluated. As a rough guide, compressible effects can be ignored at Mach numbers below approximately 0.3. For liquids, whether the incompressible assumption is valid depends on the fluid properties and the flow conditions . ": null
     },
     {
-        "Acoustic": "acoustics"
+        "Acoustic": "Acoustics"
     },
     {
         " problems always require allowing compressibility, since ": null
     },
     {
-        "sound waves": "sound waves"
+        "sound waves": "Sound Waves"
     },
     {
         " are compression waves involving changes in pressure and density of the medium through which they propagate.            All fluids are viscous, meaning that they exert some resistance to deformation: neighbouring parcels of fluid moving at different velocities exert viscous forces on each other. The velocity gradient is referred to as a ": null
     },
     {
-        "strain rate": "strain"
+        "strain rate": "Strain"
     },
     {
         "; it has dimensions T^ . ": null
     },
     {
-        "Isaac Newton": "isaac newton"
+        "Isaac Newton": "Isaac Newton"
     },
     {
         " showed that for many familiar fluids such as ": null
     },
     {
-        "water": "water"
+        "water": "Water"
     },
     {
         " and ": null
     },
     {
-        "air": "earths atmosphere"
+        "air": "Earths Atmosphere"
     },
     {
         ", the ": null
     },
     {
-        "stress": "stress"
+        "stress": "Stress"
     },
     {
         " due to these viscous forces is linearly related to the strain rate. Such fluids are called ": null
     },
     {
-        "Newtonian fluids": "newtonian fluids"
+        "Newtonian fluids": "Newtonian Fluids"
     },
     {
         ". The coefficient of proportionality is called the fluids viscosity; for Newtonian fluids, it is a fluid property that is independent of the strain rate.     ": null
     },
     {
-        "Non-Newtonian fluids": "non-newtonian fluid"
+        "Non-Newtonian fluids": "Non-Newtonian Fluid"
     },
     {
         "have a more complicated, non-linear stress-strain behaviour. The sub-discipline of ": null
     },
     {
-        "rheology": "rheology"
+        "rheology": "Rheology"
     },
     {
         " describes the stress-strain behaviours of such fluids, which include ": null
     },
     {
-        "emulsions": "emulsion"
+        "emulsions": "Emulsion"
     },
     {
         "and ": null
     },
     {
-        "slurries": "slurries"
+        "slurries": "Slurries"
     },
     {
         ", some ": null
     },
     {
-        "viscoelastic": "viscoelasticity"
+        "viscoelastic": "Viscoelasticity"
     },
     {
         " materials such as ": null
     },
     {
-        "blood": "blood"
+        "blood": "Blood"
     },
     {
         " and some ": null
     },
     {
-        "polymer": "polymer"
+        "polymer": "Polymer"
     },
     {
         "s, and sticky liquids such as ": null
     },
     {
-        "latex": "latex"
+        "latex": "Latex"
     },
     {
         ", ": null
     },
     {
-        "honey": "honey"
+        "honey": "Honey"
     },
     {
         " and ": null
     },
     {
-        "lubricants": "lubricants"
+        "lubricants": "Lubricants"
     },
     {
         ".         The dynamic of fluid parcels is described with the help of ": null
     },
     {
-        "Newtons second law": "newtons second law"
+        "Newtons second law": "Newtons Second Law"
     },
     {
         ". An accelerating parcel of fluid is subject to inertial effects.     The ": null
     },
     {
-        "Reynolds number": "reynolds number"
+        "Reynolds number": "Reynolds Number"
     },
     {
         " is a ": null
     },
     {
-        "dimensionless quantity": "dimensionless quantity"
+        "dimensionless quantity": "Dimensionless Quantity"
     },
     {
         " which characterises the magnitude of inertial effects compared to the magnitude of viscous effects. A low Reynolds number  indicate that the inertial effects have more effect on the velocity field than the viscous effects. In high Reynolds number flows, the flow is often modeled as an ": null
     },
     {
-        "inviscid flow": "inviscid flow"
+        "inviscid flow": "Inviscid Flow"
     },
     {
         ", an approximation in which viscosity is completely neglected. Eliminating viscosity allows the ": null
     },
     {
-        "Navier–Stokes equations": "navier–stokes equations"
+        "Navier–Stokes equations": "Navier–Stokes Equations"
     },
     {
         " to be simplified into the ": null
     },
     {
-        "Euler equations": "euler equations"
+        "Euler equations": "Euler Equations"
     },
     {
         ". The integration of the Euler equations along a streamline in an inviscid flow yields ": null
     },
     {
-        "Bernoullis equation": "bernoullis equation"
+        "Bernoullis equation": "Bernoullis Equation"
     },
     {
         ". When, in addition to being inviscid, the flow is ": null
     },
     {
-        "irrotational": "lamellar field"
+        "irrotational": "Lamellar Field"
     },
     {
         " everywhere, Bernoullis equation can completely describe the flow everywhere. Such flows are called ": null
     },
     {
-        "potential flow": "potential flow"
+        "potential flow": "Potential Flow"
     },
     {
         "s, because the velocity field may be expressed as the ": null
     },
     {
-        "gradient": "gradient"
+        "gradient": "Gradient"
     },
     {
         " of a potential energy expression.     This idea can work fairly well when the Reynolds number is high. However, problems such as those involving solid boundaries may require that the viscosity be included. Viscosity cannot be neglected near solid boundaries because the ": null
     },
     {
-        "no-slip condition": "no-slip condition"
+        "no-slip condition": "No-Slip Condition"
     },
     {
         " generates a thin region of large strain rate, the ": null
     },
     {
-        "boundary layer": "boundary layer"
+        "boundary layer": "Boundary Layer"
     },
     {
         ", in which ": null
     },
     {
-        "viscosity": "viscosity"
+        "viscosity": "Viscosity"
     },
     {
         " effects dominate and which thus generates ": null
     },
     {
-        "vorticity": "vorticity"
+        "vorticity": "Vorticity"
     },
     {
         ". Therefore, to calculate net forces on bodies , viscous flow equations must be used: inviscid flow theory fails to predict ": null
     },
     {
-        "drag forces": "drag"
+        "drag forces": "Drag"
     },
     {
         ", a limitation known as the ": null
     },
     {
-        "dAlemberts paradox": "dalemberts paradox"
+        "dAlemberts paradox": "Dalemberts Paradox"
     },
     {
         ".     A commonly used model, especially in ": null
     },
     {
-        "computational fluid dynamics": "computational fluid dynamics"
+        "computational fluid dynamics": "Computational Fluid Dynamics"
     },
     {
         ", is to use two flow models: the Euler equations away from the body, and ": null
     },
     {
-        "boundary layer": "boundary layer"
+        "boundary layer": "Boundary Layer"
     },
     {
         " equations in a region close to the body. The two solutions can then be matched with each other, using the ": null
     },
     {
-        "method of matched asymptotic expansions": "method of matched asymptotic expansions"
+        "method of matched asymptotic expansions": "Method Of Matched Asymptotic Expansions"
     },
     {
         ".      Steady vs unsteady flow": null
     },
     {
-        "Steady flow": "steady flow"
+        "Steady flow": "Steady Flow"
     },
     {
         " redirects here -- ": null
     },
     {
-        "ef /re": "ef  /re"
+        "ef /re": "Ef  /Re"
     },
     {
         " ref /ref  ref  /ref ref /ref ": null

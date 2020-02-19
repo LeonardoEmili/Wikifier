@@ -3,478 +3,478 @@
         "        A field-programmable gate array  is an ": null
     },
     {
-        "integrated circuit": "integrated circuit"
+        "integrated circuit": "Integrated Circuit"
     },
     {
         " designed to be configured by a customer or a designer after manufacturinghence the term ": null
     },
     {
-        "field-programmable": "field-programmability"
+        "field-programmable": "Field-Programmability"
     },
     {
         " . The FPGA configuration is generally specified using a ": null
     },
     {
-        "hardware description language": "hardware description language"
+        "hardware description language": "Hardware Description Language"
     },
     {
         " , similar to that used for an ": null
     },
     {
-        "application-specific integrated circuit": "application-specific integrated circuit"
+        "application-specific integrated circuit": "Application-Specific Integrated Circuit"
     },
     {
         " . ": null
     },
     {
-        "Circuit diagrams": "circuit diagram"
+        "Circuit diagrams": "Circuit Diagram"
     },
     {
         "were previously used to specify the configuration, but this is increasingly rare due to the advent of ": null
     },
     {
-        "electronic design automation": "electronic design automation"
+        "electronic design automation": "Electronic Design Automation"
     },
     {
         " tools.          FPGAs contain an array of ": null
     },
     {
-        "programmable": "programmable logic device"
+        "programmable": "Programmable Logic Device"
     },
     {
-        " logic block": "logic block"
+        " logic block": "Logic Block"
     },
     {
         "s, and a hierarchy of reconfigurable interconnects that allow the blocks to be wired together , like many logic gates that can be inter-wired in different configurations. ": null
     },
     {
-        "Logic blocks": "logic block"
+        "Logic blocks": "Logic Block"
     },
     {
         "can be configured to perform complex ": null
     },
     {
-        "combinational functions": "combinational logic"
+        "combinational functions": "Combinational Logic"
     },
     {
         ", or merely simple ": null
     },
     {
-        "logic gates": "logic gate"
+        "logic gates": "Logic Gate"
     },
     {
         "like ": null
     },
     {
-        "AND": "and gate"
+        "AND": "And Gate"
     },
     {
         " and ": null
     },
     {
-        "XOR": "xor gate"
+        "XOR": "Xor Gate"
     },
     {
         ". In most FPGAs, logic blocks also include ": null
     },
     {
-        "memory elements": "memory cell"
+        "memory elements": "Memory Cell"
     },
     {
         ", which may be simple ": null
     },
     {
-        "flip-flops": "flip-flop"
+        "flip-flops": "Flip-Flop"
     },
     {
         " or more complete blocks of memory. Many FPGAs can be reprogrammed to implement different ": null
     },
     {
-        "logic functions": "boolean function"
+        "logic functions": "Boolean Function"
     },
     {
         ", allowing flexible ": null
     },
     {
-        "reconfigurable computing": "reconfigurable computing"
+        "reconfigurable computing": "Reconfigurable Computing"
     },
     {
         " as performed in ": null
     },
     {
-        "computer software": "software"
+        "computer software": "Software"
     },
     {
         ".       Contemporary field-programmable gate arrays have large resources of ": null
     },
     {
-        "logic gates": "logic gate"
+        "logic gates": "Logic Gate"
     },
     {
         "and RAM blocks to implement complex digital computations. As FPGA designs employ very fast I/O rates and bidirectional data ": null
     },
     {
-        "buses": "bus"
+        "buses": "Bus"
     },
     {
         ", it becomes a challenge to verify correct timing of valid data within setup time and hold time.     ": null
     },
     {
-        "Floor planning": "floorplan"
+        "Floor planning": "Floorplan"
     },
     {
         " enables resource allocation within FPGAs to meet these time constraints. FPGAs can be used to implement any logical function that an ": null
     },
     {
-        "ASIC": "application-specific integrated circuit"
+        "ASIC": "Application-Specific Integrated Circuit"
     },
     {
         " can perform. The ability to update the functionality after shipping, ": null
     },
     {
-        "partial re-configuration": "partial re-configuration"
+        "partial re-configuration": "Partial Re-Configuration"
     },
     {
         " of a portion of the design  and the low non-recurring engineering costs relative to an ASIC design , offer advantages for many applications.      Some FPGAs have analog features in addition to digital functions. The most common analog feature is a programmable ": null
     },
     {
-        "slew rate": "slew rate"
+        "slew rate": "Slew Rate"
     },
     {
         " on each output pin, allowing the engineer to set low rates on lightly loaded pins that would otherwise ": null
     },
     {
-        "ring": "electrical resonance"
+        "ring": "Electrical Resonance"
     },
     {
         " or ": null
     },
     {
-        "couple": "coupling"
+        "couple": "Coupling"
     },
     {
         " unacceptably, and to set higher rates on heavily loaded pins on high-speed channels that would otherwise run too slowly.    Also common are quartz-": null
     },
     {
-        "crystal oscillator": "crystal oscillator"
+        "crystal oscillator": "Crystal Oscillator"
     },
     {
         "s, on-chip resistance-capacitance oscillators, and ": null
     },
     {
-        "phase-locked loops": "phase-locked loop"
+        "phase-locked loops": "Phase-Locked Loop"
     },
     {
         "with embedded ": null
     },
     {
-        "voltage-controlled oscillators": "voltage-controlled oscillator"
+        "voltage-controlled oscillators": "Voltage-Controlled Oscillator"
     },
     {
         "used for clock generation and management and for high-speed serializer-deserializer transmit clocks and receiver clock recovery. Fairly common are differential ": null
     },
     {
-        "comparators": "comparator"
+        "comparators": "Comparator"
     },
     {
         "on input pins designed to be connected to ": null
     },
     {
-        "differential signaling": "differential signaling"
+        "differential signaling": "Differential Signaling"
     },
     {
         " channels. A few ": null
     },
     {
-        "mixed signal": "mixed-signal integrated circuit"
+        "mixed signal": "Mixed-Signal Integrated Circuit"
     },
     {
         " FPGAs have integrated peripheral ": null
     },
     {
-        "analog-to-digital converters": "analog-to-digital converter"
+        "analog-to-digital converters": "Analog-To-Digital Converter"
     },
     {
         " and ": null
     },
     {
-        "digital-to-analog converters": "digital-to-analog converter"
+        "digital-to-analog converters": "Digital-To-Analog Converter"
     },
     {
         " with analog signal conditioning blocks allowing them to operate as a ": null
     },
     {
-        "system-on-a-chip": "system on a chip"
+        "system-on-a-chip": "System On A Chip"
     },
     {
         " . Mike Thompson. .   EE Times, 2007-07-02. Such devices blur the line between an FPGA, which carries digital ones and zeros on its internal programmable interconnect fabric, and ": null
     },
     {
-        "field-programmable analog array": "field-programmable analog array"
+        "field-programmable analog array": "Field-Programmable Analog Array"
     },
     {
         " , which carries analog values on its internal programmable interconnect fabric.       The FPGA industry sprouted from ": null
     },
     {
-        "programmable read-only memory": "programmable read-only memory"
+        "programmable read-only memory": "Programmable Read-Only Memory"
     },
     {
         " and ": null
     },
     {
-        "programmable logic devices": "programmable logic devices"
+        "programmable logic devices": "Programmable Logic Devices"
     },
     {
         " . PROMs and PLDs both had the option of being programmed in batches in a factory or in the field . However, programmable logic was hard-wired between logic gates.      ": null
     },
     {
-        "Altera": "altera"
+        "Altera": "Altera"
     },
     {
         " was founded in 1983 and delivered the industrys first reprogrammable logic device in 1984 – the EP300 – which featured a quartz window in the package that allowed users to shine an ultra-violet lamp on the die to erase the ": null
     },
     {
-        "EPROM": "eprom"
+        "EPROM": "Eprom"
     },
     {
         " cells that held the device configuration.  In December 2015, ": null
     },
     {
-        "Intel": "intel"
+        "Intel": "Intel"
     },
     {
         " acquired Altera.     ": null
     },
     {
-        "Xilinx": "xilinx"
+        "Xilinx": "Xilinx"
     },
     {
         " co-founders ": null
     },
     {
-        "Ross Freeman": "ross freeman"
+        "Ross Freeman": "Ross Freeman"
     },
     {
         " and ": null
     },
     {
-        "Bernard Vonderschmitt": "bernard vonderschmitt"
+        "Bernard Vonderschmitt": "Bernard Vonderschmitt"
     },
     {
         " invented the first commercially viable field-programmable ": null
     },
     {
-        "gate array": "gate array"
+        "gate array": "Gate Array"
     },
     {
         " in 1985  – the XC2064.  The XC2064 had programmable gates and programmable interconnects between gates, the beginnings of a new technology and market. Funding Universe. “” Retrieved January 15, 2009. The XC2064 had 64 configurable logic blocks , with two three-input ": null
     },
     {
-        "lookup tables": "lookup table"
+        "lookup tables": "Lookup Table"
     },
     {
         ". Clive Maxfield, Programmable Logic DesignLine, . May 15, 2006. Retrieved February 5, 2009. More than 20 years later, Freeman was entered into the ": null
     },
     {
-        "National Inventors Hall of Fame": "national inventors hall of fame"
+        "National Inventors Hall of Fame": "National Inventors Hall Of Fame"
     },
     {
         " for his invention. Press Release,        In 1987, the ": null
     },
     {
-        "Naval Surface Warfare Center": "naval surface warfare center"
+        "Naval Surface Warfare Center": "Naval Surface Warfare Center"
     },
     {
         " funded an experiment proposed by Steve Casselman to develop a computer that would implement 600,000 reprogrammable gates. Casselman was successful and a patent related to the system was issued in 1992.     Altera and Xilinx continued unchallenged and quickly grew from 1985 to the mid-1990s, when competitors sprouted up, eroding significant market share. By 1993, Actel  was serving about 18 percent of the market. By 2013, Altera , Actel and Xilinx together represented approximately 77 percent of the FPGA market.      The 1990s were a period of rapid growth for FPGAs, both in circuit sophistication and the volume of production. In the early 1990s, FPGAs were primarily used in ": null
     },
     {
-        "telecommunications": "telecommunication"
+        "telecommunications": "Telecommunication"
     },
     {
         " and ": null
     },
     {
-        "networking": "computer network"
+        "networking": "Computer Network"
     },
     {
         ". By the end of the decade, FPGAs found their way into consumer, automotive, and industrial applications.      Companies like Microsoft have started to use FPGAs to accelerate high-performance, computationally intensive systems , due to the ": null
     },
     {
-        "performance per watt": "performance per watt"
+        "performance per watt": "Performance Per Watt"
     },
     {
         " advantage FPGAs deliver.  Microsoft began using FPGAs to ": null
     },
     {
-        "accelerate": "hardware acceleration"
+        "accelerate": "Hardware Acceleration"
     },
     {
         " Bing in 2014, and in 2018 began deploying FPGAs across other data center workloads for their ": null
     },
     {
-        "Azure": "microsoft azure"
+        "Azure": "Microsoft Azure"
     },
     {
-        " cloud computing": "cloud computing"
+        " cloud computing": "Cloud Computing"
     },
     {
         " platform.          In 2012 the coarse-grained architectural approach was taken a step further by combining the ": null
     },
     {
-        "logic blocks": "logic block"
+        "logic blocks": "Logic Block"
     },
     {
         "and interconnects of traditional FPGAs with embedded ": null
     },
     {
-        "microprocessors": "microprocessor"
+        "microprocessors": "Microprocessor"
     },
     {
         " and related peripherals to form a complete ": null
     },
     {
-        "system on a programmable chip": "system on a chip"
+        "system on a programmable chip": "System On A Chip"
     },
     {
         " . This work mirrors the architecture created by Ron Perloff and Hanan Potash of Burroughs Advanced Systems Group in 1982 which combined a reconfigurable ": null
     },
     {
-        "CPU architecture": "cpu architecture"
+        "CPU architecture": "Cpu Architecture"
     },
     {
         " on a single chip called the SB24.      Examples of such hybrid technologies can be found in the ": null
     },
     {
-        "Xilinx": "xilinx"
+        "Xilinx": "Xilinx"
     },
     {
         " Zynq-7000 all ": null
     },
     {
-        "Programmable SoC": "programmable system-on-chip"
+        "Programmable SoC": "Programmable System-On-Chip"
     },
     {
         ",  which includes a 1.0  ": null
     },
     {
-        "GHz": "gigahertz"
+        "GHz": "Gigahertz"
     },
     {
         " dual-core ": null
     },
     {
-        "ARM Cortex-A9": "arm cortex-a9"
+        "ARM Cortex-A9": "Arm Cortex-A9"
     },
     {
         " MPCore processor ": null
     },
     {
-        "embedded": "embedded system"
+        "embedded": "Embedded System"
     },
     {
         " within the FPGAs logic fabric  or in the ": null
     },
     {
-        "Altera": "altera"
+        "Altera": "Altera"
     },
     {
         " Arria V FPGA, which includes an 800  MHz ": null
     },
     {
-        "dual-core": "dual core"
+        "dual-core": "Dual Core"
     },
     {
-        " ARM Cortex-A9": "arm cortex-a9"
+        " ARM Cortex-A9": "Arm Cortex-A9"
     },
     {
         " MPCore. The ": null
     },
     {
-        "Atmel": "atmel"
+        "Atmel": "Atmel"
     },
     {
         " FPSLIC is another such device, which uses an ": null
     },
     {
-        "AVR": "atmel avr"
+        "AVR": "Atmel Avr"
     },
     {
         " processor in combination with Atmels programmable logic architecture. The ": null
     },
     {
-        "Microsemi": "microsemi"
+        "Microsemi": "Microsemi"
     },
     {
-        " SmartFusion": "smartfusion"
+        " SmartFusion": "Smartfusion"
     },
     {
         " devices incorporate an ARM Cortex-M3 hard processor core  and analog ": null
     },
     {
-        "peripherals": "peripheral"
+        "peripherals": "Peripheral"
     },
     {
         " such as a multi-channel ": null
     },
     {
-        "analog-to-digital converters": "analog-to-digital converter"
+        "analog-to-digital converters": "Analog-To-Digital Converter"
     },
     {
         " and ": null
     },
     {
-        "digital-to-analog converters": "digital-to-analog converter"
+        "digital-to-analog converters": "Digital-To-Analog Converter"
     },
     {
         " to their ": null
     },
     {
-        "flash memory": "flash memory"
+        "flash memory": "Flash Memory"
     },
     {
         "-based FPGA fabric.            An alternate approach to using hard-macro processors is to make use of ": null
     },
     {
-        "soft processor": "soft microprocessor"
+        "soft processor": "Soft Microprocessor"
     },
     {
-        " IP cores": "semiconductor intellectual property core"
+        " IP cores": "Semiconductor Intellectual Property Core"
     },
     {
         " that are implemented within the FPGA logic. ": null
     },
     {
-        "Nios II": "nios ii"
+        "Nios II": "Nios Ii"
     },
     {
         ", ": null
     },
     {
-        "MicroBlaze": "microblaze"
+        "MicroBlaze": "Microblaze"
     },
     {
         " and ": null
     },
     {
-        "Mico32": "latticemico32"
+        "Mico32": "Latticemico32"
     },
     {
         " are examples of popular ": null
     },
     {
-        "softcore processors": "soft microprocessor"
+        "softcore processors": "Soft Microprocessor"
     },
     {
         ". Many modern FPGAs are programmed at run time , which has led to the idea of ": null
     },
     {
-        "reconfigurable computing": "reconfigurable computing"
+        "reconfigurable computing": "Reconfigurable Computing"
     },
     {
         " or reconfigurable systems  – ": null
     },
     {
-        "CPUs": "central processing unit"
+        "CPUs": "Central Processing Unit"
     },
     {
         " that reconfigure themselves to suit the task at hand. Additionally, new, non-FPGA architectures are beginning to emerge. Software-configurable microprocessors such as the Stretch S5000 adopt a hybrid approach by providing an array of processor cores and FPGA-like programmable cores on the same chip.         1987: 9,000 gates, Xilinx   1992: 600,000, Naval Surface Warfare Department   Early 2000s: Millions   2013: 50 Million, Xilinx        1985: First commercial FPGA : Xilinx XC2064   1987: $14 million   ≈1993: ref name four / ref name instat  /ref ref name instat / ref name grandviewresearch.com  /ref ref name grandviewresearch.com /  ref name designstarts  /ref ref name eweekly  /ref  ref name FPGA-ASIC-comparison  /ref  ref name whitepaper  /ref     ref name whitepaper /  ref  /ref ref  /ref  ref  /ref  ref name paper  /ref  ref  /ref  ref  /ref  ref name Xilinx-Inc-Apr-2006-8-K  /ref  ref  /ref ref  /ref  ref name fpgacnn  /ref  ref name BingFPGA  /ref  ref name ProjCatapult  /ref    ref  /ref                           ": null

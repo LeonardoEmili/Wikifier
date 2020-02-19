@@ -3,109 +3,109 @@
         "     Multipurpose Internet Mail Extensions  is an ": null
     },
     {
-        "Internet standard": "internet standard"
+        "Internet standard": "Internet Standard"
     },
     {
         " that extends the format of ": null
     },
     {
-        "email": "email"
+        "email": "Email"
     },
     {
         " messages to support text in ": null
     },
     {
-        "character sets": "character set"
+        "character sets": "Character Set"
     },
     {
         "other than ": null
     },
     {
-        "ASCII": "ascii"
+        "ASCII": "Ascii"
     },
     {
         ", as well attachments of audio, video, images, and application programs. Message bodies may consist of multiple parts, and header information may be specified in non-ASCII character sets. Email messages with MIME formatting are typically transmitted with standard protocols, such as the ": null
     },
     {
-        "Simple Mail Transfer Protocol": "simple mail transfer protocol"
+        "Simple Mail Transfer Protocol": "Simple Mail Transfer Protocol"
     },
     {
         " , the ": null
     },
     {
-        "Post Office Protocol": "post office protocol"
+        "Post Office Protocol": "Post Office Protocol"
     },
     {
         " , and the ": null
     },
     {
-        "Internet Message Access Protocol": "internet message access protocol"
+        "Internet Message Access Protocol": "Internet Message Access Protocol"
     },
     {
         " .     The MIME standard is specified in a series of ": null
     },
     {
-        "requests for comments": "request for comments"
+        "requests for comments": "Request For Comments"
     },
     {
         ": ,   ,   ,   ,    and   . The integration with SMTP email is specified in    and   .     Although the MIME formalism was designed mainly for SMTP, its content types are also important in other ": null
     },
     {
-        "communication protocols": "protocol"
+        "communication protocols": "Protocol"
     },
     {
         ". In the ": null
     },
     {
-        "HyperText Transfer Protocol": "hypertext transfer protocol"
+        "HyperText Transfer Protocol": "Hypertext Transfer Protocol"
     },
     {
         " for the ": null
     },
     {
-        "World Wide Web": "world wide web"
+        "World Wide Web": "World Wide Web"
     },
     {
         ", servers insert a MIME header field at the beginning of any Web transmission. Clients use the ": null
     },
     {
-        "content type": "content type"
+        "content type": "Content Type"
     },
     {
         " or ": null
     },
     {
-        "media type": "media type"
+        "media type": "Media Type"
     },
     {
         " header to select an appropriate viewer application for the type of data indicated. Browsers typically contain GIF and JPEG image viewers.           The presence of this header field indicates the message is MIME-formatted. The value is typically 1.0 . The field appears as follows:   MIME-Version: 1.0     According to MIME co-creator ": null
     },
     {
-        "Nathaniel Borenstein": "nathaniel borenstein"
+        "Nathaniel Borenstein": "Nathaniel Borenstein"
     },
     {
         ", the version number was introduced to permit changes to the MIME protocol in subsequent versions. However, Borenstein admitted short-comings in the specification that hindered the implementation of this feature:  We did not adequately specify how to handle a future MIME version. ... So if you write something that knows 1.0, what should you do if you encounter 2.0 or 1.1? I sort of thought it was obvious but it turned out everyone implemented that in different ways. And the result is that it would be just about impossible for the Internet to ever define a 2.0 or a 1.1.         This header field indicates the ": null
     },
     {
-        "media type": "media type"
+        "media type": "Media Type"
     },
     {
         " of the message content, consisting of a type and subtype, for example   Content-Type: text/plain     Through the use of the multipart type, MIME allows mail messages to have parts arranged in a ": null
     },
     {
-        "tree structure": "tree structure"
+        "tree structure": "Tree Structure"
     },
     {
         " where the leaf nodes are any non-multipart content type and the non-leaf nodes are any of a variety of multipart types.   This mechanism supports:   simple text messages using text/plain   text plus attachments . A MIME message including an attached file generally indicates the files original name with the Content-disposition: field, so that the type of file is indicated both by the MIME content-type and the  ": null
     },
     {
-        "filename extension": "filename extension"
+        "filename extension": "Filename Extension"
     },
     {
         " multipart/mixed with a text/plain part and the original message as a message/rfc822 partmultipart/alternative with the same content in text/plain and text/html formsfor example, image/jpeg, audio/mp3, video/mp4, and application/msword and so onRFC 1341, since made obsolete by RFC 2045e.g. UTF-8": null
     },
     {
-        "mputi": "mputi"
+        "mputi": "Mputi"
     },
     {
         "codes 13 and 10 respectivelyRFC 6152codes 13 and 10 respectivelyRFC 3030with their associated inefficiencyRFC 2047the charset separated by CRLF SPACE ? for example Subject    ": null

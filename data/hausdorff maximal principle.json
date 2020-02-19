@@ -3,67 +3,67 @@
         "In ": null
     },
     {
-        "mathematics": "mathematics"
+        "mathematics": "Mathematics"
     },
     {
         ", the Hausdorff maximal principle is an alternate and earlier formulation of ": null
     },
     {
-        "Zorns lemma": "zorns lemma"
+        "Zorns lemma": "Zorns Lemma"
     },
     {
         " proved by ": null
     },
     {
-        "Felix Hausdorff": "felix hausdorff"
+        "Felix Hausdorff": "Felix Hausdorff"
     },
     {
         " in 1914 . It states that in any ": null
     },
     {
-        "partially ordered set": "partial order"
+        "partially ordered set": "Partial Order"
     },
     {
         ", every ": null
     },
     {
-        "totally ordered": "total order"
+        "totally ordered": "Total Order"
     },
     {
-        " subset": "subset"
+        " subset": "Subset"
     },
     {
         " is contained in a maximal totally ordered subset.     The Hausdorff maximal principle is one of many statements equivalent to the ": null
     },
     {
-        "axiom of choice": "axiom of choice"
+        "axiom of choice": "Axiom Of Choice"
     },
     {
         " over ZF . The principle is also called the Hausdorff maximality theorem or the Kuratowski lemma .         The Hausdorff maximal principle states that, in any ": null
     },
     {
-        "partially ordered set": "partial order"
+        "partially ordered set": "Partial Order"
     },
     {
         ", every ": null
     },
     {
-        "totally ordered": "total order"
+        "totally ordered": "Total Order"
     },
     {
-        " subset": "subset"
+        " subset": "Subset"
     },
     {
         " is contained in a maximal totally ordered subset. Here a maximal totally ordered subset is one that, if enlarged in any way, does not remain totally ordered. The maximal set produced by the principle is not unique, in general; there may be many maximal totally ordered subsets containing a given totally ordered subset.     An equivalent form of the principle is that in every partially ordered set there exists a maximal totally ordered subset.     To prove that it follows from the original form, let A be a ": null
     },
     {
-        "poset": "poset"
+        "poset": "Poset"
     },
     {
         ". Then \\varnothing is a totally ordered subset of A, hence there exists a maximal totally ordered subset containing \\varnothing , in particular A contains a maximal totally ordered subset.     For the converse direction, let A be a partially ordered set and T a totally ordered subset of A. Then   : \\   is partially ordered by set inclusion \\subseteq , therefore it contains a maximal totally ordered subset P. Then the set M\\bigcup P satisfies the desired properties.     The proof that the Hausdorff maximal principle is equivalent to Zorns lemma is very similar to this proof.       EXAMPLE 1. If A is any collection of sets, the relation is a proper subset of is a ": null
     },
     {
-        "strict partial order": "strict partial order"
+        "strict partial order": "Strict Partial Order"
     },
     {
         " on A. Suppose that A is the collection of all circular regions in the plane. One maximal totally ordered sub-collection of A consists of all circular regions with centers at the origin. Another maximal totally ordered sub-collection consists of all circular regions bounded by circles tangent from the right to the y-axis at the origin.     EXAMPLE 2.": null

@@ -3,429 +3,429 @@
         "In ": null
     },
     {
-        "mathematics": "mathematics"
+        "mathematics": "Mathematics"
     },
     {
         ", especially ": null
     },
     {
-        "functional analysis": "functional analysis"
+        "functional analysis": "Functional Analysis"
     },
     {
         ", a Banach algebra, named after ": null
     },
     {
-        "Stefan Banach": "stefan banach"
+        "Stefan Banach": "Stefan Banach"
     },
     {
         ", is an ": null
     },
     {
-        "associative algebra": "associative algebra"
+        "associative algebra": "Associative Algebra"
     },
     {
         " A over the ": null
     },
     {
-        "real": "real number"
+        "real": "Real Number"
     },
     {
         " or ": null
     },
     {
-        "complex": "complex number"
+        "complex": "Complex Number"
     },
     {
         " numbers  that at the same time is also a ": null
     },
     {
-        "Banach space": "banach space"
+        "Banach space": "Banach Space"
     },
     {
         ", i.e. a ": null
     },
     {
-        "normed space": "normed space"
+        "normed space": "Normed Space"
     },
     {
         " and ": null
     },
     {
-        "complete": "complete metric space"
+        "complete": "Complete Metric Space"
     },
     {
         " in the ": null
     },
     {
-        "metric": "metric"
+        "metric": "Metric"
     },
     {
         " induced by the norm. The norm is required to satisfy     : \\forall x, y \\in A : \\|x \\, y\\| \\ \\leq \\|x \\| \\, \\| y\\|.     This ensures that the multiplication operation is ": null
     },
     {
-        "continuous": "continuous function"
+        "continuous": "Continuous Function"
     },
     {
         ".     A Banach algebra is called unital if it has an ": null
     },
     {
-        "identity element": "identity element"
+        "identity element": "Identity Element"
     },
     {
         " for the multiplication whose norm is 1, and commutative if its multiplication is ": null
     },
     {
-        "commutative": "commutative"
+        "commutative": "Commutative"
     },
     {
         ".   Any Banach algebra A  can be embedded isometrically into a unital Banach algebra A_e so as to form a closed ideal of A_e . Often one assumes a priori that the algebra under consideration is unital: for one can develop much of the theory by considering A_e and then applying the outcome in the original algebra. However, this is not the case all the time. For example, one cannot define all the trigonometric functions in a Banach algebra without identity.     The theory of real Banach algebras can be very different from the theory of complex Banach algebras. For example, the ": null
     },
     {
-        "spectrum": "spectrum"
+        "spectrum": "Spectrum"
     },
     {
         " of an element of a nontrivial complex Banach algebra can never be empty, whereas in a real Banach algebra it could be empty for some elements.     Banach algebras can also be defined over fields of ": null
     },
     {
-        "p-adic number": "p-adic number"
+        "p-adic number": "P-Adic Number"
     },
     {
         "s. This is part of ": null
     },
     {
-        "p-adic analysis": "p-adic analysis"
+        "p-adic analysis": "P-Adic Analysis"
     },
     {
         ".       The prototypical example of a Banach algebra is C_0 , the space of continuous functions on a locally compact space that vanish at infinity. C_0 is unital if and only if X is compact. The complex conjugation being an involution, C_0 is in fact a ": null
     },
     {
-        "C-algebra": "c-algebra"
+        "C-algebra": "C-Algebra"
     },
     {
         ". More generally, every C-algebra is a Banach algebra.     The set of real numbers is a Banach algebra with norm given by the ": null
     },
     {
-        "absolute value": "absolute value"
+        "absolute value": "Absolute Value"
     },
     {
         ".   The set of all real or complex n-by-n ": null
     },
     {
-        "matrices": "matrix"
+        "matrices": "Matrix"
     },
     {
         " becomes a ": null
     },
     {
-        "unital": "unital algebra"
+        "unital": "Unital Algebra"
     },
     {
         " Banach algebra if we equip it with a sub-multiplicative ": null
     },
     {
-        "matrix norm": "matrix norm"
+        "matrix norm": "Matrix Norm"
     },
     {
         ".   Take the Banach space R n  with norm ||x x i  .   The ": null
     },
     {
-        "quaternions": "quaternion"
+        "quaternions": "Quaternion"
     },
     {
         "form a 4-dimensional real Banach algebra, with the norm being given by the absolute value of quaternions.   The algebra of all bounded real- or complex-valued functions defined on some set  is a unital Banach algebra.   The algebra of all bounded ": null
     },
     {
-        "continuous": "continuous function"
+        "continuous": "Continuous Function"
     },
     {
         " real- or complex-valued functions on some ": null
     },
     {
-        "locally compact space": "locally compact space"
+        "locally compact space": "Locally Compact Space"
     },
     {
         " is a Banach algebra.   The algebra of all ": null
     },
     {
-        "continuous": "continuous function"
+        "continuous": "Continuous Function"
     },
     {
-        " linear": "linear transformation"
+        " linear": "Linear Transformation"
     },
     {
         " operators on a Banach space E  is a unital Banach algebra. The set of all ": null
     },
     {
-        "compact operators": "compact operator"
+        "compact operators": "Compact Operator"
     },
     {
         "on E is a Banach algebra and closed ideal. It is without identity if .    If G is a ": null
     },
     {
-        "locally compact": "locally compact"
+        "locally compact": "Locally Compact"
     },
     {
-        " Hausdorff": "hausdorff space"
+        " Hausdorff": "Hausdorff Space"
     },
     {
-        " topological group": "topological group"
+        " topological group": "Topological Group"
     },
     {
         " and μ is its ": null
     },
     {
-        "Haar measure": "haar measure"
+        "Haar measure": "Haar Measure"
     },
     {
         ", then the Banach space L 1  of all μ-integrable functions on G becomes a Banach algebra under the ": null
     },
     {
-        "convolution": "convolution"
+        "convolution": "Convolution"
     },
     {
         " xy ∫ x y dμ for x, y in L 1 .    ": null
     },
     {
-        "Uniform algebra": "uniform algebra"
+        "Uniform algebra": "Uniform Algebra"
     },
     {
         ": A Banach algebra that is a subalgebra of the complex algebra C with the supremum norm and that contains the constants and separates the points of X .   ": null
     },
     {
-        "Natural Banach function algebra": "uniform algebra"
+        "Natural Banach function algebra": "Uniform Algebra"
     },
     {
         ": A uniform algebra all of whose characters are evaluations at points of X.   ": null
     },
     {
-        "C-algebra": "c-algebra"
+        "C-algebra": "C-Algebra"
     },
     {
         ": A Banach algebra that is a closed -subalgebra of the algebra of bounded operators on some ": null
     },
     {
-        "Hilbert space": "hilbert space"
+        "Hilbert space": "Hilbert Space"
     },
     {
         ".   ": null
     },
     {
-        "Measure algebra": "measure algebra"
+        "Measure algebra": "Measure Algebra"
     },
     {
         ": A Banach algebra consisting of all ": null
     },
     {
-        "Radon measures": "radon measure"
+        "Radon measures": "Radon Measure"
     },
     {
         "on some ": null
     },
     {
-        "locally compact group": "locally compact group"
+        "locally compact group": "Locally Compact Group"
     },
     {
         ", where the product of two measures is given by ": null
     },
     {
-        "convolution of measures": "convolutionmeasures"
+        "convolution of measures": "Convolutionmeasures"
     },
     {
         ".        The algebra of the ": null
     },
     {
-        "quaternions": "quaternion"
+        "quaternions": "Quaternion"
     },
     {
         " \\H is not a complex Banach algebra , for if \\mathcal A is a complex Banach algebra that is also a ": null
     },
     {
-        "division algebra": "division algebra"
+        "division algebra": "Division Algebra"
     },
     {
         ", then \\mathcal A \\approx \\C , since if \\lambda \\in \\C is a point in the non-empty  ": null
     },
     {
-        "spectrum": "spectrum"
+        "spectrum": "Spectrum"
     },
     {
         " \\sigma \\subseteq \\C of a \\in \\mathcal A , a - \\lambda 1 is not invertible, hence a - \\lambda 1 0 since \\mathcal A is a division algebra, whence a \\lambda 1  .       Several ": null
     },
     {
-        "elementary functions": "list of functions"
+        "elementary functions": "List Of Functions"
     },
     {
         " that are defined via ": null
     },
     {
-        "power series": "power series"
+        "power series": "Power Series"
     },
     {
         " may be defined in any unital Banach algebra; examples include the ": null
     },
     {
-        "exponential function": "exponential function"
+        "exponential function": "Exponential Function"
     },
     {
         " and the ": null
     },
     {
-        "trigonometric functions": "trigonometric functions"
+        "trigonometric functions": "Trigonometric Functions"
     },
     {
         ", and more generally any ": null
     },
     {
-        "entire function": "entire function"
+        "entire function": "Entire Function"
     },
     {
         ".  The formula for the ": null
     },
     {
-        "geometric series": "geometric series"
+        "geometric series": "Geometric Series"
     },
     {
         " remains valid in general unital Banach algebras. The ": null
     },
     {
-        "binomial theorem": "binomial theorem"
+        "binomial theorem": "Binomial Theorem"
     },
     {
         " also holds for two commuting elements of a Banach algebra.     The set of ": null
     },
     {
-        "invertible elements": "invertible element"
+        "invertible elements": "Invertible Element"
     },
     {
         "in any unital Banach algebra is an ": null
     },
     {
-        "open set": "open set"
+        "open set": "Open Set"
     },
     {
         ", and the inversion operation on this set is continuous, so that it forms a ": null
     },
     {
-        "topological group": "topological group"
+        "topological group": "Topological Group"
     },
     {
         " under multiplication.      If a Banach algebra has unit 1, then 1 cannot be a ": null
     },
     {
-        "commutator": "commutator"
+        "commutator": "Commutator"
     },
     {
         "; i.e., xy - yx \\ne \\mathbf & thinsp; for any x, y  ∈  A. This is because xy and yx have the same ": null
     },
     {
-        "spectrum": "spectrum"
+        "spectrum": "Spectrum"
     },
     {
         " except possibly 0.     The various algebras of functions given in the examples above have very different properties from standard examples of algebras such as the reals. For example:     Every real Banach algebra that is a ": null
     },
     {
-        "division algebra": "division algebra"
+        "division algebra": "Division Algebra"
     },
     {
         " is isomorphic to the reals, the complexes, or the quaternions. Hence, the only complex Banach algebra that is a division algebra is the complexes.    Every unital real Banach algebra with no ": null
     },
     {
-        "zero divisor": "zero divisor"
+        "zero divisor": "Zero Divisor"
     },
     {
         "s, and in which every ": null
     },
     {
-        "principal ideal": "principal ideal"
+        "principal ideal": "Principal Ideal"
     },
     {
         " is ": null
     },
     {
-        "closed": "closed set"
+        "closed": "Closed Set"
     },
     {
         ", is isomorphic to the reals, the complexes, or the quaternions.   Every commutative real unital ": null
     },
     {
-        "Noetherian": "noetherian ring"
+        "Noetherian": "Noetherian Ring"
     },
     {
         " Banach algebra with no zero divisors is isomorphic to the real or complex numbers.   Every commutative real unital Noetherian Banach algebra is finite-dimensional.   Permanently singular elements in Banach algebras are ": null
     },
     {
-        "topological divisors of zero": "topological divisor of zero"
+        "topological divisors of zero": "Topological Divisor Of Zero"
     },
     {
         ", i.e., considering extensions B of Banach algebras A some elements that are singular in the given algebra A have a multiplicative inverse element in a Banach algebra extension B. Topological divisors of zero in A are permanently singular in any Banach extension B of  A.            Unital Banach algebras over the complex field provide a general setting to develop spectral theory. The spectrum of an element x  ∈  A, denoted by \\sigma , consists of all those complex ": null
     },
     {
-        "scalars": "scalar"
+        "scalars": "Scalar"
     },
     {
         " λ such that x   & minus;  λ1 is not invertible in A. The spectrum of any element x is a closed subset of the closed disc in C with radius ||x ": null
     },
     {
-        "compact": "compact space"
+        "compact": "Compact Space"
     },
     {
         ". Moreover, the spectrum \\sigma of an element x is ": null
     },
     {
-        "non-empty": "non-empty"
+        "non-empty": "Non-Empty"
     },
     {
         " and satisfies the ": null
     },
     {
-        "spectral radius": "spectral radius"
+        "spectral radius": "Spectral Radius"
     },
     {
         " formula:     : \\sup \\ \\lim_ \\|x^n\\|^.     Given x   & isin;  A, the ": null
     },
     {
-        "holomorphic functional calculus": "holomorphic functional calculus"
+        "holomorphic functional calculus": "Holomorphic Functional Calculus"
     },
     {
         " allows to define ƒ  ∈ A for any function ƒ ": null
     },
     {
-        "holomorphic": "holomorphic function"
+        "holomorphic": "Holomorphic Function"
     },
     {
         " in a neighborhood of \\sigma. Furthermore, the spectral mapping theorem holds:     : \\sigma f.      When the Banach algebra A is the algebra L of bounded linear operators on a complex Banach space X & thinsp; , the notion of the spectrum in A coincides with the usual one in ": null
     },
     {
-        "operator theory": "operator theory"
+        "operator theory": "Operator Theory"
     },
     {
         ". For ƒ   & isin; C , one sees that:     : \\sigma \\.     The norm of a normal element x of a C-algebra coincides with its spectral radius. This generalizes an analogous fact for normal operators.     Let A & thinsp; be a complex unital Banach algebra in which every non-zero element x is invertible . For every a   & isin; A, there is λ   & isin; C such that   a   & minus;  λ1 is not invertible  hence a    λ1  : this algebra A is naturally isomorphic to C .       Let A & thinsp; be a unital commutative Banach algebra over C. Since A is then a commutative ring with unit, every non-invertible element of A belongs to some ": null
     },
     {
-        "maximal ideal": "maximal ideal"
+        "maximal ideal": "Maximal Ideal"
     },
     {
         " of A. Since a maximal ideal \\mathfrak m in A is closed, A / \\mathfrak m is a Banach algebra that is a field, and it follows from the Gelfand–Mazur theorem that there is a bijection between the set of all maximal ideals of A and the set Δ of all nonzero homomorphisms from A & thinsp; to C. The set Δ is called the ": null
     },
     {
-        "structure space": "structure space"
+        "structure space": "Structure Space"
     },
     {
         " or character space of A, and its members characters.     A character χ is a linear functional on A that is at the same time multiplicative, χ χ χ, and satisfies χ 1. Every character is automatically continuous from A & thinsp; to C, since the kernel of a character is a maximal ideal, which is closed. Moreover, the norm  of a character is one. Equipped with the topology of pointwise convergence on A , the character space, Δ, is a Hausdorff compact space.     For any x ∈ A,     : \\sigma \\sigma     where \\hat x is the ": null
     },
     {
-        "Gelfand representation": "gelfand representation"
+        "Gelfand representation": "Gelfand Representation"
     },
     {
         " of x defined as follows: \\hat x is the continuous function from Δ to C given by \\hat x \\chi. & thinsp; The spectrum of \\hat x, in the formula above, is the spectrum as element of the algebra C of complex continuous functions on the compact space Δ. Explicitly,     : \\sigma \\ .     As an algebra, a unital commutative Banach algebra is ": null
     },
     {
-        "semisimple": "semisimple algebra"
+        "semisimple": "Semisimple Algebra"
     },
     {
         "  if and only if its Gelfand representation has trivial kernel. An important example of such an algebra is a commutative C-algebra. In fact, when A is a commutative unital C-algebra, the Gelfand representation is then an isometric -isomorphism between A and C . Proof: Since every element of a commutative C-algebra is normal, the Gelfand representation is isometric; in particular, it is injective and its image is closed. But the image of the Gelfand representation is dense by the ": null
     },
     {
-        "Stone–Weierstrass theorem": "stone–weierstrass theorem"
+        "Stone–Weierstrass theorem": "Stone–Weierstrass Theorem"
     }
 ]

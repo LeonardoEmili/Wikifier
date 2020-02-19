@@ -3,109 +3,109 @@
         "   In ": null
     },
     {
-        "mathematics": "mathematics"
+        "mathematics": "Mathematics"
     },
     {
         ", a product is the result of ": null
     },
     {
-        "multiplying": "multiplication"
+        "multiplying": "Multiplication"
     },
     {
         ", or an expression that identifies ": null
     },
     {
-        "factors": "divisor"
+        "factors": "Divisor"
     },
     {
         "to be multiplied. Thus, for instance, 15 is the product of 3 and 5 , and x\\cdot is the product of x and .     The order in which ": null
     },
     {
-        "real": "real number"
+        "real": "Real Number"
     },
     {
         " or ": null
     },
     {
-        "complex": "complex number"
+        "complex": "Complex Number"
     },
     {
         " numbers are ": null
     },
     {
-        "multiplied": "multiplied"
+        "multiplied": "Multiplied"
     },
     {
         " has no bearing on the product; this is known as the ": null
     },
     {
-        "commutative law": "commutativity"
+        "commutative law": "Commutativity"
     },
     {
         " of multiplication. When ": null
     },
     {
-        "matrices": "matrix"
+        "matrices": "Matrix"
     },
     {
         " or members of various other ": null
     },
     {
-        "associative algebras": "associative algebra"
+        "associative algebras": "Associative Algebra"
     },
     {
         "are multiplied, the product usually depends on the order of the factors. Matrix multiplication, for example, and multiplication in other algebras is in general non-commutative.     There are many different kinds of products in mathematics: besides being able to multiply just numbers, polynomials or matrices, one can also define products on many different ": null
     },
     {
-        "algebraic structure": "algebraic structure"
+        "algebraic structure": "Algebraic Structure"
     },
     {
         "s. An overview of these different kinds of products is given here.                   Placing several stones into a rectangular pattern with r rows and s columns gives     : r \\cdot s \\sum_^s r \\underbrace_ \\sum_^r s \\underbrace_     stones. Another approach to multiplication that applies also to real numbers is continuously stretching the number line from , so that the  is stretched to the one factor, and looking up the product, where the other factor is stretched to.       Integers allow positive and negative numbers. Their product is determined by the product of their positive amounts, combined with the sign derived from the following rule, which is a necessary consequence of demanding distributivity of the multiplication over addition, but is no additional rule.     : \\begin\\hline   \\cdot & - & + \\\\ \\hline   - & + & - \\\\   + & - & + \\\\ \\hline   \\end       In words, we have:   Minus times Minus gives Plus   Minus times Plus gives Minus   Plus times Minus gives Minus   Plus times Plus gives Plus       Two fractions can be multiplied by multiplying their numerators and denominators:     : \\frac \\cdot \\frac \\frac       For a rigorous definition of the product of two real numbers see ": null
     },
     {
-        "Construction of the real numbers": "construction of the real numbers"
+        "Construction of the real numbers": "Construction Of The Real Numbers"
     },
     {
         ".       Two complex numbers can be multiplied by the distributive law and the fact that i^2-1 , as follows:   : \\begin   \\cdot   & a\\cdot c + a \\cdot d\\, i + b\\cdot c \\, i + b\\cdot d \\cdot i^2\\\\   & + \\, i   \\end          Complex numbers can be written in ": null
     },
     {
-        "polar coordinates": "polar coordinates"
+        "polar coordinates": "Polar Coordinates"
     },
     {
         ":   : a + b\\, i r \\cdot r \\cdot e ^   Furthermore,   : c + d\\, i s \\cdot s \\cdot e ^,   from which one obtains   : + i r\\cdot s \\cdot e ^.     The geometric meaning is that the magnitudes are multiplied and the arguments are added.       The product of two quaternions can be found in the article on ": null
     },
     {
-        "quaternions": "quaternions"
+        "quaternions": "Quaternions"
     },
     {
         ". However, in this case, a\\cdot b and b\\cdot a are in general different.       The product operator for the ": null
     },
     {
-        "product of a sequence": "multiplicationcapital pi notation"
+        "product of a sequence": "Multiplicationcapital Pi Notation"
     },
     {
         " is denoted by the capital Greek letter ": null
     },
     {
-        "pi": "pi"
+        "pi": "Pi"
     },
     {
         " ∏ . The product of a sequence consisting of only one number is just that number itself. The product of no factors at all is known as the ": null
     },
     {
-        "empty product": "empty product"
+        "empty product": "Empty Product"
     },
     {
         ", and is equal to 1.       ": null
     },
     {
-        "Commutative rings": "commutative ring"
+        "Commutative rings": "Commutative Ring"
     },
     {
         "have a product operation.          Residue classes in the rings \\Z/N\\Z can be added:     : + a+b + N\\Z     and multiplied:     : \\cdot a\\cdot b + N\\Z               Two functions from the reals to itself can be multiplied in another way, called the ": null
     },
     {
-        "convolution": "convolution"
+        "convolution": "Convolution"
     },
     {
         ".     If   : \\int\\limits_^\\infty |f|\\,\\mathrmt           ": null

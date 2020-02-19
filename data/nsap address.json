@@ -3,118 +3,118 @@
         "A Network Service Access Point address , defined in ISO/IEC 8348, is an identifying label for a ": null
     },
     {
-        "Service Access Point": "service access point"
+        "Service Access Point": "Service Access Point"
     },
     {
         " used in ": null
     },
     {
-        "OSI": "osi model"
+        "OSI": "Osi Model"
     },
     {
         " networking.     These are roughly comparable to ": null
     },
     {
-        "IP address": "ip address"
+        "IP address": "Ip Address"
     },
     {
         "es used in the ": null
     },
     {
-        "Internet Protocol": "internet protocol"
+        "Internet Protocol": "Internet Protocol"
     },
     {
         "; they can specify a piece of equipment connected to an ": null
     },
     {
-        "Asynchronous Transfer Mode": "asynchronous transfer mode"
+        "Asynchronous Transfer Mode": "Asynchronous Transfer Mode"
     },
     {
         " network. A specific stream, analogous to a TCP/IP ": null
     },
     {
-        "port": "computer port"
+        "port": "Computer Port"
     },
     {
         " or ": null
     },
     {
-        "socket": "berkeley sockets"
+        "socket": "Berkeley Sockets"
     },
     {
         ", is specified by using a Transport Service Access Point . ATM can also use a Presentation and Session Access Point, but these may also be unspecified; this is up to the application.       NSAP addresses are allocated by the ": null
     },
     {
-        "International Organization for Standardization": "international organization for standardization"
+        "International Organization for Standardization": "International Organization For Standardization"
     },
     {
         " , through a system of delegated authorities, which are generally national standards organizations. One of the schemes to generate NSAPs uses ": null
     },
     {
-        "E.164": "e.164"
+        "E.164": "E.164"
     },
     {
         " which is the addressing format describing telephone numbers.     NSAP addresses do not specify where a network terminal is located. ": null
     },
     {
-        "Routing": "routing"
+        "Routing": "Routing"
     },
     {
         " equipment must translate NSAP addresses to ": null
     },
     {
-        "SNPAs": "snpa"
+        "SNPAs": "Snpa"
     },
     {
         " to route OSI packets; ": null
     },
     {
-        "VCI": "virtual circuit identifier"
+        "VCI": "Virtual Circuit Identifier"
     },
     {
         " numbers are an example of a datalink layer SNPAs in ATM; when OSI packets are sent encapsulated in IP packets the IP address is considered an SNPA.     Currently SDH/SONET networks are a major part of the network infrastructure and NSAPs are used extensively. They are usually assigned by the Network Management/NOC personnel and agreed upon within an organization to be unique and are required before any operational connectivity is established at the commissioning stage.     NSAP addresses are used in the following OSI-based network technologies:   ": null
     },
     {
-        "ATM": "asynchronous transfer mode"
+        "ATM": "Asynchronous Transfer Mode"
     },
     {
         " switched virtual circuit networks   ": null
     },
     {
-        "X.25": "x.25"
+        "X.25": "X.25"
     },
     {
-        "    Frame relay": "frame relay"
+        "    Frame relay": "Frame Relay"
     },
     {
-        " IS-IS": "is-is"
+        " IS-IS": "Is-Is"
     },
     {
-        " SDH": "synchronous optical networking"
+        " SDH": "Synchronous Optical Networking"
     },
     {
         " & ": null
     },
     {
-        "SONET": "sonet"
+        "SONET": "Sonet"
     },
     {
         " networks.     NSAP-style addresses are used in the ": null
     },
     {
-        "IS-IS": "is-is"
+        "IS-IS": "Is-Is"
     },
     {
         " routing protocol.       The NSEL is a field in the NSAP address that identifies the ": null
     },
     {
-        "network layer": "network layer"
+        "network layer": "Network Layer"
     },
     {
         " service to which a packet should be sent. This part of the address for a router will always be 0x00. In the ": null
     },
     {
-        "IS-IS": "is-is"
+        "IS-IS": "Is-Is"
     },
     {
         " routing protocol, the field is sometimes referred to as the SEL field.  ": null

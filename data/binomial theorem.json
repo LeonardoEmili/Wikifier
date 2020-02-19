@@ -3,358 +3,358 @@
         "   In ": null
     },
     {
-        "elementary algebra": "elementary algebra"
+        "elementary algebra": "Elementary Algebra"
     },
     {
         ", the binomial theorem  describes the algebraic expansion of ": null
     },
     {
-        "powers": "exponentiation"
+        "powers": "Exponentiation"
     },
     {
         " of a ": null
     },
     {
-        "binomial": "binomial"
+        "binomial": "Binomial"
     },
     {
         ". According to the theorem, it is possible to expand the polynomial  into a ": null
     },
     {
-        "sum": "summation"
+        "sum": "Summation"
     },
     {
         " involving terms of the form , where the exponents  and  are ": null
     },
     {
-        "nonnegative integers": "nonnegative integer"
+        "nonnegative integers": "Nonnegative Integer"
     },
     {
         "with , and the ": null
     },
     {
-        "coefficient": "coefficient"
+        "coefficient": "Coefficient"
     },
     {
         "  of each term is a specific ": null
     },
     {
-        "positive integer": "positive integer"
+        "positive integer": "Positive Integer"
     },
     {
         " depending on  and . For example ,     : ^4 x^4 + 4 x^3y + 6 x^2 y^2 + 4 x y^3 + y^4.     The coefficient  in the term of  is known as the ": null
     },
     {
-        "binomial coefficient": "binomial coefficient"
+        "binomial coefficient": "Binomial Coefficient"
     },
     {
         " \\tbinom or \\tbinom . These coefficients for varying  and  can be arranged to form ": null
     },
     {
-        "Pascals triangle": "pascals triangle"
+        "Pascals triangle": "Pascals Triangle"
     },
     {
         ". These numbers also arise in ": null
     },
     {
-        "combinatorics": "combinatorics"
+        "combinatorics": "Combinatorics"
     },
     {
         ", where \\tbinom gives the number of different ": null
     },
     {
-        "combinations": "combinations"
+        "combinations": "Combinations"
     },
     {
         " of  ": null
     },
     {
-        "elements": "element"
+        "elements": "Element"
     },
     {
         " that can be chosen from an -element ": null
     },
     {
-        "set": "set"
+        "set": "Set"
     },
     {
         ". Therefore \\tbinom is often pronounced as  choose  .       Special cases of the binomial theorem were known since at least the 4th century BC when ": null
     },
     {
-        "Greek mathematician": "greek mathematics"
+        "Greek mathematician": "Greek Mathematics"
     },
     {
-        " Euclid": "euclid"
+        " Euclid": "Euclid"
     },
     {
         " mentioned the special case of the binomial theorem for exponent  .   There is evidence that the binomial theorem for cubes was known by the 6th century AD in India.     Binomial coefficients, as combinatorial quantities expressing the number of ways of selecting  objects out of  without replacement, were of interest to ancient Indian mathematicians. The earliest known reference to this combinatorial problem is the Chandaḥśāstra by the Indian lyricist ": null
     },
     {
-        "Pingala": "pingala"
+        "Pingala": "Pingala"
     },
     {
         " , which contains a method for its solution.   The commentator ": null
     },
     {
-        "Halayudha": "halayudha"
+        "Halayudha": "Halayudha"
     },
     {
         " from the 10th century AD explains this method using what is now known as ": null
     },
     {
-        "Pascals triangle": "pascals triangle"
+        "Pascals triangle": "Pascals Triangle"
     },
     {
         ". By the 6th century AD, the Indian mathematicians probably knew how to express this as a quotient \\frac ,  and a clear statement of this rule can be found in the 12th century text Lilavati by ": null
     },
     {
-        "Bhaskara": "bhāskara ii"
+        "Bhaskara": "Bhāskara Ii"
     },
     {
         ".     The first formulation of the binomial theorem and the table of binomial coefficients, to our knowledge, can be found in a work by ": null
     },
     {
-        "Al-Karaji": "al-karaji"
+        "Al-Karaji": "Al-Karaji"
     },
     {
         ", quoted by ": null
     },
     {
-        "Al-Samawal": "al-samawal"
+        "Al-Samawal": "Al-Samawal"
     },
     {
         " in his al-Bahir .    ": null
     },
     {
-        "Al-Karaji": "al-karaji"
+        "Al-Karaji": "Al-Karaji"
     },
     {
         " described the triangular pattern of the binomial coefficients  and also provided a ": null
     },
     {
-        "mathematical proof": "mathematical proof"
+        "mathematical proof": "Mathematical Proof"
     },
     {
         " of both the binomial theorem and Pascals triangle, using an early form of ": null
     },
     {
-        "mathematical induction": "mathematical induction"
+        "mathematical induction": "Mathematical Induction"
     },
     {
         ". The Persian poet and mathematician ": null
     },
     {
-        "Omar Khayyam": "omar khayyam"
+        "Omar Khayyam": "Omar Khayyam"
     },
     {
         " was probably familiar with the formula to higher orders, although many of his mathematical works are lost. The binomial expansions of small degrees were known in the 13th century mathematical works of ": null
     },
     {
-        "Yang Hui": "yang hui"
+        "Yang Hui": "Yang Hui"
     },
     {
         "  and also ": null
     },
     {
-        "Chu Shih-Chieh": "chu shih-chieh"
+        "Chu Shih-Chieh": "Chu Shih-Chieh"
     },
     {
         ". Yang Hui attributes the method to a much earlier 11th century text of ": null
     },
     {
-        "Jia Xian": "jia xian"
+        "Jia Xian": "Jia Xian"
     },
     {
         ", although those writings are now also lost.      In 1544, ": null
     },
     {
-        "Michael Stifel": "michael stifel"
+        "Michael Stifel": "Michael Stifel"
     },
     {
         " introduced the term binomial coefficient and showed how to use them to express ^n in terms of ^ , via Pascals triangle .  ": null
     },
     {
-        "Blaise Pascal": "blaise pascal"
+        "Blaise Pascal": "Blaise Pascal"
     },
     {
         " studied the eponymous triangle comprehensively in the ": null
     },
     {
-        "treatise": "treatise"
+        "treatise": "Treatise"
     },
     {
         " Traité du triangle arithmétique . However, the pattern of numbers was already known to the European mathematicians of the late Renaissance, including Stifel, ": null
     },
     {
-        "Niccolò Fontana Tartaglia": "niccolò fontana tartaglia"
+        "Niccolò Fontana Tartaglia": "Niccolò Fontana Tartaglia"
     },
     {
         ", and ": null
     },
     {
-        "Simon Stevin": "simon stevin"
+        "Simon Stevin": "Simon Stevin"
     },
     {
         ".     ": null
     },
     {
-        "Isaac Newton": "isaac newton"
+        "Isaac Newton": "Isaac Newton"
     },
     {
         " is generally credited with the generalized binomial theorem, valid for any rational exponent.        According to the theorem, it is possible to expand any power of  into a sum of the form   : ^n x^n y^0 + x^y^1 + x^y^2 + \\cdots + x^1 y^ + x^0 y^n,     where each \\tbinom nk is a specific positive integer known as a ": null
     },
     {
-        "binomial coefficient": "binomial coefficient"
+        "binomial coefficient": "Binomial Coefficient"
     },
     {
         ". This formula is also referred to as the binomial formula or the binomial identity. Using ": null
     },
     {
-        "summation notation": "capital-sigma notation"
+        "summation notation": "Capital-Sigma Notation"
     },
     {
         ", it can be written as   : ^n \\sum_^n x^y^k \\sum_^n x^y^.     The final expression follows from the previous one by the symmetry of  and  in the first expression, and by comparison it follows that the sequence of binomial coefficients in the formula is symmetrical. A simple variant of the binomial formula is obtained by ": null
     },
     {
-        "substituting": "substitution"
+        "substituting": "Substitution"
     },
     {
         "  for , so that it involves only a single ": null
     },
     {
-        "variable": "variable"
+        "variable": "Variable"
     },
     {
         ". In this form, the formula reads   : ^n x^0 + x^1 + x^2 + \\cdots + x^ + x^n,   or equivalently   : ^n \\sum_^n x^k.         The most basic example of the binomial theorem is the formula for the ": null
     },
     {
-        "square": "square"
+        "square": "Square"
     },
     {
         " of :     : ^2 x^2 + 2xy + y^2.     The binomial coefficients 1, 2, 1 appearing in this expansion correspond to the second row of Pascals triangle. The coefficients of higher powers of  correspond to lower rows of the triangle:     :   \\begin   ^3 & x^3 + 3x^2y + 3xy^2 + y^3, \\\\   ^4 & x^4 + 4x^3y + 6x^2y^2 + 4xy^3 + y^4, \\\\   ^5 & x^5 + 5x^4y + 10x^3y^2 + 10x^2y^3 + 5xy^4 + y^5, \\\\   ^6 & x^6 + 6x^5y + 15x^4y^2 + 20x^3y^3 + 15x^2y^4 + 6xy^5 + y^6, \\\\   ^7 & x^7 + 7x^6y + 21x^5y^2 + 35x^4y^3 + 35x^3y^4 + 21x^2y^5 + 7xy^6 + y^7.   \\end     Several patterns can be observed from these examples. In general, for the expansion :   the powers of  start at  and decrease by 1 in each term until they reach 0 ;   the powers of  start at 0 and increase by 1 until they reach ;   the th row of Pascals Triangle will be the coefficients of the expanded binomial when the terms are arranged in this way;   the number of terms in the expansion before like terms are combined is the sum of the coefficients and is equal to ; and   there will be  terms in the expression after combining like terms in the expansion.     The binomial theorem can be applied to the powers of any binomial. For example,     : \\begin   ^3 & x^3 + 3x^2 + 3x^2 + 2^3 \\\\   & x^3 + 6x^2 + 12x + 8.\\end     For a binomial involving subtraction, the theorem can be applied by using the form . This has the effect of changing the sign of every other term in the expansion:   : ^3 ^3 x^3 + 3x^2 + 3x^2 + ^3 x^3 - 3x^2y + 3xy^2 -y^3.          For positive values of  and , the binomial theorem with  is the geometrically evident fact that a square of side  can be cut into a square of side , a square of side , and two rectangles with sides  and . With , the theorem states that a cube of side  can be cut into a cube of side , a cube of side , three  rectangular boxes, and three  rectangular boxes.     In ": null
     },
     {
-        "calculus": "calculus"
+        "calculus": "Calculus"
     },
     {
         ", this picture also gives a geometric proof of the ": null
     },
     {
-        "derivative": "derivative"
+        "derivative": "Derivative"
     },
     {
         " nx^:  if one sets ax and b\\Delta x, interpreting  as an ": null
     },
     {
-        "infinitesimal": "infinitesimal"
+        "infinitesimal": "Infinitesimal"
     },
     {
         " change in , then this picture shows the infinitesimal change in the volume of an -dimensional ": null
     },
     {
-        "hypercube": "hypercube"
+        "hypercube": "Hypercube"
     },
     {
         ", ^n, where the coefficient of the linear term is nx^, the area of the  faces, each of dimension :   : ^n x^n + nx^\\Delta x + \\binomx^^2 + \\cdots.   Substituting this into the ": null
     },
     {
-        "definition of the derivative": "definition of the derivative"
+        "definition of the derivative": "Definition Of The Derivative"
     },
     {
         " via a ": null
     },
     {
-        "difference quotient": "difference quotient"
+        "difference quotient": "Difference Quotient"
     },
     {
         " and taking limits means that the higher order terms, ^2 and higher, become negligible, and yields the formula nx^, interpreted as   : the infinitesimal rate of change in volume of an -cube as side length varies is the area of  of its -dimensional faces .   If one integrates this picture, which corresponds to applying the ": null
     },
     {
-        "fundamental theorem of calculus": "fundamental theorem of calculus"
+        "fundamental theorem of calculus": "Fundamental Theorem Of Calculus"
     },
     {
         ", one obtains ": null
     },
     {
-        "Cavalieris quadrature formula": "cavalieris quadrature formula"
+        "Cavalieris quadrature formula": "Cavalieris Quadrature Formula"
     },
     {
         ", the integral \\textstyle – see ": null
     },
     {
-        "proof of Cavalieris quadrature formula": "cavalieris quadrature formulaproof"
+        "proof of Cavalieris quadrature formula": "Cavalieris Quadrature Formulaproof"
     },
     {
         " for details.               The coefficients that appear in the binomial expansion are called binomial coefficients. These are usually written \\tbinom, and pronounced  choose  .       The coefficient of  is given by the formula     : \\binom \\frac,     which is defined in terms of the ": null
     },
     {
-        "factorial": "factorial"
+        "factorial": "Factorial"
     },
     {
         " function . Equivalently, this formula can be written     : \\binom \\frac \\prod_^k \\frac \\prod_^ \\frac     with  factors in both the numerator and denominator of the ": null
     },
     {
-        "fraction": "fraction"
+        "fraction": "Fraction"
     },
     {
         ". Although this formula involves a fraction, the binomial coefficient \\tbinom is actually an ": null
     },
     {
-        "integer": "integer"
+        "integer": "Integer"
     },
     {
         ".       The binomial coefficient \\tbinom nk can be interpreted as the number of ways to choose  elements from an -element set. This is related to binomials for the following reason: if we write  as a ": null
     },
     {
-        "product": "product"
+        "product": "Product"
     },
     {
         "   : \\cdots,   then, according to the ": null
     },
     {
-        "distributive law": "distributive law"
+        "distributive law": "Distributive Law"
     },
     {
         ", there will be one term in the expansion for each choice of either  or  from each of the binomials of the product. For example, there will only be one term , corresponding to choosing  from each binomial. However, there will be several terms of the form , one for each way of choosing exactly two binomials to contribute a . Therefore, after ": null
     },
     {
-        "combining like terms": "combining like terms"
+        "combining like terms": "Combining Like Terms"
     },
     {
         ", the coefficient of  will be equal to the number of ways to choose exactly  elements from an -element set.               The coefficient of  in     : \\begin   ^3 & \\\\   & xxx + xxy + xyx + \\underline + yxx + \\underline + \\underline + yyy \\\\   & x^3 + 3x^2y + \\underline + y^3   \\end     equals \\tbinom3 because there are three  strings of length 3 with exactly two s, namely,     : xyy, \\; yxy, \\; yyx,     corresponding to the three 2-element subsets of , namely,     : \\,\\;\\,\\;\\,     where each subset specifies the positions of the  in a corresponding string.       Expanding  yields the sum of the  products of the form  where each  is  or  . Rearranging factors shows that each product equals  for some  between  and  . For a given , the following are proved equal in succession:   the number of copies of  in the expansion   the number of -character  strings having  in exactly  positions   the number of -element subsets of  ": null
     },
     {
-        "Induction": "mathematical induction"
+        "Induction": "Mathematical Induction"
     },
     {
         " yields another proof of the binomial theorem. When , both sides equal , since  and \\tbinom1. Now suppose that the equality holds for a given ; we will prove it for . For , let  denote the coefficient of  in the polynomial . By the inductive hypothesis,  is a polynomial in  and  such that  is \\tbinom if , and  otherwise. The identity     : ^ x^n + y^n     shows that  is also a polynomial in  and , and     : + ,     since if , then  and . Now, the right hand side is     : \\binom + \\binom \\binom,     by ": null
     },
     {
-        "Pascals identity": "pascals identity"
+        "Pascals identity": "Pascals Identity"
     },
     {
         ".  – inductive proofs  On the other hand, if , then  and , so we get . Thus     : ^ \\sum_^ \\binom x^ y^k,     which is the inductive hypothesis with  substituted for  and so completes the inductive step.              Around 1665, ": null
     },
     {
-        "Isaac Newton": "isaac newton"
+        "Isaac Newton": "Isaac Newton"
     },
     {
         " generalized the binomial theorem to allow real exponents other than nonnegative integers.  In this generalization, the finite sum is replaced by an ": null
     },
     {
-        "infinite series": "infinite series"
+        "infinite series": "Infinite Series"
     },
     {
         ". In order to do this, one needs to give meaning to binomial coefficients with an arbitrary upper index, which cannot be done using the usual formula with factorials. However, for an arbitrary number , one can define     : \\frac \\frac,   where _k is the ": null
     },
     {
-        "Pochhammer symbol": "pochhammer symbol"
+        "Pochhammer symbol": "Pochhammer Symbol"
     },
     {
         ", here standing for a ": null
     },
     {
-        "falling factorial": "falling factorial"
+        "falling factorial": "Falling Factorial"
     },
     {
         ". This agrees with the usual definitions when  is a nonnegative integer. Then, if  and  are real numbers with  ref nameconvergence groupNote  /ref  math /math  math /math  math /math  math /math  math /math math /math math ": null

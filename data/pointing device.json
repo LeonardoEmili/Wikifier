@@ -3,421 +3,421 @@
         "                 A pointing device is an ": null
     },
     {
-        "input interface": "input interface"
+        "input interface": "Input Interface"
     },
     {
         "  that allows a ": null
     },
     {
-        "user": "user end-user"
+        "user": "User End-User"
     },
     {
         " to input ": null
     },
     {
-        "spatial": "three-dimensional space"
+        "spatial": "Three-Dimensional Space"
     },
     {
         "  data to a ": null
     },
     {
-        "computer": "computer"
+        "computer": "Computer"
     },
     {
         ". ": null
     },
     {
-        "CAD": "computer-aided design"
+        "CAD": "Computer-Aided Design"
     },
     {
         " systems and ": null
     },
     {
-        "graphical user interfaces": "graphical user interface"
+        "graphical user interfaces": "Graphical User Interface"
     },
     {
         " allow the user to control and provide data to the computer using physical ": null
     },
     {
-        "gestures": "mouse gesture"
+        "gestures": "Mouse Gesture"
     },
     {
         " by moving a hand-held ": null
     },
     {
-        "mouse": "mouse"
+        "mouse": "Mouse"
     },
     {
         " or similar device across the surface of the physical desktop and activating switches on the mouse. Movements of the pointing device are echoed on the screen by movements of the ": null
     },
     {
-        "pointer": "pointer"
+        "pointer": "Pointer"
     },
     {
         "  and other visual changes. Common gestures are ": null
     },
     {
-        "point and click": "point and click"
+        "point and click": "Point And Click"
     },
     {
         " and ": null
     },
     {
-        "drag and drop": "drag and drop"
+        "drag and drop": "Drag And Drop"
     },
     {
         ".     While the most common pointing device by far is the mouse, many more devices have been developed. However, the term mouse is commonly used as a metaphor for devices that move the cursor.     For most pointing devices, ": null
     },
     {
-        "Fittss law": "fittss law"
+        "Fittss law": "Fittss Law"
     },
     {
         " can be used to predict the speed with which users can point at a higher speed.       To classify several pointing devices, a certain number of features can be considered. For example, the devices movement, controlling, positioning or resistance. The following points should provide an overview of the different classifications. Zhai, S. . User performance in relation to 3D input device design. ACM Siggraph Computer Graphics, 32, 50–54.      direct vs. indirect input   In case of a direct-input pointing device, the on-screen pointer is at the same physical position as the pointing device . An indirect-input pointing device is not at the same physical position as the pointer but translates its movement onto the screen .     absolute vs. relative movement   An absolute-movement input device provides a consistent mapping between a point in the input space and a point in the output space .   A relative-movement input device maps displacement in the input space to displacement in the output state. It therefore controls the relative position of the cursor compared to its initial position.      isotonic vs. elastic vs. isometric    An isotonic pointing device is movable and measures its displacement whereas an isometric device is fixed and measures the force which acts on it .   An elastic device increases its force resistance with displacement .     position control vs. rate control   A position-control input device directly changes the absolute or relative position of the on-screen pointer.   A rate-control input device changes the speed and direction of the movement of the on-screen pointer.      translation vs. rotation    Another classification is the differentiation between whether the device is physically translated or rotated.      degrees of freedom    Different pointing devices have different degrees of freedom . A computer mouse has two degrees of freedom, namely its movement on the x- and y-axis. However the ": null
     },
     {
-        "Wiimote": "wiimote"
+        "Wiimote": "Wiimote"
     },
     {
         " has 6 degrees of freedom: x-, y- and z-axis for movement as well as for rotation.     possible states   As mentioned later in this article, pointing devices have different possible states. Examples for these states are out of range, tracking or dragging.     Examples indirect, relative, isotonic, position-control, translational input device with two degrees of freedom and two states .   a touch screen is a direct, absolute, isometric, position-control input device with two or more degrees of freedom and two states .   a joystick is an indirect, relative, elastic, rate-control, translational input device with two degrees of freedom and two states .   a Wiimote is an indirect, relative, elastic, rate-control, translational input device with six degrees of freedom and two or three states .       The following table shows a classification of pointing devices by their number of dimensions and which property is sensed introduced by ": null
     },
     {
-        "Bill Buxton": "bill buxton"
+        "Bill Buxton": "Bill Buxton"
     },
     {
         ". The sub-rows distinguish between mechanical intermediary and ": null
     },
     {
-        "touch-sensitive": "touchscreen"
+        "touch-sensitive": "Touchscreen"
     },
     {
         " . It is rooted in the human ": null
     },
     {
-        "motor/sensory system": "sensory system"
+        "motor/sensory system": "Sensory System"
     },
     {
         ". Continuous manual input devices are categorized. Sub-columns distinguish devices that use comparable motor control for their operation. The table is based on the original graphic of Bill Buxtons work on Taxonomies of Input .             This model describes different states that a pointing device can assume. The three common states as described by Buxton are out of range, tracking and dragging. Not every pointing device can switch to all states. Buxton, W. . A Three-State Model of Graphical Input. In D. Diaper et al. , Human-Computer Interaction – INTERACT 90. Amsterdam: Elsevier Science Publishers B.V. , 449–456.               Fittss law is a predictive model of human movement primarily used in human–computer interaction and ergonomics. This scientific law predicts that the time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target. Fitts, Paul M. . The information capacity of the human motor system in controlling the amplitude of movement . Journal of Experimental Psychology. 47 : 381–391. doi:10.1037/h0055392. . Fittss law is used to model the act of pointing, either by physically touching an object with a hand or finger, or virtually, by pointing to an object on a computer monitor using a pointing device.   In other words, this means for example, that the user needs more time to click on a small button which is distant to the cursor, than he needs to click a large button near the cursor. Thereby it is generally possible to predict the speed which is needed for a selective movement to a certain target.       The common metric to calculate the average time to complete the movement is the following:   : \\text a + b \\cdot \\text a + b \\cdot \\log_2 \\Bigg     where:   \tMT is the average time to complete the movement.   \ta and b are constants that depend on the choice of input device and are usually determined empirically by regression analysis.   \tID is the index of difficulty.   \tD\tis the distance from the starting point to the center of the target.   \tW is the width of the target measured along the axis of motion.\tW can also be thought of as the allowed error tolerance in the final position, since the final point of the motion must fall within ±\tof the targets center.   This results in the interpretation that, as mentioned before, large and close targets can be reached faster than little, distant targets.       As mentioned above, the size and distance of an object influence its selection. Additionally this effects the user experience. Therefore, it is important, that Fitts Law is considered while designing user interfaces. Below some basic principles are mentioned.    Interactive elements   : Command buttons for example should have different sizes than non-interactive elements. Larger interactive objects are easier to select with any pointing device.     Edges and corners   : Due to the fact, that the cursor gets pinned on the edges and corners of a graphical user interface, those points can be accessed faster than other spots on the display.     Pop-up menus   : They should support immediate selection of interactive elements in order to reduce the users travel time .     Options for selecting   : Within menus like dropdown menus or top-level navigation, the distance increases the further the user goes down the list. However in pie menus, the distance to the different buttons is always the same. In addition, the target areas in pie menus are larger.     Task bars   : To operate a task bar, the user needs a higher level of precision, thus more time. Generally they hinder the movement through the interface.       The Control-Display Gain describes the proportion between movements in the control space to the movements in the display space. For example, a hardware mouse moves in another speed or distance than the cursor on the screen. Even if these movements take place in two different spaces, the units for measurement have to be the same in order to be meaningful . The CD gain refers to the scale factor of these two movements:   : CD gain V_/ V_   The CD gain settings can be adjusted in most cases. However, a compromise has to be found: with high gains it is easier to approach a distant target, with low gains this takes longer. High gains hinder the selection of targets, whereas low gains facilitate this process. D. E. Meyer, R. A. Abrams, S. Kornblum, C. E. Wright, and J. E. K. Smith. Optimality in human motor performance: Ideal control of rapid aimed movements. Psychological Review , 95:340–370, 1988. The operating systems ": null
     },
     {
-        "Microsoft Windows": "microsoft windows"
+        "Microsoft Windows": "Microsoft Windows"
     },
     {
         ", ": null
     },
     {
-        "Apple OS X": "apple os x"
+        "Apple OS X": "Apple Os X"
     },
     {
         " and ": null
     },
     {
-        "Xorg": "xorg"
+        "Xorg": "Xorg"
     },
     {
         " have implemented mechanisms in order to adapt the CD gain to the users needs, e.g. the CD gain increases when the users movement velocity increases. Casiez, G., & Roussel, N. . No more Bricolage! Methods and Tools to Characterize, Replicate and Compare Pointing Transfer Functions. Proceedings of the 24th Annual ACM Symposium on User Interface Software and Technology – UIST 11, 603–614.                   A ": null
     },
     {
-        "mouse": "mouse"
+        "mouse": "Mouse"
     },
     {
         " is a small handheld device pushed over a horizontal surface.     A mouse moves the graphical pointer by being slid across a smooth surface. The conventional roller-ball mouse uses a ball to create this action: the ball is in contact with two small shafts that are set at right angles to each other. As the ball moves these shafts rotate, and the rotation is measured by sensors within the mouse. The distance and direction information from the sensors is then transmitted to the computer, and the computer moves the graphical pointer on the screen by following the movements of the mouse. Another common mouse is the optical mouse. This device is very similar to the conventional mouse but uses visible or infrared light instead of a roller-ball to detect the changes in position. . ": null
     },
     {
-        "FOLDOC": "free on-line dictionary of computing"
+        "FOLDOC": "Free On-Line Dictionary Of Computing"
     },
     {
         ". 19 September 2006.   Additionally there is the ": null
     },
     {
-        "mini-mouse": "mini-mouse"
+        "mini-mouse": "Mini-Mouse"
     },
     {
         ", which is a small egg-sized mouse for use with ": null
     },
     {
-        "laptop computer": "laptop computer"
+        "laptop computer": "Laptop Computer"
     },
     {
         "s; usually small enough for use on a free area of the laptop body itself, it is typically ": null
     },
     {
-        "optical": "mouse optical mice"
+        "optical": "Mouse Optical Mice"
     },
     {
         ", includes a ": null
     },
     {
-        "retractable cord": "retractable cord"
+        "retractable cord": "Retractable Cord"
     },
     {
         " and uses a ": null
     },
     {
-        "USB": "usb"
+        "USB": "Usb"
     },
     {
         " port to save battery life.          A ": null
     },
     {
-        "trackball": "trackball"
+        "trackball": "Trackball"
     },
     {
         " is a pointing device consisting of a ball housed in a socket containing sensors to detect rotation of the ball about two axis, similar to an upside-down mouse: as the user rolls the ball with a thumb, fingers, or palm the pointer on the screen will also move. Tracker balls are commonly used on CAD workstations for ease of use, where there may be no desk space on which to use a mouse. Some are able to clip onto the side of the keyboard and have buttons with the same functionality as mouse buttons. . FOLDOC. 19 September 2006. There are also wireless trackballs which offer a wider range of ergonomic positions to the user.          Isotonic joysticks are handle sticks where the user can freely change the position of the stick, with more or less constant force.     Isometric joysticks are where the user controls the stick by varying the amount of force they push with, and the position of the stick remains more or less constant. Isometric joysticks are often cited as more difficult to use due to the lack of tactile feedback provided by an actual moving joystick.               A ": null
     },
     {
-        "pointing stick": "pointing stick"
+        "pointing stick": "Pointing Stick"
     },
     {
         " is a pressure-sensitive small nub used like a joystick. It is usually found on laptops embedded between the G, H, and B keys. It operates by sensing the force applied by the user. The corresponding mouse buttons are commonly placed just below the ": null
     },
     {
-        "space bar": "space bar"
+        "space bar": "Space Bar"
     },
     {
         ". It is also found on mice and some desktop keyboards.          The Wii Remote, also known colloquially as the Wiimote, is the primary controller for Nintendos Wii console. A main feature of the Wii Remote is its motion sensing capability, which allows the user to interact with and manipulate items on screen via gesture recognition and pointing through the use of accelerometer and optical sensor technology.         A ": null
     },
     {
-        "finger tracking": "finger tracking"
+        "finger tracking": "Finger Tracking"
     },
     {
         " device tracks fingers in the 3D space or close to the surface without contact with a screen. Fingers are triangulated by technologies like stereo camera, time-of-flight and laser. Good examples of finger tracking pointing devices are ": null
     },
     {
-        "LM3LABS": "lm3labs"
+        "LM3LABS": "Lm3Labs"
     },
     {
         " Ubiqwindow and                    A ": null
     },
     {
-        "graphics tablet": "graphics tablet"
+        "graphics tablet": "Graphics Tablet"
     },
     {
         " or digitizing tablet is a special tablet similar to a touchpad, but controlled with a pen or stylus that is held and used like a normal pen or pencil. The thumb usually controls the clicking via a two-way button on the top of the pen, or by tapping on the tablets surface.     A cursor is similar to a mouse, except that it has a window with cross hairs for pinpoint placement, and it can have as many as 16 buttons. A pen looks like a simple ballpoint pen but uses an electronic head instead of ink. The tablet contains electronics that enable it to detect movement of the cursor or pen and translate the movements into digital signals that it sends to the computer. . Webopedia.com. 19 September 2006. This is different from a mouse because each point on the tablet represents a point on the screen.               A stylus is a small pen-shaped instrument that is used to input commands to a ": null
     },
     {
-        "computer screen": "computer monitor"
+        "computer screen": "Computer Monitor"
     },
     {
         ", ": null
     },
     {
-        "mobile device": "mobile device"
+        "mobile device": "Mobile Device"
     },
     {
         " or graphics tablet.     The stylus is the primary input device for ": null
     },
     {
-        "personal digital assistants": "personal digital assistant"
+        "personal digital assistants": "Personal Digital Assistant"
     },
     {
         "and ": null
     },
     {
-        "smartphones": "smartphone"
+        "smartphones": "Smartphone"
     },
     {
         "that require accurate input, although devices featuring ": null
     },
     {
-        "multi-touch": "multi-touch"
+        "multi-touch": "Multi-Touch"
     },
     {
         " finger-input with ": null
     },
     {
-        "capacitive touchscreens": "capacitive touchscreen"
+        "capacitive touchscreens": "Capacitive Touchscreen"
     },
     {
         "are becoming more popular than stylus-driven devices in the smartphone market.            A ": null
     },
     {
-        "touchpad": "touchpad"
+        "touchpad": "Touchpad"
     },
     {
         " or trackpad is a flat surface that can detect finger contact. It is a stationary pointing device, commonly used on laptop computers. At least one physical button normally comes with the touchpad, but the user can also generate a mouse click by tapping on the pad. Advanced features include pressure sensitivity and special gestures such as scrolling by moving ones finger along an edge.     It uses a two-layer grid of ": null
     },
     {
-        "electrodes": "electrode"
+        "electrodes": "Electrode"
     },
     {
         "to measure finger movement: one layer has vertical electrode strips that handle vertical movement, and the other layer has horizontal electrode strips to handle horizontal movements. . FOLDOC. 19 September 2006.            A ": null
     },
     {
-        "touchscreen": "touchscreen"
+        "touchscreen": "Touchscreen"
     },
     {
         " is a device embedded into the screen of the TV monitor, or system ": null
     },
     {
-        "LCD": "lcd"
+        "LCD": "Lcd"
     },
     {
         " monitor screens of laptop computers. Users interact with the device by physically pressing items shown on the screen, either with their fingers or some helping tool.     Several technologies can be used to detect touch. Resistive and capacitive touchscreens have conductive materials embedded in the glass and detect the position of the touch by measuring changes in electric current. ": null
     },
     {
-        "Infrared": "infrared"
+        "Infrared": "Infrared"
     },
     {
         " controllers project a grid of infrared beams inserted into the frame surrounding the monitor screen itself, and detect where an object intercepts the beams.     Modern touchscreens could be used in conjunction with stylus pointing devices, while those powered by infrared do not require physical touch, but just recognize the movement of hand and fingers in some minimum range distance from the real screen.     Touchscreens are becoming popular with the introduction of ": null
     },
     {
-        "palmtop": "palmtop"
+        "palmtop": "Palmtop"
     },
     {
         " computers like those sold by the ": null
     },
     {
-        "Palm, Inc.": "palm, inc."
+        "Palm, Inc.": "Palm, Inc."
     },
     {
         " hardware manufacturer, some high range classes of laptop computers, mobile smartphone like ": null
     },
     {
-        "HTC": "high tech computer corporation"
+        "HTC": "High Tech Computer Corporation"
     },
     {
         " or the ": null
     },
     {
-        "Apple Inc.": "apple inc."
+        "Apple Inc.": "Apple Inc."
     },
     {
-        " iPhone": "iphone"
+        " iPhone": "Iphone"
     },
     {
         ", and the availability of standard touchscreen device drivers into the ": null
     },
     {
-        "Symbian": "symbian"
+        "Symbian": "Symbian"
     },
     {
         ", ": null
     },
     {
-        "Palm OS": "palm os"
+        "Palm OS": "Palm Os"
     },
     {
         ", ": null
     },
     {
-        "Mac OS X": "mac os x"
+        "Mac OS X": "Mac Os X"
     },
     {
         ", and ": null
     },
     {
-        "Microsoft Windows": "microsoft windows"
+        "Microsoft Windows": "Microsoft Windows"
     },
     {
         " operating systems.           In contrast to a 3D Joystick, the stick itself doesnt move or just moves very little and is mounted in the device chassis. To move the pointer, the user has to apply force to the stick. Typical representatives can be found on notebooks keyboards between the G and H keys. By performing pressure on the ": null
     },
     {
-        "TrackPoint": "trackpoint"
+        "TrackPoint": "Trackpoint"
     },
     {
         ", the cursor moves on the display. Silfverberg, M., MacKenzie, I. S., & Kauppinen, T. . An isometric joystick as a pointing device for handheld information terminals. Proceedings of Graphics Interface 2001, pp. 119–126. Toronto, Canada: Canadian Information Processing Society.       A ": null
     },
     {
-        "light pen": "light pen"
+        "light pen": "Light Pen"
     },
     {
         " is a device similar to a touch screen, but uses a special light-sensitive pen instead of the finger, which allows for more accurate screen input. As the tip of the light pen makes contact with the screen, it sends a signal back to the computer containing the ": null
     },
     {
-        "coordinates": "coordinate"
+        "coordinates": "Coordinate"
     },
     {
         "of the ": null
     },
     {
-        "pixels": "pixel"
+        "pixels": "Pixel"
     },
     {
         "at that point. It can be used to draw on the computer screen or make menu selections, and does not require a special touch screen because it can work with any ": null
     },
     {
-        "CRT display": "cathode ray tube"
+        "CRT display": "Cathode Ray Tube"
     },
     {
         ".   ": null
     },
     {
-        "Light gun": "light gun"
+        "Light gun": "Light Gun"
     },
     {
-        " Footmouse": "footmouse"
+        " Footmouse": "Footmouse"
     },
     {
         " – sometimes called a mole – a mouse variant for those who do not wish to or cannot use the hands or the head; instead, it provides footclicks   Similar to a mouse is a puck, which, rather than tracking the speed of the device, tracks the absolute position of a point on the device . Pucks are typically used for tracing in CAD/CAM/CAE work, and are often accessories for larger graphics tablets.   ": null
     },
     {
-        "Eye tracking": "eye tracking"
+        "Eye tracking": "Eye Tracking"
     },
     {
         " devices – a mouse controlled by the users retinal movements, allowing cursor-manipulation without touch   Finger-mouse – An extremely small mouse controlled by two fingers only; the user can hold it in any position   Gyroscopic mouse – a ": null
     },
     {
-        "gyroscope": "gyroscope"
+        "gyroscope": "Gyroscope"
     },
     {
         " senses the movement of the mouse as it moves through the air. Users can operate a gyroscopic mouse when they have no room for a regular mouse or must give commands while standing up. This input device needs no cleaning and can have many extra buttons, in fact, some laptops doubling as TVs come with gyroscopic mice that resemble, and double as, remotes with LCD screens built in.   ": null
     },
     {
-        "Steering wheel": "steering wheel"
+        "Steering wheel": "Steering Wheel"
     },
     {
         " – can be thought of as a 1D pointing device – see also ": null
     },
     {
-        "steering wheel section of game controller article": "game controllersteering wheel"
+        "steering wheel section of game controller article": "Game Controllersteering Wheel"
     },
     {
-        " Paddle": "paddle"
-    },
-    {
-        " – another 1D pointing device   ": null
-    },
-    {
-        "Jog dial": "jog dial"
+        " Paddle": "Paddle"
     },
     {
         " – another 1D pointing device   ": null
     },
     {
-        "Yoke ": "yoke"
+        "Jog dial": "Jog Dial"
     },
     {
-        " degree-of-freedom": "degrees of freedom"
+        " – another 1D pointing device   ": null
     },
     {
-        " input devices": "input devices"
+        "Yoke ": "Yoke"
     },
     {
-        " 3Dconnexion": "3dconnexion"
+        " degree-of-freedom": "Degrees Of Freedom"
+    },
+    {
+        " input devices": "Input Devices"
+    },
+    {
+        " 3Dconnexion": "3Dconnexion"
     },
     {
         " – six-degree controller   Discrete pointing devices   ": null
     },
     {
-        "directional pad": "d-pad"
+        "directional pad": "D-Pad"
     },
     {
         " – a very simple keyboard   ": null
     },
     {
-        "Dance pad": "dance pad"
+        "Dance pad": "Dance Pad"
     },
     {
         " – used to point at gross locations in space with feet   ": null
     },
     {
-        "Soap mouse": "soap mouse"
+        "Soap mouse": "Soap Mouse"
     },
     {
         " – a handheld, position-based pointing device based on existing wireless optical mouse technology   ": null
     },
     {
-        "Laser pen": "laser pen"
+        "Laser pen": "Laser Pen"
     },
     {
         " – can be used in presentations as a pointing device     ": null

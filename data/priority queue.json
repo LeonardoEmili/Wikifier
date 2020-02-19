@@ -3,361 +3,361 @@
         "In ": null
     },
     {
-        "computer science": "computer science"
+        "computer science": "Computer Science"
     },
     {
         ", a priority queue is an ": null
     },
     {
-        "abstract data type": "abstract data type"
+        "abstract data type": "Abstract Data Type"
     },
     {
         " which is like a regular ": null
     },
     {
-        "queue": "queue"
+        "queue": "Queue"
     },
     {
         " or ": null
     },
     {
-        "stack": "stack"
+        "stack": "Stack"
     },
     {
         " data structure, but where additionally each element has a priority associated with it. In a priority queue, an element with high priority is served before an element with low priority. In some implementations, if two elements have the same priority, they are served according to the order in which they were enqueued, while in other implementations, ordering of elements with the same priority is undefined.     While priority queues are often implemented with ": null
     },
     {
-        "heaps": "heap"
+        "heaps": "Heap"
     },
     {
         ", they are conceptually distinct from heaps. A priority queue is a concept like a ": null
     },
     {
-        "list": "list_"
+        "list": "List_"
     },
     {
         " or a ": null
     },
     {
-        "map": "associative_array"
+        "map": "Associative_Array"
     },
     {
         " ; just as a list can be implemented with a ": null
     },
     {
-        "linked list": "linked list"
+        "linked list": "Linked List"
     },
     {
         " or an ": null
     },
     {
-        "array": "array data structure"
+        "array": "Array Data Structure"
     },
     {
         ", a priority queue can be implemented with a heap or a variety of other methods such as an unordered array.         A priority queue must at least support the following operations:     is_empty: check whether the queue has no elements.   insert_with_priority: add an ": null
     },
     {
-        "element": "element"
+        "element": "Element"
     },
     {
         " to the ": null
     },
     {
-        "queue": "queue"
+        "queue": "Queue"
     },
     {
         " with an associated priority.   pull_highest_priority_element: remove the element from the queue that has the highest priority, and return it.   : This is also known as pop_element , get_maximum_element or get_front_element .   : Some conventions reverse the order of priorities, considering lower values to be higher priority, so this may also be known as get_minimum_element , and is often referred to as get-min in the literature.   : This may instead be specified as separate peek_at_highest_priority_element and delete_element functions, which can be combined to produce pull_highest_priority_element .     In addition,  peek  , which returns the highest-priority element but does not modify the queue, is very frequently implemented, and nearly always executes in ": null
     },
     {
-        "O": "big o notation"
+        "O": "Big O Notation"
     },
     {
         " time. This operation and its O performance is crucial to many applications of priority queues.     More advanced implementations may support more complicated operations, such as pull_lowest_priority_element, inspecting the first few highest- or lowest-priority elements, clearing the queue, clearing subsets of the queue, performing a batch insert, merging two or more queues into one, incrementing priority of any element, etc.         One can imagine a priority queue as a modified ": null
     },
     {
-        "queue": "queue"
+        "queue": "Queue"
     },
     {
         ", but when one would get the next element off the queue, the highest-priority element is retrieved first.     Stacks and queues may be modeled as particular kinds of priority queues. As a reminder, here is how stacks and queues behave:     stack & ndash; elements are pulled in ": null
     },
     {
-        "last-in first-out": "lifo"
+        "last-in first-out": "Lifo"
     },
     {
         "-order   queue & ndash; elements are pulled in ": null
     },
     {
-        "first-in first-out": "fifo"
+        "first-in first-out": "Fifo"
     },
     {
         "-order     In a stack, the priority of each inserted element is monotonically increasing; thus, the last element inserted is always the first retrieved. In a queue, the priority of each inserted element is monotonically decreasing; thus, the first element inserted is always the first retrieved.             There are a variety of simple, usually inefficient, ways to implement a priority queue. They provide an analogy to help one understand what a priority queue is. For instance, one can keep all the elements in an unsorted list. Whenever the highest-priority element is requested, search through all elements for the one with the highest priority.          To improve performance, priority queues typically use a ": null
     },
     {
-        "heap": "heap"
+        "heap": "Heap"
     },
     {
         " as their backbone, giving O performance for inserts and removals, and O to build initially. Variants of the basic heap data structure such as ": null
     },
     {
-        "pairing heaps": "pairing heap"
+        "pairing heaps": "Pairing Heap"
     },
     {
         "or ": null
     },
     {
-        "Fibonacci heaps": "fibonacci heap"
+        "Fibonacci heaps": "Fibonacci Heap"
     },
     {
         "can provide better bounds for some operations.  Third edition, p. 518.     Alternatively, when a ": null
     },
     {
-        "self-balancing binary search tree": "self-balancing binary search tree"
+        "self-balancing binary search tree": "Self-Balancing Binary Search Tree"
     },
     {
         " is used, insertion and removal also take O time, although building trees from existing sequences of elements takes O time; this is typical where one might already have access to these data structures, such as with third-party or standard libraries.     From a computational-complexity standpoint, priority queues are congruent to sorting algorithms. The section on ": null
     },
     {
-        "the equivalence of priority queues and sorting algorithms": "priority queueequivalence_of_priority_queues_and_sorting_algorithms"
+        "the equivalence of priority queues and sorting algorithms": "Priority Queueequivalence_Of_Priority_Queues_And_Sorting_Algorithms"
     },
     {
         ", below, describes how efficient sorting algorithms can create efficient priority queues.       There are several specialized ": null
     },
     {
-        "heap": "heap"
+        "heap": "Heap"
     },
     {
-        " data structures": "data structures"
+        " data structures": "Data Structures"
     },
     {
         " that either supply additional operations or outperform heap-based implementations for specific types of keys, specifically integer keys.     When the set of keys is , and only insert, find-min and extract-min are needed, a ": null
     },
     {
-        "bucket queue": "bucket queue"
+        "bucket queue": "Bucket Queue"
     },
     {
         " can be constructed as an array of  ": null
     },
     {
-        "linked lists": "linked list"
+        "linked lists": "Linked List"
     },
     {
         "plus a pointer , initially . Inserting an item with key  appends the item to the th, and updates , both in constant time. Extract-min deletes and returns one item from the list with index , then increments  if needed until it again points to a non-empty list; this takes  time in the worst case. These queues are useful for sorting the vertices of a graph by their degree.   Cgraph theorygraph theorylog log C2 m/2 1\\sqrt3": null
     },
     {
-        "ta type operati": "ta type operati"
+        "ta type operati": "Ta Type Operati"
     },
     {
         "1in the case of min-heap": null
     },
     {
-        "mputer scien": "mputer scien"
+        "mputer scien": "Mputer Scien"
     },
     {
         " nSS1and deleting elementsSn  log  log  n1log  log  n": null
     },
     {
-        "stract data ty": "stract data ty"
+        "stract data ty": "Stract Data Ty"
     },
     {
         "STL": null
     },
     {
-        "ogrammi": "ogrammi"
+        "ogrammi": "Ogrammi"
     },
     {
-        "ogrammi": "ogrammi"
+        "ogrammi": "Ogrammi"
     },
     {
-        "ogrammi": "ogrammi"
+        "ogrammi": "Ogrammi"
     },
     {
         "defaults to less if unspecifieddefaults to std::vector it strictly adheres to its abstract data type definition": null
     },
     {
-        "+ librari": "+ librari"
+        "+ librari": "+ Librari"
     },
     {
-        "ogramming langua": "ogramming langua"
+        "ogramming langua": "Ogramming Langua"
     },
     {
-        "ogramming langua": "ogramming langua"
+        "ogramming langua": "Ogramming Langua"
     },
     {
-        "mputi": "mputi"
+        "mputi": "Mputi"
     },
     {
-        "mputi": "mputi"
+        "mputi": "Mputi"
     },
     {
         "such as real-time traffic, e.g. an ": null
     },
     {
-        "RTP": "real-time transport protocol"
+        "RTP": "Real-Time Transport Protocol"
     },
     {
         " stream of a ": null
     },
     {
-        "VoIP": "voice over internet protocol"
+        "VoIP": "Voice Over Internet Protocol"
     },
     {
         " connectionMACsuch as ": null
     },
     {
-        "VoIP": "voip"
+        "VoIP": "Voip"
     },
     {
         " or ": null
     },
     {
-        "IPTV": "iptv"
+        "IPTV": "Iptv"
     },
     {
         "an amendment to ": null
     },
     {
-        "IEEE 802.11": "ieee 802.11"
+        "IEEE 802.11": "Ieee 802.11"
     },
     {
         " which provides ": null
     },
     {
-        "quality of service": "quality of service"
+        "quality of service": "Quality Of Service"
     },
     {
         "a standard for high-speed ": null
     },
     {
-        "local area network": "local area network"
+        "local area network": "Local Area Network"
     },
     {
         " using existing home wiring .     Usually a limitation is set to limit the bandwidth that traffic from the highest priority queue can take, in order to prevent high priority packets from choking off all other traffic. This limit is usually never reached due to high level control instances such as the ": null
     },
     {
-        "Cisco": "cisco systems, inc."
+        "Cisco": "Cisco Systems, Inc."
     },
     {
-        " Callmanager": "callmanager"
+        " Callmanager": "Callmanager"
     },
     {
         ", which can be programmed to inhibit calls which would exceed the programmed bandwidth limit.            Another use of a priority queue is to manage the events in a ": null
     },
     {
-        "discrete event simulation": "discrete event simulation"
+        "discrete event simulation": "Discrete Event Simulation"
     },
     {
         ". The events are added to the queue with their simulation time used as the priority. The execution of the simulation proceeds by repeatedly pulling the top of the queue and executing the event thereon.     See also: ": null
     },
     {
-        "Scheduling ": "scheduling"
+        "Scheduling ": "Scheduling"
     },
     {
         ", ": null
     },
     {
-        "queueing theory": "queueing theory"
+        "queueing theory": "Queueing Theory"
     },
     {
         "         When the graph is stored in the form of adjacency list or matrix, priority queue can be used to extract minimum efficiently when implementing ": null
     },
     {
-        "Dijkstras algorithm": "dijkstras algorithm"
+        "Dijkstras algorithm": "Dijkstras Algorithm"
     },
     {
         ", although one also needs the ability to alter the priority of a particular vertex in the priority queue efficiently.         ": null
     },
     {
-        "Huffman coding": "huffman coding"
+        "Huffman coding": "Huffman Coding"
     },
     {
         " requires one to repeatedly obtain the two lowest-frequency trees. A priority queue is ": null
     },
     {
-        "one method of doing this": "huffman codingcompression"
+        "one method of doing this": "Huffman Codingcompression"
     },
     {
         ".         ": null
     },
     {
-        "Best-first search": "best-first search"
+        "Best-first search": "Best-First Search"
     },
     {
         " algorithms, like the ": null
     },
     {
-        "A search algorithm": "a search algorithm"
+        "A search algorithm": "A Search Algorithm"
     },
     {
         ", find the shortest path between two ": null
     },
     {
-        "vertices": "vertex"
+        "vertices": "Vertex"
     },
     {
         " or ": null
     },
     {
-        "nodes": "node"
+        "nodes": "Node"
     },
     {
         " of a ": null
     },
     {
-        "weighted graph": "weighted graph"
+        "weighted graph": "Weighted Graph"
     },
     {
         ", trying out the most promising routes first. A priority queue  is used to keep track of unexplored routes; the one for which the estimate of the total path length is smallest is given highest priority. If memory limitations make best-first search impractical, variants like the ": null
     },
     {
-        "SMA": "sma"
+        "SMA": "Sma"
     },
     {
         " algorithm can be used instead, with a ": null
     },
     {
-        "double-ended priority queue": "double-ended priority queue"
+        "double-ended priority queue": "Double-Ended Priority Queue"
     },
     {
         " to allow removal of low-priority items.         The Real-time Optimally Adapting Meshes  algorithm computes a dynamically changing triangulation of a terrain. It works by splitting triangles where more detail is needed and merging them where less detail is needed. The algorithm assigns each triangle in the terrain a priority, usually related to the error decrease if that triangle would be split. The algorithm uses two priority queues, one for triangles that can be split and another for triangles that can be merged. In each step the triangle from the split queue with the highest priority is split, or the triangle from the merge queue with the lowest priority is merged with its neighbours.       Using ": null
     },
     {
-        "min heap priority queue": "binary heap"
+        "min heap priority queue": "Binary Heap"
     },
     {
         " in ": null
     },
     {
-        "Prims algorithm": "prims algorithm"
+        "Prims algorithm": "Prims Algorithm"
     },
     {
         " to find the ": null
     },
     {
-        "minimum spanning tree": "minimum spanning tree"
+        "minimum spanning tree": "Minimum Spanning Tree"
     },
     {
         " of a ": null
     },
     {
-        "connected": "connected graph"
+        "connected": "Connected Graph"
     },
     {
         " and ": null
     },
     {
-        "undirected graph": "undirected graph"
+        "undirected graph": "Undirected Graph"
     },
     {
         ", one can achieve a good running time. This min heap priority queue uses the min heap data structure which supports operations such as insert, minimum, extract-min, decrease-key.    In this implementation, the ": null
     },
     {
-        "weight": "weighted graph"
+        "weight": "Weighted Graph"
     },
     {
         " of the edges is used to decide the priority of the ": null
     },
     {
-        "vertices": "vertex"
+        "vertices": "Vertex"
     },
     {
         ". Lower the weight, higher the priority and higher the weight, lower the priority.   ": null

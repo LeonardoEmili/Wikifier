@@ -3,177 +3,177 @@
         "     In ": null
     },
     {
-        "complexity theory": "computational complexity theory"
+        "complexity theory": "Computational Complexity Theory"
     },
     {
         " and ": null
     },
     {
-        "computability theory": "computability theory"
+        "computability theory": "Computability Theory"
     },
     {
         ", an oracle machine is an ": null
     },
     {
-        "abstract machine": "abstract machine"
+        "abstract machine": "Abstract Machine"
     },
     {
         " used to study ": null
     },
     {
-        "decision problem": "decision problem"
+        "decision problem": "Decision Problem"
     },
     {
         "s. It can be visualized as a ": null
     },
     {
-        "Turing machine": "turing machine"
+        "Turing machine": "Turing Machine"
     },
     {
         " with a black box, called an oracle, which is able to solve certain decision problems in a single operation. The problem can be of any ": null
     },
     {
-        "complexity class": "complexity class"
+        "complexity class": "Complexity Class"
     },
     {
         ". Even ": null
     },
     {
-        "undecidable problem": "undecidable problem"
+        "undecidable problem": "Undecidable Problem"
     },
     {
         "s, such as the ": null
     },
     {
-        "halting problem": "halting problem"
+        "halting problem": "Halting Problem"
     },
     {
         ", can be used.         An oracle machine can be conceived as a ": null
     },
     {
-        "Turing machine": "turing machine"
+        "Turing machine": "Turing Machine"
     },
     {
         " connected to an oracle. The oracle, in this context, is an entity capable of solving some problem, which for example may be a ": null
     },
     {
-        "decision problem": "decision problem"
+        "decision problem": "Decision Problem"
     },
     {
         " or a ": null
     },
     {
-        "function problem": "function problem"
+        "function problem": "Function Problem"
     },
     {
         ". The problem does not have to be computable; the oracle is not assumed to be a Turing machine or computer program. The oracle is simply a ": null
     },
     {
-        "black box": "black box"
+        "black box": "Black Box"
     },
     {
         " that is able to produce a solution for any instance of a given computational problem:   A decision problem is represented as a set A of natural numbers . An instance of the problem is an arbitrary natural number . The solution to the instance is YES if the number is in the set, and NO otherwise.   A function problem is represented by a function f from natural numbers to natural numbers . An instance of the problem is an input x for f. The solution is the value f.     An oracle machine can perform all of the usual operations of a Turing machine, and can also query the oracle to obtain a solution to any instance of the computational problem for that oracle. For example, if the problem is a decision problem for a set A of natural numbers, the oracle machine supplies the oracle with a natural number, and the oracle responds with yes or no stating whether that number is an element of A.         There are many equivalent definitions of oracle Turing machines, as discussed below. The one presented here is from van Melkebeek .     An oracle machine, like a Turing machine, includes:   a work tape: a sequence of cells without beginning or end, each of which may contain a B or a symbol from the tape alphabet;   a read/write head, which rests on a single cell of the work tape and can read the data there, write new data, and increment or decrement its position along the tape;   a control mechanism, which can be in one of a finite number of states, and which will perform different actions depending on the current state and the data being read.     In addition to these components, an oracle machine also includes:   an oracle tape, which is a semi-infinite tape separate from the work tape. The alphabet for the oracle tape may be different from the alphabet for the work tape.   an oracle head which, like the read/write head, can move left or right along the oracle tape reading and writing symbols;   two special states: the ASK state and the RESPONSE state.     From time to time, the oracle machine may enter the ASK state. When this happens, the following actions are performed in a single computational step:   the contents of the oracle tape are viewed as an instance of the oracles computational problem;   the oracle is consulted, and the contents of the oracle tape are replaced with the solution to that instance of the problem;   the oracle head is moved to the first square on the oracle tape;   the state of the oracle machine is changed to RESPONSE.   The effect of changing to the ASK state is thus to receive, in a single step, a solution to the problem instance that is written on the oracle tape.         There are many alternative definitions to the one presented above. Many of these are specialized for the case where the oracle solves a decision problem. In this case:   Some definitions, instead of writing the answer to the oracle tape, have two special states YES and NO in addition to the ASK state. When the oracle is consulted, the next state is chosen to be YES if the contents of the oracle tape are in the oracle set, and chosen to the NO if the contents are not in the oracle set .   Some definitions eschew the separate oracle tape. When the oracle state is entered, a tape symbol is specified. The oracle is queried with the number of times that this tape symbol appears on the work tape. If that number is in the oracle set, the next state is the YES state; if it is not, the next state is the NO state .   Another alternative definition makes the oracle tape read-only, and eliminates the ASK and RESPONSE states entirely. Before the machine is started, the ": null
     },
     {
-        "indicator function": "indicator function"
+        "indicator function": "Indicator Function"
     },
     {
         " of the oracle set is written on the oracle tape using symbols 0 and 1. The machine is then able to query the oracle by scanning to the correct square on the oracle tape and reading the value located there .     These definitions are equivalent from the point of view of Turing computability: a function is oracle-computable from a given oracle under all of these definitions if it is oracle-computable under any of them. The definitions are not equivalent, however, from the point of view of computational complexity. A definition such as the one by van Melkebeek, using an oracle tape which may have its own alphabet, is required in general.       The ": null
     },
     {
-        "complexity class": "complexity class"
+        "complexity class": "Complexity Class"
     },
     {
         " of ": null
     },
     {
-        "decision problems": "decision problem"
+        "decision problems": "Decision Problem"
     },
     {
         "solvable by an algorithm in class A with an oracle for a language L is called A L . For example, P SAT is the class of problems solvable in ": null
     },
     {
-        "polynomial time": "polynomial time"
+        "polynomial time": "Polynomial Time"
     },
     {
         " by a ": null
     },
     {
-        "deterministic Turing machine": "deterministic turing machine"
+        "deterministic Turing machine": "Deterministic Turing Machine"
     },
     {
         " with an oracle for the ": null
     },
     {
-        "Boolean satisfiability problem": "boolean satisfiability problem"
+        "Boolean satisfiability problem": "Boolean Satisfiability Problem"
     },
     {
         ". The notation A B can be extended to a set of languages B , by using the following definition:   : A^B \\bigcup_ A^L     When a language L is ": null
     },
     {
-        "complete": "complete"
+        "complete": "Complete"
     },
     {
         " for some class B, then A L A B provided that machines in A can execute reductions used in the completeness definition of class B. In particular, since SAT is ": null
     },
     {
-        "NP-complete": "np-complete"
+        "NP-complete": "Np-Complete"
     },
     {
         " with respect to polynomial time reductions, P SAT P NP . However, if A ": null
     },
     {
-        "DLOGTIME": "dlogtime"
+        "DLOGTIME": "Dlogtime"
     },
     {
         ", then A SAT may not equal A NP .     It is understood that NP & sube; P NP , but the question of whether NP NP , P NP , NP, and P are equal remains tentative at best. It is believed they are different, and this leads to the definition of the ": null
     },
     {
-        "polynomial hierarchy": "polynomial hierarchy"
+        "polynomial hierarchy": "Polynomial Hierarchy"
     },
     {
         ".     Oracle machines are useful for investigating the relationship between ": null
     },
     {
-        "complexity classes P and NP": "p  np problem"
+        "complexity classes P and NP": "P  Np Problem"
     },
     {
         ", by considering the relationship between P A and NP A for an oracle A. In particular, it has been shown there exist languages A and B such that P A NP A and P B & ne;NP B . The fact the P NP question relativizes both ways is taken as evidence that answering this question is difficult, because a proof technique that relativizes will not answer the P NP question. Most proof techniques relativize.     One may consider the case where an oracle is chosen randomly from among all possible oracles . It has been shown in this case, that with probability 1, P A & ne;NP A . When a question is true for almost all oracles, it is said to be true for a random oracle . This choice of terminology is justified by the fact random oracles support a statement with probability 0 or 1 only.  This is only weak evidence that P & ne;NP, since a statement may be true for a random oracle but false for ordinary Turing machines; for example, IP A & ne;PSPACE A for a random oracle A but ": null
     },
     {
-        "IP": "ip"
+        "IP": "Ip"
     },
     {
-        " PSPACE": "pspace"
+        " PSPACE": "Pspace"
     },
     {
         " .       A machine with an oracle for the ": null
     },
     {
-        "halting problem": "halting problem"
+        "halting problem": "Halting Problem"
     },
     {
         " can determine whether particular Turing machines will halt on particular inputs, but they cannot determine, in general, whether machines equivalent to themselves will halt. This creates a hierarchy of machines, each with a more powerful halting oracle and an even harder halting problem.   This hierarchy of machines can be used to define the  arithmetical hierarchy  .          In ": null
     },
     {
-        "cryptography": "cryptography"
+        "cryptography": "Cryptography"
     },
     {
         ", oracles are used to make arguments for the security of cryptographic protocols where a ": null
     },
     {
-        "hash function": "cryptographic hash function"
+        "hash function": "Cryptographic Hash Function"
     },
     {
         " is used. A ": null
     },
     {
-        "security reduction": "provable security"
+        "security reduction": "Provable Security"
     },
     {
         " for the protocol is given in the case where, instead of a hash function, a ": null
     },
     {
-        "random oracle": "random oracle"
+        "random oracle": "Random Oracle"
     }
 ]

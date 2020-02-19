@@ -3,193 +3,193 @@
         "In ": null
     },
     {
-        "statistics": "statistics"
+        "statistics": "Statistics"
     },
     {
         ", the Kolmogorov–Smirnov test  is a ": null
     },
     {
-        "nonparametric test": "nonparametric statistics"
+        "nonparametric test": "Nonparametric Statistics"
     },
     {
         " of the equality of continuous , one-dimensional ": null
     },
     {
-        "probability distributions": "probability distribution"
+        "probability distributions": "Probability Distribution"
     },
     {
         "that can be used to compare a ": null
     },
     {
-        "sample": "random sample"
+        "sample": "Random Sample"
     },
     {
         " with a reference probability distribution , or to compare two samples . It is named after ": null
     },
     {
-        "Andrey Kolmogorov": "andrey kolmogorov"
+        "Andrey Kolmogorov": "Andrey Kolmogorov"
     },
     {
         " and ": null
     },
     {
-        "Nikolai Smirnov": "nikolai smirnov"
+        "Nikolai Smirnov": "Nikolai Smirnov"
     },
     {
         ".     The Kolmogorov–Smirnov statistic quantifies a ": null
     },
     {
-        "distance": "metric"
+        "distance": "Metric"
     },
     {
         " between the ": null
     },
     {
-        "empirical distribution function": "empirical distribution function"
+        "empirical distribution function": "Empirical Distribution Function"
     },
     {
         " of the sample and the ": null
     },
     {
-        "cumulative distribution function": "cumulative distribution function"
+        "cumulative distribution function": "Cumulative Distribution Function"
     },
     {
         " of the reference distribution, or between the empirical distribution functions of two samples. The ": null
     },
     {
-        "null distribution": "null distribution"
+        "null distribution": "Null Distribution"
     },
     {
         " of this statistic is calculated under the ": null
     },
     {
-        "null hypothesis": "null hypothesis"
+        "null hypothesis": "Null Hypothesis"
     },
     {
         " that the sample is drawn from the reference distribution or that the samples are drawn from the same distribution . In the one-sample case, the distribution considered under the null hypothesis may be continuous , purely discrete or mixed . In the two-sample case , the distribution considered under the null hypothesis is a continuous distribution but is otherwise unrestricted.     The two-sample K–S test is one of the most useful and general nonparametric methods for comparing two samples, as it is sensitive to differences in both location and shape of the empirical cumulative distribution functions of the two samples.     The Kolmogorov–Smirnov test can be modified to serve as a ": null
     },
     {
-        "goodness of fit": "goodness of fit"
+        "goodness of fit": "Goodness Of Fit"
     },
     {
         " test. In the special case of testing for ": null
     },
     {
-        "normality": "normal distribution"
+        "normality": "Normal Distribution"
     },
     {
         " of the distribution, samples are standardized and compared with a standard normal distribution. This is equivalent to setting the mean and variance of the reference distribution equal to the sample estimates, and it is known that using these to define the specific reference distribution changes the null distribution of the test statistic . Various studies have found that, even in this corrected form, the test is less powerful for testing normality than the ": null
     },
     {
-        "Shapiro–Wilk test": "shapiro–wilk test"
+        "Shapiro–Wilk test": "Shapiro–Wilk Test"
     },
     {
         " or ": null
     },
     {
-        "Anderson–Darling test": "anderson–darling test"
+        "Anderson–Darling test": "Anderson–Darling Test"
     },
     {
         ".  However, these other tests have their own disadvantages. For instance the Shapiro–Wilk test is known not to work well in samples with many identical values.       The ": null
     },
     {
-        "empirical distribution function": "empirical distribution function"
+        "empirical distribution function": "Empirical Distribution Function"
     },
     {
         " F n for n ": null
     },
     {
-        "independent and identically distributed": "independent and identically distributed random variables"
+        "independent and identically distributed": "Independent And Identically Distributed Random Variables"
     },
     {
         " ordered observations X i  is defined as     : F_n\\sum_^n I_     where I_ is the ": null
     },
     {
-        "indicator function": "indicator function"
+        "indicator function": "Indicator Function"
     },
     {
         ", equal to 1 if X_i \\le x and equal to 0 otherwise.     The Kolmogorov–Smirnov ": null
     },
     {
-        "statistic": "statistic"
+        "statistic": "Statistic"
     },
     {
         " for a given ": null
     },
     {
-        "cumulative distribution function": "cumulative distribution function"
+        "cumulative distribution function": "Cumulative Distribution Function"
     },
     {
         " F is     : D_n \\sup_x |F_n-F|     where sup x is the ": null
     },
     {
-        "supremum": "supremum"
+        "supremum": "Supremum"
     },
     {
         " of the set of distances. By the ": null
     },
     {
-        "Glivenko–Cantelli theorem": "glivenko–cantelli theorem"
+        "Glivenko–Cantelli theorem": "Glivenko–Cantelli Theorem"
     },
     {
         ", if the sample comes from distribution F, then D n converges to 0 ": null
     },
     {
-        "almost surely": "almost surely"
+        "almost surely": "Almost Surely"
     },
     {
         " in the limit when n goes to infinity. Kolmogorov strengthened this result, by effectively providing the rate of this convergence . ": null
     },
     {
-        "Donskers theorem": "donskers theorem"
+        "Donskers theorem": "Donskers Theorem"
     },
     {
         " provides a yet stronger result.     In practice, the statistic requires a relatively large number of data points  to properly reject the null hypothesis.       The Kolmogorov distribution is the distribution of the ": null
     },
     {
-        "random variable": "random variable"
+        "random variable": "Random Variable"
     },
     {
         "     : K\\sup_|B|     where B is the ": null
     },
     {
-        "Brownian bridge": "brownian bridge"
+        "Brownian bridge": "Brownian Bridge"
     },
     {
         ". The ": null
     },
     {
-        "cumulative distribution function": "cumulative distribution function"
+        "cumulative distribution function": "Cumulative Distribution Function"
     },
     {
         " of K is given by      : \\operatorname1-2\\sum_^\\infty ^ e^\\frac\\sum_^\\infty e^,     which can also be expressed by the ": null
     },
     {
-        "Jacobi theta function": "jacobi theta function"
+        "Jacobi theta function": "Jacobi Theta Function"
     },
     {
         " \\vartheta_ . Both the form of the Kolmogorov–Smirnov test statistic and its asymptotic distribution under the null hypothesis were published by ": null
     },
     {
-        "Andrey Kolmogorov": "andrey kolmogorov"
+        "Andrey Kolmogorov": "Andrey Kolmogorov"
     },
     {
         ",  while a table of the distribution was published by ": null
     },
     {
-        "Nikolai Smirnov": "nikolai smirnov"
+        "Nikolai Smirnov": "Nikolai Smirnov"
     },
     {
         ".  Recurrence relations for the distribution of the test statistic in finite samples are available.     Under null hypothesis that the sample comes from the hypothesized distribution F,     : \\sqrtD_n\\xrightarrow\\sup_t |B|     ": null
     },
     {
-        "in distribution": "convergence of random variables"
+        "in distribution": "Convergence Of Random Variables"
     },
     {
         ", where B is the ": null
     },
     {
-        "Brownian bridge": "brownian bridge"
+        "Brownian bridge": "Brownian Bridge"
     },
     {
         ".     If F is continuous then under the null hypothesis \\sqrtD_n converges to the Kolmogorov distribution, which does not depend on F. This result may also be known as the Kolmogorov theorem. The accuracy of this limit as an approximation to the exact cdf of K when n is finite is not very impressive: even when n1000 , the corresponding maximum error is about 0.9\\% ; this error increases to 2.6\\% when n100 and to a totally unacceptable 7\\% when n10 . However, a very simple expedient of replacing x by     : x+\\frac+ \\frac     in the argument of the Jacobi theta function reduces these errors to   0.003\\% , 0.027\\% , and 0.27\\% respectively; such accuracy would be usually considered more than adequate for all practical applications.      The goodness-of-fit test or the Kolmogorov–Smirnov test can be constructed by using the critical values of the Kolmogorov distribution. This test is asymptotically valid when n \\to\\infty . It rejects the null hypothesis at level \\alpha if     : \\sqrtD_n /math  sub  /sub math /math  math /math math /math math /math ref nameSL2011  /ref ref  /ref ref nameSL2011/ ref nameDKT2019  /ref ref nameKSgeneral  /ref  ref nameDKT2019/  sub  /sub  ref name Pearson & Hartley  /ref  ref name Shorak & Wellner  /ref  sub /sub sub /sub sub /sub math /math math /math math /math math /math math /math math /math math /math math /math math /math ref nameDKT2019/ ref nameKSgeneral/  code /code code /code code /code ref namearnold-emerson  /ref  code /code ref  /ref  code /code ref  /ref math /math  math /math math /math math /math  math /math  math /math math  /math math /math  sup  /sup ref name Peacock  /ref  /ref   ref ": null

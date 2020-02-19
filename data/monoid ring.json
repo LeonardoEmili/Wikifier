@@ -3,91 +3,91 @@
         "In ": null
     },
     {
-        "abstract algebra": "abstract algebra"
+        "abstract algebra": "Abstract Algebra"
     },
     {
         ", a monoid ring is a ": null
     },
     {
-        "ring": "ring"
+        "ring": "Ring"
     },
     {
         " constructed from a ring and a ": null
     },
     {
-        "monoid": "monoid"
+        "monoid": "Monoid"
     },
     {
         ", just as a ": null
     },
     {
-        "group ring": "group ring"
+        "group ring": "Group Ring"
     },
     {
         " is constructed from a ring and a ": null
     },
     {
-        "group": "group"
+        "group": "Group"
     },
     {
         ".       Let R be a ring and let G be a monoid. The monoid ring or monoid algebra of G over R, denoted RG or RG, is the set of formal sums \\sum_ r_g g ,   where r_g \\in R for each g \\in G and r g 0 for all but finitely many g, equipped with coefficient-wise addition, and the multiplication in which the elements of R commute with the elements of G. More formally, RG is the set of functions  such that  is finite, equipped with addition of functions, and with multiplication defined by   : \\sum_ \\phi \\psi .   If G is a ": null
     },
     {
-        "group": "group"
+        "group": "Group"
     },
     {
         ", then RG is also called the ": null
     },
     {
-        "group ring": "group ring"
+        "group ring": "Group Ring"
     },
     {
         " of G over R.       Given R and G, there is a ": null
     },
     {
-        "ring homomorphism": "ring homomorphism"
+        "ring homomorphism": "Ring Homomorphism"
     },
     {
         "  sending each r to r1 ,   and a ": null
     },
     {
-        "monoid homomorphism": "monoid homomorphism"
+        "monoid homomorphism": "Monoid Homomorphism"
     },
     {
         "  sending each g to 1g .   We have that α commutes with β for all r in R and g in G.     The universal property of the monoid ring states that given a ring S, a ring homomorphism , and a monoid homomorphism  to the multiplicative monoid of S,   such that α commutes with β for all r in R and g in G, there is a unique ring homomorphism  such that composing α and β with γ produces α and β   .         The augmentation is the ring homomorphism  defined by   : \\eta \\sum_ r_g.     The ": null
     },
     {
-        "kernel": "kernel"
+        "kernel": "Kernel"
     },
     {
         " of  & eta; is called the augmentation ideal. It is a ": null
     },
     {
-        "free": "free module"
+        "free": "Free Module"
     },
     {
         " R-": null
     },
     {
-        "module": "module"
+        "module": "Module"
     },
     {
         " with basis consisting of 1  –  g for all g in G not equal to 1.         Given a ring R and the monoid of ": null
     },
     {
-        "natural numbers": "natural number"
+        "natural numbers": "Natural Number"
     },
     {
         " N , we obtain the ring R : Rx of ": null
     },
     {
-        "polynomials": "polynomial"
+        "polynomials": "Polynomial"
     },
     {
         "over R.   The monoid N n gives the polynomial ring with n variables: RN n : RX 1 , ..., X n .       If G is a ": null
     },
     {
-        "semigroup": "semigroup"
+        "semigroup": "Semigroup"
     },
     {
         ", the same construction yields a semigroup ring RG": null

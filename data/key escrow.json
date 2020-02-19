@@ -3,61 +3,61 @@
         "Key escrow  is an arrangement in which the ": null
     },
     {
-        "keys": "key"
+        "keys": "Key"
     },
     {
         " needed to decrypt ": null
     },
     {
-        "encrypted": "encryption"
+        "encrypted": "Encryption"
     },
     {
         " data are held in ": null
     },
     {
-        "escrow": "escrow"
+        "escrow": "Escrow"
     },
     {
         " so that, under certain circumstances, an authorized ": null
     },
     {
-        "third party": "third-party access"
+        "third party": "Third-Party Access"
     },
     {
         " may gain access to those keys. These third parties may include businesses, who may want access to employees private ": null
     },
     {
-        "Communication": "communication"
+        "Communication": "Communication"
     },
     {
         "s, or ": null
     },
     {
-        "Government": "government"
+        "Government": "Government"
     },
     {
         "s, who may wish to be able to view the contents of encrypted communications.     The technical problem is a largely structural one since access to protected ": null
     },
     {
-        "information": "information"
+        "information": "Information"
     },
     {
         " must be provided only to the intended recipient and at least one third party. The third party should be permitted access only under carefully controlled conditions, as for instance, a ": null
     },
     {
-        "court order": "court order"
+        "court order": "Court Order"
     },
     {
         ". Thus far, no system design has been shown to meet this requirement fully on a technical basis alone. All proposed systems also require correct functioning of some social linkage, as for instance the process of request for access, examination of request for legitimacy , and granting of access by technical personnel charged with access control. All such linkages / controls have serious problems from a system design security perspective. Systems in which the key may not be changed easily are rendered especially vulnerable as the accidental release of the key will result in many devices becoming totally compromised, necessitating an immediate key change or replacement of the system.     On a national level, this is controversial in many countries due to technical mistrust of the security of the escrow arrangement , and to a mistrust of the entire system even if it functions as designed. Thus far, no key escrow system has been designed which meets both objections and nearly all have failed to meet even one.     Key escrow is proactive, anticipating the need for access to keys; a retroactive alternative is ": null
     },
     {
-        "key disclosure law": "key disclosure law"
+        "key disclosure law": "Key Disclosure Law"
     },
     {
         ", where users are required to surrender keys upon demand by law enforcement, or else face legal penalties. Key disclosure law avoids some of the technical issues and risks of key escrow systems, but also introduces new risks like loss of keys and legal issues such as involuntary ": null
     },
     {
-        "self-incrimination": "self-incrimination"
+        "self-incrimination": "Self-Incrimination"
     },
     {
         ". The ambiguous term key recovery": null

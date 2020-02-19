@@ -3,249 +3,249 @@
         "           An electronic mixer is a device that combines two or more electrical or ": null
     },
     {
-        "electronic": "electronics"
+        "electronic": "Electronics"
     },
     {
-        " signals": "signal"
+        " signals": "Signal"
     },
     {
         " into one or two composite output signals. There are two basic circuits that both use the term mixer, but they are very different types of circuits: additive mixers and multiplicative mixers. Additive mixers are also known as analog adders to distinguish from the related ": null
     },
     {
-        "digital adder circuits": "adder"
+        "digital adder circuits": "Adder"
     },
     {
         ".     Simple additive mixers use ": null
     },
     {
-        "Kirchhoffs circuit laws": "kirchhoffs circuit laws"
+        "Kirchhoffs circuit laws": "Kirchhoffs Circuit Laws"
     },
     {
         " to add the currents of two or more signals together, and this terminology is only used in the realm of ": null
     },
     {
-        "audio electronics": "audio electronics"
+        "audio electronics": "Audio Electronics"
     },
     {
         " where ": null
     },
     {
-        "audio mixers": "audio mixer"
+        "audio mixers": "Audio Mixer"
     },
     {
         "are used to add together ": null
     },
     {
-        "audio signals": "audio signal"
+        "audio signals": "Audio Signal"
     },
     {
         " such as ": null
     },
     {
-        "voice": "human voice"
+        "voice": "Human Voice"
     },
     {
         " signals, ": null
     },
     {
-        "music": "music"
+        "music": "Music"
     },
     {
         " signals, and ": null
     },
     {
-        "sound effects": "sound effect"
+        "sound effects": "Sound Effect"
     },
     {
         ".     Multiplicative mixers multiply together two time-varying input signals ": null
     },
     {
-        "instantaneous": "instantaneous"
+        "instantaneous": "Instantaneous"
     },
     {
         "ly . If the two input signals are both ": null
     },
     {
-        "sinusoids": "sine wave"
+        "sinusoids": "Sine Wave"
     },
     {
         "of specified ": null
     },
     {
-        "frequencies": "frequency"
+        "frequencies": "Frequency"
     },
     {
         " f 1 and f 2 , then the output of the mixer will contain two new sinusoids that have the sum f 1 + f 2 frequency and the difference frequency ": null
     },
     {
-        "absolute value": "absolute value"
+        "absolute value": "Absolute Value"
     },
     {
         "    Additive mixers ": null
     },
     {
-        "add two or more signals": "superposition principle"
+        "add two or more signals": "Superposition Principle"
     },
     {
         ", giving out a composite signal that contains the frequency components of each of the source signals. The simplest additive mixers are resistor networks, and thus purely ": null
     },
     {
-        "passive": "passivity"
+        "passive": "Passivity"
     },
     {
         ", while more complex ": null
     },
     {
-        "matrix mixers": "matrix mixer"
+        "matrix mixers": "Matrix Mixer"
     },
     {
         "employ ": null
     },
     {
-        "active": "passivity"
+        "active": "Passivity"
     },
     {
         " components such as ": null
     },
     {
-        "buffer amplifiers": "buffer amplifier"
+        "buffer amplifiers": "Buffer Amplifier"
     },
     {
         "for ": null
     },
     {
-        "impedance matching": "impedance matching"
+        "impedance matching": "Impedance Matching"
     },
     {
         " and better isolation.            An ideal multiplicative mixer produces an output signal equal to the product of the two input signals. In communications, a multiplicative mixer is often used together with an ": null
     },
     {
-        "oscillator": "electronic oscillator"
+        "oscillator": "Electronic Oscillator"
     },
     {
         " to modulate signal frequencies. A multiplicative mixer can be coupled with a filter to either up-convert or down-convert an input signal frequency, but they are more commonly used to down-convert to a lower frequency to allow for simpler filter designs, as done in ": null
     },
     {
-        "superheterodyne receiver": "superheterodyne receiver"
+        "superheterodyne receiver": "Superheterodyne Receiver"
     },
     {
         "s. In many typical circuits, the single output signal actually contains multiple waveforms, namely those at the sum and difference of the two input frequencies and harmonic waveforms. The output signal may be obtained by removing the other signal components with a filter.í            The received signal can be represented as     : E_\\mathrm \\cos\\,     and that of the local oscillator can be represented as     : E_\\mathrm \\cos.\\,     For simplicity, assume that the output I of the detector is proportional to the square of the amplitude:   : I\\propto \\left^2     : \\frac\\left     :: + \\frac     :: + E_\\mathrmE_\\mathrm \\left     : \\underbrace_+\\underbrace_     :: + \\underbrace_.       The output has high frequency and constant components. In heterodyne detection, the high frequency components and usually the constant components are filtered out, leaving the intermediate frequency at \\omega_\\mathrm-\\omega_\\mathrm . The amplitude of this last component is proportional to the amplitude of the signal radiation. With appropriate ": null
     },
     {
-        "signal analysis": "signal analysis"
+        "signal analysis": "Signal Analysis"
     },
     {
         " the phase of the signal can be recovered as well.     If \\omega_\\mathrm is equal to \\omega_\\mathrm then the beat component is a recovered version of the original signal, with the amplitude equal to the product of E_\\mathrm and E_\\mathrm ; that is, the received signal is amplified by mixing with the local oscillator. This is the basis for a ": null
     },
     {
-        "Direct conversion receiver": "direct conversion receiver"
+        "Direct conversion receiver": "Direct Conversion Receiver"
     },
     {
         ".       Multiplicative mixers have been implemented in many ways. The most popular are ": null
     },
     {
-        "Gilbert cell": "gilbert cell"
+        "Gilbert cell": "Gilbert Cell"
     },
     {
         " mixers, ": null
     },
     {
-        "diode": "diode"
+        "diode": "Diode"
     },
     {
         " mixers, diode ring mixers  and switching mixers. Diode mixers take advantage of the non-linearity of diode devices to produce the desired multiplication in the squared term. They are very inefficient as most of the power output is in other unwanted terms which need filtering out. Inexpensive AM radios still use diode mixers.     Electronic mixers are usually made with ": null
     },
     {
-        "transistors": "transistor"
+        "transistors": "Transistor"
     },
     {
         "and/or ": null
     },
     {
-        "diodes": "diode"
+        "diodes": "Diode"
     },
     {
         "arranged in a ": null
     },
     {
-        "balanced circuit": "balanced circuit"
+        "balanced circuit": "Balanced Circuit"
     },
     {
         " or even a double-balanced circuit. They are readily manufactured as ": null
     },
     {
-        "monolithic integrated circuits": "monolithic integrated circuit"
+        "monolithic integrated circuits": "Monolithic Integrated Circuit"
     },
     {
         "or ": null
     },
     {
-        "hybrid integrated circuit": "hybrid integrated circuit"
+        "hybrid integrated circuit": "Hybrid Integrated Circuit"
     },
     {
         "s. They are designed for a wide variety of frequency ranges, and they are ": null
     },
     {
-        "mass-produced": "mass production"
+        "mass-produced": "Mass Production"
     },
     {
         " to tight tolerances by the hundreds of thousands, making them relatively cheap.     Double-balanced mixers are very widely used in ": null
     },
     {
-        "microwave communication": "microwave communication"
+        "microwave communication": "Microwave Communication"
     },
     {
         "s, ": null
     },
     {
-        "satellite communication": "satellite communication"
+        "satellite communication": "Satellite Communication"
     },
     {
         "s, ": null
     },
     {
-        "ultrahigh frequency": "ultrahigh frequency"
+        "ultrahigh frequency": "Ultrahigh Frequency"
     },
     {
         " communications ": null
     },
     {
-        "transmitter": "transmitter"
+        "transmitter": "Transmitter"
     },
     {
         "s, ": null
     },
     {
-        "radio receivers": "receiver"
+        "radio receivers": "Receiver"
     },
     {
         ", and ": null
     },
     {
-        "radar system": "radar system"
+        "radar system": "Radar System"
     },
     {
         "s.     Gilbert cell mixers are an arrangement of transistors that multiplies the two signals.     Switching mixers use arrays of ": null
     },
     {
-        "field-effect transistors": "field-effect transistor"
+        "field-effect transistors": "Field-Effect Transistor"
     },
     {
         "or ": null
     },
     {
-        "vacuum tube": "vacuum tube"
+        "vacuum tube": "Vacuum Tube"
     },
     {
         "s. These are used as electronic switches, to alternate the signal direction. They are controlled by the signal being mixed. They are especially popular with digitally controlled radios. Switching mixers pass more power and usually insert less distortion than Gilbert cell mixers.                ": null
     },
     {
-        "da:Lydmikser": "da:lydmikser"
+        "da:Lydmikser": "Da:Lydmikser"
     },
     {
-        "   ja:ミキサー": "ja:ミキサー"
+        "   ja:ミキサー": "Ja:ミキサー"
     },
     {
-        "   pl:Mieszacz": "pl:mieszacz"
+        "   pl:Mieszacz": "Pl:Mieszacz"
     }
 ]

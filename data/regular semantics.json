@@ -3,81 +3,81 @@
         "Regular semantics is a ": null
     },
     {
-        "computing": "computing"
+        "computing": "Computing"
     },
     {
         " term which describes one type of ": null
     },
     {
-        "guarantee": "guarantee"
+        "guarantee": "Guarantee"
     },
     {
         " provided by a data register shared by several ": null
     },
     {
-        "processors": "processors"
+        "processors": "Processors"
     },
     {
         " in a ": null
     },
     {
-        "parallel machine": "parallel machine"
+        "parallel machine": "Parallel Machine"
     },
     {
         " or in a ": null
     },
     {
-        "network": "computer network"
+        "network": "Computer Network"
     },
     {
         " of computers working together. Regular semantics are defined for a ": null
     },
     {
-        "variable": "variable"
+        "variable": "Variable"
     },
     {
         " with a single writer but multiple readers. These semantics are stronger than ": null
     },
     {
-        "safe semantics": "safe semantics"
+        "safe semantics": "Safe Semantics"
     },
     {
         " but weaker than ": null
     },
     {
-        "atomic semantics": "atomic semantics"
+        "atomic semantics": "Atomic Semantics"
     },
     {
         ": they guarantee that there is a ": null
     },
     {
-        "total order": "total order"
+        "total order": "Total Order"
     },
     {
         " to the write operations which is consistent with ": null
     },
     {
-        "real-time": "real-time computing"
+        "real-time": "Real-Time Computing"
     },
     {
         " and that read operations return either the value of the last write completed before the read begins, or that of one of the writes which are concurrent with the read.         Regular semantics are weaker than linearizability.   Consider the example shown below, where the horizontal axis represents time and the arrows represent the interval during which a read or write operation takes place. According to a regular registers definition, the third read should return 3 since the read operation is not concurrent with any write operation. On the other hand, the second read may return 2 or 3, and the first read may return either 5 or 2. The first read could return 3 and the second read could return 2. This behavior would not satisfy atomic semantics. Therefore, regular semantics is a weaker property than an atomic semantics. On the other hand, Lamport proved that a linearizable register may be implemented from registers with ": null
     },
     {
-        "safe semantics": "safe semantics"
+        "safe semantics": "Safe Semantics"
     },
     {
         ", which are weaker than regular registers.                   A single-writer multi-reader ": null
     },
     {
-        "atomic semantics": "atomic semantics"
+        "atomic semantics": "Atomic Semantics"
     },
     {
         " is an SWMR regular register if any of its execution history H satisfies the following property:   r1 and r2 are any two read invocations: ⇒ ¬π →H π     Before we get into the proof,first we should know what does the new/old inversion mean.As it shown in the picture below,by looking at the execution we can see that the only difference between a regular execution and an atomic execution is when a 0 and b 1.In this execution,when we consider the two read invocations R.read → a   followed by R.read → b, our first value is a 0 while the second value is b1. This is actually the main difference between atomacity and regularity.          The theorem above states that a Single writer multi-reader regular register without new or old inversion   is an atomic register. By looking at the picture we can say that as R.read → a →H R.read → b   and R.write →H R.write, it is not possible to have π R.write and π R.write if the execution is atomic.   For proving the theorem above,first we should prove that the register is safe,next we should show that the register is regular,and then at the end we should show that the register does not allow for new/old inversion which proves the atomicity.   By the definition of the atomic register we know that a Single writer multiple reader atomic register is regular and satisfies the no new/old   inversion property. So,we only need to show that a regular register with no new/old inversion is atomic.     We know that for any two read invocations when the register is regular and there is no new/old inversion   ⇒sn ≤ sn. For any executionthere is a total order which includes the same operation invocations. We can state that S is built as follow:   we start from the total order on the write operations and we will insert the read operation as follow:   first: Read operation is inserted after the associated write operation.Second: If two read operations have the same then first insert the operation which starts first in the execution.   S includes all the operation invocation of M, from which it follows that S and M are equivalent. Since all the operations are ordered based on their sequence number,S is slightly a total order. Furthermore,this total order is an execution of M only adds an order on operations that are overlapping in M. If there is no overlapping between a read and write operations, there is no difference between the regularity and atomicity. Finally, we can state that S is legal since each read operation gets the last written value that comes before it in the total order. Therefore, the corresponding history is linearizable. Since this reasoning does not rely on a particular   history H, it implies that the register is atomic.   Since atomicity is a local property, we can state that a set of SWMR regular registers behave atomically as soon as each of them satisfies the no new/old inversion property.     ": null
     },
     {
-        "Atomic semantics": "atomic semantics"
+        "Atomic semantics": "Atomic Semantics"
     },
     {
-        " Safe semantics": "safe semantics"
+        " Safe semantics": "Safe Semantics"
     }
 ]

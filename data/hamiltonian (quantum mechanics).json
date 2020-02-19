@@ -3,465 +3,465 @@
         "In ": null
     },
     {
-        "quantum mechanics": "quantum mechanics"
+        "quantum mechanics": "Quantum Mechanics"
     },
     {
         ", a Hamiltonian is an ": null
     },
     {
-        "operator": "operator"
+        "operator": "Operator"
     },
     {
         " corresponding to the sum of the ": null
     },
     {
-        "kinetic energies": "kinetic energy"
+        "kinetic energies": "Kinetic Energy"
     },
     {
         " plus the ": null
     },
     {
-        "potential energies": "potential energy"
+        "potential energies": "Potential Energy"
     },
     {
         " for all the particles in the system . It is usually denoted by H , but also \\check or \\hat to highlight its function as an operator. Its ": null
     },
     {
-        "spectrum": "spectrum of an operator"
+        "spectrum": "Spectrum Of An Operator"
     },
     {
         " is the set of possible outcomes when one measures the total energy of a system. Because of its close relation to the time-evolution of a system, it is of fundamental importance in most formulations of quantum theory.     The Hamiltonian is named after ": null
     },
     {
-        "William Rowan Hamilton": "william rowan hamilton"
+        "William Rowan Hamilton": "William Rowan Hamilton"
     },
     {
         ", who created a revolutionary reformulation of ": null
     },
     {
-        "Newtonian mechanics": "newtonian mechanics"
+        "Newtonian mechanics": "Newtonian Mechanics"
     },
     {
         ", now called ": null
     },
     {
-        "Hamiltonian mechanics": "hamiltonian mechanics"
+        "Hamiltonian mechanics": "Hamiltonian Mechanics"
     },
     {
         ", which is also important in quantum physics.              The Hamiltonian is the sum of the kinetic energies of all the particles, plus the potential energy of the particles associated with the system. The expression of the Hamiltonian can take different forms and simplifications taken into account the concrete characteristics of the system under analysis: single or several particles in the system; interaction between particles; kind of potential energy; time varying potential or time independent one; etc.             By analogy with ": null
     },
     {
-        "classical mechanics": "classical mechanics"
+        "classical mechanics": "Classical Mechanics"
     },
     {
         ", the Hamiltonian is commonly expressed as the sum of ": null
     },
     {
-        "operators": "hermitian operators"
+        "operators": "Hermitian Operators"
     },
     {
         " corresponding to the ": null
     },
     {
-        "kinetic": "kinetic energy"
+        "kinetic": "Kinetic Energy"
     },
     {
         " and ": null
     },
     {
-        "potential": "potential energy"
+        "potential": "Potential Energy"
     },
     {
         " energies of a system in the form     : \\hat \\hat + \\hat,     where   : \\hat V V ,   is the ": null
     },
     {
-        "potential energy": "potential energy"
+        "potential energy": "Potential Energy"
     },
     {
         " operator and   : \\hat \\frac \\frac -\\frac\\nabla^2,   is the ": null
     },
     {
-        "kinetic energy": "kinetic energy"
+        "kinetic energy": "Kinetic Energy"
     },
     {
         " operator in which m is the ": null
     },
     {
-        "mass": "mass"
+        "mass": "Mass"
     },
     {
         " of the particle, the dot denotes the ": null
     },
     {
-        "dot product": "dot product"
+        "dot product": "Dot Product"
     },
     {
         " of vectors, and   : \\hat -i\\hbar\\nabla ,   is the ": null
     },
     {
-        "momentum operator": "momentum operator"
+        "momentum operator": "Momentum Operator"
     },
     {
         " where an \\nabla is the ": null
     },
     {
-        "del": "del"
+        "del": "Del"
     },
     {
-        " operator": "operator"
+        " operator": "Operator"
     },
     {
         ". The ": null
     },
     {
-        "dot product": "dot product"
+        "dot product": "Dot Product"
     },
     {
         " of \\nabla with itself is the ": null
     },
     {
-        "Laplacian": "laplacian"
+        "Laplacian": "Laplacian"
     },
     {
         " \\nabla^2 . In three dimensions using ": null
     },
     {
-        "Cartesian coordinates": "cartesian coordinates"
+        "Cartesian coordinates": "Cartesian Coordinates"
     },
     {
         " the Laplace operator is   : \\nabla^2 \\frac + \\frac + \\frac     Although this is not the technical definition of the ": null
     },
     {
-        "Hamiltonian in classical mechanics": "hamiltonian mechanics"
+        "Hamiltonian in classical mechanics": "Hamiltonian Mechanics"
     },
     {
         ", it is the form it most commonly takes. Combining these together yields the familiar form used in the ": null
     },
     {
-        "Schrödinger equation": "schrödinger equation"
+        "Schrödinger equation": "Schrödinger Equation"
     },
     {
         ":     : \\begin\\hat & \\hat + \\hat \\\\   & \\frac+ V \\\\   & -\\frac\\nabla^2+ V\\end     which allows one to apply the Hamiltonian to systems described by a ": null
     },
     {
-        "wave function": "wave function"
+        "wave function": "Wave Function"
     },
     {
         " \\Psi . This is the approach commonly taken in introductory treatments of quantum mechanics, using the formalism of Schrödingers wave mechanics.     One can also make substitutions to certain variables to fit specific cases, such as some involving electromagnetic fields.         The formalism can be extended to N particles:     : \\hat \\sum_^N \\hat_n + V     where   : V V ,   is the potential energy function, now a function of the spatial configuration of the system and time and;   : \\hat_n \\frac ,   is the kinetic energy operator of particle n , and \\nabla_n is the gradient for particle n , \\nabla_n^2 is the Laplacian for particle using the coordinates:   : \\nabla_n^2 \\frac + \\frac + \\frac,     Combining these yields the Schrödinger Hamiltonian for the N -particle case:     : \\begin \\hat & \\sum_^N \\hat_n + V \\\\   & \\sum_^N \\frac+ V \\\\   & -\\frac\\sum_^N \\frac\\nabla_n^2 + V   \\end     However, complications can arise in the ": null
     },
     {
-        "many-body problem": "many-body problem"
+        "many-body problem": "Many-Body Problem"
     },
     {
         ". Since the potential energy depends on the spatial arrangement of the particles, the kinetic energy will also depend on the spatial configuration to conserve energy. The motion due to any one particle will vary due to the motion of all the other particles in the system. For this reason cross terms for kinetic energy may appear in the Hamiltonian; a mix of the gradients for two particles:     : -\\frac\\nabla_i\\cdot\\nabla_j     where M denotes the mass of the collection of particles resulting in this extra kinetic energy. Terms of this form are known as mass polarization terms, and appear in the Hamiltonian of many electron atoms .     For N interacting particles, i.e. particles which interact mutually and constitute a many-body situation, the potential energy function V is not simply a sum of the separate potentials . The potential energy function can only be written as above: a function of all the spatial positions of each particle.     For non-interacting particles, i.e. particles which do not interact mutually and move independently, the potential of the system is the sum of the separate potential energy for each particle, Quantum Physics of Atoms, Molecules, Solids, Nuclei and Particles , R. Resnick, R. Eisberg, John Wiley & Sons, 1985,  that is     : V \\sum_^N V V + V + \\cdots + V     The general form of the Hamiltonian in this case is:     : \\begin \\hat & -\\frac\\sum_^N \\frac\\nabla_i^2 + \\sum_^N V_i \\\\   & \\sum_^N \\left \\\\   & \\sum_^N \\hat_i   \\end     where the sum is taken over all particles and their corresponding potentials; the result is that the Hamiltonian of the system is the sum of the separate Hamiltonians for each particle. This is an idealized situation - in practice the particles are almost always influenced by some potential, and there are many-body interactions. One illustrative example of a two-body interaction where this form would not apply is for electrostatic potentials due to charged particles, because they interact with each other by Coulomb interaction , as shown below.            The Hamiltonian generates the time evolution of quantum states. If \\left| \\psi \\right\\rangle is the state of the system at time t , then     : H \\left| \\psi \\right\\rangle i \\hbar \\left| \\psi \\right\\rangle.     This equation is the ": null
     },
     {
-        "Schrödinger equation": "schrödinger equation"
+        "Schrödinger equation": "Schrödinger Equation"
     },
     {
         ". It takes the same form as the ": null
     },
     {
-        "Hamilton–Jacobi equation": "hamilton–jacobi equation"
+        "Hamilton–Jacobi equation": "Hamilton–Jacobi Equation"
     },
     {
         ", which is one of the reasons H is also called the Hamiltonian. Given the state at some initial time , we can solve it to obtain the state at any subsequent time. In particular, if H is independent of time, then     : \\left| \\psi \\right\\rangle e^ \\left| \\psi \\right\\rangle.     The ": null
     },
     {
-        "exponential": "matrix exponential"
+        "exponential": "Matrix Exponential"
     },
     {
         " operator on the right hand side of the Schrödinger equation is usually defined by the corresponding ": null
     },
     {
-        "power series": "exponential functionformal definition"
+        "power series": "Exponential Functionformal Definition"
     },
     {
         " in H . One might notice that taking polynomials or power series of ": null
     },
     {
-        "unbounded operators": "unbounded operator"
+        "unbounded operators": "Unbounded Operator"
     },
     {
         "that are not defined everywhere may not make mathematical sense. Rigorously, to take functions of unbounded operators, a ": null
     },
     {
-        "functional calculus": "functional calculus"
+        "functional calculus": "Functional Calculus"
     },
     {
         " is required. In the case of the exponential function, the ": null
     },
     {
-        "continuous": "continuous functional calculus"
+        "continuous": "Continuous Functional Calculus"
     },
     {
         ", or just the ": null
     },
     {
-        "holomorphic functional calculus": "holomorphic functional calculus"
+        "holomorphic functional calculus": "Holomorphic Functional Calculus"
     },
     {
         " suffices. We note again, however, that for common calculations the physicists formulation is quite sufficient.     By the -": null
     },
     {
-        "homomorphism": "homomorphism"
+        "homomorphism": "Homomorphism"
     },
     {
         " property of the functional calculus, the operator     : U e^     is a ": null
     },
     {
-        "unitary operator": "unitary operator"
+        "unitary operator": "Unitary Operator"
     },
     {
         ". It is the  time evolution operator, or  propagator , of a closed quantum system. If the Hamiltonian is time-independent, form a ": null
     },
     {
-        "one parameter unitary group": "stones theorem on one-parameter unitary groups"
+        "one parameter unitary group": "Stones Theorem On One-Parameter Unitary Groups"
     },
     {
         " ; this gives rise to the physical principle of ": null
     },
     {
-        "detailed balance": "detailed balance"
+        "detailed balance": "Detailed Balance"
     },
     {
         ".         However, in the ": null
     },
     {
-        "more general formalism": "bra–ket notation"
+        "more general formalism": "Bra–Ket Notation"
     },
     {
         " of ": null
     },
     {
-        "Dirac": "paul dirac"
+        "Dirac": "Paul Dirac"
     },
     {
         ", the Hamiltonian is typically implemented as an operator on a ": null
     },
     {
-        "Hilbert space": "hilbert space"
+        "Hilbert space": "Hilbert Space"
     },
     {
         " in the following way:     The eigenkets  of H , denoted \\left| a \\right\\rang , provide an ": null
     },
     {
-        "orthonormal basis": "orthonormal basis"
+        "orthonormal basis": "Orthonormal Basis"
     },
     {
         " for the Hilbert space. The spectrum of allowed energy levels of the system is given by the set of eigenvalues, denoted , solving the equation:     : H \\left| a \\right\\rangle E_a \\left| a \\right\\rangle.     Since H is a ": null
     },
     {
-        "Hermitian operator": "hermitian operator"
+        "Hermitian operator": "Hermitian Operator"
     },
     {
         ", the energy is always a ": null
     },
     {
-        "real number": "real number"
+        "real number": "Real Number"
     },
     {
         ".     From a mathematically rigorous point of view, care must be taken with the above assumptions. Operators on infinite-dimensional Hilbert spaces need not have eigenvalues . However, all routine quantum mechanical calculations can be done using the physical formulation.         Following are expressions for the Hamiltonian in a number of situations. Quanta: A handbook of concepts, P.W. Atkins, Oxford University Press, 1974,  Typical ways to classify the expressions are the number of particles, number of dimensions, and the nature of the potential energy function - importantly space and time dependence. Masses are denoted by m , and charges by q .             The particle is not bound by any potential energy, so the potential is zero and this Hamiltonian is the simplest. For one dimension:     : \\hat -\\frac\\frac     and in higher dimensions:     : \\hat -\\frac\\nabla^2         For a particle in a region of constant potential V V_0 , in one dimension, the Hamiltonian is:     : \\hat -\\frac\\frac + V_0     in three dimensions     : \\hat -\\frac\\nabla^2 + V_0     This applies to the elementary ": null
     },
     {
-        "particle in a box": "particle in a box"
+        "particle in a box": "Particle In A Box"
     },
     {
         " problem, and ": null
     },
     {
-        "step potential": "step potential"
+        "step potential": "Step Potential"
     },
     {
         "s.         For a ": null
     },
     {
-        "simple harmonic oscillator": "simple harmonic oscillator"
+        "simple harmonic oscillator": "Simple Harmonic Oscillator"
     },
     {
         " in one dimension, the potential varies with position , according to:     : V \\fracx^2 \\fracx^2     where the ": null
     },
     {
-        "angular frequency": "angular frequency"
+        "angular frequency": "Angular Frequency"
     },
     {
         "  \\omega , effective ": null
     },
     {
-        "spring constant": "spring constant"
+        "spring constant": "Spring Constant"
     },
     {
         " k , and mass m of the oscillator satisfy:     : \\omega^2 \\frac     so the Hamiltonian is:     : \\hat -\\frac\\frac + \\fracx^2     For three dimensions, this becomes     : \\hat -\\frac\\nabla^2 + \\frac r^2     where the three-dimensional position vector \\mathbf using cartesian coordinates is , its magnitude is     : r^2 \\mathbf\\cdot\\mathbf |\\mathbf|^2 x^2+y^2+z^2     Writing the Hamiltonian out in full shows it is simply the sum of the one-dimensional Hamiltonians in each direction:     : \\begin \\hat & -\\frac\\left + \\frac \\\\   & \\left + \\left + \\left   \\end         For a ": null
     },
     {
-        "rigid rotor": "rigid rotor"
+        "rigid rotor": "Rigid Rotor"
     },
     {
         " – i.e. system of particles which can rotate freely about any axes, not bound in any potential , Hamiltonian is:     : \\hat -\\frac\\hat_x^2 -\\frac\\hat_y^2 -\\frac\\hat_z^2     where I_ , I_ , and I_ are the ": null
     },
     {
-        "moment of inertia": "moment of inertia"
+        "moment of inertia": "Moment Of Inertia"
     },
     {
         " components , and \\hat_x \\,\\! , \\hat_y \\,\\! and \\hat_z \\,\\! are the total ": null
     },
     {
-        "angular momentum": "angular momentum"
+        "angular momentum": "Angular Momentum"
     },
     {
         " operators , about the x , y , and z axes respectively.         The ": null
     },
     {
-        "Coulomb potential energy": "coulomb potential energy"
+        "Coulomb potential energy": "Coulomb Potential Energy"
     },
     {
         " for two point charges q_1 and q_2 , in three dimensions, is :     : V \\frac     However, this is only the potential for one point charge due to another. If there are many charged particles, each charge has a potential energy due to every other point charge . For N charges, the potential energy of charge q_j due to all other charges is : Electromagnetism , I.S. Grant, W.R. Phillips, Manchester Physics Series, 2008      : V_j \\frac\\sum_ q_i \\phi\\frac\\sum_ \\frac     where \\phi is the electrostatic potential of charge q_j at \\mathbf_i . The total potential of the system is then the sum over j :     : V \\frac\\sum_^N\\sum_ \\frac     so the Hamiltonian is:     : \\begin\\hat & -\\frac\\sum_^N\\frac\\nabla_j^2 + \\frac\\sum_^N\\sum_ \\frac \\\\   & \\sum_^N \\left \\\\   \\end         For an ": null
     },
     {
-        "electric dipole moment": "electric dipole moment"
+        "electric dipole moment": "Electric Dipole Moment"
     },
     {
         " \\mathbf constituting charges of magnitude q , in a uniform, ": null
     },
     {
-        "electrostatic field": "electrostatic field"
+        "electrostatic field": "Electrostatic Field"
     },
     {
         " \\mathbf , positioned in one place, the potential is:     : V -\\mathbf\\cdot\\mathbf     the dipole moment itself is the operator     : \\mathbf q\\mathbf     Since the particle is stationary, there is no translational kinetic energy of the dipole, so the Hamiltonian of the dipole is just the potential energy:     : \\hat -\\mathbf\\cdot\\mathbf -q\\mathbf\\cdot\\mathbf         For a magnetic dipole moment \\boldsymbol in a uniform, magnetostatic field \\mathbf , positioned in one place, the potential is:     : V -\\boldsymbol\\cdot\\mathbf     Since the particle is stationary, there is no translational kinetic energy of the dipole, so the Hamiltonian of the dipole is just the potential energy:     : \\hat -\\boldsymbol\\cdot\\mathbf     For a ": null
     },
     {
-        "Spin-½": "spin-½"
+        "Spin-½": "Spin-½"
     },
     {
         " particle, the corresponding spin magnetic moment is: Physics of Atoms and Molecules, B.H. Bransden, C.J.Joachain, Longman, 1983,      : \\boldsymbol_S \\frac \\mathbf     where g_s is the spin ": null
     },
     {
-        "gyromagnetic ratio": "gyromagnetic ratio"
+        "gyromagnetic ratio": "Gyromagnetic Ratio"
     },
     {
         " , e is the electron charge, \\mathbf is the ": null
     },
     {
-        "spin operator": "spin pauli matrices and spin operators"
+        "spin operator": "Spin Pauli Matrices And Spin Operators"
     },
     {
         " vector, whose components are the ": null
     },
     {
-        "Pauli matrices": "pauli matrices"
+        "Pauli matrices": "Pauli Matrices"
     },
     {
         ", hence     : \\hat \\frac \\mathbf \\cdot\\mathbf         For a particle with mass m and charge q in an electromagnetic field, described by the ": null
     },
     {
-        "scalar potential": "scalar potential"
+        "scalar potential": "Scalar Potential"
     },
     {
         " \\phi and ": null
     },
     {
-        "vector potential": "vector potential"
+        "vector potential": "Vector Potential"
     },
     {
         " \\mathbf , there are two parts to the Hamiltonian to substitute for. The canonical momentum operator \\mathbf , which includes a contribution from the \\mathbf field and fulfils the ": null
     },
     {
-        "canonical commutation relation": "canonical commutation relation"
+        "canonical commutation relation": "Canonical Commutation Relation"
     },
     {
         ", must be quantized;     : \\mathbf \\mathbf + q\\mathbf ,     where \\mathbf is the ": null
     },
     {
-        "kinetic momentum": "kinetic momentum"
+        "kinetic momentum": "Kinetic Momentum"
     },
     {
         " operator. The quantization prescription reads     : \\mathbf -i\\hbar\\nabla ,     so the corresponding kinetic energy operator is     : \\hat \\frac \\frac \\left ^2     and the potential energy, which is due to the \\phi field, is given by     : \\hat q\\phi .     Casting all of these into the Hamiltonian gives     : \\hat \\frac \\left ^2 + q\\phi .         In many systems, two or more energy eigenstates have the same energy. A simple example of this is a free particle, whose energy eigenstates have wavefunctions that are propagating plane waves. The energy of each of these plane waves is inversely proportional to the square of its ": null
     },
     {
-        "wavelength": "wavelength"
+        "wavelength": "Wavelength"
     },
     {
         ". A wave propagating in the x direction is a different state from one propagating in the y direction, but if they have the same wavelength, then their energies will be the same. When this happens, the states are said to be degenerate.     It turns out that ": null
     },
     {
-        "degeneracy": "degenerate energy levels"
+        "degeneracy": "Degenerate Energy Levels"
     },
     {
         " occurs whenever a nontrivial ": null
     },
     {
-        "unitary operator": "unitary matrix"
+        "unitary operator": "Unitary Matrix"
     },
     {
         " U ": null
     },
     {
-        "commutes": "commutation relation"
+        "commutes": "Commutation Relation"
     },
     {
         " with the Hamiltonian. To see this, suppose that |a\\rang is an energy eigenket. Then U|a\\rang is an energy eigenket with the same eigenvalue, since     : UH |a\\rangle U E_a|a\\rangle E_a H \\; .     Since U is nontrivial, at least one pair of |a\\rang and U|a\\rang must represent distinct states. Therefore, H has at least one pair of degenerate energy eigenkets. In the case of the free particle, the unitary operator which produces the symmetry is the ": null
     },
     {
-        "rotation operator": "rotation operator"
+        "rotation operator": "Rotation Operator"
     },
     {
         ", which rotates the wavefunctions by some angle while otherwise preserving their shape.     The existence of a symmetry operator implies the existence of a ": null
     },
     {
-        "conserved": "conservation law"
+        "conserved": "Conservation Law"
     },
     {
         " observable. Let G be the Hermitian generator of U :     : U I - i \\varepsilon G + O \\,     It is straightforward to show that if U commutes with H , then so does G :     : 0 \\,     Therefore,     :   \\frac \\langle\\psi|G|\\psi\\rangle   \\frac \\langle\\psi| \\psi\\rangle   0.       In obtaining this result, we have used the Schrödinger equation, as well as its ": null
     },
     {
-        "dual": "bra–ket notation"
+        "dual": "Bra–Ket Notation"
     },
     {
         ",     : \\langle\\psi |H - i \\hbar \\langle\\psi|.     Thus, the ": null
     },
     {
-        "expected value": "expected value"
+        "expected value": "Expected Value"
     },
     {
         " of the observable G is conserved for any state of the system. In the case of the free particle, the conserved quantity is the ": null
     },
     {
-        "angular momentum": "angular momentum"
+        "angular momentum": "Angular Momentum"
     },
     {
         ".         ": null
     },
     {
-        "Hamiltons": "william rowan hamilton"
+        "Hamiltons": "William Rowan Hamilton"
     },
     {
         "equations in classical ": null
     },
     {
-        "Hamiltonian mechanics": "hamiltonian mechanics"
+        "Hamiltonian mechanics": "Hamiltonian Mechanics"
     },
     {
         " have a direct analogy in quantum mechanics. Suppose we have a set of basis states \\left\\ , which need not necessarily be eigenstates of the energy. For simplicity, we assume that they are discrete, and that they are orthonormal, i.e.,     : \\langle n | n \\rangle \\delta_     Note that these basis states are assumed to be independent of time. We will assume that the Hamiltonian is also independent of time.     The instantaneous state of the system at time t , \\left| \\psi\\left \\right\\rangle , can be expanded in terms of these basis states:     : |\\psi \\rangle \\sum_ a_n |n\\rangle     where     : a_n \\langle n | \\psi \\rangle.     The coefficients a_n are ": null
     },
     {
-        "complex": "complex number"
+        "complex": "Complex Number"
     },
     {
         " variables. We can treat them as coordinates which specify the state of the system, like the position and momentum coordinates which specify a classical system. Like classical coordinates, they are generally not constant in time, and their time dependence gives rise to the time dependence of the system as a whole.     The expectation value of the Hamiltonian of this state, which is also the mean energy, is     : \\langle H \\rangle \\ \\stackrel\\ \\langle\\psi|H|\\psi\\rangle   \\sum_ a_^ a_n \\langle n|H|n \\rangle     where the last step was obtained by expanding \\left| \\psi\\left \\right\\rangle in terms of the basis states.     Each a_n actually corresponds to two independent degrees of freedom, since the variable has a real part and an imaginary part. We now perform the following trick: instead of using the real and imaginary parts as the independent variables, we use a_n and its ": null
     },
     {
-        "complex conjugate": "complex conjugate"
+        "complex conjugate": "Complex Conjugate"
     },
     {
         " a_n^ . With this choice of independent variables, we can calculate the ": null
     },
     {
-        "partial derivative": "partial derivative"
+        "partial derivative": "Partial Derivative"
     },
     {
         "     : \\frac   \\sum_ a_n \\langle n|H|n \\rangle   \\langle n|H|\\psi\\rangle       By applying ": null
     },
     {
-        "Schrödingers equation": "schrödingers equation"
+        "Schrödingers equation": "Schrödingers Equation"
     }
 ]

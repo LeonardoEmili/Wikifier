@@ -3,208 +3,208 @@
         "The Data Encryption Standard  is a ": null
     },
     {
-        "symmetric-key algorithm": "symmetric-key algorithm"
+        "symmetric-key algorithm": "Symmetric-Key Algorithm"
     },
     {
         " for the ": null
     },
     {
-        "encryption": "encryption"
+        "encryption": "Encryption"
     },
     {
         " of electronic data. Although its short key length is of 56 bits, criticized from the beginning, makes it too insecure for most current applications, it was highly influential in the advancement of modern ": null
     },
     {
-        "cryptography": "cryptography"
+        "cryptography": "Cryptography"
     },
     {
         ".     Developed in the early 1970s at ": null
     },
     {
-        "IBM": "ibm"
+        "IBM": "Ibm"
     },
     {
         " and based on an earlier design by ": null
     },
     {
-        "Horst Feistel": "horst feistel"
+        "Horst Feistel": "Horst Feistel"
     },
     {
         ", the algorithm was submitted to the ": null
     },
     {
-        "National Bureau of Standards": "national bureau of standards"
+        "National Bureau of Standards": "National Bureau Of Standards"
     },
     {
         " following the agencys invitation to propose a candidate for the protection of sensitive, unclassified electronic government data. In 1976, after consultation with the ": null
     },
     {
-        "National Security Agency": "national security agency"
+        "National Security Agency": "National Security Agency"
     },
     {
         " , the NBS eventually selected a slightly modified version , which was published as an official ": null
     },
     {
-        "Federal Information Processing Standard": "federal information processing standard"
+        "Federal Information Processing Standard": "Federal Information Processing Standard"
     },
     {
         " for the United States in 1977.     The publication of an NSA-approved encryption standard simultaneously resulted in its quick international adoption and widespread academic scrutiny. Controversies arose out of ": null
     },
     {
-        "classified": "classified information"
+        "classified": "Classified Information"
     },
     {
         " design elements, a relatively short ": null
     },
     {
-        "key length": "key length"
+        "key length": "Key Length"
     },
     {
         " of the ": null
     },
     {
-        "symmetric-key": "symmetric-key algorithm"
+        "symmetric-key": "Symmetric-Key Algorithm"
     },
     {
-        " block cipher": "block cipher"
+        " block cipher": "Block Cipher"
     },
     {
         " design, and the involvement of the NSA, nourishing suspicions about a ": null
     },
     {
-        "backdoor": "backdoor"
+        "backdoor": "Backdoor"
     },
     {
         ". Today it is known that the ": null
     },
     {
-        "S-box": "s-box"
+        "S-box": "S-Box"
     },
     {
         "es that had raised those suspicions were in fact designed by the NSA to actually remove a backdoor they secretly knew . However, the NSA also ensured that the key size was drastically reduced such that they could break it by brute force attack .  The intense academic scrutiny the algorithm received over time led to the modern understanding of block ciphers and their ": null
     },
     {
-        "cryptanalysis": "cryptanalysis"
+        "cryptanalysis": "Cryptanalysis"
     },
     {
         ".     DES, as stated above, is insecure. This is mainly due to the ": null
     },
     {
-        "56-bit key size": "56-bit encryption"
+        "56-bit key size": "56-Bit Encryption"
     },
     {
         " being too small. In January 1999, ": null
     },
     {
-        "distributed.net": "distributed.net"
+        "distributed.net": "Distributed.Net"
     },
     {
         " and the ": null
     },
     {
-        "Electronic Frontier Foundation": "electronic frontier foundation"
+        "Electronic Frontier Foundation": "Electronic Frontier Foundation"
     },
     {
         " collaborated to publicly break a DES key in 22 hours and 15 minutes . There are also some analytical results which demonstrate theoretical weaknesses in the cipher, although they are infeasible to mount in practice. The algorithm is believed to be practically secure in the form of ": null
     },
     {
-        "Triple DES": "triple des"
+        "Triple DES": "Triple Des"
     },
     {
         ", although there are theoretical attacks. This cipher has been superseded by the ": null
     },
     {
-        "Advanced Encryption Standard": "advanced encryption standard"
+        "Advanced Encryption Standard": "Advanced Encryption Standard"
     },
     {
         " . Furthermore, DES has been withdrawn as a standard by the ": null
     },
     {
-        "National Institute of Standards and Technology": "national institute of standards and technology"
+        "National Institute of Standards and Technology": "National Institute Of Standards And Technology"
     },
     {
         ".     Some documentation makes a distinction between DES as a standard and as an algorithm, referring to the algorithm as the DEA .       The origins of DES go back to the early 1970s. In 1972, after concluding a study on the US governments ": null
     },
     {
-        "computer security": "computer security"
+        "computer security": "Computer Security"
     },
     {
         " needs, the US standards body NBS —now named ": null
     },
     {
-        "NIST": "nist"
+        "NIST": "Nist"
     },
     {
         " —identified a need for a government-wide standard for encrypting unclassified, sensitive information. HSM": null
     },
     {
-        "ph": "ph"
+        "ph": "Ph"
     },
     {
         "one of the designers of DESrevised as FIPS-46-1FIPS-46-2FIPS-46-3see belowAESToday X3 is known as ": null
     },
     {
-        "INCITS": "incits"
+        "INCITS": "Incits"
     },
     {
         " and ANSI X3.92 as ANSI ": null
     },
     {
-        "INCITS": "incits"
+        "INCITS": "Incits"
     },
     {
         " 92now known as ANSI ": null
     },
     {
-        "INCITS": "incits"
+        "INCITS": "Incits"
     },
     {
         " 92-1981as a component of ": null
     },
     {
-        "TDEA": "tdea"
+        "TDEA": "Tdea"
     },
     {
         "that is, trying to crack 1996 ": null
     },
     {
-        "yptograp": "yptograp"
+        "yptograp": "Yptograp"
     },
     {
-        "yptograp": "yptograp"
+        "yptograp": "Yptograp"
     },
     {
         "Now, known as ANSI ": null
     },
     {
-        "INCITS": "incits"
+        "INCITS": "Incits"
     },
     {
         " 92-1981This has the advantage that the same hardware or software can be used in both directions.IP undoes the action of FP, and vice versaXOR32 bitsF-function": null
     },
     {
-        "box": "box"
+        "box": "Box"
     },
     {
-        "box": "box"
+        "box": "Box"
     },
     {
-        "box": "box"
+        "box": "Box"
     },
     {
-        "box": "box"
+        "box": "Box"
     },
     {
-        "box": "box"
+        "box": "Box"
     },
     {
-        "box": "box"
+        "box": "Box"
     },
     {
-        "box": "box"
+        "box": "Box"
     },
     {
-        "box": "box"
+        "box": "Box"
     },
     {
         "8 6 48 bitsdescribed belowPC-1specified for each roundPC-2denoted by ": null

@@ -3,199 +3,199 @@
         "In ": null
     },
     {
-        "mathematical analysis": "mathematical analysis"
+        "mathematical analysis": "Mathematical Analysis"
     },
     {
         ", the Weierstrass approximation theorem states that every ": null
     },
     {
-        "continuous function": "continuous function"
+        "continuous function": "Continuous Function"
     },
     {
         " defined on a closed ": null
     },
     {
-        "interval": "interval"
+        "interval": "Interval"
     },
     {
         "  can be ": null
     },
     {
-        "uniformly approximated": "uniform convergence"
+        "uniformly approximated": "Uniform Convergence"
     },
     {
         " as closely as desired by a ": null
     },
     {
-        "polynomial": "polynomial"
+        "polynomial": "Polynomial"
     },
     {
         " function. Because polynomials are among the simplest functions, and because computers can directly evaluate polynomials, this theorem has both practical and theoretical relevance, especially in ": null
     },
     {
-        "polynomial interpolation": "polynomial interpolation"
+        "polynomial interpolation": "Polynomial Interpolation"
     },
     {
         ". The original version of this result was established by ": null
     },
     {
-        "Karl Weierstrass": "karl weierstrass"
+        "Karl Weierstrass": "Karl Weierstrass"
     },
     {
         " in ": null
     },
     {
-        "1885": "historical works"
+        "1885": "Historical Works"
     },
     {
         " using the ": null
     },
     {
-        "Weierstrass transform": "weierstrass transform"
+        "Weierstrass transform": "Weierstrass Transform"
     },
     {
         ".     ": null
     },
     {
-        "Marshall H. Stone": "marshall h. stone"
+        "Marshall H. Stone": "Marshall H. Stone"
     },
     {
         " considerably generalized the theorem  and simplified the proof . His result is known as the Stone–Weierstrass theorem. The Stone–Weierstrass theorem generalizes the Weierstrass approximation theorem in two directions both regressive and progressive: instead of the real interval , an arbitrary ": null
     },
     {
-        "compact": "compact space"
+        "compact": "Compact Space"
     },
     {
-        " Hausdorff space": "hausdorff space"
+        " Hausdorff space": "Hausdorff Space"
     },
     {
         "  is considered, and instead of the ": null
     },
     {
-        "algebra": "algebra over a field"
+        "algebra": "Algebra Over A Field"
     },
     {
         " of polynomial functions, approximation with elements from more general subalgebras of  is investigated. The Stone–Weierstrass theorem is a vital result in the study of the algebra of ": null
     },
     {
-        "continuous functions on a compact Hausdorff space": "continuous functions on a compact hausdorff space"
+        "continuous functions on a compact Hausdorff space": "Continuous Functions On A Compact Hausdorff Space"
     },
     {
         ".     Further, there is a generalization of the Stone–Weierstrass theorem to noncompact ": null
     },
     {
-        "Tychonoff space": "tychonoff space"
+        "Tychonoff space": "Tychonoff Space"
     },
     {
         "s, namely, any continuous function on a Tychonoff space is approximated ": null
     },
     {
-        "uniformly on compact sets": "compact-open topology"
+        "uniformly on compact sets": "Compact-Open Topology"
     },
     {
         " by algebras of the type appearing in the Stone–Weierstrass theorem and described below.     A different generalization of Weierstrass original theorem is ": null
     },
     {
-        "Mergelyans theorem": "mergelyans theorem"
+        "Mergelyans theorem": "Mergelyans Theorem"
     },
     {
         ", which generalizes it to functions defined on certain subsets of the ": null
     },
     {
-        "complex plane": "complex plane"
+        "complex plane": "Complex Plane"
     },
     {
         ".       The statement of the approximation theorem as originally discovered by Weierstrass is as follows:     :Weierstrass Approximation Theorem. Suppose  is a continuous real-valued function defined on the real interval . For every , or equivalently, the ": null
     },
     {
-        "supremum norm": "supremum norm"
+        "supremum norm": "Supremum Norm"
     },
     {
         " , there exists a compact set  such that , then there exists a polynomial function  in two variables such that   there exist .      The theorem has many other applications to analysis, including:     ": null
     },
     {
-        "Fourier series": "fourier series"
+        "Fourier series": "Fourier Series"
     },
     {
         ": The set of linear combinations of functions  is dense in , where we identify the endpoints of the interval  to obtain a circle. An important consequence of this is that the  are an ": null
     },
     {
-        "orthonormal basis": "orthonormal basis"
+        "orthonormal basis": "Orthonormal Basis"
     },
     {
         " of the space  of ": null
     },
     {
-        "square-integrable functions": "square-integrable function"
+        "square-integrable functions": "Square-Integrable Function"
     },
     {
         "on .       Slightly more general is the following theorem, where we consider the algebra C of complex-valued continuous functions on the compact space X , again with the topology of uniform convergence. This is a ": null
     },
     {
-        "C-algebra": "c-algebra"
+        "C-algebra": "C-Algebra"
     },
     {
         " with the -operation given by pointwise ": null
     },
     {
-        "complex conjugation": "complex conjugation"
+        "complex conjugation": "Complex Conjugation"
     },
     {
         ".     :Stone–Weierstrass Theorem . Let X be a compact Hausdorff space and let S be a ": null
     },
     {
-        "separating subset": "separating set"
+        "separating subset": "Separating Set"
     },
     {
         " of C . Then the complex ": null
     },
     {
-        "unital": "unital algebra"
+        "unital": "Unital Algebra"
     },
     {
-        " -algebra": "-algebra"
+        " -algebra": "-Algebra"
     },
     {
         " generated by S is dense in C .     The complex unital -algebra generated by S consists of all those functions that can be obtained from the elements of S by throwing in the constant function  and adding them, multiplying them, conjugating them, or multiplying them with complex scalars, and repeating finitely many times.     This theorem implies the real version, because if a sequence of complex-valued functions uniformly approximate a given function f , then the real parts of those functions uniformly approximate the real part of f . As in the real case, an analog of this theorem is true for locally compact Hausdorff spaces.       Following  : consider the algebra  of quaternion-valued continuous functions on the compact space , again with the topology of uniform convergence. If a quaternion q is written in the form q    a  +  ib;+  jc  +  kd then the scalar part a is the real number /4. Likewise being the scalar part of −qi, −qj and −qk : b,c and d are respectively the real numbers /4,   /4 and /4. Then we may state :     :Stone–Weierstrass Theorem . Suppose  is a compact Hausdorff space and  is a subalgebra of  which contains a non-zero constant function. Then  is dense in  if and only if it ": null
     },
     {
-        "separates points": "separating set"
+        "separates points": "Separating Set"
     },
     {
         ".       The space of complex-valued continuous functions on a compact Hausdorff space X i.e. C is the canonical example of a unital ": null
     },
     {
-        "commutative C-algebra": "c-algebracommutative c.2a-algebras"
+        "commutative C-algebra": "C-Algebracommutative C.2A-Algebras"
     },
     {
         " \\mathfrak . The space X may be viewed as the space of pure states on \\mathfrak , with the weak- topology. Following the above cue, a non-commutative extension of the Stone–Weierstrass theorem, which has remain unsolved, is as follows:     :Conjecture. If a unital ": null
     },
     {
-        "C-algebra": "c-algebra"
+        "C-algebra": "C-Algebra"
     },
     {
         " \\mathfrak has a C-subalgebra \\mathfrak which separates the pure states of \\mathfrak , then \\mathfrak \\mathfrak .     In 1960, Jim Glimm proved a weaker version of the above conjecture.     :Stone–Weierstrass theorem .  If a unital C-algebra \\mathfrak has a C-subalgebra \\mathfrak which separates the pure state space of \\mathfrak , then \\mathfrak \\mathfrak .       Let  be a compact Hausdorff space. Stones original proof of the theorem used the idea of ": null
     },
     {
-        "lattices": "lattice"
+        "lattices": "Lattice"
     },
     {
         " in . A subset  of  is called a ": null
     },
     {
-        "lattice": "lattice"
+        "lattice": "Lattice"
     },
     {
         " if for any two elements , the functions also belong to . The lattice version of the Stone–Weierstrass theorem states:     :Stone–Weierstrass Theorem . Suppose  is a compact Hausdorff space with at least two points and  is a lattice in  with the property that for any two distinct elements  and  of  and any two real numbers  and  there exists an element  with  and . Then  is dense in .     The above versions of Stone–Weierstrass can be proven from this version once one realizes that the lattice property can also be formulated using the ": null
     },
     {
-        "absolute value": "absolute value"
+        "absolute value": "Absolute Value"
     },
     {
         "  which in turn can be approximated by polynomials in . A variant of the theorem applies to linear subspaces of  closed under max :     :Stone–Weierstrass Theorem. Suppose  is a compact Hausdorff space and  is a family of functions in  such that   :  separates points.   :  contains the constant function 1.   : If  then  for all constants .   : If , then .   :Then  is dense in .     More precise information is available:     :Suppose  is a compact Hausdorff space with at least two points and  is a lattice in . The function  belongs to the ": null
     },
     {
-        "closure": "closure"
+        "closure": "Closure"
     },
     {
         " of  if and only if for each pair of distinct points x and y in  and for each  and ": null

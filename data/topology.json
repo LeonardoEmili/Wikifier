@@ -3,319 +3,319 @@
         "                In ": null
     },
     {
-        "mathematics": "mathematics"
+        "mathematics": "Mathematics"
     },
     {
         ", topology  is concerned with the properties of a ": null
     },
     {
-        "geometric object": "mathematical object"
+        "geometric object": "Mathematical Object"
     },
     {
         " that are preserved under ": null
     },
     {
-        "continuous": "continuous function"
+        "continuous": "Continuous Function"
     },
     {
-        " deformations": "deformation theory"
+        " deformations": "Deformation Theory"
     },
     {
         ", such as ": null
     },
     {
-        "stretching": "stretch factor"
+        "stretching": "Stretch Factor"
     },
     {
         ", ": null
     },
     {
-        "twisting": "twist"
+        "twisting": "Twist"
     },
     {
         ", ": null
     },
     {
-        "crumpling": "crumpling"
+        "crumpling": "Crumpling"
     },
     {
         " and bending, but not tearing or ": null
     },
     {
-        "gluing": "quotient space"
+        "gluing": "Quotient Space"
     },
     {
         ".     A ": null
     },
     {
-        "topological space": "topological space"
+        "topological space": "Topological Space"
     },
     {
         " is a ": null
     },
     {
-        "set": "set"
+        "set": "Set"
     },
     {
         " endowed with a structure, called a topology, which allows defining continuous deformation of subspaces, and, more generally, all kinds of ": null
     },
     {
-        "continuity": "continuity"
+        "continuity": "Continuity"
     },
     {
         ". ": null
     },
     {
-        "Euclidean space": "euclidean space"
+        "Euclidean space": "Euclidean Space"
     },
     {
         "s, and, more generally, ": null
     },
     {
-        "metric spaces": "metric space"
+        "metric spaces": "Metric Space"
     },
     {
         "are examples of a topological space, as any distance or metric defines a topology. The deformations that are considered in topology are ": null
     },
     {
-        "homeomorphisms": "homeomorphism"
+        "homeomorphisms": "Homeomorphism"
     },
     {
         "and ": null
     },
     {
-        "homotopies": "homotopy"
+        "homotopies": "Homotopy"
     },
     {
         ". A property that is invariant under such deformations is a ": null
     },
     {
-        "topological property": "topological property"
+        "topological property": "Topological Property"
     },
     {
         ". Basic examples of topological properties are: the ": null
     },
     {
-        "dimension": "topological dimension"
+        "dimension": "Topological Dimension"
     },
     {
         ", which allows distinguishing between a ": null
     },
     {
-        "line": "line"
+        "line": "Line"
     },
     {
         " and a ": null
     },
     {
-        "surface": "surface"
+        "surface": "Surface"
     },
     {
         "; ": null
     },
     {
-        "compactness": "compact"
+        "compactness": "Compact"
     },
     {
         ", which allows distinguishing between a line and a ": null
     },
     {
-        "circle": "circle"
+        "circle": "Circle"
     },
     {
         "; ": null
     },
     {
-        "connectedness": "connectedness"
+        "connectedness": "Connectedness"
     },
     {
         ", which allows distinguishing a circle from two non-intersecting circles.     The ideas underlying topology go back to ": null
     },
     {
-        "Gottfried Leibniz": "gottfried leibniz"
+        "Gottfried Leibniz": "Gottfried Leibniz"
     },
     {
         ", who in the 17th century envisioned the geometria situs and analysis situs. ": null
     },
     {
-        "Leonhard Eulers": "leonhard euler"
+        "Leonhard Eulers": "Leonhard Euler"
     },
     {
-        " Seven Bridges of Königsberg": "seven bridges of königsberg"
+        " Seven Bridges of Königsberg": "Seven Bridges Of Königsberg"
     },
     {
         " problem and ": null
     },
     {
-        "polyhedron formula": "euler characteristicpolyhedra"
+        "polyhedron formula": "Euler Characteristicpolyhedra"
     },
     {
         " are arguably the fields first theorems. The term topology was introduced by ": null
     },
     {
-        "Johann Benedict Listing": "johann benedict listing"
+        "Johann Benedict Listing": "Johann Benedict Listing"
     },
     {
         " in the 19th century, although it was not until the first decades of the 20th century that the idea of a topological space was developed.          The motivating insight behind topology is that some geometric problems depend not on the exact shape of the objects involved, but rather on the way they are put together. For example, the square and the circle have many properties in common: they are both one dimensional objects and both separate the plane into two parts, the part inside and the part outside.     In one of the first papers in topology, Leonhard Euler demonstrated that it was impossible to find a route through the town of Königsberg  that would cross each of its seven bridges exactly once. This result did not depend on the lengths of the bridges or on their distance from one another, but only on connectivity properties: which bridges connect to which islands or riverbanks. This Seven Bridges of Königsberg problem led to the branch of mathematics known as ": null
     },
     {
-        "graph theory": "graph theory"
+        "graph theory": "Graph Theory"
     },
     {
         ".          Similarly, the ": null
     },
     {
-        "hairy ball theorem": "hairy ball theorem"
+        "hairy ball theorem": "Hairy Ball Theorem"
     },
     {
         " of algebraic topology says that one cannot comb the hair flat on a hairy ball without creating a ": null
     },
     {
-        "cowlick": "cowlick"
+        "cowlick": "Cowlick"
     },
     {
         ". This fact is immediately convincing to most people, even though they might not recognize the more formal statement of the theorem, that there is no nonvanishing continuous ": null
     },
     {
-        "tangent vector field": "vector field"
+        "tangent vector field": "Vector Field"
     },
     {
         " on the sphere. As with the Bridges of Königsberg, the result does not depend on the shape of the sphere; it applies to any kind of smooth blob, as long as it has no holes.     To deal with these problems that do not rely on the exact shape of the objects, one must be clear about just what properties these problems  rely on. From this need arises the notion of homeomorphism. The impossibility of crossing each bridge just once applies to any arrangement of bridges homeomorphic to those in Königsberg, and the hairy ball theorem applies to any space homeomorphic to a sphere.     Intuitively, two spaces are homeomorphic if one can be deformed into the other without cutting or gluing. A traditional joke is that a topologist cannot distinguish a coffee mug from a doughnut, since a sufficiently pliable doughnut could be reshaped to a coffee cup by creating a dimple and progressively enlarging it, while shrinking the hole into a handle.      Homeomorphism can be considered the most basic ": null
     },
     {
-        "topological equivalence": "homeomorphism"
+        "topological equivalence": "Homeomorphism"
     },
     {
         ". Another is ": null
     },
     {
-        "homotopy equivalence": "homotopy equivalence"
+        "homotopy equivalence": "Homotopy Equivalence"
     },
     {
         ". This is harder to describe without getting technical, but the essential notion is that two objects are homotopy equivalent if they both result from squishing some larger object.        An introductory ": null
     },
     {
-        "exercise": "exercise"
+        "exercise": "Exercise"
     },
     {
         " is to classify the uppercase letters of the ": null
     },
     {
-        "English alphabet": "english alphabet"
+        "English alphabet": "English Alphabet"
     },
     {
         " according to homeomorphism and homotopy equivalence. The result depends on the font used, and on whether the strokes making up the letters have some thickness or are ideal curves with no thickness. The figures here use the ": null
     },
     {
-        "sans-serif": "sans-serif"
+        "sans-serif": "Sans-Serif"
     },
     {
-        " Myriad": "myriad"
+        " Myriad": "Myriad"
     },
     {
         " font and are assumed to consist of ideal curves without thickness. Homotopy equivalence is a coarser relationship than homeomorphism; a homotopy equivalence class can contain several homeomorphism classes. The simple case of homotopy equivalence described above can be used here to show two letters are homotopy equivalent. For example, O fits inside P and the tail of the P can be squished to the hole part.     Homeomorphism classes are:   no holes corresponding with C, G, I, J, L, M, N, S, U, V, W, and Z;   no holes and three tails corresponding with E, F, T, and Y;   no holes and four tails corresponding with X;   one hole and no tail corresponding with D and O;   one hole and one tail corresponding with P and Q;   one hole and two tails corresponding with A and R;   two holes and no tail corresponding with B; and   a bar with four tails corresponding with H and K; the bar on the K is almost too short to see.     Homotopy classes are larger, because the tails can be squished down to a point. They are:   one hole,   two holes, and   no holes.     To classify the letters correctly, we must show that two letters in the same class are equivalent and two letters in different classes are not equivalent. In the case of homeomorphism, this can be done by selecting points and showing their removal disconnects the letters differently. For example, X and Y are not homeomorphic because removing the center point of the X leaves four pieces; whatever point in Y corresponds to this point, its removal can leave at most three pieces. The case of homotopy equivalence is harder and requires a more elaborate argument showing an algebraic invariant, such as the ": null
     },
     {
-        "fundamental group": "fundamental group"
+        "fundamental group": "Fundamental Group"
     },
     {
         ", is different on the supposedly differing classes.     Letter topology has practical relevance in ": null
     },
     {
-        "stencil": "stencil"
+        "stencil": "Stencil"
     },
     {
-        " typography": "typography"
+        " typography": "Typography"
     },
     {
         ". For instance, ": null
     },
     {
-        "Braggadocio": "braggadocio"
+        "Braggadocio": "Braggadocio"
     },
     {
         " font stencils are made of one connected piece of material.            Topology, as a well-defined mathematical discipline, originates in the early part of the twentieth century, but some isolated results can be traced back several centuries.  Among these are certain questions in geometry investigated by ": null
     },
     {
-        "Leonhard Euler": "leonhard euler"
+        "Leonhard Euler": "Leonhard Euler"
     },
     {
         ". His 1736 paper on the ": null
     },
     {
-        "Seven Bridges of Königsberg": "seven bridges of königsberg"
+        "Seven Bridges of Königsberg": "Seven Bridges Of Königsberg"
     },
     {
         " is regarded as one of the first practical applications of topology. On 14 November 1750, Euler wrote to a friend that he had realised the importance of the edges of a ": null
     },
     {
-        "polyhedron": "polyhedron"
+        "polyhedron": "Polyhedron"
     },
     {
         ". This led to his ": null
     },
     {
-        "polyhedron formula": "eulers polyhedron formula"
+        "polyhedron formula": "Eulers Polyhedron Formula"
     },
     {
         ",  . Some authorities regard this analysis as the first theorem, signalling the birth of topology.       Further contributions were made by ": null
     },
     {
-        "Augustin-Louis Cauchy": "augustin-louis cauchy"
+        "Augustin-Louis Cauchy": "Augustin-Louis Cauchy"
     },
     {
         ", ": null
     },
     {
-        "Ludwig Schläfli": "ludwig schläfli"
+        "Ludwig Schläfli": "Ludwig Schläfli"
     },
     {
         ", ": null
     },
     {
-        "Johann Benedict Listing": "johann benedict listing"
+        "Johann Benedict Listing": "Johann Benedict Listing"
     },
     {
         ", ": null
     },
     {
-        "Bernhard Riemann": "bernhard riemann"
+        "Bernhard Riemann": "Bernhard Riemann"
     },
     {
         " and ": null
     },
     {
-        "Enrico Betti": "enrico betti"
+        "Enrico Betti": "Enrico Betti"
     },
     {
         ". Richeson Listing introduced the term Topologie in Vorstudien zur Topologie, written in his native German, in 1847, having used the word for ten years in correspondence before its first appearance in print. Listing, Johann Benedict, Vorstudien zur Topologie , Vandenhoeck und Ruprecht, Göttingen, p.  67, 1848 The English form topology was used in 1883 in Listings obituary in the journal ": null
     },
     {
-        "Nature": "nature"
+        "Nature": "Nature"
     },
     {
         " to distinguish qualitative geometry from the ordinary geometry in which quantitative relations chiefly are treated . Tait, Peter Guthrie, Johann Benedict Listing , Nature 27, 1 February 1883, pp. 316–317 The term topologist in the sense of a specialist in topology was used in 1905 in the magazine  Spectator .     Their work was corrected, consolidated and greatly extended by ": null
     },
     {
-        "Henri Poincaré": "henri poincaré"
+        "Henri Poincaré": "Henri Poincaré"
     },
     {
         ". In 1895, he published his ground-breaking paper on  Analysis Situs , which introduced the concepts now known as ": null
     },
     {
-        "homotopy": "homotopy"
+        "homotopy": "Homotopy"
     },
     {
         " and ": null
     },
     {
-        "homology": "homology"
+        "homology": "Homology"
     },
     {
         ", which are now considered part of ": null
     },
     {
-        "algebraic topology": "algebraic topology"
+        "algebraic topology": "Algebraic Topology"
     },
     {
         ".     ": null

@@ -3,5127 +3,5127 @@
         "The following is a list of algorithm s along with one-line descriptions for each.             ": null
     },
     {
-        "Brents algorithm": "cycle detectionbrents algorithm"
+        "Brents algorithm": "Cycle Detectionbrents Algorithm"
     },
     {
         ": finds a cycle in function value iterations using only two iterators   ": null
     },
     {
-        "Floyds cycle-finding algorithm": "floyds cycle-finding algorithm"
+        "Floyds cycle-finding algorithm": "Floyds Cycle-Finding Algorithm"
     },
     {
         ": finds a cycle in function value iterations   ": null
     },
     {
-        "Gale–Shapley algorithm": "stable marriage problem"
+        "Gale–Shapley algorithm": "Stable Marriage Problem"
     },
     {
         ": solves the stable marriage problem   ": null
     },
     {
-        "Pseudorandom number generators": "pseudorandom number generator"
+        "Pseudorandom number generators": "Pseudorandom Number Generator"
     },
     {
         " :   ": null
     },
     {
-        "ACORN generator": "acorn_"
+        "ACORN generator": "Acorn_"
     },
     {
-        " Blum Blum Shub": "blum blum shub"
+        " Blum Blum Shub": "Blum Blum Shub"
     },
     {
-        " Lagged Fibonacci generator": "lagged fibonacci generator"
+        " Lagged Fibonacci generator": "Lagged Fibonacci Generator"
     },
     {
-        " Linear congruential generator": "linear congruential generator"
+        " Linear congruential generator": "Linear Congruential Generator"
     },
     {
-        " Mersenne Twister": "mersenne twister"
+        " Mersenne Twister": "Mersenne Twister"
     },
     {
-        "        Coloring algorithm": "coloring algorithm"
+        "        Coloring algorithm": "Coloring Algorithm"
     },
     {
         ": Graph coloring algorithm.   ": null
     },
     {
-        "Hopcroft–Karp algorithm": "hopcroft–karp algorithm"
+        "Hopcroft–Karp algorithm": "Hopcroft–Karp Algorithm"
     },
     {
         ": convert a bipartite graph to a ": null
     },
     {
-        "maximum cardinality matching": "maximum cardinality matching"
+        "maximum cardinality matching": "Maximum Cardinality Matching"
     },
     {
-        " Hungarian algorithm": "hungarian algorithm"
+        " Hungarian algorithm": "Hungarian Algorithm"
     },
     {
         ": algorithm for finding a ": null
     },
     {
-        "perfect matching": "perfect matching"
+        "perfect matching": "Perfect Matching"
     },
     {
-        " Prüfer coding": "prüfer sequence"
+        " Prüfer coding": "Prüfer Sequence"
     },
     {
         ": conversion between a labeled tree and its ": null
     },
     {
-        "Prüfer sequence": "prüfer sequence"
+        "Prüfer sequence": "Prüfer Sequence"
     },
     {
-        " Tarjans off-line lowest common ancestors algorithm": "tarjans off-line lowest common ancestors algorithm"
+        " Tarjans off-line lowest common ancestors algorithm": "Tarjans Off-Line Lowest Common Ancestors Algorithm"
     },
     {
         ": compute ": null
     },
     {
-        "lowest common ancestors": "lowest common ancestor"
+        "lowest common ancestors": "Lowest Common Ancestor"
     },
     {
         "for pairs of nodes in a tree   ": null
     },
     {
-        "Topological sort": "topological sorting"
+        "Topological sort": "Topological Sorting"
     },
     {
         ": finds linear order of nodes based on their dependencies.        ": null
     },
     {
-        "Force-based algorithms": "force-based algorithms"
+        "Force-based algorithms": "Force-Based Algorithms"
     },
     {
-        "   Spectral layout": "spectral layout"
+        "   Spectral layout": "Spectral Layout"
     },
     {
-        "        Girvan–Newman algorithm": "girvan–newman algorithm"
+        "        Girvan–Newman algorithm": "Girvan–Newman Algorithm"
     },
     {
         ": detect communities in complex systems   Web link analysis   ": null
     },
     {
-        "Hyperlink-Induced Topic Search": "hyperlink-induced topic search"
+        "Hyperlink-Induced Topic Search": "Hyperlink-Induced Topic Search"
     },
     {
-        "    PageRank": "pagerank"
+        "    PageRank": "Pagerank"
     },
     {
-        " TrustRank": "trustrank"
+        " TrustRank": "Trustrank"
     },
     {
-        "Flow networks": "flow network"
+        "Flow networks": "Flow Network"
     },
     {
-        "  Dinics algorithm": "dinics algorithm"
+        "  Dinics algorithm": "Dinics Algorithm"
     },
     {
         ": is a ": null
     },
     {
-        "strongly polynomial": "strongly polynomial"
+        "strongly polynomial": "Strongly Polynomial"
     },
     {
         " algorithm for computing the ": null
     },
     {
-        "maximum flow": "maximum flow"
+        "maximum flow": "Maximum Flow"
     },
     {
         " in a ": null
     },
     {
-        "flow network": "flow network"
+        "flow network": "Flow Network"
     },
     {
         ".   ": null
     },
     {
-        "Edmonds–Karp algorithm": "edmonds–karp algorithm"
+        "Edmonds–Karp algorithm": "Edmonds–Karp Algorithm"
     },
     {
         ": implementation of Ford–Fulkerson   ": null
     },
     {
-        "Ford–Fulkerson algorithm": "ford–fulkerson algorithm"
+        "Ford–Fulkerson algorithm": "Ford–Fulkerson Algorithm"
     },
     {
         ": computes the ": null
     },
     {
-        "maximum flow": "maximum flow problem"
+        "maximum flow": "Maximum Flow Problem"
     },
     {
         " in a graph   ": null
     },
     {
-        "Kargers algorithm": "kargers algorithm"
+        "Kargers algorithm": "Kargers Algorithm"
     },
     {
         ": a Monte Carlo method to compute the ": null
     },
     {
-        "minimum cut": "minimum cut"
+        "minimum cut": "Minimum Cut"
     },
     {
         " of a connected graph   ": null
     },
     {
-        "Push–relabel algorithm": "push–relabel algorithm"
+        "Push–relabel algorithm": "Push–Relabel Algorithm"
     },
     {
         ": computes a ": null
     },
     {
-        "maximum flow": "maximum flow problem"
+        "maximum flow": "Maximum Flow Problem"
     },
     {
         " in a graph       ": null
     },
     {
-        "Edmonds algorithm": "edmonds algorithm"
+        "Edmonds algorithm": "Edmonds Algorithm"
     },
     {
         " : find maximum or minimum branchings   ": null
     },
     {
-        "Euclidean minimum spanning tree": "euclidean minimum spanning tree"
+        "Euclidean minimum spanning tree": "Euclidean Minimum Spanning Tree"
     },
     {
         ": algorithms for computing the minimum spanning tree of a set of points in the plane   ": null
     },
     {
-        "Euclidean shortest path problem": "euclidean shortest path problem"
+        "Euclidean shortest path problem": "Euclidean Shortest Path Problem"
     },
     {
         ": find the shortest path between two points that does not intersect any obstacle   ": null
     },
     {
-        "Longest path problem": "longest path problem"
+        "Longest path problem": "Longest Path Problem"
     },
     {
         ": find a simple path of maximum length in a given graph   ": null
     },
     {
-        "Minimum spanning tree": "minimum spanning tree"
+        "Minimum spanning tree": "Minimum Spanning Tree"
     },
     {
-        " Borůvkas algorithm": "borůvkas algorithm"
+        " Borůvkas algorithm": "Borůvkas Algorithm"
     },
     {
-        " Kruskals algorithm": "kruskals algorithm"
+        " Kruskals algorithm": "Kruskals Algorithm"
     },
     {
-        " Prims algorithm": "prims algorithm"
+        " Prims algorithm": "Prims Algorithm"
     },
     {
-        " Reverse-delete algorithm": "reverse-delete algorithm"
+        " Reverse-delete algorithm": "Reverse-Delete Algorithm"
     },
     {
-        " Nonblocking minimal spanning switch": "nonblocking minimal spanning switch"
+        " Nonblocking minimal spanning switch": "Nonblocking Minimal Spanning Switch"
     },
     {
         " say, for a ": null
     },
     {
-        "telephone exchange": "telephone exchange"
+        "telephone exchange": "Telephone Exchange"
     },
     {
-        " Shortest path problem": "shortest path problem"
+        " Shortest path problem": "Shortest Path Problem"
     },
     {
-        " Bellman–Ford algorithm": "bellman–ford algorithm"
+        " Bellman–Ford algorithm": "Bellman–Ford Algorithm"
     },
     {
         ": computes ": null
     },
     {
-        "shortest paths": "shortest path problem"
+        "shortest paths": "Shortest Path Problem"
     },
     {
         " in a weighted graph   ": null
     },
     {
-        "Dijkstras algorithm": "dijkstras algorithm"
+        "Dijkstras algorithm": "Dijkstras Algorithm"
     },
     {
         ": computes ": null
     },
     {
-        "shortest paths": "shortest path problem"
+        "shortest paths": "Shortest Path Problem"
     },
     {
         " in a graph with non-negative edge weights   ": null
     },
     {
-        "Floyd–Warshall algorithm": "floyd–warshall algorithm"
+        "Floyd–Warshall algorithm": "Floyd–Warshall Algorithm"
     },
     {
         ": solves the ": null
     },
     {
-        "all pairs shortest path": "all pairs shortest path"
+        "all pairs shortest path": "All Pairs Shortest Path"
     },
     {
         " problem in a weighted, directed graph   ": null
     },
     {
-        "Johnsons algorithm": "johnsons algorithm"
+        "Johnsons algorithm": "Johnsons Algorithm"
     },
     {
         ": All pairs shortest path algorithm in sparse weighted directed graph      ": null
     },
     {
-        "Transitive closure": "transitive closure"
+        "Transitive closure": "Transitive Closure"
     },
     {
         " problem: find the ": null
     },
     {
-        "transitive closure": "transitive closure"
+        "transitive closure": "Transitive Closure"
     },
     {
         " of a given binary relation   ": null
     },
     {
-        "Traveling salesman problem": "traveling salesman problem"
+        "Traveling salesman problem": "Traveling Salesman Problem"
     },
     {
-        " Christofides algorithm": "christofides algorithm"
+        " Christofides algorithm": "Christofides Algorithm"
     },
     {
-        " Nearest neighbour algorithm": "nearest neighbour algorithm"
+        " Nearest neighbour algorithm": "Nearest Neighbour Algorithm"
     },
     {
-        " Warnsdorffs rule": "warnsdorffs rule"
+        " Warnsdorffs rule": "Warnsdorffs Rule"
     },
     {
         ": A heuristic method for solving the ": null
     },
     {
-        "Knights tour": "knights tour"
+        "Knights tour": "Knights Tour"
     },
     {
         " problem.        ": null
     },
     {
-        "A": "a search algorithm"
+        "A": "A Search Algorithm"
     },
     {
         ": special case of best-first search that uses heuristics to improve speed   ": null
     },
     {
-        "B": "b"
+        "B": "B"
     },
     {
         ": a best-first graph search algorithm that finds the least-cost path from a given initial node to any goal node   ": null
     },
     {
-        "Backtracking": "backtracking"
+        "Backtracking": "Backtracking"
     },
     {
         ": abandons partial solutions when they are found not to satisfy a complete solution   ": null
     },
     {
-        "Beam search": "beam search"
+        "Beam search": "Beam Search"
     },
     {
         ": is a heuristic search algorithm that is an optimization of ": null
     },
     {
-        "best-first search": "best-first search"
+        "best-first search": "Best-First Search"
     },
     {
         " that reduces its memory requirement   ": null
     },
     {
-        "Beam stack search": "beam stack search"
+        "Beam stack search": "Beam Stack Search"
     },
     {
         ": integrates backtracking with ": null
     },
     {
-        "beam search": "beam search"
+        "beam search": "Beam Search"
     },
     {
-        " Best-first search": "best-first search"
+        " Best-first search": "Best-First Search"
     },
     {
         ": traverses a graph in the order of likely importance using a ": null
     },
     {
-        "priority queue": "priority queue"
+        "priority queue": "Priority Queue"
     },
     {
-        " Bidirectional search": "bidirectional search"
+        " Bidirectional search": "Bidirectional Search"
     },
     {
         ": find the shortest path from an initial vertex to a goal vertex in a directed graph   ": null
     },
     {
-        "Breadth-first search": "breadth-first search"
+        "Breadth-first search": "Breadth-First Search"
     },
     {
         ": traverses a graph level by level   ": null
     },
     {
-        "Brute-force search": "brute-force search"
+        "Brute-force search": "Brute-Force Search"
     },
     {
         ": An exhaustive and reliable search method, but computationally inefficient in many applications.   ": null
     },
     {
-        "D": "d"
+        "D": "D"
     },
     {
         ": an ": null
     },
     {
-        "incremental heuristic search": "incremental heuristic search"
+        "incremental heuristic search": "Incremental Heuristic Search"
     },
     {
         " algorithm   ": null
     },
     {
-        "Depth-first search": "depth-first search"
+        "Depth-first search": "Depth-First Search"
     },
     {
         ": traverses a graph branch by branch   ": null
     },
     {
-        "Dijkstras algorithm": "dijkstras algorithm"
+        "Dijkstras algorithm": "Dijkstras Algorithm"
     },
     {
         ": A special case of A for which no heuristic function is used   ": null
     },
     {
-        "General Problem Solver": "general problem solver"
+        "General Problem Solver": "General Problem Solver"
     },
     {
         ": a seminal theorem-proving algorithm intended to work as a universal problem solver machine.   ": null
     },
     {
-        "Iterative deepening depth-first search": "iterative deepening depth-first search"
+        "Iterative deepening depth-first search": "Iterative Deepening Depth-First Search"
     },
     {
         " : a state space search strategy   ": null
     },
     {
-        "Jump point search": "jump point search"
+        "Jump point search": "Jump Point Search"
     },
     {
         ": An optimization to A which may reduce computation time by an order of magnitude using further heuristics.   ": null
     },
     {
-        "Lexicographic breadth-first search": "lexicographic breadth-first search"
+        "Lexicographic breadth-first search": "Lexicographic Breadth-First Search"
     },
     {
         " : a linear time algorithm for ordering the vertices of a graph   ": null
     },
     {
-        "Uniform-cost search": "uniform-cost search"
+        "Uniform-cost search": "Uniform-Cost Search"
     },
     {
         ": a ": null
     },
     {
-        "tree search": "tree traversal"
+        "tree search": "Tree Traversal"
     },
     {
         " that finds the lowest-cost route where costs vary   ": null
     },
     {
-        "SSS": "sss"
+        "SSS": "Sss"
     },
     {
         ": state space search traversing a game tree in a best-first fashion similar to that of the A search algorithm   ": null
     },
     {
-        "F": "f merge algorithm"
+        "F": "F Merge Algorithm"
     },
     {
         ": Special algorithm to merge the two arrays       ": null
     },
     {
-        "Cliques": "clique"
+        "Cliques": "Clique"
     },
     {
-        " Bron–Kerbosch algorithm": "bron–kerbosch algorithm"
+        " Bron–Kerbosch algorithm": "Bron–Kerbosch Algorithm"
     },
     {
         ": a technique for finding ": null
     },
     {
-        "maximal cliques": "maximal clique"
+        "maximal cliques": "Maximal Clique"
     },
     {
         "in an undirected graph   ": null
     },
     {
-        "MaxCliqueDyn maximum clique algorithm": "maxcliquedyn maximum clique algorithm"
+        "MaxCliqueDyn maximum clique algorithm": "Maxcliquedyn Maximum Clique Algorithm"
     },
     {
         ": find a ": null
     },
     {
-        "maximum clique": "maximum clique"
+        "maximum clique": "Maximum Clique"
     },
     {
         " in an undirected graph   ": null
     },
     {
-        "Strongly connected components": "strongly connected components"
+        "Strongly connected components": "Strongly Connected Components"
     },
     {
-        " Path-based strong component algorithm": "path-based strong component algorithm"
+        " Path-based strong component algorithm": "Path-Based Strong Component Algorithm"
     },
     {
-        " Kosarajus algorithm": "kosarajus algorithm"
+        " Kosarajus algorithm": "Kosarajus Algorithm"
     },
     {
-        " Tarjans strongly connected components algorithm": "tarjans strongly connected components algorithm"
+        " Tarjans strongly connected components algorithm": "Tarjans Strongly Connected Components Algorithm"
     },
     {
-        " Subgraph isomorphism problem": "subgraph isomorphism problem"
+        " Subgraph isomorphism problem": "Subgraph Isomorphism Problem"
     },
     {
-        "              Bitap algorithm": "bitap algorithm"
+        "              Bitap algorithm": "Bitap Algorithm"
     },
     {
         ": fuzzy algorithm that determines if strings are approximately equal.   ": null
     },
     {
-        "Phonetic algorithms": "phonetic algorithm"
+        "Phonetic algorithms": "Phonetic Algorithm"
     },
     {
-        "  Daitch–Mokotoff Soundex": "daitch–mokotoff soundex"
+        "  Daitch–Mokotoff Soundex": "Daitch–Mokotoff Soundex"
     },
     {
         ": a ": null
     },
     {
-        "Soundex": "soundex"
+        "Soundex": "Soundex"
     },
     {
         " refinement which allows matching of Slavic and Germanic surnames   ": null
     },
     {
-        "Double Metaphone": "double metaphone"
+        "Double Metaphone": "Double Metaphone"
     },
     {
         ": an improvement on Metaphone   ": null
     },
     {
-        "Match rating approach": "match rating approach"
+        "Match rating approach": "Match Rating Approach"
     },
     {
         ": a phonetic algorithm developed by Western Airlines   ": null
     },
     {
-        "Metaphone": "metaphone"
+        "Metaphone": "Metaphone"
     },
     {
         ": an algorithm for indexing words by their sound, when pronounced in English   ": null
     },
     {
-        "NYSIIS": "new york state identification and intelligence system"
+        "NYSIIS": "New York State Identification And Intelligence System"
     },
     {
         ": ": null
     },
     {
-        "phonetic algorithm": "phonetic algorithm"
+        "phonetic algorithm": "Phonetic Algorithm"
     },
     {
         ", improves on ": null
     },
     {
-        "Soundex": "soundex"
+        "Soundex": "Soundex"
     },
     {
-        " Soundex": "soundex"
+        " Soundex": "Soundex"
     },
     {
         ": a phonetic algorithm for indexing names by sound, as pronounced in English   ": null
     },
     {
-        "String metric": "string metric"
+        "String metric": "String Metric"
     },
     {
         "s: compute a similarity or dissimilarity score between two pairs of text strings   ": null
     },
     {
-        "Damerau–Levenshtein distance": "damerau–levenshtein distance"
+        "Damerau–Levenshtein distance": "Damerau–Levenshtein Distance"
     },
     {
         " compute a distance measure between two strings, improves on ": null
     },
     {
-        "Levenshtein distance": "levenshtein distance"
+        "Levenshtein distance": "Levenshtein Distance"
     },
     {
-        " Dices coefficient": "dices coefficient"
+        " Dices coefficient": "Dices Coefficient"
     },
     {
         " : a similarity measure related to the ": null
     },
     {
-        "Jaccard index": "jaccard index"
+        "Jaccard index": "Jaccard Index"
     },
     {
-        " Hamming distance": "hamming distance"
+        " Hamming distance": "Hamming Distance"
     },
     {
         ": sum number of positions which are different   ": null
     },
     {
-        "Jaro–Winkler distance": "jaro–winkler distance"
+        "Jaro–Winkler distance": "Jaro–Winkler Distance"
     },
     {
         ": is a measure of similarity between two strings   ": null
     },
     {
-        "Levenshtein edit distance": "levenshtein distance"
+        "Levenshtein edit distance": "Levenshtein Distance"
     },
     {
         ": compute a metric for the amount of difference between two sequences   ": null
     },
     {
-        "Trigram search": "trigram search"
+        "Trigram search": "Trigram Search"
     },
     {
         ": search for text when the exact syntax or spelling of the target object is not precisely known        ": null
     },
     {
-        "Quickselect": "quickselect"
+        "Quickselect": "Quickselect"
     },
     {
-        " Introselect": "introselect"
+        " Introselect": "Introselect"
     },
     {
-        "       Linear search": "linear search"
+        "       Linear search": "Linear Search"
     },
     {
         ": finds an item in an unsorted sequence   ": null
     },
     {
-        "Selection algorithm": "selection algorithm"
+        "Selection algorithm": "Selection Algorithm"
     },
     {
         ": finds the kth largest item in a sequence   ": null
     },
     {
-        "Ternary search": "ternary search"
+        "Ternary search": "Ternary Search"
     },
     {
         ": a technique for finding the minimum or maximum of a function that is either strictly increasing and then strictly decreasing or vice versa   ": null
     },
     {
-        "Sorted lists": "sorted list"
+        "Sorted lists": "Sorted List"
     },
     {
-        "  Binary search algorithm": "binary search algorithm"
+        "  Binary search algorithm": "Binary Search Algorithm"
     },
     {
         ": locates an item in a sorted sequence   ": null
     },
     {
-        "Fibonacci search technique": "fibonacci search technique"
+        "Fibonacci search technique": "Fibonacci Search Technique"
     },
     {
         ": search a sorted sequence using a divide and conquer algorithm that narrows down possible locations with the aid of ": null
     },
     {
-        "Fibonacci numbers": "fibonacci numbers"
+        "Fibonacci numbers": "Fibonacci Numbers"
     },
     {
-        " Jump search": "jump search"
+        " Jump search": "Jump Search"
     },
     {
         " : linear search on a smaller subset of the sequence   ": null
     },
     {
-        "Predictive search": "interpolation search"
+        "Predictive search": "Interpolation Search"
     },
     {
         ": binary-like search which factors in ": null
     },
     {
-        "magnitude": "magnitude"
+        "magnitude": "Magnitude"
     },
     {
         " of search term versus the high and low values in the search. Sometimes called dictionary search or interpolated search.   ": null
     },
     {
-        "Uniform binary search": "uniform binary search"
+        "Uniform binary search": "Uniform Binary Search"
     },
     {
         ": an optimization of the classic binary search algorithm         ": null
     },
     {
-        "Fisher–Yates shuffle": "fisher–yates shuffle"
+        "Fisher–Yates shuffle": "Fisher–Yates Shuffle"
     },
     {
         " : randomly shuffle a finite set   ": null
     },
     {
-        "Schensted algorithm": "schensted algorithm"
+        "Schensted algorithm": "Schensted Algorithm"
     },
     {
         ": constructs a pair of ": null
     },
     {
-        "Young tableau": "young tableau"
+        "Young tableau": "Young Tableau"
     },
     {
         "x from a permutation   ": null
     },
     {
-        "Steinhaus–Johnson–Trotter algorithm": "steinhaus–johnson–trotter algorithm"
+        "Steinhaus–Johnson–Trotter algorithm": "Steinhaus–Johnson–Trotter Algorithm"
     },
     {
         " : generate permutations by transposing elements   ": null
     },
     {
-        "Heaps permutation generation algorithm": "heaps algorithm"
+        "Heaps permutation generation algorithm": "Heaps Algorithm"
     },
     {
         ": interchange elements to generate next permutation       ": null
     },
     {
-        "Dynamic time warping": "dynamic time warping"
+        "Dynamic time warping": "Dynamic Time Warping"
     },
     {
         ": measure similarity between two sequences which may vary in time or speed   ": null
     },
     {
-        "Hirschbergs algorithm": "hirschbergs algorithm"
+        "Hirschbergs algorithm": "Hirschbergs Algorithm"
     },
     {
         ": finds the least cost ": null
     },
     {
-        "sequence alignment": "sequence alignment"
+        "sequence alignment": "Sequence Alignment"
     },
     {
         " between two sequences, as measured by their ": null
     },
     {
-        "Levenshtein distance": "levenshtein distance"
+        "Levenshtein distance": "Levenshtein Distance"
     },
     {
-        " Needleman–Wunsch algorithm": "needleman–wunsch algorithm"
+        " Needleman–Wunsch algorithm": "Needleman–Wunsch Algorithm"
     },
     {
         ": find global alignment between two sequences   ": null
     },
     {
-        "Smith–Waterman algorithm": "smith–waterman algorithm"
+        "Smith–Waterman algorithm": "Smith–Waterman Algorithm"
     },
     {
         ": find local sequence alignment           ": null
     },
     {
-        "Bubble sort": "bubble sort"
+        "Bubble sort": "Bubble Sort"
     },
     {
         ": for each pair of indices, swap the items if out of order   ": null
     },
     {
-        "Cocktail shaker sort": "cocktail shaker sort"
+        "Cocktail shaker sort": "Cocktail Shaker Sort"
     },
     {
         " or bidirectional bubble sort, a bubble sort traversing the list alternately from front to back and back to front   ": null
     },
     {
-        "Comb sort": "comb sort"
+        "Comb sort": "Comb Sort"
     },
     {
-        " Gnome sort": "gnome sort"
+        " Gnome sort": "Gnome Sort"
     },
     {
-        " Odd–even sort": "odd–even sort"
+        " Odd–even sort": "Odd–Even Sort"
     },
     {
-        " Quicksort": "quicksort"
+        " Quicksort": "Quicksort"
     },
     {
         ": divide list into two, with all items on the first list coming before all items on the second list.; then sort the two lists. Often the method of choice   Humorous or ineffective   ": null
     },
     {
-        "Bogosort": "bogosort"
+        "Bogosort": "Bogosort"
     },
     {
-        " Stooge sort": "stooge sort"
+        " Stooge sort": "Stooge Sort"
     },
     {
-        " Flashsort": "flashsort"
+        " Flashsort": "Flashsort"
     },
     {
-        " Introsort": "introsort"
+        " Introsort": "Introsort"
     },
     {
         ": begin with quicksort and switch to heapsort when the recursion depth exceeds a certain level   ": null
     },
     {
-        "Timsort": "timsort"
+        "Timsort": "Timsort"
     },
     {
         ": adaptative algorithm derived from merge sort and insertion sort. Used in Python 2.3 and up, and Java SE 7.   Insertion sorts   ": null
     },
     {
-        "Insertion sort": "insertion sort"
+        "Insertion sort": "Insertion Sort"
     },
     {
         ": determine where the current item belongs in the list of sorted ones, and insert it there   ": null
     },
     {
-        "Library sort": "library sort"
+        "Library sort": "Library Sort"
     },
     {
-        " Patience sorting": "patience sorting"
+        " Patience sorting": "Patience Sorting"
     },
     {
-        " Shell sort": "shellsort"
+        " Shell sort": "Shellsort"
     },
     {
         ": an attempt to improve insertion sort   ": null
     },
     {
-        "Tree sort": "tree sort"
+        "Tree sort": "Tree Sort"
     },
     {
         " : build binary tree, then traverse it to create sorted list   ": null
     },
     {
-        "Cycle sort": "cycle sort"
+        "Cycle sort": "Cycle Sort"
     },
     {
         ": in-place with theoretically optimal number of writes   Merge sorts   ": null
     },
     {
-        "Merge sort": "merge sort"
+        "Merge sort": "Merge Sort"
     },
     {
         ": sort the first and second half of the list separately, then merge the sorted lists   ": null
     },
     {
-        "Slowsort": "slowsort"
+        "Slowsort": "Slowsort"
     },
     {
-        " Strand sort": "strand sort"
+        " Strand sort": "Strand Sort"
     },
     {
-        " Bead sort": "bead sort"
+        " Bead sort": "Bead Sort"
     },
     {
-        " Bucket sort": "bucket sort"
+        " Bucket sort": "Bucket Sort"
     },
     {
-        " Burstsort": "burstsort"
+        " Burstsort": "Burstsort"
     },
     {
         ": build a compact, cache efficient ": null
     },
     {
-        "burst trie": "burst trie"
+        "burst trie": "Burst Trie"
     },
     {
         " and then traverse it to create sorted output   ": null
     },
     {
-        "Counting sort": "counting sort"
+        "Counting sort": "Counting Sort"
     },
     {
-        " Pigeonhole sort": "pigeonhole sort"
+        " Pigeonhole sort": "Pigeonhole Sort"
     },
     {
-        " Postman sort": "postman sort"
+        " Postman sort": "Postman Sort"
     },
     {
         ": variant of Bucket sort which takes advantage of hierarchical structure   ": null
     },
     {
-        "Radix sort": "radix sort"
+        "Radix sort": "Radix Sort"
     },
     {
         ": sorts strings letter by letter   Selection sorts   ": null
     },
     {
-        "Heapsort": "heapsort"
+        "Heapsort": "Heapsort"
     },
     {
         ": convert the list into a heap, keep removing the largest element from the heap and adding it to the end of the list   ": null
     },
     {
-        "Selection sort": "selection sort"
+        "Selection sort": "Selection Sort"
     },
     {
         ": pick the smallest of the remaining elements, add it to the end of the sorted list   ": null
     },
     {
-        "Smoothsort": "smoothsort"
+        "Smoothsort": "Smoothsort"
     },
     {
-        " Bitonic sorter": "bitonic sorter"
+        " Bitonic sorter": "Bitonic Sorter"
     },
     {
-        " Pancake sorting": "pancake sorting"
+        " Pancake sorting": "Pancake Sorting"
     },
     {
-        " Spaghetti sort": "spaghetti sort"
+        " Spaghetti sort": "Spaghetti Sort"
     },
     {
-        " Topological sort": "topological sorting"
+        " Topological sort": "Topological Sorting"
     },
     {
-        " Samplesort": "samplesort"
+        " Samplesort": "Samplesort"
     },
     {
-        "        Kadanes algorithm": "kadanes algorithm"
+        "        Kadanes algorithm": "Kadanes Algorithm"
     },
     {
         ": finds maximum sub-array of any size   ": null
     },
     {
-        "Longest common subsequence problem": "longest common subsequence problem"
+        "Longest common subsequence problem": "Longest Common Subsequence Problem"
     },
     {
         ": Find the longest subsequence common to all sequences in a set of sequences   ": null
     },
     {
-        "Longest increasing subsequence problem": "longest increasing subsequence problem"
+        "Longest increasing subsequence problem": "Longest Increasing Subsequence Problem"
     },
     {
         ": Find the longest increasing subsequence of a given sequence   ": null
     },
     {
-        "Shortest common supersequence problem": "shortest common supersequence problem"
+        "Shortest common supersequence problem": "Shortest Common Supersequence Problem"
     },
     {
         ": Find the shortest supersequence that contains two or more sequences as subsequences        ": null
     },
     {
-        "Longest common substring problem": "longest common substring problem"
+        "Longest common substring problem": "Longest Common Substring Problem"
     },
     {
         ": find the longest string that is a substring of two or more strings   ": null
     },
     {
-        "Substring search": "substring search"
+        "Substring search": "Substring Search"
     },
     {
-        " Aho–Corasick string matching algorithm": "aho–corasick string matching algorithm"
+        " Aho–Corasick string matching algorithm": "Aho–Corasick String Matching Algorithm"
     },
     {
         ": ": null
     },
     {
-        "trie": "trie"
+        "trie": "Trie"
     },
     {
         " based algorithm for finding all substring matches to any of a finite set of strings   ": null
     },
     {
-        "Boyer–Moore string-search algorithm": "boyer–moore string-search algorithm"
+        "Boyer–Moore string-search algorithm": "Boyer–Moore String-Search Algorithm"
     },
     {
         ": amortized linear  algorithm for substring search   ": null
     },
     {
-        "Boyer–Moore–Horspool algorithm": "boyer–moore–horspool algorithm"
+        "Boyer–Moore–Horspool algorithm": "Boyer–Moore–Horspool Algorithm"
     },
     {
         ": Simplification of Boyer–Moore   ": null
     },
     {
-        "Knuth–Morris–Pratt algorithm": "knuth–morris–pratt algorithm"
+        "Knuth–Morris–Pratt algorithm": "Knuth–Morris–Pratt Algorithm"
     },
     {
         ": substring search which bypasses reexamination of matched characters   ": null
     },
     {
-        "Rabin–Karp string search algorithm": "rabin–karp string search algorithm"
+        "Rabin–Karp string search algorithm": "Rabin–Karp String Search Algorithm"
     },
     {
         ": searches multiple patterns efficiently   ": null
     },
     {
-        "Zhu–Takaoka string matching algorithm": "zhu–takaoka string matching algorithm"
+        "Zhu–Takaoka string matching algorithm": "Zhu–Takaoka String Matching Algorithm"
     },
     {
         ": a variant of Boyer–Moore   ": null
     },
     {
-        "Ukkonens algorithm": "ukkonens algorithm"
+        "Ukkonens algorithm": "Ukkonens Algorithm"
     },
     {
         ": a ": null
     },
     {
-        "linear-time": "linear-time"
+        "linear-time": "Linear-Time"
     },
     {
         ", ": null
     },
     {
-        "online algorithm": "online algorithm"
+        "online algorithm": "Online Algorithm"
     },
     {
         " for constructing ": null
     },
     {
-        "suffix trees": "suffix tree"
+        "suffix trees": "Suffix Tree"
     },
     {
-        "  Matching wildcards": "matching wildcards"
+        "  Matching wildcards": "Matching Wildcards"
     },
     {
-        " Rich Salz": "internetnews"
+        " Rich Salz": "Internetnews"
     },
     {
-        " wildmat": "wildmat"
+        " wildmat": "Wildmat"
     },
     {
         ": a widely used ": null
     },
     {
-        "open-source": "open-source software"
+        "open-source": "Open-Source Software"
     },
     {
-        " recursive": "recursion"
+        " recursive": "Recursion"
     },
     {
         " algorithm   ": null
     },
     {
-        "Krauss matching wildcards algorithm": "krauss matching wildcards algorithm"
+        "Krauss matching wildcards algorithm": "Krauss Matching Wildcards Algorithm"
     },
     {
         ": an open-source non-recursive algorithm                  ": null
     },
     {
-        "Chien search": "chien search"
+        "Chien search": "Chien Search"
     },
     {
         ": a recursive algorithm for determining roots of polynomials defined over a finite field   ": null
     },
     {
-        "Schreier–Sims algorithm": "schreier–sims algorithm"
+        "Schreier–Sims algorithm": "Schreier–Sims Algorithm"
     },
     {
         ": computing a base and ": null
     },
     {
-        "strong generating set": "strong generating set"
+        "strong generating set": "Strong Generating Set"
     },
     {
         " of a ": null
     },
     {
-        "permutation group": "permutation group"
+        "permutation group": "Permutation Group"
     },
     {
-        " Todd–Coxeter algorithm": "todd–coxeter algorithm"
+        " Todd–Coxeter algorithm": "Todd–Coxeter Algorithm"
     },
     {
         ": Procedure for generating ": null
     },
     {
-        "coset": "coset"
+        "coset": "Coset"
     },
     {
         "s.        ": null
     },
     {
-        "Buchbergers algorithm": "buchbergers algorithm"
+        "Buchbergers algorithm": "Buchbergers Algorithm"
     },
     {
         ": finds a ": null
     },
     {
-        "Gröbner basis": "gröbner basis"
+        "Gröbner basis": "Gröbner Basis"
     },
     {
-        " Cantor–Zassenhaus algorithm": "cantor–zassenhaus algorithm"
+        " Cantor–Zassenhaus algorithm": "Cantor–Zassenhaus Algorithm"
     },
     {
         ": factor polynomials over finite fields   ": null
     },
     {
-        "Faugère F4 algorithm": "faugère f4 algorithm"
+        "Faugère F4 algorithm": "Faugère F4 Algorithm"
     },
     {
         ": finds a Gröbner basis   ": null
     },
     {
-        "Gospers algorithm": "gospers algorithm"
+        "Gospers algorithm": "Gospers Algorithm"
     },
     {
         ": find sums of hypergeometric terms that are themselves hypergeometric terms   ": null
     },
     {
-        "Knuth–Bendix completion algorithm": "knuth–bendix completion algorithm"
+        "Knuth–Bendix completion algorithm": "Knuth–Bendix Completion Algorithm"
     },
     {
         ": for ": null
     },
     {
-        "rewriting": "rewriting"
+        "rewriting": "Rewriting"
     },
     {
         " rule systems   ": null
     },
     {
-        "Multivariate division algorithm": "multivariate division algorithm"
+        "Multivariate division algorithm": "Multivariate Division Algorithm"
     },
     {
         ": for ": null
     },
     {
-        "polynomials": "polynomial"
+        "polynomials": "Polynomial"
     },
     {
         "in several indeterminates   ": null
     },
     {
-        "Pollards kangaroo algorithm": "pollards kangaroo algorithm"
+        "Pollards kangaroo algorithm": "Pollards Kangaroo Algorithm"
     },
     {
         " : an algorithm for solving the discrete logarithm problem   ": null
     },
     {
-        "Polynomial long division": "polynomial long division"
+        "Polynomial long division": "Polynomial Long Division"
     },
     {
         ": an algorithm for dividing a polynomial by another polynomial of the same or lower degree   ": null
     },
     {
-        "Risch algorithm": "risch algorithm"
+        "Risch algorithm": "Risch Algorithm"
     },
     {
         ": an algorithm for the calculus operation of indefinite integration            ": null
     },
     {
-        "Closest pair problem": "closest pair problem"
+        "Closest pair problem": "Closest Pair Problem"
     },
     {
         ": find the pair of points with the smallest distance between them   ": null
     },
     {
-        "Collision detection": "collision detection"
+        "Collision detection": "Collision Detection"
     },
     {
         " algorithms: check for the collision or intersection of two given solids   ": null
     },
     {
-        "Cone algorithm": "cone algorithm"
+        "Cone algorithm": "Cone Algorithm"
     },
     {
         ": identify surface points   ": null
     },
     {
-        "Convex hull algorithms": "convex hull algorithms"
+        "Convex hull algorithms": "Convex Hull Algorithms"
     },
     {
         ": determining the ": null
     },
     {
-        "convex hull": "convex hull"
+        "convex hull": "Convex Hull"
     },
     {
         " of a ": null
     },
     {
-        "set": "set"
+        "set": "Set"
     },
     {
         " of points   ": null
     },
     {
-        "Graham scan": "graham scan"
+        "Graham scan": "Graham Scan"
     },
     {
-        " Quickhull": "quickhull"
+        " Quickhull": "Quickhull"
     },
     {
-        " Gift wrapping algorithm": "gift wrapping algorithm"
+        " Gift wrapping algorithm": "Gift Wrapping Algorithm"
     },
     {
         " or Jarvis march   ": null
     },
     {
-        "Chans algorithm": "chans algorithm"
+        "Chans algorithm": "Chans Algorithm"
     },
     {
-        " Kirkpatrick–Seidel algorithm": "kirkpatrick–seidel algorithm"
+        " Kirkpatrick–Seidel algorithm": "Kirkpatrick–Seidel Algorithm"
     },
     {
-        " Euclidean distance transform": "euclidean distance map"
+        " Euclidean distance transform": "Euclidean Distance Map"
     },
     {
         ": computes the distance between every point in a grid and a discrete collection of points.   ": null
     },
     {
-        "Geometric hashing": "geometric hashing"
+        "Geometric hashing": "Geometric Hashing"
     },
     {
         ": a method for efficiently finding two-dimensional objects represented by discrete points that have undergone an ": null
     },
     {
-        "affine transformation": "affine transformation"
+        "affine transformation": "Affine Transformation"
     },
     {
-        " Gilbert–Johnson–Keerthi distance algorithm": "gilbert–johnson–keerthi distance algorithm"
+        " Gilbert–Johnson–Keerthi distance algorithm": "Gilbert–Johnson–Keerthi Distance Algorithm"
     },
     {
         ": determining the smallest distance between two ": null
     },
     {
-        "convex": "convex set"
+        "convex": "Convex Set"
     },
     {
         " shapes.   ": null
     },
     {
-        "Jump-and-Walk algorithm": "jump-and-walk algorithm"
+        "Jump-and-Walk algorithm": "Jump-And-Walk Algorithm"
     },
     {
         ": an algorithm for point location in triangulations   ": null
     },
     {
-        "Laplacian smoothing": "laplacian smoothing"
+        "Laplacian smoothing": "Laplacian Smoothing"
     },
     {
         ": an algorithm to smooth a polygonal mesh   ": null
     },
     {
-        "Line segment intersection": "line segment intersection"
+        "Line segment intersection": "Line Segment Intersection"
     },
     {
         ": finding whether lines intersect, usually with a ": null
     },
     {
-        "sweep line algorithm": "sweep line algorithm"
+        "sweep line algorithm": "Sweep Line Algorithm"
     },
     {
-        " Bentley–Ottmann algorithm": "bentley–ottmann algorithm"
+        " Bentley–Ottmann algorithm": "Bentley–Ottmann Algorithm"
     },
     {
-        " Shamos–Hoey algorithm": "shamos–hoey algorithm"
+        " Shamos–Hoey algorithm": "Shamos–Hoey Algorithm"
     },
     {
-        " Minimum bounding box algorithms": "minimum bounding box algorithms"
+        " Minimum bounding box algorithms": "Minimum Bounding Box Algorithms"
     },
     {
         ": find the ": null
     },
     {
-        "oriented minimum bounding box": "minimum bounding boxarbitrarily oriented minimum bounding box"
+        "oriented minimum bounding box": "Minimum Bounding Boxarbitrarily Oriented Minimum Bounding Box"
     },
     {
         " enclosing a set of points   ": null
     },
     {
-        "Nearest neighbor search": "nearest neighbor search"
+        "Nearest neighbor search": "Nearest Neighbor Search"
     },
     {
         ": find the nearest point or points to a query point   ": null
     },
     {
-        "Point in polygon": "point in polygon"
+        "Point in polygon": "Point In Polygon"
     },
     {
         " algorithms: tests whether a given point lies within a given polygon   ": null
     },
     {
-        "Point set registration": "point set registration"
+        "Point set registration": "Point Set Registration"
     },
     {
         " algorithms: finds the transformation between two ": null
     },
     {
-        "point sets": "point cloud"
+        "point sets": "Point Cloud"
     },
     {
         " to optimally align them.   ": null
     },
     {
-        "Rotating calipers": "rotating calipers"
+        "Rotating calipers": "Rotating Calipers"
     },
     {
         ": determine all ": null
     },
     {
-        "antipodal": "antipodal point"
+        "antipodal": "Antipodal Point"
     },
     {
         " pairs of points and vertices on a ": null
     },
     {
-        "convex polygon": "convex polygon"
+        "convex polygon": "Convex Polygon"
     },
     {
         " or ": null
     },
     {
-        "convex hull": "convex hull"
+        "convex hull": "Convex Hull"
     },
     {
         ".   ": null
     },
     {
-        "Shoelace algorithm": "shoelace algorithm"
+        "Shoelace algorithm": "Shoelace Algorithm"
     },
     {
         ": determine the area of a polygon whose vertices are described by ordered pairs in the plane   ": null
     },
     {
-        "Triangulation": "triangulation"
+        "Triangulation": "Triangulation"
     },
     {
-        " Delaunay triangulation": "delaunay triangulation"
+        " Delaunay triangulation": "Delaunay Triangulation"
     },
     {
-        " Rupperts algorithm": "rupperts algorithm"
+        " Rupperts algorithm": "Rupperts Algorithm"
     },
     {
         " : create quality Delaunay triangulations   ": null
     },
     {
-        "Chews second algorithm": "chews second algorithm"
+        "Chews second algorithm": "Chews Second Algorithm"
     },
     {
         ": create quality ": null
     },
     {
-        "constrained Delaunay triangulations": "constrained delaunay triangulation"
+        "constrained Delaunay triangulations": "Constrained Delaunay Triangulation"
     },
     {
-        "  Marching triangles": "marching triangles"
+        "  Marching triangles": "Marching Triangles"
     },
     {
         ": reconstruct two-dimensional surface geometry from an unstructured ": null
     },
     {
-        "point cloud": "point cloud"
+        "point cloud": "Point Cloud"
     },
     {
-        " Polygon triangulation": "polygon triangulation"
+        " Polygon triangulation": "Polygon Triangulation"
     },
     {
         " algorithms: decompose a polygon into a set of triangles   ": null
     },
     {
-        "Voronoi diagram": "voronoi diagram"
+        "Voronoi diagram": "Voronoi Diagram"
     },
     {
         "s, geometric ": null
     },
     {
-        "dual": "duality"
+        "dual": "Duality"
     },
     {
         " of ": null
     },
     {
-        "Delaunay triangulation": "delaunay triangulation"
+        "Delaunay triangulation": "Delaunay Triangulation"
     },
     {
-        " Bowyer–Watson algorithm": "bowyer–watson algorithm"
+        " Bowyer–Watson algorithm": "Bowyer–Watson Algorithm"
     },
     {
         ": create voronoi diagram in any number of dimensions   ": null
     },
     {
-        "Fortunes Algorithm": "fortunes algorithm"
+        "Fortunes Algorithm": "Fortunes Algorithm"
     },
     {
         ": create voronoi diagram   ": null
     },
     {
-        "Quasitriangulation": "quasitriangulation"
+        "Quasitriangulation": "Quasitriangulation"
     },
     {
-        "        Binary GCD algorithm": "binary gcd algorithm"
+        "        Binary GCD algorithm": "Binary Gcd Algorithm"
     },
     {
         ": Efficient way of calculating GCD.   ": null
     },
     {
-        "Booths multiplication algorithm": "booths multiplication algorithm"
+        "Booths multiplication algorithm": "Booths Multiplication Algorithm"
     },
     {
-        " Chakravala method": "chakravala method"
+        " Chakravala method": "Chakravala Method"
     },
     {
         ": a cyclic algorithm to solve indeterminate quadratic equations, including ": null
     },
     {
-        "Pells equation": "pells equation"
+        "Pells equation": "Pells Equation"
     },
     {
-        " Discrete logarithm": "discrete logarithm"
+        " Discrete logarithm": "Discrete Logarithm"
     },
     {
         ":   ": null
     },
     {
-        "Baby-step giant-step": "baby-step giant-step"
+        "Baby-step giant-step": "Baby-Step Giant-Step"
     },
     {
-        " Index calculus algorithm": "index calculus algorithm"
+        " Index calculus algorithm": "Index Calculus Algorithm"
     },
     {
-        " Pollards rho algorithm for logarithms": "pollards rho algorithm for logarithms"
+        " Pollards rho algorithm for logarithms": "Pollards Rho Algorithm For Logarithms"
     },
     {
-        " Pohlig & ndash;Hellman algorithm": "pohlig & ndash;hellman algorithm"
+        " Pohlig & ndash;Hellman algorithm": "Pohlig & Ndash;Hellman Algorithm"
     },
     {
-        " Euclidean algorithm": "euclidean algorithm"
+        " Euclidean algorithm": "Euclidean Algorithm"
     },
     {
         ": computes the ": null
     },
     {
-        "greatest common divisor": "greatest common divisor"
+        "greatest common divisor": "Greatest Common Divisor"
     },
     {
-        " Extended Euclidean algorithm": "extended euclidean algorithm"
+        " Extended Euclidean algorithm": "Extended Euclidean Algorithm"
     },
     {
         ": Also solves the equation ax  +  by    c.   ": null
     },
     {
-        "Integer factorization": "integer factorization"
+        "Integer factorization": "Integer Factorization"
     },
     {
         ": breaking an integer into its ": null
     },
     {
-        "prime": "prime number"
+        "prime": "Prime Number"
     },
     {
         " factors   ": null
     },
     {
-        "Congruence of squares": "congruence of squares"
+        "Congruence of squares": "Congruence Of Squares"
     },
     {
-        " Dixons algorithm": "dixons algorithm"
+        " Dixons algorithm": "Dixons Algorithm"
     },
     {
-        " Fermats factorization method": "fermats factorization method"
+        " Fermats factorization method": "Fermats Factorization Method"
     },
     {
-        " General number field sieve": "general number field sieve"
+        " General number field sieve": "General Number Field Sieve"
     },
     {
-        " Lenstra elliptic curve factorization": "lenstra elliptic curve factorization"
+        " Lenstra elliptic curve factorization": "Lenstra Elliptic Curve Factorization"
     },
     {
-        " Pollards p  −  1 algorithm": "pollards p  & minus; 1 algorithm"
+        " Pollards p  −  1 algorithm": "Pollards P  & Minus; 1 Algorithm"
     },
     {
-        " Pollards rho algorithm": "pollards rho algorithm"
+        " Pollards rho algorithm": "Pollards Rho Algorithm"
     },
     {
-        " prime factorization algorithm": "prime factorization algorithm"
+        " prime factorization algorithm": "Prime Factorization Algorithm"
     },
     {
-        " Quadratic sieve": "quadratic sieve"
+        " Quadratic sieve": "Quadratic Sieve"
     },
     {
-        " Shors algorithm": "shors algorithm"
+        " Shors algorithm": "Shors Algorithm"
     },
     {
-        " Special number field sieve": "special number field sieve"
+        " Special number field sieve": "Special Number Field Sieve"
     },
     {
-        " Trial division": "trial division"
+        " Trial division": "Trial Division"
     },
     {
-        " Multiplication algorithm": "multiplication algorithm"
+        " Multiplication algorithm": "Multiplication Algorithm"
     },
     {
         "s: fast multiplication of two numbers   ": null
     },
     {
-        "Karatsuba algorithm": "karatsuba algorithm"
+        "Karatsuba algorithm": "Karatsuba Algorithm"
     },
     {
-        " Schönhage–Strassen algorithm": "schönhage–strassen algorithm"
+        " Schönhage–Strassen algorithm": "Schönhage–Strassen Algorithm"
     },
     {
-        " Toom–Cook multiplication": "toom–cook multiplication"
+        " Toom–Cook multiplication": "Toom–Cook Multiplication"
     },
     {
-        " Modular square root": "modular square root"
+        " Modular square root": "Modular Square Root"
     },
     {
         ": computing square roots modulo a prime number   ": null
     },
     {
-        "Tonelli–Shanks algorithm": "tonelli–shanks algorithm"
+        "Tonelli–Shanks algorithm": "Tonelli–Shanks Algorithm"
     },
     {
-        " Cipollas algorithm": "cipollas algorithm"
+        " Cipollas algorithm": "Cipollas Algorithm"
     },
     {
-        " Berlekamps root finding algorithm": "berlekamps root finding algorithm"
+        " Berlekamps root finding algorithm": "Berlekamps Root Finding Algorithm"
     },
     {
-        " Odlyzko & ndash;Schönhage algorithm": "odlyzko & ndash;schönhage algorithm"
+        " Odlyzko & ndash;Schönhage algorithm": "Odlyzko & Ndash;Schönhage Algorithm"
     },
     {
         ": calculates nontrivial zeroes of the ": null
     },
     {
-        "Riemann zeta function": "riemann zeta function"
+        "Riemann zeta function": "Riemann Zeta Function"
     },
     {
-        " Lenstra–Lenstra–Lovász algorithm": "lenstra–lenstra–lovász lattice basis reduction algorithm"
+        " Lenstra–Lenstra–Lovász algorithm": "Lenstra–Lenstra–Lovász Lattice Basis Reduction Algorithm"
     },
     {
         " : find a short, nearly orthogonal ": null
     },
     {
-        "lattice": "lattice"
+        "lattice": "Lattice"
     },
     {
-        " basis": "basis"
+        " basis": "Basis"
     },
     {
         " in polynomial time   ": null
     },
     {
-        "Primality test": "primality test"
+        "Primality test": "Primality Test"
     },
     {
         "s: determining whether a given number is ": null
     },
     {
-        "prime": "prime number"
+        "prime": "Prime Number"
     },
     {
-        " AKS primality test": "aks primality test"
+        " AKS primality test": "Aks Primality Test"
     },
     {
-        " Baillie-PSW primality test": "baillie-psw primality test"
+        " Baillie-PSW primality test": "Baillie-Psw Primality Test"
     },
     {
-        " Fermat primality test": "fermat primality test"
+        " Fermat primality test": "Fermat Primality Test"
     },
     {
-        " Lucas primality test": "lucas primality test"
+        " Lucas primality test": "Lucas Primality Test"
     },
     {
-        " Miller & ndash;Rabin primality test": "miller & ndash;rabin primality test"
+        " Miller & ndash;Rabin primality test": "Miller & Ndash;Rabin Primality Test"
     },
     {
-        " Sieve of Atkin": "sieve of atkin"
+        " Sieve of Atkin": "Sieve Of Atkin"
     },
     {
-        " Sieve of Eratosthenes": "sieve of eratosthenes"
+        " Sieve of Eratosthenes": "Sieve Of Eratosthenes"
     },
     {
-        " Sieve of Sundaram": "sieve of sundaram"
+        " Sieve of Sundaram": "Sieve Of Sundaram"
     },
     {
-        "               Euler method": "euler method"
+        "               Euler method": "Euler Method"
     },
     {
-        " Backward Euler method": "backward euler method"
+        " Backward Euler method": "Backward Euler Method"
     },
     {
-        " Trapezoidal rule ": "trapezoidal rule"
+        " Trapezoidal rule ": "Trapezoidal Rule"
     },
     {
-        "Linear multistep methods": "linear multistep method"
+        "Linear multistep methods": "Linear Multistep Method"
     },
     {
-        "  Runge–Kutta methods": "runge–kutta methods"
+        "  Runge–Kutta methods": "Runge–Kutta Methods"
     },
     {
-        " Euler integration": "euler integration"
+        " Euler integration": "Euler Integration"
     },
     {
-        "Multigrid methods": "multigrid method"
+        "Multigrid methods": "Multigrid Method"
     },
     {
         ", a group of algorithms for solving differential equations using a hierarchy of discretizations   ": null
     },
     {
-        "Partial differential equation": "partial differential equation"
+        "Partial differential equation": "Partial Differential Equation"
     },
     {
         ":   ": null
     },
     {
-        "Finite difference method": "finite difference method"
+        "Finite difference method": "Finite Difference Method"
     },
     {
-        " Crank–Nicolson method": "crank–nicolson method"
+        " Crank–Nicolson method": "Crank–Nicolson Method"
     },
     {
         " for diffusion equations   ": null
     },
     {
-        "Lax-Wendroff": "lax–wendroff method"
+        "Lax-Wendroff": "Lax–Wendroff Method"
     },
     {
         " for wave equations   ": null
     },
     {
-        "Verlet integration": "verlet integration"
+        "Verlet integration": "Verlet Integration"
     },
     {
         " : integrate Newtons equations of motion        ": null
     },
     {
-        "Computation of π": "computing π"
+        "Computation of π": "Computing Π"
     },
     {
         ":   ": null
     },
     {
-        "Borweins algorithm": "borweins algorithm"
+        "Borweins algorithm": "Borweins Algorithm"
     },
     {
         ": an algorithm to calculate the value of 1/π   ": null
     },
     {
-        "Gauss–Legendre algorithm": "gauss–legendre algorithm"
+        "Gauss–Legendre algorithm": "Gauss–Legendre Algorithm"
     },
     {
         ": computes the digits of ": null
     },
     {
-        "pi": "pi"
+        "pi": "Pi"
     },
     {
-        " Chudnovsky algorithm": "chudnovsky algorithm"
+        " Chudnovsky algorithm": "Chudnovsky Algorithm"
     },
     {
         ": A fast method for calculating the digits of π   ": null
     },
     {
-        "Bailey–Borwein–Plouffe formula": "bailey–borwein–plouffe formula"
+        "Bailey–Borwein–Plouffe formula": "Bailey–Borwein–Plouffe Formula"
     },
     {
         ": a spigot algorithm for the computation of the nth binary digit of π   ": null
     },
     {
-        "Division algorithm": "division algorithm"
+        "Division algorithm": "Division Algorithm"
     },
     {
         "s: for computing quotient and/or remainder of two numbers   ": null
     },
     {
-        "Long division": "long division"
+        "Long division": "Long Division"
     },
     {
-        " Restoring division": "restoring division"
+        " Restoring division": "Restoring Division"
     },
     {
-        " Non-restoring division": "non-restoring division"
+        " Non-restoring division": "Non-Restoring Division"
     },
     {
-        " SRT division": "srt division"
+        " SRT division": "Srt Division"
     },
     {
-        " Newton–Raphson division": "newton–raphson division"
+        " Newton–Raphson division": "Newton–Raphson Division"
     },
     {
         ": uses ": null
     },
     {
-        "Newtons method": "newtons method"
+        "Newtons method": "Newtons Method"
     },
     {
         " to find the ": null
     },
     {
-        "reciprocal": "multiplicative inverse"
+        "reciprocal": "Multiplicative Inverse"
     },
     {
         " of D, and multiply that reciprocal by N to find the final quotient Q.   ": null
     },
     {
-        "Goldschmidt division": "goldschmidt division"
+        "Goldschmidt division": "Goldschmidt Division"
     },
     {
-        " BKM algorithm": "bkm algorithm"
+        " BKM algorithm": "Bkm Algorithm"
     },
     {
         ": compute ": null
     },
     {
-        "elementary functions": "elementary function"
+        "elementary functions": "Elementary Function"
     },
     {
         " using a table of logarithms   ": null
     },
     {
-        "CORDIC": "cordic"
+        "CORDIC": "Cordic"
     },
     {
         ": compute hyperbolic and trigonometric functions using a table of arctangents   Exponentiation:   ": null
     },
     {
-        "Addition-chain exponentiation": "addition-chain exponentiation"
+        "Addition-chain exponentiation": "Addition-Chain Exponentiation"
     },
     {
         ": exponentiation by positive integer powers that requires a minimal number of multiplications   ": null
     },
     {
-        "Exponentiating by squaring": "exponentiating by squaring"
+        "Exponentiating by squaring": "Exponentiating By Squaring"
     },
     {
         ": an algorithm used for the fast computation of ": null
     },
     {
-        "large integer": "arbitrary-precision arithmetic"
+        "large integer": "Arbitrary-Precision Arithmetic"
     },
     {
         " powers of a number   ": null
     },
     {
-        "Montgomery reduction": "montgomery reduction"
+        "Montgomery reduction": "Montgomery Reduction"
     },
     {
         ": an algorithm that allows ": null
     },
     {
-        "modular arithmetic": "modular arithmetic"
+        "modular arithmetic": "Modular Arithmetic"
     },
     {
         " to be performed efficiently when the modulus is large   ": null
     },
     {
-        "Multiplication algorithm": "multiplication algorithm"
+        "Multiplication algorithm": "Multiplication Algorithm"
     },
     {
         "s: fast multiplication of two numbers   ": null
     },
     {
-        "Booths multiplication algorithm": "booths multiplication algorithm"
+        "Booths multiplication algorithm": "Booths Multiplication Algorithm"
     },
     {
         ": a multiplication algorithm that multiplies two signed binary numbers in twos complement notation   ": null
     },
     {
-        "Fürers algorithm": "fürers algorithm"
+        "Fürers algorithm": "Fürers Algorithm"
     },
     {
         ": an integer multiplication algorithm for very large numbers possessing a very low ": null
     },
     {
-        "asymptotic complexity": "computational complexity theory"
+        "asymptotic complexity": "Computational Complexity Theory"
     },
     {
-        " Karatsuba algorithm": "karatsuba algorithm"
+        " Karatsuba algorithm": "Karatsuba Algorithm"
     },
     {
         ": an efficient procedure for multiplying large numbers   ": null
     },
     {
-        "Schönhage–Strassen algorithm": "schönhage–strassen algorithm"
+        "Schönhage–Strassen algorithm": "Schönhage–Strassen Algorithm"
     },
     {
         ": an asymptotically fast multiplication algorithm for large integers   ": null
     },
     {
-        "Toom–Cook multiplication": "toom–cook multiplication"
+        "Toom–Cook multiplication": "Toom–Cook Multiplication"
     },
     {
         ": a multiplication algorithm for large integers   ": null
     },
     {
-        "Multiplicative inverse Algorithms": "multiplicative inversealgorithms"
+        "Multiplicative inverse Algorithms": "Multiplicative Inversealgorithms"
     },
     {
         ": for computing a numbers multiplicative inverse .   ": null
     },
     {
-        "Newtons method": "newtons methodmultiplicative inverses of numbers and power series"
+        "Newtons method": "Newtons Methodmultiplicative Inverses Of Numbers And Power Series"
     },
     {
-        " Rounding functions": "rounding functions"
+        " Rounding functions": "Rounding Functions"
     },
     {
         ": the classic ways to round numbers   ": null
     },
     {
-        "Spigot algorithm": "spigot algorithm"
+        "Spigot algorithm": "Spigot Algorithm"
     },
     {
         ": A way to compute the value of a ": null
     },
     {
-        "mathematical constant": "mathematical constant"
+        "mathematical constant": "Mathematical Constant"
     },
     {
         " without knowing preceding digits   Square and Nth root of a number:   ": null
     },
     {
-        "Alpha max plus beta min algorithm": "alpha max plus beta min algorithm"
+        "Alpha max plus beta min algorithm": "Alpha Max Plus Beta Min Algorithm"
     },
     {
         ": an approximation of the square-root of the sum of two squares   ": null
     },
     {
-        "Methods of computing square roots": "methods of computing square roots"
+        "Methods of computing square roots": "Methods Of Computing Square Roots"
     },
     {
-        " nth root algorithm": "nth root algorithm"
+        " nth root algorithm": "Nth Root Algorithm"
     },
     {
-        " Shifting nth-root algorithm": "shifting nth-root algorithm"
+        " Shifting nth-root algorithm": "Shifting Nth-Root Algorithm"
     },
     {
         ": digit by digit root extraction   Summation:   ": null
     },
     {
-        "Binary splitting": "binary splitting"
+        "Binary splitting": "Binary Splitting"
     },
     {
         ": a ": null
     },
     {
-        "divide and conquer": "divide and conquer algorithm"
+        "divide and conquer": "Divide And Conquer Algorithm"
     },
     {
         " technique which speeds up the numerical evaluation of many types of series with rational terms   ": null
     },
     {
-        "Kahan summation algorithm": "kahan summation algorithm"
+        "Kahan summation algorithm": "Kahan Summation Algorithm"
     },
     {
         ": a more accurate method of summing floating-point numbers   ": null
     },
     {
-        "Unrestricted algorithm": "unrestricted algorithm"
+        "Unrestricted algorithm": "Unrestricted Algorithm"
     },
     {
-        "       Filtered back-projection": "radon transformfiltered back-projection"
+        "       Filtered back-projection": "Radon Transformfiltered Back-Projection"
     },
     {
         ": efficiently compute the inverse 2-dimensional ": null
     },
     {
-        "Radon transform": "radon transform"
+        "Radon transform": "Radon Transform"
     },
     {
         ".   ": null
     },
     {
-        "Level set method": "level set method"
+        "Level set method": "Level Set Method"
     },
     {
         " : a numerical technique for tracking interfaces and shapes        ": null
     },
     {
-        "Birkhoff interpolation": "birkhoff interpolation"
+        "Birkhoff interpolation": "Birkhoff Interpolation"
     },
     {
         ": an extension of polynomial interpolation   ": null
     },
     {
-        "Cubic interpolation": "cubic interpolation"
+        "Cubic interpolation": "Cubic Interpolation"
     },
     {
-        " Hermite interpolation": "hermite interpolation"
+        " Hermite interpolation": "Hermite Interpolation"
     },
     {
-        " Lagrange interpolation": "lagrange interpolation"
+        " Lagrange interpolation": "Lagrange Interpolation"
     },
     {
         ": interpolation using ": null
     },
     {
-        "Lagrange polynomials": "lagrange polynomial"
+        "Lagrange polynomials": "Lagrange Polynomial"
     },
     {
-        "  Linear interpolation": "linear interpolation"
+        "  Linear interpolation": "Linear Interpolation"
     },
     {
         ": a method of curve fitting using linear polynomials   ": null
     },
     {
-        "Monotone cubic interpolation": "monotone cubic interpolation"
+        "Monotone cubic interpolation": "Monotone Cubic Interpolation"
     },
     {
         ": a variant of cubic interpolation that preserves monotonicity of the data set being interpolated.   ": null
     },
     {
-        "Multivariate interpolation": "multivariate interpolation"
+        "Multivariate interpolation": "Multivariate Interpolation"
     },
     {
-        " Bicubic interpolation": "bicubic interpolation"
+        " Bicubic interpolation": "Bicubic Interpolation"
     },
     {
         ", a generalization of ": null
     },
     {
-        "cubic interpolation": "cubic interpolation"
+        "cubic interpolation": "Cubic Interpolation"
     },
     {
         " to two dimensions   ": null
     },
     {
-        "Bilinear interpolation": "bilinear interpolation"
+        "Bilinear interpolation": "Bilinear Interpolation"
     },
     {
         ": an extension of ": null
     },
     {
-        "linear interpolation": "linear interpolation"
+        "linear interpolation": "Linear Interpolation"
     },
     {
         " for interpolating functions of two variables on a regular grid   ": null
     },
     {
-        "Lanczos resampling": "lanczos resampling"
+        "Lanczos resampling": "Lanczos Resampling"
     },
     {
         " : a multivariate interpolation method used to compute new values for any digitally sampled data   ": null
     },
     {
-        "Nearest-neighbor interpolation": "nearest-neighbor interpolation"
+        "Nearest-neighbor interpolation": "Nearest-Neighbor Interpolation"
     },
     {
-        " Tricubic interpolation": "tricubic interpolation"
+        " Tricubic interpolation": "Tricubic Interpolation"
     },
     {
         ", a generalization of ": null
     },
     {
-        "cubic interpolation": "cubic interpolation"
+        "cubic interpolation": "Cubic Interpolation"
     },
     {
         " to three dimensions   ": null
     },
     {
-        "Pareto interpolation": "pareto interpolation"
+        "Pareto interpolation": "Pareto Interpolation"
     },
     {
         ": a method of estimating the median and other properties of a population that follows a ": null
     },
     {
-        "Pareto distribution": "pareto distribution"
+        "Pareto distribution": "Pareto Distribution"
     },
     {
         ".   ": null
     },
     {
-        "Polynomial interpolation": "polynomial interpolation"
+        "Polynomial interpolation": "Polynomial Interpolation"
     },
     {
-        " Nevilles algorithm": "nevilles algorithm"
+        " Nevilles algorithm": "Nevilles Algorithm"
     },
     {
-        " Spline interpolation": "spline interpolation"
+        " Spline interpolation": "Spline Interpolation"
     },
     {
         ": Reduces error with ": null
     },
     {
-        "Runges phenomenon": "runges phenomenon"
+        "Runges phenomenon": "Runges Phenomenon"
     },
     {
         ".   ": null
     },
     {
-        "De Boor algorithm": "de boor algorithm"
+        "De Boor algorithm": "De Boor Algorithm"
     },
     {
         ": ": null
     },
     {
-        "B-splines": "b-spline"
+        "B-splines": "B-Spline"
     },
     {
-        "  De Casteljaus algorithm": "de casteljaus algorithm"
+        "  De Casteljaus algorithm": "De Casteljaus Algorithm"
     },
     {
         ": ": null
     },
     {
-        "Bézier curves": "bézier curve"
+        "Bézier curves": "Bézier Curve"
     },
     {
-        "  Trigonometric interpolation": "trigonometric interpolation"
+        "  Trigonometric interpolation": "Trigonometric Interpolation"
     },
     {
-        "Eigenvalue algorithms": "eigenvalue algorithm"
+        "Eigenvalue algorithms": "Eigenvalue Algorithm"
     },
     {
-        "  Arnoldi iteration": "arnoldi iteration"
+        "  Arnoldi iteration": "Arnoldi Iteration"
     },
     {
-        " Inverse iteration": "inverse iteration"
+        " Inverse iteration": "Inverse Iteration"
     },
     {
-        " Jacobi method": "jacobi eigenvalue algorithm"
+        " Jacobi method": "Jacobi Eigenvalue Algorithm"
     },
     {
-        " Lanczos iteration": "lanczos iteration"
+        " Lanczos iteration": "Lanczos Iteration"
     },
     {
-        " Power iteration": "power iteration"
+        " Power iteration": "Power Iteration"
     },
     {
-        " QR algorithm": "qr algorithm"
+        " QR algorithm": "Qr Algorithm"
     },
     {
-        " Rayleigh quotient iteration": "rayleigh quotient iteration"
+        " Rayleigh quotient iteration": "Rayleigh Quotient Iteration"
     },
     {
-        " Gram–Schmidt process": "gram–schmidt process"
+        " Gram–Schmidt process": "Gram–Schmidt Process"
     },
     {
         ": orthogonalizes a set of vectors   ": null
     },
     {
-        "Matrix multiplication algorithms": "matrix multiplication algorithm"
+        "Matrix multiplication algorithms": "Matrix Multiplication Algorithm"
     },
     {
-        "  Cannons algorithm": "cannons algorithm"
+        "  Cannons algorithm": "Cannons Algorithm"
     },
     {
         ": a ": null
     },
     {
-        "distributed algorithm": "distributed algorithm"
+        "distributed algorithm": "Distributed Algorithm"
     },
     {
         " for ": null
     },
     {
-        "matrix multiplication": "matrix multiplication"
+        "matrix multiplication": "Matrix Multiplication"
     },
     {
         " especially suitable for computers laid out in an N × N mesh   ": null
     },
     {
-        "Coppersmith–Winograd algorithm": "coppersmith–winograd algorithm"
+        "Coppersmith–Winograd algorithm": "Coppersmith–Winograd Algorithm"
     },
     {
         ": square ": null
     },
     {
-        "matrix multiplication": "matrix multiplication"
+        "matrix multiplication": "Matrix Multiplication"
     },
     {
-        " Freivalds algorithm": "freivalds algorithm"
+        " Freivalds algorithm": "Freivalds Algorithm"
     },
     {
         ": a randomized algorithm used to verify matrix multiplication   ": null
     },
     {
-        "Strassen algorithm": "strassen algorithm"
+        "Strassen algorithm": "Strassen Algorithm"
     },
     {
         ": faster ": null
     },
     {
-        "matrix multiplication": "matrix multiplication"
+        "matrix multiplication": "Matrix Multiplication"
     },
     {
-        "    systems of linear equations": "system of linear equations"
+        "    systems of linear equations": "System Of Linear Equations"
     },
     {
-        " Biconjugate gradient method": "biconjugate gradient method"
+        " Biconjugate gradient method": "Biconjugate Gradient Method"
     },
     {
         ": solves systems of linear equations   ": null
     },
     {
-        "Conjugate gradient": "conjugate gradient"
+        "Conjugate gradient": "Conjugate Gradient"
     },
     {
         ": an algorithm for the numerical solution of particular systems of linear equations   ": null
     },
     {
-        "Gaussian elimination": "gaussian elimination"
+        "Gaussian elimination": "Gaussian Elimination"
     },
     {
-        " Gauss–Jordan elimination": "gauss–jordan elimination"
+        " Gauss–Jordan elimination": "Gauss–Jordan Elimination"
     },
     {
         ": solves systems of linear equations   ": null
     },
     {
-        "Gauss–Seidel method": "gauss–seidel method"
+        "Gauss–Seidel method": "Gauss–Seidel Method"
     },
     {
         ": solves systems of linear equations iteratively   ": null
     },
     {
-        "Levinson recursion": "levinson recursion"
+        "Levinson recursion": "Levinson Recursion"
     },
     {
         ": solves equation involving a ": null
     },
     {
-        "Toeplitz matrix": "toeplitz matrix"
+        "Toeplitz matrix": "Toeplitz Matrix"
     },
     {
-        " Stones method": "stones method"
+        " Stones method": "Stones Method"
     },
     {
         ": also known as the strongly implicit procedure or SIP, is an algorithm for solving a sparse linear system of equations   ": null
     },
     {
-        "Successive over-relaxation": "successive over-relaxation"
+        "Successive over-relaxation": "Successive Over-Relaxation"
     },
     {
         " : method used to speed up convergence of the ": null
     },
     {
-        "Gauss–Seidel method": "gauss–seidel method"
+        "Gauss–Seidel method": "Gauss–Seidel Method"
     },
     {
-        " Tridiagonal matrix algorithm": "tridiagonal matrix algorithm"
+        " Tridiagonal matrix algorithm": "Tridiagonal Matrix Algorithm"
     },
     {
         " : solves systems of tridiagonal equations   ": null
     },
     {
-        "Sparse matrix": "sparse matrix"
+        "Sparse matrix": "Sparse Matrix"
     },
     {
         " algorithms   ": null
     },
     {
-        "Cuthill–McKee algorithm": "cuthill–mckee algorithm"
+        "Cuthill–McKee algorithm": "Cuthill–Mckee Algorithm"
     },
     {
         ": reduce the ": null
     },
     {
-        "bandwidth": "bandwidth"
+        "bandwidth": "Bandwidth"
     },
     {
         " of a ": null
     },
     {
-        "symmetric sparse matrix": "symmetric sparse matrix"
+        "symmetric sparse matrix": "Symmetric Sparse Matrix"
     },
     {
-        " Minimum degree algorithm": "minimum degree algorithm"
+        " Minimum degree algorithm": "Minimum Degree Algorithm"
     },
     {
         ": permute the rows and columns of a ": null
     },
     {
-        "symmetric sparse matrix": "symmetric sparse matrix"
+        "symmetric sparse matrix": "Symmetric Sparse Matrix"
     },
     {
         " before applying the ": null
     },
     {
-        "Cholesky decomposition": "cholesky decomposition"
+        "Cholesky decomposition": "Cholesky Decomposition"
     },
     {
-        " Symbolic Cholesky decomposition": "symbolic cholesky decomposition"
+        " Symbolic Cholesky decomposition": "Symbolic Cholesky Decomposition"
     },
     {
         ": Efficient way of storing ": null
     },
     {
-        "sparse matrix": "sparse matrix"
+        "sparse matrix": "Sparse Matrix"
     },
     {
-        "        Gibbs sampling": "gibbs sampling"
+        "        Gibbs sampling": "Gibbs Sampling"
     },
     {
         ": generate a sequence of samples from the joint probability distribution of two or more random variables   ": null
     },
     {
-        "Hybrid Monte Carlo": "hybrid monte carlo"
+        "Hybrid Monte Carlo": "Hybrid Monte Carlo"
     },
     {
         ": generate a sequence of samples using ": null
     },
     {
-        "Hamiltonian": "hamiltonian dynamics"
+        "Hamiltonian": "Hamiltonian Dynamics"
     },
     {
         " weighted ": null
     },
     {
-        "Markov chain Monte Carlo": "markov chain monte carlo"
+        "Markov chain Monte Carlo": "Markov Chain Monte Carlo"
     },
     {
         ", from a probability distribution which is difficult to sample directly.   ": null
     },
     {
-        "Metropolis–Hastings algorithm": "metropolis–hastings algorithm"
+        "Metropolis–Hastings algorithm": "Metropolis–Hastings Algorithm"
     },
     {
         ": used to generate a sequence of samples from the ": null
     },
     {
-        "probability distribution": "probability distribution"
+        "probability distribution": "Probability Distribution"
     },
     {
         " of one or more variables   ": null
     },
     {
-        "Wang and Landau algorithm": "wang and landau algorithm"
+        "Wang and Landau algorithm": "Wang And Landau Algorithm"
     },
     {
         ": an extension of ": null
     },
     {
-        "Metropolis–Hastings algorithm": "metropolis–hastings algorithm"
+        "Metropolis–Hastings algorithm": "Metropolis–Hastings Algorithm"
     },
     {
         " sampling        ": null
     },
     {
-        "MISER algorithm": "miser algorithm"
+        "MISER algorithm": "Miser Algorithm"
     },
     {
         ": Monte Carlo simulation, ": null
     },
     {
-        "numerical integration": "numerical integration"
+        "numerical integration": "Numerical Integration"
     },
     {
-        "        Bisection method": "bisection method"
+        "        Bisection method": "Bisection Method"
     },
     {
-        " False position method": "false position method"
+        " False position method": "False Position Method"
     },
     {
         ": approximates roots of a function   ": null
     },
     {
-        "Newtons method": "newtons method"
+        "Newtons method": "Newtons Method"
     },
     {
         ": finds zeros of functions with ": null
     },
     {
-        "calculus": "calculus"
+        "calculus": "Calculus"
     },
     {
-        " Halleys method": "halleys method"
+        " Halleys method": "Halleys Method"
     },
     {
         ": uses first and second derivatives   ": null
     },
     {
-        "Secant method": "secant method"
+        "Secant method": "Secant Method"
     },
     {
         ": 2-point, 1-sided   ": null
     },
     {
-        "False position method": "false position method"
+        "False position method": "False Position Method"
     },
     {
         " and Illinois method: 2-point, bracketing   ": null
     },
     {
-        "Ridders method": "ridders method"
+        "Ridders method": "Ridders Method"
     },
     {
         ": 3-point, exponential scaling   ": null
     },
     {
-        "Mullers method": "mullers method"
+        "Mullers method": "Mullers Method"
     },
     {
         ": 3-point, quadratic interpolation        ": null
     },
     {
-        "Alpha–beta pruning": "alpha–beta pruning"
+        "Alpha–beta pruning": "Alpha–Beta Pruning"
     },
     {
         ": search to reduce number of nodes in minimax algorithm   ": null
     },
     {
-        "Branch and bound": "branch and bound"
+        "Branch and bound": "Branch And Bound"
     },
     {
-        " Bruss algorithm": "bruss algorithm"
+        " Bruss algorithm": "Bruss Algorithm"
     },
     {
         ": see ": null
     },
     {
-        "odds algorithm": "odds algorithm"
+        "odds algorithm": "Odds Algorithm"
     },
     {
-        " Chain matrix multiplication": "chain matrix multiplication"
+        " Chain matrix multiplication": "Chain Matrix Multiplication"
     },
     {
-        " Combinatorial optimization": "combinatorial optimization"
+        " Combinatorial optimization": "Combinatorial Optimization"
     },
     {
         ": optimization problems where the set of feasible solutions is discrete   ": null
     },
     {
-        "Greedy randomized adaptive search procedure": "greedy randomized adaptive search procedure"
+        "Greedy randomized adaptive search procedure": "Greedy Randomized Adaptive Search Procedure"
     },
     {
         " : successive constructions of a greedy randomized solution and subsequent iterative improvements of it through a local search   ": null
     },
     {
-        "Hungarian method": "hungarian method"
+        "Hungarian method": "Hungarian Method"
     },
     {
         ": a combinatorial optimization algorithm which solves the ": null
     },
     {
-        "assignment problem": "assignment problem"
+        "assignment problem": "Assignment Problem"
     },
     {
         " in polynomial time   ": null
     },
     {
-        "Constraint satisfaction": "constraint satisfaction"
+        "Constraint satisfaction": "Constraint Satisfaction"
     },
     {
-        " AC-3 algorithm": "ac-3 algorithm"
+        " AC-3 algorithm": "Ac-3 Algorithm"
     },
     {
-        " Difference map algorithm": "difference map algorithm"
+        " Difference map algorithm": "Difference Map Algorithm"
     },
     {
-        " Min conflicts algorithm": "min conflicts algorithm"
+        " Min conflicts algorithm": "Min Conflicts Algorithm"
     },
     {
-        " Chaff algorithm": "chaff algorithm"
+        " Chaff algorithm": "Chaff Algorithm"
     },
     {
         ": an algorithm for solving instances of the boolean satisfiability problem   ": null
     },
     {
-        "Davis–Putnam algorithm": "davis–putnam algorithm"
+        "Davis–Putnam algorithm": "Davis–Putnam Algorithm"
     },
     {
         ": check the validity of a first-order logic formula   ": null
     },
     {
-        "Davis–Putnam–Logemann–Loveland algorithm": "dpll algorithm"
+        "Davis–Putnam–Logemann–Loveland algorithm": "Dpll Algorithm"
     },
     {
         " : an algorithm for deciding the satisfiability of propositional logic formula in ": null
     },
     {
-        "conjunctive normal form": "conjunctive normal form"
+        "conjunctive normal form": "Conjunctive Normal Form"
     },
     {
         ", i.e. for solving the ": null
     },
     {
-        "CNF-SAT": "cnf-sat"
+        "CNF-SAT": "Cnf-Sat"
     },
     {
         " problem   ": null
     },
     {
-        "Exact cover": "exact cover"
+        "Exact cover": "Exact Cover"
     },
     {
         " problem   ": null
     },
     {
-        "Algorithm X": "algorithm x"
+        "Algorithm X": "Algorithm X"
     },
     {
         ": a ": null
     },
     {
-        "nondeterministic algorithm": "nondeterministic algorithm"
+        "nondeterministic algorithm": "Nondeterministic Algorithm"
     },
     {
-        " Dancing Links": "dancing links"
+        " Dancing Links": "Dancing Links"
     },
     {
         ": an efficient implementation of Algorithm X   ": null
     },
     {
-        "Cross-entropy method": "cross-entropy method"
+        "Cross-entropy method": "Cross-Entropy Method"
     },
     {
         ": a general Monte Carlo approach to combinatorial and continuous multi-extremal optimization and ": null
     },
     {
-        "importance sampling": "importance sampling"
+        "importance sampling": "Importance Sampling"
     },
     {
-        " Differential evolution": "differential evolution"
+        " Differential evolution": "Differential Evolution"
     },
     {
-        " Dynamic Programming": "dynamic programming"
+        " Dynamic Programming": "Dynamic Programming"
     },
     {
         ": problems exhibiting the properties of ": null
     },
     {
-        "overlapping subproblems": "overlapping subproblem"
+        "overlapping subproblems": "Overlapping Subproblem"
     },
     {
         "and ": null
     },
     {
-        "optimal substructure": "optimal substructure"
+        "optimal substructure": "Optimal Substructure"
     },
     {
-        " Ellipsoid method": "ellipsoid method"
+        " Ellipsoid method": "Ellipsoid Method"
     },
     {
         ": is an algorithm for solving convex optimization problems   ": null
     },
     {
-        "Evolutionary computation": "evolutionary computation"
+        "Evolutionary computation": "Evolutionary Computation"
     },
     {
         ": optimization inspired by biological mechanisms of evolution   ": null
     },
     {
-        "Evolution strategy": "evolution strategy"
+        "Evolution strategy": "Evolution Strategy"
     },
     {
-        " Gene expression programming": "gene expression programming"
+        " Gene expression programming": "Gene Expression Programming"
     },
     {
-        " Genetic algorithms": "genetic algorithms"
+        " Genetic algorithms": "Genetic Algorithms"
     },
     {
-        " Fitness proportionate selection": "fitness proportionate selection"
+        " Fitness proportionate selection": "Fitness Proportionate Selection"
     },
     {
         " - also known as roulette-wheel selection   ": null
     },
     {
-        "Stochastic universal sampling": "stochastic universal sampling"
+        "Stochastic universal sampling": "Stochastic Universal Sampling"
     },
     {
-        " Truncation selection": "truncation selection"
+        " Truncation selection": "Truncation Selection"
     },
     {
-        " Tournament selection": "tournament selection"
+        " Tournament selection": "Tournament Selection"
     },
     {
-        " Memetic algorithm": "memetic algorithm"
+        " Memetic algorithm": "Memetic Algorithm"
     },
     {
-        " Swarm intelligence": "swarm intelligence"
+        " Swarm intelligence": "Swarm Intelligence"
     },
     {
-        " Ant colony optimization": "ant colony optimization"
+        " Ant colony optimization": "Ant Colony Optimization"
     },
     {
-        " Bees algorithm": "bees algorithm"
+        " Bees algorithm": "Bees Algorithm"
     },
     {
         ": a search algorithm which mimics the food foraging behavior of swarms of honey bees   ": null
     },
     {
-        "Particle swarm": "particle swarm optimization"
+        "Particle swarm": "Particle Swarm Optimization"
     },
     {
-        " golden section search": "golden section search"
+        " golden section search": "Golden Section Search"
     },
     {
         ": an algorithm for finding the maximum of a real function   ": null
     },
     {
-        "Gradient descent": "gradient descent"
+        "Gradient descent": "Gradient Descent"
     },
     {
-        " Harmony search": "harmony search"
+        " Harmony search": "Harmony Search"
     },
     {
         " : a ": null
     },
     {
-        "metaheuristic": "metaheuristic"
+        "metaheuristic": "Metaheuristic"
     },
     {
         " algorithm mimicking the improvisation process of musicians   ": null
     },
     {
-        "Interior point method": "interior point method"
+        "Interior point method": "Interior Point Method"
     },
     {
-        " Linear programming": "linear programming"
+        " Linear programming": "Linear Programming"
     },
     {
-        " Bensons algorithm": "bensons algorithm"
+        " Bensons algorithm": "Bensons Algorithm"
     },
     {
         ": an algorithm for solving linear ": null
     },
     {
-        "vector optimization": "vector optimization"
+        "vector optimization": "Vector Optimization"
     },
     {
         " problems   ": null
     },
     {
-        "Dantzig–Wolfe decomposition": "dantzig–wolfe decomposition"
+        "Dantzig–Wolfe decomposition": "Dantzig–Wolfe Decomposition"
     },
     {
         ": an algorithm for solving linear programming problems with special structure   ": null
     },
     {
-        "Delayed column generation": "delayed column generation"
+        "Delayed column generation": "Delayed Column Generation"
     },
     {
-        " Integer linear programming": "integer linear programming"
+        " Integer linear programming": "Integer Linear Programming"
     },
     {
         ": solve linear programming problems where some or all the unknowns are restricted to integer values   ": null
     },
     {
-        "Branch and cut": "branch and cut"
+        "Branch and cut": "Branch And Cut"
     },
     {
-        " Cutting-plane method": "cutting-plane method"
+        " Cutting-plane method": "Cutting-Plane Method"
     },
     {
-        " Karmarkars algorithm": "karmarkars algorithm"
+        " Karmarkars algorithm": "Karmarkars Algorithm"
     },
     {
         ": The first reasonably efficient algorithm that solves the ": null
     },
     {
-        "linear programming": "linear programming"
+        "linear programming": "Linear Programming"
     },
     {
         " problem in ": null
     },
     {
-        "polynomial time": "polynomial time"
+        "polynomial time": "Polynomial Time"
     },
     {
         ".   ": null
     },
     {
-        "Simplex algorithm": "simplex algorithm"
+        "Simplex algorithm": "Simplex Algorithm"
     },
     {
         ": An algorithm for solving ": null
     },
     {
-        "linear programming": "linear programming"
+        "linear programming": "Linear Programming"
     },
     {
         " problems   ": null
     },
     {
-        "Line search": "line search"
+        "Line search": "Line Search"
     },
     {
-        " Local search": "local search"
+        " Local search": "Local Search"
     },
     {
         ": a metaheuristic for solving computationally hard optimization problems   ": null
     },
     {
-        "Random-restart hill climbing": "random-restart hill climbing"
+        "Random-restart hill climbing": "Random-Restart Hill Climbing"
     },
     {
-        " Tabu search": "tabu search"
+        " Tabu search": "Tabu Search"
     },
     {
-        " Minimax": "minimaxminimax algorithm with alternate moves"
+        " Minimax": "Minimaxminimax Algorithm With Alternate Moves"
     },
     {
         " used in game programming   ": null
     },
     {
-        "Nearest neighbor search": "nearest neighbor search"
+        "Nearest neighbor search": "Nearest Neighbor Search"
     },
     {
         " : find closest points in a ": null
     },
     {
-        "metric space": "metric space"
+        "metric space": "Metric Space"
     },
     {
-        " Best Bin First": "best bin first"
+        " Best Bin First": "Best Bin First"
     },
     {
         ": find an approximate solution to the ": null
     },
     {
-        "Nearest neighbor search": "nearest neighbor search"
+        "Nearest neighbor search": "Nearest Neighbor Search"
     },
     {
         " problem in very-high-dimensional spaces   ": null
     },
     {
-        "Newtons method in optimization": "newtons method in optimization"
+        "Newtons method in optimization": "Newtons Method In Optimization"
     },
     {
-        " Nonlinear optimization": "nonlinear optimization"
+        " Nonlinear optimization": "Nonlinear Optimization"
     },
     {
-        " BFGS method": "bfgs method"
+        " BFGS method": "Bfgs Method"
     },
     {
         ": A ": null
     },
     {
-        "nonlinear optimization": "nonlinear optimization"
+        "nonlinear optimization": "Nonlinear Optimization"
     },
     {
         " algorithm   ": null
     },
     {
-        "Gauss–Newton algorithm": "gauss–newton algorithm"
+        "Gauss–Newton algorithm": "Gauss–Newton Algorithm"
     },
     {
         ": An algorithm for solving nonlinear ": null
     },
     {
-        "least squares": "least squares"
+        "least squares": "Least Squares"
     },
     {
         " problems.   ": null
     },
     {
-        "Levenberg–Marquardt algorithm": "levenberg–marquardt algorithm"
+        "Levenberg–Marquardt algorithm": "Levenberg–Marquardt Algorithm"
     },
     {
         ": An algorithm for solving nonlinear ": null
     },
     {
-        "least squares": "least squares"
+        "least squares": "Least Squares"
     },
     {
         " problems.   ": null
     },
     {
-        "Nelder–Mead method": "nelder–mead method"
+        "Nelder–Mead method": "Nelder–Mead Method"
     },
     {
         " : A ": null
     },
     {
-        "nonlinear optimization": "nonlinear optimization"
+        "nonlinear optimization": "Nonlinear Optimization"
     },
     {
         " algorithm   ": null
     },
     {
-        "Odds algorithm": "odds algorithm"
+        "Odds algorithm": "Odds Algorithm"
     },
     {
         " : Finds the optimal strategy to predict a last specific event in a random sequence event   ": null
     },
     {
-        "Simulated annealing": "simulated annealing"
+        "Simulated annealing": "Simulated Annealing"
     },
     {
-        " Stochastic tunneling": "stochastic tunneling"
+        " Stochastic tunneling": "Stochastic Tunneling"
     },
     {
-        " Subset sum": "subset sum problem"
+        " Subset sum": "Subset Sum Problem"
     },
     {
         " algorithm               ": null
     },
     {
-        "Doomsday algorithm": "doomsday algorithm"
+        "Doomsday algorithm": "Doomsday Algorithm"
     },
     {
         ": day of the week   ": null
     },
     {
-        "Zellers congruence": "zellers congruence"
+        "Zellers congruence": "Zellers Congruence"
     },
     {
         " is an algorithm to calculate the day of the week for any Julian or Gregorian calendar date   various ": null
     },
     {
-        "Easter algorithms": "computus"
+        "Easter algorithms": "Computus"
     },
     {
         " are used to calculate the day of Easter           ": null
     },
     {
-        "Basic Local Alignment Search Tool": "basic local alignment search tool"
+        "Basic Local Alignment Search Tool": "Basic Local Alignment Search Tool"
     },
     {
         " also known as BLAST: an algorithm for comparing primary biological sequence information   ": null
     },
     {
-        "Kabsch algorithm": "kabsch algorithm"
+        "Kabsch algorithm": "Kabsch Algorithm"
     },
     {
         ": calculate the optimal alignment of two sets of points in order to compute the ": null
     },
     {
-        "root mean squared deviation": "rmsd"
+        "root mean squared deviation": "Rmsd"
     },
     {
         " between two protein structures.   ": null
     },
     {
-        "Velvet": "velvet"
+        "Velvet": "Velvet"
     },
     {
         ": a set of algorithms manipulating ": null
     },
     {
-        "de Bruijn graphs": "de bruijn graph"
+        "de Bruijn graphs": "De Bruijn Graph"
     },
     {
         "for genomic ": null
     },
     {
-        "sequence assembly": "sequence assembly"
+        "sequence assembly": "Sequence Assembly"
     },
     {
-        " Sorting by signed reversals": "sorting by signed reversals"
+        " Sorting by signed reversals": "Sorting By Signed Reversals"
     },
     {
         ": an algorithm for understanding genomic evolution.   ": null
     },
     {
-        "Maximum parsimony ": "maximum parsimony"
+        "Maximum parsimony ": "Maximum Parsimony"
     },
     {
         ": an algorithm for finding the simplest phylogenetic tree to explain a given character matrix.   ": null
     },
     {
-        "UPGMA": "upgma"
+        "UPGMA": "Upgma"
     },
     {
         ": a distance-based phylogenetic tree construction algorithm.        ": null
     },
     {
-        "Vincentys formulae": "vincentys formulae"
+        "Vincentys formulae": "Vincentys Formulae"
     },
     {
         ": a fast algorithm to calculate the distance between two latitude/longitude points on an ellipsoid   ": null
     },
     {
-        "Geohash": "geohash"
+        "Geohash": "Geohash"
     },
     {
         ": a public domain algorithm that encodes a decimal latitude/longitude pair as a hash string        ": null
     },
     {
-        "Lesk algorithm": "lesk algorithm"
+        "Lesk algorithm": "Lesk Algorithm"
     },
     {
         ": word sense disambiguation   ": null
     },
     {
-        "Stemming algorithm": "stemming"
+        "Stemming algorithm": "Stemming"
     },
     {
         ": a method of reducing words to their stem, base, or root form   ": null
     },
     {
-        "Sukhotins algorithm": "sukhotins algorithm"
+        "Sukhotins algorithm": "Sukhotins Algorithm"
     },
     {
         ": a statistical classification algorithm for classifying characters in a text as vowels or consonants        ": null
     },
     {
-        "ESC algorithm": "esc algorithm"
+        "ESC algorithm": "Esc Algorithm"
     },
     {
         " for the diagnosis of heart failure   ": null
     },
     {
-        "Manning Criteria": "manning criteria"
+        "Manning Criteria": "Manning Criteria"
     },
     {
         " for irritable bowel syndrome   ": null
     },
     {
-        "Pulmonary embolism": "pulmonary embolismalgorithms"
+        "Pulmonary embolism": "Pulmonary Embolismalgorithms"
     },
     {
         " diagnostic algorithms   ": null
     },
     {
-        "Texas Medication Algorithm Project": "texas medication algorithm project"
+        "Texas Medication Algorithm Project": "Texas Medication Algorithm Project"
     },
     {
-        "        Constraint algorithm": "constraint algorithm"
+        "        Constraint algorithm": "Constraint Algorithm"
     },
     {
         ": a class of algorithms for satisfying constraints for bodies that obey Newtons equations of motion   ": null
     },
     {
-        "Demon algorithm": "demon algorithm"
+        "Demon algorithm": "Demon Algorithm"
     },
     {
         ": a ": null
     },
     {
-        "Monte Carlo method": "monte carlo method"
+        "Monte Carlo method": "Monte Carlo Method"
     },
     {
         " for efficiently sampling members of a ": null
     },
     {
-        "microcanonical ensemble": "microcanonical ensemble"
+        "microcanonical ensemble": "Microcanonical Ensemble"
     },
     {
         " with a given energy   ": null
     },
     {
-        "Featherstones algorithm": "featherstones algorithm"
+        "Featherstones algorithm": "Featherstones Algorithm"
     },
     {
         ": compute the effects of forces applied to a structure of joints and links   ": null
     },
     {
-        "Ground state": "ground state"
+        "Ground state": "Ground State"
     },
     {
         " approximation   ": null
     },
     {
-        "Variational method": "variational method"
+        "Variational method": "Variational Method"
     },
     {
-        " Ritz method": "ritz method"
+        " Ritz method": "Ritz Method"
     },
     {
-        "N-body problems": "n-body problem"
+        "N-body problems": "N-Body Problem"
     },
     {
-        "  Barnes–Hut simulation": "barnes–hut simulation"
+        "  Barnes–Hut simulation": "Barnes–Hut Simulation"
     },
     {
         ": Solves the n-body problem in an approximate way that has the order  instead of  as in a direct-sum simulation.   ": null
     },
     {
-        "Fast multipole method": "fast multipole method"
+        "Fast multipole method": "Fast Multipole Method"
     },
     {
         " : speeds up the calculation of long-ranged forces   ": null
     },
     {
-        "Rainflow-counting algorithm": "rainflow-counting algorithm"
+        "Rainflow-counting algorithm": "Rainflow-Counting Algorithm"
     },
     {
         ": Reduces a complex ": null
     },
     {
-        "stress": "stress"
+        "stress": "Stress"
     },
     {
         " history to a count of elementary stress-reversals for use in ": null
     },
     {
-        "fatigue": "fatigue"
+        "fatigue": "Fatigue"
     },
     {
         " analysis   ": null
     },
     {
-        "Sweep and prune": "sweep and prune"
+        "Sweep and prune": "Sweep And Prune"
     },
     {
         ": a broad phase algorithm used during ": null
     },
     {
-        "collision detection": "collision detection"
+        "collision detection": "Collision Detection"
     },
     {
         " to limit the number of pairs of solids that need to be checked for collision   ": null
     },
     {
-        "VEGAS algorithm": "vegas algorithm"
+        "VEGAS algorithm": "Vegas Algorithm"
     },
     {
         ": a method for reducing error in ": null
     },
     {
-        "Monte Carlo simulations": "monte carlo simulation"
+        "Monte Carlo simulations": "Monte Carlo Simulation"
     },
     {
-        "       Algorithms for calculating variance": "algorithms for calculating variance"
+        "       Algorithms for calculating variance": "Algorithms For Calculating Variance"
     },
     {
         ": avoiding instability and numerical overflow   ": null
     },
     {
-        "Approximate counting algorithm": "approximate counting algorithm"
+        "Approximate counting algorithm": "Approximate Counting Algorithm"
     },
     {
         ": Allows counting large number of events in a small register   ": null
     },
     {
-        "Bayesian statistics": "bayesian statistics"
+        "Bayesian statistics": "Bayesian Statistics"
     },
     {
-        " Nested sampling algorithm": "nested sampling algorithm"
+        " Nested sampling algorithm": "Nested Sampling Algorithm"
     },
     {
         ": a computational approach to the problem of comparing models in Bayesian statistics   ": null
     },
     {
-        "Clustering Algorithms": "data clustering"
+        "Clustering Algorithms": "Data Clustering"
     },
     {
-        " Average-linkage clustering": "upgma"
+        " Average-linkage clustering": "Upgma"
     },
     {
         ": a simple agglomerative clustering algorithm   ": null
     },
     {
-        "Canopy clustering algorithm": "canopy clustering algorithm"
+        "Canopy clustering algorithm": "Canopy Clustering Algorithm"
     },
     {
         ": an unsupervised pre-clustering algorithm related to the K-means algorithm   ": null
     },
     {
-        "Complete-linkage clustering": "complete-linkage clustering"
+        "Complete-linkage clustering": "Complete-Linkage Clustering"
     },
     {
         ": a simple agglomerative clustering algorithm   ": null
     },
     {
-        "DBSCAN": "dbscan"
+        "DBSCAN": "Dbscan"
     },
     {
         ": a density based clustering algorithm   ": null
     },
     {
-        "Expectation-maximization algorithm": "expectation-maximization algorithm"
+        "Expectation-maximization algorithm": "Expectation-Maximization Algorithm"
     },
     {
-        " Fuzzy clustering": "fuzzy clustering"
+        " Fuzzy clustering": "Fuzzy Clustering"
     },
     {
         ": a class of clustering algorithms where each point has a degree of belonging to clusters   ": null
     },
     {
-        "Fuzzy c-means": "fuzzy clusteringfuzzy c-means clustering"
+        "Fuzzy c-means": "Fuzzy Clusteringfuzzy C-Means Clustering"
     },
     {
-        " FLAME clustering": "flame clustering"
+        " FLAME clustering": "Flame Clustering"
     },
     {
         " : define clusters in the dense parts of a dataset and perform cluster assignment solely based on the neighborhood relationships among objects   ": null
     },
     {
-        "KHOPCA clustering algorithm": "khopca clustering algorithm"
+        "KHOPCA clustering algorithm": "Khopca Clustering Algorithm"
     },
     {
         ": a local clustering algorithm, which produces hierarchical multi-hop clusters in static and mobile environments.   ": null
     },
     {
-        "k-means clustering": "k-means clustering"
+        "k-means clustering": "K-Means Clustering"
     },
     {
         ": cluster objects based on attributes into partitions   ": null
     },
     {
-        "k-means++": "k-means++"
+        "k-means++": "K-Means++"
     },
     {
         ": a variation of this, using modified random seeds   ": null
     },
     {
-        "k-medoids": "k-medoids"
+        "k-medoids": "K-Medoids"
     },
     {
         ": similar to k-means, but chooses datapoints or ": null
     },
     {
-        "medoids": "medoid"
+        "medoids": "Medoid"
     },
     {
         "as centers   ": null
     },
     {
-        "Linde–Buzo–Gray algorithm": "linde–buzo–gray algorithm"
+        "Linde–Buzo–Gray algorithm": "Linde–Buzo–Gray Algorithm"
     },
     {
         ": a vector quantization algorithm to derive a good codebook   ": null
     },
     {
-        "Lloyds algorithm": "lloyds algorithm"
+        "Lloyds algorithm": "Lloyds Algorithm"
     },
     {
         " : group data points into a given number of categories, a popular algorithm for ": null
     },
     {
-        "k-means clustering": "k-means clustering"
+        "k-means clustering": "K-Means Clustering"
     },
     {
-        " OPTICS": "optics algorithm"
+        " OPTICS": "Optics Algorithm"
     },
     {
         ": a density based clustering algorithm with a visual evaluation method   ": null
     },
     {
-        "Single-linkage clustering": "single-linkage clustering"
+        "Single-linkage clustering": "Single-Linkage Clustering"
     },
     {
         ": a simple agglomerative clustering algorithm   ": null
     },
     {
-        "SUBCLU": "subclu"
+        "SUBCLU": "Subclu"
     },
     {
         ": a subspace clustering algorithm   ": null
     },
     {
-        "Wards method": "wards method"
+        "Wards method": "Wards Method"
     },
     {
         " : an agglomerative clustering algorithm, extended to more general Lance–Williams algorithms   ": null
     },
     {
-        "WACA clustering algorithm": "waca clustering algorithm"
+        "WACA clustering algorithm": "Waca Clustering Algorithm"
     },
     {
         ": a local clustering algorithm with potentially multi-hop structures; for dynamic networks   ": null
     },
     {
-        "Estimation Theory": "estimation theory"
+        "Estimation Theory": "Estimation Theory"
     },
     {
-        " Expectation-maximization algorithm": "expectation-maximization algorithm"
+        " Expectation-maximization algorithm": "Expectation-Maximization Algorithm"
     },
     {
         " A class of related algorithms for finding maximum likelihood estimates of parameters in probabilistic models   ": null
     },
     {
-        "Ordered subset expectation maximization": "ordered subset expectation maximization"
+        "Ordered subset expectation maximization": "Ordered Subset Expectation Maximization"
     },
     {
         " : used in ": null
     },
     {
-        "medical imaging": "medical imaging"
+        "medical imaging": "Medical Imaging"
     },
     {
         " for ": null
     },
     {
-        "positron emission tomography": "positron emission tomography"
+        "positron emission tomography": "Positron Emission Tomography"
     },
     {
         ", ": null
     },
     {
-        "single photon emission computed tomography": "single photon emission computed tomography"
+        "single photon emission computed tomography": "Single Photon Emission Computed Tomography"
     },
     {
         " and ": null
     },
     {
-        "X-ray": "x-ray"
+        "X-ray": "X-Ray"
     },
     {
         " computed tomography.   ": null
     },
     {
-        "Odds algorithm": "odds algorithm"
+        "Odds algorithm": "Odds Algorithm"
     },
     {
         " Optimal online search for distinguished value in sequential random input   ": null
     },
     {
-        "Kalman filter": "kalman filter"
+        "Kalman filter": "Kalman Filter"
     },
     {
         ": estimate the state of a linear ": null
     },
     {
-        "dynamic system": "dynamical system"
+        "dynamic system": "Dynamical System"
     },
     {
         " from a series of noisy measurements   ": null
     },
     {
-        "False nearest neighbor algorithm": "false nearest neighbor algorithm"
+        "False nearest neighbor algorithm": "False Nearest Neighbor Algorithm"
     },
     {
         " estimates ": null
     },
     {
-        "fractal dimension": "fractal dimension"
+        "fractal dimension": "Fractal Dimension"
     },
     {
-        " Hidden Markov model": "hidden markov model"
+        " Hidden Markov model": "Hidden Markov Model"
     },
     {
-        " Baum–Welch algorithm": "baum–welch algorithm"
+        " Baum–Welch algorithm": "Baum–Welch Algorithm"
     },
     {
         ": compute maximum likelihood estimates and ": null
     },
     {
-        "posterior mode": "maximum a posteriori"
+        "posterior mode": "Maximum A Posteriori"
     },
     {
         " estimates for the parameters of a hidden Markov model   ": null
     },
     {
-        "Forward-backward algorithm": "forward-backward algorithm"
+        "Forward-backward algorithm": "Forward-Backward Algorithm"
     },
     {
         " a dynamic programming algorithm for computing the probability of a particular observation sequence   ": null
     },
     {
-        "Viterbi algorithm": "viterbi algorithm"
+        "Viterbi algorithm": "Viterbi Algorithm"
     },
     {
         ": find the most likely sequence of hidden states in a hidden Markov model   ": null
     },
     {
-        "Partial least squares regression": "partial least squares regression"
+        "Partial least squares regression": "Partial Least Squares Regression"
     },
     {
         ": finds a linear model describing some predicted variables in terms of other observable variables   ": null
     },
     {
-        "Queuing theory": "queuing theory"
+        "Queuing theory": "Queuing Theory"
     },
     {
-        " Buzens algorithm": "buzens algorithm"
+        " Buzens algorithm": "Buzens Algorithm"
     },
     {
         ": an algorithm for calculating the normalization constant G in the ": null
     },
     {
-        "Gordon–Newell theorem": "gordon–newell theorem"
+        "Gordon–Newell theorem": "Gordon–Newell Theorem"
     },
     {
-        " RANSAC": "ransac"
+        " RANSAC": "Ransac"
     },
     {
         " : an iterative method to estimate parameters of a mathematical model from a set of observed data which contains outliers   ": null
     },
     {
-        "Scoring algorithm": "scoring algorithm"
+        "Scoring algorithm": "Scoring Algorithm"
     },
     {
         ": is a form of ": null
     },
     {
-        "Newtons method": "newtons method"
+        "Newtons method": "Newtons Method"
     },
     {
         " used to solve ": null
     },
     {
-        "maximum likelihood": "maximum likelihood"
+        "maximum likelihood": "Maximum Likelihood"
     },
     {
         " equations numerically   ": null
     },
     {
-        "Yamartino method": "yamartino method"
+        "Yamartino method": "Yamartino Method"
     },
     {
         ": calculate an approximation to the standard deviation σθ of wind direction θ during a single pass through the incoming data   ": null
     },
     {
-        "Ziggurat algorithm": "ziggurat algorithm"
+        "Ziggurat algorithm": "Ziggurat Algorithm"
     },
     {
         ": generate random numbers from a non-uniform distribution               ": null
     },
     {
-        "Tomasulo algorithm": "tomasulo algorithm"
+        "Tomasulo algorithm": "Tomasulo Algorithm"
     },
     {
         ": allows sequential instructions that would normally be stalled due to certain dependencies to execute non-sequentially        ": null
     },
     {
-        "Clipping": "clipping"
+        "Clipping": "Clipping"
     },
     {
-        " Line clipping": "line clipping"
+        " Line clipping": "Line Clipping"
     },
     {
-        " Cohen–Sutherland": "cohen–sutherland"
+        " Cohen–Sutherland": "Cohen–Sutherland"
     },
     {
-        " Cyrus–Beck": "cyrus–beck"
+        " Cyrus–Beck": "Cyrus–Beck"
     },
     {
-        " Fast-clipping": "fast clipping"
+        " Fast-clipping": "Fast Clipping"
     },
     {
-        " Liang–Barsky": "liang–barsky"
+        " Liang–Barsky": "Liang–Barsky"
     },
     {
-        " Nicholl–Lee–Nicholl": "nicholl–lee–nicholl"
+        " Nicholl–Lee–Nicholl": "Nicholl–Lee–Nicholl"
     },
     {
-        " Sutherland–Hodgman": "sutherland–hodgman"
+        " Sutherland–Hodgman": "Sutherland–Hodgman"
     },
     {
-        " Vatti": "vatti clipping algorithm"
+        " Vatti": "Vatti Clipping Algorithm"
     },
     {
-        " Weiler–Atherton": "weiler–atherton"
+        " Weiler–Atherton": "Weiler–Atherton"
     },
     {
-        "Contour lines": "contour line"
+        "Contour lines": "Contour Line"
     },
     {
         "and ": null
     },
     {
-        "Isosurfaces": "isosurface"
+        "Isosurfaces": "Isosurface"
     },
     {
-        "  Marching cubes": "marching cubes"
+        "  Marching cubes": "Marching Cubes"
     },
     {
         ": extract a polygonal mesh of an isosurface from a three-dimensional scalar field   ": null
     },
     {
-        "Marching squares": "marching squares"
+        "Marching squares": "Marching Squares"
     },
     {
         ": generate contour lines for a two-dimensional scalar field   ": null
     },
     {
-        "Marching tetrahedrons": "marching tetrahedrons"
+        "Marching tetrahedrons": "Marching Tetrahedrons"
     },
     {
         ": an alternative to ": null
     },
     {
-        "Marching cubes": "marching cubes"
+        "Marching cubes": "Marching Cubes"
     },
     {
-        " Discrete Greens Theorem": "discrete greens theorem"
+        " Discrete Greens Theorem": "Discrete Greens Theorem"
     },
     {
         ": is an algorithm for computing double integral over a generalized rectangular domain in constant time. It is a natural extension to the summed area table algorithm   ": null
     },
     {
-        "Flood fill": "flood fill"
+        "Flood fill": "Flood Fill"
     },
     {
         ": fills a connected region of a multi-dimensional array with a specified symbol   ": null
     },
     {
-        "Global illumination": "global illumination"
+        "Global illumination": "Global Illumination"
     },
     {
         " algorithms: Considers direct illumination and reflection from other objects.   ": null
     },
     {
-        "Ambient occlusion": "ambient occlusion"
+        "Ambient occlusion": "Ambient Occlusion"
     },
     {
-        " Beam tracing": "beam tracing"
+        " Beam tracing": "Beam Tracing"
     },
     {
-        " Cone tracing": "cone tracing"
+        " Cone tracing": "Cone Tracing"
     },
     {
-        " Image-based lighting": "image-based lighting"
+        " Image-based lighting": "Image-Based Lighting"
     },
     {
-        " Metropolis light transport": "metropolis light transport"
+        " Metropolis light transport": "Metropolis Light Transport"
     },
     {
-        " Path tracing": "path tracing"
+        " Path tracing": "Path Tracing"
     },
     {
-        " Photon mapping": "photon mapping"
+        " Photon mapping": "Photon Mapping"
     },
     {
-        " Radiosity": "radiosity"
+        " Radiosity": "Radiosity"
     },
     {
-        " Ray tracing": "ray tracing"
+        " Ray tracing": "Ray Tracing"
     },
     {
-        " Hidden surface removal": "hidden surface determination"
+        " Hidden surface removal": "Hidden Surface Determination"
     },
     {
         " or ": null
     },
     {
-        "Visual surface determination": "hidden surface determination"
+        "Visual surface determination": "Hidden Surface Determination"
     },
     {
-        " Newells algorithm": "newells algorithm"
+        " Newells algorithm": "Newells Algorithm"
     },
     {
         ": eliminate polygon cycles in the depth sorting required in hidden surface removal   ": null
     },
     {
-        "Painters algorithm": "painters algorithm"
+        "Painters algorithm": "Painters Algorithm"
     },
     {
         ": detects visible parts of a 3-dimensional scenery   ": null
     },
     {
-        "Scanline rendering": "scanline rendering"
+        "Scanline rendering": "Scanline Rendering"
     },
     {
         ": constructs an image by moving an imaginary line over the image   ": null
     },
     {
-        "Warnock algorithm": "warnock algorithm"
+        "Warnock algorithm": "Warnock Algorithm"
     },
     {
-        " Line Drawing": "line drawing algorithm"
+        " Line Drawing": "Line Drawing Algorithm"
     },
     {
         ": graphical algorithm for approximating a line segment on discrete graphical media.   ": null
     },
     {
-        "Bresenhams line algorithm": "bresenhams line algorithm"
+        "Bresenhams line algorithm": "Bresenhams Line Algorithm"
     },
     {
         ": plots points of a 2-dimensional array to form a straight line between 2 specified points   ": null
     },
     {
-        "DDA line algorithm": "digital differential analyzer"
+        "DDA line algorithm": "Digital Differential Analyzer"
     },
     {
         ": plots points of a 2-dimensional array to form a straight line between 2 specified points   ": null
     },
     {
-        "Xiaolin Wus line algorithm": "xiaolin wus line algorithm"
+        "Xiaolin Wus line algorithm": "Xiaolin Wus Line Algorithm"
     },
     {
         ": algorithm for line antialiasing.   ": null
     },
     {
-        "Midpoint circle algorithm": "midpoint circle algorithm"
+        "Midpoint circle algorithm": "Midpoint Circle Algorithm"
     },
     {
         ": an algorithm used to determine the points needed for drawing a circle   ": null
     },
     {
-        "Ramer–Douglas–Peucker algorithm": "ramer–douglas–peucker algorithm"
+        "Ramer–Douglas–Peucker algorithm": "Ramer–Douglas–Peucker Algorithm"
     },
     {
         ": Given a curve composed of line segments to find a curve not too dissimilar but that has fewer points   ": null
     },
     {
-        "Shading": "shading"
+        "Shading": "Shading"
     },
     {
-        " Gouraud shading": "gouraud shading"
+        " Gouraud shading": "Gouraud Shading"
     },
     {
         ": an algorithm to simulate the differing effects of light and colour across the surface of an object in 3D computer graphics   ": null
     },
     {
-        "Phong shading": "phong shading"
+        "Phong shading": "Phong Shading"
     },
     {
         ": an algorithm to interpolate surface normal-vectors for surface shading in 3D computer graphics   ": null
     },
     {
-        "Slerp": "slerp"
+        "Slerp": "Slerp"
     },
     {
         " : quaternion interpolation for the purpose of animating 3D rotation   ": null
     },
     {
-        "Summed area table": "summed area table"
+        "Summed area table": "Summed Area Table"
     },
     {
         " : an algorithm for computing the sum of values in a rectangular subset of a grid in constant time        ": null
     },
     {
-        "Asymmetric encryption": "asymmetric key algorithm"
+        "Asymmetric encryption": "Asymmetric Key Algorithm"
     },
     {
         ":   ": null
     },
     {
-        "ElGamal": "elgamal encryption"
+        "ElGamal": "Elgamal Encryption"
     },
     {
-        " Elliptic curve cryptography": "elliptic curve cryptography"
+        " Elliptic curve cryptography": "Elliptic Curve Cryptography"
     },
     {
-        " MAE1": "matei array encreption 1"
+        " MAE1": "Matei Array Encreption 1"
     },
     {
-        " NTRUEncrypt": "ntruencrypt"
+        " NTRUEncrypt": "Ntruencrypt"
     },
     {
-        " RSA": "rsa"
+        " RSA": "Rsa"
     },
     {
-        "Digital signatures": "digital signature"
+        "Digital signatures": "Digital Signature"
     },
     {
         ":   ": null
     },
     {
-        "DSA": "digital signature algorithm"
+        "DSA": "Digital Signature Algorithm"
     },
     {
         ", and its variants:   ": null
     },
     {
-        "ECDSA": "ecdsa"
+        "ECDSA": "Ecdsa"
     },
     {
         " and  ": null
     },
     {
-        "EdDSA": "eddsa"
+        "EdDSA": "Eddsa"
     },
     {
-        "   RSA": "rsa"
+        "   RSA": "Rsa"
     },
     {
-        "Cryptographic hash functions": "cryptographic hash function"
+        "Cryptographic hash functions": "Cryptographic Hash Function"
     },
     {
         ":   ": null
     },
     {
-        "BLAKE": "blake"
+        "BLAKE": "Blake"
     },
     {
-        " MD5": "md5"
+        " MD5": "Md5"
     },
     {
         " – Note that there is now a method of generating collisions for MD5   ": null
     },
     {
-        "RIPEMD-160": "ripemd-160"
+        "RIPEMD-160": "Ripemd-160"
     },
     {
-        " SHA-1": "sha-1"
+        " SHA-1": "Sha-1"
     },
     {
         " – Note that there is now a method of generating collisions for SHA-1   ": null
     },
     {
-        "SHA-2": "sha-2"
+        "SHA-2": "Sha-2"
     },
     {
-        "   SHA-3": "sha-3"
+        "   SHA-3": "Sha-3"
     },
     {
-        "   Tiger": "tiger"
+        "   Tiger": "Tiger"
     },
     {
         " , usually used in ": null
     },
     {
-        "Tiger tree hashes": "hash tree"
+        "Tiger tree hashes": "Hash Tree"
     },
     {
-        " WHIRLPOOL": "whirlpool"
+        " WHIRLPOOL": "Whirlpool"
     },
     {
-        "Cryptographically secure pseudo-random number generators": "cryptographically secure pseudo-random number generator"
+        "Cryptographically secure pseudo-random number generators": "Cryptographically Secure Pseudo-Random Number Generator"
     },
     {
-        "  Blum Blum Shub": "blum blum shub"
+        "  Blum Blum Shub": "Blum Blum Shub"
     },
     {
         " - based on the hardness of ": null
     },
     {
-        "factorization": "integer factorization"
+        "factorization": "Integer Factorization"
     },
     {
-        " Fortuna": "fortuna"
+        " Fortuna": "Fortuna"
     },
     {
         ", intended as an improvement on ": null
     },
     {
-        "Yarrow algorithm": "yarrow algorithm"
+        "Yarrow algorithm": "Yarrow Algorithm"
     },
     {
-        " Linear-feedback shift register": "linear-feedback shift register"
+        " Linear-feedback shift register": "Linear-Feedback Shift Register"
     },
     {
-        "   Yarrow algorithm": "yarrow algorithm"
+        "   Yarrow algorithm": "Yarrow Algorithm"
     },
     {
-        " Key exchange": "key exchange"
+        " Key exchange": "Key Exchange"
     },
     {
-        " Diffie–Hellman key exchange": "diffie–hellman key exchange"
+        " Diffie–Hellman key exchange": "Diffie–Hellman Key Exchange"
     },
     {
-        " Elliptic-curve Diffie-Hellman": "elliptic-curve diffie-hellman"
+        " Elliptic-curve Diffie-Hellman": "Elliptic-Curve Diffie-Hellman"
     },
     {
-        "   Key derivation function": "key derivation function"
+        "   Key derivation function": "Key Derivation Function"
     },
     {
         "s, often used for ": null
     },
     {
-        "password hashing": "password hashing"
+        "password hashing": "Password Hashing"
     },
     {
         " and ": null
     },
     {
-        "key stretching": "key stretching"
+        "key stretching": "Key Stretching"
     },
     {
-        " bcrypt": "bcrypt"
+        " bcrypt": "Bcrypt"
     },
     {
-        " PBKDF2": "pbkdf2"
+        " PBKDF2": "Pbkdf2"
     },
     {
-        " scrypt": "scrypt"
+        " scrypt": "Scrypt"
     },
     {
-        " Argon2": "argon2"
+        " Argon2": "Argon2"
     },
     {
-        "Message authentication codes": "message authentication code"
+        "Message authentication codes": "Message Authentication Code"
     },
     {
         ":   ": null
     },
     {
-        "HMAC": "keyed-hash message authentication code"
+        "HMAC": "Keyed-Hash Message Authentication Code"
     },
     {
         ": keyed-hash message authentication   ": null
     },
     {
-        "Poly1305": "poly1305"
+        "Poly1305": "Poly1305"
     },
     {
-        " SipHash": "siphash"
+        " SipHash": "Siphash"
     },
     {
-        " Secret sharing": "secret sharing"
+        " Secret sharing": "Secret Sharing"
     },
     {
         ", Secret Splitting, Key Splitting, M of N algorithms   Blakeys Scheme   ": null
     },
     {
-        "Shamirs Scheme": "shamirs secret sharing"
+        "Shamirs Scheme": "Shamirs Secret Sharing"
     },
     {
-        " Symmetric encryption": "symmetric key algorithm"
+        " Symmetric encryption": "Symmetric Key Algorithm"
     },
     {
         ":   ": null
     },
     {
-        "Advanced Encryption Standard": "advanced encryption standard"
+        "Advanced Encryption Standard": "Advanced Encryption Standard"
     },
     {
         " , winner of ": null
     },
     {
-        "NIST": "nist"
+        "NIST": "Nist"
     },
     {
         " competition, also known as ": null
     },
     {
-        "Rijndael": "rijndael"
+        "Rijndael": "Rijndael"
     },
     {
-        " Blowfish": "blowfish"
+        " Blowfish": "Blowfish"
     },
     {
-        " Twofish": "twofish"
+        " Twofish": "Twofish"
     },
     {
-        " Threefish": "threefish"
+        " Threefish": "Threefish"
     },
     {
-        " Data Encryption Standard": "data encryption standard"
+        " Data Encryption Standard": "Data Encryption Standard"
     },
     {
         " , sometimes DE Algorithm, winner of NBS selection competition, replaced by AES for most purposes   ": null
     },
     {
-        "IDEA": "international data encryption algorithm"
+        "IDEA": "International Data Encryption Algorithm"
     },
     {
-        " RC4 ": "rc4"
+        " RC4 ": "Rc4"
     },
     {
-        " Tiny Encryption Algorithm": "tiny encryption algorithm"
+        " Tiny Encryption Algorithm": "Tiny Encryption Algorithm"
     },
     {
-        "   Salsa20": "salsa20"
+        "   Salsa20": "Salsa20"
     },
     {
         ", and its updated variant ": null
     },
     {
-        "ChaCha20": "salsa20chacha_variant"
+        "ChaCha20": "Salsa20Chacha_Variant"
     },
     {
-        " Post-quantum cryptography": "post-quantum cryptography"
+        " Post-quantum cryptography": "Post-Quantum Cryptography"
     },
     {
-        " Proof-of-work algorithms": "proof-of-work system"
+        " Proof-of-work algorithms": "Proof-Of-Work System"
     },
     {
-        " Quine–McCluskey algorithm": "quine–mccluskey algorithm"
+        " Quine–McCluskey algorithm": "Quine–Mccluskey Algorithm"
     },
     {
         ": Also called as Q-M algorithm, programmable method for simplifying the boolean equations.   ": null
     },
     {
-        "Petricks method": "petricks method"
+        "Petricks method": "Petricks Method"
     },
     {
         ": Another algorithm for boolean simplification.   ": null
     },
     {
-        "Espresso heuristic logic minimizer": "espresso heuristic logic minimizer"
+        "Espresso heuristic logic minimizer": "Espresso Heuristic Logic Minimizer"
     },
     {
         ": Fast algorithm for boolean function minimization.           ": null
     },
     {
-        "ALOPEX": "alopex"
+        "ALOPEX": "Alopex"
     },
     {
         ": a correlation-based ": null
     },
     {
-        "machine-learning algorithm": "machine learning"
+        "machine-learning algorithm": "Machine Learning"
     },
     {
-        " Association rule learning": "association rule learning"
+        " Association rule learning": "Association Rule Learning"
     },
     {
         ": discover interesting relations between variables, used in ": null
     },
     {
-        "data mining": "data mining"
+        "data mining": "Data Mining"
     },
     {
-        " Apriori algorithm": "apriori algorithm"
+        " Apriori algorithm": "Apriori Algorithm"
     },
     {
-        " Eclat algorithm": "eclat algorithm"
+        " Eclat algorithm": "Eclat Algorithm"
     },
     {
-        " FP-growth algorithm": "association rule learningfp-growth algorithm"
+        " FP-growth algorithm": "Association Rule Learningfp-Growth Algorithm"
     },
     {
-        " One-attribute rule": "one-attribute rule"
+        " One-attribute rule": "One-Attribute Rule"
     },
     {
-        " Zero-attribute rule": "association rule learningzero-attribute rule"
+        " Zero-attribute rule": "Association Rule Learningzero-Attribute Rule"
     },
     {
-        " Boosting ": "boosting"
+        " Boosting ": "Boosting"
     },
     {
         ": Use many weak learners to boost effectiveness   ": null
     },
     {
-        "AdaBoost": "adaboost"
+        "AdaBoost": "Adaboost"
     },
     {
         ": adaptive boosting   ": null
     },
     {
-        "BrownBoost": "brownboost"
+        "BrownBoost": "Brownboost"
     },
     {
         ":a boosting algorithm that may be robust to noisy datasets   ": null
     },
     {
-        "LogitBoost": "logitboost"
+        "LogitBoost": "Logitboost"
     },
     {
         ": ": null
     },
     {
-        "logistic regression": "logistic regression"
+        "logistic regression": "Logistic Regression"
     },
     {
         " boosting   ": null
     },
     {
-        "LPBoost": "lpboost"
+        "LPBoost": "Lpboost"
     },
     {
         ": ": null
     },
     {
-        "linear programming": "linear programming"
+        "linear programming": "Linear Programming"
     },
     {
         " boosting   ": null
     },
     {
-        "Bootstrap aggregating": "bootstrap aggregating"
+        "Bootstrap aggregating": "Bootstrap Aggregating"
     },
     {
         " : technique to improve stability and classification accuracy   ": null
     },
     {
-        "Computer Vision": "computer vision"
+        "Computer Vision": "Computer Vision"
     },
     {
-        " Grabcut": "grabcut"
+        " Grabcut": "Grabcut"
     },
     {
         " based on ": null
     },
     {
-        "Graph cuts": "graph cuts in computer vision"
+        "Graph cuts": "Graph Cuts In Computer Vision"
     },
     {
-        " Decision Trees": "decision tree learning"
+        " Decision Trees": "Decision Tree Learning"
     },
     {
-        " C4.5 algorithm": "c4.5 algorithm"
+        " C4.5 algorithm": "C4.5 Algorithm"
     },
     {
         ": an extension to ID3   ": null
     },
     {
-        "ID3 algorithm": "id3 algorithm"
+        "ID3 algorithm": "Id3 Algorithm"
     },
     {
         " : Use heuristic to generate small decision trees   ": null
     },
     {
-        "Clustering": "cluster analysis"
+        "Clustering": "Cluster Analysis"
     },
     {
         ": Class of ": null
     },
     {
-        "unsupervised learning": "unsupervised learning"
+        "unsupervised learning": "Unsupervised Learning"
     },
     {
         " algorithms for grouping and bucketing related input vector.   ": null
     },
     {
-        "k-nearest neighbors": "k-nearest neighbors"
+        "k-nearest neighbors": "K-Nearest Neighbors"
     },
     {
         " : a method for classifying objects based on closest training examples in the ": null
     },
     {
-        "feature space": "feature space"
+        "feature space": "Feature Space"
     },
     {
-        " Linde–Buzo–Gray algorithm": "linde–buzo–gray algorithm"
+        " Linde–Buzo–Gray algorithm": "Linde–Buzo–Gray Algorithm"
     },
     {
         ": a vector quantization algorithm used to derive a good codebook   ": null
     },
     {
-        "Locality-sensitive hashing": "locality-sensitive hashing"
+        "Locality-sensitive hashing": "Locality-Sensitive Hashing"
     },
     {
         " : a method of performing probabilistic dimension reduction of high-dimensional data   ": null
     },
     {
-        "Neural Network": "artificial neural network"
+        "Neural Network": "Artificial Neural Network"
     },
     {
-        " Backpropagation": "backpropagation"
+        " Backpropagation": "Backpropagation"
     },
     {
         ": A ": null
     },
     {
-        "supervised learning": "supervised learning"
+        "supervised learning": "Supervised Learning"
     },
     {
         " method which requires a teacher that knows, or can calculate, the desired output for any given input   ": null
     },
     {
-        "Hopfield net": "hopfield net"
+        "Hopfield net": "Hopfield Net"
     },
     {
         ": a ": null
     },
     {
-        "Recurrent neural network": "recurrent neural network"
+        "Recurrent neural network": "Recurrent Neural Network"
     },
     {
         " in which all connections are symmetric   ": null
     },
     {
-        "Perceptron": "perceptron"
+        "Perceptron": "Perceptron"
     },
     {
         ": the simplest kind of feedforward neural network: a ": null
     },
     {
-        "linear classifier": "linear classifier"
+        "linear classifier": "Linear Classifier"
     },
     {
         ".   ": null
     },
     {
-        "Pulse-coupled neural networks": "pulse-coupled neural networks"
+        "Pulse-coupled neural networks": "Pulse-Coupled Neural Networks"
     },
     {
         " : ": null
     },
     {
-        "Neural models": "artificial neural network"
+        "Neural models": "Artificial Neural Network"
     },
     {
         " proposed by modeling a cats ": null
     },
     {
-        "visual cortex": "visual cortex"
+        "visual cortex": "Visual Cortex"
     },
     {
         " and developed for high-performance ": null
     },
     {
-        "biomimetic": "bionics"
+        "biomimetic": "Bionics"
     },
     {
         " image processing.   ": null
     },
     {
-        "Radial basis function network": "radial basis function network"
+        "Radial basis function network": "Radial Basis Function Network"
     },
     {
         ": an artificial neural network that uses radial ": null
     },
     {
-        "basis functions": "basis function"
+        "basis functions": "Basis Function"
     },
     {
         "as activation functions   ": null
     },
     {
-        "Self-organizing map": "self-organizing map"
+        "Self-organizing map": "Self-Organizing Map"
     },
     {
         ": an unsupervised network that produces a low-dimensional representation of the input space of the training samples   ": null
     },
     {
-        "Random forest": "random forest"
+        "Random forest": "Random Forest"
     },
     {
         ": classify using many decision trees   ": null
     },
     {
-        "Reinforcement Learning": "reinforcement learning"
+        "Reinforcement Learning": "Reinforcement Learning"
     },
     {
         ":   ": null
     },
     {
-        "Q-learning": "q-learning"
+        "Q-learning": "Q-Learning"
     },
     {
         ": learn an action-value function that gives the expected utility of taking a given action in a given state and following a fixed policy thereafter   ": null
     },
     {
-        "State-Action-Reward-State-Action": "state-action-reward-state-action"
+        "State-Action-Reward-State-Action": "State-Action-Reward-State-Action"
     },
     {
         " : learn a ": null
     },
     {
-        "Markov decision process": "markov decision process"
+        "Markov decision process": "Markov Decision Process"
     },
     {
         " policy   ": null
     },
     {
-        "Temporal difference learning": "temporal difference learning"
+        "Temporal difference learning": "Temporal Difference Learning"
     },
     {
-        " Relevance Vector Machine": "relevance vector machine"
+        " Relevance Vector Machine": "Relevance Vector Machine"
     },
     {
         " : similar to SVM, but provides probabilistic classification   ": null
     },
     {
-        "Supervised Learning": "supervised learning"
+        "Supervised Learning": "Supervised Learning"
     },
     {
         ": Learning by examples   ": null
     },
     {
-        "Support Vector Machines": "support vector machines"
+        "Support Vector Machines": "Support Vector Machines"
     },
     {
         " : a set of methods which divide multidimensional data by finding a dividing hyperplane with the maximum margin between the two sets   ": null
     },
     {
-        "Structured SVM": "structured svm"
+        "Structured SVM": "Structured Svm"
     },
     {
         ": allows training of a classifier for general structured output labels.   ": null
     },
     {
-        "Winnow algorithm": "winnow algorithm"
+        "Winnow algorithm": "Winnow Algorithm"
     },
     {
         ": related to the perceptron, but uses a ": null
     },
     {
-        "multiplicative weight-update scheme": "multiplicative weight update method"
+        "multiplicative weight-update scheme": "Multiplicative Weight Update Method"
     },
     {
-        "        C3 linearization": "c3 linearization"
+        "        C3 linearization": "C3 Linearization"
     },
     {
         ": an algorithm used primarily to obtain a consistent linearization of a multiple inheritance hierarchy in object-oriented programming   ": null
     },
     {
-        "Chaitins algorithm": "chaitins algorithm"
+        "Chaitins algorithm": "Chaitins Algorithm"
     },
     {
         ": a bottom-up, graph coloring register allocation algorithm that uses cost/degree as its spill metric   ": null
     },
     {
-        "Hindley–Milner type inference algorithm": "hindley-milner type inference"
+        "Hindley–Milner type inference algorithm": "Hindley-Milner Type Inference"
     },
     {
-        " Rete algorithm": "rete algorithm"
+        " Rete algorithm": "Rete Algorithm"
     },
     {
         ": an efficient pattern matching algorithm for implementing ": null
     },
     {
-        "production rule": "start symbol"
+        "production rule": "Start Symbol"
     },
     {
         " systems   ": null
     },
     {
-        "Sethi-Ullman algorithm": "sethi-ullman algorithm"
+        "Sethi-Ullman algorithm": "Sethi-Ullman Algorithm"
     },
     {
         ": generate optimal code for arithmetic expressions        ": null
     },
     {
-        "CYK algorithm": "cyk algorithm"
+        "CYK algorithm": "Cyk Algorithm"
     },
     {
         ": An O algorithm for parsing ": null
     },
     {
-        "context-free grammars": "context-free grammar"
+        "context-free grammars": "Context-Free Grammar"
     },
     {
         "in ": null
     },
     {
-        "Chomsky normal form": "chomsky normal form"
+        "Chomsky normal form": "Chomsky Normal Form"
     },
     {
-        " Earley parser": "earley parser"
+        " Earley parser": "Earley Parser"
     },
     {
         ": Another O algorithm for parsing any ": null
     },
     {
-        "context-free grammar": "context-free grammar"
+        "context-free grammar": "Context-Free Grammar"
     },
     {
-        " GLR parser": "glr parser"
+        " GLR parser": "Glr Parser"
     },
     {
         ":An algorithm for parsing any ": null
     },
     {
-        "context-free grammar": "context-free grammar"
+        "context-free grammar": "Context-Free Grammar"
     },
     {
         " by ": null
     },
     {
-        "Masaru Tomita": "masaru tomita"
+        "Masaru Tomita": "Masaru Tomita"
     },
     {
         ". It is tuned for deterministic grammars, on which it performs almost ": null
     },
     {
-        "linear time": "linear time"
+        "linear time": "Linear Time"
     },
     {
         " and O in worst case.   ": null
     },
     {
-        "Inside-outside algorithm": "inside-outside algorithm"
+        "Inside-outside algorithm": "Inside-Outside Algorithm"
     },
     {
         ": An O algorithm for re-estimating production probabilities in ": null
     },
     {
-        "probabilistic context-free grammars": "probabilistic context-free grammar"
+        "probabilistic context-free grammars": "Probabilistic Context-Free Grammar"
     },
     {
-        "  LL parser": "ll parser"
+        "  LL parser": "Ll Parser"
     },
     {
         ": A relatively simple ": null
     },
     {
-        "linear time": "linear time"
+        "linear time": "Linear Time"
     },
     {
         " parsing algorithm for a limited class of ": null
     },
     {
-        "context-free grammars": "context-free grammar"
+        "context-free grammars": "Context-Free Grammar"
     },
     {
-        "  LR parser": "lr parser"
+        "  LR parser": "Lr Parser"
     },
     {
         ": A more complex ": null
     },
     {
-        "linear time": "linear time"
+        "linear time": "Linear Time"
     },
     {
         " parsing algorithm for a larger class of ": null
     },
     {
-        "context-free grammar": "context-free grammar"
+        "context-free grammar": "Context-Free Grammar"
     },
     {
         "s. Variants:   ": null
     },
     {
-        "Canonical LR parser": "canonical lr parser"
+        "Canonical LR parser": "Canonical Lr Parser"
     },
     {
-        " LALR parser": "look-ahead lr parser"
+        " LALR parser": "Look-Ahead Lr Parser"
     },
     {
-        " Operator-precedence parser": "operator-precedence parser"
+        " Operator-precedence parser": "Operator-Precedence Parser"
     },
     {
-        " SLR parser": "simple lr parser"
+        " SLR parser": "Simple Lr Parser"
     },
     {
-        " Simple precedence parser": "simple precedence parser"
+        " Simple precedence parser": "Simple Precedence Parser"
     },
     {
-        " Packrat parser": "packrat parser"
+        " Packrat parser": "Packrat Parser"
     },
     {
         ": A ": null
     },
     {
-        "linear time": "linear time"
+        "linear time": "Linear Time"
     },
     {
         " parsing algorithm supporting some ": null
     },
     {
-        "context-free grammars": "context-free grammar"
+        "context-free grammars": "Context-Free Grammar"
     },
     {
         "and ": null
     },
     {
-        "parsing expression grammars": "parsing expression grammar"
+        "parsing expression grammars": "Parsing Expression Grammar"
     },
     {
-        "  Recursive descent parser": "recursive descent parser"
+        "  Recursive descent parser": "Recursive Descent Parser"
     },
     {
         ": A ": null
     },
     {
-        "top-down parser": "top-down parsing"
+        "top-down parser": "Top-Down Parsing"
     },
     {
         " suitable for LL grammars   ": null
     },
     {
-        "Shunting yard algorithm": "shunting yard algorithm"
+        "Shunting yard algorithm": "Shunting Yard Algorithm"
     },
     {
         ": convert an infix-notation math expression to postfix   ": null
     },
     {
-        "Pratt parser": "pratt parser"
+        "Pratt parser": "Pratt Parser"
     },
     {
-        " Lexical analysis": "lexical analysis"
+        " Lexical analysis": "Lexical Analysis"
     },
     {
-        "        Deutsch–Jozsa algorithm": "deutsch–jozsa algorithm"
+        "        Deutsch–Jozsa algorithm": "Deutsch–Jozsa Algorithm"
     },
     {
         ": criterion of balance for Boolean function   ": null
     },
     {
-        "Grovers algorithm": "grovers algorithm"
+        "Grovers algorithm": "Grovers Algorithm"
     },
     {
         ": provides quadratic speedup for many search problems   ": null
     },
     {
-        "Shors algorithm": "shors algorithm"
+        "Shors algorithm": "Shors Algorithm"
     },
     {
         ": provides ": null
     },
     {
-        "exponential": "exponential function"
+        "exponential": "Exponential Function"
     },
     {
         " speedup for factoring a number   ": null
     },
     {
-        "Simons algorithm": "simons algorithm"
+        "Simons algorithm": "Simons Algorithm"
     },
     {
         ": provides a provably ": null
     },
     {
-        "exponential": "exponential function"
+        "exponential": "Exponential Function"
     },
     {
         " speedup for a black-box problem        ": null
     },
     {
-        "Hopcrofts algorithm": "dfa minimizationhopcrofts algorithm"
+        "Hopcrofts algorithm": "Dfa Minimizationhopcrofts Algorithm"
     },
     {
         ", ": null
     },
     {
-        "Moores algorithm": "dfa minimizationmoores algorithm"
+        "Moores algorithm": "Dfa Minimizationmoores Algorithm"
     },
     {
         ", and ": null
     },
     {
-        "Brzozowskis algorithm": "dfa minimizationbrzozowskis algorithm"
+        "Brzozowskis algorithm": "Dfa Minimizationbrzozowskis Algorithm"
     },
     {
         ": algorithms for ": null
     },
     {
-        "minimizing the number of states in a deterministic finite automaton": "dfa minimization"
+        "minimizing the number of states in a deterministic finite automaton": "Dfa Minimization"
     },
     {
-        " Powerset construction": "powerset construction"
+        " Powerset construction": "Powerset Construction"
     },
     {
         ": Algorithm to convert nondeterministic automaton to ": null
     },
     {
-        "deterministic automaton": "deterministic automaton"
+        "deterministic automaton": "Deterministic Automaton"
     },
     {
         ".   ": null
     },
     {
-        "Tarski–Kuratowski algorithm": "tarski–kuratowski algorithm"
+        "Tarski–Kuratowski algorithm": "Tarski–Kuratowski Algorithm"
     },
     {
         ": a ": null
     },
     {
-        "non-deterministic algorithm": "non-deterministic algorithm"
+        "non-deterministic algorithm": "Non-Deterministic Algorithm"
     },
     {
         " which provides an upper bound for the complexity of formulas in the ": null
     },
     {
-        "arithmetical hierarchy": "arithmetical hierarchy"
+        "arithmetical hierarchy": "Arithmetical Hierarchy"
     },
     {
         " and ": null
     },
     {
-        "analytical hierarchy": "analytical hierarchy"
+        "analytical hierarchy": "Analytical Hierarchy"
     },
     {
-        "BCH Codes": "bch code"
+        "BCH Codes": "Bch Code"
     },
     {
-        "  Berlekamp–Massey algorithm": "berlekamp–massey algorithm"
+        "  Berlekamp–Massey algorithm": "Berlekamp–Massey Algorithm"
     },
     {
-        " Peterson–Gorenstein–Zierler algorithm": "peterson–gorenstein–zierler algorithm"
+        " Peterson–Gorenstein–Zierler algorithm": "Peterson–Gorenstein–Zierler Algorithm"
     },
     {
-        " Reed–Solomon error correction": "reed–solomon error correction"
+        " Reed–Solomon error correction": "Reed–Solomon Error Correction"
     },
     {
-        " BCJR algorithm": "bcjr algorithm"
+        " BCJR algorithm": "Bcjr Algorithm"
     },
     {
         ": decoding of error correcting codes defined on trellises   ": null
     },
     {
-        "Forward error correction": "forward error correction"
+        "Forward error correction": "Forward Error Correction"
     },
     {
-        " Gray code": "gray code"
+        " Gray code": "Gray Code"
     },
     {
-        "Hamming codes": "hamming code"
+        "Hamming codes": "Hamming Code"
     },
     {
-        "  Hamming": "hamming"
+        "  Hamming": "Hamming"
     },
     {
         ": a ": null
     },
     {
-        "Hamming code": "hamming code"
+        "Hamming code": "Hamming Code"
     },
     {
         " that encodes 4 bits of data into 7 bits by adding 3 parity bits   ": null
     },
     {
-        "Hamming distance": "hamming distance"
+        "Hamming distance": "Hamming Distance"
     },
     {
         ": sum number of positions which are different   ": null
     },
     {
-        "Hamming weight": "hamming weight"
+        "Hamming weight": "Hamming Weight"
     },
     {
         " : find the number of 1 bits in a binary word   ": null
     },
     {
-        "Redundancy checks": "redundancy check"
+        "Redundancy checks": "Redundancy Check"
     },
     {
-        "  Adler-32": "adler-32"
+        "  Adler-32": "Adler-32"
     },
     {
-        " Cyclic redundancy check": "cyclic redundancy check"
+        " Cyclic redundancy check": "Cyclic Redundancy Check"
     },
     {
-        " Damm algorithm": "damm algorithm"
+        " Damm algorithm": "Damm Algorithm"
     },
     {
-        " Fletchers checksum": "fletchers checksum"
+        " Fletchers checksum": "Fletchers Checksum"
     },
     {
-        " Longitudinal redundancy check": "longitudinal redundancy check"
+        " Longitudinal redundancy check": "Longitudinal Redundancy Check"
     },
     {
-        "   Luhn algorithm": "luhn algorithm"
+        "   Luhn algorithm": "Luhn Algorithm"
     },
     {
         ": a method of validating identification numbers   ": null
     },
     {
-        "Luhn mod N algorithm": "luhn mod n algorithm"
+        "Luhn mod N algorithm": "Luhn Mod N Algorithm"
     },
     {
         ": extension of Luhn to non-numeric characters   ": null
     },
     {
-        "Parity": "parity bit"
+        "Parity": "Parity Bit"
     },
     {
         ": simple/fast error detection technique   ": null
     },
     {
-        "Verhoeff algorithm": "verhoeff algorithm"
+        "Verhoeff algorithm": "Verhoeff Algorithm"
     },
     {
-        "        Burrows–Wheeler transform": "burrows–wheeler transform"
+        "        Burrows–Wheeler transform": "Burrows–Wheeler Transform"
     },
     {
         ": preprocessing useful for improving ": null
     },
     {
-        "lossless compression": "lossless data compression"
+        "lossless compression": "Lossless Data Compression"
     },
     {
-        " Context tree weighting": "context tree weighting"
+        " Context tree weighting": "Context Tree Weighting"
     },
     {
-        " Delta encoding": "delta encoding"
+        " Delta encoding": "Delta Encoding"
     },
     {
         ": aid to compression of data in which sequential data occurs frequently   ": null
     },
     {
-        "Dynamic Markov compression": "dynamic markov compression"
+        "Dynamic Markov compression": "Dynamic Markov Compression"
     },
     {
         ": Compression using predictive arithmetic coding   ": null
     },
     {
-        "Dictionary coders": "dictionary coder"
+        "Dictionary coders": "Dictionary Coder"
     },
     {
-        "  Byte pair encoding": "byte pair encoding"
+        "  Byte pair encoding": "Byte Pair Encoding"
     },
     {
-        "   DEFLATE": "deflate"
+        "   DEFLATE": "Deflate"
     },
     {
-        " Lempel–Ziv": "lempel–ziv"
+        " Lempel–Ziv": "Lempel–Ziv"
     },
     {
-        " LZ77 and LZ78": "lz77 and lz78"
+        " LZ77 and LZ78": "Lz77 And Lz78"
     },
     {
-        " Lempel–Ziv Jeff Bonwick": "lzjb"
+        " Lempel–Ziv Jeff Bonwick": "Lzjb"
     },
     {
-        "   Lempel–Ziv–Markov chain algorithm": "lempel–ziv–markov chain algorithm"
+        "   Lempel–Ziv–Markov chain algorithm": "Lempel–Ziv–Markov Chain Algorithm"
     },
     {
-        "   Lempel–Ziv–Oberhumer": "lempel–ziv–oberhumer"
+        "   Lempel–Ziv–Oberhumer": "Lempel–Ziv–Oberhumer"
     },
     {
         " : speed oriented   ": null
     },
     {
-        "Lempel–Ziv–Stac": "lempel–ziv–stac"
+        "Lempel–Ziv–Stac": "Lempel–Ziv–Stac"
     },
     {
-        "   Lempel–Ziv–Storer–Szymanski": "lempel–ziv–storer–szymanski"
+        "   Lempel–Ziv–Storer–Szymanski": "Lempel–Ziv–Storer–Szymanski"
     },
     {
-        "   Lempel–Ziv–Welch": "lempel–ziv–welch"
+        "   Lempel–Ziv–Welch": "Lempel–Ziv–Welch"
     },
     {
-        "   LZWL": "lzwl"
+        "   LZWL": "Lzwl"
     },
     {
         ": syllable-based variant   ": null
     },
     {
-        "LZX": "lzx"
+        "LZX": "Lzx"
     },
     {
-        " Lempel–Ziv Ross Williams": "lzrw"
+        " Lempel–Ziv Ross Williams": "Lzrw"
     },
     {
-        "   Entropy encoding": "entropy encoding"
+        "   Entropy encoding": "Entropy Encoding"
     },
     {
         ": coding scheme that assigns codes to symbols so as to match code lengths with the probabilities of the symbols   ": null
     },
     {
-        "Arithmetic coding": "arithmetic coding"
+        "Arithmetic coding": "Arithmetic Coding"
     },
     {
         ": advanced ": null
     },
     {
-        "entropy": "entropy"
+        "entropy": "Entropy"
     },
     {
         " coding   ": null
     },
     {
-        "Range encoding": "range encoding"
+        "Range encoding": "Range Encoding"
     },
     {
         ": same as ": null
     },
     {
-        "arithmetic coding": "arithmetic coding"
+        "arithmetic coding": "Arithmetic Coding"
     },
     {
         ", but looked at in a slightly different way   ": null
     },
     {
-        "Huffman coding": "huffman coding"
+        "Huffman coding": "Huffman Coding"
     },
     {
         ": simple lossless compression taking advantage of relative character frequencies   ": null
     },
     {
-        "Adaptive Huffman coding": "adaptive huffman coding"
+        "Adaptive Huffman coding": "Adaptive Huffman Coding"
     },
     {
         ": ": null
     },
     {
-        "adaptive coding": "adaptive coding"
+        "adaptive coding": "Adaptive Coding"
     },
     {
         " technique based on Huffman coding   ": null
     },
     {
-        "Package-merge algorithm": "package-merge algorithm"
+        "Package-merge algorithm": "Package-Merge Algorithm"
     },
     {
         ": Optimizes Huffman coding subject to a length restriction on code strings   ": null
     },
     {
-        "Shannon–Fano coding": "shannon–fano coding"
+        "Shannon–Fano coding": "Shannon–Fano Coding"
     },
     {
-        " Shannon–Fano–Elias coding": "shannon–fano–elias coding"
+        " Shannon–Fano–Elias coding": "Shannon–Fano–Elias Coding"
     },
     {
         ": precursor to arithmetic encoding    ": null
     },
     {
-        "Entropy coding with known entropy characteristics": "entropy encoding"
+        "Entropy coding with known entropy characteristics": "Entropy Encoding"
     },
     {
-        " Golomb coding": "golomb coding"
-    },
-    {
-        ": form of entropy coding that is optimal for alphabets following geometric distributions   ": null
-    },
-    {
-        "Rice coding": "rice coding"
+        " Golomb coding": "Golomb Coding"
     },
     {
         ": form of entropy coding that is optimal for alphabets following geometric distributions   ": null
     },
     {
-        "Truncated binary encoding": "truncated binary encoding"
+        "Rice coding": "Rice Coding"
     },
     {
-        " Unary coding": "unary coding"
+        ": form of entropy coding that is optimal for alphabets following geometric distributions   ": null
+    },
+    {
+        "Truncated binary encoding": "Truncated Binary Encoding"
+    },
+    {
+        " Unary coding": "Unary Coding"
     },
     {
         ": code that represents a number n with n ones followed by a zero   ": null
     },
     {
-        "Universal codes": "universal code"
+        "Universal codes": "Universal Code"
     },
     {
         ": encodes positive integers into binary code words   Elias ": null
     },
     {
-        "delta": "elias delta coding"
+        "delta": "Elias Delta Coding"
     },
     {
         ", ": null
     },
     {
-        "gamma": "elias gamma coding"
+        "gamma": "Elias Gamma Coding"
     },
     {
         ", and ": null
     },
     {
-        "omega": "elias omega coding"
+        "omega": "Elias Omega Coding"
     },
     {
         " coding   ": null
     },
     {
-        "Exponential-Golomb coding": "exponential-golomb coding"
+        "Exponential-Golomb coding": "Exponential-Golomb Coding"
     },
     {
-        " Fibonacci coding": "fibonacci coding"
+        " Fibonacci coding": "Fibonacci Coding"
     },
     {
-        " Levenshtein coding": "levenshtein coding"
+        " Levenshtein coding": "Levenshtein Coding"
     },
     {
-        " Fast Efficient & Lossless Image Compression System": "felics"
+        " Fast Efficient & Lossless Image Compression System": "Felics"
     },
     {
         " : a lossless image compression algorithm   ": null
     },
     {
-        "Incremental encoding": "incremental encoding"
+        "Incremental encoding": "Incremental Encoding"
     },
     {
         ": delta encoding applied to sequences of strings   ": null
     },
     {
-        "Prediction by partial matching": "ppm compression algorithm"
+        "Prediction by partial matching": "Ppm Compression Algorithm"
     },
     {
         " : an adaptive statistical data compression technique based on context modeling and prediction   ": null
     },
     {
-        "Run-length encoding": "run-length encoding"
+        "Run-length encoding": "Run-Length Encoding"
     },
     {
         ": lossless data compression taking advantage of strings of repeated characters   ": null
     },
     {
-        "SEQUITUR algorithm": "sequitur algorithm"
+        "SEQUITUR algorithm": "Sequitur Algorithm"
     },
     {
         ": lossless compression by incremental grammar inference on a string        ": null
     },
     {
-        "3Dc": "3dc"
+        "3Dc": "3Dc"
     },
     {
         ": a lossy data compression algorithm for ": null
     },
     {
-        "normal maps": "normal mapping"
+        "normal maps": "Normal Mapping"
     },
     {
-        " Audio": "audio data compression"
+        " Audio": "Audio Data Compression"
     },
     {
         " and ": null
     },
     {
-        "Speech": "speech encoding"
+        "Speech": "Speech Encoding"
     },
     {
         " compression   ": null
     },
     {
-        "A-law algorithm": "a-law algorithm"
+        "A-law algorithm": "A-Law Algorithm"
     },
     {
         ": standard companding algorithm   ": null
     },
     {
-        "Code-excited linear prediction": "code-excited linear prediction"
+        "Code-excited linear prediction": "Code-Excited Linear Prediction"
     },
     {
         " : low bit-rate speech compression   ": null
     },
     {
-        "Linear predictive coding": "linear predictive coding"
+        "Linear predictive coding": "Linear Predictive Coding"
     },
     {
         " : lossy compression by representing the ": null
     },
     {
-        "spectral envelope": "spectral envelope"
+        "spectral envelope": "Spectral Envelope"
     },
     {
         " of a digital signal of speech in compressed form   ": null
     },
     {
-        "Mu-law algorithm": "mu-law algorithm"
+        "Mu-law algorithm": "Mu-Law Algorithm"
     },
     {
         ": standard analog signal compression or companding algorithm   ": null
     },
     {
-        "Warped Linear Predictive Coding": "warped linear predictive coding"
+        "Warped Linear Predictive Coding": "Warped Linear Predictive Coding"
     },
     {
-        "   Image compression": "image compression"
+        "   Image compression": "Image Compression"
     },
     {
-        " Block Truncation Coding": "block truncation coding"
+        " Block Truncation Coding": "Block Truncation Coding"
     },
     {
         " : a type of lossy image compression technique for greyscale images   ": null
     },
     {
-        "Embedded Zerotree Wavelet": "embedded zerotree wavelet"
+        "Embedded Zerotree Wavelet": "Embedded Zerotree Wavelet"
     },
     {
-        "Fast Cosine Transform algorithms": "fast cosine transform"
+        "Fast Cosine Transform algorithms": "Fast Cosine Transform"
     },
     {
         ": compute Discrete Cosine Transform efficiently   ": null
     },
     {
-        "Fractal compression": "fractal compression"
+        "Fractal compression": "Fractal Compression"
     },
     {
         ": method used to compress images using fractals   ": null
     },
     {
-        "Set Partitioning in Hierarchical Trees": "set partitioning in hierarchical trees"
+        "Set Partitioning in Hierarchical Trees": "Set Partitioning In Hierarchical Trees"
     },
     {
-        "   Wavelet compression": "wavelet compression"
+        "   Wavelet compression": "Wavelet Compression"
     },
     {
         ": form of data compression well suited for ": null
     },
     {
-        "image compression": "image compression"
+        "image compression": "Image Compression"
     },
     {
-        "   Transform coding": "transform coding"
+        "   Transform coding": "Transform Coding"
     },
     {
         ": type of data compression for natural data like audio signals or photographic images   ": null
     },
     {
-        "Video compression": "video compression"
+        "Video compression": "Video Compression"
     },
     {
-        " Vector quantization": "vector quantization"
+        " Vector quantization": "Vector Quantization"
     },
     {
         ": technique often used in lossy data compression        ": null
     },
     {
-        "Adaptive-additive algorithm": "adaptive-additive algorithm"
+        "Adaptive-additive algorithm": "Adaptive-Additive Algorithm"
     },
     {
         " : find the spatial frequency phase of an observed wave source   ": null
     },
     {
-        "Discrete Fourier transform": "discrete fourier transform"
+        "Discrete Fourier transform": "Discrete Fourier Transform"
     },
     {
         ": determines the frequencies contained in a signal   ": null
     },
     {
-        "Bluesteins FFT algorithm": "bluesteins fft algorithm"
+        "Bluesteins FFT algorithm": "Bluesteins Fft Algorithm"
     },
     {
-        " Bruuns FFT algorithm": "bruuns fft algorithm"
+        " Bruuns FFT algorithm": "Bruuns Fft Algorithm"
     },
     {
-        " Cooley & ndash;Tukey FFT algorithm": "cooley & ndash;tukey fft algorithm"
+        " Cooley & ndash;Tukey FFT algorithm": "Cooley & Ndash;Tukey Fft Algorithm"
     },
     {
-        " Fast Fourier transform": "fast fourier transform"
+        " Fast Fourier transform": "Fast Fourier Transform"
     },
     {
-        " Prime-factor FFT algorithm": "prime-factor fft algorithm"
+        " Prime-factor FFT algorithm": "Prime-Factor Fft Algorithm"
     },
     {
-        " Raders FFT algorithm": "raders fft algorithm"
+        " Raders FFT algorithm": "Raders Fft Algorithm"
     },
     {
-        " Fast folding algorithm": "fast folding algorithm"
+        " Fast folding algorithm": "Fast Folding Algorithm"
     },
     {
         ": an efficient algorithm for the detection of approximately periodic events within time series data   ": null
     },
     {
-        "Gerchberg–Saxton algorithm": "gerchberg–saxton algorithm"
+        "Gerchberg–Saxton algorithm": "Gerchberg–Saxton Algorithm"
     },
     {
         ": Phase retrieval algorithm for optical planes   ": null
     },
     {
-        "Goertzel algorithm": "goertzel algorithm"
+        "Goertzel algorithm": "Goertzel Algorithm"
     },
     {
         ": identify a particular frequency component in a signal. Can be used for ": null
     },
     {
-        "DTMF": "dtmf"
+        "DTMF": "Dtmf"
     },
     {
         " digit decoding.   ": null
     },
     {
-        "Karplus-Strong string synthesis": "karplus-strong string synthesis"
+        "Karplus-Strong string synthesis": "Karplus-Strong String Synthesis"
     },
     {
         ": physical modelling synthesis to simulate the sound of a hammered or plucked string or some types of percussion        ": null
     },
     {
-        "Histogram equalization": "histogram equalization"
+        "Histogram equalization": "Histogram Equalization"
     },
     {
         ": use histogram to improve image contrast   ": null
     },
     {
-        "Adaptive histogram equalization": "adaptive histogram equalization"
+        "Adaptive histogram equalization": "Adaptive Histogram Equalization"
     },
     {
         ": histogram equalization which adapts to local changes in contrast   ": null
     },
     {
-        "Connected-component labeling": "connected-component labeling"
+        "Connected-component labeling": "Connected-Component Labeling"
     },
     {
         ": find and label disjoint regions   ": null
     },
     {
-        "Dithering": "dithering"
+        "Dithering": "Dithering"
     },
     {
         " and ": null
     },
     {
-        "half-toning": "half-toning"
+        "half-toning": "Half-Toning"
     },
     {
-        " Error diffusion": "error diffusion"
+        " Error diffusion": "Error Diffusion"
     },
     {
-        " Floyd–Steinberg dithering": "floyd–steinberg dithering"
+        " Floyd–Steinberg dithering": "Floyd–Steinberg Dithering"
     },
     {
-        " Ordered dithering": "ordered dithering"
+        " Ordered dithering": "Ordered Dithering"
     },
     {
-        " Riemersma dithering": "riemersma dithering"
+        " Riemersma dithering": "Riemersma Dithering"
     },
     {
-        " difference-map algorithm": "difference-map algorithm"
+        " difference-map algorithm": "Difference-Map Algorithm"
     },
     {
         ": a search algorithm for general constraint satisfaction problems. Originally used for ": null
     },
     {
-        "X-Ray diffraction": "x-ray crystallography"
+        "X-Ray diffraction": "X-Ray Crystallography"
     },
     {
         " microscopy   ": null
     },
     {
-        "Feature detection": "feature detection"
+        "Feature detection": "Feature Detection"
     },
     {
-        " Canny edge detector": "canny edge detector"
+        " Canny edge detector": "Canny Edge Detector"
     },
     {
         ": detect a wide range of edges in images   ": null
     },
     {
-        "Generalised Hough transform": "generalised hough transform"
+        "Generalised Hough transform": "Generalised Hough Transform"
     },
     {
-        " Hough transform": "hough transform"
+        " Hough transform": "Hough Transform"
     },
     {
-        " Marr–Hildreth algorithm": "marr–hildreth algorithm"
+        " Marr–Hildreth algorithm": "Marr–Hildreth Algorithm"
     },
     {
         ": an early ": null
     },
     {
-        "edge detection": "edge detection"
+        "edge detection": "Edge Detection"
     },
     {
         " algorithm   ": null
     },
     {
-        "SIFT": "scale-invariant feature transform"
+        "SIFT": "Scale-Invariant Feature Transform"
     },
     {
         " : is an algorithm to detect and describe local features in images.   ": null
     },
     {
-        "SURF ": "surf"
+        "SURF ": "Surf"
     },
     {
         ": is a robust local feature detector, first presented by Herbert Bay et al. in 2006, that can be used in computer vision tasks like object recognition or 3D reconstruction. It is partly inspired by the SIFT descriptor. The standard version of SURF is several times faster than SIFT and claimed by its authors to be more robust against different image transformations than SIFT.     ": null
     },
     {
-        "Richardson–Lucy deconvolution": "richardson–lucy deconvolution"
+        "Richardson–Lucy deconvolution": "Richardson–Lucy Deconvolution"
     },
     {
         ": image de-blurring algorithm   ": null
     },
     {
-        "Blind deconvolution": "blind deconvolution"
+        "Blind deconvolution": "Blind Deconvolution"
     },
     {
         ": image de-blurring algorithm when ": null
     },
     {
-        "point spread function": "point spread function"
+        "point spread function": "Point Spread Function"
     },
     {
         " is unknown.   ": null
     },
     {
-        "Median filtering": "median filtering"
+        "Median filtering": "Median Filtering"
     },
     {
-        " Seam carving": "seam carving"
+        " Seam carving": "Seam Carving"
     },
     {
         ": content-aware image resizing algorithm   ": null
     },
     {
-        "Segmentation": "segmentation"
+        "Segmentation": "Segmentation"
     },
     {
         ": partition a digital image into two or more regions   ": null
     },
     {
-        "GrowCut algorithm": "growcut algorithm"
+        "GrowCut algorithm": "Growcut Algorithm"
     },
     {
         ": an interactive segmentation algorithm   ": null
     },
     {
-        "Random walker algorithm": "random walker algorithm"
+        "Random walker algorithm": "Random Walker Algorithm"
     },
     {
-        " Region growing": "region growing"
+        " Region growing": "Region Growing"
     },
     {
-        " Watershed transformation": "watershed"
+        " Watershed transformation": "Watershed"
     },
     {
         ": a class of algorithms based on the watershed analogy        ": null
     },
     {
-        "Cache algorithms": "cache algorithms"
+        "Cache algorithms": "Cache Algorithms"
     },
     {
-        " CHS conversion": "chs conversion"
+        " CHS conversion": "Chs Conversion"
     },
     {
         ": converting between disk addressing systems   ": null
     },
     {
-        "Double dabble": "double dabble"
+        "Double dabble": "Double Dabble"
     },
     {
         ": Convert binary numbers to BCD   ": null
     },
     {
-        "Hash Function": "hash function"
+        "Hash Function": "Hash Function"
     },
     {
         ": convert a large, possibly variable-sized amount of data into a small datum, usually a single integer that may serve as an index into an array   ": null
     },
     {
-        "Fowler–Noll–Vo hash function": "fowler–noll–vo hash function"
+        "Fowler–Noll–Vo hash function": "Fowler–Noll–Vo Hash Function"
     },
     {
         ": fast with low collision rate   ": null
     },
     {
-        "Pearson hashing": "pearson hashing"
+        "Pearson hashing": "Pearson Hashing"
     },
     {
         ": computes 8 bit value only, optimized for 8 bit computers   ": null
     },
     {
-        "Zobrist hashing": "zobrist hashing"
+        "Zobrist hashing": "Zobrist Hashing"
     },
     {
         ": used in the implementation of ": null
     },
     {
-        "transposition tables": "transposition table"
+        "transposition tables": "Transposition Table"
     },
     {
-        "  Unicode Collation Algorithm": "unicode collation algorithm"
+        "  Unicode Collation Algorithm": "Unicode Collation Algorithm"
     },
     {
-        " Xor swap algorithm": "xor swap algorithm"
+        " Xor swap algorithm": "Xor Swap Algorithm"
     },
     {
         ": swaps the values of two variables without using a buffer        ": null
     },
     {
-        "Algorithms for Recovery and Isolation Exploiting Semantics": "algorithms for recovery and isolation exploiting semantics"
+        "Algorithms for Recovery and Isolation Exploiting Semantics": "Algorithms For Recovery And Isolation Exploiting Semantics"
     },
     {
         " : ": null
     },
     {
-        "transaction": "transaction"
+        "transaction": "Transaction"
     },
     {
         " recovery   ": null
     },
     {
-        "Join algorithms": "join"
+        "Join algorithms": "Join"
     },
     {
-        " Block nested loop": "block nested loop"
+        " Block nested loop": "Block Nested Loop"
     },
     {
-        " Hash join": "hash join"
+        " Hash join": "Hash Join"
     },
     {
-        " Nested loop join": "nested loop join"
+        " Nested loop join": "Nested Loop Join"
     },
     {
-        " Sort-Merge Join": "sort-merge join"
+        " Sort-Merge Join": "Sort-Merge Join"
     },
     {
-        "        Bully algorithm": "bully algorithm"
+        "        Bully algorithm": "Bully Algorithm"
     },
     {
         ": a method for dynamically selecting a coordinator   ": null
     },
     {
-        "Byzantine fault tolerance": "byzantine fault tolerance"
+        "Byzantine fault tolerance": "Byzantine Fault Tolerance"
     },
     {
         ": good ": null
     },
     {
-        "fault tolerance": "fault-tolerant system"
+        "fault tolerance": "Fault-Tolerant System"
     },
     {
         ".   ": null
     },
     {
-        "Clock synchronization": "clock synchronization"
+        "Clock synchronization": "Clock Synchronization"
     },
     {
-        " Berkeley algorithm": "berkeley algorithm"
+        " Berkeley algorithm": "Berkeley Algorithm"
     },
     {
-        " Cristians algorithm": "cristians algorithm"
+        " Cristians algorithm": "Cristians Algorithm"
     },
     {
-        " Intersection algorithm": "intersection algorithm"
+        " Intersection algorithm": "Intersection Algorithm"
     },
     {
-        " Marzullos algorithm": "marzullos algorithm"
+        " Marzullos algorithm": "Marzullos Algorithm"
     },
     {
-        " Dijkstra-Scholten algorithm": "dijkstra-scholten algorithm"
+        " Dijkstra-Scholten algorithm": "Dijkstra-Scholten Algorithm"
     },
     {
-        " Huangs algorithm": "huangs algorithm"
+        " Huangs algorithm": "Huangs Algorithm"
     },
     {
-        " Lamport ordering": "lamport ordering"
+        " Lamport ordering": "Lamport Ordering"
     },
     {
         ": a ": null
     },
     {
-        "partial order": "partial order"
+        "partial order": "Partial Order"
     },
     {
         "ing of events based on the happened-before relation   ": null
     },
     {
-        "Mutual exclusion": "mutual exclusion"
+        "Mutual exclusion": "Mutual Exclusion"
     },
     {
-        " Lamports Distributed Mutual Exclusion Algorithm": "lamports distributed mutual exclusion algorithm"
+        " Lamports Distributed Mutual Exclusion Algorithm": "Lamports Distributed Mutual Exclusion Algorithm"
     },
     {
-        " Naimi-Trehels log Algorithm": "naimi-trehels log algorithm"
+        " Naimi-Trehels log Algorithm": "Naimi-Trehels Log Algorithm"
     },
     {
-        " Maekawas Algorithm": "maekawas algorithm"
+        " Maekawas Algorithm": "Maekawas Algorithm"
     },
     {
-        " Raymonds Algorithm": "raymonds algorithm"
+        " Raymonds Algorithm": "Raymonds Algorithm"
     },
     {
-        " Ricart-Agrawala Algorithm": "ricart-agrawala algorithm"
+        " Ricart-Agrawala Algorithm": "Ricart-Agrawala Algorithm"
     },
     {
-        " Paxos algorithm": "paxos algorithm"
+        " Paxos algorithm": "Paxos Algorithm"
     },
     {
         ": a family of protocols for solving consensus in a network of unreliable processors   ": null
     },
     {
-        "Raft ": "raft"
+        "Raft ": "Raft"
     },
     {
         ": a consensus algorithm designed as an alternative to Paxos   ": null
     },
     {
-        "Snapshot algorithm": "snapshot algorithm"
+        "Snapshot algorithm": "Snapshot Algorithm"
     },
     {
         ": record a consistent global state for an asynchronous system   ": null
     },
     {
-        "Chandy-Lamport algorithm": "chandy-lamport algorithm"
+        "Chandy-Lamport algorithm": "Chandy-Lamport Algorithm"
     },
     {
-        " Vector clocks": "vector clocks"
+        " Vector clocks": "Vector Clocks"
     },
     {
         ": generate a ": null
     },
     {
-        "partial ordering": "partial ordering"
+        "partial ordering": "Partial Ordering"
     },
     {
         " of events in a distributed system and detect ": null
     },
     {
-        "causality": "causality"
+        "causality": "Causality"
     },
     {
         " violations       ": null
     },
     {
-        "Buddy memory allocation": "buddy memory allocation"
+        "Buddy memory allocation": "Buddy Memory Allocation"
     },
     {
         ": Algorithm to allocate memory such that fragmentation is less.   ": null
     },
     {
-        "Garbage collectors": "garbage collection"
+        "Garbage collectors": "Garbage Collection"
     },
     {
-        " Cheneys algorithm": "cheneys algorithm"
+        " Cheneys algorithm": "Cheneys Algorithm"
     },
     {
         ": An improvement on the ": null
     },
     {
-        "Semi-space collector": "semi-space collector"
+        "Semi-space collector": "Semi-Space Collector"
     },
     {
-        " Generational garbage collector": "garbage collection"
+        " Generational garbage collector": "Garbage Collection"
     },
     {
         ": Fast garbage collectors that segregate memory by age   ": null
     },
     {
-        "Mark-compact algorithm": "mark-compact algorithm"
+        "Mark-compact algorithm": "Mark-Compact Algorithm"
     },
     {
         ": a combination of the ": null
     },
     {
-        "mark-sweep algorithm": "mark and sweep"
+        "mark-sweep algorithm": "Mark And Sweep"
     },
     {
         " and ": null
     },
     {
-        "Cheneys copying algorithm": "cheneys algorithm"
+        "Cheneys copying algorithm": "Cheneys Algorithm"
     },
     {
-        " Mark and sweep": "mark and sweep"
+        " Mark and sweep": "Mark And Sweep"
     },
     {
-        " Semi-space collector": "semi-space collector"
+        " Semi-space collector": "Semi-Space Collector"
     },
     {
         ": An early copying collector   ": null
     },
     {
-        "Reference counting": "reference counting"
+        "Reference counting": "Reference Counting"
     },
     {
-        "        Karns algorithm": "karns algorithm"
+        "        Karns algorithm": "Karns Algorithm"
     },
     {
         ": addresses the problem of getting accurate estimates of the round-trip time for messages when using TCP   ": null
     },
     {
-        "Luleå algorithm": "luleå algorithm"
+        "Luleå algorithm": "Luleå Algorithm"
     },
     {
         ": a technique for storing and searching internet routing tables efficiently   ": null
     },
     {
-        "Network congestion": "network congestion"
+        "Network congestion": "Network Congestion"
     },
     {
-        " Exponential backoff": "exponential backoff"
+        " Exponential backoff": "Exponential Backoff"
     },
     {
-        " Nagles algorithm": "nagles algorithm"
+        " Nagles algorithm": "Nagles Algorithm"
     },
     {
         ": improve the efficiency of TCP/IP networks by coalescing packets   ": null
     },
     {
-        "Truncated binary exponential backoff": "truncated binary exponential backoff"
+        "Truncated binary exponential backoff": "Truncated Binary Exponential Backoff"
     },
     {
-        "        Bankers algorithm": "bankers algorithm"
+        "        Bankers algorithm": "Bankers Algorithm"
     },
     {
         ": Algorithm used for deadlock avoidance.   ": null
     },
     {
-        "Page replacement algorithms": "page replacement algorithms"
+        "Page replacement algorithms": "Page Replacement Algorithms"
     },
     {
         ": Selecting the victim page under low memory conditions.   ": null
     },
     {
-        "Adaptive replacement cache": "adaptive replacement cache"
+        "Adaptive replacement cache": "Adaptive Replacement Cache"
     },
     {
         ": better performance than LRU   ": null
     },
     {
-        "Clock with Adaptive Replacement": "clock with adaptive replacement"
+        "Clock with Adaptive Replacement": "Clock With Adaptive Replacement"
     },
     {
         " : is a page replacement algorithm that has performance comparable to ": null
     },
     {
-        "Adaptive replacement cache": "adaptive replacement cache"
+        "Adaptive replacement cache": "Adaptive Replacement Cache"
     },
     {
-        "           Dekkers algorithm": "dekkers algorithm"
+        "           Dekkers algorithm": "Dekkers Algorithm"
     },
     {
-        " Lamports Bakery algorithm": "lamports bakery algorithm"
+        " Lamports Bakery algorithm": "Lamports Bakery Algorithm"
     },
     {
-        " Petersons algorithm": "petersons algorithm"
+        " Petersons algorithm": "Petersons Algorithm"
     },
     {
-        "        Earliest deadline first scheduling": "earliest deadline first scheduling"
+        "        Earliest deadline first scheduling": "Earliest Deadline First Scheduling"
     },
     {
-        " Fair-share scheduling": "fair-share scheduling"
+        " Fair-share scheduling": "Fair-Share Scheduling"
     },
     {
-        " Least slack time scheduling": "least slack time scheduling"
+        " Least slack time scheduling": "Least Slack Time Scheduling"
     },
     {
-        " List scheduling": "list scheduling"
+        " List scheduling": "List Scheduling"
     },
     {
-        " Multi level feedback queue": "multi level feedback queue"
+        " Multi level feedback queue": "Multi Level Feedback Queue"
     },
     {
-        " Rate-monotonic scheduling": "rate-monotonic scheduling"
+        " Rate-monotonic scheduling": "Rate-Monotonic Scheduling"
     },
     {
-        " Round-robin scheduling": "round-robin scheduling"
+        " Round-robin scheduling": "Round-Robin Scheduling"
     },
     {
-        " Shortest job next": "shortest job next"
+        " Shortest job next": "Shortest Job Next"
     },
     {
-        " Shortest remaining time": "shortest remaining time"
+        " Shortest remaining time": "Shortest Remaining Time"
     },
     {
-        " Top-nodes algorithm": "top-nodes algorithm"
+        " Top-nodes algorithm": "Top-Nodes Algorithm"
     },
     {
         ": resource calendar management                 ": null
     },
     {
-        "Elevator algorithm": "elevator algorithm"
+        "Elevator algorithm": "Elevator Algorithm"
     },
     {
         ": Disk scheduling algorithm that works like an elevator.   ": null
     },
     {
-        "Shortest seek first": "shortest seek first"
+        "Shortest seek first": "Shortest Seek First"
     },
     {
         ": Disk scheduling algorithm to reduce ": null
     },
     {
-        "seek time": "seek time"
+        "seek time": "Seek Time"
     }
 ]

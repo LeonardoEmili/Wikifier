@@ -39,7 +39,7 @@ class TextList(list):
         new_element = value is not None or (
             list(self[-1].values())[0] is not None) if len(self) > 0 else value is not None
 
-        value = value.strip() if value is not None else value
+        value = value.strip().title() if value is not None else value
         if len(self) > 0:
             # Override the last element if it's empty
             if new_element and list(self[-1].keys())[0].strip():
@@ -97,7 +97,6 @@ def main():
     # file_path = _dir + _file
     node_dict = {mwparserfromhell.nodes.Template: SKIP_NODE, mwparserfromhell.nodes.ExternalLink: SKIP_NODE,
                  mwparserfromhell.nodes.Text: TEXT_NODE, mwparserfromhell.nodes.Tag: TAG_NODE, mwparserfromhell.nodes.Wikilink: WIKILINK_NODE}
-    occurence_map = dict()
     files = [x for x in os.listdir(_dir) if x.startswith("enwiki")]
 
     create_dir(_dir, dir_name)
@@ -106,16 +105,32 @@ def main():
         print("Please provide an input file an try again", file=sys.stderr)
 
     for filename in files:
-        parse_wikidump(_dir + filename, dir_name, node_dict, occurence_map)
+        parse_wikidump(_dir + filename, dir_name, node_dict)
 
-    with open('{}.json'.format("occurrences"), 'w', encoding='utf-8') as f:
-        # Write the parsed wikipedia text to a json file without ensuring ascii codification.
-        json.dump(occurence_map, f, ensure_ascii=False, indent=4)
+    generate_occurence_map()
 
     return
 
 
-def parse_wikidump(path, dir_name, node_dict, occurence_map):
+def generate_occurence_map():
+    occurence_map = dict()
+    pages = [p for p in os.listdir("data/") if p.endswith(".json")]
+    for page in pages:
+        with open("data/{}".format(page)) as current_page:
+            dict_list = json.load(current_page)
+            links = [list(x.values())[0] for x in dict_list if list(x.values())[0] is not None]
+            for link in links:
+                if link in occurence_map:
+                    occurence_map[link] += 1
+                else:
+                    occurence_map[link] = 1
+
+    with open("occurrences.json", 'w', encoding='utf-8') as f:
+        # Write the parsed wikipedia text to a json file without ensuring ascii codification.
+        json.dump(occurence_map, f, ensure_ascii=False, indent=4)
+
+
+def parse_wikidump(path, dir_name, node_dict):
     # Content handler for Wiki XML.
     handler = WikiXmlHandler()
 
@@ -145,8 +160,9 @@ def parse_wikidump(path, dir_name, node_dict, occurence_map):
 
     with click.progressbar(range(len(handler._pages))) as pages:
         for i in pages:
-            parse_page(handler, i, dir_name, node_dict, occurence_map)
+            parse_page(handler, i, dir_name, node_dict)
     print()
+
 
 def create_dir(_dir, dir_name):
     try:
@@ -163,7 +179,7 @@ def has_reached_end_of_page(line):
     return "==" in line and "See also" in line or "References" in line or "Footnotes" in line
 
 
-def parse_page(handler, page_index, path, node_dict, occurence_map):
+def parse_page(handler, page_index, path, node_dict):
     # Create the wiki article choosing the curent page from [page index].
     wiki = mwparserfromhell.parse(handler._pages[page_index])
 
@@ -215,18 +231,18 @@ def parse_page(handler, page_index, path, node_dict, occurence_map):
             line, tag_detected, parentheses_detected)
 
         text_content = parse_line(
-            line, text_content, new_element, tag_detected, parentheses_detected, line_type, occurence_map)
+            line, text_content, new_element, tag_detected, parentheses_detected, line_type)
 
     # Don't try to write text_content to a file either if it's empty or if it a page of redirect.
     if not text_content or not next(iter(text_content[0].keys())).strip():
         return
 
-    with open('{}{}.json'.format(path, page_title.lower()), 'w', encoding='utf-8') as f:
+    with open('{}{}.json'.format(path, page_title.title()), 'w', encoding='utf-8') as f:
         # Write the parsed wikipedia text to a json file without ensuring ascii codification.
         json.dump(text_content, f, ensure_ascii=False, indent=4)
 
 
-def parse_line(line, text_content, new_element, tag_detected, parentheses_detected, node_type, occurence_map):
+def parse_line(line, text_content, new_element, tag_detected, parentheses_detected, node_type):
     is_tag = False
 
     if node_type == SKIP_NODE:
@@ -241,12 +257,13 @@ def parse_line(line, text_content, new_element, tag_detected, parentheses_detect
             text_content[-1].values())[0] != None
         if previous_was_link:
             leading_sentence = buffer.lstrip()
-            is_a_plural_form = len(leading_sentence) > 0 and leading_sentence[0] == 's' and (len(
+            is_a_plural_form = len(leading_sentence) > 0 and leading_sentence[0] in "se" and (len(
                 leading_sentence) == 1 or (not len(leading_sentence) >= 2 or leading_sentence[1] == ' '))
             if is_a_plural_form:
                 link_key, link_value = list(text_content[-1].items())[0]
                 del text_content[-1][link_key]
-                text_content[-1][link_key.strip() + 's'] = link_value
+                suffix_char = leading_sentence[0]
+                text_content[-1][link_key.strip() + suffix_char] = link_value
                 buffer = leading_sentence[2:] if len(
                     leading_sentence) >= 3 else ' '
 
@@ -297,12 +314,9 @@ def parse_line(line, text_content, new_element, tag_detected, parentheses_detect
                 text = text[:-2]
             else:
                 # They're essentially the same thing, but as usually the key is first lowered or unique purposes.
-                url, text = line[2:-2].lower().strip(), line[2:-2]  # maybe replace lower() with title()
+                # maybe replace lower() with title()
+                url, text = line[2:-2].lower().strip(), line[2:-2]
             url = url.lower().strip()
-            if url in occurence_map:
-                occurence_map[url] += 1
-            else:
-                occurence_map[url] = 1
             new_element = True
             text_content.append(text, url, new_element)
 

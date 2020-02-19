@@ -3,91 +3,91 @@
         "   Mary was a ": null
     },
     {
-        "programming language": "programming language"
+        "programming language": "Programming Language"
     },
     {
         " designed and implemented by ": null
     },
     {
-        "RUNIT": "sintef"
+        "RUNIT": "Sintef"
     },
     {
         " at ": null
     },
     {
-        "Trondheim": "trondheim"
+        "Trondheim": "Trondheim"
     },
     {
         ", ": null
     },
     {
-        "Norway": "norway"
+        "Norway": "Norway"
     },
     {
         " in the 1970s. It borrowed many features from ": null
     },
     {
-        "ALGOL 68": "algol 68"
+        "ALGOL 68": "Algol 68"
     },
     {
         " but was designed for machine-oriented programming.     An unusual feature of its syntax was that expressions were constructed using the conventional infix operators, but all of them had the same precedence and evaluation went from left to right unless there were brackets. Assignment had the destination on the right and assignment was considered just another operator.     Similar to ": null
     },
     {
-        "C": "c"
+        "C": "C"
     },
     {
         ", several language features appear to have existed to allow programmers to produce reasonably well optimised code, despite a quite primitive code generator in the compiler. These included operators similar to the + et alter in C and explicit register declarations for variables.     Notable features:   Dataflow syntax - values flow from left to right, including assignment.   Most constructs could be used in expressions .   Text-based recursive macros.   Overloaded user-defined operators, not constrained to predefined identifiers as in ": null
     },
     {
-        "C++": "c++"
+        "C++": "C++"
     },
     {
         ".   Automatic building and dereferencing of pointers from type context.   Scalar range types.   Array and set enumeration in loop iterators.   Dynamic array descriptors .     A book describing Mary was printed in 1974 : Mary Textbook by Reidar Conradi & Per Holager.     Compilers were made for ": null
     },
     {
-        "Kongsberg Våpenfabrikks": "kongsberg defence  &  aerospace"
+        "Kongsberg Våpenfabrikks": "Kongsberg Defence  &  Aerospace"
     },
     {
         "SM-4 and ": null
     },
     {
-        "Norsk Data": "norsk data"
+        "Norsk Data": "Norsk Data"
     },
     {
         " Nord-10/ND-100 mini-computers. The original Mary compiler was written in NU ": null
     },
     {
-        "ALGOL": "algol"
+        "ALGOL": "Algol"
     },
     {
         ", ran on the Univac-1100 series and was used to bootstrap a native compiler for ": null
     },
     {
-        "ND-100": "norsk data"
+        "ND-100": "Norsk Data"
     },
     {
         "/": null
     },
     {
-        "SINTRAN-III": "sintran"
+        "SINTRAN-III": "Sintran"
     },
     {
         ". ": null
     },
     {
-        "RUNIT": "sintef"
+        "RUNIT": "Sintef"
     },
     {
         " implemented a ": null
     },
     {
-        "CHILL": "chill programming language"
+        "CHILL": "Chill Programming Language"
     },
     {
         " compiler written in Mary which ran on ND-100 and had ": null
     },
     {
-        "Intel 8086": "intel 8086"
+        "Intel 8086": "Intel 8086"
     },
     {
         " and ": null
@@ -99,24 +99,24 @@
         " targets. When this compiler was ported to the ": null
     },
     {
-        "VAX": "vax"
+        "VAX": "Vax"
     },
     {
         " platform, a common backend for Mary and ": null
     },
     {
-        "CHILL": "chill programming language"
+        "CHILL": "Chill Programming Language"
     },
     {
         " was implemented. Later, backends for ": null
     },
     {
-        "i386": "i386"
+        "i386": "I386"
     },
     {
         " and ": null
     },
     {
-        "SPARC": "sparc"
+        "SPARC": "Sparc"
     }
 ]

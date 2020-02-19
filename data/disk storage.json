@@ -3,265 +3,265 @@
         "Disk storage  is a general category of storage mechanisms where data is recorded by various electronic, magnetic, optical, or mechanical changes to a surface layer of one or more rotating disks. A disk drive is a device implementing such a storage mechanism. Notable types are the ": null
     },
     {
-        "hard disk drive": "hard disk drive"
+        "hard disk drive": "Hard Disk Drive"
     },
     {
         " containing a non-removable disk, the ": null
     },
     {
-        " floppy disk drive": "floppy disk"
+        " floppy disk drive": "Floppy Disk"
     },
     {
         " and its removable ": null
     },
     {
-        "floppy disk": "floppy disk"
+        "floppy disk": "Floppy Disk"
     },
     {
         ", and various ": null
     },
     {
-        "optical disc drives": "optical disc drive"
+        "optical disc drives": "Optical Disc Drive"
     },
     {
         " and associated ": null
     },
     {
-        "optical disc": "optical disc"
+        "optical disc": "Optical Disc"
     },
     {
         " media.     .                  ": null
     },
     {
-        "Audio": "sound"
+        "Audio": "Sound"
     },
     {
         " information was originally recorded by analog methods . Similarly the ": null
     },
     {
-        "first video disc": "laserdisc"
+        "first video disc": "Laserdisc"
     },
     {
         " used an analog recording method. In the music industry, analog recording has been mostly replaced by digital ": null
     },
     {
-        "optical": "optical"
+        "optical": "Optical"
     },
     {
         " technology where the data is recorded in a digital format with optical information.     The first commercial digital disk storage device was the ": null
     },
     {
-        "IBM 350": "ibm 350"
+        "IBM 350": "Ibm 350"
     },
     {
         " which shipped in 1956 as a part of the ": null
     },
     {
-        "IBM 305 RAMAC": "ibm 305 ramac"
+        "IBM 305 RAMAC": "Ibm 305 Ramac"
     },
     {
         " computing system. The ": null
     },
     {
-        "random-access": "random access memory"
+        "random-access": "Random Access Memory"
     },
     {
         ", low-density storage of disks was developed to complement the already used ": null
     },
     {
-        "sequential-access": "sequential access"
+        "sequential-access": "Sequential Access"
     },
     {
         ", high-density storage provided by ": null
     },
     {
-        "tape drives": "tape drive"
+        "tape drives": "Tape Drive"
     },
     {
         "using ": null
     },
     {
-        "magnetic tape": "magnetic tape"
+        "magnetic tape": "Magnetic Tape"
     },
     {
         ". Vigorous innovation in disk storage technology, coupled with less vigorous innovation in tape storage, has reduced the difference in acquisition cost per ": null
     },
     {
-        "terabyte": "terabyte"
+        "terabyte": "Terabyte"
     },
     {
         " between disk storage and tape storage; however, the total cost of ownership of data on disk including power and management remains larger than that of tape.      Disk storage is now used in both computer storage and consumer electronic storage, e.g., ": null
     },
     {
-        "audio CDs": "cd-rom"
+        "audio CDs": "Cd-Rom"
     },
     {
         "and video discs .     Data on modern disks is stored in fixed length blocks, usually called ": null
     },
     {
-        " sectors": "disk sector"
+        " sectors": "Disk Sector"
     },
     {
         " and varying in length from a few hundred to many thousands of bytes. Gross disk drive capacity is simply the number of disk surfaces times the number of blocks/surface times the number of bytes/block. In certain ": null
     },
     {
-        "legacy IBM CKD drives": "count_key_dataibm.27s_ckd_dasd_subsystems"
+        "legacy IBM CKD drives": "Count_Key_Dataibm.27S_Ckd_Dasd_Subsystems"
     },
     {
         " the data was stored on magnetic disks with variable length blocks, called records; record length could vary on and between disks. Capacity decreased as record length decreased due to the necessary gaps between blocks.           Digital disk drives are ": null
     },
     {
-        "block storage devices": "computer data storage"
+        "block storage devices": "Computer Data Storage"
     },
     {
         ". Each disk is divided into logical ": null
     },
     {
-        "blocks": "block"
+        "blocks": "Block"
     },
     {
         " . Blocks are addressed using their ": null
     },
     {
-        "logical block addresses": "logical block addressing"
+        "logical block addresses": "Logical Block Addressing"
     },
     {
         " . Read from or writing to disk happens at the granularity of blocks.     Originally the disk capacity was quite low and has been improved in one of several ways. Improvements in mechanical design and manufacture allowed smaller and more precise heads, meaning that more tracks could be stored on each of the disks. Advancements in data compression methods permitted more information to be stored in each of the individual sectors.     The drive stores data onto ": null
     },
     {
-        "cylinders, heads, and sectors": "cylinder-head-sector"
+        "cylinders, heads, and sectors": "Cylinder-Head-Sector"
     },
     {
         ". The sectors unit is the smallest size of data to be stored in a hard disk drive and each file will have many sectors units assigned to it. The smallest entity in a CD is called a frame, which consists of 33 bytes and contains six complete 16-bit stereo samples . The other nine bytes consist of eight CIRC error-correction bytes and one ": null
     },
     {
-        "subcode": "compact disc subcode"
+        "subcode": "Compact Disc Subcode"
     },
     {
         " byte used for control and display.     The information is sent from the computer processor to the BIOS into a chip controlling the data transfer. This is then sent out to the hard drive via a multi-wire connector. Once the data is received onto the circuit board of the drive, they are translated and compressed into a format that the individual drive can use to store onto the disk itself. The data is then passed to a chip on the circuit board that controls the access to the drive. The drive is divided into sectors of data stored onto one of the sides of one of the internal disks. An HDD with two disks internally will typically store data on all four surfaces.     The hardware on the drive tells the actuator arm where it is to go for the relevant track and the compressed information is then sent down to the head which changes the physical properties, optically or magnetically for example, of each byte on the drive, thus storing the information. A file is not stored in a linear manner, rather, it is held in the best way for quickest retrieval.               Mechanically there are two different motions occurring inside the drive. One is the rotation of the disks inside the device. The other is the side-to-side motion of the head across the disk as it moves between tracks.     There are two types of disk rotation methods:   ": null
     },
     {
-        "constant linear velocity": "constant linear velocity"
+        "constant linear velocity": "Constant Linear Velocity"
     },
     {
         " varies the rotational speed of the optical disc depending upon the position of the head, and   ": null
     },
     {
-        "constant angular velocity": "constant angular velocity"
+        "constant angular velocity": "Constant Angular Velocity"
     },
     {
         "  spins the media at one constant speed regardless of where the head is positioned.     Track positioning also follows two different methods across disk storage devices. Storage devices focused on holding computer data, e.g., HDDs, FDDs, Iomega ": null
     },
     {
-        "zip drive": "zip drive"
+        "zip drive": "Zip Drive"
     },
     {
         "s, use concentric tracks to store data. During a sequential read or write operation, after the drive accesses all the sectors in a track it repositions the head to the next track. This will cause a momentary delay in the flow of data between the device and the computer. In contrast, optical audio and video discs use a single ": null
     },
     {
-        "spiral": "spiral"
+        "spiral": "Spiral"
     },
     {
         " track that starts at the inner most point on the disc and flows continuously to the outer edge. When reading or writing data there is no need to stop the flow of data to switch tracks. This is similar to vinyl records except vinyl records started at the outer edge and spiraled in toward the center.       The disk drive interface is the mechanism/protocol of communication between the rest of the system and the disk drive itself. Storage devices intended for desktop and mobile computers typically use ": null
     },
     {
-        "ATA": "at attachment"
+        "ATA": "At Attachment"
     },
     {
         "  and ": null
     },
     {
-        "SATA": "serial ata"
+        "SATA": "Serial Ata"
     },
     {
         " interfaces. Enterprise systems and high-end storage devices will typically use ": null
     },
     {
-        "SCSI": "scsi"
+        "SCSI": "Scsi"
     },
     {
         ", ": null
     },
     {
-        "SAS": "serial attached scsi"
+        "SAS": "Serial Attached Scsi"
     },
     {
         ", and ": null
     },
     {
-        "FC": "fibre channel"
+        "FC": "Fibre Channel"
     },
     {
         " interfaces in addition to some use of SATA.            Disk - Generally refers to magnetic media and devices.   Disc - Required by trademarks for certain optical media and devices.   Platter – An individual recording disk. A hard disk drive contains a set of platters. Developments in optical technology have led to multiple recording layers on ": null
     },
     {
-        "DVD": "comparison of high definition optical disc formats"
+        "DVD": "Comparison Of High Definition Optical Disc Formats"
     },
     {
         "s.   ": null
     },
     {
-        "Spindle": "spindle"
+        "Spindle": "Spindle"
     },
     {
         " – the spinning ": null
     },
     {
-        "axle": "axle"
+        "axle": "Axle"
     },
     {
         " on which the platters are mounted.   Rotation – Platters rotate; two techniques are common:   ": null
     },
     {
-        "Constant angular velocity": "constant angular velocity"
+        "Constant angular velocity": "Constant Angular Velocity"
     },
     {
         " keeps the disk spinning at a fixed rate, measured in revolutions per minute . This means the heads cover more distance per unit of time on the outer tracks than on the inner tracks. This method is typical with computer hard drives.   ": null
     },
     {
-        "Constant linear velocity": "constant linear velocity"
+        "Constant linear velocity": "Constant Linear Velocity"
     },
     {
         " keeps the distance covered by the heads per unit time fixed. Thus the disk has to slow down as the arm moves to the outer tracks. This method is typical for ": null
     },
     {
-        "CD": "compact disc"
+        "CD": "Compact Disc"
     },
     {
         " drives.   Track – The circle of recorded data on a single recording surface of a platter.     ": null
     },
     {
-        "Sector": "disk sector"
+        "Sector": "Disk Sector"
     },
     {
         " – A segment of a track   Low level ": null
     },
     {
-        "formatting": "disk format"
+        "formatting": "Disk Format"
     },
     {
         " – Establishing the tracks and sectors.   Head – The device that reads and writes the information—magnetic or optical—on the disk surface.   Arm – The mechanical assembly that supports the head as it moves in and out.   ": null
     },
     {
-        "Seek time": "seek time"
+        "Seek time": "Seek Time"
     },
     {
         " – Time needed to move the head to a new position .   ": null
     },
     {
-        "Rotational latency": "rotational latency"
+        "Rotational latency": "Rotational Latency"
     },
     {
         " – Average time, once the arm is on the right track, before a head is over a desired sector.   ": null
     },
     {
-        "Data transfer rate": "bit rate"
+        "Data transfer rate": "Bit Rate"
     },
     {
         " - The rate at which user data bits are transferred from or to the medium. Technically, this would more accurately be entitled the ": null
     },
     {
-        " gross data transfer rate": "bit_rategross_bit_rate"
+        " gross data transfer rate": "Bit_Rategross_Bit_Rate"
     },
     {
         ".      ": null

@@ -3,397 +3,397 @@
         "         In ": null
     },
     {
-        "mathematics": "mathematics"
+        "mathematics": "Mathematics"
     },
     {
         ", a Lie group  is a ": null
     },
     {
-        "group": "group"
+        "group": "Group"
     },
     {
         " that is also a ": null
     },
     {
-        "differentiable manifold": "differentiable manifold"
+        "differentiable manifold": "Differentiable Manifold"
     },
     {
         ", with the property that the group operations are smooth. Lie groups are named after Norwegian mathematician ": null
     },
     {
-        "Sophus Lie": "sophus lie"
+        "Sophus Lie": "Sophus Lie"
     },
     {
         ", who laid the foundations of the theory of continuous ": null
     },
     {
-        "transformation group": "transformation group"
+        "transformation group": "Transformation Group"
     },
     {
         "s.     In rough terms, a Lie group is a continuous group, that is, one whose elements are described by several real parameters. As such, Lie groups provide a natural model for the concept of continuous symmetry, such as rotational symmetry in three dimensions. Lie groups are widely used in many parts of modern mathematics and physics. Lies original motivation for introducing Lie groups was to model the continuous symmetries of ": null
     },
     {
-        "differential equations": "differential equations"
+        "differential equations": "Differential Equations"
     },
     {
         ", in much the same way that finite groups are used in ": null
     },
     {
-        "Galois theory": "galois theory"
+        "Galois theory": "Galois Theory"
     },
     {
         " to model the discrete symmetries of ": null
     },
     {
-        "algebraic equation": "algebraic equation"
+        "algebraic equation": "Algebraic Equation"
     },
     {
         "s.          Lie groups are ": null
     },
     {
-        "smooth": "smoothness"
+        "smooth": "Smoothness"
     },
     {
-        "differentiable manifolds": "differentiable manifold"
+        "differentiable manifolds": "Differentiable Manifold"
     },
     {
         "and as such can be studied using ": null
     },
     {
-        "differential calculus": "differential calculus"
+        "differential calculus": "Differential Calculus"
     },
     {
         ", in contrast with the case of more general ": null
     },
     {
-        "topological group": "topological group"
+        "topological group": "Topological Group"
     },
     {
         "s. One of the key ideas in the theory of Lie groups is to replace the global object, the group, with its local or linearized version, which Lie himself called its infinitesimal group and which has since become known as its ": null
     },
     {
-        "Lie algebra": "lie algebra"
+        "Lie algebra": "Lie Algebra"
     },
     {
         ".     Lie groups play an enormous role in modern ": null
     },
     {
-        "geometry": "geometry"
+        "geometry": "Geometry"
     },
     {
         ", on several different levels. ": null
     },
     {
-        "Felix Klein": "felix klein"
+        "Felix Klein": "Felix Klein"
     },
     {
         " argued in his ": null
     },
     {
-        "Erlangen program": "erlangen program"
+        "Erlangen program": "Erlangen Program"
     },
     {
         " that one can consider various geometries by specifying an appropriate transformation group that leaves certain geometric properties ": null
     },
     {
-        "invariant": "invariant"
+        "invariant": "Invariant"
     },
     {
         ". Thus ": null
     },
     {
-        "Euclidean geometry": "euclidean geometry"
+        "Euclidean geometry": "Euclidean Geometry"
     },
     {
         " corresponds to the choice of the group ": null
     },
     {
-        "E": "euclidean group"
+        "E": "Euclidean Group"
     },
     {
         " of distance-preserving transformations of the Euclidean space R 3 , ": null
     },
     {
-        "conformal geometry": "conformal geometry"
+        "conformal geometry": "Conformal Geometry"
     },
     {
         " corresponds to enlarging the group to the ": null
     },
     {
-        "conformal group": "conformal group"
+        "conformal group": "Conformal Group"
     },
     {
         ", whereas in ": null
     },
     {
-        "projective geometry": "projective geometry"
+        "projective geometry": "Projective Geometry"
     },
     {
         " one is interested in the properties invariant under the ": null
     },
     {
-        "projective group": "projective group"
+        "projective group": "Projective Group"
     },
     {
         ". This idea later led to the notion of a ": null
     },
     {
-        "G-structure": "g-structure"
+        "G-structure": "G-Structure"
     },
     {
         ", where G is a Lie group of local symmetries of a manifold.     Lie groups play a major role in modern physics, with the Lie group typically playing the role of a symmetry of a physical system. Here, the ": null
     },
     {
-        "representations": "representation of a lie group"
+        "representations": "Representation Of A Lie Group"
     },
     {
         " of the Lie group  are especially important. Representation theory ": null
     },
     {
-        "is used extensively in particle physics": "particle physics and representation theory"
+        "is used extensively in particle physics": "Particle Physics And Representation Theory"
     },
     {
         ". Groups whose representations are of particular importance include ": null
     },
     {
-        "the rotation group SO": "3d_rotation_group"
+        "the rotation group SO": "3D_Rotation_Group"
     },
     {
         " , ": null
     },
     {
-        "the special unitary group SU": "clebsch–gordan coefficients for surepresentations of the su.283.29 group"
+        "the special unitary group SU": "Clebsch–Gordan Coefficients For Surepresentations Of The Su.283.29 Group"
     },
     {
         " and the ": null
     },
     {
-        "Poincaré group": "representation theory of the poincaré group"
+        "Poincaré group": "Representation Theory Of The Poincaré Group"
     },
     {
         ".     On a global level, whenever a Lie group ": null
     },
     {
-        "acts": "group action"
+        "acts": "Group Action"
     },
     {
         " on a geometric object, such as a ": null
     },
     {
-        "Riemannian": "riemannian manifold"
+        "Riemannian": "Riemannian Manifold"
     },
     {
         " or a ": null
     },
     {
-        "symplectic manifold": "symplectic manifold"
+        "symplectic manifold": "Symplectic Manifold"
     },
     {
         ", this action provides a measure of rigidity and yields a rich algebraic structure. The presence of continuous symmetries expressed via a ": null
     },
     {
-        "Lie group action": "lie group action"
+        "Lie group action": "Lie Group Action"
     },
     {
         " on a manifold places strong constraints on its geometry and facilitates ": null
     },
     {
-        "analysis": "global analysis"
+        "analysis": "Global Analysis"
     },
     {
         " on the manifold. Linear actions of Lie groups are especially important, and are studied in ": null
     },
     {
-        "representation theory": "representation theory"
+        "representation theory": "Representation Theory"
     },
     {
         ".     In the 1940s & ndash;1950s, ": null
     },
     {
-        "Ellis Kolchin": "ellis kolchin"
+        "Ellis Kolchin": "Ellis Kolchin"
     },
     {
         ", ": null
     },
     {
-        "Armand Borel": "armand borel"
+        "Armand Borel": "Armand Borel"
     },
     {
         ", and ": null
     },
     {
-        "Claude Chevalley": "claude chevalley"
+        "Claude Chevalley": "Claude Chevalley"
     },
     {
         " realised that many foundational results concerning Lie groups can be developed completely algebraically, giving rise to the theory of ": null
     },
     {
-        "algebraic groups": "algebraic group"
+        "algebraic groups": "Algebraic Group"
     },
     {
         "defined over an arbitrary ": null
     },
     {
-        "field": "field"
+        "field": "Field"
     },
     {
         ". This insight opened new possibilities in pure algebra, by providing a uniform construction for most ": null
     },
     {
-        "finite simple group": "finite simple group"
+        "finite simple group": "Finite Simple Group"
     },
     {
         "s, as well as in ": null
     },
     {
-        "algebraic geometry": "algebraic geometry"
+        "algebraic geometry": "Algebraic Geometry"
     },
     {
         ". The theory of ": null
     },
     {
-        "automorphic form": "automorphic form"
+        "automorphic form": "Automorphic Form"
     },
     {
         "s, an important branch of modern ": null
     },
     {
-        "number theory": "number theory"
+        "number theory": "Number Theory"
     },
     {
         ", deals extensively with analogues of Lie groups over ": null
     },
     {
-        "adele ring": "adele ring"
+        "adele ring": "Adele Ring"
     },
     {
         "s; ": null
     },
     {
-        "p-adic": "p-adic number"
+        "p-adic": "P-Adic Number"
     },
     {
         " Lie groups play an important role, via their connections with Galois representations in number theory.       A real Lie group is a ": null
     },
     {
-        "group": "group"
+        "group": "Group"
     },
     {
         " that is also a finite-dimensional real ": null
     },
     {
-        "smooth manifold": "differentiable manifolddefinition"
+        "smooth manifold": "Differentiable Manifolddefinition"
     },
     {
         ", in which the group operations of ": null
     },
     {
-        "multiplication": "multiplication"
+        "multiplication": "Multiplication"
     },
     {
         " and inversion are ": null
     },
     {
-        "smooth map": "smooth map"
+        "smooth map": "Smooth Map"
     },
     {
         "s. Smoothness of the group multiplication     : \\mu:G\\times G\\to G\\quad \\muxy     means that μ is a smooth mapping of the ": null
     },
     {
-        "product manifold": "manifoldcartesian products"
+        "product manifold": "Manifoldcartesian Products"
     },
     {
         "  into G. These two requirements can be combined to the single requirement that the mapping   : \\mapsto x^y   be a smooth mapping of the product manifold into G.       The 2×2 ": null
     },
     {
-        "real": "real number"
+        "real": "Real Number"
     },
     {
-        " invertible matrices": "invertible matrix"
+        " invertible matrices": "Invertible Matrix"
     },
     {
         " form a group under multiplication, denoted by  or by GL 2 :     :: \\operatorname \\left\\.     : This is a four-dimensional ": null
     },
     {
-        "noncompact": "compact space"
+        "noncompact": "Compact Space"
     },
     {
         " real Lie group; it is an open subset of \\mathbb R^4 . This group is ": null
     },
     {
-        "disconnected": "connected space"
+        "disconnected": "Connected Space"
     },
     {
         "; it has two connected components corresponding to the positive and negative values of the ": null
     },
     {
-        "determinant": "determinant"
+        "determinant": "Determinant"
     },
     {
         ".     The ": null
     },
     {
-        "rotation": "rotation"
+        "rotation": "Rotation"
     },
     {
         " matrices form a ": null
     },
     {
-        "subgroup": "subgroup"
+        "subgroup": "Subgroup"
     },
     {
         " of , denoted by . It is a Lie group in its own right: specifically, a one-dimensional compact connected Lie group which is ": null
     },
     {
-        "diffeomorphic": "diffeomorphic"
+        "diffeomorphic": "Diffeomorphic"
     },
     {
         " to the ": null
     },
     {
-        "circle": "circle"
+        "circle": "Circle"
     },
     {
         ". Using the rotation angle \\varphi as a parameter, this group can be ": null
     },
     {
-        "parametrized": "parametric equations"
+        "parametrized": "Parametric Equations"
     },
     {
         " as follows:   :: \\operatorname \\left\\.     :Addition of the angles corresponds to multiplication of the elements of , and taking the opposite angle corresponds to inversion. Thus both multiplication and inversion are differentiable maps.     The ": null
     },
     {
-        "affine group of one dimension": "affine groupmatrix representation"
+        "affine group of one dimension": "Affine Groupmatrix Representation"
     },
     {
         " is a two-dimensional matrix Lie group, consisting of 2\\times 2 real, upper-triangular matrices, with the first diagonal entry being positive and the second diagonal entry being 1. Thus, the group consists of matrices of the form   :: A \\left,\\quad a /math math /math math /math  math /math  ref  /ref math /math math /math math /math math /math math /math math /math  math /math ": null
     },
     {
-        "ath /math math /math math /math math /mat": "ath  /math  math  /math  math  /math  math  /mat"
+        "ath /math math /math math /math math /mat": "Ath  /Math  Math  /Math  Math  /Math  Math  /Mat"
     },
     {
         " math /math math /math  math /math math /math math /math math /math math /math math /math math /math math /math  ref  /ref  ref name Hall  /ref ref  /ref   math /math  math /math  ref  /ref  math /math  math /math  math /math  math /math math /math  math /math  math /math  ref  /ref  math /math  math /math math /math math /math math /math math /math  math /math math /math ": null
     },
     {
-        "ub /su": "ub  /su"
+        "ub /su": "Ub  /Su"
     },
     {
-        "ub /su": "ub  /su"
+        "ub /su": "Ub  /Su"
     },
     {
-        "ub /su": "ub  /su"
+        "ub /su": "Ub  /Su"
     },
     {
-        "ub /su": "ub  /su"
+        "ub /su": "Ub  /Su"
     },
     {
-        "ub /su": "ub  /su"
+        "ub /su": "Ub  /Su"
     },
     {
         " sup  /sup  sup /sup  sup /sup  sup  /sup  sup  /sup  sup  /sup br /  br /  br /  sup /sup  sup /sup  sup /sup  sup /sup sup /sup  math /math ref  /ref ref name Hall/  math /math ref  /ref ref  /ref  sub /sub  sub  /sub  sub /sub  sub /sub  sub /sub  math /math math /math  sub  /sub math /math  sub /sub  sub /sub  sub /sub  sup /sup  sup /sup  sub /sub  ref  /ref  math /math math /math  math /math math /math math /math  ref  /ref  ref  /ref ref  /ref  ref  /ref  math /math  math /math math /math  ref  /ref math /math math /math math /math math /math math /math math /math math /math math /math math /math math /math  math /math  ref  /ref  math /math  math /math math /math  math /math math /math math /math math /math math /math math /math math /math ref  /ref math /math math /math math /math math /math math /math math /math math /math math /math math /math math /math math /math math /math  math /math  math /math math /math  math /math math /math math /math  math /math math /math  math /math math /math math /math math /math  math /math math /math math /math math /math math /math math /math math /math math /math math /math math /math math /math  ref groupNote  /ref ": null
     },
     {
-        "up /su": "up  /su"
+        "up /su": "Up  /Su"
     },
     {
         " math /math math /math  math /math  math /math math /math  math /math  math /math math /math math /math  math /math math /math  math /math math /math  math /math math /math ref  /ref math /math  math /math  math /math math /math  math /math  math /math  ref  /ref  ref  /ref  !--   Need specific reference from Borels book to Weyls work, in particular, distinction mentioned in the text   --  sub  /sub sub  /sub sub  /sub sub  /sub sub /sub  sup /sup  ref  /ref  sub /sub  sub /sub  sub /sub  sub /sub  sub /sub  sub /sub  sub /sub  sub /sub  sub /sub  sub /sub  sub /sub  sup /sup  sub /sub  ref  /ref ": null

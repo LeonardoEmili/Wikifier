@@ -3,235 +3,235 @@
         "     Continuum mechanics is a branch of ": null
     },
     {
-        "mechanics": "mechanics"
+        "mechanics": "Mechanics"
     },
     {
         " that deals with the mechanical behavior of materials modeled as a continuous mass rather than as discrete particles. The French mathematician ": null
     },
     {
-        "Augustin-Louis Cauchy": "augustin-louis cauchy"
+        "Augustin-Louis Cauchy": "Augustin-Louis Cauchy"
     },
     {
         " was the first to formulate such models in the 19th century.          Modeling an object as a continuum assumes that the substance of the object completely fills the space it occupies. Modeling objects in this way ignores the fact that matter is made of ": null
     },
     {
-        "atom": "atom"
+        "atom": "Atom"
     },
     {
         "s, and so is not continuous; however, on ": null
     },
     {
-        "length scales": "length scale"
+        "length scales": "Length Scale"
     },
     {
         "much greater than that of inter-atomic distances, such models are highly accurate. Fundamental physical laws such as the ": null
     },
     {
-        "conservation of mass": "conservation of mass"
+        "conservation of mass": "Conservation Of Mass"
     },
     {
         ", the ": null
     },
     {
-        "conservation of momentum": "conservation of momentum"
+        "conservation of momentum": "Conservation Of Momentum"
     },
     {
         ", and the ": null
     },
     {
-        "conservation of energy": "conservation of energy"
+        "conservation of energy": "Conservation Of Energy"
     },
     {
         " may be applied to such models to derive ": null
     },
     {
-        "differential equations": "differential equations"
+        "differential equations": "Differential Equations"
     },
     {
         " describing the behavior of such objects, and some information about the particular material studied is added through ": null
     },
     {
-        "constitutive relation": "constitutive relation"
+        "constitutive relation": "Constitutive Relation"
     },
     {
         "s.     Continuum mechanics deals with physical properties of solids and fluids which are independent of any particular ": null
     },
     {
-        "coordinate system": "coordinate system"
+        "coordinate system": "Coordinate System"
     },
     {
         " in which they are observed. These physical properties are then represented by ": null
     },
     {
-        "tensor": "tensor"
+        "tensor": "Tensor"
     },
     {
         "s, which are mathematical objects that have the required property of being independent of coordinate system. These tensors can be expressed in coordinate systems for computational convenience.       Materials, such as solids, liquids and gases, are composed of ": null
     },
     {
-        "molecules": "molecule"
+        "molecules": "Molecule"
     },
     {
         "separated by space. On a microscopic scale, materials have cracks and discontinuities. However, certain physical phenomena can be modeled assuming the materials exist as a continuum, meaning the matter in the body is continuously distributed and fills the entire region of space it occupies. A continuum is a body that can be continually sub-divided into ": null
     },
     {
-        "infinitesimal": "infinitesimal"
+        "infinitesimal": "Infinitesimal"
     },
     {
         " elements with properties being those of the bulk material.     The validity of the continuum assumption may be verified by a theoretical analysis, in which either some clear periodicity is identified or ": null
     },
     {
-        "statistical homogeneity": "homogeneity"
+        "statistical homogeneity": "Homogeneity"
     },
     {
         " and ": null
     },
     {
-        "ergodicity": "ergodicity"
+        "ergodicity": "Ergodicity"
     },
     {
         " of the ": null
     },
     {
-        "microstructure": "microstructure"
+        "microstructure": "Microstructure"
     },
     {
         " exists. More specifically, the continuum hypothesis/assumption hinges on the concepts of a ": null
     },
     {
-        "representative elementary volume": "representative elementary volume"
+        "representative elementary volume": "Representative Elementary Volume"
     },
     {
         " and separation of scales based on the ": null
     },
     {
-        "Hill–Mandel condition": "hill–mandel condition"
+        "Hill–Mandel condition": "Hill–Mandel Condition"
     },
     {
         ". This condition provides a link between an experimentalists and a theoreticians viewpoint on constitutive equations as well as a way of spatial and statistical averaging of the microstructure.      When the separation of scales does not hold, or when one wants to establish a continuum of a finer resolution than that of the representative volume element size, one employs a statistical volume element , which, in turn, leads to random continuum fields. The latter then provide a micromechanics basis for stochastic finite elements . The levels of SVE and RVE link continuum mechanics to ": null
     },
     {
-        "statistical mechanics": "statistical mechanics"
+        "statistical mechanics": "Statistical Mechanics"
     },
     {
         ". The RVE may be assessed only in a limited way via experimental testing: when the constitutive response becomes spatially homogeneous.     Specifically for ": null
     },
     {
-        "fluid": "fluid"
+        "fluid": "Fluid"
     },
     {
         "s, the ": null
     },
     {
-        "Knudsen number": "knudsen number"
+        "Knudsen number": "Knudsen Number"
     },
     {
         " is used to assess to what extent the approximation of continuity can be made.       Consider car traffic on a highway, with just one lane for simplicity.   Somewhat surprisingly, and in a tribute to its effectiveness, continuum mechanics effectively models the movement of cars via a ": null
     },
     {
-        "partial differential equation": "partial differential equation"
+        "partial differential equation": "Partial Differential Equation"
     },
     {
         " for the density of cars.   The familiarity of this situation empowers us to understand a little of the continuum-discrete dichotomy underlying continuum modelling in general.     To start modelling define that: x measures distance along the highway; t is time ; \\rho is the density of cars on the highway ; and u is the ": null
     },
     {
-        "flow velocity": "flow velocity"
+        "flow velocity": "Flow Velocity"
     },
     {
         " of those cars at position x .     ": null
     },
     {
-        "Partial differential equation": "partial differential equation"
+        "Partial differential equation": "Partial Differential Equation"
     },
     {
         "arrayrcldNdtddtabx,tab\\partial\\rho\\partial tb,tdbdta,tdadtab\\partial\\rho\\partial tb,tb,ta,ta,tab\\partial\\rho\\partial t\\partial\\partial x\\rho uarray\\partial\\rho\\partial t\\partial\\partial x\\rho u\\rhoexcept at low density\\rho142/\\rhokm/hr for density in cars/km\\partial\\rho\\partial t\\partial\\partial x\\rhox,t\\mathcal Bi1See figure 1": null
     },
     {
-        "themati": "themati"
+        "themati": "Themati"
     },
     {
         "x\\mathbf X\\cdot": null
     },
     {
-        "themati": "themati"
+        "themati": "Themati"
     },
     {
         "\\cdotforces parallel to the material surface on which they act": null
     },
     {
-        "Euler-Cauchys stress principle": "cauchy stress tensor"
+        "Euler-Cauchys stress principle": "Cauchy Stress Tensor"
     },
     {
         "for continuous bodies these laws are called the ": null
     },
     {
-        "Eulers equations of motion": "eulers laws"
+        "Eulers equations of motion": "Eulers Laws"
     },
     {
-        "chani": "chani"
+        "chani": "Chani"
     },
     {
         "\\mathbf n, \\mathbf x, tsee ": null
     },
     {
-        "Euler-Cauchys stress principle": "cauchy stress tensor"
+        "Euler-Cauchys stress principle": "Cauchy Stress Tensor"
     },
     {
-        "surface integral": "surface integral"
+        "surface integral": "Surface Integral"
     },
     {
-        "ionic": "ionic bond"
+        "ionic": "Ionic Bond"
     },
     {
         ", ": null
     },
     {
-        "metallic": "metallic bond"
+        "metallic": "Metallic Bond"
     },
     {
         ", and ": null
     },
     {
-        "van der Waals forces": "van der waals force"
+        "van der Waals forces": "Van Der Waals Force"
     },
     {
         " or massinternal forces": null
     },
     {
-        "gravitational forces": "gravitational force"
+        "gravitational forces": "Gravitational Force"
     },
     {
-        "electromagnetic forces": "electromagnetic force"
+        "electromagnetic forces": "Electromagnetic Force"
     },
     {
         " \\mathbf x, tper unit of mass\\mathbf x, t b_i\\,\\! p_i\\,\\! ": null
     },
     {
-        "electric charge": "electric charge"
+        "electric charge": "Electric Charge"
     },
     {
-        "torques": "torque"
+        "torques": "Torque"
     },
     {
         " surface couples, contact torques e.g. boneswith respect to the origin of the coordinate system": null
     },
     {
-        "chani": "chani"
+        "chani": "Chani"
     },
     {
-        "chani": "chani"
+        "chani": "Chani"
     },
     {
         "\\mathcal B\\mathcal BFigure 2\\mathcal B": null
     },
     {
-        "chani": "chani"
+        "chani": "Chani"
     },
     {
         "\\mathcal B\\cdotFigure 2\\mathbf X, t\\mathcal B\\mathcal Bx\\mathcal B\\mathcal Bij\\ldotsij\\ldotsij\\ldots\\mathbf X,tij\\ldotsij\\ldotsddtij\\ldots\\mathbf X,t\\partial\\partial tij\\ldots\\mathbf X,t\\mathbf xd\\mathbf xdt\\partial \\chi\\partial t\\mathbf v\\mathbf xd^2\\mathbf xdt^2\\partial^2 \\chi\\partial t^2\\cdotij\\ldots\\cdot\\cdot\\mathcal B\\mathcal B-1\\mathbf x, t\\mathcal B\\mathcal B\\partial \\chi_i\\partial X_J\\partial x_i\\partial X_Jij\\ldotsij \\ldotsij\\ldots\\mathbf X,tij\\ldots-1\\mathbf x,tij\\ldots\\mathbf x,tij \\ldotsij \\ldotsij\\ldots\\mathbf x,tddtij\\ldots\\mathbf x,t\\partial\\partial tij\\ldots\\mathbf x,t\\partial\\partial x_kij\\ldots\\mathbf x,tdx_kdtij\\ldots\\mathbf x,tmotion": null
     },
     {
-        "ct": "ct"
+        "ct": "Ct"
     },
     {
         "\\mathbf X,t\\mathbf x,t\\mathbf X,t\\mathbf X,toriJiJ\\mathbf x,t\\mathbf x,torJiJiJiiJiJorJiiJ\\mathbf X,t\\alpha_\\mathbf E_J\\mathbf x,tJiiJ\\mathbf X,t\\mathbf X,toriJ\\mathbf x,t\\mathbf x,torJimass, momentum, energyan open subset of Euclidean spacethe boundary of \\Omega x\\chi\\mathbfx\\mathbfXxF\\partial \\mathbf\\partial \\mathbf\\mathbf\\mathbf,t\\mathbf,t\\mathbf,tn\\mathbf,tv\\mathbf,tin the direction \\mathbf ddt\\Omega\\mathbf,tdV\\partial \\Omega \\mathbf,t\\mathbf,tv\\mathbf,tn\\mathbf,tdA\\partial \\Omega \\mathbf,tdA\\Omega\\mathbf,tdV\\mathbf,t\\mathbf,t\\mathbf,tassuming the source term is zero for the mass and angular momentum equations   \\begin   \\dot + \\rho~\\boldsymbol \\cdot \\mathbf & 0   & & \\qquad\\text \\\\   \\rho~\\dot - \\boldsymbol \\cdot \\boldsymbol - \\rho~\\mathbf & 0   & & \\qquad\\text \\\\   \\boldsymbol & \\boldsymbol^T   & & \\qquad\\text \\\\   \\rho~\\dot - \\boldsymbol: + \\boldsymbol \\cdot \\mathbf - \\rho~s & 0   & & \\qquad\\text   \\end   \\mathbf,tcurrent\\rhov\\mathbf,t\\mathbfv\\sigma\\mathbf,tb\\mathbf,t\\mathbf,teq\\mathbf,t\\mathbf,tthe Lagrangian point of view   \\begin   \\rho~\\det - \\rho_0 & 0 & & \\qquad \\text \\\\   \\rho_0~\\ddot - \\boldsymbol_\\cdot\\boldsymbol^T -\\rho_0~\\mathbf & 0 & &   \\qquad \\text \\\\   \\boldsymbol\\cdot\\boldsymbol^T & \\boldsymbol\\cdot\\boldsymbol^T & &   \\qquad \\text \\\\   \\rho_0~\\dot - \\boldsymbol^T:\\dot + \\boldsymbol_\\cdot\\mathbf - \\rho_0~s & 0   & & \\qquad\\text   \\end   PP\\sigmaF-Twhere\\boldsymbolNNPF-1\\sigma   \\begin   \\rho~\\det - \\rho_0 & 0 & & \\qquad \\text \\\\   \\rho_0~\\ddot - \\boldsymbol_\\cdot\\boldsymbol -\\rho_0~\\mathbf & 0 & &   \\qquad \\text \\\\   \\boldsymbol\\cdot\\boldsymbol & \\boldsymbol^T\\cdot\\boldsymbol^T & &   \\qquad \\text \\\\   \\rho_0~\\dot - \\boldsymbol:\\dot + \\boldsymbol_\\cdot\\mathbf - \\rho_0~s & 0   & & \\qquad\\text   \\end   \\nablavi,j 1\\partial v_i\\partial x_jeei,jee\\nablavi1\\partial v_i\\partial x_ii,i\\nablaSi,j1\\partial S_\\partial x_jeij,jevSe\\nabla\\circvi,j 1\\partial v_i\\partial X_jEEi,jEE\\nabla\\circvi1\\partial v_i\\partial X_ii,i\\nabla\\circSi,j1\\partial S_\\partial X_jEij,jEvSEABi,j1ijijtrace\\boldsymbol\\boldsymbol^Ti.e. entropy per unit massas a flux or from internal sourcesvnqddt\\int_ \\rho~\\eta~\\text\\right\\partial \\Omegau_n - \\mathbf\\cdot\\mathbfdA\\partial \\OmegaqdA\\OmegadVq\\psi\\mathbfn\\psi\\mathbf\\mathbfTsTqx   \\cfrac\\left \\ge   \\int_ \\rho~\\eta~ ~\\text -   \\int_ \\cfrac~\\text + \\int_\\Omega \\cfrac~\\text.     \\rho~\\dot \\ge - \\boldsymbol \\cdot \\left   + \\cfrac.     \\rho~ - \\boldsymbol:\\boldsymbol\\mathbf \\le   - \\cfrac.           ": null
