@@ -1,0 +1,167 @@
+[
+    {
+        "     A broadcast domain is a logical division of a ": null
+    },
+    {
+        "computer network": "Computer Network"
+    },
+    {
+        ", in which all ": null
+    },
+    {
+        "nodes": "Node"
+    },
+    {
+        "can reach each other by ": null
+    },
+    {
+        "broadcast": "Broadcasting"
+    },
+    {
+        " at the ": null
+    },
+    {
+        "data link layer": "Data Link Layer"
+    },
+    {
+        ". A broadcast domain can be within the same ": null
+    },
+    {
+        "LAN segment": "Lan Segment"
+    },
+    {
+        " or it can be bridged to other LAN segments.     In terms of current popular technologies, any computer connected to the same ": null
+    },
+    {
+        "Ethernet": "Ethernet"
+    },
+    {
+        " repeater": "Repeater"
+    },
+    {
+        " or ": null
+    },
+    {
+        "switch": "Network Switch"
+    },
+    {
+        " is a member of the same broadcast domain. Further, any computer connected to the same set of inter-connected switches/repeaters is a member of the same broadcast domain. ": null
+    },
+    {
+        "Routers": "Router"
+    },
+    {
+        "and other ": null
+    },
+    {
+        "higher-layer": "Network Layer"
+    },
+    {
+        " devices form boundaries between broadcast domains.     This is as compared to a ": null
+    },
+    {
+        "collision domain": "Collision Domain"
+    },
+    {
+        ", which would be all nodes on the same set of inter-connected repeaters, divided by switches and learning bridges. Collision domains are generally smaller than, and contained within, broadcast domains.     While some ": null
+    },
+    {
+        "layer two network": "Data Link Layer"
+    },
+    {
+        " devices are able to divide the collision domains, broadcast domains are only divided by layer 3 network devices such as routers or layer 3 switches. Separating ": null
+    },
+    {
+        "VLANs": "Virtual Lan"
+    },
+    {
+        " divides broadcast domains as well.         The distinction between broadcast and collision domains comes about because simple ": null
+    },
+    {
+        "Ethernet": "Ethernet"
+    },
+    {
+        " and similar systems use a shared ": null
+    },
+    {
+        "transmission system": "Transmission System"
+    },
+    {
+        ". In simple Ethernet , ": null
+    },
+    {
+        "data frames": "Frame"
+    },
+    {
+        " are transmitted to all other nodes on a network. Each receiving node checks the destination address of each frame, and simply ignores any frame not addressed to its own ": null
+    },
+    {
+        "MAC address": "Mac Address"
+    },
+    {
+        " or the ": null
+    },
+    {
+        "broadcast address": "Broadcast Address"
+    },
+    {
+        ".     Switches act as buffers, receiving and analyzing the frames from each connected network segment. Frames destined for nodes connected to the originating segment are not forwarded by the switch. Frames destined for a specific node on a different segment are sent only to that segment. Only broadcast frames are forwarded to all other segments. This reduces unnecessary traffic and collisions.     In such a switched network, transmitted frames may not be received by all other reachable nodes. Nominally, only broadcast frames will be received by all other nodes. Collisions are localized to the network segment they occur on. Thus, the broadcast domain is the entire inter-connected ": null
+    },
+    {
+        "layer two network": "Data Link Layer"
+    },
+    {
+        ", and the segments connected to each switch/bridge port are each a collision domain.     Not all network systems or media feature broadcast/collision domains. For example, ": null
+    },
+    {
+        "PPP links": "Point-To-Point Protocol"
+    },
+    {
+        ".         With a sufficiently sophisticated switch, it is possible to create a network in which the normal notion of a broadcast domain is strictly controlled. One implementation of this concept is termed a ": null
+    },
+    {
+        "private VLAN": "Private Vlan"
+    },
+    {
+        " . Another implementation is possible with ": null
+    },
+    {
+        "Linux": "Linux"
+    },
+    {
+        " and ": null
+    },
+    {
+        "iptables": "Iptables"
+    },
+    {
+        ". One helpful analogy is that by creating multiple VLANs, the number of broadcast domains increases, but the size of each broadcast domain decreases. This is because a ": null
+    },
+    {
+        "virtual LAN": "Virtual Lan"
+    },
+    {
+        " is technically a broadcast domain.     This is achieved by designating one or more ": null
+    },
+    {
+        "server": "Server"
+    },
+    {
+        " or provider nodes, either by MAC address or switch port. Broadcast frames are allowed to originate from these sources, and are sent to all other nodes. Broadcast frames from all other sources are directed only to the server/provider nodes. Traffic from other sources not destined to the server/provider nodes  is blocked.     The result is a network based on a nominally shared transmission system; like Ethernet, but in which ": null
+    },
+    {
+        "client": "Client"
+    },
+    {
+        " nodes cannot communicate with each other, only with the server/provider. A common application is ": null
+    },
+    {
+        "Internet providers": "Internet Service Provider"
+    },
+    {
+        ". Allowing direct data link layer communication between customer nodes exposes the network to various security attacks, such as ": null
+    },
+    {
+        "ARP spoofing": "Arp Spoofing"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "abstract algebra": "Abstract Algebra"
+    },
+    {
+        ", the  fundamental theorem on homomorphisms, also known as the fundamental homomorphism theorem, relates the structure of two objects between which a ": null
+    },
+    {
+        "homomorphism": "Homomorphism"
+    },
+    {
+        " is given, and of the ": null
+    },
+    {
+        "kernel": "Kernel"
+    },
+    {
+        " and image of the homomorphism.     The homomorphism theorem is used to prove the ": null
+    },
+    {
+        "isomorphism theorem": "Isomorphism Theorem"
+    },
+    {
+        "s.         Given two ": null
+    },
+    {
+        "groups": "Group"
+    },
+    {
+        " G and H and a ": null
+    },
+    {
+        "group homomorphism": "Group Homomorphism"
+    },
+    {
+        " f : G→H, let K be a ": null
+    },
+    {
+        "normal subgroup": "Normal Subgroup"
+    },
+    {
+        " in G and φ the natural ": null
+    },
+    {
+        "surjective": "Surjective"
+    },
+    {
+        " homomorphism G→G/K . If K is a subset of ": null
+    },
+    {
+        "ker": "Kernel"
+    },
+    {
+        " then there exists a unique homomorphism h:G/K→H such that f h φ.     In other words, the natural projection φ is ": null
+    },
+    {
+        "universal": "Universal Property"
+    },
+    {
+        " among homomorphisms on G that map K to the identity element.     The situation is described by the following ": null
+    },
+    {
+        "commutative diagram": "Commutative Diagram"
+    },
+    {
+        ":          By setting K ker we immediately get the ": null
+    },
+    {
+        "first isomorphism theorem": "First Isomorphism Theorem"
+    },
+    {
+        ".       Similar theorems are valid for ": null
+    },
+    {
+        "monoid": "Monoid"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "vector space": "Vector Space"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "modules": "Module"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "rings": "Ring"
+    }
+]

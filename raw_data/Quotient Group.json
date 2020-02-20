@@ -1,0 +1,257 @@
+[
+    {
+        "A quotient group or factor group is a ": null
+    },
+    {
+        "mathematical": "Math"
+    },
+    {
+        " group": "Group"
+    },
+    {
+        " obtained by aggregating similar elements of a larger group using an ": null
+    },
+    {
+        "equivalence relation": "Equivalence Relation"
+    },
+    {
+        " that preserves some of the group structure . For example, the ": null
+    },
+    {
+        "cyclic group": "Cyclic Group"
+    },
+    {
+        " of ": null
+    },
+    {
+        "addition modulo n": "Modular Arithmetic"
+    },
+    {
+        " can be obtained from the group of ": null
+    },
+    {
+        "integers": "Integer"
+    },
+    {
+        "under addition by identifying elements that differ by a multiple of n and defining a group structure that operates on each such class  as a single entity. It is part of the mathematical field known as ": null
+    },
+    {
+        "group theory": "Group Theory"
+    },
+    {
+        ".     In a quotient of a group, the ": null
+    },
+    {
+        "equivalence class": "Equivalence Class"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "identity element": "Identity Element"
+    },
+    {
+        " is always a ": null
+    },
+    {
+        "normal subgroup": "Normal Subgroup"
+    },
+    {
+        " of the original group, and the other equivalence classes are precisely the ": null
+    },
+    {
+        "cosets": "Coset"
+    },
+    {
+        "of that normal subgroup. The resulting quotient is written , where G is the original group and N is the normal subgroup.      Much of the importance of quotient groups is derived from their relation to ": null
+    },
+    {
+        "homomorphisms": "Group Homomorphism"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "first isomorphism theorem": "Isomorphism Theoremfirst Isomorphism Theorem"
+    },
+    {
+        " states that the ": null
+    },
+    {
+        "image": "Image"
+    },
+    {
+        " of any group G under a homomorphism is always ": null
+    },
+    {
+        "isomorphic": "Group Isomorphism"
+    },
+    {
+        " to a quotient of G. Specifically, the image of G under a homomorphism  is isomorphic to  where ker denotes the ": null
+    },
+    {
+        "kernel": "Kernel Group Homomorphisms"
+    },
+    {
+        " of φ.     The ": null
+    },
+    {
+        "dual": "Duality"
+    },
+    {
+        " notion of a quotient group is a ": null
+    },
+    {
+        "subgroup": "Subgroup"
+    },
+    {
+        ", these being the two primary ways of forming a smaller group from a larger one. Any normal subgroup has a corresponding quotient group, formed from the larger group by eliminating the distinction between elements of the subgroup. In ": null
+    },
+    {
+        "category theory": "Category Theory"
+    },
+    {
+        ", quotient groups are examples of ": null
+    },
+    {
+        "quotient object": "Quotient Object"
+    },
+    {
+        "s, which are ": null
+    },
+    {
+        "dual": "Dual"
+    },
+    {
+        " to ": null
+    },
+    {
+        "subobject": "Subobject"
+    },
+    {
+        "s. For other examples of quotient objects, see ": null
+    },
+    {
+        "quotient ring": "Quotient Ring"
+    },
+    {
+        ", ": null
+    },
+    {
+        "quotient space ": "Quotient Space"
+    },
+    {
+        ", ": null
+    },
+    {
+        "quotient space ": "Quotient Space"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "quotient set": "Quotient Set"
+    },
+    {
+        ".       Given a ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        " G and a subgroup H, and an element a in G, one can consider the corresponding left ": null
+    },
+    {
+        "coset": "Coset"
+    },
+    {
+        ": aH : . Cosets are a natural class of subsets of a group; for example consider the abelian group G of ": null
+    },
+    {
+        "integer": "Integer"
+    },
+    {
+        "s, with ": null
+    },
+    {
+        "operation": "Binary Operation"
+    },
+    {
+        " defined by the usual addition, and the subgroup H of even integers. Then there are exactly two cosets: 0 + H, which are the even integers, and 1 + H, which are the odd integers .     For a general subgroup H, it is desirable to define a compatible group operation on the set of all possible cosets, . This is possible exactly when H is a ": null
+    },
+    {
+        "normal subgroup": "Normal Subgroup"
+    },
+    {
+        ", see below. A subgroup N of a group G is normal ": null
+    },
+    {
+        "if and only if": "If And Only If"
+    },
+    {
+        " the coset equality aN Na holds for all a in G. A normal subgroup of G is denoted .         Let N be a normal subgroup of a group G. Define the set G/N to be the set of all left cosets of N in G. That is, . Since the identity element e ∈ N, a ∈ aN. Define an operation on the set of cosets, G/N, as follows. For each aN and bN in G/N, the product of aN and bN, , is N. This works only because N does not depend on the choice of the representatives, a and b, of each left coset, aN and bN. To prove this, suppose xN aN and yN bN for some x, y, a, b ∈ G. Then     :N a a a y y x x N.     This depends on the fact that N is a normal subgroup. It still remains to be shown that this condition is not only sufficient but necessary to define the operation on G/N.     To show that it is necessary, consider that for a subgroup N of G, we have been given that the operation is well defined. That is, for all xN aN and yN bN, for x, y, a, b ∈ G, N N.     Let n ∈ N and g ∈ G. Since eN nN, we have, gN N N.     Now, gN N ⇔ N g -1 N ⇔ g -1 ng ∈ N ∀ n ∈ N and g ∈ G.     Hence N is a normal subgroup of G.     It can also be checked that this operation on G/N is always associative. G/N has identity element N and the inverse of element aN can always be represented by a −1 N. Therefore, the set G/N together with the operation defined by  N forms a group, the quotient group of G by N.     Due to the normality of N, the left cosets and right cosets of N in G are the same, and so, G/N could have been defined to be the set of right cosets of N in G.         For example, consider the group with addition modulo 6: G . Consider the subgroup N , which is normal because G is ": null
+    },
+    {
+        "abelian": "Abelian Group"
+    },
+    {
+        ". Then the set of cosets is of size three:     : G/N  .     The binary operation defined above makes this set into a group, known as the quotient group, which in this case is isomorphic to the ": null
+    },
+    {
+        "cyclic group": "Cyclic Group"
+    },
+    {
+        " of order 3.       The reason G/N is called a quotient group comes from ": null
+    },
+    {
+        "division": "Division"
+    },
+    {
+        " of ": null
+    },
+    {
+        "integer": "Integer"
+    },
+    {
+        "s. When dividing 12 by 3 one obtains the answer 4 because one can regroup 12 objects into 4 subcollections of 3 objects. The quotient group is the same idea, although we end up with a group for a final answer instead of a number because groups have more structure than an arbitrary collection of objects.     To elaborate, when looking at G/N with N a normal subgroup of G, the group structure is used to form a natural regrouping . These are the cosets of N in G. Because we started with a group and normal subgroup, the final quotient contains more information than just the number of cosets , but instead has a group structure itself.         Consider the group of ": null
+    },
+    {
+        "integers": "Integer"
+    },
+    {
+        " Z and the subgroup 2Z consisting of all even integers. This is a normal subgroup, because Z is ": null
+    },
+    {
+        "abelian": "Abelian Group"
+    },
+    {
+        ". There are only two cosets: the set of even integers and the set of odd integers, and therefore the quotient group Z/2Z is the cyclic group with two elements. This quotient group is isomorphic with the set  with addition modulo  2; informally, it is sometimes said that Z/2Z equals the set  with addition modulo 2.     Example further explained...     Let \\gamma remainders of m \\in \\Z when dividing by 2 .   Then \\gamma0 when m is even and \\gamma1 when m is odd.   By definition of \\gamma , the kernel of \\gamma ,   ker \\ , is the set of all even integers.   Let H ker.   Then H is a subgroup, because the identity in \\Z , which is 0 , is in H ,   the sum of two even integers is even and hence if m and n are in H , m+n is in H   and if m is even, -m is also even and so H contains its inverses.   Define \\mu :  \\to \\Z_2 as \\mu\\gamma for a\\in\\Z   and  is the quotient group of left cosets;  \\ .   By the way we have defined \\mu , \\mu is 1 if a is odd and 0 if a is even.   Thus, \\mu is an isomorphism from  to \\Z_2 .       A slight generalization of the last example. Once again consider the group of integers Z under addition. Let n be any positive integer. We will consider the subgroup nZ of Z consisting of all multiples of n. Once again nZ is normal in Z because Z is abelian. The cosets are the collection . An integer k belongs to the coset r+nZ, where r is the remainder when dividing k by n. The quotient Z/nZ can be thought of as the group of remainders modulo n. This is a ": null
+    },
+    {
+        "cyclic group": "Cyclic Group"
+    },
+    {
+        " of order n.          The twelfth ": null
+    },
+    {
+        "roots of unity": "Roots Of Unity"
+    },
+    {
+        ", which are points on the ": null
+    },
+    {
+        "complex": "Complex Number"
+    },
+    {
+        " unit circle": "Unit Circle"
+    },
+    {
+        ", form a multiplicative abelian group G, shown on the picture on the right as colored balls with the number at each point giving its complex argument. Consider its subgroup N made of the fourth roots of unity, shown as red balls. This normal subgroup splits the group into three cosets, shown in red, green and blue. One can check that the cosets form a group of three elements . Thus, the quotient group G/N is the group of three colors, which turns out to be the cyclic group with three elements.       Consider the group of ": null
+    },
+    {
+        "real numbers": "Real Number"
+    },
+    {
+        " R under addition, and the subgroup Z of integers. The cosets of Z in R are all sets of the form a+Z, with ": null
+    }
+]

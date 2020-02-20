@@ -1,0 +1,167 @@
+[
+    {
+        "      Active Server Pages , later known as Classic ASP or ASP Classic, is ": null
+    },
+    {
+        "Microsofts": "Microsoft"
+    },
+    {
+        "first ": null
+    },
+    {
+        "server-side": "Server-Side Scripting"
+    },
+    {
+        " script engine": "Active Scripting"
+    },
+    {
+        " for ": null
+    },
+    {
+        "dynamically generated web pages": "Dynamic Web Page"
+    },
+    {
+        ".     It was first released in December 1996, before being superseded in January 2002 by ": null
+    },
+    {
+        "ASP.NET": "Asp.Net"
+    },
+    {
+        ".       Initially released as an add-on to ": null
+    },
+    {
+        "Internet Information Services": "Internet Information Services"
+    },
+    {
+        " via the ": null
+    },
+    {
+        "Windows NT 4.0 Option Pack": "Windows Nt 4.0Option Pack"
+    },
+    {
+        " , it is included as a component of ": null
+    },
+    {
+        "Windows Server": "Windows Server"
+    },
+    {
+        " . There have been three versions of ASP, each introduced with different versions of IIS:     ASP 1.0 was released on December 1996 as part of IIS 3.0   ASP 2.0 was released on September 1997 as part of IIS 4.0   ASP 3.0 was released on November 2000 as part of IIS 5.0     ASP 2.0 provides six built-in ": null
+    },
+    {
+        "objects": "Object"
+    },
+    {
+        ": Application, ASPError, Request, Response, Server, and Session. Session object, for example, represents a ": null
+    },
+    {
+        "session": "Session"
+    },
+    {
+        " that maintains the state of ": null
+    },
+    {
+        "variables": "Variable"
+    },
+    {
+        " from page to page. The session data is kept server-side, the ID is saved as a ": null
+    },
+    {
+        "HTTP Cookie": "Http Cookie"
+    },
+    {
+        ". Source: , Microsoft The ": null
+    },
+    {
+        "Active Scripting": "Active Scripting"
+    },
+    {
+        " engines support of the ": null
+    },
+    {
+        "Component Object Model": "Component Object Model"
+    },
+    {
+        " enables ASP ": null
+    },
+    {
+        "websites": "Website"
+    },
+    {
+        "to access functionality in compiled ": null
+    },
+    {
+        "libraries": "Library"
+    },
+    {
+        " such as ": null
+    },
+    {
+        "DLLs": "Dynamic-Link Library"
+    },
+    {
+        ".     ASP 3.0 does not differ greatly from ASP 2.0 but it does offer some additional enhancements such as Server.Transfer method, Server.Execute method, and an enhanced ASPError object. ASP 3.0 also enables buffering by default and optimized the engine for better performance.     ASP remains supported until 14 January 2020 on ": null
+    },
+    {
+        "Windows 7": "Windows 7"
+    },
+    {
+        ".  The use of ASP pages will be supported on ": null
+    },
+    {
+        "Windows 8": "Windows 8"
+    },
+    {
+        " for a minimum of 10 years from the ": null
+    },
+    {
+        "Windows 8": "Windows 8"
+    },
+    {
+        " release date.       ASP uses ": null
+    },
+    {
+        "server-side scripting": "Server-Side Scripting"
+    },
+    {
+        " to generate content that is sent to the clients web browser. The ASP interpreter reads and executes all script code between tags, the result of which is content generation. These scripts were written using ": null
+    },
+    {
+        "VBScript": "Vbscript"
+    },
+    {
+        ", ": null
+    },
+    {
+        "JScript": "Jscript"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "PerlScript": "Perlscript"
+    },
+    {
+        ". The @Language directive, the  syntax or server configuration can be used to select the language. In the example below, Response.Write Now is in an ": null
+    },
+    {
+        "HTML": "Html"
+    },
+    {
+        " page; it would be dynamically replaced by the current time of the server.        Web pages with the .asp ": null
+    },
+    {
+        "filename extension": "Filename Extension"
+    },
+    {
+        " use ASP, although some web sites disguise their choice of scripting language for security purposes by using the more common .htm or .html extensions. Pages with the .aspx extension use compiled ": null
+    },
+    {
+        "ASP.NET": "Asp.Net"
+    },
+    {
+        "; however, ASP.NET pages may still include some ASP scripting. The introduction of ASP.NET led to use of the term Classic ASP for the original technology.     Sun Java System ASP was a popular and reportedly complete emulator,  but it has been discontinued.       Can send information to the client, such as the writing of the text on a page or ": null
+    },
+    {
+        "HTTP Cookie": "Http Cookie"
+    }
+]

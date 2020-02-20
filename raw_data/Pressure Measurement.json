@@ -1,0 +1,446 @@
+[
+    {
+        "        Pressure measurement is the analysis of an applied ": null
+    },
+    {
+        "force": "Force"
+    },
+    {
+        " by a ": null
+    },
+    {
+        "fluid": "Fluid"
+    },
+    {
+        "  on a surface. ": null
+    },
+    {
+        "Pressure": "Pressure"
+    },
+    {
+        " is typically measured in units of force per unit of surface area. Many techniques have been developed for the measurement of pressure and ": null
+    },
+    {
+        "vacuum": "Vacuum"
+    },
+    {
+        ". Instruments used to measure and display pressure in an integral unit are called pressure meters or pressure gauges or vacuum gauges. A manometer is a good example, as it uses the surface area and weight of a column of liquid to both measure and indicate pressure. Likewise the widely used Bourdon gauge is a mechanical device, which both measures and indicates and is probably the best known type of gauge.     A vacuum gauge is a pressure gauge used to measure pressures lower than the ambient atmospheric pressure, which is set as the zero point, in negative values . Most gauges measure pressure relative to atmospheric pressure as the zero point, so this form of reading is simply referred to as gauge pressure . However, anything greater than total vacuum is technically a form of pressure. For very accurate readings, especially at very low pressures, a gauge that uses total vacuum as the zero point may be used, giving pressure readings in an ": null
+    },
+    {
+        "absolute scale": "Absolute Scale"
+    },
+    {
+        ".     Other methods of pressure measurement involve sensors that can transmit the pressure reading to a remote indicator or control system .          Everyday pressure measurements, such as for vehicle tire pressure, are usually made relative to ambient air pressure. In other cases measurements are made relative to a vacuum or to some other specific reference. When distinguishing between these zero references, the following terms are used:    is zero-referenced against a perfect vacuum, using an ": null
+    },
+    {
+        "absolute scale": "Absolute Scale"
+    },
+    {
+        ", so it is equal to gauge pressure plus atmospheric pressure.    is zero-referenced against ambient air pressure, so it is equal to absolute pressure minus atmospheric pressure. Negative signs are usually omitted. To distinguish a negative pressure, the value may be appended with the word vacuum or the gauge may be labeled a vacuum gauge . These are further divided into two subcategories: high and low vacuum . The applicable pressure ranges of many of the techniques used to measure vacuums have an overlap. Hence, by combining several different types of gauge, it is possible to measure system pressure continuously from 10  ": null
+    },
+    {
+        "mbar": "Bar"
+    },
+    {
+        " down to 10 −11  mbar.    is the difference in pressure between two points.     The zero reference in use is usually implied by context, and these words are added only when clarification is needed. ": null
+    },
+    {
+        "Tire pressure": "Tire-Pressure Gauge"
+    },
+    {
+        " and ": null
+    },
+    {
+        "blood pressure": "Sphygmomanometer"
+    },
+    {
+        " are gauge pressures by convention, while ": null
+    },
+    {
+        "atmospheric pressure": "Atmospheric Pressure"
+    },
+    {
+        "s, deep vacuum pressures, and ": null
+    },
+    {
+        "altimeter pressures": "Altimeter"
+    },
+    {
+        " must be absolute.     For most ": null
+    },
+    {
+        "working fluids": "Working Fluid"
+    },
+    {
+        "where a fluid exists in a ": null
+    },
+    {
+        "closed system": "Closed System"
+    },
+    {
+        ", gauge pressure measurement prevails. Pressure instruments connected to the system will indicate pressures relative to the current atmospheric pressure. The situation changes when extreme vacuum pressures are measured, then absolute pressures are typically used instead.     Differential pressures are commonly used in industrial process systems. Differential pressure gauges have two inlet ports, each connected to one of the volumes whose pressure is to be monitored. In effect, such a gauge performs the mathematical operation of subtraction through mechanical means, obviating the need for an operator or control system to watch two separate gauges and determine the difference in readings.     Moderate vacuum pressure readings can be ambiguous without the proper context, as they may represent absolute pressure or gauge pressure without a negative sign. Thus a vacuum of 26  inHg gauge is equivalent to an absolute pressure of 30  inHg − 26  inHg 4  inHg.     Atmospheric pressure is typically about 100  ": null
+    },
+    {
+        "kPa": "Pascal"
+    },
+    {
+        " at sea level, but is variable with altitude and weather. If the absolute pressure of a fluid stays constant, the gauge pressure of the same fluid will vary as atmospheric pressure changes. For example, when a car drives up a mountain, the tire pressure goes up because atmospheric pressure goes down. The absolute pressure in the tire is essentially unchanged.     Using atmospheric pressure as reference is usually signified by a g for gauge after the pressure unit, e.g. 70  psig, which means that the pressure measured is the total pressure minus ": null
+    },
+    {
+        "atmospheric pressure": "Atmospheric Pressure"
+    },
+    {
+        ". There are two types of gauge reference pressure: vented gauge and sealed gauge .     A vented-gauge ": null
+    },
+    {
+        "pressure transmitter": "Pressure Transmitter"
+    },
+    {
+        ", for example, allows the outside air pressure to be exposed to the negative side of the pressure-sensing diaphragm, through a vented cable or a hole on the side of the device, so that it always measures the pressure referred to ambient ": null
+    },
+    {
+        "barometric pressure": "Barometric Pressure"
+    },
+    {
+        ". Thus a vented-gauge reference ": null
+    },
+    {
+        "pressure sensor": "Pressure Sensor"
+    },
+    {
+        " should always read zero pressure when the process pressure connection is held open to the air.     A sealed gauge reference is very similar, except that atmospheric pressure is sealed on the negative side of the diaphragm. This is usually adopted on high pressure ranges, such as ": null
+    },
+    {
+        "hydraulics": "Hydraulics"
+    },
+    {
+        ", where atmospheric pressure changes will have a negligible effect on the accuracy of the reading, so venting is not necessary. This also allows some manufacturers to provide secondary pressure containment as an extra precaution for pressure equipment safety if the burst pressure of the primary pressure sensing ": null
+    },
+    {
+        "diaphragm": "Diaphragm Seal"
+    },
+    {
+        " is exceeded.     There is another way of creating a sealed gauge reference, and this is to seal a high ": null
+    },
+    {
+        "vacuum": "Vacuum"
+    },
+    {
+        " on the reverse side of the sensing diaphragm. Then the output signal is offset, so the pressure sensor reads close to zero when measuring atmospheric pressure.     A sealed gauge reference ": null
+    },
+    {
+        "pressure transducer": "Pressure Transducer"
+    },
+    {
+        " will never read exactly zero because atmospheric pressure is always changing and the reference in this case is fixed at 1 bar.     To produce an ": null
+    },
+    {
+        "absolute pressure sensor": "Absolute Pressure Sensor"
+    },
+    {
+        ", the manufacturer seals a high vacuum behind the sensing diaphragm. If the process-pressure connection of an absolute-pressure transmitter is open to the air, it will read the actual ": null
+    },
+    {
+        "barometric pressure": "Barometric Pressure"
+    },
+    {
+        ".                 The ": null
+    },
+    {
+        "SI": "Si"
+    },
+    {
+        " unit for pressure is the ": null
+    },
+    {
+        "pascal": "Pascal"
+    },
+    {
+        " , equal to one ": null
+    },
+    {
+        "newton": "Newton"
+    },
+    {
+        " per ": null
+    },
+    {
+        "square metre": "Square Metre"
+    },
+    {
+        " . This special name for the unit was added in 1971; before that, pressure in SI was expressed in units such as N·m −2 . When indicated, the zero reference is stated in parenthesis following the unit, for example 101 kPa . The ": null
+    },
+    {
+        "pound per square inch": "Pounds Per Square Inch"
+    },
+    {
+        " is still in widespread use in the US and Canada, for measuring, for instance, tire pressure. A letter is often appended to the psi unit to indicate the measurements zero reference; psia for absolute, psig for gauge, psid for differential, although this practice is discouraged by the ": null
+    },
+    {
+        "NIST": "Nist"
+    },
+    {
+        ".      Because pressure was once commonly measured by its ability to displace a column of liquid in a manometer, pressures are often expressed as a depth of a particular fluid . Manometric measurement is the subject of ": null
+    },
+    {
+        "pressure head": "Pressure Head"
+    },
+    {
+        " calculations. The most common choices for a manometers fluid are ": null
+    },
+    {
+        "mercury": "Mercury"
+    },
+    {
+        " and water; water is nontoxic and readily available, while mercurys density allows for a shorter column to measure a given pressure. The abbreviation W.C. or the words water column are often printed on gauges and measurements that use water for the manometer.     Fluid density and local gravity can vary from one reading to another depending on local factors, so the height of a fluid column does not define pressure precisely. So measurements in ": null
+    },
+    {
+        "millimetres of mercury": "Millimetres Of Mercury"
+    },
+    {
+        " or ": null
+    },
+    {
+        "inches of mercury": "Inhg"
+    },
+    {
+        " can be converted to SI units as long as attention is paid to the local factors of fluid density and ": null
+    },
+    {
+        "gravity": "Gravity Of Earth"
+    },
+    {
+        ". Temperature fluctuations change the value of fluid density, while location can affect gravity.     Although no longer preferred, these manometric units are still encountered in many fields. ": null
+    },
+    {
+        "Blood pressure": "Blood Pressure"
+    },
+    {
+        " is measured in millimetres of mercury  in most of the world, ": null
+    },
+    {
+        "central venous pressure": "Central Venous Pressure"
+    },
+    {
+        " and lung pressures in ": null
+    },
+    {
+        "centimeters of water": "Centimetre Of Water"
+    },
+    {
+        " are still common, as in settings for CPAP machines. Natural gas pipeline pressures are measured in ": null
+    },
+    {
+        "inches of water": "Inch Of Water"
+    },
+    {
+        ", expressed as inches W.C.     ": null
+    },
+    {
+        "Underwater divers": "Underwater Diving"
+    },
+    {
+        " use manometric units: the ambient pressure is measured in units of ": null
+    },
+    {
+        "metres sea water": "Metre Sea Water"
+    },
+    {
+        " which is defined as equal to one tenth of a bar.  The unit used in the US is the foot sea water , based on ": null
+    },
+    {
+        "standard gravity": "Standard Gravity"
+    },
+    {
+        " and a sea-water density of 64  lb/ft 3 . According to the US Navy Diving Manual, one fsw equals 0.30643  msw, , or , though elsewhere it states that 33  fsw is  , which gives one fsw equal to about 0.445  psi. Page 2-12. The msw and fsw are the conventional units for measurement of ": null
+    },
+    {
+        "diver": "Underwater Diving"
+    },
+    {
+        " pressure exposure used in ": null
+    },
+    {
+        "decompression tables": "Decompression Tables"
+    },
+    {
+        " and the unit of calibration for ": null
+    },
+    {
+        "pneumofathometers": "Pneumofathometer"
+    },
+    {
+        "and ": null
+    },
+    {
+        "hyperbaric chamber": "Hyperbaric Chamber"
+    },
+    {
+        " pressure gauge": "Pressure Gauge"
+    },
+    {
+        "s. Both msw and fsw are measured relative to normal atmospheric pressure.     In vacuum systems, the units ": null
+    },
+    {
+        "torr": "Torr"
+    },
+    {
+        " , ": null
+    },
+    {
+        "micron": "Micron"
+    },
+    {
+        " ,  and inch of mercury  are most commonly used. Torr and micron usually indicates an absolute pressure, while inHg usually indicates a gauge pressure.     Atmospheric pressures are usually stated using hectopascal , kilopascal , millibar or atmospheres . In American and Canadian engineering, ": null
+    },
+    {
+        "stress": "Stress"
+    },
+    {
+        " is often measured in ": null
+    },
+    {
+        "kip": "Kip"
+    },
+    {
+        ". Note that stress is not a true pressure since it is not ": null
+    },
+    {
+        "scalar": "Scalar"
+    },
+    {
+        ". In the ": null
+    },
+    {
+        "cgs": "Cgs"
+    },
+    {
+        " system the unit of pressure was the ": null
+    },
+    {
+        "barye": "Barye"
+    },
+    {
+        " , equal to 1 dyn·cm −2 . In the ": null
+    },
+    {
+        "mts": "Metre-Tonne-Second System Of Units"
+    },
+    {
+        " system, the unit of pressure was the ": null
+    },
+    {
+        "pieze": "Pieze"
+    },
+    {
+        ", equal to 1 ": null
+    },
+    {
+        "sthene": "Sthene"
+    },
+    {
+        " per square metre.     Many other hybrid units are used such as mmHg/cm 2 or grams-force/cm 2 . Using the names kilogram, gram, kilogram-force, or gram-force as a unit of force is prohibited in SI; the unit of force in SI is the newton .       ": null
+    },
+    {
+        "Static pressure": "Static Pressure"
+    },
+    {
+        " is uniform in all directions, so pressure measurements are independent of direction in an immovable fluid. Flow, however, applies additional pressure on surfaces perpendicular to the flow direction, while having little impact on surfaces parallel to the flow direction. This directional component of pressure in a moving fluid is called ": null
+    },
+    {
+        "dynamic pressure": "Dynamic Pressure"
+    },
+    {
+        ". An instrument facing the flow direction measures the sum of the static and dynamic pressures; this measurement is called the ": null
+    },
+    {
+        "total pressure": "Total Pressure"
+    },
+    {
+        " or ": null
+    },
+    {
+        "stagnation pressure": "Stagnation Pressure"
+    },
+    {
+        ". Since dynamic pressure is referenced to static pressure, it is neither gauge nor absolute; it is a differential pressure.     While static gauge pressure is of primary importance to determining net loads on pipe walls, dynamic pressure is used to measure flow rates and airspeed. Dynamic pressure can be measured by taking the differential pressure between instruments parallel and perpendicular to the flow. ": null
+    },
+    {
+        "Pitot-static tube": "Pitot Tube"
+    },
+    {
+        "s, for example perform this measurement on airplanes to determine airspeed. The presence of the measuring instrument inevitably acts to divert flow and create turbulence, so its shape is critical to accuracy and the calibration curves are often non-linear.       ": null
+    },
+    {
+        "Altimeter": "Altimeter"
+    },
+    {
+        " Barometer": "Barometer"
+    },
+    {
+        " MAP sensor": "Map Sensor"
+    },
+    {
+        " Pitot tube": "Pitot Tube"
+    },
+    {
+        " Sphygmomanometer": "Sphygmomanometer"
+    },
+    {
+        "            Many instruments have been invented to measure pressure, with different advantages and disadvantages. Pressure range, sensitivity, dynamic response and cost all vary by several orders of magnitude from one instrument design to the next. The oldest type is the liquid column manometer invented by ": null
+    },
+    {
+        "Evangelista Torricelli": "Evangelista Torricelli"
+    },
+    {
+        " in 1643. The U-Tube was invented by ": null
+    },
+    {
+        "Christiaan Huygens": "Christiaan Huygens"
+    },
+    {
+        " in 1661.       Hydrostatic gauges compare pressure to the hydrostatic force per unit area at the base of a column of fluid. Hydrostatic gauge measurements are independent of the type of gas being measured, and can be designed to have a very linear calibration. They have poor dynamic response.       Piston-type gauges counterbalance the pressure of a fluid with a spring  or a solid weight, in which case it is known as a ": null
+    },
+    {
+        "deadweight tester": "Deadweight Tester"
+    },
+    {
+        " and may be used for calibration of other gauges.          Liquid-column gauges consist of a column of liquid in a tube whose ends are exposed to different pressures. The column will rise or fall until its weight is in equilibrium with the pressure differential between the two ends of the tube . A very simple version is a U-shaped tube half-full of liquid, one side of which is connected to the region of interest while the ": null
+    },
+    {
+        "reference": "Reference"
+    },
+    {
+        " pressure  is applied to the other. The difference in liquid levels represents the applied pressure. The pressure exerted by a column of fluid of height h and density ρ is given by the hydrostatic pressure equation, P hgρ. Therefore, the pressure difference between the applied pressure P a  and the reference pressure P 0 in a U-tube manometer can be found by solving . In other words, the pressure on either end of the liquid must be balanced , and so .     In most liquid-column measurements, the result of the measurement is the height h, expressed typically in mm, cm, or inches. The h is also known as the ": null
+    },
+    {
+        "pressure head": "Pressure Head"
+    },
+    {
+        ". When expressed as a pressure head, pressure is specified in units of length and the measurement fluid must be specified. When accuracy is critical, the temperature of the measurement fluid must likewise be specified, because liquid density is a function of ": null
+    },
+    {
+        "temperature": "Temperature"
+    },
+    {
+        ". So, for example, pressure head might be written 742.2  mm Hg or 4.2  in H 2 O at 59  °F for measurements taken with mercury or water as the manometric fluid respectively. The word gauge or vacuum may be added to such a measurement to distinguish between a pressure above or below the atmospheric pressure. Both mm of mercury and inches of water are common pressure heads, which can be converted to S.I. units of pressure using ": null
+    },
+    {
+        "unit conversion": "Unit Conversion"
+    },
+    {
+        " and the above formulas.     If the fluid being measured is significantly dense, hydrostatic corrections may have to be made for the height between the moving surface of the manometer working fluid and the location where the pressure measurement is desired, except when measuring differential pressure of a fluid , in which case the density ρ should be corrected by subtracting the density of the fluid being measured.      Although any fluid can be used, ": null
+    },
+    {
+        "mercury": "Mercury"
+    },
+    {
+        " is preferred for its high density and low ": null
+    },
+    {
+        "vapour pressure": "Vapor Pressure"
+    },
+    {
+        ". For low pressure differences, light oil or water are commonly used    ": null
+    }
+]

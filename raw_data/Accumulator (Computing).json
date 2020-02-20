@@ -1,0 +1,287 @@
+[
+    {
+        "In a ": null
+    },
+    {
+        "computers": "Computer"
+    },
+    {
+        "central processing unit , the accumulator is a ": null
+    },
+    {
+        "register": "Processor Register"
+    },
+    {
+        " in which ": null
+    },
+    {
+        "intermediate": ":Wikt:Intermediate"
+    },
+    {
+        " arithmetic and logic": "Arithmetic Logic Unit"
+    },
+    {
+        " results are stored.     Without a ": null
+    },
+    {
+        "register": "Processor Register"
+    },
+    {
+        " like an accumulator, it would be necessary to write the result of each calculation  to ": null
+    },
+    {
+        "main memory": "Primary Storage"
+    },
+    {
+        ", perhaps only to be read right back again for use in the next ": null
+    },
+    {
+        "operation": "Instruction Set Architecture"
+    },
+    {
+        ". Access to main memory is slower than access to a register like the accumulator because the technology used for the large main memory is slower than that used for a register. Early electronic computer systems were often split into two groups, those with accumulators and those without.     Modern computer systems often have multiple general purpose registers that operate as accumulators, and the term is no longer as common as it once was. However, a number of special-purpose processors still use a single accumulator for their work to simplify their design.       Mathematical operations often take place in a stepwise fashion, using the results from one operation as the input to the next. For instance, a manual calculation of a workers weekly payroll might look something like:     look up the number of hours worked from the employees time card   look up the pay rate for that employee from a table   multiply the hours by the pay rate to get their basic weekly pay   multiply their basic pay by a fixed percentage to account for income tax   subtract that number from their basic pay to get their weekly pay after tax   multiply that result by another fixed percentage to account for retirement plans   subtract that number from their basic pay to get their weekly pay after all deductions     A computer program carrying out the same task would follow the same basic sequence of operations, although the values being looked up would all be stored in computer memory. In early computers the number of hours would likely be held on a ": null
+    },
+    {
+        "punch card": "Punch Card"
+    },
+    {
+        " and the pay rate in some other form of memory, perhaps a ": null
+    },
+    {
+        "magnetic drum": "Magnetic Drum"
+    },
+    {
+        ". Once the multiplication is complete, the result needs to be placed somewhere. On a drum machine this would likely be back to the drum, an operation that takes considerable time. And then the very next operation has to read that value back in, which introduces another considerable delay.     Accumulators dramatically improve performance in systems like these by providing a scratchpad area where the results of one operation can be fed to the next one for little or no performance penalty. In the example above, the basic weekly pay would be calculated and placed in the accumulator, which could then immediately be used by the income tax calculation. This removes one save and one read operation from the sequence, operations that generally took tens to hundreds of times as long as the multiplication itself.       An accumulator machine, also called a ": null
+    },
+    {
+        "1-operand machine": "Instruction_Set_Architecturenumber_Of_Operands"
+    },
+    {
+        ", or a CPU with accumulator-based architecture, is a kind of CPU where, although it may have several registers, the CPU mostly stores the results of calculations in one special register, typically called the accumulator . Almost all early computers were accumulator machines with only the high-performance ": null
+    },
+    {
+        "supercomputers": "Supercomputer"
+    },
+    {
+        " having multiple registers. Then as ": null
+    },
+    {
+        "mainframe": "Mainframe Computer"
+    },
+    {
+        " systems gave way to ": null
+    },
+    {
+        "microcomputer": "Microcomputer"
+    },
+    {
+        "s, accumulator architectures were again popular with the ": null
+    },
+    {
+        "MOS 6502": "Mos 6502"
+    },
+    {
+        " being a notable example. Many 8-bit ": null
+    },
+    {
+        "microcontrollers": "Microcontroller"
+    },
+    {
+        "that are still popular as of 2014, such as the ": null
+    },
+    {
+        "PICmicro": "Picmicro"
+    },
+    {
+        " and ": null
+    },
+    {
+        "8051": "8051"
+    },
+    {
+        ", are accumulator-based machines.     Modern CPUs are typically 2-operand or 3-operand machines. The additional operands specify which one of many ": null
+    },
+    {
+        "general purpose registers": "General Purpose Register"
+    },
+    {
+        "  are used as the source and destination for calculations. These CPUs are not considered accumulator machines .     The characteristic which distinguishes one register as being the accumulator of a ": null
+    },
+    {
+        "computer architecture": "Computer Architecture"
+    },
+    {
+        " is that the accumulator would be used as an implicit ": null
+    },
+    {
+        "operand": "Operand"
+    },
+    {
+        " for arithmetic ": null
+    },
+    {
+        "instruction": "Instruction"
+    },
+    {
+        "s. For instance, a CPU might have an instruction like: ADD  memaddress  that adds the value read from memory location memaddress to the value in the accumulator, placing the result back in the accumulator. The accumulator is not identified in the instruction by a register number; it is ": null
+    },
+    {
+        "implicit": "Addressing_Modeimplicit"
+    },
+    {
+        " in the instruction and no other register can be specified in the instruction. Some architectures use a particular register as an accumulator in some instructions, but other instructions use register numbers for explicit operand specification.       Any system that uses a single memory to store the result of multiple operations can be considered an accumulator. ": null
+    },
+    {
+        "J. Presper Eckert": "J. Presper Eckert"
+    },
+    {
+        " refers to even the earliest ": null
+    },
+    {
+        "adding machines": "Adding Machine"
+    },
+    {
+        "of ": null
+    },
+    {
+        "Gottfried Leibniz": "Gottfried Leibniz"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Blaise Pascal": "Blaise Pascal"
+    },
+    {
+        " as accumulator-based systems. J. Presper Eckert, A Survey of Digital Computer Memory Systems , IEEE Annals of the History of Computing, 1988, pp. 15-28. ": null
+    },
+    {
+        "Percy Ludgate": "Percy Ludgate"
+    },
+    {
+        " was the first to conceive a multiplier-accumulator in his Analytical Machine of 1909.      Historical convention dedicates a register to the accumulator , an arithmetic organ that literally accumulates its number during a sequence of arithmetic operations:     : The first part of our arithmetic organ ... should be a parallel storage organ which can receive a number and add it to the one already in it, which is also able to clear its contents and which can store what it contains. We will call such an organ an Accumulator. It is quite conventional in principle in past and present computing machines of the most varied types, e.g. desk multipliers, standard IBM counters, more modern relay machines, the ENIAC .     Just a few of the instructions are, for example :   Clear accumulator and add number from memory location X   Clear accumulator and subtract number from memory location X   Add number copied from memory location X to the contents of the accumulator   Subtract number copied from memory location X from the contents of the accumulator   Clear accumulator and shift contents of register into accumulator     No convention exists regarding the names for operations from registers to accumulator and from accumulator to registers. Tradition , for example, uses two instructions called load accumulator from register/memory and store accumulator to register/memory . Knuths model has many other instructions as well.          The 1945 configuration of ": null
+    },
+    {
+        "ENIAC": "Eniac"
+    },
+    {
+        " had 20 accumulators, which could operate in parallel.   Each one could store an eight decimal digit number and add to it a number it received.  Most of IBMs early binary scientific computers, beginning with the vacuum tube ": null
+    },
+    {
+        "IBM 701": "Ibm 701"
+    },
+    {
+        " in 1952, used a single 36-bit accumulator, along with a separate multiplier/quotient register to handle operations with longer results. The ": null
+    },
+    {
+        "IBM 650": "Ibm 650"
+    },
+    {
+        ", a decimal machine, had one 10 digit accumulator; the ": null
+    },
+    {
+        "IBM 7070": "Ibm 7070"
+    },
+    {
+        ", a later, transistorized decimal machine had three accumulators.     The 12-bit ": null
+    },
+    {
+        "PDP-8": "Pdp-8"
+    },
+    {
+        " was one of the first minicomputers to use accumulators, and inspired many later machines. ": null
+    },
+    {
+        "Digital Equipment Corporation": "Digital Equipment Corporation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Maynard, Massachusetts": "Maynard, Massachusetts"
+    },
+    {
+        "  , page 7: PDP-1 system block diagram accessdate2014-07-03. The PDP-1 was an 18-bit processor, and was a predecessor of ": null
+    },
+    {
+        "PDP-8": "Pdp-8"
+    },
+    {
+        " TX-0": "Tx-0"
+    },
+    {
+        " was the transistorized predecessor of ": null
+    },
+    {
+        "PDP-1": "Pdp-1"
+    },
+    {
+        " Whirlwind I": "Whirlwind I"
+    },
+    {
+        " was the vacuum tube predecessor of Tx-0 The PDP-8 had but one accumulator. The ": null
+    },
+    {
+        "HP 2100": "Hp 2100"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Data General Nova": "Data General Nova"
+    },
+    {
+        " had 2 and 4 accumulators. The Nova was created when this follow-on to the PDP-8 was rejected in favor of what would become the ": null
+    },
+    {
+        "PDP-11": "Pdp-11"
+    },
+    {
+        ". The Nova provided four accumulators, AC0-AC3, although AC2 and AC3 could also be used to provide offset addresses, tending towards more generality of usage for the registers. The ": null
+    },
+    {
+        "PDP-11": "Pdp-11"
+    },
+    {
+        " introduced a more contemporary model of general registers, numbered R0-R7 or more, adopted by most later CISC and RISC machines.     Early 4-bit and 8-bit microprocessors such as the ": null
+    },
+    {
+        "4004": "4004"
+    },
+    {
+        ", ": null
+    },
+    {
+        "8008": "8008"
+    },
+    {
+        " and numerous others, typically had single accumulators. The ": null
+    },
+    {
+        "8051": "8051"
+    },
+    {
+        " microcontroller has two, a primary accumulator and a secondary accumulator, where the second is used by instructions only when multiplying or dividing ; the former splits the 16-bit result between the two 8-bit accumulators, whereas the latter stores the quotient on the primary accumulator A and the remainder in the secondary accumulator B. As a direct descendant of the 8008, the ": null
+    },
+    {
+        "8080": "8080"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "8086": "Intel 8086"
+    },
+    {
+        ", the modern ubiquitous ": null
+    },
+    {
+        "Intel x86": "Intel X86"
+    },
+    {
+        " processors still uses the primary accumulator EAX and the secondary accumulator EDX for multiplication and division of large numbers. For instance, MUL ECX will multiply the 32-bit registers ECX and EAX and split the 64-bit result between EAX and EDX. However, MUL and DIV are special cases; other arithmetic-logical instructions may specify any of the eight registers EAX, ECX, EDX, EBX, ESP, EBP, ESI, EDI as the accumulator . This is also supported for multiply if the upper half of the result is not required. x86 is thus a fairly general register architecture, despite being based on an accumulator model.  The 64-bit extension of x86, ": null
+    },
+    {
+        "x86-64": "X86-64"
+    }
+]

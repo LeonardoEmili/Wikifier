@@ -1,0 +1,281 @@
+[
+    {
+        "The gamblers fallacy, also known as the Monte Carlo fallacy or the fallacy of the maturity of chances, is the mistaken belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future . In situations where the outcome being observed is truly random and consists of ": null
+    },
+    {
+        "independent": "Statistical Independence"
+    },
+    {
+        " trials of a ": null
+    },
+    {
+        "random process": "Random Process"
+    },
+    {
+        ", this belief is false. The ": null
+    },
+    {
+        "fallacy": "Fallacy"
+    },
+    {
+        " can arise in many situations, but is most strongly associated with ": null
+    },
+    {
+        "gambling": "Gambling"
+    },
+    {
+        ", where it is common among players.     The term Monte Carlo fallacy originates from the best known ": null
+    },
+    {
+        "example": "Gamblers Fallacymonte Carlo Casino"
+    },
+    {
+        " of the phenomenon, which occurred in the ": null
+    },
+    {
+        "Monte Carlo Casino": "Monte Carlo Casino"
+    },
+    {
+        " in 1913.              The gamblers fallacy can be illustrated by considering the repeated toss of a ": null
+    },
+    {
+        "fair coin": "Fair Coin"
+    },
+    {
+        ". The outcomes in different tosses are ": null
+    },
+    {
+        "statistically independent": "Statistically Independent"
+    },
+    {
+        " and the probability of getting heads on a single toss is  . The probability of getting two heads in two tosses is  and the probability of getting three heads in three tosses is  . In general, if A i  is the event where toss i of a fair coin comes up heads, then:   : \\Pr\\left\\prod_^n \\Pr .     If after tossing four heads in a row, the next coin toss also came up heads, it would complete a run of five successive heads. Since the probability of a run of five successive heads is  , a person might believe that the next flip would be more likely to come up tails rather than heads again. This is incorrect and is an example of the gamblers fallacy. The event 5 heads in a row and the event first 4 heads, then a tails are equally likely, each having probability . Since the first four tosses turn up heads, the probability that the next toss is a head is:   : \\Pr\\left\\Pr\\left\\frac .     While a run of five heads has a probability of  0.03125 , the misunderstanding lies in not realizing that this is the case only before the first coin is tossed. After the first four tosses, the results are no longer unknown, so their probabilities are at that point equal to 1 . The reasoning that it is more likely that a fifth toss is more likely to be tails because the previous four tosses were heads, with a run of luck in the past influencing the odds in the future, forms the basis of the fallacy.       If a fair coin is flipped 21 times, the probability of 21 heads is 1 in 2,097,152. The probability of flipping a head after having already flipped 20 heads in a row is . This is an application of ": null
+    },
+    {
+        "Bayes theorem": "Bayes Theorem"
+    },
+    {
+        ".     This can also be shown without knowing that 20 heads have occurred, and without applying Bayes theorem. Assuming a fair coin:   The probability of 20 heads, then 1 tail is 0.5 20 × 0.5 0.5 21   The probability of 20 heads, then 1 head is 0.5 20 × 0.5 0.5 21     The probability of getting 20 heads then 1 tail, and the probability of getting 20 heads then another head are both 1 in 2,097,152. When flipping a fair coin 21 times, the outcome is equally likely to be 21 heads as 20 heads and then 1 tail. These two outcomes are equally as likely as any of the other combinations that can be obtained from 21 flips of a coin. All of the 21-flip combinations will have probabilities equal to 0.5 21 , or 1 in 2,097,152. Assuming that a change in the probability will occur as a result of the outcome of prior flips is incorrect because every outcome of a 21-flip sequence is as likely as the other outcomes. In accordance with Bayes theorem, the likely outcome of each flip is the probability of the fair coin, which is .       The fallacy leads to the incorrect notion that previous failures will create an increased probability of success on subsequent attempts. For a fair 16-sided die, the probability of each outcome occurring is  . If a win is defined as rolling a 1, the probability of a 1 occurring at least once in 16 rolls is:   : 1-\\left \\,\\, 64.39\\%     The probability of a loss on the first roll is  . According to the fallacy, the player should have a higher chance of winning after one loss has occurred. The probability of at least one win is now:   : 1-\\left \\,\\, 62.02\\%     By losing one toss, the players probability of winning drops by two percentage points. With 5 losses and 11 rolls remaining, the probability of winning drops to around 0.5 . The probability of at least one win does not increase after a series of losses; indeed, the probability of success actually decreases, because there are fewer trials left in which to win. The probability of winning will eventually equal the probability of winning a single toss, which is  and occurs when only one toss is left.       After a consistent tendency towards tails, a gambler may also decide that tails has become a more likely outcome. This is a rational and Bayesian conclusion, bearing in mind the possibility that the coin may not be fair; it is not a fallacy. Believing the odds to favor tails, the gambler sees no reason to change to heads. However it is a fallacy that a sequence of trials carries a memory of past results which tend to favor or disfavor future outcomes.     The ": null
+    },
+    {
+        "inverse gamblers fallacy": "Inverse Gamblers Fallacy"
+    },
+    {
+        " described by ": null
+    },
+    {
+        "Ian Hacking": "Ian Hacking"
+    },
+    {
+        " is a situation where a gambler entering a room and seeing a person rolling a double six on a pair of dice may erroneously conclude that the person must have been rolling the dice for quite a while, as they would be unlikely to get a double six on their first attempt.       Researchers have examined whether a similar bias exists for inferences about unknown past events based upon known subsequent events, calling this the retrospective gamblers fallacy . Oppenheimer, D.M., & Monin, B. . The retrospective gambler’s fallacy: Unlikely events, constructing the past, and multiple universes. Judgment and Decision Making, vol. 4, no. 5, pp. 326-334     An example of a retrospective gamblers fallacy would be to observe multiple successive heads on a coin toss and conclude from this that the previously unknown flip was tails . Real world examples of retrospective gamblers fallacy have been argued to exist in events such as the origin of the ": null
+    },
+    {
+        "Universe": "Universe"
+    },
+    {
+        ". In his book Universes, John Leslie argues that the presence of vastly many universes very different in their characters might be our best explanation for why at least one universe has a life-permitting character . Leslie, J. . Universes. London: Routledge. ": null
+    },
+    {
+        "Daniel M. Oppenheimer": "Daniel M. Oppenheimer"
+    },
+    {
+        " and Benoît Monin argue that In other words, the best explanation for a low-probability event is that it is only one in a multiple of trials, which is the core intuition of the reverse gamblers fallacy. Philosophical arguments are ongoing about whether such arguments are or are not a fallacy, arguing that the occurrence of our universe says nothing about the existence of other universes or trials of universes.   Three studies involving Stanford University students tested the existence of a retrospective gamblers fallacy. All three studies concluded that people have a gamblers fallacy retrospectively as well as to future events. The authors of all three studies concluded their findings have significant methodological implications but may also have important theoretical implications that need investigation and research, saying thorough understanding of such reasoning processes requires that we not only examine how they influence our predictions of the future, but also our perceptions of the past.       In 1796, ": null
+    },
+    {
+        "Pierre-Simon Laplace": "Pierre-Simon Laplace"
+    },
+    {
+        " described in A Philosophical Essay on Probabilities the ways in which men calculated their probability of having sons: I have seen men, ardently desirous of having a son, who could learn only with anxiety of the births of boys in the month when they expected to become fathers. Imagining that the ratio of these births to those of girls ought to be the same at the end of each month, they judged that the boys already born would render more probable the births next of girls. The expectant fathers feared that if more sons were born in the surrounding community, then they themselves would be more likely to have a daughter. This essay by Laplace is regarded as one of the earliest descriptions of the fallacy.      After having multiple children of the same sex, some parents may believe that they are due to have a child of the opposite sex. While the ": null
+    },
+    {
+        "Trivers–Willard hypothesis": "Trivers–Willard Hypothesis"
+    },
+    {
+        " predicts that birth sex is dependent on living conditions, stating that more male children are born in good living conditions, while more female children are born in poorer living conditions, the probability of having a child of either sex is still regarded as near 0.5 .        Perhaps the most famous example of the gamblers fallacy occurred in a game of ": null
+    },
+    {
+        "roulette": "Roulette"
+    },
+    {
+        " at the ": null
+    },
+    {
+        "Monte Carlo Casino": "Monte Carlo Casino"
+    },
+    {
+        " on August 18, 1913, when the ball fell in black 26 times in a row. This was an extremely uncommon occurrence: the probability of a sequence of either red or black occurring 26 times in a row is  or around 1 in 66.6 million, assuming the mechanism is unbiased. Gamblers lost millions of francs betting against black, reasoning incorrectly that the streak was causing an imbalance in the randomness of the wheel, and that it had to be followed by a long streak of red.          The gamblers fallacy does not apply in situations where the probability of different events is not ": null
+    },
+    {
+        "independent": "Statistical Independence"
+    },
+    {
+        ". In such cases, the probability of future events can change based on the outcome of past events, such as the statistical ": null
+    },
+    {
+        "permutation": "Permutation"
+    },
+    {
+        " of events. An example is when cards are drawn from a deck without replacement. If an ace is drawn from a deck and not reinserted, the next draw is less likely to be an ace and more likely to be of another rank. The probability of drawing another ace, assuming that it was the first card drawn and that there are no jokers, has decreased from  to  , while the probability for each other rank has increased from  to  . This effect allows ": null
+    },
+    {
+        "card counting": "Card Counting"
+    },
+    {
+        " systems to work in games such as ": null
+    },
+    {
+        "blackjack": "Blackjack"
+    },
+    {
+        ".       In most illustrations of the gamblers fallacy and the reverse gamblers fallacy, the trial is assumed to be fair. In practice, this assumption may not hold. For example, if a coin is flipped 21 times, the probability of 21 heads with a fair coin is 1 in 2,097,152. Since this probability is so small, if it happens, it may well be that the coin is somehow biased towards landing on heads, or that it is being controlled by hidden magnets, or similar.  In this case, the smart bet is heads because ": null
+    },
+    {
+        "Bayesian inference": "Bayesian Inference"
+    },
+    {
+        " from the ": null
+    },
+    {
+        "empirical evidence": "Empirical Evidence"
+    },
+    {
+        " — 21 heads in a row — suggests that the coin is likely to be biased toward heads. Bayesian inference can be used to show that when the long-run proportion of different outcomes is unknown but ": null
+    },
+    {
+        "exchangeable": "Exchangeable Random Variables"
+    },
+    {
+        " and that previous observations demonstrate the likely direction of the bias, the outcome which has occurred the most in the observed data is the most likely to occur again. ONeill, B.; Puza, B.D. .  Reprinted in abridged form as:      For example, if the a priori probability of a biased coin is say 1%, and assuming that such a biased coin would come down heads say 60% of the time, then after 21 heads the probability of a biased coin has increased to about 32%.     The opening scene of the play  Rosencrantz and Guildenstern Are Dead  by ": null
+    },
+    {
+        "Tom Stoppard": "Tom Stoppard"
+    },
+    {
+        " discusses these issues as one man continually flips heads and the other considers various possible explanations.       If external factors are allowed to change the probability of the events, the gamblers fallacy may not hold. For example, a change in the game rules might favour one player over the other, improving his or her win percentage. Similarly, an inexperienced players success may decrease after opposing teams learn about and play against their weaknesses. This is another example of bias.           The gamblers fallacy arises out of a belief in a ": null
+    },
+    {
+        "law of small numbers": "Hasty Generalization"
+    },
+    {
+        ", leading to the erroneous belief that small samples must be representative of the larger population. According to the fallacy, streaks must eventually even out in order to be representative.  ": null
+    },
+    {
+        "Amos Tversky": "Amos Tversky"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Daniel Kahneman": "Daniel Kahneman"
+    },
+    {
+        " first proposed that the gamblers fallacy is a ": null
+    },
+    {
+        "cognitive bias": "Cognitive Bias"
+    },
+    {
+        " produced by a ": null
+    },
+    {
+        "psychological heuristic": "Heuristics In Judgement And Decision Making"
+    },
+    {
+        " called the ": null
+    },
+    {
+        "representativeness heuristic": "Representativeness Heuristic"
+    },
+    {
+        ", which states that people evaluate the probability of a certain event by assessing how similar it is to events they have experienced before, and how similar the events surrounding those two processes are.  According to this view, after observing a long run of red on the roulette wheel, for example, most people erroneously believe that black will result in a more representative sequence than the occurrence of an additional red , so people expect that a short run of random outcomes should share properties of a longer run, specifically in that deviations from average should balance out. When people are asked to make up a random-looking sequence of coin tosses, they tend to make sequences where the proportion of heads to tails stays closer to 0.5 in any short segment than would be predicted by chance, a phenomenon known as ": null
+    },
+    {
+        "insensitivity to sample size": "Insensitivity To Sample Size"
+    },
+    {
+        ".  Kahneman and Tversky interpret this to mean that people believe short sequences of random events should be representative of longer ones. The representativeness heuristic is also cited behind the related phenomenon of the ": null
+    },
+    {
+        "clustering illusion": "Clustering Illusion"
+    },
+    {
+        ", according to which people see streaks of random events as being non-random when such streaks are actually much more likely to occur in small samples than people expect.      The gamblers fallacy can also be attributed to the mistaken belief that gambling, or even chance itself, is a fair process that can correct itself in the event of streaks, known as the ": null
+    },
+    {
+        "just-world hypothesis": "Just-World Hypothesis"
+    },
+    {
+        ".  Other researchers believe that belief in the fallacy may be the result of a mistaken belief in an ": null
+    },
+    {
+        "internal locus of control": "Internal Locus Of Control"
+    },
+    {
+        ". When a person believes that gambling outcomes are the result of their own skill, they may be more susceptible to the gamblers fallacy because they reject the idea that chance could overcome skill or talent.       Some researchers believe that it is possible to define two types of gamblers fallacy: type  one and type  two. Type  one is the classic gamblers fallacy, where individuals believe that a particular outcome is due after a long streak of another outcome. Type  two gamblers fallacy, as defined by Gideon Keren and Charles Lewis, occurs when a gambler underestimates how many observations are needed to detect a favorable outcome, such as watching a roulette wheel for a length of time and then betting on the numbers that appear most often. For events with a high degree of randomness, detecting a bias that will lead to a favorable outcome takes an impractically large amount of time and is very difficult, if not impossible, to do.  The two types differ in that type  one wrongly assumes that gambling conditions are fair and perfect, while type  two assumes that the conditions are biased, and that this bias can be detected after a certain amount of time.     Another variety, known as the retrospective gamblers fallacy, occurs when individuals judge that a seemingly rare event must come from a longer sequence than a more common event does. The belief that an imaginary sequence of die rolls is more than three times as long when a set of three sixes is observed as opposed to when there are only two sixes. This effect can be observed in isolated instances, or even sequentially. Another example would involve hearing that a teenager has ": null
+    },
+    {
+        "unprotected sex": "Unprotected Sex"
+    },
+    {
+        " and becomes pregnant on a given night, and concluding that she has been engaging in unprotected sex for longer than if we hear she had unprotected sex but did not become pregnant, when the probability of becoming pregnant as a result of each intercourse is independent of the amount of prior intercourse.        Another psychological perspective states that gamblers fallacy can be seen as the counterpart to basketballs ": null
+    },
+    {
+        "hot-hand fallacy": "Hot-Hand Fallacy"
+    },
+    {
+        ", in which people tend to predict the same outcome as the previous event - known as positive recency - resulting in a belief that a high scorer will continue to score. In the gamblers fallacy, people predict the opposite outcome of the previous event - negative recency - believing that since the roulette wheel has landed on black on the previous six occasions, it is due to land on red the next. Ayton and Fischer have theorized that people display positive recency for the hot-hand fallacy because the fallacy deals with human performance, and that people do not believe that an inanimate object can become hot.  Human performance is not perceived as random, and people are more likely to continue streaks when they believe that the process generating the results is nonrandom.  When a person exhibits the gamblers fallacy, they are more likely to exhibit the hot-hand fallacy as well, suggesting that one construct is responsible for the two fallacies.      The difference between the two fallacies is also found in economic decision-making. A study by Huber, Kirchler, and Stockl in 2010 examined how the hot hand and the gamblers fallacy are exhibited in the financial market. The researchers gave their participants a choice: they could either bet on the outcome of a series of coin tosses, use an expert opinion to sway their decision, or choose a risk-free alternative instead for a smaller financial reward. Participants turned to the expert opinion to make their decision 24% of the time based on their past experience of success, which exemplifies the hot-hand. If the expert was correct, 78% of the participants chose the experts opinion again, as opposed to 57% doing so when the expert was wrong. The participants also exhibited the gamblers fallacy, with their selection of either heads or tails decreasing after noticing a streak of either outcome. This experiment helped bolster Ayton and Fischers theory that people put more faith in human performance than they do in seemingly random processes.        While the ": null
+    },
+    {
+        "representativeness heuristic": "Representativeness Heuristic"
+    },
+    {
+        " and other cognitive biases are the most commonly cited cause of the gamblers fallacy, research suggests that there may also be a neurological component. ": null
+    },
+    {
+        "Functional magnetic resonance imaging": "Functional Magnetic Resonance Imaging"
+    },
+    {
+        " has shown that after losing a bet or gamble, known as riskloss, the frontoparietal network of the brain is activated, resulting in more risk-taking behavior. In contrast, there is decreased activity in the ": null
+    },
+    {
+        "amygdala": "Amygdala"
+    },
+    {
+        ", ": null
+    },
+    {
+        "caudate": "Caudate Nucleus"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "ventral striatum": "Ventral Striatum"
+    },
+    {
+        " after a riskloss. Activation in the amygdala is negatively correlated with gamblers fallacy, so that the more activity exhibited in the amygdala, the less likely an individual is to fall prey to the gamblers fallacy. These results suggest that gamblers fallacy relies more on the prefrontal cortex, which is responsible for executive, goal-directed processes, and less on the brain areas that control ": null
+    },
+    {
+        "affective": "Affect"
+    },
+    {
+        " decision-making.     The desire to continue gambling or betting is controlled by the ": null
+    },
+    {
+        "striatum": "Striatum"
+    },
+    {
+        ", which supports a choice-outcome contingency learning method. The striatum processes the errors in prediction and the behavior changes accordingly. After a win, the positive behavior is reinforced and after a loss, the behavior is conditioned to be avoided. In individuals exhibiting the gamblers fallacy, this choice-outcome contingency method is impaired, and they continue to make risks after a series of losses.        The gamblers fallacy is a deep-seated cognitive bias and can be very hard to overcome. Educating individuals about the nature of randomness has not always proven effective in reducing or eliminating any manifestation of the fallacy. Participants in a study by Beach and Swensson in 1967 were shown a shuffled deck of index cards with shapes on them, and were instructed to guess which shape would come next in a sequence. The experimental group of participants was informed about the nature and existence of the gamblers fallacy, and were explicitly instructed not to rely on run dependency to make their guesses. The control group was not given this information. The response styles of the two groups were similar, indicating that the experimental group still based their choices on the length of the run sequence. This led to the conclusion that instructing individuals about randomness is not sufficient in lessening the gamblers fallacy.      An individuals susceptibility to the gamblers fallacy may decrease with age. A study by Fischbein and Schnarch in 1997 administered a questionnaire to five groups: students in grades 5, 7, 9, 11, and college students specializing in teaching mathematics. None of the participants had received any prior education regarding probability. The question asked was: Ronni flipped a coin three times and in all cases heads came up. Ronni intends to flip the coin again. What is the chance of getting heads the fourth time? The results indicated that as the students got older, the less likely they were to answer with smaller than the chance of getting tails , which would indicate a negative recency effect. 35% of the 5th graders, 35% of the 7th graders, and 20% of the 9th graders exhibited the negative recency effect. Only 10% of the 11th graders answered this way, and none of the college students did. Fischbein and Schnarch theorized that an individuals tendency to rely on the ": null
+    },
+    {
+        "representativeness heuristic": "Representativeness Heuristic"
+    },
+    {
+        " and other cognitive biases can be overcome with age.      Another possible solution comes from Roney and Trick, ": null
+    },
+    {
+        "Gestalt": "Gestalt Psychology"
+    },
+    {
+        " psychologists who suggest that the fallacy may be eliminated as a result of grouping. When a future event such as a coin toss is described as part of a sequence, no matter how arbitrarily, a person will automatically consider the event as it relates to the past events, resulting in the gamblers fallacy. When a person considers every event as independent, the fallacy can be greatly reduced.      Roney and Trick told participants in their experiment that they were betting on either two blocks of six coin tosses, or on two blocks of seven coin tosses. The fourth, fifth, and sixth tosses all had the same outcome, either three heads or three tails. The seventh toss was grouped with either the end of one block, or the beginning of the next block. Participants exhibited the strongest gamblers fallacy when the seventh trial was part of the first block, directly after the sequence of three heads or tails. The researchers pointed out that the participants that did not show the gamblers fallacy showed less confidence in their bets and bet fewer times than the participants who picked with the gamblers fallacy. When the seventh trial was grouped with the second block, and was perceived as not being part of a streak, the gamblers fallacy did not occur.     Roney and Trick argued that instead of teaching individuals about the nature of randomness, the fallacy could be avoided by training people to treat each event as if it is a beginning and not a continuation of previous events. They suggested that this would prevent people from gambling when they are losing, in the mistaken hope that their chances of winning are due to increase based on an interaction with previous events.       Studies have found that asylum judges, loan officers, baseball umpires and lotto players employ the gamblers fallacy consistently in their decision-making.  ": null
+    }
+]

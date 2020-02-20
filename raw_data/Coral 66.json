@@ -1,0 +1,230 @@
+[
+    {
+        "        CORAL  is a ": null
+    },
+    {
+        "programming language": "Programming Language"
+    },
+    {
+        " originally developed in 1964 at the ": null
+    },
+    {
+        "Royal Radar Establishment": "Royal Radar Establishment"
+    },
+    {
+        " , ": null
+    },
+    {
+        "Malvern": "Malvern, Worcestershire"
+    },
+    {
+        ", ": null
+    },
+    {
+        "UK": "United Kingdom"
+    },
+    {
+        ". It was influenced by ": null
+    },
+    {
+        "ALGOL": "Algol"
+    },
+    {
+        " and ": null
+    },
+    {
+        "JOVIAL": "Jovial"
+    },
+    {
+        " but is not a ": null
+    },
+    {
+        "subset": "Subset"
+    },
+    {
+        " of either. Coral 66 was subsequently developed by I. F. Currie and M. Griffiths under the auspices of IECCA . Its official definition,        edited by ": null
+    },
+    {
+        "Woodward": "Philip Woodward"
+    },
+    {
+        ", Wetherall and Gorman, was first published in 1970.         Coral 66 is a general-purpose programming language based on ": null
+    },
+    {
+        "ALGOL 60": "Algol 60"
+    },
+    {
+        ", with some features from Coral 64, ": null
+    },
+    {
+        "JOVIAL": "Jovial"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "FORTRAN": "Fortran"
+    },
+    {
+        ". It includes structured record types  and supports the packing of data into limited storage . Like ": null
+    },
+    {
+        "Edinburgh IMP": "Edinburgh Imp"
+    },
+    {
+        " it allows embedded assembler, and also offers good run-time checking and diagnostics. It is specifically intended for ": null
+    },
+    {
+        "real-time": "Real-Time Computing"
+    },
+    {
+        " and embedded applications and for use on computers with limited processing power, including those limited to ": null
+    },
+    {
+        "fixed point arithmetic": "Fixed Point Arithmetic"
+    },
+    {
+        " and those without support for dynamic storage allocation.     The language was an inter-service standard for British military programming, and was also widely adopted for civil purposes in the British control and automation industry. It was used to write software for both the ": null
+    },
+    {
+        "Ferranti": "Ferranti"
+    },
+    {
+        "  and ": null
+    },
+    {
+        "GEC": "The General Electric Company"
+    },
+    {
+        " computers from 1971 onwards. Implementations also exist for the Interdata 8/32, ": null
+    },
+    {
+        "PDP-11": "Pdp-11"
+    },
+    {
+        ", ": null
+    },
+    {
+        "VAX": "Vax"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Alpha": "Dec Alpha"
+    },
+    {
+        " platforms and ": null
+    },
+    {
+        "HP Integrity": "Hp Integrity"
+    },
+    {
+        " servers; for the ": null
+    },
+    {
+        "Honeywell": "Honeywell"
+    },
+    {
+        ", and for the ": null
+    },
+    {
+        "Computer Technology Limited": "Computer Technology Limited"
+    },
+    {
+        " Modular-1": "Information Technology Limitedthe Modular One"
+    },
+    {
+        "; as well as for ": null
+    },
+    {
+        "SPARC": "Sparc"
+    },
+    {
+        " running ": null
+    },
+    {
+        "Solaris": "Solaris"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Intel": "Intel"
+    },
+    {
+        " running ": null
+    },
+    {
+        "Linux": "Linux"
+    },
+    {
+        ".     A variant of Coral 66 was developed during the late 1970s/early 1980s by the British ": null
+    },
+    {
+        "GPO": "General Post Office"
+    },
+    {
+        ", in conjunction with ": null
+    },
+    {
+        "GEC": "General Electric Company Plc"
+    },
+    {
+        ", STC and ": null
+    },
+    {
+        "Plessey": "Plessey"
+    },
+    {
+        ", for use on the ": null
+    },
+    {
+        "System X": "System X"
+    },
+    {
+        " digital telephone exchange control computers, known as PO-CORAL. This was later renamed BT-CORAL when ": null
+    },
+    {
+        "British Telecom": "British Telecom"
+    },
+    {
+        " was spun off from the Post Office. Unique features of this language were the focus on real-time execution, message processing, limits on statement execution between waiting for input, and a prohibition on recursion to remove the need for a stack.     As Coral was aimed at a variety of real-time work, rather than general office DP, there was no standardised equivalent to a ": null
+    },
+    {
+        "stdio": "Stdio"
+    },
+    {
+        " library": "Library"
+    },
+    {
+        ". IECCA recommended a primitive I/O package to accompany any compiler . Most implementers avoided this by producing Coral interfaces to existing Fortran and, later, C libraries.     Perhaps CORALs most significant contribution to computing was the enforcement of quality control in commercial ": null
+    },
+    {
+        "compiler": "Compiler"
+    },
+    {
+        "s.  To have a CORAL compiler approved by IECCA, and thus allowing a compiler to be marketed as a CORAL 66 compiler, the candidate compiler had to compile and execute an official suite of 25 test programs and 6 benchmark programs. The process was part of the ": null
+    },
+    {
+        "BS": "British Standard"
+    },
+    {
+        "  5905 approval process. This methodology was observed and adapted later by the ": null
+    },
+    {
+        "United States Department of Defense": "United States Department Of Defense"
+    },
+    {
+        " for the official certification of ": null
+    },
+    {
+        "Ada": "Ada"
+    },
+    {
+        " compilers.     Source code for a Coral 66 compiler  has been recovered and the Official Definition of Coral 66 document by ": null
+    },
+    {
+        "HMSO": "Office Of Public Sector Information"
+    }
+]

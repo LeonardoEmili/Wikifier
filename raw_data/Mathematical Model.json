@@ -1,0 +1,848 @@
+[
+    {
+        "      A mathematical model is a description of a ": null
+    },
+    {
+        "system": "System"
+    },
+    {
+        " using ": null
+    },
+    {
+        "mathematical": "Mathematics"
+    },
+    {
+        " concepts and ": null
+    },
+    {
+        "language": "Language Of Mathematics"
+    },
+    {
+        ". The process of developing a mathematical model is termed mathematical modeling. Mathematical models are used in the ": null
+    },
+    {
+        "natural sciences": "Natural Science"
+    },
+    {
+        "  and ": null
+    },
+    {
+        "engineering": "Engineering"
+    },
+    {
+        " disciplines , as well as in the ": null
+    },
+    {
+        "social sciences": "Social Sciences"
+    },
+    {
+        " .     A model may help to explain a system and to study the effects of different components, and to make predictions about behaviour.         Mathematical models can take many forms, including ": null
+    },
+    {
+        "dynamical systems": "Dynamical Systems"
+    },
+    {
+        ", ": null
+    },
+    {
+        "statistical model": "Statistical Model"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "differential equations": "Differential Equations"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "game theoretic models": "Game Theory"
+    },
+    {
+        ". These and other types of models can overlap, with a given model involving a variety of abstract structures. In general, mathematical models may include ": null
+    },
+    {
+        "logical models": "Model Theory"
+    },
+    {
+        ". In many cases, the quality of a scientific field depends on how well the mathematical models developed on the theoretical side agree with results of repeatable experiments. Lack of agreement between theoretical mathematical models and experimental measurements often leads to important advances as better theories are developed.     In the ": null
+    },
+    {
+        "physical sciences": "Physical Sciences"
+    },
+    {
+        ", a traditional mathematical model contains most of the following elements:   ": null
+    },
+    {
+        "Governing equations": "Governing Equation"
+    },
+    {
+        "  Supplementary sub-models   ": null
+    },
+    {
+        "Defining equations": "Defining Equation"
+    },
+    {
+        "Constitutive equations": "Constitutive Equation"
+    },
+    {
+        "  Assumptions and constraints   ": null
+    },
+    {
+        "Initial": "Initial Condition"
+    },
+    {
+        " and ": null
+    },
+    {
+        "boundary conditions": "Boundary Condition"
+    },
+    {
+        "  Classical constraints": "Constraint"
+    },
+    {
+        " and ": null
+    },
+    {
+        "kinematic equations": "Kinematics"
+    },
+    {
+        "       Mathematical models are usually composed of relationships and  variables . Relationships can be described by  operators , such as algebraic operators, functions, differential operators, etc. Variables are abstractions of system ": null
+    },
+    {
+        "parameters": "Parameter"
+    },
+    {
+        " of interest, that can be ": null
+    },
+    {
+        "quantified": "Quantification"
+    },
+    {
+        ". Several classification criteria can be used for mathematical models according to their structure:   Linear vs. nonlinear: If all the operators in a mathematical model exhibit ": null
+    },
+    {
+        "linear": "Linear"
+    },
+    {
+        "ity, the resulting mathematical model is defined as linear. A model is considered to be nonlinear otherwise. The definition of linearity and nonlinearity is dependent on context, and linear models may have nonlinear expressions in them. For example, in a ": null
+    },
+    {
+        "statistical linear model": "Linear Model"
+    },
+    {
+        ", it is assumed that a relationship is linear in the parameters, but it may be nonlinear in the predictor variables. Similarly, a differential equation is said to be linear if it can be written with linear ": null
+    },
+    {
+        "differential operator": "Differential Operator"
+    },
+    {
+        "s, but it can still have nonlinear expressions in it. In a ": null
+    },
+    {
+        "mathematical programming": "Optimization"
+    },
+    {
+        " model, if the objective functions and constraints are represented entirely by ": null
+    },
+    {
+        "linear equation": "Linear Equation"
+    },
+    {
+        "s, then the model is regarded as a linear model. If one or more of the objective functions or constraints are represented with a ": null
+    },
+    {
+        "nonlinear": "Nonlinearity"
+    },
+    {
+        " equation, then the model is known as a nonlinear model. Nonlinearity, even in fairly simple systems, is often associated with phenomena such as ": null
+    },
+    {
+        "chaos": "Chaos Theory"
+    },
+    {
+        " and ": null
+    },
+    {
+        "irreversibility": "Irreversibility"
+    },
+    {
+        ". Although there are exceptions, nonlinear systems and models tend to be more difficult to study than linear ones. A common approach to nonlinear problems is ": null
+    },
+    {
+        "linearization": "Linearization"
+    },
+    {
+        ", but this can be problematic if one is trying to study aspects such as irreversibility, which are strongly tied to nonlinearity.   Static vs. dynamic: A dynamic model accounts for time-dependent changes in the state of the system, while a static model calculates the system in equilibrium, and thus is time-invariant. Dynamic models typically are represented by ": null
+    },
+    {
+        "differential equations": "Differential Equation"
+    },
+    {
+        "or ": null
+    },
+    {
+        "difference equation": "Difference Equation"
+    },
+    {
+        "s.   Explicit vs. implicit: If all of the input parameters of the overall model are known, and the output parameters can be calculated by a finite series of computations, the model is said to be explicit. But sometimes it is the output parameters which are known, and the corresponding inputs must be solved for by an iterative procedure, such as ": null
+    },
+    {
+        "Newtons method": "Newtons Method"
+    },
+    {
+        " or ": null
+    },
+    {
+        "Broydens method": "Broydens Method"
+    },
+    {
+        " . In such a case the model is said to be implicit. For example, a ": null
+    },
+    {
+        "jet engines": "Jet Engine"
+    },
+    {
+        "physical properties such as turbine and nozzle throat areas can be explicitly calculated given a design ": null
+    },
+    {
+        "thermodynamic cycle": "Thermodynamic Cycle"
+    },
+    {
+        " at a specific flight condition and power setting, but the engines operating cycles at other flight conditions and power settings cannot be explicitly calculated from the constant physical properties.   Discrete vs. continuous: A ": null
+    },
+    {
+        "discrete model": "Discrete Modeling"
+    },
+    {
+        " treats objects as discrete, such as the particles in a ": null
+    },
+    {
+        "molecular model": "Molecular Model"
+    },
+    {
+        " or the states in a ": null
+    },
+    {
+        "statistical model": "Statistical Model"
+    },
+    {
+        "; while a ": null
+    },
+    {
+        "continuous model": "Continuous Model"
+    },
+    {
+        " represents the objects in a continuous manner, such as the velocity field of fluid in pipe flows, temperatures and stresses in a solid, and electric field that applies continuously over the entire model due to a point charge.   Deterministic vs. probabilistic : A ": null
+    },
+    {
+        "deterministic": "Deterministic System"
+    },
+    {
+        " model is one in which every set of variable states is uniquely determined by parameters in the model and by sets of previous states of these variables; therefore, a deterministic model always performs the same way for a given set of initial conditions. Conversely, in a stochastic model—usually called a ": null
+    },
+    {
+        "statistical model": "Statistical Model"
+    },
+    {
+        " —randomness is present, and variable states are not described by unique values, but rather by ": null
+    },
+    {
+        "probability": "Probability"
+    },
+    {
+        " distributions.   Deductive, inductive, or floating: A deductive model is a logical structure based on a theory. An inductive model arises from empirical findings and generalization from them. The floating model rests on neither theory nor observation, but is merely the invocation of expected structure. Application of mathematics in social sciences outside of economics has been criticized for unfounded models.  Application of ": null
+    },
+    {
+        "catastrophe theory": "Catastrophe Theory"
+    },
+    {
+        " in science has been characterized as a floating model.        Mathematical models are of great importance in the natural sciences, particularly in ": null
+    },
+    {
+        "physics": "Physics"
+    },
+    {
+        ". Physical ": null
+    },
+    {
+        "theories": "Theory"
+    },
+    {
+        " are almost invariably expressed using mathematical models.     Throughout history, more and more accurate mathematical models have been developed. ": null
+    },
+    {
+        "Newtons laws": "Newtons Laws Of Motion"
+    },
+    {
+        " accurately describe many everyday phenomena, but at certain limits ": null
+    },
+    {
+        "theory of relativity": "Theory Of Relativity"
+    },
+    {
+        " and ": null
+    },
+    {
+        "quantum mechanics": "Quantum Mechanics"
+    },
+    {
+        " must be used. Though even these theories cant model or explain all phenomena themselves or together, such as ": null
+    },
+    {
+        "black holes": "Black Holes"
+    },
+    {
+        ". . It is possible to obtain the less accurate models in appropriate limits, for example relativistic mechanics reduces to Newtonian mechanics at speeds much less than the ": null
+    },
+    {
+        "speed of light": "Speed Of Light"
+    },
+    {
+        ". Quantum mechanics reduces to classical physics when the quantum numbers are high. For example, the ": null
+    },
+    {
+        "de Broglie wavelength": "De Broglie Wavelength"
+    },
+    {
+        " of a tennis ball is insignificantly small, so classical physics is a good approximation to use in this case.     It is common to use idealized models in physics to simplify things. Massless ropes, point particles, ": null
+    },
+    {
+        "ideal gases": "Ideal Gases"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "particle in a box": "Particle In A Box"
+    },
+    {
+        " are among the many simplified models used in physics. The laws of physics are represented with simple equations such as Newtons laws, ": null
+    },
+    {
+        "Maxwells equations": "Maxwells Equations"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Schrödinger equation": "Schrödinger Equation"
+    },
+    {
+        ". These laws are a basis for making mathematical models of real situations. Many real situations are very complex and thus modeled approximate on a computer, a model that is computationally feasible to compute is made from the basic laws or from approximate models made from the basic laws. For example, molecules can be modeled by ": null
+    },
+    {
+        "molecular orbital": "Molecular Orbital"
+    },
+    {
+        " models that are approximate solutions to the Schrödinger equation. In ": null
+    },
+    {
+        "engineering": "Engineering"
+    },
+    {
+        ", physics models are often made by mathematical methods such as ": null
+    },
+    {
+        "finite element analysis": "Finite Element Analysis"
+    },
+    {
+        ".     Different mathematical models use different geometries that are not necessarily accurate descriptions of the geometry of the universe. ": null
+    },
+    {
+        "Euclidean geometry": "Euclidean Geometry"
+    },
+    {
+        " is much used in classical physics, while ": null
+    },
+    {
+        "special relativity": "Special Relativity"
+    },
+    {
+        " and ": null
+    },
+    {
+        "general relativity": "General Relativity"
+    },
+    {
+        " are examples of theories that use ": null
+    },
+    {
+        "geometries": "Geometry"
+    },
+    {
+        " which are not Euclidean.       Since ": null
+    },
+    {
+        "prehistorical times": "Prehistory"
+    },
+    {
+        " simple models such as ": null
+    },
+    {
+        "maps": "Map"
+    },
+    {
+        "and ": null
+    },
+    {
+        "diagrams": "Mathematical Diagram"
+    },
+    {
+        " have been used.     Often when engineers analyze a system to be controlled or optimized, they use a mathematical model. In analysis, engineers can build a descriptive model of the system as a hypothesis of how the system could work, or try to estimate how an unforeseeable event could affect the system. Similarly, in control of a system, engineers can try out different control approaches in ": null
+    },
+    {
+        "simulation": "Simulation"
+    },
+    {
+        "s.     A mathematical model usually describes a system by a ": null
+    },
+    {
+        "set": "Set"
+    },
+    {
+        " of variables and a set of equations that establish relationships between the variables. Variables may be of many types; ": null
+    },
+    {
+        "real": "Real Number"
+    },
+    {
+        " or ": null
+    },
+    {
+        "integer": "Integer"
+    },
+    {
+        " numbers, ": null
+    },
+    {
+        "boolean": "Boolean Data Type"
+    },
+    {
+        " values or ": null
+    },
+    {
+        "strings": "String"
+    },
+    {
+        ", for example. The variables represent some properties of the system, for example, measured system outputs often in the form of ": null
+    },
+    {
+        "signals": "Signal"
+    },
+    {
+        ", ": null
+    },
+    {
+        "timing data": "Chronometry"
+    },
+    {
+        ", counters, and event occurrence . The actual model is the set of functions that describe the relations between the different variables.       In ": null
+    },
+    {
+        "business": "Business"
+    },
+    {
+        " and ": null
+    },
+    {
+        "engineering": "Engineering"
+    },
+    {
+        ", mathematical models may be used to maximize a certain output. The system under consideration will require certain inputs. The system relating inputs to outputs depends on other variables too: ": null
+    },
+    {
+        "decision variables": "Decision Theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "state variable": "State Variable"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "exogenous": "Exogeny"
+    },
+    {
+        " variables, and ": null
+    },
+    {
+        "random variable": "Random Variable"
+    },
+    {
+        "s.     Decision variables are sometimes known as independent variables. Exogenous variables are sometimes known as ": null
+    },
+    {
+        "parameters": "Parameter"
+    },
+    {
+        "or ": null
+    },
+    {
+        "constant": "Constant"
+    },
+    {
+        "s.   The variables are not independent of each other as the state variables are dependent on the decision, input, random, and exogenous variables. Furthermore, the output variables are dependent on the state of the system .     ": null
+    },
+    {
+        "Objectives": "Goal"
+    },
+    {
+        "and ": null
+    },
+    {
+        "constraints": "Constraint"
+    },
+    {
+        "of the system and its users can be represented as ": null
+    },
+    {
+        "functions": "Function"
+    },
+    {
+        "of the output variables or state variables. The ": null
+    },
+    {
+        "objective functions": "Objective Function"
+    },
+    {
+        "will depend on the perspective of the models user. Depending on the context, an objective function is also known as an index of performance, as it is some measure of interest to the user. Although there is no limit to the number of objective functions and constraints a model can have, using or optimizing the model becomes more involved as the number increases.     For example, ": null
+    },
+    {
+        "economists": "Economist"
+    },
+    {
+        "often apply ": null
+    },
+    {
+        "linear algebra": "Linear Algebra"
+    },
+    {
+        " when using ": null
+    },
+    {
+        "input-output model": "Input-Output Model"
+    },
+    {
+        "s. Complicated mathematical models that have many variables may be consolidated by use of ": null
+    },
+    {
+        "vectors": "Vector Space"
+    },
+    {
+        " where one symbol represents several variables.            Mathematical modeling problems are often classified into ": null
+    },
+    {
+        "black box": "Black Box"
+    },
+    {
+        " or ": null
+    },
+    {
+        "white box": "White Box"
+    },
+    {
+        " models, according to how much ": null
+    },
+    {
+        "a priori": "A Priori"
+    },
+    {
+        " information on the system is available. A black-box model is a system of which there is no a priori information available. A white-box model is a system where all necessary information is available. Practically all systems are somewhere between the black-box and white-box models, so this concept is useful only as an intuitive guide for deciding which approach to take.     Usually it is preferable to use as much a priori information as possible to make the model more accurate. Therefore, the white-box models are usually considered easier, because if you have used the information correctly, then the model will behave correctly. Often the a priori information comes in forms of knowing the type of functions relating different variables. For example, if we make a model of how a medicine works in a human system, we know that usually the amount of medicine in the blood is an ": null
+    },
+    {
+        "exponentially decaying": "Exponential Decay"
+    },
+    {
+        " function. But we are still left with several unknown parameters; how rapidly does the medicine amount decay, and what is the initial amount of medicine in blood? This example is therefore not a completely white-box model. These parameters have to be estimated through some means before one can use the model.     In black-box models one tries to estimate both the functional form of relations between variables and the numerical parameters in those functions. Using a priori information we could end up, for example, with a set of functions that probably could describe the system adequately. If there is no a priori information we would try to use functions as general as possible to cover all different models. An often used approach for black-box models are ": null
+    },
+    {
+        "neural networks": "Artificial Neural Network"
+    },
+    {
+        " which usually do not make assumptions about incoming data. Alternatively the NARMAX algorithms which were developed as part of ": null
+    },
+    {
+        "nonlinear system identification": "Nonlinear System Identification"
+    },
+    {
+        " Billings S.A. , Nonlinear System Identification: NARMAX Methods in the Time, Frequency, and Spatio-Temporal Domains, Wiley. can be used to select the model terms, determine the model structure, and estimate the unknown parameters in the presence of correlated and nonlinear noise. The advantage of NARMAX models compared to neural networks is that NARMAX produces models that can be written down and related to the underlying process, whereas neural networks produce an approximation that is opaque.       Sometimes it is useful to incorporate subjective information into a mathematical model. This can be done based on ": null
+    },
+    {
+        "intuition": "Intuition"
+    },
+    {
+        ", ": null
+    },
+    {
+        "experience": "Experience"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "expert opinion": "Expert Opinion"
+    },
+    {
+        ", or based on convenience of mathematical form. ": null
+    },
+    {
+        "Bayesian statistics": "Bayesian Statistics"
+    },
+    {
+        " provides a theoretical framework for incorporating such subjectivity into a rigorous analysis: we specify a ": null
+    },
+    {
+        "prior probability distribution": "Prior Probability Distribution"
+    },
+    {
+        " , and then update this distribution based on empirical data.     An example of when such approach would be necessary is a situation in which an experimenter bends a coin slightly and tosses it once, recording whether it comes up heads, and is then given the task of predicting the probability that the next flip comes up heads. After bending the coin, the true probability that the coin will come up heads is unknown; so the experimenter would need to make a decision about what prior distribution to use. Incorporation of such subjective information might be important to get an accurate estimate of the probability.       In general, model complexity involves a trade-off between simplicity and accuracy of the model. ": null
+    },
+    {
+        "Occams razor": "Occams Razor"
+    },
+    {
+        " is a principle particularly relevant to modeling, its essential idea being that among models with roughly equal predictive power, the simplest one is the most desirable. While added complexity usually improves the realism of a model, it can make the model difficult to understand and analyze, and can also pose computational problems, including ": null
+    },
+    {
+        "numerical instability": "Numerical Instability"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Thomas Kuhn": "Thomas Kuhn"
+    },
+    {
+        " argues that as science progresses, explanations tend to become more complex before a ": null
+    },
+    {
+        "paradigm shift": "Paradigm Shift"
+    },
+    {
+        " offers radical simplification.      For example, when modeling the flight of an aircraft, we could embed each mechanical part of the aircraft into our model and would thus acquire an almost white-box model of the system. However, the computational cost of adding such a huge amount of detail would effectively inhibit the usage of such a model. Additionally, the uncertainty would increase due to an overly complex system, because each separate part induces some amount of variance into the model. It is therefore usually appropriate to make some approximations to reduce the model to a sensible size. Engineers often can accept some approximations in order to get a more robust and simple model. For example, ": null
+    },
+    {
+        "Newtons": "Isaac Newton"
+    },
+    {
+        " classical mechanics": "Classical Mechanics"
+    },
+    {
+        " is an approximated model of the real world. Still, Newtons model is quite sufficient for most ordinary-life situations, that is, as long as particle speeds are well below the ": null
+    },
+    {
+        "speed of light": "Speed Of Light"
+    },
+    {
+        ", and we study macro-particles only.       Any model which is not pure white-box contains some ": null
+    },
+    {
+        "parameters": "Parameter"
+    },
+    {
+        "that can be used to fit the model to the system it is intended to describe. If the modeling is done by an ": null
+    },
+    {
+        "artificial neural network": "Artificial Neural Network"
+    },
+    {
+        " or other ": null
+    },
+    {
+        "machine learning": "Machine Learning"
+    },
+    {
+        ", the optimization of parameters is called training, while the optimization of model hyperparameters is called tuning and often uses ": null
+    },
+    {
+        "cross-validation": "Cross-Validation"
+    },
+    {
+        ".  In more conventional modeling through explicitly given mathematical functions, parameters are often determined by  curve fitting .       A crucial part of the modeling process is the evaluation of whether or not a given mathematical model describes a system accurately. This question can be difficult to answer as it involves several different types of evaluation.       Usually the easiest part of model evaluation is checking whether a model fits experimental measurements or other empirical data. In models with parameters, a common approach to test this fit is to split the data into two disjoint subsets: training data and verification data. The training data are used to estimate the model parameters. An accurate model will closely match the verification data even though these data were not used to set the models parameters. This practice is referred to as ": null
+    },
+    {
+        "cross-validation": "Cross-Validation"
+    },
+    {
+        " in statistics.     Defining a ": null
+    },
+    {
+        "metric": "Metric"
+    },
+    {
+        " to measure distances between observed and predicted data is a useful tool of assessing model fit. In statistics, decision theory, and some ": null
+    },
+    {
+        "economic model": "Economic Model"
+    },
+    {
+        "s, a ": null
+    },
+    {
+        "loss function": "Loss Function"
+    },
+    {
+        " plays a similar role.     While it is rather straightforward to test the appropriateness of parameters, it can be more difficult to test the validity of the general mathematical form of a model. In general, more mathematical tools have been developed to test the fit of ": null
+    },
+    {
+        "statistical models": "Statistical Model"
+    },
+    {
+        "than models involving ": null
+    },
+    {
+        "differential equations": "Differential Equations"
+    },
+    {
+        ". Tools from ": null
+    },
+    {
+        "non-parametric statistics": "Non-Parametric Statistics"
+    },
+    {
+        " can sometimes be used to evaluate how well the data fit a known distribution or to come up with a general model that makes only minimal assumptions about the models mathematical form.       Assessing the scope of a model, that is, determining what situations the model is applicable to, can be less straightforward. If the model was constructed based on a set of data, one must determine for which systems or situations the known data is a typical set of data.     The question of whether the model describes well the properties of the system between data points is called ": null
+    },
+    {
+        "interpolation": "Interpolation"
+    },
+    {
+        ", and the same question for events or data points outside the observed data is called ": null
+    },
+    {
+        "extrapolation": "Extrapolation"
+    },
+    {
+        ".     As an example of the typical limitations of the scope of a model, in evaluating Newtonian ": null
+    },
+    {
+        "classical mechanics": "Classical Mechanics"
+    },
+    {
+        ", we can note that Newton made his measurements without advanced equipment, so he could not measure properties of particles travelling at speeds close to the speed of light. Likewise, he did not measure the movements of molecules and other small particles, but macro particles only. It is then not surprising that his model does not extrapolate well into these domains, even though his model is quite sufficient for ordinary life physics.       Many types of modeling implicitly involve claims about ": null
+    },
+    {
+        "causality": "Causality"
+    },
+    {
+        ". This is usually true of models involving differential equations. As the purpose of modeling is to increase our understanding of the world, the validity of a model rests not only on its fit to empirical observations, but also on its ability to extrapolate to situations or data beyond those originally described in the model. One can think of this as the differentiation between qualitative and quantitative predictions. One can also argue that a model is worthless unless it provides some insight which goes beyond what is already known from direct investigation of the phenomenon being studied.     An example of such criticism is the argument that the mathematical models of ": null
+    },
+    {
+        "optimal foraging theory": "Optimal Foraging Theory"
+    },
+    {
+        " do not offer insight that goes beyond the common-sense conclusions of ": null
+    },
+    {
+        "evolution": "Evolution"
+    },
+    {
+        " and other basic principles of ecology.        One of the popular examples in ": null
+    },
+    {
+        "computer science": "Computer Science"
+    },
+    {
+        " is the mathematical models of various machines, an example is the ": null
+    },
+    {
+        "deterministic finite automaton": "Deterministic Finite Automaton"
+    },
+    {
+        " which is defined as an abstract mathematical concept, but due to the deterministic nature of a DFA, it is implementable in hardware and software for solving various specific problems. For example, the following is a DFA M with a binary alphabet, which requires that the input contains an even number of 0s.        M  where   Q ,   Σ ,   q 0  S 1 ,   F , and   δ is defined by the following ": null
+    },
+    {
+        "state transition table": "State Transition Table"
+    },
+    {
+        ":   :     The state S 1 represents that there has been an even number of 0s in the input so far, while S 2 signifies an odd number. A 1 in the input does not change the state of the automaton. When the input ends, the state will show whether the input contained an even number of 0s or not. If the input did contain an even number of 0s, M will finish in state S 1 , an accepting state, so the input string will be accepted.     The language recognized by M is the ": null
+    },
+    {
+        "regular language": "Regular Language"
+    },
+    {
+        " given by the ": null
+    },
+    {
+        "regular expression": "Regular Expression"
+    },
+    {
+        " 1, where is the ": null
+    },
+    {
+        "Kleene star": "Kleene Star"
+    },
+    {
+        ", e.g., 1 denotes any non-negative number of symbols 1 .     Many everyday activities carried out without a thought are uses of mathematical models. A geographical ": null
+    },
+    {
+        "map projection": "Map Projection"
+    },
+    {
+        " of a region of the earth onto a small, plane surface is a model  which can be used for many purposes such as planning travel.   Another simple activity is predicting the position of a vehicle from its initial position, direction and speed of travel, using the equation that distance traveled is the product of time and speed. This is known as ": null
+    },
+    {
+        "dead reckoning": "Dead Reckoning"
+    },
+    {
+        " when used more formally. Mathematical modeling in this way does not necessarily require formal mathematics; animals have been shown to use dead reckoning.      Population Growth. A simple model of population growth is the ": null
+    },
+    {
+        "Malthusian growth model": "Malthusian Growth Model"
+    },
+    {
+        ". A slightly more realistic and largely used population growth model is the ": null
+    },
+    {
+        "logistic function": "Logistic Function"
+    },
+    {
+        ", and its extensions.   Model of a particle in a potential-field. In this model we consider a particle as being a point of mass which describes a trajectory in space which is modeled by a function giving its coordinates in space as a function of time. The potential field is given by a function V\\!:\\mathbb^3\\!\\rightarrow\\mathbb and the trajectory, that is a function \\mathbf\\!:\\mathbb\\rightarrow\\mathbb^3 , is the solution of the ": null
+    },
+    {
+        "differential equation": "Differential Equation"
+    },
+    {
+        ":     :: -\\fracm\\frac\\mathbf+\\frac\\mathbf+\\frac\\mathbf,     that can be written also as:     :: m\\frac-\\nabla V     :Note this model assumes the particle is a point mass, which is certainly known to be false in many cases in which we use this model; for example, as a model of planetary motion.     Model of rational behavior for a consumer. In this model we assume a consumer faces a choice of n commodities labeled 1,2,...,n each with a market price p 1 , p 2 ,..., p n . The consumer is assumed to have an ": null
+    },
+    {
+        "ordinal utility": "Ordinal Utility"
+    },
+    {
+        " function U , depending on the amounts of commodities x 1 , x 2 ,..., x n consumed. The model further assumes that the consumer has a budget M which is used to purchase a vector x 1 , x 2 ,..., x n in such a way as to maximize U. The problem of rational behavior in this model then becomes an ": null
+    },
+    {
+        "optimization": "Optimization"
+    },
+    {
+        " problem, that is:   :: \\max U   :: subject to:   :: \\sum_^n p_i x_i \\leq M.   :: x_ \\geq 0 \\; \\; \\; \\forall i \\in \\   : This model has been used in a wide variety of economic contexts, such as in ": null
+    },
+    {
+        "general equilibrium theory": "General Equilibrium Theory"
+    },
+    {
+        " to show existence and ": null
+    },
+    {
+        "Pareto efficiency": "Pareto Efficiency"
+    },
+    {
+        " of economic equilibria.    Neighbour-sensing model  explains the ": null
+    },
+    {
+        "mushroom": "Mushroom"
+    },
+    {
+        " formation from the initially chaotic ": null
+    },
+    {
+        "fungal": "Fungus"
+    },
+    {
+        " network.    Computer science : models in Computer Networks, data models, surface model,...    Mechanics ": null
+    }
+]

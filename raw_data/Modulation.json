@@ -1,0 +1,737 @@
+[
+    {
+        "        In ": null
+    },
+    {
+        "electronics": "Electronics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "telecommunication": "Telecommunication"
+    },
+    {
+        "s, modulation is the process of varying one or more properties of a periodic ": null
+    },
+    {
+        "waveform": "Waveform"
+    },
+    {
+        ", called the  carrier signal , with a modulating signal that typically contains information to be transmitted. Most radio systems in the 20th century used ": null
+    },
+    {
+        "frequency modulation": "Frequency Modulation"
+    },
+    {
+        " or ": null
+    },
+    {
+        "amplitude modulation": "Amplitude Modulation"
+    },
+    {
+        " for ": null
+    },
+    {
+        "radio broadcast": "Radio Broadcast"
+    },
+    {
+        ".     A modulator is a device that performs modulation. A demodulator  is a device that performs ": null
+    },
+    {
+        "demodulation": "Demodulation"
+    },
+    {
+        ", the inverse of modulation. A ": null
+    },
+    {
+        "modem": "Modem"
+    },
+    {
+        "  can perform both operations.     The aim of analog modulation is to transfer an ": null
+    },
+    {
+        "analog": "Analog Signal"
+    },
+    {
+        " baseband  signal, for example an audio signal or TV signal, over an analog bandpass channel at a different frequency, for example over a limited radio frequency band or a cable TV network channel. The aim of digital modulation is to transfer a ": null
+    },
+    {
+        "digital": "Digital Data"
+    },
+    {
+        " bit stream over an analog ": null
+    },
+    {
+        "communication channel": "Communication Channel"
+    },
+    {
+        ", for example over the ": null
+    },
+    {
+        "public switched telephone network": "Public Switched Telephone Network"
+    },
+    {
+        "  or over a limited radio frequency band. Analog and digital modulation facilitate ": null
+    },
+    {
+        "frequency division multiplexing": "Frequency Division Multiplexing"
+    },
+    {
+        " , where several low pass information signals are transferred simultaneously over the same shared physical medium, using separate passband channels .     The aim of digital baseband modulation methods, also known as ": null
+    },
+    {
+        "line coding": "Line Coding"
+    },
+    {
+        ", is to transfer a digital bit stream over a baseband channel, typically a non-filtered copper wire such as a ": null
+    },
+    {
+        "serial bus": "Serial Bus"
+    },
+    {
+        " or a wired ": null
+    },
+    {
+        "local area network": "Local Area Network"
+    },
+    {
+        ".     The aim of pulse modulation methods is to transfer a ": null
+    },
+    {
+        "narrowband": "Narrowband"
+    },
+    {
+        " analog signal, for example, a phone call over a ": null
+    },
+    {
+        "wideband": "Wideband"
+    },
+    {
+        " baseband channel or, in some of the schemes, as a bit stream over another ": null
+    },
+    {
+        "digital transmission": "Digital Transmission"
+    },
+    {
+        " system.     In music synthesizers, modulation may be used to synthesize waveforms with an extensive overtone spectrum using a small number of oscillators. In this case, the ": null
+    },
+    {
+        "carrier frequency": "Carrier Frequency"
+    },
+    {
+        " is typically in the same order or much lower than the modulating waveform .                    In ": null
+    },
+    {
+        "analog": "Analog Signal"
+    },
+    {
+        " modulation, the modulation is applied continuously in response to the analog information signal. Common analog modulation techniques include:     ": null
+    },
+    {
+        "Amplitude modulation": "Amplitude Modulation"
+    },
+    {
+        "   Double-sideband modulation   Double-sideband modulation with carrier   ": null
+    },
+    {
+        "Double-sideband suppressed-carrier transmission": "Double-Sideband Suppressed-Carrier Transmission"
+    },
+    {
+        "   Double-sideband reduced carrier transmission": "Double-Sideband Reduced Carrier Transmission"
+    },
+    {
+        "   Single-sideband modulation": "Single-Sideband Modulation"
+    },
+    {
+        "   Single-sideband modulation with carrier   Single-sideband modulation suppressed carrier modulation   ": null
+    },
+    {
+        "Vestigial sideband modulation": "Vestigial Sideband Modulation"
+    },
+    {
+        "   Quadrature amplitude modulation": "Quadrature Amplitude Modulation"
+    },
+    {
+        "   Angle modulation": "Angle Modulation"
+    },
+    {
+        ", which is approximately ": null
+    },
+    {
+        "constant envelope": "Constant Envelope"
+    },
+    {
+        " Frequency modulation": "Frequency Modulation"
+    },
+    {
+        "   Phase modulation": "Phase Modulation"
+    },
+    {
+        "   Transpositional Modulation , in which the waveform inflection is modified resulting in a signal where each quarter cycle is transposed in the modulation process. TM is a pseudo-analog modulation . Where an AM carrier also carries a phase variable phase f. TM is f               In ": null
+    },
+    {
+        "digital": "Digital Data"
+    },
+    {
+        " modulation, an analog carrier signal is modulated by a discrete signal. Digital modulation methods can be considered as digital-to-analog conversion and the corresponding ": null
+    },
+    {
+        "demodulation": "Demodulation"
+    },
+    {
+        " or detection as analog-to-digital conversion. The changes in the carrier signal are chosen from a finite number of M alternative symbols .          A simple example: A telephone line is designed for transferring audible sounds, for example, tones, and not digital bits . Computers may, however, communicate over a telephone line by means of modems, which are representing the digital bits by tones, called symbols. If there are four alternative symbols , the first symbol may represent the bit sequence 00, the second 01, the third 10 and the fourth 11. If the modem plays a melody consisting of 1000 tones per second, the ": null
+    },
+    {
+        "symbol rate": "Symbol Rate"
+    },
+    {
+        " is 1000 symbols/second, or 1000 ": null
+    },
+    {
+        "baud": "Baud"
+    },
+    {
+        ". Since each tone represents a message consisting of two digital bits in this example, the ": null
+    },
+    {
+        "bit rate": "Bit Rate"
+    },
+    {
+        " is twice the symbol rate, i.e. 2000 bits per second.     According to one definition of ": null
+    },
+    {
+        "digital signal": "Digital Signal"
+    },
+    {
+        ", the modulated signal is a digital signal. According to another definition, the modulation is a form of ": null
+    },
+    {
+        "digital-to-analog conversion": "Digital-To-Analog Conversion"
+    },
+    {
+        ". Most textbooks would consider digital modulation schemes as a form of ": null
+    },
+    {
+        "digital transmission": "Digital Transmission"
+    },
+    {
+        ", synonymous to ": null
+    },
+    {
+        "data transmission": "Data Transmission"
+    },
+    {
+        "; very few would consider it as ": null
+    },
+    {
+        "analog transmission": "Analog Transmission"
+    },
+    {
+        ".         The most fundamental digital modulation techniques are based on ": null
+    },
+    {
+        "keying": "Keying"
+    },
+    {
+        ":     ": null
+    },
+    {
+        "PSK ": "Phase-Shift Keying"
+    },
+    {
+        ": a finite number of phases are used.   ": null
+    },
+    {
+        "FSK ": "Frequency-Shift Keying"
+    },
+    {
+        ": a finite number of frequencies are used.   ": null
+    },
+    {
+        "ASK ": "Amplitude-Shift Keying"
+    },
+    {
+        ": a finite number of amplitudes are used.   ": null
+    },
+    {
+        "QAM ": "Quadrature Amplitude Modulation"
+    },
+    {
+        ": a finite number of at least two phases and at least two amplitudes are used.     In QAM, an in-phase signal and a quadrature phase signal are amplitude modulated with a finite number of amplitudes and then summed. It can be seen as a two-channel system, each channel using ASK. The resulting signal is equivalent to a combination of PSK and ASK.     In all of the above methods, each of these phases, frequencies or amplitudes are assigned a unique pattern of ": null
+    },
+    {
+        "binary": "Binary Numeral System"
+    },
+    {
+        " bit": "Bit"
+    },
+    {
+        "s. Usually, each phase, frequency or amplitude encodes an equal number of bits. This number of bits comprises the symbol that is represented by the particular phase, frequency or amplitude.     If the alphabet consists of M 2^N alternative symbols, each symbol represents a message consisting of N bits. If the ": null
+    },
+    {
+        "symbol rate": "Symbol Rate"
+    },
+    {
+        "  is f_ symbols/second , the data rate is N f_ bit/second.     For example, with an alphabet consisting of 16 alternative symbols, each symbol represents 4 bits. Thus, the data rate is four times the baud rate.     In the case of PSK, ASK or QAM, where the carrier frequency of the modulated signal is constant, the modulation alphabet is often conveniently represented on a ": null
+    },
+    {
+        "constellation diagram": "Constellation Diagram"
+    },
+    {
+        ", showing the amplitude of the I signal at the x-axis, and the amplitude of the Q signal at the y-axis, for each symbol.         PSK and ASK, and sometimes also FSK, are often generated and detected using the principle of QAM. The I and Q signals can be combined into a ": null
+    },
+    {
+        "complex-valued": "Complex-Valued"
+    },
+    {
+        " signal I+jQ . The resulting so called ": null
+    },
+    {
+        "equivalent lowpass signal": "Equivalent Lowpass Signal"
+    },
+    {
+        " or ": null
+    },
+    {
+        "equivalent baseband signal": "Equivalent Baseband Signal"
+    },
+    {
+        " is a complex-valued representation of the ": null
+    },
+    {
+        "real-valued": "Real-Valued"
+    },
+    {
+        " modulated physical signal .     These are the general steps used by the ": null
+    },
+    {
+        "modulator": "Modulator"
+    },
+    {
+        " to transmit data:   Group the incoming data bits into codewords, one for each symbol that will be transmitted.   Map the codewords to attributes, for example, amplitudes of the I and Q signals , or frequency or phase values.   Adapt ": null
+    },
+    {
+        "pulse shaping": "Pulse Shaping"
+    },
+    {
+        " or some other filtering to limit the bandwidth and form the spectrum of the equivalent low pass signal, typically using digital signal processing.   Perform digital to analog conversion of the I and Q signals .   Generate a high-frequency sine carrier waveform, and perhaps also a cosine quadrature component. Carry out the modulation, for example by multiplying the sine and cosine waveform with the I and Q signals, resulting in the equivalent low pass signal being frequency shifted to the modulated ": null
+    },
+    {
+        "passband signal": "Passband Signal"
+    },
+    {
+        " or ": null
+    },
+    {
+        "RF signal": "Rf Signal"
+    },
+    {
+        ". Sometimes this is achieved using DSP technology, for example ": null
+    },
+    {
+        "direct digital synthesis": "Direct Digital Synthesizer"
+    },
+    {
+        " using a ": null
+    },
+    {
+        "waveform table": "Waveform Table"
+    },
+    {
+        ", instead of analog signal processing. In that case, the above DAC step should be done after this step.   Amplification and analog bandpass filtering to avoid harmonic distortion and periodic spectrum.     At the receiver side, the ": null
+    },
+    {
+        "demodulator": "Demodulator"
+    },
+    {
+        " typically performs:   Bandpass filtering.   ": null
+    },
+    {
+        "Automatic gain control": "Automatic Gain Control"
+    },
+    {
+        ", AGC .   Frequency shifting of the RF signal to the equivalent baseband I and Q signals, or to an intermediate frequency signal, by multiplying the RF signal with a local oscillator sine wave and cosine wave frequency .   Sampling and analog-to-digital conversion .   Equalization filtering, for example, a ": null
+    },
+    {
+        "matched filter": "Matched Filter"
+    },
+    {
+        ", compensation for multipath propagation, time spreading, phase distortion and frequency selective fading, to avoid ": null
+    },
+    {
+        "intersymbol interference": "Intersymbol Interference"
+    },
+    {
+        " and symbol distortion.   Detection of the amplitudes of the I and Q signals, or the frequency or phase of the IF signal.   Quantization of the amplitudes, frequencies or phases to the nearest allowed symbol values.   Mapping of the quantized amplitudes, frequencies or phases to codewords .   Parallel-to-serial conversion of the codewords into a bit stream.   Pass the resultant bit stream on for further processing such as removal of any error-correcting codes.     As is common to all digital communication systems, the design of both the modulator and demodulator must be done simultaneously. Digital modulation schemes are possible because the transmitter-receiver pair has prior knowledge of how data is encoded and represented in the communications system. In all digital communication systems, both the modulator at the transmitter and the demodulator at the receiver are structured so that they perform inverse operations.     Asynchronous methods do not require a receiver reference clock signal that is ": null
+    },
+    {
+        "phase synchronized": "Phase Synchronisation"
+    },
+    {
+        " with the sender ": null
+    },
+    {
+        "carrier signal": "Carrier Signal"
+    },
+    {
+        ". In this case, modulation symbols are ": null
+    },
+    {
+        "asynchronously": "Asynchronous Communication"
+    },
+    {
+        " transferred. The opposite is ": null
+    },
+    {
+        "synchronous modulation": "Bit-Synchronous_Operation"
+    },
+    {
+        ".         The most common digital modulation techniques are:     ": null
+    },
+    {
+        "Phase-shift keying": "Phase-Shift Keying"
+    },
+    {
+        "   Binary PSK , using M2 symbols   Quadrature PSK , using M4 symbols   8PSK, using M8 symbols   16PSK, using M16 symbols   Differential PSK   Differential QPSK   Offset QPSK    π/4–QPSK   ": null
+    },
+    {
+        "Frequency-shift keying": "Frequency-Shift Keying"
+    },
+    {
+        "   Audio frequency-shift keying": "Audio Frequency-Shift Keying"
+    },
+    {
+        "   Multi-frequency shift keying": "Multi-Frequency Shift Keying"
+    },
+    {
+        "   Dual-tone multi-frequency": "Dual-Tone Multi-Frequency"
+    },
+    {
+        "   Amplitude-shift keying": "Amplitude-Shift Keying"
+    },
+    {
+        "   On-off keying": "On-Off Keying"
+    },
+    {
+        " , the most common ASK form   M-ary ": null
+    },
+    {
+        "vestigial sideband modulation": "Vestigial Sideband Modulation"
+    },
+    {
+        ", for example ": null
+    },
+    {
+        "8VSB": "8Vsb"
+    },
+    {
+        " Quadrature amplitude modulation": "Quadrature Amplitude Modulation"
+    },
+    {
+        " , a combination of PSK and ASK   ": null
+    },
+    {
+        "Polar modulation": "Polar Modulation"
+    },
+    {
+        " like QAM a combination of PSK and ASK ": null
+    },
+    {
+        "Continuous phase modulation": "Continuous Phase Modulation"
+    },
+    {
+        " methods   ": null
+    },
+    {
+        "Minimum-shift keying": "Minimum-Shift Keying"
+    },
+    {
+        "   Gaussian minimum-shift keying": "Gaussian Minimum-Shift Keying"
+    },
+    {
+        "   Continuous-phase frequency-shift keying": "Continuous-Phase Frequency-Shift Keying"
+    },
+    {
+        "   Orthogonal frequency-division multiplexing": "Orthogonal Frequency-Division Multiplexing"
+    },
+    {
+        " modulation   ": null
+    },
+    {
+        "Discrete multitone": "Discrete Multitone Modulation"
+    },
+    {
+        " , including adaptive modulation and bit-loading   ": null
+    },
+    {
+        "Wavelet modulation": "Wavelet Modulation"
+    },
+    {
+        " Trellis coded modulation": "Trellis Coded Modulation"
+    },
+    {
+        " , also known as ": null
+    },
+    {
+        "Trellis modulation": "Trellis Modulation"
+    },
+    {
+        " Spread-spectrum": "Spread-Spectrum"
+    },
+    {
+        " techniques   ": null
+    },
+    {
+        "Direct-sequence spread spectrum": "Direct-Sequence Spread Spectrum"
+    },
+    {
+        "   Chirp spread spectrum": "Chirp Spread Spectrum"
+    },
+    {
+        " according to IEEE 802.15.4a CSS uses pseudo-stochastic coding   ": null
+    },
+    {
+        "Frequency-hopping spread spectrum": "Frequency-Hopping Spread Spectrum"
+    },
+    {
+        " applies a special scheme for channel release     ": null
+    },
+    {
+        "MSK": "Minimum-Shift Keying"
+    },
+    {
+        " and ": null
+    },
+    {
+        "GMSK": "Gmsk"
+    },
+    {
+        " are particular cases of continuous phase modulation. Indeed, MSK is a particular case of the sub-family of CPM known as ": null
+    },
+    {
+        "continuous-phase frequency shift keying": "Continuous-Phase Frequency Shift Keying"
+    },
+    {
+        " which is defined by a rectangular frequency pulse of one-symbol-time duration .     ": null
+    },
+    {
+        "OFDM": "Orthogonal Frequency-Division Multiplexing"
+    },
+    {
+        " is based on the idea of ": null
+    },
+    {
+        "frequency-division multiplexing": "Frequency-Division Multiplexing"
+    },
+    {
+        " , but the multiplexed streams are all parts of a single original stream. The bit stream is split into several parallel data streams, each transferred over its own sub-carrier using some conventional digital modulation scheme. The modulated sub-carriers are summed to form an OFDM signal. This dividing and recombining help with handling channel impairments. OFDM is considered as a modulation technique rather than a multiplex technique since it transfers one bit stream over one communication channel using one sequence of so-called OFDM symbols. OFDM can be extended to multi-user ": null
+    },
+    {
+        "channel access method": "Channel Access Method"
+    },
+    {
+        " in the ": null
+    },
+    {
+        "orthogonal frequency-division multiple access": "Orthogonal Frequency-Division Multiple Access"
+    },
+    {
+        " and ": null
+    },
+    {
+        "multi-carrier code division multiple access": "Multi-Carrier Code Division Multiple Access"
+    },
+    {
+        " schemes, allowing several users to share the same physical medium by giving different sub-carriers or ": null
+    },
+    {
+        "spreading codes": "Spreading Code"
+    },
+    {
+        "to different users.     Of the two kinds of ": null
+    },
+    {
+        "RF power amplifier": "Rf Power Amplifier"
+    },
+    {
+        ", ": null
+    },
+    {
+        "switching amplifiers": "Switching Amplifier"
+    },
+    {
+        "  cost less and use less battery power than ": null
+    },
+    {
+        "linear amplifiers": "Linear Amplifier"
+    },
+    {
+        "of the same output power. However, they only work with relatively constant-amplitude-modulation signals such as angle modulation and ": null
+    },
+    {
+        "CDMA": "Code Division Multiple Access"
+    },
+    {
+        ", but not with QAM and OFDM. Nevertheless, even though switching amplifiers are completely unsuitable for normal QAM constellations, often the QAM modulation principle are used to drive switching amplifiers with these FM and other waveforms, and sometimes QAM demodulators are used to receive the signals put out by these switching amplifiers.       Automatic digital modulation recognition in intelligent communication systems is one of the most important issues in ": null
+    },
+    {
+        "software defined radio": "Software Defined Radio"
+    },
+    {
+        " and ": null
+    },
+    {
+        "cognitive radio": "Cognitive Radio"
+    },
+    {
+        ". According to incremental expanse of intelligent receivers, automatic modulation recognition becomes a challenging topic in telecommunication systems and computer engineering. Such systems have many civil and military applications. Moreover, blind recognition of modulation type is an important problem in commercial systems, especially in ": null
+    },
+    {
+        "software defined radio": "Software Defined Radio"
+    },
+    {
+        ". Usually in such systems, there are some extra information for system configuration, but considering blind approaches in intelligent receivers, we can reduce information overload and increase transmission performance.  Obviously, with no knowledge of the transmitted data and many unknown parameters at the receiver, such as the signal power, carrier frequency and phase offsets, timing information, etc., blind identification of the modulation is made fairly difficult. This becomes even more challenging in real-world scenarios with multipath fading, frequency-selective and time-varying channels.        There are two main approaches to automatic modulation recognition. The first approach uses likelihood-based methods to assign an input signal to a proper class. Another recent approach is based on feature extraction.            The term digital baseband modulation is synonymous to ": null
+    },
+    {
+        "line code": "Line Code"
+    },
+    {
+        "s. These are methods to transfer a digital bit stream over an analog ": null
+    },
+    {
+        "baseband": "Baseband"
+    },
+    {
+        " channel  using a pulse train, i.e. a discrete number of signal levels, by directly modulating the voltage or current on a cable or serial bus. Common examples are ": null
+    },
+    {
+        "unipolar": "Unipolar Encoding"
+    },
+    {
+        ", ": null
+    },
+    {
+        "non-return-to-zero": "Non-Return-To-Zero"
+    },
+    {
+        " , ": null
+    },
+    {
+        "Manchester": "Manchester Coding"
+    },
+    {
+        " and ": null
+    },
+    {
+        "alternate mark inversion": "Alternate Mark Inversion"
+    },
+    {
+        " codings.                 Pulse modulation schemes aim at transferring a narrowband analog signal over an analog baseband channel as a two-level signal by modulating a ": null
+    },
+    {
+        "pulse wave": "Pulse Wave"
+    },
+    {
+        ". Some pulse modulation schemes also allow the narrowband analog signal to be transferred as a digital signal  with a fixed bit rate, which can be transferred over an underlying digital transmission system, for example, some ": null
+    },
+    {
+        "line code": "Line Code"
+    },
+    {
+        ". These are not modulation schemes in the conventional sense since they are not ": null
+    },
+    {
+        "channel coding": "Channel Coding"
+    },
+    {
+        " schemes, but should be considered as ": null
+    },
+    {
+        "source coding": "Source Coding"
+    },
+    {
+        " schemes, and in some cases analog-to-digital conversion techniques.     Analog-over-analog methods ": null
+    },
+    {
+        "Pulse-amplitude modulation": "Pulse-Amplitude Modulation"
+    },
+    {
+        "   Pulse-width modulation": "Pulse-Width Modulation"
+    },
+    {
+        " and Pulse-depth modulation   ": null
+    },
+    {
+        "Pulse-position modulation": "Pulse-Position Modulation"
+    },
+    {
+        "     Analog-over-digital methods ": null
+    },
+    {
+        "Pulse-code modulation": "Pulse-Code Modulation"
+    },
+    {
+        "   Differential PCM": "Dpcm"
+    },
+    {
+        "   Adaptive DPCM": "Adpcm"
+    },
+    {
+        "   Delta modulation": "Delta Modulation"
+    },
+    {
+        "   Delta-sigma modulation": "Delta-Sigma Modulation"
+    },
+    {
+        "   Continuously variable slope delta modulation": "Continuously Variable Slope Delta Modulation"
+    },
+    {
+        " , also called ": null
+    },
+    {
+        "Adaptive-delta modulation": "Adaptive-Delta Modulation"
+    },
+    {
+        "   Pulse-density modulation": "Pulse-Density Modulation"
+    },
+    {
+        "         The use of ": null
+    },
+    {
+        "on-off keying": "On-Off Keying"
+    },
+    {
+        " to transmit ": null
+    },
+    {
+        "Morse code": "Morse Code"
+    },
+    {
+        " at ": null
+    },
+    {
+        "radio frequencies": "Radio Frequency"
+    },
+    {
+        " is known as ": null
+    },
+    {
+        "continuous wave": "Continuous Wave"
+    },
+    {
+        " operation.   ": null
+    },
+    {
+        "Adaptive modulation": "Adaptive Modulation"
+    },
+    {
+        " Space modulation": "Space Modulation"
+    },
+    {
+        " is a method whereby signals are modulated within airspace such as that used in ": null
+    },
+    {
+        "instrument landing system": "Instrument Landing System"
+    }
+]

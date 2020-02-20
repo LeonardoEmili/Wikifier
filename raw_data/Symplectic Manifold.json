@@ -1,0 +1,374 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "differential geometry": "Differential Geometry"
+    },
+    {
+        ", a subject of ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", a symplectic manifold is a ": null
+    },
+    {
+        "smooth manifold": "Differentiable Manifolddefinition"
+    },
+    {
+        ", M , equipped with a ": null
+    },
+    {
+        "closed": "Closed And Exact Differential Forms"
+    },
+    {
+        " nondegenerate": "Nondegenerate Form"
+    },
+    {
+        " differential ": null
+    },
+    {
+        "2-form": "Differential Form"
+    },
+    {
+        " \\omega , called the ": null
+    },
+    {
+        "symplectic form": "Symplectic Form"
+    },
+    {
+        ". The study of symplectic manifolds is called ": null
+    },
+    {
+        "symplectic geometry": "Symplectic Geometry"
+    },
+    {
+        " or ": null
+    },
+    {
+        "symplectic topology": "Symplectic Topology"
+    },
+    {
+        ". Symplectic manifolds arise naturally in abstract formulations of ": null
+    },
+    {
+        "classical mechanics": "Classical Mechanics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "analytical mechanics": "Analytical Mechanics"
+    },
+    {
+        " as the ": null
+    },
+    {
+        "cotangent bundles": "Cotangent Bundle"
+    },
+    {
+        "of manifolds. For example, in the ": null
+    },
+    {
+        "Hamiltonian formulation": "Hamiltonian Mechanics"
+    },
+    {
+        " of classical mechanics, which provides one of the major motivations for the field, the set of all possible configurations of a system is modeled as a manifold, and this manifolds ": null
+    },
+    {
+        "cotangent bundle": "Cotangent Bundle"
+    },
+    {
+        " describes the ": null
+    },
+    {
+        "phase space": "Phase Space"
+    },
+    {
+        " of the system.         Symplectic manifolds arise from ": null
+    },
+    {
+        "classical mechanics": "Classical Mechanics"
+    },
+    {
+        "; in particular, they are a generalization of the ": null
+    },
+    {
+        "phase space": "Phase Space"
+    },
+    {
+        " of a closed system.  In the same way the ": null
+    },
+    {
+        "Hamilton equations": "Hamilton Equations"
+    },
+    {
+        " allow one to derive the time evolution of a system from a set of ": null
+    },
+    {
+        "differential equation": "Differential Equation"
+    },
+    {
+        "s, the symplectic form should allow one to obtain a ": null
+    },
+    {
+        "vector field": "Vector Field"
+    },
+    {
+        " describing the flow of the system from the differential dH of a Hamiltonian function H.  So we require a linear map , or equivalently, an element of . Letting ω denote a ": null
+    },
+    {
+        "section": "Section"
+    },
+    {
+        " of , the requirement that ω be ": null
+    },
+    {
+        "non-degenerate": "Degenerate Form"
+    },
+    {
+        " ensures that for every differential dH there is a unique corresponding vector field V H  such that . Since one desires the Hamiltonian to be constant along flow lines, one should have , which implies that ω is ": null
+    },
+    {
+        "alternating": "Alternating Form"
+    },
+    {
+        " and hence a 2-form. Finally, one makes the requirement that ω should not change under flow lines, i.e. that the ": null
+    },
+    {
+        "Lie derivative": "Lie Derivative"
+    },
+    {
+        " of ω along V H  vanishes. Applying ": null
+    },
+    {
+        "Cartans formula": "Cartan Homotopy Formula"
+    },
+    {
+        ", this amounts to :     : \\mathcal_ 0\\;\\Leftrightarrow\\;\\mathrm d + \\iota_ \\mathrm d\\omega \\mathrm d + \\mathrm d\\omega \\mathrm d\\omega0     so that, on repeating this argument for different smooth functions H such that the corresponding V_H span the tangent space at each point the argument is applied at, we see that the requirement for the vanishing Lie derivative along flows of V_H corresponding to arbitrary smooth H is equivalent to the requirement that ω should be ": null
+    },
+    {
+        "closed": "Closed And Exact Differential Forms"
+    },
+    {
+        ".         A symplectic form on a smooth ": null
+    },
+    {
+        "manifold": "Manifold"
+    },
+    {
+        " M is a closed non-degenerate differential ": null
+    },
+    {
+        "2-form": "Two-Form"
+    },
+    {
+        " \\omega .     Here, non-degenerate means that for every point p \\in M , the skew-symmetric pairing on the ": null
+    },
+    {
+        "tangent space": "Tangent Space"
+    },
+    {
+        " T_p M defined by \\omega is non-degenerate. That is to say, if there exists an X \\in T_p M such that \\omega 0 for all Y \\in T_p M , then X 0 . Since in odd dimensions, ": null
+    },
+    {
+        "skew-symmetric matrices": "Skew-Symmetric Matrices"
+    },
+    {
+        " are always singular, the requirement that \\omega be nondegenerate implies that M has an even dimension. The closed condition means that the ": null
+    },
+    {
+        "exterior derivative": "Exterior Derivative"
+    },
+    {
+        " of \\omega vanishes. A symplectic manifold is a pair where M is a smooth manifold and \\omega is a symplectic form. Assigning a symplectic form to M is referred to as giving M a symplectic structure.         There is a standard linear model, namely a ": null
+    },
+    {
+        "symplectic vector space": "Symplectic Vector Space"
+    },
+    {
+        " \\R^. Let \\ be a basis for \\R^. We define our symplectic form ω on this basis as follows:     : \\omega \\begin 1 & j-i n \\text 1 \\leqslant i \\leqslant n \\\\ -1 & i-j n \\text 1 \\leqslant j \\leqslant n \\\\ 0 & \\text \\end     In this case the symplectic form reduces to a simple ": null
+    },
+    {
+        "quadratic form": "Quadratic Form"
+    },
+    {
+        ". If I n  denotes the n × n ": null
+    },
+    {
+        "identity matrix": "Identity Matrix"
+    },
+    {
+        " then the matrix, Ω, of this quadratic form is given by the  ": null
+    },
+    {
+        "block matrix": "Block Matrix"
+    },
+    {
+        ":     : \\Omega \\begin 0 & I_n \\\\ -I_n & 0 \\end.         There are several natural geometric notions of ": null
+    },
+    {
+        "submanifold": "Submanifold"
+    },
+    {
+        " of a symplectic manifold .     symplectic submanifolds of M are submanifolds S \\subset M such that \\omega|_S is a symplectic form on S .     isotropic submanifolds are submanifolds where the symplectic form restricts to zero, i.e. each tangent space is an isotropic subspace of the ambient manifolds tangent space. Similarly, if each tangent subspace to a submanifold is co-isotropic , the submanifold is called co-isotropic.     Lagrangian submanifolds of a sympletic manifold are submanifolds where the restriction of the symplectic form \\omega to L\\subset M is vanishing, i.e. \\omega|_L0 and \\textL\\tfrac\\dim M . Langrangian submanifolds are the maximal isotropic submanifolds.     The most important case of the isotropic submanifolds is that of Lagrangian submanifolds. A Lagrangian submanifold is, by definition, an isotropic submanifold of maximal dimension, namely half the dimension of the ambient symplectic manifold. One major example is that the graph of a ": null
+    },
+    {
+        "symplectomorphism": "Symplectomorphism"
+    },
+    {
+        " in the product symplectic manifold  is Lagrangian. Their intersections display rigidity properties not possessed by smooth manifolds; the ": null
+    },
+    {
+        "Arnold conjecture": "Arnold Conjecture"
+    },
+    {
+        " gives the sum of the submanifolds ": null
+    },
+    {
+        "Betti numbers": "Betti Number"
+    },
+    {
+        "as a lower bound for the number of self intersections of a smooth Lagrangian submanifold, rather than the ": null
+    },
+    {
+        "Euler characteristic": "Euler Characteristic"
+    },
+    {
+        " in the smooth case.       Let \\R^_ have global coordinates labelled . Then, we can equip \\R_^ with the canonical symplectic form     : \\omega \\mathrmx_1\\wedge \\mathrmy_1 + \\cdots + \\mathrmx_n\\wedge \\mathrmy_n.     There is a standard Lagrangian submanifold given by \\R^n_ \\to \\R^_ . The form \\omega vanishes on \\R^n_ because given any pair of tangent vectors X f_i \\partial_, Yg_i\\partial_, we have that \\omega 0. To elucidate, consider the case n1 . Then, X f\\partial_x, Yg\\partial_x, and \\omega \\mathrmx\\wedge \\mathrmy. Notice that when we expand this out     : \\omega \\omega \\fracfg     both terms we have a \\mathrmy factor, which is 0, by definition.     The cotangent bundle of a manifold is locally modeled on a space similar to the first example. It can be shown that we can glue these affine symplectic forms hence this bundle forms a symplectic manifold. A more non-trivial example of a Lagrangian submanifold is the zero section of the cotangent bundle of a manifold. For example, let     : X \\.     Then, we can present T^X as     : T^X \\     where we are treating the symbols \\mathrmx,\\mathrmy as coordinates of \\R^4 T^\\R^2. We can consider the subset where the coordinates \\mathrmx0 and \\mathrmy0 , giving us the zero section. This example can be repeated for any manifold defined by the vanishing locus of smooth functions f_1,\\ldots,f_k and their differentials \\mathrmf_1,\\ldots,df_k .     Another useful class of Lagrangian submanifolds can be found using Morse theory. Given a Morse function f:M\\to\\R and for a small enough \\varepsilon one can construct a Lagrangian submanifold given by the vanishing locus \\mathbb \\subset T^M . For a generic morse function we have a Lagrangian intersection given by M \\cap \\mathbb \\text .            In the case of ": null
+    },
+    {
+        "Kahler manifolds": "Kahler Manifold"
+    },
+    {
+        "  we can make a choice \\Omega\\Omega_1+\\mathrm\\Omega_2 on M as a holomorphic n-form, where \\Omega_1 is the real part and \\Omega_2 imaginary. A Lagrangian submanifold L is called special if in addition to the above Lagrangian condition the restriction \\Omega_2 to L is vanishing. In other words, the real part \\Omega_1 restricted on L leads the volume form on L . The following examples are known as special Lagrangian submanifolds,   : complex Lagrangian submanifolds of ": null
+    },
+    {
+        "hyperKahler manifold": "Hyperkahler Manifold"
+    },
+    {
+        "s,   : fixed points of a real structure of Calabi-Yau manifolds.   The ": null
+    },
+    {
+        "SYZ conjecture": "Syz Conjecture"
+    },
+    {
+        " has been proved for special Lagrangian submanifolds but in general, it is open, and brings a lot of impacts to the study of ": null
+    },
+    {
+        "mirror symmetry": "Mirror Symmetry"
+    },
+    {
+        ". see          A Lagrangian fibration of a symplectic manifold M is a ": null
+    },
+    {
+        "fibration": "Fibration"
+    },
+    {
+        " where all of the ": null
+    },
+    {
+        "fibres": "Fiber Bundleformal Definition"
+    },
+    {
+        " are Lagrangian submanifolds. Since M is even-dimensional we can take local coordinates  and by ": null
+    },
+    {
+        "Darbouxs theorem": "Darbouxs Theorem"
+    },
+    {
+        " the symplectic form ω can be, at least locally, written as , where d denotes the ": null
+    },
+    {
+        "exterior derivative": "Exterior Derivative"
+    },
+    {
+        " and ∧ denotes the ": null
+    },
+    {
+        "exterior product": "Exterior Product"
+    },
+    {
+        ". Using this set-up we can locally think of M as being the ": null
+    },
+    {
+        "cotangent bundle": "Cotangent Bundle"
+    },
+    {
+        " T^\\R^n, and the Lagrangian fibration as the trivial fibration \\pi: T^\\R^n \\to \\R^n. This is the canonical picture.          Let L be a Lagrangian submanifold of a symplectic manifold  given by an ": null
+    },
+    {
+        "immersion": "Immersion"
+    },
+    {
+        "  . Let  give a Lagrangian fibration of K. The composite  is a Lagrangian mapping. The ": null
+    },
+    {
+        "critical value set": "Critical Value"
+    },
+    {
+        " of π ∘ i is called a ": null
+    },
+    {
+        "caustic": "Caustic"
+    },
+    {
+        ".     Two Lagrangian maps  and  are called Lagrangian equivalent if there exist ": null
+    },
+    {
+        "diffeomorphisms": "Diffeomorphism"
+    },
+    {
+        " σ, τ and ν such that both sides of the diagram given on the right ": null
+    },
+    {
+        "commute": "Commutative Diagram"
+    },
+    {
+        ", and τ preserves the symplectic form. Symbolically:   : \\tau \\circ i_1 i_2 \\circ \\sigma, \\ \\nu \\circ \\pi_1 \\pi_2 \\circ \\tau, \\ \\tau^\\omega_2 \\omega_1 \\, ,   where τ ∗ ω 2 denotes the ": null
+    },
+    {
+        "pull back": "Pullback Pullback Of Differential Forms"
+    },
+    {
+        " of ω 2 by τ.         A symplectic manifold endowed with a ": null
+    },
+    {
+        "metric": "Metric Tensor"
+    },
+    {
+        " that is ": null
+    },
+    {
+        "compatible": "Almost Complex Manifoldcompatible Triples"
+    },
+    {
+        " with the symplectic form is an ": null
+    },
+    {
+        "almost Kähler manifold": "Almost Kähler Manifold"
+    },
+    {
+        " in the sense that the tangent bundle has an ": null
+    },
+    {
+        "almost complex structure": "Almost Complex Structure"
+    },
+    {
+        ", but this need not be ": null
+    },
+    {
+        "integrable": "Integrability Condition"
+    },
+    {
+        ".     Symplectic manifolds are special cases of a ": null
+    },
+    {
+        "Poisson manifold": "Poisson Manifold"
+    },
+    {
+        ". The definition of a symplectic manifold requires that the symplectic form be non-degenerate everywhere, but if this condition is violated, the manifold may still be a Poisson manifold.     A multisymplectic manifold of degree k is a manifold equipped with a closed nondegenerate k-form.      A polysymplectic manifold is a Legendre bundle provided with a polysymplectic tangent-valued -form; it is utilized in Hamiltonian field theory. ": null
+    }
+]

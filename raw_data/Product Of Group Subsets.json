@@ -1,0 +1,191 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", one can define a product of group subsets in a natural way. If S and T are ": null
+    },
+    {
+        "subsets": "Subset"
+    },
+    {
+        "of a ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        " G, then their product is the subset of G defined by   : ST \\.   The subsets S and T need not be ": null
+    },
+    {
+        "subgroups": "Subgroup"
+    },
+    {
+        "for this product to be well defined. The ": null
+    },
+    {
+        "associativity": "Associativity"
+    },
+    {
+        " of this product ": null
+    },
+    {
+        "follows from": "Follows From"
+    },
+    {
+        " that of the group product. The product of group subsets therefore defines a natural ": null
+    },
+    {
+        "monoid": "Monoid"
+    },
+    {
+        " structure on the ": null
+    },
+    {
+        "power set": "Power Set"
+    },
+    {
+        " of G.     A lot more can be said in the case where S and T are subgroups. The product of two subgroups S and T of a group G is itself a subgroup of G if and only if ST TS.       If S and T are subgroups of G, their product need not be a subgroup . This product is sometimes called the Frobenius product.  In general, the product of two subgroups S and T is a subgroup if and only if ST TS,  and the two subgroups are said to ": null
+    },
+    {
+        "permute": "Permutable Subgroup"
+    },
+    {
+        ".  In this case, ST is the group ": null
+    },
+    {
+        "generated": "Generating Set Of A Group"
+    },
+    {
+        " by S and T; i.e., ST TS ⟨S ∪ T⟩.     If either S or T is ": null
+    },
+    {
+        "normal": "Normal Subgroup"
+    },
+    {
+        " then the condition ST TS is satisfied and the product is a subgroup. Nicholson, 2012, Theorem 5, p. 125  If both S and T are normal, then the product is normal as well.     If S and T are finite subgroups of a group G, then ST is a subset of G of size   given by the product formula:   : |ST| \\frac   Note that this applies even if neither S nor T is normal.         The following modular law  holds for any Q a subgroup of S, where T is any other arbitrary subgroup :   :Q S ∩ .   The two products that appear in this equality are not necessarily subgroups.     If QT is a subgroup  then QT ⟨Q ∪ T⟩ Q ∨ T; i.e., QT is the ": null
+    },
+    {
+        "join": "Join"
+    },
+    {
+        " of Q and T in the ": null
+    },
+    {
+        "lattice of subgroups": "Lattice Of Subgroups"
+    },
+    {
+        " of G, and the modular law for such a pair may also be written as Q ∨  S ∩ , which is the equation that defines a ": null
+    },
+    {
+        "modular lattice": "Modular Lattice"
+    },
+    {
+        " if it holds for any three elements of the lattice with Q ≤ S. In particular, since normal subgroups permute with each other, they form a modular ": null
+    },
+    {
+        "sublattice": "Sublattice"
+    },
+    {
+        ".     A group in which every subgroup permutes is called an ": null
+    },
+    {
+        "Iwasawa group": "Iwasawa Group"
+    },
+    {
+        ". The subgroup lattice of an Iwasawa group is thus a modular lattice, so these groups are sometimes called modular groups Ballester-Bolinches, Esteban-Romero, Asaad, p. 24     The assumption in the modular law for groups that Q is a subgroup of S is essential. If Q is not a subgroup of S, then the tentative, more general distributive property that one may consider S ∩   is false.         In particular, if S and T intersect only in the identity, then every element of ST has a unique expression as a product st with s in S and t in T. If S and T also commute, then ST is a group, and is called a ": null
+    },
+    {
+        "Zappa–Szép product": "Zappa–Szép Product"
+    },
+    {
+        ". Even further, if S or T is normal in ST, then ST coincides with the ": null
+    },
+    {
+        "semidirect product": "Semidirect Product"
+    },
+    {
+        " of S and T. Finally, if both S and T are normal in ST, then ST coincides with the ": null
+    },
+    {
+        "direct product": "Direct Product Of Groups"
+    },
+    {
+        " of S and T.     If S and T are subgroups whose intersection is the trivial subgroup and additionally ST G, then S is called a ": null
+    },
+    {
+        "complement": "Complement"
+    },
+    {
+        " of T and vice versa.     By a ": null
+    },
+    {
+        "abuse of terminology": "Abuse Of Terminology"
+    },
+    {
+        ", two subgroups that intersect only on the identity are sometimes called ": null
+    },
+    {
+        "disjoint": "Disjoint Sets"
+    },
+    {
+        ".        A question that arises in the case of a non-trivial intersection between a normal subgroup N and a subgroup K is what is the structure of the quotient NK/N. Although one might be tempted to just cancel out N and say the answer is K, that is not correct because a homomorphism with kernel N will also collapse all elements of K that happen to be in N. Thus the correct answer is that NK/N is isomorphic with K/. This fact is sometimes called the ": null
+    },
+    {
+        "second isomorphism theorem": "Second Isomorphism Theorem"
+    },
+    {
+        ",  ; it has also been called the diamond theorem by ": null
+    },
+    {
+        "I. Martin Isaacs": "Martin Isaacs"
+    },
+    {
+        " because of the shape of subgroup lattice involved,  and has also been called the parallelogram rule by ": null
+    },
+    {
+        "Paul Moritz Cohn": "Paul Moritz Cohn"
+    },
+    {
+        ", who thus emphasized analogy with the ": null
+    },
+    {
+        "parallelogram rule": "Parallelogram Rule"
+    },
+    {
+        " for vectors because in the resulting subgroup lattice the two sides assumed to represent the quotient groups   /  N and S  /   are equal in the sense of isomorphism.      ": null
+    },
+    {
+        "Frattinis argument": "Frattinis Argument"
+    },
+    {
+        " guarantees the existence of a product of subgroups in a case where the intersection is not necessarily trivial . More specifically, if G is a finite group with normal subgroup N, and if P is a ": null
+    },
+    {
+        "Sylow p-subgroup": "Sylow P-Subgroup"
+    },
+    {
+        " of N, then G N G N, where N G  denotes the ": null
+    },
+    {
+        "normalizer": "Centralizer And Normalizer"
+    },
+    {
+        " of P in G.        In a ": null
+    },
+    {
+        "semigroup": "Semigroup"
+    },
+    {
+        " S, the product of two subsets defines a structure of semigroup on P, the power set of the semigroup S; furthermore P is a ": null
+    },
+    {
+        "semiring": "Semiring"
+    },
+    {
+        " with addition as union and multiplication as product of subsets. ": null
+    }
+]

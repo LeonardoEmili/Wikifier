@@ -1,0 +1,98 @@
+[
+    {
+        "   Cellular Digital Packet Data  was a wide-area mobile data service which used unused ": null
+    },
+    {
+        "bandwidth": "Bandwidth"
+    },
+    {
+        " normally used by ": null
+    },
+    {
+        "AMPS": "Advanced Mobile Phone System"
+    },
+    {
+        "mobile phones": "Mobile Phone"
+    },
+    {
+        "between 800 and 900  MHz to transfer data. Speeds up to 19.2 kbit/s were possible. The service was discontinued in conjunction with the retirement of the parent AMPS service; it has been functionally replaced by faster services such as ": null
+    },
+    {
+        "1xRTT": "1Xrtt"
+    },
+    {
+        ", ": null
+    },
+    {
+        "EV-DO": "Ev-Do"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "UMTS": "Umts"
+    },
+    {
+        "/": null
+    },
+    {
+        "HSPA": "High Speed Packet Access"
+    },
+    {
+        ".     Developed in the early 1990s, CDPD was large on the horizon as a future technology. However, it had difficulty competing against existing slower but less expensive ": null
+    },
+    {
+        "Mobitex": "Mobitex"
+    },
+    {
+        " and ": null
+    },
+    {
+        "DataTac": "Datatac"
+    },
+    {
+        " systems, and never quite gained widespread acceptance before newer, faster standards such as ": null
+    },
+    {
+        "GPRS": "Gprs"
+    },
+    {
+        " became dominant.     CDPD had very limited consumer products. ": null
+    },
+    {
+        "AT & T Wireless": "At & T Wireless"
+    },
+    {
+        " first sold the technology in the United States under the PocketNet brand. It was one of the first products of wireless web service. Digital Ocean, Inc. an OEM licensee of the Apple Newton, sold the Seahorse product, which integrated the Newton handheld computer, an AMPS/CDPD handset/modem along with a web browser in 1996, winning the CTIAs hardware product of the year award as a smartphone, arguably the worlds first. A company named ": null
+    },
+    {
+        "OmniSky": "Omnisky"
+    },
+    {
+        " provided service for Palm V devices. Omnisky OmniSky then file bankrupt in 2001 then was picked up by EarthLink Wireless the technician that developed the tech support for all of the wireless technology was a man by the name of Myron Feasel he was brought from company to company endind up at Palm. Wireless later sold CDPD under the Wireless Internet brand . PocketNet was generally considered a failure with competition from 2G services such as Sprints Wireless Web. AT & T Wireless sold four PocketNet Phone models to the public: the Samsung Duette and the Mitsubishi MobileAccess-120 were AMPS/CDPD PocketNet phones introduced in October 1997; and two IS-136/CDPD Digital PocketNet phones, the Mitsubishi T-250 and the Ericsson R289LX.     Despite its limited success as a consumer offering, CDPD was adopted in a number of enterprise and government networks. It was particularly popular as a first-generation wireless data solution for ": null
+    },
+    {
+        "telemetry": "Telemetry"
+    },
+    {
+        " devices and for public safety mobile data terminals.     In 2004, major carriers in the ": null
+    },
+    {
+        "United States": "United States"
+    },
+    {
+        " announced plans to shut down CDPD service. In July 2005, the ": null
+    },
+    {
+        "AT & T Wireless": "At & T Wireless"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Cingular Wireless": "Cingular Wireless"
+    },
+    {
+        " CDPD networks were shut down. Equipment for this service now has little to no residual value.       Primary elements of a CDPD network are:   1. End systems: physical & logical end systems that exchange information   2. Intermediate systems: CDPD infrastructure elements that store, forward & route the information     There are 2 kinds of End systems   1. Mobile end system: subscriber unit to access CDPD network over a wireless interface   2. Fixed end system: common host/server that is connected to the CDPD backbone and providing access to specific application and data     There are 2 kinds of Intermediate systems   1. Generic intermediate system: simple router with no knowledge of mobility issues   2. mobile data intermediate system: specialized intermediate system that routes data based on its knowledge of the current location of Mobile end system. It is a set of hardware and software functions that provide switching, accounting, registration, authentication, encryption, and so on.     The design of CDPD was based on several design objectives that are often repeated in designing overlay networks or new networks. A lot of emphasis was laid on open architectures and reusing as much of the existing RF infrastructure as possible. The design goal of CDPD included location independence and independence fro, service provider, so that coverage could be maximized ; application transparency and multiprotocol support, interoperability between products from multiple vendors.                   ": null
+    }
+]

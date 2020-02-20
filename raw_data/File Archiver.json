@@ -1,0 +1,158 @@
+[
+    {
+        "A file archiver is a ": null
+    },
+    {
+        "computer program": "Computer Program"
+    },
+    {
+        " that combines a number of ": null
+    },
+    {
+        "files": "Computer File"
+    },
+    {
+        " together into one ": null
+    },
+    {
+        "archive file": "Archive File"
+    },
+    {
+        ", or a series of archive files, for easier transportation or storage. File archivers may employ ": null
+    },
+    {
+        "lossless data compression": "Lossless Data Compression"
+    },
+    {
+        " in their ": null
+    },
+    {
+        "archive formats": "Archive Format"
+    },
+    {
+        "to reduce the size of the archive.     Basic archivers just take a list of files and concatenate their contents sequentially into archives. The archive files need to store ": null
+    },
+    {
+        "metadata": "Metadata"
+    },
+    {
+        ", at least the names and lengths of the original files, if proper reconstruction is possible. More advanced archivers store additional metadata, such as the ": null
+    },
+    {
+        "original timestamps": "Timestamping"
+    },
+    {
+        ", ": null
+    },
+    {
+        "file attributes": "File Attribute"
+    },
+    {
+        "or ": null
+    },
+    {
+        "access control list": "Access Control List"
+    },
+    {
+        "s.     The process of making an archive file is called archiving or packing. Reconstructing the original files from the archive is termed unarchiving, unpacking or extracting.       An early archiver was the ": null
+    },
+    {
+        "Multics": "Multics"
+    },
+    {
+        " command archive, descended from the ": null
+    },
+    {
+        "CTSS": "Compatible Time-Sharing System"
+    },
+    {
+        " command of the same name, which was a basic archiver and performed no compression. Multics also had a tape_archiver command, abbreviated ta, which was perhaps the forerunner of unix tar.        The ": null
+    },
+    {
+        "Unix": "Unix"
+    },
+    {
+        " tools  ar ,  tar ,  cpio  act as archivers but not compressors. Users of the Unix tools use additional compression tools, such as ": null
+    },
+    {
+        "gzip": "Gzip"
+    },
+    {
+        ", ": null
+    },
+    {
+        "bzip2": "Bzip2"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "xz": "Xz Utils"
+    },
+    {
+        ", to compress the archive file after packing or remove compression before unpacking the archive file. The ": null
+    },
+    {
+        "filename extensions": "Filename Extension"
+    },
+    {
+        "are successively added at each step of this process. For example, archiving a collection of files with tar and then compressing the resulting archive file with gzip results a file with .tar.gz extension.     This approach has two goals:   It follows the ": null
+    },
+    {
+        "Unix philosophy": "Unix Philosophy"
+    },
+    {
+        " that each program should accomplish a single task to perfection, as opposed to attempting to accomplish everything with one tool. As compression technology progresses, users may use different compression programs without having to modify or abandon their archiver.   The archives use ": null
+    },
+    {
+        "solid compression": "Solid Compression"
+    },
+    {
+        ". When the files are combined, the compressor can exploit redundancy across several archived files and achieve better compression than a compressor that compresses each files individually.     This approach, however, has disadvantages too:   Extracting or modifying one file is difficult. Extracting one file requires decompressing an entire archive, which can be time- and space-consuming. Modifying one means the file needs to be put back into archive and the archive recompressed again. This operation requires additional time and disk space.   The archive becomes damage-prone. If the area holding shared data for several files is damaged, all those files are lost.   Its impossible to take advantage of redundancy between files unless the compression window is larger than the size of an individual file. For example, gzip uses ": null
+    },
+    {
+        "DEFLATE": "Deflate"
+    },
+    {
+        ", which typically operates with a 32768 byte window, whereas bzip2 uses a ": null
+    },
+    {
+        "Burrows-Wheeler transform": "Burrows-Wheeler Transform"
+    },
+    {
+        " roughly 27 times bigger. xz defaults to 8 MiB but supports significantly larger windows.       The built-in archiver of ": null
+    },
+    {
+        "Microsoft Windows": "Microsoft Windows"
+    },
+    {
+        " as well as third-party archiving software, such as ": null
+    },
+    {
+        "WinRAR": "Winrar"
+    },
+    {
+        " and ": null
+    },
+    {
+        "7-zip": "7-Zip"
+    },
+    {
+        ", often use a ": null
+    },
+    {
+        "graphical user interface": "Graphical User Interface"
+    },
+    {
+        ". They also offer an optional ": null
+    },
+    {
+        "command-line interface": "Command-Line Interface"
+    },
+    {
+        ", while Windows itself does not. Windows archivers perform both archiving and compression. ": null
+    },
+    {
+        "Solid compression": "Solid Compression"
+    }
+]

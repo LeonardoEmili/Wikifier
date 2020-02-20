@@ -1,0 +1,173 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "abstract algebra": "Abstract Algebra"
+    },
+    {
+        ", the center of a ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        ", , is the ": null
+    },
+    {
+        "set": "Set"
+    },
+    {
+        " of elements that ": null
+    },
+    {
+        "commute": "Commutative"
+    },
+    {
+        " with every element of . It is denoted , from German  Zentrum , meaning center. In ": null
+    },
+    {
+        "set-builder notation": "Set-Builder Notation"
+    },
+    {
+        ",     :.     The center is a ": null
+    },
+    {
+        "normal subgroup": "Normal Subgroup"
+    },
+    {
+        ", . As a subgroup, it is always ": null
+    },
+    {
+        "characteristic": "Characteristic Subgroup"
+    },
+    {
+        ", but is not necessarily ": null
+    },
+    {
+        "fully characteristic": "Fully Characteristic Subgroup"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "quotient group": "Quotient Group"
+    },
+    {
+        ", , is ": null
+    },
+    {
+        "isomorphic": "Group Isomorphism"
+    },
+    {
+        " to the ": null
+    },
+    {
+        "inner automorphism": "Inner Automorphism"
+    },
+    {
+        " group, .     A group  is abelian if and only if . At the other extreme, a group is said to be centerless if  is ": null
+    },
+    {
+        "trivial": "Trivial Group"
+    },
+    {
+        "; i.e., consists only of the ": null
+    },
+    {
+        "identity element": "Identity Element"
+    },
+    {
+        ".     The elements of the center are sometimes called central.       The center of G is always a ": null
+    },
+    {
+        "subgroup": "Subgroup"
+    },
+    {
+        " of . In particular:    contains the ": null
+    },
+    {
+        "identity element": "Identity Element"
+    },
+    {
+        " of , because it commutes with every element of , by definition: , where  is the identity;   If  and  are in , then so is , by associativity:  for each ; i.e.,  is closed;   If  is in , then so is  as, for all  in ,  commutes with : .     Furthermore, the center of  is always a ": null
+    },
+    {
+        "normal subgroup": "Normal Subgroup"
+    },
+    {
+        " of . Since all elements of  commute, it is closed under ": null
+    },
+    {
+        "conjugation": "Conjugate Closure"
+    },
+    {
+        ".       By definition, the center is the set of elements for which the ": null
+    },
+    {
+        "conjugacy class": "Conjugacy Class"
+    },
+    {
+        " of each element is the element itself; i.e., .     The center is also the ": null
+    },
+    {
+        "intersection": "Intersection"
+    },
+    {
+        " of all the ": null
+    },
+    {
+        "centralizers": "Centralizer And Normalizer"
+    },
+    {
+        " of each element of . As centralizers are subgroups, this again shows that the center is a subgroup.       Consider the map, , from  to the ": null
+    },
+    {
+        "automorphism group": "Automorphism Group"
+    },
+    {
+        " of  defined by , where  is the automorphism of  defined by   :.     The function,  is a ": null
+    },
+    {
+        "group homomorphism": "Group Homomorphism"
+    },
+    {
+        ", and its ": null
+    },
+    {
+        "kernel": "Kernel"
+    },
+    {
+        " is precisely the center of , and its image is called the ": null
+    },
+    {
+        "inner automorphism group": "Inner Automorphism Group"
+    },
+    {
+        " of , denoted . By the ": null
+    },
+    {
+        "first isomorphism theorem": "First Isomorphism Theorem"
+    },
+    {
+        " we get,   :.     The ": null
+    },
+    {
+        "cokernel": "Cokernel"
+    },
+    {
+        " of this map is the group  of ": null
+    },
+    {
+        "outer automorphism": "Outer Automorphism"
+    },
+    {
+        "s, and these form the ": null
+    },
+    {
+        "exact sequence": "Exact Sequence"
+    },
+    {
+        "   :.       second center, third center, etc.equivalently, ": null
+    }
+]

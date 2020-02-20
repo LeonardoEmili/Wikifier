@@ -1,0 +1,647 @@
+[
+    {
+        "      Arithmetic  is a branch of ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        " that consists of the study of ": null
+    },
+    {
+        "number": "Number"
+    },
+    {
+        "s, especially the properties of the traditional ": null
+    },
+    {
+        "operations": "Operation"
+    },
+    {
+        " on them—": null
+    },
+    {
+        "addition": "Addition"
+    },
+    {
+        ", ": null
+    },
+    {
+        "subtraction": "Subtraction"
+    },
+    {
+        ", ": null
+    },
+    {
+        "multiplication": "Multiplication"
+    },
+    {
+        " and ": null
+    },
+    {
+        "division": "Division"
+    },
+    {
+        ". Arithmetic is an elementary part of ": null
+    },
+    {
+        "number theory": "Number Theory"
+    },
+    {
+        ", and number theory is considered to be one of the top-level ": null
+    },
+    {
+        "divisions of modern mathematics": "Areas Of Mathematics"
+    },
+    {
+        ", along with ": null
+    },
+    {
+        "algebra": "Algebra"
+    },
+    {
+        ", ": null
+    },
+    {
+        "geometry": "Geometry"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "analysis": "Mathematical Analysis"
+    },
+    {
+        ". The terms arithmetic and higher arithmetic were used until the beginning of the 20th  century as synonyms for number theory and are sometimes still used to refer to a wider part of number theory. ": null
+    },
+    {
+        "Davenport, Harold": "Harold Davenport"
+    },
+    {
+        ", The Higher Arithmetic: An Introduction to the Theory of Numbers , Cambridge University Press, Cambridge, 1999, .          The prehistory of arithmetic is limited to a small number of artifacts which may indicate the conception of addition and subtraction, the best-known being the ": null
+    },
+    {
+        "Ishango bone": "Ishango Bone"
+    },
+    {
+        " from ": null
+    },
+    {
+        "central Africa": "Democratic Republic Of The Congo"
+    },
+    {
+        ", dating from somewhere between 20,000 and 18,000  BC, although its interpretation is disputed.      The earliest written records indicate the ": null
+    },
+    {
+        "Egyptians": "Egyptian Mathematics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Babylonians": "Babylonian Mathematics"
+    },
+    {
+        " used all the ": null
+    },
+    {
+        "elementary arithmetic": "Elementary Arithmetic"
+    },
+    {
+        " operations as early as 2000  BC. These artifacts do not always reveal the specific process used for solving problems, but the characteristics of the particular ": null
+    },
+    {
+        "numeral system": "Numeral System"
+    },
+    {
+        " strongly influence the complexity of the methods. The hieroglyphic system for ": null
+    },
+    {
+        "Egyptian numerals": "Egyptian Numerals"
+    },
+    {
+        ", like the later ": null
+    },
+    {
+        "Roman numerals": "Roman Numerals"
+    },
+    {
+        ", descended from ": null
+    },
+    {
+        "tally marks": "Tally Marks"
+    },
+    {
+        " used for counting. In both cases, this origin resulted in values that used a ": null
+    },
+    {
+        "decimal": "Decimal"
+    },
+    {
+        " base but did not include ": null
+    },
+    {
+        "positional notation": "Positional Notation"
+    },
+    {
+        ". Complex calculations with Roman numerals required the assistance of a ": null
+    },
+    {
+        "counting board": "Counting Board"
+    },
+    {
+        " or the ": null
+    },
+    {
+        "Roman abacus": "Roman Abacus"
+    },
+    {
+        " to obtain the results.     Early number systems that included positional notation were not decimal, including the ": null
+    },
+    {
+        "sexagesimal": "Sexagesimal"
+    },
+    {
+        " system for ": null
+    },
+    {
+        "Babylonian numerals": "Babylonian Numerals"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "vigesimal": "Vigesimal"
+    },
+    {
+        " system that defined ": null
+    },
+    {
+        "Maya numerals": "Maya Numerals"
+    },
+    {
+        ". Because of this place-value concept, the ability to reuse the same digits for different values contributed to simpler and more efficient methods of calculation.     The continuous historical development of modern arithmetic starts with the ": null
+    },
+    {
+        "Hellenistic civilization": "Hellenistic Civilization"
+    },
+    {
+        " of ancient Greece, although it originated much later than the Babylonian and Egyptian examples. Prior to the works of ": null
+    },
+    {
+        "Euclid": "Euclid"
+    },
+    {
+        " around 300  BC, ": null
+    },
+    {
+        "Greek studies in mathematics": "Greek Mathematics"
+    },
+    {
+        " overlapped with philosophical and mystical beliefs. For example, ": null
+    },
+    {
+        "Nicomachus": "Nicomachus"
+    },
+    {
+        " summarized the viewpoint of the earlier ": null
+    },
+    {
+        "Pythagorean": "Pythagoreanism"
+    },
+    {
+        " approach to numbers, and their relationships to each other, in his  Introduction to Arithmetic .     ": null
+    },
+    {
+        "Greek numerals": "Greek Numerals"
+    },
+    {
+        " were used by ": null
+    },
+    {
+        "Archimedes": "Archimedes"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Diophantus": "Diophantus"
+    },
+    {
+        " and others in a ": null
+    },
+    {
+        "positional notation": "Positional Notation"
+    },
+    {
+        " not very different from ours. The ancient Greeks lacked a symbol for zero until the Hellenistic period, and they used three separate sets of symbols as ": null
+    },
+    {
+        "digits": "Numerical Digit"
+    },
+    {
+        ": one set for the units place, one for the tens place, and one for the hundreds. For the thousands place they would reuse the symbols for the units place, and so on. Their addition algorithm was identical to ours, and their multiplication algorithm was only very slightly different. Their long division algorithm was the same, and the ": null
+    },
+    {
+        "digit-by-digit square root algorithm": "Methods Of Computing Square Rootsdigit-By-Digit Calculation"
+    },
+    {
+        ", popularly used as recently as the 20th century, was known to Archimedes, who may have invented it. He preferred it to ": null
+    },
+    {
+        "Heros method": "Herons Method"
+    },
+    {
+        " of successive approximation because, once computed, a digit doesnt change, and the square roots of perfect squares, such as 7485696, terminate immediately as 2736. For numbers with a fractional part, such as 546.934, they used negative powers of 60 instead of negative powers of 10 for the fractional part 0.934. The Works of Archimedes, Chapter IV, Arithmetic in Archimedes, edited by T.L. Heath, Dover Publications Inc, New York, 2002.     The ancient Chinese had advanced arithmetic studies dating from the Shang Dynasty and continuing through the Tang Dynasty, from basic numbers to advanced algebra. The ancient Chinese used a positional notation similar to that of the Greeks. Since they also lacked a symbol for zero, they had one set of symbols for the units place, and a second set for the tens place. For the hundreds place they then reused the symbols for the units place, and so on. Their symbols were based on the ancient ": null
+    },
+    {
+        "counting rods": "Counting Rods"
+    },
+    {
+        ". It is a complicated question to determine exactly when the Chinese started calculating with positional representation, but it was definitely before 400  BC. Joseph Needham, Science and Civilization in China, Vol. 3, p. 9, Cambridge University Press, 1959. The ancient Chinese were the first to meaningfully discover, understand, and apply negative numbers as explained in the  Nine Chapters on the Mathematical Art  , which was written by ": null
+    },
+    {
+        "Liu Hui": "Liu Hui"
+    },
+    {
+        ".     The gradual development of the ": null
+    },
+    {
+        "Hindu–Arabic numeral system": "Hindu–Arabic Numeral System"
+    },
+    {
+        " independently devised the place-value concept and positional notation, which combined the simpler methods for computations with a decimal base and the use of a digit representing ": null
+    },
+    {
+        "0": "0"
+    },
+    {
+        ". This allowed the system to consistently represent both large and small integers. This approach eventually replaced all other systems. In the early  the Indian mathematician ": null
+    },
+    {
+        "Aryabhata": "Aryabhata"
+    },
+    {
+        " incorporated an existing version of this system in his work, and experimented with different notations. In the 7th  century, ": null
+    },
+    {
+        "Brahmagupta": "Brahmagupta"
+    },
+    {
+        " established the use of  0 as a separate number and determined the results for multiplication, division, addition and subtraction of zero and all other numbers, except for the result of ": null
+    },
+    {
+        "division by zero": "Division By Zero"
+    },
+    {
+        ". His contemporary, the ": null
+    },
+    {
+        "Syriac": "Syriac Christianity"
+    },
+    {
+        " bishop ": null
+    },
+    {
+        "Severus Sebokht": "Severus Sebokht"
+    },
+    {
+        " said, Indians possess a method of calculation that no word can praise enough. Their rational system of mathematics, or of their method of calculation. I mean the system using nine symbols. Reference: Revue de lOrient Chretien by François Nau pp. 327–338. The Arabs also learned this new method and called it hesab.        Although the ": null
+    },
+    {
+        "Codex Vigilanus": "Codex Vigilanus"
+    },
+    {
+        " described an early form of Arabic numerals by 976  AD, Leonardo of Pisa  was primarily responsible for spreading their use throughout Europe after the publication of his book  Liber Abaci  in 1202. He wrote, The method of the Indians  surpasses any known method to compute. Its a marvelous method. They do their computations using nine figures and symbol ": null
+    },
+    {
+        "zero": "Zero"
+    },
+    {
+        " . Reference: Sigler, L., Fibonaccis Liber Abaci , Springer, 2003.     In the Middle Ages, arithmetic was one of the seven ": null
+    },
+    {
+        "liberal arts": "Liberal Arts"
+    },
+    {
+        " taught in universities.     The flourishing of ": null
+    },
+    {
+        "algebra": "Algebra"
+    },
+    {
+        " in the ": null
+    },
+    {
+        "medieval": "Medieval"
+    },
+    {
+        " Islamic": "Islamic"
+    },
+    {
+        " world and in ": null
+    },
+    {
+        "Renaissance": "Renaissance"
+    },
+    {
+        " Europe": "Europe"
+    },
+    {
+        " was an outgrowth of the enormous simplification of ": null
+    },
+    {
+        "computation": "Computation"
+    },
+    {
+        " through ": null
+    },
+    {
+        "decimal": "Decimal"
+    },
+    {
+        " notation.     Various types of tools have been invented and widely used to assist in numeric calculations. Before Renaissance, they were various types of ": null
+    },
+    {
+        "abaci": "Abaci"
+    },
+    {
+        ". More recent examples include ": null
+    },
+    {
+        "slide rule": "Slide Rule"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "nomograms": "Nomogram"
+    },
+    {
+        "and ": null
+    },
+    {
+        "mechanical calculator": "Mechanical Calculator"
+    },
+    {
+        "s, such as ": null
+    },
+    {
+        "Pascals calculator": "Pascals Calculator"
+    },
+    {
+        ". At present, they have been supplanted by electronic ": null
+    },
+    {
+        "calculators": "Calculator"
+    },
+    {
+        "and ": null
+    },
+    {
+        "computer": "Computer"
+    },
+    {
+        "s.          The basic arithmetic operations are addition, subtraction, multiplication and division, although this subject also includes more advanced operations, such as manipulations of ": null
+    },
+    {
+        "percentage": "Percentage"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "square root": "Square Root"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "exponentiation": "Exponentiation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "logarithmic function": "Logarithmic Function"
+    },
+    {
+        "s, and even ": null
+    },
+    {
+        "trigonometric function": "Trigonometric Function"
+    },
+    {
+        "s, in the same vein as logarithms . Arithmetic expressions must be evaluated according to the intended sequence of operations. There are several methods to specify this, either—most common, together with ": null
+    },
+    {
+        "infix notation": "Infix Notation"
+    },
+    {
+        "—explicitly using parentheses, and relying on ": null
+    },
+    {
+        "precedence rules": "Order Of Operations"
+    },
+    {
+        ", or using a ": null
+    },
+    {
+        "pre–": "Polish Notation"
+    },
+    {
+        " or ": null
+    },
+    {
+        "postfix": "Reverse Polish Notation"
+    },
+    {
+        " notation, which uniquely fix the order of execution by themselves. Any set of objects upon which all four arithmetic operations can be performed, and where these four operations obey the usual laws , is called a ": null
+    },
+    {
+        "field": "Field Mathematics"
+    },
+    {
+        ".           Addition is the most basic operation of arithmetic. In its simple form, addition combines two numbers, the addends or  terms , into a single number, the sum of the numbers .     Adding finitely many numbers can be viewed as repeated simple addition; this procedure is known as ": null
+    },
+    {
+        "summation": "Summation"
+    },
+    {
+        ", a term also used to denote the definition for adding infinitely many numbers in an ": null
+    },
+    {
+        "infinite series": "Series"
+    },
+    {
+        ". Repeated addition of the number  ": null
+    },
+    {
+        "1": "One"
+    },
+    {
+        " is the most basic form of ": null
+    },
+    {
+        "counting": "Counting"
+    },
+    {
+        "; the result of adding  is usually called the ": null
+    },
+    {
+        "successor": "Successor Function"
+    },
+    {
+        " of the original number.     Addition is ": null
+    },
+    {
+        "commutative": "Commutative"
+    },
+    {
+        " and ": null
+    },
+    {
+        "associative": "Associative"
+    },
+    {
+        ", so the order in which finitely many terms are added does not matter. The ": null
+    },
+    {
+        "identity element": "Identity Element"
+    },
+    {
+        " for a ": null
+    },
+    {
+        "binary operation": "Binary Operation"
+    },
+    {
+        " is the number that, when combined with any number, yields the same number as the result. According to the rules of addition, adding   to any number yields that same number, so  is the ": null
+    },
+    {
+        "additive identity": "Additive Identity"
+    },
+    {
+        ". The  inverse of a number with respect to a ": null
+    },
+    {
+        "binary operation": "Binary Operation"
+    },
+    {
+        " is the number that, when combined with any number, yields the identity with respect to this operation. So the inverse of a number with respect to addition  is the number that yields the additive identity,  , when added to the original number; it is immediately obvious that this is the negative of the original number. For example, the additive inverse of  is , since .     Addition can be interpreted geometrically as in the following example:   :If we have two sticks of lengths 2 and 5, then, if we place the sticks one after the other, the length of the stick thus formed is 7, since .             Subtraction is the inverse operation to addition. Subtraction finds the difference between two numbers, the minuend minus the subtrahend:  Resorting to the previously established addition, this is to say that the difference is the number that, when added to the subtrahend, results in the minuend:      For positive arguments  and  holds:   :If the minuend is larger than the subtrahend, the difference  is positive.   :If the minuend is smaller than the subtrahend, the difference  is negative.   In any case, if minuend and subtrahend are equal, the difference      Subtraction is neither ": null
+    },
+    {
+        "commutative": "Commutative Property"
+    },
+    {
+        " nor ": null
+    },
+    {
+        "associative": "Associative Property"
+    },
+    {
+        ". For that reason, in modern algebra the construction of this inverse operation is often discarded in favor of introducing the concept of inverse elements, as sketched under ": null
+    },
+    {
+        "Addition": "Addition"
+    },
+    {
+        ", and to look at subtraction as adding the additive inverse of the subtrahend to the minuend, that is . The immediate price of discarding the binary operation of subtraction is the introduction of the ": null
+    },
+    {
+        "unary operation": "Unary Operation"
+    },
+    {
+        ", delivering the additive inverse for any given number, and losing the immediate access to the notion of ": null
+    },
+    {
+        "difference": "Difference"
+    },
+    {
+        ", which is potentially misleading when negative arguments are involved.     For any representation of numbers there are methods for calculating results, some of which are particularly advantageous in exploiting procedures, existing for one operation, by small alterations also for others. For example, digital computers can reuse existing adding-circuitry and save additional circuits for implementing a subtraction by employing the method of ": null
+    },
+    {
+        "twos complement": "Twos Complement"
+    },
+    {
+        " for representing the additive inverses, which is extremely easy to implement in hardware . The trade-off is the halving of the number range for a fixed word length.     A formerly wide spread method to achieve a correct change amount, knowing the due and given amounts, is the counting up method, which does not explicitly generate the value of the difference. Suppose an amount P is given in order to pay the required amount Q, with P greater than Q. Rather than explicitly performing the subtraction P − Q C and counting out that amount C in change, money is counted out starting with the successor of Q, and continuing in the steps of the currency, until P is reached. Although the amount counted out must equal the result of the subtraction P − Q, the subtraction was never really done and the value of P − Q is not supplied by this method.          Multiplication is the second basic operation of arithmetic. Multiplication also combines two numbers into a single number, the product. The two original numbers are called the multiplier and the multiplicand, mostly both are simply called factors.     Multiplication may be viewed as a scaling operation. If the numbers are imagined as lying in a line, multiplication by a number, say x, greater than  1 is the same as stretching everything away from  0 uniformly, in such a way that the number  1 itself is stretched to where x was. Similarly, multiplying by a number less than  1 can be imagined as squeezing towards  0.     Another view on multiplication of integer numbers, extendable to rationals, but not very accessible for real numbers, is by considering it as repeated addition. So  corresponds to either adding  times a , or  times a , giving the same result. There are different opinions on the advantageousness of these ": null
+    },
+    {
+        "paradigmata": "Multiplication And Repeated Addition"
+    },
+    {
+        " in math education.     Multiplication is commutative and associative; further, it is ": null
+    },
+    {
+        "distributive": "Distributivity"
+    },
+    {
+        " over addition and subtraction. The ": null
+    },
+    {
+        "multiplicative identity": "Multiplicative Identity"
+    },
+    {
+        " is  1, since multiplying any number by  1 yields that same number. The ": null
+    },
+    {
+        "multiplicative inverse": "Multiplicative Inverse"
+    },
+    {
+        " for any number except   is the ": null
+    },
+    {
+        "reciprocal": "Reciprocal"
+    },
+    {
+        " of this number, because multiplying the reciprocal of any number by the number itself yields the multiplicative identity .   is the only number without a multiplicative inverse, and the result of multiplying any number and  is again  One says that  is not contained in the multiplicative ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        " of the numbers.     The product of a and b is written as  or . When a or b are expressions not written simply with digits, it is also written by simple juxtaposition:  ab. In computer programming languages and software packages in which one can only use characters normally found on a keyboard, it is often written with an asterisk:       Algorithms implementing the operation of multiplication for various representations of numbers are by far more costly and laborious than those for addition. Those accessible for manual computation either rely on breaking down the factors to single place values and apply repeated addition, or employ ": null
+    },
+    {
+        "tables": "Mathematical Table"
+    },
+    {
+        " or ": null
+    },
+    {
+        "slide rules": "Slide Rules"
+    },
+    {
+        ", thereby mapping the multiplication to addition and back. These methods are outdated and replaced by mobile devices. Computers utilize diverse sophisticated and highly optimized algorithms to implement multiplication and division for the various number formats supported in their system.          Division is essentially the inverse operation to multiplication. Division finds the quotient of two numbers, the dividend divided by the divisor. Any dividend ": null
+    },
+    {
+        "divided by zero": "Division By Zero"
+    },
+    {
+        " is undefined. For distinct positive numbers, if the dividend is larger than the divisor, the quotient is greater than  1, otherwise it is less than  1 . The quotient multiplied by the divisor always yields the dividend.     Division is neither commutative nor associative. So as explained for ": null
+    },
+    {
+        "subtraction": "Subtraction"
+    },
+    {
+        ", in modern algebra the construction of the division is discarded in favor of constructing the inverse elements with respect to multiplication, as introduced ": null
+    },
+    {
+        "there": "Multiplication"
+    },
+    {
+        ". That is, division is a multiplication with the dividend and the ": null
+    },
+    {
+        "reciprocal": "Multiplicative Inverse"
+    },
+    {
+        " of the divisor as factors, that is      Within natural numbers there is also a different, but related notion, the ": null
+    },
+    {
+        "Euclidean division": "Euclidean Division"
+    },
+    {
+        ", giving two results of dividing a natural  by a natural  , first, a natural  and second, a natural  , such that  and ": null
+    }
+]

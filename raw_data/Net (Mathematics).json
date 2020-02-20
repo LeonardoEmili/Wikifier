@@ -1,0 +1,218 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", more specifically in ": null
+    },
+    {
+        "general topology": "General Topology"
+    },
+    {
+        " and related branches, a net or Moore & ndash;Smith sequence is a generalization of the notion of a ": null
+    },
+    {
+        "sequence": "Sequence"
+    },
+    {
+        ". In essence, a sequence is a ": null
+    },
+    {
+        "function": "Function"
+    },
+    {
+        " with domain the ": null
+    },
+    {
+        "natural number": "Natural Number"
+    },
+    {
+        "s, and in the context of topology, the ": null
+    },
+    {
+        "codomain": "Codomain"
+    },
+    {
+        " of this function is usually any ": null
+    },
+    {
+        "topological space": "Topological Space"
+    },
+    {
+        ". However, in the context of topology, sequences do not fully encode all information about a function between topological spaces. In particular, the following two conditions are not equivalent in general for a map f between topological spaces X and Y:     The map f is continuous    Given any point x in X, and any sequence in X converging to x, the composition of f with this sequence converges to f      It is true, however, that condition 1 implies condition 2. The difficulty encountered when attempting to prove that condition 2 implies condition 1 lies in the fact that topological spaces are, in general, not ": null
+    },
+    {
+        "first-countable": "First-Countable Space"
+    },
+    {
+        ".   If the first-countability axiom were imposed on the topological spaces in question, the two above conditions would be equivalent. In particular, the two conditions are equivalent for ": null
+    },
+    {
+        "metric space": "Metric Space"
+    },
+    {
+        "s.     The purpose of the concept of a net, first introduced by ": null
+    },
+    {
+        "E. H. Moore": "E. H. Moore"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Herman L. Smith": "Herman L. Smith"
+    },
+    {
+        " in 1922,  is to generalize the notion of a sequence so as to confirm the equivalence of the conditions . In particular, rather than being defined on a ": null
+    },
+    {
+        "countable": "Countable Set"
+    },
+    {
+        " linearly ordered": "Well-Ordered Set"
+    },
+    {
+        " set, a net is defined on an arbitrary ": null
+    },
+    {
+        "directed set": "Directed Set"
+    },
+    {
+        ". In particular, this allows theorems similar to that asserting the equivalence of condition  1 and condition  2, to hold in the context of topological spaces that do not necessarily have a countable or linearly ordered ": null
+    },
+    {
+        "neighbourhood basis": "Neighbourhood Basis"
+    },
+    {
+        " around a point. Therefore, while sequences do not encode sufficient information about functions between topological spaces, nets do, because collections of open sets in topological spaces are much like ": null
+    },
+    {
+        "directed sets": "Directed Set"
+    },
+    {
+        "in behaviour. The term net was coined by ": null
+    },
+    {
+        "John L. Kelley": "John L. Kelley"
+    },
+    {
+        ".  Megginson, p. 143     Nets are one of the many tools used in ": null
+    },
+    {
+        "topology": "Topology"
+    },
+    {
+        " to generalize certain concepts that may only be general enough in the context of ": null
+    },
+    {
+        "metric space": "Metric Space"
+    },
+    {
+        "s. A related notion, that of the ": null
+    },
+    {
+        "filter": "Filter"
+    },
+    {
+        ", was developed in 1937 by ": null
+    },
+    {
+        "Henri Cartan": "Henri Cartan"
+    },
+    {
+        ".         Let A be a ": null
+    },
+    {
+        "directed set": "Directed Set"
+    },
+    {
+        " with order relation ≥ and X be a topological space with topology T. A function f: A → X is said to be a net.     If A is a directed set, we often write a net from A to X in the form , which expresses the fact that the element α in A is mapped to the element x α in X.     A ": null
+    },
+    {
+        "subnet": "Subnet"
+    },
+    {
+        " is not merely the restriction of a net f to a directed subset of A; see the linked page for a definition.             Every non-empty ": null
+    },
+    {
+        "totally ordered set": "Total Order"
+    },
+    {
+        " is directed. Therefore, every function on such a set is a net. In particular, the ": null
+    },
+    {
+        "natural numbers": "Natural Number"
+    },
+    {
+        "with the usual order form such a set, and a sequence is a function on the natural numbers, so every sequence is a net.     Another important example is as follows. Given a point x in a topological space, let N x denote the set of all ": null
+    },
+    {
+        "neighbourhoods": "Neighbourhood"
+    },
+    {
+        "containing x. Then N x is a directed set, where the direction is given by reverse inclusion, so that S ≥ T ": null
+    },
+    {
+        "if and only if": "If And Only If"
+    },
+    {
+        " S is contained in T. For S in N x , let x S be a point in S. Then  is a net. As S increases with respect to ≥, the points x S in the net are constrained to lie in decreasing neighbourhoods of x, so intuitively speaking, we are led to the idea that x S must tend towards x in some sense. We can make this limiting concept precise.         If  is a net from a directed set A into X, and if Y is a subset of X, then we say that  is eventually in Y  if there exists an α in A so that for every β in A with β ≥ α, the point x β lies in Y.     If  is a net in the topological space X, and x is an element of X, we say that the net converges towards x or has limit x and write   :lim x α x   if and only if   :for every ": null
+    },
+    {
+        "neighborhood": "Topological Neighborhood"
+    },
+    {
+        " U of x,  is eventually in U.   Intuitively, this means that the values x α come and stay as close as we want to x for large enough α.     The example net given above on the ": null
+    },
+    {
+        "neighborhood system": "Neighborhood System"
+    },
+    {
+        " of a point x does indeed converge to x according to this definition.     Given a ": null
+    },
+    {
+        "base for the topology": "Base"
+    },
+    {
+        ", in order to prove convergence of a net it is necessary and sufficient to prove that there exists some point x, such that  is eventually in all members of the base containing this putative limit.         ": null
+    },
+    {
+        "Limit of a sequence": "Limit Of A Sequence"
+    },
+    {
+        " and ": null
+    },
+    {
+        "limit of a function": "Limit Of A Function"
+    },
+    {
+        ": see below.   Limits of nets of ": null
+    },
+    {
+        "Riemann sum": "Riemann Sum"
+    },
+    {
+        "s, in the definition of the ": null
+    },
+    {
+        "Riemann integral": "Riemann Integral"
+    },
+    {
+        ". In this example, the directed set is the set of ": null
+    },
+    {
+        "partitions of the interval": "Partition Of An Interval"
+    },
+    {
+        " of integration, partially ordered by inclusion.         Let φ be a net on X based on the directed set D and let A be a subset of X, then φ is said to be frequently in  A if for every α in D there exists some β ≥ α, β in D, so that φ is in A.     A point x in X is said to be an accumulation point or  cluster point  of a net if for every neighborhood U of x, the net is frequently in U.     A net φ on set X is called universal, or an ultranet if for every subset A of X, either φ is eventually in A or φ is eventually in X   & minus;  A.         Sequence in a topological space:     A sequence  in a topological space V can be considered a net in V defined on N.     The net is eventually in a subset Y of V if there exists an N in N such that for every n ≥ N, the point a n is in Y.     We have lim n a n L if and only if for every neighborhood Y of L, the net is eventually in Y.     The net is frequently in a subset Y of V if and only if for every N in N there exists some n ≥ N such that a n is in Y, that is, if and only if infinitely many elements of the sequence are in Y. Thus a point y in V is a cluster point of the net if and only if every neighborhood Y of y contains infinitely many elements of the sequence.     Function from a metric space to a topological space:     Consider a function from a metric space M to a topological space V, and a point c of M. We direct the set M\\ reversely according to distance from c, that is, the relation is has at least the same distance to c as , so that large enough with respect to the relation means close enough to c . The function ƒ is a net in V defined on M\\.     The net ƒ is eventually in a subset Y of V if there exists an a in M  \\   such that for every x in M  \\   with d ≤ d, the point f is in Y.     We have lim x → c ƒ L if and only if for every neighborhood Y of L, ƒ is eventually in Y.     The net ƒ is frequently in a subset Y of V if and only if for every a in M  \\   there exists some x in M  \\   with d ≤ d such that f is in Y.     A point y in V is a cluster point of the net ƒ if and only if for every neighborhood Y of y, the net is frequently in Y.     Function from a well-ordered set to a topological space:     Consider a ": null
+    },
+    {
+        "well-ordered set": "Well-Order"
+    },
+    {
+        " 0,  c with limit point c, and a function ƒ from 0, c": null
+    }
+]

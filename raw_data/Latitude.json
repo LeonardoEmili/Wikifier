@@ -1,0 +1,413 @@
+[
+    {
+        "           In ": null
+    },
+    {
+        "geography": "Geography"
+    },
+    {
+        ", latitude is a ": null
+    },
+    {
+        "geographic coordinate": "Geographic Coordinate System"
+    },
+    {
+        " that specifies the ": null
+    },
+    {
+        "north": "North"
+    },
+    {
+        "–": null
+    },
+    {
+        "south": "South"
+    },
+    {
+        " position of a point on the Earths surface. Latitude is an angle which ranges from 0° at the ": null
+    },
+    {
+        "Equator": "Equator"
+    },
+    {
+        " to 90° at the poles. Lines of constant latitude, or parallels, run east–west as circles parallel to the equator. Latitude is used together with ": null
+    },
+    {
+        "longitude": "Longitude"
+    },
+    {
+        " to specify the precise location of features on the surface of the Earth. On its own, the term latitude should be taken to be the geodetic latitude as defined below. Briefly, geodetic latitude at a point is the angle formed by the vector perpendicular  to the ellipsoidal surface from that point, and the equatorial plane. Also defined are six auxiliary latitudes which are used in special applications.       Two levels of abstraction are employed in the definition of latitude and longitude. In the first step the physical surface is modeled by the ": null
+    },
+    {
+        "geoid": "Geoid"
+    },
+    {
+        ", a surface which approximates the ": null
+    },
+    {
+        "mean sea level": "Sea Level"
+    },
+    {
+        " over the oceans and its continuation under the land masses. The second step is to approximate the geoid by a mathematically simpler reference surface. The simplest choice for the reference surface is a ": null
+    },
+    {
+        "sphere": "Sphere"
+    },
+    {
+        ", but the geoid is more accurately modeled by an ellipsoid. The definitions of latitude and longitude on such reference surfaces are detailed in the following sections. Lines of constant latitude and longitude together constitute a ": null
+    },
+    {
+        "graticule": "Geographic Coordinate System"
+    },
+    {
+        " on the reference surface. The latitude of a point on the actual surface is that of the corresponding point on the reference surface, the correspondence being along the ": null
+    },
+    {
+        "normal": "Normal"
+    },
+    {
+        " to the reference surface which passes through the point on the physical surface. Latitude and longitude together with some specification of ": null
+    },
+    {
+        "height": "Altitude"
+    },
+    {
+        " constitute a ": null
+    },
+    {
+        "geographic coordinate system": "Geographic Coordinate System"
+    },
+    {
+        " as defined in the specification of the ISO 19111 standard.     Since there are many different ": null
+    },
+    {
+        "reference ellipsoid": "Reference Ellipsoid"
+    },
+    {
+        "s, the precise latitude of a feature on the surface is not unique: this is stressed in the ISO standard which states that without the full specification of the coordinate reference system, coordinates are ambiguous at best and meaningless at worst . This is of great importance in accurate applications, such as a ": null
+    },
+    {
+        "Global Positioning System": "Global Positioning System"
+    },
+    {
+        " , but in common usage, where high accuracy is not required, the reference ellipsoid is not usually stated.     In English texts the latitude angle, defined below, is usually denoted by the Greek lower-case letter ": null
+    },
+    {
+        "phi": "Phi"
+    },
+    {
+        " . It is measured in ": null
+    },
+    {
+        "degrees": "Degree"
+    },
+    {
+        ", ": null
+    },
+    {
+        "minutes and seconds": "Arcminute"
+    },
+    {
+        " or ": null
+    },
+    {
+        "decimal degrees": "Decimal Degrees"
+    },
+    {
+        ", north or south of the equator.        The precise measurement of latitude requires an understanding of the gravitational field of the Earth, either to set up ": null
+    },
+    {
+        "theodolites": "Theodolite"
+    },
+    {
+        "or to determine GPS satellite orbits. The study of the ": null
+    },
+    {
+        "figure of the Earth": "Figure Of The Earth"
+    },
+    {
+        " together with its gravitational field is the science of ": null
+    },
+    {
+        "geodesy": "Geodesy"
+    },
+    {
+        ".        This article relates to coordinate systems for the Earth: it may be extended to cover the Moon, planets and other celestial objects by a simple change of nomenclature.              The graticule is formed by the lines of constant latitude and constant longitude, which are constructed with reference to the rotation axis of the Earth. The primary reference points are the ": null
+    },
+    {
+        "poles": "Geographical Pole"
+    },
+    {
+        " where the axis of rotation of the Earth intersects the reference surface. Planes which contain the rotation axis intersect the surface at the ": null
+    },
+    {
+        "meridians": "Meridian"
+    },
+    {
+        "; and the angle between any one meridian plane and that through Greenwich  defines the longitude: meridians are lines of constant longitude. The plane through the centre of the Earth and perpendicular to the rotation axis intersects the surface at a great circle called the ": null
+    },
+    {
+        "Equator": "Equator"
+    },
+    {
+        ". Planes parallel to the equatorial plane intersect the surface in circles of constant latitude; these are the parallels. The Equator has a latitude of 0°, the ": null
+    },
+    {
+        "North Pole": "North Pole"
+    },
+    {
+        " has a latitude of 90° North , and the ": null
+    },
+    {
+        "South Pole": "South Pole"
+    },
+    {
+        " has a latitude of 90° South . The latitude of an arbitrary point is the angle between the equatorial plane and the normal to the surface at that point: the normal to the surface of the sphere is along the radius vector.     The latitude, as defined in this way for the sphere, is often termed the spherical latitude, to avoid ambiguity with the geodetic latitude and the auxiliary latitudes defined in subsequent sections of this article.          Besides the equator, four other parallels are of significance:   :   The plane of the Earths orbit about the Sun is called the ": null
+    },
+    {
+        "ecliptic": "Ecliptic"
+    },
+    {
+        ", and the plane perpendicular to the rotation axis of the Earth is the equatorial plane. The angle between the ecliptic and the equatorial plane is called variously the axial tilt, the obliquity, or the inclination of the ecliptic, and it is conventionally denoted by . The latitude of the tropical circles is equal to  and the latitude of the polar circles is its complement . The axis of rotation varies slowly over time and the values given here are those for the current ": null
+    },
+    {
+        "epoch": "Epoch"
+    },
+    {
+        ". The time variation is discussed more fully in the article on ": null
+    },
+    {
+        "axial tilt": "Axial Tilt"
+    },
+    {
+        ".     The figure shows the geometry of a ": null
+    },
+    {
+        "cross-section": "Cross Section"
+    },
+    {
+        " of the plane perpendicular to the ecliptic and through the centres of the Earth and the Sun at the December ": null
+    },
+    {
+        "solstice": "Solstice"
+    },
+    {
+        " when the Sun is overhead at some point of the ": null
+    },
+    {
+        "Tropic of Capricorn": "Tropic Of Capricorn"
+    },
+    {
+        ". The south polar latitudes below the ": null
+    },
+    {
+        "Antarctic Circle": "Antarctic Circle"
+    },
+    {
+        " are in daylight, whilst the north polar latitudes above the Arctic Circle are in night. The situation is reversed at the June solstice, when the Sun is overhead at the Tropic of Cancer. Only at latitudes in between the two ": null
+    },
+    {
+        "tropics": "Tropics"
+    },
+    {
+        " is it possible for the Sun to be directly overhead .     On ": null
+    },
+    {
+        "map projections": "Map Projections"
+    },
+    {
+        " there is no universal rule as to how meridians and parallels should appear. The examples below show the named parallels on the commonly used ": null
+    },
+    {
+        "Mercator projection": "Mercator Projection"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Transverse Mercator projection": "Transverse Mercator Projection"
+    },
+    {
+        ". On the former the parallels are horizontal and the meridians are vertical, whereas on the latter there is no exact relationship of parallels and meridians with horizontal and vertical: both are complicated curves.          On the sphere the normal passes through the centre and the latitude  is   therefore equal to the angle subtended at the centre by the meridian arc from the equator to the point concerned. If the ": null
+    },
+    {
+        "meridian distance": "Meridian Arc"
+    },
+    {
+        " is denoted by  then   : m\\fracR\\phi_\\mathrm R\\phi_\\mathrm   where  denotes the ": null
+    },
+    {
+        "mean radius": "Earth Radiusmean Radii"
+    },
+    {
+        " of the Earth.  is equal to . No higher accuracy is appropriate for  since higher-precision results necessitate an ellipsoid model. With this value for  the meridian length of 1 degree of latitude on the sphere is  . The length of 1 minute of latitude is  , while the length of 1 second of latitude is  .                In 1687 ": null
+    },
+    {
+        "Isaac Newton": "Isaac Newton"
+    },
+    {
+        " published the  Philosophiæ Naturalis Principia Mathematica , in which he proved that a rotating self-gravitating fluid body in equilibrium takes the form of an ": null
+    },
+    {
+        "oblate": "Oblate Spheroid"
+    },
+    {
+        " ellipsoid.   Newtons result was confirmed by geodetic measurements in the 18th century.  An oblate ellipsoid is the three-dimensional surface generated by the rotation of an ellipse about its shorter axis . Oblate ellipsoid of revolution is abbreviated to ellipsoid in the remainder of this article.     Many different ": null
+    },
+    {
+        "reference ellipsoids": "Figure Of The Earth"
+    },
+    {
+        " have been used in the history of ": null
+    },
+    {
+        "geodesy": "Geodesy"
+    },
+    {
+        ". In pre-satellite days they were devised to give a good fit to the ": null
+    },
+    {
+        "geoid": "Geoid"
+    },
+    {
+        " over the limited area of a survey but, with the advent of ": null
+    },
+    {
+        "GPS": "Gps"
+    },
+    {
+        ", it has become natural to use reference ellipsoids  with centre at the centre of mass of the Earth and minor axis aligned to the rotation axis of the Earth. These geocentric ellipsoids are usually within  of the geoid. Since latitude is defined with respect to an ellipsoid, the position of a given point is different on each ellipsoid: one cannot exactly specify the latitude and longitude of a geographical feature without specifying the ellipsoid used. Many maps maintained by national agencies are based on older ellipsoids, so one must know how the latitude and longitude values are transformed from one ellipsoid to another. GPS handsets include software to carry out ": null
+    },
+    {
+        "datum transformations": "Datum"
+    },
+    {
+        " which link WGS84 to the local reference ellipsoid with its associated grid.            The shape of an ellipsoid of revolution is determined by the shape of the ": null
+    },
+    {
+        "ellipse": "Ellipse"
+    },
+    {
+        " which is rotated about its minor axis. Two parameters are required. One is invariably the equatorial radius, which is the ": null
+    },
+    {
+        "semi-major axis": "Ellipse"
+    },
+    {
+        ", . The other parameter is usually  the polar radius or ": null
+    },
+    {
+        "semi-minor axis": "Ellipse"
+    },
+    {
+        ", ; or  the ": null
+    },
+    {
+        "flattening": "Flattening"
+    },
+    {
+        ", ; or  the ": null
+    },
+    {
+        "eccentricity": "Ellipse"
+    },
+    {
+        ", . These parameters are not independent: they are related by     : f\\frac, \\qquad e^22f-f^2,\\qquad baa\\sqrt\\,.   Many other parameters  appear in the study of geodesy, geophysics and map projections but they can all be expressed in terms of one or two members of the set , ,  and . Both  and  are small and often appear in series expansions in calculations; they are of the order  and 0.08 respectively. Values for a number of ellipsoids are given in ": null
+    },
+    {
+        "Figure of the Earth": "Figure Of The Earth"
+    },
+    {
+        ". Reference ellipsoids are usually defined by the semi-major axis and the inverse flattening, . For example, the defining values for the ": null
+    },
+    {
+        "WGS84": "Wgs84"
+    },
+    {
+        " ellipsoid, used by all GPS devices, are     :  exactly    :  exactly   from which are derived    :   :    The difference between the semi-major and semi-minor axes is about  and as fraction of the semi-major axis it equals the flattening; on a computer monitor the ellipsoid could be sized as 300 by 299 pixels. This would barely be distinguishable from a 300-by-300-pixel sphere, so illustrations usually exaggerate the flattening.          The graticule on the ellipsoid is constructed in exactly the same way as on the sphere. The normal at a point on the surface of an ellipsoid does not pass through the centre, except for points on the equator or at the poles, but the definition of latitude remains unchanged as the angle between the normal and the equatorial plane. The terminology for latitude must be made more precise by distinguishing:     Geodetic latitude: the angle between the normal and the equatorial plane. The standard notation in English publications is . This is the definition assumed when the word latitude is used without qualification. The definition must be accompanied with a specification of the ellipsoid.   Geocentric latitude: the angle between the radius and the equatorial plane. . There is no standard notation: examples from various texts include , , , , , . This article uses .   Spherical latitude: the angle between the normal to a spherical reference surface and the equatorial plane.   Geographic latitude must be used with care. Some authors use it as a synonym for geodetic latitude whilst others use it as an alternative to the ": null
+    },
+    {
+        "astronomical latitude": "Astronomical Latitude"
+    },
+    {
+        ".   Latitude should normally refer to the geodetic latitude.     The importance of specifying the reference datum may be illustrated by a simple example. On the reference ellipsoid for WGS84, the centre of the ": null
+    },
+    {
+        "Eiffel Tower": "Eiffel Tower"
+    },
+    {
+        " has a geodetic latitude of 48°  51′  29″  N, or 48.8583°  N and longitude of 2°  17′  40″  E or 2.2944°E. The same coordinates on the datum ": null
+    },
+    {
+        "ED50": "Ed50"
+    },
+    {
+        " define a point on the ground which is  distant from the tower. A web search may produce several different values for the latitude of the tower; the reference ellipsoid is rarely specified.          In ": null
+    },
+    {
+        "Meridian arc": "Meridian Arc"
+    },
+    {
+        " and standard texts  it is shown that the distance along a meridian from latitude  to the equator is given by      : m \\int_0^\\phi M\\, d\\phi a\\left\\int_0^\\phi \\left^\\, d\\phi     where  is the meridional ": null
+    },
+    {
+        "radius of curvature": "Radius Of Curvature"
+    },
+    {
+        ".     The distance from the equator to the pole is     : m_\\mathrm m\\left\\,     For ": null
+    },
+    {
+        "WGS84": "Wgs84"
+    },
+    {
+        " this distance is .     The evaluation of the meridian distance integral is central to many studies in geodesy and map projection. It can be evaluated by expanding the integral by the binomial series and integrating term by term: see ": null
+    },
+    {
+        "Meridian arc": "Meridian Arc"
+    },
+    {
+        " for details. The length of the meridian arc between two given latitudes is given by replacing the limits of the integral by the latitudes concerned. The length of a small meridian arc is given by  for LaTeX code and figures.      : \\delta m M\\, \\delta\\phi a\\left \\left^\\, \\delta\\phi          When the latitude difference is 1 degree, corresponding to  radians, the arc distance is about   : \\Delta^1_\\text \\frac     The distance in metres between latitudes \\phi  −  0.5 degrees and \\phi  +  0.5 degrees on the WGS84 spheroid is   : \\Delta^1_\\text 111\\,132.954 - 559.822\\cos 2\\phi + 1.175\\cos 4\\phi     The variation of this distance with latitude  is shown in the table along with the ": null
+    },
+    {
+        "length of a degree of longitude": "Length Of A Degree Of Longitude"
+    },
+    {
+        " :   : \\Delta^1_\\text \\frac\\,      A calculator for any latitude is provided by the U.S. Governments ": null
+    },
+    {
+        "National Geospatial-Intelligence Agency": "National Geospatial-Intelligence Agency"
+    },
+    {
+        " .      The following graph illustrates the variation of both a degree of latitude and a degree of longitude with latitude.          Historically a ": null
+    },
+    {
+        "nautical mile": "Nautical Mile"
+    },
+    {
+        " was defined as the length of one minute of arc along a meridian of a spherical earth. An ellipsoid model leads to a variation of the nautical mile with latitude. This was resolved by defining the nautical mile to be exactly 1,852 metres. However for all practical purposes distances are measured from the latitude scale of charts. As the ": null
+    },
+    {
+        "Royal Yachting Association": "Royal Yachting Association"
+    },
+    {
+        " says in its manual for ": null
+    },
+    {
+        "day skipper": "Day Skipper"
+    },
+    {
+        "s: 1 of Latitude 1 sea mile , followed by For most practical purposes distance is measured from the latitude scale, assuming that one minute of latitude equals one nautical mile .          There are six auxiliary latitudes that have applications to special problems in geodesy, geophysics and the theory of map projections:   Geocentric latitude   Parametric latitude   Rectifying latitude   Authalic latitude   Conformal latitude   Isometric latitude   The definitions given in this section all relate to locations on the reference ellipsoid but the first two auxiliary latitudes, like the geodetic latitude, can be extended to define a three-dimensional ": null
+    },
+    {
+        "geographic coordinate system": "Geographic Coordinate System"
+    },
+    {
+        " as discussed ": null
+    },
+    {
+        "below": "Latitude And Coordinate Systems"
+    },
+    {
+        ". The remaining latitudes are not used in this way; they are used only as intermediate constructs in map projections of the reference ellipsoid to the plane or in calculations of geodesics on the ellipsoid. Their numerical values are not of interest. For example, no one would need to calculate the authalic latitude of the Eiffel Tower.     The expressions below give the auxiliary latitudes in terms of the geodetic latitude, the semi-major axis, , and the eccentricity, .  The forms given are, apart from notational variants, those in the standard reference for map projections, namely Map projections: a working manual by J. P. Snyder.  Derivations of these expressions may be found in Adams ": null
+    }
+]

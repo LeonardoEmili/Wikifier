@@ -1,0 +1,605 @@
+[
+    {
+        "      The Original Chip Set  is a ": null
+    },
+    {
+        "chipset": "Chipset"
+    },
+    {
+        " used in the earliest ": null
+    },
+    {
+        "Commodore": "Commodore International"
+    },
+    {
+        " Amiga": "Amiga"
+    },
+    {
+        " computers and defined the Amigas graphics and sound capabilities. It was succeeded by the slightly improved ": null
+    },
+    {
+        "Enhanced Chip Set": "Enhanced Chip Set"
+    },
+    {
+        " and greatly improved ": null
+    },
+    {
+        "Advanced Graphics Architecture": "Advanced Graphics Architecture"
+    },
+    {
+        " .     The original chipset appeared in Amiga models built between 1985 and 1990: the ": null
+    },
+    {
+        "Amiga  1000": "Amiga & Nbsp;1000"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Amiga  2000": "Amiga & Nbsp;2000"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Amiga  CDTV": "Amiga & Nbsp;Cdtv"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Amiga  500": "Amiga & Nbsp;500"
+    },
+    {
+        ".       The chipset which gave the Amiga its unique graphics features consists of three main custom chips; Agnus, Denise, and Paula. Both the original chipset and the enhanced chipset were manufactured using ": null
+    },
+    {
+        "NMOS logic": "Nmos Logic"
+    },
+    {
+        " technology by ": null
+    },
+    {
+        "Commodores": "Commodore International"
+    },
+    {
+        " chip manufacturing": "Semiconductor Fabrication"
+    },
+    {
+        " subsidiary, ": null
+    },
+    {
+        "MOS Technology": "Mos Technology"
+    },
+    {
+        ". According to ": null
+    },
+    {
+        "Jay Miner": "Jay Miner"
+    },
+    {
+        ", the OCS chipset was fabricated in 5  µm manufacturing process while ": null
+    },
+    {
+        "AGA": "Amiga Advanced Graphics Architecture"
+    },
+    {
+        " Lisa was implemented in 1.5  µm process. All three custom chips were originally packaged in 48-pin ": null
+    },
+    {
+        "DIP": "Dual In-Line Package"
+    },
+    {
+        "s; later versions of Agnus, known as Fat Agnus, were packaged in an 84-pin ": null
+    },
+    {
+        "PLCC": "Plastic Leaded Chip Carrier"
+    },
+    {
+        ".     Agnus is the central chip in the design. It controls all access to ": null
+    },
+    {
+        "chip RAM": "Chip Ram"
+    },
+    {
+        " from both the central ": null
+    },
+    {
+        "68000": "Motorola 68000"
+    },
+    {
+        " processor and the other custom chips, using a complicated priority system. Agnus includes sub-components known as the blitter and the Copper . The original Agnus can address  of ": null
+    },
+    {
+        "chip RAM": "Chip Ram"
+    },
+    {
+        ". Later revisions, dubbed Fat Agnus, added  pseudo-fast RAM, which for ECS was changed to 1  MB and subsequently to 2  MB chip RAM.     Denise is the main video processor. Without using ": null
+    },
+    {
+        "overscan": "Overscan"
+    },
+    {
+        ", the Amigas graphics display is 320 or 640 ": null
+    },
+    {
+        "pixels": "Pixel"
+    },
+    {
+        "wide by 200  or 256  pixels tall. Denise also supports ": null
+    },
+    {
+        "interlacing": "Interlacing"
+    },
+    {
+        ", which doubles the vertical resolution, at the cost of intrusive flickering on typical monitors of that era. ": null
+    },
+    {
+        "Planar": "Planar"
+    },
+    {
+        " bitmap graphics": "Bitmap Graphics"
+    },
+    {
+        " are used, which splits the individual ": null
+    },
+    {
+        "bits per pixel": "Bits Per Pixel"
+    },
+    {
+        " into separate areas of memory, called ": null
+    },
+    {
+        "bitplanes": "Bitplanes"
+    },
+    {
+        ". In normal operation, Denise allows between one and five bitplanes, giving two to 32 unique colors. These colors are selected from a ": null
+    },
+    {
+        "palette": "Palette"
+    },
+    {
+        " of 4096 colors . A 6th bitplane is available for two special video modes: ": null
+    },
+    {
+        "Halfbrite mode": "Halfbrite Mode"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Hold-And-Modify": "Hold-And-Modify"
+    },
+    {
+        " mode. Denise also supports eight ": null
+    },
+    {
+        "sprites": "Sprite"
+    },
+    {
+        ", single pixel scrolling, and a dual-playfield mode. Denise also handles mouse and digital joystick input.     Paula is primarily the audio chip, with four independent hardware-mixed ": null
+    },
+    {
+        "8-bit": "8-Bit"
+    },
+    {
+        " PCM": "Pulse-Code Modulation"
+    },
+    {
+        " sound channels, each of which supports 65 volume levels and waveform output rates from roughly 20 samples per second to almost 29,000 samples per second. Paula also handles ": null
+    },
+    {
+        "interrupts": "Interrupts"
+    },
+    {
+        " and various ": null
+    },
+    {
+        "I/O": "Input/Output"
+    },
+    {
+        " functions including the ": null
+    },
+    {
+        "floppy disk drive": "Floppy Disk Drive"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "serial port": "Serial Port"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "analog joystick": "Analog Joystick"
+    },
+    {
+        "s.     There are many similarities both in overall functionality and in the division of functionality into the three component chips between the OCS chipset and the much earlier and simpler chipset of the ": null
+    },
+    {
+        "Atari 8-bit family": "Atari 8-Bit Family"
+    },
+    {
+        " of home computers, consisting of the ": null
+    },
+    {
+        "ANTIC": "Antic"
+    },
+    {
+        ", ": null
+    },
+    {
+        "GTIA": "Atari 8-Bit Tia"
+    },
+    {
+        " and ": null
+    },
+    {
+        "POKEY": "Pokey"
+    },
+    {
+        " chips; both chipsets were conceptually designed by ": null
+    },
+    {
+        "Jay Miner": "Jay Miner"
+    },
+    {
+        ", which explains the similarity.          The Agnus chip is in overall control of the entire chipsets operation. All operations are synchronised to the position of the video beam. This includes access to the built-in ": null
+    },
+    {
+        "RAM": "Random Access Memory"
+    },
+    {
+        ", known as ": null
+    },
+    {
+        "chip RAM": "Chip Ram"
+    },
+    {
+        " because the chipset has access to it. Both the central ": null
+    },
+    {
+        "68000": "68000"
+    },
+    {
+        " processor and other members of the chipset have to arbitrate for access to chip RAM via Agnus. In computing architecture terms, this is ": null
+    },
+    {
+        "Direct Memory Access": "Direct Memory Access"
+    },
+    {
+        " , where Agnus is the DMA Controller .     Agnus has a complex and priority-based memory access policy that attempts to best coordinate requests for memory access among competing resources. For example, bitplane data fetches are prioritized over blitter transfers as the immediate display of frame buffer data is considered more important than the processing of memory by the blitter. Agnus also attempts to order accesses in such a way so as to overlap CPU bus cycles with DMA cycles. As the original 68000 processor in Amigas tended only to access memory on every second available memory cycle, Agnus operates a system where odd memory access cycles are allocated first and as needed to time-critical custom chip DMA while any remaining cycles are available to the CPU, thus the CPU does not generally get locked out of memory access and does not appear to slow down. However, non-time-critical custom chip access, such as blitter transfers, can use up any spare odd or even cycles and, if the BLITHOG flag is set, Agnus can lock out the even cycles from the ": null
+    },
+    {
+        "CPU": "Central Processing Unit"
+    },
+    {
+        " in deference to the blitter.     Agnuss timings are measured in color clocks of 280  ": null
+    },
+    {
+        "ns": "Nanosecond"
+    },
+    {
+        ". This is equivalent to two low resolution pixels or four high resolution pixels. Like Denise, these timings were designed for display on household ": null
+    },
+    {
+        "TV": "Television"
+    },
+    {
+        "s, and can be synchronized to an external clock source.       The  blitter  is a sub-component of Agnus. Blit is shorthand for block image transfer or ": null
+    },
+    {
+        "bit blit": "Bit Blit"
+    },
+    {
+        ". The blitter is a highly parallel memory transfer and logic operation unit. It has three modes of operation: copying blocks of memory, filling blocks and line drawing.     The blitter allows the rapid copying of video memory, meaning that the CPU can be freed for other tasks. The blitter was primarily used for drawing and redrawing graphics images on the screen, called bobs , short for blitter objects .     The blitters block copying mode takes zero to three data sources in memory, called A, B and C, performs a programmable ": null
+    },
+    {
+        "boolean": "Boolean Algebra"
+    },
+    {
+        " function on the data sources and writes the result to a destination area, D. Any of these four areas can overlap. The blitter runs either from the start of the block to the end, known as ascending mode, or in reverse, descending mode.     Blocks are rectangular ; they have a width in multiples of 16 bits, a height measured in lines , and a stride distance to move from the end of one line to the next. This allows the blitter to operate on any video resolution up to 1,024×1,024 pixels. The BLTSIZE register holds six bits for horizontal words and ten bits for vertical lines. The copy automatically performs a per-pixel logical operation. These operations are described generically using ": null
+    },
+    {
+        "minterms": "Minterms"
+    },
+    {
+        ". This is most commonly used to do direct copies , or apply a pixel mask around blitted objects . The copy can also barrel shift each line by 0 to 15 pixels. This allows the blitter to draw at pixel offsets that are not exactly multiples of 16.     These functions allow the Amiga to move GUI windows around the screen rapidly as each is represented in graphical memory space as a rectangular block of memory which may be shifted to any required screen memory location at will.     The blitters line mode draws single-pixel thick lines using ": null
+    },
+    {
+        "Bresenhams line algorithm": "Bresenhams Line Algorithm"
+    },
+    {
+        ". It can also apply a ": null
+    },
+    {
+        "16-bit": "16-Bit"
+    },
+    {
+        " repeating pattern to the line. The line mode can also be used to draw rotated bobs: each line of bob data is used as line pattern while the line mode draws the tilted bob line by line.     The blitters filling mode is used to fill per-line horizontal spans. On each span, it reads each pixel in turn from right to left. Whenever it reads a set pixel, it toggles filling mode on or off. When filling mode is on, it sets every pixel until filling mode is turned off or the line ends. Together, these modes allow the blitter to draw individual flat-shaded polygons. Later Amigas tended to use a combination of a faster CPU and blitter for many operations.       The Copper is another sub-component of Agnus; The name is short for co-processor . The Copper is a programmable ": null
+    },
+    {
+        "finite state machine": "Finite State Machine"
+    },
+    {
+        " that executes a programmed instruction stream, synchronized with the video hardware.     When it is turned on, the Copper has three states; either reading an instruction, executing it, or waiting for a specific video beam position. The Copper runs a program called the Copper list in parallel with the main ": null
+    },
+    {
+        "CPU": "Central Processing Unit"
+    },
+    {
+        ". The Copper runs in sync with the video beam, and it can be used to perform various operations which require video synchronization. Most commonly it is used to control video output, but it can write to most of the chipset registers and thus can be used to initiate blits, set audio registers, or interrupt the CPU.     The Copper list has three kinds of instructions, each one being a pair of two bytes, four bytes in total:     The MOVE instruction writes a 16-bit value into one of the chipsets hardware registers and is also used to strobe a new address into the Coppers instruction pointer.   The WAIT instruction halts Copper execution until a given beam position is reached, thus making possible to synchronize other instructions with respect to screen drawing. It can also wait for a blitter operation to finish.   The SKIP instruction will skip the following Copper instruction if a given beam position has already been reached. This can be used to create Copper list loops.     The length of the Copper list program is limited by execution time. The Copper restarts executing the Copper list at the start of each new video frame. There is no explicit end instruction; instead, the WAIT instruction is used to wait for a location which is never reached.       The Copper is most commonly used to set and reset the video hardware registers at the beginning of each frame.   It can be used to change video settings mid-frame. This allows the Amiga to change video configuration, including resolution, between ": null
+    },
+    {
+        "scanline": "Scanline"
+    },
+    {
+        "s. This allows the Amiga to display different horizontal resolutions, different color depths, and entirely different frame buffers on the same screen. The ": null
+    },
+    {
+        "AmigaOS": "Amigaos"
+    },
+    {
+        " graphical user interface allows two or more programs to operate at different resolutions in different buffers, while all are visible on the screen simultaneously. A paint program might use this feature to allow users to draw directly on a low resolution ": null
+    },
+    {
+        "Hold-And-Modify": "Hold-And-Modify"
+    },
+    {
+        " screen, while offering a high resolution toolbar at the top or bottom of the screen.   The Copper can also change color registers mid-frame, creating the ": null
+    },
+    {
+        "raster bars": "Raster Bar"
+    },
+    {
+        " effect seen commonly in Amiga games. The Copper can go further than this and change the background color often enough to make a blocky graphics display without using any bitmap graphics at all.   The Copper allows re-use of sprites; after a sprite has been drawn at its programmed location, the Copper can then immediately move it to a new location and it will be drawn again, even on the same scanline.   The Copper can trigger an interrupt when the video beam reaches a precise location on the display. This is useful for synchronizing the CPU to the video beam.   The Copper can also be used to program and operate the blitter. This allows blitter operation and control to proceed independently of, and concurrently with, the CPU.   The Copper can be used to produce sliced ": null
+    },
+    {
+        "HAM": "Hold-And-Modify"
+    },
+    {
+        " , or S-HAM, Invented in 1989 by Rhett Anderson  this consists of building a Copper list that switches the palette on every scanline, improving the choice of base colors in ": null
+    },
+    {
+        "Hold And Modify": "Hold And Modify"
+    },
+    {
+        " mode graphics.       Under normal circumstances, the Amiga generates its own video timings, but Agnus also supports synchronising the system to an external signal so as to achieve ": null
+    },
+    {
+        "genlock": "Genlock"
+    },
+    {
+        "ing with external video hardware. There is also a 1-bit output on this connector that indicates whether the Amiga is outputting background color or not, permitting easy overlaying of Amiga video onto external video. This made the Amiga particularly attractive as a character generator for titling videos and broadcast work, as it avoided the use and expense of ": null
+    },
+    {
+        "AB roll": "Ab Roll"
+    },
+    {
+        " and ": null
+    },
+    {
+        "chromakey": "Chromakey"
+    },
+    {
+        " units that would be required without the genlock support. The support of overscan, interlacing and genlocking capabilities, and the fact that the display timing was very close to broadcast standards , made the Amiga the first ideal computer for video purposes, and indeed, it was used in many studios for digitizing video data , subtitling and interactive video news.       Denise is programmed to fetch ": null
+    },
+    {
+        "planar": "Planar"
+    },
+    {
+        " video data from one to five bitplanes and translate that into a ": null
+    },
+    {
+        "color lookup": "Color Look-Up Table"
+    },
+    {
+        ". The number of bitplanes is arbitrary, thus if 32 colors are not needed, 2, 4, 8 or 16 can be used instead. The number of bitplanes can be changed on the fly, usually by the Copper. This allows for very economical use of RAM, and balancing of CPU processing speed vs graphical sophistication when executing from Chip RAM . There can also be a sixth bitplane, which can be used in three special graphics modes:     In ": null
+    },
+    {
+        "Extra-HalfBrite": "Halfbrite Mode"
+    },
+    {
+        " , if a pixel is set on the sixth bitplane, the brightness of the regular 32 color pixel is halved. Early versions of the ": null
+    },
+    {
+        "Amiga  1000": "Amiga & Nbsp;1000"
+    },
+    {
+        " sold in the ": null
+    },
+    {
+        "United States": "United States"
+    },
+    {
+        " did not have the Extra-HalfBrite mode.      In ": null
+    },
+    {
+        "Hold-and-Modify": "Hold-And-Modify"
+    },
+    {
+        " mode, each 6-bit pixel is interpreted as two control bits and four data bits. The four possible permutations of control bits are set , modify red , modify green and modify blue . With set , the four data bits act like a regular 16-color display look up. With one of the modify s, the red, green or blue component of the previous pixel is modified to the data value, and the other two components are held from the previous pixel. This allows all 4096 colors on screen at once and is an example of ": null
+    },
+    {
+        "lossy image compression": "Lossy Compression"
+    },
+    {
+        " in hardware.     In dual-playfield mode, instead of acting as a single screen, two playfields of eight colors each are drawn on top of each other. They are independently scrollable and the background color of the top playfield shines through to the underlying playfield.     There are two horizontal graphics resolutions, lowres with 140  ns pixels and hires with 70  ns pixels, with a default of 320 or 640 horizontal pixels wide without using overscan. As the pixel output is regulated by the main system clock, which is based directly on the NTSC colorburst clock, these sizes very nearly fill the width of a standard television with only a thin underscan border between the graphics and the screen border when compared to many other contemporary home computers, for an appearance closer to a games console but with finer detail. On top of this, Denise supports reasonably extensive overscan; technically modes with enough data for up to 400 or 800 pixels may be specified, although this is only actually useful for scrolling and special effects that involve partial display of large graphics, as a separate hardware limit is met at 368 pixels, which is the maximum that will fit between the end of one blanking period and the start of the next - although it is unlikely that even this many pixels will be visible on any display other than a dedicated monitor that allows adjustment of horizontal scan width, as much of the image will, by design, disappear seamlessly behind the screen bezel .   Because of the highly regular structure of the Amigas timing in relation to scanlines and allocation of DMA resources to various uses besides normal playfield graphics, increased horizontal resolution is also a tradeoff between number of pixels and how many hardware sprites are available, as increasing the DMA slots dedicated to playfield video ends up stealing some the sprite engine.  . Vertical resolution, without overscan, is 200 pixels for a 60  Hz NTSC Amiga or 256 for a 50  Hz PAL Amiga. This can be doubled using an ": null
+    },
+    {
+        "interlace": "Interlaced Video"
+    },
+    {
+        "d display, and, as with horizontal resolution, increased using overscan, to a maximum of 241 for NTSC, and 283 for PAL .     Denise can composite up to eight 16 pixel wide ": null
+    },
+    {
+        "sprites": "Sprite"
+    },
+    {
+        " per scan line on top, underneath, or between playfields, and detect collisions between sprites and the playfields or between sprites. These sprites have three visible colors and one transparent color. Optionally, adjacent pairs of sprites can be attached to make a single 15 color sprite. Using Copper or CPU register manipulations, each sprite channel can be reused multiple times in a single frame to increase the total sprites per frame. Sprite position registers may also be changed during a scanline, increasing the total number of sprites on a single scanline. However, the sprite data, or shape, is only fetched a single time per scanline and cant change. The first Amiga game to utilize the sprite re-position registers during a scanline was ": null
+    },
+    {
+        "Hybris": "Hybris"
+    },
+    {
+        " released in 1988.     Finally, Denise is responsible for handling mouse/joystick X/Y inputs.             The Paula chip, from ": null
+    },
+    {
+        "MOS Technology": "Mos Technology"
+    },
+    {
+        ", includes logic for audio playback, floppy disk drive control, serial port ": null
+    },
+    {
+        "input/output": "Input/Output"
+    },
+    {
+        " and mouse/joystick buttons two and three signals. The logic remained functionally identical across all Amiga models from Commodore.       Paula has four ": null
+    },
+    {
+        "DMA": "Direct Memory Access"
+    },
+    {
+        "-driven 8-bit ": null
+    },
+    {
+        "PCM": "Pulse-Code Modulation"
+    },
+    {
+        " sample sound channels. Two sound channels are mixed into the left audio output, and the other two are mixed into the right output, producing ": null
+    },
+    {
+        "stereo": "Stereophonic Sound"
+    },
+    {
+        " audio output. The only supported hardware sample format is signed linear 8-bit ": null
+    },
+    {
+        "twos complement": "Twos Complement"
+    },
+    {
+        ". Each sound channel has an independent frequency and a 6-bit volume control . Internally, the audio hardware is implemented by four state machines, each having eight different states.     Additionally the hardware allows one channel in a channel pair to modulate the other channels period or amplitude. It is rarely used on the Amiga due to both frequency and volume being controllable in better ways, but could be used to achieve different kinds of ": null
+    },
+    {
+        "tremolo": "Tremolo"
+    },
+    {
+        " and ": null
+    },
+    {
+        "vibrato": "Vibrato"
+    },
+    {
+        ", and even rudimentary ": null
+    },
+    {
+        "FM synthesis": "Fm Synth"
+    },
+    {
+        " effects.     Audio may be output using two methods. Most often, DMA-driven audio is used. As explained in the discussion of Agnus, memory access is prioritized and one DMA slot per scan line is available for each of the four sound channels. On a regular NTSC or PAL display, DMA audio playback is limited to a maximum output rate of 28867 values per channel per second totaling 57674 values per second on each stereo output. This rate can be increased with the ECS and AGA chipsets by using a video mode with higher ": null
+    },
+    {
+        "horizontal scan rate": "Horizontal Scan Rate"
+    },
+    {
+        ".     Alternately, Paula may signal the CPU to load a new sample into any of the four audio output buffers by generating an interrupt when a new sample is needed. This allows for output rates that exceed 57  kHz per channel and increases the number of possible voices through software mixing.     The Amiga contains an analog ": null
+    },
+    {
+        "low-pass filter": "Low-Pass Filter"
+    },
+    {
+        "  which is external to Paula. The filter is a 12  dB/oct ": null
+    },
+    {
+        "Butterworth": "Butterworth Filter"
+    },
+    {
+        " low-pass filter at approximately 3.3  kHz. The filter can only be applied globally to all four channels. In models after the Amiga  1000 , the brightness of the power LED is used to indicate the status of the filter. The filter is active when the LED is at normal brightness, and deactivated when dimmed . Models released before Amiga 1200 also have a static tone knob type low-pass filter that is enabled regardless of the optional LED filter . This filter is a 6  dB/oct low-pass filter with cutoff frequency at 4.5 or 5  kHz.     A software technique was later developed which can play back 14-bit audio by combining two channels set at different volumes. This results in two 14-bit channels instead of four 8-bit channels. This is achieved by playing the high byte of a 16-bit sample at maximum volume, and the low byte at minimum volume . The bit shift operation requires a small amount of CPU or blitter overhead, whereas conventional 8-bit playback is almost entirely DMA driven. This technique was incorporated into the retargetable audio subsystem ": null
+    },
+    {
+        "AHI": "Ahi"
+    },
+    {
+        ", allowing compatible applications to use this mode transparently.       The floppy controller is unusually flexible. It can read and write raw bit sequences directly from and to the disk via DMA or programmed I/O at 500  or 250  kbit/s . ": null
+    },
+    {
+        "MFM": "Modified Frequency Modulation"
+    },
+    {
+        " or ": null
+    },
+    {
+        "GCR": "Group Coded Recording"
+    },
+    {
+        " were the two most commonly used formats though in theory any ": null
+    },
+    {
+        "run-length limited": "Run-Length Limited"
+    },
+    {
+        " code could be used. It also provides a number of convenient features, such as sync-on-word . MFM encoding/decoding is usually done with the blitter — one pass for decode, three passes for encode. Normally the entire track is read or written in one shot, rather than sector-by-sector; this made it possible to get rid of most of the inter-sector gaps that most floppy disk formats need to safely prevent the bleeding of a written sector into the previously-existing header of the next sector due to speed variations of the drive. If all sectors and their headers are always written in one go, such bleeding is only an issue at the end of the track , so that only one gap per track is needed. This way, for the native Amiga disk format, the raw storage capacity of 3.5  inch DD disks was increased from the typical 720  KB to 880  KB, although the less-than-ideal ": null
+    },
+    {
+        "file system": "Amiga Old File System"
+    },
+    {
+        " of the earlier Amiga models reduced this again to approximately 830  KB of actual payload data.     In addition to the native 880  KB 3.5-inch disk format, the controller can handle many foreign formats, such as:     ": null
+    },
+    {
+        "IBM PC": "Ibm Pc"
+    },
+    {
+        " Apple II": "Apple Ii"
+    },
+    {
+        " Mac": "Macintosh"
+    },
+    {
+        " 800  KB   ": null
+    },
+    {
+        "AMAX Mac emulator": "Amax Mac Emulator"
+    },
+    {
+        "   Commodore 1541": "Commodore 1541"
+    },
+    {
+        "   Commodore 1581": "Commodore 1581"
+    },
+    {
+        " formatted 3½-floppy for C64 and C128     The ": null
+    },
+    {
+        "Amiga 3000": "Amiga 3000"
+    },
+    {
+        " introduced a special, dual-speed floppy drive that also allowed to use high density disks with double capacity without any change to Paulas floppy controller.       The serial port is rudimentary, using ": null
+    },
+    {
+        "programmed input/output": "Programmed Input/Output"
+    },
+    {
+        " only and lacking a ": null
+    },
+    {
+        "FIFO": "Fifo"
+    },
+    {
+        " buffer. However, virtually any bit rate can be selected, including all standard rates, ": null
+    },
+    {
+        "MIDI": "Midi"
+    },
+    {
+        " rate, as well as extremely high custom rates.       The name Agnus is derived from Address GeNerator UnitS since it houses all address registers and controls memory access of the custom chips.   Denise is a contrived contraction of Display ENabler, intended to continue the naming convention.   Paula is a similarly contrived contraction of Ports, Audio, ": null
+    },
+    {
+        "UART": "Uart"
+    },
+    {
+        " and Logic, and coincidentally the chip designers girlfriend.       ": null
+    }
+]

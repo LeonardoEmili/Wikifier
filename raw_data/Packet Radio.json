@@ -1,0 +1,614 @@
+[
+    {
+        "   Packet radio is a ": null
+    },
+    {
+        "digital radio": "Digital Radio"
+    },
+    {
+        " communications mode used to send packets of ": null
+    },
+    {
+        "data": "Digital Data"
+    },
+    {
+        ". Packet radio uses ": null
+    },
+    {
+        "packet switching": "Packet Switching"
+    },
+    {
+        " to transmit ": null
+    },
+    {
+        "datagram": "Datagram"
+    },
+    {
+        "s. This is very similar to how packets of data are transferred between nodes on the ": null
+    },
+    {
+        "Internet": "Internet"
+    },
+    {
+        ". Packet radio can be used to transmit data long distances.     Packet radio is frequently used by ": null
+    },
+    {
+        "amateur radio": "Amateur Radio"
+    },
+    {
+        " operators. The ": null
+    },
+    {
+        "AX.25": "Ax.25"
+    },
+    {
+        " protocol was derived from the ": null
+    },
+    {
+        "X.25": "X.25"
+    },
+    {
+        " data link layer": "Data Link Layer"
+    },
+    {
+        " protocol and adapted for amateur radio use. Every AX.25 packet includes the senders amateur radio callsign, which satisfies the US FCC requirements for amateur radio station identification. AX.25 allows other stations to automatically repeat packets to extend the range of transmissions. It is possible for any packet station to act as a ": null
+    },
+    {
+        "digipeater": "Digipeater"
+    },
+    {
+        ", linking distant stations with each other through ": null
+    },
+    {
+        "ad hoc network": "Ad Hoc Network"
+    },
+    {
+        "s. This makes packet radio especially useful for emergency communications.        Packet radio can be used in ": null
+    },
+    {
+        "mobile communications": "Mobile Communications"
+    },
+    {
+        ". Some mobile packet radio stations transmit their location periodically using the ": null
+    },
+    {
+        "Automatic Packet Reporting System": "Automatic Packet Reporting System"
+    },
+    {
+        " . If the APRS packet is received by an igate station, position reports and other messages can be routed to an internet server, and made accessible on a public web page. This allows amateur radio operators to track the locations of vehicles, hikers, high-altitude balloons, etc., along with telemetry and other messages around the world.              Earlier ": null
+    },
+    {
+        "digital radio": "Digital Radio"
+    },
+    {
+        " communications modes were ": null
+    },
+    {
+        "telegraphy": "Telegraphy"
+    },
+    {
+        " , ": null
+    },
+    {
+        "teleprinter": "Teleprinter"
+    },
+    {
+        "  and ": null
+    },
+    {
+        "facsimile": "Fax"
+    },
+    {
+        ".         Since radio ": null
+    },
+    {
+        "circuits": "Telecommunication Circuit"
+    },
+    {
+        " inherently possess a ": null
+    },
+    {
+        "broadcast": "Broadcasting"
+    },
+    {
+        " network topology": "Network Topology"
+    },
+    {
+        " , one of the first technical challenges faced in the implementation of packet radio networks was a means to control access to a shared ": null
+    },
+    {
+        "communication channel": "Communication Channel"
+    },
+    {
+        ". Professor ": null
+    },
+    {
+        "Norman Abramson": "Norman Abramson"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "University of Hawaii": "University Of Hawaii"
+    },
+    {
+        " led development of a packet radio network known as ": null
+    },
+    {
+        "ALOHAnet": "Alohanet"
+    },
+    {
+        " and performed a number of experiments beginning in the 1970s to develop methods to arbitrate access to a shared radio channel by network nodes. This system operated on ": null
+    },
+    {
+        "UHF": "Uhf"
+    },
+    {
+        " frequencies at 9,600 baud. From this work the ": null
+    },
+    {
+        "Aloha": "Aloha Protocol"
+    },
+    {
+        " multiple access protocol was derived. Subsequent enhancements in channel access techniques made by ": null
+    },
+    {
+        "Leonard Kleinrock": "Leonard Kleinrock"
+    },
+    {
+        " et al. in 1975 would lead ": null
+    },
+    {
+        "Robert Metcalfe": "Robert Metcalfe"
+    },
+    {
+        " to use ": null
+    },
+    {
+        "carrier sense multiple access": "Carrier Sense Multiple Access"
+    },
+    {
+        " protocols in the design of the now commonplace ": null
+    },
+    {
+        "Ethernet": "Ethernet"
+    },
+    {
+        " local area network": "Lan"
+    },
+    {
+        " technology.     Over 1973–76, ": null
+    },
+    {
+        "DARPA": "Darpa"
+    },
+    {
+        " created a packet radio network called ": null
+    },
+    {
+        "PRNET": "Prnet"
+    },
+    {
+        " in the ": null
+    },
+    {
+        "San Francisco Bay": "San Francisco Bay"
+    },
+    {
+        " area and conducted a series of experiments with ": null
+    },
+    {
+        "SRI": "Sri International"
+    },
+    {
+        " to verify the use of ": null
+    },
+    {
+        "ARPANET": "Arpanet"
+    },
+    {
+        "  communications protocols": "Internet Protocol Suite"
+    },
+    {
+        "  over packet radio links between mobile and fixed network nodes. Okin,J.R. . The Internet Revolution: The Not-for-Dummies Guide to the History, Technology, and Use of the Internet, p.81. Ironbound Press. . This system was quite advanced, as it made use of direct sequence ": null
+    },
+    {
+        "spread spectrum": "Spread Spectrum"
+    },
+    {
+        " modulation and forward error correction  techniques to provide 100 kbit/s and 400 kbit/s data channels. These experiments were generally considered to be successful, and also marked the first demonstration of ": null
+    },
+    {
+        "Internetworking": "Internetworking"
+    },
+    {
+        ", as in these experiments data was routed between the ARPANET, PRNET, and ": null
+    },
+    {
+        "SATNET": "Satnet"
+    },
+    {
+        " networks. Throughout the 1970s and 1980s, DARPA operated a number of terrestrial and satellite packet radio networks connected to the ARPANET at various military and government installations.          ": null
+    },
+    {
+        "Amateur radio": "Amateur Radio"
+    },
+    {
+        " operators began experimenting with packet radio in 1978, when—after obtaining authorization from the Canadian government—Robert Rouleau, VE2PY; Bram Frank, VE2BFH; Norm Pearl, VE2BQS; and Jacques Orsali, VE2EHP I wrote the code for the demo on May 31st 1978 at the M.A.R.C. meeting in Montreal of the Montreal Amateur Radio Club ": null
+    },
+    {
+        "Montreal": "Montreal"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Quebec": "Quebec"
+    },
+    {
+        " began experimenting with transmitting ": null
+    },
+    {
+        "ASCII": "Ascii"
+    },
+    {
+        " encoded data over ": null
+    },
+    {
+        "VHF": "Vhf"
+    },
+    {
+        " amateur radio frequencies using homebuilt equipment. Rouleau, Robert and Hodgson, Ian . Packet Radio. Tab Books, Blue Ridge Summit, PA. . In 1980, Doug Lockhart VE7APU, and the Vancouver Area Digital Communications Group in ": null
+    },
+    {
+        "Vancouver": "Vancouver"
+    },
+    {
+        ", British Columbia began producing standardized equipment  in quantity for use in amateur packet radio networks. In 2003, Rouleau was inducted into ": null
+    },
+    {
+        "CQ Amateur Radio": "Cq Amateur Radio"
+    },
+    {
+        " magazines hall of fame for his work on the Montreal Protocol in 1978.      Not long after this activity began in Canada, amateurs in the US became interested in packet radio. In 1980, the United States ": null
+    },
+    {
+        "Federal Communications Commission": "Federal Communications Commission"
+    },
+    {
+        " granted authorization for United States amateurs to transmit ASCII codes via amateur radio.  See FCC Gives The Nod and Making Modifications Repeaters may be designed for amateur packet radio, these are dubbed digipeaters . The first known amateur packet radio activity in the US occurred in ": null
+    },
+    {
+        "San Francisco": "San Francisco"
+    },
+    {
+        " during December 1980, when a packet repeater was put into operation on ": null
+    },
+    {
+        "2 meters": "2 Meters"
+    },
+    {
+        " by ": null
+    },
+    {
+        "Hank Magnuski": "Hank Magnuski"
+    },
+    {
+        " KA6M, and the Pacific Packet Radio Society . Kenney, Larry , A Short History - How it all began . Retrieved on 2009-08-09. In keeping with the dominance of DARPA and ARPANET at the time, the nascent amateur packet radio network was dubbed the ": null
+    },
+    {
+        "AMPRNet": "Amprnet"
+    },
+    {
+        " in DARPA style. Magnuski obtained ": null
+    },
+    {
+        "IP address": "Ip Address"
+    },
+    {
+        " allocations in the ": null
+    },
+    {
+        " network": "44.0.0.0/8"
+    },
+    {
+        " for amateur radio use worldwide.     Many groups of amateur radio operators interested in packet radio soon formed throughout the country including the Pacific Packet Radio Society in ": null
+    },
+    {
+        "California": "California"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "Tucson Amateur Packet Radio Corporation": "Tucson Amateur Packet Radio Corporation"
+    },
+    {
+        " in ": null
+    },
+    {
+        "Arizona": "Arizona"
+    },
+    {
+        " and the Amateur Radio Research and Development Corporation in ": null
+    },
+    {
+        "Washington, D.C.": "Washington, D.C."
+    },
+    {
+        " American Radio Relay League . ARRLs VHF Digital Handbook , p 1-2, American Radio Relay League. .     By 1983, TAPR was offering the first TNC available in kit form. Packet radio started becoming more and more popular across ": null
+    },
+    {
+        "North America": "North America"
+    },
+    {
+        " and by 1984 the first packet-based ": null
+    },
+    {
+        "bulletin board systems": "Bulletin Board System"
+    },
+    {
+        "began to appear. Packet radio proved its value for emergency operations following the ": null
+    },
+    {
+        "crash of an Aeromexico": "Aeromexico Flight 498"
+    },
+    {
+        " airliner in a neighborhood in ": null
+    },
+    {
+        "Cerritos, California": "Cerritos, California"
+    },
+    {
+        " Labor Day": "Labor Day"
+    },
+    {
+        " weekend, 1986. Volunteers linked several key sites to pass text traffic via packet radio which kept voice frequencies clear.     For an objective description of early developments in amateur packet radio, refer to the article Packet Radio in the Amateur Service . Karn, P. Price H. Diersing, R. . Packet Radio in the Amateur Service , pp 431-439, IEEE Journal on Selected Areas in Communications . ISSN 0733-8716.         . ": null
+    },
+    {
+        "Mobitex": "Mobitex"
+    },
+    {
+        "   ARDIS   ": null
+    },
+    {
+        "CDPD": "Cdpd"
+    },
+    {
+        " allowed packet data to be carried over ": null
+    },
+    {
+        "AMPS": "Advanced Mobile Phone System"
+    },
+    {
+        " analog cellular telephone networks   ": null
+    },
+    {
+        "GPRS": "Gprs"
+    },
+    {
+        " is the packet data facility provided by the ": null
+    },
+    {
+        "GSM": "Gsm"
+    },
+    {
+        " cellular telephone network                One of the first challenges faced by amateurs implementing packet radio is that almost all amateur radio equipment has historically been designed to transmit voice, not data. Like any other digital communications system that uses analog media, packet radio systems require a modem. Since the radio equipment to be used with the modem was intended for voice, early amateur packet systems used ": null
+    },
+    {
+        "AFSK": "Afskaudio Fsk"
+    },
+    {
+        " modems that followed telephone standards . While this approach worked, it was not optimal, because it used a 25  kHz FM channel to transmit at 1,200 baud. When using a direct ": null
+    },
+    {
+        "FSK": "Frequency-Shift Keying"
+    },
+    {
+        " modulation like G3RUHs packet radio modem, a 9,600 baud transmission is easily made in the same channel.     In addition, the ": null
+    },
+    {
+        "baseband": "Baseband"
+    },
+    {
+        " characteristics of the audio channel provided by voice radios are often quite different from those of telephone audio channels. This led to the need in some cases to enable or disable pre-emphasis or de-emphasis circuits in the radios and/or modems.         Another problem faced by early packeteers was the issue of ": null
+    },
+    {
+        "asynchronous": "Asynchronous Serial Communication"
+    },
+    {
+        " versus ": null
+    },
+    {
+        "synchronous": "Comparison Of Synchronous And Asynchronous Signalling"
+    },
+    {
+        " data transfer. At the time, most personal computers had asynchronous ": null
+    },
+    {
+        "RS-232": "Rs-232"
+    },
+    {
+        " serial ports for data communications between the computer and devices such as modems. The RS-232 standard specifies an asynchronous, start-stop mode of data transmission where data is sent in groups of 7 or 8 bits. Unfortunately, the simple AFSK modems typically used provide no timing signal to indicate the start of a packet ": null
+    },
+    {
+        "frame": "Data Frame"
+    },
+    {
+        ". That led to the need for a mechanism to enable the receiver to know when to start assembling each packet frame. The method used is called ": null
+    },
+    {
+        "asynchronous framing": "Hdlcasynchronous Framing"
+    },
+    {
+        ". The receiver looks for the frame boundary octet, then begins decoding the packet data that follows it. Another frame boundary octet marks the end of the packet frame.         A number of data conversations are possible on a single radio channel over a finite period.         A basic packet radio station consists of a ": null
+    },
+    {
+        "computer": "Computer"
+    },
+    {
+        " or dumb terminal, a ": null
+    },
+    {
+        "modem": "Modem"
+    },
+    {
+        ", and a ": null
+    },
+    {
+        "transceiver": "Transceiver"
+    },
+    {
+        " with an ": null
+    },
+    {
+        "antenna": "Antenna"
+    },
+    {
+        ". Traditionally, the computer and modem are combined in one unit, the ": null
+    },
+    {
+        "terminal node controller": "Terminal Node Controller"
+    },
+    {
+        " , with a ": null
+    },
+    {
+        "dumb terminal": "Dumb Terminal"
+    },
+    {
+        "  used to input and display data. Increasingly, ": null
+    },
+    {
+        "personal computers": "Personal Computers"
+    },
+    {
+        " are taking over the functions of the TNC, with the modem either a standalone unit or implemented entirely in ": null
+    },
+    {
+        "software": "Software"
+    },
+    {
+        ". Alternatively, multiple manufacturers now market handheld or mobile radios with built-in TNCs, allowing connection directly to the ": null
+    },
+    {
+        "serial port": "Serial Port"
+    },
+    {
+        " of a computer or terminal with no other equipment required.     The computer is responsible for managing network connections, formatting data as AX.25 packets, and controlling the radio channel. Frequently it provides other functionality as well, such as a simple ": null
+    },
+    {
+        "bulletin board system": "Bulletin Board System"
+    },
+    {
+        " to accept messages while the operator is away.     Following the ": null
+    },
+    {
+        "OSI model": "Osi Model"
+    },
+    {
+        ", packet radio networks can be described in terms of the physical, data link, and network layer protocols on which they rely.          Modems used for packet radio vary in throughput and modulation technique, and are normally selected to match the capabilities of the radio equipment in use.   Most commonly used method is one using audio frequency-shift keying  within the radio equipments existing speech bandwidth.   The first amateur packet radio stations were constructed using surplus ": null
+    },
+    {
+        "Bell 202": "Bell 202"
+    },
+    {
+        " 1,200 ": null
+    },
+    {
+        "bit/s": "Bits Per Second"
+    },
+    {
+        " modems, and despite its low data rate, Bell 202 modulation has remained the standard for ": null
+    },
+    {
+        "VHF": "Vhf"
+    },
+    {
+        " operation in most areas. More recently, 9,600 bit/s has become a popular, although more technically demanding, alternative. At ": null
+    },
+    {
+        "HF": "High Frequency"
+    },
+    {
+        " frequencies, ": null
+    },
+    {
+        "Bell 103": "Bell 103"
+    },
+    {
+        " modulation is used, at a rate of 300 bit/s.     Due to historical reasons, all commonly used modulations are based on an idea of minimal modification to the radio itself, usually just connecting the computers audio output directly to the transmitters microphone input and receivers audio output directly to the computers microphone input. Upon adding a turn the transmitter on output signal for transmitter control, one has made a radio modem.   Due to this simplicity, and just having suitable microchips at hand, the Bell 202 modulation became standard way to send the packet radio data over the radio as two distinct tones. The tones are 1,200  Hz for Mark and 2,200  Hz for space . In the case of Bell 103 modulation, a 200  Hz shift is used. The data is differentially encoded with a ": null
+    },
+    {
+        "NRZI": "Nrzi"
+    },
+    {
+        " pattern, where a data zero bit is encoded by a change in tones and a data one bit is encoded by no change in tones.     Ways to achieve higher speeds than 1,200 ": null
+    },
+    {
+        "bits/s": "Bits Per Second"
+    },
+    {
+        ", include using telephone modem chips via the microphone and audio out connectors. This has been proven to work at speeds up to 4,800 bit/s using fax ": null
+    },
+    {
+        "V.27": "Itu V-Series"
+    },
+    {
+        " modems in half-duplex mode. These modems use ": null
+    },
+    {
+        "phase shift keying": "Phase Shift Keying"
+    },
+    {
+        " which works fine when there is no ": null
+    },
+    {
+        "amplitude shift keying": "Amplitude-Shift Keying"
+    },
+    {
+        ", but at faster speeds such as 9,600 bit/s, signal levels become critical and they are extremely sensitive to ": null
+    },
+    {
+        "group delay": "Group Delay"
+    },
+    {
+        " in the radio. These systems were pioneered by ": null
+    },
+    {
+        "Simon Taylor": "Simon Taylor"
+    },
+    {
+        " and Jerry Sandys in the 1980s. Other systems which involved small modification of the radio were developed by James Miller and operated at 9,600 bit/s.     1,200 bit/s AFSK node controllers on 2 meters are the most commonly found packet radio. For 1,200/2,400 bit/s UHF/VHF packet radio, amateurs use commonly available narrow band FM voice radios. For HF packet, 300 bit/s data is used over single sideband  modulation. For high speed packet , special radios or modified FM radios must be used.     Custom modems have been developed which allow throughput rates of 19.2 kbit/s, 56 kbit/s, and even 1.2  Mbit/s over amateur radio links on FCC permitted frequencies of 440  MHz and above. However, special radio equipment is needed to carry data at these speeds. The interface between the modem and the radio is at the intermediate frequency part of the radio as opposed to the audio section used for 1,200  bit/s operation. The adoption of these high-speed links has been limited.     In many commercial data radio applications, audio baseband modulation is not used. Data is transmitted by altering the transmitter output frequency between two distinct frequencies .          The 2.4  GHz Wi-Fi band partially overlaps an amateur radio band, so commercial Wi-Fi hardware can be adapted and used by licensed amateur radio operators at higher power levels, although restrictions on amateur radio limit the appeal of using packet radio to connect to the internet. US FCC regulations do not allow amateur radio communications to be encrypted or private, in addition to other content restrictions. Security & Data Integrity On A Modern Amateur Radio Network - By: Paul J. Toth – NA4AR HSMM and Information Security, by K8OCL CQ-VHF Fall 2004 - preview via CQ-VHF website Data Encryption is Legal, N2IRZ, CQ Magazine Aug 2006 - preview from the Summer 2006 TAPR PSR        Packet radio networks rely on the ": null
+    },
+    {
+        "AX.25": "Ax.25"
+    },
+    {
+        " data link layer": "Data Link Layer"
+    },
+    {
+        " protocol, derived from the ": null
+    },
+    {
+        "X.25": "X.25"
+    },
+    {
+        " protocol suite and intended specifically for amateur radio use. : the official specification, from ": null
+    },
+    {
+        "Tucson Amateur Packet Radio": "Tucson Amateur Packet Radio"
+    },
+    {
+        " Despite its name, AX.25 defines both the physical and data link layers of the OSI model.        Packet radio has most often been used for direct, keyboard-to-keyboard connections between stations, either between two live operators or between an operator and a ": null
+    },
+    {
+        "bulletin board system": "Bulletin Board System"
+    },
+    {
+        ". No network services above the data link layer are required for these applications.     To provide automated routing of data between stations , several network layer protocols have been developed for use with AX.25. Most prominent among these network layer protocols are NET/ROM & TheNET, ROSE, FlexNet and TexNet.     In principle, any network layer protocol may be used, including the ubiquitous ": null
+    },
+    {
+        "Internet protocol": "Internet Protocol"
+    }
+]

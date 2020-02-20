@@ -1,0 +1,794 @@
+[
+    {
+        "         The International System of Units  is the modern form of the ": null
+    },
+    {
+        "metric system": "Metric System"
+    },
+    {
+        " and is the most widely used ": null
+    },
+    {
+        "system of measurement": "System Of Measurement"
+    },
+    {
+        ". It comprises a ": null
+    },
+    {
+        "coherent": "Coherence"
+    },
+    {
+        " system of ": null
+    },
+    {
+        "units of measurement": "Units Of Measurement"
+    },
+    {
+        " built on seven ": null
+    },
+    {
+        "base unit": "Si Base Unit"
+    },
+    {
+        "s, which are the ": null
+    },
+    {
+        "second": "Second"
+    },
+    {
+        ", ": null
+    },
+    {
+        "metre": "Metre"
+    },
+    {
+        ", ": null
+    },
+    {
+        "kilogram": "Kilogram"
+    },
+    {
+        ", ": null
+    },
+    {
+        "ampere": "Ampere"
+    },
+    {
+        ", ": null
+    },
+    {
+        "kelvin": "Kelvin"
+    },
+    {
+        ", ": null
+    },
+    {
+        "mole": "Mole"
+    },
+    {
+        ", ": null
+    },
+    {
+        "candela": "Candela"
+    },
+    {
+        ", and a set of twenty ": null
+    },
+    {
+        "prefix": "Metric Prefix"
+    },
+    {
+        "es to the unit names and unit symbols that may be used when specifying multiples and fractions of the units. The system also specifies names for 22 ": null
+    },
+    {
+        "derived units": "Si Derived Unit"
+    },
+    {
+        ", such as ": null
+    },
+    {
+        "lumen": "Lumen"
+    },
+    {
+        " and ": null
+    },
+    {
+        "watt": "Watt"
+    },
+    {
+        ", for other common physical quantities.     The ": null
+    },
+    {
+        "base units": "Si Base Unit"
+    },
+    {
+        " are defined in terms of invariant constants of nature, such as the ": null
+    },
+    {
+        "speed of light": "Speed Of Light"
+    },
+    {
+        " in vacuum and the ": null
+    },
+    {
+        "charge of the electron": "Elementary Charge"
+    },
+    {
+        ", which can be observed and measured with great accuracy. Seven constants are used in various combinations to define the seven base units. Prior to 2019, artefacts were used instead of some of these constants, the last being the ": null
+    },
+    {
+        "International Prototype of the Kilogram": "International Prototype Of The Kilogram"
+    },
+    {
+        ", a cylinder of ": null
+    },
+    {
+        "platinum-iridium": "Platinum-Iridium Alloy"
+    },
+    {
+        ". Concern regarding its stability led to a ": null
+    },
+    {
+        "revision of the definition of the base units": "2019 Redefinition Of Si Base Units"
+    },
+    {
+        " entirely in terms of constants of nature, which was put into effect on 20 May 2019.      ": null
+    },
+    {
+        "Derived units": "Si Derived Unit"
+    },
+    {
+        " may be defined in terms of base units or other derived units. They are adopted to facilitate measurement of diverse quantities. The SI is intended to be an evolving system; units and prefixes are created and unit definitions are modified through international agreement as the technology of ": null
+    },
+    {
+        "measurement": "Measurement"
+    },
+    {
+        " progresses and the precision of measurements improves. The most recently named derived unit, the ": null
+    },
+    {
+        "katal": "Katal"
+    },
+    {
+        ", was defined in 1999.     The reliability of the SI depends not only on the precise measurement of standards for the base units in terms of various ": null
+    },
+    {
+        "physical constants": "Physical Constant"
+    },
+    {
+        " of nature, but also on precise definition of those constants. The set of underlying constants is modified as more stable constants are found, or may be more precisely measured. For example, in 1983 the metre was redefined as the distance that light propagates in ": null
+    },
+    {
+        "vacuum": "Vacuum"
+    },
+    {
+        " in a given fraction of a second, thus making the value of the ": null
+    },
+    {
+        "speed of light": "Speed Of Light"
+    },
+    {
+        " in terms of the defined units exact.     The motivation for the development of the SI was the diversity of units that had sprung up within the ": null
+    },
+    {
+        "centimetre–gram–second": "Centimetre–Gram–Second System Of Units"
+    },
+    {
+        " systems  and the lack of coordination between the various ": null
+    },
+    {
+        "disciplines": "Discipline"
+    },
+    {
+        "that used them. The ": null
+    },
+    {
+        "General Conference on Weights and Measures": "General Conference On Weights And Measures"
+    },
+    {
+        " , which was established by the ": null
+    },
+    {
+        "Metre Convention": "Metre Convention"
+    },
+    {
+        " of 1875, brought together many international organisations to establish the definitions and standards of a new system and to standardise the rules for writing and presenting measurements. The system was published in 1960 as a result of an initiative that began in 1948. It is based on the ": null
+    },
+    {
+        "metre–kilogram–second system of units": "Mks System Of Units"
+    },
+    {
+        " rather than any variant of the CGS.      Units and prefixes": null
+    },
+    {
+        "base unit": "Si Base Unit"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "derived unit": "Si Derived Unit"
+    },
+    {
+        "s, and a set of decimal-based multipliers that are used as ": null
+    },
+    {
+        "prefix": "Si Prefix"
+    },
+    {
+        "es.  The units, excluding prefixed units, For historical reasons, the kilogram rather than the gram is treated as the coherent unit, making an exception to this characterisation. form a ": null
+    },
+    {
+        "coherent system of units": "Coherent System Of Units"
+    },
+    {
+        ", which is based on a system of quantities in such a way that the equations between the numerical values expressed in coherent units have exactly the same form, including numerical factors, as the corresponding equations between the quantities. For example, 1  N 1  kg × 1  m/s 2 says that one newton is the force required to ": null
+    },
+    {
+        "accelerate": "Acceleration"
+    },
+    {
+        " a mass of one kilogram at one ": null
+    },
+    {
+        "metre per second squared": "Metre Per Second Squared"
+    },
+    {
+        ", as related through the principle of coherence to the equation relating the corresponding quantities: .     Derived units apply to derived quantities, which may by definition be expressed in terms of base quantities, and thus are not independent; for example, ": null
+    },
+    {
+        "electrical conductance": "Electrical Conductance"
+    },
+    {
+        " is the inverse of ": null
+    },
+    {
+        "electrical resistance": "Electrical Resistance"
+    },
+    {
+        ", with the consequence that the siemens is the inverse of the ohm, and similarly, the ohm and siemens can be replaced with a ratio of an ampere and a volt, because those quantities bear a defined relationship to each other. Ohms law:  from the relationship , where E is electromotive force or voltage , I is current , and R is resistance . Other useful derived quantities can be specified in terms of the SI base and derived units that have no named units in the SI system, such as acceleration, which is defined in SI units as m/s 2 .          The SI base units are the building blocks of the system and all the other units are derived from them.               The derived units in the SI are formed by powers, products, or quotients of the base units and are potentially unlimited in number.   Derived units are associated with derived quantities; for example, ": null
+    },
+    {
+        "velocity": "Velocity"
+    },
+    {
+        " is a quantity that is derived from the base quantities of time and length, and thus the SI derived unit is metre per second . The dimensions of derived units can be expressed in terms of the dimensions of the base units.     Combinations of base and derived units may be used to express other derived units. For example, the SI unit of ": null
+    },
+    {
+        "force": "Force"
+    },
+    {
+        " is the ": null
+    },
+    {
+        "newton": "Newton"
+    },
+    {
+        " , the SI unit of ": null
+    },
+    {
+        "pressure": "Pressure"
+    },
+    {
+        " is the ": null
+    },
+    {
+        "pascal": "Pascal"
+    },
+    {
+        " —and the pascal can be defined as one newton per square metre .                             Prefixes are added to unit names to produce multiples and ": null
+    },
+    {
+        "submultiples": "Submultiple"
+    },
+    {
+        "of the original unit. All of these are integer powers of ten, and above a hundred or below a hundredth all are integer powers of a thousand. For example, kilo- denotes a multiple of a thousand and milli- denotes a multiple of a thousandth, so there are one thousand millimetres to the metre and one thousand metres to the kilometre. The prefixes are never combined, so for example a millionth of a metre is a micrometre, not a millimillimetre. Multiples of the kilogram are named as if the gram were the base unit, so a millionth of a kilogram is a milligram, not a microkilogram.    When prefixes are used to form multiples and submultiples of SI base and derived units, the resulting units are no longer coherent.      The BIPM specifies 20 prefixes for the International System of Units :     :          Many non-SI units continue to be used in the scientific, technical, and commercial literature. Some units are deeply embedded in history and culture, and their use has not been entirely replaced by their SI alternatives. The CIPM recognised and acknowledged such traditions by compiling a list of ": null
+    },
+    {
+        "non-SI units accepted for use with SI": "Non-Si Units Accepted For Use With Si"
+    },
+    {
+        ":          Some units of time, angle, and legacy non-SI units have a long history of use. Most societies have used the solar day and its non-decimal subdivisions as a basis of time and, unlike the ": null
+    },
+    {
+        "foot": "Foot"
+    },
+    {
+        " or the ": null
+    },
+    {
+        "pound": "Pound"
+    },
+    {
+        ", these were the same regardless of where they were being measured. The ": null
+    },
+    {
+        "radian": "Radian"
+    },
+    {
+        ", being  of a revolution, has mathematical advantages but is rarely used for navigation. Further, the units used in navigation around the world are similar. The ": null
+    },
+    {
+        "tonne": "Tonne"
+    },
+    {
+        ", ": null
+    },
+    {
+        "litre": "Litre"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "hectare": "Hectare"
+    },
+    {
+        " were adopted by the CGPM in 1879 and have been retained as units that may be used alongside SI units, having been given unique symbols. The catalogued units are given below:      These units are used in combination with SI units in common units such as the kilowatt-hour .       The basic units of the metric system, as originally defined, represented common quantities or relationships in nature. They still do – the modern precisely defined quantities are refinements of definition and methodology, but still with the same magnitudes. In cases where laboratory precision may not be required or available, or where approximations are good enough, the original definitions may suffice. While the second is readily determined from the Earths rotation period, the metre, originally defined in terms of the Earths size and shape, is less amenable; however, the fact that the Earths circumference is very close to 40,000  km may be a useful mnemonic.     A second is 1/60 of a minute, which is 1/60 of an hour, which is 1/24 of a day, so a second is 1/86400 of a day ; a second is the time it takes a dense object to freely fall 4.9 metres from rest.   The length of the ": null
+    },
+    {
+        "equator": "Equator"
+    },
+    {
+        " is close to 40,000,000 metres .  In fact, the dimensions of our planet were used by the French Academy in the original definition of the metre.    The metre is close to the length of ": null
+    },
+    {
+        "a pendulum that has a period of 2 seconds": "Seconds Pendulum"
+    },
+    {
+        "; most dining tabletops are about 0.75 metres high;  a very tall human is about 2 metres tall.    The kilogram is the mass of a litre of cold water; a cubic centimetre or millilitre of water has a mass of one gram; a ": null
+    },
+    {
+        "1-euro coin": "1 Euro Coin"
+    },
+    {
+        " weighs 7.5  g;  a ": null
+    },
+    {
+        "Sacagawea US 1-dollar coin": "Sacagawea Dollar"
+    },
+    {
+        " weighs 8.1  g;  a ": null
+    },
+    {
+        "UK 50-pence coin": "Fifty Pence"
+    },
+    {
+        " weighs 8.0  g.    A candela is about the luminous intensity of a moderately bright candle, or 1 candle power; a 60  W tungsten-filament incandescent light bulb has a luminous intensity of about 64 candela.   A mole of a substance has a mass that is its ": null
+    },
+    {
+        "molecular mass": "Molecular Mass"
+    },
+    {
+        " expressed in units of grams; the mass of a mole of carbon is 12.0  g, and the mass of a mole of table salt is 58.4  g.   Since all gases have the same volume per mole at a given temperature and pressure far from their points of liquefaction and solidification , and air is about 1/5 oxygen and 4/5 nitrogen , the density of any near-perfect gas relative to air can be obtained to a good approximation by dividing its molecular mass by 29 . For example carbon monoxide has almost the same density as air.   A temperature difference of one kelvin is the same as one degree Celsius: 1/100 of the temperature differential between the freezing and boiling points of water at sea level; the absolute temperature in kelvins is the temperature in degrees Celsius plus about 273; human body temperature is about 37  °C or 310  K.   A 60  W incandescent light bulb rated at 120  V consumes 0.5  A at this voltage. A 60  W bulb rated at 240  V consumes 0.25  A at this voltage.           The symbols for the SI units are intended to be identical, regardless of the language used,  but unit names are ordinary nouns and use the character set and follow the grammatical rules of the language concerned. Names of units follow the grammatical rules associated with ": null
+    },
+    {
+        "common noun": "Common Noun"
+    },
+    {
+        "s: in English and in French they start with a lowercase letter , even when the symbol for the unit begins with a capital letter. This also applies to degrees Celsius , since degree is the unit.   The English spelling for certain SI units differs: ": null
+    },
+    {
+        "US English": "Us English"
+    },
+    {
+        " uses the spelling deka-, meter, and liter, whilst ": null
+    },
+    {
+        "International English": "International English"
+    },
+    {
+        " more commonly uses deca-, metre, and litre.      The guideline produced by the ": null
+    },
+    {
+        "National Institute of Standards and Technology": "National Institute Of Standards And Technology"
+    },
+    {
+        "    clarifies language-specific areas in respect of American English that were left open by the SI Brochure, but is otherwise identical to the SI Brochure.        General rules Except where specifically noted, these rules are common to both the SI Brochure and the NIST brochure. for writing SI units and quantities apply to text that is either handwritten or produced using an automated process:   The value of a quantity is written as a number followed by a space and a unit symbol; e.g., 2.21  kg, , 22  K. This rule explicitly includes the percent sign  and the symbol for degrees Celsius .  Exceptions are the symbols for plane angular degrees, minutes, and seconds , which are placed immediately after the number with no intervening space.   Symbols are mathematical entities, not abbreviations, and as such do not have an appended period/full stop , unless the rules of grammar demand one for another reason, such as denoting the end of a sentence.   A prefix is part of the unit, and its symbol is prepended to a unit symbol without a separator . Compound prefixes are not allowed. A prefixed unit is atomic in expressions .   Unit symbols are written using roman type, regardless of the type used in the surrounding text.   Symbols for derived units formed by multiplication are joined with a ": null
+    },
+    {
+        "centre dot": "Dot Operator"
+    },
+    {
+        " or a non-breaking space; e.g., N⋅m or N  m.   Symbols for derived units formed by division are joined with a ": null
+    },
+    {
+        "solidus": "Solidus"
+    },
+    {
+        " , or given as a negative ": null
+    },
+    {
+        "exponent": "Exponent"
+    },
+    {
+        ". E.g., the metre per second can be written m/s, m  s −1 , m⋅s −1 , or . A solidus must not be used more than once in a given expression without parentheses to remove ambiguities; e.g., kg/ and kg⋅m −1 ⋅s −2 are acceptable, but kg/m/s 2 is ambiguous and unacceptable.    ": null
+    },
+    {
+        "upper case": "Upper Case"
+    },
+    {
+        "; otherwise, they are written in ": null
+    },
+    {
+        "lower case": "Lower Case"
+    },
+    {
+        ". E.g., the unit of ": null
+    },
+    {
+        "pressure": "Pressure"
+    },
+    {
+        " is named after ": null
+    },
+    {
+        "Blaise Pascal": "Blaise Pascal"
+    },
+    {
+        ", so its symbol is written Pa , but the symbol for mole is written mol . Thus, T is the symbol for ": null
+    },
+    {
+        "tesla": "Tesla"
+    },
+    {
+        ", a measure of ": null
+    },
+    {
+        "magnetic field strength": "Magnetic Field Strength"
+    },
+    {
+        ", and t the symbol for ": null
+    },
+    {
+        "tonne": "Tonne"
+    },
+    {
+        ", a measure of ": null
+    },
+    {
+        "mass": "Mass"
+    },
+    {
+        ". Since 1979, the ": null
+    },
+    {
+        "litre": "Litre"
+    },
+    {
+        " may exceptionally be written using either an uppercase L or a lowercase l , a decision prompted by the similarity of the lowercase letter l to the numeral 1 , especially with certain typefaces or English-style handwriting. The American NIST recommends that within the United States L be used rather than l .   Symbols do not have a plural form, e.g., 25  kg, but not 25  .   Uppercase and lowercase prefixes are not interchangeable. E.g., the quantities 1  mW and 1  MW represent two different quantities .   The symbol for the ": null
+    },
+    {
+        "decimal marker": "Decimal Marker"
+    },
+    {
+        " is either a ": null
+    },
+    {
+        "point": "Full Stop"
+    },
+    {
+        " or ": null
+    },
+    {
+        "comma": "Comma"
+    },
+    {
+        " on the line. In practice, the decimal point is used in most English-speaking countries and most of Asia, and the comma in most of ": null
+    },
+    {
+        "Latin America": "Latin America"
+    },
+    {
+        " and in continental ": null
+    },
+    {
+        "European countries": "List Of Sovereign States And Dependent Territories In Europe"
+    },
+    {
+        ".    Spaces should be used as a ": null
+    },
+    {
+        "thousands separator": "Thousands Separator"
+    },
+    {
+        "  in contrast to commas or periods to reduce confusion resulting from the variation between these forms in different countries.   Any line-break inside a number, inside a compound unit, or between number and unit should be avoided. Where this is not possible, line breaks should coincide with thousands separators.   Because the value of billion and trillion ": null
+    },
+    {
+        "varies between languages": "Long And Short Scales"
+    },
+    {
+        ", the dimensionless terms ppb  and ppt  should be avoided. The SI Brochure does not suggest alternatives.       The rules covering printing of quantities and units are part of ISO 80000-1:2009.      Further rules are specified in respect of production of text using ": null
+    },
+    {
+        "printing press": "Printing Press"
+    },
+    {
+        "es, ": null
+    },
+    {
+        "word processor": "Word Processor"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "typewriter": "Typewriter"
+    },
+    {
+        "s, and the like.          ::::: SI Brochure      The CGPM publishes a brochure that defines and presents the SI.  Its official version is in French, in line with the ": null
+    },
+    {
+        "Metre Convention": "Metre Convention"
+    },
+    {
+        ".  It leaves some scope for local interpretation, particularly regarding names and terms in different languages. For example, the United States ": null
+    },
+    {
+        "National Institute of Standards and Technology": "National Institute Of Standards And Technology"
+    },
+    {
+        " has produced a version of the CGPM document which clarifies local interpretation for English-language publications that use ": null
+    },
+    {
+        "American English": "American English"
+    },
+    {
+        "      The writing and maintenance of the CGPM brochure is carried out by one of the committees of the ": null
+    },
+    {
+        "International Committee for Weights and Measures": "International Committee For Weights And Measures"
+    },
+    {
+        " .   The definitions of the terms quantity , unit , dimension etc. that are used in the SI Brochure are those given in the ": null
+    },
+    {
+        "International vocabulary of metrology": "International Vocabulary Of Metrology"
+    },
+    {
+        ".         The quantities and equations that provide the context in which the SI units are defined are now referred to as the  International System of Quantities  .   The system is based on the ": null
+    },
+    {
+        "quantities": "Quantityquantity In Physical Science"
+    },
+    {
+        " underlying each of the seven base units of the SI. Other quantities, such as ": null
+    },
+    {
+        "area": "Area"
+    },
+    {
+        ", ": null
+    },
+    {
+        "pressure": "Pressure"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "electrical resistance": "Electrical Resistance"
+    },
+    {
+        ", are derived from these base quantities by clear non-contradictory equations. The ISQ defines the quantities that are measured with the SI units.  The ISQ is defined in the international standard ": null
+    },
+    {
+        "ISO/IEC 80000": "Iso/Iec 80000"
+    },
+    {
+        ", and was finalised in 2009 with the publication of ": null
+    },
+    {
+        "ISO 80000-1": "Iso 80000-1"
+    },
+    {
+        ". S. V. Gupta, Units of Measurement: Past, Present and Future. International System of Units, p. 16, Springer, 2009. .                  Metrologists carefully distinguish between the definition of a unit and its realisation. The definition of each base unit of the SI is drawn up so that it is unique and provides a sound theoretical basis on which the most accurate and reproducible measurements can be made. The realisation of the definition of a unit is the procedure by which the definition may be used to establish the value and associated uncertainty of a quantity of the same kind as the unit. A description of the mise en pratique This term is a ": null
+    },
+    {
+        "translation": "Metre Convention"
+    },
+    {
+        " of the official text of the SI Brochure. of the base units is given in an electronic appendix to the SI Brochure.       The published mise en pratique is not the only way in which a base unit can be determined: the SI Brochure states that any method consistent with the laws of physics could be used to realise any SI unit.  In the current exercise to ": null
+    },
+    {
+        "overhaul the definitions of the base units": "New Si Definitions"
+    },
+    {
+        ", various consultative committees of the CIPM have required that more than one mise en pratique shall be developed for determining the value of each unit. In particular:   At least three separate experiments be carried out yielding values having a relative ": null
+    },
+    {
+        "standard uncertainty": "Uncertaintymeasurements"
+    },
+    {
+        " in the determination of the ": null
+    },
+    {
+        "kilogram": "Kilogram"
+    },
+    {
+        " of no more than  and at least one of these values should be better than . Both the ": null
+    },
+    {
+        "Kibble balance": "Kibble Balance"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Avogadro project": "Avogadro Project"
+    },
+    {
+        " should be included in the experiments and any differences between these be reconciled.     When the ": null
+    },
+    {
+        "kelvin": "Kelvin"
+    },
+    {
+        " is being determined, the relative uncertainty of the ": null
+    },
+    {
+        "Boltzmann constant": "Boltzmann Constant"
+    },
+    {
+        " derived from two fundamentally different methods such as acoustic gas ": null
+    },
+    {
+        "thermometry": "Thermometry"
+    },
+    {
+        " and dielectric constant gas thermometry be better than one part in  and that these values be corroborated by other measurements.            The ": null
+    },
+    {
+        "International Bureau of Weights and Measures": "International Bureau Of Weights And Measures"
+    },
+    {
+        " has described SI as the modern metric system .  Changing technology has led to an evolution of the definitions and standards that has followed two principal strands – changes to SI itself, and clarification of how to use units of measure that are not part of SI but are still nevertheless used on a worldwide basis.     Since 1960 the CGPM has made a number of changes to the SI to meet the needs of specific fields, notably chemistry and radiometry. These are mostly additions to the list of named derived units, and include the  mole  for an amount of substance, the  pascal  for ": null
+    },
+    {
+        "pressure": "Pressure"
+    },
+    {
+        ", the  siemens  for electrical conductance, the  becquerel  for ": null
+    },
+    {
+        "activity": "Radioactive Decay"
+    },
+    {
+        " referred to a ": null
+    },
+    {
+        "radionuclide": "Radionuclide"
+    },
+    {
+        " , the  gray  for ionising radiation, the  sievert  as the unit of dose equivalent radiation, and the  katal  for ": null
+    },
+    {
+        "catalytic activity": "Catalytic Activity"
+    },
+    {
+        ".  p. 221 – McGreevy         Acknowledging the advancement of precision science at both large and small scales, the range of defined prefixes pico- to tera- was extended to 10 −24 to 10 24 .        The 1960 definition of the standard metre in terms of wavelengths of a specific emission of the krypton 86 atom was replaced with the distance that light travels in a vacuum in exactly  second, so that the speed of light is now an exactly specified constant of nature.     A few changes to notation conventions have also been made to alleviate lexicographic ambiguities. An analysis under the aegis of ": null
+    },
+    {
+        "CSIRO": "Csiro"
+    },
+    {
+        ", published in 2009 by the ": null
+    },
+    {
+        "Royal Society": "Royal Society"
+    },
+    {
+        ", has pointed out the opportunities to finish the realisation of that goal, to the point of universal zero-ambiguity machine readability.                After the ": null
+    },
+    {
+        "metre was redefined": "History Of The Metre"
+    },
+    {
+        " in 1960, the kilogram remained the only SI base unit directly based on a specific physical artefact, the ": null
+    },
+    {
+        "International Prototype of the Kilogram": "International Prototype Of The Kilogram"
+    },
+    {
+        " , for its definition and thus the only unit that was still subject to periodic comparisons of national standard kilograms with the IPK.  During the 2nd and 3rd Periodic Verification of National Prototypes of the Kilogram, a significant divergence had occurred between the mass of the IPK and all of its official copies stored around the world: the copies had all noticeably increased in mass with respect to the IPK. During extraordinary verifications carried out in 2014 preparatory to redefinition of metric standards, continuing divergence was not confirmed. Nonetheless, the residual and irreducible instability of a physical IPK undermined the reliability of the entire metric system to precision measurement from small to large scales.     A proposal was made that:   In addition to the speed of light, four constants of nature – the ": null
+    },
+    {
+        "Planck constant": "Planck Constant"
+    },
+    {
+        ", an ": null
+    },
+    {
+        "elementary charge": "Elementary Charge"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "Boltzmann constant": "Boltzmann Constant"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "Avogadro number": "Avogadro Number"
+    },
+    {
+        " – be defined to have exact values   The International Prototype Kilogram be retired   The current definitions of the kilogram, ampere, kelvin, and mole be revised   The wording of base unit definitions should change emphasis from explicit unit to explicit constant definitions.     In 2015, the ": null
+    },
+    {
+        "CODATA task group on fundamental constants": "Committee On Data For Science And Technologytask Group On Fundamental Constants"
+    },
+    {
+        " announced special submission deadlines for data to compute the final values for the new definitions.      The new definitions were adopted at the 26th CGPM on 16 November 2018, and came into effect on 20 May 2019.  The change was adopted by the European Union through Directive 2019/1258.                  The units and unit magnitudes of the metric system which became the SI were improvised piecemeal from everyday physical quantities starting in the mid-18th century. Only later were they moulded into an orthogonal coherent decimal system of measurement.     The degree centigrade as a unit of temperature resulted from the scale devised by Swedish astronomer ": null
+    },
+    {
+        "Anders Celsius": "Anders Celsius"
+    },
+    {
+        " in 1742. His scale counter-intuitively designated 100 as the freezing point of water and 0 as the boiling point. Independently, in 1743, the French physicist ": null
+    },
+    {
+        "Jean-Pierre Christin": "Jean-Pierre Christin"
+    },
+    {
+        " described a scale with 0 as the freezing point of water and 100 the boiling point. The scale became known as the centi-grade, or 100 gradations of temperature, scale.     The metric system was developed from 1791 onwards by a committee of the ": null
+    },
+    {
+        "French Academy of Sciences": "French Academy Of Sciences"
+    },
+    {
+        ", commissioned to create a unified and rational system of measures.  The group, which included preeminent French men of science,   used the same principles for relating length, volume, and mass that had been proposed by the English clergyman ": null
+    },
+    {
+        "John Wilkins": "John Wilkins"
+    },
+    {
+        " in 1668   ;  and the concept of using the Earths ": null
+    },
+    {
+        "meridian": "Meridian"
+    },
+    {
+        " as the basis of the definition of length, originally proposed in 1670 by the French abbot ": null
+    },
+    {
+        "Mouton": "Gabriel Mouton"
+    },
+    {
+        ".        In March 1791, the Assembly adopted the committees proposed principles for the new decimal system of measure including the metre defined to be 1/10,000,000 of the length of the quadrant of earths meridian passing through Paris, and authorised a survey to precisely establish the length of the meridian. In July 1792, the committee proposed the names  metre ,  are ,  litre  and  grave  for the units of length, area, capacity, and mass, respectively. The committee also proposed that multiples and submultiples of these units were to be denoted by decimal-based prefixes such as centi for a hundredth and kilo for a thousand.          Later, during the process of adoption of the metric system, the Latin  gram me and  kilogram me, replaced the former provincial terms gravet  and grave. In June 1799, based on the results of the meridian survey, the standard  mètre des Archives  and  kilogramme des Archives  were deposited in the ": null
+    },
+    {
+        "French National Archives": "Archives Nationales"
+    },
+    {
+        ". Subsequently, that year, the metric system was adopted by law in France.     The French system was short-lived due to its unpopularity. Napoleon ridiculed it, and in 1812, introduced a replacement system, the mesures usuelles or customary measures which restored many of the old units, but redefined in terms of the metric system.     During the first half of the 19th century there was little consistency in the choice of preferred multiples of the base units: typically the myriametre  was in widespread use in both France and parts of Germany, while the kilogram  rather than the myriagram was used for mass.     In 1832, the German ": null
+    },
+    {
+        "mathematician": "Mathematician"
+    },
+    {
+        " Carl Friedrich Gauss": "Carl Friedrich Gauss"
+    },
+    {
+        ", assisted by ": null
+    },
+    {
+        "Wilhelm Weber": "Wilhelm Eduard Weber"
+    },
+    {
+        ", implicitly defined the second as a base unit when he quoted the Earths magnetic field in terms of millimetres, grams, and seconds.  Prior to this, the strength of the Earths magnetic field had only been described in ": null
+    },
+    {
+        "relative term": "Relative Change And Difference"
+    },
+    {
+        "s. The technique used by Gauss was to equate the ": null
+    },
+    {
+        "torque": "Torque"
+    },
+    {
+        " induced on a suspended magnet of known mass by the Earths magnetic field with the torque induced on an equivalent system under gravity. The resultant calculations enabled him to assign dimensions based on mass, length and time to the magnetic field. The strength of the earths magnetic field was designated 1  G at the surface ": null
+    }
+]

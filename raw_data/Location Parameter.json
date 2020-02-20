@@ -1,0 +1,68 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "statistics": "Statistics"
+    },
+    {
+        ", a location family is a class of ": null
+    },
+    {
+        "probability distributions": "Probability Distribution"
+    },
+    {
+        "that is ": null
+    },
+    {
+        "parametrized": "Statistical Parameter"
+    },
+    {
+        " by a scalar- or vector-valued parameter x_0 , which determines the location or shift of the distribution. Formally, this means that the ": null
+    },
+    {
+        "probability density functions": "Probability Density Function"
+    },
+    {
+        "or ": null
+    },
+    {
+        "probability mass functions": "Probability Mass Function"
+    },
+    {
+        "in this class have the form   : f_ f.    Here, x_0 is called the location parameter. Examples of location parameters include the ": null
+    },
+    {
+        "mean": "Mean"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "median": "Median"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "mode": "Mode"
+    },
+    {
+        ".     Thus in the one-dimensional case if x_0 is increased, the probability density or mass function shifts rigidly to the right, maintaining its exact shape.     A location parameter can also be found in families having more than one parameter, such as ": null
+    },
+    {
+        "location–scale families": "Location–Scale Family"
+    },
+    {
+        ". In this case, the probability density function or probability mass function will be a special case of the more general form   : f_ f_\\theta   where x_0 is the location parameter, θ represents additional parameters, and f_\\theta is a function parametrized on the additional parameters.       An alternative way of thinking of location families is through the concept of ": null
+    },
+    {
+        "additive noise": "Additive Noise"
+    },
+    {
+        ". If x_0 is a constant and W is random ": null
+    },
+    {
+        "noise": "Noise"
+    }
+]

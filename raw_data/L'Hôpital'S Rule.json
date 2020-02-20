@@ -1,0 +1,107 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", more specifically ": null
+    },
+    {
+        "calculus": "Calculus"
+    },
+    {
+        ", LHôpitals rule or LHospitals rule  provides a technique to evaluate ": null
+    },
+    {
+        "limits": "Limit Of A Function"
+    },
+    {
+        " of ": null
+    },
+    {
+        "indeterminate form": "Indeterminate Form"
+    },
+    {
+        "s. Application of the rule often converts an indeterminate form to an expression that can be easily evaluated by substitution. The rule is named after the 17th-century ": null
+    },
+    {
+        "French": "France"
+    },
+    {
+        " mathematician": "Mathematician"
+    },
+    {
+        " Guillaume de lHôpital": "Guillaume De Lhôpital"
+    },
+    {
+        ". Although the rule is often attributed to LHôpital, the theorem was first introduced to him in 1694 by the Swiss mathematician ": null
+    },
+    {
+        "Johann Bernoulli": "Johann Bernoulli"
+    },
+    {
+        ".     LHôpitals rule states that for functions  and  which are ": null
+    },
+    {
+        "differentiable": "Differentiable Function"
+    },
+    {
+        " on an open ": null
+    },
+    {
+        "interval": "Interval"
+    },
+    {
+        "  except possibly at a point  contained in , if \\lim_f\\lim_g0 \\text \\pm\\infty, g\\ne 0 for all  in  with , and \\lim_\\frac exists, then   : \\lim_\\frac \\lim_\\frac.     The differentiation of the numerator and denominator often simplifies the quotient or converts it to a limit that can be evaluated directly.         ": null
+    },
+    {
+        "Guillaume de lHôpital": "Guillaume De Lhôpital"
+    },
+    {
+        "  published this rule in his 1696 book  Analyse des Infiniment Petits pour lIntelligence des Lignes Courbes  , the first textbook on ": null
+    },
+    {
+        "differential calculus": "Differential Calculus"
+    },
+    {
+        ".   However, it is believed that the rule was discovered by the Swiss mathematician ": null
+    },
+    {
+        "Johann Bernoulli": "Johann Bernoulli"
+    },
+    {
+        ".          The general form of LHôpitals rule covers many cases. Let  and  be ": null
+    },
+    {
+        "extended real numbers": "Extended Real Number Line"
+    },
+    {
+        " . Let  be an ": null
+    },
+    {
+        "open interval": "Open Interval"
+    },
+    {
+        " containing  or an open interval with endpoint  . The real valued functions  and  are assumed to be ": null
+    },
+    {
+        "differentiable": "Differentiable Function"
+    },
+    {
+        " on  except possibly at , and additionally g\\ne 0 on  except possibly at . It is also assumed that \\lim_\\frac L. Thus the rule applies to situations in which the ratio of the derivatives has a finite or infinite limit, but not to situations in which that ratio fluctuates permanently as  gets closer and closer to .     If either   : \\lim_f \\lim_g 0   or   : \\lim_|f| \\lim_|g| \\infty,   then   : \\lim_\\fracL.   Although we have written x   & rarr; c throughout, the limits may also be one-sided limits , when  is a finite endpoint of .     In the second case, the hypothesis that  ": null
+    },
+    {
+        "diverges": "Divergent Series"
+    },
+    {
+        " to infinity is not used in the proof ; thus, while the conditions of the rule are normally stated as above, the second sufficient condition for the rules procedure to be valid can be more briefly stated as \\lim_|g| \\infty.     The hypothesis that g\\ne 0 appears most commonly in the literature, but some authors sidestep this hypothesis by adding other hypotheses elsewhere. One method  is to define the limit of a function with the additional requirement that the limiting function is defined everywhere on the relevant interval  except possibly at . Another method  is to require that both  and  be differentiable everywhere on an interval containing .       The requirement that the limit     : \\lim_\\frac     must exist is essential. Without this condition, f or g may exhibit undampened oscillations as x approaches c , in which case LHôpitals rule does not apply. For example, if fx+\\sin , gx and c\\pm\\infty , then     : \\frac\\frac;     this expression does not approach a limit as x goes to c , since the cosine function oscillates between  and . But working with the original functions, \\lim_\\frac can be shown to exist:     : \\lim_\\frac \\lim_\\left 1.     In a case such as this, all that can be concluded is that     : \\liminf_ \\frac \\leq \\liminf_ \\frac \\leq \\limsup_ \\frac \\leq \\limsup_ \\frac ,     so that if the limit of f/g exists, then it must lie between the inferior and superior limits of f & prime;/g & prime;.       Here is a basic example involving the exponential function, which involves the indeterminate form  at :     ::   \\begin   \\lim_ \\frac & \\lim_ \\frac \\\\   & \\lim_ \\frac \\\\   & 1.   \\end       This is a more elaborate example involving . Applying LHôpitals rule a single time still results in an indeterminate form. In this case, the limit may be evaluated by applying the rule three times:     ::   \\begin   \\lim_   & \\lim_ \\\\   & \\lim_ \\\\   & \\lim_ \\\\   & \\\\   & 6.   \\end       Here is an example involving :     :: \\lim_x^n\\cdot e^   \\lim_   \\lim_   n\\cdot \\lim_.     :Repeatedly apply LHôpitals rule until the exponent is zero  or negative  to conclude that the limit is zero.     Here is an example involving the indeterminate form  , which is rewritten as the form :     :: \\lim_x \\ln x \\lim_ \\frac   \\lim_ \\frac   \\lim_ -x 0.     Here is an example involving the ": null
+    },
+    {
+        "mortgage repayment formula": "Mortgage Calculatormonthly Payment Formula"
+    },
+    {
+        " and . Let  be the principal ,  the interest rate per period and  the number of periods. When  is zero, the repayment amount per period is \\frac ; this is consistent with the formula for non-zero interest rates:     :: \\begin   \\lim_\\frac   & P \\lim_ \\frac \\\\   & \\frac.   \\end     One can also use LHôpitals rule to prove the following theorem. If  is twice-differentiable in a neighborhood of , then     :: \\begin   \\lim_\\frac   & \\lim_\\frac \\\\   & \\lim_\\frac \\\\   & f.   \\end     Sometimes LHôpitals rule is invoked in a tricky way: suppose converges as and that e^x\\cdot f converges to positive or negative infinity. Then:   :: \\lim_f \\lim_\\frac \\lim_\\frac \\lim_\\bigl   :and so,   \\lim_f   exists and   \\lim_f 0.   :The result remains true without the added hypothesis that e^x\\cdot f converges to positive or negative infinity, but the justification is then incomplete.       Sometimes LHôpitals rule does not lead to an answer in a finite number of steps unless some additional steps are applied. Examples include the following:     Two applications can lead to a return to the original expression that was to be evaluated:     :: \\lim_\\frac \\lim_\\frac \\lim_\\frac \\cdots .     :This situation can be dealt with by substituting ye^x and noting that goes to infinity as goes to infinity; with this substitution, this problem can be solved with a single application of the rule:     :: \\lim_\\frac \\lim_\\frac \\lim_\\frac \\frac 1.     :Alternatively, the numerator and denominator can both be multiplied by e^x, at which point LHôpitals rule can immediately be applied successfully: Multiplying by e^-x instead yields a solution to the limit without need for lHôpitals rule.     :: \\lim_\\frac \\lim_\\frac \\lim_\\frac 1.     An arbitrarily large number of applications may never lead to an answer even without repeating:     :: \\lim_\\frac \\lim_\\frac \\lim_\\frac \\cdots .     :This situation too can be dealt with by a transformation of variables, in this case y \\sqrt :     :: \\lim_\\frac \\lim_\\frac \\lim_ \\frac \\frac1 1.     :Again, an alternative approach is to multiply numerator and denominator by x^ before applying LHôpitals rule:     :: \\lim_\\frac \\lim_\\frac \\lim_\\frac 1.     A common pitfall is using LHôpitals rule with some circular reasoning to compute a derivative via a difference quotient . For example, consider the task of proving the derivative formula for powers of x :     : \\lim_\\fracnx^.     Applying LHôpitals rule and finding the derivatives with respect to of the numerator and the denominator yields   as expected. However, differentiating the numerator required the use of the very fact that is being proven. This is an example of begging the question , since one may not assume the fact to be proven during the course of the proof.       The necessity of the condition that g\\ne 0 near c can be seen by the following counterexample due to Otto Stolz . Let fx+\\sin x \\cos x and gfe^. Then there is no limit for f/g as x\\to\\infty. However,     : \\begin   \\frac & \\frac \\\\   & \\frac e^,   \\end     which tends to 0 as x\\to\\infty . Further examples of this type were found by Ralph P. Boas Jr.       Other indeterminate forms, such as , , , , and , can sometimes be evaluated using LHôpitals rule. For example, to evaluate a limit involving , convert the difference of two functions to a quotient:     :   \\begin   \\lim_\\left   & \\lim_\\frac & \\quad \\\\   & \\lim_\\frac & \\quad \\\\   & \\lim_\\frac & \\quad \\\\   & \\lim_\\frac & \\quad \\\\   & \\lim_\\frac \\\\   & \\frac,   \\end       where LHôpitals rule is applied when going from to and again when going from to .     LHôpitals rule can be used on indeterminate forms involving exponents by using logarithm s to move the exponent down . Here is an example involving the indeterminate form :     :   \\lim_x^x   \\lim_e^   \\lim_e^   e^.       It is valid to move the limit inside the exponential function because the exponential function is continuous . Now the exponent x has been moved down . The limit \\lim_x\\cdot\\ln x is of the indeterminate form , but as shown in an example above, lHôpitals rule may be used to determine that     : \\lim_x\\cdot\\ln x 0.     Thus     : \\lim_x^x e^0 1.           The Stolz–Cesàro theorem is a similar result involving limits of sequences, but it uses finite difference operator s rather than derivative s.       Consider the curve in the plane whose -coordinate is given by and whose -coordinate is given by , with both functions continuous, i.e., the locus of points of the form . Suppose . The limit of the ratio as is the slope of the tangent to the curve at the point . The tangent to the curve at the point is given by . LHôpitals rule then states that the slope of the curve when is the limit of the slope of the tangent to the curve as the curve approaches the origin, provided that this is defined.           The proof of LHôpitals rule is simple in the case where and are continuously differentiable at the point and where a finite limit is found after the first round of differentiation. It is not a proof of the general LHôpitals rule because it is stricter in its definition, requiring both differentiability and that c be a real number. Since many common functions have continuous derivatives , it is a special case worthy of attention.     Suppose that and are continuously differentiable at a real number , that fg0 , and that g\\neq 0 . Then     :   \\begin   & \\lim_\\frac \\lim_\\frac \\lim_\\frac \\\\   & \\lim_\\frac \\frac \\frac \\lim_\\frac.   \\end       This follows from the difference-quotient definition of the derivative. The last equality follows from the continuity of the derivatives at . The limit in the conclusion is not indeterminate because g\\ne 0 .     The proof of a more general version of LHôpitals rule is given below.       The following proof is due to , where a unified proof for the and indeterminate forms is given. Taylor notes that different proofs may be found in and .     Let f and g be functions satisfying the hypotheses in the General form section. Let \\mathcal be the open interval in the hypothesis with endpoint c. Considering that g\\ne 0 on this interval and g is continuous, \\mathcal can be chosen smaller so that g is nonzero on \\mathcal .     For each x in the interval, define m\\inf\\frac and M\\sup\\frac as \\xi ranges over all values between x and c.     From the differentiability of f and g on \\mathcal , Cauchys mean value theorem ensures that for any two distinct points x and y in \\mathcal there exists a \\xi between x and y such that \\frac\\frac . Consequently, m\\leq \\frac \\leq M for all choices of distinct x and y in the interval. The value g-g is always nonzero for distinct x and y in the interval, for if it was not, the mean value theorem would imply the existence of a p between x and y such that g 0.     The definition of m and M will result in an extended real number, and so it is possible for them to take on the values ±∞. In the following two cases, m and M will establish bounds on the ratio .     Case 1: \\lim_f\\lim_g0     For any x in the interval \\mathcal , and point y between x and c,   : m\\le \\frac\\frac\\le M   and therefore as y approaches c, \\frac and \\frac become zero, and so   : m\\leq\\frac\\leq M.     Case 2: \\lim_|g|\\infty     For every x in the interval \\mathcal , define S_x\\ . For every point y between x and c,   : m\\le \\frac\\frac \\le M.     As y approaches c, both \\frac and \\frac become zero, and therefore   : m\\le \\liminf_ \\frac \\le \\limsup_ \\frac \\le M.     The limit superior and limit inferior are necessary since the existence of the limit of has not yet been established.     It is also the case that   : \\lim_m\\lim_M\\lim_\\fracL.   ": null
+    }
+]

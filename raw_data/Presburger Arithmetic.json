@@ -1,0 +1,197 @@
+[
+    {
+        "Presburger arithmetic is the ": null
+    },
+    {
+        "first-order theory": "First-Order Predicate Calculus"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "natural numbers": "Natural Number"
+    },
+    {
+        "with ": null
+    },
+    {
+        "addition": "Addition"
+    },
+    {
+        ", named in honor of ": null
+    },
+    {
+        "Mojżesz Presburger": "Mojżesz Presburger"
+    },
+    {
+        ", who introduced it in 1929. The ": null
+    },
+    {
+        "signature": "Signature"
+    },
+    {
+        " of Presburger arithmetic contains only the addition operation and ": null
+    },
+    {
+        "equality": "Equality"
+    },
+    {
+        ", omitting the ": null
+    },
+    {
+        "multiplication": "Multiplication"
+    },
+    {
+        " operation entirely. The axioms include a schema of ": null
+    },
+    {
+        "induction": "Mathematical Induction"
+    },
+    {
+        ".     Presburger arithmetic is much weaker than ": null
+    },
+    {
+        "Peano arithmetic": "Peano Arithmetic"
+    },
+    {
+        ", which includes both addition and multiplication operations. Unlike Peano arithmetic, Presburger arithmetic is a ": null
+    },
+    {
+        "decidable theory": "Decidability"
+    },
+    {
+        ". This means it is possible to algorithmically determine, for any sentence in the language of Presburger arithmetic, whether that sentence is provable from the axioms of Presburger arithmetic. The asymptotic running-time ": null
+    },
+    {
+        "computational complexity": "Analysis Of Algorithms"
+    },
+    {
+        " of this ": null
+    },
+    {
+        "decision problem": "Decision Problem"
+    },
+    {
+        " is at least ": null
+    },
+    {
+        "doubly exponential": "Double Exponential Function"
+    },
+    {
+        ", however, as shown by .       The language of Presburger arithmetic contains constants 0 and 1 and a binary function +, interpreted as addition. In this language, the axioms of Presburger arithmetic are the ": null
+    },
+    {
+        "universal closures": "Universal Closure"
+    },
+    {
+        "of the following:   ¬   x + 1 y + 1 → x y   x + 0 x   x +   + 1   Let P be a ": null
+    },
+    {
+        "first-order formula": "First-Order Logic"
+    },
+    {
+        " in the language of Presburger arithmetic with a free variable x . Then the following formula is an axiom:   :: & rarr; & forall;y P.     is an ": null
+    },
+    {
+        "axiom schema": "Axiom Schema"
+    },
+    {
+        " of ": null
+    },
+    {
+        "induction": "Mathematical Induction"
+    },
+    {
+        ", representing infinitely many axioms. These cannot be replaced by any finite number of axioms, that is, Presburger arithmetic is not finitely axiomatizable in first-order logic.     Presburger arithmetic cannot formalize concepts such as ": null
+    },
+    {
+        "divisibility": "Divisibility"
+    },
+    {
+        " or ": null
+    },
+    {
+        "primality": "Primality"
+    },
+    {
+        ". Generally, any number concept leading to multiplication cannot be defined in Presburger arithmetic, since that leads to incompleteness and undecidability. However, it can formulate individual instances of divisibility; for example, it proves for all x, there exists y :  ∨  . This states that every number is either even or odd.         ": null
+    },
+    {
+        "Mojżesz Presburger": "Mojżesz Presburger"
+    },
+    {
+        " proved Presburger arithmetic to be:   ": null
+    },
+    {
+        "consistent": "Consistency Proof"
+    },
+    {
+        ": There is no statement in Presburger arithmetic which can be deduced from the axioms such that its negation can also be deduced.   ": null
+    },
+    {
+        "complete": "Completeness"
+    },
+    {
+        ": For each statement in the language of Presburger arithmetic, either it is possible to deduce it from the axioms or it is possible to deduce its negation.   ": null
+    },
+    {
+        "decidable": "Decidability"
+    },
+    {
+        ": There exists an ": null
+    },
+    {
+        "algorithm": "Algorithm"
+    },
+    {
+        " which decides whether any given statement in Presburger arithmetic is a theorem or a nontheorem.     The decidability of Presburger arithmetic can be shown using ": null
+    },
+    {
+        "quantifier elimination": "Quantifier Elimination"
+    },
+    {
+        ", supplemented by reasoning about arithmetical congruence .     ": null
+    },
+    {
+        "Peano arithmetic": "Peano Arithmetic"
+    },
+    {
+        ", which is Presburger arithmetic augmented with multiplication, is not decidable, as a consequence of the negative answer to the ": null
+    },
+    {
+        "Entscheidungsproblem": "Entscheidungsproblem"
+    },
+    {
+        ". By ": null
+    },
+    {
+        "Gödels incompleteness theorem": "Gödels Incompleteness Theorem"
+    },
+    {
+        ", Peano arithmetic is incomplete and its consistency is not internally provable .     The decision problem for Presburger arithmetic is an interesting example in ": null
+    },
+    {
+        "computational complexity theory": "Computational Complexity Theory"
+    },
+    {
+        " and ": null
+    },
+    {
+        "computation": "Computation"
+    },
+    {
+        ". Let n be the length of a statement in Presburger arithmetic. Then ": null
+    },
+    {
+        "Fischer": "Michael J. Fischer"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Rabin": "Michael O. Rabin"
+    },
+    {
+        " proved that any decision algorithm for Presburger arithmetic has a worst-case runtime of at least 2^ , for some constant c  sub /sub sub /sub is considered to be quantifier-free; here, bounded quantifiers are counted as quantifiers.   PA is in P, while PA is NP-complete.   For i ": null
+    }
+]

@@ -1,0 +1,395 @@
+[
+    {
+        "The Real-time Transport Protocol  is a ": null
+    },
+    {
+        "network protocol": "Network Protocol"
+    },
+    {
+        " for delivering audio and video over ": null
+    },
+    {
+        "IP networks": "Ip Networks"
+    },
+    {
+        ". RTP is used in communication and entertainment systems that involve ": null
+    },
+    {
+        "streaming media": "Streaming Media"
+    },
+    {
+        ", such as ": null
+    },
+    {
+        "telephony": "Telephony"
+    },
+    {
+        ", ": null
+    },
+    {
+        "video teleconference": "Video Teleconference"
+    },
+    {
+        " applications including ": null
+    },
+    {
+        "WebRTC": "Webrtc"
+    },
+    {
+        ", ": null
+    },
+    {
+        "television services": "Iptv"
+    },
+    {
+        " and web-based ": null
+    },
+    {
+        "push-to-talk": "Push-To-Talk"
+    },
+    {
+        " features.     RTP typically runs over ": null
+    },
+    {
+        "User Datagram Protocol": "User Datagram Protocol"
+    },
+    {
+        " . RTP is used in conjunction with the ": null
+    },
+    {
+        "RTP Control Protocol": "Rtp Control Protocol"
+    },
+    {
+        " . While RTP carries the media streams , RTCP is used to monitor transmission statistics and ": null
+    },
+    {
+        "quality of service": "Quality Of Service"
+    },
+    {
+        " and aids ": null
+    },
+    {
+        "synchronization": "Synchronization"
+    },
+    {
+        " of multiple streams. RTP is one of the technical foundations of ": null
+    },
+    {
+        "Voice over IP": "Voice Over Ip"
+    },
+    {
+        " and in this context is often used in conjunction with a ": null
+    },
+    {
+        "signaling protocol": "Signaling Protocol"
+    },
+    {
+        " such as the ": null
+    },
+    {
+        "Session Initiation Protocol": "Session Initiation Protocol"
+    },
+    {
+        " which establishes connections across the network.     RTP was developed by the Audio-Video Transport Working Group of the ": null
+    },
+    {
+        "Internet Engineering Task Force": "Internet Engineering Task Force"
+    },
+    {
+        " and first published in 1996 as , superseded by  in 2003.       RTP is designed for ": null
+    },
+    {
+        "end-to-end": "End-To-End Principle"
+    },
+    {
+        ", ": null
+    },
+    {
+        "real-time": "Real-Time Computing"
+    },
+    {
+        " transfer of ": null
+    },
+    {
+        "streaming media": "Streaming Media"
+    },
+    {
+        ". The protocol provides facilities for ": null
+    },
+    {
+        "jitter": "Jitter"
+    },
+    {
+        " compensation and detection of ": null
+    },
+    {
+        "packet loss": "Packet Loss"
+    },
+    {
+        " and ": null
+    },
+    {
+        "out-of-order delivery": "Out-Of-Order Delivery"
+    },
+    {
+        ", which are common especially during UDP transmissions on an IP network. RTP allows data transfer to multiple destinations through ": null
+    },
+    {
+        "IP multicast": "Ip Multicast"
+    },
+    {
+        ".  RTP is regarded as the primary standard for audio/video transport in IP networks and is used with an associated profile and payload format. The design of RTP is based on the architectural principle known as ": null
+    },
+    {
+        "application-layer framing": "Application-Layer Framing"
+    },
+    {
+        " where protocol functions are implemented in the application as opposed to in the operating systems ": null
+    },
+    {
+        "protocol stack": "Protocol Stack"
+    },
+    {
+        ".     Real-time ": null
+    },
+    {
+        "multimedia": "Multimedia"
+    },
+    {
+        " streaming applications require timely delivery of information and often can tolerate some packet loss to achieve this goal. For example, loss of a packet in audio application may result in loss of a fraction of a second of audio data, which can be made unnoticeable with suitable ": null
+    },
+    {
+        "error concealment": "Error Concealment"
+    },
+    {
+        " algorithms.  The ": null
+    },
+    {
+        "Transmission Control Protocol": "Transmission Control Protocol"
+    },
+    {
+        " , although standardized for RTP use,  is not normally used in RTP applications because TCP favors reliability over timeliness. Instead the majority of the RTP implementations are built on the ": null
+    },
+    {
+        "User Datagram Protocol": "User Datagram Protocol"
+    },
+    {
+        " . Other transport protocols specifically designed for multimedia sessions are ": null
+    },
+    {
+        "SCTP": "Sctp"
+    },
+    {
+        "  and ": null
+    },
+    {
+        "DCCP": "Dccp"
+    },
+    {
+        ",  although, , they are not in widespread use.      RTP was developed by the Audio/Video Transport working group of the IETF standards organization. RTP is used in conjunction with other protocols such as ": null
+    },
+    {
+        "H.323": "H.323"
+    },
+    {
+        " and ": null
+    },
+    {
+        "RTSP": "Rtsp"
+    },
+    {
+        ".  The RTP specification describes two protocols: RTP and RTCP. RTP is used for transfer of multimedia data, and the RTCP is used to periodically send control information and QoS parameters.     The data transfer protocol, RTP, carries real-time data. Information provided by this protocol include timestamps , sequence numbers and the payload format which indicates the encoded format of the data.  The control protocol, RTCP, is used for quality of service feedback and synchronization between the media streams. The bandwidth of RTCP traffic compared to RTP is small, typically around 5%.      RTP sessions are typically initiated between communicating peers using a signaling protocol, such as ": null
+    },
+    {
+        "H.323": "H.323"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "Session Initiation Protocol": "Session Initiation Protocol"
+    },
+    {
+        " , RTSP, or ": null
+    },
+    {
+        "Jingle": "Jingle"
+    },
+    {
+        " . These protocols may use the ": null
+    },
+    {
+        "Session Description Protocol": "Session Description Protocol"
+    },
+    {
+        " to specify the parameters for the sessions. : SDP: Session Description Protocol, M. Handley, V. Jacobson, C. Perkins, IETF     An RTP session is established for each multimedia stream. Audio and video streams may use separate RTP sessions, enabling a receiver to selectively receive components of a particular stream.  A session consists of a destination ": null
+    },
+    {
+        "IP address": "Ip Address"
+    },
+    {
+        " with a pair of ports for RTP and RTCP. The specification recommends that RTP port numbers are chosen to be even and that each associated RTCP port be the next higher odd number.  However, a single port is chosen for RTP and RTCP in applications that multiplex the protocols.  RTP and RTCP typically use unprivileged UDP ports ,  but may also use other transport protocols, most notably, ": null
+    },
+    {
+        "SCTP": "Sctp"
+    },
+    {
+        " and ": null
+    },
+    {
+        "DCCP": "Dccp"
+    },
+    {
+        ", as the protocol design is transport independent.            One of the design considerations for RTP is to carry a range of multimedia formats and allow new formats without revising the RTP standard. To this end, the information required by a specific application of the protocol is not included in the generic RTP header, but is instead provided through separate RTP profiles and associated payload formats. For each class of application , RTP defines a profile and one or more associated payload formats.  A complete specification of RTP for a particular application usage requires profile and payload format specifications.       The profile defines the codecs used to encode the payload data and their mapping to payload format codes in the Payload Type field of the RTP header. Each profile is accompanied by several payload format specifications, each of which describes the transport of a particular encoded data. The audio payload formats include ": null
+    },
+    {
+        "G.711": "G.711"
+    },
+    {
+        ", ": null
+    },
+    {
+        "G.723": "G.723"
+    },
+    {
+        ", ": null
+    },
+    {
+        "G.726": "G.726"
+    },
+    {
+        ", ": null
+    },
+    {
+        "G.729": "G.729"
+    },
+    {
+        ", ": null
+    },
+    {
+        "GSM": "Gsm"
+    },
+    {
+        ", ": null
+    },
+    {
+        "QCELP": "Qcelp"
+    },
+    {
+        ", ": null
+    },
+    {
+        "MP3": "Mp3"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "DTMF": "Dtmf"
+    },
+    {
+        ", and the video payload formats include ": null
+    },
+    {
+        "H.261": "H.261"
+    },
+    {
+        ", ": null
+    },
+    {
+        "H.263": "H.263"
+    },
+    {
+        ", ": null
+    },
+    {
+        "H.264": "H.264"
+    },
+    {
+        ", ": null
+    },
+    {
+        "H.265": "H.265"
+    },
+    {
+        " and ": null
+    },
+    {
+        "MPEG-1": "Mpeg-1"
+    },
+    {
+        "/": null
+    },
+    {
+        "MPEG-2": "Mpeg-2"
+    },
+    {
+        ".  The mapping of ": null
+    },
+    {
+        "MPEG-4": "Mpeg-4"
+    },
+    {
+        " audio/video streams to RTP packets is specified in , and H.263 video payloads are described in .      Examples of RTP profiles include:   The RTP profile for Audio and video conferences with minimal control  defines a set of static payload type assignments, and a dynamic mechanism for mapping between a payload format, and a PT value using ": null
+    },
+    {
+        "Session Description Protocol": "Session Description Protocol"
+    },
+    {
+        " .   The ": null
+    },
+    {
+        "Secure Real-time Transport Protocol": "Secure Real-Time Transport Protocol"
+    },
+    {
+        "  defines an RTP profile that provides ": null
+    },
+    {
+        "cryptographic": "Cryptography"
+    },
+    {
+        " services for the transfer of payload data.    The experimental Control Data Profile for RTP for ": null
+    },
+    {
+        "machine-to-machine": "Machine-To-Machine"
+    },
+    {
+        " communications.        RTP packets are created at the application layer and handed to the transport layer for delivery. Each unit of RTP media data created by an application begins with the RTP packet header.        The RTP header has a minimum size of 12 bytes. After the header, optional header extensions may be present. This is followed by the RTP payload, the format of which is determined by the particular class of application.  The fields in the header are as follows:   Version: Indicates the version of the protocol. Current version is 2.    P : Used to indicate if there are extra padding bytes at the end of the RTP packet. Padding may be used to fill up a block of certain size, for example as required by an encryption algorithm. The last byte of the padding contains the number of padding bytes that were added .    X : Indicates presence of an extension header between the header and payload data. The extension header is application or profile specific.   CC : Contains the number of CSRC identifiers that follow the SSRC .  M : Signaling used at the application level in a profile-specific manner. If it is set, it means that the current data has some special relevance for the application.  PT : Indicates the format of the payload and thus determines its interpretation by the application. Values are profile specific and may be dynamically assigned.    Sequence number: The sequence number is incremented for each RTP data packet sent and is to be used by the receiver to detect packet loss and to accommodate ": null
+    },
+    {
+        "out-of-order delivery": "Out-Of-Order Delivery"
+    },
+    {
+        ". The initial value of the sequence number should be randomized to make ": null
+    },
+    {
+        "known-plaintext attacks": "Known-Plaintext Attack"
+    },
+    {
+        "on ": null
+    },
+    {
+        "Secure Real-time Transport Protocol": "Secure Real-Time Transport Protocol"
+    },
+    {
+        " more difficult.  Timestamp: Used by the receiver to play back the received samples at appropriate time and interval. When several media streams are present, the timestamps may be independent in each stream. The granularity of the timing is application specific. For example, an audio application that samples data once every 125  µs would use that value as its clock resolution. Video streams typically use a 90  kHz clock. The clock granularity is one of the details that is specified in the RTP profile for an application. Peterson, p.   SSRC: Synchronization source identifier uniquely identifies the source of a stream. The synchronization sources within the same RTP session will be unique.  CSRC:  Contributing source IDs enumerate contributing sources to a stream which has been generated from multiple sources.  Header extension:  The first 32-bit word contains a profile-specific identifier and a length specifier that indicates the length of the extension in 32-bit units, excluding the 32 bits of the extension header. The extension header data follows.        A functional network-based system includes other protocols and standards in conjunction with RTP. Protocols such as SIP, ": null
+    },
+    {
+        "Jingle": "Jingle"
+    },
+    {
+        ", RTSP, ": null
+    },
+    {
+        "H.225": "H.225"
+    },
+    {
+        " and ": null
+    },
+    {
+        "H.245": "H.245"
+    },
+    {
+        " are used for session initiation, control and termination. Other standards, such as H.264, MPEG and H.263, are used to encode the payload data as specified by the applicable RTP profile.      An RTP sender captures the multimedia data, then encodes, frames and transmits it as RTP packets with appropriate timestamps and increasing timestamps and sequence numbers. The sender sets the payload type field in accordance with connection negotiation and the RTP profile in use. The RTP receiver detects missing packets and may reorder packets. It decodes the media data in the packets according to the payload type and presents the stream to its user.       , Standard 64, RTP: A Transport Protocol for Real-Time Applications , Standard 65, RTP Profile for Audio and Video Conferences with Minimal Control , Media Type Registration of RTP Payload Formats , Media Type Registration of Payload Formats in the RTP Profile for Audio and Video Conferences , A Taxonomy of Semantics and Mechanisms for Real-Time Transport Protocol Sources , RTP Payload Format for 12-bit DAT Audio and 20- and 24-bit Linear Sampled Audio , RTP Payload Format for H.264 Video , RTP Payload Format for Transport of MPEG-4 Elementary Streams , RTP Payload Format for MPEG-4 Audio/Visual Streams , RTP Payload Format for MPEG1 / MPEG2 Video  , RTP Payload Format for Uncompressed Video ,  RTP Payload Format for MIDI  , An Implementation Guide for RTP MIDI , RTP Payload Format for the Opus Speech and Audio Codec , RTP Payload Format for High Efficiency Video Coding ": null
+    }
+]

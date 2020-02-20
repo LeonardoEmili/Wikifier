@@ -1,0 +1,419 @@
+[
+    {
+        "   An interpreted language is a type of ": null
+    },
+    {
+        "programming language": "Programming Language"
+    },
+    {
+        " for which most of its implementations execute instructions directly and freely, without previously ": null
+    },
+    {
+        "compiling": "Compiler"
+    },
+    {
+        " a ": null
+    },
+    {
+        "program": "Computer Program"
+    },
+    {
+        " into ": null
+    },
+    {
+        "machine-language": "Machine Language"
+    },
+    {
+        " instructions. The ": null
+    },
+    {
+        "interpreter": "Interpreter"
+    },
+    {
+        " executes the program directly, translating each statement into a sequence of one or more ": null
+    },
+    {
+        "subroutines": "Subroutines"
+    },
+    {
+        ", and then into another language .     The terms interpreted language and  compiled language  are not well defined because, in theory, any programming language can be either interpreted or compiled. In modern programming language implementation, it is increasingly popular for a platform to provide both options.     Interpreted languages can also be contrasted with machine languages. Functionally, both execution and interpretation mean the same thing — fetching the next instruction/statement from the program and executing it. Although interpreted ": null
+    },
+    {
+        "byte code": "Byte Code"
+    },
+    {
+        " is additionally identical to machine code in form and has an ": null
+    },
+    {
+        "assembler": "Assembly Language"
+    },
+    {
+        " representation, the term interpreted is sometimes reserved for software processed languages  on top of the native  processor.     In principle, programs in many languages may be compiled or interpreted, emulated or executed natively, so this designation is applied solely based on common implementation practice, rather than representing an essential property of a language.     Many languages have been implemented using both compilers and interpreters, including ": null
+    },
+    {
+        "BASIC": "Basic"
+    },
+    {
+        ", ": null
+    },
+    {
+        "C": "C"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Lisp": "Lisp"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Pascal": "Pascal"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Java": "Java"
+    },
+    {
+        " and ": null
+    },
+    {
+        "C": "C Sharp"
+    },
+    {
+        " are compiled into ": null
+    },
+    {
+        "bytecode": "Bytecode"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "virtual-machine-friendly interpreted language": "Interpreted Languagelanguages Usually Compiled To A Bytecode"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Lisp implementations": "List Of Lisp-Family Programming Languages"
+    },
+    {
+        " can freely mix interpreted and compiled code.     The distinction between a compiler and an interpreter is not always well defined, and many language processors do a combination of both.       In the early days of computing, language design was heavily influenced by the decision to use compiling or interpreting as a mode of execution. For example, ": null
+    },
+    {
+        "Smalltalk": "Smalltalk"
+    },
+    {
+        " , which was designed to be interpreted at run-time, allows generic objects to dynamically interact with each other.     Initially, interpreted languages were compiled line-by-line; that is, each line was compiled as it was about to be executed, and if a loop or subroutine caused certain lines to be executed multiple times, they would be recompiled every time. This has become much less common. Most so-called interpreted languages use an ": null
+    },
+    {
+        "intermediate representation": "Intermediate Representation"
+    },
+    {
+        ", which combines compiling and interpreting.     Examples include:   ": null
+    },
+    {
+        "JavaScript": "Javascript"
+    },
+    {
+        " Perl": "Perl"
+    },
+    {
+        " Python": "Python"
+    },
+    {
+        " BASIC": "Basic"
+    },
+    {
+        " Forth": "Forth"
+    },
+    {
+        "     The intermediate representation can be compiled once and for all , each time before execution , or each time a change in the source is detected before execution .       Interpreting a language gives implementations some additional flexibility over compiled implementations. Features that are often easier to implement in interpreters than in compilers include:   ": null
+    },
+    {
+        "platform independence": "Platform Independent"
+    },
+    {
+        "   reflection": "Reflection"
+    },
+    {
+        " and reflective use of the evaluator    ": null
+    },
+    {
+        "dynamic typing": "Dynamic Typing"
+    },
+    {
+        " dynamic scoping": "Scope Dynamic Scoping"
+    },
+    {
+        "     Furthermore, source code can be read and copied, giving users more freedom.            Disadvantages of interpreted languages are:   Without ": null
+    },
+    {
+        "static type-checking": "Static Type-Checking"
+    },
+    {
+        ", which is usually performed by a compiler, programs can be less reliable, because type checking eliminates a class of programming errors    Interpreters can be susceptible to ": null
+    },
+    {
+        "Code injection": "Code Injection"
+    },
+    {
+        " attacks.   Slower execution compared to direct native ": null
+    },
+    {
+        "machine code": "Machine Code"
+    },
+    {
+        " execution on the host ": null
+    },
+    {
+        "CPU": "Cpu"
+    },
+    {
+        ". A technique used to improve performance is ": null
+    },
+    {
+        "just-in-time compilation": "Just-In-Time Compilation"
+    },
+    {
+        " which converts frequently executed sequences of interpreted instruction to host machine code. JIT is most often combined with compilation to byte-code as in ": null
+    },
+    {
+        "Java": "Java"
+    },
+    {
+        ".   Source code can be read and copied , or more easily reverse engineered through ": null
+    },
+    {
+        "reflection": "Reflection"
+    },
+    {
+        " in applications where intellectual property has a commercial advantage. In some cases, ": null
+    },
+    {
+        "obfuscation": "Obfuscation"
+    },
+    {
+        " is used as a partial defense against this.            Several criteria can be used to determine whether a particular language is likely to be called compiled or interpreted by its users:     If a subroutine can be invoked prior to where its defined in the source code, the entire source is likely being compiled to an intermediate representation before execution. Examples: ": null
+    },
+    {
+        "Perl": "Perl"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Java": "Java"
+    },
+    {
+        " Java": "Java"
+    },
+    {
+        ", ": null
+    },
+    {
+        "C": "C"
+    },
+    {
+        " Unix shell": "Unix Shell"
+    },
+    {
+        " languages     These are not definitive. Compiled languages can have interpreter-like properties and vice versa.       ": null
+    },
+    {
+        "APL": "Apl"
+    },
+    {
+        " A vector oriented language using an unusual character set   ": null
+    },
+    {
+        "J": "J"
+    },
+    {
+        " An APL variant in which tacit definition provides some of the benefits of compiling   ": null
+    },
+    {
+        "BASIC": "Basic"
+    },
+    {
+        "   Equation manipulation and solving systems   ": null
+    },
+    {
+        "GNU Octave": "Gnu Octave"
+    },
+    {
+        " Interactive Data Language": "Idl"
+    },
+    {
+        "   TK Solver": "Tk Solver"
+    },
+    {
+        " Mathematica": "Mathematica"
+    },
+    {
+        " MATLAB": "Matlab"
+    },
+    {
+        " Euphoria": "Euphoria"
+    },
+    {
+        " Interpreted or compiled.   ": null
+    },
+    {
+        "GameMaker Language": "Gamemaker Studio"
+    },
+    {
+        " Bytecode after GameMaker: Studio.   ": null
+    },
+    {
+        "JavaScript": "Javascript"
+    },
+    {
+        " Forth": "Forth"
+    },
+    {
+        " Lava": "Lava"
+    },
+    {
+        " Lisp": "Lisp"
+    },
+    {
+        " Logo": "Logo"
+    },
+    {
+        " Scheme": "Scheme"
+    },
+    {
+        " MUMPS": "Mumps"
+    },
+    {
+        " PHP": "Php"
+    },
+    {
+        " PostScript": "Postscript"
+    },
+    {
+        " PowerShell": "Powershell"
+    },
+    {
+        " Ruby": "Ruby"
+    },
+    {
+        " REXX": "Rexx"
+    },
+    {
+        " Seed7": "Seed7"
+    },
+    {
+        " Smalltalk": "Smalltalk"
+    },
+    {
+        "Spreadsheets": "Spreadsheet"
+    },
+    {
+        "  Excel": "Microsoft Excel"
+    },
+    {
+        " S": "S"
+    },
+    {
+        " R": "R"
+    },
+    {
+        " Tcl": "Tcl"
+    },
+    {
+        " Unix shell": "Unix Shell"
+    },
+    {
+        " XOTcl": "Xotcl"
+    },
+    {
+        " VBScript": "Vbscript"
+    },
+    {
+        "        Many languages are first compiled to ": null
+    },
+    {
+        "bytecode": "Bytecode"
+    },
+    {
+        ". Sometimes, bytecode can also be compiled to a native binary using an ": null
+    },
+    {
+        "AOT compiler": "Aot Compiler"
+    },
+    {
+        " or executed natively, by hardware processor.   ": null
+    },
+    {
+        "AppleScript": "Applescript"
+    },
+    {
+        " Erlang": "Erlang"
+    },
+    {
+        "   Elixir": "Elixir"
+    },
+    {
+        "   Java": "Java"
+    },
+    {
+        "    Clojure": "Clojure"
+    },
+    {
+        " Groovy": "Groovy"
+    },
+    {
+        " Kotlin": "Kotlin"
+    },
+    {
+        " ColdFusion": "Coldfusion"
+    },
+    {
+        " Scala": "Scala"
+    },
+    {
+        " .NET Framework": ".Net Framework"
+    },
+    {
+        " languages .   ": null
+    },
+    {
+        "C++/CLI": "C++/Cli"
+    },
+    {
+        " C": "C Sharp"
+    },
+    {
+        " Visual Basic .NET": "Visual Basic .Net"
+    },
+    {
+        " F": "F Sharp"
+    },
+    {
+        " Lisp": "Lisp"
+    },
+    {
+        " Lua": "Lua"
+    },
+    {
+        " Perl": "Perl"
+    },
+    {
+        " Pike": "Pike"
+    },
+    {
+        " Python": "Python"
+    },
+    {
+        "    Squeak Smalltalk": "Squeak Smalltalk"
+    },
+    {
+        " Visual FoxPro": "Visual Foxpro"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "The MOS Technology 65xx series is a family of ": null
+    },
+    {
+        "8-bit": "8-Bit"
+    },
+    {
+        "microprocessors": "Microprocessor"
+    },
+    {
+        "from ": null
+    },
+    {
+        "MOS Technology": "Mos Technology"
+    },
+    {
+        ", based on the ": null
+    },
+    {
+        "Motorola 6800": "Motorola 6800"
+    },
+    {
+        " . The 65xx family included the ": null
+    },
+    {
+        "6502": "Mos Technology 6502"
+    },
+    {
+        ", used in ": null
+    },
+    {
+        "home computers": "Home Computer"
+    },
+    {
+        "such as the ": null
+    },
+    {
+        "Commodore PET": "Commodore Pet"
+    },
+    {
+        " and ": null
+    },
+    {
+        "VIC-20": "Commodore Vic-20"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "Apple II": "Apple Ii Family"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "Atari 800": "Atari 8-Bit Family"
+    },
+    {
+        ", and the British ": null
+    },
+    {
+        "BBC Micro": "Bbc Micro"
+    },
+    {
+        ".     The 6501 and 6502 have 40-pin ": null
+    },
+    {
+        "DIP": "Dual Inline Package"
+    },
+    {
+        " packages; the 6503, 6504, 6505, and 6507 are 28-pin DIP versions, for reduced chip and circuit board cost. In all of the 28-pin versions, the pin count is reduced by leaving off some of the high-order address pins and various combinations of function pins, making those functions unavailable.     Typically, the 12 pins omitted are the three not connected pins, one of the two Vss pins, one of the clock pins, the SYNC pin, the set overflow pin, either the maskable interrupt or the non-maskable interrupt , and the four most-significant address lines are the 12 pins omitted to reduce the pin count from 40 to 28. The omission of four address pins reduces the external addressability to 4 KB , though the internal PC register and all effective address calculations remain 16-bit.     The ": null
+    },
+    {
+        "6507": "Mos Technology 6507"
+    },
+    {
+        " omits both interrupt pins in order to include address line A12, providing 8 KB of external addressability but no interrupt capability. The 6507 was used in the popular ": null
+    },
+    {
+        "Atari 2600": "Atari 2600"
+    },
+    {
+        " video game console, the design of which divides the 8 KB memory space in half, allocating the lower half to the consoles internal RAM and peripherals, and the upper half to the Game Cartridge & trade;, so Atari 2600 cartridges have a 4 KB address limit .     One popular 6502 based computer, the ": null
+    },
+    {
+        "Commodore 64": "Commodore 64"
+    },
+    {
+        ", used a modified 6502 CPU, the ": null
+    },
+    {
+        "6510": "Mos Technology 6510"
+    },
+    {
+        ". Unlike the 6503 & ndash;6505 and 6507, the 6510 is a 40-pin chip that adds internal hardware: an 8-bit parallel I/O port mapped to addresses 0000 and 0001. The ": null
+    },
+    {
+        "6508": "Mos Technology 6508"
+    },
+    {
+        " is another chip that, like the 6510, adds internal hardware: 256 bytes of ": null
+    },
+    {
+        "SRAM": "Static Random-Access Memory"
+    }
+]

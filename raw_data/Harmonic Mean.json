@@ -1,0 +1,131 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", the harmonic mean  is one of several kinds of ": null
+    },
+    {
+        "average": "Average"
+    },
+    {
+        ", and in particular one of the ": null
+    },
+    {
+        "Pythagorean means": "Pythagorean Means"
+    },
+    {
+        ". Typically, it is appropriate for situations when the average of ": null
+    },
+    {
+        "rates": "Rate"
+    },
+    {
+        "is desired.     The harmonic mean can be expressed as the ": null
+    },
+    {
+        "reciprocal": "Multiplicative Inverse"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "arithmetic mean": "Arithmetic Mean"
+    },
+    {
+        " of the reciprocals of the given set of observations. As a simple example, the harmonic mean of 1, 4, and 4 is   : \\left^ \\frac \\frac 2\\,.         The harmonic mean H of the positive ": null
+    },
+    {
+        "real numbers": "Real Number"
+    },
+    {
+        "  x_1, x_2, \\ldots, x_n is defined to be     : H \\frac \\frac \\left^.     The third formula in the above equation expresses the harmonic mean as the reciprocal of the arithmetic mean of the reciprocals.     From the following formula:     : H \\frac.     it is more apparent that the harmonic mean is related to the ": null
+    },
+    {
+        "arithmetic": "Arithmetic Mean"
+    },
+    {
+        " and ": null
+    },
+    {
+        "geometric mean": "Geometric Mean"
+    },
+    {
+        "s. It is the reciprocal ": null
+    },
+    {
+        "dual": "Dual"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "arithmetic mean": "Arithmetic Mean"
+    },
+    {
+        " for positive inputs:     : 1/H A     The harmonic mean is a ": null
+    },
+    {
+        "Schur-concave": "Schur-Concave"
+    },
+    {
+        " function, and dominated by the minimum of its arguments, in the sense that for any positive set of arguments, \\min \\le H \\le n \\min . Thus, the harmonic mean cannot be made ": null
+    },
+    {
+        "arbitrarily large": "Arbitrarily Large"
+    },
+    {
+        " by changing some values to bigger ones .       The harmonic mean is one of the three ": null
+    },
+    {
+        "Pythagorean means": "Pythagorean Means"
+    },
+    {
+        ". For all positive data sets containing at least one pair of nonequal values, the harmonic mean is always the least of the three means, Da-Feng Xia, Sen-Lin Xu, and Feng Qi, A proof of the arithmetic mean-geometric mean-harmonic mean inequalities , RGMIA Research Report Collection, vol. 2, no. 1, 1999,  while the ": null
+    },
+    {
+        "arithmetic mean": "Arithmetic Mean"
+    },
+    {
+        " is always the greatest of the three and the ": null
+    },
+    {
+        "geometric mean": "Geometric Mean"
+    },
+    {
+        " is always in between.     It is the special case M −1 of the ": null
+    },
+    {
+        "power mean": "Power Mean"
+    },
+    {
+        ":     : H\\left M_\\left \\frac     Since the harmonic mean of a list of numbers tends strongly toward the least elements of the list, it tends to mitigate the impact of large outliers and aggravate the impact of small ones.     The arithmetic mean is often mistakenly used in places calling for the harmonic mean. Statistical Analysis, Ya-lun Chou, Holt International, 1969,  In the speed example ": null
+    },
+    {
+        "below": "Examples"
+    },
+    {
+        " for instance, the arithmetic mean of 40 is incorrect, and too big.     The harmonic mean is related to the other Pythagorean means, as seen in the equation below. This can be seen by interpreting the denominator to be the arithmetic mean of the product of numbers n times but each time omitting the j-th term. That is, for the first term, we multiply all n numbers except the first; for the second, we multiply all n numbers except the second; and so on. The numerator, excluding the n, which goes with the arithmetic mean, is the geometric mean to the power  n. Thus the n-th harmonic mean is related to the n-th geometric and arithmetic means. The general formula is     : H\\left   \\frac     \\frac   .       If a set of non-identical numbers is subjected to a ": null
+    },
+    {
+        "mean-preserving spread": "Mean-Preserving Spread"
+    },
+    {
+        " — that is, two or more elements of the set are spread apart from each other while leaving the arithmetic mean unchanged — then the harmonic mean always decreases. Mitchell, Douglas W., More on spreads and non-arithmetic means,  The Mathematical Gazette  88, March 2004, 142–144.           ": null
+    },
+    {
+        "5": "5"
+    },
+    {
+        "              The harmonic mean of a ": null
+    },
+    {
+        "beta distribution": "Beta Distribution"
+    },
+    {
+        " with shape parameters α and β is:     : H \\frac \\text \\alpha  math /math  math /math  math  ": null
+    }
+]

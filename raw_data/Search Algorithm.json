@@ -1,0 +1,515 @@
+[
+    {
+        "      In ": null
+    },
+    {
+        "computer science": "Computer Science"
+    },
+    {
+        ", a search algorithm is any ": null
+    },
+    {
+        "algorithm": "Algorithm"
+    },
+    {
+        " which solves the ": null
+    },
+    {
+        "search problem": "Search Problem"
+    },
+    {
+        ", namely, to retrieve information stored within some data structure, or calculated in the ": null
+    },
+    {
+        "search space": "Feasible Region"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "problem domain": "Problem Domain"
+    },
+    {
+        ", either with ": null
+    },
+    {
+        "discrete or continuous values": "Continuous Or Discrete Variable"
+    },
+    {
+        ". Specific applications of search algorithms include:     Problems in ": null
+    },
+    {
+        "combinatorial optimization": "Combinatorial Optimization"
+    },
+    {
+        ", such as:   The ": null
+    },
+    {
+        "vehicle routing problem": "Vehicle Routing Problem"
+    },
+    {
+        ", a form of ": null
+    },
+    {
+        "shortest path problem": "Shortest Path Problem"
+    },
+    {
+        " knapsack problem": "Knapsack Problem"
+    },
+    {
+        ": Given a set of items, each with a weight and a value, determine the number of each item to include in a collection so that the total weight is less than or equal to a given limit and the total value is as large as possible.   The ": null
+    },
+    {
+        "nurse scheduling problem": "Nurse Scheduling Problem"
+    },
+    {
+        " constraint satisfaction": "Constraint Satisfaction"
+    },
+    {
+        ", such as:   The ": null
+    },
+    {
+        "map coloring problem": "Map Coloring Problem"
+    },
+    {
+        " sudoku": "Sudoku"
+    },
+    {
+        " or ": null
+    },
+    {
+        "crossword puzzle": "Crossword Puzzle"
+    },
+    {
+        " game theory": "Game Theory"
+    },
+    {
+        " and especially ": null
+    },
+    {
+        "combinatorial game theory": "Combinatorial Game Theory"
+    },
+    {
+        ", choosing the best move to make next    Finding a combination or password from the whole set of possibilities   ": null
+    },
+    {
+        "Factoring": "Factorization"
+    },
+    {
+        " an integer    Optimizing an industrial process, such as a ": null
+    },
+    {
+        "chemical reaction": "Chemical Reaction"
+    },
+    {
+        ", by changing the parameters of the process   Retrieving a record from a ": null
+    },
+    {
+        "database": "Database"
+    },
+    {
+        " list": "List"
+    },
+    {
+        " or ": null
+    },
+    {
+        "array": "Array Data Structure"
+    },
+    {
+        " web search": "Web Search"
+    },
+    {
+        " are both problems in ": null
+    },
+    {
+        "information retrieval": "Information Retrieval"
+    },
+    {
+        ", but are generally studied as separate subfields and are solved and evaluated differently.   are generally focused on filtering and   that find documents most relevant to human queries. Classic search algorithms are typically evaluated on how fast they can find a solution, and whether that solution is guaranteed to be optimal. Though information retrieval algorithms must be fast, the quality of ranking is more important, as is whether good results have been left out and bad results included.     The appropriate search algorithm often depends on the data structure being searched, and may also include prior knowledge about the data. Some database structures are specially constructed to make search algorithms faster or more efficient, such as a ": null
+    },
+    {
+        "search tree": "Search Tree"
+    },
+    {
+        ", ": null
+    },
+    {
+        "hash map": "Hash Map"
+    },
+    {
+        ", or a ": null
+    },
+    {
+        "database index": "Database Index"
+    },
+    {
+        ".      Search algorithms can be classified based on their mechanism of searching. ": null
+    },
+    {
+        "Linear search": "Linear Search"
+    },
+    {
+        " algorithms check every record for the one associated with a target key in a linear fashion. ": null
+    },
+    {
+        "Binary, or half interval searches": "Binary Search Algorithm"
+    },
+    {
+        ", repeatedly target the center of the search structure and divide the search space in half. Comparison search algorithms improve on linear searching by successively eliminating records based on comparisons of the keys until the target record is found, and can be applied on data structures with a defined order. Digital search algorithms work based on the properties of digits in data structures that use numerical keys. Finally, ": null
+    },
+    {
+        "hashing": "Hash Table"
+    },
+    {
+        " directly maps keys to records based on a ": null
+    },
+    {
+        "hash function": "Hash Function"
+    },
+    {
+        ". Searches outside a linear search require that the data be sorted in some way.     Algorithms are often evaluated by their ": null
+    },
+    {
+        "computational complexity": "Computational Complexity"
+    },
+    {
+        ", or maximum theoretical run time. Binary search functions, for example, have a maximum complexity of , or logarithmic time. This means that the maximum number of operations needed to find the search target is a logarithmic function of the size of the search space.                Algorithms for searching virtual spaces are used in the ": null
+    },
+    {
+        "constraint satisfaction problem": "Constraint Satisfaction Problem"
+    },
+    {
+        ", where the goal is to find a set of value assignments to certain variables that will satisfy specific mathematical ": null
+    },
+    {
+        "equations": "Equation"
+    },
+    {
+        "and ": null
+    },
+    {
+        "inequations": "Inequation"
+    },
+    {
+        "/ equalities. They are also used when the goal is to find a variable assignment that will ": null
+    },
+    {
+        "maximize or minimize": "Discrete Optimization"
+    },
+    {
+        " a certain function of those variables. Algorithms for these problems include the basic ": null
+    },
+    {
+        "brute-force search": "Brute-Force Search"
+    },
+    {
+        " , and a variety of ": null
+    },
+    {
+        "heuristics": "Heuristic Function"
+    },
+    {
+        "that try to exploit partial knowledge about the structure of this space, such as linear relaxation, constraint generation, and ": null
+    },
+    {
+        "constraint propagation": "Local Consistency"
+    },
+    {
+        ".     An important subclass are the ": null
+    },
+    {
+        "local search": "Local Search"
+    },
+    {
+        " methods, that view the elements of the search space as the ": null
+    },
+    {
+        "vertices": "Vertex"
+    },
+    {
+        " of a graph, with edges defined by a set of heuristics applicable to the case; and scan the space by moving from item to item along the edges, for example according to the ": null
+    },
+    {
+        "steepest descent": "Gradient Descent"
+    },
+    {
+        " or ": null
+    },
+    {
+        "best-first": "Best-First Search"
+    },
+    {
+        " criterion, or in a ": null
+    },
+    {
+        "stochastic search": "Stochastic Optimization"
+    },
+    {
+        ". This category includes a great variety of general ": null
+    },
+    {
+        "metaheuristic": "Metaheuristic"
+    },
+    {
+        " methods, such as ": null
+    },
+    {
+        "simulated annealing": "Simulated Annealing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "tabu search": "Tabu Search"
+    },
+    {
+        ", A-teams, and ": null
+    },
+    {
+        "genetic programming": "Genetic Programming"
+    },
+    {
+        ", that combine arbitrary heuristics in specific ways.     This class also includes various ": null
+    },
+    {
+        "tree search algorithm": "Tree Traversal"
+    },
+    {
+        "s, that view the elements as vertices of a ": null
+    },
+    {
+        "tree": "Tree"
+    },
+    {
+        ", and traverse that tree in some special order. Examples of the latter include the exhaustive methods such as ": null
+    },
+    {
+        "depth-first search": "Depth-First Search"
+    },
+    {
+        " and ": null
+    },
+    {
+        "breadth-first search": "Breadth-First Search"
+    },
+    {
+        ", as well as various heuristic-based ": null
+    },
+    {
+        "search tree pruning": "Pruning"
+    },
+    {
+        " methods such as ": null
+    },
+    {
+        "backtracking": "Backtracking"
+    },
+    {
+        " and ": null
+    },
+    {
+        "branch and bound": "Branch And Bound"
+    },
+    {
+        ". Unlike general metaheuristics, which at best work only in a probabilistic sense, many of these tree-search methods are guaranteed to find the exact or optimal solution, if given enough time. This is called ": null
+    },
+    {
+        "completeness": "Completeness"
+    },
+    {
+        " .     Another important sub-class consists of algorithms for exploring the ": null
+    },
+    {
+        "game tree": "Game Tree"
+    },
+    {
+        " of multiple-player games, such as ": null
+    },
+    {
+        "chess": "Chess"
+    },
+    {
+        " or ": null
+    },
+    {
+        "backgammon": "Backgammon"
+    },
+    {
+        ", whose nodes consist of all possible game situations that could result from the current situation. The goal in these problems is to find the move that provides the best chance of a win, taking into account all possible moves of the opponent. Similar problems occur when humans or machines have to make successive decisions whose outcomes are not entirely under ones control, such as in ": null
+    },
+    {
+        "robot": "Robot"
+    },
+    {
+        " guidance or in ": null
+    },
+    {
+        "marketing": "Marketing"
+    },
+    {
+        ", ": null
+    },
+    {
+        "financial": "Finance"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "military": "Military"
+    },
+    {
+        " strategy planning. This kind of problem — ": null
+    },
+    {
+        "combinatorial search": "Combinatorial Search"
+    },
+    {
+        " — has been extensively studied in the context of ": null
+    },
+    {
+        "artificial intelligence": "Artificial Intelligence"
+    },
+    {
+        ". Examples of algorithms for this class are the ": null
+    },
+    {
+        "minimax algorithm": "Minimax"
+    },
+    {
+        ", ": null
+    },
+    {
+        "alpha–beta pruning": "Alpha–Beta Pruning"
+    },
+    {
+        ", Informational search  and the ": null
+    },
+    {
+        "A algorithm": "A Search Algorithm"
+    },
+    {
+        ".       The name combinatorial search is generally used for algorithms that look for a specific sub-structure of a given ": null
+    },
+    {
+        "discrete structure": "Discrete Mathematics"
+    },
+    {
+        ", such as a graph, a ": null
+    },
+    {
+        "string": "String"
+    },
+    {
+        ", a finite ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        ", and so on. The term ": null
+    },
+    {
+        "combinatorial optimization": "Combinatorial Optimization"
+    },
+    {
+        " is typically used when the goal is to find a sub-structure with a maximum value of some parameter.     An important and extensively studied subclass are the ": null
+    },
+    {
+        "graph algorithm": "List Of Algorithmsgraph Algorithms"
+    },
+    {
+        "s, in particular ": null
+    },
+    {
+        "graph traversal": "Graph Traversal"
+    },
+    {
+        " algorithms, for finding specific sub-structures in a given graph — such as ": null
+    },
+    {
+        "subgraphs": "Glossary Of Graph Theorysubgraphs"
+    },
+    {
+        ", ": null
+    },
+    {
+        "paths": "Path"
+    },
+    {
+        ", circuits, and so on. Examples include ": null
+    },
+    {
+        "Dijkstras algorithm": "Dijkstras Algorithm"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Kruskals algorithm": "Kruskals Algorithm"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "nearest neighbour algorithm": "Nearest Neighbour Algorithm"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Prims algorithm": "Prims Algorithm"
+    },
+    {
+        ".     Another important subclass of this category are the ": null
+    },
+    {
+        "string searching algorithm": "String Searching Algorithm"
+    },
+    {
+        "s, that search for patterns within strings. Two famous examples are the ": null
+    },
+    {
+        "Boyer–Moore": "Boyer–Moore String Search Algorithm"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Knuth–Morris–Pratt algorithm": "Knuth–Morris–Pratt Algorithm"
+    },
+    {
+        "s, and several algorithms based on the ": null
+    },
+    {
+        "suffix tree": "Suffix Tree"
+    },
+    {
+        " data structure.       In 1953, American ": null
+    },
+    {
+        "statistician": "Statistics"
+    },
+    {
+        " Jack Kiefer": "Jack Kiefer"
+    },
+    {
+        " devised ": null
+    },
+    {
+        "Fibonacci search": "Fibonacci Search Technique"
+    },
+    {
+        " which can be used to find the maximum of a unimodal function and has many other applications in computer science.       There are also search methods designed for ": null
+    },
+    {
+        "quantum computer": "Quantum Computing"
+    },
+    {
+        "s, like ": null
+    },
+    {
+        "Grovers algorithm": "Grovers Algorithm"
+    }
+]

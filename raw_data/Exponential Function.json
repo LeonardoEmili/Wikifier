@@ -1,0 +1,35 @@
+[
+    {
+        "              In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", an exponential function is a ": null
+    },
+    {
+        "function": "Function"
+    },
+    {
+        " of the form      where  is a positive real number, and in which the argument  occurs as an exponent. For real numbers  and  a function of the form fab^ is also an exponential function, as it can be rewritten as   : ab^\\left \\left^x.     As functions of a real variable, exponential functions are uniquely ": null
+    },
+    {
+        "characterized": "Characterization"
+    },
+    {
+        " by the fact that the growth rate of such a function  is ": null
+    },
+    {
+        "directly proportional": "Proportionality Direct Proportionality"
+    },
+    {
+        " to the value of the function. The constant of proportionality of this relationship is the ": null
+    },
+    {
+        "natural logarithm": "Natural Logarithm"
+    },
+    {
+        " of the base :          For  the real exponential function is a constant and the derivative is zero because \\log_e b 0, for positive  and  they are monotonically decreasing , because the derivative is less than zero for all arguments.     The constant  is the unique base for which the constant of proportionality is 1, so that the functions derivative is itself:          Since changing the base of the exponential function merely results in the appearance of an additional constant factor, it is computationally convenient to reduce the study of exponential functions in mathematical analysis to the study of this particular function, conventionally called the natural exponential function , or simply, the exponential function and denoted by          While both notations are common, the former notation is generally used for simpler exponents, while the latter tends to be used when the exponent is a complicated expression.     The exponential function satisfies the fundamental multiplicative identity          This identity extends to complex-valued exponents. It can be shown that every continuous, nonzero solution of the functional equation fff is an exponential function, f:\\mathbb\\to\\mathbb,\\ x\\mapsto b^x, with b /math  math /math  ref name Rudin_1987 /  math /math  math /math ref group nb name Logx / math /math ref group nb name lnx / math /math ref name Durell_1911 /  math /math  ref name Rudin_1987 / math /math  math /math  math display inline /math math /math  math /math  math /math math /math  math /math math ": null
+    }
+]

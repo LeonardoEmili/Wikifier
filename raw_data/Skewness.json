@@ -1,0 +1,161 @@
+[
+    {
+        "                  In ": null
+    },
+    {
+        "probability theory": "Probability Theory"
+    },
+    {
+        " and ": null
+    },
+    {
+        "statistics": "Statistics"
+    },
+    {
+        ", skewness is a measure of the asymmetry of the ": null
+    },
+    {
+        "probability distribution": "Probability Distribution"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "real": "Real Number"
+    },
+    {
+        "-valued ": null
+    },
+    {
+        "random variable": "Random Variable"
+    },
+    {
+        " about its mean. The skewness value can be positive or negative, or undefined.     For a ": null
+    },
+    {
+        "unimodal": "Unimodal"
+    },
+    {
+        " distribution, negative skew commonly indicates that the tail is on the left side of the distribution, and positive skew indicates that the tail is on the right. In cases where one tail is long but the other tail is fat, skewness does not obey a simple rule. For example, a zero value means that the tails on both sides of the mean balance out overall; this is the case for a symmetric distribution, but can also be true for an asymmetric distribution where one tail is long and thin, and the other is short but fat.       Consider the two distributions in the figure just below. Within each graph, the values on the right side of the distribution taper differently from the values on the left side. These tapering sides are called tails, and they provide a visual means to determine which of the two kinds of skewness a distribution has:   : The left tail is longer; the mass of the distribution is concentrated on the right of the figure. The distribution is said to be left-skewed, left-tailed, or skewed to the left, despite the fact that the curve itself appears to be skewed or leaning to the right; left instead refers to the left tail being drawn out and, often, the mean being skewed to the left of a typical center of the data. A left-skewed distribution usually appears as a right-leaning curve. Susan Dean, Barbara Illowsky , Connexions website   : The right tail is longer; the mass of the distribution is concentrated on the left of the figure. The distribution is said to be right-skewed, right-tailed, or skewed to the right, despite the fact that the curve itself appears to be skewed or leaning to the left; right instead refers to the right tail being drawn out and, often, the mean being skewed to the right of a typical center of the data. A right-skewed distribution usually appears as a left-leaning curve.     ": null
+    },
+    {
+        "Image:Negative and positive skew diagrams .svg": "Image:Negative And Positive Skew Diagrams .Svg"
+    },
+    {
+        "     Skewness in a data series may sometimes be observed not only graphically but by simple inspection of the values. For instance, consider the numeric sequence , whose values are evenly distributed around a central value of 50. We can transform this sequence into a negatively skewed distribution by adding a value far below the mean, which is probably a negative ": null
+    },
+    {
+        "outlier": "Outlier"
+    },
+    {
+        ", e.g. . Therefore, the mean of the sequence becomes 47.5, and the median is 49.5. Based on the formula of ": null
+    },
+    {
+        "nonparametric skew": "Nonparametric Skew"
+    },
+    {
+        ", defined as /\\sigma, the sequence is negative. Similarly, we can make the sequence positively skewed by adding a value far above the mean, which is probably a positive outlier, e.g. , where the mean is 52.5, and the median is 50.5.       The skewness is not directly related to the relationship between the mean and median: a distribution with negative skew can have its mean greater than or less than the median, and likewise for positive skew.       In the older notion of ": null
+    },
+    {
+        "nonparametric skew": "Nonparametric Skew"
+    },
+    {
+        ", defined as /\\sigma, where \\mu is the ": null
+    },
+    {
+        "mean": "Mean"
+    },
+    {
+        ", \\nu is the ": null
+    },
+    {
+        "median": "Median"
+    },
+    {
+        ", and \\sigma is the ": null
+    },
+    {
+        "standard deviation": "Standard Deviation"
+    },
+    {
+        ", the skewness is defined in terms of this relationship: positive/right nonparametric skew means the mean is greater than the median, while negative/left nonparametric skew means the mean is less than the median. However, the modern definition of skewness and the traditional nonparametric definition do not always have the same sign: while they agree for some families of distributions, they differ in some of the cases, and conflating them is misleading.     If the distribution is ": null
+    },
+    {
+        "symmetric": "Symmetric Probability Distribution"
+    },
+    {
+        ", then the mean is equal to the median, and the distribution has zero skewness.  If the distribution is both symmetric and ": null
+    },
+    {
+        "unimodal": "Unimodal Distribution"
+    },
+    {
+        ", then the ": null
+    },
+    {
+        "mean": "Mean"
+    },
+    {
+        " median": "Median"
+    },
+    {
+        " mode": "Mode"
+    },
+    {
+        ". This is the case of a coin toss or the series 1,2,3,4,... Note, however, that the converse is not true in general, i.e. zero skewness does not imply that the mean is equal to the median.     A 2005 journal article points out: Many textbooks teach a rule of thumb stating that the mean is right of the median under right skew, and left of the median under left skew. This rule fails with surprising frequency. It can fail in ": null
+    },
+    {
+        "multimodal distribution": "Multimodal Distribution"
+    },
+    {
+        "s, or in distributions where one tail is ": null
+    },
+    {
+        "long": "Long Tail"
+    },
+    {
+        " but the other is ": null
+    },
+    {
+        "heavy": "Heavy-Tailed Distribution"
+    },
+    {
+        ". Most commonly, though, the rule fails in discrete distributions where the areas to the left and right of the median are not equal. Such distributions not only contradict the textbook relationship between mean, median, and skew, they also contradict the textbook interpretation of the median.      For example , in the distribution of adult residents across US households, the skew is to the right. However, due to the majority of cases is less or equal to the mode, which is also the median, the mean sits in the heavier left tail. As a result, the rule of thumb that the mean is right of the median under right skew failed.           The skewness of a random variable X is the third ": null
+    },
+    {
+        "standardized moment": "Standardized Moment"
+    },
+    {
+        " \\tilde_3 , defined as:     :   \\tilde_3 \\operatorname\\left   \\frac   \\frac   \\frac     where μ is the mean, σ is the ": null
+    },
+    {
+        "standard deviation": "Standard Deviation"
+    },
+    {
+        ", E is the ": null
+    },
+    {
+        "expectation operator": "Expected Value"
+    },
+    {
+        ", μ 3 is the third ": null
+    },
+    {
+        "central moment": "Central Moment"
+    },
+    {
+        ", and κ t are the t-th ": null
+    },
+    {
+        "cumulant": "Cumulant"
+    },
+    {
+        "s. It is sometimes referred to as Pearsons moment coefficient of skewness, , FXSolver.com or simply the moment coefficient of skewness, , 2008–2016 by Stan Brown, Oak Road Systems but should not be confused with Pearsons other skewness statistics . The last equality expresses skewness in terms of the ratio of the third cumulant κ 3 to the 1.5th power of the second cumulant κ 2 . This is analogous to the definition of ": null
+    },
+    {
+        "kurtosis": "Kurtosis"
+    },
+    {
+        " as the fourth cumulant normalized by the square of the second cumulant.   The skewness is also sometimes denoted SkewX.     If σ is finite, μ is finite too and skewness can be expressed in terms of the non-central moment EX 3 by expanding the previous formula,   :   \\begin   \\tilde_3   & \\operatorname\\left \\\\   & \\frac\\\\   & \\frac\\\\   & \\frac.   \\end           Skewness can be infinite, as when   : \\Pr \\left /2\\mboxx\\mbox\\PrX /math  span style font-size:125%;  /span  math /math  ref nameJG  /ref math /math math /math  sub /sub  ref nameJG/ ref  /ref math  /math math /math  math /math math /math math /math  math /math math /math math /math  math /math math /math  ref nameDuncan1997  /ref ref  /ref math /math  math /math math \\operatorname \\left ": null
+    }
+]

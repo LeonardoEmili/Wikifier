@@ -1,0 +1,347 @@
+[
+    {
+        "Computer keyboards": "Computer Keyboard"
+    },
+    {
+        "can be classified by the ": null
+    },
+    {
+        "switch": "Switch"
+    },
+    {
+        " technology that they use. Computer alphanumeric keyboards typically have 80 to 110 durable switches, generally one for each key. The choice of switch technology affects key response and pre travel . Newer keyboard models use hybrids of various technologies to achieve greater cost savings.              There are two types of membrane-based keyboards, flat-panel membrane keyboards and full-travel membrane keyboards:     Flat-panel membrane keyboards are most often found on appliances like ": null
+    },
+    {
+        "microwave ovens": "Microwave Oven"
+    },
+    {
+        "or ": null
+    },
+    {
+        "photocopier": "Photocopier"
+    },
+    {
+        "s. A common design consists of three layers. The top layer has the labels printed on its front and conductive stripes printed on the back. Under this it has a spacer layer, which holds the front and back layer apart so that they do not normally make electrical contact. The back layer has conductive stripes printed perpendicularly to those of the front layer. When placed together, the stripes form a grid. When the user pushes down at a particular position, their finger pushes the front layer down through the spacer layer to close a circuit at one of the intersections of the grid. This indicates to the computer or keyboard control processor that a particular button has been pressed.     Generally, flat-panel membrane keyboards do not produce a noticeable physical feedback. Therefore, devices using these issue a beep or flash a light when the key is pressed. They are often used in harsh environments where water- or leak-proofing is desirable. Although used in the early days of the ": null
+    },
+    {
+        "personal computer": "Personal Computer"
+    },
+    {
+        " , they have been supplanted by the more tactile dome and mechanical switch keyboards.     Full-travel membrane-based keyboards are the most common computer keyboards today. They have one-piece plastic keytop/switch plungers which press down on a membrane to actuate a contact in an electrical switch matrix.                 Dome-switch keyboards are a hybrid of ": null
+    },
+    {
+        "flat-panel membrane": "Membrane Keyboard"
+    },
+    {
+        " and mechanical-switch keyboards. They bring two circuit board traces together under a ": null
+    },
+    {
+        "rubber": "Rubber"
+    },
+    {
+        " or silicone keypad using either metal dome switches or polyurethane formed domes. The metal dome switches are formed pieces of stainless steel that, when compressed, give the user a crisp, positive tactile feedback. These metal types of dome switches are very common, are usually reliable to over 5 million cycles, and can be plated in either nickel, silver or gold. The rubber dome switches, most commonly referred to as polydomes, are formed polyurethane domes where the inside bubble is coated in graphite. While polydomes are typically cheaper than metal domes, they lack the crisp snap of the metal domes, and usually have a lower life specification. Polydomes are considered very quiet, but purists tend to find them mushy because the collapsing dome does not provide as much positive response as metal domes. For either metal or polydomes, when a key is pressed, it collapses the dome, which connects the two circuit traces and completes the connection to enter the character. The pattern on the PC board is often gold-plated.     Both are common switch technologies used in mass market keyboards today. This type of switch technology happens to be most commonly used in handheld controllers, mobile phones, automotive, consumer electronics and medical devices. Dome-switch keyboards are also called direct-switch keyboards.          A special case of the computer keyboard dome-switch is the scissor-switch. The keys are attached to the keyboard via two plastic pieces that interlock in a scissor -like fashion, and snap to the keyboard and the key. It still uses rubber domes, but a special plastic ": null
+    },
+    {
+        " scissors mechanism": "Scissors Mechanism"
+    },
+    {
+        " links the ": null
+    },
+    {
+        "keycap": "Keycap"
+    },
+    {
+        " to a plunger that depresses the rubber dome with a much shorter travel than the typical rubber dome keyboard. Typically scissor-switch keyboards also employ 3-layer membranes as the electrical component of the switch. They also usually have a shorter total key travel distance . This type of keyswitch is often found on the built-in keyboards on laptops and keyboards marketed as low-profile. These keyboards are generally quiet and the keys require little force to press.     Scissor-switch keyboards are typically slightly more expensive. They are harder to clean but also less likely to get debris in them as the gaps between the keys are often smaller . .       In this type of keyboard, pressing a key changes the capacitance of a pattern of capacitor pads. The pattern consists of two D-shaped capacitor pads for each switch, printed on a ": null
+    },
+    {
+        "printed circuit board": "Printed Circuit Board"
+    },
+    {
+        " and covered by a thin, insulating film of ": null
+    },
+    {
+        "soldermask": "Soldermask"
+    },
+    {
+        " which acts as a ": null
+    },
+    {
+        "dielectric": "Dielectric"
+    },
+    {
+        ".     Despite the sophistication of the concept, the mechanism of capacitive switching is physically simple. The movable part ends with a flat foam element about the size of an ": null
+    },
+    {
+        "aspirin tablet": "Tablet"
+    },
+    {
+        ", finished with aluminum foil. Opposite the switch is a PCB with the capacitor pads. When the key is pressed, the foil tightly clings to the surface of the PCB, forming a ": null
+    },
+    {
+        "daisy chain": "Series Circuits"
+    },
+    {
+        " of two capacitors between ": null
+    },
+    {
+        "contact pads": "Contact Pad"
+    },
+    {
+        "and itself separated with thin soldermask, and thus shorting the ": null
+    },
+    {
+        "contact pads": "Contact Pad"
+    },
+    {
+        "with an easily detectable drop of ": null
+    },
+    {
+        "capacitive reactance": "Capacitive Reactance"
+    },
+    {
+        " between them. Usually this permits a pulse or pulse train to be sensed. Because the switch doesnt have an actual electrical contact, there is no debouncing necessary. The keys do not need to be fully pressed to be actuated, which enables some people to type faster. The sensor tells enough about the position of the key to allow the user to adjust actuation point . This adjustment can be done with the help of the bundled software and individually for each key, if so implemented. Topre keyboard documentation, describing various features  and they software manual      The IBM ": null
+    },
+    {
+        "Model F keyboard": "Model F Keyboard"
+    },
+    {
+        " is mechanical-key design consisted of a buckling spring over a capacitive PCB, similarly to the later Model M keyboard that used a membrane in place of the PCB.     The most known company for their capacitive switching technology is Topre Corporation  from Japan. However, while their products are for sale on ": null
+    },
+    {
+        "E-bay": "E-Bay"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Amazon": "Amazon.Com"
+    },
+    {
+        " , they are generally less available in large parts of the world.         Each key on a mechanical-switch keyboard contains a complete switch underneath. Each switch is composed of a housing, a spring, and a stem, and sometimes other parts such as a separate tactile leaf or a clickbar. Switches come in three variants: linear with consistent resistance; tactile with a non-audible bump; and clicky, a tactile with an audible click.  Depending on the resistance of the spring, the key requires different amounts of pressure to actuate and to bottom out. The shape of the stem as well as the design of the switch housing varies the actuation distance and travel distance of the switch. The amount of sound produced by actuation can also be changed by the addition of rubber dampeners. Like other types of keyboards, mechanical keyboards allow for the removal and replacement of keycaps, but replacing them is more common with mechanical keyboards due to common stem shapes.     Mechanical keyboards typically have a longer lifespan than membrane or dome-switch keyboards, with an expected lifespan of 50 million clicks for Cherry MX switches.  per switch for Cherry MX switches, while switches from ": null
+    },
+    {
+        "Razer": "Razer Inc."
+    },
+    {
+        " have a rated lifetime of 60 million clicks per switch.      The major current mechanical switch producer is ": null
+    },
+    {
+        "Cherry": "Cherry"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Alps Electric": "Alps Electric"
+    },
+    {
+        ", a former major producer, ended production in the early 2000s,  but Alps style switches continue to be made by others companies as ": null
+    },
+    {
+        "Matias": "Matias Corporation"
+    },
+    {
+        ", Xiang Min,  Tai-Hao  and Hua-Jie .  Other switch manufacturers include Gateron,  Kaihua ,  Gaote ,  Greetech,  TTC  and ": null
+    },
+    {
+        "Omron": "Omron"
+    },
+    {
+        ".          Many typists prefer ": null
+    },
+    {
+        "buckling spring": "Buckling Spring"
+    },
+    {
+        " keyboards.  The ": null
+    },
+    {
+        "buckling spring": "Buckling Spring"
+    },
+    {
+        " mechanism  atop the switch is responsible for the tactile and aural response of the keyboard. This mechanism controls a small hammer that strikes a capacitive or membrane switch. .     In 1993, two years after spawning ": null
+    },
+    {
+        "Lexmark": "Lexmark"
+    },
+    {
+        ", ": null
+    },
+    {
+        "IBM": "Ibm"
+    },
+    {
+        " transferred its keyboard operations to the daughter company. New ": null
+    },
+    {
+        "Model M keyboards": "Model M Keyboard"
+    },
+    {
+        "continued to be manufactured for IBM by Lexmark until 1999, when ": null
+    },
+    {
+        "Unicomp": "Unicomp"
+    },
+    {
+        " purchased the keyboard technology.     Today, new buckling-spring keyboards are manufactured by Unicomp. Unicomp also repairs old IBM and Lexmark keyboards.       ": null
+    },
+    {
+        "Hall effect": "Hall Effect"
+    },
+    {
+        " keyboards use ": null
+    },
+    {
+        "magnets": "Magnet"
+    },
+    {
+        "and ": null
+    },
+    {
+        "Hall effect sensors": "Hall Effect Sensor"
+    },
+    {
+        "instead of switches with mechanical contacts. When a key is depressed, it moves a magnet that is detected by a solid-state sensor. Because they require no physical contact for actuation, Hall-effect keyboards are extremely reliable and can accept millions of keystrokes before failing. They are used for ultra-high reliability applications such as nuclear power plants, aircraft cockpits, and critical industrial environments. They can easily be made totally waterproof, and can resist large amounts of dust and contaminants. Because a magnet and sensor are required for each key, as well as custom control electronics, they are expensive to manufacture.              A laser projection device approximately the size of a computer mouse projects the outline of keyboard keys onto a flat surface, such as a table or desk. This type of keyboard is portable enough to be easily used with PDAs and cellphones, and many models have retractable cords and wireless capabilities. However, sudden or accidental disruption of the laser will register unwanted keystrokes. Also, if the laser malfunctions, the whole unit becomes useless, unlike conventional keyboards which can be used even if a variety of parts are removed. This type of keyboard can be frustrating to use since it is susceptible to errors, even in the course of normal typing, and its complete lack of tactile feedback makes it even less user-friendly than the lowest quality membrane keyboards.             Keyboards made of flexible silicone or polyurethane materials can roll up in a moderately tight bundle. Tightly folding the keyboard may damage the internal membrane circuits. When they are completely sealed in rubber they are water resistant. Like membrane keyboards, they are reported to be very hard to get used to, as there is little tactile feedback, and silicone will tend to attract dirt, dust, and hair.       Also known as photo-optical keyboard, light responsive keyboard, photo-electric keyboard, and optical key actuation detection technology.     Optical keyboard technology was introduced in 1962 by Harley E. Kelchner for use in a typewriter machine with the purpose of reducing the noise generating by actuating the typewriter keys.     An optical keyboard technology utilizes ": null
+    },
+    {
+        "light-emitting devices": "Light-Emitting Diode"
+    },
+    {
+        " and ": null
+    },
+    {
+        "photo sensors": "Photoelectric Sensor"
+    },
+    {
+        " to optically detect actuated keys. Most commonly the emitters and sensors are located at the perimeter, mounted on a small ": null
+    },
+    {
+        "PCB": "Printed Circuit Board"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "light": "Light"
+    },
+    {
+        " is directed from side to side of the keyboard interior, and it can only be blocked by the actuated keys. Most optical keyboards require at least 2 beams to determine the actuated key. Some optical keyboards use a special key structure that blocks the light in a certain pattern, allowing only one beam per row of keys .     The mechanism of the optical keyboard is very simple – a light beam is sent from the emitter to the receiving sensor, and the actuated key blocks, ": null
+    },
+    {
+        "reflects": "Reflection"
+    },
+    {
+        ", ": null
+    },
+    {
+        "refracts": "Refraction"
+    },
+    {
+        " or otherwise interacts with the beam, resulting in an identified key.     Some earlier optical keyboards were limited in their structure and required special casing to block external light, no multi-key functionality was supported and the design was very limited to a thick rectangular case.     The advantages of optical keyboard technology are that it offers a real waterproof keyboard, resilient to dust and liquids; and it uses about 20% PCB volume, compared with membrane or dome switch keyboards, significantly reducing ": null
+    },
+    {
+        "electronic waste": "Electronic Waste"
+    },
+    {
+        ".   Additional advantages of optical keyboard technology over other keyboard technologies such as Hall effect, laser, roll-up, and transparent keyboards lie in cost and feel – optical keyboard technology does not require different key mechanisms, and the tactile feel of typing has remained the same for over 60 years.     The specialist ": null
+    },
+    {
+        "DataHand": "Datahand"
+    },
+    {
+        " keyboard uses optical technology to sense keypresses with a single light beam and sensor per key. The keys are held in their rest position by ": null
+    },
+    {
+        "magnet": "Magnet"
+    },
+    {
+        "s; when the magnetic force is overcome to press a key, the optical path is unblocked and the keypress is registered.       When striking a keyboard key, the key oscillates against its contacts several times before settling. When released, it oscillates again until it reverts to its rest state. Although it happens on such a small scale as to be invisible to the naked eye, its sufficient for the computer to register multiple key strokes inadvertently.     To resolve this problem, the processor in a keyboard ": null
+    },
+    {
+        "debounces": "Debouncecontact_Bounce"
+    },
+    {
+        " the keystrokes, by aggregating them across time to produce one confirmed keystroke that corresponds to what is typically a solid contact. Early membrane keyboards had limited typing speed because they had to do significant debouncing. This was a noticeable problem on the ": null
+    },
+    {
+        "ZX81": "Zx81"
+    },
+    {
+        ".       ": null
+    },
+    {
+        "Keycaps": "Keycap"
+    },
+    {
+        " are used on full-travel keyboards. While modern keycaps are typically surface-printed, they can also be ": null
+    },
+    {
+        "double-shot molded": "Injection Moldingdesign"
+    },
+    {
+        ", laser printed, sublimation printed, engraved, or they can be made of transparent material with printed paper inserts.     There are also keycaps which are thin shells that are placed over key bases. These were used on IBM PC keyboards.       The modern PC keyboard also includes a control processor and indicator lights to provide feedback to the user about what state the keyboard is in. Depending on the sophistication of the controllers programming, the keyboard may also offer other special features. The processor is usually a single chip ": null
+    },
+    {
+        "8048": "Intel 8048"
+    },
+    {
+        " microcontroller": "Microcontroller"
+    },
+    {
+        " variant. The keyboard switch matrix is wired to its inputs and it processes the incoming keystrokes and sends the results down a serial cable to a receiver in the main computer box. It also controls the illumination of the ": null
+    },
+    {
+        "caps lock": "Caps Lock"
+    },
+    {
+        " , ": null
+    },
+    {
+        "num lock": "Num Lock"
+    },
+    {
+        " and ": null
+    },
+    {
+        "scroll lock": "Scroll Lock"
+    },
+    {
+        " lights.     A common test for whether the computer has crashed is pressing the caps lock key. The keyboard sends the key code to the ": null
+    },
+    {
+        "keyboard driver": "Device Driver"
+    },
+    {
+        " running in the main computer; if the main computer is operating, it commands the light to turn on. All the other indicator lights work in a similar way. The keyboard driver also tracks the ": null
+    },
+    {
+        "shift": "Shift Key"
+    },
+    {
+        ", ": null
+    },
+    {
+        "alt": "Alt Key"
+    },
+    {
+        " and ": null
+    },
+    {
+        "control": "Control Key"
+    },
+    {
+        " state of the keyboard.          The keyboard switch matrix is often drawn with horizontal wires and vertical wires in a grid which is called a ": null
+    },
+    {
+        "matrix circuit": "Keyboard Matrix"
+    },
+    {
+        ". It has a switch at some or all intersections, much like a ": null
+    },
+    {
+        "multiplexed display": "Multiplexed Display"
+    },
+    {
+        ". Almost all keyboards have only the switch at each intersection, which causes ghost keys and key jamming when multiple keys are pressed . Certain, often more expensive, keyboards have a diode between each intersection, allowing the keyboard microcontroller to accurately sense any number of simultaneous keys being pressed, without generating erroneous ghost keys. ": null
+    }
+]

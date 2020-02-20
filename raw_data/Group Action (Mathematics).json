@@ -1,0 +1,1013 @@
+[
+    {
+        "        In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", a group action on a ": null
+    },
+    {
+        "space": "Space"
+    },
+    {
+        " or a ": null
+    },
+    {
+        "mathematical structure": "Mathematical Structure"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "group homomorphism": "Group Homomorphism"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        " into the ": null
+    },
+    {
+        "transformations": "Transformation"
+    },
+    {
+        " of the space or ": null
+    },
+    {
+        "automorphisms": "Automorphism"
+    },
+    {
+        "of the structure. One says that the group acts on the space or structure. If a group acts on a structure, it also acts on everything that is built on the structure. For example, the group of ": null
+    },
+    {
+        "Euclidean isometries": "Euclidean Isometry"
+    },
+    {
+        " acts on ": null
+    },
+    {
+        "Euclidean space": "Euclidean Space"
+    },
+    {
+        " and also on the figures drawn in it. In particular, it acts on the set of all ": null
+    },
+    {
+        "triangle": "Triangle"
+    },
+    {
+        "s. Similarly, the group of ": null
+    },
+    {
+        "symmetries": "Symmetries"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "polyhedron": "Polyhedron"
+    },
+    {
+        " acts on the ": null
+    },
+    {
+        "vertices": "Vertex"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "edges": "Edge"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "faces": "Face"
+    },
+    {
+        " of the polyhedron.     A group action on a ": null
+    },
+    {
+        "vector space": "Vector Space"
+    },
+    {
+        " is called a ": null
+    },
+    {
+        "representation": "Group Representation"
+    },
+    {
+        " of the group. It allows one to identifty many groups with subgroups of , the group of the ": null
+    },
+    {
+        "invertible matrices": "Invertible Matrices"
+    },
+    {
+        " of dimension  over a ": null
+    },
+    {
+        "field": "Field"
+    },
+    {
+        " .     The ": null
+    },
+    {
+        "symmetric group": "Symmetric Group"
+    },
+    {
+        "  acts on any ": null
+    },
+    {
+        "set": "Set"
+    },
+    {
+        " with  elements by permuting the elements of the set. Although, the group of all ": null
+    },
+    {
+        "permutations": "Permutation"
+    },
+    {
+        "of a set depends formally on the set, the concept of group action allows one to consider a single group for studying the permutations of all sets with the same ": null
+    },
+    {
+        "cardinality": "Cardinality"
+    },
+    {
+        ".           If G is a ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        " and X is a set, then a  group action \\varphi of G on X is a function   : \\varphi\\colon G \\times X \\to X, \\ \\, \\mapsto \\varphi   that satisfies the following two axioms:    Identity:  \\forall x \\in X, \\varphi x    Compatibility:  \\forall g,h \\in G, \\forall x\\in X, \\varphi \\varphi     The group G is said to act on X . The set X is called a  G-set.     From these two axioms, it follows that for every g in G, the function which maps x in X to \\varphi is a bijective map from X to X . Therefore, one may alternatively define a group action of G on X as a group homomorphism from G into the symmetric group Sym of all bijections from X to X. This is done, for example, by        In complete analogy, one can define a right group action of G on X as a function \\varphi:X \\times G \\rightarrow X,\\ \\mapsto \\varphi satisfying the axioms   Identity:  \\forall x \\in X, \\varphi x   Compatibility:  \\forall g,h \\in G, x\\in X, \\varphi \\varphi     The difference between left and right actions is in the order in which a product gh acts on x; for a left action, h acts first and is followed by g, while for a right action, g acts first and is followed by h. Because of the formula  -1 h -1 g -1 , one can construct a left action from a right action by composing with the inverse operation of the group. Also, a right action of a group G on X is the same thing as a left action of its ": null
+    },
+    {
+        "opposite group": "Opposite Group"
+    },
+    {
+        " G op on X. Thus it is thus sufficient to only consider left actions without any loss of generality.       When there is a natural correspondence between the set of group elements and the set of space transformations, a group can be interpreted as acting on the space in a ": null
+    },
+    {
+        "canonical": "Canonical Map"
+    },
+    {
+        " way. For example, the symmetric group of a finite set consists of all bijective transformations of that set; thus, applying any element of the permutation group to an element of the set will produce another element of the set. More generally, ": null
+    },
+    {
+        "symmetry groups": "Symmetry Groups"
+    },
+    {
+        " such as the ": null
+    },
+    {
+        "homeomorphism group": "Homeomorphism Group"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "topological space": "Topological Space"
+    },
+    {
+        " or the ": null
+    },
+    {
+        "general linear group": "General Linear Group"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "vector space": "Vector Space"
+    },
+    {
+        ", as well as their subgroups, also admit canonical actions. For other groups, an interpretation of the group in terms of an action may have to be specified, either because the group does not act canonically on any space or because the canonical action is not the action of interest. For example, we can specify an action of the two-element ": null
+    },
+    {
+        "cyclic group": "Cyclic Group"
+    },
+    {
+        " C 2 on the finite set  by specifying that 0 sends a & thinsp;↦ & thinsp;a, b & thinsp;↦ & thinsp;b, and c & thinsp;↦ & thinsp;c, and that 1 sends a & thinsp;↦ & thinsp;b, b & thinsp;↦ & thinsp;a, and c & thinsp;↦ & thinsp;c. This action is not canonical.          The action of G on X is called:    if X is ": null
+    },
+    {
+        "non-empty": "Empty Set"
+    },
+    {
+        " and if for each pair x, y in X there exists a g in G such that . For example, the action of the symmetric group of X is transitive, the action of the ": null
+    },
+    {
+        "general linear group": "General Linear Group"
+    },
+    {
+        " or the ": null
+    },
+    {
+        "special linear group": "Special Linear Group"
+    },
+    {
+        " of a vector space V on  is transitive, but the action of the ": null
+    },
+    {
+        "orthogonal group": "Orthogonal Group"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "Euclidean space": "Euclidean Space"
+    },
+    {
+        " E is not transitive on  .       if for every two distinct g, h in G there exists an x in X such that ; or equivalently, if for each  in G there exists an x in X such that . In other words, in a faithful group action, different elements of G induce different permutations of X. In algebraic terms, a group G acts faithfully on X ": null
+    },
+    {
+        "if and only if": "If And Only If"
+    },
+    {
+        " the corresponding homomorphism to the symmetric group, , has a trivial ": null
+    },
+    {
+        "kernel": "Kernel"
+    },
+    {
+        ". Thus, for a faithful action, G ": null
+    },
+    {
+        "embeds": "Embedding"
+    },
+    {
+        " into a ": null
+    },
+    {
+        "permutation group": "Permutation Group"
+    },
+    {
+        " on X; specifically, G is isomorphic to its image in Sym. If G does not act faithfully on X, one can easily modify the group to obtain a faithful action. If we define , then N is a ": null
+    },
+    {
+        "normal subgroup": "Normal Subgroup"
+    },
+    {
+        " of G; indeed, it is the kernel of the homomorphism . The ": null
+    },
+    {
+        "factor group": "Factor Group"
+    },
+    {
+        " G/N acts faithfully on X by setting . The original action of G on X is faithful if and only if . The smallest set on which a faithful action can be defined can vary greatly for groups of the same size. For example:   Three groups of size 120 are the symmetric group S 5 , the ": null
+    },
+    {
+        "icosahedral group": "Icosahedral Group"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "cyclic group": "Cyclic Group"
+    },
+    {
+        " Z/120Z. The smallest sets on which faithful actions can be defined are of size 5, 12, and 16 respectively.   The ": null
+    },
+    {
+        "abelian groups": "Abelian Group"
+    },
+    {
+        "of size 2 n include a cyclic group Z/Z as well as  n , but the latter acts faithfully on a set of size 2n, whereas the former cannot act faithfully on a set smaller than itself.       if, given g, h in G, the existence of an x in X with  implies . Equivalently: if g is a group element and there exists an x in X with  , then g is the identity. Note that a free action on a non-empty set is faithful.       if it is both transitive and free; this is equivalent to saying that for every two x, y in X there exists precisely one g in G such that . In this case, X is called a ": null
+    },
+    {
+        "principal homogeneous space": "Principal Homogeneous Space"
+    },
+    {
+        " for G or a G-torsor. The action of any group G on itself by left multiplication is regular, and thus faithful as well. Every group can, therefore, be embedded in the symmetric group on its own elements, Sym. This result is known as ": null
+    },
+    {
+        "Cayleys theorem": "Cayleys Theorem"
+    },
+    {
+        ".      if X has at least n elements, and for all distinct x 1 , ..., x n  and all distinct y 1 , ..., y n , there is a g in G such that  for . A 2-transitive action is also called , a 3-transitive action is also called triply transitive, and so on. Such actions define interesting classes of subgroups in the symmetric groups: ": null
+    },
+    {
+        "2-transitive groups": "2-Transitive Group"
+    },
+    {
+        "and more generally ": null
+    },
+    {
+        "multiply transitive group": "Multiply Transitive Group"
+    },
+    {
+        "s. The action of the symmetric group on a set with n elements is always n-transitive; the action of the ": null
+    },
+    {
+        "alternating group": "Alternating Group"
+    },
+    {
+        " is -transitive.      if there is exactly one such g.      if it is transitive and preserves no non-trivial partition of X. See ": null
+    },
+    {
+        "primitive permutation group": "Primitive Permutation Group"
+    },
+    {
+        " for details.     Locally free if G is a ": null
+    },
+    {
+        "topological group": "Topological Group"
+    },
+    {
+        ", and there is a ": null
+    },
+    {
+        "neighbourhood": "Neighbourhood"
+    },
+    {
+        " U of e in G such that the restriction of the action to U is free; that is, if  for some x and some g in U then .     Furthermore, if G acts on a ": null
+    },
+    {
+        "topological space": "Topological Space"
+    },
+    {
+        " X, then the action is:     Wandering if every point x in X has a neighbourhood U such that \\ is finite.  For example, the action of \\mathbb Z^n on \\mathbb R^n by translations is wandering. The action of the ": null
+    },
+    {
+        "modular group": "Modular Group"
+    },
+    {
+        " on the Poincaré half-plane is also wandering.     Properly discontinuous if X is a ": null
+    },
+    {
+        "locally compact space": "Locally Compact Space"
+    },
+    {
+        " and for every compact subset K & thinsp;⊂ & thinsp;X the set \\ is finite. The wandering actions given above are also properly discontinuous. On the other hand, the action of \\mathbb Z on \\mathbb R^2 \\setminus \\ by the linear map \\mapsto is wandering and free but not properly discontinuous.  if G is a topological group and the map from G \\times X \\rightarrow X \\times X : \\mapsto is ": null
+    },
+    {
+        "proper": "Proper Map"
+    },
+    {
+        ".  If G is ": null
+    },
+    {
+        "discrete": "Discrete Group"
+    },
+    {
+        " then properness is equivalent to proper discontinuity for G-actions.     Said to have discrete orbits if the orbit of each x in X under the action of G is discrete in X.     A covering space action if every point x in X has a neighbourhood U such that \\ e .      If X is a ": null
+    },
+    {
+        "non-zero": "Zero_Elementzero_Module"
+    },
+    {
+        " module": "Module"
+    },
+    {
+        " over a ": null
+    },
+    {
+        "ring": "Ring"
+    },
+    {
+        " R and the action of G is R-linear then it is said to be   Irreducible if there is no nonzero proper invariant submodule.             Consider a group G acting on a set X. The orbit of an element x in X is the set of elements in X to which x can be moved by the elements of G. The orbit of x is denoted by G⋅x:     : G\\cdot x \\left\\.     The defining properties of a group guarantee that the set of orbits of  X under the action of G form a ": null
+    },
+    {
+        "partition": "Partition Of A Set"
+    },
+    {
+        " of X. The associated ": null
+    },
+    {
+        "equivalence relation": "Equivalence Relation"
+    },
+    {
+        " is defined by saying  ": null
+    },
+    {
+        "if and only if": "If And Only If"
+    },
+    {
+        " there exists a g in G with . The orbits are then the ": null
+    },
+    {
+        "equivalence class": "Equivalence Class"
+    },
+    {
+        "es under this relation; two elements x and y are equivalent if and only if their orbits are the same, that is, .     The group action is ": null
+    },
+    {
+        "transitive": "Group Action Types Of Actions"
+    },
+    {
+        " if and only if it has exactly one orbit, that is, if there exists x in X with . This is the case if and only if  for all x in X.     The set of all orbits of X under the action of G is written as X/G , and is called the quotient of the action. In geometric situations it may be called the , while in algebraic situations it may be called the space of , and written X G , by contrast with the invariants , denoted X G : the coinvariants are a quotient while the invariants are a subset. The coinvariant terminology and notation are used particularly in ": null
+    },
+    {
+        "group cohomology": "Group Cohomology"
+    },
+    {
+        " and ": null
+    },
+    {
+        "group homology": "Group Homology"
+    },
+    {
+        ", which use the same superscript/subscript convention.       If Y is a ": null
+    },
+    {
+        "subset": "Subset"
+    },
+    {
+        " of X, we write GY for the set . We call the subset Y invariant under G if  . In that case, G also operates on Y by restricting the action to Y. The subset Y is called fixed under G if  for all g in G and all y in Y. Every subset that is fixed under G is also invariant under G, but not conversely.     Every orbit is an invariant subset of X on which G acts ": null
+    },
+    {
+        "transitively": "Group Action Types Of Actions"
+    },
+    {
+        ". The action of G on X is transitive if and only if all elements are equivalent, meaning that there is only one orbit.     A G-invariant element of X is  such that  for all . The set of all such x is denoted X G  and called the G-invariants of X. When X is a ": null
+    },
+    {
+        "G-module": "G-Module"
+    },
+    {
+        ", X G  is the zeroth ": null
+    },
+    {
+        "cohomology": "Group Cohomology"
+    },
+    {
+        " group of G with coefficients in X, and the higher cohomology groups are the ": null
+    },
+    {
+        "derived functors": "Derived Functor"
+    },
+    {
+        "of the ": null
+    },
+    {
+        "functor": "Functor"
+    },
+    {
+        " of G-invariants.       Given g in G and x in X with , we say x is a fixed point of g or g fixes x . For every x in X, the stabilizer subgroup of G with respect to x  is the set of all elements in G that fix x:   : G_x \\.   This is a ": null
+    },
+    {
+        "subgroup": "Subgroup"
+    },
+    {
+        " of G, though typically not a normal one. The action of G on X is ": null
+    },
+    {
+        "free": "Group Action Types Of Actions"
+    },
+    {
+        " if and only if all stabilizers are trivial. The kernel N of the homomorphism with the symmetric group, , is given by the ": null
+    },
+    {
+        "intersection": "Intersection"
+    },
+    {
+        " of the stabilizers G x  for all x in X. If N is trivial, the action is said to be faithful .     Let x and y be two elements in X, and let g be a group element such that . Then the two stabilizer groups G x  and G y  are related by . Proof: by definition,  if and only if . Applying g −1 to both sides of this equality yields ; that is, . An opposite inclusion follows similarly by taking  and supposing .     The above says that the stabilizers of elements in the same orbit are ": null
+    },
+    {
+        "conjugate": "Conjugacy Class"
+    },
+    {
+        " to each other. Thus, to each orbit, one can associate a ": null
+    },
+    {
+        "conjugacy class": "Conjugacy Class"
+    },
+    {
+        " of a subgroup of G . Let denote the conjugacy class of H. Then one says that the orbit O has type if the stabilizer G_x of some/any x in O belongs to . A maximal orbit type is often called a ": null
+    },
+    {
+        "principal orbit type": "Principal Orbit Type"
+    },
+    {
+        ".      and Burnsides lemmax in X, consider the map f:G → X given by g ↦ g·x. By definition the image f of this map is the orbit G·x. The condition for two elements of to have the same image is   : ff\\iff g\\cdot xh \\cdot x \\iff g^h \\cdot xx \\iff g^h \\in G_x \\iff h \\in gG_x .   In other words, g and h lie in the same ": null
+    },
+    {
+        "coset": "Coset"
+    },
+    {
+        " for the stabilizer subgroup G_x . Thus the fibre f^ of f over any y in G·x is such a coset, and clearly every such coset occurs as a fibre. Therefore fdefines a bijection between the set G/G_x of cosets for the stabilizer subgroup and the orbit G·x, which sends gG_x \\mapsto g \\cdot x . M. Artin, Algebra , Proposition 6.4 on p. 179 This result is known as the orbit-stabilizer theorem.     If G is finite then the orbit-stabilizer theorem, together with ": null
+    },
+    {
+        "Lagranges theorem": "Lagranges Theorem"
+    },
+    {
+        ", gives   : |G\\cdot x| |G| / |G_x|,   in other words the length of the orbit of x times the order of its stabilizer is the order of the group. In particular that implies that the orbit length is a divisor of the group order.     : Example: Let G be a group of prime order p acting on a set X with k elements. Since each orbit has either 1 or p elements, we have at least k \\bmod p orbits of length 1 which are G-invariant elements.     This result is especially useful since it can be employed for counting arguments .        : Example: One can use the orbit-stabilizer theorem to count the automorphisms of a ": null
+    },
+    {
+        "graph": "Graph"
+    },
+    {
+        ". Consider the ": null
+    },
+    {
+        "cubical graph": "Cubical Graph"
+    },
+    {
+        " as pictured, and let G denote its ": null
+    },
+    {
+        "automorphism": "Graph Automorphism"
+    },
+    {
+        " group. Then G acts on the set of vertices , and this action is transitive as can be seen by composing rotations about the center of the cube. Thus, by the orbit-stabilizer theorem, we have that |G| |G\\cdot1||G_1| 8|G_1| . Applying the theorem now to the stabilizer G 1 , we obtain |G_1| |\\cdot2||_2| . Any element of G that fixes 1 must send 2 to either 2, 4, or 5. As an example of such automorphisms consider the rotation around the diagonal axis through 1 and 7 by 2\\pi/3 which permutes 2,4,5 and 3,6,8, and fixes 1 and 7. Thus, \\left|\\cdot2\\right| 3 . Applying the theorem a third time gives |_2| |\\cdot3||_3| . Any element of G that fixes 1 and 2 must send 3 to either 3 or 6. Reflecting the cube at the plane through 1,2,7 and 8 is such an automorphism sending 3 to 6, thus \\left|\\cdot3\\right| 2 . One also sees that _3 consists only of the identity automorphism, as any element of G fixing 1, 2 and 3 must also fix all other vertices, since they are determined by their adjacency to 1, 2 and 3. Combining the preceding calculations, we now obtain |G| 8\\cdot3\\cdot2\\cdot1 48 .     A result closely related to the orbit-stabilizer theorem is ": null
+    },
+    {
+        "Burnsides lemma": "Burnsides Lemma"
+    },
+    {
+        ":   : |X/G|\\frac\\sum_ |X^g|,     where X g the set of points fixed by g. This result is mainly of use when G and X are finite, when it can be interpreted as follows: the number of orbits is equal to the average number of points fixed per group element.     Fixing a group G, the set of formal differences of finite G-sets forms a ": null
+    },
+    {
+        "ring": "Ring"
+    },
+    {
+        " called the ": null
+    },
+    {
+        "Burnside ring": "Burnside Ring"
+    },
+    {
+        " of G, where addition corresponds to ": null
+    },
+    {
+        "disjoint union": "Disjoint Union"
+    },
+    {
+        ", and multiplication to ": null
+    },
+    {
+        "Cartesian product": "Cartesian Product"
+    },
+    {
+        ".       The  action of any group G on any set X is defined by  for all g in G and all x in X; that is, every group element induces the ": null
+    },
+    {
+        "identity permutation": "Identity Function"
+    },
+    {
+        " on X.    In every group G, left multiplication is an action of G on G:  for all g, x in G. This action forms the basis of a rapid proof of ": null
+    },
+    {
+        "Cayleys theorem": "Cayleys Theorem"
+    },
+    {
+        " - that every group is isomorphic to a subgroup of the symmetric group of permutations of the set G.   In every group G with subgroup H, left multiplication is an action of G on the set of cosets G/H:  for all g,a in G. In particular if H contains no nontrivial normal subgroups of G this induces an isomorphism from G to a subgroup of the permutation group of degree G : H.   In every group G, ": null
+    },
+    {
+        "conjugation": "Inner Automorphism"
+    },
+    {
+        " is an action of G on G: . An exponential notation is commonly used for the right-action variant: ; it satisfies .   In every group G with subgroup H, ": null
+    },
+    {
+        "conjugation": "Inner Automorphism"
+    },
+    {
+        " is an action of G on conjugates of H:  for all g in G and K conjugates of H.   The symmetric group S n and its ": null
+    },
+    {
+        "subgroups": "Subgroup"
+    },
+    {
+        "act on the set  by permuting its elements   The ": null
+    },
+    {
+        "symmetry group": "Symmetry Group"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "polyhedron": "Polyhedron"
+    },
+    {
+        " acts on the set of vertices of that polyhedron. It also acts on the set of faces or the set of edges of the polyhedron.   The symmetry group of any geometrical object acts on the set of points of that object.   The ": null
+    },
+    {
+        "automorphism group": "Automorphism Group"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "vector space": "Vector Space"
+    },
+    {
+        "  acts on the vector space .   The ": null
+    },
+    {
+        "general linear group": "General Linear Group"
+    },
+    {
+        "  and its subgroups, particularly its ": null
+    },
+    {
+        "Lie subgroups": "Lie Subgroup"
+    },
+    {
+        "  are ": null
+    },
+    {
+        "Lie groups": "Lie Group"
+    },
+    {
+        "that act on the ": null
+    },
+    {
+        "vector space": "Vector Space"
+    },
+    {
+        " K n . The group operations are given by multiplying the matrices from the groups with the vectors from K n .   The ": null
+    },
+    {
+        "general linear group": "General Linear Group"
+    },
+    {
+        "  acts on Z n by natural matrix action. The orbits of its action are classified by the greatest common divisor of coordinates of the vector in Z n .   The ": null
+    },
+    {
+        "affine group": "Affine Group"
+    },
+    {
+        " acts ": null
+    },
+    {
+        "transitively": "Types Of Actions"
+    },
+    {
+        " on the points of an ": null
+    },
+    {
+        "affine space": "Affine Space"
+    },
+    {
+        ", and the subgroup V of the affine group transitive and free  action on these points;  indeed this can be used to give a definition of an ": null
+    },
+    {
+        "affine space": "Affine Spacedefinition"
+    },
+    {
+        ".   The ": null
+    },
+    {
+        "projective linear group": "Projective Linear Group"
+    },
+    {
+        "  and its subgroups, particularly its Lie subgroups, which are Lie groups that act on the ": null
+    },
+    {
+        "projective space": "Projective Space"
+    },
+    {
+        " P n . This is a quotient of the action of the general linear group on projective space. Particularly notable is , the symmetries of the projective line, which is sharply 3-transitive, preserving the ": null
+    },
+    {
+        "cross ratio": "Cross Ratio"
+    },
+    {
+        "; the ": null
+    },
+    {
+        "Möbius group": "Möbius Group"
+    },
+    {
+        "  is of particular interest.   The ": null
+    },
+    {
+        "isometries": "Isometry"
+    },
+    {
+        " of the plane act on the set of 2D images and patterns, such as ": null
+    },
+    {
+        "wallpaper pattern": "Wallpaper Group"
+    },
+    {
+        "s. The definition can be made more precise by specifying what is meant by image or pattern, for example, a function of position with values in a set of colors. Isometries are in fact one example of affine group . G comprise the ": null
+    },
+    {
+        "category": "Category"
+    },
+    {
+        " of G-sets in which the objects are G-sets and the ": null
+    },
+    {
+        "morphisms": "Morphism"
+    },
+    {
+        "are G-set homomorphisms: functions  such that  for every g in G.   The ": null
+    },
+    {
+        "Galois group": "Galois Group"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "field extension": "Field Extension"
+    },
+    {
+        " L/K acts on the field L but has only a trivial action on elements of the subfield K. Subgroups of Gal correspond to subfields of L that contain K, that is, intermediate field extensions between L and K.   The additive group of the ": null
+    },
+    {
+        "real numbers": "Real Number"
+    },
+    {
+        "  acts on the ": null
+    },
+    {
+        "phase space": "Phase Space"
+    },
+    {
+        " of ": null
+    },
+    {
+        "well-behaved": "Well-Behaved"
+    },
+    {
+        " systems in ": null
+    },
+    {
+        "classical mechanics": "Classical Mechanics"
+    },
+    {
+        "  by ": null
+    },
+    {
+        "time translation": "Time Translation"
+    },
+    {
+        ": if t is in R and x is in the phase space, then x describes a state of the system, and  is defined to be the state of the system t seconds later if t is positive or & minus;t seconds ago if t is negative.   The additive group of the real numbers  acts on the set of real functions of a real variable in various ways, with  equal to, for example, , , , , , or , but not .   Given a group action of G on X, we can define an induced action of G on the ": null
+    },
+    {
+        "power set": "Power Set"
+    },
+    {
+        " of X, by setting  for every subset U of X and every g in G. This is useful, for instance, in studying the action of the large ": null
+    },
+    {
+        "Mathieu group": "Mathieu Group"
+    },
+    {
+        " on a 24-set and in studying symmetry in certain models of ": null
+    },
+    {
+        "finite geometries": "Finite Geometry"
+    },
+    {
+        ".   The ": null
+    },
+    {
+        "quaternions": "Quaternions"
+    },
+    {
+        " with ": null
+    },
+    {
+        "norm": "Norm Of A Quaternion"
+    },
+    {
+        " 1 , as a multiplicative group, act on R 3 : for any such quaternion , the mapping  is a counterclockwise rotation through an angle α about an axis given by a unit vector v; z is the same rotation; see ": null
+    },
+    {
+        "quaternions and spatial rotation": "Quaternions And Spatial Rotation"
+    },
+    {
+        ". Note that this is not a faithful action because the quaternion −1 leaves all points where they were, as does the quaternion 1.       The notion of group action can be put in a broader context by using the action groupoid  GG \\ltimes X associated to the group action, thus allowing techniques from groupoid theory such as presentations and ": null
+    },
+    {
+        "fibration": "Fibration"
+    },
+    {
+        "s. Further the stabilizers of the action are the vertex groups, and the orbits of the action are the components, of the action groupoid. For more details, see the book Topology and groupoids referenced below.     This action groupoid comes with a morphism p: & thinsp;G′ → G which is a covering morphism of groupoids. This allows a relation between such morphisms and ": null
+    },
+    {
+        "covering maps": "Covering Maps"
+    },
+    {
+        " in topology.     G-sets X and Y are two G-sets, we define a  morphism  from X to Y to be a function  such that  for all g in G and all x in X. Morphisms of G-sets are also called  equivariant map s or G-maps.     The composition of two morphisms is again a morphism.     If a morphism f is bijective, then its inverse is also a morphism. We call f an  isomorphism , and the two G-sets X and Y are called isomorphic; for all practical purposes, isomorphic G-sets are indistinguishable.     Some example isomorphisms:   Every regular G action is isomorphic to the action of G on G given by left multiplication.   Every free G action is isomorphic to , where S is some set and G acts on  by left multiplication on the first coordinate.    Every transitive G action is isomorphic to left multiplication by G on the set of left ": null
+    },
+    {
+        "cosets": "Coset"
+    },
+    {
+        "of some ": null
+    },
+    {
+        "subgroup": "Subgroup"
+    },
+    {
+        " H of G.      With this notion of morphism, the collection of all G-sets forms a ": null
+    },
+    {
+        "category": "Category Theory"
+    },
+    {
+        "; this category is a ": null
+    },
+    {
+        "Grothendieck topos": "Grothendieck Topos"
+    },
+    {
+        " .            One often considers continuous group actions: the group G is a ": null
+    },
+    {
+        "topological group": "Topological Group"
+    },
+    {
+        ", X is a ": null
+    },
+    {
+        "topological space": "Topological Space"
+    },
+    {
+        ", and the map  is ": null
+    },
+    {
+        "continuous": "Continuous Function"
+    },
+    {
+        " with respect to the ": null
+    },
+    {
+        "product topology": "Product Topology"
+    },
+    {
+        " of . The space X is also called a G-space in this case. This is indeed a generalization, since every group can be considered a topological group by using the ": null
+    },
+    {
+        "discrete topology": "Discrete Space"
+    },
+    {
+        ". All the concepts introduced above still work in this context, however we define morphisms between G-spaces to be continuous maps compatible with the action of G. The quotient X/G inherits the ": null
+    },
+    {
+        "quotient topology": "Quotient Topology"
+    },
+    {
+        " from X, and is called the quotient space of the action. The above statements about isomorphisms for regular, free and transitive actions are no longer valid for continuous group actions.     If X is a ": null
+    },
+    {
+        "regular covering space": "Covering Mapdeck Transformation Group, Regular Covers"
+    },
+    {
+        " of another topological space Y, then the action of the ": null
+    },
+    {
+        "deck transformation group": "Covering Mapdeck Transformation Group, Regular Covers"
+    },
+    {
+        " on X is properly discontinuous as well as being free. Every free, properly discontinuous action of a group G on a ": null
+    },
+    {
+        "path-connected": "Path-Connected"
+    },
+    {
+        " topological space X arises in this manner: the quotient map  is a regular covering map, and the deck transformation group is the given action of G on X. Furthermore, if X is simply connected, the fundamental group of X/G will be isomorphic to G.     These results have been generalized in the book Topology and Groupoids referenced below to obtain the ": null
+    },
+    {
+        "fundamental groupoid": "Fundamental Groupoid"
+    },
+    {
+        " of the orbit space of a discontinuous action of a discrete group on a Hausdorff space, as, under reasonable local conditions, the orbit groupoid of the fundamental groupoid of the space. This allows calculations such as the fundamental group of the ": null
+    },
+    {
+        "symmetric square": "Symmetric Square"
+    },
+    {
+        " of a space X, namely the orbit space of the product of X with itself under the twist action of the cyclic group of order 2 sending  to .     An action of a group G on a ": null
+    },
+    {
+        "locally compact space": "Locally Compact Space"
+    },
+    {
+        " X is cocompact if there exists a compact subset A of X such that . For a properly discontinuous action, cocompactness is equivalent to compactness of the quotient space X/G.     The action of G on X is said to be proper if the mapping  that sends  is a ": null
+    },
+    {
+        "proper map": "Proper Map"
+    },
+    {
+        ".       A group action of a topological group G on a topological space X is said to be strongly continuous if for all x in X, the map  is continuous with respect to the respective topologies. Such an action induces an action on the space of continuous functions on X by defining  for every g in G, f a continuous function on X, and x in X. Note that, while every continuous group action is strongly continuous, the converse is not in general true.      The subspace of smooth points for the action is the subspace of X of points x such that  is smooth, that is, it is continuous and all derivatives are continuous.       One can also consider actions of ": null
+    },
+    {
+        "monoids": "Monoid"
+    },
+    {
+        "on sets, by using the same two axioms as above. This does not define bijective maps and equivalence relations however. See ": null
+    },
+    {
+        "semigroup action": "Semigroup Action"
+    },
+    {
+        ".     Instead of actions on sets, one can define actions of groups and monoids on objects of an arbitrary category: start with an object X of some category, and then define an action on X as a monoid homomorphism into the monoid of endomorphisms of X. If X has an underlying set, then all definitions and facts stated above can be carried over. For example, if we take the category of ": null
+    },
+    {
+        "vector space": "Vector Space"
+    },
+    {
+        "s, we obtain ": null
+    },
+    {
+        "group representations": "Group Representation"
+    },
+    {
+        "in this fashion.     One can view a group G as a category with a single object in which every ": null
+    },
+    {
+        "morphism": "Morphism"
+    },
+    {
+        " is invertible. A group action is then nothing but a ": null
+    },
+    {
+        "functor": "Functor"
+    },
+    {
+        " from G to the ": null
+    },
+    {
+        "category of sets": "Category Of Sets"
+    },
+    {
+        ", and a group representation is a functor from G to the ": null
+    },
+    {
+        "category of vector spaces": "Category Of Vector Spaces"
+    },
+    {
+        ". A morphism between G-sets is then a ": null
+    },
+    {
+        "natural transformation": "Natural Transformation"
+    },
+    {
+        " between the group action functors. In analogy, an action of a ": null
+    },
+    {
+        "groupoid": "Groupoid"
+    },
+    {
+        " is a functor from the groupoid to the category of sets or to some other category.     In addition to ": null
+    },
+    {
+        "continuous actions": "Continuous Group Action"
+    },
+    {
+        " of topological groups on topological spaces, one also often considers ": null
+    },
+    {
+        "smooth actions": "Lie Group Action"
+    },
+    {
+        " of ": null
+    },
+    {
+        "Lie groups": "Lie Groups"
+    },
+    {
+        " on ": null
+    },
+    {
+        "smooth manifold": "Manifold"
+    },
+    {
+        "s, regular actions of ": null
+    },
+    {
+        "algebraic groups": "Algebraic Group"
+    },
+    {
+        "on ": null
+    },
+    {
+        "algebraic varieties": "Algebraic Variety"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "actions": "Group-Scheme Action"
+    },
+    {
+        " of ": null
+    },
+    {
+        "group schemes": "Group Scheme"
+    },
+    {
+        "on ": null
+    },
+    {
+        "schemes": "Scheme"
+    },
+    {
+        ". All of these are examples of ": null
+    },
+    {
+        "group object": "Group Object"
+    }
+]

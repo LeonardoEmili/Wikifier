@@ -1,0 +1,1637 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "signal processing": "Signal Processing"
+    },
+    {
+        ", data compression, source coding, or bit-rate reduction involves encoding ": null
+    },
+    {
+        "information": "Information"
+    },
+    {
+        " using fewer ": null
+    },
+    {
+        "bits": "Bit"
+    },
+    {
+        "than the original representation. Compression can be either ": null
+    },
+    {
+        "lossy": "Lossy Compression"
+    },
+    {
+        " or ": null
+    },
+    {
+        "lossless": "Lossless Compression"
+    },
+    {
+        ". Lossless compression reduces bits by identifying and eliminating ": null
+    },
+    {
+        "statistical redundancy": "Redundancy"
+    },
+    {
+        ". No information is lost in lossless compression. Lossy compression reduces bits by removing unnecessary or less important information.     The process of reducing the size of a ": null
+    },
+    {
+        "data file": "Data File"
+    },
+    {
+        " is often referred to as data compression. In the context of ": null
+    },
+    {
+        "data transmission": "Data Transmission"
+    },
+    {
+        ", it is called source coding; encoding done at the source of the data before it is stored or transmitted. Source coding should not be confused with ": null
+    },
+    {
+        "channel coding": "Channel Coding"
+    },
+    {
+        ", for error detection and correction or ": null
+    },
+    {
+        "line coding": "Line Coding"
+    },
+    {
+        ", the means for mapping data onto a signal.     Compression is useful because it reduces resources required to store and transmit data. ": null
+    },
+    {
+        "Computational resources": "Computational Resource"
+    },
+    {
+        "are consumed in the compression process and, usually, in the reversal of the process . Data compression is subject to a ": null
+    },
+    {
+        "space–time complexity trade-off": "Space–Time Tradeoff"
+    },
+    {
+        ". For instance, ": null
+    },
+    {
+        "a compression scheme for video": "Video"
+    },
+    {
+        " may require expensive ": null
+    },
+    {
+        "hardware": "Electronic Hardware"
+    },
+    {
+        " for the video to be decompressed fast enough to be viewed as it is being decompressed, and the option to decompress the video in full before watching it may be inconvenient or require additional storage. The design of data compression schemes involves trade-offs among various factors, including the degree of compression, the amount of distortion introduced , and the computational resources required to compress and decompress the data.            ": null
+    },
+    {
+        "Lossless data compression": "Lossless Data Compression"
+    },
+    {
+        "algorithms": "Algorithm"
+    },
+    {
+        "usually exploit ": null
+    },
+    {
+        "statistical redundancy": "Redundancy"
+    },
+    {
+        " to represent data without losing any ": null
+    },
+    {
+        "information": "Self-Information"
+    },
+    {
+        ", so that the process is reversible. Lossless compression is possible because most real-world data exhibits statistical redundancy. For example, an image may have areas of color that do not change over several pixels; instead of coding red pixel, red pixel, ... the data may be encoded as 279 red pixels . This is a basic example of ": null
+    },
+    {
+        "run-length encoding": "Run-Length Encoding"
+    },
+    {
+        "; there are many schemes to reduce file size by eliminating redundancy.     The ": null
+    },
+    {
+        "Lempel–Ziv": "Lempel–Ziv"
+    },
+    {
+        " compression methods are among the most popular algorithms for lossless storage. ": null
+    },
+    {
+        "DEFLATE": "Deflate"
+    },
+    {
+        " is a variation on LZ optimized for decompression speed and compression ratio, but compression can be slow. In the mid-1980s, following work by ": null
+    },
+    {
+        "Terry Welch": "Terry Welch"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "Lempel–Ziv–Welch": "Lempel–Ziv–Welch"
+    },
+    {
+        " algorithm rapidly became the method of choice for most general-purpose compression systems. LZW is used in ": null
+    },
+    {
+        "GIF": "Graphics Interchange Format"
+    },
+    {
+        " images, programs such as PKZIP, and hardware devices such as modems. LZ methods use a table-based compression model where table entries are substituted for repeated strings of data. For most LZ methods, this table is generated dynamically from earlier data in the input. The table itself is often ": null
+    },
+    {
+        "Huffman encoded": "Huffman Coding"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Grammar-based codes": "Grammar-Based Codes"
+    },
+    {
+        " like this can compress highly repetitive input extremely effectively, for instance, a biological data collection of the same or closely related species, a huge versioned document collection, internet archival, etc. The basic task of grammar-based codes is constructing a context-free grammar deriving a single string. Other practical grammar compression algorithms include ": null
+    },
+    {
+        "Sequitur": "Sequitur Algorithm"
+    },
+    {
+        " and Re-Pair.     The strongest modern lossless compressors use ": null
+    },
+    {
+        "probabilistic": "Randomized Algorithm"
+    },
+    {
+        " models, such as ": null
+    },
+    {
+        "prediction by partial matching": "Prediction By Partial Matching"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "Burrows–Wheeler transform": "Burrows–Wheeler Transform"
+    },
+    {
+        " can also be viewed as an indirect form of statistical modelling. In a further refinement of the direct use of ": null
+    },
+    {
+        "probabilistic model": "Probabilistic Model"
+    },
+    {
+        "ling, statistical estimates can be coupled to an algorithm called ": null
+    },
+    {
+        "arithmetic coding": "Arithmetic Coding"
+    },
+    {
+        ". Arithmetic coding is a more modern coding technique that uses the mathematical calculations of a ": null
+    },
+    {
+        "finite-state machine": "Finite-State Machine"
+    },
+    {
+        " to produce a string of encoded bits from a series of input data symbols. It can achieve superior compression compared to other techniques such as the better-known Huffman algorithm. It uses an internal memory state to avoid the need to perform a one-to-one mapping of individual input symbols to distinct representations that use an integer number of bits, and it clears out the internal memory only after encoding the entire string of data symbols. Arithmetic coding applies especially well to adaptive data compression tasks where the statistics vary and are context-dependent, as it can be easily coupled with an adaptive model of the ": null
+    },
+    {
+        "probability distribution": "Probability Distribution"
+    },
+    {
+        " of the input data. An early example of the use of arithmetic coding was in an optional feature of the ": null
+    },
+    {
+        "JPEG": "Jpeg"
+    },
+    {
+        " image coding standard. It has since been applied in various other designs including ": null
+    },
+    {
+        "H.263": "H.263"
+    },
+    {
+        ", ": null
+    },
+    {
+        "H.264/MPEG-4 AVC": "H.264/Mpeg-4 Avc"
+    },
+    {
+        " and ": null
+    },
+    {
+        "HEVC": "Hevc"
+    },
+    {
+        " for video coding.            In the late 1980s, digital images became more common, and standards for lossless ": null
+    },
+    {
+        "image compression": "Image Compression"
+    },
+    {
+        " emerged. In the early 1990s, lossy compression methods began to be widely used. In these schemes, some loss of information is accepted as dropping nonessential detail can save storage space. There is a corresponding ": null
+    },
+    {
+        "trade-off": "Trade-Off"
+    },
+    {
+        " between preserving information and reducing size. Lossy data compression schemes are designed by research on how people perceive the data in question. For example, the human eye is more sensitive to subtle variations in ": null
+    },
+    {
+        "luminance": "Luminance"
+    },
+    {
+        " than it is to the variations in color. ": null
+    },
+    {
+        "JPEG": "Jpeg"
+    },
+    {
+        " image compression works in part by rounding off nonessential bits of information. A number of popular compression formats exploit these perceptual differences, including ": null
+    },
+    {
+        "psychoacoustics": "Psychoacoustics"
+    },
+    {
+        " for sound, and ": null
+    },
+    {
+        "psychovisuals": "Psychovisual"
+    },
+    {
+        "for images and video.     Most forms of lossy compression are based on ": null
+    },
+    {
+        "transform coding": "Transform Coding"
+    },
+    {
+        ", especially the ": null
+    },
+    {
+        "discrete cosine transform": "Discrete Cosine Transform"
+    },
+    {
+        " . It was first proposed in 1972 by ": null
+    },
+    {
+        "Nasir Ahmed": "N. Ahmed"
+    },
+    {
+        ", who then developed a working algorithm with T. Natarajan and ": null
+    },
+    {
+        "K. R. Rao": "K. R. Rao"
+    },
+    {
+        " in 1973, before introducing it in January 1974.  DCT is the most widely used lossy compression method, and is used in multimedia formats for ": null
+    },
+    {
+        "images": "Image Compression"
+    },
+    {
+        " , ": null
+    },
+    {
+        "video": "Video Compression"
+    },
+    {
+        "  and audio .     Lossy ": null
+    },
+    {
+        "image compression": "Image Compression"
+    },
+    {
+        " is used in ": null
+    },
+    {
+        "digital camera": "Digital Camera"
+    },
+    {
+        "s, to increase storage capacities. Similarly, ": null
+    },
+    {
+        "DVD": "Dvd"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "Blu-ray": "Blu-Ray"
+    },
+    {
+        " and ": null
+    },
+    {
+        "streaming video": "Streaming Video"
+    },
+    {
+        " use the lossy ": null
+    },
+    {
+        "video coding format": "Video Coding Format"
+    },
+    {
+        ".     In lossy audio compression, methods of psychoacoustics are used to remove non-audible components of the ": null
+    },
+    {
+        "audio signal": "Audio Signal"
+    },
+    {
+        ". Compression of human speech is often performed with even more specialized techniques; ": null
+    },
+    {
+        "speech coding": "Speech Coding"
+    },
+    {
+        " is distinguished as a separate discipline from general-purpose audio compression. Speech coding is used in ": null
+    },
+    {
+        "internet telephony": "Internet Telephony"
+    },
+    {
+        ", for example, audio compression is used for CD ripping and is decoded by the audio players.       The theoretical basis for compression is provided by ": null
+    },
+    {
+        "information theory": "Information Theory"
+    },
+    {
+        " and, more specifically, ": null
+    },
+    {
+        "algorithmic information theory": "Algorithmic Information Theory"
+    },
+    {
+        " for lossless compression and ": null
+    },
+    {
+        "rate–distortion theory": "Rate–Distortion Theory"
+    },
+    {
+        " for lossy compression. These areas of study were essentially created by ": null
+    },
+    {
+        "Claude Shannon": "Claude Shannon"
+    },
+    {
+        ", who published fundamental papers on the topic in the late 1940s and early 1950s. Other topics associated with compression include ": null
+    },
+    {
+        "coding theory": "Coding Theory"
+    },
+    {
+        " and ": null
+    },
+    {
+        "statistical inference": "Statistical Inference"
+    },
+    {
+        ".       There is a close connection between ": null
+    },
+    {
+        "machine learning": "Machine Learning"
+    },
+    {
+        " and compression. A system that predicts the ": null
+    },
+    {
+        "posterior probabilities": "Posterior Probabilities"
+    },
+    {
+        " of a sequence given its entire history can be used for optimal data compression . An optimal compressor can be used for prediction . This equivalence has been used as a justification for using data compression as a benchmark for general intelligence .     An alternative view can show compression algorithms implicitly map strings into implicit ": null
+    },
+    {
+        "feature space vector": "Feature Space Vector"
+    },
+    {
+        "s, and compression-based similarity measures compute similarity within these feature spaces. For each compressor C we define an associated vector space ℵ, such that C maps an input string x, corresponds to the vector norm ||~x||. An exhaustive examination of the feature spaces underlying all compression algorithms is precluded by space; instead, feature vectors chooses to examine three representative lossless compression methods, LZW, LZ77, and PPM.           Data compression can be viewed as a special case of ": null
+    },
+    {
+        "data differencing": "Data Differencing"
+    },
+    {
+        ": Data differencing consists of producing a difference given a source and a target, with patching producing a target given a source and a difference, while data compression consists of producing a compressed file given a target, and decompression consists of producing a target given only a compressed file. Thus, one can consider data compression as data differencing with empty source data, the compressed file corresponding to a difference from nothing. This is the same as considering absolute ": null
+    },
+    {
+        "entropy": "Entropy"
+    },
+    {
+        " as a special case of ": null
+    },
+    {
+        "relative entropy": "Relative Entropy"
+    },
+    {
+        " with no initial data.     When one wishes to emphasize the connection, one may use the term differential compression to refer to data differencing.              ": null
+    },
+    {
+        "Entropy coding": "Entropy Coding"
+    },
+    {
+        " started in the 1940s with the introduction of ": null
+    },
+    {
+        "Shannon–Fano coding": "Shannon–Fano Coding"
+    },
+    {
+        ", the basis for ": null
+    },
+    {
+        "Huffman coding": "Huffman Coding"
+    },
+    {
+        " which was developed in 1950. ": null
+    },
+    {
+        "Transform coding": "Transform Coding"
+    },
+    {
+        " dates back to the late 1960s, with the introduction of ": null
+    },
+    {
+        "fast Fourier transform": "Fast Fourier Transform"
+    },
+    {
+        " coding in 1968 and the ": null
+    },
+    {
+        "Hadamard transform": "Hadamard Transform"
+    },
+    {
+        " in 1969.     An important ": null
+    },
+    {
+        "image compression": "Image Compression"
+    },
+    {
+        " technique is the ": null
+    },
+    {
+        "discrete cosine transform": "Discrete Cosine Transform"
+    },
+    {
+        " , a ": null
+    },
+    {
+        "lossy compression": "Lossy Compression"
+    },
+    {
+        " technique developed in the early 1970s. DCT compression is the basis for ": null
+    },
+    {
+        "JPEG": "Jpeg"
+    },
+    {
+        ", which was introduced by the ": null
+    },
+    {
+        "Joint Photographic Experts Group": "Joint Photographic Experts Group"
+    },
+    {
+        " in 1992.  JPEG compresses images down to much smaller file sizes, and has become the most widely used ": null
+    },
+    {
+        "image file format": "Image File Format"
+    },
+    {
+        ".   Its highly efficient DCT compression algorithm was largely responsible for the wide proliferation of ": null
+    },
+    {
+        "digital images": "Digital Images"
+    },
+    {
+        " and ": null
+    },
+    {
+        "digital photo": "Digital Photo"
+    },
+    {
+        "s.      ": null
+    },
+    {
+        "Lempel–Ziv–Welch": "Lempel–Ziv–Welch"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "lossless compression": "Lossless Compression"
+    },
+    {
+        " algorithm developed in 1984. It is used in the ": null
+    },
+    {
+        "GIF": "Gif"
+    },
+    {
+        " format, introduced in 1987.  ": null
+    },
+    {
+        "DEFLATE": "Deflate"
+    },
+    {
+        ", a lossless compression algorithm specified in 1996, is used in the ": null
+    },
+    {
+        "Portable Network Graphics": "Portable Network Graphics"
+    },
+    {
+        " format.      ": null
+    },
+    {
+        "Wavelet compression": "Wavelet Compression"
+    },
+    {
+        ", the use of ": null
+    },
+    {
+        "wavelets": "Wavelets"
+    },
+    {
+        " in image compression, began after the development of DCT coding.  The ": null
+    },
+    {
+        "JPEG 2000": "Jpeg 2000"
+    },
+    {
+        " standard was introduced in 2000.  In contrast to the DCT algorithm used by the original JPEG format, JPEG 2000 instead uses ": null
+    },
+    {
+        "discrete wavelet transform": "Discrete Wavelet Transform"
+    },
+    {
+        " algorithms.    JPEG 2000 technology, which includes the ": null
+    },
+    {
+        "Motion JPEG 2000": "Motion Jpeg 2000"
+    },
+    {
+        " extension, was selected as the ": null
+    },
+    {
+        "video coding standard": "Video Coding Standard"
+    },
+    {
+        " for ": null
+    },
+    {
+        "digital cinema": "Digital Cinema"
+    },
+    {
+        " in 2004.           Audio data compression, not to be confused with ": null
+    },
+    {
+        "dynamic range compression": "Dynamic Range Compression"
+    },
+    {
+        ", has the potential to reduce the transmission ": null
+    },
+    {
+        "bandwidth": "Bandwidth"
+    },
+    {
+        " and storage requirements of audio data. ": null
+    },
+    {
+        "Audio compression algorithms": "List Of Codecsaudio"
+    },
+    {
+        " are implemented in ": null
+    },
+    {
+        "software": "Software"
+    },
+    {
+        " as audio ": null
+    },
+    {
+        "codec": "Codec"
+    },
+    {
+        "s. Lossy audio compression algorithms provide higher compression at the cost of fidelity and are used in numerous audio applications. These algorithms almost all rely on ": null
+    },
+    {
+        "psychoacoustics": "Psychoacoustics"
+    },
+    {
+        " to eliminate or reduce fidelity of less audible sounds, thereby reducing the space required to store or transmit them.     In both lossy and lossless compression, ": null
+    },
+    {
+        "information redundancy": "Redundancy"
+    },
+    {
+        " is reduced, using methods such as ": null
+    },
+    {
+        "coding": "Coding Theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "pattern recognition": "Pattern Recognition"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "linear prediction": "Linear Prediction"
+    },
+    {
+        " to reduce the amount of information used to represent the uncompressed data.     The acceptable trade-off between loss of audio quality and transmission or storage size depends upon the application. For example, one 640 MB ": null
+    },
+    {
+        "compact disc": "Compact Disc"
+    },
+    {
+        " holds approximately one hour of uncompressed ": null
+    },
+    {
+        "high fidelity": "High Fidelity"
+    },
+    {
+        " music, less than 2 hours of music compressed losslessly, or 7 hours of music compressed in the ": null
+    },
+    {
+        "MP3": "Mp3"
+    },
+    {
+        " format at a medium ": null
+    },
+    {
+        "bit rate": "Bit Rate"
+    },
+    {
+        ". A digital sound recorder can typically store around 200 hours of clearly intelligible speech in 640 MB.     Lossless audio compression produces a representation of digital data that decompress to an exact digital duplicate of the original audio stream, unlike playback from lossy compression techniques such as ": null
+    },
+    {
+        "Vorbis": "Vorbis"
+    },
+    {
+        " and ": null
+    },
+    {
+        "MP3": "Mp3"
+    },
+    {
+        ". Compression ratios are around 50–60% of original size, which is similar to those for generic lossless data compression. Lossless compression is unable to attain high compression ratios due to the complexity of ": null
+    },
+    {
+        "waveforms": "Waveform"
+    },
+    {
+        "and the rapid changes in sound forms. Codecs like ": null
+    },
+    {
+        "FLAC": "Flac"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Shorten": "Shorten"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "TTA": "Tta"
+    },
+    {
+        " use ": null
+    },
+    {
+        "linear prediction": "Linear Prediction"
+    },
+    {
+        " to estimate the spectrum of the signal. Many of these algorithms use ": null
+    },
+    {
+        "convolution": "Convolution"
+    },
+    {
+        " with the filter to slightly ": null
+    },
+    {
+        "whiten": "White Noise"
+    },
+    {
+        " or ": null
+    },
+    {
+        "flatten": "Decorrelation"
+    },
+    {
+        " the spectrum, thereby allowing traditional lossless compression to work more efficiently. The process is reversed upon decompression.     When audio files are to be processed, either by further compression or for ": null
+    },
+    {
+        "editing": "Audio Editing"
+    },
+    {
+        ", it is desirable to work from an unchanged original . Processing of a lossily compressed file for some purpose usually produces a final result inferior to the creation of the same compressed file from an uncompressed original. In addition to sound editing or mixing, lossless audio compression is often used for archival storage, or as master copies.     A number of lossless audio compression formats exist. ": null
+    },
+    {
+        "Shorten": "Shorten"
+    },
+    {
+        " was an early lossless format. Newer ones include ": null
+    },
+    {
+        "Free Lossless Audio Codec": "Free Lossless Audio Codec"
+    },
+    {
+        " , Apples ": null
+    },
+    {
+        "Apple Lossless": "Apple Lossless"
+    },
+    {
+        " , ": null
+    },
+    {
+        "MPEG-4 ALS": "Mpeg-4 Als"
+    },
+    {
+        ", Microsofts ": null
+    },
+    {
+        "Windows Media Audio 9 Lossless": "Windows Media Audio 9 Lossless"
+    },
+    {
+        " , ": null
+    },
+    {
+        "Monkeys Audio": "Monkeys Audio"
+    },
+    {
+        ", ": null
+    },
+    {
+        "TTA": "Tta"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "WavPack": "Wavpack"
+    },
+    {
+        ". See ": null
+    },
+    {
+        "list of lossless codecs": "List Of Codecslossless Data Compression"
+    },
+    {
+        " for a complete listing.     Some ": null
+    },
+    {
+        "audio formats": "Audio File Format"
+    },
+    {
+        " feature a combination of a lossy format and a lossless correction; this allows stripping the correction to easily obtain a lossy file. Such formats include ": null
+    },
+    {
+        "MPEG-4 SLS": "Mpeg-4 Sls"
+    },
+    {
+        " , ": null
+    },
+    {
+        "WavPack": "Wavpack"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "OptimFROG DualStream": "Optimfrog Dualstream"
+    },
+    {
+        ".     Other formats are associated with a distinct system, such as:   ": null
+    },
+    {
+        "Direct Stream Transfer": "Direct Stream Transfer"
+    },
+    {
+        ", used in ": null
+    },
+    {
+        "Super Audio CD": "Super Audio Cd"
+    },
+    {
+        " Meridian Lossless Packing": "Meridian Lossless Packing"
+    },
+    {
+        ", used in ": null
+    },
+    {
+        "DVD-Audio": "Dvd-Audio"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Dolby TrueHD": "Dolby Truehd"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Blu-ray": "Blu-Ray"
+    },
+    {
+        " and ": null
+    },
+    {
+        "HD DVD": "Hd Dvd"
+    },
+    {
+        "            Lossy audio compression is used in a wide range of applications. In addition to the direct applications , digitally compressed audio streams are used in most video DVDs, digital television, streaming media on the ": null
+    },
+    {
+        "internet": "Internet"
+    },
+    {
+        ", satellite and cable radio, and increasingly in terrestrial radio broadcasts. Lossy compression typically achieves far greater compression than lossless compression , by discarding less-critical data.     The innovation of lossy audio compression was to use ": null
+    },
+    {
+        "psychoacoustics": "Psychoacoustics"
+    },
+    {
+        " to recognize that not all data in an audio stream can be perceived by the human ": null
+    },
+    {
+        "auditory system": "Auditory System"
+    },
+    {
+        ". Most lossy compression reduces perceptual redundancy by first identifying perceptually irrelevant sounds, that is, sounds that are very hard to hear. Typical examples include high frequencies or sounds that occur at the same time as louder sounds. Those sounds are coded with decreased accuracy or not at all.     Due to the nature of lossy algorithms, ": null
+    },
+    {
+        "audio quality": "Audio Quality"
+    },
+    {
+        " suffers when a file is decompressed and recompressed . This makes lossy compression unsuitable for storing the intermediate results in professional audio engineering applications, such as sound editing and multitrack recording. However, they are very popular with end users  as a megabyte can store about a minutes worth of music at adequate quality.     ": null
+    },
+    {
+        "modified discrete cosine transform": "Modified Discrete Cosine Transform"
+    },
+    {
+        " to convert ": null
+    },
+    {
+        "time domain": "Time Domain"
+    },
+    {
+        " sampled waveforms into a transform domain. Once transformed, typically into the ": null
+    },
+    {
+        "frequency domain": "Frequency Domain"
+    },
+    {
+        ", component frequencies can be allocated bits according to how audible they are. Audibility of spectral components calculated using the ": null
+    },
+    {
+        "absolute threshold of hearing": "Absolute Threshold Of Hearing"
+    },
+    {
+        " and the principles of ": null
+    },
+    {
+        "simultaneous masking": "Simultaneous Masking"
+    },
+    {
+        "—the phenomenon wherein a signal is masked by another signal separated by frequency—and, in some cases, ": null
+    },
+    {
+        "temporal masking": "Temporal Masking"
+    },
+    {
+        "—where a signal is masked by another signal separated by time. ": null
+    },
+    {
+        "Equal-loudness contours": "Equal-Loudness Contour"
+    },
+    {
+        "may also be used to weight the perceptual importance of components. Models of the human ear-brain combination incorporating such effects are often called ": null
+    },
+    {
+        "psychoacoustic model": "Psychoacoustic Model"
+    },
+    {
+        "s.     Other types of lossy compressors, such as the ": null
+    },
+    {
+        "linear predictive coding": "Linear Predictive Coding"
+    },
+    {
+        " used with speech, are source-based coders. These coders use a model of the sounds generator to whiten the audio signal before ": null
+    },
+    {
+        "quantization": "Quantization"
+    },
+    {
+        ". LPC may be thought of as a basic perceptual coding technique: reconstruction of an audio signal using a linear predictor shapes the coders quantization noise into the spectrum of the target signal, partially masking it.     Lossy formats are often used for the distribution of streaming audio or interactive applications . In such applications, the data must be decompressed as the data flows, rather than after the entire data stream has been transmitted. Not all audio codecs can be used for streaming applications, and for such applications a codec designed to stream data effectively will usually be chosen.     Latency results from the methods used to encode and decode the data. Some codecs will analyze a longer segment of the data to optimize efficiency, and then code it in a manner that requires a larger segment of data at one time to decode. The inherent ": null
+    },
+    {
+        "latency": "Latency"
+    },
+    {
+        " of the coding algorithm can be critical; for example, when there is a two-way transmission of data, such as with a telephone conversation, significant delays may seriously degrade the perceived quality.     In contrast to the speed of compression, which is proportional to the number of operations required by the algorithm, here latency refers to the number of samples that must be analysed before a block of audio is processed. In the minimum case, latency is zero samples . Time domain algorithms such as LPC also often have low latencies, hence their popularity in speech coding for telephony. In algorithms such as MP3, however, a large number of samples have to be analyzed to implement a psychoacoustic model in the frequency domain, and latency is on the order of 23  ms .     ": null
+    },
+    {
+        "Speech encoding": "Speech Encoding"
+    },
+    {
+        " is an important category of audio data compression. The perceptual models used to estimate what a human ear can hear are generally somewhat different from those used for music. The range of frequencies needed to convey the sounds of a human voice are normally far narrower than that needed for music, and the sound is normally less complex. As a result, speech can be encoded at high quality using a relatively low bit rate.     If the data to be compressed is analog , quantization is employed to digitize it into numbers . This is referred to as analog-to-digital conversion. If the integers generated by quantization are 8 bits each, then the entire range of the analog signal is divided into 256 intervals and all the signal values within an interval are quantized to the same number. If 16-bit integers are generated, then the range of the analog signal is divided into 65,536 intervals.     This relation illustrates the compromise between high resolution and high compression . This application of quantization is used by several speech compression methods. This is accomplished, in general, by some combination of two approaches:   Only encoding sounds that could be made by a single human voice.   Throwing away more of the data in the signal—keeping just enough to reconstruct an intelligible voice rather than the full frequency range of human ": null
+    },
+    {
+        "hearing": "Hearing"
+    },
+    {
+        ".     Perhaps the earliest algorithms used in speech encoding were the ": null
+    },
+    {
+        "A-law algorithm": "A-Law Algorithm"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "μ-law algorithm": "Μ-Law Algorithm"
+    },
+    {
+        ".            In 1950, ": null
+    },
+    {
+        "Bell Labs": "Bell Labs"
+    },
+    {
+        " filed the patent on ": null
+    },
+    {
+        "differential pulse-code modulation": "Differential Pulse-Code Modulation"
+    },
+    {
+        " . ": null
+    },
+    {
+        "Adaptive DPCM": "Adaptive Dpcm"
+    },
+    {
+        " was introduced by P. Cummiskey, ": null
+    },
+    {
+        "Nikil S. Jayant": "Nikil Jayant"
+    },
+    {
+        " and ": null
+    },
+    {
+        "James L. Flanagan": "James L. Flanagan"
+    },
+    {
+        " at ": null
+    },
+    {
+        "Bell Labs": "Bell Labs"
+    },
+    {
+        " in 1973. P. Cummiskey, Nikil S. Jayant, and J. L. Flanagan, Adaptive quantization in differential PCM coding of speech , Bell Syst. Tech. J., vol. 52, pp. 1105—1118, Sept. 1973      ": null
+    },
+    {
+        "Perceptual coding": "Perceptual Coding"
+    },
+    {
+        " was first used for ": null
+    },
+    {
+        "speech coding": "Speech Coding"
+    },
+    {
+        " compression, with ": null
+    },
+    {
+        "linear predictive coding": "Linear Predictive Coding"
+    },
+    {
+        " .  Initial concepts for LPC date back to the work of ": null
+    },
+    {
+        "Fumitada Itakura": "Fumitada Itakura"
+    },
+    {
+        "  and Shuzo Saito  in 1966.  During the 1970s, ": null
+    },
+    {
+        "Bishnu S. Atal": "Bishnu S. Atal"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Manfred R. Schroeder": "Manfred R. Schroeder"
+    },
+    {
+        " at ": null
+    },
+    {
+        "Bell Labs": "Bell Labs"
+    },
+    {
+        " developed a form of LPC called ": null
+    },
+    {
+        "adaptive predictive coding": "Adaptive Predictive Coding"
+    },
+    {
+        " , a perceptual coding algorithm that exploited the masking properties of the human ear, followed in the early 1980s with the ": null
+    },
+    {
+        "code-excited linear prediction": "Code-Excited Linear Prediction"
+    },
+    {
+        " algorithm which achieved a significant ": null
+    },
+    {
+        "compression ratio": "Compression Ratio"
+    },
+    {
+        " for its time. Perceptual coding is used by modern audio compression formats such as ": null
+    },
+    {
+        "MP3": "Mp3"
+    },
+    {
+        " and ": null
+    },
+    {
+        "AAC": "Advanced Audio Codec"
+    },
+    {
+        ".     ": null
+    },
+    {
+        "Discrete cosine transform": "Discrete Cosine Transform"
+    },
+    {
+        " , developed by ": null
+    },
+    {
+        "Nasir Ahmed": "N. Ahmed"
+    },
+    {
+        ", T. Natarajan and ": null
+    },
+    {
+        "K. R. Rao": "K. R. Rao"
+    },
+    {
+        " in 1974, provided the basis for the ": null
+    },
+    {
+        "modified discrete cosine transform": "Modified Discrete Cosine Transform"
+    },
+    {
+        " used by modern audio compression formats such as MP3  and AAC. MDCT was proposed by J. P. Princen, A. W. Johnson and A. B. Bradley in 1987, J. P. Princen, A. W. Johnson und A. B. Bradley: Subband/transform coding using filter bank designs based on time domain aliasing cancellation, IEEE Proc. Intl. Conference on Acoustics, Speech, and Signal Processing , 2161–2164, 1987. following earlier work by Princen and Bradley in 1986. John P. Princen, Alan B. Bradley: Analysis/synthesis filter bank design based on time domain aliasing cancellation, IEEE Trans. Acoust. Speech Signal Processing, ASSP-34 , 1153–1161, 1986. The MDCT is used by modern audio compression formats such as ": null
+    },
+    {
+        "Dolby Digital": "Dolby Digital"
+    },
+    {
+        ",   ": null
+    },
+    {
+        "MP3": "Mp3"
+    },
+    {
+        ",  and ": null
+    },
+    {
+        "Advanced Audio Coding": "Advanced Audio Coding"
+    },
+    {
+        " .      The worlds first commercial ": null
+    },
+    {
+        "broadcast automation": "Broadcast Automation"
+    },
+    {
+        " audio compression system was developed by Oscar Bonello, an engineering professor at the ": null
+    },
+    {
+        "University of Buenos Aires": "University Of Buenos Aires"
+    },
+    {
+        ". In 1983, using the psychoacoustic principle of the masking of critical bands first published in 1967, he started developing a practical application based on the recently developed ": null
+    },
+    {
+        "IBM PC": "Ibm Pc"
+    },
+    {
+        " computer, and the broadcast automation system was launched in 1987 under the name ": null
+    },
+    {
+        "Audicom": "Audicom"
+    },
+    {
+        ". Twenty years later, almost all the radio stations in the world were using similar technology manufactured by a number of companies.     A literature compendium for a large variety of audio coding systems was published in the IEEEs Journal on Selected Areas in Communications , in February 1988. While there were some papers from before that time, this collection documented an entire variety of finished, working audio coders, nearly all of them using perceptual techniques and some kind of frequency analysis and back-end noiseless coding. Several of these papers remarked on the difficulty of obtaining good, clean digital audio for research purposes. Most, if not all, of the authors in the JSAC edition were also active in the ": null
+    },
+    {
+        "MPEG-1": "Mpeg-1"
+    },
+    {
+        " Audio committee, which created the MP3 format.          Video compression is a practical implementation of source coding in information theory. In practice, most video codecs are used alongside audio compression techniques to store the separate but complementary data streams as one combined package using so-called  container format s.     ": null
+    },
+    {
+        "Uncompressed video": "Uncompressed Video"
+    },
+    {
+        " requires a very high ": null
+    },
+    {
+        "data rate": "Uncompressed Videostorage And Data Rates For Uncompressed Video"
+    },
+    {
+        ". Although ": null
+    },
+    {
+        "lossless video compression": "List Of Codecslossless Video Compression"
+    },
+    {
+        " codecs perform at a compression factor of 5 to 12, a typical ": null
+    },
+    {
+        "H.264": "H.264/Mpeg-4 Avc"
+    },
+    {
+        " lossy compression video has a compression factor between 20 and 200.     The two key video compression techniques used in ": null
+    },
+    {
+        "video coding standards": "Video Coding Standards"
+    },
+    {
+        " are the ": null
+    },
+    {
+        "discrete cosine transform": "Discrete Cosine Transform"
+    },
+    {
+        " and ": null
+    },
+    {
+        "motion compensation": "Motion Compensation"
+    },
+    {
+        " . Most video coding standards, such as the ": null
+    },
+    {
+        "H.26x": "H.26X"
+    },
+    {
+        " and ": null
+    },
+    {
+        "MPEG": "Mpeg"
+    },
+    {
+        " formats, typically use motion-compensated DCT video coding .         Video data may be represented as a series of still image frames. Such data usually contains abundant amounts of spatial and temporal ": null
+    },
+    {
+        "redundancy": "Redundancy"
+    },
+    {
+        ". Video compression algorithms attempt to reduce redundancy and store information more compactly.     Most ": null
+    },
+    {
+        "video compression formats": "Video Compression Formats"
+    },
+    {
+        " and ": null
+    },
+    {
+        "codecs": "Video Codec"
+    },
+    {
+        " exploit both spatial and temporal redundancy . Similarities can be encoded by only storing differences between e.g. temporally adjacent frames or spatially adjacent pixels .   ": null
+    },
+    {
+        "Inter-frame": "Inter Frame"
+    },
+    {
+        " compression  is one of the most powerful compression techniques. It uses data from one or more earlier or later frames in a sequence to describe the current frame. ": null
+    },
+    {
+        "Intra-frame coding": "Intra-Frame Coding"
+    },
+    {
+        ", on the other hand, uses only data from within the current frame, effectively being still-": null
+    },
+    {
+        "image compression": "Image Compression"
+    },
+    {
+        ".     A ": null
+    },
+    {
+        "class of specialized formats": "Video Coding Formatintra-Frame Video Coding Formats"
+    },
+    {
+        " used in camcorders and video editing use less complex compression schemes that restrict their prediction techniques to intra-frame prediction.     Usually video compression additionally employs ": null
+    },
+    {
+        "lossy compression": "Lossy Compression"
+    },
+    {
+        " techniques like ": null
+    },
+    {
+        "quantization": "Quantization"
+    },
+    {
+        " that reduce aspects of the source data that are irrelevant to the human visual perception by exploiting perceptual features of human vision. For example, small differences in color are more difficult to perceive than are changes in brightness. Compression algorithms can average a color across these similar areas to reduce space, in a manner similar to those used in ": null
+    },
+    {
+        "JPEG": "Jpeg"
+    },
+    {
+        " image compression. As in all lossy compression, there is a ": null
+    },
+    {
+        "trade-off": "Trade-Off"
+    },
+    {
+        " between ": null
+    },
+    {
+        "video quality": "Video Quality"
+    },
+    {
+        " and ": null
+    },
+    {
+        "bit rate": "Bit Rate"
+    },
+    {
+        ", cost of processing the compression and decompression, and system requirements. Highly compressed video may present visible or distracting ": null
+    },
+    {
+        "artifacts": "Compression Artifact"
+    },
+    {
+        ".     Other methods than the prevalent DCT-based transform formats, such as ": null
+    },
+    {
+        "fractal compression": "Fractal Compression"
+    },
+    {
+        ", ": null
+    },
+    {
+        "matching pursuit": "Matching Pursuit"
+    },
+    {
+        " and the use of a ": null
+    },
+    {
+        "discrete wavelet transform": "Discrete Wavelet Transform"
+    },
+    {
+        " , have been the subject of some research, but are typically not used in practical products . Interest in fractal compression seems to be waning, due to recent theoretical analysis showing a comparative lack of effectiveness of such methods.             Inter-frame coding works by comparing each frame in the video with the previous one. Individual frames of a video sequence are compared from one frame to the next, and the ": null
+    },
+    {
+        "video compression codec": "Video Codec"
+    },
+    {
+        " sends only the ": null
+    },
+    {
+        "differences": "Residual Frame"
+    },
+    {
+        " to the reference frame. If the frame contains areas where nothing has moved, the system can simply issue a short command that copies that part of the previous frame into the next one. If sections of the frame move in a simple manner, the compressor can emit a command that tells the decompressor to shift, rotate, lighten, or darken the copy. This longer command still remains much shorter than intraframe compression. Usually the encoder will also transmit a residue signal which describes the remaining more subtle differences to the reference imagery. Using entropy coding, these residue signals have a more compact representation than the full signal. In areas of video with more motion, the compression must encode more data to keep up with the larger number of pixels that are changing. Commonly during explosions, flames, flocks of animals, and in some panning shots, the high-frequency detail leads to quality decreases or to increases in the ": null
+    },
+    {
+        "variable bitrate": "Variable Bitrate"
+    },
+    {
+        ".             Today, nearly all commonly used video compression methods  share the same basic architecture that dates back to ": null
+    },
+    {
+        "H.261": "H.261"
+    },
+    {
+        " which was standardized in 1988 by the ITU-T. They mostly rely on the DCT, applied to rectangular blocks of neighboring pixels, and temporal prediction using ": null
+    },
+    {
+        "motion vector": "Motion Vector"
+    },
+    {
+        "s, as well as nowadays also an in-loop filtering step.     In the prediction stage, various ": null
+    },
+    {
+        "deduplication": "Data Deduplication"
+    },
+    {
+        " and difference-coding techniques are applied that help decorrelate data and describe new data based on already transmitted data.     Then rectangular blocks of ": null
+    },
+    {
+        "pixel": "Pixel"
+    },
+    {
+        " data are transformed to the frequency domain to ease targeting irrelevant information in quantization and for some spatial redundancy reduction. The ": null
+    },
+    {
+        "discrete cosine transform": "Discrete Cosine Transform"
+    },
+    {
+        " that is widely used in this regard was introduced by ": null
+    },
+    {
+        "N. Ahmed": "N. Ahmed"
+    },
+    {
+        ", T. Natarajan and ": null
+    },
+    {
+        "K. R. Rao": "K. R. Rao"
+    },
+    {
+        " in 1974.     In the main lossy processing stage that data gets quantized in order to reduce information that is irrelevant to human visual perception.     In the last stage statistical redundancy gets largely eliminated by an ": null
+    },
+    {
+        "entropy coder": "Entropy Encoding"
+    },
+    {
+        " which often applies some form of arithmetic coding.     In an additional in-loop filtering stage various filters can be applied to the reconstructed image signal. By computing these filters also inside the encoding loop they can help compression because they can be applied to reference material before it gets used in the prediction process and they can be guided using the original signal. The most popular example are ": null
+    },
+    {
+        "deblocking filters": "Deblocking Filter"
+    },
+    {
+        "that blur out blocking artefacts from quantization discontinuities at transform block boundaries.            In 1967, A.H. Robinson and C. Cherry proposed a ": null
+    },
+    {
+        "run-length encoding": "Run-Length Encoding"
+    },
+    {
+        " bandwidth compression scheme for the transmission of analog television signals.  ": null
+    },
+    {
+        "Discrete cosine transform": "Discrete Cosine Transform"
+    },
+    {
+        " , which is fundamental to modern video compression, was introduced by ": null
+    },
+    {
+        "Nasir Ahmed": "N. Ahmed"
+    },
+    {
+        ", T. Natarajan and ": null
+    },
+    {
+        "K. R. Rao": "K. R. Rao"
+    },
+    {
+        " in 1974.     ": null
+    },
+    {
+        "H.261": "H.261"
+    },
+    {
+        ", which debuted in 1988, commercially introduced the prevalent basic architecture of video compression technology.  It was the first ": null
+    },
+    {
+        "video coding format": "Video Coding Format"
+    },
+    {
+        " based on DCT compression, which would subsequently become the standard for all of the major video coding formats that followed.  H.261 was developed by a number of companies, including ": null
+    },
+    {
+        "Hitachi": "Hitachi"
+    },
+    {
+        ", ": null
+    },
+    {
+        "PictureTel": "Picturetel"
+    },
+    {
+        ", ": null
+    },
+    {
+        "NTT": "Nippon Telegraph And Telephone"
+    },
+    {
+        ", ": null
+    },
+    {
+        "BT": "Bt Plc"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Toshiba": "Toshiba"
+    },
+    {
+        ".      The most popular ": null
+    },
+    {
+        "video coding standards": "Video Coding Standard"
+    },
+    {
+        "used for codecs have been the ": null
+    },
+    {
+        "MPEG": "Mpeg"
+    },
+    {
+        " standards. ": null
+    },
+    {
+        "MPEG-1": "Mpeg-1"
+    },
+    {
+        " was developed by the ": null
+    },
+    {
+        "Motion Picture Experts Group": "Motion Picture Experts Group"
+    },
+    {
+        " in 1991, and it was designed to compress ": null
+    },
+    {
+        "VHS": "Vhs"
+    },
+    {
+        "-quality video. It was succeeded in 1994 by ": null
+    },
+    {
+        "MPEG-2": "Mpeg-2"
+    },
+    {
+        "/": null
+    },
+    {
+        "H.262": "H.262/Mpeg-2 Part 2"
+    },
+    {
+        ", which was developed by a number of companies, primarily ": null
+    },
+    {
+        "Sony": "Sony"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Thomson": "Technicolor Sa"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Mitsubishi Electric": "Mitsubishi Electric"
+    },
+    {
+        ".  MPEG-2 became the standard video format for ": null
+    },
+    {
+        "DVD": "Dvd"
+    },
+    {
+        " and ": null
+    },
+    {
+        "SD": "Standard Definition"
+    },
+    {
+        " digital television": "Digital Television"
+    },
+    {
+        ". In 1999, it was followed by ": null
+    },
+    {
+        "MPEG-4": "Mpeg-4 Visual"
+    },
+    {
+        "/": null
+    },
+    {
+        "H.263": "H.263"
+    },
+    {
+        ", which was a major leap forward for video compression technology. It was developed by a number of companies, primarily Mitsubishi Electric, ": null
+    },
+    {
+        "Hitachi": "Hitachi"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Panasonic": "Panasonic"
+    },
+    {
+        ".      The most widely used video coding format is ": null
+    },
+    {
+        "H.264/MPEG-4 AVC": "H.264/Mpeg-4 Avc"
+    },
+    {
+        ". It was developed in 2003 by a number of organizations, primarily Panasonic, ": null
+    },
+    {
+        "Godo Kaisha IP Bridge": "Godo Kaisha"
+    },
+    {
+        " and ": null
+    },
+    {
+        "LG Electronics": "Lg Electronics"
+    },
+    {
+        ".  AVC commercially introduced the modern ": null
+    },
+    {
+        "context-adaptive binary arithmetic coding": "Context-Adaptive Binary Arithmetic Coding"
+    },
+    {
+        " and ": null
+    },
+    {
+        "context-adaptive variable-length coding": "Context-Adaptive Variable-Length Coding"
+    },
+    {
+        " algorithms. AVC is the main video encoding standard for ": null
+    },
+    {
+        "Blu-ray Disc": "Blu-Ray Disc"
+    },
+    {
+        "s, and is widely used by streaming internet services such as ": null
+    },
+    {
+        "YouTube": "Youtube"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Netflix": "Netflix"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Vimeo": "Vimeo"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "iTunes Store": "Itunes Store"
+    },
+    {
+        ", web software such as ": null
+    },
+    {
+        "Adobe Flash Player": "Adobe Flash Player"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Microsoft Silverlight": "Microsoft Silverlight"
+    },
+    {
+        ", and various ": null
+    },
+    {
+        "HDTV": "Hdtv"
+    },
+    {
+        " broadcasts over terrestrial and satellite television.          ": null
+    },
+    {
+        "Genetics compression algorithms": "Compression Of Genomic Re-Sequencing Data"
+    },
+    {
+        " are the latest generation of lossless algorithms that compress data using both conventional compression algorithms and genetic algorithms adapted to the specific datatype. In 2012, a team of scientists from Johns Hopkins University published a genetic compression algorithm that does not use a reference genome for compression. HAPZIPPER was tailored for ": null
+    },
+    {
+        "HapMap": "International Hapmap Project"
+    },
+    {
+        " data and achieves over 20-fold compression , providing 2- to 4-fold better compression and in much faster time than the leading general-purpose compression utilities. For this, Chanda, Elhaik, and Bader introduced MAF based encoding , which reduces the heterogeneity of the dataset by sorting SNPs by their minor allele frequency, thus homogenizing the dataset. Other algorithms in 2009 and 2013 have compression ratios of up to 1200-fold—allowing 6 billion basepair diploid human genomes to be stored in 2.5 megabytes . For a benchmark in genetics/genomics data compressors, see       It is estimated that the total amount of data that is stored on the worlds storage devices could be further compressed with existing compression algorithms by a remaining average factor of 4.5:1.  It is estimated that the combined technological capacity of the world to store information provides 1,300 ": null
+    },
+    {
+        "exabytes": "Exabytes"
+    },
+    {
+        " of hardware digits in 2007, but when the corresponding content is optimally compressed, this only represents 295 exabytes of ": null
+    },
+    {
+        "Shannon information": "Shannon Information"
+    }
+]

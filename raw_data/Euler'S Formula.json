@@ -1,0 +1,482 @@
+[
+    {
+        "      Eulers formula, named after ": null
+    },
+    {
+        "Leonhard Euler": "Leonhard Euler"
+    },
+    {
+        ", is a ": null
+    },
+    {
+        "mathematical": "Mathematics"
+    },
+    {
+        " formula": "Formula"
+    },
+    {
+        " in ": null
+    },
+    {
+        "complex analysis": "Complex Analysis"
+    },
+    {
+        " that establishes the fundamental relationship between the ": null
+    },
+    {
+        "trigonometric functions": "Trigonometric Functions"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "complex": "Complex Number"
+    },
+    {
+        " exponential function": "Exponential Function"
+    },
+    {
+        ". Eulers formula states that for any ": null
+    },
+    {
+        "real number": "Real Number"
+    },
+    {
+        "  :     : e^ \\cos x + i\\sin x,     where  is the ": null
+    },
+    {
+        "base of the natural logarithm": "E"
+    },
+    {
+        ",  is the ": null
+    },
+    {
+        "imaginary unit": "Imaginary Unit"
+    },
+    {
+        ", and  and  are the ": null
+    },
+    {
+        "trigonometric functions": "Trigonometric Functions"
+    },
+    {
+        " cosine": "Cosine"
+    },
+    {
+        " and ": null
+    },
+    {
+        "sine": "Sine"
+    },
+    {
+        " respectively, with the argument  given in ": null
+    },
+    {
+        "radian": "Radian"
+    },
+    {
+        "s. This complex exponential function is sometimes denoted  . The formula is still valid if  is a ": null
+    },
+    {
+        "complex number": "Complex Number"
+    },
+    {
+        ", and so some authors refer to the more general complex version as Eulers formula.      Eulers formula is ubiquitous in mathematics, physics, and engineering. The physicist ": null
+    },
+    {
+        "Richard Feynman": "Richard Feynman"
+    },
+    {
+        " called the equation our jewel and the most remarkable formula in mathematics .      When x \\pi , Eulers formula evaluates to e^ + 1 0 , which is known as ": null
+    },
+    {
+        "Eulers identity": "Eulers Identity"
+    },
+    {
+        ".       ": null
+    },
+    {
+        "Johann Bernoulli": "Johann Bernoulli"
+    },
+    {
+        " noted that      : \\frac \\frac12 \\left.     And since     : \\int \\frac \\frac \\ln + C,     the above equation tells us something about ": null
+    },
+    {
+        "complex logarithms": "Complex Logarithm"
+    },
+    {
+        "by relating natural logarithms to imaginary numbers. Bernoulli, however, did not evaluate the integral.     Bernoullis correspondence with Euler shows that Bernoulli did not fully understand ": null
+    },
+    {
+        "complex logarithm": "Complex Logarithm"
+    },
+    {
+        "s. Euler also suggested that the complex logarithms can have infinitely many values.     Meanwhile, ": null
+    },
+    {
+        "Roger Cotes": "Roger Cotes"
+    },
+    {
+        " in 1714 discovered that      : ix \\ln.     Cotes missed the fact that a complex logarithm can have infinitely many values, differing by multiples of , due to the periodicity of the trigonometric functions.     Around 1740 Euler turned his attention to the exponential function instead of logarithms and obtained the formula used today that is named after him. It was published in 1748, obtained by comparing the series expansions of the exponential and trigonometric expressions. ": null
+    },
+    {
+        "Leonard Euler": "Leonard Euler"
+    },
+    {
+        "  of ": null
+    },
+    {
+        "Introduction to the Analysis of the Infinite": "Introduction To The Analysis Of The Infinite"
+    },
+    {
+        ", page 214, section 138 .     The view of complex numbers as points in the ": null
+    },
+    {
+        "complex plane": "Complex Plane"
+    },
+    {
+        " was described about 50 years later by ": null
+    },
+    {
+        "Caspar Wessel": "Caspar Wessel"
+    },
+    {
+        ".             ;Interpretation of the formula     This formula can be interpreted as saying that the function  is a ": null
+    },
+    {
+        "unit complex number": "Unit Complex Number"
+    },
+    {
+        ", i.e., it traces out the ": null
+    },
+    {
+        "unit circle": "Unit Circle"
+    },
+    {
+        " in the ": null
+    },
+    {
+        "complex plane": "Complex Plane"
+    },
+    {
+        " as  ranges through the real numbers. Here  is the ": null
+    },
+    {
+        "angle": "Angle"
+    },
+    {
+        " that a line connecting the origin with a point on the unit circle makes with the ": null
+    },
+    {
+        "positive real axis": "Positive Real Axis"
+    },
+    {
+        ", measured counterclockwise and in ": null
+    },
+    {
+        "radian": "Radian"
+    },
+    {
+        "s.     The original proof is based on the ": null
+    },
+    {
+        "Taylor series": "Taylor Series"
+    },
+    {
+        " expansions of the ": null
+    },
+    {
+        "exponential function": "Exponential Function"
+    },
+    {
+        "   and of  and  for real numbers  . In fact, the same proof shows that Eulers formula is even valid for all complex numbers  .     A point in the ": null
+    },
+    {
+        "complex plane": "Complex Plane"
+    },
+    {
+        " can be represented by a complex number written in ": null
+    },
+    {
+        "cartesian coordinates": "Coordinates Cartesian Coordinates"
+    },
+    {
+        ". Eulers formula provides a means of conversion between cartesian coordinates and ": null
+    },
+    {
+        "polar coordinates": "Polar Coordinate System"
+    },
+    {
+        ". The polar form simplifies the mathematics when used in multiplication or powers of complex numbers. Any complex number , and its complex conjugate, , can be written as     : \\begin   z & x + iy |z| r e^, \\\\   \\bar & x - iy |z| r e^,   \\end     where   : is the real part,   : is the imaginary part,   : is the ": null
+    },
+    {
+        "magnitude": "Magnitude"
+    },
+    {
+        " of    :.      is the ": null
+    },
+    {
+        "argument": "Arg"
+    },
+    {
+        " of , i.e., the angle between the x axis and the vector z measured counterclockwise in ": null
+    },
+    {
+        "radian": "Radian"
+    },
+    {
+        "s, which is defined ": null
+    },
+    {
+        "up to": "Up To"
+    },
+    {
+        " addition of . Many texts write  instead of , but the first equation needs adjustment when . This is because for any real  and  not both zero the angles of the vectors  and  differ by  radians, but have the identical value of .     ;Use of the formula to define the logarithm of complex numbers     Now, taking this derived formula, we can use Eulers formula to define the ": null
+    },
+    {
+        "logarithm": "Logarithm"
+    },
+    {
+        " of a complex number. To do this, we also use the definition of the logarithm :     : a e^,     and that     : e^a e^b e^,     both valid for any complex numbers  and .     Therefore, one can write:     : z |z| e^ e^ e^ e^     for any . Taking the logarithm of both sides shows that     : \\ln z \\ln|z| + i \\varphi,     and in fact this can be used as the definition for the ": null
+    },
+    {
+        "complex logarithm": "Complex Logarithm"
+    },
+    {
+        ". The logarithm of a complex number is thus a ": null
+    },
+    {
+        "multi-valued function": "Multi-Valued Function"
+    },
+    {
+        ", because  is multi-valued.     Finally, the other exponential law     : \\left^k e^,     which can be seen to hold for all integers , together with Eulers formula, implies several ": null
+    },
+    {
+        "trigonometric identities": "Trigonometric Identity"
+    },
+    {
+        ", as well as ": null
+    },
+    {
+        "de Moivres formula": "De Moivres Formula"
+    },
+    {
+        ".          Eulers formula provides a powerful connection between ": null
+    },
+    {
+        "analysis": "Mathematical Analysis"
+    },
+    {
+        " and ": null
+    },
+    {
+        "trigonometry": "Trigonometry"
+    },
+    {
+        ", and provides an interpretation of the sine and cosine functions as ": null
+    },
+    {
+        "weighted sums": "Weighted Sum"
+    },
+    {
+        "of the exponential function:     : \\begin   \\cos x & \\operatorname \\left \\frac, \\\\   \\sin x & \\operatorname \\left \\frac.   \\end     The two equations above can be derived by adding or subtracting Eulers formulas:     : \\begin   e^ & \\cos x + i \\sin x, \\\\   e^ & \\cos + i \\sin \\cos x - i \\sin x   \\end     and solving for either cosine or sine.     These formulas can even serve as the definition of the trigonometric functions for complex arguments . For example, letting , we have:     : \\begin   \\cos & \\frac \\cosh, \\\\   \\sin & \\frac i \\left i\\sinh.   \\end     Complex exponentials can simplify trigonometry, because they are easier to manipulate than their sinusoidal components. One technique is simply to convert sinusoids into equivalent expressions in terms of exponentials. After the manipulations, the simplified result is still real-valued. For example:     : \\begin   \\cos x\\cdot \\cos y & \\frac \\cdot \\frac \\\\   & \\frac12\\cdot \\frac \\\\   & \\frac12 \\bigg.   \\end       Another technique is to represent the sinusoids in terms of the ": null
+    },
+    {
+        "real part": "Real Part"
+    },
+    {
+        " of a complex expression and perform the manipulations on the complex expression. For example:     : \\begin   \\cos & \\operatorname \\left \\\\   & \\operatorname \\left \\\\   & \\operatorname \\Big \\\\   & \\operatorname \\left \\\\   & \\cos \\cdot - \\cos   \\end     This formula is used for recursive generation of  for integer values of  and arbitrary  .     See also ": null
+    },
+    {
+        "Phasor arithmetic": "Phasorphasor Arithmetic"
+    },
+    {
+        ".       In the language of ": null
+    },
+    {
+        "topology": "Topology"
+    },
+    {
+        ", Eulers formula states that the imaginary exponential function  is a ": null
+    },
+    {
+        "morphism": "Morphism"
+    },
+    {
+        " of ": null
+    },
+    {
+        "topological groups": "Topological Group"
+    },
+    {
+        "from the real line  to the unit circle . In fact, this exhibits  as a ": null
+    },
+    {
+        "covering space": "Covering Space"
+    },
+    {
+        " of \\mathbb S^1 . Similarly, ": null
+    },
+    {
+        "Eulers identity": "Eulers Identity"
+    },
+    {
+        " says that the ": null
+    },
+    {
+        "kernel": "Kernel"
+    },
+    {
+        " of this map is , where . These observations may be combined and summarized in the ": null
+    },
+    {
+        "commutative diagram": "Commutative Diagram"
+    },
+    {
+        " below:                 In ": null
+    },
+    {
+        "differential equations": "Differential Equations"
+    },
+    {
+        ", the function  is often used to simplify solutions, even if the final answer is a real function involving sine and cosine. The reason for this is that the exponential function is the ": null
+    },
+    {
+        "eigenfunction": "Eigenfunction"
+    },
+    {
+        " of the operation of ": null
+    },
+    {
+        "differentiation": "Differentiation"
+    },
+    {
+        ".     In ": null
+    },
+    {
+        "electrical engineering": "Electrical Engineering"
+    },
+    {
+        ", ": null
+    },
+    {
+        "signal processing": "Signal Processing"
+    },
+    {
+        ", and similar fields, signals that vary periodically over time are often described as a combination of sinusoidal functions , and these are more conveniently expressed as the sum of exponential functions with ": null
+    },
+    {
+        "imaginary": "Imaginary Number"
+    },
+    {
+        " exponents, using Eulers formula. Also, ": null
+    },
+    {
+        "phasor analysis": "Phasor Analysis"
+    },
+    {
+        " of circuits can include Eulers formula to represent the impedance of a capacitor or an inductor.     In the ": null
+    },
+    {
+        "four-dimensional space": "Four-Dimensional Space"
+    },
+    {
+        " of ": null
+    },
+    {
+        "quaternion": "Quaternion"
+    },
+    {
+        "s, there is a ": null
+    },
+    {
+        "sphere": "Sphere"
+    },
+    {
+        " of ": null
+    },
+    {
+        "imaginary unit": "Imaginary Unit"
+    },
+    {
+        "s. For any point r on this sphere, and x a real number, Eulers formula applies:   : \\exp \\cos x + r \\sin x,   and the element is called a ": null
+    },
+    {
+        "versor": "Versor"
+    },
+    {
+        " in quaternions. The set of all versors forms a ": null
+    },
+    {
+        "3-sphere": "3-Sphere"
+    },
+    {
+        " in the 4-space.            The exponential function  for real values of  may be defined in a few different equivalent ways . Several of these methods may be directly extended to give definitions of  for complex values of  simply by substituting  in place of  and using the complex algebraic operations. In particular we may use either of the three following definitions, which are equivalent. From a more advanced perspective, each of these definitions may be interpreted as giving the unique ": null
+    },
+    {
+        "analytic continuation": "Analytic Continuation"
+    },
+    {
+        " of  to the complex plane.         The exponential function z\\mapsto e^z is the unique ": null
+    },
+    {
+        "differentiable function": "Differentiable Function"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "complex variable": "Complex Variable"
+    },
+    {
+        " such that   : \\frac e^z   and   : e^01.       For complex      : e^z 1 + \\frac + \\frac + \\frac + \\cdots \\sum_^ \\frac.     Using the ": null
+    },
+    {
+        "ratio test": "Ratio Test"
+    },
+    {
+        ", it is possible to show that this ": null
+    },
+    {
+        "power series": "Power Series"
+    },
+    {
+        " has an infinite ": null
+    },
+    {
+        "radius of convergence": "Radius Of Convergence"
+    },
+    {
+        " and so defines  for all complex .       For complex      : e^z \\lim_ \\left^n.     Here, n is restricted to ": null
+    },
+    {
+        "positive integer": "Positive Integer"
+    },
+    {
+        "s, so there is no question about what the power with exponent n means.       Various proofs of the formula are possible.       Here is a proof of Eulers formula using ": null
+    },
+    {
+        "power-series expansions": "Taylor Series"
+    },
+    {
+        ", as well as basic facts about the powers of :      : \\begin   i^0 & 1, & i^1 & i, & i^2 & -1, & i^3 & -i, \\\\   i^4 & 1, & i^5 & i, & i^6 & -1, & i^7 & -i \\\\   & \\vdots & & \\vdots & & \\vdots & & \\vdots   \\end     Using now the power-series definition from above, we see that for real values of      : \\begin   e^ & 1 + ix + \\frac + \\frac + \\frac + \\frac + \\frac + \\frac + \\frac + \\cdots \\\\   & 1 + ix - \\frac - \\frac + \\frac + \\frac - \\frac - \\frac + \\frac + \\cdots \\\\   & \\left + i\\left \\\\   & \\cos x + i\\sin x .   \\end     In the last step we have simply recognized the ": null
+    },
+    {
+        "Maclaurin series": "Taylor Series"
+    },
+    {
+        " for  and . The rearrangement of terms is justified because each series is ": null
+    },
+    {
+        "absolutely convergent": "Absolute Convergence"
+    },
+    {
+        ".       Another proof  Second proof on page. is based on the fact that all complex numbers can be expressed in polar coordinates. Therefore, for some  and  depending on ,   : e^ r .   No assumptions are being made about  and ; they will be determined in the course of the proof. From any of the definitions of the exponential function it can be shown that the derivative of  is . Therefore, differentiating both sides gives   : i e ^ \\frac + r \\frac.   Substituting  for  and equating real and imaginary parts in this formula gives  and . Thus,  is a constant, and  is  for some constant . The initial values  and  come from , giving  and . This proves the formula   : e^ 1 \\cos x + i \\sin x.       Another proof is based on ": null
+    },
+    {
+        "differential equations": "Differential Equation"
+    },
+    {
+        "satisfied by exponential and trigonometric functions. See ": null
+    }
+]

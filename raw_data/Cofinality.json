@@ -1,0 +1,173 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", especially in ": null
+    },
+    {
+        "order theory": "Order Theory"
+    },
+    {
+        ", the cofinality cf of a ": null
+    },
+    {
+        "partially ordered set": "Partially Ordered Set"
+    },
+    {
+        " A is the least of the ": null
+    },
+    {
+        "cardinalities": "Cardinality"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "cofinal": "Cofinal"
+    },
+    {
+        " subsets of A.     This definition of cofinality relies on the ": null
+    },
+    {
+        "axiom of choice": "Axiom Of Choice"
+    },
+    {
+        ", as it uses the fact that every non-empty set of ": null
+    },
+    {
+        "cardinal numbers": "Cardinal Number"
+    },
+    {
+        "has a least member. The cofinality of a partially ordered set A can alternatively be defined as the least ": null
+    },
+    {
+        "ordinal": "Ordinal Number"
+    },
+    {
+        " x such that there is a function from x to A with cofinal ": null
+    },
+    {
+        "image": "Image"
+    },
+    {
+        ". This second definition makes sense without the axiom of choice. If the axiom of choice is assumed, as will be the case in the rest of this article, then the two definitions are equivalent.     Cofinality can be similarly defined for a ": null
+    },
+    {
+        "directed set": "Directed Set"
+    },
+    {
+        " and is used to generalize the notion of a ": null
+    },
+    {
+        "subsequence": "Subsequence"
+    },
+    {
+        " in a ": null
+    },
+    {
+        "net": "Net"
+    },
+    {
+        ".       The cofinality of a partially ordered set with ": null
+    },
+    {
+        "greatest element": "Greatest Element"
+    },
+    {
+        " is 1 as the set consisting only of the greatest element is cofinal .   In particular, the cofinality of any nonzero finite ordinal, or indeed any finite directed set, is 1, since such sets have a greatest element.   Every cofinal subset of a partially ordered set must contain all ": null
+    },
+    {
+        "maximal elements": "Maximal Element"
+    },
+    {
+        "of that set. Thus the cofinality of a finite partially ordered set is equal to the number of its maximal elements.   In particular, let A be a set of size n, and consider the set of subsets of A containing no more than m elements. This is partially ordered under inclusion and the subsets with m elements are maximal. Thus the cofinality of this poset is n ": null
+    },
+    {
+        "choose": "Binomial Coefficient"
+    },
+    {
+        " m.   A subset of the natural numbers N is cofinal in N if and only if it is infinite, and therefore the cofinality of & alefsym; 0 is & alefsym; 0 . Thus & alefsym; 0 is a ": null
+    },
+    {
+        "regular cardinal": "Regular Cardinal"
+    },
+    {
+        ".   The cofinality of the ": null
+    },
+    {
+        "real numbers": "Real Number"
+    },
+    {
+        "with their usual ordering is & alefsym; 0 , since N is cofinal in R. The usual ordering of R is not ": null
+    },
+    {
+        "order isomorphic": "Order Isomorphic"
+    },
+    {
+        " to c, the ": null
+    },
+    {
+        "cardinality of the real numbers": "Cardinality Of The Continuum"
+    },
+    {
+        ", which has cofinality strictly greater than & alefsym; 0 . This demonstrates that the cofinality depends on the order; different orders on the same set may have different cofinality.       If A admits a ": null
+    },
+    {
+        "totally ordered": "Total Order"
+    },
+    {
+        " cofinal subset, then we can find a subset B which is well-ordered and cofinal in A. Any subset of B is also well-ordered. If two cofinal subsets of B have minimal cardinality , then they are order isomorphic to each other.       The cofinality of an ordinal & alpha; is the smallest ordinal & delta; which is the ": null
+    },
+    {
+        "order type": "Order Type"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "cofinal subset": "Cofinal Subset"
+    },
+    {
+        " of & alpha;. The cofinality of a set of ordinals or any other ": null
+    },
+    {
+        "well-ordered set": "Well-Ordered Set"
+    },
+    {
+        " is the cofinality of the order type of that set.     Thus for a ": null
+    },
+    {
+        "limit ordinal": "Limit Ordinal"
+    },
+    {
+        " & alpha;, there exists a & delta;-indexed strictly increasing sequence with limit & alpha;. For example, the cofinality of ω² is ω, because the sequence ω·m  tends to ω²; but, more generally, any countable limit ordinal has cofinality ω. An uncountable limit ordinal may have either cofinality ω as does & omega; & omega; or an uncountable cofinality.     The cofinality of 0 is 0. The cofinality of any ": null
+    },
+    {
+        "successor ordinal": "Successor Ordinal"
+    },
+    {
+        " is 1. The cofinality of any nonzero limit ordinal is an infinite regular cardinal.          A regular ordinal is an ordinal which is equal to its cofinality. A singular ordinal is any ordinal which is not regular.     Every regular ordinal is the ": null
+    },
+    {
+        "initial ordinal": "Initial Ordinal"
+    },
+    {
+        " of a cardinal. Any limit of regular ordinals is a limit of initial ordinals and thus is also initial but need not be regular. Assuming the axiom of choice, \\omega_ is regular for each α. In this case, the ordinals 0, 1, \\omega , \\omega_1 , and \\omega_2 are regular, whereas 2, 3, \\omega_\\omega , and ω ω·2 are initial ordinals which are not regular.     The cofinality of any ordinal α is a regular ordinal, i.e. the cofinality of the cofinality of α is the same as the cofinality of α. So the cofinality operation is ": null
+    },
+    {
+        "idempotent": "Idempotent"
+    },
+    {
+        ".       If κ is an infinite cardinal number, then cf is the least cardinal such that there is an ": null
+    },
+    {
+        "unbounded": "Bounded"
+    },
+    {
+        " function from cf to κ; cf is also the cardinality of the smallest set of strictly smaller cardinals whose sum is κ; more precisely     : \\mathrm \\min \\left\\": null
+    }
+]

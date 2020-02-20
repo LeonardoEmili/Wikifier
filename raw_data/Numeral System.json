@@ -1,0 +1,359 @@
+[
+    {
+        "         A numeral system  is a ": null
+    },
+    {
+        "writing system": "Writing System"
+    },
+    {
+        " for expressing numbers; that is, a ": null
+    },
+    {
+        "mathematical notation": "Mathematical Notation"
+    },
+    {
+        " for representing ": null
+    },
+    {
+        "numbers": "Number"
+    },
+    {
+        "of a given set, using ": null
+    },
+    {
+        "digits": "Numerical Digit"
+    },
+    {
+        " or other symbols in a consistent manner.     The same sequence of symbols may represent different numbers in different numeral systems. For example, 11 represents the number eleven in the ": null
+    },
+    {
+        "decimal numeral system": "Decimal Numeral System"
+    },
+    {
+        " , the number three in the ": null
+    },
+    {
+        "binary numeral system": "Binary Numeral System"
+    },
+    {
+        " , and the number two in the ": null
+    },
+    {
+        "unary numeral system": "Unary Numeral System"
+    },
+    {
+        " .     The number the numeral represents is called its value.     Ideally, a numeral system will:   Represent a useful set of numbers    Give every number represented a unique representation   Reflect the algebraic and arithmetic structure of the numbers.     For example, the usual ": null
+    },
+    {
+        "decimal": "Decimal"
+    },
+    {
+        " representation of whole numbers gives every nonzero whole number a unique representation as a ": null
+    },
+    {
+        "finite": "Finite Set"
+    },
+    {
+        " sequence": "Sequence"
+    },
+    {
+        " of ": null
+    },
+    {
+        "digits": "Numerical Digit"
+    },
+    {
+        ", beginning with a non-zero digit. However, when decimal representation is used for the ": null
+    },
+    {
+        "rational": "Rational Number"
+    },
+    {
+        " or real numbers, such numbers, in general, have an infinite number of representations, for example 2.31 can also be written as 2.310, 2.3100000, 2.309999999..., etc., all of which have the same meaning except for some scientific and other contexts where greater precision is implied by a larger number of figures shown.     Numeral systems are sometimes called  number system s, but that name is ambiguous, as it could refer to different systems of numbers, such as the system of ": null
+    },
+    {
+        "real number": "Real Number"
+    },
+    {
+        "s, the system of ": null
+    },
+    {
+        "complex number": "Complex Number"
+    },
+    {
+        "s, the system of ": null
+    },
+    {
+        "p-adic numbers": "P-Adic Number"
+    },
+    {
+        ", etc. Such systems are, however, not the topic of this article.          The most commonly used system of numerals is the ": null
+    },
+    {
+        "Hindu–Arabic numeral system": "Hindu–Arabic Numeral System"
+    },
+    {
+        ".  Two ": null
+    },
+    {
+        "Indian mathematicians": "Indian Mathematicians"
+    },
+    {
+        " are credited with developing it. ": null
+    },
+    {
+        "Aryabhata": "Aryabhata"
+    },
+    {
+        " of ": null
+    },
+    {
+        "Kusumapura": "Patna"
+    },
+    {
+        " developed the ": null
+    },
+    {
+        "place-value notation": "Place-Value Notation"
+    },
+    {
+        " in the 5th  century and a century later ": null
+    },
+    {
+        "Brahmagupta": "Brahmagupta"
+    },
+    {
+        " introduced the symbol for ": null
+    },
+    {
+        "zero": "Zero"
+    },
+    {
+        ". The numeral system and the zero concept, developed by the Hindus in India, slowly spread to other surrounding countries due to their commercial and military activities with India. The Arabs adopted and modified it. Even today, the Arabs call the numerals which they use Raqam Al-Hind or the Hindu numeral system. The Arabs translated Hindu texts on numerology and spread them to the western world due to their trade links with them. The Western world modified them and called them the Arabic numerals, as they learned them from the Arabs. Hence the current western numeral system is the modified version of the Hindu numeral system developed in India. It also exhibits a great similarity to the Sanskrit–Devanagari notation, which is still used in India and neighbouring Nepal.     The simplest numeral system is the ": null
+    },
+    {
+        "unary numeral system": "Unary Numeral System"
+    },
+    {
+        ", in which every ": null
+    },
+    {
+        "natural number": "Natural Number"
+    },
+    {
+        " is represented by a corresponding number of symbols. If the symbol / is chosen, for example, then the number seven would be represented by /////// . ": null
+    },
+    {
+        "Tally marks": "Tally Marks"
+    },
+    {
+        " represent one such system still in common use. The unary system is only useful for small numbers, although it plays an important role in ": null
+    },
+    {
+        "theoretical computer science": "Theoretical Computer Science"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Elias gamma coding": "Elias Gamma Coding"
+    },
+    {
+        ", which is commonly used in ": null
+    },
+    {
+        "data compression": "Data Compression"
+    },
+    {
+        ", expresses arbitrary-sized numbers by using unary to indicate the length of a binary numeral.     The unary notation can be abbreviated by introducing different symbols for certain new values. Very commonly, these values are powers of 10; so for instance, if / stands for one, − for ten and + for 100, then the number 304 can be compactly represented as +++ //// and the number 123 as + − − /// without any need for zero. This is called ": null
+    },
+    {
+        "sign-value notation": "Sign-Value Notation"
+    },
+    {
+        ". The ancient ": null
+    },
+    {
+        "Egyptian numeral system": "Egyptian Numeral System"
+    },
+    {
+        " was of this type, and the ": null
+    },
+    {
+        "Roman numeral system": "Roman Numeral System"
+    },
+    {
+        " was a modification of this idea.     More useful still are systems which employ special abbreviations for repetitions of symbols; for example, using the first nine letters of the alphabet for these abbreviations, with A standing for one occurrence , B two occurrences , and so on, one could then write C+ D/ for the number 304. This system is used when writing ": null
+    },
+    {
+        "Chinese numerals": "Chinese Numerals"
+    },
+    {
+        " and other East Asian numerals based on Chinese. The number system of the ": null
+    },
+    {
+        "English language": "English Language"
+    },
+    {
+        " is of this type , as are those of other spoken ": null
+    },
+    {
+        "language": "Language"
+    },
+    {
+        "s, regardless of what written systems they have adopted. However, many languages use mixtures of bases, and other features, for instance 79 in French is soixante dix-neuf  and in Welsh is pedwar ar bymtheg a thrigain  or pedwar ugain namyn un . In English, one could say four score less one , as in the famous ": null
+    },
+    {
+        "Gettysburg Address": "Gettysburg Address"
+    },
+    {
+        " representing 87 years ago as four score and seven years ago .     More elegant is a  positional system , also known as place-value notation. Again working in base  10, ten different digits 0,  ..., 9 are used and the position of a digit is used to signify the power of ten that the digit is to be multiplied with, as in  or more precisely . Zero, which is not needed in the other systems, is of crucial importance here, in order to be able to skip a power. The Hindu–Arabic numeral system, which originated in India and is now used throughout the world, is a positional base  10 system.     Arithmetic is much easier in positional systems than in the earlier additive ones; furthermore, additive systems need a large number of different symbols for the different powers of 10; a positional system needs only ten different symbols .     The positional decimal system is presently universally used in human writing. The base  1000 is also used , by grouping the digits and considering a sequence of three decimal digits as a single digit. This is the meaning of the common notation 1,000,234,567 used for very large numbers.     In ": null
+    },
+    {
+        "computers": "Computers"
+    },
+    {
+        ", the main numeral systems are based on the positional system in base  2 , with two ": null
+    },
+    {
+        "binary digit": "Binary Digit"
+    },
+    {
+        "s, 0 and 1. Positional systems obtained by grouping binary digits by three  or four  are commonly used. For very large integers, bases  2 32 or 2 64  are used, as, for example, in ": null
+    },
+    {
+        "GMP": "Gnu Multiple Precision Arithmetic Library"
+    },
+    {
+        ".     In certain biological systems, the ": null
+    },
+    {
+        "unary coding": "Unary Coding"
+    },
+    {
+        " system is employed. Unary numerals used in the ": null
+    },
+    {
+        "neural circuits": "Neural Circuit"
+    },
+    {
+        "responsible for ": null
+    },
+    {
+        "birdsong": "Birdsong"
+    },
+    {
+        " production. Fiete, I. R.; Seung, H. S. . Neural network models of birdsong production, learning, and coding . In Squire, L.; Albright, T.; Bloom, F.; Gage, F.; Spitzer, N. New Encyclopedia of Neuroscience. The nucleus in the brain of the songbirds that plays a part in both the learning and the production of bird song is the HVC . The command signals for different notes in the birdsong emanate from different points in the HVC. This coding works as space coding which is an efficient strategy for biological circuits due to its inherent simplicity and robustness.     The numerals used when writing numbers with digits or symbols can be divided into two types that might be called the ": null
+    },
+    {
+        "arithmetic": "Arithmetic Sequence"
+    },
+    {
+        " numerals and the ": null
+    },
+    {
+        "geometric": "Geometric Sequence"
+    },
+    {
+        " numerals , respectively. The sign-value systems use only the geometric numerals and the positional systems use only the arithmetic numerals. A sign-value system does not need arithmetic numerals because they are made by repetition , and a positional system does not need geometric numerals because they are made by position. However, the spoken language uses both arithmetic and geometric numerals.     In certain areas of computer science, a modified base k positional system is used, called ": null
+    },
+    {
+        "bijective numeration": "Bijective Numeration"
+    },
+    {
+        ", with digits 1, 2,  ..., k , and zero being represented by an empty string. This establishes a ": null
+    },
+    {
+        "bijection": "Bijection"
+    },
+    {
+        " between the set of all such digit-strings and the set of non-negative integers, avoiding the non-uniqueness caused by leading zeros. Bijective base-k numeration is also called k-adic notation, not to be confused with ": null
+    },
+    {
+        "p-adic numbers": "P-Adic Number"
+    },
+    {
+        ". Bijective base  1 is the same as unary.           In a positional base b numeral system , b basic symbols corresponding to the first b natural numbers including zero are used. To generate the rest of the numerals, the position of the symbol in the figure is used. The symbol in the last position has its own value, and as it moves to the left its value is multiplied by b.     For example, in the ": null
+    },
+    {
+        "decimal": "Decimal"
+    },
+    {
+        " system , the numeral 4327 means , noting that .     In general, if b is the base, one writes a number in the numeral system of base b by expressing it in the form  and writing the enumerated digits  in descending order. The digits are natural numbers between 0 and , inclusive.     If a text discusses multiple bases, and if ambiguity exists, the base is added in subscript to the right of the number, like this: number base . Unless specified by context, numbers without subscript are considered to be decimal.     By using a dot to divide the digits into two groups, one can also write fractions in the positional system. For example, the base  2 numeral 10.11 denotes .     In general, numbers in the base b system are of the form:     :   _b   \\sum_^n a_kb^k + \\sum_^\\infty c_kb^.       The numbers b k and b −k are the ": null
+    },
+    {
+        "weights": "Weight Function"
+    },
+    {
+        " of the corresponding digits. The position k is the ": null
+    },
+    {
+        "logarithm": "Logarithm"
+    },
+    {
+        " of the corresponding weight w, that is k \\log_ w \\log_ b^k . The highest used position is close to the ": null
+    },
+    {
+        "order of magnitude": "Order Of Magnitude"
+    },
+    {
+        " of the number.     The number of ": null
+    },
+    {
+        "tally marks": "Tally Marks"
+    },
+    {
+        " required in the ": null
+    },
+    {
+        "unary numeral system": "Unary Numeral System"
+    },
+    {
+        " for describing the weight would have been w. In the positional system, the number of digits required to describe it is only k + 1 \\log_ w + 1 , for k ≥ 0. For example, to describe the weight 1000 then four digits are needed because \\log_ 1000 + 1 3 + 1 . The number of digits required to describe the position is \\log_b k + 1 \\log_b \\log_b w + 1 .     : \\begin   \\text   & 3   & 2   & 1   & 0   & -1   & -2   & \\cdots   \\\\   \\hline   \\text   & b^3 & b^2 & b^1 & b^0 & b^ & b^ & \\cdots   \\\\   \\text   & a_3 & a_2 & a_1 & a_0 & c_1 & c_2 & \\cdots   \\\\   \\hline   \\text   & 1000 & 100 & 10 & 1 & 0.1 & 0.01 & \\cdots   \\\\   \\text   & 4 & 3 & 2 & 7 & 0 & 0 & \\cdots   \\end       A number has a terminating or repeating expansion ": null
+    },
+    {
+        "if and only if": "If And Only If"
+    },
+    {
+        " it is ": null
+    },
+    {
+        "rational": "Rational Number"
+    },
+    {
+        "; this does not depend on the base. A number that terminates in one base may repeat in another . An irrational number stays aperiodic in all integral bases. Thus, for example in base  2,  can be written as the aperiodic 11.001001000011111... 2 .     Putting ": null
+    },
+    {
+        "overscores": "Overline"
+    },
+    {
+        ", , or dots, ṅ, above the common digits is a convention used to represent repeating rational expansions. Thus:   :14/11 1.272727272727... 1.   or   321.3217878787878... 321.321.     If b p is a ": null
+    },
+    {
+        "prime number": "Prime Number"
+    },
+    {
+        ", one can define base-p numerals whose expansion to the left never stops; these are called the ": null
+    },
+    {
+        "p-adic numbers": "P-Adic Number"
+    },
+    {
+        ".       More general is using a ": null
+    },
+    {
+        "mixed radix": "Mixed Radix"
+    },
+    {
+        " notation  like a_0 a_1 a_2 for a_0 + a_1 b_1 + a_2 b_1 b_2 , etc.     This is used in ": null
+    },
+    {
+        "punycode": "Punycode"
+    },
+    {
+        ", one aspect of which is the representation of a sequence of non-negative integers of arbitrary size in the form of a sequence without delimiters, of digits from a collection of 36: a–z and 0–9, representing 0–25 and 26–35 respectively. A digit lower than a threshold value marks that it is the most-significant digit, hence the end of the number. The threshold value depends on the position in the number. For example, if the threshold value for the first digit is b then a marks the end of the number , so in numbers of more than one digit, range is only b–9 , therefore the weight b 1 is 35 instead of 36. Suppose the threshold values for the second and third digits are c , then the third digit has a weight 34 × 35 1190 and we have the following sequence:     a , ba , ca , .., 9a , bb , cb , .., 9b , bca , .., 99a , bcb , etc.     Unlike a regular based numeral system, there are numbers like 9b where 9 and b each represents 35; yet the representation is unique because ac and aca are not allowed – the a would terminate the number.     The flexibility in choosing threshold values allows optimization depending on the frequency of occurrence of numbers of various sizes.     The case with all threshold values equal to 1 corresponds to ": null
+    },
+    {
+        "bijective numeration": "Bijective Numeration"
+    }
+]

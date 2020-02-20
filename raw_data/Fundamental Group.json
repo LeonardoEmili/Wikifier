@@ -1,0 +1,194 @@
+[
+    {
+        "     In the ": null
+    },
+    {
+        "mathematical": "Mathematics"
+    },
+    {
+        " field of ": null
+    },
+    {
+        "algebraic topology": "Algebraic Topology"
+    },
+    {
+        ", the fundamental group of a ": null
+    },
+    {
+        "topological space": "Topological Space"
+    },
+    {
+        " is the ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "equivalence class": "Equivalence Class"
+    },
+    {
+        "es under ": null
+    },
+    {
+        "homotopy": "Homotopy"
+    },
+    {
+        " of the   ": null
+    },
+    {
+        "loops": "Loop"
+    },
+    {
+        "contained in the space. It records information about the basic shape, or holes, of the ": null
+    },
+    {
+        "topological space": "Topological Space"
+    },
+    {
+        ". The fundamental group is the first and simplest ": null
+    },
+    {
+        "homotopy group": "Homotopy Group"
+    },
+    {
+        ". The fundamental group is a ": null
+    },
+    {
+        "homotopy invariant": "Homotopy Invariant"
+    },
+    {
+        " topological spaces that are ": null
+    },
+    {
+        "homotopy equivalent": "Homotopy Equivalent"
+    },
+    {
+        "  have ": null
+    },
+    {
+        "isomorphic": "Group Isomorphism"
+    },
+    {
+        " fundamental groups.     The ": null
+    },
+    {
+        "abelianization": "Abelianization"
+    },
+    {
+        " of the fundamental group can be identified with the first ": null
+    },
+    {
+        "homology group": "Homology Group"
+    },
+    {
+        " of the space. When the topological space is homeomorphic to a ": null
+    },
+    {
+        "simplicial complex": "Simplicial Complex"
+    },
+    {
+        ", its fundamental group can be described explicitly in terms of ": null
+    },
+    {
+        "generators and relations": "Presentation Of A Group"
+    },
+    {
+        ".     ": null
+    },
+    {
+        "Henri Poincaré": "Henri Poincaré"
+    },
+    {
+        " defined the fundamental group in 1895 in his paper ": null
+    },
+    {
+        "Analysis situs": "Analysis Situs"
+    },
+    {
+        " .  Translated in  The concept emerged in the theory of ": null
+    },
+    {
+        "Riemann surface": "Riemann Surface"
+    },
+    {
+        "s, in the work of ": null
+    },
+    {
+        "Bernhard Riemann": "Bernhard Riemann"
+    },
+    {
+        ", Poincaré, and ": null
+    },
+    {
+        "Felix Klein": "Felix Klein"
+    },
+    {
+        ". It describes the ": null
+    },
+    {
+        "monodromy": "Monodromy"
+    },
+    {
+        " properties of ": null
+    },
+    {
+        "complex-valued function": "Complex-Valued Function"
+    },
+    {
+        "s, as well as providing a complete topological ": null
+    },
+    {
+        "classification of closed surfaces": "Classification Of Surfaces"
+    },
+    {
+        ".       Start with a space , and some point in it, and all the loops both starting and ending at this point — paths that start at this point, wander around and eventually return to the starting point. Two loops can be combined together in an obvious way: travel along the first loop, then along the second.   Two loops are considered equivalent if one can be deformed into the other without breaking. The set of all such loops with this method of combining and this equivalence between them is the fundamental group for that particular space.            Throughout this article, X is a topological space. A typical example is a surface such as the one depicted at the right. Moreover, x_0 is a point in X called the base-point. The idea of the definition of the homotopy group is to measure how many curves on X can be deformed into each other. The precise definition depends on the notion of the homotopy of loops, which is explained first.         Given a topological space X, a  loop based at x_0  is defined to be a ": null
+    },
+    {
+        "continuous function": "Continuous Function"
+    },
+    {
+        "    : \\gamma : \\to X   such that both the starting point \\gamma and the end point \\gamma are both equal to x_0.        A  homotopy  is a continuous interpolation between two loops. More precisely, a homotopy between two loops \\gamma, \\gamma : \\to X is a continuous map   : h : \\times \\to X,   such that   : h x_0 for all t \\in that is, the starting point of the homotopy is x_0 for all t .   : h x_0 for all t \\in that is, similarly the end point stays at x_0 for all t.   : h \\gamma, h \\gamma for all r \\in     If such a homotopy h exists, \\gamma and \\gamma are said to be homotopic. The relation \\gamma is homotopic to \\gamma is an ": null
+    },
+    {
+        "equivalence relation": "Equivalence Relation"
+    },
+    {
+        " so that the set of ": null
+    },
+    {
+        "equivalence class": "Equivalence Class"
+    },
+    {
+        "es can be considered:   : \\pi_1 : \\ / \\text   It is called the fundamental group of the topological space X and the base point x_0. The purpose of considering the equivalence classes of loops up to homotopy, as opposed to the set of all loops  is that the latter, while being useful for various purposes, is a rather big and unwieldy object. By contrast the above quotient has, in many cases, a manageable and computable size.          By the above definition, \\pi_1 is just a set. It becomes a group  using the concatenation of loops. More precisely, given two loops \\gamma_0, \\gamma_1, their product is defined as the loop   : \\begin   \\gamma_0 \\cdot \\gamma_1 : & \\to X \\\\   & \\begin   \\gamma_0 & 0 \\leq t \\leq \\tfrac \\\\   \\gamma_1 & \\tfrac \\leq t \\leq 1.   \\end   \\end   Thus the loop \\gamma_0 \\cdot \\gamma_1 first follows the loop \\gamma_0 with twice the speed and then follows \\gamma_1 with twice the speed .     The product of two homotopy classes of loops and is then defined as It can be shown that this product does not depend on the choice of representatives and therefore gives a well-defined operation on the set \\pi_1. This operation turns \\pi_1 into a group. Its ": null
+    },
+    {
+        "neutral element": "Neutral Element"
+    },
+    {
+        " is the constant loop which stays at x_0 for all times t. The inverse of a loop is the same loop, but traversed in the opposite direction. More formally,   : \\gamma^ : \\gamma.   Given three based loops \\gamma_0, \\gamma_1, \\gamma_2, the product   : \\cdot \\gamma_2   is the concatenation of these loops, traversing \\gamma_0 and then \\gamma_1 with quadruple speed, and then \\gamma_2 with double speed. By comparison,   : \\gamma_0 \\cdot   traverses the same paths , but \\gamma_0 with double speed, and \\gamma_1, \\gamma_2 with quadruple speed. Thus, because of the differing speeds, the two paths are not identical. The ": null
+    },
+    {
+        "associativity": "Associativity"
+    },
+    {
+        " axiom   : \\cdot \\left \\left \\cdot   therefore crucially depends on the fact that paths are considered up to homotopy. Indeed, both above composites are homotopic, for example, to the loops which traverses all three loops \\gamma_0, \\gamma_1, \\gamma_2 with triple speed. The set of based loops up to homotopy, equipped with the above operation therefore does turn \\pi_1 into a group.       Although the fundamental group in general depends on the choice of base point, it turns out that, ": null
+    },
+    {
+        "up to": "Up To"
+    },
+    {
+        " isomorphism": "Isomorphism"
+    },
+    {
+        " , this choice makes no difference as long as the space X is ": null
+    },
+    {
+        "path-connected": "Path Connected"
+    },
+    {
+        ". For path-connected spaces, therefore, many authors therefore write : \\pi_1   instead of \\pi_1.         ": null
+    }
+]

@@ -1,0 +1,299 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", a permutation group is a ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        " G whose elements are ": null
+    },
+    {
+        "permutations": "Permutation"
+    },
+    {
+        "of a given ": null
+    },
+    {
+        "set": "Set"
+    },
+    {
+        " M and whose ": null
+    },
+    {
+        "group operation": "Group Operation"
+    },
+    {
+        " is the composition of permutations in G . The group of all permutations of a set M is the ": null
+    },
+    {
+        "symmetric group": "Symmetric Group"
+    },
+    {
+        " of M, often written as Sym. The notations S M and S M are also used. The term permutation group thus means a ": null
+    },
+    {
+        "subgroup": "Subgroup"
+    },
+    {
+        " of the symmetric group. If  then, Sym, the symmetric group on n letters is usually denoted by S n .     By ": null
+    },
+    {
+        "Cayleys theorem": "Cayleys Theorem"
+    },
+    {
+        ", every group is ": null
+    },
+    {
+        "isomorphic": "Isomorphic"
+    },
+    {
+        " to some permutation group.     The way in which the elements of a permutation group permute the elements of the set is called its ": null
+    },
+    {
+        "group action": "Group Action"
+    },
+    {
+        ". Group actions have applications in the study of ": null
+    },
+    {
+        "symmetries": "Symmetry"
+    },
+    {
+        ", ": null
+    },
+    {
+        "combinatorics": "Combinatorics"
+    },
+    {
+        " and many other branches of ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "physics": "Physics"
+    },
+    {
+        " and chemistry.              Being a ": null
+    },
+    {
+        "subgroup": "Subgroup"
+    },
+    {
+        " of a symmetric group, all that is necessary for a set of permutations to satisfy the ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        " axioms and be a permutation group is that it contain the identity permutation, the inverse permutation of each permutation it contains, and be closed under ": null
+    },
+    {
+        "composition": "Function Composition"
+    },
+    {
+        " of its permutations.  A general property of finite groups implies that a finite nonempty subset of a symmetric group is again a group if and only if it is closed under the group operation.      The degree of a group of permutations of a ": null
+    },
+    {
+        "finite set": "Finite Set"
+    },
+    {
+        " is the ": null
+    },
+    {
+        "number of elements": "Cardinality"
+    },
+    {
+        " in the set. The order of a group is the number of elements in the group. By ": null
+    },
+    {
+        "Lagranges theorem": "Lagranges Theorem"
+    },
+    {
+        ", the order of any finite permutation group of degree n must divide n! .          Since permutations are ": null
+    },
+    {
+        "bijections": "Bijection"
+    },
+    {
+        "of a set, they can be represented by ": null
+    },
+    {
+        "Cauchys": "Augustin-Louis Cauchy"
+    },
+    {
+        " two-line notation.  This notation lists each of the elements of M in the first row, and for each element, its image under the permutation below it in the second row. If \\sigma is a permutation of the set M \\ then,   : \\sigma \\begin   x_1 & x_2 & x_3 & \\cdots & x_n \\\\   \\sigma & \\sigma & \\sigma & \\cdots & \\sigma\\end.   For instance, a particular permutation of the set can be written as:   : \\sigma\\begin   1 & 2 & 3 & 4 & 5 \\\\   2 & 5 & 4 & 3 & 1\\end;   this means that σ satisfies σ2, σ5, σ4, σ3, and σ1. The elements of M need not appear in any special order in the first row. This permutation could also be written as:   : \\sigma\\begin   3 & 2 & 5 & 1 & 4 \\\\   4 & 5 & 1 & 2 & 3\\end.     Permutations are also often written in ": null
+    },
+    {
+        "cyclic notation": "Cyclic Notation"
+    },
+    {
+        "  especially when the algebraic properties of the permutation are of interest. so that given the set M , a permutation g of M with g 2, g 4, g 1 and g 3 will be written as , or more commonly, since 3 is left unchanged; if the objects are denoted by single letters or digits, commas and spaces can also be dispensed with, and we have a notation such as . The permutation written above in 2-line notation would be written in cyclic notation as \\sigma .          The product of two permutations is defined as their ": null
+    },
+    {
+        "composition": "Function Composition"
+    },
+    {
+        " as functions, so \\sigma \\cdot \\pi is the function that maps any element x of the set to \\sigma . Note that the rightmost permutation is applied to the argument first,       & ndash; note especially the footnote on this page. because of the way function application is written. Some authors prefer the leftmost factor acting first,      & ndash; see the comment following Example 1.2.2                 but to that end permutations must be written to the right of their argument, often as a ": null
+    },
+    {
+        "superscript": "Superscript"
+    },
+    {
+        ", so the permutation \\sigma acting on the element x results in the image x ^ . With this convention, the product is given by x ^ ^ . However, this gives a different rule for multiplying permutations. This convention is commonly used in the permutation group literature, but this article uses the convention where the rightmost permutation is applied first.     Since the composition of two bijections always gives another bijection, the product of two permutations is again a permutation. In two-line notation, the product of two permutations is obtained by rearranging the columns of the second permutation so that its first row is identical with the second row of the first permutation. The product can then be written as the first row of the first permutation over the second row of the modified second permutation. For example, given the permutations,   : P \\begin1 & 2 & 3 & 4 & 5 \\\\2 & 4 & 1 & 3 & 5 \\end\\quad \\text \\quad Q \\begin1 & 2 & 3 & 4 & 5 \\\\ 5 & 4 & 3 & 2 & 1 \\end,   the product QP is:   : QP \\begin1 & 2 & 3 & 4 & 5 \\\\ 5 & 4 & 3 & 2 & 1 \\end\\begin1 & 2 & 3 & 4 & 5 \\\\2 & 4 & 1 & 3 & 5 \\end \\begin 2 & 4 & 1 & 3 & 5 \\\\ 4 & 2 & 5 & 3 & 1 \\end \\begin1 & 2 & 3 & 4 & 5 \\\\2 & 4 & 1 & 3 & 5 \\end \\begin1 & 2 & 3 & 4 & 5 \\\\4 & 2 & 5 & 3 & 1 \\end.     The composition of permutations, when they are written in cyclic form, is obtained by juxtaposing the two permutations and then simplifying to a disjoint cycle form if desired. Thus, in cyclic notation the above product would be given by:   : Q \\cdot P \\cdot .     Since ": null
+    },
+    {
+        "function composition": "Function Composition"
+    },
+    {
+        " is ": null
+    },
+    {
+        "associative": "Associative"
+    },
+    {
+        ", so is the product operation on permutations: \\cdot \\rho \\sigma \\cdot . Therefore, products of two or more permutations are usually written without adding parentheses to express grouping; they are also usually written without a dot or other sign to indicate multiplication .         The identity permutation, which maps every element of the set to itself, is the neutral element for this product. In two-line notation, the identity is   : \\begin1 & 2 & 3 & \\cdots & n \\\\ 1 & 2 & 3 & \\cdots & n\\end.   In cyclic notation, e ... which by convention is also denoted by just or even .      Since ": null
+    },
+    {
+        "bijections": "Bijections"
+    },
+    {
+        " have ": null
+    },
+    {
+        "inverses": "Inverse Function"
+    },
+    {
+        ", so do permutations, and the inverse σ −1 of σ is again a permutation. Explicitly, whenever σy one also has σ −1 x. In two-line notation the inverse can be obtained by interchanging the two lines . For instance   : \\begin1 & 2 & 3 & 4 & 5 \\\\ 2 & 5 & 4 & 3 & 1\\end^   \\begin2 & 5 & 4 & 3 & 1\\\\ 1 & 2 & 3 & 4 & 5 \\end   \\begin1 & 2 & 3 & 4 & 5 \\\\ 5 & 1 & 4 & 3 & 2\\end.     To obtain the inverse of a single cycle, we reverse the order of its elements. Thus,   : ^ .     To obtain the inverse of a product of cycles, we first reverse the order of the cycles, and then we take the inverse of each as above. Thus,   : ^^ .     Having an associative product, an identity element, and inverses for all its elements, makes the set of all permutations of M into a ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        ", Sym; a permutation group.         Consider the following set G 1 of permutations of the set M :     e   This is the identity, the trivial permutation which fixes each element.   a   This permutation interchanges 1 and 2, and fixes 3 and 4.   b   Like the previous one, but exchanging 3 and 4, and fixing the others.   ab   This permutation, which is the composition of the previous two, exchanges simultaneously 1 with 2, and 3 with 4.     G 1 forms a group, since aa bb e, ba ab, and abab e. This permutation group is ": null
+    },
+    {
+        "isomorphic": "Isomorphic Group"
+    },
+    {
+        ", as an abstract group, to the ": null
+    },
+    {
+        "Klein group": "Klein Group"
+    },
+    {
+        " V 4 .     As another example consider the ": null
+    },
+    {
+        "group of symmetries of a square": "Examples Of Groupsthe Symmetry Group Of A Square - Dihedral Group Of Order 8"
+    },
+    {
+        ". Let the vertices of a square be labeled 1, 2, 3 and 4 . The symmetries are determined by the images of the vertices, that can, in turn, be described by permutations. The rotation by 90° about the center of the square is described by the permutation . The 180° and 270° rotations are given by and , respectively. The reflection about the horizontal line through the center is given by and the corresponding vertical line reflection is . The reflection about the 1,3−diagonal line is and reflection about the 2,4−diagonal is . The only remaining symmetry is the identity . This permutation group is abstractly known as the ": null
+    },
+    {
+        "dihedral group": "Dihedral Group"
+    },
+    {
+        " of order 8.          In the above example of the symmetry group of a square, the permutations describe the movement of the vertices of the square induced by the group of symmetries. It is common to say that these group elements are acting on the set of vertices of the square. This idea can be made precise by formally defining a group action.      Let G be a ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        " and M a nonempty ": null
+    },
+    {
+        "set": "Set"
+    },
+    {
+        ". An action of G on M is a function f: G × M → M such that   f x, for all x in M , and   f f, for all g,h in G and all x in M.   This last condition can also be expressed as saying that the action induces a group homomorphism from G into Sym. Any such homomorphism is called a  representation of G on M.     For any permutation group, the action that sends  → g is called the natural action of G on M. This is the action that is assumed unless otherwise indicated. In the example of the symmetry group of the square, the groups action on the set of vertices is the natural action. However, this group also induces an action on the set of four triangles in the square, which are: t 1 234, t 2 134, t 3 124 and t 4 123. It also acts on the two diagonals: d 1 13 and d 2 24.               Any group G can act on itself  in many ways. In particular, there is a ": null
+    },
+    {
+        "regular action": "Regular Group Action"
+    },
+    {
+        " given by multiplication in the group. That is, f gx for all g and x in G. For each fixed g, the function f g  gx is a bijection on G and therefore a permutation of the set G. Each element of G can be thought of as a permutation in this way and so, G is isomorphic to a permutation group; this is the content of ": null
+    },
+    {
+        "Cayleys theorem": "Cayleys Theorem"
+    },
+    {
+        ".     Consider the group G 1 acting on the set given above. Let the elements of this group be denoted by e, a, b and c ab ba. The action of G 1 on itself described in Cayleys theorem gives the following permutation representation:   :f e ↦    :f a ↦    :f b ↦    :f c ↦ .         If G and H are two permutation groups on sets X and Y with actions f 1 and f 2 respectively, then we say that G and H are permutation isomorphic  if there exists a ": null
+    },
+    {
+        "bijective map": "Bijection"
+    },
+    {
+        "  and a ": null
+    },
+    {
+        "group isomorphism": "Group Isomorphism"
+    },
+    {
+        "  such that:    : λ f 2  for all g in G and x in X.     If  this is equivalent to G and H being conjugate as subgroups of Sym.  The special case where  and ψ is the ": null
+    },
+    {
+        "identity map": "Identity Map"
+    },
+    {
+        " gives rise to the concept of equivalent actions of a group.      In the example of the symmetries of a square given above, the natural action on the set is equivalent to the action on the triangles. The bijection λ between the sets is given by . The natural action of group G 1 above and its action on itself are not equivalent as the natural action has fixed points and the second action does not.            The study of ": null
+    },
+    {
+        "groups": "Group"
+    },
+    {
+        " originally grew out of an understanding of permutation groups.  ": null
+    },
+    {
+        "Permutations": "Permutation"
+    },
+    {
+        "had themselves been intensively studied by ": null
+    },
+    {
+        "Lagrange": "Lagrange"
+    },
+    {
+        " in 1770 in his work on the algebraic solutions of polynomial equations. This subject flourished and by the mid 19th century a well-developed theory of permutation groups existed, codified by ": null
+    },
+    {
+        "Camille Jordan": "Camille Jordan"
+    },
+    {
+        " in his book Traité des Substitutions et des Équations Algébriques of 1870. Jordans book was, in turn, based on the papers that were left by ": null
+    },
+    {
+        "Évariste Galois": "Évariste Galois"
+    },
+    {
+        " in 1832.     When ": null
+    },
+    {
+        "Cayley": "Arthur Cayley"
+    },
+    {
+        " introduced the concept of an abstract group, it was not immediately clear whether or not this was a larger collection of objects than the known permutation groups . Cayley went on to prove that the two concepts were equivalent in Cayleys theorem.      Another classical text containing several chapters on permutation groups is ": null
+    },
+    {
+        "Burnsides": "William Burnside"
+    },
+    {
+        " Theory of Groups of Finite Order of 1911.  The first half of the twentieth century was a fallow period in the study of group theory in general, but interest in permutation groups was revived in the 1950s by ": null
+    },
+    {
+        "H. Wielandt": "H. Wielandt"
+    },
+    {
+        " whose German lecture notes were reprinted as Finite Permutation Groups in 1964. ": null
+    }
+]

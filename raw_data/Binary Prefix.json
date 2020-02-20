@@ -1,0 +1,338 @@
+[
+    {
+        "         A binary prefix is a ": null
+    },
+    {
+        "unit prefix": "Unit Prefix"
+    },
+    {
+        " for multiples of ": null
+    },
+    {
+        "units": "Units Of Measurement"
+    },
+    {
+        "in data processing, data transmission, and digital information, notably the ": null
+    },
+    {
+        "bit": "Bit"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "byte": "Byte"
+    },
+    {
+        ", to indicate multiplication by a ": null
+    },
+    {
+        "power": "Exponentiation"
+    },
+    {
+        " of 2.     The computer industry has historically used the units kilobyte, megabyte, and gigabyte, and the corresponding symbols KB, MB, and GB, in at least two slightly different measurement systems. In citations of main memory  capacity, gigabyte customarily means  bytes. As this is a power of 1024, and 1024 is a ": null
+    },
+    {
+        "power of two": "Power Of Two"
+    },
+    {
+        " , this usage is referred to as a ": null
+    },
+    {
+        "binary": "Binary Number"
+    },
+    {
+        " measurement.     In most other contexts, the industry uses the multipliers kilo, mega, giga, etc., in a manner consistent with their meaning in the ": null
+    },
+    {
+        "International System of Units": "International System Of Units"
+    },
+    {
+        " , namely as powers of 1000. For example, a 500 gigabyte hard disk holds  bytes, and a 1 Gbit/s ": null
+    },
+    {
+        "Ethernet": "Ethernet"
+    },
+    {
+        " connection transfers data at  bit/s. In contrast with the binary prefix usage, this use is described as a decimal prefix, as 1000 is a ": null
+    },
+    {
+        "power of 10": "Powers Of 10"
+    },
+    {
+        " .     The use of the same unit prefixes with two different meanings has caused confusion. Starting around 1998, the ": null
+    },
+    {
+        "International Electrotechnical Commission": "International Electrotechnical Commission"
+    },
+    {
+        " and several other standards and trade organizations addressed the ambiguity by publishing standards and recommendations for a set of binary prefixes that refer exclusively to powers of 1024. Accordingly, the US ": null
+    },
+    {
+        "National Institute of Standards and Technology": "National Institute Of Standards And Technology"
+    },
+    {
+        " requires that ": null
+    },
+    {
+        "SI prefix": "Si Prefix"
+    },
+    {
+        "es only be used in the decimal sense:  ": null
+    },
+    {
+        "kilobyte": "Kilobyte"
+    },
+    {
+        " and ": null
+    },
+    {
+        "megabyte": "Megabyte"
+    },
+    {
+        " denote one thousand bytes and one million bytes respectively , while new terms such as ": null
+    },
+    {
+        "kibibyte": "Kibibyte"
+    },
+    {
+        ", ": null
+    },
+    {
+        "mebibyte": "Mebibyte"
+    },
+    {
+        " and ": null
+    },
+    {
+        "gibibyte": "Gibibyte"
+    },
+    {
+        ", having the symbols KiB, MiB, and GiB, denote 1024 bytes,  bytes, and  bytes, respectively. In 2008, the IEC prefixes were incorporated into the international standard ": null
+    },
+    {
+        "system of units": "Units Of Measurementsystems Of Units"
+    },
+    {
+        " used alongside the ": null
+    },
+    {
+        "International System of Quantities": "International System Of Quantities"
+    },
+    {
+        " .         Early computers used one of two addressing methods to access the system memory; binary or decimal .  This lengthy report describes many of the early computers.   For example, the ": null
+    },
+    {
+        "IBM 701": "Ibm 701"
+    },
+    {
+        " used binary and could address 2048 ": null
+    },
+    {
+        "words": "Word"
+    },
+    {
+        " of 36 ": null
+    },
+    {
+        "bits": "Bit"
+    },
+    {
+        "each, while the ": null
+    },
+    {
+        "IBM 702": "Ibm 702"
+    },
+    {
+        " used decimal and could address ten thousand 7-bit words.     By the mid-1960s, binary addressing had become the standard architecture in most computer designs, and main memory sizes were most commonly powers of two. This is the most natural configuration for memory, as all combinations of their address lines map to a valid address, allowing easy aggregation into a larger block of memory with contiguous addresses.     Early computer system documentation would specify the memory size with an exact number such as 4096, 8192, or 16384 words of storage. These are all ": null
+    },
+    {
+        "powers of two": "Power Of Two"
+    },
+    {
+        ", and furthermore are small multiples of 2 10 , or 1024. As storage capacities increased, several different methods were developed to abbreviate these quantities.     The method most commonly used today uses prefixes such as kilo, mega, giga, and corresponding symbols K, M, and G, which the computer industry originally adopted from the ": null
+    },
+    {
+        "metric system": "Metric System"
+    },
+    {
+        ". The prefixes kilo- and mega-, meaning 1000 and  respectively, were commonly used in the electronics industry before World War II. Hunting Trouble on 28 Megacycles, A. L. Blais, QST, January 1930.   Along with giga- or G-, meaning , they are now known as ": null
+    },
+    {
+        "SI prefixes": "Si Prefixes"
+    },
+    {
+        " after the ": null
+    },
+    {
+        "International System of Units": "International System Of Units"
+    },
+    {
+        " , introduced in 1960 to formalize aspects of the metric system.     The International System of Units does not define units for digital information but notes that the SI prefixes may be applied outside the contexts where base units or derived units would be used. But as computer main memory in a   binary-addressed system is manufactured in sizes that were easily expressed as multiples of 1024, kilobyte, when applied to computer memory, came to be used to mean 1024 bytes instead of 1000. This usage is not consistent with the SI. Compliance with the SI requires that the prefixes take their 1000-based meaning, and that they are not to be used as placeholders for other numbers, like 1024.      The use of K in the binary sense as in a 32K core meaning  words, i.e.,  words, can be found as early as 1959.  Note: the IBM 704 core memory units had 4096 36-bit words. Up to  words could be installed  The 8K core stores were getting fairly common in this country in 1954. The 32K store started mass production in 1956; it is the standard now for large machines and at least 200 machines of the size are in existence today . Note: The ": null
+    },
+    {
+        "IBM 1401": "Ibm 1401"
+    },
+    {
+        " was a character addressable computer.   ": null
+    },
+    {
+        "Gene Amdahls": "Gene Amdahl"
+    },
+    {
+        "seminal 1964 article on ": null
+    },
+    {
+        "IBM System/360": "Ibm System/360"
+    },
+    {
+        " used 1K to mean 1024.  Figure 1 gives storage capacity ranges of the various models in Capacity 8-bit bytes, 1  K 1024   This style was used by other computer vendors, the ": null
+    },
+    {
+        "CDC 7600": "Cdc 7600"
+    },
+    {
+        " System Description made extensive use of K as 1024.    Thus the first binary prefix was born.     Another style was to truncate the last three digits and append K, essentially using K as a decimal prefix similar to ": null
+    },
+    {
+        "SI": "Si Prefixes"
+    },
+    {
+        ", but always truncating to the next lower whole number instead of rounding to the nearest. The exact values  words,  words and  words would then be described as 32K , 65K and 131K .      This style was used from about 1965 to 1975.     These two styles were used loosely around the same time, sometimes by the same company. In discussions of binary-addressed memories, the exact size was evident from context. The ": null
+    },
+    {
+        "HP 21MX": "Hp 2100"
+    },
+    {
+        " real-time computer denoted  as 196K and  as 1M ,    while the ": null
+    },
+    {
+        "HP 3000": "Hp 3000"
+    },
+    {
+        " business computer could have 64K , 96K , or 128K bytes of memory.      The truncation method gradually waned. Capitalization of the letter K became the de facto standard for binary notation, although this could not be extended to higher powers, and use of the lowercase k did persist.   Nevertheless, the practice of using the SI-inspired kilo to indicate 1024 was later extended to megabyte meaning 1024 2  bytes, and later gigabyte for 1024 3  bytes. For example, a 512 megabyte RAM module is 512×1024 2 bytes , rather than .     The symbols Kbit, Kbyte, Mbit and Mbyte started to be used as binary units — bit or byte with a multiplier that is a power of 1024—in the early 1970s.    For a time, memory capacities were often expressed in K, even when M could have been used: The IBM System/370 Model 158 brochure had the following: Real storage capacity is available in 512K increments ranging from 512K to 2,048K bytes.      Megabyte was used to describe the 22-bit addressing of DEC ": null
+    },
+    {
+        "PDP-11": "Pdp-11"
+    },
+    {
+        "/70    and gigabyte the 30-bit addressing DEC ": null
+    },
+    {
+        "VAX-11/780": "Vax-11/780"
+    },
+    {
+        " .     In 1998, the ": null
+    },
+    {
+        "International Electrotechnical Commission": "International Electrotechnical Commission"
+    },
+    {
+        " IEC introduced the binary prefixes kibi, mebi, gibi ... to mean 1024, 1024 2 , 1024 3 etc., so that 1048576 bytes could be referred to unambiguously as 1 ": null
+    },
+    {
+        "mebibyte": "Mebibyte"
+    },
+    {
+        ". The IEC prefixes were defined for use alongside the ": null
+    },
+    {
+        "International System of Quantities": "International System Of Quantities"
+    },
+    {
+        " in ": null
+    },
+    {
+        "2009": "Iso 80000-1"
+    },
+    {
+        ".       The disk drive industry has followed a different pattern. Disk drive capacity is generally specified with unit prefixes with decimal meaning, in accordance to SI practices. Unlike computer main memory, disk architecture or construction does not mandate or make it convenient to use binary multiples. Drives can have any practical number of platters or surfaces, and the count of tracks, as well as the count of sectors per track may vary greatly between designs.     The first commercially sold disk drive, the ": null
+    },
+    {
+        "IBM 350": "Ibm 350"
+    },
+    {
+        ", had fifty physical disk platters containing a total of 50,000 sectors of 100 characters each, for a total quoted capacity of 5 million characters.  It was introduced in September 1956.     In the 1960s most disk drives used IBMs variable block length format, called ": null
+    },
+    {
+        "Count Key Data": "Count Key Data"
+    },
+    {
+        " . IBM invented the disk drive in 1956 and until the late 1960s its drives and their clones were dominant. See, e.g.  , especially IBM analyses of Memorex and other disk drive companies.   Any block size could be specified up to the maximum track length. Since the block headers occupied space, the usable capacity of the drive was dependent on the block size. Blocks of 88, 96, 880 and 960 were often used because they related to the fixed block size of 80- and 96-character punch cards. The drive capacity was usually stated under conditions of full track record blocking. For example, the 100-megabyte 3336 disk pack only achieved that capacity with a full track block size of 13,030 bytes.     ": null
+    },
+    {
+        "Floppy disks": "Floppy Disk3.C2.Bd-Inch Floppy Disk"
+    },
+    {
+        " for the IBM PC and compatibles quickly ": null
+    },
+    {
+        "standardized on 512-byte sectors": "List Of Floppy Disk Formatsknown Disk Logical Formats"
+    },
+    {
+        ", so two sectors were easily referred to as 1K . The 3.5-inch 360  KB and 720  KB had 720 and 1440 sectors respectively. When the High Density 1.44  MB floppies came along, with 2880 of these 512-byte sectors, that terminology represented a hybrid binary-decimal definition of 1  MB 2 10 × 10 3 1 & thinsp;024 & thinsp;000 bytes.     In contrast, ": null
+    },
+    {
+        "hard disk": "Hard Disk"
+    },
+    {
+        " drive manufacturers used megabytes or MB, meaning 10 6 bytes, to characterize their products as early as 1974. The  unambiguously uses MB to characterize HDD capacity in millions of bytes By 1977, in its first edition, Disk/Trend, a leading hard disk drive industry marketing consultancy segmented the industry according to MBs of capacity. 1977 Disk/Trend Report – Rigid Disk Drives, published June 1977     One of the earliest hard disk drives in personal computing history, the Seagate ": null
+    },
+    {
+        "ST-412": "St-412"
+    },
+    {
+        ", was specified as Formatted: 10.0 Megabytes.  The drive contains four heads and active surfaces , 306 cylinders. When formatted with a sector size of 256 bytes and 32 sectors/track it has a capacity of . This drive was one of several types installed in the ": null
+    },
+    {
+        "IBM PC/XT": "Ibm Pc/Xt"
+    },
+    {
+        " IBM Tells MiniScribe It Is Cutting Back On Winchester Orders, Computer System News, Jan 1, 1984, p. 1 and extensively advertised and reported as a 10  MB hard disk drive.    The cylinder count of 306 is not conveniently close to any power of 1024; operating systems and programs using the customary binary prefixes show this as 9.5625  MB. Many later drives in the personal computer market used 17 sectors per track; still later, ": null
+    },
+    {
+        "zone bit recording": "Zone Bit Recording"
+    },
+    {
+        " was introduced, causing the number of sectors per track to vary from the outer track to the inner.     The hard drive industry continues to use decimal prefixes for drive capacity, as well as for transfer rate. For example, a 300  GB hard drive offers slightly more than , or , bytes, not  . Operating systems such as ": null
+    },
+    {
+        "Microsoft Windows": "Microsoft Windows"
+    },
+    {
+        " that display hard drive sizes using the customary binary prefix GB would display this as 279.4  GB . On the other hand, ": null
+    },
+    {
+        "macOS": "Macos"
+    },
+    {
+        " has since version 10.6 shown hard drive size using decimal prefixes .     However, other usages still occur. Seagate has specified data transfer rates in select manuals of some hard drives in both IEC and decimal units.   , 100628561, Rev D, March 2011, sec 5.2.3, p. 10 , states the drives sustained transfer speed as 89 to 160 ": null
+    },
+    {
+        "MiB": "Mib"
+    },
+    {
+        "/s on one line, and 93 to 168  MB/s on the next line.   Advanced Format drives using 4096-byte sectors are described as having 4K sectors.        Computer ": null
+    },
+    {
+        "clock": "Clock Signal"
+    },
+    {
+        " frequencies are always quoted using SI prefixes in their decimal sense. For example, the internal clock frequency of the original ": null
+    },
+    {
+        "IBM PC": "Ibm Pc"
+    },
+    {
+        " was 4.77  MHz, that is .   Similarly, digital information transfer rates are quoted using decimal prefixes:   The ATA-100 disk interface refers to  bytes per second   A 56K modem refers to  bits per second   SATA-2 has a raw bit rate of 3  Gbit/s  bits per second   PC2-6400 ": null
+    },
+    {
+        "RAM": "Random Access Memory"
+    },
+    {
+        " transfers  bytes per second   Firewire 800 has a raw rate of  bits per second   In 2011, Seagate specified the sustained transfer rate of some hard disk drive models with both decimal and IEC binary prefixes.       By the mid-1970s it was common to see K meaning 1024 and the occasional M meaning  for words or bytes of main memory while K and M were commonly used with their decimal meaning for disk storage. In the 1980s, as capacities of both types of devices increased, the SI prefix G, with SI meaning, was commonly applied to disk storage, while M in its binary meaning, became common for computer memory. In the 1990s, the prefix G, in its binary meaning, became commonly used for computer memory capacity. The first terabyte  hard disk drive was introduced in 2007.      The dual usage of the kilo , mega , and giga prefixes as both powers of 1000 and powers of 1024 has been recorded in standards and dictionaries. For example, the 1986 ANSI/IEEE Std 1084-1986    defined dual uses for kilo and mega.    The binary units Kbyte and Mbyte were formally defined in ANSI/IEEE Std 1212-1991.      Many dictionaries have noted the practice of using traditional prefixes to indicate binary multiples.     Oxford online dictionary defines, for example, megabyte as: Computing: a unit of information equal to one million or  bytes.      The units Kbyte, Mbyte, and Gbyte are found in the trade press and in IEEE journals. Gigabyte was formally defined in IEEE Std 610.10-1994 as either  or 2 30 bytes. +2.4% & minus;2.3%+4.9% & minus;4.6%+7.4% & minus;6.9%+10.0% & minus;9.1%+12.6% & minus;11.2%+15.3% & minus;13.3%+18.1% & minus;15.3%+20.9% & minus;17.3%USwebarchive|urlhttps://web.archive.org/web/20160305014709/http://www-cs-staff.stanford.edu/~knuth/fasc1.ps.gz |date2016-03-05    ": null
+    },
+    {
+        "5368709": "L"
+    }
+]

@@ -1,0 +1,545 @@
+[
+    {
+        "IBM mainframes are large computer systems produced by ": null
+    },
+    {
+        "IBM": "Ibm"
+    },
+    {
+        " since 1952. During the 1960s and 1970s, IBM dominated the large computer market. Current ": null
+    },
+    {
+        "mainframe computers": "Mainframe Computer"
+    },
+    {
+        "in IBMs line of business computers are developments of the basic design of the IBM ": null
+    },
+    {
+        "System/360": "System/360"
+    },
+    {
+        ".          From 1952 into the late 1960s, IBM manufactured and marketed several large computer models, known as the ": null
+    },
+    {
+        "IBM 700/7000 series": "Ibm 700/7000 Series"
+    },
+    {
+        ". The first-generation 700s were based on ": null
+    },
+    {
+        "vacuum tube": "Vacuum Tube"
+    },
+    {
+        "s, while the later, second-generation 7000s used ": null
+    },
+    {
+        "transistor": "Transistor"
+    },
+    {
+        "s. These machines established IBMs dominance in ": null
+    },
+    {
+        "electronic data processing": "Electronic Data Processing"
+    },
+    {
+        " . IBM had two model categories: one for engineering and scientific use, and one for commercial or data processing use. The two categories, scientific and commercial, generally used common peripherals but had completely different ": null
+    },
+    {
+        "instruction set": "Instruction Set"
+    },
+    {
+        "s, and there were incompatibilities even within each category.     IBM initially sold its computers without any software, expecting customers to write their own; programs were manually initiated, one at a time. Later, IBM provided ": null
+    },
+    {
+        "compilers": "Compilers"
+    },
+    {
+        " for the newly developed higher-level ": null
+    },
+    {
+        "programming languages": "Programming Language"
+    },
+    {
+        " Fortran": "Fortran"
+    },
+    {
+        ", ": null
+    },
+    {
+        "COMTRAN": "Comtran"
+    },
+    {
+        " and later ": null
+    },
+    {
+        "COBOL": "Cobol"
+    },
+    {
+        ". The first ": null
+    },
+    {
+        "operating systems": "Operating Systems"
+    },
+    {
+        " for IBM computers were written by IBM customers who did not wish to have their very expensive machines sitting idle while operators set up jobs manually. These first operating systems were essentially scheduled work queues. It is generally thought that the first operating system used for real work was ": null
+    },
+    {
+        "GM-NAA I/O": "Gm-Naa I/O"
+    },
+    {
+        ", produced by ": null
+    },
+    {
+        "General Motors": "General Motors"
+    },
+    {
+        " Research division in 1956. IBM enhanced one of GM-NAA I/Os successors, the ": null
+    },
+    {
+        "SHARE Operating System": "Share Operating System"
+    },
+    {
+        ", and provided it to customers under the name ": null
+    },
+    {
+        "IBSYS": "Ibsys"
+    },
+    {
+        ".   As software became more complex and important, the cost of supporting it on so many different designs became burdensome, and this was one of the factors which led IBM to develop ": null
+    },
+    {
+        "System/360": "System/360"
+    },
+    {
+        " and its operating systems. Chuck Boyer,      The second generation products were a mainstay of IBMs business and IBM continued to make them for several years after the introduction of the System/360.           Prior to System/360, IBM also sold computers smaller in scale that were not considered mainframes, though they were still bulky and expensive by modern standards. These included:     ": null
+    },
+    {
+        "IBM 650": "Ibm 650"
+    },
+    {
+        "    IBM 305 RAMAC": "Ibm 305 Ramac"
+    },
+    {
+        "    IBM 1400 series": "Ibm 1400 Series"
+    },
+    {
+        "   IBM 1620": "Ibm 1620"
+    },
+    {
+        "     IBM had difficulty getting customers to upgrade from the smaller machines to the mainframes because so much software had to be rewritten. The 7010 was introduced in 1962 as a mainframe-sized 1410. The later Systems 360 and 370 could emulate the 1400 machines. A desk-size machine with a different instruction set, the ": null
+    },
+    {
+        "IBM 1130": "Ibm 1130"
+    },
+    {
+        ", was released concurrently with the System/360 to address the niche occupied by the 1620. It used the same ": null
+    },
+    {
+        "EBCDIC": "Ebcdic"
+    },
+    {
+        " character encoding as the 360 and was mostly programmed in ": null
+    },
+    {
+        "Fortran": "Fortran"
+    },
+    {
+        ", which was relatively easy to adapt to larger machines when necessary.     ": null
+    },
+    {
+        "Midrange computer": "Ibm Midrange Computer"
+    },
+    {
+        " is a designation used by IBM for a class of computer systems which fall in between mainframes and microcomputers.             All that changed with the announcement of the System/360 in April, 1964.  The System/360 was a single series of compatible models for both commercial and scientific use. The number ": null
+    },
+    {
+        "360": "360"
+    },
+    {
+        " suggested a 360 ": null
+    },
+    {
+        "degree": "Degree"
+    },
+    {
+        ", or all-around computer system. System/360 incorporated features which had previously been present on only either the commercial line or the engineering and scientific line . Some of the arithmetic units and addressing features were optional on some models of the System/360. However, models were upward compatible and most were also downward compatible. The System/360 was also the first computer in wide use to include dedicated hardware provisions for the use of ": null
+    },
+    {
+        "operating system": "Operating System"
+    },
+    {
+        "s. Among these were supervisor and application mode programs and instructions, as well as built-in memory protection facilities. Hardware memory protection was provided to protect the operating system from the user programs and user tasks from each other. The new machine also had a larger ": null
+    },
+    {
+        "address space": "Address Space"
+    },
+    {
+        " than the older mainframes, 24 bits addressing 8-bit bytes vs. a typical 18 bits addressing 36-bit words.     The smaller models in the System/360 line were intended to replace the 1400 series while providing an easier upgrade path to the larger 360s. To smooth the transition from the second generation to the new line, IBM used the 360s ": null
+    },
+    {
+        "microprogramming": "Microprogramming"
+    },
+    {
+        " capability to emulate the more popular older models. Thus 360/30s with this added cost feature could run 1401 programs and the larger 360/65s could run 7094 programs. To run old programs, the 360 had to be halted and restarted in emulation mode. Many customers kept using their old software and one of the features of the later System/370 was the ability to switch to emulation mode and back under operating system control.     Operating systems for the System/360 family included ": null
+    },
+    {
+        "OS/360": "Os/360"
+    },
+    {
+        " , ": null
+    },
+    {
+        "BOS/360": "Bos/360"
+    },
+    {
+        ", ": null
+    },
+    {
+        "TOS/360": "Tos/360"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "DOS/360": "Dos/360"
+    },
+    {
+        ".     The System/360 later evolved into the ": null
+    },
+    {
+        "System/370": "System/370"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "System/390": "System/390"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "64-bit": "64-Bit"
+    },
+    {
+        " zSeries, System z, and zEnterprise": "Ibm System Z"
+    },
+    {
+        " machines. System/370 introduced ": null
+    },
+    {
+        "virtual memory": "Virtual Memory"
+    },
+    {
+        " capabilities in all models other than the very first System/370 models; the ": null
+    },
+    {
+        "OS/VS1": "Os/Vs1"
+    },
+    {
+        " variant of OS/360 MFT, the ": null
+    },
+    {
+        "OS/VS2 ": "Os/Vs2"
+    },
+    {
+        " variant of OS/360 MVT, and the DOS/VS variant of DOS/360 were introduced to use the virtual memory capabilities, followed by ": null
+    },
+    {
+        "MVS": "Mvs"
+    },
+    {
+        ", which, unlike the earlier virtual-memory operating systems, ran separate programs in separate address spaces, rather than running all programs in a single virtual address space. The virtual memory capabilities also allowed the system to support ": null
+    },
+    {
+        "virtual machine": "Virtual Machine"
+    },
+    {
+        "s; the ": null
+    },
+    {
+        "VM/370": "Vm"
+    },
+    {
+        " hypervisor": "Hypervisor"
+    },
+    {
+        " would run one or more virtual machines running either standard System/360 or System/370 operating systems or the single-user ": null
+    },
+    {
+        "Conversational Monitor System": "Conversational Monitor System"
+    },
+    {
+        " . A ": null
+    },
+    {
+        "time-sharing": "Time-Sharing"
+    },
+    {
+        " VM system could run multiple virtual machines, one per user, with each virtual machine running an instance of CMS.             The zSeries family, introduced in 2000 with the z900, included IBMs newly designed 64-bit ": null
+    },
+    {
+        "z/Architecture": "Z/Architecture"
+    },
+    {
+        ".       The different processors on current IBM mainframes are:   CP, ": null
+    },
+    {
+        "Central Processor": "Central Processing Unit"
+    },
+    {
+        ": general-purpose processor   IFL, ": null
+    },
+    {
+        "Integrated Facility for Linux": "Integrated Facility For Linux"
+    },
+    {
+        ": dedicated to ": null
+    },
+    {
+        "Linux": "Linux"
+    },
+    {
+        " OSes    ICF, Integrated ": null
+    },
+    {
+        "Coupling Facility": "Coupling Facility"
+    },
+    {
+        ": designed to support ": null
+    },
+    {
+        "Parallel Sysplex": "Ibm Parallel Sysplex"
+    },
+    {
+        " operations   SAP, System Assist Processor: designed to handle various system accounting, management, and ": null
+    },
+    {
+        "I/O channel": "I/O Channel"
+    },
+    {
+        " operations   ": null
+    },
+    {
+        "zAAP": "Zaap"
+    },
+    {
+        ", System z Application Assist Processor: currently limited to run only ": null
+    },
+    {
+        "Java": "Java"
+    },
+    {
+        " and ": null
+    },
+    {
+        "XML": "Xml"
+    },
+    {
+        " processing   ": null
+    },
+    {
+        "zIIP": "Ziip"
+    },
+    {
+        ", System z Integrated Information Processor: dedicated to run specific workloads including ": null
+    },
+    {
+        "DB2": "Ibm Db2"
+    },
+    {
+        ", ": null
+    },
+    {
+        "XML": "Xml"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "IPSec": "Ipsec"
+    },
+    {
+        "     Note that these are essentially identical, but distinguished for software cost control: all but CP are slightly restricted such they cannot be used to run arbitrary operating systems, and thus do not count in software licensing costs .    There are other supporting processors typically installed inside mainframes such as ": null
+    },
+    {
+        "cryptographic": "Cryptographic"
+    },
+    {
+        " accelerators , the ": null
+    },
+    {
+        "OSA-Express": "Osa-Express"
+    },
+    {
+        " networking processor, and ": null
+    },
+    {
+        "FICON": "Ficon"
+    },
+    {
+        " Express disk I/O processors.     Software to allow users to run traditional workloads on zIIPs and zAAPs was briefly marketed by Neon Enterprise Software as zPrime but was withdrawn from the market in 2011 after a lawsuit by IBM.        The primary ": null
+    },
+    {
+        "operating systems": "Operating System"
+    },
+    {
+        "in use on current IBM mainframes include ": null
+    },
+    {
+        "z/OS": "Z/Os"
+    },
+    {
+        " , ": null
+    },
+    {
+        "z/VM": "Z/Vm"
+    },
+    {
+        " , ": null
+    },
+    {
+        "z/VSE": "Z/Vse"
+    },
+    {
+        " , ": null
+    },
+    {
+        "z/TPF": "Z/Tpf"
+    },
+    {
+        " , and ": null
+    },
+    {
+        "Linux on IBM Z": "Linux On Ibm Z"
+    },
+    {
+        " such as SUSE Linux Enterprise Server and others. A few systems run ": null
+    },
+    {
+        "MUSIC/SP": "Music/Sp"
+    },
+    {
+        " and ": null
+    },
+    {
+        "UTS ": "Uts"
+    },
+    {
+        ". In October 2008, Sine Nomine Associates introduced ": null
+    },
+    {
+        "OpenSolaris on System z": "Opensolaris On System Z"
+    },
+    {
+        ".       Current IBM mainframes run all the major enterprise ": null
+    },
+    {
+        "transaction processing": "Transaction Processing"
+    },
+    {
+        " environments and ": null
+    },
+    {
+        "database": "Database"
+    },
+    {
+        "s, including ": null
+    },
+    {
+        "CICS": "Cics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "IMS": "Information Management System"
+    },
+    {
+        ", ": null
+    },
+    {
+        "WebSphere": "Websphere"
+    },
+    {
+        " Application Server, ": null
+    },
+    {
+        "DB2": "Ibm Db2"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Oracle": "Oracle Database"
+    },
+    {
+        ". In many cases these ": null
+    },
+    {
+        "software": "Software"
+    },
+    {
+        " subsystems can run on more than one mainframe operating system.       There are software-based emulators for the System/370, System/390, and System z hardware, including ": null
+    },
+    {
+        "FLEX-ES": "Flex-Es"
+    },
+    {
+        ", which runs under ": null
+    },
+    {
+        "UnixWare": "Unixware"
+    },
+    {
+        " or ": null
+    },
+    {
+        "Linux": "Linux"
+    },
+    {
+        ",  and the freely available ": null
+    },
+    {
+        "Hercules": "Hercules"
+    },
+    {
+        ", which runs under ": null
+    },
+    {
+        "Linux": "Linux"
+    },
+    {
+        ", ": null
+    },
+    {
+        "FreeBSD": "Freebsd"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Solaris": "Solaris"
+    },
+    {
+        ", ": null
+    },
+    {
+        "macOS": "Macos"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Microsoft Windows": "Microsoft Windows"
+    },
+    {
+        ".   IBM offers an emulator called zPDT which runs on Linux on ": null
+    },
+    {
+        "x86-64": "X86-64"
+    },
+    {
+        " machines. ": null
+    }
+]

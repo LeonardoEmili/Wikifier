@@ -1,0 +1,341 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "abstract algebra": "Abstract Algebra"
+    },
+    {
+        ", a normal subgroup is a ": null
+    },
+    {
+        "subgroup": "Subgroup"
+    },
+    {
+        " that is invariant under ": null
+    },
+    {
+        "conjugation": "Inner Automorphism"
+    },
+    {
+        " by members of the ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        " of which it is a part. In other words, a subgroup  of the group  is normal in  if and only if  for all  and . The usual notation for this relation is N \\triangleleft G .     Normal subgroups are important because they can be used to construct ": null
+    },
+    {
+        "quotient groups": "Quotient Group"
+    },
+    {
+        "of the given group. Furthermore, the normal subgroups of  are precisely the ": null
+    },
+    {
+        "kernels": "Kernel Of A Homomorphism"
+    },
+    {
+        " of ": null
+    },
+    {
+        "group homomorphisms": "Group Homomorphism"
+    },
+    {
+        " with domain , which means that they can be used to internally classify those homomorphisms.     ": null
+    },
+    {
+        "Évariste Galois": "Évariste Galois"
+    },
+    {
+        " was the first to realize the importance of the existence of normal subgroups.       A ": null
+    },
+    {
+        "subgroup": "Subgroup"
+    },
+    {
+        "  of a group  is called a normal subgroup of  if it is invariant under ": null
+    },
+    {
+        "conjugation": "Inner Automorphism"
+    },
+    {
+        "; that is, the conjugation of an element of  by an element of  is always in . The usual notation for this relation is N \\triangleleft G , and the definition may be written in symbols as   N \\triangleleft G \\Leftrightarrow \\forall n\\in N, \\forall g\\in G\\colon gng^\\in N.       For any subgroup  of , the following conditions are ": null
+    },
+    {
+        "equivalent": "Logical Equivalence"
+    },
+    {
+        " to  being a normal subgroup of . Therefore, any one of them may be taken as the definition:     Any two elements commute regarding the normal subgroup membership relation: .   The image of conjugation of  by any element of  is a subset of : .   The image of conjugation of  by any element of  is : . . ": null
+    },
+    {
+        "cosets": "Coset"
+    },
+    {
+        "of  in  coincide.  with respect to  and an element of the left coset of  with respect to  is an element of the left coset of  with respect to : , if  and  then .    is a ": null
+    },
+    {
+        "union": "Union"
+    },
+    {
+        " of ": null
+    },
+    {
+        "conjugacy class": "Conjugacy Class"
+    },
+    {
+        "es of : .  is preserved by ": null
+    },
+    {
+        "inner automorphisms": "Inner Automorphism"
+    },
+    {
+        ". ": null
+    },
+    {
+        "commutator": "Commutator"
+    },
+    {
+        " n^g^ng is in . ": null
+    },
+    {
+        "group homomorphism": "Group Homomorphism"
+    },
+    {
+        "  whose ": null
+    },
+    {
+        "kernel": "Kernel"
+    },
+    {
+        " is . consisting of just the identity element of  and  itself are always normal subgroups of . If these are the only normal subgroups, then  is said to be ": null
+    },
+    {
+        "simple": "Simple Group"
+    },
+    {
+        ". ": null
+    },
+    {
+        "translation group": "Translation Group"
+    },
+    {
+        " is a normal subgroup of the ": null
+    },
+    {
+        "Euclidean group": "Euclidean Group"
+    },
+    {
+        " in any dimension. This means: applying a rigid transformation, followed by a translation and then the inverse rigid transformation, has the same effect as a single translation . By contrast, the subgroup of all ": null
+    },
+    {
+        "rotations": "Rotation"
+    },
+    {
+        " about the origin is not a normal subgroup of the Euclidean group, as long as the dimension is at least 2: first translating, then rotating about the origin, and then translating back will typically not fix the origin and will therefore not have the same effect as a single rotation about the origin.   Every subgroup  of an ": null
+    },
+    {
+        "abelian group": "Abelian Group"
+    },
+    {
+        "  is normal, because . A group that is not abelian but for which every subgroup is normal is called a ": null
+    },
+    {
+        "Hamiltonian group": "Hamiltonian Group"
+    },
+    {
+        ". ": null
+    },
+    {
+        "center of a group": "Center"
+    },
+    {
+        " is a normal subgroup. ": null
+    },
+    {
+        "commutator subgroup": "Commutator Subgroup"
+    },
+    {
+        " is a normal subgroup. ": null
+    },
+    {
+        "characteristic subgroup": "Characteristic Subgroup"
+    },
+    {
+        " is normal, since conjugation is always an ": null
+    },
+    {
+        "automorphism": "Automorphism"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Rubiks Cube group": "Rubiks Cube Group"
+    },
+    {
+        ", the subgroups consisting of operations which only affect the orientations of either the corner pieces or the edge pieces are normal.  is a normal subgroup of , and  is a subgroup of  containing , then  is a normal subgroup of . ": null
+    },
+    {
+        "transitive relation": "Transitive Relation"
+    },
+    {
+        ". The smallest group exhibiting this phenomenon is the ": null
+    },
+    {
+        "dihedral group": "Dihedral Group"
+    },
+    {
+        " of order 8. However, a ": null
+    },
+    {
+        "characteristic subgroup": "Characteristic Subgroup"
+    },
+    {
+        " of a normal subgroup is normal. A group in which normality is transitive is called a ": null
+    },
+    {
+        "T-group": "T-Group"
+    },
+    {
+        ".  and  are normal subgroups of their ": null
+    },
+    {
+        "direct product": "Direct Product Of Groups"
+    },
+    {
+        " .   If the group  is a ": null
+    },
+    {
+        "semidirect product": "Semidirect Product"
+    },
+    {
+        " G N \\rtimes H, , then  is normal in , though  need not be normal in .   Normality is preserved under surjective homomorphisms, i.e. if  is a surjective group homomorphism and  is normal in , then the image  is normal in .   Normality is preserved by taking ": null
+    },
+    {
+        "inverse images": "Inverse Image"
+    },
+    {
+        ", i.e. if  is a group homomorphism and  is normal in , then the inverse image  is normal in .   Normality is preserved on taking ": null
+    },
+    {
+        "direct products": "Direct Product Of Groups"
+    },
+    {
+        ", i.e. if N_1 \\triangleleft G_1 and N_2 \\triangleleft G_2 , then N_1\\times N_2\\; \\triangleleft \\;G_1\\times G_2 .   Every subgroup of ": null
+    },
+    {
+        "index": "Index"
+    },
+    {
+        " 2 is normal. More generally, a subgroup, , of finite index, , in  contains a subgroup, , normal in  and of index dividing  called the ": null
+    },
+    {
+        "normal core": "Normal Core"
+    },
+    {
+        ". In particular, if  is the smallest prime dividing the order of , then every subgroup of index  is normal.  are precisely the kernels of group homomorphisms defined on G accounts for some of the importance of normal subgroups; they are a way to internally classify all homomorphisms defined on a group. For example, a non-identity finite group is ": null
+    },
+    {
+        "simple": "Simple Group"
+    },
+    {
+        " if and only if it is isomorphic to all of its non-identity homomorphic images, a finite group is ": null
+    },
+    {
+        "perfect": "Perfect Group"
+    },
+    {
+        " if and only if it has no normal subgroups of prime ": null
+    },
+    {
+        "index": "Index Of A Subgroup"
+    },
+    {
+        ", and a group is ": null
+    },
+    {
+        "imperfect": "Imperfect Group"
+    },
+    {
+        " if and only if the ": null
+    },
+    {
+        "derived subgroup": "Derived Subgroup"
+    },
+    {
+        " is not supplemented by any proper normal subgroup.       Given two normal subgroups,  and , of , their intersection N\\cap M and their product N M \\ are also normal subgroups of .     The normal subgroups of  form a ": null
+    },
+    {
+        "lattice": "Lattice"
+    },
+    {
+        " under ": null
+    },
+    {
+        "subset inclusion": "Subset Inclusion"
+    },
+    {
+        " with ": null
+    },
+    {
+        "least element": "Least Element"
+    },
+    {
+        ", , and ": null
+    },
+    {
+        "greatest element": "Greatest Element"
+    },
+    {
+        ", . The ": null
+    },
+    {
+        "meet": "Meet"
+    },
+    {
+        " of two normal subgroups,  and , in this lattice is their intersection and the ": null
+    },
+    {
+        "join": "Join"
+    },
+    {
+        " is their product.     The lattice is ": null
+    },
+    {
+        "complete": "Complete Lattice"
+    },
+    {
+        " and ": null
+    },
+    {
+        "modular": "Modular Lattice"
+    },
+    {
+        ".         If  is a normal subgroup, we can define a multiplication on cosets as follows: : N. This relation defines a mapping G/N\\times G/N\\to G/N . To show that this mapping is well-defined, one needs to prove that the choice of representative elements a_1, a_2 does not affect the result. To this end, consider some other representative elements a_1\\in a_1 N, a_2\\in a_2 N . Then there are n_1, n_2\\in N such that a_1a_1 n_1, a_2a_2 n_2 . It follows that a_1 a_2 N a_1 n_1 a_2 n_2 N a_1 a_2 n_1 n_2 Na_1 a_2 N, where we also used the fact that N is a normal subgroup, and therefore there is n_1\\in N such that n_1 a_2 a_2 n_1 . This proves that this product is a well-defined mapping between cosets.     With this operation, the set of cosets is itself a group, called the ": null
+    },
+    {
+        "quotient group": "Quotient Group"
+    },
+    {
+        " and denoted with . There is a natural ": null
+    },
+    {
+        "homomorphism": "Group Homomorphism"
+    },
+    {
+        ", , given by . This homomorphism maps N into the identity element of , which is the coset , that is, \\kerN .     In general, a group homomorphism,  sends subgroups of  to subgroups of . Also, the preimage of any subgroup of  is a subgroup of . We call the preimage of the trivial group  in  the  kernel  of the homomorphism and denote it by . As it turns out, the kernel is always normal and the image of , , is always ": null
+    },
+    {
+        "isomorphic": "Isomorphic"
+    },
+    {
+        " to  . In fact, this correspondence is a bijection between the set of all quotient groups of , , and the set of all homomorphic images of  . It is also easy to see that the kernel of the quotient map, , is  itself, so the normal subgroups are precisely the kernels of homomorphisms with ": null
+    },
+    {
+        "domain": "Domain"
+    },
+    {
+        " .": null
+    }
+]

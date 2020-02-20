@@ -1,0 +1,101 @@
+[
+    {
+        "The Enhanced Chip Set  is the second generation of the ": null
+    },
+    {
+        "Amiga": "Amiga"
+    },
+    {
+        "computers": "Computer"
+    },
+    {
+        "chipset, offering minor improvements over the ": null
+    },
+    {
+        "original chipset": "Original Amiga Chipset"
+    },
+    {
+        " design. ECS was introduced in 1990 with the launch of the ": null
+    },
+    {
+        "Amiga 3000": "Amiga 3000"
+    },
+    {
+        ". Amigas produced from 1990 onwards featured a mix of OCS and ECS chips, such as later versions of the ": null
+    },
+    {
+        "Amiga 500": "Amiga 500"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Commodore CDTV": "Commodore Cdtv"
+    },
+    {
+        ". Other ECS models were the ": null
+    },
+    {
+        "Amiga 500+": "Amiga 500+"
+    },
+    {
+        " in 1991 and lastly the ": null
+    },
+    {
+        "Amiga 600": "Amiga 600"
+    },
+    {
+        " in 1992.     Notable improvements were the  Super Agnus  and the HiRes Denise  chips. The sound and floppy controller chip,  Paula , remained unchanged from the OCS design. Super Agnus supports 2 ": null
+    },
+    {
+        "MB": "Megabyte"
+    },
+    {
+        " of ": null
+    },
+    {
+        "Chip RAM": "Chip Ram"
+    },
+    {
+        ", whereas the original ": null
+    },
+    {
+        "Agnus": "Original Chip Setagnus"
+    },
+    {
+        "/Fat Agnus and subsequent Fatter Agnus can address 512 ": null
+    },
+    {
+        "KB": "Kilobyte"
+    },
+    {
+        " and 1 MB, respectively. The ECS Denise chip offers Productivity and SuperHiRes display modes , which are however limited to only 4 on-screen colors. Essentially, a 35 ": null
+    },
+    {
+        "ns": "Nanosecond"
+    },
+    {
+        " pixel mode was added plus the ability to run arbitrary horizontal and vertical scan rates. This made other display modes possible, but only the aforementioned modes were supported originally out of the box. For example, the Linux Amiga framebuffer device driver allows the use of several other display modes. Other improvements were the ability of the blitter to copy regions larger than 1024 & times;1024 pixels in one operation and the ability to display sprites in border regions . ECS also allows software switching between 60  Hz and 50  Hz video modes.     These improvements largely favored application software, which benefited from higher resolution and VGA-like display modes, rather than games. As an incremental update, ECS was intended to be backward compatible with software designed for OCS machines, though some pre-ECS games were found to be incompatible. Additionally, features from the improved ": null
+    },
+    {
+        "Kickstart": "Kickstart"
+    },
+    {
+        " 2 operating system were used in subsequent software, and since these two technologies largely overlap, some users misjudged the significance of ECS. It is possible to upgrade some OCS machines, such as the Amiga 500, to obtain partial or full ECS functionality by replacing OCS chips with ECS versions. ECS was followed by the third generation ": null
+    },
+    {
+        "AGA": "Advanced Graphics Architecture"
+    },
+    {
+        " chipset with the launch of the ": null
+    },
+    {
+        "Amiga 4000": "Amiga 4000"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Amiga 1200": "Amiga 1200"
+    }
+]

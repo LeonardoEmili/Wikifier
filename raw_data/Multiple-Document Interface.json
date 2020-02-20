@@ -1,0 +1,392 @@
+[
+    {
+        "   A multiple-document interface  is a ": null
+    },
+    {
+        "graphical user interface": "Graphical User Interface"
+    },
+    {
+        " in which multiple windows reside under a single parent window. Such systems often allow child windows to embed other windows inside them as well, creating complex ": null
+    },
+    {
+        "nested hierarchies": "Hierarchynested Hierarchy"
+    },
+    {
+        ". This contrasts with single-document interfaces  where all windows are independent of each other.       In the ": null
+    },
+    {
+        "usability": "Usability"
+    },
+    {
+        " community, there has been much debate about whether the multiple-document or single-document interface is preferable. Software companies have used both interfaces with mixed responses. For example, ": null
+    },
+    {
+        "Microsoft": "Microsoft"
+    },
+    {
+        " changed its ": null
+    },
+    {
+        "Office": "Microsoft Office"
+    },
+    {
+        " applications from SDI to MDI mode and then back to SDI, although the degree of implementation varies from one component to another. SDI can be more useful in cases where users switch more often between separate applications than among the windows of one application.     MDI can be confusing if it has a lack of information about the currently opened windows. In MDI applications, the application developer must provide a way to switch between documents or view a list of open windows, and the user might have to use an application-specific menu to switch between open documents. This is different from SDI applications where the window managers ": null
+    },
+    {
+        "task bar": "Task Bar"
+    },
+    {
+        " or ": null
+    },
+    {
+        "task manager": "Task Manager"
+    },
+    {
+        " displays the currently opened windows. In recent years it has become increasingly common for MDI applications to use tabs to display the currently opened windows. An interface in which tabs are used to manage open documents is referred to as a ": null
+    },
+    {
+        "tabbed document interface": "Tabbed Document Interface"
+    },
+    {
+        " . Another option is tiled ": null
+    },
+    {
+        "panes": "Paned Window"
+    },
+    {
+        " or windows, which make it easier to prevent content from overlapping.     Some applications allow the user to switch between these modes at their choosing, depending on personal preference or the task at hand.     Nearly all ": null
+    },
+    {
+        "graphical user interface": "Graphical User Interface"
+    },
+    {
+        " toolkits to date provide at least one solution for designing MDIs. A notable exception was ": null
+    },
+    {
+        "Apples Cocoa API": "Cocoa"
+    },
+    {
+        " until the advent of tabbed window groups in ": null
+    },
+    {
+        "MacOS High Sierra": "Macos High Sierra"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "Java": "Java"
+    },
+    {
+        " GUI toolkit, ": null
+    },
+    {
+        "Swing": "Swing"
+    },
+    {
+        ", for instance, provides the class  which serves as a container for individual frames . ": null
+    },
+    {
+        "GTK": "Gtk"
+    },
+    {
+        " lacks any standardized support for MDI.       With multiple-document interfaces , a single menu bar and/or ": null
+    },
+    {
+        "toolbar": "Toolbar"
+    },
+    {
+        " is shared between all child windows, reducing clutter and increasing efficient use of screen space. This argument is less relevant on an operating system which uses a common menu bar.   An applications child windows can be hidden/shown/minimized/maximized as a whole.   Features such as Tile and Cascade can be implemented for the child windows.   Authors of cross-platform applications can provide their users with consistent application behaviour between platforms.   If the windowing environment and OS lack good window management, the application author can implement it themselves.   Modularity: An advanced window manager can be upgraded independently of the applications.       Without an MDI frame window, floating toolbars from one application can clutter the workspace of other applications, potentially confusing users with the jumble of interfaces.   Can be tricky to implement on desktops using multiple monitors as the parent window may need to span two or more monitors, hiding sections.   ": null
+    },
+    {
+        "Virtual desktops": "Virtual Desktop"
+    },
+    {
+        "cannot be spanned by children of the MDI. However, in some cases, this is solveable by initiating another parent window; this is the case in ": null
+    },
+    {
+        "Opera": "Opera"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Chrome": "Google Chrome"
+    },
+    {
+        ", for example, which allows tabs/child windows to be dragged outside of the parent window to start their own parent window. In other cases, each child window is also a parent window, forming a new, virtual MDI .   MDI can make it more difficult to work with several applications at once, by restricting the ways in which windows from multiple applications can be arranged together without obscuring each other.   The shared menu might change, which may cause confusion to some users.    MDI child windows behave differently from those in ": null
+    },
+    {
+        "single document interface": "Single Document Interface"
+    },
+    {
+        " applications, requiring users to learn two subtly different windowing concepts. Similarly, the MDI parent window behaves like the desktop in many respects, but has enough differences to confuse some users.   Deeply nested, branching hierarchies of child windows can be confusing.   Many window managers have built-in support for manipulating groups of separate windows, which is typically more flexible than MDI in that windows can be grouped and ungrouped arbitrarily. A typical policy is to group automatically windows that belong to the same application. This arguably makes MDI redundant by providing a solution to the same problem.   Controls and hotkeys learned for the MDI application may not apply to others, whereas with an advanced Window Manager, more behavior and user preference settings are shared across client applications on the same system       ": null
+    },
+    {
+        "Internet Explorer 6": "Internet Explorer 6"
+    },
+    {
+        ": a typical SDI application   ": null
+    },
+    {
+        "Visual Studio 6": "Visual Studio"
+    },
+    {
+        " development environment: a typical modern MDI   ": null
+    },
+    {
+        "Visual Studio .NET": "Visual Studio .Net"
+    },
+    {
+        ": MDI or TDI with Window menu, but not both   ": null
+    },
+    {
+        "Opera": "Opera"
+    },
+    {
+        ": Combination of MDI and TDI .   ": null
+    },
+    {
+        "Chrome": "Google Chrome"
+    },
+    {
+        ": Combination of MDI and TDI.   ": null
+    },
+    {
+        "Paint.NET": "Paint.Net"
+    },
+    {
+        ": Thumbnail-based, TDI   ": null
+    },
+    {
+        "Firefox": "Mozilla Firefox"
+    },
+    {
+        ": TDI by default, can be SDI   ": null
+    },
+    {
+        "Kate": "Kate"
+    },
+    {
+        ": Text editor designed for the ": null
+    },
+    {
+        "KDE Software Compilation": "Kde Software Compilation"
+    },
+    {
+        ", with advanced features and a sophisticated MDI   ": null
+    },
+    {
+        "KWrite": "Kwrite"
+    },
+    {
+        ": Another text editor designed for the ": null
+    },
+    {
+        "KDE Software Compilation": "Kde Software Compilation"
+    },
+    {
+        ", with a simplified SDI but sharing many of Kates features via a mutual ": null
+    },
+    {
+        "back end": "Front And Back Ends"
+    },
+    {
+        " GIMP": "Gimp"
+    },
+    {
+        ": SDI with floating windows .   ": null
+    },
+    {
+        "GIMPshop": "Gimpshop"
+    },
+    {
+        ": A ": null
+    },
+    {
+        "fork": "Fork"
+    },
+    {
+        " of GIMP aiming to be more like Adobe Photoshop. The Windows version has limited MDI. ": null
+    },
+    {
+        "AmiBroker": "Amibroker"
+    },
+    {
+        ": is a multiple document interface application . In short it means that it allows you to open and work with multiple windows at the same time.   ": null
+    },
+    {
+        "Adobe Photoshop": "Adobe Photoshop"
+    },
+    {
+        ": MDI under MS Windows. In newer versions, toolbars can move outside the frame window. Child windows can be outside the frame unless they are minimized or maximized.   ": null
+    },
+    {
+        "Adobe Acrobat": "Adobe Acrobat"
+    },
+    {
+        ": MDI until version 7.0 ; SDI default in 8.0 ; SDI only in 9.0; MDI in version 2015.   ": null
+    },
+    {
+        "Microsoft Excel": "Microsoft Excel"
+    },
+    {
+        " 2003: SDI if you start new instances of the application, but MDI if you click the File → New menu . SDI only as of 2013.   ": null
+    },
+    {
+        "Microsoft Word": "Microsoft Word"
+    },
+    {
+        " 2003: MDI until ": null
+    },
+    {
+        "Microsoft Office": "Microsoft Office"
+    },
+    {
+        " 97. After 2000, Word has a ": null
+    },
+    {
+        "Multiple Top-Level Windows Interface": "Multiple Top-Level Windows Interface"
+    },
+    {
+        ", thus exposing to shell individual SDI instances, while the operating system recognizes it as a single instance of an MDI application. In Word 2000, this was the only interface available, but 2002 and later offer MDI as an option. ": null
+    },
+    {
+        "Microsoft Foundation Classes": "Microsoft Foundation Classes"
+    },
+    {
+        " supports this metaphor since version 7.0, as a new feature in ": null
+    },
+    {
+        "Visual Studio": "Visual Studio"
+    },
+    {
+        " 2002. SDI only as of 2013.   ": null
+    },
+    {
+        "UltraEdit": "Ultraedit"
+    },
+    {
+        ": Combination of MDI and TDI .   ": null
+    },
+    {
+        "VEDIT": "Vedit"
+    },
+    {
+        ": Combination of MDI and TDI . Special Full size windows act like maximized windows, but allow smaller overlapping windows to be used at the same time. Multiple instances of Vedit can be started, which allows it to be used like an SDI application.   ": null
+    },
+    {
+        "Notepad++": "Notepad++"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Sublime Text": "Sublime Text"
+    },
+    {
+        ", ": null
+    },
+    {
+        "PSPad": "Pspad"
+    },
+    {
+        ", ": null
+    },
+    {
+        "TextMate": "Textmate"
+    },
+    {
+        " and many other text editors: TDI   ": null
+    },
+    {
+        "EmEditor": "Emeditor"
+    },
+    {
+        ": Options for either SDI or MDI.   ": null
+    },
+    {
+        "Macromedia Studio": "Macromedia Studio"
+    },
+    {
+        " for Windows: a hybrid interface; TDI unless document windows are un-maximized.   ": null
+    },
+    {
+        "Corel Wordperfect": "Corel Wordperfect"
+    },
+    {
+        ": MDI. A user can open multiple instances of WP with a single document in each, if they have multiple versions of WordPerfect installed on their computer. Recent versions maintain a list of open documents for a given window on the status bar at the bottom of the window, providing a variant of the TDI.   ": null
+    },
+    {
+        "Zeus for Windows": "Zeus For Windows"
+    },
+    {
+        ": Combination of MDI and TDI .   ": null
+    },
+    {
+        "mIRC": "Mirc"
+    },
+    {
+        ": MDI by default, can also work on SDI mode              Graphical computer applications with an  IDE -style interface are those whose child windows reside under a single parent window . An IDE-style interface is distinguishable from the Multiple Document Interface , because all child windows in an IDE-style interface are enhanced with added functionality not ordinarily available in MDI applications. Because of this, IDE-style applications can be considered a functional superset and descendant of MDI applications.     Examples of enhanced child-window functionality include:   Dockable child windows   Collapsible child windows   ": null
+    },
+    {
+        "Tabbed document interface": "Tabbed Document Interface"
+    },
+    {
+        " for sub-panes   Independent sub-panes of the parent window   GUI splitters to resize sub-panes of the parent window   ": null
+    },
+    {
+        "Persistence": "Persistence"
+    },
+    {
+        " for window arrangements       A common convention for child windows in IDE-style applications is the ability to collapse child windows, either when inactive, or when specified by the user. Child windows that are collapsed will conform to one of the four outer boundaries of the parent window, with some kind of label or indicator that allows them to be expanded again.       In contrast to applications, which ordinarily allow a single tabbed interface for the parent window, applications with an IDE-style interface allow tabs for organizing one or more subpanes of the parent window.       ": null
+    },
+    {
+        "NetBeans": "Netbeans"
+    },
+    {
+        " dBASE": "Dbase"
+    },
+    {
+        " Eclipse": "Eclipse"
+    },
+    {
+        " Visual Studio 6": "Visual Studio"
+    },
+    {
+        " Visual Studio .NET": "Visual Studio .Net"
+    },
+    {
+        " RSS Bandit": "Rss Bandit"
+    },
+    {
+        " JEdit": "Jedit"
+    },
+    {
+        " MATLAB": "Matlab"
+    },
+    {
+        " Microsoft Excel": "Microsoft Excel"
+    },
+    {
+        " when in MDI mode .       Mac OS and its GUI are document-centric instead of window-centric or application-centric. Every document window is an object with which the user can work. The menu bar changes to reflect whatever application the front window belongs to. Application windows can be hidden and manipulated as a group, and the user may switch between applications or between individual windows, automatically hiding ": null
+    },
+    {
+        "palettes": "Palette Window"
+    },
+    {
+        ", and most programs will stay running even with no open windows. Indeed, prior to ": null
+    },
+    {
+        "Mac OS X": "Mac Os X"
+    },
+    {
+        ", it was purposely impossible to interleave windows from multiple applications.     In spite of this, some unusual applications breaking the ": null
+    },
+    {
+        "human interface guidelines": "Human Interface Guidelines"
+    },
+    {
+        " ": null
+    }
+]

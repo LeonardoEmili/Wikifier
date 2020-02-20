@@ -1,0 +1,245 @@
+[
+    {
+        ":Outside number theory, the term multiplicative function is usually used for completely multiplicative function s. This article discusses number theoretic multiplicative functions.     In ": null
+    },
+    {
+        "number theory": "Number Theory"
+    },
+    {
+        ", a multiplicative function is an ": null
+    },
+    {
+        "arithmetic function": "Arithmetic Function"
+    },
+    {
+        " f of a positive ": null
+    },
+    {
+        "integer": "Integer"
+    },
+    {
+        " n with the property that f 1 and whenever   a and b are ": null
+    },
+    {
+        "coprime": "Coprime"
+    },
+    {
+        ", then     : f ff.     An arithmetic function f is said to be  completely multiplicative   if f 1 and f ff holds for all positive integers a and b, even when they are not coprime.         Some multiplicative functions are defined to make formulas easier to write:     1: the constant function, defined by 1 1   Id: ": null
+    },
+    {
+        "identity function": "Identity Function"
+    },
+    {
+        ", defined by Id n   Id k : the power functions, defined by Id k  n k for any complex number k . As special cases we have   Id 0  1 and   Id 1  Id.   ε: the function defined by ε 1 if n 1 and 0 otherwise, sometimes called multiplication unit for Dirichlet convolution  or simply the  unit function  . Sometimes written as u, but not to be confused with μ .   1 C , the ": null
+    },
+    {
+        "indicator function": "Indicator Function"
+    },
+    {
+        " of the set C ⊂ Z, for certain sets C. The indicator function 1 C  is multiplicative precisely when the set C has the following property for any coprime numbers a and b: the product ab is in C if and only if the numbers a and b are both themselves in C. This is the case if C is the set of squares, cubes, or k-th powers, or if C is the set of ": null
+    },
+    {
+        "square-free": "Square-Free"
+    },
+    {
+        " numbers.     Other examples of multiplicative functions include many functions of importance in number theory, such as:     gcd: the ": null
+    },
+    {
+        "greatest common divisor": "Greatest Common Divisor"
+    },
+    {
+        " of n and k, as a function of n, where k is a fixed integer.   \\varphi : ": null
+    },
+    {
+        "Eulers totient function": "Eulers Totient Function"
+    },
+    {
+        " \\varphi , counting the positive integers ": null
+    },
+    {
+        "coprime": "Coprime"
+    },
+    {
+        " to n μ: the ": null
+    },
+    {
+        "Möbius function": "Möbius Function"
+    },
+    {
+        ", the parity of the number of prime factors of ": null
+    },
+    {
+        "square-free": "Square-Free Integer"
+    },
+    {
+        " numbers; 0 if n is not square-free   σ k : the ": null
+    },
+    {
+        "divisor function": "Divisor Function"
+    },
+    {
+        ", which is the sum of the k-th powers of all the positive divisors of n . Special cases we have   σ 0  d the number of positive ": null
+    },
+    {
+        "divisors": "Divisor"
+    },
+    {
+        "of n,   σ 1  σ, the sum of all the positive divisors of n.   a: the number of non-isomorphic abelian groups of order n.   λ: the ": null
+    },
+    {
+        "Liouville function": "Liouville Function"
+    },
+    {
+        ", λ & Omega; where & Omega; is the total number of primes dividing n. .   γ, defined by γ ω , where the ": null
+    },
+    {
+        "additive function": "Additive Function"
+    },
+    {
+        " ω is the number of distinct primes dividing n.   τ: the ": null
+    },
+    {
+        "Ramanujan tau function": "Ramanujan Tau Function"
+    },
+    {
+        ".   All ": null
+    },
+    {
+        "Dirichlet characters": "Dirichlet Character"
+    },
+    {
+        "are completely multiplicative functions. For example   , the ": null
+    },
+    {
+        "Legendre symbol": "Legendre Symbol"
+    },
+    {
+        ", considered as a function of n where p is a fixed ": null
+    },
+    {
+        "prime number": "Prime Number"
+    },
+    {
+        ".     An example of a non-multiplicative function is the arithmetic function r 2  - the number of representations of n as a sum of squares of two integers, ": null
+    },
+    {
+        "positive": "Positive Number"
+    },
+    {
+        ", ": null
+    },
+    {
+        "negative": "Negative Number"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "zero": "0"
+    },
+    {
+        ", where in counting the number of ways, reversal of order is allowed. For example:     :1 1 2 + 0 2 2 + 0 2 0 2 + 1 2 0 2 + 2     and therefore r 2 4 ≠ 1. This shows that the function is not multiplicative. However, r 2 /4 is multiplicative.     In the ": null
+    },
+    {
+        "On-Line Encyclopedia of Integer Sequences": "On-Line Encyclopedia Of Integer Sequences"
+    },
+    {
+        ",  have the keyword mult .     See ": null
+    },
+    {
+        "arithmetic function": "Arithmetic Function"
+    },
+    {
+        " for some other examples of non-multiplicative functions.       A multiplicative function is completely determined by its values at the powers of ": null
+    },
+    {
+        "prime number": "Prime Number"
+    },
+    {
+        "s, a consequence of the ": null
+    },
+    {
+        "fundamental theorem of arithmetic": "Fundamental Theorem Of Arithmetic"
+    },
+    {
+        ". Thus, if n is a product of powers of distinct primes, say n p a q b ..., then   f f f ...     This property of multiplicative functions significantly reduces the need for computation, as in the following examples for n 144 2 4 · 3 2 :   : d σ 0 σ 0 σ 0 5 · 3 15,   : σ σ 1 σ 1 σ 1 31 · 13 403,   : σ σ σ 17 · 10 170.     Similarly, we have:     : \\varphi \\varphi \\varphi 8 · 6 48     In general, if f is a multiplicative function and a, b are any two positive integers, then   :f · f f · f.     Every completely multiplicative function is a ": null
+    },
+    {
+        "homomorphism": "Homomorphism"
+    },
+    {
+        " of ": null
+    },
+    {
+        "monoids": "Monoid"
+    },
+    {
+        "and is completely determined by its restriction to the prime numbers.         If f and g are two multiplicative functions, one defines a new multiplicative function f g, the  Dirichlet convolution  of f and g, by   : \\sum_ f \\, g \\left   where the sum extends over all positive divisors d of n.   With this operation, the set of all multiplicative functions turns into an ": null
+    },
+    {
+        "abelian group": "Abelian Group"
+    },
+    {
+        "; the ": null
+    },
+    {
+        "identity element": "Identity Element"
+    },
+    {
+        " is ε. Convolution is commutative, associative, and distributive over addition.     Relations among the multiplicative functions discussed above include:     μ ε     Id k ε   \\varphi 1 Id   d 1 1   σ Id 1 \\varphi d σ k Id k 1   Id \\varphi 1 σ μ k σ k μ     The Dirichlet convolution can be defined for general arithmetic functions, and yields a ring structure, the ": null
+    },
+    {
+        "Dirichlet ring": "Dirichlet Ring"
+    },
+    {
+        ".     The ": null
+    },
+    {
+        "Dirichlet convolution": "Dirichlet Convolution"
+    },
+    {
+        " of two multiplicative functions is again multiplicative. A proof of this fact is given by the following expansion for relatively prime a,b \\in \\mathbb^ :   : \\sum_ f g\\left \\sum_ \\sum_ f g\\left   \\sum_ f g\\left \\times \\sum_ f g\\left \\cdot .       \\sum_ \\frac \\frac   \\sum_ \\frac \\frac   \\sum_ \\frac \\frac   \\sum_ \\frac \\frac   More examples are shown in the article on ": null
+    },
+    {
+        "Dirichlet series": "Dirichlet Series"
+    },
+    {
+        ".     A , the polynomial ring over the ": null
+    },
+    {
+        "finite field": "Finite Field"
+    },
+    {
+        " with q elements. A is a ": null
+    },
+    {
+        "principal ideal domain": "Principal Ideal Domain"
+    },
+    {
+        " and therefore A is a ": null
+    },
+    {
+        "unique factorization domain": "Unique Factorization Domain"
+    },
+    {
+        ".     A complex-valued function \\lambda on A is called multiplicative if \\lambda\\lambda\\lambda whenever f and g are ": null
+    },
+    {
+        "relatively prime": "Relatively Prime"
+    },
+    {
+        ".     h be a polynomial arithmetic function . Its corresponding Dirichlet series is defined to be     : D_h\\sum_h|f|^,     where for g\\in A, set |g|q^ if g\\ne 0, and |g|0 otherwise.     The polynomial zeta function is then     : \\zeta_A\\sum_|f|^.     Similar to the situation in , every Dirichlet series of a multiplicative function h has a product representation :     : D_\\prod_P \\left,     where the product runs over all monic irreducible polynomials P. For example, the product representation of the zeta function is as for the integers:     : \\zeta_A\\prod_^.     Unlike the classical ": null
+    },
+    {
+        "zeta function": "Zeta Function"
+    },
+    {
+        ", \\zeta_A is a simple rational function:     : \\zeta_A\\sum_f |f|^ \\sum_n\\sum_q^\\sum_n^.     In a similar way, If f and g are two polynomial arithmetic functions, one defines f    g, the Dirichlet convolution of f and g, by     :   \\begin     & \\sum_ fg\\left \\\\   & \\sum_fg,   \\end       where the sum is over all monic ": null
+    },
+    {
+        "divisors": "Divisor"
+    },
+    {
+        " d of  m, or equivalently over all pairs  of monic polynomials whose product is m": null
+    }
+]

@@ -1,0 +1,539 @@
+[
+    {
+        "Linear filters process time-varying input signals to produce output signals, subject to the constraint of ": null
+    },
+    {
+        "linearity": "Linearity"
+    },
+    {
+        ". In most cases these linear filters are also ": null
+    },
+    {
+        "time invariant": "Time Invariant"
+    },
+    {
+        "  in which case they can be analyzed exactly using ": null
+    },
+    {
+        "LTI system theory": "Lti System Theory"
+    },
+    {
+        " revealing their ": null
+    },
+    {
+        "transfer functions": "Transfer Functionlinear Time-Invariant Systems"
+    },
+    {
+        "in the frequency domain and their ": null
+    },
+    {
+        "impulse responses": "Impulse Response"
+    },
+    {
+        "in the time domain. Real-time implementations of such linear ": null
+    },
+    {
+        "signal processing filters": "Signal Processing Filter"
+    },
+    {
+        "in the time domain are inevitably ": null
+    },
+    {
+        "causal": "Causal"
+    },
+    {
+        ", an additional constraint on their transfer functions. An analog electronic circuit consisting only of linear components will necessarily fall in this category, as will comparable mechanical systems or ": null
+    },
+    {
+        "digital signal processing": "Digital Signal Processing"
+    },
+    {
+        " systems containing only linear elements. Since linear time-invariant filters can be completely characterized by their response to ": null
+    },
+    {
+        "sinusoids": "Sinusoid"
+    },
+    {
+        "of different frequencies , they are sometimes known as frequency filters.     Non real-time implementations of linear time-invariant filters need not be causal. Filters of more than one dimension are also used such as in ": null
+    },
+    {
+        "Image processing": "Image Processing"
+    },
+    {
+        ". The general concept of linear filtering also extends into other fields and technologies such as ": null
+    },
+    {
+        "statistics": "Statistics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "data analysis": "Data Analysis"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "mechanical engineering": "Mechanical Engineering"
+    },
+    {
+        ".       A ": null
+    },
+    {
+        "linear time-invariant": "Lti System Theory"
+    },
+    {
+        " filter can be uniquely specified by its ": null
+    },
+    {
+        "impulse response": "Impulse Response"
+    },
+    {
+        " h, and the output of any filter is mathematically expressed as the ": null
+    },
+    {
+        "convolution": "Convolution"
+    },
+    {
+        " of the input with that impulse response. The ": null
+    },
+    {
+        "frequency response": "Frequency Response"
+    },
+    {
+        ", given by the filters ": null
+    },
+    {
+        "transfer function": "Transfer Function"
+    },
+    {
+        " H , is an alternative characterization of the filter. Typical filter design goals are to realize a particular frequency response, that is, the magnitude of the transfer function |H| ; the importance of the ": null
+    },
+    {
+        "phase": "Phase"
+    },
+    {
+        " of the transfer function varies according to the application, inasmuch as the shape of a waveform can be distorted to a greater or lesser extent in the process of achieving a desired response in the frequency domain. The frequency response may be tailored to, for instance, eliminate unwanted frequency components from an input ": null
+    },
+    {
+        "signal": "Signal"
+    },
+    {
+        ", or to limit an amplifier to signals within a particular band of frequencies.     The ": null
+    },
+    {
+        "impulse response": "Impulse Response"
+    },
+    {
+        " h of a linear time-invariant causal filter specifies the output that the filter would produce if it were to receive an input consisting of a single impulse at time 0. An impulse in a continuous time filter means a ": null
+    },
+    {
+        "Dirac delta function": "Dirac Delta Function"
+    },
+    {
+        "; in a ": null
+    },
+    {
+        "discrete time": "Discrete Time"
+    },
+    {
+        " filter the ": null
+    },
+    {
+        "Kronecker delta function": "Kronecker Delta Function"
+    },
+    {
+        " would apply. The impulse response completely characterizes the response of any such filter, inasmuch as any possible input signal can be expressed as a combination of weighted delta functions. Multiplying the impulse response shifted in time according to the arrival of each of these delta functions by the amplitude of each delta function, and summing these responses together  yields the output waveform.     Mathematically this is described as the ": null
+    },
+    {
+        "convolution": "Convolution"
+    },
+    {
+        " of a time-varying input signal x with the filters ": null
+    },
+    {
+        "impulse response": "Impulse Response"
+    },
+    {
+        " h, defined as:     : y \\int_^ x\\, h\\, d\\tau   : y_k \\sum_^ x_\\, h_i     The first form is the continuous-time form, which describes mechanical and analog electronic systems, for instance. The second equation is a discrete-time version used, for example, by digital filters implemented in software, so-called  digital signal processing . The impulse response h completely characterizes any linear time-invariant filter. The input x is said to be ": null
+    },
+    {
+        "convolved": "Convolved"
+    },
+    {
+        " with the impulse response h having a duration of time T .     Filter design consists of finding a possible transfer function that can be implemented within certain practical constraints dictated by the technology or desired complexity of the system, followed by a practical design that realizes that transfer function using the chosen technology. The complexity of a filter may be specified according to the ": null
+    },
+    {
+        "order": "Degree Of A Polynomial"
+    },
+    {
+        " of the filter.     Among the time-domain filters we here consider, there are two general classes of filter transfer functions that can approximate a desired frequency response. Very different mathematical treatments apply to the design of filters termed ": null
+    },
+    {
+        "infinite impulse response": "Infinite Impulse Response"
+    },
+    {
+        " filters, characteristic of mechanical and analog electronics systems, and ": null
+    },
+    {
+        "finite impulse response": "Finite Impulse Response"
+    },
+    {
+        " filters, which can be implemented by ": null
+    },
+    {
+        "discrete time": "Discrete Time"
+    },
+    {
+        " systems such as computers .         Consider a physical system that acts as a linear filter, such as a system of springs and masses, or an analog electronic circuit that includes ": null
+    },
+    {
+        "capacitors": "Capacitor"
+    },
+    {
+        "and/or ": null
+    },
+    {
+        "inductors": "Inductor"
+    },
+    {
+        " . When such a system is subject to an impulse it responds with an output waveform that lasts past the duration of the input, eventually decaying exponentially in one or another manner, but never completely settling to zero . Such a system is said to have an ": null
+    },
+    {
+        "infinite impulse response": "Infinite Impulse Response"
+    },
+    {
+        " . The convolution integral above extends over all time: T must be set to infinity.     For instance, consider a damped harmonic oscillator such as a pendulum, or a resonant L-C ": null
+    },
+    {
+        "tank circuit": "Tank Circuit"
+    },
+    {
+        ". If the pendulum has been at rest and we were to strike it with a hammer , setting it in motion, it would swing back and forth , say, with an amplitude of 10  cm. After 10 minutes, say, the pendulum would still be swinging but the amplitude would have decreased to 5  cm, half of its original amplitude. After another 10 minutes its amplitude would be only 2.5  cm, then 1.25  cm, etc. However it would never come to a complete rest, and we therefore call that response to the impulse infinite in duration.     The complexity of such a system is specified by its order N. N is often a constraint on the design of a transfer function since it specifies the number of reactive components in an analog circuit; in a digital IIR filter the number of computations required is proportional to N.         A filter implemented in a computer program  is a discrete-time system; a different set of mathematical concepts defines the behavior of such systems. Although a ": null
+    },
+    {
+        "digital filter": "Digital Filter"
+    },
+    {
+        " can be an IIR filter if the algorithm implementing it includes ": null
+    },
+    {
+        "feedback": "Feedback"
+    },
+    {
+        ", it is also possible to easily implement a filter whose impulse truly goes to zero after N time steps; this is called a ": null
+    },
+    {
+        "finite impulse response": "Finite Impulse Response"
+    },
+    {
+        " filter.     For instance, suppose one has a filter that, when presented with an impulse in a time series:   : 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ...   outputs a series that responds to that impulse at time 0 until time 4, and has no further response, such as:   : 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0.....   Although the impulse response has lasted 4 time steps after the input, starting at time 5 it has truly gone to zero. The extent of the impulse response is finite, and this would be classified as a fourth-order FIR filter.   The convolution integral above need only extend to the full duration of the impulse response T, or the order N in a discrete time filter.         Classical analog filters are IIR filters, and classical filter theory centers on the determination of transfer functions given by low order ": null
+    },
+    {
+        "rational functions": "Rational Functions"
+    },
+    {
+        ", which can be synthesized using the same small number of reactive components. However, there are a few cases in which FIR filters directly process analog signals, involving non-feedback topologies and analog delay elements. An example is the discrete-time  analog sampled filter , implemented using a so-called ": null
+    },
+    {
+        "bucket-brigade device": "Bucket-Brigade Device"
+    },
+    {
+        " clocked at a certain sampling rate, outputting copies of the input signal at different delays that can be combined with some weighting to realize an FIR filter. Electromechanical filters such as ": null
+    },
+    {
+        "SAW filters": "Electronic Filtersaw Filters"
+    },
+    {
+        " can likewise implement FIR filter responses; these operate in continuous time and can thus be designed for higher frequencies. Using digital computers, on the other hand, both FIR and IIR filters are straightforward to implement in software.     A digital IIR filter can generally approximate a desired filter response using less computing power than a FIR filter, however this advantage is more often unneeded given the increasing power of digital processors. The ease of designing and characterizing FIR filters makes them preferable to the filter designer when ample computing power is available. Another advantage of FIR filters is that their impulse response can be made symmetric, which implies a response in the frequency domain that has ": null
+    },
+    {
+        "zero phase at all frequencies": "Linear Phase"
+    },
+    {
+        " , which is absolutely impossible with any IIR filter. Outside of trivial cases, stable IIR filters with zero phase response are possible if they are not causal or implementing transfer functions classified as unstable or marginally stable such as a ": null
+    },
+    {
+        "double integrator": "Double Integrator"
+    },
+    {
+        ".         The frequency response or ": null
+    },
+    {
+        "transfer function": "Transfer Function"
+    },
+    {
+        " Laplace transform": "Laplace Transform"
+    },
+    {
+        "s, or in discrete-time systems the ": null
+    },
+    {
+        "Z-transform": "Z-Transform"
+    },
+    {
+        ". The frequency response also includes the phase as a function of frequency, however in many cases the phase response is of little or no interest. FIR filters can be made to have zero phase, but with IIR filters that is generally impossible. With most IIR transfer functions there are related transfer functions having a frequency response with the same magnitude but a different phase; in most cases the so-called ": null
+    },
+    {
+        "minimum phase": "Minimum Phase"
+    },
+    {
+        " transfer function is preferred.     Filters in the time domain are most often requested to follow a specified frequency response. Then, a mathematical procedure finds a filter transfer function that can be realized , and approximates the desired response to within some criterion. Common filter response specifications are described as follows:     A ": null
+    },
+    {
+        "low-pass filter": "Low-Pass Filter"
+    },
+    {
+        " passes low frequencies while blocking higher frequencies.   A ": null
+    },
+    {
+        "high-pass filter": "High-Pass Filter"
+    },
+    {
+        " passes high frequencies.   A ": null
+    },
+    {
+        "band-pass filter": "Band-Pass Filter"
+    },
+    {
+        " passes a band of frequencies.   A ": null
+    },
+    {
+        "band-stop filter": "Band-Stop Filter"
+    },
+    {
+        " passes high and low frequencies outside of a specified band.   A ": null
+    },
+    {
+        "notch filter": "Notch Filter"
+    },
+    {
+        " has a null response at a particular frequency. This function may be combined with one of the above responses.   An ": null
+    },
+    {
+        "all-pass filter": "All-Pass Filter"
+    },
+    {
+        " passes all frequencies equally well, but alters the phase relationship among them.   An equalization filter is not designed to fully pass or block any frequency, but instead to gradually vary the amplitude response as a function of frequency: filters used as ": null
+    },
+    {
+        "pre-emphasis": "Pre-Emphasis"
+    },
+    {
+        " filters, ": null
+    },
+    {
+        "equalizer": "Equalization"
+    },
+    {
+        "s, or ": null
+    },
+    {
+        "tone controls": "Tone Control"
+    },
+    {
+        "are good examples.         Meeting a frequency response requirement with an FIR filter uses relatively straightforward procedures. In the most basic form, the desired frequency response itself can be sampled with a resolution of \\Delta f and Fourier transformed to the time domain. This obtains the filter coefficients h i , which implements a zero phase FIR filter that matches the frequency response at the sampled frequencies used. To better match a desired response, \\Delta f must be reduced. However the duration of the filters impulse response, and the number of terms that must be summed for each output value is given by N1/ where T is the ": null
+    },
+    {
+        "sampling period": "Sampling Period"
+    },
+    {
+        " of the discrete time system . Thus the complexity of a digital filter and the computing time involved, grows inversely with \\Delta f , placing a higher cost on filter functions that better approximate the desired behavior. For the same reason, filter functions whose critical response is at lower frequencies  require a higher order, more computationally intensive FIR filter. An IIR filter can thus be much more efficient in such cases.     Elsewhere the reader may find further discussion of design methods for ": null
+    },
+    {
+        "practical FIR filter design": "Fir Filterfilter Design"
+    },
+    {
+        ".         Since classical analog filters are IIR filters, there has been a long history of studying the range of possible transfer functions implementing various of the above desired filter responses in continuous time systems. Using ": null
+    },
+    {
+        "transforms": "Bilinear Transform"
+    },
+    {
+        "it is possible to convert these continuous time frequency responses to ones that are implemented in discrete time, for use in digital IIR filters. The complexity of any such filter is given by the order N, which describes the order of the ": null
+    },
+    {
+        "rational function": "Rational Function"
+    },
+    {
+        " describing the frequency response. The order N is of particular importance in analog filters, because an N th order electronic filter requires N reactive elements to implement. If a filter is implemented using, for instance, ": null
+    },
+    {
+        "biquad stages": "Active Filter"
+    },
+    {
+        " using ": null
+    },
+    {
+        "op-amp": "Op-Amp"
+    },
+    {
+        "s, N/2 stages are needed. In a digital implementation, the number of computations performed per sample is proportional to N. Thus the mathematical problem is to obtain the best approximation to the desired response using a smaller N, as we shall now illustrate.     Below are the frequency responses of several standard filter functions that approximate a desired response, optimized according to some criterion. These are all fifth-order low-pass filters, designed for a cutoff frequency of .5 in normalized units. Frequency responses are shown for the ": null
+    },
+    {
+        "Butterworth": "Butterworth Filter"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Chebyshev": "Chebyshev Filter"
+    },
+    {
+        ", ": null
+    },
+    {
+        "inverse Chebyshev": "Chebyshev Filtertype Ii Chebyshev Filters"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "elliptic filter": "Elliptic Filter"
+    },
+    {
+        "s.          As is clear from the image, the elliptic filter is sharper than the others, but at the expense of ": null
+    },
+    {
+        "ripples": "Ripple"
+    },
+    {
+        " in both its passband and stopband. The Butterworth filter has the poorest transition but has a more even response, avoiding ripples in either the passband or stopband. A ": null
+    },
+    {
+        "Bessel filter": "Bessel Filter"
+    },
+    {
+        " has an even poorer transition in the frequency domain, but maintains the best phase fidelity of a waveform. Different applications emphasize different design requirements, leading to different choices among these optimizations, or requiring a filter of a higher order.              A popular circuit implementing a second order active R-C filter is the ": null
+    },
+    {
+        "Sallen-Key": "Sallen Key Filter"
+    },
+    {
+        " design, whose schematic diagram is shown here. This topology can be adapted to produce low-pass, band-pass, and high pass filters.          An N th order FIR filter can be implemented in a discrete time system using a computer program or specialized hardware in which the input signal is subject to N delay stages. The output of the filter is formed as the weighted sum of those delayed signals, as is depicted in the accompanying signal flow diagram. The response of the filter depends on the weighting coefficients denoted b 0 , b 1 , .... b N . For instance, if all of the coefficients were equal to unity, a so-called ": null
+    },
+    {
+        "boxcar function": "Boxcar Function"
+    },
+    {
+        ", then it would implement a low-pass filter with a low frequency gain of N+1 and a frequency response given by the ": null
+    },
+    {
+        "sinc function": "Sinc Function"
+    },
+    {
+        ". Superior shapes for the frequency response can be obtained using coefficients derived from a more sophisticated design procedure.              ": null
+    },
+    {
+        "LTI system theory": "Lti System Theory"
+    },
+    {
+        " describes linear  time-invariant  filters of all types. LTI filters can be completely described by their ": null
+    },
+    {
+        "frequency response": "Frequency Response"
+    },
+    {
+        " and ": null
+    },
+    {
+        "phase response": "Phase Response"
+    },
+    {
+        ", the specification of which uniquely defines their ": null
+    },
+    {
+        "impulse response": "Impulse Response"
+    },
+    {
+        ", and vice versa. From a mathematical viewpoint, continuous-time IIR LTI filters may be described in terms of linear ": null
+    },
+    {
+        "differential equation": "Differential Equation"
+    },
+    {
+        "s, and their impulse responses considered as ": null
+    },
+    {
+        "Greens functions": "Greens Function"
+    },
+    {
+        "of the equation. Continuous-time LTI filters may also be described in terms of the ": null
+    },
+    {
+        "Laplace transform": "Laplace Transform"
+    },
+    {
+        " of their impulse response, which allows all of the characteristics of the filter to be analyzed by considering the pattern of ": null
+    },
+    {
+        "zeros and poles": "Zeros And Poles"
+    },
+    {
+        " of their Laplace transform in the ": null
+    },
+    {
+        "complex plane": "Complex Plane"
+    },
+    {
+        ". Similarly, discrete-time LTI filters may be analyzed via the ": null
+    },
+    {
+        "Z-transform": "Z-Transform"
+    },
+    {
+        " of their impulse response.     Before the advent of computer filter synthesis tools, graphical tools such as ": null
+    },
+    {
+        "Bode plots": "Bode Plot"
+    },
+    {
+        "and ": null
+    },
+    {
+        "Nyquist plots": "Nyquist Plot"
+    },
+    {
+        "were extensively used as design tools. Even today, they are invaluable tools to understanding filter behavior. Reference books A. Zverev, Handbook of Filter Synthesis, John Wiley and Sons, 1967,  had extensive plots of frequency response, phase response, group delay, and impulse response for various types of filters, of various orders. They also contained tables of values showing how to implement such filters as RLC ladders - very useful when amplifying elements were expensive compared to passive components. Such a ladder can also be designed to have minimal sensitivity to component variation Normally, computing sensitivities is a very laborious operation. But in the special case of an LC ladder driven by an impedance and terminated by a resistor, there is a neat argument showing the sensitivities are small. In such as case, the transmission at the maximum frequency transfers the maximal possible energy to the output load, as determined by the physics of the source and load impedances. Since this point is a maximum, all derivatives with respect to all component values must be zero, since the result of changing any component value in any direction can only result in a reduction. This result only strictly holds true at the peaks of the response, but is roughly true at nearby points as well. a property hard to evaluate without computer tools.     Many different analog filter designs have been developed, each trying to optimise some feature of the system response. For practical filters, a custom design is sometimes desirable, that can offer the best tradeoff between different design criteria, which may include component count and cost, as well as filter response characteristics.     These descriptions refer to the mathematical properties of the filter . These can be implemented as analog circuits , or as algorithms in ": null
+    },
+    {
+        "digital signal processing": "Digital Signal Processing"
+    },
+    {
+        " systems.     Digital filters are much more flexible to synthesize and use than analog filters, where the constraints of the design permits their use. Notably, there is no need to consider component tolerances, and very high Q levels may be obtained.     FIR digital filters may be implemented by the direct ": null
+    },
+    {
+        "convolution": "Convolution"
+    },
+    {
+        " of the desired impulse response with the input signal.   They can easily be designed to give a ": null
+    },
+    {
+        "matched filter": "Matched Filter"
+    },
+    {
+        " for any arbitrary pulse shape.     IIR digital filters are often more difficult to design, due to problems including dynamic range issues, ": null
+    },
+    {
+        "quantization noise": "Quantization Noise"
+    },
+    {
+        " and instability.   Typically digital IIR filters are designed as a series of ": null
+    },
+    {
+        "digital biquad filter": "Digital Biquad Filter"
+    },
+    {
+        "s.     All low-pass second-order continuous-time filters have a ": null
+    },
+    {
+        "transfer function": "Transfer Function"
+    },
+    {
+        " given by     : H\\frac.     All band-pass second-order continuous-time filters have a transfer function given by     : H\\frac.     where   K is the gain    Q is the ": null
+    },
+    {
+        "Q factor": "Q Factor"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "                In ": null
+    },
+    {
+        "genetics": "Genetics"
+    },
+    {
+        ", complementary DNA  is ": null
+    },
+    {
+        "DNA": "Dna"
+    },
+    {
+        " synthesized from a single-stranded RNA  template in a reaction catalyzed by the enzyme ": null
+    },
+    {
+        "reverse transcriptase": "Reverse Transcriptase"
+    },
+    {
+        ". cDNA is often used to clone ": null
+    },
+    {
+        "eukaryotic": "Eukaryote"
+    },
+    {
+        "genes": "Gene"
+    },
+    {
+        "in ": null
+    },
+    {
+        "prokaryote": "Prokaryote"
+    },
+    {
+        "s. When scientists want to ": null
+    },
+    {
+        "express": "Gene Expression"
+    },
+    {
+        " a specific ": null
+    },
+    {
+        "protein": "Protein"
+    },
+    {
+        " in a cell that does not normally express that protein , they will transfer the cDNA that codes for the protein to the recipient cell. cDNA is also produced naturally by ": null
+    },
+    {
+        "retrovirus": "Retrovirus"
+    },
+    {
+        "es  and then integrated into the hosts genome, where it creates a ": null
+    },
+    {
+        "provirus": "Provirus"
+    },
+    {
+        ".      The term cDNA is also used, typically in a ": null
+    },
+    {
+        "bioinformatics": "Bioinformatics"
+    },
+    {
+        " context, to refer to an mRNA transcripts sequence, expressed as DNA bases rather than RNA bases .     cDNA is derived from mRNA, so it contains only ": null
+    },
+    {
+        "exons": "Exons"
+    },
+    {
+        " but no ": null
+    },
+    {
+        "introns": "Introns"
+    },
+    {
+        ".       Although there are several methods for doing so, cDNA is most often synthesized from mature mRNA using the enzyme ": null
+    },
+    {
+        "reverse transcriptase": "Reverse Transcriptase"
+    },
+    {
+        ". This enzyme, which naturally occurs in retroviruses, operates on a single strand of mRNA, generating its complementary DNA based on the pairing of RNA ": null
+    },
+    {
+        "base pairs": "Base Pair"
+    },
+    {
+        " to their DNA complements .     To obtain eukaryotic cDNA whose introns have been removed:   An eukaryotic cell transcribes the DNA into RNA .   The same cell processes the pre-mRNA strands by removing introns, and adding a ": null
+    },
+    {
+        "poly-A tail": "Polyadenylation"
+    },
+    {
+        " and ": null
+    },
+    {
+        "5’ Methyl-Guanine cap": "5 Cap"
+    },
+    {
+        "    This mixture of mature mRNA strands is extracted from the cell. The ": null
+    },
+    {
+        "poly-A tail": "Polyadenylation"
+    },
+    {
+        " of the post-transcriptional mRNA can be taken advantage of with oligo beads in an ": null
+    },
+    {
+        "affinity chromatography": "Affinity Chromatography"
+    },
+    {
+        " assay.   A poly-": null
+    },
+    {
+        "T": "Thymine"
+    },
+    {
+        " oligonucleotide": "Oligonucleotide"
+    },
+    {
+        " primer": "Primer"
+    },
+    {
+        " is hybridized onto the ": null
+    },
+    {
+        "poly-A tail": "Polyadenylation"
+    },
+    {
+        " of the mature mRNA template, or ": null
+    },
+    {
+        "random hexamer": "Random Hexamer"
+    },
+    {
+        " primers can be added which contain every possible 6 base single strand of DNA and can therefore hybridize anywhere on the RNA   ": null
+    },
+    {
+        "Reverse transcriptase": "Reverse Transcriptase"
+    },
+    {
+        " is added, along with ": null
+    },
+    {
+        "deoxynucleotide triphosphates": "Deoxynucleotide Triphosphate"
+    },
+    {
+        " . This synthesizes one complementary strand of DNA hybridized to the original mRNA strand.   To synthesize an additional DNA strand, traditionally one would digest the RNA of the hybrid strand, using an enzyme like ": null
+    },
+    {
+        "RNase H": "Rnase H"
+    },
+    {
+        ", or through alkali digestion method.   After digestion of the RNA, a single stranded DNA is left and because single stranded nucleic acids are hydrophobic, it tends to loop around itself. It is likely that the ssDNA forms a ": null
+    },
+    {
+        "hairpin loop": "Hairpin Loop"
+    },
+    {
+        " at the 3 end.   From the hairpin loop, a DNA polymerase can then use it as a primer to transcribe a complementary sequence for the ss cDNA.   Now, you should be left with a double stranded cDNA with identical sequence as the mRNA of interest.       Complementary DNA is often used in ": null
+    },
+    {
+        "gene cloning": "Clone"
+    },
+    {
+        " or as ": null
+    },
+    {
+        "gene probes": "Gene Probe"
+    },
+    {
+        "or in the creation of a ": null
+    },
+    {
+        "cDNA library": "Cdna Library"
+    },
+    {
+        ". When scientists transfer a gene from one cell into another cell in order to express the new genetic material as a protein in the recipient cell, the cDNA will be added to the recipient , because the DNA for an entire gene may include DNA that does not code for the protein or that interrupts the coding sequence of the protein . Partial sequences of cDNAs are often obtained as  expressed sequence tag s .     With amplification of DNA sequences via ": null
+    },
+    {
+        "polymerase chain reaction": "Polymerase Chain Reaction"
+    },
+    {
+        " now commonplace, one will typically conduct reverse transcription as an initial step, followed by PCR to obtain an exact sequence of cDNA for intra-cellular expression. This is achieved by designing sequence-specific DNA primers that hybridize to the 5 and 3 ends of a cDNA region coding for a protein. Once amplified, the sequence can be cut at each end with nucleases and inserted into one of many small circular DNA sequences known as expression vectors. Such vectors allow for self-replication, inside the cells, and potentially integration in the host DNA. They typically also contain a strong promoter to drive transcription of the target cDNA into mRNA, which is then translated into protein.     On June 13, 2013, the ": null
+    },
+    {
+        "United States Supreme Court": "United States Supreme Court"
+    },
+    {
+        " ruled in the case of  Association for Molecular Pathology v. Myriad Genetics  that while naturally occurring human genes cannot be ": null
+    },
+    {
+        "patent": "Patent"
+    },
+    {
+        "ed, cDNA is patent eligible because it does not occur naturally.        Some viruses also use cDNA to turn their viral RNA into mRNA . The mRNA is used to make viral proteins to take over the host cell.     An example of this first step from viral DNA to cDNA can be seen in the HIV cycle of infection. Here, the host cell membrane becomes attached to the virus’ lipid envelope which allows the viral capsid with two copies of viral genome RNA to enter the host. The cDNA copy is then made though reverse transcription of the viral RNA, a process facilitated by the chaperone CypA and a viral capsid associated reverse transcriptase. ": null
+    }
+]
