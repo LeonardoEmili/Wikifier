@@ -4,6 +4,8 @@ import json
 from tqdm import tqdm
 import bz2
 
+# This simple script simply performs a merge operation from files located in 'data/' directory
+
 merge_file = []
 files = glob.glob("data/*.json")
 out_filename = "raw_data.json"
