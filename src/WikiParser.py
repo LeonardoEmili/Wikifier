@@ -47,6 +47,7 @@ class TextList(list):
 
 
 async def main():
+    os.chdir(os.path.dirname(os.path.realpath(__file__)))
     # Just a index used to print json structure to file in the form of data_{output_no}.json
     output_no = 0
     options = get_options(sys.argv)     # Here we parse the options

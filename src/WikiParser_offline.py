@@ -10,7 +10,8 @@ import subprocess
 import mwparserfromhell
 import wikipedia
 import click
-
+import merge_script
+from tqdm import tqdm
 
 # A list of subject namespaces following Wikipedia convention's that have to be removed.
 EVIL_NAMESPACES = ["File:", "Category:"]
@@ -88,26 +89,30 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
 
 # Dumps from: https://dumps.wikimedia.org/enwiki/20191201/
 
+dumps_dir = "/home/leo/Downloads/"
 
 def main():
-    _dir = "/home/leo/Downloads/"
+    os.chdir(os.path.dirname(os.path.realpath(__file__)))
     #_file = "enwiki-20190101-pages-articles-multistream.xml.bz2"
     _file = "enwiki-20191201-pages-articles-multistream1.xml-p10p30302.bz2"
     dir_name = "../raw_data/"
-    # file_path = _dir + _file
+    # file_path = dumps_dir + _file
     node_dict = {mwparserfromhell.nodes.Template: SKIP_NODE, mwparserfromhell.nodes.ExternalLink: SKIP_NODE,
                  mwparserfromhell.nodes.Text: TEXT_NODE, mwparserfromhell.nodes.Tag: TAG_NODE, mwparserfromhell.nodes.Wikilink: WIKILINK_NODE}
-    files = [x for x in os.listdir(_dir) if x.startswith("enwiki")]
+    files = [x for x in os.listdir(dumps_dir) if x.startswith("enwiki")]
 
-    create_dir(_dir, dir_name)
+    print("Reading Wikipedia dump files located in {}:\n".format(dumps_dir))
+
+    createdumps_dir(dumps_dir, dir_name)
 
     if (len(files) == 0):
         print("Please provide an input file an try again", file=sys.stderr)
 
     for filename in files:
-        parse_wikidump(_dir + filename, dir_name, node_dict)
+        parse_wikidump(filename, dir_name, node_dict)
 
     generate_occurence_map()
+    merge_script.generate_input_data()
 
     return
 
@@ -130,7 +135,7 @@ def generate_occurence_map():
         json.dump(occurence_map, f, ensure_ascii=False, indent=4)
 
 
-def parse_wikidump(path, dir_name, node_dict):
+def parse_wikidump(filename, dir_name, node_dict):
     # Content handler for Wiki XML.
     handler = WikiXmlHandler()
 
@@ -145,7 +150,7 @@ def parse_wikidump(path, dir_name, node_dict):
     #PAGES_LIMIT = 1 * 1000 * 1000
 
     # Iterate through compressed file one line at the time
-    for line in subprocess.Popen(['bzcat'], stdin=open(path), stdout=subprocess.PIPE).stdout:
+    for line in subprocess.Popen(['bzcat'], stdin=open(dumps_dir + filename), stdout=subprocess.PIPE).stdout:
 
         # Feed the parser with a new line.
         parser.feed(line)
@@ -156,24 +161,15 @@ def parse_wikidump(path, dir_name, node_dict):
         # if (len(handler._pages) == PAGES_LIMIT):
         #    break
 
-    print("\nRead {} pages from file: {}.\n".format(len(handler._pages), path))
+    print(" \u2022 [{} pages] {}\n".format(len(handler._pages), filename))
 
-    with click.progressbar(range(len(handler._pages))) as pages:
-        for i in pages:
-            parse_page(handler, i, dir_name, node_dict)
+    for i in tqdm(range(len(handler._pages))):
+        parse_page(handler, i, dir_name, node_dict)
     print()
 
 
-def create_dir(_dir, dir_name):
-    try:
-        os.makedirs(dir_name, 0o755)
-        os.chdir(_dir + dir_name)
-    except OSError as e:
-        # Don't throw error if the directory already exists
-        pass
-    except Exception:
-        exit(1)
-
+def createdumps_dir(dumps_dir, dir_name):
+    os.makedirs(dir_name, 0o0755, exist_ok=True)
 
 def has_reached_end_of_page(line):
     return "==" in line and "See also" in line or "References" in line or "Footnotes" in line
