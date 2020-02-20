@@ -20,7 +20,6 @@ def store_as_file(data, out_filename):
     os.remove(out_filename)
     print("DONE", flush=True)
 
-################################################
 
 files = glob.glob("data/*.json")
 random.shuffle(files)
