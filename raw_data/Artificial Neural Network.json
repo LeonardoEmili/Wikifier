@@ -6,13 +6,13 @@
         "biological neural networks": "Biological Neural Network"
     },
     {
-        "that constitute animal ": null
+        " that constitute animal ": null
     },
     {
-        "brain": "Brain"
+        "brains": "Brain"
     },
     {
-        "s. Such systems learn to perform tasks by considering examples, generally without being programmed with task-specific rules. For example, in ": null
+        ". Such systems learn to perform tasks by considering examples, generally without being programmed with task-specific rules. For example, in ": null
     },
     {
         "image recognition": "Image Recognition"
@@ -27,22 +27,22 @@
         " as cat or no cat and using the results to identify cats in other images. They do this without any prior knowledge of cats, for example, that they have fur, tails, whiskers and cat-like faces. Instead, they automatically generate identifying characteristics from the examples that they process.     An ANN is based on a collection of connected units or nodes called ": null
     },
     {
-        "artificial neuron": "Artificial Neuron"
+        "artificial neurons": "Artificial Neuron"
     },
     {
-        "s, which loosely model the ": null
+        ", which loosely model the ": null
     },
     {
         "neurons": "Neuron"
     },
     {
-        "in a biological brain. Each connection, like the ": null
+        " in a biological brain. Each connection, like the ": null
     },
     {
         "synapses": "Synapse"
     },
     {
-        "in a biological brain, can transmit a signal to other neurons. An artificial neuron that receives a signal then processes it and can signal neurons connected to it.     In ANN implementations, the signal at a connection is a ": null
+        " in a biological brain, can transmit a signal to other neurons. An artificial neuron that receives a signal then processes it and can signal neurons connected to it.     In ANN implementations, the signal at a connection is a ": null
     },
     {
         "real number": "Real Number"
@@ -204,7 +204,7 @@
         "parameters": "Parameter"
     },
     {
-        "of controllers in proportion to error gradients.  ": null
+        " of controllers in proportion to error gradients.  ": null
     },
     {
         "Werboss": "Paul Werbos"
@@ -267,7 +267,7 @@
         "latent variables": "Latent Variable"
     },
     {
-        "with a ": null
+        " with a ": null
     },
     {
         "restricted Boltzmann machine": "Restricted Boltzmann Machine"
@@ -291,7 +291,7 @@
         "GPUs": "Gpu"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "distributed computing": "Distributed Computing"
@@ -603,7 +603,7 @@
         "games": "Game"
     },
     {
-        "and other sequential decision making tasks.         Self learning in neural networks was introduced in 1982 along with a neural network capable of self-learning named Crossbar Adaptive Array . Bozinovski, S. . A self learning system using secondary reinforcement . In R. Trappl Cybernetics and Systems Research: Proceedings of the Sixth European Meeting on Cybernetics and Systems Research. North Holland. pp. 397–402. . It is a system with only one input, situation s, and only one output, action a. It has neither external advice input nor external reinforcement input from the environment. The CAA computes, in a crossbar fashion, both decisions about actions and emotions about encountered situations. The system is driven by the interaction between cognition and emotion. Bozinovski, S. Modeling mechanisms of cognition-emotion interaction in artificial neural networks, since 1981. Procedia Computer Science p. 255-263 Given memory matrix W ||w||, the crossbar self learning algorithm in each iteration performs the following computation:   In situation s perform action a;   Receive consequence situation s’;   Compute emotion of being in consequence situation v;   Update crossbar memory w’ w + v.     The backpropagated value is the emotion toward the consequence situation. The CAA exists in two environments, one is behavioral environment where it behaves, and the other is genetic environment, where from it initially and only once receives initial emotions about to be encountered situations in the behavioral environment. Having received the genome vector from the genetic environment, the CAA will learn a goal-seeking behavior, in the behavioral environment that contains both desirable and undesirable situations. Bozinovski, Stevo and Bozinovska, Liljana. Self-learning agents: A connectionist theory of emotion based on crossbar value judgment. Cybernetics and Systems 32 637-667.       In a ": null
+        " and other sequential decision making tasks.         Self learning in neural networks was introduced in 1982 along with a neural network capable of self-learning named Crossbar Adaptive Array . Bozinovski, S. . A self learning system using secondary reinforcement . In R. Trappl Cybernetics and Systems Research: Proceedings of the Sixth European Meeting on Cybernetics and Systems Research. North Holland. pp. 397–402. . It is a system with only one input, situation s, and only one output, action a. It has neither external advice input nor external reinforcement input from the environment. The CAA computes, in a crossbar fashion, both decisions about actions and emotions about encountered situations. The system is driven by the interaction between cognition and emotion. Bozinovski, S. Modeling mechanisms of cognition-emotion interaction in artificial neural networks, since 1981. Procedia Computer Science p. 255-263 Given memory matrix W ||w||, the crossbar self learning algorithm in each iteration performs the following computation:   In situation s perform action a;   Receive consequence situation s’;   Compute emotion of being in consequence situation v;   Update crossbar memory w’ w + v.     The backpropagated value is the emotion toward the consequence situation. The CAA exists in two environments, one is behavioral environment where it behaves, and the other is genetic environment, where from it initially and only once receives initial emotions about to be encountered situations in the behavioral environment. Having received the genome vector from the genetic environment, the CAA will learn a goal-seeking behavior, in the behavioral environment that contains both desirable and undesirable situations. Bozinovski, Stevo and Bozinovska, Liljana. Self-learning agents: A connectionist theory of emotion based on crossbar value judgment. Cybernetics and Systems 32 637-667.       In a ": null
     },
     {
         "Bayesian": "Bayesian Probability"
@@ -669,7 +669,7 @@
         "convolutional neural networks": "Convolutional Neural Network"
     },
     {
-        "that have proven particularly successful in processing visual and other two-dimensional data; LeCun et al., Backpropagation Applied to Handwritten Zip Code Recognition, Neural Computation, 1, pp. 541–551, 1989. ": null
+        " that have proven particularly successful in processing visual and other two-dimensional data; LeCun et al., Backpropagation Applied to Handwritten Zip Code Recognition, Neural Computation, 1, pp. 541–551, 1989. ": null
     },
     {
         "Yann LeCun": "Yann Lecun"
@@ -702,13 +702,13 @@
         "Hyperparameters": "Hyperparameter"
     },
     {
-        "must also be defined as part of the design , governing matters such as how many neurons are in each layer, learning rate, step, stride, depth, receptive field and padding , etc.           Using Artificial neural networks requires an understanding of their characteristics.   Choice of model: This depends on the data representation and the application. Overly complex models slow learning.   Learning algorithm: Numerous trade-offs exist between learning algorithms. Almost any algorithm will work well with the correct ": null
+        " must also be defined as part of the design , governing matters such as how many neurons are in each layer, learning rate, step, stride, depth, receptive field and padding , etc.           Using Artificial neural networks requires an understanding of their characteristics.   Choice of model: This depends on the data representation and the application. Overly complex models slow learning.   Learning algorithm: Numerous trade-offs exist between learning algorithms. Almost any algorithm will work well with the correct ": null
     },
     {
         "hyperparameters": "Hyperparameter"
     },
     {
-        "for training on a particular data set. However, selecting and tuning an algorithm for training on unseen data requires significant experimentation.   Robustness: If the model, cost function and learning algorithm are selected appropriately, the resulting ANN can become robust.   ANN capabilities fall within the following broad categories: ": null
+        " for training on a particular data set. However, selecting and tuning an algorithm for training on unseen data requires significant experimentation.   Robustness: If the model, cost function and learning algorithm are selected appropriately, the resulting ANN can become robust.   ANN capabilities fall within the following broad categories: ": null
     },
     {
         "Function approximation": "Function Approximation"
@@ -882,10 +882,10 @@
         ", with the objective to discriminate between legitimate activities and malicious ones. For example, machine learning has been used for classifying Android malware,  for identifying domains belonging to threat actors  and for detecting URLs posing a security risk.  Research is underway on ANN systems designed for penetration testing,  for detecting botnets,  credit cards frauds  and network intrusions.     ANNs have been proposed as a tool to simulate the properties of many-body ": null
     },
     {
-        "open quantum system": "Open Quantum System"
+        "open quantum systems": "Open Quantum System"
     },
     {
-        "s.     In brain research ANNs have studied short-term behavior of ": null
+        ".     In brain research ANNs have studied short-term behavior of ": null
     },
     {
         "individual neurons": "Biological Neuron Models"

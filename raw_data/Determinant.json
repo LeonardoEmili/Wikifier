@@ -42,7 +42,7 @@
         "coefficients": "Coefficient"
     },
     {
-        "in a ": null
+        " in a ": null
     },
     {
         "system of linear equations": "System Of Linear Equations"
@@ -69,10 +69,10 @@
         " of a matrix, whose roots are the ": null
     },
     {
-        "eigenvalue": "Eigenvalue"
+        "eigenvalues": "Eigenvalue"
     },
     {
-        "s. In ": null
+        ". In ": null
     },
     {
         "analytic geometry": "Analytic Geometry"
@@ -219,10 +219,10 @@
         " for the determinant of a  matrix is   :   a & b   & d   ad - bc.     If the matrix entries are real numbers, the matrix A can be used to represent two ": null
     },
     {
-        "linear map": "Linear Map"
+        "linear maps": "Linear Map"
     },
     {
-        "s: one that maps the ": null
+        ": one that maps the ": null
     },
     {
         "standard basis": "Standard Basis"
@@ -306,7 +306,7 @@
         "permutations": "Permutation"
     },
     {
-        "σ of the set  A permutation is a function that reorders this set of integers. The value in the i th  position after the reordering σ is denoted by σ i . For example, for , the original sequence 1, 2, 3 might be reordered to , with , , and . The set of all such permutations  is denoted by S n . For each permutation σ, sgn denotes the ": null
+        " σ of the set  A permutation is a function that reorders this set of integers. The value in the i th  position after the reordering σ is denoted by σ i . For example, for , the original sequence 1, 2, 3 might be reordered to , with , , and . The set of all such permutations  is denoted by S n . For each permutation σ, sgn denotes the ": null
     },
     {
         "signature": "Signature"
@@ -351,10 +351,10 @@
         ". This means that if the j column of a matrix A is written as a sum   aj   v +   w of two ": null
     },
     {
-        "column vector": "Column Vector"
+        "column vectors": "Column Vector"
     },
     {
-        "s, and all other columns are left unchanged, then the determinant of A is the sum of the determinants of the matrices obtained from A by replacing the j column by   v and then by   .   :     &       &       &   +       &   +         If in a matrix, any row or column has all elements equal to zero, then the determinant of that matrix is 0.   This n-linear function is an ": null
+        ", and all other columns are left unchanged, then the determinant of A is the sum of the determinants of the matrices obtained from A by replacing the j column by   v and then by   .   :     &       &       &   +       &   +         If in a matrix, any row or column has all elements equal to zero, then the determinant of that matrix is 0.   This n-linear function is an ": null
     },
     {
         "alternating form": "Alternating Form"
@@ -507,7 +507,7 @@
         "eigenvalues": "Eigenvalue"
     },
     {
-        "of the matrix ": null
+        " of the matrix ": null
     },
     {
         "characteristic equation": "Characteristic Polynomial"
@@ -735,7 +735,7 @@
         "vector bundles": "Vector Bundle"
     },
     {
-        "or ": null
+        " or ": null
     },
     {
         "chain complex": "Chain Complex"
@@ -930,7 +930,7 @@
         "circulants": "Circulant"
     },
     {
-        "by ": null
+        " by ": null
     },
     {
         "Catalan": "Eugène Charles Catalan"
@@ -951,10 +951,10 @@
         ", and Scott; skew determinants and ": null
     },
     {
-        "Pfaffian": "Pfaffian"
+        "Pfaffians": "Pfaffian"
     },
     {
-        "s, in connection with the theory of ": null
+        ", in connection with the theory of ": null
     },
     {
         "orthogonal transformation": "Orthogonal Transformation"
@@ -1002,10 +1002,10 @@
         " by the former two vectors exactly if the determinant of the  matrix consisting of the three vectors is zero. The same idea is also used in the theory of ": null
     },
     {
-        "differential equation": "Differential Equation"
+        "differential equations": "Differential Equation"
     },
     {
-        "s: given n functions f 1 , …, f n  , the ": null
+        ": given n functions f 1 , …, f n  , the ": null
     },
     {
         "Wronskian": "Wronskian"
@@ -1014,10 +1014,10 @@
         " is defined to be   : W       f1 & f2 &   & fn     f1 & f2 &   & fn       &   &   &       f1 & f2 &   & fn         It is non-zero  in a specified interval if and only if the given functions and all their derivatives up to order n−1 are linearly independent. If it can be shown that the Wronskian is zero everywhere on an interval then, in the case of ": null
     },
     {
-        "analytic function": "Analytic Function"
+        "analytic functions": "Analytic Function"
     },
     {
-        "s, this implies the given functions are linearly dependent. See ": null
+        ", this implies the given functions are linearly dependent. See ": null
     },
     {
         "the Wronskian and linear independence": "Wronskianthe Wronskian And Linear Independence"
@@ -1101,10 +1101,10 @@
         " bounded by four points, they can be used to identify ": null
     },
     {
-        "skew line": "Skew Line"
+        "skew lines": "Skew Line"
     },
     {
-        "s. The volume of any tetrahedron, given its vertices a, b, c, and d, is , or any other combination of pairs of vertices that would form a ": null
+        ". The volume of any tetrahedron, given its vertices a, b, c, and d, is , or any other combination of pairs of vertices that would form a ": null
     },
     {
         "spanning tree": "Spanning Tree"

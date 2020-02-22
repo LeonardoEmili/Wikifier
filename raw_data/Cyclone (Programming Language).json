@@ -18,7 +18,7 @@
         "buffer overflows": "Buffer Overflow"
     },
     {
-        "and other vulnerabilities that are possible in C programs, without losing the power and convenience of C as a tool for ": null
+        " and other vulnerabilities that are possible in C programs, without losing the power and convenience of C as a tool for ": null
     },
     {
         "system programming": "System Programming"
@@ -30,7 +30,7 @@
         "Greg Morrisetts": "Greg Morrisett"
     },
     {
-        "group at Cornell in 2001. Version 1.0 was released on May 8, 2006.       Cyclone attempts to avoid some of the common pitfalls of ": null
+        " group at Cornell in 2001. Version 1.0 was released on May 8, 2006.       Cyclone attempts to avoid some of the common pitfalls of ": null
     },
     {
         "C": "C"
@@ -48,7 +48,7 @@
         "segmentation faults": "Segmentation Fault"
     },
     {
-        "  Pointer arithmetic": "Pointer Arithmetic"
+        "   Pointer arithmetic": "Pointer Arithmetic"
     },
     {
         " is limited   Pointers must be initialized before use    ": null
@@ -57,7 +57,7 @@
         "Dangling pointers": "Dangling Pointer"
     },
     {
-        "are prevented through region analysis and limits on ": null
+        " are prevented through region analysis and limits on ": null
     },
     {
         " free ": "Malloc"
@@ -99,7 +99,7 @@
         "Tagged unions": "Tagged Union"
     },
     {
-        "support type-varying arguments   Injections help automate the use of tagged unions for programmers   ": null
+        " support type-varying arguments   Injections help automate the use of tagged unions for programmers   ": null
     },
     {
         "Polymorphism": "Polymorphism"
@@ -138,6 +138,6 @@
         "buffer overflows": "Buffer Overflow"
     },
     {
-        "and other off-by-one -style mistakes. To avoid this, the ? pointer type is delimited by a known bound, the size of the array. Although this adds overhead due to the extra information stored about the pointer, it improves safety and security. Take for instance a simple strlen function, written in C:     int strlen   ": null
+        " and other off-by-one -style mistakes. To avoid this, the ? pointer type is delimited by a known bound, the size of the array. Although this adds overhead due to the extra information stored about the pointer, it improves safety and security. Take for instance a simple strlen function, written in C:     int strlen   ": null
     }
 ]

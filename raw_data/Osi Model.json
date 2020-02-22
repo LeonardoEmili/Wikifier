@@ -21,10 +21,10 @@
         ". The model partitions a communication system into ": null
     },
     {
-        "abstraction layer": "Abstraction Layer"
+        "abstraction layers": "Abstraction Layer"
     },
     {
-        "s. The original version of the model had seven layers.     A layer serves the layer above it and is served by the layer below it. For example, a layer that provides error-free communications across a network provides the path needed by applications above it, while it calls the next lower layer to send and receive packets that constitute the contents of that path. Two instances at the same layer are visualized as connected by a horizontal connection in that layer.     The model is a product of the Open Systems Interconnection project at the ": null
+        ". The original version of the model had seven layers.     A layer serves the layer above it and is served by the layer below it. For example, a layer that provides error-free communications across a network provides the path needed by applications above it, while it calls the next lower layer to send and receive packets that constitute the contents of that path. Two instances at the same layer are visualized as connected by a horizontal connection in that layer.     The model is a product of the Open Systems Interconnection project at the ": null
     },
     {
         "International Organization for Standardization": "International Organization For Standardization"
@@ -165,10 +165,10 @@
         ", ": null
     },
     {
-        "voltage": "Voltage"
+        "voltages": "Voltage"
     },
     {
-        "s, line ": null
+        ", line ": null
     },
     {
         "impedance": "Characteristic Impedance"
@@ -363,7 +363,7 @@
         "tunneling protocols": "Tunneling Protocol"
     },
     {
-        "operate at the transport layer, such as carrying non-IP protocols such as ": null
+        " operate at the transport layer, such as carrying non-IP protocols such as ": null
     },
     {
         "IBMs": "Ibm"
@@ -450,10 +450,10 @@
         " at the transport layer in the Internet Protocol Suite. This layer is also responsible for session checkpointing and recovery, which is not usually used in the Internet Protocol Suite. The session layer is commonly implemented explicitly in application environments that use ": null
     },
     {
-        "remote procedure call": "Remote Procedure Call"
+        "remote procedure calls": "Remote Procedure Call"
     },
     {
-        "s.       The ": null
+        ".       The ": null
     },
     {
         "presentation layer": "Presentation Layer"
@@ -507,13 +507,13 @@
         "objects": "Object"
     },
     {
-        "and other ": null
+        " and other ": null
     },
     {
         "data structures": "Data Structure"
     },
     {
-        "from and to ": null
+        " from and to ": null
     },
     {
         "XML": "Xml"

@@ -168,7 +168,7 @@
         "Functional programming languages": "Functional Programming Language"
     },
     {
-        "implement the lambda calculus. Lambda calculus is also a current research topic in ": null
+        " implement the lambda calculus. Lambda calculus is also a current research topic in ": null
     },
     {
         "Category theory": "Category Theory"
@@ -252,7 +252,7 @@
         "Computable functions": "Computable Function"
     },
     {
-        "are a fundamental concept within computer science and mathematics. The lambda calculus provides a simple ": null
+        " are a fundamental concept within computer science and mathematics. The lambda calculus provides a simple ": null
     },
     {
         "semantics": "Semanticscomputer Science"
@@ -345,10 +345,10 @@
         ".   Under this view, β-reduction corresponds to a computational step. This step can be repeated by additional β-reductions until there are no more applications left to reduce. In the untyped lambda calculus, as presented here, this reduction process may not terminate.   For instance, consider the term   .   Here   .   That is, the term reduces to itself in a single β-reduction, and therefore the reduction process will never terminate.     Another aspect of the untyped lambda calculus is that it does not distinguish between different kinds of data.   For instance, it may be desirable to write a function that only operates on numbers. However, in the untyped lambda calculus, there is no way to prevent a function from being applied to ": null
     },
     {
-        "truth value": "Truth Value"
+        "truth values": "Truth Value"
     },
     {
-        "s, strings, or other non-number objects.              Lambda expressions are composed of:     variables v 1 , v 2 , …;   the abstraction symbols λ and . ;   parentheses .     The set of lambda expressions, Λ, can be ": null
+        ", strings, or other non-number objects.              Lambda expressions are composed of:     variables v 1 , v 2 , …;   the abstraction symbols λ and . ;   parentheses .     The set of lambda expressions, Λ, can be ": null
     },
     {
         "defined inductively": "Recursive Definition"
@@ -468,13 +468,13 @@
         "natural numbers": "Natural Number"
     },
     {
-        "in lambda calculus, but by far the most common are the ": null
+        " in lambda calculus, but by far the most common are the ": null
     },
     {
-        "Church numeral": "Church Numeral"
+        "Church numerals": "Church Numeral"
     },
     {
-        "s, which can be defined as follows:   : 0 : λf.λx.x   : 1 : λf.λx.f x   : 2 : λf.λx.f    : 3 : λf.λx.f    and so on. Or using the alternative syntax presented above in  Notation fx.x   : 1 : λfx.f x   : 2 : λfx.f    : 3 : λfx.f      A Church numeral is a ": null
+        ", which can be defined as follows:   : 0 : λf.λx.x   : 1 : λf.λx.f x   : 2 : λf.λx.f    : 3 : λf.λx.f    and so on. Or using the alternative syntax presented above in  Notation fx.x   : 1 : λfx.f x   : 2 : λfx.f    : 3 : λfx.f      A Church numeral is a ": null
     },
     {
         "higher-order function": "Higher-Order Function"

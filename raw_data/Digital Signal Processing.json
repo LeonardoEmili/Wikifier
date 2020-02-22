@@ -9,10 +9,10 @@
         ", such as by computers or more specialized ": null
     },
     {
-        "digital signal processor": "Digital Signal Processor"
+        "digital signal processors": "Digital Signal Processor"
     },
     {
-        "s, to perform a wide variety of ": null
+        ", to perform a wide variety of ": null
     },
     {
         "signal processing": "Signal Processing"
@@ -111,16 +111,16 @@
         ", signal processing for ": null
     },
     {
-        "telecommunication": "Telecommunication"
+        "telecommunications": "Telecommunication"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "control system": "Control System"
+        "control systems": "Control System"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "biomedical engineering": "Biomedical Engineering"
@@ -294,7 +294,7 @@
         "adaptive filters": "Adaptive Filter"
     },
     {
-        "change in time.   A stable filter produces an output that converges to a constant value with time, or remains bounded within a finite interval. An unstable filter can produce an output that grows without bounds, with bounded or even zero input.   A ": null
+        " change in time.   A stable filter produces an output that converges to a constant value with time, or remains bounded within a finite interval. An unstable filter can produce an output that grows without bounds, with bounded or even zero input.   A ": null
     },
     {
         "finite impulse response": "Finite Impulse Response"
@@ -363,10 +363,10 @@
         ". The Fourier transform converts the time or space information to a magnitude and phase component of each frequency. With some applications, how the phase varies with frequency can be a significant consideration. Where phase is unimportant, often the Fourier transform is converted to the power spectrum, which is the magnitude of each frequency component squared.     The most common purpose for analysis of signals in the frequency domain is analysis of signal properties. The engineer can study the spectrum to determine which frequencies are present in the input signal and which are missing. Frequency domain analysis is also called spectrum- or spectral analysis.     Filtering, particularly in non-realtime work can also be achieved in the frequency domain, applying the filter and then converting back to the time domain. This can be an efficient implementation and can give essentially any filter response including excellent approximations to ": null
     },
     {
-        "brickwall filter": "Brickwall Filter"
+        "brickwall filters": "Brickwall Filter"
     },
     {
-        "s.     There are some commonly-used frequency domain transformations. For example, the ": null
+        ".     There are some commonly-used frequency domain transformations. For example, the ": null
     },
     {
         "cepstrum": "Cepstrum"
@@ -414,13 +414,13 @@
         "wavelets": "Wavelet"
     },
     {
-        "are discretely sampled. As with other wavelet transforms, a key advantage it has over ": null
+        " are discretely sampled. As with other wavelet transforms, a key advantage it has over ": null
     },
     {
         "Fourier transforms": "Fourier Transform"
     },
     {
-        "is temporal resolution: it captures both frequency and location information.The accuracy of the joint time-frequency resolution is limited by the ": null
+        " is temporal resolution: it captures both frequency and location information.The accuracy of the joint time-frequency resolution is limited by the ": null
     },
     {
         "uncertainty principle": "Uncertainty Principlesignal Processing"
@@ -465,16 +465,16 @@
         ", ": null
     },
     {
-        "digital communication": "Digital Communication"
+        "digital communications": "Digital Communication"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "digital synthesizer": "Digital Synthesizer"
+        "digital synthesizers": "Digital Synthesizer"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "radar": "Radar"
@@ -513,10 +513,10 @@
         " and transmission in digital ": null
     },
     {
-        "mobile phone": "Mobile Phone"
+        "mobile phones": "Mobile Phone"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "room correction": "Digital Room Correction"
@@ -600,7 +600,7 @@
         "audio crossovers": "Audio Crossover"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "equalization": "Equalization"
@@ -609,22 +609,22 @@
         ", and audio ": null
     },
     {
-        "effects unit": "Effects Unit"
+        "effects units": "Effects Unit"
     },
     {
-        "s.        DSP ": null
+        ".        DSP ": null
     },
     {
         "algorithms": "Algorithm"
     },
     {
-        "may be run on general-purpose computers and ": null
+        " may be run on general-purpose computers and ": null
     },
     {
-        "digital signal processor": "Digital Signal Processor"
+        "digital signal processors": "Digital Signal Processor"
     },
     {
-        "s. DSP algorithms are also implemented on purpose-built hardware such as ": null
+        ". DSP algorithms are also implemented on purpose-built hardware such as ": null
     },
     {
         "application-specific integrated circuit": "Application-Specific Integrated Circuit"
@@ -633,22 +633,22 @@
         " . Additional technologies for digital signal processing include more powerful general purpose ": null
     },
     {
-        "microprocessor": "Microprocessor"
-    },
-    {
-        "s, ": null
-    },
-    {
-        "field-programmable gate arrays": "Field-Programmable Gate Array"
+        "microprocessors": "Microprocessor"
     },
     {
         ", ": null
     },
     {
+        "field-programmable gate arrays": "Field-Programmable Gate Array"
+    },
+    {
+        " , ": null
+    },
+    {
         "digital signal controllers": "Digital Signal Controller"
     },
     {
-        ", and ": null
+        " , and ": null
     },
     {
         "stream processors": "Stream Processing"
@@ -672,7 +672,7 @@
         "digital photographs": "Digital Photograph"
     },
     {
-        "with software such as ": null
+        " with software such as ": null
     },
     {
         "Photoshop": "Photoshop"
@@ -684,13 +684,13 @@
         "FPGAs": "Fpga"
     },
     {
-        "may be used.  For the most demanding applications or high-volume products, ": null
+        " may be used.  For the most demanding applications or high-volume products, ": null
     },
     {
         "ASICs": "Application-Specific Integrated Circuit"
     },
     {
-        "might be designed specifically for the application.        ": null
+        " might be designed specifically for the application.        ": null
     },
     {
         "Bilinear transform": "Bilinear Transform"

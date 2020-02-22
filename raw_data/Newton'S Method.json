@@ -87,10 +87,10 @@
         " at the initial point. The process is repeated as     : x xn -         until a sufficiently precise value is reached. This algorithm is first in the class of ": null
     },
     {
-        "Householders method": "Householders Method"
+        "Householders methods": "Householders Method"
     },
     {
-        "s, succeeded by ": null
+        ", succeeded by ": null
     },
     {
         "Halleys method": "Halleys Method"
@@ -150,7 +150,7 @@
         "real numbers": "Real Number"
     },
     {
-        " , and we have some current approximation . Then we can derive the formula for a better approximation,  by referring to the diagram on the right. The equation of the ": null
+        "  , and we have some current approximation . Then we can derive the formula for a better approximation,  by referring to the diagram on the right. The equation of the ": null
     },
     {
         "tangent line": "Tangent Line"
@@ -186,13 +186,13 @@
         "Householders methods": "Householders Method"
     },
     {
-        "are similar but have higher order for even faster convergence. However, the extra computations required for each step can slow down the overall performance relative to Newtons method, particularly if  or its derivatives are computationally expensive to evaluate.       The name Newtons method is derived from ": null
+        " are similar but have higher order for even faster convergence. However, the extra computations required for each step can slow down the overall performance relative to Newtons method, particularly if  or its derivatives are computationally expensive to evaluate.       The name Newtons method is derived from ": null
     },
     {
         "Isaac Newtons": "Isaac Newton"
     },
     {
-        "description of a special case of the method in  De analysi per aequationes numero terminorum infinitas   and in De metodis fluxionum et serierum infinitarum . However, his method differs substantially from the modern method given above: Newton applies the method only to polynomials. He does not compute the successive approximations , but computes a sequence of polynomials, and only at the end arrives at an approximation for the root . Finally, Newton views the method as purely algebraic and makes no mention of the connection with calculus. Newton may have derived his method from a similar but less precise method by ": null
+        " description of a special case of the method in  De analysi per aequationes numero terminorum infinitas   and in De metodis fluxionum et serierum infinitarum . However, his method differs substantially from the modern method given above: Newton applies the method only to polynomials. He does not compute the successive approximations , but computes a sequence of polynomials, and only at the end arrives at an approximation for the root . Finally, Newton views the method as purely algebraic and makes no mention of the connection with calculus. Newton may have derived his method from a similar but less precise method by ": null
     },
     {
         "Vieta": "Franciscus Vieta"

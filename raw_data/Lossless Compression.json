@@ -93,10 +93,10 @@
         ", whereas Huffman compression is simpler and faster but produces poor results for models that deal with symbol probabilities close to 1.     There are two primary ways of constructing statistical models: in a static model, the data is analyzed and a model is constructed, then this model is stored with the compressed data. This approach is simple and modular, but has the disadvantage that the model itself can be expensive to store, and also that it forces using a single model for all data being compressed, and so performs poorly on files that contain heterogeneous data. Adaptive models dynamically update the model as the data is compressed. Both the encoder and decoder begin with a trivial model, yielding poor compression of initial data, but as they learn more about the data, performance improves. Most popular types of compression used in practice now use adaptive coders.     Lossless compression methods may be categorized according to the type of data they are designed to compress. While, in principle, any general-purpose lossless compression algorithm  can be used on any type of data, many are unable to achieve significant compression on data that are not of the form for which they were designed to compress. Many of the lossless compression techniques used for text also work reasonably well for ": null
     },
     {
-        "indexed image": "Indexed Color"
+        "indexed images": "Indexed Color"
     },
     {
-        "s.       These techniques take advantage of the specific characteristics of images such as the common phenomenon of contiguous 2-D areas of similar tones.   Every pixel but the first is replaced by the difference to its left neighbor. This leads to small values having a much higher probability than large values.   This is often also applied to sound files, and can compress files that contain mostly low frequencies and low volumes.   For images, this step can be repeated by taking the difference to the top pixel, and then in videos, the difference to the pixel in the next frame can be taken.     A hierarchical version of this technique takes neighboring pairs of data points, stores their difference and sum, and on a higher level with lower resolution continues with the sums. This is called ": null
+        ".       These techniques take advantage of the specific characteristics of images such as the common phenomenon of contiguous 2-D areas of similar tones.   Every pixel but the first is replaced by the difference to its left neighbor. This leads to small values having a much higher probability than large values.   This is often also applied to sound files, and can compress files that contain mostly low frequencies and low volumes.   For images, this step can be repeated by taking the difference to the top pixel, and then in videos, the difference to the pixel in the next frame can be taken.     A hierarchical version of this technique takes neighboring pairs of data points, stores their difference and sum, and on a higher level with lower resolution continues with the sums. This is called ": null
     },
     {
         "discrete wavelet transform": "Discrete Wavelet Transform"
@@ -141,10 +141,10 @@
         " algorithm with a selection of domain-specific prediction filters. However, the patents on LZW expired on June 20, 2003.      Many of the lossless compression techniques used for text also work reasonably well for ": null
     },
     {
-        "indexed image": "Indexed Image"
+        "indexed images": "Indexed Image"
     },
     {
-        "s, but there are other techniques that do not work for typical text that are useful for some images , and other techniques that take advantage of the specific characteristics of images .     As mentioned previously, lossless sound compression is a somewhat specialized area. Lossless sound compression algorithms can take advantage of the repeating patterns shown by the wave-like nature of the data – essentially using ": null
+        ", but there are other techniques that do not work for typical text that are useful for some images , and other techniques that take advantage of the specific characteristics of images .     As mentioned previously, lossless sound compression is a somewhat specialized area. Lossless sound compression algorithms can take advantage of the repeating patterns shown by the wave-like nature of the data – essentially using ": null
     },
     {
         "autoregressive": "Autoregressive"
@@ -486,7 +486,7 @@
         "Cryptosystems": "Cryptosystem"
     },
     {
-        "often compress data before encryption for added security. When properly implemented, compression greatly increases the ": null
+        " often compress data before encryption for added security. When properly implemented, compression greatly increases the ": null
     },
     {
         "unicity distance": "Unicity Distance"
@@ -531,10 +531,10 @@
         ".       Lossless compression algorithms and their implementations are routinely tested in head-to-head ": null
     },
     {
-        "benchmark": "Benchmark"
+        "benchmarks": "Benchmark"
     },
     {
-        "s. There are a number of better-known compression benchmarks. Some benchmarks cover only the ": null
+        ". There are a number of better-known compression benchmarks. Some benchmarks cover only the ": null
     },
     {
         "data compression ratio": "Data Compression Ratio"

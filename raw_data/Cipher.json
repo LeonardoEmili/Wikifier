@@ -87,10 +87,10 @@
         " which was used to shorten long telegraph messages which resulted from entering into commercial contracts using exchanges of ": null
     },
     {
-        "Telegram": "Telegram"
+        "Telegrams": "Telegram"
     },
     {
-        "s.     Another example is given by whole word ciphers, which allow the user to replace an entire word with a symbol or character, much like the way Japanese utilize Kanji characters to supplement their language. ex The quick brown fox jumps over the lazy dog becomes The quick brown 狐 jumps 过 the lazy 狗 .     Ciphers, on the other hand, work at a lower level: the level of individual letters, small groups of letters, or, in modern schemes, individual bits and blocks of bits. Some systems used both codes and ciphers in one system, using ": null
+        ".     Another example is given by whole word ciphers, which allow the user to replace an entire word with a symbol or character, much like the way Japanese utilize Kanji characters to supplement their language. ex The quick brown fox jumps over the lazy dog becomes The quick brown 狐 jumps 过 the lazy 狗 .     Ciphers, on the other hand, work at a lower level: the level of individual letters, small groups of letters, or, in modern schemes, individual bits and blocks of bits. Some systems used both codes and ciphers in one system, using ": null
     },
     {
         "superencipherment": "Superencipherment"
@@ -117,10 +117,10 @@
         " are substantially different from modern methods, and modern ciphers can be classified according to how they operate and whether they use one or two keys.       Historical pen and paper ciphers used in the past are sometimes known as ": null
     },
     {
-        "classical cipher": "Classical Cipher"
+        "classical ciphers": "Classical Cipher"
     },
     {
-        "s. They include simple ": null
+        ". They include simple ": null
     },
     {
         "substitution ciphers": "Substitution Cipher"
@@ -153,10 +153,10 @@
         " apply.     During the early twentieth century, electro-mechanical machines were invented to do encryption and decryption using transposition, polyalphabetic substitution, and a kind of additive substitution. In ": null
     },
     {
-        "rotor machine": "Rotor Machine"
+        "rotor machines": "Rotor Machine"
     },
     {
-        "s, several rotor disks provided polyalphabetic substitution, while plug boards provided another substitution. Keys were easily changed by changing the rotor disks and the plugboard wires. Although these encryption methods were more complex than previous schemes and required machines to encrypt and decrypt, other machines such as the British ": null
+        ", several rotor disks provided polyalphabetic substitution, while plug boards provided another substitution. Keys were easily changed by changing the rotor disks and the plugboard wires. Although these encryption methods were more complex than previous schemes and required machines to encrypt and decrypt, other machines such as the British ": null
     },
     {
         "Bombe": "Bombe"
@@ -183,16 +183,16 @@
         " uses a combination of substitution and transposition techniques. Most block cipher algorithms are based on this structure. In an asymmetric key algorithm , there are two separate keys: a public key is published and enables any sender to perform encryption, while a private key is kept secret by the receiver and enables only him to perform correct decryption.     Ciphers can be distinguished into two types by the type of input data:   ": null
     },
     {
-        "block cipher": "Block Cipher"
+        "block ciphers": "Block Cipher"
     },
     {
-        "s, which encrypt block of data of fixed size, and   ": null
+        ", which encrypt block of data of fixed size, and   ": null
     },
     {
-        "stream cipher": "Stream Cipher"
+        "stream ciphers": "Stream Cipher"
     },
     {
-        "s, which encrypt continuous streams of data.       In a pure mathematical attack, two factors above all count:     Computational power available, i.e., the computing power which can be brought to bear on the problem. It is important to note that average performance/capacity of a single computer is not the only factor to consider. An adversary can use multiple computers at once, for instance, to increase the speed of ": null
+        ", which encrypt continuous streams of data.       In a pure mathematical attack, two factors above all count:     Computational power available, i.e., the computing power which can be brought to bear on the problem. It is important to note that average performance/capacity of a single computer is not the only factor to consider. An adversary can use multiple computers at once, for instance, to increase the speed of ": null
     },
     {
         "exhaustive search": "Exhaustive Search"
@@ -219,10 +219,10 @@
         " and desired difficulty level, thus decide the key length accordingly.     An example of this process can be found at  which uses multiple reports to suggest that a symmetric cipher with 128 ": null
     },
     {
-        "bit": "Binary Digit"
+        "bits": "Binary Digit"
     },
     {
-        "s, an asymmetric cipher with 3072 bit keys, and an ": null
+        ", an asymmetric cipher with 3072 bit keys, and an ": null
     },
     {
         "elliptic curve cipher": "Elliptic Curve Cryptography"

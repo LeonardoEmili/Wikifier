@@ -36,16 +36,16 @@
         ".     Lie algebras are closely related to ": null
     },
     {
-        "Lie group": "Lie Group"
+        "Lie groups": "Lie Group"
     },
     {
-        "s, which are ": null
+        ", which are ": null
     },
     {
         "groups": "Group"
     },
     {
-        "that are also ": null
+        " that are also ": null
     },
     {
         "smooth manifolds": "Smooth Manifolds"
@@ -90,7 +90,7 @@
         "infinitesimal transformations": "Infinitesimal Transformation"
     },
     {
-        "by ": null
+        " by ": null
     },
     {
         "Marius Sophus Lie": "Sophus Lie"
@@ -222,7 +222,7 @@
         "algebras": "Associative Algebra"
     },
     {
-        "is commonly applied to Lie algebras. A Lie subalgebra is a subspace       which is closed under the Lie bracket. An ideal   i  is a subalgebra satisfying the stronger condition: Due to the anticommutativity of the commutator, the notions of a left and right ideal in a Lie algebra coincide.     : subseteq   i.     A Lie algebra homomorphism is a linear map compatible with the respective Lie brackets:     :               x,y     g.     As for associative rings, ideals are precisely the kernels of homomorphisms; given a Lie algebra   and an ideal   i in it, one constructs the factor algebra or quotient algebra   i , and the ": null
+        " is commonly applied to Lie algebras. A Lie subalgebra is a subspace       which is closed under the Lie bracket. An ideal   i  is a subalgebra satisfying the stronger condition: Due to the anticommutativity of the commutator, the notions of a left and right ideal in a Lie algebra coincide.     : subseteq   i.     A Lie algebra homomorphism is a linear map compatible with the respective Lie brackets:     :               x,y     g.     As for associative rings, ideals are precisely the kernels of homomorphisms; given a Lie algebra   and an ideal   i in it, one constructs the factor algebra or quotient algebra   i , and the ": null
     },
     {
         "first isomorphism theorem": "First Isomorphism Theorem"
@@ -336,7 +336,7 @@
         "endomorphisms": "Endomorphism"
     },
     {
-        "of an F-vector space E with the above Lie bracket is denoted   .   For a finite dimensional vector space E Fn , the previous example becomes the Lie algebra of n × n matrices, denoted   or   ,  with the bracket   Y-Y  X , where   denotes matrix multiplication. This is the Lie algebra of the ": null
+        " of an F-vector space E with the above Lie bracket is denoted   .   For a finite dimensional vector space E Fn , the previous example becomes the Lie algebra of n × n matrices, denoted   or   ,  with the bracket   Y-Y  X , where   denotes matrix multiplication. This is the Lie algebra of the ": null
     },
     {
         "general linear group": "General Linear Group"
@@ -426,7 +426,7 @@
         "matrix exponentials": "Matrix Exponential"
     },
     {
-        "of these Lie algebra generators,   ::   e e e~.       The Lie algebra   of the group SO is spanned by the three matrices  Example 3.27   ::   F1     F2     F3       :The commutation relations among these generators are   :: F3,   :: F1,   :: F2.   ::   :The three-dimensional ": null
+        " of these Lie algebra generators,   ::   e e e~.       The Lie algebra   of the group SO is spanned by the three matrices  Example 3.27   ::   F1     F2     F3       :The commutation relations among these generators are   :: F3,   :: F1,   :: F2.   ::   :The three-dimensional ": null
     },
     {
         "Euclidean space": "Euclidean Space"
@@ -468,7 +468,7 @@
         "vector fields": "Vector Field"
     },
     {
-        "on a ": null
+        " on a ": null
     },
     {
         "differentiable manifold": "Differentiable Manifold"
@@ -483,10 +483,10 @@
         ". One way of expressing the Lie bracket is through the formalism of ": null
     },
     {
-        "Lie derivative": "Lie Derivative"
+        "Lie derivatives": "Lie Derivative"
     },
     {
-        "s, which identifies a vector field X with a first order partial differential operator L X acting on smooth functions by letting L X  be the directional derivative of the function f in the direction of X. The Lie bracket X,Y of two vector fields is the vector field defined through its action on functions by the formula:   \t   :: LfLX-LY.      ": null
+        ", which identifies a vector field X with a first order partial differential operator L X acting on smooth functions by letting L X  be the directional derivative of the function f in the direction of X. The Lie bracket X,Y of two vector fields is the vector field defined through its action on functions by the formula:   \t   :: LfLX-LY.      ": null
     },
     {
         "Kac–Moody algebras": "Kac–Moody Algebra"
@@ -504,7 +504,7 @@
         "classical Lie algebras": "Classical Lie Groupsrelationship With Bilinear Forms"
     },
     {
-        "as subalgebras.   The ": null
+        " as subalgebras.   The ": null
     },
     {
         "Virasoro algebra": "Virasoro Algebra"
@@ -522,7 +522,7 @@
         "endomorphisms": "Endomorphism"
     },
     {
-        "of V, with bracket given by Y-YX . A representation of a Lie algebra   on V is a Lie algebra homomorphism   :     g         A representation is said to be faithful if its kernel is zero. ": null
+        " of V, with bracket given by Y-YX . A representation of a Lie algebra   on V is a Lie algebra homomorphism   :     g         A representation is said to be faithful if its kernel is zero. ": null
     },
     {
         "Ados theorem": "Ados Theorem"
@@ -549,10 +549,10 @@
         ".       The representation theory of Lie algebras plays an important role in various parts of theoretical physics. There, one considers operators on the space of states that satisfy certain natural commutation relations. These commutation relations typically come from a symmetry of the problem—specifically, they are the relations of the Lie algebra of the relevant symmetry group. An example would be the ": null
     },
     {
-        "angular momentum operator": "Angular Momentum Operator"
+        "angular momentum operators": "Angular Momentum Operator"
     },
     {
-        "s, whose commutation relations are those of the Lie algebra   of the ": null
+        ", whose commutation relations are those of the Lie algebra   of the ": null
     },
     {
         "rotation group SO": "Rotation Group So"

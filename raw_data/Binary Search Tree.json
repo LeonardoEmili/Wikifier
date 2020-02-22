@@ -33,7 +33,7 @@
         "lookup tables": "Lookup Table"
     },
     {
-        "that allow finding an item by its key .     Binary search trees keep their keys in sorted order, so that lookup and other operations can use the principle of ": null
+        " that allow finding an item by its key .     Binary search trees keep their keys in sorted order, so that lookup and other operations can use the principle of ": null
     },
     {
         "binary search": "Binary Search"
@@ -57,10 +57,10 @@
         " required to find items by key in an array, but slower than the corresponding operations on ": null
     },
     {
-        "hash table": "Hash Table"
+        "hash tables": "Hash Table"
     },
     {
-        "s.     Several variants of the binary search tree have been studied in computer science; this article deals primarily with the basic type, making references to more advanced types when appropriate.       A binary search tree is a ": null
+        ".     Several variants of the binary search tree have been studied in computer science; this article deals primarily with the basic type, making references to more advanced types when appropriate.       A binary search tree is a ": null
     },
     {
         "rooted": "Rooted Tree"
@@ -81,13 +81,13 @@
         "sorting algorithms": "Sorting Algorithm"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "search algorithms": "Search Algorithm"
     },
     {
-        "such as ": null
+        " such as ": null
     },
     {
         "in-order traversal": "In-Order Traversal"
@@ -108,10 +108,10 @@
         ", and ": null
     },
     {
-        "associative array": "Associative Array"
+        "associative arrays": "Associative Array"
     },
     {
-        "s.   When inserting or searching for an element in a binary search tree, the key of each visited node has to be compared with the key of the element to be inserted or found.   The shape of the binary search tree depends entirely on the order of insertions and deletions, and can become degenerate.   After a long intermixed sequence of random insertion and deletion, the expected height of the tree approaches square root of the number of keys, , which grows much faster than .   There has been a lot of research to prevent degeneration of the tree resulting in worst case time complexity of  .       Binary search requires an order relation by which every element can be compared with every other element in the sense of a ": null
+        ".   When inserting or searching for an element in a binary search tree, the key of each visited node has to be compared with the key of the element to be inserted or found.   The shape of the binary search tree depends entirely on the order of insertions and deletions, and can become degenerate.   After a long intermixed sequence of random insertion and deletion, the expected height of the tree approaches square root of the number of keys, , which grows much faster than .   There has been a lot of research to prevent degeneration of the tree resulting in worst case time complexity of  .       Binary search requires an order relation by which every element can be compared with every other element in the sense of a ": null
     },
     {
         "total preorder": "Total Preorder"

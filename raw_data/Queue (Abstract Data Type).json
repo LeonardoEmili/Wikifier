@@ -36,13 +36,13 @@
         "circular buffers": "Circular Buffer"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
-        "linked list": "Linked List"
+        "linked lists": "Linked List"
     },
     {
-        "s.     Queues provide services in ": null
+        ".     Queues provide services in ": null
     },
     {
         "computer science": "Computer Science"
@@ -78,13 +78,13 @@
         "pointers": "Pointer"
     },
     {
-        "can implement or come with libraries for dynamic lists. Such ": null
+        " can implement or come with libraries for dynamic lists. Such ": null
     },
     {
         "data structures": "Data Structure"
     },
     {
-        "may have not specified fixed capacity limit besides memory constraints. Queue overflow results from trying to add an element onto a full queue and queue underflow happens when trying to remove an element from an empty queue.     A bounded queue is a queue limited to a fixed number of items.      There are several efficient implementations of FIFO queues. An efficient implementation is one that can perform the operations—enqueuing and dequeuing—in ": null
+        " may have not specified fixed capacity limit besides memory constraints. Queue overflow results from trying to add an element onto a full queue and queue underflow happens when trying to remove an element from an empty queue.     A bounded queue is a queue limited to a fixed number of items.      There are several efficient implementations of FIFO queues. An efficient implementation is one that can perform the operations—enqueuing and dequeuing—in ": null
     },
     {
         "O time": "Big O Notation"

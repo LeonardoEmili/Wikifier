@@ -29,7 +29,7 @@ class TextList(list):
             return
         # Remove hidden and newline characters from the string
         re_hidden_char = re.compile(r'& *nbsp;|& *(m|n)dash;|\\[^ ]*|\n|(http|www)[^]*|[A-Z][A-Z]+( |$)| +')
-        item = re.sub(re_hidden_char, ' ', item)
+        item = re.sub(re_hidden_char, " ", item)
 
         # Change any number to a constant value
         # CHECK: The 1903 World Series -> The 42 World Series
@@ -38,16 +38,16 @@ class TextList(list):
 
         # The flag below checks wheter to insert the current element as a separated element.
         new_element = value is not None or (
-            list(self[-1].values())[0] is not None) if len(self) > 0 else value is not None
+            next(iter(self[-1].values())) is not None) if len(self) > 0 else value is not None
 
         value = value.strip().title() if value is not None else value
         if len(self) > 0:
             # Override the last element if it's empty
-            if new_element and list(self[-1].keys())[0].strip():
+            if new_element and next(iter(self[-1].keys())).strip():
                 # Add a new entry for the given pair (item: : value)
                 super(TextList, self).append({item: value})
             else:
-                old_key = list(self[len(self)-1].keys())[0]
+                old_key = next(iter(self[-1].keys()))
                 # Merge the old text with the value of 'item'
                 self[len(self)-1] = {old_key + item: value}
         else:
@@ -123,7 +123,7 @@ def generate_occurence_map():
     for page in pages:
         with open("../raw_data/{}".format(page)) as current_page:
             dict_list = json.load(current_page)
-            links = [list(x.values())[0] for x in dict_list if list(x.values())[0] is not None]
+            links = [next(iter(x.values()))  for x in dict_list if next(iter(x.values())) is not None]
             for link in links:
                 if link in occurence_map:
                     occurence_map[link] += 1
@@ -210,12 +210,9 @@ def parse_page(handler, page_index, path, node_dict):
 
     # This will read at maximum the first 40 lines of each page to check if it is about a redirect page.
     short_summary = "".join(
-        map(lambda x: str(x), wiki.nodes[:min(40, len(wiki.nodes))])).lower()
+        map(str, wiki.nodes[:min(40, len(wiki.nodes))])).lower()
     if "#redirect" in short_summary or "disambiguation" in short_summary or "/ref" in short_summary or "may refer to:" in short_summary:
         return
-
-    if page_title == "Spring":
-        print(wiki.nodes)
 
     for line in wiki.nodes:
 
@@ -229,7 +226,7 @@ def parse_page(handler, page_index, path, node_dict):
         is_colon_line = line.startswith(":")
         if (is_colon_line):
             line_type = SKIP_NODE
-
+            
         text_content = parse_line(
             line, text_content, new_element, tag_detected, parentheses_detected, line_type)
 
@@ -253,19 +250,18 @@ def parse_line(line, text_content, new_element, tag_detected, parentheses_detect
         # Get the 'buffered' version of the current line and update flags.
         buffer, tag_detected, parentheses_detected = get_text_from(
             line, tag_detected, parentheses_detected)
-        previous_was_link = len(text_content) > 0 and list(
-            text_content[-1].values())[0] != None
+        previous_was_link = len(text_content) > 0 and next(iter(text_content[-1].values())) is not None
         if previous_was_link:
             leading_sentence = buffer.lstrip()
             is_a_plural_form = len(leading_sentence) > 0 and leading_sentence[0] in "se" and (len(
-                leading_sentence) == 1 or (not len(leading_sentence) >= 2 or leading_sentence[1] == ' '))
+                leading_sentence) == 1 or (not len(leading_sentence) > 1 or not leading_sentence[1].isalpha()))
             if is_a_plural_form:
-                link_key, link_value = list(text_content[-1].items())[0]
+                link_key, link_value = next(iter(text_content[-1].items()))
                 del text_content[-1][link_key]
                 suffix_char = leading_sentence[0]
                 text_content[-1][link_key.strip() + suffix_char] = link_value
-                buffer = leading_sentence[2:] if len(
-                    leading_sentence) >= 3 else ' '
+                buffer = leading_sentence[1:] if len(
+                    leading_sentence) >= 2 else ' '
 
         # Create a new item in the list representing a node of plain text.
         text_content.append(buffer, None, new_element)

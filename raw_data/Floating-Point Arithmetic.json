@@ -12,7 +12,7 @@
         "real numbers": "Real Number"
     },
     {
-        "as an approximation to support a ": null
+        " as an approximation to support a ": null
     },
     {
         "trade-off": "Trade-Off"
@@ -147,7 +147,7 @@
         "Jupiters": "Jupiter"
     },
     {
-        "moon ": null
+        " moon ": null
     },
     {
         "Io": "Io"
@@ -192,16 +192,16 @@
         ".       The way in which the significand and exponent are stored in a computer is implementation-dependent. The common IEEE formats are described in detail later and elsewhere, but as an example, in the binary single-precision floating-point representation, p 24 , and so the significand is a string of 24 ": null
     },
     {
-        "bit": "Bit"
+        "bits": "Bit"
     },
     {
-        "s. For instance, the number ": null
+        ". For instance, the number ": null
     },
     {
         "πs": "Pi"
     },
     {
-        "first 33 bits are:   : 11001001  00001111  1101101  10100010  0.     In this binary expansion, let us denote the positions from 0 to 32 . The 24-bit significand will stop at position  23, shown as the underlined bit  above. The next bit, at position  24, is called the round bit or rounding bit. It is used to round the 33-bit approximation to the nearest 24-bit number . This bit, which is  in this example, is added to the integer formed by the leftmost 24 bits, yielding:   : 11001001  00001111  1101101      When this is stored in memory using the IEEE 754 encoding, this becomes the ": null
+        " first 33 bits are:   : 11001001  00001111  1101101  10100010  0.     In this binary expansion, let us denote the positions from 0 to 32 . The 24-bit significand will stop at position  23, shown as the underlined bit  above. The next bit, at position  24, is called the round bit or rounding bit. It is used to round the 33-bit approximation to the nearest 24-bit number . This bit, which is  in this example, is added to the integer formed by the leftmost 24 bits, yielding:   : 11001001  00001111  1101101      When this is stored in memory using the IEEE 754 encoding, this becomes the ": null
     },
     {
         "significand": "Significand"
@@ -285,7 +285,7 @@
         "Computer algebra systems": "Computer Algebra System"
     },
     {
-        "such as ": null
+        " such as ": null
     },
     {
         "Mathematica": "Mathematica"
@@ -573,10 +573,10 @@
         "/C11 and Fortran": null
     },
     {
-        "mputer scien": "Mputer Scien"
+        "mputer sciene": "Mputer Scien"
     },
     {
-        "e.g. ": null
+        ".g. ": null
     },
     {
         "C11": "C11"

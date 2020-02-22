@@ -39,10 +39,10 @@
         ", it encodes only time of day, repeating each 24 hours. Time is given in units of hours, minutes, seconds, and ": null
     },
     {
-        "frame": "Film Frame"
+        "frames": "Film Frame"
     },
     {
-        "s. There may be 24, 25, or 30 frames per second.     Unlike most other timecodes, the components are encoded in straight binary, not ": null
+        ". There may be 24, 25, or 30 frames per second.     Unlike most other timecodes, the components are encoded in straight binary, not ": null
     },
     {
         "binary-coded decimal": "Binary-Coded Decimal"

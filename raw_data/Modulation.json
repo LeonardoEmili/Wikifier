@@ -9,10 +9,10 @@
         " and ": null
     },
     {
-        "telecommunication": "Telecommunication"
+        "telecommunications": "Telecommunication"
     },
     {
-        "s, modulation is the process of varying one or more properties of a periodic ": null
+        ", modulation is the process of varying one or more properties of a periodic ": null
     },
     {
         "waveform": "Waveform"
@@ -249,10 +249,10 @@
         "binary": "Binary Numeral System"
     },
     {
-        " bit": "Bit"
+        "bits": "Bit"
     },
     {
-        "s. Usually, each phase, frequency or amplitude encodes an equal number of bits. This number of bits comprises the symbol that is represented by the particular phase, frequency or amplitude.     If the alphabet consists of M 2N alternative symbols, each symbol represents a message consisting of N bits. If the ": null
+        ". Usually, each phase, frequency or amplitude encodes an equal number of bits. This number of bits comprises the symbol that is represented by the particular phase, frequency or amplitude.     If the alphabet consists of M 2N alternative symbols, each symbol represents a message consisting of N bits. If the ": null
     },
     {
         "symbol rate": "Symbol Rate"
@@ -534,7 +534,7 @@
         "spreading codes": "Spreading Code"
     },
     {
-        "to different users.     Of the two kinds of ": null
+        " to different users.     Of the two kinds of ": null
     },
     {
         "RF power amplifier": "Rf Power Amplifier"
@@ -552,7 +552,7 @@
         "linear amplifiers": "Linear Amplifier"
     },
     {
-        "of the same output power. However, they only work with relatively constant-amplitude-modulation signals such as angle modulation and ": null
+        " of the same output power. However, they only work with relatively constant-amplitude-modulation signals such as angle modulation and ": null
     },
     {
         "CDMA": "Code Division Multiple Access"
@@ -579,10 +579,10 @@
         ". Usually in such systems, there are some extra information for system configuration, but considering blind approaches in intelligent receivers, we can reduce information overload and increase transmission performance.  Obviously, with no knowledge of the transmitted data and many unknown parameters at the receiver, such as the signal power, carrier frequency and phase offsets, timing information, etc., blind identification of the modulation is made fairly difficult. This becomes even more challenging in real-world scenarios with multipath fading, frequency-selective and time-varying channels.        There are two main approaches to automatic modulation recognition. The first approach uses likelihood-based methods to assign an input signal to a proper class. Another recent approach is based on feature extraction.            The term digital baseband modulation is synonymous to ": null
     },
     {
-        "line code": "Line Code"
+        "line codes": "Line Code"
     },
     {
-        "s. These are methods to transfer a digital bit stream over an analog ": null
+        ". These are methods to transfer a digital bit stream over an analog ": null
     },
     {
         "baseband": "Baseband"

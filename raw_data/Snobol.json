@@ -9,7 +9,7 @@
         "programming languages": "Programming Language"
     },
     {
-        "developed between 1962 and 1967 at ": null
+        " developed between 1962 and 1967 at ": null
     },
     {
         "AT & T": "At & T Corporation"
@@ -66,7 +66,7 @@
         "object-oriented languages": "Object-Oriented Language"
     },
     {
-        "such as ": null
+        " such as ": null
     },
     {
         "JavaScript": "Javascript"
@@ -102,7 +102,7 @@
         "regular expressions": "Regular Expression"
     },
     {
-        "fashionable. SNOBOL4 patterns subsume ": null
+        " fashionable. SNOBOL4 patterns subsume ": null
     },
     {
         "BNF": "Backus–Naur Form"
@@ -114,7 +114,7 @@
         "context-free grammars": "Context-Free Grammar"
     },
     {
-        "and more powerful than regular expressions. Gimpel, J. F. 1973. A theory of discrete patterns and their implementation in SNOBOL4. Commun. ACM 16, 2 , 91-100. DOI   The regular expressions in current versions of AWK and Perl are in fact extensions of regular expressions in the ": null
+        " and more powerful than regular expressions. Gimpel, J. F. 1973. A theory of discrete patterns and their implementation in SNOBOL4. Commun. ACM 16, 2 , 91-100. DOI   The regular expressions in current versions of AWK and Perl are in fact extensions of regular expressions in the ": null
     },
     {
         "traditional sense": "Regular Language"
@@ -147,22 +147,22 @@
         " to allow improved portability across computers. See Chapter 1 of The Macro Implementation of SNOBOL4 The SNOBOL4 language translator was still written in assembly language. However the macro features of the assembler were used to define the virtual machine instructions of the SNOBOL Implementation Language, the SIL. This very much improved the portability of the language by making it relatively easy to port the virtual machine which hosted the translator by recreating its virtual instructions on any machine which included a macro assembler or indeed a high level language. SNOBOL4 has been implemented using C to recreate the virtual machine instructions.         SNOBOL4 supports a number of built-in ": null
     },
     {
-        "data type": "Data Type"
+        "data types": "Data Type"
     },
     {
-        "s, such as ": null
+        ", such as ": null
     },
     {
         "integers": "Integer"
     },
     {
-        "and limited precision ": null
+        " and limited precision ": null
     },
     {
-        "real number": "Real Number"
+        "real numbers": "Real Number"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "strings": "String"
@@ -171,28 +171,28 @@
         ", ": null
     },
     {
-        "pattern": "Pattern Matching"
+        "patterns": "Pattern Matching"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "array": "Array Data Type"
+        "arrays": "Array Data Type"
     },
     {
-        "s, and ": null
+        ", and ": null
     },
     {
         "tables": "Associative Array"
     },
     {
-        ", and also allows the programmer to define additional data types and new ": null
+        " , and also allows the programmer to define additional data types and new ": null
     },
     {
-        "function": "Function"
+        "functions": "Function"
     },
     {
-        "s. SNOBOL4s programmer-defined data type facility was advanced at the time  it is similar to the records of the earlier ": null
+        ". SNOBOL4s programmer-defined data type facility was advanced at the time  it is similar to the records of the earlier ": null
     },
     {
         "COBOL": "Cobol"
@@ -225,10 +225,10 @@
         ", which provides pattern-like constructs via ": null
     },
     {
-        "DCG": "Definite Clause Grammar"
+        "DCGs": "Definite Clause Grammar"
     },
     {
-        "s. This algorithm makes it easier to use SNOBOL as a logic programming language than is the case for most languages.     SNOBOL stores variables, strings and data structures in a single ": null
+        ". This algorithm makes it easier to use SNOBOL as a logic programming language than is the case for most languages.     SNOBOL stores variables, strings and data structures in a single ": null
     },
     {
         "garbage-collected": "Garbage Collection"
@@ -267,16 +267,16 @@
         "; it has been used to study ": null
     },
     {
-        "compiler": "Compiler"
+        "compilers": "Compiler"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "formal grammar": "Formal Grammar"
+        "formal grammars": "Formal Grammar"
     },
     {
-        "s, and ": null
+        ", and ": null
     },
     {
         "artificial intelligence": "Artificial Intelligence"
@@ -291,10 +291,10 @@
         " and machine comprehension of ": null
     },
     {
-        "natural language": "Natural Language"
+        "natural languages": "Natural Language"
     },
     {
-        "s. The original implementation was on an IBM 7090 at Bell Labs, Holmdel, N.J. SNOBOL4 was specifically designed for portability; the first implementation was started on an IBM 7094 in 1966 but completed on an IBM 360 in 1967. It was rapidly ported to many other platforms.     It is normally implemented as an ": null
+        ". The original implementation was on an IBM 7090 at Bell Labs, Holmdel, N.J. SNOBOL4 was specifically designed for portability; the first implementation was started on an IBM 7094 in 1966 but completed on an IBM 360 in 1967. It was rapidly ported to many other platforms.     It is normally implemented as an ": null
     },
     {
         "interpreter": "Interpreter"
@@ -375,6 +375,6 @@
         "backronyms": "Backronym"
     },
     {
-        "of SNOBOL are String Oriented Symbolic Language Computers and the humanities 1 StriNg Oriented symBOlic Language. Jack Belzer et al., eds., Encyclopedia of Computer Science and Technology, CRC Press, 1979, . 13": null
+        " of SNOBOL are String Oriented Symbolic Language Computers and the humanities 1 StriNg Oriented symBOlic Language. Jack Belzer et al., eds., Encyclopedia of Computer Science and Technology, CRC Press, 1979, . 13": null
     }
 ]

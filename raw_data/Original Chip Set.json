@@ -87,10 +87,10 @@
         " Lisa was implemented in 1.5  µm process. All three custom chips were originally packaged in 48-pin ": null
     },
     {
-        "DIP": "Dual In-Line Package"
+        "DIPs": "Dual In-Line Package"
     },
     {
-        "s; later versions of Agnus, known as Fat Agnus, were packaged in an 84-pin ": null
+        "; later versions of Agnus, known as Fat Agnus, were packaged in an 84-pin ": null
     },
     {
         "PLCC": "Plastic Leaded Chip Carrier"
@@ -126,7 +126,7 @@
         "pixels": "Pixel"
     },
     {
-        "wide by 200  or 256  pixels tall. Denise also supports ": null
+        " wide by 200  or 256  pixels tall. Denise also supports ": null
     },
     {
         "interlacing": "Interlacing"
@@ -213,10 +213,10 @@
         ", and ": null
     },
     {
-        "analog joystick": "Analog Joystick"
+        "analog joysticks": "Analog Joystick"
     },
     {
-        "s.     There are many similarities both in overall functionality and in the division of functionality into the three component chips between the OCS chipset and the much earlier and simpler chipset of the ": null
+        ".     There are many similarities both in overall functionality and in the division of functionality into the three component chips between the OCS chipset and the much earlier and simpler chipset of the ": null
     },
     {
         "Atari 8-bit family": "Atari 8-Bit Family"
@@ -285,10 +285,10 @@
         ". This is equivalent to two low resolution pixels or four high resolution pixels. Like Denise, these timings were designed for display on household ": null
     },
     {
-        "TV": "Television"
+        "TVs": "Television"
     },
     {
-        "s, and can be synchronized to an external clock source.       The  blitter  is a sub-component of Agnus. Blit is shorthand for block image transfer or ": null
+        ", and can be synchronized to an external clock source.       The  blitter  is a sub-component of Agnus. Blit is shorthand for block image transfer or ": null
     },
     {
         "bit blit": "Bit Blit"
@@ -333,10 +333,10 @@
         ". The Copper runs in sync with the video beam, and it can be used to perform various operations which require video synchronization. Most commonly it is used to control video output, but it can write to most of the chipset registers and thus can be used to initiate blits, set audio registers, or interrupt the CPU.     The Copper list has three kinds of instructions, each one being a pair of two bytes, four bytes in total:     The MOVE instruction writes a 16-bit value into one of the chipsets hardware registers and is also used to strobe a new address into the Coppers instruction pointer.   The WAIT instruction halts Copper execution until a given beam position is reached, thus making possible to synchronize other instructions with respect to screen drawing. It can also wait for a blitter operation to finish.   The SKIP instruction will skip the following Copper instruction if a given beam position has already been reached. This can be used to create Copper list loops.     The length of the Copper list program is limited by execution time. The Copper restarts executing the Copper list at the start of each new video frame. There is no explicit end instruction; instead, the WAIT instruction is used to wait for a location which is never reached.       The Copper is most commonly used to set and reset the video hardware registers at the beginning of each frame.   It can be used to change video settings mid-frame. This allows the Amiga to change video configuration, including resolution, between ": null
     },
     {
-        "scanline": "Scanline"
+        "scanlines": "Scanline"
     },
     {
-        "s. This allows the Amiga to display different horizontal resolutions, different color depths, and entirely different frame buffers on the same screen. The ": null
+        ". This allows the Amiga to display different horizontal resolutions, different color depths, and entirely different frame buffers on the same screen. The ": null
     },
     {
         "AmigaOS": "Amigaos"

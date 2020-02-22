@@ -129,16 +129,16 @@
         " of the parts of the boundary within each of the planes that cover it, and the edges and vertices as the line segments and points where the faces meet. However, the polyhedra defined in this way do not include the self-crossing star polyhedra, their faces may not form ": null
     },
     {
-        "simple polygon": "Simple Polygon"
+        "simple polygons": "Simple Polygon"
     },
     {
-        "s, and some edges may belong to more than two faces. .   Definitions based on the idea of a bounding surface rather than a solid are also common. Cromwell , pp.  206–209. For instance,  defines a polyhedron as a union of ": null
+        ", and some edges may belong to more than two faces. .   Definitions based on the idea of a bounding surface rather than a solid are also common. Cromwell , pp.  206–209. For instance,  defines a polyhedron as a union of ": null
     },
     {
         "convex polygons": "Convex Polygon"
     },
     {
-        ", arranged in space so that the intersection of any two polygons is a shared vertex or edge or the ": null
+        " , arranged in space so that the intersection of any two polygons is a shared vertex or edge or the ": null
     },
     {
         "empty set": "Empty Set"
@@ -156,7 +156,7 @@
         "dihedral angles": "Dihedral Angle"
     },
     {
-        "between them. Somewhat more generally, Grünbaum defines an acoptic polyhedron to be a collection of simple polygons that form an embedded manifold, with each vertex incident to at least three edges and each two faces intersecting only in shared vertices and edges of each. . Cromwell gives a similar definition but without the restriction of three edges per vertex. Again, this type of definition does not encompass the self-crossing polyhedra. , p.  209. Similar notions form the basis of topological definitions of polyhedra, as subdivisions of a topological manifold into ": null
+        " between them. Somewhat more generally, Grünbaum defines an acoptic polyhedron to be a collection of simple polygons that form an embedded manifold, with each vertex incident to at least three edges and each two faces intersecting only in shared vertices and edges of each. . Cromwell gives a similar definition but without the restriction of three edges per vertex. Again, this type of definition does not encompass the self-crossing polyhedra. , p.  209. Similar notions form the basis of topological definitions of polyhedra, as subdivisions of a topological manifold into ": null
     },
     {
         "topological disks": "Disk"
@@ -174,7 +174,7 @@
         "partially ordered sets": "Partially Ordered Set"
     },
     {
-        "whose elements are the vertices, edges, and faces of a polyhedron. A vertex or edge element is less than an edge or face element when the vertex or edge is part of the edge or face. Additionally, one may include a special bottom element of this partial order and a top element representing the whole polyhedron. If the sections of the partial order between elements three levels apart have the same structure as the abstract representation of a polygon, then these partially ordered sets carry exactly the same information as a topological polyhedron. However, these requirements are often relaxed, to instead require only that sections between elements two levels apart have the same structure as the abstract representation of a line segment. . Geometric polyhedra, defined in other ways, can be described abstractly in this way, but it is also possible to use abstract polyhedra as the basis of a definition of geometric polyhedra. A realization of an abstract polyhedron is generally taken to be a mapping from the vertices of the abstract polyhedron to geometric points, such that the points of each face are coplanar. A geometric polyhedron can then be defined as a realization of an abstract polyhedron. , pp.  468–469. Realizations that forgo the requirement of planarity, that impose additional requirements of symmetry, or that map the vertices to higher dimensional spaces have also been considered. Unlike the solid-based and surface-based definitions, this works perfectly well for star polyhedra. However, without additional restrictions, this definition allows ": null
+        " whose elements are the vertices, edges, and faces of a polyhedron. A vertex or edge element is less than an edge or face element when the vertex or edge is part of the edge or face. Additionally, one may include a special bottom element of this partial order and a top element representing the whole polyhedron. If the sections of the partial order between elements three levels apart have the same structure as the abstract representation of a polygon, then these partially ordered sets carry exactly the same information as a topological polyhedron. However, these requirements are often relaxed, to instead require only that sections between elements two levels apart have the same structure as the abstract representation of a line segment. . Geometric polyhedra, defined in other ways, can be described abstractly in this way, but it is also possible to use abstract polyhedra as the basis of a definition of geometric polyhedra. A realization of an abstract polyhedron is generally taken to be a mapping from the vertices of the abstract polyhedron to geometric points, such that the points of each face are coplanar. A geometric polyhedron can then be defined as a realization of an abstract polyhedron. , pp.  468–469. Realizations that forgo the requirement of planarity, that impose additional requirements of symmetry, or that map the vertices to higher dimensional spaces have also been considered. Unlike the solid-based and surface-based definitions, this works perfectly well for star polyhedra. However, without additional restrictions, this definition allows ": null
     },
     {
         "degenerate": "Degeneracy"

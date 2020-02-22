@@ -36,7 +36,7 @@
         "topological groups": "Topological Group"
     },
     {
-        "is often required to be continuous.       The purpose of defining a group homomorphism is to create functions that preserve the algebraic structure. An equivalent definition of group homomorphism is: The function h : G → H is a group homomorphism if whenever     a ∗ b c   we have   h ⋅ h h.     In other words, the group H in some sense has a similar algebraic structure as G and the homomorphism h preserves that.       ;": null
+        " is often required to be continuous.       The purpose of defining a group homomorphism is to create functions that preserve the algebraic structure. An equivalent definition of group homomorphism is: The function h : G → H is a group homomorphism if whenever     a ∗ b c   we have   h ⋅ h h.     In other words, the group H in some sense has a similar algebraic structure as G and the homomorphism h preserves that.       ;": null
     },
     {
         "Monomorphism": "Monomorphism"
@@ -78,7 +78,7 @@
         "automorphisms": "Automorphism"
     },
     {
-        "of a group G, with functional composition as operation, forms itself a group, the automorphism group of G. It is denoted by Aut. As an example, the automorphism group of  contains only two elements, the identity transformation and multiplication with −1; it is isomorphic to Z/2Z.          We define the  kernel of h to be the set of elements in G which are mapped to the identity in H   :           and the  image of h to be   :     h         The kernel and image of a homomorphism can be interpreted as measuring how close it is to being an isomorphism. The ": null
+        " of a group G, with functional composition as operation, forms itself a group, the automorphism group of G. It is denoted by Aut. As an example, the automorphism group of  contains only two elements, the identity transformation and multiplication with −1; it is isomorphic to Z/2Z.          We define the  kernel of h to be the set of elements in G which are mapped to the identity in H   :           and the  image of h to be   :     h         The kernel and image of a homomorphism can be interpreted as measuring how close it is to being an isomorphism. The ": null
     },
     {
         "first isomorphism theorem": "Isomorphism Theorem"

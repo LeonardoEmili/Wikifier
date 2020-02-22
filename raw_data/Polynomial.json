@@ -21,10 +21,10 @@
         "  and ": null
     },
     {
-        "coefficient": "Coefficient"
+        "coefficients": "Coefficient"
     },
     {
-        "s, that involves only the operations of ": null
+        ", that involves only the operations of ": null
     },
     {
         "addition": "Addition"
@@ -54,10 +54,10 @@
         " of variables. An example of a polynomial of a single indeterminate, , is . An example in three variables is .     Polynomials appear in many areas of mathematics and science. For example, they are used to form ": null
     },
     {
-        "polynomial equation": "Polynomial Equation"
+        "polynomial equations": "Polynomial Equation"
     },
     {
-        "s, which encode a wide range of problems, from elementary ": null
+        ", which encode a wide range of problems, from elementary ": null
     },
     {
         "word problems": "Word Problem"
@@ -105,7 +105,7 @@
         "polynomial rings": "Polynomial Ring"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "algebraic varieties": "Algebraic Variety"
@@ -243,10 +243,10 @@
         " and a constant polynomial. This terminology dates from the time when the distinction was not clear between a polynomial and the function that it defines: a constant term and a constant polynomial define ": null
     },
     {
-        "constant function": "Constant Function"
+        "constant functions": "Constant Function"
     },
     {
-        "s. The degree of a constant term and of a nonzero constant polynomial is 0. The degree of the zero polynomial, 0, is generally treated as not defined .      For example:   : -5x2y     is a term. The coefficient is , the indeterminates are  and , the degree of  is two, while the degree of  is one. The degree of the entire term is the sum of the degrees of each indeterminate in it, so in this example the degree is .     Forming a sum of several terms produces a polynomial. For example, the following is a polynomial:   :           It consists of three terms: the first is degree two, the second is degree one, and the third is degree zero.     Polynomials of small degree have been given specific names. A polynomial of degree zero is a constant polynomial or simply a constant. Polynomials of degree one, two or three are respectively linear polynomials, quadratic polynomials and cubic polynomials. For higher degrees the specific names are not commonly used, although quartic polynomial and quintic polynomial are sometimes used. The names for the degrees may be applied to the polynomial or to its terms. For example, in  the term  is a linear term in a quadratic polynomial.     The polynomial 0, which may be considered to have no terms at all, is called the zero polynomial. Unlike other constant polynomials, its degree is not zero. Rather the degree of the zero polynomial is either left explicitly undefined, or defined as negative .  These conventions are useful when defining ": null
+        ". The degree of a constant term and of a nonzero constant polynomial is 0. The degree of the zero polynomial, 0, is generally treated as not defined .      For example:   : -5x2y     is a term. The coefficient is , the indeterminates are  and , the degree of  is two, while the degree of  is one. The degree of the entire term is the sum of the degrees of each indeterminate in it, so in this example the degree is .     Forming a sum of several terms produces a polynomial. For example, the following is a polynomial:   :           It consists of three terms: the first is degree two, the second is degree one, and the third is degree zero.     Polynomials of small degree have been given specific names. A polynomial of degree zero is a constant polynomial or simply a constant. Polynomials of degree one, two or three are respectively linear polynomials, quadratic polynomials and cubic polynomials. For higher degrees the specific names are not commonly used, although quartic polynomial and quintic polynomial are sometimes used. The names for the degrees may be applied to the polynomial or to its terms. For example, in  the term  is a linear term in a quadratic polynomial.     The polynomial 0, which may be considered to have no terms at all, is called the zero polynomial. Unlike other constant polynomials, its degree is not zero. Rather the degree of the zero polynomial is either left explicitly undefined, or defined as negative .  These conventions are useful when defining ": null
     },
     {
         "Euclidean division of polynomials": "Euclidean Division Of Polynomials"
@@ -420,10 +420,10 @@
         ", are important tools for constructing new rings out of known ones. For instance, the ring of complex numbers, which can be constructed from the polynomial ring  over the real numbers by factoring out the ideal of multiples of the polynomial . Another example is the construction of ": null
     },
     {
-        "finite field": "Finite Field"
+        "finite fields": "Finite Field"
     },
     {
-        "s, which proceeds similarly, starting out with the field of integers modulo some ": null
+        ", which proceeds similarly, starting out with the field of integers modulo some ": null
     },
     {
         "prime number": "Prime Number"

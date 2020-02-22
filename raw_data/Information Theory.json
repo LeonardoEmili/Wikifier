@@ -63,10 +63,10 @@
         ", the feasibility of ": null
     },
     {
-        "mobile phone": "Mobile Phone"
+        "mobile phones": "Mobile Phone"
     },
     {
-        "s, the development of the ": null
+        ", the development of the ": null
     },
     {
         "Internet": "Internet"
@@ -81,10 +81,10 @@
         " and of human perception, the understanding of ": null
     },
     {
-        "black hole": "Black Hole"
+        "black holes": "Black Hole"
     },
     {
-        "s, and numerous other fields.     The field is at the intersection of ": null
+        ", and numerous other fields.     The field is at the intersection of ": null
     },
     {
         "mathematics": "Mathematics"
@@ -321,10 +321,10 @@
         ", ": null
     },
     {
-        "error exponent": "Error Exponent"
+        "error exponents": "Error Exponent"
     },
     {
-        "s, and ": null
+        ", and ": null
     },
     {
         "relative entropy": "Relative Entropy"
@@ -363,16 +363,16 @@
         " throughout the world over the past half century or more: ": null
     },
     {
-        "adaptive system": "Adaptive System"
+        "adaptive systems": "Adaptive System"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "anticipatory system": "Anticipatory System"
+        "anticipatory systems": "Anticipatory System"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "artificial intelligence": "Artificial Intelligence"
@@ -381,10 +381,10 @@
         ", ": null
     },
     {
-        "complex system": "Complex System"
+        "complex systems": "Complex System"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "complexity science": "Complexity Science"
@@ -414,7 +414,7 @@
         "systems sciences": "Systems Science"
     },
     {
-        "of many descriptions. Information theory is a broad and deep mathematical theory, with equally broad and deep applications, amongst which is the vital field of ": null
+        " of many descriptions. Information theory is a broad and deep mathematical theory, with equally broad and deep applications, amongst which is the vital field of ": null
     },
     {
         "coding theory": "Coding Theory"
@@ -456,7 +456,7 @@
         "Claude E. Shannons": "Claude E. Shannon"
     },
     {
-        "classic paper ": null
+        " classic paper ": null
     },
     {
         "A Mathematical Theory of Communication": "A Mathematical Theory Of Communication"
@@ -474,13 +474,13 @@
         "Harry Nyquists": "Harry Nyquist"
     },
     {
-        "1924 paper, Certain Factors Affecting Telegraph Speed, contains a theoretical section quantifying intelligence and the line speed at which it can be transmitted by a communication system, giving the relation  , where W is the speed of transmission of intelligence, m is the number of different voltage levels to choose from at each time step, and K is a constant. ": null
+        " 1924 paper, Certain Factors Affecting Telegraph Speed, contains a theoretical section quantifying intelligence and the line speed at which it can be transmitted by a communication system, giving the relation  , where W is the speed of transmission of intelligence, m is the number of different voltage levels to choose from at each time step, and K is a constant. ": null
     },
     {
         "Ralph Hartleys": "Ralph Hartley"
     },
     {
-        "1928 paper, Transmission of Information, uses the word information as a measurable quantity, reflecting the receivers ability to distinguish one ": null
+        " 1928 paper, Transmission of Information, uses the word information as a measurable quantity, reflecting the receivers ability to distinguish one ": null
     },
     {
         "sequence of symbols": "Sequence Of Symbols"
@@ -714,7 +714,7 @@
         "bytes": "Byte"
     },
     {
-        "per symbol, and a logarithm of base 10 will produce a measurement in decimal digits per symbol.     Intuitively, the entropy  of a discrete random variable  is a measure of the amount of uncertainty associated with the value of  when only its distribution is known.     The entropy of a source that emits a sequence of  symbols that are ": null
+        " per symbol, and a logarithm of base 10 will produce a measurement in decimal digits per symbol.     Intuitively, the entropy  of a discrete random variable  is a measure of the amount of uncertainty associated with the value of  when only its distribution is known.     The entropy of a source that emits a sequence of  symbols that are ": null
     },
     {
         "independent and identically distributed": "Independent And Identically Distributed"
@@ -981,7 +981,7 @@
         "Turings": "Turing"
     },
     {
-        "information unit, the ": null
+        " information unit, the ": null
     },
     {
         "ban": "Ban"
@@ -1050,10 +1050,10 @@
         " , such as ": null
     },
     {
-        "block cipher": "Block Cipher"
+        "block ciphers": "Block Cipher"
     },
     {
-        "s. The security of all such methods currently comes from the assumption that no known attack can break them in a practical amount of time.     ": null
+        ". The security of all such methods currently comes from the assumption that no known attack can break them in a practical amount of time.     ": null
     },
     {
         "Information theoretic security": "Information Theoretic Security"
@@ -1095,19 +1095,19 @@
         "Pseudorandom number generators": "Pseudorandom Number Generator"
     },
     {
-        "are widely available in computer language libraries and application programs. They are, almost universally, unsuited to cryptographic use as they do not evade the deterministic nature of modern computer equipment and software. A class of improved random number generators is termed ": null
+        " are widely available in computer language libraries and application programs. They are, almost universally, unsuited to cryptographic use as they do not evade the deterministic nature of modern computer equipment and software. A class of improved random number generators is termed ": null
     },
     {
-        "cryptographically secure pseudorandom number generator": "Cryptographically Secure Pseudorandom Number Generator"
+        "cryptographically secure pseudorandom number generators": "Cryptographically Secure Pseudorandom Number Generator"
     },
     {
-        "s, but even they require ": null
+        ", but even they require ": null
     },
     {
         "random seeds": "Random Seed"
     },
     {
-        "external to the software to work as intended. These can be obtained via ": null
+        " external to the software to work as intended. These can be obtained via ": null
     },
     {
         "extractors": "Extractor"

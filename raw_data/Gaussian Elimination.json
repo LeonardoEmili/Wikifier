@@ -243,7 +243,7 @@
         "floating-point numbers": "Floating-Point Number"
     },
     {
-        "or when they belong to a ": null
+        " or when they belong to a ": null
     },
     {
         "finite field": "Finite Field"
@@ -255,13 +255,13 @@
         "integers": "Integer"
     },
     {
-        "or ": null
+        " or ": null
     },
     {
         "rational numbers": "Rational Number"
     },
     {
-        "exactly represented, the intermediate entries can grow exponentially large, so the ": null
+        " exactly represented, the intermediate entries can grow exponentially large, so the ": null
     },
     {
         "bit complexity": "Bit Complexity"
@@ -276,10 +276,10 @@
         ", that avoids this exponential growth of the intermediate entries and, with the same arithmetic complexity of , has a bit complexity of .     This algorithm can be used on a computer for systems with thousands of equations and unknowns. However, the cost becomes prohibitive for systems with millions of equations. These large systems are generally solved using ": null
     },
     {
-        "iterative method": "Iterative Method"
+        "iterative methods": "Iterative Method"
     },
     {
-        "s. Specific methods exist for systems whose coefficients follow a regular pattern .     To put an  matrix into reduced echelon form by row operations, one needs  arithmetic operations, which is approximately 50% more computation steps. J. B. Fraleigh and R. A. Beauregard, Linear Algebra. Addison-Wesley Publishing Company, 1995, Chapter 10.     One possible problem is ": null
+        ". Specific methods exist for systems whose coefficients follow a regular pattern .     To put an  matrix into reduced echelon form by row operations, one needs  arithmetic operations, which is approximately 50% more computation steps. J. B. Fraleigh and R. A. Beauregard, Linear Algebra. Addison-Wesley Publishing Company, 1995, Chapter 10.     One possible problem is ": null
     },
     {
         "numerical instability": "Numerical Stability"

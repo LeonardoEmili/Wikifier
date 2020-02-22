@@ -12,13 +12,13 @@
         "digital images": "Digital Image"
     },
     {
-        "or ": null
+        " or ": null
     },
     {
-        "video": "Video"
+        "videos": "Video"
     },
     {
-        "s. From the perspective of ": null
+        ". From the perspective of ": null
     },
     {
         "engineering": "Engineering"
@@ -108,13 +108,13 @@
         "digital images": "Digital Image"
     },
     {
-        "or ": null
+        " or ": null
     },
     {
-        "video": "Video"
+        "videos": "Video"
     },
     {
-        "s. From the perspective of ": null
+        ". From the perspective of ": null
     },
     {
         "engineering": "Engineering"
@@ -168,7 +168,7 @@
         "algorithms": "Algorithm"
     },
     {
-        "that exist today, including ": null
+        " that exist today, including ": null
     },
     {
         "extraction of edges": "Edge Detection"
@@ -219,10 +219,10 @@
         " and ": null
     },
     {
-        "Markov random field": "Markov Random Field"
+        "Markov random fields": "Markov Random Field"
     },
     {
-        "s.    By the 1990s, some of the previous research topics became more active than the others. Research in ": null
+        ".    By the 1990s, some of the previous research topics became more active than the others. Research in ": null
     },
     {
         "projective": "Projective Geometry"
@@ -570,10 +570,10 @@
         ". An example of this is detection of ": null
     },
     {
-        "tumour": "Tumour"
+        "tumours": "Tumour"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "arteriosclerosis": "Arteriosclerosis"
@@ -600,10 +600,10 @@
         ". More advanced systems for missile guidance send the missile to an area rather than a specific target, and target selection is made when the missile reaches the area based on locally acquired image data. Modern military concepts, such as battlefield awareness , imply that various sensors, including image sensors, provide a rich set of information about a combat scene which can be used to support strategic decisions. In this case, automatic processing of the data is used to reduce complexity and to fuse information from multiple sensors to increase reliability.        One of the newer application areas is autonomous vehicles, which include ": null
     },
     {
-        "submersible": "Submersible"
+        "submersibles": "Submersible"
     },
     {
-        "s, land-based vehicles , aerial vehicles, and unmanned aerial vehicles . The level of autonomy ranges from fully autonomous vehicles to vehicles where computer-vision-based systems support a driver or a pilot in various situations. Fully autonomous vehicles typically use computer vision for navigation, e.g. for knowing where it is, or for producing a map of its environment  and for detecting obstacles. It can also be used for detecting certain task specific events, e.g., a UAV looking for forest fires. Examples of supporting systems are obstacle warning systems in cars, and systems for autonomous landing of aircraft. Several car manufacturers have demonstrated systems for ": null
+        ", land-based vehicles , aerial vehicles, and unmanned aerial vehicles . The level of autonomy ranges from fully autonomous vehicles to vehicles where computer-vision-based systems support a driver or a pilot in various situations. Fully autonomous vehicles typically use computer vision for navigation, e.g. for knowing where it is, or for producing a map of its environment  and for detecting obstacles. It can also be used for detecting certain task specific events, e.g., a UAV looking for forest fires. Examples of supporting systems are obstacle warning systems in cars, and systems for autonomous landing of aircraft. Several car manufacturers have demonstrated systems for ": null
     },
     {
         "autonomous driving of cars": "Driverless Car"
@@ -684,10 +684,10 @@
         ", or identification of a specific vehicle.    Detection the image data are scanned for a specific condition. Examples include detection of possible abnormal cells or tissues in medical images or detection of a vehicle in an automatic road toll system. Detection based on relatively simple and fast computations is sometimes used for finding smaller regions of interesting image data which can be further analyzed by more computationally demanding techniques to produce a correct interpretation.     Currently, the best algorithms for such tasks are based on ": null
     },
     {
-        "convolutional neural network": "Convolutional Neural Network"
+        "convolutional neural networks": "Convolutional Neural Network"
     },
     {
-        "s. An illustration of their capabilities is given by the ": null
+        ". An illustration of their capabilities is given by the ": null
     },
     {
         "ImageNet Large Scale Visual Recognition Challenge": "Imagenetimagenet Challenge"
@@ -750,10 +750,10 @@
         ".       The organization of a computer vision system is highly application-dependent. Some systems are stand-alone applications that solve a specific measurement or detection problem, while others constitute a sub-system of a larger design which, for example, also contains sub-systems for control of mechanical actuators, planning, information databases, man-machine interfaces, etc. The specific implementation of a computer vision system also depends on whether its functionality is pre-specified or if some part of it can be learned or modified during operation. Many functions are unique to the application. There are, however, typical functions that are found in many computer vision systems.     Image acquisition – A digital image is produced by one or several ": null
     },
     {
-        "image sensor": "Image Sensor"
+        "image sensors": "Image Sensor"
     },
     {
-        "s, which, besides various types of light-sensitive cameras, include ": null
+        ", which, besides various types of light-sensitive cameras, include ": null
     },
     {
         "range sensors": "Rangefinder"
@@ -846,22 +846,22 @@
         " – comparing and combining two different views of the same object.   Decision making Making the final decision required for the application, for example:   Pass/fail on automatic inspection applications.   Match/no-match in recognition applications.   Flag for further human review in medical, military, security and recognition applications.       Image-understanding systems include three levels of abstraction as follows: low level includes image primitives such as edges, texture elements, or regions; intermediate level includes boundaries, surfaces and volumes; and high level includes objects, scenes, or events. Many of these requirements are really topics for further research.     The representational requirements in the designing of IUS for these levels are: representation of prototypical concepts, concept organization, spatial knowledge, temporal knowledge, scaling, and description by comparison and differentiation.     While inference refers to the process of deriving new, not explicitly represented facts from currently known facts, control refers to the process that selects which of the many inference, search, and matching techniques should be applied at a particular stage of processing. Inference and control requirements for IUS are: search and hypothesis activation, matching and hypothesis testing, generation and use of expectations, change and focus of attention, certainty and strength of belief, inference and goal satisfaction.        There are many kinds of computer vision systems; however, all of them contain these basic elements: a power source, at least one image acquisition device , a processor, and control and communication cables or some kind of wireless interconnection mechanism. In addition, a practical vision system contains software, as well as a display in order to monitor the system. Vision systems for inner spaces, as most industrial ones, contain an illumination system and may be placed in a controlled environment. Furthermore, a completed system includes many accessories such as camera supports, cables and connectors.     Most computer vision systems use visible-light cameras passively viewing a scene at frame rates of at most 60 frames per second .     A few computer vision systems use image-acquisition hardware with active illumination or something other than visible light or both, such as ": null
     },
     {
-        "structured-light 3D scanner": "Structured-Light 3D Scanner"
+        "structured-light 3D scanners": "Structured-Light 3D Scanner"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "thermographic camera": "Thermographic Camera"
+        "thermographic cameras": "Thermographic Camera"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "hyperspectral imager": "Hyperspectral Imager"
+        "hyperspectral imagers": "Hyperspectral Imager"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "radar imaging": "Radar Imaging"
@@ -876,10 +876,10 @@
         " scanners, ": null
     },
     {
-        "magnetic resonance image": "Magnetic Resonance Image"
+        "magnetic resonance images": "Magnetic Resonance Image"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "side-scan sonar": "Side-Scan Sonar"
@@ -915,7 +915,7 @@
         "vision processing units": "Vision Processing Unit"
     },
     {
-        "are emerging as a new class of processor, to complement CPUs and ": null
+        " are emerging as a new class of processor, to complement CPUs and ": null
     },
     {
         "graphics processing units": "Graphics Processing Units"

@@ -27,16 +27,16 @@
         " into ": null
     },
     {
-        "subpopulation": "Subpopulation"
+        "subpopulations": "Subpopulation"
     },
     {
-        "s.        In ": null
+        ".        In ": null
     },
     {
-        "statistical survey": "Statistical Survey"
+        "statistical surveys": "Statistical Survey"
     },
     {
-        "s, when subpopulations within an overall population vary, it could be advantageous to sample each subpopulation independently. Stratification is the process of dividing members of the population into homogeneous subgroups before sampling. The strata should define a partition of the population. That is, it should be  collectively exhaustive  and  mutually exclusive ": null
+        ", when subpopulations within an overall population vary, it could be advantageous to sample each subpopulation independently. Stratification is the process of dividing members of the population into homogeneous subgroups before sampling. The strata should define a partition of the population. That is, it should be  collectively exhaustive  and  mutually exclusive ": null
     },
     {
         "simple random sampling": "Simple Random Sampling"
@@ -90,7 +90,7 @@
         "Monte Carlo methods": "Monte Carlo Method"
     },
     {
-        "are used to estimate population statistics from a known population.      Assume that we need to estimate the average number of votes for each candidate in an election. Assume that a country has 3 towns: Town A has 1 million factory workers, Town B has 2 million office workers and Town C has 3 million retirees. We can choose to get a random sample of size 60 over the entire population but there is some chance that the resulting random sample is poorly balanced across these towns and hence is biased, causing a significant error in estimation. Instead if we choose to take a random sample of 10, 20 and 30 from Town A, B and C respectively, then we can produce a smaller error in estimation for the same total sample size. This method is generally used when a population is not a homogeneous group.       Proportionate allocation uses a ": null
+        " are used to estimate population statistics from a known population.      Assume that we need to estimate the average number of votes for each candidate in an election. Assume that a country has 3 towns: Town A has 1 million factory workers, Town B has 2 million office workers and Town C has 3 million retirees. We can choose to get a random sample of size 60 over the entire population but there is some chance that the resulting random sample is poorly balanced across these towns and hence is biased, causing a significant error in estimation. Instead if we choose to take a random sample of 10, 20 and 30 from Town A, B and C respectively, then we can produce a smaller error in estimation for the same total sample size. This method is generally used when a population is not a homogeneous group.       Proportionate allocation uses a ": null
     },
     {
         "sampling fraction": "Sampling Fraction"

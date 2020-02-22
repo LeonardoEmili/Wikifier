@@ -27,16 +27,16 @@
         " active elements, and terminate ": null
     },
     {
-        "transmission line": "Transmission Line"
+        "transmission lines": "Transmission Line"
     },
     {
-        "s, among other uses. High-power resistors that can dissipate many ": null
+        ", among other uses. High-power resistors that can dissipate many ": null
     },
     {
         "watts": "Watt"
     },
     {
-        "of electrical power as heat, may be used as part of motor controls, in power distribution systems, or as test loads for ": null
+        " of electrical power as heat, may be used as part of motor controls, in power distribution systems, or as test loads for ": null
     },
     {
         "generators": "Electric Generator"
@@ -48,13 +48,13 @@
         "electrical networks": "Electrical Network"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "electronic circuits": "Electronic Circuit"
     },
     {
-        "and are ubiquitous in ": null
+        " and are ubiquitous in ": null
     },
     {
         "electronic equipment": "Electronics"
@@ -138,7 +138,7 @@
         "amperes": "Ampere"
     },
     {
-        "flows through that resistor.     Practical resistors also have some ": null
+        " flows through that resistor.     Practical resistors also have some ": null
     },
     {
         "inductance": "Inductance"
@@ -228,7 +228,7 @@
         "operating temperatures": "Operating Temperature"
     },
     {
-        "may occur, resistors may be specified with higher rated dissipation than is experienced in service.     All resistors have a maximum voltage rating; this may limit the power dissipation for higher resistance values.            Practical resistors have a series ": null
+        " may occur, resistors may be specified with higher rated dissipation than is experienced in service.     All resistors have a maximum voltage rating; this may limit the power dissipation for higher resistance values.            Practical resistors have a series ": null
     },
     {
         "inductance": "Inductance"
@@ -273,10 +273,10 @@
         " rating which must exceed the anticipated power dissipation of that resistor in a particular circuit: this is mainly of concern in power electronics applications.   Resistors with higher power ratings are physically larger and may require ": null
     },
     {
-        "heat sink": "Heat Sink"
+        "heat sinks": "Heat Sink"
     },
     {
-        "s. In a high-voltage circuit, attention must sometimes be paid to the rated maximum working voltage of the resistor. While there is no minimum working voltage for a given resistor, failure to account for a resistors maximum rating may cause the resistor to incinerate when current is run through it.                 ": null
+        ". In a high-voltage circuit, attention must sometimes be paid to the rated maximum working voltage of the resistor. While there is no minimum working voltage for a given resistor, failure to account for a resistors maximum rating may cause the resistor to incinerate when current is run through it.                 ": null
     },
     {
         "Through-hole": "Through-Hole"
@@ -306,7 +306,7 @@
         "voltage regulators": "Voltage Regulator"
     },
     {
-        "for generators, where the carbon pile controls the field current to maintain relatively constant voltage. Principles of automotive vehicles United States. Dept. of the Army . pp. 13–13 The principle is also applied in the ": null
+        " for generators, where the carbon pile controls the field current to maintain relatively constant voltage. Principles of automotive vehicles United States. Dept. of the Army . pp. 13–13 The principle is also applied in the ": null
     },
     {
         "carbon microphone": "Carbon Microphone"
@@ -345,10 +345,10 @@
         " substrates as part of the PCB manufacturing process. Although this technique is more common on hybrid PCB modules, it can also be used on standard fibreglass PCBs. Tolerances are typically quite large, and can be in the order of 30%. A typical application would be non-critical ": null
     },
     {
-        "pull-up resistor": "Pull-Up Resistor"
+        "pull-up resistors": "Pull-Up Resistor"
     },
     {
-        "s.          Thick film resistors became popular during the 1970s, and most ": null
+        ".          Thick film resistors became popular during the 1970s, and most ": null
     },
     {
         "SMD": "Surface-Mount Technology"
@@ -594,7 +594,7 @@
         "thermistors": "Thermistor"
     },
     {
-        "exhibit a strong negative temperature coefficient, making them useful for measuring temperatures. Since their resistance can be large until they are allowed to heat up due to the passage of current, they are also commonly used to prevent excessive ": null
+        " exhibit a strong negative temperature coefficient, making them useful for measuring temperatures. Since their resistance can be large until they are allowed to heat up due to the passage of current, they are also commonly used to prevent excessive ": null
     },
     {
         "current surges": "Inrush Current"
@@ -774,10 +774,10 @@
         " use. They may have four terminals, using one pair to carry an operating current and the other pair to measure the voltage drop; this eliminates errors caused by voltage drops across the lead resistances, because no charge flows through voltage sensing leads. It is important in small value resistors where lead resistance is significant or even comparable with respect to resistance standard value.                Axial resistors cases are usually tan, brown, blue, or green , and display 3-6 colored stripes that indicate resistance , and may be extended to indicate the temperature coefficient and reliability class. The first two stripes represent the first two digits of the resistance in ": null
     },
     {
-        "ohm": "Ohm"
+        "ohms": "Ohm"
     },
     {
-        "s, the third represents a ": null
+        ", the third represents a ": null
     },
     {
         "multiplier": "Multiplicationnotation And Terminology"
@@ -843,13 +843,13 @@
         "significant digits": "Significant Digit"
     },
     {
-        "of the value and the third digit is the power of ten . For example:     : 334 33 × 10 4 Ω 330 kΩ   : 222 22 × 10 2 Ω 2.2 kΩ   : 473 47 × 10 3 Ω 47 kΩ   : 105 10 × 10 5 Ω 1 MΩ     Resistances less than 100 Ω are written: 100, 220, 470. The final zero represents ten to the power zero, which is  1. For example:     : 100 10 × 10 0 Ω 10 Ω   : 220 22 × 10 0 Ω 22 Ω     Sometimes these values are marked as 10 or 22 to prevent a mistake.     Resistances less than 10 Ω have R to indicate the position of the decimal point . For example:     : 4R7 4.7 Ω   : R300 0.30 Ω   : 0R22 0.22 Ω   : 0R01 0.01 Ω     Precision resistors are marked with a four-digit code, in which the first three digits are the significant figures and the fourth is the power of ten. For example:     : 1001 100 × 10 1 Ω 1.00 kΩ   : 4992 499 × 10 2 Ω 49.9 kΩ   : 1000 100 × 10 0 Ω 100 Ω     000 and 0000 sometimes appear as values on surface-mount ": null
+        " of the value and the third digit is the power of ten . For example:     : 334 33 × 10 4 Ω 330 kΩ   : 222 22 × 10 2 Ω 2.2 kΩ   : 473 47 × 10 3 Ω 47 kΩ   : 105 10 × 10 5 Ω 1 MΩ     Resistances less than 100 Ω are written: 100, 220, 470. The final zero represents ten to the power zero, which is  1. For example:     : 100 10 × 10 0 Ω 10 Ω   : 220 22 × 10 0 Ω 22 Ω     Sometimes these values are marked as 10 or 22 to prevent a mistake.     Resistances less than 10 Ω have R to indicate the position of the decimal point . For example:     : 4R7 4.7 Ω   : R300 0.30 Ω   : 0R22 0.22 Ω   : 0R01 0.01 Ω     Precision resistors are marked with a four-digit code, in which the first three digits are the significant figures and the fourth is the power of ten. For example:     : 1001 100 × 10 1 Ω 1.00 kΩ   : 4992 499 × 10 2 Ω 49.9 kΩ   : 1000 100 × 10 0 Ω 100 Ω     000 and 0000 sometimes appear as values on surface-mount ": null
     },
     {
-        "zero-ohm link": "Zero-Ohm Link"
+        "zero-ohm links": "Zero-Ohm Link"
     },
     {
-        "s, since these have zero resistance.     More recent surface-mount resistors are too small, physically, to permit practical markings to be applied.       Format:    Maini, A. K. Electronics and Communications Simplified, 9th ed., Khanna Publications.                 Steps to find out the resistance or capacitance values:     First two letters gives the power dissipation capacity.   Next three digits gives the resistance value.   First two digits are the significant values   Third digit is the multiplier.   Final digit gives the tolerance.     If a resistor is coded:     EB1041: power dissipation capacity 1/2 watts, resistance value 10×104±10% between 9×104 ohms and 11×104 ohms.   CB3932: power dissipation capacity 1/4 watts, resistance value 39×103±20% between 46.8×103 ohms and 31.2×103 ohms.            In amplifying faint signals, it is often necessary to minimize ": null
+        ", since these have zero resistance.     More recent surface-mount resistors are too small, physically, to permit practical markings to be applied.       Format:    Maini, A. K. Electronics and Communications Simplified, 9th ed., Khanna Publications.                 Steps to find out the resistance or capacitance values:     First two letters gives the power dissipation capacity.   Next three digits gives the resistance value.   First two digits are the significant values   Third digit is the multiplier.   Final digit gives the tolerance.     If a resistor is coded:     EB1041: power dissipation capacity 1/2 watts, resistance value 10×104±10% between 9×104 ohms and 11×104 ohms.   CB3932: power dissipation capacity 1/4 watts, resistance value 39×103±20% between 46.8×103 ohms and 31.2×103 ohms.            In amplifying faint signals, it is often necessary to minimize ": null
     },
     {
         "electronic noise": "Electronic Noise"
@@ -891,7 +891,7 @@
         "instrumentation amplifiers": "Instrumentation Amplifier"
     },
     {
-        "in particular. Such voltages appear in the junctions of the resistor leads with the circuit board and with the resistor body. Common metal film resistors show such an effect at a magnitude of about 20 µV/°C. Some carbon composition resistors can exhibit thermoelectric offsets as high as 400 µV/°C, whereas specially constructed resistors can reduce this number to 0.05 µV/°C. In applications where the thermoelectric effect may become important, care has to be taken to mount the resistors horizontally to avoid temperature gradients and to mind the air flow over the board.        The failure rate of resistors in a properly designed circuit is low compared to other electronic components such as semiconductors and electrolytic capacitors. Damage to resistors most often occurs due to overheating when the average power delivered to it greatly exceeds its ability to dissipate heat . This may be due to a fault external to the circuit, but is frequently caused by the failure of another component in the circuit connected to the resistor. Operating a resistor too close to its power rating can limit the resistors lifespan or cause a significant change in its resistance. A safe design generally uses overrated resistors in power applications to avoid this danger.     Low-power thin-film resistors can be damaged by long-term high-voltage stress, even below maximum specified voltage and below maximum power rating. This is often the case for the startup resistors feeding the SMPS integrated circuit.     When overheated, carbon-film resistors may decrease or increase in resistance.    Carbon film and composition resistors can fail if running close to their maximum dissipation. This is also possible but less likely with metal film and wirewound resistors.     There can also be failure of resistors due to mechanical stress and adverse environmental factors including humidity. If not enclosed, wirewound resistors can corrode.     Surface mount resistors have been known to fail due to the ingress of sulfur into the internal makeup of the resistor. This sulfur chemically reacts with the silver layer to produce non-conductive silver sulfide. The resistors impedance goes to infinity. Sulfur resistant and anti-corrosive resistors are sold into automotive, industrial, and military applications. ASTM B809 is an industry standard that tests a parts susceptibility to sulfur.     An alternative failure mode can be encountered where large value resistors are used . Resistors are not only specified with a maximum power dissipation, but also for a maximum voltage drop. Exceeding this voltage causes the resistor to degrade slowly reducing in resistance. The voltage dropped across large value resistors can be exceeded before the power dissipation reaches its limiting value. Since the maximum voltage specified for commonly encountered resistors is a few hundred volts, this is a problem only in applications where these voltages are encountered.     Variable resistors can also degrade in a different manner, typically involving poor contact between the wiper and the body of the resistance. This may be due to dirt or corrosion and is typically perceived as crackling as the ": null
+        " in particular. Such voltages appear in the junctions of the resistor leads with the circuit board and with the resistor body. Common metal film resistors show such an effect at a magnitude of about 20 µV/°C. Some carbon composition resistors can exhibit thermoelectric offsets as high as 400 µV/°C, whereas specially constructed resistors can reduce this number to 0.05 µV/°C. In applications where the thermoelectric effect may become important, care has to be taken to mount the resistors horizontally to avoid temperature gradients and to mind the air flow over the board.        The failure rate of resistors in a properly designed circuit is low compared to other electronic components such as semiconductors and electrolytic capacitors. Damage to resistors most often occurs due to overheating when the average power delivered to it greatly exceeds its ability to dissipate heat . This may be due to a fault external to the circuit, but is frequently caused by the failure of another component in the circuit connected to the resistor. Operating a resistor too close to its power rating can limit the resistors lifespan or cause a significant change in its resistance. A safe design generally uses overrated resistors in power applications to avoid this danger.     Low-power thin-film resistors can be damaged by long-term high-voltage stress, even below maximum specified voltage and below maximum power rating. This is often the case for the startup resistors feeding the SMPS integrated circuit.     When overheated, carbon-film resistors may decrease or increase in resistance.    Carbon film and composition resistors can fail if running close to their maximum dissipation. This is also possible but less likely with metal film and wirewound resistors.     There can also be failure of resistors due to mechanical stress and adverse environmental factors including humidity. If not enclosed, wirewound resistors can corrode.     Surface mount resistors have been known to fail due to the ingress of sulfur into the internal makeup of the resistor. This sulfur chemically reacts with the silver layer to produce non-conductive silver sulfide. The resistors impedance goes to infinity. Sulfur resistant and anti-corrosive resistors are sold into automotive, industrial, and military applications. ASTM B809 is an industry standard that tests a parts susceptibility to sulfur.     An alternative failure mode can be encountered where large value resistors are used . Resistors are not only specified with a maximum power dissipation, but also for a maximum voltage drop. Exceeding this voltage causes the resistor to degrade slowly reducing in resistance. The voltage dropped across large value resistors can be exceeded before the power dissipation reaches its limiting value. Since the maximum voltage specified for commonly encountered resistors is a few hundred volts, this is a problem only in applications where these voltages are encountered.     Variable resistors can also degrade in a different manner, typically involving poor contact between the wiper and the body of the resistance. This may be due to dirt or corrosion and is typically perceived as crackling as the ": null
     },
     {
         "contact resistance": "Contact Resistance"

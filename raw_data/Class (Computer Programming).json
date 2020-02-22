@@ -9,10 +9,10 @@
         ", a class is an extensible program-code-template for creating ": null
     },
     {
-        "object": "Object"
+        "objects": "Object"
     },
     {
-        "s, providing initial values for state  and implementations of behavior . In many languages, the class name is used as the name for the class , the name for the default ": null
+        ", providing initial values for state  and implementations of behavior . In many languages, the class name is used as the name for the class , the name for the default ": null
     },
     {
         "constructor": "Constructor"
@@ -39,22 +39,22 @@
         " of the class, and the member variables specific to the object are called ": null
     },
     {
-        "instance variable": "Instance Variable"
+        "instance variables": "Instance Variable"
     },
     {
-        "s, to contrast with the ": null
+        ", to contrast with the ": null
     },
     {
         "class variables": "Class Variable"
     },
     {
-        "shared across the class.     In some languages, classes are only a compile-time feature , while in other languages classes are ": null
+        " shared across the class.     In some languages, classes are only a compile-time feature , while in other languages classes are ": null
     },
     {
-        "first-class citizen": "First-Class Citizen"
+        "first-class citizens": "First-Class Citizen"
     },
     {
-        "s, and are generally themselves objects . In these languages, a class that creates classes is called a ": null
+        ", and are generally themselves objects . In these languages, a class that creates classes is called a ": null
     },
     {
         "metaclass": "Metaclass"
@@ -66,7 +66,7 @@
         "member functions": "Member Function"
     },
     {
-        ", and properties these satisfy. At the same time, a class has an implementation , and can create objects of a given type, with a given implementation. In the terms of type theory, a class is an implementationa concrete ": null
+        " , and properties these satisfy. At the same time, a class has an implementation , and can create objects of a given type, with a given implementation. In the terms of type theory, a class is an implementationa concrete ": null
     },
     {
         "data structure": "Data Structure"
@@ -90,7 +90,7 @@
         "bananas": "Banana"
     },
     {
-        "in general, while the  and  classes would represent ways of producing bananas . The  class could then produce particular bananas: instances of the  class would be objects of type . Often only a single implementation of a type is given, in which case the class name is often identical with the type name.       Classes are composed from structural and behavioral constituents. Programming languages that include classes as a programming construct offer support, for various class-related features, and the syntax required to use these features varies greatly from one programming language to another.     Structure      A class contains ": null
+        " in general, while the  and  classes would represent ways of producing bananas . The  class could then produce particular bananas: instances of the  class would be objects of type . Often only a single implementation of a type is given, in which case the class name is often identical with the type name.       Classes are composed from structural and behavioral constituents. Programming languages that include classes as a programming construct offer support, for various class-related features, and the syntax required to use these features varies greatly from one programming language to another.     Structure      A class contains ": null
     },
     {
         "data": "Data"
@@ -108,7 +108,7 @@
         "invariants": "Class Invariant"
     },
     {
-        "as part of the definition of the class, and enforce them through the type system. ": null
+        " as part of the definition of the class, and enforce them through the type system. ": null
     },
     {
         "Encapsulation": "Encapsulation"
@@ -126,7 +126,7 @@
         "subroutines": "Subroutine"
     },
     {
-        "with the ability to operate on objects or classes. These operations may alter the state of an object or simply provide ways of accessing it.  Many kinds of methods exist, but support for them varies across languages. Some types of methods are created and called by programmer code, while other special methods—such as constructors, destructors, and conversion operators—are created and called by compiler-generated code. A language may also allow the programmer to define and call these special methods.              Every class implements  an interface by providing ": null
+        " with the ability to operate on objects or classes. These operations may alter the state of an object or simply provide ways of accessing it.  Many kinds of methods exist, but support for them varies across languages. Some types of methods are created and called by programmer code, while other special methods—such as constructors, destructors, and conversion operators—are created and called by compiler-generated code. A language may also allow the programmer to define and call these special methods.              Every class implements  an interface by providing ": null
     },
     {
         "structure": "Structure"
@@ -156,7 +156,7 @@
         "accessor methods": "Accessor Method"
     },
     {
-        "can be used to inspect or alter such private data.     Access specifiers do not necessarily control visibility, in that even private members may be visible to client external code. In some languages, an inaccessible but visible member may be referred to at run-time , but an attempt to use it by referring to the name of the member from client code will be prevented by the type checker.      The various object-oriented programming languages enforce member accessibility and visibility to various degrees, and depending on the languages ": null
+        " can be used to inspect or alter such private data.     Access specifiers do not necessarily control visibility, in that even private members may be visible to client external code. In some languages, an inaccessible but visible member may be referred to at run-time , but an attempt to use it by referring to the name of the member from client code will be prevented by the type checker.      The various object-oriented programming languages enforce member accessibility and visibility to various degrees, and depending on the languages ": null
     },
     {
         "type system": "Type System"
@@ -285,10 +285,10 @@
         " are designed to support it.     A similar issue is whether or not the class hierarchy can be modified at run time. Languages such as Flavors, CLOS, and Smalltalk all support this feature as part of their ": null
     },
     {
-        "meta-object protocol": "Meta-Object Protocol"
+        "meta-object protocols": "Meta-Object Protocol"
     },
     {
-        "s. Since classes are themselves first-class objects, it is possible to have them dynamically alter their structure by sending them the appropriate messages. Other languages that focus more on strong typing such as Java and C++ do not allow the class hierarchy to be modified at run time. Semantic web objects have the capability for run time changes to classes. The rational is similar to the justification for allowing multiple superclasses, that the Internet is so dynamic and flexible that dynamic changes to the hierarchy are required to manage this volatility.        Although class-based languages are commonly assumed to support inheritance, inheritance is not an intrinsic aspect of the concept of classes. Some languages, often referred to as ": null
+        ". Since classes are themselves first-class objects, it is possible to have them dynamically alter their structure by sending them the appropriate messages. Other languages that focus more on strong typing such as Java and C++ do not allow the class hierarchy to be modified at run time. Semantic web objects have the capability for run time changes to classes. The rational is similar to the justification for allowing multiple superclasses, that the Internet is so dynamic and flexible that dynamic changes to the hierarchy are required to manage this volatility.        Although class-based languages are commonly assumed to support inheritance, inheritance is not an intrinsic aspect of the concept of classes. Some languages, often referred to as ": null
     },
     {
         "object-based languages": "Object-Based Languages"
@@ -387,10 +387,10 @@
         " or describe particular kinds of classes. Metaclasses are often used to describe ": null
     },
     {
-        "framework": "Software Framework"
+        "frameworks": "Software Framework"
     },
     {
-        "s.      In some languages, such as ": null
+        ".      In some languages, such as ": null
     },
     {
         "Python": "Python"
@@ -444,10 +444,10 @@
         " permit the programmer to add methods to an existing class without the need to recompile that class or even have access to its source code.       Some languages have special support for ": null
     },
     {
-        "mixin": "Mixin"
+        "mixins": "Mixin"
     },
     {
-        "s, though in any language with multiple inheritance a mixin is simply a class that does not represent an is-a-type-of relationship. Mixins are typically used to add the same methods to multiple classes; for example, a class  might provide a method called  when included in classes  and  that do not share a common parent.            In languages supporting the feature, a partial class is a class whose definition may be split into multiple pieces, within a single ": null
+        ", though in any language with multiple inheritance a mixin is simply a class that does not represent an is-a-type-of relationship. Mixins are typically used to add the same methods to multiple classes; for example, a class  might provide a method called  when included in classes  and  that do not share a common parent.            In languages supporting the feature, a partial class is a class whose definition may be split into multiple pieces, within a single ": null
     },
     {
         "source-code": "Source Code"
@@ -456,16 +456,16 @@
         " file or across multiple files.  The pieces are merged at compile-time, making compiler output the same as for a non-partial class.     The primary motivation for introduction of partial classes is to facilitate the implementation of ": null
     },
     {
-        "code generator": "Code Generator"
+        "code generators": "Code Generator"
     },
     {
-        "s, such as ": null
+        ", such as ": null
     },
     {
-        "visual designer": "Visual Designer"
+        "visual designers": "Visual Designer"
     },
     {
-        "s. It is otherwise a challenge or compromise to develop code generators that can manage the generated code when it is interleaved within developer-written code. Using partial classes, a code generator can process a separate file or coarse-grained partial class within a file, and is thus alleviated from intricately interjecting generated code via extensive parsing, increasing compiler efficiency and eliminating the potential risk of corrupting developer code. In a simple implementation of partial classes, the compiler can perform a phase of ": null
+        ". It is otherwise a challenge or compromise to develop code generators that can manage the generated code when it is interleaved within developer-written code. Using partial classes, a code generator can process a separate file or coarse-grained partial class within a file, and is thus alleviated from intricately interjecting generated code via extensive parsing, increasing compiler efficiency and eliminating the potential risk of corrupting developer code. In a simple implementation of partial classes, the compiler can perform a phase of ": null
     },
     {
         "precompilation": "Precompilation"

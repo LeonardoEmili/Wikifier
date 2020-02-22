@@ -15,10 +15,10 @@
         " of ": null
     },
     {
-        "multivariate polynomial": "Multivariate Polynomial"
+        "multivariate polynomials": "Multivariate Polynomial"
     },
     {
-        "s. Modern algebraic geometry is based on the use of ": null
+        ". Modern algebraic geometry is based on the use of ": null
     },
     {
         "abstract algebraic": "Abstract Algebra"
@@ -57,10 +57,10 @@
         ". Examples of the most studied classes of algebraic varieties are: ": null
     },
     {
-        "plane algebraic curve": "Plane Algebraic Curve"
+        "plane algebraic curves": "Plane Algebraic Curve"
     },
     {
-        "s, which include ": null
+        ", which include ": null
     },
     {
         "lines": "Line"
@@ -69,52 +69,52 @@
         ", ": null
     },
     {
-        "circle": "Circle"
+        "circles": "Circle"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "parabola": "Parabola"
+        "parabolas": "Parabola"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "ellipse": "Ellipse"
+        "ellipses": "Ellipse"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "hyperbola": "Hyperbola"
+        "hyperbolas": "Hyperbola"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "cubic curves": "Cubic Curve"
     },
     {
-        "like ": null
+        " like ": null
     },
     {
-        "elliptic curve": "Elliptic Curve"
+        "elliptic curves": "Elliptic Curve"
     },
     {
-        "s, and quartic curves like ": null
+        ", and quartic curves like ": null
     },
     {
         "lemniscates": "Lemniscate Of Bernoulli"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
-        "Cassini oval": "Cassini Oval"
+        "Cassini ovals": "Cassini Oval"
     },
     {
-        "s. A point of the plane belongs to an algebraic curve if its coordinates satisfy a given ": null
+        ". A point of the plane belongs to an algebraic curve if its coordinates satisfy a given ": null
     },
     {
         "polynomial equation": "Polynomial Equation"
@@ -123,16 +123,16 @@
         ". Basic questions involve the study of the points of special interest like the ": null
     },
     {
-        "singular point": "Singular Point Of A Curve"
+        "singular points": "Singular Point Of A Curve"
     },
     {
-        "s, the ": null
+        ", the ": null
     },
     {
         "inflection points": "Inflection Point"
     },
     {
-        "and the ": null
+        " and the ": null
     },
     {
         "points at infinity": "Point At Infinity"
@@ -204,7 +204,7 @@
         "fields": "Field"
     },
     {
-        "that are not ": null
+        " that are not ": null
     },
     {
         "algebraically closed": "Algebraically Closed"
@@ -219,22 +219,22 @@
         ", such as the field of ": null
     },
     {
-        "rational number": "Rational Number"
+        "rational numbers": "Rational Number"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "number field": "Number Field"
+        "number fields": "Number Field"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "finite field": "Finite Field"
+        "finite fields": "Finite Field"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "function fields": "Algebraic Function Field"
@@ -243,10 +243,10 @@
         ", and ": null
     },
     {
-        "p-adic field": "P-Adic Number"
+        "p-adic fields": "P-Adic Number"
     },
     {
-        "s.   A large part of ": null
+        ".   A large part of ": null
     },
     {
         "singularity theory": "Singularity Theorysingularities In Algebraic Geometry"
@@ -354,10 +354,10 @@
         " is an example of the power of this approach.                 In classical algebraic geometry, the main objects of interest are the vanishing sets of collections of ": null
     },
     {
-        "polynomial": "Polynomial"
+        "polynomials": "Polynomial"
     },
     {
-        "s, meaning the set of all points that simultaneously satisfy one or more ": null
+        ", meaning the set of all points that simultaneously satisfy one or more ": null
     },
     {
         "polynomial equations": "Systems Of Polynomial Equations"
@@ -402,7 +402,7 @@
         "polynomial functions": "Polynomial Function"
     },
     {
-        "in n variables over k. Therefore, the set of the regular functions on A n is a ring, which is denoted kA n .     We say that a polynomial vanishes at a point if evaluating it at that point gives zero. Let S be a set of polynomials in kA n . The vanishing set of S  is the set V of all points in A n where every polynomial in S vanishes. Symbolically,     : V       A subset of A n which is V, for some S, is called an algebraic set. The V stands for variety .     Given a subset U of A n , can one recover the set of polynomials which generate it? If U is any subset of A n , define I to be the set of all polynomials whose vanishing set contains U. The I stands for ": null
+        " in n variables over k. Therefore, the set of the regular functions on A n is a ring, which is denoted kA n .     We say that a polynomial vanishes at a point if evaluating it at that point gives zero. Let S be a set of polynomials in kA n . The vanishing set of S  is the set V of all points in A n where every polynomial in S vanishes. Symbolically,     : V       A subset of A n which is V, for some S, is called an algebraic set. The V stands for variety .     Given a subset U of A n , can one recover the set of polynomials which generate it? If U is any subset of A n , define I to be the set of all polynomials whose vanishing set contains U. The I stands for ": null
     },
     {
         "ideal": "Ideal"
@@ -435,10 +435,10 @@
         ", giving rise to two ": null
     },
     {
-        "closure operator": "Closure Operator"
+        "closure operators": "Closure Operator"
     },
     {
-        "s; they can be identified, and naturally play a basic role in the theory; the ": null
+        "; they can be identified, and naturally play a basic role in the theory; the ": null
     },
     {
         "example": "Galois Connectionexamples"
@@ -462,25 +462,25 @@
         "continuous functions": "Continuous Function"
     },
     {
-        "are the natural maps on ": null
+        " are the natural maps on ": null
     },
     {
         "topological spaces": "Topological Space"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "smooth functions": "Smooth Function"
     },
     {
-        "are the natural maps on ": null
+        " are the natural maps on ": null
     },
     {
-        "differentiable manifold": "Differentiable Manifold"
+        "differentiable manifolds": "Differentiable Manifold"
     },
     {
-        "s, there is a natural class of functions on an algebraic set, called regular functions or polynomial functions. A regular function on an algebraic set V contained in A n is the restriction to V of a regular function on A n . For an algebraic set defined on the field of the complex numbers, the regular functions are smooth and even ": null
+        ", there is a natural class of functions on an algebraic set, called regular functions or polynomial functions. A regular function on an algebraic set V contained in A n is the restriction to V of a regular function on A n . For an algebraic set defined on the field of the complex numbers, the regular functions are smooth and even ": null
     },
     {
         "analytic": "Analytic Function"
@@ -507,7 +507,7 @@
         "regular maps": "Morphism Of Algebraic Varieties"
     },
     {
-        "from one affine variety to another. First we will define a regular map from a variety into affine space: Let V be a variety contained in A n . Choose m regular functions on V, and call them f 1 , ..., f m . We define a regular map f from V to A m by letting . In other words, each f i determines one coordinate of the ": null
+        " from one affine variety to another. First we will define a regular map from a variety into affine space: Let V be a variety contained in A n . Choose m regular functions on V, and call them f 1 , ..., f m . We define a regular map f from V to A m by letting . In other words, each f i determines one coordinate of the ": null
     },
     {
         "range": "Image"
@@ -525,7 +525,7 @@
         "morphisms": "Morphism"
     },
     {
-        "are the regular maps. The affine varieties is a subcategory of the category of the algebraic sets.     Given a regular map g from V to V′ and a regular function f of kV′, then . The map  is a ": null
+        " are the regular maps. The affine varieties is a subcategory of the category of the algebraic sets.     Given a regular map g from V to V′ and a regular function f of kV′, then . The map  is a ": null
     },
     {
         "ring homomorphism": "Ring Homomorphism"
@@ -573,7 +573,7 @@
         "rational functions": "Rational Function"
     },
     {
-        "over the affine space containing V. The ": null
+        " over the affine space containing V. The ": null
     },
     {
         "domain": "Domain Of A Function"
@@ -591,7 +591,7 @@
         "field homomorphisms": "Ring Homomorphism"
     },
     {
-        "from k to k.     Two affine varieties are birationally equivalent if there are two rational functions between them which are ": null
+        " from k to k.     Two affine varieties are birationally equivalent if there are two rational functions between them which are ": null
     },
     {
         "inverse": "Function Inverse"
@@ -675,7 +675,7 @@
         "homogeneous ideals": "Homogeneous Ideal"
     },
     {
-        "which define them. The projective varieties are the projective algebraic sets whose defining ideal is prime. In other words, a projective variety is a projective algebraic set, whose ": null
+        " which define them. The projective varieties are the projective algebraic sets whose defining ideal is prime. In other words, a projective variety is a projective algebraic set, whose ": null
     },
     {
         "homogeneous coordinate ring": "Homogeneous Coordinate Ring"

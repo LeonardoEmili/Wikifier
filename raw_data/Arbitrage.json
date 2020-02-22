@@ -21,7 +21,7 @@
         "market prices": "Market Price"
     },
     {
-        "at which the unit is ": null
+        " at which the unit is ": null
     },
     {
         "trade": "Trade"
@@ -54,10 +54,10 @@
         ".     People who engage in arbitrage are called arbitrageurs —such as a bank or brokerage firm. The term is mainly applied to trading in ": null
     },
     {
-        "financial instrument": "Financial Instrument"
+        "financial instruments": "Financial Instrument"
     },
     {
-        "s, such as ": null
+        ", such as ": null
     },
     {
         "bonds": "Bond"
@@ -66,10 +66,10 @@
         ", ": null
     },
     {
-        "stock": "Stock"
+        "stocks": "Stock"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "derivatives": "Derivative"
@@ -120,9 +120,9 @@
         ".        This refers to the method of valuing a coupon-bearing financial instrument by discounting its future cash flows by multiple discount rates. By doing so, a more accurate price can be obtained than if the price is calculated with a present-value pricing approach. Arbitrage-free pricing is used for bond valuation and to detect arbitrage opportunities for investors.     For the purpose of valuing the price of a bond, its cash flows can each be thought of as packets of incremental cash flows with a large packet upon maturity, being the principal. Since the cash flows are dispersed throughout future periods, they must be discounted back to the present. In the present-value approach, the cash flows are discounted with one discount rate to find the price of the bond. In arbitrage-free pricing, multiple discount rates are used.     The present-value approach assumes that the yield of the bond will stay the same until maturity. This is a simplified model because interest rates may fluctuate in the future, which in turn affects the yield on the bond. The discount rate may be different for each of the cash flows for this reason. Each cash flow can be considered a zero-coupon instrument that pays one payment upon maturity. The discount rates used should be the rates of multiple zero-coupon bonds with maturity dates the same as each cash flow and similar risk as the instrument being valued. By using multiple discount rates, the arbitrage-free price is the sum of the ": null
     },
     {
-        "discounted cash flow": "Discounted Cash Flow"
+        "discounted cash flows": "Discounted Cash Flow"
     },
     {
-        "s. Arbitrage-free price refers to the price at which no price arbitrage is possible.     The ideas of using multiple discount rates obtained from zero-coupon bonds and discount a similar bonds cash flow to find its price is derived from the yield curve. The yield curve is a curve of the yields of the same bond with different maturities. This curve can be used to view trends in market expectations of how interest rates will move in the future. In arbitrage-free pricing of a bond, a yield curve of similar zero-coupon bonds with different maturities is created. If the curve were to be created with Treasury securities of different maturities, they would be stripped of their coupon payments through bootstrapping. This is to transform the bonds into zero-coupon bonds. The yield of these zero-coupon bonds would then be plotted on a diagram with time on the x-axis and yield on the y-axis.     Since the yield curve displays market expectations on how yields and interest rates may move, the arbitrage-free pricing approach is more realistic than using only one discount rate. Investors can use this approach to value bonds and find mismatches in prices, resulting in an arbitrage opportunity. If a bond valued with the arbitrage-free pricing approach turns out to be priced higher in the market, an investor could have such an opportunity:   Investor goes short the bond at price at time t 1 .   Investor goes long the zero-coupon bonds making up the related yield curve and strip and sell any coupon payments at t 1 .   As t sub /sub sub /sub sub /sub  ref group note /ref  math ": null
+        ". Arbitrage-free price refers to the price at which no price arbitrage is possible.     The ideas of using multiple discount rates obtained from zero-coupon bonds and discount a similar bonds cash flow to find its price is derived from the yield curve. The yield curve is a curve of the yields of the same bond with different maturities. This curve can be used to view trends in market expectations of how interest rates will move in the future. In arbitrage-free pricing of a bond, a yield curve of similar zero-coupon bonds with different maturities is created. If the curve were to be created with Treasury securities of different maturities, they would be stripped of their coupon payments through bootstrapping. This is to transform the bonds into zero-coupon bonds. The yield of these zero-coupon bonds would then be plotted on a diagram with time on the x-axis and yield on the y-axis.     Since the yield curve displays market expectations on how yields and interest rates may move, the arbitrage-free pricing approach is more realistic than using only one discount rate. Investors can use this approach to value bonds and find mismatches in prices, resulting in an arbitrage opportunity. If a bond valued with the arbitrage-free pricing approach turns out to be priced higher in the market, an investor could have such an opportunity:   Investor goes short the bond at price at time t 1 .   Investor goes long the zero-coupon bonds making up the related yield curve and strip and sell any coupon payments at t 1 .   As t sub /sub sub /sub sub /sub  ref group note /ref  math ": null
     }
 ]

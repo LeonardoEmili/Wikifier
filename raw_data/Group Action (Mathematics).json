@@ -42,7 +42,7 @@
         "automorphisms": "Automorphism"
     },
     {
-        "of the structure. One says that the group acts on the space or structure. If a group acts on a structure, it also acts on everything that is built on the structure. For example, the group of ": null
+        " of the structure. One says that the group acts on the space or structure. If a group acts on a structure, it also acts on everything that is built on the structure. For example, the group of ": null
     },
     {
         "Euclidean isometries": "Euclidean Isometry"
@@ -57,10 +57,10 @@
         " and also on the figures drawn in it. In particular, it acts on the set of all ": null
     },
     {
-        "triangle": "Triangle"
+        "triangles": "Triangle"
     },
     {
-        "s. Similarly, the group of ": null
+        ". Similarly, the group of ": null
     },
     {
         "symmetries": "Symmetries"
@@ -132,7 +132,7 @@
         "permutations": "Permutation"
     },
     {
-        "of a set depends formally on the set, the concept of group action allows one to consider a single group for studying the permutations of all sets with the same ": null
+        " of a set depends formally on the set, the concept of group action allows one to consider a single group for studying the permutations of all sets with the same ": null
     },
     {
         "cardinality": "Cardinality"
@@ -276,7 +276,7 @@
         "abelian groups": "Abelian Group"
     },
     {
-        "of size 2 n include a cyclic group Z/Z as well as  n , but the latter acts faithfully on a set of size 2n, whereas the former cannot act faithfully on a set smaller than itself.       if, given g, h in G, the existence of an x in X with  implies . Equivalently: if g is a group element and there exists an x in X with  , then g is the identity. Note that a free action on a non-empty set is faithful.       if it is both transitive and free; this is equivalent to saying that for every two x, y in X there exists precisely one g in G such that . In this case, X is called a ": null
+        " of size 2 n include a cyclic group Z/Z as well as  n , but the latter acts faithfully on a set of size 2n, whereas the former cannot act faithfully on a set smaller than itself.       if, given g, h in G, the existence of an x in X with  implies . Equivalently: if g is a group element and there exists an x in X with  , then g is the identity. Note that a free action on a non-empty set is faithful.       if it is both transitive and free; this is equivalent to saying that for every two x, y in X there exists precisely one g in G such that . In this case, X is called a ": null
     },
     {
         "principal homogeneous space": "Principal Homogeneous Space"
@@ -294,13 +294,13 @@
         "2-transitive groups": "2-Transitive Group"
     },
     {
-        "and more generally ": null
+        " and more generally ": null
     },
     {
-        "multiply transitive group": "Multiply Transitive Group"
+        "multiply transitive groups": "Multiply Transitive Group"
     },
     {
-        "s. The action of the symmetric group on a set with n elements is always n-transitive; the action of the ": null
+        ". The action of the symmetric group on a set with n elements is always n-transitive; the action of the ": null
     },
     {
         "alternating group": "Alternating Group"
@@ -441,7 +441,7 @@
         "derived functors": "Derived Functor"
     },
     {
-        "of the ": null
+        " of the ": null
     },
     {
         "functor": "Functor"
@@ -573,7 +573,7 @@
         "subgroups": "Subgroup"
     },
     {
-        "act on the set  by permuting its elements   The ": null
+        " act on the set  by permuting its elements   The ": null
     },
     {
         "symmetry group": "Symmetry Group"
@@ -615,7 +615,7 @@
         "Lie groups": "Lie Group"
     },
     {
-        "that act on the ": null
+        " that act on the ": null
     },
     {
         "vector space": "Vector Space"
@@ -684,10 +684,10 @@
         " of the plane act on the set of 2D images and patterns, such as ": null
     },
     {
-        "wallpaper pattern": "Wallpaper Group"
+        "wallpaper patterns": "Wallpaper Group"
     },
     {
-        "s. The definition can be made more precise by specifying what is meant by image or pattern, for example, a function of position with values in a set of colors. Isometries are in fact one example of affine group . G comprise the ": null
+        ". The definition can be made more precise by specifying what is meant by image or pattern, for example, a function of position with values in a set of colors. Isometries are in fact one example of affine group . G comprise the ": null
     },
     {
         "category": "Category"
@@ -699,7 +699,7 @@
         "morphisms": "Morphism"
     },
     {
-        "are G-set homomorphisms: functions  such that  for every g in G.   The ": null
+        " are G-set homomorphisms: functions  such that  for every g in G.   The ": null
     },
     {
         "Galois group": "Galois Group"
@@ -780,10 +780,10 @@
         ". Note that this is not a faithful action because the quaternion −1 leaves all points where they were, as does the quaternion 1.       The notion of group action can be put in a broader context by using the action groupoid  GG   X associated to the group action, thus allowing techniques from groupoid theory such as presentations and ": null
     },
     {
-        "fibration": "Fibration"
+        "fibrations": "Fibration"
     },
     {
-        "s. Further the stabilizers of the action are the vertex groups, and the orbits of the action are the components, of the action groupoid. For more details, see the book Topology and groupoids referenced below.     This action groupoid comes with a morphism pG′ → G which is a covering morphism of groupoids. This allows a relation between such morphisms and ": null
+        ". Further the stabilizers of the action are the vertex groups, and the orbits of the action are the components, of the action groupoid. For more details, see the book Topology and groupoids referenced below.     This action groupoid comes with a morphism pG′ → G which is a covering morphism of groupoids. This allows a relation between such morphisms and ": null
     },
     {
         "covering maps": "Covering Maps"
@@ -795,7 +795,7 @@
         "cosets": "Coset"
     },
     {
-        "of some ": null
+        " of some ": null
     },
     {
         "subgroup": "Subgroup"
@@ -897,7 +897,7 @@
         "monoids": "Monoid"
     },
     {
-        "on sets, by using the same two axioms as above. This does not define bijective maps and equivalence relations however. See ": null
+        " on sets, by using the same two axioms as above. This does not define bijective maps and equivalence relations however. See ": null
     },
     {
         "semigroup action": "Semigroup Action"
@@ -906,16 +906,16 @@
         ".     Instead of actions on sets, one can define actions of groups and monoids on objects of an arbitrary category: start with an object X of some category, and then define an action on X as a monoid homomorphism into the monoid of endomorphisms of X. If X has an underlying set, then all definitions and facts stated above can be carried over. For example, if we take the category of ": null
     },
     {
-        "vector space": "Vector Space"
+        "vector spaces": "Vector Space"
     },
     {
-        "s, we obtain ": null
+        ", we obtain ": null
     },
     {
         "group representations": "Group Representation"
     },
     {
-        "in this fashion.     One can view a group G as a category with a single object in which every ": null
+        " in this fashion.     One can view a group G as a category with a single object in which every ": null
     },
     {
         "morphism": "Morphism"
@@ -972,16 +972,16 @@
         " on ": null
     },
     {
-        "smooth manifold": "Manifold"
+        "smooth manifolds": "Manifold"
     },
     {
-        "s, regular actions of ": null
+        ", regular actions of ": null
     },
     {
         "algebraic groups": "Algebraic Group"
     },
     {
-        "on ": null
+        " on ": null
     },
     {
         "algebraic varieties": "Algebraic Variety"
@@ -999,7 +999,7 @@
         "group schemes": "Group Scheme"
     },
     {
-        "on ": null
+        " on ": null
     },
     {
         "schemes": "Scheme"

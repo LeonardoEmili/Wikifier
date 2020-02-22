@@ -57,10 +57,10 @@
         " . In Dylan, all values  are ": null
     },
     {
-        "first-class object": "First-Class Object"
+        "first-class objects": "First-Class Object"
     },
     {
-        "s. Dylan supports ": null
+        ". Dylan supports ": null
     },
     {
         "multiple inheritance": "Multiple Inheritance"
@@ -81,10 +81,10 @@
         ", ": null
     },
     {
-        "keyword argument": "Keyword Argument"
+        "keyword arguments": "Keyword Argument"
     },
     {
-        "s, object introspection, ": null
+        ", object introspection, ": null
     },
     {
         "pattern": "Pattern Matching"
@@ -93,10 +93,10 @@
         "-based ": null
     },
     {
-        "syntax extension macro": "Syntactic Macro"
+        "syntax extension macros": "Syntactic Macro"
     },
     {
-        "s, and many other advanced features. Programs can express fine-grained control over dynamism, admitting programs that occupy a continuum between dynamic and static programming and supporting evolutionary development .     Dylans main design goal is to be a dynamic language well-suited for developing ": null
+        ", and many other advanced features. Programs can express fine-grained control over dynamism, admitting programs that occupy a continuum between dynamic and static programming and supporting evolutionary development .     Dylans main design goal is to be a dynamic language well-suited for developing ": null
     },
     {
         "commercial software": "Commercial Software"
@@ -183,10 +183,10 @@
         " systems called Gwydion Dylan. Both of these implementations are now open source. The Harlequin implementation is now named Open Dylan and is maintained by a group of volunteers, the Dylan Hackers.     The Dylan language was code-named Ralph. James Joaquin chose the name Dylan for DYnamic LANguage.       Many of Dylans syntax features come from its Lisp heritage. Originally, Dylan used a Lisp-like prefix syntax, which was based on ": null
     },
     {
-        "s-expression": "S-Expression"
+        "s-expressions": "S-Expression"
     },
     {
-        "s. By the time the language design was completed, the syntax was changed to an ALGOL-like syntax, with the expectation that it would be more familiar to a wider audience of programmers. The syntax was designed by Michael Kahl. It is described in great detail in the Dylan Reference Manual.       Dylan is not ": null
+        ". By the time the language design was completed, the syntax was changed to an ALGOL-like syntax, with the expectation that it would be more familiar to a wider audience of programmers. The syntax was designed by Michael Kahl. It is described in great detail in the Dylan Reference Manual.       Dylan is not ": null
     },
     {
         "case sensitive": "Case Sensitivity"
@@ -219,10 +219,10 @@
         ", even when not surrounded by ": null
     },
     {
-        "whitespace character": "Whitespace Character"
+        "whitespace characters": "Whitespace Character"
     },
     {
-        "s.     Identifiers in Dylan may contain more special characters than most languages. Besides ": null
+        ".     Identifiers in Dylan may contain more special characters than most languages. Besides ": null
     },
     {
         "alphanumeric": "Alphanumeric"
@@ -297,9 +297,9 @@
         "  . Identifiers may not consist of these non-alphanumeric characters or numeric characters alone. If there is any ambiguity, whitespace is used.       A simple class with several slots:       define class   slot point-x :: ,   required-init-keyword: x:;   slot point-y :: ,   required-init-keyword: y:;   end class ;       By convention, classes are named with less-than and greater-than signs used as ": null
     },
     {
-        "angle bracket": "Angle Bracket"
+        "angle brackets": "Angle Bracket"
     },
     {
-        "s, e.g. the class named & lt;point & gt; in the code example.     In end class & lt;point & gt; both class and & lt;point & gt; are optional. This is true for all end clauses. For example, you may write end if or just end to terminate an if statement.     The same class, rewritten in the most minimal way possible:       define class   slot point-x;   slot point-y;   end;       The slots are now both typed as & lt;object & gt; . The slots must be initialized manually.     By convention, constant names begin with $ :       define constant $pi :: 3.1415927d0;       A factorial function:     define function factorial 0 ": null
+        ", e.g. the class named & lt;point & gt; in the code example.     In end class & lt;point & gt; both class and & lt;point & gt; are optional. This is true for all end clauses. For example, you may write end if or just end to terminate an if statement.     The same class, rewritten in the most minimal way possible:       define class   slot point-x;   slot point-y;   end;       The slots are now both typed as & lt;object & gt; . The slots must be initialized manually.     By convention, constant names begin with $ :       define constant $pi :: 3.1415927d0;       A factorial function:     define function factorial 0 ": null
     }
 ]

@@ -24,19 +24,19 @@
         "transfer functions": "Transfer Functionlinear Time-Invariant Systems"
     },
     {
-        "in the frequency domain and their ": null
+        " in the frequency domain and their ": null
     },
     {
         "impulse responses": "Impulse Response"
     },
     {
-        "in the time domain. Real-time implementations of such linear ": null
+        " in the time domain. Real-time implementations of such linear ": null
     },
     {
         "signal processing filters": "Signal Processing Filter"
     },
     {
-        "in the time domain are inevitably ": null
+        " in the time domain are inevitably ": null
     },
     {
         "causal": "Causal"
@@ -54,7 +54,7 @@
         "sinusoids": "Sinusoid"
     },
     {
-        "of different frequencies , they are sometimes known as frequency filters.     Non real-time implementations of linear time-invariant filters need not be causal. Filters of more than one dimension are also used such as in ": null
+        " of different frequencies , they are sometimes known as frequency filters.     Non real-time implementations of linear time-invariant filters need not be causal. Filters of more than one dimension are also used such as in ": null
     },
     {
         "Image processing": "Image Processing"
@@ -192,7 +192,7 @@
         "capacitors": "Capacitor"
     },
     {
-        "and/or ": null
+        " and/or ": null
     },
     {
         "inductors": "Inductor"
@@ -264,10 +264,10 @@
         "transfer function": "Transfer Function"
     },
     {
-        " Laplace transform": "Laplace Transform"
+        "Laplace transforms": "Laplace Transform"
     },
     {
-        "s, or in discrete-time systems the ": null
+        ", or in discrete-time systems the ": null
     },
     {
         "Z-transform": "Z-Transform"
@@ -324,16 +324,16 @@
         " filters, ": null
     },
     {
-        "equalizer": "Equalization"
+        "equalizers": "Equalization"
     },
     {
-        "s, or ": null
+        ", or ": null
     },
     {
         "tone controls": "Tone Control"
     },
     {
-        "are good examples.         Meeting a frequency response requirement with an FIR filter uses relatively straightforward procedures. In the most basic form, the desired frequency response itself can be sampled with a resolution of   f and Fourier transformed to the time domain. This obtains the filter coefficients h i , which implements a zero phase FIR filter that matches the frequency response at the sampled frequencies used. To better match a desired response,   f must be reduced. However the duration of the filters impulse response, and the number of terms that must be summed for each output value is given by N1/ where T is the ": null
+        " are good examples.         Meeting a frequency response requirement with an FIR filter uses relatively straightforward procedures. In the most basic form, the desired frequency response itself can be sampled with a resolution of   f and Fourier transformed to the time domain. This obtains the filter coefficients h i , which implements a zero phase FIR filter that matches the frequency response at the sampled frequencies used. To better match a desired response,   f must be reduced. However the duration of the filters impulse response, and the number of terms that must be summed for each output value is given by N1/ where T is the ": null
     },
     {
         "sampling period": "Sampling Period"
@@ -351,7 +351,7 @@
         "transforms": "Bilinear Transform"
     },
     {
-        "it is possible to convert these continuous time frequency responses to ones that are implemented in discrete time, for use in digital IIR filters. The complexity of any such filter is given by the order N, which describes the order of the ": null
+        " it is possible to convert these continuous time frequency responses to ones that are implemented in discrete time, for use in digital IIR filters. The complexity of any such filter is given by the order N, which describes the order of the ": null
     },
     {
         "rational function": "Rational Function"
@@ -366,10 +366,10 @@
         " using ": null
     },
     {
-        "op-amp": "Op-Amp"
+        "op-amps": "Op-Amp"
     },
     {
-        "s, N/2 stages are needed. In a digital implementation, the number of computations performed per sample is proportional to N. Thus the mathematical problem is to obtain the best approximation to the desired response using a smaller N, as we shall now illustrate.     Below are the frequency responses of several standard filter functions that approximate a desired response, optimized according to some criterion. These are all fifth-order low-pass filters, designed for a cutoff frequency of .5 in normalized units. Frequency responses are shown for the ": null
+        ", N/2 stages are needed. In a digital implementation, the number of computations performed per sample is proportional to N. Thus the mathematical problem is to obtain the best approximation to the desired response using a smaller N, as we shall now illustrate.     Below are the frequency responses of several standard filter functions that approximate a desired response, optimized according to some criterion. These are all fifth-order low-pass filters, designed for a cutoff frequency of .5 in normalized units. Frequency responses are shown for the ": null
     },
     {
         "Butterworth": "Butterworth Filter"
@@ -390,10 +390,10 @@
         ", and ": null
     },
     {
-        "elliptic filter": "Elliptic Filter"
+        "elliptic filters": "Elliptic Filter"
     },
     {
-        "s.          As is clear from the image, the elliptic filter is sharper than the others, but at the expense of ": null
+        ".          As is clear from the image, the elliptic filter is sharper than the others, but at the expense of ": null
     },
     {
         "ripples": "Ripple"
@@ -450,16 +450,16 @@
         ", and vice versa. From a mathematical viewpoint, continuous-time IIR LTI filters may be described in terms of linear ": null
     },
     {
-        "differential equation": "Differential Equation"
+        "differential equations": "Differential Equation"
     },
     {
-        "s, and their impulse responses considered as ": null
+        ", and their impulse responses considered as ": null
     },
     {
         "Greens functions": "Greens Function"
     },
     {
-        "of the equation. Continuous-time LTI filters may also be described in terms of the ": null
+        " of the equation. Continuous-time LTI filters may also be described in terms of the ": null
     },
     {
         "Laplace transform": "Laplace Transform"
@@ -489,13 +489,13 @@
         "Bode plots": "Bode Plot"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "Nyquist plots": "Nyquist Plot"
     },
     {
-        "were extensively used as design tools. Even today, they are invaluable tools to understanding filter behavior. Reference books A. Zverev, Handbook of Filter Synthesis, John Wiley and Sons, 1967,  had extensive plots of frequency response, phase response, group delay, and impulse response for various types of filters, of various orders. They also contained tables of values showing how to implement such filters as RLC ladders - very useful when amplifying elements were expensive compared to passive components. Such a ladder can also be designed to have minimal sensitivity to component variation Normally, computing sensitivities is a very laborious operation. But in the special case of an LC ladder driven by an impedance and terminated by a resistor, there is a neat argument showing the sensitivities are small. In such as case, the transmission at the maximum frequency transfers the maximal possible energy to the output load, as determined by the physics of the source and load impedances. Since this point is a maximum, all derivatives with respect to all component values must be zero, since the result of changing any component value in any direction can only result in a reduction. This result only strictly holds true at the peaks of the response, but is roughly true at nearby points as well. a property hard to evaluate without computer tools.     Many different analog filter designs have been developed, each trying to optimise some feature of the system response. For practical filters, a custom design is sometimes desirable, that can offer the best tradeoff between different design criteria, which may include component count and cost, as well as filter response characteristics.     These descriptions refer to the mathematical properties of the filter . These can be implemented as analog circuits , or as algorithms in ": null
+        " were extensively used as design tools. Even today, they are invaluable tools to understanding filter behavior. Reference books A. Zverev, Handbook of Filter Synthesis, John Wiley and Sons, 1967,  had extensive plots of frequency response, phase response, group delay, and impulse response for various types of filters, of various orders. They also contained tables of values showing how to implement such filters as RLC ladders - very useful when amplifying elements were expensive compared to passive components. Such a ladder can also be designed to have minimal sensitivity to component variation Normally, computing sensitivities is a very laborious operation. But in the special case of an LC ladder driven by an impedance and terminated by a resistor, there is a neat argument showing the sensitivities are small. In such as case, the transmission at the maximum frequency transfers the maximal possible energy to the output load, as determined by the physics of the source and load impedances. Since this point is a maximum, all derivatives with respect to all component values must be zero, since the result of changing any component value in any direction can only result in a reduction. This result only strictly holds true at the peaks of the response, but is roughly true at nearby points as well. a property hard to evaluate without computer tools.     Many different analog filter designs have been developed, each trying to optimise some feature of the system response. For practical filters, a custom design is sometimes desirable, that can offer the best tradeoff between different design criteria, which may include component count and cost, as well as filter response characteristics.     These descriptions refer to the mathematical properties of the filter . These can be implemented as analog circuits , or as algorithms in ": null
     },
     {
         "digital signal processing": "Digital Signal Processing"
@@ -522,10 +522,10 @@
         " and instability.   Typically digital IIR filters are designed as a series of ": null
     },
     {
-        "digital biquad filter": "Digital Biquad Filter"
+        "digital biquad filters": "Digital Biquad Filter"
     },
     {
-        "s.     All low-pass second-order continuous-time filters have a ": null
+        ".     All low-pass second-order continuous-time filters have a ": null
     },
     {
         "transfer function": "Transfer Function"

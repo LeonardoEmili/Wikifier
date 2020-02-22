@@ -27,10 +27,10 @@
         "  by means of ": null
     },
     {
-        "computer program": "Computer Program"
+        "computer programs": "Computer Program"
     },
     {
-        "s. Also, the results of displaying such a model can be called a render. A scene file contains objects in a strictly defined language or ": null
+        ". Also, the results of displaying such a model can be called a render. A scene file contains objects in a strictly defined language or ": null
     },
     {
         "data structure": "Data Structure"
@@ -111,10 +111,10 @@
         ", ": null
     },
     {
-        "video game": "Video Game"
+        "video games": "Video Game"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "simulators": "Simulation"
@@ -375,10 +375,10 @@
         ". In a schematic drawing, for instance, line segments and curves might be primitives. In a graphical user interface, windows and buttons might be the primitives. In rendering of 3D models, triangles and polygons in space might be primitives.     If a pixel-by-pixel approach to rendering is impractical or too slow for some task, then a primitive-by-primitive approach to rendering may prove useful. Here, one loops through each of the primitives, determines which pixels in the image it affects, and modifies those pixels accordingly. This is called rasterization, and is the rendering method used by all current ": null
     },
     {
-        "graphics card": "Graphics Card"
+        "graphics cards": "Graphics Card"
     },
     {
-        "s.     Rasterization is frequently faster than pixel-by-pixel rendering. First, large areas of the image may be empty of primitives; rasterization will ignore these areas, but pixel-by-pixel rendering must pass through them. Second, rasterization can improve ": null
+        ".     Rasterization is frequently faster than pixel-by-pixel rendering. First, large areas of the image may be empty of primitives; rasterization will ignore these areas, but pixel-by-pixel rendering must pass through them. Second, rasterization can improve ": null
     },
     {
         "cache coherency": "Cache Coherency"

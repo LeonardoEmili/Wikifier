@@ -111,16 +111,16 @@
         " components such as ": null
     },
     {
-        "register file": "Register File"
+        "register files": "Register File"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "caches": "Cache Memory"
     },
     {
-        "  Clock": "Clock Signal"
+        "   Clock": "Clock Signal"
     },
     {
         " circuitry such as clock drivers, ": null
@@ -135,7 +135,7 @@
         "clock distribution networks": "Clock Distribution Network"
     },
     {
-        "  Pad transceiver circuitry   ": null
+        "   Pad transceiver circuitry   ": null
     },
     {
         "Logic gate": "Logic Gate"
@@ -162,10 +162,10 @@
         ". Control logic implementation techniques  can be used to implement datapaths, register files, and clocks. Common logic styles used in CPU design include unstructured random logic, ": null
     },
     {
-        "finite-state machine": "Finite-State Machine"
+        "finite-state machines": "Finite-State Machine"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "microprogramming": "Microprogramming"
@@ -177,7 +177,7 @@
         "Programmable logic arrays": "Programmable Logic Array"
     },
     {
-        ".       Device types used to implement the logic include:   ": null
+        " .       Device types used to implement the logic include:   ": null
     },
     {
         "Transistor-transistor logic": "Transistor-Transistor Logic"
@@ -198,7 +198,7 @@
         "Programmable logic devices": "Programmable Logic Device"
     },
     {
-        "- no longer used for CPUs   ": null
+        " - no longer used for CPUs   ": null
     },
     {
         "Emitter-coupled logic": "Emitter-Coupled Logic"
@@ -207,7 +207,7 @@
         "gate arrays": "Gate Array"
     },
     {
-        "- no longer common     ": null
+        " - no longer common     ": null
     },
     {
         "CMOS": "Cmos"
@@ -216,7 +216,7 @@
         "gate arrays": "Gate Array"
     },
     {
-        "- no longer used for CPUs     ": null
+        " - no longer used for CPUs     ": null
     },
     {
         "CMOS": "Cmos"
@@ -225,7 +225,7 @@
         "mass-produced ICs": "Integrated Circuit"
     },
     {
-        "- the vast majority of CPUs by volume   ": null
+        " - the vast majority of CPUs by volume   ": null
     },
     {
         "CMOS": "Cmos"
@@ -234,7 +234,7 @@
         "ASICs": "Application-Specific Integrated Circuit"
     },
     {
-        "- only for a minority of special applications due to expense   ": null
+        " - only for a minority of special applications due to expense   ": null
     },
     {
         "Field-programmable gate arrays": "Field-Programmable Gate Array"
@@ -243,10 +243,10 @@
         " - common for ": null
     },
     {
-        "soft microprocessor": "Soft Microprocessor"
+        "soft microprocessors": "Soft Microprocessor"
     },
     {
-        "s, and more or less required for ": null
+        ", and more or less required for ": null
     },
     {
         "reconfigurable computing": "Reconfigurable Computing"
@@ -264,7 +264,7 @@
         "microarchitectures": "Microarchitecture"
     },
     {
-        "  Architectural study and performance modeling in ": null
+        "   Architectural study and performance modeling in ": null
     },
     {
         "ANSI C": "Ansi C"
@@ -402,10 +402,10 @@
         ", ": null
     },
     {
-        "emulator": "Emulator"
+        "emulators": "Emulator"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "microprogram": "Microprogram"
@@ -432,10 +432,10 @@
         ", ": null
     },
     {
-        "clockless CPU": "Clockless Cpu"
+        "clockless CPUs": "Clockless Cpu"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "computational RAM": "Computational Ram"
@@ -621,10 +621,10 @@
         "7400 series": "7400 Series"
     },
     {
-        " integrated circuit": "Integrated Circuit"
+        "integrated circuits": "Integrated Circuit"
     },
     {
-        "s.   One team of 4 students designed and built a simple 32 bit CPU during that semester.        Some undergraduate courses require a team of 2 to 5 students to design, implement, and test a simple CPU in a FPGA in a single 15-week semester.      The MultiTitan CPU was designed with 2.5 man years of effort, which was considered relatively little design effort at the time.    24 people contributed to the 3.5 year MultiTitan research project, which included designing and building a prototype CPU.           For embedded systems, the highest performance levels are often not needed or desired due to the power consumption requirements. This allows for the use of processors which can be totally implemented by ": null
+        ".   One team of 4 students designed and built a simple 32 bit CPU during that semester.        Some undergraduate courses require a team of 2 to 5 students to design, implement, and test a simple CPU in a FPGA in a single 15-week semester.      The MultiTitan CPU was designed with 2.5 man years of effort, which was considered relatively little design effort at the time.    24 people contributed to the 3.5 year MultiTitan research project, which included designing and building a prototype CPU.           For embedded systems, the highest performance levels are often not needed or desired due to the power consumption requirements. This allows for the use of processors which can be totally implemented by ": null
     },
     {
         "logic synthesis": "Logic Synthesis"

@@ -36,10 +36,10 @@
         " to it. A counting reduction is a pair of polynomial-time transformations from inputs of the other problem to inputs of the given problem and from outputs of the given problem to outputs of the other problem, allowing the other problem to be solved using any subroutine for the given problem. A Turing reduction is an algorithm for the other problem that makes a polynomial number of calls to a subroutine for the given problem and, outside of those calls, uses polynomial time. In some cases ": null
     },
     {
-        "parsimonious reduction": "Parsimonious Reduction"
+        "parsimonious reductions": "Parsimonious Reduction"
     },
     {
-        "s, a more specific type of reduction that preserves the exact number of solutions, are used.     A polynomial-time algorithm for solving a P-complete problem, if it existed, would solve the ": null
+        ", a more specific type of reduction that preserves the exact number of solutions, are used.     A polynomial-time algorithm for solving a P-complete problem, if it existed, would solve the ": null
     },
     {
         "P versus NP problem": "P Versus Np Problem"
@@ -63,7 +63,7 @@
         "perfect matchings": "Perfect Matching"
     },
     {
-        "are there for a given bipartite ": null
+        " are there for a given bipartite ": null
     },
     {
         "graph": "Graph Theory"
@@ -81,13 +81,13 @@
         "graph colorings": "Graph Coloring"
     },
     {
-        "using k colors are there for a particular graph G?   How many different ": null
+        " using k colors are there for a particular graph G?   How many different ": null
     },
     {
         "linear extensions": "Linear Extension"
     },
     {
-        "are there for a given ": null
+        " are there for a given ": null
     },
     {
         "partially ordered set": "Partially Ordered Set"
@@ -129,7 +129,7 @@
         "probabilistic algorithms": "Probabilistic Algorithm"
     },
     {
-        "that return good approximations to some P-complete problems with high probability. This is one of the demonstrations of the power of probabilistic algorithms.     Many P-complete problems have a ": null
+        " that return good approximations to some P-complete problems with high probability. This is one of the demonstrations of the power of probabilistic algorithms.     Many P-complete problems have a ": null
     },
     {
         "fully polynomial-time randomized approximation scheme": "Polynomial-Time Approximation Scheme"

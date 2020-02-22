@@ -30,22 +30,22 @@
         " computer communication in various frequencies, including but not limited to 2.4  GHz, 5  GHz, and 60  GHz frequency bands.     They are the worlds most widely used wireless computer networking standards, used in most home and office networks to allow ": null
     },
     {
-        "laptop": "Laptop"
+        "laptops": "Laptop"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "printer": "Printer"
+        "printers": "Printer"
     },
     {
-        "s, and ": null
+        ", and ": null
     },
     {
         "smartphones": "Smartphone"
     },
     {
-        "to talk to each other and access the Internet without connecting wires. They are created and maintained by the ": null
+        " to talk to each other and access the Internet without connecting wires. They are created and maintained by the ": null
     },
     {
         "Institute of Electrical and Electronics Engineers": "Institute Of Electrical And Electronics Engineers"
@@ -138,16 +138,16 @@
         " from ": null
     },
     {
-        "microwave oven": "Microwave Oven"
+        "microwave ovens": "Microwave Oven"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "cordless telephone": "Cordless Telephone"
+        "cordless telephones": "Cordless Telephone"
     },
     {
-        "s, and ": null
+        ", and ": null
     },
     {
         "Bluetooth": "Bluetooth"
@@ -285,7 +285,7 @@
         "net bit rates": "Net Bit Rate"
     },
     {
-        "of 1 or 2 ": null
+        " of 1 or 2 ": null
     },
     {
         "megabits per second": "Megabit Per Second"
@@ -381,7 +381,7 @@
         "Wi-Fi Alliances": "Wi-Fi Alliance"
     },
     {
-        "certification of products conforming to a 2007 draft of the 802.11n proposal.       In May 2007, task group TGmb was authorized to roll up many of the amendments to the 2007 version of the 802.11 standard.  REVmb or 802.11mb, as it was called, created a single document that merged ten amendments  with the 2007 base standard. In addition much cleanup was done, including a reordering of many of the clauses.  Upon publication on March 29, 2012, the new standard was referred to as IEEE 802.11-2012.             IEEE 802.11ac-2013 is an amendment to IEEE 802.11, published in December 2013, that builds on 802.11n.  Changes compared to 802.11n include wider channels in the 5  GHz band, more spatial streams , higher-order modulation , and the addition of ": null
+        " certification of products conforming to a 2007 draft of the 802.11n proposal.       In May 2007, task group TGmb was authorized to roll up many of the amendments to the 2007 version of the 802.11 standard.  REVmb or 802.11mb, as it was called, created a single document that merged ten amendments  with the 2007 base standard. In addition much cleanup was done, including a reordering of many of the clauses.  Upon publication on March 29, 2012, the new standard was referred to as IEEE 802.11-2012.             IEEE 802.11ac-2013 is an amendment to IEEE 802.11, published in December 2013, that builds on 802.11n.  Changes compared to 802.11n include wider channels in the 5  GHz band, more spatial streams , higher-order modulation , and the addition of ": null
     },
     {
         "Multi-user MIMO": "Multi-User Mimo"
@@ -528,10 +528,10 @@
         " throughput. Each represents an average throughput of 25 measurements. Each is with a specific packet size and with a specific data rate . Markers for traffic profiles of common applications are included as well. These figures assume there are no packet errors, which if occurring will lower transmission rate further.            802.11b, 802.11g, and 802.11n-2.4 utilize the  spectrum, one of the ": null
     },
     {
-        "ISM band": "Ism Band"
+        "ISM bands": "Ism Band"
     },
     {
-        "s. 802.11a, 802.11n and 802.11ac use the more heavily regulated  band. These are commonly referred to as the 2.4  GHz and 5  GHz bands in most sales literature. Each spectrum is sub-divided into channels with a center frequency and bandwidth, analogous to the way radio and TV broadcast bands are sub-divided.     The 2.4  GHz band is divided into 14 channels spaced 5  MHz apart, beginning with channel  1, which is centered on 2.412  GHz. The latter channels have additional restrictions or are unavailable for use in some regulatory domains.          The channel numbering of the  spectrum is less intuitive due to the differences in regulations between countries. These are discussed in greater detail on the ": null
+        ". 802.11a, 802.11n and 802.11ac use the more heavily regulated  band. These are commonly referred to as the 2.4  GHz and 5  GHz bands in most sales literature. Each spectrum is sub-divided into channels with a center frequency and bandwidth, analogous to the way radio and TV broadcast bands are sub-divided.     The 2.4  GHz band is divided into 14 channels spaced 5  MHz apart, beginning with channel  1, which is centered on 2.412  GHz. The latter channels have additional restrictions or are unavailable for use in some regulatory domains.          The channel numbering of the  spectrum is less intuitive due to the differences in regulations between countries. These are discussed in greater detail on the ": null
     },
     {
         "list of WLAN channels": "List Of Wlan Channels5Ghz"
@@ -636,7 +636,7 @@
         "datagrams": "Datagram"
     },
     {
-        "are called frames. Current 802.11 standards specify frame types for use in transmission of data as well as management and control of wireless links.     Frames are divided into very specific and standardized sections. Each frame consists of a MAC header, payload, and  frame check sequence  . Some frames may not have a payload.          The first two bytes of the MAC header form a frame control field specifying the form and function of the frame. This frame control field is subdivided into the following sub-fields:   Protocol Version: Two bits representing the protocol version. Currently used protocol version is zero. Other values are reserved for future use.   Type: Two bits identifying the type of WLAN frame. Control, Data, and Management are various frame types defined in IEEE 802.11.   Subtype: Four bits providing additional discrimination between frames. Type and Subtype are used together to identify the exact frame.   ToDS and FromDS: Each is one bit in size. They indicate whether a data frame is headed for a distribution system. Control and management frames set these values to zero. All the data frames will have one of these bits set. However communication within an ": null
+        " are called frames. Current 802.11 standards specify frame types for use in transmission of data as well as management and control of wireless links.     Frames are divided into very specific and standardized sections. Each frame consists of a MAC header, payload, and  frame check sequence  . Some frames may not have a payload.          The first two bytes of the MAC header form a frame control field specifying the form and function of the frame. This frame control field is subdivided into the following sub-fields:   Protocol Version: Two bits representing the protocol version. Currently used protocol version is zero. Other values are reserved for future use.   Type: Two bits identifying the type of WLAN frame. Control, Data, and Management are various frame types defined in IEEE 802.11.   Subtype: Four bits providing additional discrimination between frames. Type and Subtype are used together to identify the exact frame.   ToDS and FromDS: Each is one bit in size. They indicate whether a data frame is headed for a distribution system. Control and management frames set these values to zero. All the data frames will have one of these bits set. However communication within an ": null
     },
     {
         "independent basic service set": "Independent Basic Service Set"
@@ -723,7 +723,7 @@
         "information elements": "Information Element"
     },
     {
-        ".     The common structure of an IE is as follows:            Control frames facilitate in the exchange of data frames between stations. Some common 802.11 control frames include:   Acknowledgement frame: After receiving a data frame, the receiving station will send an ACK frame to the sending station if no errors are found. If the sending station doesnt receive an ACK frame within a predetermined period of time, the sending station will resend the frame.   Request to Send frame: The ": null
+        " .     The common structure of an IE is as follows:            Control frames facilitate in the exchange of data frames between stations. Some common 802.11 control frames include:   Acknowledgement frame: After receiving a data frame, the receiving station will send an ACK frame to the sending station if no errors are found. If the sending station doesnt receive an ACK frame within a predetermined period of time, the sending station will resend the frame.   Request to Send frame: The ": null
     },
     {
         "RTS and CTS frames": "Ieee 802.11 Rts/Cts"

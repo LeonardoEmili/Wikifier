@@ -24,13 +24,13 @@
         "Requirements": "Requirement"
     },
     {
-        "– Statements that identify attributes, capabilities, characteristics, or qualities of a system. This is the foundation for what will be or has been implemented.   Architecture/Design – Overview of software. Includes relations to an environment and construction principles to be used in design of software components.   Technical – Documentation of code, algorithms, interfaces, and ": null
+        " – Statements that identify attributes, capabilities, characteristics, or qualities of a system. This is the foundation for what will be or has been implemented.   Architecture/Design – Overview of software. Includes relations to an environment and construction principles to be used in design of software components.   Technical – Documentation of code, algorithms, interfaces, and ": null
     },
     {
-        "API": "Api Documentation"
+        "APIs": "Api Documentation"
     },
     {
-        "s.   ": null
+        ".   ": null
     },
     {
         "End user": "End User"
@@ -42,7 +42,7 @@
         "Requirements": "Requirement"
     },
     {
-        "documentation is the description of what a particular ": null
+        " documentation is the description of what a particular ": null
     },
     {
         "software": "Software"
@@ -57,22 +57,22 @@
         " to communicate how the software functions or how it is intended to operate. It is also used as an agreement or as the foundation for agreement on what the software will do. Requirements are produced and consumed by everyone involved in the production of software, including: ": null
     },
     {
-        "end user": "End User"
+        "end users": "End User"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "customer": "Customer"
+        "customers": "Customer"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "project manager": "Project Manager"
+        "project managers": "Project Manager"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "sales": "Sales"
@@ -87,10 +87,10 @@
         ", ": null
     },
     {
-        "software architect": "Software Architect"
+        "software architects": "Software Architect"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "usability engineers": "Usability Engineering"
@@ -105,10 +105,10 @@
         "ers, ": null
     },
     {
-        "developer": "Software Developer"
+        "developers": "Software Developer"
     },
     {
-        "s, and ": null
+        ", and ": null
     },
     {
         "testers": "Software Testing"
@@ -123,10 +123,10 @@
         ", as drawn figures, as detailed ": null
     },
     {
-        "mathematical formula": "Mathematical Formula"
+        "mathematical formulas": "Mathematical Formula"
     },
     {
-        "s, and as a combination of them all.     The variation and complexity of requirements documentation makes it a proven challenge. Requirements may be implicit and hard to uncover. It is difficult to know exactly how much and what kind of documentation is needed and how much can be left to the architecture and design documentation, and it is difficult to know how to document requirements considering the variety of people who shall read and use the documentation. Thus, requirements documentation is often incomplete . Without proper requirements documentation, software changes become more difficult — and therefore more error prone  and time-consuming .     The need for requirements documentation is typically related to the complexity of the product, the impact of the product, and the ": null
+        ", and as a combination of them all.     The variation and complexity of requirements documentation makes it a proven challenge. Requirements may be implicit and hard to uncover. It is difficult to know exactly how much and what kind of documentation is needed and how much can be left to the architecture and design documentation, and it is difficult to know how to document requirements considering the variety of people who shall read and use the documentation. Thus, requirements documentation is often incomplete . Without proper requirements documentation, software changes become more difficult — and therefore more error prone  and time-consuming .     The need for requirements documentation is typically related to the complexity of the product, the impact of the product, and the ": null
     },
     {
         "life expectancy": "Service Life"
@@ -168,10 +168,10 @@
         " , including following information and their clear definitions:   Entity Sets and their attributes   Relationships and their attributes   Candidate keys for each entity set   Attribute and Tuple based constraints   Relational Schema, including following information:   Tables, Attributes, and their properties   Views   Constraints such as primary keys, foreign keys,   Cardinality of referential constraints   Cascading Policy for referential constraints   Primary keys     It is very important to include all information that is to be used by all actors in the scene. It is also very important to update the documents as any change occurs in the database as well.          It is important for the code documents associated with the source code  to be thorough, but not so verbose that it becomes overly time-consuming or difficult to maintain them. Various how-to and overview documentation guides are commonly found specific to the software application or software product being documented by ": null
     },
     {
-        "API writer": "Api Writer"
+        "API writers": "Api Writer"
     },
     {
-        "s. This documentation may be used by developers, testers, and also end-users. Today, a lot of high-end applications are seen in the fields of power, energy, transportation, networks, aerospace, safety, security, industry automation, and a variety of other domains. Technical documentation has become important within such organizations as the basic and advanced level of information may change over a period of time with architecture changes.     Code documents are often organized into a reference guide style, allowing a programmer to quickly look up an arbitrary function or class.         Often, ": null
+        ". This documentation may be used by developers, testers, and also end-users. Today, a lot of high-end applications are seen in the fields of power, energy, transportation, networks, aerospace, safety, security, industry automation, and a variety of other domains. Technical documentation has become important within such organizations as the basic and advanced level of information may change over a period of time with architecture changes.     Code documents are often organized into a reference guide style, allowing a programmer to quickly look up an arbitrary function or class.         Often, ": null
     },
     {
         "tools": "Documentation Generator"
@@ -279,7 +279,7 @@
         "annotations": "Annotation"
     },
     {
-        "are usually part of several software development activities, such as code walks and porting, where third party source code is analysed in a functional way. Annotations can therefore help the developer during any stage of software development where a formal documentation system would hinder progress.       Unlike code documents, user documents simply describe how a program is used.     In the case of a ": null
+        " are usually part of several software development activities, such as code walks and porting, where third party source code is analysed in a functional way. Annotations can therefore help the developer during any stage of software development where a formal documentation system would hinder progress.       Unlike code documents, user documents simply describe how a program is used.     In the case of a ": null
     },
     {
         "software library": "Library"
@@ -303,7 +303,7 @@
         "API Writers": "Api Writer"
     },
     {
-        "are very well accomplished towards writing good user documents as they would be well aware of the software architecture and programming techniques used. See also ": null
+        " are very well accomplished towards writing good user documents as they would be well aware of the software architecture and programming techniques used. See also ": null
     },
     {
         "technical writing": "Technical Writing"
@@ -339,7 +339,7 @@
         "personal computers": "Personal Computer"
     },
     {
-        "to ": null
+        " to ": null
     },
     {
         "online help": "Online Help"

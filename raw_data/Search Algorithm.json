@@ -183,13 +183,13 @@
         "equations": "Equation"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "inequations": "Inequation"
     },
     {
-        "/ equalities. They are also used when the goal is to find a variable assignment that will ": null
+        " / equalities. They are also used when the goal is to find a variable assignment that will ": null
     },
     {
         "maximize or minimize": "Discrete Optimization"
@@ -207,7 +207,7 @@
         "heuristics": "Heuristic Function"
     },
     {
-        "that try to exploit partial knowledge about the structure of this space, such as linear relaxation, constraint generation, and ": null
+        " that try to exploit partial knowledge about the structure of this space, such as linear relaxation, constraint generation, and ": null
     },
     {
         "constraint propagation": "Local Consistency"
@@ -270,10 +270,10 @@
         ", that combine arbitrary heuristics in specific ways.     This class also includes various ": null
     },
     {
-        "tree search algorithm": "Tree Traversal"
+        "tree search algorithms": "Tree Traversal"
     },
     {
-        "s, that view the elements as vertices of a ": null
+        ", that view the elements as vertices of a ": null
     },
     {
         "tree": "Tree"
@@ -414,10 +414,10 @@
         " is typically used when the goal is to find a sub-structure with a maximum value of some parameter.     An important and extensively studied subclass are the ": null
     },
     {
-        "graph algorithm": "List Of Algorithmsgraph Algorithms"
+        "graph algorithms": "List Of Algorithmsgraph Algorithms"
     },
     {
-        "s, in particular ": null
+        ", in particular ": null
     },
     {
         "graph traversal": "Graph Traversal"
@@ -462,10 +462,10 @@
         ".     Another important subclass of this category are the ": null
     },
     {
-        "string searching algorithm": "String Searching Algorithm"
+        "string searching algorithms": "String Searching Algorithm"
     },
     {
-        "s, that search for patterns within strings. Two famous examples are the ": null
+        ", that search for patterns within strings. Two famous examples are the ": null
     },
     {
         "Boyer–Moore": "Boyer–Moore String Search Algorithm"
@@ -474,10 +474,10 @@
         " and ": null
     },
     {
-        "Knuth–Morris–Pratt algorithm": "Knuth–Morris–Pratt Algorithm"
+        "Knuth–Morris–Pratt algorithms": "Knuth–Morris–Pratt Algorithm"
     },
     {
-        "s, and several algorithms based on the ": null
+        ", and several algorithms based on the ": null
     },
     {
         "suffix tree": "Suffix Tree"
@@ -501,10 +501,10 @@
         " which can be used to find the maximum of a unimodal function and has many other applications in computer science.       There are also search methods designed for ": null
     },
     {
-        "quantum computer": "Quantum Computing"
+        "quantum computers": "Quantum Computing"
     },
     {
-        "s, like ": null
+        ", like ": null
     },
     {
         "Grovers algorithm": "Grovers Algorithm"

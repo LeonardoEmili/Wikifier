@@ -18,7 +18,7 @@
         "linear functionals": "Linear Functional"
     },
     {
-        "on V, together with the vector space structure of ": null
+        " on V, together with the vector space structure of ": null
     },
     {
         "pointwise": "Pointwise"
@@ -57,10 +57,10 @@
         ", and ": null
     },
     {
-        "Hilbert space": "Hilbert Space"
+        "Hilbert spaces": "Hilbert Space"
     },
     {
-        "s. Consequently, the dual space is an important concept in ": null
+        ". Consequently, the dual space is an important concept in ": null
     },
     {
         "functional analysis": "Functional Analysis"
@@ -87,10 +87,10 @@
         "  . Since linear maps are vector space ": null
     },
     {
-        "homomorphism": "Homomorphism"
+        "homomorphisms": "Homomorphism"
     },
     {
-        "s, the dual space is also sometimes denoted by Hom. The dual space V ∗ itself becomes a vector space over F when equipped with an addition and scalar multiplication satisfying:   :       &   +       & a         for all φ and , , and . Elements of the algebraic dual space V ∗ are sometimes called covectors or  one-form s.     The pairing of a functional φ in the dual space V ∗ and an element x of V is sometimes denoted by a bracket:     or .  This pairing defines a nondegenerate ": null
+        ", the dual space is also sometimes denoted by Hom. The dual space V ∗ itself becomes a vector space over F when equipped with an addition and scalar multiplication satisfying:   :       &   +       & a         for all φ and , , and . Elements of the algebraic dual space V ∗ are sometimes called covectors or  one-form s.     The pairing of a functional φ in the dual space V ∗ and an element x of V is sometimes denoted by a bracket:     or .  This pairing defines a nondegenerate ": null
     },
     {
         "bilinear mapping": "Bilinear Mapping"
@@ -141,10 +141,10 @@
         ".     In particular, if we interpret R n as the space of columns of n ": null
     },
     {
-        "real number": "Real Number"
+        "real numbers": "Real Number"
     },
     {
-        "s, its dual space is typically written as the space of rows of n real numbers. Such a row acts on R n as a linear functional by ordinary ": null
+        ", its dual space is typically written as the space of rows of n real numbers. Such a row acts on R n as a linear functional by ordinary ": null
     },
     {
         "matrix multiplication": "Matrix Multiplication"
@@ -156,7 +156,7 @@
         "vectors": "Vector"
     },
     {
-        "in the plane, then the level curves of an element of V ∗ form a family of parallel lines in V, because the range is 1-dimensional, so that every point in the range is a multiple of any one nonzero element. So an element of V ∗ can be intuitively thought of as a particular family of parallel lines covering the plane. To compute the value of a functional on a given vector, one needs only to determine which of the lines the vector lies on. Or, informally, one counts how many lines the vector crosses. More generally, if V is a vector space of any dimension, then the level sets of a linear functional in V ∗ are parallel hyperplanes in V, and the action of a linear functional on a vector can be visualized in terms of these hyperplanes.        If V is not finite-dimensional but has a ": null
+        " in the plane, then the level curves of an element of V ∗ form a family of parallel lines in V, because the range is 1-dimensional, so that every point in the range is a multiple of any one nonzero element. So an element of V ∗ can be intuitively thought of as a particular family of parallel lines covering the plane. To compute the value of a functional on a given vector, one needs only to determine which of the lines the vector lies on. Or, informally, one counts how many lines the vector crosses. More generally, if V is a vector space of any dimension, then the level sets of a linear functional in V ∗ are parallel hyperplanes in V, and the action of a linear functional on a vector can be visualized in terms of these hyperplanes.        If V is not finite-dimensional but has a ": null
     },
     {
         "basis": "Basis"
@@ -180,7 +180,7 @@
         "sequences": "Sequence"
     },
     {
-        "of real numbers that contain only finitely many non-zero entries, which has a basis indexed by the natural numbers N, e i is the sequence consisting of all zeroes except in the i-th position, which is 1. The dual space of R ∞ is R N , the space of all sequences of real numbers: such a sequence  is applied to an element  of R ∞ to give the number     :   anxn,     which is a finite sum because there are only finitely many nonzero x n . The ": null
+        " of real numbers that contain only finitely many non-zero entries, which has a basis indexed by the natural numbers N, e i is the sequence consisting of all zeroes except in the i-th position, which is 1. The dual space of R ∞ is R N , the space of all sequences of real numbers: such a sequence  is applied to an element  of R ∞ to give the number     :   anxn,     which is a finite sum because there are only finitely many nonzero x n . The ": null
     },
     {
         "dimension": "Dimension"
@@ -240,7 +240,7 @@
         "sesquilinear forms": "Sesquilinear Form"
     },
     {
-        "instead of bilinear forms. In that case, a given sesquilinear form  determines an isomorphism of V with the ": null
+        " instead of bilinear forms. In that case, a given sesquilinear form  determines an isomorphism of V with the ": null
     },
     {
         "complex conjugate": "Complex Conjugate Vector Space"
@@ -384,10 +384,10 @@
         " of two subspaces A and B, then V ∗ is a direct sum of A and B.        When dealing with ": null
     },
     {
-        "topological vector space": "Topological Vector Space"
+        "topological vector spaces": "Topological Vector Space"
     },
     {
-        "s, one is typically only interested in the ": null
+        ", one is typically only interested in the ": null
     },
     {
         "continuous": "Continuous Function"
@@ -402,16 +402,16 @@
         ", the continuous dual and the algebraic dual coincide. This is however false for any infinite-dimensional normed space, as shown by the example of ": null
     },
     {
-        "discontinuous linear map": "Discontinuous Linear Map"
+        "discontinuous linear maps": "Discontinuous Linear Map"
     },
     {
-        "s. Nevertheless, in the theory of ": null
+        ". Nevertheless, in the theory of ": null
     },
     {
         "topological vector spaces": "Topological Vector Space"
     },
     {
-        "the terms continuous dual space and topological dual space are often replaced by dual space , since there is no serious need to consider discontinuous maps in this field.     For a ": null
+        " the terms continuous dual space and topological dual space are often replaced by dual space , since there is no serious need to consider discontinuous maps in this field.     For a ": null
     },
     {
         "topological vector space": "Topological Vector Space"

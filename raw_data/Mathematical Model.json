@@ -45,10 +45,10 @@
         ", ": null
     },
     {
-        "statistical model": "Statistical Model"
+        "statistical models": "Statistical Model"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "differential equations": "Differential Equations"
@@ -78,7 +78,7 @@
         "Governing equations": "Governing Equation"
     },
     {
-        "  Supplementary sub-models   ": null
+        "   Supplementary sub-models   ": null
     },
     {
         "Defining equations": "Defining Equation"
@@ -87,7 +87,7 @@
         "Constitutive equations": "Constitutive Equation"
     },
     {
-        "  Assumptions and constraints   ": null
+        "   Assumptions and constraints   ": null
     },
     {
         "Initial": "Initial Condition"
@@ -99,7 +99,7 @@
         "boundary conditions": "Boundary Condition"
     },
     {
-        "  Classical constraints": "Constraint"
+        "   Classical constraints": "Constraint"
     },
     {
         " and ": null
@@ -135,10 +135,10 @@
         ", it is assumed that a relationship is linear in the parameters, but it may be nonlinear in the predictor variables. Similarly, a differential equation is said to be linear if it can be written with linear ": null
     },
     {
-        "differential operator": "Differential Operator"
+        "differential operators": "Differential Operator"
     },
     {
-        "s, but it can still have nonlinear expressions in it. In a ": null
+        ", but it can still have nonlinear expressions in it. In a ": null
     },
     {
         "mathematical programming": "Optimization"
@@ -147,10 +147,10 @@
         " model, if the objective functions and constraints are represented entirely by ": null
     },
     {
-        "linear equation": "Linear Equation"
+        "linear equations": "Linear Equation"
     },
     {
-        "s, then the model is regarded as a linear model. If one or more of the objective functions or constraints are represented with a ": null
+        ", then the model is regarded as a linear model. If one or more of the objective functions or constraints are represented with a ": null
     },
     {
         "nonlinear": "Nonlinearity"
@@ -180,13 +180,13 @@
         "differential equations": "Differential Equation"
     },
     {
-        "or ": null
+        " or ": null
     },
     {
-        "difference equation": "Difference Equation"
+        "difference equations": "Difference Equation"
     },
     {
-        "s.   Explicit vs. implicit: If all of the input parameters of the overall model are known, and the output parameters can be calculated by a finite series of computations, the model is said to be explicit. But sometimes it is the output parameters which are known, and the corresponding inputs must be solved for by an iterative procedure, such as ": null
+        ".   Explicit vs. implicit: If all of the input parameters of the overall model are known, and the output parameters can be calculated by a finite series of computations, the model is said to be explicit. But sometimes it is the output parameters which are known, and the corresponding inputs must be solved for by an iterative procedure, such as ": null
     },
     {
         "Newtons method": "Newtons Method"
@@ -204,7 +204,7 @@
         "jet engines": "Jet Engine"
     },
     {
-        "physical properties such as turbine and nozzle throat areas can be explicitly calculated given a design ": null
+        " physical properties such as turbine and nozzle throat areas can be explicitly calculated given a design ": null
     },
     {
         "thermodynamic cycle": "Thermodynamic Cycle"
@@ -384,7 +384,7 @@
         "maps": "Map"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "diagrams": "Mathematical Diagram"
@@ -393,10 +393,10 @@
         " have been used.     Often when engineers analyze a system to be controlled or optimized, they use a mathematical model. In analysis, engineers can build a descriptive model of the system as a hypothesis of how the system could work, or try to estimate how an unforeseeable event could affect the system. Similarly, in control of a system, engineers can try out different control approaches in ": null
     },
     {
-        "simulation": "Simulation"
+        "simulations": "Simulation"
     },
     {
-        "s.     A mathematical model usually describes a system by a ": null
+        ".     A mathematical model usually describes a system by a ": null
     },
     {
         "set": "Set"
@@ -459,10 +459,10 @@
         ", ": null
     },
     {
-        "state variable": "State Variable"
+        "state variables": "State Variable"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "exogenous": "Exogeny"
@@ -471,52 +471,52 @@
         " variables, and ": null
     },
     {
-        "random variable": "Random Variable"
+        "random variables": "Random Variable"
     },
     {
-        "s.     Decision variables are sometimes known as independent variables. Exogenous variables are sometimes known as ": null
+        ".     Decision variables are sometimes known as independent variables. Exogenous variables are sometimes known as ": null
     },
     {
         "parameters": "Parameter"
     },
     {
-        "or ": null
+        " or ": null
     },
     {
-        "constant": "Constant"
+        "constants": "Constant"
     },
     {
-        "s.   The variables are not independent of each other as the state variables are dependent on the decision, input, random, and exogenous variables. Furthermore, the output variables are dependent on the state of the system .     ": null
+        ".   The variables are not independent of each other as the state variables are dependent on the decision, input, random, and exogenous variables. Furthermore, the output variables are dependent on the state of the system .     ": null
     },
     {
         "Objectives": "Goal"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "constraints": "Constraint"
     },
     {
-        "of the system and its users can be represented as ": null
+        " of the system and its users can be represented as ": null
     },
     {
         "functions": "Function"
     },
     {
-        "of the output variables or state variables. The ": null
+        " of the output variables or state variables. The ": null
     },
     {
         "objective functions": "Objective Function"
     },
     {
-        "will depend on the perspective of the models user. Depending on the context, an objective function is also known as an index of performance, as it is some measure of interest to the user. Although there is no limit to the number of objective functions and constraints a model can have, using or optimizing the model becomes more involved as the number increases.     For example, ": null
+        " will depend on the perspective of the models user. Depending on the context, an objective function is also known as an index of performance, as it is some measure of interest to the user. Although there is no limit to the number of objective functions and constraints a model can have, using or optimizing the model becomes more involved as the number increases.     For example, ": null
     },
     {
         "economists": "Economist"
     },
     {
-        "often apply ": null
+        " often apply ": null
     },
     {
         "linear algebra": "Linear Algebra"
@@ -525,10 +525,10 @@
         " when using ": null
     },
     {
-        "input-output model": "Input-Output Model"
+        "input-output models": "Input-Output Model"
     },
     {
-        "s. Complicated mathematical models that have many variables may be consolidated by use of ": null
+        ". Complicated mathematical models that have many variables may be consolidated by use of ": null
     },
     {
         "vectors": "Vector Space"
@@ -645,7 +645,7 @@
         "parameters": "Parameter"
     },
     {
-        "that can be used to fit the model to the system it is intended to describe. If the modeling is done by an ": null
+        " that can be used to fit the model to the system it is intended to describe. If the modeling is done by an ": null
     },
     {
         "artificial neural network": "Artificial Neural Network"
@@ -678,10 +678,10 @@
         " to measure distances between observed and predicted data is a useful tool of assessing model fit. In statistics, decision theory, and some ": null
     },
     {
-        "economic model": "Economic Model"
+        "economic models": "Economic Model"
     },
     {
-        "s, a ": null
+        ", a ": null
     },
     {
         "loss function": "Loss Function"
@@ -693,7 +693,7 @@
         "statistical models": "Statistical Model"
     },
     {
-        "than models involving ": null
+        " than models involving ": null
     },
     {
         "differential equations": "Differential Equations"

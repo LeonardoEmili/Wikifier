@@ -51,10 +51,10 @@
         " or even arbitrarily large but parenthetical things such as footnotes, list-numbers or other markers, embedded images, and so on.     Many symbol systems include characters that are synonymous :   Latin-based alphabets distinguish lower-case from upper-case, but for many purposes string search is expected to ignore the distinction.   Many languages include ": null
     },
     {
-        "ligature": "Typographic Ligature"
+        "ligatures": "Typographic Ligature"
     },
     {
-        "s, where one composite character is equivalent to two or more other characters.   Many writing systems involve ": null
+        ", where one composite character is equivalent to two or more other characters.   Many writing systems involve ": null
     },
     {
         "diacritical marks": "Diacritical Marks"
@@ -84,7 +84,7 @@
         "algorithms": "Algorithm"
     },
     {
-        "can be classified by the number of patterns each uses.       Let m be the length of the pattern, n be the length of the searchable text and k & x7c;Σ & x7c; be the size of the alphabet.        :1.Asymptotic times are expressed using ": null
+        " can be classified by the number of patterns each uses.       Let m be the length of the pattern, n be the length of the searchable text and k & x7c;Σ & x7c; be the size of the alphabet.        :1.Asymptotic times are expressed using ": null
     },
     {
         "O, Ω, and Θ notation": "Big O Notation"
@@ -150,10 +150,10 @@
         " shown to the right recognizes the word MOMMY . This approach is frequently generalized in practice to search for arbitrary ": null
     },
     {
-        "regular expression": "Regular Expression"
+        "regular expressions": "Regular Expression"
     },
     {
-        "s.       ": null
+        ".       ": null
     },
     {
         "Knuth–Morris–Pratt": "Knuth–Morris–Pratt Algorithm"

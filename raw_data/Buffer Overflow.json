@@ -42,7 +42,7 @@
         "overwrites": "Overwrite"
     },
     {
-        "adjacent ": null
+        " adjacent ": null
     },
     {
         "memory": "Main Memory"
@@ -96,7 +96,7 @@
         "Programming languages": "Programming Language"
     },
     {
-        "commonly associated with buffer overflows include ": null
+        " commonly associated with buffer overflows include ": null
     },
     {
         "C": "C"
@@ -285,13 +285,13 @@
         "JPEGs": "Jpeg"
     },
     {
-        "is an example of the danger a heap overflow can present.          Manipulation of the buffer, which occurs before it is read or executed, may lead to the failure of an exploitation attempt. These manipulations can mitigate the threat of exploitation, but may not make it impossible. Manipulations could include conversion to upper or lower case, removal of ": null
+        " is an example of the danger a heap overflow can present.          Manipulation of the buffer, which occurs before it is read or executed, may lead to the failure of an exploitation attempt. These manipulations can mitigate the threat of exploitation, but may not make it impossible. Manipulations could include conversion to upper or lower case, removal of ": null
     },
     {
         "metacharacters": "Metacharacter"
     },
     {
-        "and filtering out of non-": null
+        " and filtering out of non-": null
     },
     {
         "alphanumeric": "Alphanumeric"
@@ -318,16 +318,16 @@
         " and ": null
     },
     {
-        "return-to-libc attack": "Return-To-Libc Attack"
+        "return-to-libc attacks": "Return-To-Libc Attack"
     },
     {
-        "s. The same methods can be used to avoid detection by ": null
+        ". The same methods can be used to avoid detection by ": null
     },
     {
-        "intrusion detection system": "Intrusion Detection System"
+        "intrusion detection systems": "Intrusion Detection System"
     },
     {
-        "s. In some cases, including where code is converted into ": null
+        ". In some cases, including where code is converted into ": null
     },
     {
         "Unicode": "Unicode"
@@ -351,7 +351,7 @@
         "intrusion prevention systems": "Intrusion Prevention System"
     },
     {
-        "will search for this pattern of no-op machine instructions in an attempt to detect shellcode in use. It is important to note that a NOP-sled does not necessarily contain only traditional no-op machine instructions; any instruction that does not corrupt the machine state to a point where the shellcode will not run can be used in place of the hardware assisted no-op. As a result, it has become common practice for exploit writers to compose the no-op sled with randomly chosen instructions which will have no real effect on the shellcode execution.     While this method greatly improves the chances that an attack will be successful, it is not without problems. Exploits using this technique still must rely on some amount of luck that they will guess offsets on the stack that are within the NOP-sled region. An incorrect guess will usually result in the target program crashing and could alert the ": null
+        " will search for this pattern of no-op machine instructions in an attempt to detect shellcode in use. It is important to note that a NOP-sled does not necessarily contain only traditional no-op machine instructions; any instruction that does not corrupt the machine state to a point where the shellcode will not run can be used in place of the hardware assisted no-op. As a result, it has become common practice for exploit writers to compose the no-op sled with randomly chosen instructions which will have no real effect on the shellcode execution.     While this method greatly improves the chances that an attack will be successful, it is not without problems. Exploits using this technique still must rely on some amount of luck that they will guess offsets on the stack that are within the NOP-sled region. An incorrect guess will usually result in the target program crashing and could alert the ": null
     },
     {
         "system administrator": "System Administrator"
@@ -375,7 +375,7 @@
         "Internet worms": "Internet Worm"
     },
     {
-        "that exploit stack buffer overflow vulnerabilities.     This method also allows shellcode to be placed after the overwritten return address on the Windows platform. Since executables are mostly based at address 0x00400000 and x86 is a ": null
+        " that exploit stack buffer overflow vulnerabilities.     This method also allows shellcode to be placed after the overwritten return address on the Windows platform. Since executables are mostly based at address 0x00400000 and x86 is a ": null
     },
     {
         "Little Endian": "Little Endian"
@@ -618,10 +618,10 @@
         " add-ons include:     BufferShield    StackDefender      Executable space protection does not generally protect against ": null
     },
     {
-        "return-to-libc attack": "Return-To-Libc Attack"
+        "return-to-libc attacks": "Return-To-Libc Attack"
     },
     {
-        "s, or any other attack which does not rely on the execution of the attackers code. However, on ": null
+        ", or any other attack which does not rely on the execution of the attackers code. However, on ": null
     },
     {
         "64-bit": "64-Bit"
@@ -642,10 +642,10 @@
         " addresses at which functions and variables can be found can make exploitation of a buffer overflow more difficult, but not impossible. It also forces the attacker to tailor the exploitation attempt to the individual system, which foils the attempts of ": null
     },
     {
-        "internet worm": "Internet Worm"
+        "internet worms": "Internet Worm"
     },
     {
-        "s.  A similar but less effective method is to ": null
+        ".  A similar but less effective method is to ": null
     },
     {
         "rebase": "Rebasing"
@@ -690,10 +690,10 @@
         " to evade detection by heuristic packet scanners and ": null
     },
     {
-        "intrusion detection system": "Intrusion Detection System"
+        "intrusion detection systems": "Intrusion Detection System"
     },
     {
-        "s.       Checking for buffer overflows and patching the bugs that cause them naturally helps prevent buffer overflows. One common automated technique for discovering them is ": null
+        ".       Checking for buffer overflows and patching the bugs that cause them naturally helps prevent buffer overflows. One common automated technique for discovering them is ": null
     },
     {
         "fuzzing": "Fuzzer"
@@ -774,10 +774,10 @@
         ", to run on the console without the need for hardware modifications, known as ": null
     },
     {
-        "modchip": "Modchip"
+        "modchips": "Modchip"
     },
     {
-        "s.  The ": null
+        ".  The ": null
     },
     {
         "PS2 Independence Exploit": "Ps2 Independence Exploit"

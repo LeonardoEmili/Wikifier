@@ -201,10 +201,10 @@
         ". IECCA recommended a primitive I/O package to accompany any compiler . Most implementers avoided this by producing Coral interfaces to existing Fortran and, later, C libraries.     Perhaps CORALs most significant contribution to computing was the enforcement of quality control in commercial ": null
     },
     {
-        "compiler": "Compiler"
+        "compilers": "Compiler"
     },
     {
-        "s.  To have a CORAL compiler approved by IECCA, and thus allowing a compiler to be marketed as a CORAL 66 compiler, the candidate compiler had to compile and execute an official suite of 25 test programs and 6 benchmark programs. The process was part of the ": null
+        ".  To have a CORAL compiler approved by IECCA, and thus allowing a compiler to be marketed as a CORAL 66 compiler, the candidate compiler had to compile and execute an official suite of 25 test programs and 6 benchmark programs. The process was part of the ": null
     },
     {
         "BS": "British Standard"

@@ -339,7 +339,7 @@
         "Horn clauses": "Horn Clause"
     },
     {
-        "is called Horn-satisfiability, or HORN-SAT.   It can be solved in polynomial time by a single step of the ": null
+        " is called Horn-satisfiability, or HORN-SAT.   It can be solved in polynomial time by a single step of the ": null
     },
     {
         "Unit propagation": "Unit Propagation"
@@ -402,16 +402,16 @@
         ", neither 2-, nor Horn-, nor XOR-satisfiability is NP-complete, unlike SAT.          The restrictions above bound the considered formulae to be conjunctions of subformulae; each restriction states a specific form for all subformulae: for example, only binary clauses can be subformulae in 2CNF.     Schaefers dichotomy theorem states that, for any restriction to Boolean operators that can be used to form these subformulae, the corresponding satisfiability problem is in P or NP-complete. The membership in P of the satisfiability of 2CNF, Horn, and XOR-SAT formulae are special cases of this theorem.       An extension that has gained significant popularity since 2003 is  satisfiability modulo theories   that can enrich CNF formulas with linear constraints, arrays, all-different constraints, ": null
     },
     {
-        "uninterpreted function": "Uninterpreted Function"
+        "uninterpreted functions": "Uninterpreted Function"
     },
     {
-        "s, R. E. Bryant, S. M. German, and M. N. Velev, , in Analytic Tableaux and Related Methods, pp.  1–13, 1999. etc. Such extensions typically remain NP-complete, but very efficient solvers are now available that can handle many such kinds of constraints.     The satisfiability problem becomes more difficult if both for all  and there exists  ": null
+        ", R. E. Bryant, S. M. German, and M. N. Velev, , in Analytic Tableaux and Related Methods, pp.  1–13, 1999. etc. Such extensions typically remain NP-complete, but very efficient solvers are now available that can handle many such kinds of constraints.     The satisfiability problem becomes more difficult if both for all  and there exists  ": null
     },
     {
         "quantifiers": "Quantifier"
     },
     {
-        "are allowed to bind the Boolean variables.   An example of such an expression would be ; it is valid, since for all values of x and y, an appropriate value of z can be found, viz. zTRUE if both x and y are FALSE, and zFALSE else.   SAT itself uses only ∃ quantifiers.   If only ∀ quantifiers are allowed instead, the so-called  tautology problem is obtained, which is ": null
+        " are allowed to bind the Boolean variables.   An example of such an expression would be ; it is valid, since for all values of x and y, an appropriate value of z can be found, viz. zTRUE if both x and y are FALSE, and zFALSE else.   SAT itself uses only ∃ quantifiers.   If only ∀ quantifiers are allowed instead, the so-called  tautology problem is obtained, which is ": null
     },
     {
         "co-NP-complete": "Co-Np-Complete"
@@ -486,10 +486,10 @@
         " generalization of SAT. It asks for the maximum number of clauses, which can be satisfied by any assignment. It has efficient ": null
     },
     {
-        "approximation algorithm": "Approximation Algorithm"
+        "approximation algorithms": "Approximation Algorithm"
     },
     {
-        "s, but is NP-hard to solve exactly. Worse still, it is ": null
+        ", but is NP-hard to solve exactly. Worse still, it is ": null
     },
     {
         "APX": "Apx"
@@ -516,10 +516,10 @@
         ", ": null
     },
     {
-        "constraint satisfaction problem": "Constraint Satisfaction Problem"
+        "constraint satisfaction problems": "Constraint Satisfaction Problem"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "0-1 integer programming": "0-1 Integer Programming"
@@ -630,10 +630,10 @@
         " of ": null
     },
     {
-        "FPGA": "Fpga"
+        "FPGAs": "Fpga"
     },
     {
-        "s,  ": null
+        ",  ": null
     },
     {
         "planning": "Automated Planning And Scheduling"

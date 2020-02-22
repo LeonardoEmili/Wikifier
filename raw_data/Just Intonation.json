@@ -225,10 +225,10 @@
         " or ": null
     },
     {
-        "fourth": "Perfect Fourth"
+        "fourths": "Perfect Fourth"
     },
     {
-        "s, as follows:          The ratios are computed with respect to C . Starting from C, they are obtained by moving six steps  to the left and six to the right. Each step consists of a multiplication of the previous pitch by 2/3 , 3/2 , or their ": null
+        ", as follows:          The ratios are computed with respect to C . Starting from C, they are obtained by moving six steps  to the left and six to the right. Each step consists of a multiplication of the previous pitch by 2/3 , 3/2 , or their ": null
     },
     {
         "inversions": "Inversion"
@@ -285,10 +285,10 @@
         " notes with almost identical pitch. The ratios are all expressed relative to C in the centre of this diagram . They are computed in two steps:     For each cell of the table, a base ratio is obtained by multiplying the corresponding factors. For instance, the base ratio for the lower-left cell is 1/9  ×  1/5    1/45.   The base ratio is then multiplied by a negative or positive power of 2, as large as needed to bring it within the range of the octave starting from C . For instance, the base ratio for the lower left cell is multiplied by 2 6 , and the resulting ratio is 64:45, which is a number between 1:1 and 2:1.     Note that the powers of 2 used in the second step may be interpreted as ascending or descending ": null
     },
     {
-        "octave": "Octave"
+        "octaves": "Octave"
     },
     {
-        "s. For instance, multiplying the frequency of a note by 2 6 means increasing it by 6 octaves. Moreover, each row of the table may be considered to be a sequence of fifths , and each column a sequence of major thirds . For instance, in the first row of the table, there is an ascending fifth from D and A, and another one from A to E. This suggests an alternative but equivalent method for computing the same ratios. For instance, one can obtain A, starting from C, by moving one cell to the left and one upward in the table, which means descending by a fifth and ascending by a major third:     : ×   .     Since this is below C, one needs to move up by an octave to end up within the desired range of ratios :     : ×   .     A 12-tone scale is obtained by removing one note for each couple of enharmonic notes. This can be done in at least three ways, which have in common the removal of G, according to a convention which was valid even for C-based Pythagorean and quarter-comma meantone scales. Note that it is a ": null
+        ". For instance, multiplying the frequency of a note by 2 6 means increasing it by 6 octaves. Moreover, each row of the table may be considered to be a sequence of fifths , and each column a sequence of major thirds . For instance, in the first row of the table, there is an ascending fifth from D and A, and another one from A to E. This suggests an alternative but equivalent method for computing the same ratios. For instance, one can obtain A, starting from C, by moving one cell to the left and one upward in the table, which means descending by a fifth and ascending by a major third:     : ×   .     Since this is below C, one needs to move up by an octave to end up within the desired range of ratios :     : ×   .     A 12-tone scale is obtained by removing one note for each couple of enharmonic notes. This can be done in at least three ways, which have in common the removal of G, according to a convention which was valid even for C-based Pythagorean and quarter-comma meantone scales. Note that it is a ": null
     },
     {
         "diminished fifth": "Diminished Fifth"
@@ -315,10 +315,10 @@
         ", the just diatonic scale described above is used, though there are different possibilities, for instance for the sixth pitch , and further modifications may be made to all pitches excepting Sa and Pa.           Some accounts of Indian intonation system cite a given 22 ": null
     },
     {
-        "Shruti": "Shruti"
+        "Shrutis": "Shruti"
     },
     {
-        "s.   According to some musicians, one has a scale of a given 12 pitches and ten in addition      Where we have two ratios for a given letter name, we have a difference of 81:80 , which is known as the ": null
+        ".   According to some musicians, one has a scale of a given 12 pitches and ten in addition      Where we have two ratios for a given letter name, we have a difference of 81:80 , which is known as the ": null
     },
     {
         "syntonic comma": "Syntonic Comma"
@@ -327,16 +327,16 @@
         ". One can see the symmetry, looking at it from the tonic, then the octave.              Some fixed just intonation scales and systems, such as the diatonic scale above, produce ": null
     },
     {
-        "wolf interval": "Wolf Interval"
+        "wolf intervals": "Wolf Interval"
     },
     {
-        "s. The above scale allows a minor tone to occur next to a semitone which produces the awkward ratio 32:27 for D-F, and still worse, a minor tone next to a fourth giving 40:27 for D-A. Moving D down to 10:9 alleviates these difficulties but creates new ones: D-G becomes 27:20, and D-B becomes 27:16. This fundamental problem arises in any system of tuning using a limited number of notes.     One can have more ": null
+        ". The above scale allows a minor tone to occur next to a semitone which produces the awkward ratio 32:27 for D-F, and still worse, a minor tone next to a fourth giving 40:27 for D-A. Moving D down to 10:9 alleviates these difficulties but creates new ones: D-G becomes 27:20, and D-B becomes 27:16. This fundamental problem arises in any system of tuning using a limited number of notes.     One can have more ": null
     },
     {
         "frets": "Fret"
     },
     {
-        "on a ": null
+        " on a ": null
     },
     {
         "guitar": "Guitar"
@@ -366,7 +366,7 @@
         "Synthesizers": "Synthesizer"
     },
     {
-        "have proven a valuable tool for composers wanting to experiment with just intonation. They can be easily retuned with a ": null
+        " have proven a valuable tool for composers wanting to experiment with just intonation. They can be easily retuned with a ": null
     },
     {
         "microtuner": "Microtuner"
@@ -396,7 +396,7 @@
         "leading tones": "Leading Tone"
     },
     {
-        "so that the pitches differ from equal temperament.     Trombones have a slide that allows arbitrary tuning during performance.     Wind instruments with valves are biased towards natural tuning and must be micro-tuned if equal temperament is required.     Other wind instruments, although built to a certain scale, can be micro-tuned to a certain extent by using the embouchure or adjustments to fingering.       Composers often impose a ": null
+        " so that the pitches differ from equal temperament.     Trombones have a slide that allows arbitrary tuning during performance.     Wind instruments with valves are biased towards natural tuning and must be micro-tuned if equal temperament is required.     Other wind instruments, although built to a certain scale, can be micro-tuned to a certain extent by using the embouchure or adjustments to fingering.       Composers often impose a ": null
     },
     {
         "limit": "Limit"
@@ -552,10 +552,10 @@
         " pitches, indicated in a legend or directly in the score, allowing performers to readily use electronic tuning devices if desired.  Beginning in the 1960s, Ben Johnston had proposed an alternative approach, redefining the understanding of conventional symbols and adding further accidentals, each designed to extend the notation into higher ": null
     },
     {
-        "prime limit": "Prime Limit"
+        "prime limits": "Prime Limit"
     },
     {
-        "s. His notation begins with the 16th-century Italian definitions of intervals and continues from there.  , KyleGann.com. Accessed February 2016.     Johnston‘s method is based on a diatonic C Major scale tuned in JI, in which the interval between D and A is one ": null
+        ". His notation begins with the 16th-century Italian definitions of intervals and continues from there.  , KyleGann.com. Accessed February 2016.     Johnston‘s method is based on a diatonic C Major scale tuned in JI, in which the interval between D and A is one ": null
     },
     {
         "syntonic comma": "Syntonic Comma"

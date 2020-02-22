@@ -30,7 +30,7 @@
         "Circuit diagrams": "Circuit Diagram"
     },
     {
-        "were previously used to specify the configuration, but this is increasingly rare due to the advent of ": null
+        " were previously used to specify the configuration, but this is increasingly rare due to the advent of ": null
     },
     {
         "electronic design automation": "Electronic Design Automation"
@@ -42,16 +42,16 @@
         "programmable": "Programmable Logic Device"
     },
     {
-        " logic block": "Logic Block"
+        "logic blocks": "Logic Block"
     },
     {
-        "s, and a hierarchy of reconfigurable interconnects that allow the blocks to be wired together , like many logic gates that can be inter-wired in different configurations. ": null
+        ", and a hierarchy of reconfigurable interconnects that allow the blocks to be wired together , like many logic gates that can be inter-wired in different configurations. ": null
     },
     {
         "Logic blocks": "Logic Block"
     },
     {
-        "can be configured to perform complex ": null
+        " can be configured to perform complex ": null
     },
     {
         "combinational functions": "Combinational Logic"
@@ -63,7 +63,7 @@
         "logic gates": "Logic Gate"
     },
     {
-        "like ": null
+        " like ": null
     },
     {
         "AND": "And Gate"
@@ -111,7 +111,7 @@
         "logic gates": "Logic Gate"
     },
     {
-        "and RAM blocks to implement complex digital computations. As FPGA designs employ very fast I/O rates and bidirectional data ": null
+        " and RAM blocks to implement complex digital computations. As FPGA designs employ very fast I/O rates and bidirectional data ": null
     },
     {
         "buses": "Bus"
@@ -156,28 +156,28 @@
         " unacceptably, and to set higher rates on heavily loaded pins on high-speed channels that would otherwise run too slowly.    Also common are quartz-": null
     },
     {
-        "crystal oscillator": "Crystal Oscillator"
+        "crystal oscillators": "Crystal Oscillator"
     },
     {
-        "s, on-chip resistance-capacitance oscillators, and ": null
+        ", on-chip resistance-capacitance oscillators, and ": null
     },
     {
         "phase-locked loops": "Phase-Locked Loop"
     },
     {
-        "with embedded ": null
+        " with embedded ": null
     },
     {
         "voltage-controlled oscillators": "Voltage-Controlled Oscillator"
     },
     {
-        "used for clock generation and management and for high-speed serializer-deserializer transmit clocks and receiver clock recovery. Fairly common are differential ": null
+        " used for clock generation and management and for high-speed serializer-deserializer transmit clocks and receiver clock recovery. Fairly common are differential ": null
     },
     {
         "comparators": "Comparator"
     },
     {
-        "on input pins designed to be connected to ": null
+        " on input pins designed to be connected to ": null
     },
     {
         "differential signaling": "Differential Signaling"
@@ -273,7 +273,7 @@
         "lookup tables": "Lookup Table"
     },
     {
-        ". Clive Maxfield, Programmable Logic DesignLine, . May 15, 2006. Retrieved February 5, 2009. More than 20 years later, Freeman was entered into the ": null
+        " . Clive Maxfield, Programmable Logic DesignLine, . May 15, 2006. Retrieved February 5, 2009. More than 20 years later, Freeman was entered into the ": null
     },
     {
         "National Inventors Hall of Fame": "National Inventors Hall Of Fame"
@@ -324,7 +324,7 @@
         "logic blocks": "Logic Block"
     },
     {
-        "and interconnects of traditional FPGAs with embedded ": null
+        " and interconnects of traditional FPGAs with embedded ": null
     },
     {
         "microprocessors": "Microprocessor"

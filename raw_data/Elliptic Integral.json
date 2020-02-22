@@ -51,10 +51,10 @@
         " of degree 3 or 4 with no repeated roots, and  is a constant.     In general, integrals in this form cannot be expressed in terms of ": null
     },
     {
-        "elementary function": "Elementary Function"
+        "elementary functions": "Elementary Function"
     },
     {
-        "s. Exceptions to this general rule are when  has repeated roots, or when  contains no odd powers of . However, with the appropriate ": null
+        ". Exceptions to this general rule are when  has repeated roots, or when  contains no odd powers of . However, with the appropriate ": null
     },
     {
         "reduction formula": "Integration By Reduction Formulae"
@@ -66,7 +66,7 @@
         "Legendre canonical forms": "Legendre Form"
     },
     {
-        ".     Besides the Legendre form given below, the elliptic integrals may also be expressed in ": null
+        " .     Besides the Legendre form given below, the elliptic integrals may also be expressed in ": null
     },
     {
         "Carlson symmetric form": "Carlson Symmetric Form"
@@ -93,10 +93,10 @@
         ".     Specifying the value of any one of these quantities determines the others. Note that  also depends on . Some additional relationships involving u include     :       u,           u.     The latter is sometimes called the delta amplitude and written as . Sometimes the literature also refers to the complementary parameter, the complementary modulus, or the complementary modular angle. These are further defined in the article on ": null
     },
     {
-        "quarter period": "Quarter Period"
+        "quarter periods": "Quarter Period"
     },
     {
-        "s.       The incomplete elliptic integral of the first kind  is defined as     : F F  F     .     This is the trigonometric form of the integral; substituting  and , one obtains the Legendre normal form:     : F         Equivalently, in terms of the amplitude and modular angle one has:     : F F         In this notation, the use of a vertical bar as delimiter indicates that the argument following it is the parameter , while the backslash indicates that it is the modular angle. The use of a semicolon implies that the argument preceding it is the sine of the amplitude:     : F F  F F.     This potentially confusing use of different argument delimiters is traditional in elliptic integrals and much of the notation is compatible with that used in the reference book by ": null
+        ".       The incomplete elliptic integral of the first kind  is defined as     : F F  F     .     This is the trigonometric form of the integral; substituting  and , one obtains the Legendre normal form:     : F         Equivalently, in terms of the amplitude and modular angle one has:     : F F         In this notation, the use of a vertical bar as delimiter indicates that the argument following it is the parameter , while the backslash indicates that it is the modular angle. The use of a semicolon implies that the argument preceding it is the sine of the amplitude:     : F F  F F.     This potentially confusing use of different argument delimiters is traditional in elliptic integrals and much of the notation is compatible with that used in the reference book by ": null
     },
     {
         "Abramowitz and Stegun": "Abramowitz And Stegun"

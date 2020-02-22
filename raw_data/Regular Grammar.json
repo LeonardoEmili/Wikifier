@@ -36,7 +36,7 @@
         "production rules": "Production"
     },
     {
-        "in P are of one of the following forms:   A → a, where A is a ": null
+        " in P are of one of the following forms:   A → a, where A is a ": null
     },
     {
         "non-terminal": "Terminal And Nonterminal Symbols"
@@ -63,10 +63,10 @@
         ", such that the grammar generates exactly the language the automaton accepts. Hopcroft and Ullman 1979, p.218-219, Theorem 9.1 and 9.2 Hence, the right regular grammars generate exactly all ": null
     },
     {
-        "regular language": "Regular Language"
+        "regular languages": "Regular Language"
     },
     {
-        "s. The left regular grammars describe the reverses of all such languages, that is, exactly the regular languages as well.     Every strict right regular grammar is extended right regular, while every extended right regular grammar can be made strict by inserting new nonterminals, such that the result generates the same language; hence, extended right regular grammars generate the regular languages as well. Analogously, so do the extended left regular grammars.     If empty productions are disallowed, only all regular languages that do not include the empty string can be generated. Hopcroft and Ullman 1979, p.229, Exercise 9.2     While regular grammars can only describe regular languages, the converse is not true: regular languages can also be described by non-regular grammars.       If mixing of left-regular and right-regular rules is allowed, we still have a ": null
+        ". The left regular grammars describe the reverses of all such languages, that is, exactly the regular languages as well.     Every strict right regular grammar is extended right regular, while every extended right regular grammar can be made strict by inserting new nonterminals, such that the result generates the same language; hence, extended right regular grammars generate the regular languages as well. Analogously, so do the extended left regular grammars.     If empty productions are disallowed, only all regular languages that do not include the empty string can be generated. Hopcroft and Ullman 1979, p.229, Exercise 9.2     While regular grammars can only describe regular languages, the converse is not true: regular languages can also be described by non-regular grammars.       If mixing of left-regular and right-regular rules is allowed, we still have a ": null
     },
     {
         "linear grammar": "Linear Grammar"
@@ -75,9 +75,9 @@
         ", but not necessarily a regular one.   What is more, such a grammar need not generate a regular language: all linear grammars can be easily brought into this form, and hence, such grammars can generate exactly all ": null
     },
     {
-        "linear language": "Linear Grammar"
+        "linear languages": "Linear Grammar"
     },
     {
-        "s, including nonregular ones.     For instance, the grammar G with N , Σ , P with start symbol S": null
+        ", including nonregular ones.     For instance, the grammar G with N , Σ , P with start symbol S": null
     }
 ]

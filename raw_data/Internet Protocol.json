@@ -18,7 +18,7 @@
         "datagrams": "Datagram"
     },
     {
-        "across network boundaries. Its ": null
+        " across network boundaries. Its ": null
     },
     {
         "routing": "Routing"
@@ -111,10 +111,10 @@
         " on the public Internet since c. 2006.          The Internet Protocol is responsible for addressing ": null
     },
     {
-        "host interface": "Host Interface"
+        "host interfaces": "Host Interface"
     },
     {
-        "s, encapsulating data into datagrams  and routing datagrams from a source host interface to a destination host interface across one or more IP networks.  For these purposes, the Internet Protocol defines the format of packets and provides an addressing system.     Each datagram has two components: a ": null
+        ", encapsulating data into datagrams  and routing datagrams from a source host interface to a destination host interface across one or more IP networks.  For these purposes, the Internet Protocol defines the format of packets and provides an addressing system.     Each datagram has two components: a ": null
     },
     {
         "header": "Header"
@@ -135,10 +135,10 @@
         " includes source IP address, destination IP address, and other metadata needed to route and deliver the datagram. The payload is the data that is transported. This method of nesting the data payload in a packet with a header is called encapsulation.     IP addressing entails the assignment of IP addresses and associated parameters to host interfaces. The address space is divided into ": null
     },
     {
-        "subnetwork": "Subnetwork"
+        "subnetworks": "Subnetwork"
     },
     {
-        "s, involving the designation of network prefixes. IP routing is performed by all hosts, as well as ": null
+        ", involving the designation of network prefixes. IP routing is performed by all hosts, as well as ": null
     },
     {
         "routers": "Router"
@@ -147,22 +147,22 @@
         ", whose main function is to transport packets across network boundaries. Routers communicate with one another via specially designed ": null
     },
     {
-        "routing protocol": "Routing Protocol"
+        "routing protocols": "Routing Protocol"
     },
     {
-        "s, either ": null
+        ", either ": null
     },
     {
         "interior gateway protocols": "Interior Gateway Protocol"
     },
     {
-        "or ": null
+        " or ": null
     },
     {
-        "exterior gateway protocol": "Exterior Gateway Protocol"
+        "exterior gateway protocols": "Exterior Gateway Protocol"
     },
     {
-        "s, as needed for the topology of the network.          In May 1974, the ": null
+        ", as needed for the topology of the network.          In May 1974, the ": null
     },
     {
         "Institute of Electrical and Electronics Engineers": "Institute Of Electrical And Electronics Engineers"
@@ -195,10 +195,10 @@
         " among ": null
     },
     {
-        "network node": "Network Node"
+        "network nodes": "Network Node"
     },
     {
-        "s. A central control component of this model was the Transmission Control Program that incorporated both connection-oriented links and datagram services between hosts. The monolithic Transmission Control Program was later divided into a modular architecture consisting of the ": null
+        ". A central control component of this model was the Transmission Control Program that incorporated both connection-oriented links and datagram services between hosts. The monolithic Transmission Control Program was later divided into a modular architecture consisting of the ": null
     },
     {
         "Transmission Control Protocol": "Transmission Control Protocol"
@@ -315,10 +315,10 @@
         ", the intelligence in the network is purposely located in the ": null
     },
     {
-        "end node": "End Node"
+        "end nodes": "End Node"
     },
     {
-        "s.     As a consequence of this design, the Internet Protocol only provides ": null
+        ".     As a consequence of this design, the Internet Protocol only provides ": null
     },
     {
         "best-effort delivery": "Best-Effort Delivery"
@@ -366,7 +366,7 @@
         "upper layer protocols": "Upper Layer Protocol"
     },
     {
-        "of the Internet protocol suite are responsible for resolving reliability issues. For example, a host may ": null
+        " of the Internet protocol suite are responsible for resolving reliability issues. For example, a host may ": null
     },
     {
         "buffer": "Data Buffer"

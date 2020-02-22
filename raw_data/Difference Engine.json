@@ -36,7 +36,7 @@
         "mathematical functions": "Mathematical Function"
     },
     {
-        "commonly used by engineers, scientists and navigators, including ": null
+        " commonly used by engineers, scientists and navigators, including ": null
     },
     {
         "logarithm": "Logarithm"
@@ -72,7 +72,7 @@
         "Charles Babbages": "Charles Babbage"
     },
     {
-        "desire to build a mechanism to automate the process.                The notion of a ": null
+        " desire to build a mechanism to automate the process.                The notion of a ": null
     },
     {
         "mechanical calculator": "Mechanical Calculator"
@@ -354,7 +354,7 @@
         "derivatives": "Derivative"
     },
     {
-        "of the polynomial at the same value of X. Each of the columns from 3 to N is set to a value derived from the first and higher derivatives of the polynomial.       In the Babbage design, one iteration  happens for each rotation of the main shaft. Odd and even columns alternately perform an addition in one cycle. The sequence of operations for column n is thus:     Count up, receiving the value from column n+1   Perform ": null
+        " of the polynomial at the same value of X. Each of the columns from 3 to N is set to a value derived from the first and higher derivatives of the polynomial.       In the Babbage design, one iteration  happens for each rotation of the main shaft. Odd and even columns alternately perform an addition in one cycle. The sequence of operations for column n is thus:     Count up, receiving the value from column n+1   Perform ": null
     },
     {
         "carry propagation": "Carry Propagation"
@@ -423,10 +423,10 @@
         ", expressed as   : f an xn + a x +   + a2 x2 + a1 x + a0     the initial values can be calculated directly from the constant coefficients a 0 , a 1 ,a 2 , ..., a n  without calculating any data points. The initial values are thus:     Col 10 a 0   Col 20 a 1 + a 2 + a 3 + a 4 + ... + a n  a 2 + 6a 3 + 14a 4 + 30a 5 + ...   Col 40 6a 3 + 36a 4 + 150a 5 + ...   Col 50 24a 4 + 240a 5 + ...   Col 60 120a 5 + ...   ...       Many commonly used functions are ": null
     },
     {
-        "analytic function": "Analytic Function"
+        "analytic functions": "Analytic Function"
     },
     {
-        "s, which can be expressed as ": null
+        ", which can be expressed as ": null
     },
     {
         "power series": "Power Series"
@@ -450,7 +450,7 @@
         "derivatives": "Derivative"
     },
     {
-        "at one point. For many functions the higher derivatives are trivial to obtain; for instance, the ": null
+        " at one point. For many functions the higher derivatives are trivial to obtain; for instance, the ": null
     },
     {
         "sine": "Sine"

@@ -33,7 +33,7 @@
         "CPU registers": "Processor Register"
     },
     {
-        "or memory.     Machine code is a strictly numerical language which is intended to run as fast as possible, and may be regarded as the lowest-level representation of a ": null
+        " or memory.     Machine code is a strictly numerical language which is intended to run as fast as possible, and may be regarded as the lowest-level representation of a ": null
     },
     {
         "compiled": "Compiler"
@@ -90,10 +90,10 @@
         " or assembly language. The source code is then translated to executable machine code by utilities such as ": null
     },
     {
-        "compiler": "Compiler"
+        "compilers": "Compiler"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "assemblers": "Assembler"
@@ -150,10 +150,10 @@
         " and other special purpose or ": null
     },
     {
-        "scripting language": "Scripting Language"
+        "scripting languages": "Scripting Language"
     },
     {
-        "s. which are not translated into machine code. However, the  interpreter  itself, which may be seen as an executor or processor, performing the instructions of the source code, typically consists of directly executable machine code .     Machine code is by definition the lowest level of programming detail visible to the programmer, but internally many processors use ": null
+        ". which are not translated into machine code. However, the  interpreter  itself, which may be seen as an executor or processor, performing the instructions of the source code, typically consists of directly executable machine code .     Machine code is by definition the lowest level of programming detail visible to the programmer, but internally many processors use ": null
     },
     {
         "microcode": "Microcode"
@@ -177,7 +177,7 @@
         "bits": "Bit"
     },
     {
-        "that by physical design correspond to different commands to the machine. Thus, the instruction set is specific to a class of processors using the same architecture. Successor or derivative processor designs often include all the instructions of a predecessor and may add additional instructions. Occasionally, a successor design will discontinue or alter the meaning of some instruction code , affecting code compatibility to some extent; even nearly completely compatible processors may show slightly different behavior for some instructions, but this is rarely a problem. Systems may also differ in other details, such as memory arrangement, operating systems, or ": null
+        " that by physical design correspond to different commands to the machine. Thus, the instruction set is specific to a class of processors using the same architecture. Successor or derivative processor designs often include all the instructions of a predecessor and may add additional instructions. Occasionally, a successor design will discontinue or alter the meaning of some instruction code , affecting code compatibility to some extent; even nearly completely compatible processors may show slightly different behavior for some instructions, but this is rarely a problem. Systems may also differ in other details, such as memory arrangement, operating systems, or ": null
     },
     {
         "peripheral devices": "Peripheral"
@@ -243,7 +243,7 @@
         "Conditional jumps": "Conditional Branch"
     },
     {
-        "are taken or not depending on some condition.          A much more readable rendition of machine language, called ": null
+        " are taken or not depending on some condition.          A much more readable rendition of machine language, called ": null
     },
     {
         "assembly language": "Assembly Language"
@@ -255,7 +255,7 @@
         "mnemonic codes": "Assembly Languageopcode Mnemonics And Extended Mnemonics"
     },
     {
-        "to refer to machine code instructions, rather than using the instructions numeric values directly. For example, on the ": null
+        " to refer to machine code instructions, rather than using the instructions numeric values directly. For example, on the ": null
     },
     {
         "Zilog Z80": "Zilog Z80"
@@ -276,10 +276,10 @@
         " provides a specific example for a machine code whose instructions are always 32 bits long. The general type of instruction is given by the op field, the highest 6 bits. J-type and I-type instructions are fully specified by op. R-type instructions include an additional field funct to determine the exact operation. The fields used in these types are:     6 5 5 5 5 6 bits   R-type   I-type   J-type     rs, rt, and rd indicate register operands; shamt gives a shift amount; and the address or immediate fields contain an operand directly.     For example, adding the registers 1 and 2 and placing the result in register 6 is encoded:       0 1 2 6 0 32 decimal   000000 00001 00010 00110 00000 100000 binary     Load a value into register 8, taken from the memory cell 68 cells after the location listed in register 3:       35 3 8 68 decimal   100011 00011 01000 00000 00001 000100 binary     Jumping to the address 1024:       2 1024 decimal   000010 00000 00000 00000 10000 000000 binary       In some ": null
     },
     {
-        "computer architecture": "Computer Architecture"
+        "computer architectures": "Computer Architecture"
     },
     {
-        "s, the machine code is implemented by an even more fundamental underlying layer called ": null
+        ", the machine code is implemented by an even more fundamental underlying layer called ": null
     },
     {
         "microcode": "Microcode"
@@ -288,10 +288,10 @@
         ", providing a common machine language interface across a line or family of different models of computer with widely different underlying ": null
     },
     {
-        "dataflow": "Dataflow"
+        "dataflows": "Dataflow"
     },
     {
-        "s. This is done to facilitate ": null
+        ". This is done to facilitate ": null
     },
     {
         "porting": "Porting"
@@ -324,10 +324,10 @@
         " , which is either executed by an interpreter or itself compiled into machine code for faster execution. An exception is when a processor is designed to use a particular bytecode directly as its machine code, such as is the case with ": null
     },
     {
-        "Java processor": "Java Processor"
+        "Java processors": "Java Processor"
     },
     {
-        "s.     Machine code and assembly code are sometimes called  native code when referring to platform-dependent parts of language features or libraries.        The ": null
+        ".     Machine code and assembly code are sometimes called  native code when referring to platform-dependent parts of language features or libraries.        The ": null
     },
     {
         "Harvard architecture": "Harvard Architecture"

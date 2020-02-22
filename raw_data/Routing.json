@@ -9,10 +9,10 @@
         " or between or across multiple networks. Broadly, routing is performed in many types of networks, including ": null
     },
     {
-        "circuit-switched network": "Circuit Switching"
+        "circuit-switched networks": "Circuit Switching"
     },
     {
-        "s, such as the ": null
+        ", such as the ": null
     },
     {
         "public switched telephone network": "Public Switched Telephone Network"
@@ -21,10 +21,10 @@
         " , and ": null
     },
     {
-        "computer network": "Computer Network"
+        "computer networks": "Computer Network"
     },
     {
-        "s, such as the ": null
+        ", such as the ": null
     },
     {
         "Internet": "Internet"
@@ -36,7 +36,7 @@
         "network packets": "Network Packet"
     },
     {
-        "from their source toward their destination through intermediate ": null
+        " from their source toward their destination through intermediate ": null
     },
     {
         "network nodes": "Node"
@@ -90,19 +90,19 @@
         "computers": "Computer"
     },
     {
-        "also forward packets and perform routing, although they have no specially optimized hardware for the task.     The routing process usually directs forwarding on the basis of ": null
+        " also forward packets and perform routing, although they have no specially optimized hardware for the task.     The routing process usually directs forwarding on the basis of ": null
     },
     {
-        "routing table": "Routing Table"
+        "routing tables": "Routing Table"
     },
     {
-        "s, which maintain a record of the routes to various network destinations. Routing tables may be specified by an administrator, learned by observing network traffic or built with the assistance of ": null
+        ", which maintain a record of the routes to various network destinations. Routing tables may be specified by an administrator, learned by observing network traffic or built with the assistance of ": null
     },
     {
-        "routing protocol": "Routing Protocol"
+        "routing protocols": "Routing Protocol"
     },
     {
-        "s.     Routing, in a narrower sense of the term, often refers to ": null
+        ".     Routing, in a narrower sense of the term, often refers to ": null
     },
     {
         "IP routing": "Ip Routing"
@@ -123,10 +123,10 @@
         "es are structured and that similar addresses imply proximity within the network. Structured addresses allow a single routing table entry to represent the route to a group of devices. In large networks, structured addressing outperforms unstructured addressing . Routing has become the dominant form of addressing on the Internet. Bridging is still widely used within ": null
     },
     {
-        "local area network": "Local Area Network"
+        "local area networks": "Local Area Network"
     },
     {
-        "s.           Routing schemes differ in how they deliver messages:   ": null
+        ".           Routing schemes differ in how they deliver messages:   ": null
     },
     {
         "unicast": "Unicast"
@@ -189,10 +189,10 @@
         " attempts to solve this problem by constructing routing tables automatically, based on information carried by ": null
     },
     {
-        "routing protocol": "Routing Protocol"
+        "routing protocols": "Routing Protocol"
     },
     {
-        "s, allowing the network to act nearly autonomously in avoiding network failures and blockages. Dynamic routing dominates the Internet. Examples of dynamic-routing protocols and algorithms include ": null
+        ", allowing the network to act nearly autonomously in avoiding network failures and blockages. Dynamic routing dominates the Internet. Examples of dynamic-routing protocols and algorithms include ": null
     },
     {
         "Routing Information Protocol": "Routing Information Protocol"
@@ -246,7 +246,7 @@
         "mobile ad hoc networks": "Mobile Ad Hoc Network"
     },
     {
-        "is the optimized Link State Routing Protocol . RFC 3626 OLSR is proactive; it uses Hello and Topology Control messages to discover and disseminate link-state information through the mobile ad hoc network. Using Hello messages, each node discovers 2-hop neighbor information and elects a set of multipoint relays . MPRs distinguish OLSR from other link-state routing protocols.           Distance vector and link state routing are both intra-domain routing protocols. They are used inside an ": null
+        " is the optimized Link State Routing Protocol . RFC 3626 OLSR is proactive; it uses Hello and Topology Control messages to discover and disseminate link-state information through the mobile ad hoc network. Using Hello messages, each node discovers 2-hop neighbor information and elects a set of multipoint relays . MPRs distinguish OLSR from other link-state routing protocols.           Distance vector and link state routing are both intra-domain routing protocols. They are used inside an ": null
     },
     {
         "autonomous system": "Autonomous System"
@@ -393,7 +393,7 @@
         "internet service providers": "Internet Service Provider"
     },
     {
-        ", each of which controls routes involving its network, at multiple levels. First, AS-level paths are selected via the ": null
+        " , each of which controls routes involving its network, at multiple levels. First, AS-level paths are selected via the ": null
     },
     {
         "BGP": "Border Gateway Protocol"

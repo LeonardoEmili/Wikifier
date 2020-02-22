@@ -60,7 +60,7 @@
         "computational resources": "Computational Resource"
     },
     {
-        "needed by the most efficient algorithm for a certain problem. The field of ": null
+        " needed by the most efficient algorithm for a certain problem. The field of ": null
     },
     {
         "recursion theory": "Recursion Theory"
@@ -84,7 +84,7 @@
         "strings": "String"
     },
     {
-        "or strings over some other ": null
+        " or strings over some other ": null
     },
     {
         "alphabet": "Alphabet"
@@ -99,10 +99,10 @@
         ", and often decision problems are defined as formal languages.     Using an encoding such as ": null
     },
     {
-        "Gödel numbering": "Gödel Numbering"
+        "Gödel numberings": "Gödel Numbering"
     },
     {
-        "s, any string can be encoded as a natural number, via which a decision problem can be defined as a subset of the natural numbers.       A classic example of a decidable decision problem is the set of prime numbers. It is possible to effectively decide whether a given natural number is prime by testing every possible nontrivial factor. Although much more efficient methods of ": null
+        ", any string can be encoded as a natural number, via which a decision problem can be defined as a subset of the natural numbers.       A classic example of a decidable decision problem is the set of prime numbers. It is possible to effectively decide whether a given natural number is prime by testing every possible nontrivial factor. Although much more efficient methods of ": null
     },
     {
         "primality testing": "Primality Testing"
@@ -141,10 +141,10 @@
         " and related to feasible reductions such as ": null
     },
     {
-        "polynomial-time reduction": "Polynomial-Time Reduction"
+        "polynomial-time reductions": "Polynomial-Time Reduction"
     },
     {
-        "s. A decision problem P is said to be  complete  for a set of decision problems S if P is a member of S and every problem in S can be reduced to P. Complete decision problems are used in ": null
+        ". A decision problem P is said to be  complete  for a set of decision problems S if P is a member of S and every problem in S can be reduced to P. Complete decision problems are used in ": null
     },
     {
         "computational complexity theory": "Computational Complexity Theory"
@@ -171,10 +171,10 @@
         " of decision problems under polynomial-time reducibility.            Decision problems are closely related to ": null
     },
     {
-        "function problem": "Function Problem"
+        "function problems": "Function Problem"
     },
     {
-        "s, which can have answers that are more complex than a simple yes or no. A corresponding function problem is given two numbers x and y, what is x divided by y? .     A ": null
+        ", which can have answers that are more complex than a simple yes or no. A corresponding function problem is given two numbers x and y, what is x divided by y? .     A ": null
     },
     {
         "function problem": "Function Problem"

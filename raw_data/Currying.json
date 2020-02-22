@@ -33,10 +33,10 @@
         ".     Currying is useful in both practical and theoretical settings. In ": null
     },
     {
-        "functional programming language": "Functional Programming Language"
+        "functional programming languages": "Functional Programming Language"
     },
     {
-        "s, and many others, it provides a way of automatically managing how arguments are passed to functions and exceptions. In ": null
+        ", and many others, it provides a way of automatically managing how arguments are passed to functions and exceptions. In ": null
     },
     {
         "theoretical computer science": "Theoretical Computer Science"
@@ -120,7 +120,7 @@
         "functions": "Function"
     },
     {
-        "with a single argument. Practical functions frequently take more arguments than this. ": null
+        " with a single argument. Practical functions frequently take more arguments than this. ": null
     },
     {
         "Frege": "Gottlob Frege"
@@ -150,7 +150,7 @@
         "programming languages": "Programming Language"
     },
     {
-        "almost always use curried functions to achieve multiple arguments; notable examples are ": null
+        " almost always use curried functions to achieve multiple arguments; notable examples are ": null
     },
     {
         "ML": "Ml Programming Language"
@@ -216,7 +216,7 @@
         "ordered pairs": "Ordered Pair"
     },
     {
-        "of the elements of X and Y respectively, that is, the ": null
+        " of the elements of X and Y respectively, that is, the ": null
     },
     {
         "Cartesian product": "Cartesian Product"
@@ -276,10 +276,10 @@
         ".       In the theory of ": null
     },
     {
-        "function space": "Function Space"
+        "function spaces": "Function Space"
     },
     {
-        "s, such as in ": null
+        ", such as in ": null
     },
     {
         "functional analysis": "Functional Analysis"
@@ -297,13 +297,13 @@
         "continuous functions": "Continuous Function"
     },
     {
-        "between ": null
+        " between ": null
     },
     {
-        "topological space": "Topological Space"
+        "topological spaces": "Topological Space"
     },
     {
-        "s. One writes    for the set of all functions from X to Y , and uses the notation YX to denote the subset of continuous functions. Here,   is the ": null
+        ". One writes    for the set of all functions from X to Y , and uses the notation YX to denote the subset of continuous functions. Here,   is the ": null
     },
     {
         "bijection": "Bijection"
@@ -372,10 +372,10 @@
         " is adjoint to ": null
     },
     {
-        "reduced suspension": "Reduced Suspension"
+        "reduced suspensions": "Reduced Suspension"
     },
     {
-        "s; this is commonly written as   :     where is the set of ": null
+        "; this is commonly written as   :     where is the set of ": null
     },
     {
         "homotopy class": "Homotopy Class"
@@ -414,10 +414,10 @@
         " and coexact ": null
     },
     {
-        "Puppe sequence": "Puppe Sequence"
+        "Puppe sequences": "Puppe Sequence"
     },
     {
-        "s.     In ": null
+        ".     In ": null
     },
     {
         "homological algebra": "Homological Algebra"
@@ -480,10 +480,10 @@
         " of ": null
     },
     {
-        "partially ordered set": "Partially Ordered Set"
+        "partially ordered sets": "Partially Ordered Set"
     },
     {
-        "s,   is a ": null
+        ",   is a ": null
     },
     {
         "continuous function": "Continuous Function"
@@ -582,10 +582,10 @@
         " that supports ": null
     },
     {
-        "closure": "Closure"
+        "closures": "Closure"
     },
     {
-        "s; however, uncurried functions are generally preferred for efficiency reasons, since the overhead of partial application and closure creation can then be avoided for most function calls.       In ": null
+        "; however, uncurried functions are generally preferred for efficiency reasons, since the overhead of partial application and closure creation can then be avoided for most function calls.       In ": null
     },
     {
         "type theory": "Type Theory"
@@ -693,7 +693,7 @@
         "Heyting algebras": "Heyting Algebra"
     },
     {
-        "is normally written as ": null
+        " is normally written as ": null
     },
     {
         "material implication": "Material Conditional"
@@ -702,10 +702,10 @@
         " P  Q . Distributive Heyting algebras are ": null
     },
     {
-        "Boolean algebra": "Boolean Algebra"
+        "Boolean algebras": "Boolean Algebra"
     },
     {
-        "s, and the exponential object has the explicit form   P   Q , thus making it clear that the exponential object really is ": null
+        ", and the exponential object has the explicit form   P   Q , thus making it clear that the exponential object really is ": null
     },
     {
         "material implication": "Material Implication"
@@ -876,10 +876,10 @@
         " and many ": null
     },
     {
-        "functional programming language": "Functional Programming Language"
+        "functional programming languages": "Functional Programming Language"
     },
     {
-        "s.     By contrast, the product for ": null
+        ".     By contrast, the product for ": null
     },
     {
         "monoidal categories": "Monoidal Category"
@@ -939,7 +939,7 @@
         "cobordisms": "Cobordism"
     },
     {
-        "in ": null
+        " in ": null
     },
     {
         "algebraic topology": "Algebraic Topology"
@@ -966,10 +966,10 @@
         " are useful for describing ": null
     },
     {
-        "synchronization primitive": "Synchronization Primitive"
+        "synchronization primitives": "Synchronization Primitive"
     },
     {
-        "s, such as mutual exclusion locks, and the operation of vending machines.          Currying and partial function application are often conflated.  One of the significant differences between the two is that a call to a partially applied function returns the result right away, not another function down the currying chain; this distinction can be illustrated clearly for functions whose ": null
+        ", such as mutual exclusion locks, and the operation of vending machines.          Currying and partial function application are often conflated.  One of the significant differences between the two is that a call to a partially applied function returns the result right away, not another function down the currying chain; this distinction can be illustrated clearly for functions whose ": null
     },
     {
         "arity": "Arity"

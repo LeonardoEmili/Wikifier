@@ -51,13 +51,13 @@
         "computer programs": "Computer Program"
     },
     {
-        "source code that either preserves the behaviour of the software, or at least does not modify its conformance to ": null
+        " source code that either preserves the behaviour of the software, or at least does not modify its conformance to ": null
     },
     {
-        "functional requirement": "Functional Requirement"
+        "functional requirements": "Functional Requirement"
     },
     {
-        "s. Many ": null
+        ". Many ": null
     },
     {
         "development environments": "Development Environment"
@@ -96,10 +96,10 @@
         "; on the other hand, refactoring is one of the primary means of repaying technical debt.        There are two general categories of benefits to the activity of refactoring.   Maintainability. It is easier to fix bugs because the source code is easy to read and the intent of its author is easy to grasp.  This might be achieved by reducing large monolithic routines into a set of individually concise, well-named, single-purpose methods. It might be achieved by moving a method to a more appropriate class, or by removing misleading comments.   Extensibility. It is easier to extend the capabilities of the application if it uses recognizable ": null
     },
     {
-        "design pattern": "Design Pattern"
+        "design patterns": "Design Pattern"
     },
     {
-        "s, and it provides some flexibility where none before may have existed.       Automatic ": null
+        ", and it provides some flexibility where none before may have existed.       Automatic ": null
     },
     {
         "unit tests": "Unit Testing"
@@ -153,7 +153,7 @@
         "Martin Fowlers": "Martin Fowler"
     },
     {
-        "refactoring book   and website. . Many development environments provide automated support for these micro-refactorings. For instance, a programmer could click on the name of a variable and then select the Encapsulate field refactoring from a ": null
+        " refactoring book   and website. . Many development environments provide automated support for these micro-refactorings. For instance, a programmer could click on the name of a variable and then select the Encapsulate field refactoring from a ": null
     },
     {
         "context menu": "Context Menu"
@@ -195,10 +195,10 @@
         " into a new method. By breaking down code in smaller pieces, it is more easily understandable. This is also applicable to ": null
     },
     {
-        "function": "Function"
+        "functions": "Function"
     },
     {
-        "s.   Techniques for improving names and location of code   Move method or move field – move to a more appropriate ": null
+        ".   Techniques for improving names and location of code   Move method or move field – move to a more appropriate ": null
     },
     {
         "class": "Class"
@@ -243,7 +243,7 @@
         "programming languages": "Programming Language"
     },
     {
-        "by most hardware engineers, ": null
+        " by most hardware engineers, ": null
     },
     {
         "Hardware description languagesHDL and programming languages": "Hardware Description Languageshdl And Programming Languages"
@@ -264,13 +264,13 @@
         "William Griswolds": "Bill Griswold"
     },
     {
-        "1991 Ph.D. dissertation is one of the first major academic works on refactoring functional and procedural programs, followed by ": null
+        " 1991 Ph.D. dissertation is one of the first major academic works on refactoring functional and procedural programs, followed by ": null
     },
     {
         "William Opdykes": "William Opdyke"
     },
     {
-        "1992 dissertation on the refactoring of object-oriented programs,  although all the theory and machinery have long been available as ": null
+        " 1992 dissertation on the refactoring of object-oriented programs,  although all the theory and machinery have long been available as ": null
     },
     {
         "program transformation": "Program Transformation"
@@ -288,7 +288,7 @@
         "Martin Fowlers": "Martin Fowler"
     },
     {
-        "book Refactoring: Improving the Design of Existing Code is the canonical reference.     The first known use of the term refactoring in the published literature was in a September, 1990 article by ": null
+        " book Refactoring: Improving the Design of Existing Code is the canonical reference.     The first known use of the term refactoring in the published literature was in a September, 1990 article by ": null
     },
     {
         "William Opdyke": "William Opdyke"
@@ -312,7 +312,7 @@
         "Leo Brodies": "Leo Brodie"
     },
     {
-        "book  Thinking Forth  is dedicated to the subject.     In extreme programming, the Extract Method refactoring technique has essentially the same meaning as factoring in Forth; to break down a word  into smaller, more easily maintained functions.     Refactorings can also be reconstructed  posthoc to produce concise descriptions of complex software changes recorded in software repositories like CVS or SVN.          Many software ": null
+        " book  Thinking Forth  is dedicated to the subject.     In extreme programming, the Extract Method refactoring technique has essentially the same meaning as factoring in Forth; to break down a word  into smaller, more easily maintained functions.     Refactorings can also be reconstructed  posthoc to produce concise descriptions of complex software changes recorded in software repositories like CVS or SVN.          Many software ": null
     },
     {
         "editors": "Text Editor"

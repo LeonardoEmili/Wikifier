@@ -12,7 +12,7 @@
         "bits": "Bit"
     },
     {
-        "in a ": null
+        " in a ": null
     },
     {
         "key": "Key"
@@ -33,16 +33,16 @@
         " , since the security of all algorithms can be violated by ": null
     },
     {
-        "brute-force attack": "Brute-Force Attack"
+        "brute-force attacks": "Brute-Force Attack"
     },
     {
-        "s. Ideally, key length would coincide with the lower-bound on an algorithms security. Indeed, most ": null
+        ". Ideally, key length would coincide with the lower-bound on an algorithms security. Indeed, most ": null
     },
     {
         "symmetric-key algorithms": "Symmetric-Key Algorithm"
     },
     {
-        "are designed to have security equal to their key length. However, after design, a new attack might be discovered. For instance, ": null
+        " are designed to have security equal to their key length. However, after design, a new attack might be discovered. For instance, ": null
     },
     {
         "Triple DES": "Triple Des"
@@ -51,10 +51,10 @@
         " was designed to have a 168 bit key, but an attack of complexity 2 112 is now known . Nevertheless, as long as the relation between key length and security is sufficient for a particular application, then it doesnt matter if key length and security coincide. This is important for ": null
     },
     {
-        "asymmetric-key algorithm": "Asymmetric-Key Algorithm"
+        "asymmetric-key algorithms": "Asymmetric-Key Algorithm"
     },
     {
-        "s, because no such algorithm is known to satisfy this property; ": null
+        ", because no such algorithm is known to satisfy this property; ": null
     },
     {
         "elliptic curve cryptography": "Elliptic Curve Cryptography"
@@ -78,7 +78,7 @@
         "algorithms": "Algorithm"
     },
     {
-        "or are ": null
+        " or are ": null
     },
     {
         "open source": "Open-Source Model"
@@ -282,13 +282,13 @@
         "AESs": "Advanced Encryption Standard"
     },
     {
-        "quality until ": null
+        " quality until ": null
     },
     {
         "quantum computers": "Quantum Computer"
     },
     {
-        "become available. However, as of 2015, the U.S. ": null
+        " become available. However, as of 2015, the U.S. ": null
     },
     {
         "National Security Agency": "National Security Agency"
@@ -336,7 +336,7 @@
         "NSAs": "Nsa"
     },
     {
-        "Skipjack algorithm used in its ": null
+        " Skipjack algorithm used in its ": null
     },
     {
         "Fortezza": "Fortezza"
@@ -405,10 +405,10 @@
         " previously specified that Elliptic Curve Public Key Cryptography using the 256-bit prime modulus elliptic curve as specified in FIPS-186-2 and SHA-256 are appropriate for protecting classified information up to the SECRET level. Use of the 384-bit prime modulus elliptic curve and SHA-384 are necessary for the protection of TOP SECRET information.  In 2015 the NSA announced that it plans to transition from Elliptic Curve Cryptography to new algorithms that are resistant to attack by future ": null
     },
     {
-        "quantum computer": "Quantum Computer"
+        "quantum computers": "Quantum Computer"
     },
     {
-        "s. In the interim it recommends the larger ": null
+        ". In the interim it recommends the larger ": null
     },
     {
         "384-bit curve": "P-384"

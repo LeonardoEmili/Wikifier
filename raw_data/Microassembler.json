@@ -39,10 +39,10 @@
         " in which any normal program  is written. The use of a microprogram allows the manufacturer to fix certain mistakes, including working around hardware design errors, without modifying the hardware. Another means of employing microassembler-generated microprograms is in allowing the same hardware to run different ": null
     },
     {
-        "instruction set": "Instruction Set"
+        "instruction sets": "Instruction Set"
     },
     {
-        "s. After it is assembled, the microprogram is then loaded to a ": null
+        ". After it is assembled, the microprogram is then loaded to a ": null
     },
     {
         "control store": "Control Store"
@@ -81,6 +81,6 @@
         "operating systems": "Operating System"
     },
     {
-        "or to fix hardware bugs. However, a commonly usable microassembler for todays CPUs is not available to manipulate the microcode. Unfortunately, knowledge of a processors microcode is usually considered proprietary information so it is difficult to obtain information about how to modify it.                       ": null
+        " or to fix hardware bugs. However, a commonly usable microassembler for todays CPUs is not available to manipulate the microcode. Unfortunately, knowledge of a processors microcode is usually considered proprietary information so it is difficult to obtain information about how to modify it.                       ": null
     }
 ]

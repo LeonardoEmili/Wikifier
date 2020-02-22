@@ -18,7 +18,7 @@
         "bits": "Bit"
     },
     {
-        "than the original representation. Compression can be either ": null
+        " than the original representation. Compression can be either ": null
     },
     {
         "lossy": "Lossy Compression"
@@ -66,7 +66,7 @@
         "Computational resources": "Computational Resource"
     },
     {
-        "are consumed in the compression process and, usually, in the reversal of the process . Data compression is subject to a ": null
+        " are consumed in the compression process and, usually, in the reversal of the process . Data compression is subject to a ": null
     },
     {
         "space–time complexity trade-off": "Space–Time Tradeoff"
@@ -93,7 +93,7 @@
         "algorithms": "Algorithm"
     },
     {
-        "usually exploit ": null
+        " usually exploit ": null
     },
     {
         "statistical redundancy": "Redundancy"
@@ -261,7 +261,7 @@
         "psychovisuals": "Psychovisual"
     },
     {
-        "for images and video.     Most forms of lossy compression are based on ": null
+        " for images and video.     Most forms of lossy compression are based on ": null
     },
     {
         "transform coding": "Transform Coding"
@@ -306,16 +306,16 @@
         " is used in ": null
     },
     {
-        "digital camera": "Digital Camera"
+        "digital cameras": "Digital Camera"
     },
     {
-        "s, to increase storage capacities. Similarly, ": null
+        ", to increase storage capacities. Similarly, ": null
     },
     {
-        "DVD": "Dvd"
+        "DVDs": "Dvd"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "Blu-ray": "Blu-Ray"
@@ -402,10 +402,10 @@
         " of a sequence given its entire history can be used for optimal data compression . An optimal compressor can be used for prediction . This equivalence has been used as a justification for using data compression as a benchmark for general intelligence .     An alternative view can show compression algorithms implicitly map strings into implicit ": null
     },
     {
-        "feature space vector": "Feature Space Vector"
+        "feature space vectors": "Feature Space Vector"
     },
     {
-        "s, and compression-based similarity measures compute similarity within these feature spaces. For each compressor C we define an associated vector space ℵ, such that C maps an input string x, corresponds to the vector norm ||~x||. An exhaustive examination of the feature spaces underlying all compression algorithms is precluded by space; instead, feature vectors chooses to examine three representative lossless compression methods, LZW, LZ77, and PPM.           Data compression can be viewed as a special case of ": null
+        ", and compression-based similarity measures compute similarity within these feature spaces. For each compressor C we define an associated vector space ℵ, such that C maps an input string x, corresponds to the vector norm ||~x||. An exhaustive examination of the feature spaces underlying all compression algorithms is precluded by space; instead, feature vectors chooses to examine three representative lossless compression methods, LZW, LZ77, and PPM.           Data compression can be viewed as a special case of ": null
     },
     {
         "data differencing": "Data Differencing"
@@ -504,10 +504,10 @@
         " and ": null
     },
     {
-        "digital photo": "Digital Photo"
+        "digital photos": "Digital Photo"
     },
     {
-        "s.      ": null
+        ".      ": null
     },
     {
         "Lempel–Ziv–Welch": "Lempel–Ziv–Welch"
@@ -606,10 +606,10 @@
         " as audio ": null
     },
     {
-        "codec": "Codec"
+        "codecs": "Codec"
     },
     {
-        "s. Lossy audio compression algorithms provide higher compression at the cost of fidelity and are used in numerous audio applications. These algorithms almost all rely on ": null
+        ". Lossy audio compression algorithms provide higher compression at the cost of fidelity and are used in numerous audio applications. These algorithms almost all rely on ": null
     },
     {
         "psychoacoustics": "Psychoacoustics"
@@ -681,7 +681,7 @@
         "waveforms": "Waveform"
     },
     {
-        "and the rapid changes in sound forms. Codecs like ": null
+        " and the rapid changes in sound forms. Codecs like ": null
     },
     {
         "FLAC": "Flac"
@@ -912,13 +912,13 @@
         "Equal-loudness contours": "Equal-Loudness Contour"
     },
     {
-        "may also be used to weight the perceptual importance of components. Models of the human ear-brain combination incorporating such effects are often called ": null
+        " may also be used to weight the perceptual importance of components. Models of the human ear-brain combination incorporating such effects are often called ": null
     },
     {
-        "psychoacoustic model": "Psychoacoustic Model"
+        "psychoacoustic models": "Psychoacoustic Model"
     },
     {
-        "s.     Other types of lossy compressors, such as the ": null
+        ".     Other types of lossy compressors, such as the ": null
     },
     {
         "linear predictive coding": "Linear Predictive Coding"
@@ -1323,10 +1323,10 @@
         " which was standardized in 1988 by the ITU-T. They mostly rely on the DCT, applied to rectangular blocks of neighboring pixels, and temporal prediction using ": null
     },
     {
-        "motion vector": "Motion Vector"
+        "motion vectors": "Motion Vector"
     },
     {
-        "s, as well as nowadays also an in-loop filtering step.     In the prediction stage, various ": null
+        ", as well as nowadays also an in-loop filtering step.     In the prediction stage, various ": null
     },
     {
         "deduplication": "Data Deduplication"
@@ -1368,7 +1368,7 @@
         "deblocking filters": "Deblocking Filter"
     },
     {
-        "that blur out blocking artefacts from quantization discontinuities at transform block boundaries.            In 1967, A.H. Robinson and C. Cherry proposed a ": null
+        " that blur out blocking artefacts from quantization discontinuities at transform block boundaries.            In 1967, A.H. Robinson and C. Cherry proposed a ": null
     },
     {
         "run-length encoding": "Run-Length Encoding"
@@ -1440,7 +1440,7 @@
         "video coding standards": "Video Coding Standard"
     },
     {
-        "used for codecs have been the ": null
+        " used for codecs have been the ": null
     },
     {
         "MPEG": "Mpeg"
@@ -1566,10 +1566,10 @@
         " algorithms. AVC is the main video encoding standard for ": null
     },
     {
-        "Blu-ray Disc": "Blu-Ray Disc"
+        "Blu-ray Discs": "Blu-Ray Disc"
     },
     {
-        "s, and is widely used by streaming internet services such as ": null
+        ", and is widely used by streaming internet services such as ": null
     },
     {
         "YouTube": "Youtube"

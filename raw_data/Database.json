@@ -27,22 +27,22 @@
         " that interacts with ": null
     },
     {
-        "end user": "End User"
+        "end users": "End User"
     },
     {
-        "s, applications, and the database itself to capture and analyze the data. The DBMS software additionally encompasses the core facilities provided to administer the database. The sum total of the database, the DBMS and the associated applications can be referred to as a database system . Often the term database is also used to loosely refer to any of the DBMS, the database system or an application associated with the database.     Computer scientists may classify database-management systems according to the ": null
+        ", applications, and the database itself to capture and analyze the data. The DBMS software additionally encompasses the core facilities provided to administer the database. The sum total of the database, the DBMS and the associated applications can be referred to as a database system . Often the term database is also used to loosely refer to any of the DBMS, the database system or an application associated with the database.     Computer scientists may classify database-management systems according to the ": null
     },
     {
         "database models": "Database Model"
     },
     {
-        "that they support. ": null
+        " that they support. ": null
     },
     {
         "Relational databases": "Relational Database"
     },
     {
-        "became dominant in the 1980s. These model data as ": null
+        " became dominant in the 1980s. These model data as ": null
     },
     {
         "rows": "Row"
@@ -75,10 +75,10 @@
         " because they use different ": null
     },
     {
-        "query language": "Query Language"
+        "query languages": "Query Language"
     },
     {
-        "s.         Formally, a database refers to a set of related data and the way it is organized. Access to this data is usually provided by a database management system consisting of an integrated set of computer software that allows ": null
+        ".         Formally, a database refers to a set of related data and the way it is organized. Access to this data is usually provided by a database management system consisting of an integrated set of computer software that allows ": null
     },
     {
         "users": "User"
@@ -117,10 +117,10 @@
         " disk arrays used for stable storage. RAID is used for recovery of data if any of the disks fail. Hardware database accelerators, connected to one or more servers via a high-speed channel, are also used in large volume transaction processing environments. DBMSs are found at the heart of most ": null
     },
     {
-        "database application": "Database Application"
+        "database applications": "Database Application"
     },
     {
-        "s. DBMSs may be built around a custom ": null
+        ". DBMSs may be built around a custom ": null
     },
     {
         "multitasking": "Computer Multitasking"
@@ -180,10 +180,10 @@
         ", and ": null
     },
     {
-        "computer network": "Computer Network"
+        "computer networks": "Computer Network"
     },
     {
-        "s. The development of database technology can be divided into three eras based on data model or structure: ": null
+        ". The development of database technology can be divided into three eras based on data model or structure: ": null
     },
     {
         "navigational": "Navigational Database"
@@ -261,7 +261,7 @@
         "Object databases": "Object Database"
     },
     {
-        "were developed in the 1980s to overcome the inconvenience of ": null
+        " were developed in the 1980s to overcome the inconvenience of ": null
     },
     {
         "object-relational impedance mismatch": "Object-Relational Impedance Mismatch"
@@ -270,10 +270,10 @@
         ", which led to the coining of the term post-relational and also the development of hybrid ": null
     },
     {
-        "object-relational database": "Object-Relational Database"
+        "object-relational databases": "Object-Relational Database"
     },
     {
-        "s.     The next generation of post-relational databases in the late 2000s became known as ": null
+        ".     The next generation of post-relational databases in the late 2000s became known as ": null
     },
     {
         "NoSQL": "Nosql"
@@ -285,13 +285,13 @@
         "key-value stores": "Key-Value Store"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
-        "document-oriented database": "Document-Oriented Database"
+        "document-oriented databases": "Document-Oriented Database"
     },
     {
-        "s. A competing next generation known as ": null
+        ". A competing next generation known as ": null
     },
     {
         "NewSQL": "Newsql"
@@ -339,7 +339,7 @@
         "B-trees": "B-Tree"
     },
     {
-        "to provide alternate access paths. Many CODASYL databases also added a very straightforward query language. However, in the final tally, CODASYL was very complex and required significant training and effort to produce useful applications.     ": null
+        " to provide alternate access paths. Many CODASYL databases also added a very straightforward query language. However, in the final tally, CODASYL was very complex and required significant training and effort to produce useful applications.     ": null
     },
     {
         "IBM": "International Business Machines"
@@ -591,7 +591,7 @@
         "Larry Ellisons": "Larry Ellison"
     },
     {
-        "Oracle Database  started from a different chain, based on IBMs papers on System R. Though Oracle V1 implementations were completed in 1978, it wasnt until Oracle Version 2 when Ellison beat IBM to market in 1979.      Stonebraker went on to apply the lessons from INGRES to develop a new database, Postgres, which is now known as ": null
+        " Oracle Database  started from a different chain, based on IBMs papers on System R. Though Oracle V1 implementations were completed in 1978, it wasnt until Oracle Version 2 when Ellison beat IBM to market in 1979.      Stonebraker went on to apply the lessons from INGRES to develop a new database, Postgres, which is now known as ": null
     },
     {
         "PostgreSQL": "Postgresql"
@@ -681,13 +681,13 @@
         "Object databases": "Object Database"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "object-relational databases": "Object-Relational Database"
     },
     {
-        "attempt to solve this problem by providing an object-oriented language that programmers can use as alternative to purely relational SQL. On the programming side, libraries known as ": null
+        " attempt to solve this problem by providing an object-oriented language that programmers can use as alternative to purely relational SQL. On the programming side, libraries known as ": null
     },
     {
         "object-relational mappings": "Object-Relational Mapping"
@@ -768,28 +768,28 @@
         " systems, ": null
     },
     {
-        "flight reservation system": "Flight Reservation System"
+        "flight reservation systems": "Flight Reservation System"
     },
     {
-        "s, computerized ": null
+        ", computerized ": null
     },
     {
-        "parts inventory system": "Parts Inventory System"
+        "parts inventory systems": "Parts Inventory System"
     },
     {
-        "s, and many ": null
+        ", and many ": null
     },
     {
         "content management systems": "Content Management System"
     },
     {
-        "that store ": null
+        " that store ": null
     },
     {
         "websites": "Website"
     },
     {
-        "as collections of webpages in a database.       One way to classify databases involves the type of their contents, for example: ": null
+        " as collections of webpages in a database.       One way to classify databases involves the type of their contents, for example: ": null
     },
     {
         "bibliographic": "Bibliographic Database"
@@ -816,10 +816,10 @@
         " includes an event-driven architecture which can respond to conditions both inside and outside the database. Possible uses include security monitoring, alerting, statistics gathering and authorization. Many databases provide active database features in the form of ": null
     },
     {
-        "database trigger": "Database Trigger"
+        "database triggers": "Database Trigger"
     },
     {
-        "s.   A ": null
+        ".   A ": null
     },
     {
         "cloud database": "Cloud Database"
@@ -840,16 +840,16 @@
         " and ": null
     },
     {
-        "Open API": "Open Api"
+        "Open APIs": "Open Api"
     },
     {
-        "s.   ": null
+        ".   ": null
     },
     {
         "Data warehouses": "Data Warehouse"
     },
     {
-        "archive data from operational databases and often from external sources such as market research firms. The warehouse becomes the central source of data for use by managers and other end-users who may not have access to operational data. For example, sales data might be aggregated to weekly totals and converted from internal product codes to use ": null
+        " archive data from operational databases and often from external sources such as market research firms. The warehouse becomes the central source of data for use by managers and other end-users who may not have access to operational data. For example, sales data might be aggregated to weekly totals and converted from internal product codes to use ": null
     },
     {
         "UPCs": "Universal Product Code"
@@ -939,7 +939,7 @@
         "triplestores": "Triplestore"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "network databases": "Network Database Model"
@@ -978,10 +978,10 @@
         "ed to that object. Hypertext databases are particularly useful for organizing large amounts of disparate information. For example, they are useful for organizing ": null
     },
     {
-        "online encyclopedia": "Online Encyclopedia"
+        "online encyclopedias": "Online Encyclopedia"
     },
     {
-        "s, where users can conveniently jump around the text. The ": null
+        ", where users can conveniently jump around the text. The ": null
     },
     {
         "World Wide Web": "World Wide Web"
@@ -1023,7 +1023,7 @@
         "Operational databases": "Operational Database"
     },
     {
-        "store detailed data about the operations of an organization. They typically process relatively high volumes of updates using ": null
+        " store detailed data about the operations of an organization. They typically process relatively high volumes of updates using ": null
     },
     {
         "transactions": "Transaction"
@@ -1065,7 +1065,7 @@
         "Probabilistic databases": "Probabilistic Database"
     },
     {
-        "employ ": null
+        " employ ": null
     },
     {
         "fuzzy logic": "Fuzzy Logic"
@@ -1077,7 +1077,7 @@
         "Real-time databases": "Real-Time Database"
     },
     {
-        "process transactions fast enough for the result to come back and be acted on right away.   A ": null
+        " process transactions fast enough for the result to come back and be acted on right away.   A ": null
     },
     {
         "spatial database": "Spatial Database"
@@ -1149,7 +1149,7 @@
         "embedded databases": "Embedded Database"
     },
     {
-        "the need to target zero-administration is paramount.     The large major enterprise DBMSs have tended to increase in size and functionality and can have involved thousands of human years of development effort through their lifetime.     Early multi-user DBMS typically only allowed for the application to reside on the same computer with access via ": null
+        " the need to target zero-administration is paramount.     The large major enterprise DBMSs have tended to increase in size and functionality and can have involved thousands of human years of development effort through their lifetime.     Early multi-user DBMS typically only allowed for the application to reside on the same computer with access via ": null
     },
     {
         "terminals": "Computer Terminal"
@@ -1173,13 +1173,13 @@
         "application servers": "Application Server"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "web servers": "Web Server"
     },
     {
-        "with the end user interface via a ": null
+        " with the end user interface via a ": null
     },
     {
         "web browser": "Web Browser"
@@ -1197,7 +1197,7 @@
         "database languages": "Database Language"
     },
     {
-        "such as ": null
+        " such as ": null
     },
     {
         "SQL": "Sql"
@@ -1266,10 +1266,10 @@
         ".         Database languages are special-purpose languages, which allow one or more of the following tasks, sometimes distinguished as ": null
     },
     {
-        "sublanguage": "Sublanguage"
+        "sublanguages": "Sublanguage"
     },
     {
-        "s:     ": null
+        ":     ": null
     },
     {
         "Data control language": "Data Control Language"
@@ -1392,10 +1392,10 @@
         " and ": null
     },
     {
-        "correlation database": "Correlation Database"
+        "correlation databases": "Correlation Database"
     },
     {
-        "s.            Often storage redundancy is employed to increase performance. A common example is storing materialized views, which consist of frequently needed external views or query results. Storing such views saves the expensive computing of them each time they are needed. The downsides of materialized views are the overhead incurred when updating them to keep them synchronized with their original updated database data, and the cost of storage redundancy.            Occasionally a database employs storage redundancy by database objects replication to increase data availability . Updates of a replicated object need to be synchronized across the object copies. In many cases, the entire database is replicated.               ": null
+        ".            Often storage redundancy is employed to increase performance. A common example is storing materialized views, which consist of frequently needed external views or query results. Storing such views saves the expensive computing of them each time they are needed. The downsides of materialized views are the overhead incurred when updating them to keep them synchronized with their original updated database data, and the cost of storage redundancy.            Occasionally a database employs storage redundancy by database objects replication to increase data availability . Updates of a replicated object need to be synchronized across the object copies. In many cases, the entire database is replicated.               ": null
     },
     {
         "Database security": "Database Security"
@@ -1479,7 +1479,7 @@
         "user interfaces": "User Interface"
     },
     {
-        "to be used by database administrators to define the needed applications data structures within the DBMSs respective data model. Other user interfaces are used to select needed DBMS parameters .     When the database is ready , it is typically populated with initial applications data before making it operational. In some cases, the database becomes operational while empty of application data, and data are accumulated during its operation.     After the database is created, initialised and populated it needs to be maintained. Various database parameters may need changing and the database may need to be tuned  for better performance; applications data structures may be changed or added, new related application programs may be written to add to the applications functionality, etc.          Sometimes it is desired to bring a database back to a previous state . To achieve this, a backup operation is done occasionally or continuously, where each desired database state is kept within dedicated backup files . When it is decided by a database administrator to bring the database back to this state , these files are used to restore that state.       Static analysis techniques for software verification can be applied also in the scenario of query languages. In particular, the ": null
+        " to be used by database administrators to define the needed applications data structures within the DBMSs respective data model. Other user interfaces are used to select needed DBMS parameters .     When the database is ready , it is typically populated with initial applications data before making it operational. In some cases, the database becomes operational while empty of application data, and data are accumulated during its operation.     After the database is created, initialised and populated it needs to be maintained. Various database parameters may need changing and the database may need to be tuned  for better performance; applications data structures may be changed or added, new related application programs may be written to add to the applications functionality, etc.          Sometimes it is desired to bring a database back to a previous state . To achieve this, a backup operation is done occasionally or continuously, where each desired database state is kept within dedicated backup files . When it is decided by a database administrator to bring the database back to this state , these files are used to restore that state.       Static analysis techniques for software verification can be applied also in the scenario of query languages. In particular, the ": null
     },
     {
         "Abstract interpretation": "Abstract Interpretation"
@@ -1491,7 +1491,7 @@
         "Database logs": "Database Log"
     },
     {
-        "– This helps in keeping a history of the executed functions.   Graphics component for producing graphs and charts, especially in a data warehouse system.   ": null
+        " – This helps in keeping a history of the executed functions.   Graphics component for producing graphs and charts, especially in a data warehouse system.   ": null
     },
     {
         "Query optimizer": "Query Optimizer"
@@ -1581,7 +1581,7 @@
         "Navigational databases": "Navigational Database"
     },
     {
-        "  Hierarchical database model": "Hierarchical Database Model"
+        "   Hierarchical database model": "Hierarchical Database Model"
     },
     {
         " Network model": "Network Model"
@@ -1617,7 +1617,7 @@
         "Physical data models": "Physical Data Model"
     },
     {
-        "include:   ": null
+        " include:   ": null
     },
     {
         "Inverted index": "Inverted Index"
@@ -1686,10 +1686,10 @@
         " and development of ": null
     },
     {
-        "prototype": "Prototype"
+        "prototypes": "Prototype"
     },
     {
-        "s. Notable research topics have included ": null
+        ". Notable research topics have included ": null
     },
     {
         "models": "Data Model"

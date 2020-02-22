@@ -24,7 +24,7 @@
         "domain names": "Domain Name"
     },
     {
-        "assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical ": null
+        " assigned to each of the participating entities. Most prominently, it translates more readily memorized domain names to the numerical ": null
     },
     {
         "IP address": "Ip Address"
@@ -33,10 +33,10 @@
         "es needed for locating and identifying computer services and devices with the underlying ": null
     },
     {
-        "network protocol": "Communication Protocol"
+        "network protocols": "Communication Protocol"
     },
     {
-        "s. By providing a worldwide, ": null
+        ". By providing a worldwide, ": null
     },
     {
         "distributed": "Distributed Computing"
@@ -51,13 +51,13 @@
         "authoritative name servers": "Authoritative Name Server"
     },
     {
-        "for each domain. Network administrators may delegate authority over ": null
+        " for each domain. Network administrators may delegate authority over ": null
     },
     {
         "sub-domains": "Sub-Domain"
     },
     {
-        "of their allocated name space to other name servers. This mechanism provides distributed and ": null
+        " of their allocated name space to other name servers. This mechanism provides distributed and ": null
     },
     {
         "fault-tolerant": "Fault Tolerance"
@@ -78,25 +78,25 @@
         ".     The Internet maintains two principal ": null
     },
     {
-        "namespace": "Namespace"
+        "namespaces": "Namespace"
     },
     {
-        "s, the domain name hierarchy RFC 1034, Domain Names - Concepts and Facilities, P. Mockapetris, The Internet Society and the ": null
+        ", the domain name hierarchy RFC 1034, Domain Names - Concepts and Facilities, P. Mockapetris, The Internet Society and the ": null
     },
     {
         "Internet Protocol": "Internet Protocol"
     },
     {
-        " address space": "Address Space"
+        "address spaces": "Address Space"
     },
     {
-        "s. RFC 781, Internet Protocol - DARPA Internet Program Protocol Specification, Information Sciences Institute, J. Postel , The Internet Society The Domain Name System maintains the domain name hierarchy and provides translation services between it and the address spaces. Internet ": null
+        ". RFC 781, Internet Protocol - DARPA Internet Program Protocol Specification, Information Sciences Institute, J. Postel , The Internet Society The Domain Name System maintains the domain name hierarchy and provides translation services between it and the address spaces. Internet ": null
     },
     {
         "name servers": "Name Server"
     },
     {
-        "and a ": null
+        " and a ": null
     },
     {
         "communication protocol": "Communication Protocol"
@@ -117,13 +117,13 @@
         "mail exchangers": "Mail Exchanger"
     },
     {
-        ", name servers , pointers for ": null
+        " , name servers , pointers for ": null
     },
     {
         "reverse DNS lookups": "Reverse Dns Lookup"
     },
     {
-        ", and ": null
+        " , and ": null
     },
     {
         "domain name alias": "Domain Name Alias"
@@ -165,7 +165,7 @@
         "hostnames": "Hostname"
     },
     {
-        "into IP addresses. For example, the domain name ": null
+        " into IP addresses. For example, the domain name ": null
     },
     {
         "www.example.com": "Example.Com"
@@ -183,13 +183,13 @@
         "cloud services": "Cloud Service"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
-        "content delivery network": "Content Delivery Network"
+        "content delivery networks": "Content Delivery Network"
     },
     {
-        "s. J. Dilley, B. Maggs, J. Parikh, H. Prokop, R. Sitaraman, and B. Weihl.  When a user accesses a distributed Internet service using a URL, the domain name of the URL is translated to the IP address of a server that is proximal to the user. The key functionality of DNS exploited here is that different users can simultaneously receive different translations for the same domain name, a key point of divergence from a traditional phone-book view of the DNS. This process of using the DNS to assign proximal servers to users is key to providing faster and more reliable responses on the Internet and is widely used by most major Internet services.      The DNS reflects the structure of administrative responsibility in the Internet.  Each subdomain is a ": null
+        ". J. Dilley, B. Maggs, J. Parikh, H. Prokop, R. Sitaraman, and B. Weihl.  When a user accesses a distributed Internet service using a URL, the domain name of the URL is translated to the IP address of a server that is proximal to the user. The key functionality of DNS exploited here is that different users can simultaneously receive different translations for the same domain name, a key point of divergence from a traditional phone-book view of the DNS. This process of using the DNS to assign proximal servers to users is key to providing faster and more reliable responses on the Internet and is widely used by most major Internet services.      The DNS reflects the structure of administrative responsibility in the Internet.  Each subdomain is a ": null
     },
     {
         "zone": "Dns Zone"
@@ -417,16 +417,16 @@
         ". The nodes of this database are the ": null
     },
     {
-        "name server": "Name Server"
+        "name servers": "Name Server"
     },
     {
-        "s. Each domain has at least one authoritative DNS server that publishes information about that domain and the name servers of any domains subordinate to it. The top of the hierarchy is served by the ": null
+        ". Each domain has at least one authoritative DNS server that publishes information about that domain and the name servers of any domains subordinate to it. The top of the hierarchy is served by the ": null
     },
     {
-        "root name server": "Root Name Server"
+        "root name servers": "Root Name Server"
     },
     {
-        "s, the servers to query when looking up  a TLD.       An authoritative name server is a name server that only gives ": null
+        ", the servers to query when looking up  a TLD.       An authoritative name server is a name server that only gives ": null
     },
     {
         "answers": "Name Serverauthoritative Answer"
@@ -543,16 +543,16 @@
         " for the 208.in-addr.arpa zone. ARINs servers delegate 152.80.208.in-addr.arpa to Wikimedia to which the resolver sends another query for 2.152.80.208.in-addr.arpa, which results in an authoritative response.          Users generally do not communicate directly with a DNS resolver. Instead DNS resolution takes place transparently in applications such as ": null
     },
     {
-        "web browser": "Web Browser"
+        "web browsers": "Web Browser"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "e-mail client": "E-Mail Client"
+        "e-mail clients": "E-Mail Client"
     },
     {
-        "s, and other Internet applications. When an application makes a request that requires a domain name lookup, such programs send a resolution request to the ": null
+        ", and other Internet applications. When an application makes a request that requires a domain name lookup, such programs send a resolution request to the ": null
     },
     {
         "DNS resolver": "Dns Resolver"
@@ -606,7 +606,7 @@
         "mail transfer agents": "Mail Transfer Agent"
     },
     {
-        "use DNS to find the best mail server to deliver ": null
+        " use DNS to find the best mail server to deliver ": null
     },
     {
         "e-mail": "E-Mail"
@@ -735,7 +735,7 @@
         "wildcard DNS records": "Wildcard Dns Record"
     },
     {
-        "which specify names that start with the asterisk label, , e.g., .example. RFC 4592, The Role of Wildcards in the Domain Name System, E. Lewis DNS records belonging to wildcard domain names specify rules for generating resource records within a single DNS zone by substituting whole labels with matching components of the query name, including any specified descendants. For example, in the following configuration, the DNS zone x.example specifies that all subdomains, including subdomains of subdomains, of x.example use the mail exchanger a.x.example. The A record for a.x.example is needed to specify the mail exchanger IP address. As this has the result of excluding this domain name and its subdomains from the wildcard matches, an additional MX record for the subdomain a.x.example, as well as a wildcarded MX record for all of its subdomains, must also be defined in the DNS zone.       x.example. MX 10 a.x.example.   .x.example. MX 10 a.x.example.   .a.x.example. MX 10 a.x.example.   a.x.example. MX 10 a.x.example.   a.x.example. AAAA 2001:db8::1       The role of wildcard records was refined in RFC 4592, because the original definition in RFC 1034 was incomplete and resulted in misinterpretations by implementers.       The original DNS protocol had limited provisions for extension with new features. In 1999, Paul Vixie published in RFC 2671 an extension mechanism, called ": null
+        " which specify names that start with the asterisk label, , e.g., .example. RFC 4592, The Role of Wildcards in the Domain Name System, E. Lewis DNS records belonging to wildcard domain names specify rules for generating resource records within a single DNS zone by substituting whole labels with matching components of the query name, including any specified descendants. For example, in the following configuration, the DNS zone x.example specifies that all subdomains, including subdomains of subdomains, of x.example use the mail exchanger a.x.example. The A record for a.x.example is needed to specify the mail exchanger IP address. As this has the result of excluding this domain name and its subdomains from the wildcard matches, an additional MX record for the subdomain a.x.example, as well as a wildcarded MX record for all of its subdomains, must also be defined in the DNS zone.       x.example. MX 10 a.x.example.   .x.example. MX 10 a.x.example.   .a.x.example. MX 10 a.x.example.   a.x.example. MX 10 a.x.example.   a.x.example. AAAA 2001:db8::1       The role of wildcard records was refined in RFC 4592, because the original definition in RFC 1034 was incomplete and resulted in misinterpretations by implementers.       The original DNS protocol had limited provisions for extension with new features. In 1999, Paul Vixie published in RFC 2671 an extension mechanism, called ": null
     },
     {
         "Extension mechanisms for DNS": "Extension Mechanisms For Dns"
@@ -804,10 +804,10 @@
         ". In many fonts the letter l and the numeral 1 look very similar or even identical. This problem is acute in systems that support ": null
     },
     {
-        "internationalized domain name": "Internationalized Domain Name"
+        "internationalized domain names": "Internationalized Domain Name"
     },
     {
-        "s, as many character codes in ": null
+        ", as many character codes in ": null
     },
     {
         "ISO 10646": "Iso 10646"
@@ -876,10 +876,10 @@
         ".     The main approaches are in use to counter privacy issues with DNS:   ": null
     },
     {
-        "VPN": "Vpn"
+        "VPNs": "Vpn"
     },
     {
-        "s, which move DNS resolution to the VPN operator and hide user traffic from local ISP,   ": null
+        ", which move DNS resolution to the VPN operator and hide user traffic from local ISP,   ": null
     },
     {
         "Tor": "Tor"
@@ -957,7 +957,7 @@
         "country code top-level domains": "Country Code Top-Level Domain"
     },
     {
-        ", the domain registries maintain the WHOIS information. For instance, ": null
+        " , the domain registries maintain the WHOIS information. For instance, ": null
     },
     {
         "DENIC": "Denic"

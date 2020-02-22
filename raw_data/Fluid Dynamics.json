@@ -21,16 +21,16 @@
         " that describes the flow of ": null
     },
     {
-        "fluid": "Fluid"
+        "fluids": "Fluid"
     },
     {
-        "s—": null
+        "—": null
     },
     {
         "liquids": "Liquid"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "gas": "Gas"
@@ -48,13 +48,13 @@
         "forces": "Force"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "moments": "Moment"
     },
     {
-        "on ": null
+        " on ": null
     },
     {
         "aircraft": "Aircraft"
@@ -81,16 +81,16 @@
         ", ": null
     },
     {
-        "predicting weather pattern": "Weather Forecasting"
+        "predicting weather patterns": "Weather Forecasting"
     },
     {
-        "s, understanding ": null
+        ", understanding ": null
     },
     {
         "nebulae": "Nebula"
     },
     {
-        "in ": null
+        " in ": null
     },
     {
         "interstellar space": "Interstellar Space"
@@ -153,10 +153,10 @@
         ", both of which can also be applied to gases.        The foundational axioms of fluid dynamics are the ": null
     },
     {
-        "conservation law": "Conservation Law"
+        "conservation laws": "Conservation Law"
     },
     {
-        "s, specifically, ": null
+        ", specifically, ": null
     },
     {
         "conservation of mass": "Conservation Of Mass"
@@ -210,7 +210,7 @@
         "Newtonian fluids": "Newtonian Fluid"
     },
     {
-        "are the ": null
+        " are the ": null
     },
     {
         "Navier–Stokes equations": "Navier–Stokes Equations"
@@ -315,10 +315,10 @@
         " . ": null
     },
     {
-        "Surface force": "Surface Force"
+        "Surface forces": "Surface Force"
     },
     {
-        "s, such as viscous forces, are represented by    , the net force due to ": null
+        ", such as viscous forces, are represented by    , the net force due to ": null
     },
     {
         "shear forces": "Stress"
@@ -408,10 +408,10 @@
         " and ": null
     },
     {
-        "convective derivative": "Convective Derivative"
+        "convective derivatives": "Convective Derivative"
     },
     {
-        "s. This additional constraint simplifies the governing equations, especially in the case when the fluid has a uniform density.     For flow of gases, to determine whether to use compressible or incompressible fluid dynamics, the ": null
+        ". This additional constraint simplifies the governing equations, especially in the case when the fluid has a uniform density.     For flow of gases, to determine whether to use compressible or incompressible fluid dynamics, the ": null
     },
     {
         "Mach number": "Mach Number"
@@ -471,7 +471,7 @@
         "Non-Newtonian fluids": "Non-Newtonian Fluid"
     },
     {
-        "have a more complicated, non-linear stress-strain behaviour. The sub-discipline of ": null
+        " have a more complicated, non-linear stress-strain behaviour. The sub-discipline of ": null
     },
     {
         "rheology": "Rheology"
@@ -483,7 +483,7 @@
         "emulsions": "Emulsion"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "slurries": "Slurries"
@@ -504,10 +504,10 @@
         " and some ": null
     },
     {
-        "polymer": "Polymer"
+        "polymers": "Polymer"
     },
     {
-        "s, and sticky liquids such as ": null
+        ", and sticky liquids such as ": null
     },
     {
         "latex": "Latex"
@@ -576,10 +576,10 @@
         " everywhere, Bernoullis equation can completely describe the flow everywhere. Such flows are called ": null
     },
     {
-        "potential flow": "Potential Flow"
+        "potential flows": "Potential Flow"
     },
     {
-        "s, because the velocity field may be expressed as the ": null
+        ", because the velocity field may be expressed as the ": null
     },
     {
         "gradient": "Gradient"

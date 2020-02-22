@@ -57,7 +57,7 @@
         "Bernoulli trials": "Bernoulli Trial"
     },
     {
-        "with probability θ of success on each trial, and   Y is the number of independent Bernoulli trials needed to get three successes, again with probability θ of success on each trial.     Then the observation that X 3 induces the likelihood function     :   L   3   220      while the observation that Y 12 induces the likelihood function     :   L   2   55      The likelihood principle says that, as the data are the same in both cases, the inferences drawn about the value of θ should also be the same. In addition, all the inferential content in the data about the value of θ is contained in the two likelihoods, and is the same if they are proportional to one another. This is the case in the above example, reflecting the fact that the difference between observing X 3 and observing Y 12 lies not in the actual data, but merely in the ": null
+        " with probability θ of success on each trial, and   Y is the number of independent Bernoulli trials needed to get three successes, again with probability θ of success on each trial.     Then the observation that X 3 induces the likelihood function     :   L   3   220      while the observation that Y 12 induces the likelihood function     :   L   2   55      The likelihood principle says that, as the data are the same in both cases, the inferences drawn about the value of θ should also be the same. In addition, all the inferential content in the data about the value of θ is contained in the two likelihoods, and is the same if they are proportional to one another. This is the case in the above example, reflecting the fact that the difference between observing X 3 and observing Y 12 lies not in the actual data, but merely in the ": null
     },
     {
         "design of the experiment": "Design Of Experiments"
@@ -180,10 +180,10 @@
         " for   , and if in two experiments with data x1 and x2 we have TT , then the evidence about   given by the two experiments is the same.       Some widely used methods of conventional statistics, for example many ": null
     },
     {
-        "significance test": "Statistical Hypothesis Testing"
+        "significance tests": "Statistical Hypothesis Testing"
     },
     {
-        "s, are not consistent with the likelihood principle.     Let us briefly consider some of the arguments for and against the likelihood principle.         Birnbaums proof of the likelihood principle has been disputed by philosophers of science, including ": null
+        ", are not consistent with the likelihood principle.     Let us briefly consider some of the arguments for and against the likelihood principle.         Birnbaums proof of the likelihood principle has been disputed by philosophers of science, including ": null
     },
     {
         "Deborah Mayo": "Deborah Mayo"

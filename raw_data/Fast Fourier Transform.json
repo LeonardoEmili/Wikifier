@@ -138,16 +138,16 @@
         ", such as ": null
     },
     {
-        "number-theoretic transform": "Number-Theoretic Transform"
+        "number-theoretic transforms": "Number-Theoretic Transform"
     },
     {
-        "s. Since the inverse DFT is the same as the DFT, but with the opposite sign in the exponent and a 1/N factor, any FFT algorithm can easily be adapted for it.       The development of fast algorithms for DFT can be traced to ": null
+        ". Since the inverse DFT is the same as the DFT, but with the opposite sign in the exponent and a 1/N factor, any FFT algorithm can easily be adapted for it.       The development of fast algorithms for DFT can be traced to ": null
     },
     {
         "Carl Friedrich Gausss": "Carl Friedrich Gauss"
     },
     {
-        "unpublished work in 1805 when he needed it to interpolate the orbit of asteroids ": null
+        " unpublished work in 1805 when he needed it to interpolate the orbit of asteroids ": null
     },
     {
         "Pallas": "2 Pallas"
@@ -177,7 +177,7 @@
         "Joseph Fouriers": "Joseph Fourier"
     },
     {
-        "results in 1822, he did not analyze the computation time and eventually used other methods to achieve his goal.     Between 1805 and 1965, some versions of FFT were published by other authors. ": null
+        " results in 1822, he did not analyze the computation time and eventually used other methods to achieve his goal.     Between 1805 and 1965, some versions of FFT were published by other authors. ": null
     },
     {
         "Frank Yates": "Frank Yates"
@@ -219,7 +219,7 @@
         "President Kennedys": "President Kennedy"
     },
     {
-        "Science Advisory Committee where a discussion topic involved detecting nuclear tests by the Soviet Union by setting up sensors to surround the country from outside. To analyze the output of these sensors, an FFT algorithm would be needed. In discussion with Tukey, ": null
+        " Science Advisory Committee where a discussion topic involved detecting nuclear tests by the Soviet Union by setting up sensors to surround the country from outside. To analyze the output of these sensors, an FFT algorithm would be needed. In discussion with Tukey, ": null
     },
     {
         "Richard Garwin": "Richard Garwin"
@@ -228,10 +228,10 @@
         " recognized the general applicability of the algorithm not just to national security problems, but also to a wide range of problems including one of immediate interest to him, determining the periodicities of the spin orientations in a 3-D crystal of Helium-3. Garwin gave Tukeys idea to Cooley  for implementation. Cooley and Tukey published the paper in a relatively short time of six months. As Tukey did not work at IBM, the patentability of the idea was doubted and the algorithm went into the public domain, which, through the computing revolution of the next decade, made FFT one of the indispensable algorithms in digital signal processing.       Let x 0 , …, x N−1 be ": null
     },
     {
-        "complex number": "Complex Number"
+        "complex numbers": "Complex Number"
     },
     {
-        "s. The ": null
+        ". The ": null
     },
     {
         "DFT": "Discrete Fourier Transform"
@@ -285,7 +285,7 @@
         "twiddle factors": "Twiddle Factor"
     },
     {
-        ".     This method was popularized by a publication of Cooley and Tukey in 1965, but it was later discovered that those two authors had independently re-invented an algorithm known to ": null
+        " .     This method was popularized by a publication of Cooley and Tukey in 1965, but it was later discovered that those two authors had independently re-invented an algorithm known to ": null
     },
     {
         "Carl Friedrich Gauss": "Carl Friedrich Gauss"
@@ -354,10 +354,10 @@
         " z N  −  1, here into real-coefficient polynomials of the form z M  −  1 and z 2M  +  az M  +  1.     Another polynomial viewpoint is exploited by the Winograd FFT algorithm, which factorizes z N  −  1 into ": null
     },
     {
-        "cyclotomic polynomial": "Cyclotomic Polynomial"
+        "cyclotomic polynomials": "Cyclotomic Polynomial"
     },
     {
-        "s—these often have coefficients of 1,  0,  or  −1, and therefore require few multiplications, so Winograd can be used to obtain minimal-multiplication FFTs and is often used to find efficient algorithms for small factors. Indeed, Winograd showed that the DFT can be computed with only O irrational multiplications, leading to a proven achievable lower bound on the number of multiplications for power-of-two sizes; unfortunately, this comes at the cost of many more additions, a tradeoff no longer favorable on modern ": null
+        "—these often have coefficients of 1,  0,  or  −1, and therefore require few multiplications, so Winograd can be used to obtain minimal-multiplication FFTs and is often used to find efficient algorithms for small factors. Indeed, Winograd showed that the DFT can be computed with only O irrational multiplications, leading to a proven achievable lower bound on the number of multiplications for power-of-two sizes; unfortunately, this comes at the cost of many more additions, a tradeoff no longer favorable on modern ": null
     },
     {
         "processors": "Central Processing Unit"

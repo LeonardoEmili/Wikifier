@@ -21,10 +21,10 @@
         " design, ": null
     },
     {
-        "interrupt controller": "Interrupt Controller"
+        "interrupt controllers": "Interrupt Controller"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "interrupt mask": "Interrupt Mask"
@@ -87,13 +87,13 @@
         "critical sections": "Critical Section"
     },
     {
-        "of code. During the execution of such a critical section, all interrupt handlers that cannot execute safely within a critical section are blocked . So the interrupt latency for a blocked interrupt is extended to the end of the critical section, plus any interrupts with equal and higher priority that arrived while the block was in place.     Many computer systems require low interrupt latencies, especially ": null
+        " of code. During the execution of such a critical section, all interrupt handlers that cannot execute safely within a critical section are blocked . So the interrupt latency for a blocked interrupt is extended to the end of the critical section, plus any interrupts with equal and higher priority that arrived while the block was in place.     Many computer systems require low interrupt latencies, especially ": null
     },
     {
         "embedded systems": "Embedded System"
     },
     {
-        "that need to ": null
+        " that need to ": null
     },
     {
         "control": "Control System"
@@ -108,10 +108,10 @@
         " . An RTOS makes the promise that no more than a specified maximum amount of time will pass between executions of ": null
     },
     {
-        "subroutine": "Subroutine"
+        "subroutines": "Subroutine"
     },
     {
-        "s. In order to do this, the RTOS must also guarantee that interrupt latency will never exceed a predefined maximum.       Advanced interrupt controllers implement a multitude of hardware features in order to minimize the overhead during ": null
+        ". In order to do this, the RTOS must also guarantee that interrupt latency will never exceed a predefined maximum.       Advanced interrupt controllers implement a multitude of hardware features in order to minimize the overhead during ": null
     },
     {
         "context switch": "Context Switch"
@@ -126,16 +126,16 @@
         ". For example, most network cards implement transmit and receive ": null
     },
     {
-        "ring buffer": "Ring Buffer"
+        "ring buffers": "Ring Buffer"
     },
     {
-        "s, interrupt rate limiting, and hardware flow control. Buffers allow data to be stored until it can be transferred, and flow control allows the network card to pause communications without having to discard data if the buffer is full.     Modern hardware also implements interrupt rate limiting. This helps prevent ": null
+        ", interrupt rate limiting, and hardware flow control. Buffers allow data to be stored until it can be transferred, and flow control allows the network card to pause communications without having to discard data if the buffer is full.     Modern hardware also implements interrupt rate limiting. This helps prevent ": null
     },
     {
         "interrupt storms": "Interrupt Storm"
     },
     {
-        "or ": null
+        " or ": null
     },
     {
         "live-lock": "Live-Lock"

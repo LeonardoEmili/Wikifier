@@ -195,10 +195,10 @@
         " of computation is a model of computation such that the successive states of the machine and the operations to be performed are completely determined by the preceding state. Historically, the first deterministic models were ": null
     },
     {
-        "recursive function": "Μ-Recursive Function"
+        "recursive functions": "Μ-Recursive Function"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "lambda calculus": "Lambda Calculus"
@@ -207,10 +207,10 @@
         ", and ": null
     },
     {
-        "Turing machine": "Turing Machine"
+        "Turing machines": "Turing Machine"
     },
     {
-        "s. The model of ": null
+        ". The model of ": null
     },
     {
         "Random access machines": "Random Access Machine"
@@ -219,16 +219,16 @@
         " is also widely used, as closer to real ": null
     },
     {
-        "computer": "Computer"
+        "computers": "Computer"
     },
     {
-        "s.     When the model of computation is not specified, it is generally the model of ": null
+        ".     When the model of computation is not specified, it is generally the model of ": null
     },
     {
-        "multitape Turing machine": "Multitape Turing Machine"
+        "multitape Turing machines": "Multitape Turing Machine"
     },
     {
-        "s. For most algorithms, the complexity is the same on multitape Turing machines and on RAM-machines, although, some care may be needed in storing data for getting this equivalence.       In a ": null
+        ". For most algorithms, the complexity is the same on multitape Turing machines and on RAM-machines, although, some care may be needed in storing data for getting this equivalence.       In a ": null
     },
     {
         "non-deterministic model of computation": "Non-Deterministic Algorithm"
@@ -237,10 +237,10 @@
         ", such as ": null
     },
     {
-        "non-deterministic Turing machine": "Non-Deterministic Turing Machine"
+        "non-deterministic Turing machines": "Non-Deterministic Turing Machine"
     },
     {
-        "s, some choices may be done at some steps of the computation. In complexity theory, one considers all possible choices simultaneously, and the non-deterministic time complexity is the time needed, when the best choices are always done. In other words, one considers that the computation is done simultaneously on as many processors as needed, and the non-deterministic computation time is the time spent by the first processor that finishes the computation. This parallelism is partly amenable to ": null
+        ", some choices may be done at some steps of the computation. In complexity theory, one considers all possible choices simultaneously, and the non-deterministic time complexity is the time needed, when the best choices are always done. In other words, one considers that the computation is done simultaneously on as many processors as needed, and the non-deterministic computation time is the time spent by the first processor that finishes the computation. This parallelism is partly amenable to ": null
     },
     {
         "quantum computing": "Quantum Computing"
@@ -252,7 +252,7 @@
         "entangled states": "Entangled State"
     },
     {
-        "in running specific ": null
+        " in running specific ": null
     },
     {
         "quantum algorithms": "Quantum Algorithms"
@@ -354,7 +354,7 @@
         "cryptographic protocols": "Cryptographic Protocol"
     },
     {
-        "that will resist to attacks with quantum computers, when such computers will really exist.       The complexity of a problem is the ": null
+        " that will resist to attacks with quantum computers, when such computers will really exist.       The complexity of a problem is the ": null
     },
     {
         "infimum": "Infimum"

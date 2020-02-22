@@ -33,7 +33,7 @@
         "audio mixers": "Audio Mixer"
     },
     {
-        "are used to add together ": null
+        " are used to add together ": null
     },
     {
         "audio signals": "Audio Signal"
@@ -69,7 +69,7 @@
         "sinusoids": "Sine Wave"
     },
     {
-        "of specified ": null
+        " of specified ": null
     },
     {
         "frequencies": "Frequency"
@@ -99,7 +99,7 @@
         "matrix mixers": "Matrix Mixer"
     },
     {
-        "employ ": null
+        " employ ": null
     },
     {
         "active": "Passivity"
@@ -111,7 +111,7 @@
         "buffer amplifiers": "Buffer Amplifier"
     },
     {
-        "for ": null
+        " for ": null
     },
     {
         "impedance matching": "Impedance Matching"
@@ -126,10 +126,10 @@
         " to modulate signal frequencies. A multiplicative mixer can be coupled with a filter to either up-convert or down-convert an input signal frequency, but they are more commonly used to down-convert to a lower frequency to allow for simpler filter designs, as done in ": null
     },
     {
-        "superheterodyne receiver": "Superheterodyne Receiver"
+        "superheterodyne receivers": "Superheterodyne Receiver"
     },
     {
-        "s. In many typical circuits, the single output signal actually contains multiple waveforms, namely those at the sum and difference of the two input frequencies and harmonic waveforms. The output signal may be obtained by removing the other signal components with a filter.í            The received signal can be represented as     : E        and that of the local oscillator can be represented as     : E        For simplicity, assume that the output I of the detector is proportional to the square of the amplitude:   : I        :       :: +       :: + E        :       :: +         The output has high frequency and constant components. In heterodyne detection, the high frequency components and usually the constant components are filtered out, leaving the intermediate frequency at   . The amplitude of this last component is proportional to the amplitude of the signal radiation. With appropriate ": null
+        ". In many typical circuits, the single output signal actually contains multiple waveforms, namely those at the sum and difference of the two input frequencies and harmonic waveforms. The output signal may be obtained by removing the other signal components with a filter.í            The received signal can be represented as     : E        and that of the local oscillator can be represented as     : E        For simplicity, assume that the output I of the detector is proportional to the square of the amplitude:   : I        :       :: +       :: + E        :       :: +         The output has high frequency and constant components. In heterodyne detection, the high frequency components and usually the constant components are filtered out, leaving the intermediate frequency at   . The amplitude of this last component is proportional to the amplitude of the signal radiation. With appropriate ": null
     },
     {
         "signal analysis": "Signal Analysis"
@@ -159,13 +159,13 @@
         "transistors": "Transistor"
     },
     {
-        "and/or ": null
+        " and/or ": null
     },
     {
         "diodes": "Diode"
     },
     {
-        "arranged in a ": null
+        " arranged in a ": null
     },
     {
         "balanced circuit": "Balanced Circuit"
@@ -177,13 +177,13 @@
         "monolithic integrated circuits": "Monolithic Integrated Circuit"
     },
     {
-        "or ": null
+        " or ": null
     },
     {
-        "hybrid integrated circuit": "Hybrid Integrated Circuit"
+        "hybrid integrated circuits": "Hybrid Integrated Circuit"
     },
     {
-        "s. They are designed for a wide variety of frequency ranges, and they are ": null
+        ". They are designed for a wide variety of frequency ranges, and they are ": null
     },
     {
         "mass-produced": "Mass Production"
@@ -192,16 +192,16 @@
         " to tight tolerances by the hundreds of thousands, making them relatively cheap.     Double-balanced mixers are very widely used in ": null
     },
     {
-        "microwave communication": "Microwave Communication"
+        "microwave communications": "Microwave Communication"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "satellite communication": "Satellite Communication"
+        "satellite communications": "Satellite Communication"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "ultrahigh frequency": "Ultrahigh Frequency"
@@ -210,10 +210,10 @@
         " communications ": null
     },
     {
-        "transmitter": "Transmitter"
+        "transmitters": "Transmitter"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "radio receivers": "Receiver"
@@ -222,22 +222,22 @@
         ", and ": null
     },
     {
-        "radar system": "Radar System"
+        "radar systems": "Radar System"
     },
     {
-        "s.     Gilbert cell mixers are an arrangement of transistors that multiplies the two signals.     Switching mixers use arrays of ": null
+        ".     Gilbert cell mixers are an arrangement of transistors that multiplies the two signals.     Switching mixers use arrays of ": null
     },
     {
         "field-effect transistors": "Field-Effect Transistor"
     },
     {
-        "or ": null
+        " or ": null
     },
     {
-        "vacuum tube": "Vacuum Tube"
+        "vacuum tubes": "Vacuum Tube"
     },
     {
-        "s. These are used as electronic switches, to alternate the signal direction. They are controlled by the signal being mixed. They are especially popular with digitally controlled radios. Switching mixers pass more power and usually insert less distortion than Gilbert cell mixers.                ": null
+        ". These are used as electronic switches, to alternate the signal direction. They are controlled by the signal being mixed. They are especially popular with digitally controlled radios. Switching mixers pass more power and usually insert less distortion than Gilbert cell mixers.                ": null
     },
     {
         "da:Lydmikser": "Da:Lydmikser"

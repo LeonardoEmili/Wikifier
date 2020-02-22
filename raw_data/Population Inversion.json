@@ -27,10 +27,10 @@
         " than in lower, unexcited ": null
     },
     {
-        "energy state": "Energy State"
+        "energy states": "Energy State"
     },
     {
-        "s. It is called an inversion because in many familiar and commonly encountered physical systems, this is not possible. This concept is of fundamental importance in ": null
+        ". It is called an inversion because in many familiar and commonly encountered physical systems, this is not possible. This concept is of fundamental importance in ": null
     },
     {
         "laser science": "Laser Science"
@@ -66,7 +66,7 @@
         "atoms": "Atom"
     },
     {
-        "forming a ": null
+        " forming a ": null
     },
     {
         "laser medium": "Active Laser Medium"
@@ -75,10 +75,10 @@
         ".     Assume there are a group of N atoms, each of which is capable of being in one of two ": null
     },
     {
-        "energy state": "Energy State"
+        "energy states": "Energy State"
     },
     {
-        "s: either   The ground state, with energy E 1 ; or   The excited state, with energy E 2 , with E 2 & gt; E 1 .   The number of these atoms which are in the ": null
+        ": either   The ground state, with energy E 1 ; or   The excited state, with energy E 2 , with E 2 & gt; E 1 .   The number of these atoms which are in the ": null
     },
     {
         "ground state": "Ground State"
@@ -111,10 +111,10 @@
         " that the ratio of the number of atoms in each state is given by the ratio of two ": null
     },
     {
-        "Boltzmann distribution": "Boltzmann Distribution"
+        "Boltzmann distributions": "Boltzmann Distribution"
     },
     {
-        "s, the Boltzmann factor:   :       where T is the ": null
+        ", the Boltzmann factor:   :       where T is the ": null
     },
     {
         "thermodynamic temperature": "Thermodynamic Temperature"
@@ -213,10 +213,10 @@
         ". Some of these photons are absorbed by the atoms in the ground state, and the photons are lost to the laser process. However, some photons cause stimulated emission in excited-state atoms, releasing another coherent photon. In effect, this results in optical amplification.     If the number of photons being amplified per unit time is greater than the number of photons being absorbed, then the net result is a continuously increasing number of photons being produced; the laser medium is said to have a gain of greater than unity.     Recall from the descriptions of absorption and stimulated emission above that the rates of these two processes are proportional to the number of atoms in the ground and excited states, N 1 and N 2 , respectively. If the ground state has a higher population than the excited state , then the absorption process dominates, and there is a net attenuation of photons. If the populations of the two states are the same , the rate of absorption of light exactly balances the rate of emission; the medium is then said to be optically transparent.     If the higher energy state has a greater population than the lower energy state , then the emission process dominates, and light in the system undergoes a net increase in intensity. It is thus clear that to produce a faster rate of stimulated emissions than absorptions, it is required that the ratio of the populations of the two states is such that   N 2 /N 1 & gt; 1; In other words, a population inversion is required for laser operation.          Many transitions involving electromagnetic radiation are strictly forbidden under quantum mechanics. The allowed transitions are described by so-called ": null
     },
     {
-        "selection rule": "Selection Rule"
+        "selection rules": "Selection Rule"
     },
     {
-        "s, which describe the conditions under which a radiative transition is allowed. For instance, transitions are only allowed if ΔS    0, S being the total spin angular momentum of the system. In real materials other effects, such as interactions with the crystal lattice, intervene to circumvent the formal rules by providing alternate mechanisms. In these systems the forbidden transitions can occur, but usually at slower rates than allowed transitions. A classic example is ": null
+        ", which describe the conditions under which a radiative transition is allowed. For instance, transitions are only allowed if ΔS    0, S being the total spin angular momentum of the system. In real materials other effects, such as interactions with the crystal lattice, intervene to circumvent the formal rules by providing alternate mechanisms. In these systems the forbidden transitions can occur, but usually at slower rates than allowed transitions. A classic example is ": null
     },
     {
         "phosphorescence": "Phosphorescence"

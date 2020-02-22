@@ -36,7 +36,7 @@
         "mathematical models": "Mathematical Model"
     },
     {
-        "that describe the swinging of a clock ": null
+        " that describe the swinging of a clock ": null
     },
     {
         "pendulum": "Pendulum"
@@ -210,7 +210,7 @@
         "Linear dynamical systems": "Linear Dynamical System"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "systems that have two numbers describing a state": "Poincaré–Bendixson Theorem"
@@ -348,7 +348,7 @@
         "discrete dynamical systems": "Discrete Dynamical System"
     },
     {
-        "in 1964. One of the implications of the theorem is that if a discrete dynamical system on the ": null
+        " in 1964. One of the implications of the theorem is that if a discrete dynamical system on the ": null
     },
     {
         "real line": "Real Line"
@@ -477,22 +477,22 @@
         " can be used to define the evolution rule:     : G 0     is an example of an equation that arises from the modeling of mechanical systems with complicated constraints.     The differential equations determining the evolution function Φ  t are often ": null
     },
     {
-        "ordinary differential equation": "Ordinary Differential Equation"
+        "ordinary differential equations": "Ordinary Differential Equation"
     },
     {
-        "s; in this case the phase space M is a finite dimensional manifold. Many of the concepts in dynamical systems can be extended to infinite-dimensional manifolds  those that are locally ": null
+        "; in this case the phase space M is a finite dimensional manifold. Many of the concepts in dynamical systems can be extended to infinite-dimensional manifolds  those that are locally ": null
     },
     {
         "Banach spaces": "Banach Space"
     },
     {
-        " in which case the differential equations are ": null
+        "  in which case the differential equations are ": null
     },
     {
-        "partial differential equation": "Partial Differential Equation"
+        "partial differential equations": "Partial Differential Equation"
     },
     {
-        "s. In the late 20th century the dynamical system perspective to partial differential equations started gaining popularity.        ": null
+        ". In the late 20th century the dynamical system perspective to partial differential equations started gaining popularity.        ": null
     },
     {
         "Logistic map": "Logistic Map"
@@ -594,13 +594,13 @@
         "eigenvalues": "Eigenvalue"
     },
     {
-        "of A determine the structure of the phase space. From the eigenvalues and the ": null
+        " of A determine the structure of the phase space. From the eigenvalues and the ": null
     },
     {
         "eigenvectors": "Eigenvector"
     },
     {
-        "of A it is possible to determine if an initial point will converge or diverge to the equilibrium point at the origin.     The distance between two different initial conditions in the case A  ≠  0 will change exponentially in most cases, either converging exponentially fast towards a point, or diverging exponentially fast. Linear systems display sensitive dependence on initial conditions in the case of divergence. For nonlinear systems this is one of the conditions for ": null
+        " of A it is possible to determine if an initial point will converge or diverge to the equilibrium point at the origin.     The distance between two different initial conditions in the case A  ≠  0 will change exponentially in most cases, either converging exponentially fast towards a point, or diverging exponentially fast. Linear systems display sensitive dependence on initial conditions in the case of divergence. For nonlinear systems this is one of the conditions for ": null
     },
     {
         "chaotic behavior": "Chaos Theory"
@@ -705,10 +705,10 @@
         " describes how a stable periodic orbit goes through a series of ": null
     },
     {
-        "period-doubling bifurcation": "Period-Doubling Bifurcation"
+        "period-doubling bifurcations": "Period-Doubling Bifurcation"
     },
     {
-        "s.          In many dynamical systems, it is possible to choose the coordinates of the system so that the volume in phase space is invariant. This happens for mechanical systems derived from Newtons laws as long as the coordinates are the position and the momentum and the volume is measured in units of  ×  . The flow takes points of a subset A into the points Φ  t  and invariance of the phase space means that   :     .   In the ": null
+        ".          In many dynamical systems, it is possible to choose the coordinates of the system so that the volume in phase space is invariant. This happens for mechanical systems derived from Newtons laws as long as the coordinates are the position and the momentum and the volume is measured in units of  ×  . The flow takes points of a subset A into the points Φ  t  and invariance of the phase space means that   :     .   In the ": null
     },
     {
         "Hamiltonian formalism": "Hamiltonian Mechanics"
@@ -738,7 +738,7 @@
         "Boltzmanns": "Ludwig Boltzmann"
     },
     {
-        "derivation of the increase in entropy in a dynamical system of colliding atoms.     One of the questions raised by Boltzmanns work was the possible equality between time averages and space averages, what he called the ": null
+        " derivation of the increase in entropy in a dynamical system of colliding atoms.     One of the questions raised by Boltzmanns work was the possible equality between time averages and space averages, what he called the ": null
     },
     {
         "ergodic hypothesis": "Ergodic Hypothesis"
@@ -786,7 +786,7 @@
         "SRB measures": "Srb Measure"
     },
     {
-        "replace the Boltzmann factor and they are defined on attractors of chaotic systems.          Simple nonlinear dynamical systems and even piecewise linear systems can exhibit a completely unpredictable behavior, which might seem to be random, despite the fact that they are fundamentally deterministic. This seemingly unpredictable behavior has been called  chaos . ": null
+        " replace the Boltzmann factor and they are defined on attractors of chaotic systems.          Simple nonlinear dynamical systems and even piecewise linear systems can exhibit a completely unpredictable behavior, which might seem to be random, despite the fact that they are fundamentally deterministic. This seemingly unpredictable behavior has been called  chaos . ": null
     },
     {
         "Hyperbolic systems": "Anosov Diffeomorphism"
@@ -807,10 +807,10 @@
         " in the long term, and if so, what are the possible ": null
     },
     {
-        "attractor": "Attractor"
+        "attractors": "Attractor"
     },
     {
-        "s? or Does the long-term behavior of the system depend on its initial condition?     Note that the chaotic behavior of complex systems is not the issue. ": null
+        "? or Does the long-term behavior of the system depend on its initial condition?     Note that the chaotic behavior of complex systems is not the issue. ": null
     },
     {
         "Meteorology": "Meteorology"

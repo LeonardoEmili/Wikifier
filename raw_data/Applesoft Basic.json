@@ -189,10 +189,10 @@
         " variables with an 8-bit exponent and a 31-bit significand and improved math capabilities, including trigonometry and logarithmic functions   Commands for high-resolution graphics   DATA statements, with READ and RESTORE commands, for representing numerical and string values in quantity   CHR$ , STR$ , and VAL functions for converting between string and numeric types   ": null
     },
     {
-        "User-defined function": "User-Defined Function"
+        "User-defined functions": "User-Defined Function"
     },
     {
-        "s: simple one-line functions written in BASIC, with a single parameter   Error-trapping, allowing BASIC programs to handle unexpected errors by means of a subroutine written in BASIC   Conversely, Applesoft lacks the MOD operator that had been present in Integer BASIC.     Adapting BASIC for the Apple II was a tedious job as Apple received a source listing for Microsoft 6502 BASIC which proved to be buggy and also required the addition of Integer BASIC commands. Since Apple had no 6502 assembler on hand, the development team was forced to send the source code over the phone lines to Call Computer, an outfit that offered compiler services. This was an extremely tedious, slow process and after Call Computer lost the source code due to an equipment malfunction, one of the programmers, Cliff Huston, used his own IMSAI 8080 computer to ": null
+        ": simple one-line functions written in BASIC, with a single parameter   Error-trapping, allowing BASIC programs to handle unexpected errors by means of a subroutine written in BASIC   Conversely, Applesoft lacks the MOD operator that had been present in Integer BASIC.     Adapting BASIC for the Apple II was a tedious job as Apple received a source listing for Microsoft 6502 BASIC which proved to be buggy and also required the addition of Integer BASIC commands. Since Apple had no 6502 assembler on hand, the development team was forced to send the source code over the phone lines to Call Computer, an outfit that offered compiler services. This was an extremely tedious, slow process and after Call Computer lost the source code due to an equipment malfunction, one of the programmers, Cliff Huston, used his own IMSAI 8080 computer to ": null
     },
     {
         "cross assemble": "Cross Assembler"
@@ -279,13 +279,13 @@
         "shape tables": "Shape Table"
     },
     {
-        "can be used to draw objects in hires graphics, but are slow in comparison to routines that draw bitmaps directly. They also only support the defining of horizontal and vertical lines. Diagonals and curves are not supported, although shapes can be drawn rotated to various angles, so that lines ostensibly defined as horizontal or vertical will appear diagonal. In addition, shapes can be drawn scaled up to larger sizes.       Applesoft BASIC can be extended by two means: the ampersand command and the USR function. These are two features that call low-level machine-language routines stored in memory, which is useful for routines that need to be fast or require direct access to arbitrary functions or data in memory. The USR function takes one numerical argument, and can be programmed to derive and return a calculated function value, to be used in a numerical expression. & is effectively a shorthand for CALL, with an address that is predefined.       A deficiency in Applesofts error-trapping with ONERR means that the system stack would not be reset if an error-handling routine did not invoke RESUME, potentially leading to a crash. Error-handling that does not employ RESUME can avoid the problem with a CALL -3288 or 62248 before exiting the routine. Applesoft BASIC Programmers Reference Manual , Apple Computer, Inc., 1982       Wozniak originally referred to his Integer BASIC as Game BASIC . Few ": null
+        " can be used to draw objects in hires graphics, but are slow in comparison to routines that draw bitmaps directly. They also only support the defining of horizontal and vertical lines. Diagonals and curves are not supported, although shapes can be drawn rotated to various angles, so that lines ostensibly defined as horizontal or vertical will appear diagonal. In addition, shapes can be drawn scaled up to larger sizes.       Applesoft BASIC can be extended by two means: the ampersand command and the USR function. These are two features that call low-level machine-language routines stored in memory, which is useful for routines that need to be fast or require direct access to arbitrary functions or data in memory. The USR function takes one numerical argument, and can be programmed to derive and return a calculated function value, to be used in a numerical expression. & is effectively a shorthand for CALL, with an address that is predefined.       A deficiency in Applesofts error-trapping with ONERR means that the system stack would not be reset if an error-handling routine did not invoke RESUME, potentially leading to a crash. Error-handling that does not employ RESUME can avoid the problem with a CALL -3288 or 62248 before exiting the routine. Applesoft BASIC Programmers Reference Manual , Apple Computer, Inc., 1982       Wozniak originally referred to his Integer BASIC as Game BASIC . Few ": null
     },
     {
         "action games": "Action Game"
     },
     {
-        "were written in Applesoft BASIC, in large part because the use of floating-point numbers for all math operations degrades performance.     Applesoft BASIC programs are stored as a ": null
+        " were written in Applesoft BASIC, in large part because the use of floating-point numbers for all math operations degrades performance.     Applesoft BASIC programs are stored as a ": null
     },
     {
         "linked list": "Linked List"

@@ -21,22 +21,22 @@
         ", ": null
     },
     {
-        "library catalog": "Library Catalog"
+        "library catalogs": "Library Catalog"
     },
     {
-        "s, and ": null
+        ", and ": null
     },
     {
-        "reference book": "Reference Book"
+        "reference books": "Reference Book"
     },
     {
-        "s.     Collation differs from  classification  in that classification is concerned with arranging information into logical categories, while collation is concerned with the ordering of items of information, usually based on the form of their ": null
+        ".     Collation differs from  classification  in that classification is concerned with arranging information into logical categories, while collation is concerned with the ordering of items of information, usually based on the form of their ": null
     },
     {
-        "identifier": "Identifier"
+        "identifiers": "Identifier"
     },
     {
-        "s. Formally speaking, a collation method typically defines a ": null
+        ". Formally speaking, a collation method typically defines a ": null
     },
     {
         "total order": "Total Order"
@@ -45,10 +45,10 @@
         " on a set of possible identifiers, called ": null
     },
     {
-        "sort key": "Sort Key"
+        "sort keys": "Sort Key"
     },
     {
-        "s, which consequently produces a ": null
+        ", which consequently produces a ": null
     },
     {
         "total preorder": "Total Preorder"
@@ -66,7 +66,7 @@
         "character strings": "Character String"
     },
     {
-        "and deciding which should come before the other. When an order has been defined in this way, a  sorting algorithm  can be used to put a list of any number of items into that order.     The main advantage of collation is that it makes it fast and easy for a user to find an element in the list, or to confirm that it is absent from the list. In automatic systems this can be done using a ": null
+        " and deciding which should come before the other. When an order has been defined in this way, a  sorting algorithm  can be used to put a list of any number of items into that order.     The main advantage of collation is that it makes it fast and easy for a user to find an element in the list, or to confirm that it is absent from the list. In automatic systems this can be done using a ": null
     },
     {
         "binary search algorithm": "Binary Search Algorithm"
@@ -84,7 +84,7 @@
         "numbers": "Number"
     },
     {
-        "may be sorted based on the values of the numbers that they represent. For example, −4 , 2.5 , 10 , 89 , 30,000 . Note that pure application of this method may provide only a partial ordering on the strings, since different strings can represent the same number .     A similar approach may be taken with strings representing ": null
+        " may be sorted based on the values of the numbers that they represent. For example, −4 , 2.5 , 10 , 89 , 30,000 . Note that pure application of this method may provide only a partial ordering on the strings, since different strings can represent the same number .     A similar approach may be taken with strings representing ": null
     },
     {
         "dates": "Calendar Date"
@@ -114,7 +114,7 @@
         "Capital letters": "Capital Letter"
     },
     {
-        "are typically treated as equivalent to their corresponding lowercase letters.      Certain limitations, complications, and special conventions may apply when alphabetical order is used:   When strings contain ": null
+        " are typically treated as equivalent to their corresponding lowercase letters.      Certain limitations, complications, and special conventions may apply when alphabetical order is used:   When strings contain ": null
     },
     {
         "spaces": "Space"

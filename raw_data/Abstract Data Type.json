@@ -15,16 +15,16 @@
         " for ": null
     },
     {
-        "data type": "Data Type"
+        "data types": "Data Type"
     },
     {
-        "s, where a data type is defined by its behavior  from the point of view of a user of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations. This contrasts with ": null
+        ", where a data type is defined by its behavior  from the point of view of a user of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations. This contrasts with ": null
     },
     {
-        "data structure": "Data Structure"
+        "data structures": "Data Structure"
     },
     {
-        "s, which are concrete representations of data, and are the point of view of an implementer, not a user.     Formally, an ADT may be defined as a class of objects whose logical behavior is defined by a set of values and a set of operations ; this is analogous to an ": null
+        ", which are concrete representations of data, and are the point of view of an implementer, not a user.     Formally, an ADT may be defined as a class of objects whose logical behavior is defined by a set of values and a set of operations ; this is analogous to an ": null
     },
     {
         "algebraic structure": "Algebraic Structure"
@@ -69,28 +69,28 @@
         " if the maximum value is exceeded.     ADTs are a theoretical concept in computer science, used in the design and analysis of ": null
     },
     {
-        "algorithm": "Algorithm"
+        "algorithms": "Algorithm"
     },
     {
-        "s, data structures, and software systems, and do not correspond to specific features of ": null
+        ", data structures, and software systems, and do not correspond to specific features of ": null
     },
     {
-        "computer language": "Computer Language"
+        "computer languages": "Computer Language"
     },
     {
-        "s—mainstream computer languages do not directly support formally specified ADTs. However, various language features correspond to certain aspects of ADTs, and are easily confused with ADTs proper; these include ": null
+        "—mainstream computer languages do not directly support formally specified ADTs. However, various language features correspond to certain aspects of ADTs, and are easily confused with ADTs proper; these include ": null
     },
     {
-        "abstract type": "Abstract Type"
+        "abstract types": "Abstract Type"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "opaque data type": "Opaque Data Type"
+        "opaque data types": "Opaque Data Type"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "protocols": "Protocol"
@@ -120,13 +120,13 @@
         "integers": "Integer"
     },
     {
-        "are an ADT, defined as the values ..., −2, −1, 0, 1, 2, ..., and by the operations of addition, subtraction, multiplication, and division, together with greater than, less than, etc., which behave according to familiar mathematics , independently of how the integers are represented by the computer. Explicitly, behavior includes obeying various axioms , and preconditions on operations . Typically integers are represented in a data structure as ": null
+        " are an ADT, defined as the values ..., −2, −1, 0, 1, 2, ..., and by the operations of addition, subtraction, multiplication, and division, together with greater than, less than, etc., which behave according to familiar mathematics , independently of how the integers are represented by the computer. Explicitly, behavior includes obeying various axioms , and preconditions on operations . Typically integers are represented in a data structure as ": null
     },
     {
-        "binary number": "Binary Number"
+        "binary numbers": "Binary Number"
     },
     {
-        "s, most often as ": null
+        ", most often as ": null
     },
     {
         "twos complement": "Twos Complement"
@@ -168,7 +168,7 @@
         "type systems": "Type System"
     },
     {
-        "of programming languages. However, an ADT may be ": null
+        " of programming languages. However, an ADT may be ": null
     },
     {
         "implemented": "Implementation"
@@ -180,13 +180,13 @@
         "data types": "Data Type"
     },
     {
-        "or ": null
+        " or ": null
     },
     {
-        "data structure": "Data Structure"
+        "data structures": "Data Structure"
     },
     {
-        "s, in many ways and in many programming languages; or described in a ": null
+        ", in many ways and in many programming languages; or described in a ": null
     },
     {
         "formal specification language": "Formal Specification Language"
@@ -288,16 +288,16 @@
         " that takes the old state as an argument, and returns the new state as part of the result. Unlike the imperative operations, these functions have no ": null
     },
     {
-        "side effect": "Side Effect"
+        "side effects": "Side Effect"
     },
     {
-        "s. Therefore, the order in which they are evaluated is immaterial, and the same operation applied to the same arguments will always return the same results .     In the functional view, in particular, there is no way to define an abstract variable with the semantics of imperative variables . Instead of storing values into variables, one passes them as arguments to functions.       For example, a complete functional-style definition of an abstract stack could use the three operations:   push : takes a stack state and an arbitrary value, returns a stack state;   top : takes a stack state, returns a value;   pop : takes a stack state, returns a stack state.     In a functional-style definition there is no need for a create operation. Indeed, there is no notion of stack instance . The stack states can be thought of as being potential states of a single stack structure, and two stack states that contain the same values in the same order are considered to be identical states. This view actually mirrors the behavior of some concrete implementations, such as ": null
+        ". Therefore, the order in which they are evaluated is immaterial, and the same operation applied to the same arguments will always return the same results .     In the functional view, in particular, there is no way to define an abstract variable with the semantics of imperative variables . Instead of storing values into variables, one passes them as arguments to functions.       For example, a complete functional-style definition of an abstract stack could use the three operations:   push : takes a stack state and an arbitrary value, returns a stack state;   top : takes a stack state, returns a value;   pop : takes a stack state, returns a stack state.     In a functional-style definition there is no need for a create operation. Indeed, there is no notion of stack instance . The stack states can be thought of as being potential states of a single stack structure, and two stack states that contain the same values in the same order are considered to be identical states. This view actually mirrors the behavior of some concrete implementations, such as ": null
     },
     {
         "linked lists": "Linked List"
     },
     {
-        "with ": null
+        " with ": null
     },
     {
         "hash cons": "Hash Cons"

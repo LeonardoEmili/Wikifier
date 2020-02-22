@@ -15,10 +15,10 @@
         ". The chassis consists of a series of slotted card guides on the top and bottom, into which the cards are slid so they stand on end, like books on a shelf. At the spine of each card is one or more connectors which plug into mating connectors on a backplane that closes the rear of the chassis.       As the cards are assumed to be installed in a vertical orientation, the usual meanings of height and width are transposed: A card might be 233.35  mm high , but only 20  mm wide . Height is measured in ": null
     },
     {
-        "rack unit": "Rack Unit"
+        "rack units": "Rack Unit"
     },
     {
-        "s, U , with 1 U being . This dimension refers to the subrack in which the card is to be mounted, rather than the card itself.     Enclosure heights are multiples of 3U, with the cards always  shorter than the enclosure. Two common heights are 3U  and 6U . As two 3U cards are shorter than a 6U card , it is possible to install two 3U cards in one slot of a 6U subrack, with a mid-height structure for proper support.     Card widths are specified in ": null
+        ", U , with 1 U being . This dimension refers to the subrack in which the card is to be mounted, rather than the card itself.     Enclosure heights are multiples of 3U, with the cards always  shorter than the enclosure. Two common heights are 3U  and 6U . As two 3U cards are shorter than a 6U card , it is possible to install two 3U cards in one slot of a 6U subrack, with a mid-height structure for proper support.     Card widths are specified in ": null
     },
     {
         "horizontal pitch": "Horizontal Pitch"
@@ -66,7 +66,7 @@
         "rear transition modules": "Rear Transition Module"
     },
     {
-        "or RTMs.     The Eurocard is a mechanical system and does not define the specific connector to be used or the signals that are assigned to connector contacts.     The connector systems that are commonly used with Eurocard architectures include the original ": null
+        " or RTMs.     The Eurocard is a mechanical system and does not define the specific connector to be used or the signals that are assigned to connector contacts.     The connector systems that are commonly used with Eurocard architectures include the original ": null
     },
     {
         "DIN 41612": "Din 41612"

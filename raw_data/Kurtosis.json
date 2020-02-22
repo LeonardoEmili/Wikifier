@@ -165,10 +165,10 @@
         " better generalizes to ": null
     },
     {
-        "multivariate distribution": "Multivariate Distribution"
+        "multivariate distributions": "Multivariate Distribution"
     },
     {
-        "s, especially when independence is not assumed. The ": null
+        ", especially when independence is not assumed. The ": null
     },
     {
         "cokurtosis": "Cokurtosis"
@@ -192,7 +192,7 @@
         "binomial coefficients": "Binomial Coefficient"
     },
     {
-        "appear in the above equation.       The exact interpretation of the Pearson measure of kurtosis used to be disputed, but is now settled. As Westfall notes in 2014,  ...its only unambiguous interpretation is in terms of tail extremity; i.e., either existing outliers or propensity to produce outliers .  The logic is simple: Kurtosis is the average  of the ": null
+        " appear in the above equation.       The exact interpretation of the Pearson measure of kurtosis used to be disputed, but is now settled. As Westfall notes in 2014,  ...its only unambiguous interpretation is in terms of tail extremity; i.e., either existing outliers or propensity to produce outliers .  The logic is simple: Kurtosis is the average  of the ": null
     },
     {
         "standardized data": "Standardized Data"
@@ -219,10 +219,10 @@
         " into its center and tails .         In 1986 Moors gave an interpretation of kurtosis. Let     : Z         where X is a random variable, μ is the mean and σ is the standard deviation.     Now by definition of the kurtosis   , and by the well-known identity E   + EV 2,     :   E   + EZ2 2   +   2   + 1 .     The kurtosis can now be seen as a measure of the dispersion of Z 2 around its expectation. Alternatively it can be seen to be a measure of the dispersion of Z around +1 and  −1. κ attains its minimal value in a symmetric two-point distribution. In terms of the original variable X, the kurtosis is a measure of the dispersion of X around the two values μ  ±  σ.     High values of κ arise in two circumstances:     where the probability mass is concentrated around the mean and the data-generating process produces occasional values far from the mean,   where the probability mass is concentrated in the tails of the distribution.         The excess kurtosis is defined as kurtosis minus  3. There are 3 distinct regimes as described below.       Distributions with zero excess kurtosis are called mesokurtic, or mesokurtotic. The most prominent example of a mesokurtic distribution is the normal distribution family, regardless of the values of its ": null
     },
     {
-        "parameter": "Parameter"
+        "parameters": "Parameter"
     },
     {
-        "s. A few other well-known distributions can be mesokurtic, depending on parameter values: for example, the ": null
+        ". A few other well-known distributions can be mesokurtic, depending on parameter values: for example, the ": null
     },
     {
         "binomial distribution": "Binomial Distribution"
@@ -285,10 +285,10 @@
         " and ": null
     },
     {
-        "discrete uniform distribution": "Discrete Uniform Distribution"
+        "discrete uniform distributions": "Discrete Uniform Distribution"
     },
     {
-        "s, and the ": null
+        ", and the ": null
     },
     {
         "raised cosine distribution": "Raised Cosine Distribution"

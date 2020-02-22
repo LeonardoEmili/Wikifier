@@ -30,7 +30,7 @@
         "archive formats": "Archive Format"
     },
     {
-        "to reduce the size of the archive.     Basic archivers just take a list of files and concatenate their contents sequentially into archives. The archive files need to store ": null
+        " to reduce the size of the archive.     Basic archivers just take a list of files and concatenate their contents sequentially into archives. The archive files need to store ": null
     },
     {
         "metadata": "Metadata"
@@ -48,13 +48,13 @@
         "file attributes": "File Attribute"
     },
     {
-        "or ": null
+        " or ": null
     },
     {
-        "access control list": "Access Control List"
+        "access control lists": "Access Control List"
     },
     {
-        "s.     The process of making an archive file is called archiving or packing. Reconstructing the original files from the archive is termed unarchiving, unpacking or extracting.       An early archiver was the ": null
+        ".     The process of making an archive file is called archiving or packing. Reconstructing the original files from the archive is termed unarchiving, unpacking or extracting.       An early archiver was the ": null
     },
     {
         "Multics": "Multics"
@@ -96,7 +96,7 @@
         "filename extensions": "Filename Extension"
     },
     {
-        "are successively added at each step of this process. For example, archiving a collection of files with tar and then compressing the resulting archive file with gzip results a file with .tar.gz extension.     This approach has two goals:   It follows the ": null
+        " are successively added at each step of this process. For example, archiving a collection of files with tar and then compressing the resulting archive file with gzip results a file with .tar.gz extension.     This approach has two goals:   It follows the ": null
     },
     {
         "Unix philosophy": "Unix Philosophy"

@@ -15,10 +15,10 @@
         " and argument flow. Compound propositions are formed by connecting propositions by ": null
     },
     {
-        "logical connective": "Logical Connective"
+        "logical connectives": "Logical Connective"
     },
     {
-        "s. The propositions without logical connectives are called atomic propositions.     Unlike ": null
+        ". The propositions without logical connectives are called atomic propositions.     Unlike ": null
     },
     {
         "first-order logic": "First-Order Logic"
@@ -78,13 +78,13 @@
         "axioms": "Axiom"
     },
     {
-        "allows certain formulas to be derived. These derived formulas are called ": null
+        " allows certain formulas to be derived. These derived formulas are called ": null
     },
     {
         "theorems": "Theorem"
     },
     {
-        "and may be interpreted to be true propositions. A constructed sequence of such formulas is known as a  derivation  or proof and the last formula of the sequence is the theorem. The derivation may be interpreted as proof of the proposition represented by the theorem.     When a ": null
+        " and may be interpreted to be true propositions. A constructed sequence of such formulas is known as a  derivation  or proof and the last formula of the sequence is the theorem. The derivation may be interpreted as proof of the proposition represented by the theorem.     When a ": null
     },
     {
         "formal system": "Formal System"
@@ -93,10 +93,10 @@
         " is used to represent formal logic, only statement letters are represented directly. The natural language propositions that arise when theyre interpreted are outside the scope of the system, and the relation between the formal system and its interpretation is likewise outside the formal system itself.     In classical truth-functional propositional logic, formulas are interpreted as having precisely one of two possible ": null
     },
     {
-        "truth value": "Truth Value"
+        "truth values": "Truth Value"
     },
     {
-        "s, the truth value of true or the truth value of false. The ": null
+        ", the truth value of true or the truth value of false. The ": null
     },
     {
         "principle of bivalence": "Principle Of Bivalence"
@@ -135,10 +135,10 @@
         ". The logic was focused on ": null
     },
     {
-        "proposition": "Proposition"
+        "propositions": "Proposition"
     },
     {
-        "s. This advancement was different from the traditional ": null
+        ". This advancement was different from the traditional ": null
     },
     {
         "syllogistic logic": "Syllogism"
@@ -363,7 +363,7 @@
         "truth tables": "Truth Table"
     },
     {
-        "for these different operators, as well as the ": null
+        " for these different operators, as well as the ": null
     },
     {
         "method of analytic tableaux": "Method Of Analytic Tableaux"
@@ -411,7 +411,7 @@
         "logical values": "Logical Value"
     },
     {
-        "as operators of arity zero, thus:     :::         :Some writers use the ": null
+        " as operators of arity zero, thus:     :::         :Some writers use the ": null
     },
     {
         "tilde": "Tilde"
@@ -447,7 +447,7 @@
         "substitution instances": "Substitution Instance"
     },
     {
-        "of:     ::     ::     ::     The rule of inference is ": null
+        " of:     ::     ::     ::     The rule of inference is ": null
     },
     {
         "modus ponens": "Modus Ponens"
@@ -465,7 +465,7 @@
         "theorems": "Theorem"
     },
     {
-        "from an empty axiom set.     The set of initial points is empty, that is,     .   The set of transformation rules,   , is described as follows:     Our propositional calculus has eleven inference rules. These rules allow us to derive other true formulas given a set of formulas that are assumed to be true. The first ten simply state that we can infer certain well-formed formulas from other well-formed formulas. The last rule however uses hypothetical reasoning in the sense that in the premise of the rule we temporarily assume an hypothesis to be part of the set of inferred formulas to see if we can infer a certain other formula. Since the first ten rules dont do this they are usually described as non-hypothetical rules, and the last one as a hypothetical rule.     In describing the transformation rules, we may introduce a metalanguage symbol   . It is basically a convenient shorthand for saying infer that . The format is       , in which  is a set of formulas called premises, and  is a formula called conclusion. The transformation rule       means that if every proposition in  is a theorem , then  is also a theorem. Note that considering the following rule ": null
+        " from an empty axiom set.     The set of initial points is empty, that is,     .   The set of transformation rules,   , is described as follows:     Our propositional calculus has eleven inference rules. These rules allow us to derive other true formulas given a set of formulas that are assumed to be true. The first ten simply state that we can infer certain well-formed formulas from other well-formed formulas. The last rule however uses hypothetical reasoning in the sense that in the premise of the rule we temporarily assume an hypothesis to be part of the set of inferred formulas to see if we can infer a certain other formula. Since the first ten rules dont do this they are usually described as non-hypothetical rules, and the last one as a hypothetical rule.     In describing the transformation rules, we may introduce a metalanguage symbol   . It is basically a convenient shorthand for saying infer that . The format is       , in which  is a set of formulas called premises, and  is a formula called conclusion. The transformation rule       means that if every proposition in  is a theorem , then  is also a theorem. Note that considering the following rule ": null
     },
     {
         "Conjunction introduction": "Conjunction Introduction"
@@ -792,10 +792,10 @@
         ", ": null
     },
     {
-        "variable": "Variable"
+        "variables": "Variable"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
         "predicates": "Predicate"
@@ -804,10 +804,10 @@
         ", and ": null
     },
     {
-        "quantifier": "Quantifier"
+        "quantifiers": "Quantifier"
     },
     {
-        "s, all keeping the rules of propositional logic with some new ones introduced. With the tools of first-order logic it is possible to formulate a number of theories, either with explicit axioms or by rules of inference, that can themselves be treated as logical calculi. ": null
+        ", all keeping the rules of propositional logic with some new ones introduced. With the tools of first-order logic it is possible to formulate a number of theories, either with explicit axioms or by rules of inference, that can themselves be treated as logical calculi. ": null
     },
     {
         "Arithmetic": "Arithmetic"
@@ -837,7 +837,7 @@
         "higher-order logics": "Higher-Order Logic"
     },
     {
-        "are formal extensions of first-order logic. Thus, it makes sense to refer to propositional logic as  zeroth-order logic , when comparing it with these logics.     ": null
+        " are formal extensions of first-order logic. Thus, it makes sense to refer to propositional logic as  zeroth-order logic , when comparing it with these logics.     ": null
     },
     {
         "Modal logic": "Modal Logic"
@@ -849,7 +849,7 @@
         "Many-valued logics": "Many-Valued Logic"
     },
     {
-        "are those allowing sentences to have values other than true and false.  These logics often require calculational devices quite distinct from propositional calculus. When the values form a Boolean algebra , many-valued logic reduces to classical logic; many-valued logics are therefore only of independent interest when the values form an algebra that is not Boolean.       Finding solutions to propositional logic formulas is an ": null
+        " are those allowing sentences to have values other than true and false.  These logics often require calculational devices quite distinct from propositional calculus. When the values form a Boolean algebra , many-valued logic reduces to classical logic; many-valued logics are therefore only of independent interest when the values form an algebra that is not Boolean.       Finding solutions to propositional logic formulas is an ": null
     },
     {
         "NP-complete": "Np-Complete"
@@ -864,10 +864,10 @@
         " algorithms to work with propositions containing ": null
     },
     {
-        "arithmetic expression": "Arithmetic Expression"
+        "arithmetic expressions": "Arithmetic Expression"
     },
     {
-        "s; these are the ": null
+        "; these are the ": null
     },
     {
         "SMT solver": "Smt Solver"

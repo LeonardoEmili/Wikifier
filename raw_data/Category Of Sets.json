@@ -36,13 +36,13 @@
         "morphisms": "Morphism"
     },
     {
-        "between sets A and B are the ": null
+        " between sets A and B are the ": null
     },
     {
         "total functions": "Total Function"
     },
     {
-        "from A to B, and the composition of morphisms is the ": null
+        " from A to B, and the composition of morphisms is the ": null
     },
     {
         "composition of functions": "Function Composition"
@@ -66,7 +66,7 @@
         "epimorphisms": "Epimorphism"
     },
     {
-        "in Set are the ": null
+        " in Set are the ": null
     },
     {
         "surjective": "Surjective"
@@ -78,7 +78,7 @@
         "monomorphisms": "Monomorphism"
     },
     {
-        "are the ": null
+        " are the ": null
     },
     {
         "injective": "Injective"
@@ -90,7 +90,7 @@
         "isomorphisms": "Isomorphism"
     },
     {
-        "are the ": null
+        " are the ": null
     },
     {
         "bijective": "Bijective"
@@ -114,7 +114,7 @@
         "empty functions": "Empty Function"
     },
     {
-        "as morphisms. Every ": null
+        " as morphisms. Every ": null
     },
     {
         "singleton": "Singleton"
@@ -132,7 +132,7 @@
         "zero objects": "Zero Object"
     },
     {
-        "in Set.     The category Set is ": null
+        " in Set.     The category Set is ": null
     },
     {
         "complete and co-complete": "Complete Category"
@@ -297,16 +297,16 @@
         ". In this setting, categories formed from sets are said to be small and those  that are formed from proper classes are said to be large.     Another solution is to assume the existence of ": null
     },
     {
-        "Grothendieck universe": "Grothendieck Universe"
+        "Grothendieck universes": "Grothendieck Universe"
     },
     {
-        "s. Roughly speaking, a Grothendieck universe is a set which is itself a model of ZF . The existence of Grothendieck universes  is not implied by the usual ZF axioms; it is an additional, independent axiom, roughly equivalent to the existence of ": null
+        ". Roughly speaking, a Grothendieck universe is a set which is itself a model of ZF . The existence of Grothendieck universes  is not implied by the usual ZF axioms; it is an additional, independent axiom, roughly equivalent to the existence of ": null
     },
     {
-        "strongly inaccessible cardinal": "Strongly Inaccessible Cardinal"
+        "strongly inaccessible cardinals": "Strongly Inaccessible Cardinal"
     },
     {
-        "s. Assuming this extra axiom, one can limit the objects of Set to the elements of a particular universe.      In one variation of this scheme, the class of sets is the union of the entire tower of Grothendieck universes.  However, one does not work directly with the category of all sets . Instead, theorems are expressed in terms of the category Set U whose objects are the elements of a sufficiently large Grothendieck universe U, and are then shown not to depend on the particular choice of U. As a foundation for ": null
+        ". Assuming this extra axiom, one can limit the objects of Set to the elements of a particular universe.      In one variation of this scheme, the class of sets is the union of the entire tower of Grothendieck universes.  However, one does not work directly with the category of all sets . Instead, theorems are expressed in terms of the category Set U whose objects are the elements of a sufficiently large Grothendieck universe U, and are then shown not to depend on the particular choice of U. As a foundation for ": null
     },
     {
         "category theory": "Category Theory"

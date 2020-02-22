@@ -57,10 +57,10 @@
         " of an amplifier is the ratio of output to input power or amplitude, and is usually measured in ": null
     },
     {
-        "decibel": "Decibel"
+        "decibels": "Decibel"
     },
     {
-        "s. When measured in decibels it is ": null
+        ". When measured in decibels it is ": null
     },
     {
         "logarithm": "Logarithm"
@@ -84,7 +84,7 @@
         "instrumentation amplifiers": "Instrumentation Amplifier"
     },
     {
-        "will be more often specified. For example, an audio amplifier with a gain given as 20  dB will have a voltage gain of ten.     The use of voltage gain figure is appropriate when the amplifiers ": null
+        " will be more often specified. For example, an audio amplifier with a gain given as 20  dB will have a voltage gain of ten.     The use of voltage gain figure is appropriate when the amplifiers ": null
     },
     {
         "input impedance": "Input Impedance"
@@ -126,7 +126,7 @@
         "switching amplifiers": "Switching Amplifier"
     },
     {
-        "need steep ": null
+        " need steep ": null
     },
     {
         "low pass filtering": "Low-Pass Filter"
@@ -135,10 +135,10 @@
         " at the output to get rid of high-frequency switching noise and ": null
     },
     {
-        "harmonic": "Harmonic"
+        "harmonics": "Harmonic"
     },
     {
-        "s.     The range of frequency over which the gain is equal to or greater than 70.7% of its maximum gain is termed as bandwidth.        Efficiency is a measure of how much of the power source is usefully applied to the amplifiers output. ": null
+        ".     The range of frequency over which the gain is equal to or greater than 70.7% of its maximum gain is termed as bandwidth.        Efficiency is a measure of how much of the power source is usefully applied to the amplifiers output. ": null
     },
     {
         "Class A": "Electronic Amplifierpower Amplifier Classes"
@@ -168,7 +168,7 @@
         "switching amplifiers": "Switching Amplifier"
     },
     {
-        "have reported efficiencies as high as 90%. Amplifiers of Class C-F are usually known to be very high-efficiency amplifiers. RCA manufactured an AM broadcast transmitter employing a single class-C low-mu triode with an RF efficiency in the 90% range.     More efficient amplifiers run cooler, and often do not need any cooling fans even in multi-kilowatt designs. The reason for this is that the loss of efficiency produces heat as a by-product of the energy lost during the conversion of power. In more efficient amplifiers there is less loss of energy so in turn less heat.     In RF linear Power Amplifiers, such as cellular base stations and broadcast transmitters, special design techniques can be used to improve efficiency. Doherty designs, which use a second output stage as a peak amplifier, can lift efficiency from the typical 15% up to 30-35% in a narrow bandwidth. Envelope Tracking designs are able to achieve efficiencies of up to 60%, by modulating the supply voltage to the amplifier in line with the envelope of the signal.      ": null
+        " have reported efficiencies as high as 90%. Amplifiers of Class C-F are usually known to be very high-efficiency amplifiers. RCA manufactured an AM broadcast transmitter employing a single class-C low-mu triode with an RF efficiency in the 90% range.     More efficient amplifiers run cooler, and often do not need any cooling fans even in multi-kilowatt designs. The reason for this is that the loss of efficiency produces heat as a by-product of the energy lost during the conversion of power. In more efficient amplifiers there is less loss of energy so in turn less heat.     In RF linear Power Amplifiers, such as cellular base stations and broadcast transmitters, special design techniques can be used to improve efficiency. Doherty designs, which use a second output stage as a peak amplifier, can lift efficiency from the typical 15% up to 30-35% in a narrow bandwidth. Envelope Tracking designs are able to achieve efficiencies of up to 60%, by modulating the supply voltage to the amplifier in line with the envelope of the signal.      ": null
     },
     {
         "distortion": "Distortion"
@@ -258,7 +258,7 @@
         "seconds": "Second"
     },
     {
-        "and BW is bandwidth in ": null
+        " and BW is bandwidth in ": null
     },
     {
         "Hz": "Hertz"

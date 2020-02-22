@@ -45,10 +45,10 @@
         " which yields the checksum from a data input is called a checksum function or  checksum algorithm . Depending on its design goals, a good checksum algorithm will usually output a significantly different value, even for small changes made to the input. This is especially true of ": null
     },
     {
-        "cryptographic hash function": "Cryptographic Hash Function"
+        "cryptographic hash functions": "Cryptographic Hash Function"
     },
     {
-        "s, which may be used to detect many data corruption errors and verify overall ": null
+        ", which may be used to detect many data corruption errors and verify overall ": null
     },
     {
         "data integrity": "Data Integrity"
@@ -57,34 +57,34 @@
         "; if the computed checksum for the current data input matches the stored value of a previously computed checksum, there is a very high probability the data has not been accidentally altered or corrupted.     Checksum functions are related to ": null
     },
     {
-        "hash function": "Hash Function"
+        "hash functions": "Hash Function"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "fingerprint": "Fingerprint"
+        "fingerprints": "Fingerprint"
     },
     {
-        "s, ": null
+        ", ": null
     },
     {
-        "randomization function": "Randomization Function"
+        "randomization functions": "Randomization Function"
     },
     {
-        "s, and ": null
+        ", and ": null
     },
     {
-        "cryptographic hash function": "Cryptographic Hash Function"
+        "cryptographic hash functions": "Cryptographic Hash Function"
     },
     {
-        "s. However, each of those concepts has different applications and therefore different design goals. For instance, a function returning the start of a string can provide a hash appropriate for some applications but will never be a suitable checksum. Checksums are used as ": null
+        ". However, each of those concepts has different applications and therefore different design goals. For instance, a function returning the start of a string can provide a hash appropriate for some applications but will never be a suitable checksum. Checksums are used as ": null
     },
     {
         "cryptographic primitives": "Cryptographic Primitive"
     },
     {
-        "in larger authentication algorithms. For cryptographic systems with these two specific design goals, see ": null
+        " in larger authentication algorithms. For cryptographic systems with these two specific design goals, see ": null
     },
     {
         "HMAC": "Hash-Based Message Authentication Code"
@@ -96,19 +96,19 @@
         "Check digits": "Check Digit"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "parity bits": "Parity Bit"
     },
     {
-        "are special cases of checksums, appropriate for small blocks of data . Some ": null
+        " are special cases of checksums, appropriate for small blocks of data . Some ": null
     },
     {
         "error-correcting codes": "Error-Correcting Code"
     },
     {
-        "are based on special checksums which not only detect common errors but also allow the original data to be recovered in certain cases.         The simplest checksum algorithm is the so-called ": null
+        " are based on special checksums which not only detect common errors but also allow the original data to be recovered in certain cases.         The simplest checksum algorithm is the so-called ": null
     },
     {
         "longitudinal parity check": "Longitudinal Redundancy Check"
@@ -150,7 +150,7 @@
         "cyclic redundancy checks": "Cyclic Redundancy Check"
     },
     {
-        ", address these weaknesses by considering not only the value of each word but also its position in the sequence. This feature generally increases the ": null
+        " , address these weaknesses by considering not only the value of each word but also its position in the sequence. This feature generally increases the ": null
     },
     {
         "cost": "Analysis Of Algorithms"

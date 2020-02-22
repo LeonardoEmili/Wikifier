@@ -6,7 +6,7 @@
         "Boolean functions": "Boolean Function"
     },
     {
-        "and ": null
+        " and ": null
     },
     {
         "propositional calculus": "Propositional Calculus"
@@ -99,16 +99,16 @@
         " on two ": null
     },
     {
-        "logical value": "Logical Value"
+        "logical values": "Logical Value"
     },
     {
-        "s. It produces a value of true, if — and only if — at least one of the ": null
+        ". It produces a value of true, if — and only if — at least one of the ": null
     },
     {
         "propositions": "Proposition"
     },
     {
-        "is false.       The ": null
+        " is false.       The ": null
     },
     {
         "truth table": "Truth Table"
@@ -132,7 +132,7 @@
         "Boolean algebras": "Boolean Algebra"
     },
     {
-        "using the stroke, and proved its equivalence to a standard formulation thereof by ": null
+        " using the stroke, and proved its equivalence to a standard formulation thereof by ": null
     },
     {
         "Huntington": "Edward Vermilye Huntington"
@@ -219,10 +219,10 @@
         " , called an atom.     Construction Rule II: If X and Y are wffs, then  is a wff.     Closure Rule: Any formulae which cannot be constructed by means of the first two Construction Rules are not wffs.     The letters U, V, W, X, and Y are metavariables standing for wffs.     A decision procedure for determining whether a formula is well-formed goes as follows: deconstruct the formula by applying the Construction Rules backwards, thereby breaking the formula into smaller subformulae. Then repeat this recursive deconstruction process to each of the subformulae. Eventually the formula should be reduced to its atoms, but if some subformula cannot be so reduced, then the formula is not a wff.       All wffs of the form   :   are axioms. Instances of   :, U   W   are inference rules.       Since the only connective of this logic is |, the symbol | could be discarded altogether, leaving only the parentheses to group the letters. A pair of parentheses must always enclose a pair of wffs. Examples of theorems in this simplified notation are     : ,     : .     The notation can be simplified further, by letting   :  :    :    U   for any U. This simplification causes the need to change some rules:   More than two letters are allowed within parentheses.   Letters or wffs within parentheses are allowed to commute.   Repeated letters or wffs within a same set of parentheses can be eliminated.   The result is a parenthetical version of the Peirce ": null
     },
     {
-        "existential graph": "Existential Graph"
+        "existential graphs": "Existential Graph"
     },
     {
-        "s.     Another way to simplify the notation is to eliminate parentheses by using ": null
+        ".     Another way to simplify the notation is to eliminate parentheses by using ": null
     },
     {
         "Polish Notation": "Polish Notation"
