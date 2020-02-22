@@ -1,0 +1,188 @@
+[
+    {
+        "   Hangman is a ": null
+    },
+    {
+        "paper and pencil": "Paper-And-Pencil Game"
+    },
+    {
+        " guessing game": "Guessingguessing Games"
+    },
+    {
+        " for two or more players. One player thinks of a ": null
+    },
+    {
+        "word": "Word"
+    },
+    {
+        ", ": null
+    },
+    {
+        "phrase": "Phrase"
+    },
+    {
+        " or ": null
+    },
+    {
+        "sentence": "Sentence"
+    },
+    {
+        " and the other tries to guess it by suggesting ": null
+    },
+    {
+        "letters": "Letter"
+    },
+    {
+        " within a certain number of guesses.       The word to guess is represented by a row of ": null
+    },
+    {
+        "dashes": "Dash"
+    },
+    {
+        ", representing each ": null
+    },
+    {
+        "letter": "Letter"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "word": "Word"
+    },
+    {
+        ". In most variants, ": null
+    },
+    {
+        "proper noun": "Proper Noun"
+    },
+    {
+        "s, such as names, places, and brands, are not allowed. Slang words, sometimes referred to as informal or shortened words, are also not allowed. If the guessing player suggests a letter which occurs in the word, the other player writes it in all its correct positions. If the suggested letter does not occur in the word, the other player draws one element of a hanged man ": null
+    },
+    {
+        "stick figure": "Stick Figure"
+    },
+    {
+        " as a ": null
+    },
+    {
+        "tally mark": "Tally Marks"
+    },
+    {
+        ".     The player guessing the word may, at any time, attempt to guess the whole word. If the word is correct, the game is over and the guesser wins. Otherwise, the other player may choose to penalize the guesser by adding an element to the diagram. On the other hand, if the other player makes enough incorrect guesses to allow his opponent to complete the diagram, the game is also over, this time with the guesser losing. However, the guesser can also win by guessing all the letters that appear in the word, thereby completing the word, before the diagram is completed.          As the name of the game suggests, the ": null
+    },
+    {
+        "diagram": "Diagram"
+    },
+    {
+        " is designed to look like a ": null
+    },
+    {
+        "hanging": "Hanging"
+    },
+    {
+        " man. Although debates have arisen about the questionable taste of this picture,  , Japan Probe, July 23, 2010 it is still in use today. A common alternative for teachers is to draw an ": null
+    },
+    {
+        "apple tree": "Apple Tree"
+    },
+    {
+        " with ten apples, erasing or crossing out the ": null
+    },
+    {
+        "apples": "Apple"
+    },
+    {
+        "as the guesses are used up.     The exact nature of the diagram differs; some players draw the ": null
+    },
+    {
+        "gallows": "Gallows"
+    },
+    {
+        " before play and draw parts of the mans body . Some players begin with no diagram at all, and drawing the individual elements of the gallows as part of the game, effectively giving the guessing players more chances. The amount of detail on the man can also vary, affecting the number of chances. Some players include a ": null
+    },
+    {
+        "face": "Face"
+    },
+    {
+        " on the head, either all at once or one feature at a time. Some players include beheading the head as the last chance by drawing a line at the neck.     Some modifications to game play  to increase the difficulty level are sometimes implemented, such as limiting guesses on high-frequency ": null
+    },
+    {
+        "consonants": "Consonant"
+    },
+    {
+        "and ": null
+    },
+    {
+        "vowel": "Vowel"
+    },
+    {
+        "s. Another alternative is to give the definition of the word; this can be used to facilitate the learning of a ": null
+    },
+    {
+        "foreign language": "Foreign Language"
+    },
+    {
+        ".       The fact that the twelve most commonly occurring letters in the ": null
+    },
+    {
+        "English language": "English Language"
+    },
+    {
+        " are ": null
+    },
+    {
+        "e-t-a-o-i-n-s-h-r-d-l-u": "Etaoin Shrdlu"
+    },
+    {
+        " , along with other ": null
+    },
+    {
+        "letter-frequency": "Letter Frequency"
+    },
+    {
+        " lists, are used by the guessing player to increase the odds when it is their turn to guess. On the other hand, the same lists can be used by the puzzle setter to stump their opponent by choosing a word that deliberately avoids common letters  or one that contains rare letters .     Another common strategy is to guess vowels first, as ": null
+    },
+    {
+        "English": "English Language"
+    },
+    {
+        " only has five vowels  and ": null
+    },
+    {
+        "almost every word has at least one": "English Words Without Vowels"
+    },
+    {
+        ".     According to a 2010 study conducted by Jon McLoone for ": null
+    },
+    {
+        "Wolfram Research": "Wolfram Research"
+    },
+    {
+        ", the most difficult words to guess include jazz, buzz, hajj, faff, fizz, fuzz and variations of these.          The game show  Wheel of Fortune  is based on Hangman but with the addition of multiple-word puzzles, a ": null
+    },
+    {
+        "roulette": "Roulette"
+    },
+    {
+        "-styled wheel, and cash awards.     ": null
+    },
+    {
+        "Brazil": "Brazil"
+    },
+    {
+        " also had a show in the 1960s and again from 2012–2013 called Let’s Play Hangman, hosted by the legendary ": null
+    },
+    {
+        "Silvio Santos": "Silvio Santos"
+    },
+    {
+        ". Brazil would later get its own version of Wheel of Fortune, running from 1980 to 1993, again from 2003 to 2012 , and again since 2013 to the present. These shows were also hosted by Santos.     In July 2017, the ": null
+    },
+    {
+        "BBC": "Bbc"
+    },
+    {
+        " introduced a game show of its own called  Letterbox , which is also based on Hangman.        The following example game illustrates a player trying to guess the word hangman using a strategy based solely on letter frequency. As the player continues, a part of the stick figure on the noose is added. Once a full body is drawn, the game is over, and the player lost.     ": null
+    }
+]

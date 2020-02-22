@@ -1,0 +1,158 @@
+[
+    {
+        "      In ": null
+    },
+    {
+        "economics": "Economics"
+    },
+    {
+        ", the Gini coefficient , sometimes called Gini index, or Gini ratio, is a ": null
+    },
+    {
+        "measure of statistical dispersion": "Statistical Dispersionmeasures Of Statistical Dispersion"
+    },
+    {
+        " intended to represent the ": null
+    },
+    {
+        "income": "Income Distribution"
+    },
+    {
+        " or ": null
+    },
+    {
+        "wealth distribution": "Wealth Distribution"
+    },
+    {
+        " of a nations residents, and is the most commonly used measurement of ": null
+    },
+    {
+        "inequality": "Economic Inequality"
+    },
+    {
+        ". It was developed by the Italian ": null
+    },
+    {
+        "statistician": "Statistics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "sociologist": "Sociology"
+    },
+    {
+        " Corrado Gini": "Corrado Gini"
+    },
+    {
+        " and published in his 1912 paper Variability and Mutability . Gini, C. . Concentration and dependency ratios . English translation in Rivista di Politica Economica, 87 , 769–789.     The Gini coefficient measures the inequality among values of a ": null
+    },
+    {
+        "frequency distribution": "Frequency Distribution"
+    },
+    {
+        " . A Gini coefficient of zero expresses perfect equality, where all values are the same . A Gini coefficient of one expresses maximal inequality among values .  Note: Gini coefficient becomes one only in a large population where one person has all the income. In the special case of just two people, where one has no income and the other has all the income, the Gini coefficient is 0.5. For five people, where four have no income and the fifth has all the income, the Gini coefficient is 0.8. See:  , fao.org. However, a value greater than one may occur if some persons represent negative contribution to the total . For larger groups, values close to one are very unlikely in practice. Given the normalization of both the cumulative population and the cumulative share of income used to calculate the Gini coefficient, the measure is not overly sensitive to the specifics of the income distribution, but rather only on how incomes vary relative to the other members of a population. The exception to this is in the ": null
+    },
+    {
+        "redistribution of income": "Redistribution Of Income"
+    },
+    {
+        " resulting in a minimum income for all people. When the population is sorted, if their income distribution were to approximate a well-known function, then some representative values could be calculated.     The Gini coefficient was proposed by Gini as a measure of ": null
+    },
+    {
+        "inequality": "Social Inequality"
+    },
+    {
+        " of ": null
+    },
+    {
+        "income": "Income Inequality Metrics"
+    },
+    {
+        " or ": null
+    },
+    {
+        "wealth": "Wealth Concentration"
+    },
+    {
+        ". Gini, C. . On the Measure of Concentration with Special Reference to Income and Statistics , Colorado College Publication, General Series No. 208, 73–79. For ": null
+    },
+    {
+        "OECD countries": "Organisation For Economic Co-Operation And Development"
+    },
+    {
+        ", in the late 20th century, considering the effect of taxes and ": null
+    },
+    {
+        "transfer payments": "Transfer Payments"
+    },
+    {
+        ", the income Gini coefficient ranged between 0.24 and 0.49, with Slovenia being the lowest and Mexico the highest.  African countries had the highest pre-tax Gini coefficients in 2008–2009, with South Africa the worlds highest, variously estimated to be 0.63 to 0.7,   although this figure drops to 0.52 after social assistance is taken into account, and drops again to 0.47 after taxation.  The global income Gini coefficient in 2005 has been estimated to be between 0.61 and 0.68 by various sources.      There are some issues in interpreting a Gini coefficient. The same value may result from many different distribution curves. The demographic structure should be taken into account. Countries with an aging population, or with a baby boom, experience an increasing pre-tax Gini coefficient even if real income distribution for working adults remains constant. Scholars have devised over a dozen variants of the Gini coefficient.              The Gini coefficient is a single number aimed at measuring the degree of inequality in a distribution. It is most often used in economics to measure how far a countrys wealth or income distribution deviates from a totally equal distribution.     The Gini coefficient is usually defined ": null
+    },
+    {
+        "mathematically": "Mathematics"
+    },
+    {
+        " based on the ": null
+    },
+    {
+        "Lorenz curve": "Lorenz Curve"
+    },
+    {
+        ", which plots the proportion of the total income of the population that is cumulatively earned by the bottom x of the population . The line at 45 degrees thus represents perfect equality of incomes. The Gini coefficient can then be thought of as the ratio of the area that lies between the line of equality and the Lorenz curve  over the total area under the line of equality ; i.e., . It is also equal to 2A and to  due to the fact that  .     If all people have non-negative income , the Gini coefficient can theoretically range from 0 to 1 ; it is sometimes expressed as a percentage ranging between 0 and 100. In practice, both extreme values are not quite reached. If negative values are possible , then the Gini coefficient could theoretically be more than 1. Normally the mean is assumed positive, which rules out a Gini coefficient less than zero.     An alternative approach is to define the Gini coefficient as half of the ": null
+    },
+    {
+        "relative mean absolute difference": "Relative Mean Absolute Difference"
+    },
+    {
+        ", which is mathematically equivalent to the Lorenz curve definition.  The mean absolute difference is the average ": null
+    },
+    {
+        "absolute difference": "Absolute Difference"
+    },
+    {
+        " of all pairs of items of the population, and the relative mean absolute difference is the mean absolute difference divided by the ": null
+    },
+    {
+        "average": "Arithmetic Mean"
+    },
+    {
+        ",   , to normalize for scale. If x i is the wealth or income of person i, and there are n persons, then the Gini coefficient G is given by:     : G           When the income distribution is given as a continuous ": null
+    },
+    {
+        "probability distribution function": "Probability Distribution Function"
+    },
+    {
+        " p, the Gini coefficient is again half of the relative mean absolute difference:     : G   pp      where   x p   is the mean of the distribution, and the lower limits of integration may be replaced by zero when all incomes are positive.                 The most equal society will be one in which every person receives the same income ; the most unequal society will be one in which a single person receives 100% of the total income and the remaining  people receive none .     While the income distribution of any particular country need not follow simple functions, these functions give a qualitative understanding of the income distribution in a nation given the Gini coefficient.     An informative simplified case just distinguishes two levels of income, low and high. If the high income group is a proportion u of the population and earns a proportion f of all income, then the Gini coefficient is . An actual more graded distribution with these same values u and f will always have a higher Gini coefficient than .     The proverbial case where the richest 20% have 80% of all income  would lead to an income Gini coefficient of at least 60%.     An often cited  case that 1% of all the worlds population owns 50% of all wealth, means a wealth Gini coefficient of at least 49%.         In some cases, this equation can be applied to calculate the Gini coefficient without direct reference to the Lorenz curve. For example, y i , i 1 to n, indexed in non-decreasing order y i .      Since the Gini coefficient is half the relative mean absolute difference, it can also be calculated using formulas for the relative mean absolute difference. For a random sample S consisting of values y i , i 1 to n, that are indexed in non-decreasing order , the statistic:   : G       is a ": null
+    },
+    {
+        "consistent estimator": "Consistent Estimator"
+    },
+    {
+        " of the population Gini coefficient, but is not, in general, ": null
+    },
+    {
+        "unbiased": "Estimatorpoint Estimators"
+    },
+    {
+        ". Like G,  has a simpler form:     : G 1 -   .     There does not exist a sample statistic that is in general an unbiased estimator of the population Gini coefficient, like the ": null
+    },
+    {
+        "relative mean absolute difference": "Relative Mean Absolute Difference"
+    },
+    {
+        ".         For a ": null
+    },
+    {
+        "discrete probability distribution": "Discrete Probability Distribution"
+    },
+    {
+        " with probability mass function f , i 1 to n, where f  is the fraction of the population with income or wealth y i  math /math math /math  math /math math /math math /math math /math  math /math  math /math  math /math  math /math math /math math /math  ref /ref             Sometimes the entire Lorenz curve is not known, and only values at certain intervals are given. In that case, the Gini coefficient can be approximated by using various techniques for ": null
+    },
+    {
+        "interpolating": "Interpolation"
+    },
+    {
+        " the missing values of the Lorenz curve. If  are the known points on the Lorenz curve, with the X k indexed in increasing order , so that:   X k is the cumulated proportion of the population variable, for k 0,...,n, with X 0 0, X n 1.   Y k is the cumulated proportion of the income variable, for k 0,...,n, with Y 0 0, Y n 1.   Y k should be indexed in non-decreasing order  math /math  sub  /sub math /math  ref  /ref  math /math math /math sub /sub  math /math ref  !--|accessdate2 February 2015-- /ref ref namefaogini  /ref  math /math math /math ref  /ref math /math  sub  /sub  sub  /sub ": null
+    }
+]

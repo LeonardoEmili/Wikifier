@@ -1,0 +1,341 @@
+[
+    {
+        "      In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", a finite field or Galois field  is a ": null
+    },
+    {
+        "field": "Field"
+    },
+    {
+        " that contains a finite number of ": null
+    },
+    {
+        "elements": "Element"
+    },
+    {
+        ". As with any field, a finite field is a ": null
+    },
+    {
+        "set": "Set"
+    },
+    {
+        " on which the operations of multiplication, addition, subtraction and division are defined and satisfy certain basic rules. The most common examples of finite fields are given by the ": null
+    },
+    {
+        "integers mod ": "Integers Mod N"
+    },
+    {
+        " when  is a ": null
+    },
+    {
+        "prime number": "Prime Number"
+    },
+    {
+        ".     Finite fields are fundamental in a number of areas of mathematics and ": null
+    },
+    {
+        "computer science": "Computer Science"
+    },
+    {
+        ", including ": null
+    },
+    {
+        "number theory": "Number Theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "algebraic geometry": "Algebraic Geometry"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Galois theory": "Galois Theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "finite geometry": "Finite Geometry"
+    },
+    {
+        ", ": null
+    },
+    {
+        "cryptography": "Cryptography"
+    },
+    {
+        " and ": null
+    },
+    {
+        "coding theory": "Coding Theory"
+    },
+    {
+        ".         A finite field is a finite set which is a ": null
+    },
+    {
+        "field": "Field"
+    },
+    {
+        "; this means that multiplication, addition, subtraction and division are defined and satisfy the rules of arithmetic known as the ": null
+    },
+    {
+        "field axioms": "Field Axioms"
+    },
+    {
+        ".     The number of elements of a finite field is called its order or, sometimes, its size. A finite field of order  exists if and only if the order  is a ": null
+    },
+    {
+        "prime power": "Prime Power"
+    },
+    {
+        "  . In a field of order , adding  copies of any element always results in zero; that is, the ": null
+    },
+    {
+        "characteristic": "Characteristic"
+    },
+    {
+        " of the field is .     If qpk, all fields of order  are ": null
+    },
+    {
+        "isomorphic": "Isomorphic"
+    },
+    {
+        " . Moreover, a field cannot contain two different finite ": null
+    },
+    {
+        "subfields": "Field Extension"
+    },
+    {
+        "with the same order. One may therefore identify all finite fields with the same order, and they are unambiguously denoted   ,  or , where the letters GF stand for Galois field . This latter notation was introduced by ": null
+    },
+    {
+        "E. H. Moore": "E. H. Moore"
+    },
+    {
+        " in an address given in 1893 at the International Mathematical Congress held in Chicago .     In a finite field of order , the ": null
+    },
+    {
+        "polynomial": "Polynomial"
+    },
+    {
+        "  has all  elements of the finite field as ": null
+    },
+    {
+        "root": "Root Of A Polynomial"
+    },
+    {
+        "s. The non-zero elements of a finite field form a ": null
+    },
+    {
+        "multiplicative group": "Multiplicative Group"
+    },
+    {
+        ". This group is ": null
+    },
+    {
+        "cyclic": "Cyclic Group"
+    },
+    {
+        ", so all non-zero elements can be expressed as powers of a single element called a ": null
+    },
+    {
+        "primitive element": "Primitive Element"
+    },
+    {
+        " of the field.     The simplest examples of finite fields are the fields of prime order: for each ": null
+    },
+    {
+        "prime number": "Prime Number"
+    },
+    {
+        " , the ": null
+    },
+    {
+        "prime field": "Prime Field"
+    },
+    {
+        " of order , denoted , ,   , or , may be constructed as the ": null
+    },
+    {
+        "integers modulo ": "Modular Arithmetic"
+    },
+    {
+        ".     The elements of the prime field of order  may be represented by integers in the range . The sum, the difference and the product are the ": null
+    },
+    {
+        "remainder of the division": "Euclidean Division"
+    },
+    {
+        " by  of the result of the corresponding integer operation. The multiplicative inverse of an element may be computed by using the extended Euclidean algorithm .     Let  be a finite field. For any element  in  and any ": null
+    },
+    {
+        "integer": "Integer"
+    },
+    {
+        " , denote by  the sum of  copies of . The least positive  such that  is the characteristic  of the field. This allows defining a multiplication   k  x of an element  of  by an element  of  by choosing an integer representative for . This multiplication makes  into a -": null
+    },
+    {
+        "vector space": "Vector Space"
+    },
+    {
+        ". It follows that the number of elements of  is  for some integer .     The ": null
+    },
+    {
+        "identity": "Identity"
+    },
+    {
+        "   : pxp+yp    is true in a field of characteristic . This follows from the ": null
+    },
+    {
+        "binomial theorem": "Binomial Theorem"
+    },
+    {
+        ", as each ": null
+    },
+    {
+        "binomial coefficient": "Binomial Coefficient"
+    },
+    {
+        " of the expansion of , except the first and the last, is a multiple of .     By ": null
+    },
+    {
+        "Fermats little theorem": "Fermats Little Theorem"
+    },
+    {
+        ", if  is a prime number and  is in the field  then . This implies the equality   : Xp-X    for polynomials over . More generally, every element in  satisfies the polynomial equation .     Any finite field extension of a finite field is separable and simple. That is, if  is a finite field and  is a subfield of , then  is obtained from  by adjoining a single element whose ": null
+    },
+    {
+        "minimal polynomial": "Minimal Polynomial"
+    },
+    {
+        " is separable. To use a jargon, finite fields are ": null
+    },
+    {
+        "perfect": "Perfect Field"
+    },
+    {
+        ".     A more general algebraic structure that satisfies all the other axioms of a field, but whose multiplication is not required to be commutative, is called a ": null
+    },
+    {
+        "division ring": "Division Ring"
+    },
+    {
+        " . By ": null
+    },
+    {
+        "Wedderburns little theorem": "Wedderburns Little Theorem"
+    },
+    {
+        ", any finite division ring is commutative, and hence is a finite field.       Let  be a ": null
+    },
+    {
+        "prime power": "Prime Power"
+    },
+    {
+        ", and  be the ": null
+    },
+    {
+        "splitting field": "Splitting Field"
+    },
+    {
+        " of the polynomial   : PXq-X   over the prime field . This means that  is a finite field of lowest order, in which  has  distinct roots . The ": null
+    },
+    {
+        "above identity": "Powersum"
+    },
+    {
+        " shows that the sum and the product of two roots of  are roots of , as well as the multiplicative inverse of a root of . In other word, the roots of  form a field of order , which is equal to  by the minimality of the splitting field.     The uniqueness up to isomorphism of splitting fields implies thus that all fields of order  are isomorphic. Also, if a field  has a field of order  as a subfield, its elements are the  roots of , and  cannot contain another subfield of order .     In summary, we have the following classification theorem first proved in 1893 by ": null
+    },
+    {
+        "E. H. Moore": "E. H. Moore"
+    },
+    {
+        "     ::The order of a finite field is a prime power. For every prime power  there are fields of order , and they are all isomorphic. In these fields, every element satisfies   ::: xqx,   ::and the polynomial  factors as   ::: Xq-X   .     It follows that  contains a subfield isomorphic to  if and only if  is a divisor of ; in that case, this subfield is unique. In fact, the polynomial  divides  if and only if  is a divisor of .           Given a prime power  with  prime and  math /math  math /math  ref  /ref  math /math  math /math  math /math  math /math  math /math  math /math  math /math math /math  math /math  math /math  math /math  math /math . If  is a th primitive root of unity in a field , then  contains all the  roots of unity, which are .     The field  contains a th primitive root of unity if and only if  is a divisor of ; if  is a divisor of , then the number of primitive th roots of unity in  is  . The number of th roots of unity in  is .     In a field of characteristic , every th root of unity is also a th root of unity. It follows that primitive th roots of unity never exist in a field of characteristic .     On the other hand, if  is ": null
+    },
+    {
+        "coprime": "Coprime"
+    },
+    {
+        " to , the roots of the th ": null
+    },
+    {
+        "cyclotomic polynomial": "Cyclotomic Polynomial"
+    },
+    {
+        " are distinct in every field of characteristic , as this polynomial is a divisor of , whose ": null
+    },
+    {
+        "discriminant": "Discriminant"
+    },
+    {
+        "  is nonzero modulo . It follows that the th ": null
+    },
+    {
+        "cyclotomic polynomial": "Cyclotomic Polynomial"
+    },
+    {
+        " factors over  into distinct irreducible polynomials that have all the same degree, say , and that  is the smallest field of characteristic  that contains the th primitive roots of unity.       The field  has several interesting properties that smaller fields do not share: it has two subfields such that neither is contained in the other; not all generators  are primitive elements; and the primitive elements are not all conjugate under the Galois group.     The order of this field being , and the divisors of  being , the subfields of  are , , , and  itself. As  and  are ": null
+    },
+    {
+        "coprime": "Coprime"
+    },
+    {
+        ", the intersection of  and  in  is the prime field .     The union of  and  has thus  elements. The remaining  elements of  generate  in the sense that no other subfield contains any of them. It follows that they are roots of irreducible polynomials of degree  over . This implies that, over , there are exactly  irreducible monic polynomials of degree . This may be verified by factoring  over .     The elements of  are primitive th roots of unity for some  dividing . As the 3rd and the 7th roots of unity belong to  and , respectively, the  generators are primitive th roots of unity for some  in . ": null
+    },
+    {
+        "Eulers totient function": "Eulers Totient Function"
+    },
+    {
+        " shows that there are  primitive th roots of unity,  primitive st roots of unity, and  primitive rd roots of unity. Summing these numbers, one finds again  elements.     By factoring the ": null
+    },
+    {
+        "cyclotomic polynomials": "Cyclotomic Polynomial"
+    },
+    {
+        "over , one finds that:   The six primitive th roots of unity are roots of   :: X6+X3+1,   :and are all conjugate under the action of the Galois group.   The twelve primitive st roots of unity are roots of   :: .   :They form two orbits under the action of the Galois group. As the two factors are ": null
+    },
+    {
+        "reciprocal": "Reciprocal Polynomial"
+    },
+    {
+        " to each other, a root and its inverse do not belong to the same orbit.   The  primitive elements of  are the roots of   :: ,   :They split into 6 orbits of 6 elements under the action of the Galois group.     This shows that the best choice to construct  is to define it as . In fact, this generator is a primitive element, and this polynomial is the irreducible polynomial that produces the easiest Euclidean division.         In this section,  is a prime number, and  is a power of .     In , the identity  implies that the map   :     xp   is a -": null
+    },
+    {
+        "linear endomorphism": "Linear Map"
+    },
+    {
+        " and a ": null
+    },
+    {
+        "field automorphism": "Field Automorphism"
+    },
+    {
+        " of , which fixes every element of the subfield . It is called the ": null
+    },
+    {
+        "Frobenius automorphism": "Frobenius Automorphism"
+    },
+    {
+        ", after ": null
+    },
+    {
+        "Ferdinand Georg Frobenius": "Ferdinand Georg Frobenius"
+    },
+    {
+        ".     Denoting by  the ": null
+    },
+    {
+        "composition": "Function Composition"
+    },
+    {
+        " of  with itself  times, we have   :     x.   It has been shown in the preceding section that  is the identity. For ": null
+    }
+]

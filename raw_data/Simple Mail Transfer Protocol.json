@@ -1,0 +1,317 @@
+[
+    {
+        "        The Simple Mail Transfer Protocol  is a ": null
+    },
+    {
+        "communication protocol": "Communication Protocol"
+    },
+    {
+        " for ": null
+    },
+    {
+        "electronic mail": "Email"
+    },
+    {
+        " transmission. As an ": null
+    },
+    {
+        "Internet standard": "Internet Standard"
+    },
+    {
+        ", SMTP was first defined in 1982 by , and updated in 2008 by  to ": null
+    },
+    {
+        "Extended SMTP": "Extended Smtp"
+    },
+    {
+        " additions, which is the protocol variety in widespread use today. Mail servers and other ": null
+    },
+    {
+        "message transfer agents": "Message Transfer Agent"
+    },
+    {
+        "use SMTP to send and receive mail messages. Proprietary systems such as ": null
+    },
+    {
+        "Microsoft Exchange": "Microsoft Exchange Server"
+    },
+    {
+        " and ": null
+    },
+    {
+        "IBM Notes": "Ibm Notes"
+    },
+    {
+        " and ": null
+    },
+    {
+        "webmail": "Webmail"
+    },
+    {
+        " systems such as ": null
+    },
+    {
+        "Outlook.com": "Outlook.Com"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Gmail": "Gmail"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Yahoo! Mail": "Yahoo! Mail"
+    },
+    {
+        " may use non-standard protocols internally, but all use SMTP when sending to or receiving email from outside their own systems. SMTP servers commonly use the ": null
+    },
+    {
+        "Transmission Control Protocol": "Transmission Control Protocol"
+    },
+    {
+        " on ": null
+    },
+    {
+        "port number": "Port Number"
+    },
+    {
+        " 25.     User-level ": null
+    },
+    {
+        "email clients": "Email Client"
+    },
+    {
+        "typically use SMTP only for sending messages to a mail server for relaying, and typically submit outgoing email to the mail server on port 587 or 465 as per RFC 8314. For retrieving messages, ": null
+    },
+    {
+        "IMAP": "Internet Message Access Protocol"
+    },
+    {
+        " and ": null
+    },
+    {
+        "POP3": "Post Office Protocol"
+    },
+    {
+        " are standard, but proprietary servers also often implement proprietary protocols, e.g., ": null
+    },
+    {
+        "Exchange ActiveSync": "Exchange Activesync"
+    },
+    {
+        ".       Various forms of one-to-one ": null
+    },
+    {
+        "electronic messaging": "Instant Messaging"
+    },
+    {
+        " were used in the 1960s. Users communicated using systems developed for specific ": null
+    },
+    {
+        "mainframe computer": "Mainframe Computer"
+    },
+    {
+        "s. As more computers were interconnected, especially in the U.S. Governments ": null
+    },
+    {
+        "ARPANET": "Arpanet"
+    },
+    {
+        ", standards were developed to permit exchange of messages between different operating systems. SMTP grew out of these standards developed during the 1970s.     SMTP traces its roots to two implementations described in 1971: the Mail Box Protocol, whose implementation has been disputed, , Tom Van Vleck : It is not clear this protocol was ever implemented but is discussed in and other RFCs, and the SNDMSG program, which, according to , Ray Tomlinson of BBN invented for TENEX computers to send mail messages across the ARPANET. Ray Tomlinson , BBN Picture of by Dan Murphy, a PDP-10 Fewer than 50 hosts were connected to the ARPANET at this time.     Further implementations include FTP Mail – Network Mail Meeting Summary and Mail Protocol, both from 1973. – A Proposed Mail Protocol Development work continued throughout the 1970s, until the ARPANET transitioned into the modern Internet around 1980. Jon Postel then proposed a Mail Transfer Protocol in 1980 that began to remove the mails reliance on FTP . – Mail Transfer Protocol SMTP was published as in November 1981, also by Postel.     The SMTP standard was developed around the same time as Usenet , a one-to-many communication network with some similarities.     SMTP became widely used in the early 1980s. At the time, it was a complement to Unix to Unix Copy Program mail, which was better suited for handling email transfers between machines that were intermittently connected. SMTP, on the other hand, works best when both the sending and receiving machines are connected to the network all the time. Both use a store and forward mechanism and are examples of push technology . Though Usenets newsgroups are still propagated with UUCP between servers, UUCP as a mail transport has virtually disappeared along with the bang path s it used as message routing headers. The article about sender rewriting contains technical background info about the early SMTP history and source routing before .     Sendmail , released with 4.1cBSD in 1982, soon after was published in November 1981, was one of the first mail transfer agents to implement SMTP. Over time, as BSD Unix became the most popular operating system on the Internet, Sendmail became the most common MTA . Some other popular SMTP server programs include Postfix , qmail , Novell GroupWise , Exim , Novell NetMail , Microsoft Exchange Server and Oracle Communications Messaging Server .     Message submission and SMTP-AUTH were introduced in 1998 and 1999, both describing new trends in email delivery. Originally, SMTP servers were typically internal to an organization, receiving mail for the organization from the outside, and relaying messages from the organization to the outside. But as time went on, SMTP servers , in practice, were expanding their roles to become message submission agents for Mail user agents , some of which were now relaying mail from the outside of an organization. This issue, a consequence of the rapid expansion and popularity of the World Wide Web , meant that SMTP had to include specific rules and methods for relaying mail and authenticating users to prevent abuses such as relaying of unsolicited email . Work on message submission was originally started because popular mail servers would often rewrite mail in an attempt to fix problems in it, for example, adding a domain name to an unqualified address. This behavior is helpful when the message being fixed is an initial submission, but dangerous and harmful when the message originated elsewhere and is being relayed. Cleanly separating mail into submission and relay was seen as a way to permit and encourage rewriting submissions while prohibiting rewriting relay. As spam became more prevalent, it was also seen as a way to provide authorization for mail being sent out from an organization, as well as traceability. This separation of relay and submission quickly became a foundation for modern email security practices.     As this protocol started out purely ASCII text-based, it did not deal well with binary files, or characters in many non-English languages. Standards such as Multipurpose Internet Mail Extensions were developed to encode binary files for transfer through SMTP. Mail transfer agents developed after Sendmail also tended to be implemented 8-bit-clean , so that the alternate just send eight strategy could be used to transmit arbitrary text data via SMTP. Mojibake was still a problem due to differing character set mappings between vendors, although the email addresses themselves still allowed only ASCII . 8-bit-clean MTAs today tend to support the 8BITMIME extension, permitting binary files to be transmitted almost as easily as plain text. Recently the SMTPUTF8 extension was created to support UTF-8 text, allowing international content and addresses in non- Latin scripts like Cyrillic or Chinese .     Many people contributed to the core SMTP specifications, among them Jon Postel , Eric Allman , Dave Crocker, Ned Freed , Randall Gellens, John Klensin , and Keith Moore .       thu     Email is submitted by a mail client to a mail server using SMTP on TCP port 587. Most mailbox providers still allow submission on traditional port 25. The MSA delivers the mail to its mail transfer agent . Often, these two agents are instances of the same software launched with different options on the same machine. Local processing can be done either on a single machine, or split among multiple machines; mail agent processes on one machine can share files, but if processing is on multiple machines, they transfer messages between each other using SMTP, where each machine is configured to use the next machine as a smart host . Each process is an MTA in its own right.     The boundary MTA uses the Domain name system to look up the mail exchanger record for the recipients domain . The MX record contains the name of the target host. Based on the target host and other factors, the MTA selects an exchange server: see the article MX record . The MTA connects to the exchange server as an SMTP client.     Message transfer can occur in a single connection between two MTAs, or in a series of hops through intermediary systems. A receiving SMTP server may be the ultimate destination, an intermediate relay or a gateway . Each hop is a formal handoff of responsibility for the message, whereby the receiving server must either deliver the message or properly report the failure to do so.     Once the final hop accepts the incoming message, it hands it to a mail delivery agent for local delivery. An MDA saves messages in the relevant mailbox format. As with sending, this reception can be done using one or multiple computers, but in the diagram above the MDA is depicted as one box near the mail exchanger box. An MDA may deliver messages directly to storage, or forward them over a network using SMTP or other protocol such as Local Mail Transfer Protocol , a derivative of SMTP designed for this purpose.     Once delivered to the local mail server, the mail is stored for batch retrieval by authenticated mail clients . Mail is retrieved by end-user applications, called email clients, using Internet Message Access Protocol , a protocol that both facilitates access to mail and manages stored mail, or the Post Office Protocol which typically uses the traditional mbox mail file format or a proprietary system such as Microsoft Exchange/Outlook or Lotus Notes / Domino . Webmail clients may use either method, but the retrieval protocol is often not a formal standard.     SMTP defines message transport, not the message content. Thus, it defines the mail envelope and its parameters, such as the envelope sender , but not the header  nor the body of the message itself. STD 10 and define SMTP , while STD 11 and define the message , formally referred to as the Internet Message Format .       SMTP is a connection-oriented , text-based protocol in which a mail sender communicates with a mail receiver by issuing command strings and supplying necessary data over a reliable ordered data stream channel, typically a Transmission Control Protocol connection. An SMTP session consists of commands originated by an SMTP client and corresponding responses from the SMTP server so that the session is opened, and session parameters are exchanged. A session may include zero or more SMTP transactions. An SMTP transaction consists of three command/reply sequences:     MAIL command, to establish the return address, also called return-path, reverse-path, Section-7.2 bounce address , mfrom, or envelope sender.   RCPT command, to establish a recipient of the message. This command can be issued multiple times, one for each recipient. These addresses are also part of the envelope.   DATA to signal the beginning of the message text; the content of the message, as opposed to its envelope. It consists of a message header and a message body separated by an empty line. DATA is actually a group of commands, and the server replies twice: once to the DATA command itself, to acknowledge that it is ready to receive the text, and the second time after the end-of-data sequence, to either accept or reject the entire message.     Besides the intermediate reply for DATA, each servers reply can be either positive or negative. Negative replies can be permanent or transient . A reject is a permanent failure and the client should send a bounce message to the server it received it from. A drop is a positive response followed by message discard rather than delivery.     The initiating host, the SMTP client, can be either an end-users email client , functionally identified as a mail user agent , or a relay servers mail transfer agent , that is an SMTP server acting as an SMTP client, in the relevant session, in order to relay mail. Fully capable SMTP servers maintain queues of messages for retrying message transmissions that resulted in transient failures.     A MUA knows the outgoing mail SMTP server from its configuration. A relay server typically determines which server to connect to by looking up the MX DNS resource record for each recipients domain name . If no MX record is found, a conformant relaying server instead looks up the A record . Relay servers can also be configured to use a smart host . A relay server initiates a TCP connection to the server on the well-known port for SMTP: port 25, or for connecting to an MSA, port 587. The main difference between an MTA and an MSA is that connecting to an MSA requires SMTP Authentication .       SMTP is a delivery protocol only. In normal use, mail is pushed to a destination mail server as it arrives. Mail is routed based on the destination server, not the individual user to which it is addressed. Other protocols, such as the Post Office Protocol and the Internet Message Access Protocol are specifically designed for use by individual users retrieving messages and managing mail boxes . To permit an intermittently-connected mail server to pull messages from a remote server on demand, SMTP has a feature to initiate mail queue processing on a remote server . POP and IMAP are unsuitable protocols for relaying mail by intermittently-connected machines; they are designed to operate after final delivery, when information critical to the correct operation of mail relay has been removed.       Remote Message Queue Starting is a feature of SMTP that permits a remote host to start processing of the mail queue on a server so it may receive messages destined to it by sending the TURN command. This feature however was deemed insecure , SMTP Service Extension for Remote Message Queue Starting, J. De Winter, The Internet Society and was extended in with the ETRN command which operates more securely using an authentication method based on Domain Name System information.       An email client needs to know the IP address of its initial SMTP server and this has to be given as part of its configuration . This server will deliver outgoing messages on behalf of the user.       Server administrators need to impose some control on which clients can use the server. This enables them to deal with abuse, for example spam . Two solutions have been in common use:     In the past, many systems imposed usage restrictions by the location of the client, only permitting usage by clients whose IP address is one that the server administrators control. Usage from any other client IP address is disallowed.   Modern SMTP servers typically offer an alternative system that requires authentication of clients by credentials before allowing access.       Under this system, an ISP s SMTP server will not allow access by users who are outside the ISPs network. More precisely, the server may only allow access to users with an IP address provided by the ISP, which is equivalent to requiring that they are connected to the Internet using that same ISP. A mobile user may often be on a network other than that of their normal ISP, and will then find that sending email fails because the configured SMTP server choice is no longer accessible.     This system has several variations. For example, an organisations SMTP server may only provide service to users on the same network, enforcing this by firewalling to block access by users on the wider Internet. Or the server may perform range checks on the clients IP address. These methods were typically used by corporations and institutions such as universities which provided an SMTP server for outbound mail only for use internally within the organisation. However, most of these bodies now use client authentication methods, as described below.     Where a user is mobile, and may use different ISPs to connect to the internet, this kind of usage restriction is onerous, and altering the configured outbound email SMTP server address is impractical. It is highly desirable to be able to use email client configuration information that does not need to change.       Modern SMTP servers typically require authentication of clients by credentials before allowing access, rather than restricting access by location as described earlier. This more flexible system is friendly to mobile users and allows them to have a fixed choice of configured outbound SMTP server. SMTP Authentication , often abbreviated SMTP AUTH, is an extension of the SMTP in order to log in using an authentication mechanism.       A server that is accessible on the wider Internet and does not enforce these kinds of access restrictions is known as an open relay . This is now generally considered a bad practice worthy of blacklist ing.       Communication between mail servers generally uses the standard TCP port 25 designated for SMTP.     Mail clients however generally dont use this, instead using specific submission ports. Mail services generally accept email submission from clients on one of:     587 , as formalized in   465 This port was deprecated after , until the issue of RFC 8314.     Port 2525 and others may be used by some individual providers, but have never been officially supported.     Most Internet service providers now block all outgoing port 25 traffic from their customers as an anti-spam measure.   For the same reason, businesses will typically configure their firewall to only allow outgoing port 25 traffic from their designated mail servers.         A typical example of sending a message via SMTP to two mailboxes  located in the same mail domain  is reproduced in the following session exchange.      After the message sender establishes a reliable communications channel to the message receiver , the session is opened with a greeting by the server, usually containing its fully qualified domain name , in this case smtp.example.com. The client initiates its dialog by responding with a HELO command identifying itself in the commands parameter with its FQDN . , Simple Mail Transfer Protocol, J. Klensin, The Internet Society     S: 220 smtp.example.com ESMTP Postfix   C: HELO relay.example.com   S: 250 smtp.example.com, I am glad to meet you   C: MAIL FROM:   S: 250 Ok   C: RCPT TO:   S: 250 Ok   C: RCPT TO:   S: 250 Ok   C: DATA   S: 354 End data with .   C: From: Bob Example   C: To: Alice Example   C: Cc: theboss@example.com   C: Date: Tue, 15 Jan 2008 16:02:43 -0500   C: Subject: Test message   C:   C: Hello Alice.   C: This is a test message with 5 header fields and 4 lines in the message body.   C: Your friend,   C: Bob   C: .   S: 250 Ok: queued as 12345   C: QUIT   S: 221 Bye       The client notifies the receiver of the originating email address of the message in a MAIL FROM command. This is also the return or bounce address in case the message cannot be delivered. In this example the email message is sent to two mailboxes on the same SMTP server: one for each recipient listed in the To and Cc header fields. The corresponding SMTP command is RCPT TO . Each successful reception and execution of a command is acknowledged by the server with a result code and response message .     The transmission of the body of the mail message is initiated with a DATA command after which it is transmitted verbatim line by line and is terminated with an end-of-data sequence. This sequence consists of a new-line , a single full stop , followed by another new-line. Since a message body can contain a line with just a period as part of the text, the client sends two periods every time a line starts with a period; correspondingly, the server replaces every sequence of two periods at the beginning of a line with a single one. Such escaping method is called dot-stuffing.     The servers positive reply to the end-of-data, as exemplified, implies that the server has taken the responsibility of delivering the message. A message can be doubled if there is a communication failure at this time, e.g. due to a power shortage: Until the sender has received that 250 reply, it must assume the message was not delivered. On the other hand, after the receiver has decided to accept the message, it must assume the message has been delivered to it. Thus, during this time span, both agents have active copies of the message that they will try to deliver. The probability that a communication failure occurs exactly at this step is directly proportional to the amount of filtering that the server performs on the message body, most often for anti-spam purposes. The limiting timeout is specified to be 10 minutes.     The QUIT command ends the session. If the email has other recipients located elsewhere, the client would QUIT and connect to an appropriate SMTP server for subsequent recipients after the current destination had been queued. The information that the client sends in the HELO and MAIL FROM commands are added as additional header fields to the message by the receiving server. It adds a Received and Return-Path header field, respectively.     Some clients are implemented to close the connection after the message is accepted , so the last two lines may actually be omitted. This causes an error on the server when trying to send the 221 reply.       The original SMTP protocol supported only unauthenticated unencrypted ASCII text communications susceptible to Man in the Middle attacks, spoofing, and spamming, and requiring to encode any binary data before transmission. A number of optional extensions specify various mechanisms to address these problems.       Clients learn a servers supported options by using the EHLO greeting, as exemplified below, instead of the original HELO . Clients fall back to HELO only if the server does not support SMTP extensions.     Modern clients may use the ESMTP extension keyword SIZE to query the server for the maximum message size that will be accepted. Older clients and servers may try to transfer excessively sized messages that will be rejected after consuming network resources, including connect time to network links that is paid by the minute.     Users can manually determine in advance the maximum size accepted by ESMTP servers. The client replaces the HELO command with the EHLO command.   S: 220 smtp2.example.com ESMTP Postfix   C: EHLO bob.example.com   S: 250-smtp2.example.com Hello bob.example.org   S: 250-SIZE 14680064   S: 250-PIPELINING   S: 250 HELP   Thus smtp2.example.com declares that it can accept a fixed maximum message size no larger than 14,680,064 ": null
+    },
+    {
+        "octets": "Octet"
+    },
+    {
+        " .     In the simplest case, an ESMTP server declares a maximum SIZE immediately after receiving an EHLO . According to , however, the numeric parameter to the SIZE extension in the EHLO response is optional. Clients may instead, when issuing a MAIL FROM command, include a numeric estimate of the size of the message they are transferring, so that the server can refuse receipt of overly-large messages.       Original SMTP supports transport of only textual data therefore any binary data needs to be encoded as text before transfer and then decoded, leading to increased size in transit. The 8BITMIME command was developed to alleviate this limitation. It was standardized in 1994 as  which was obsoleted in 2011 by  corresponding to the then new ": null
+    },
+    {
+        "STD": "Internet Standard"
+    },
+    {
+        " 71. It facilitates the ": null
+    },
+    {
+        "transparent": "Transparency"
+    },
+    {
+        " exchange of ": null
+    },
+    {
+        "e-mail": "E-Mail"
+    },
+    {
+        " messages containing octets outside the seven-bit ": null
+    },
+    {
+        "ASCII": "Ascii"
+    },
+    {
+        " character set.     Prior to the availability of 8BITMIME implementations, ": null
+    },
+    {
+        "mail user agents": "Mail User Agent"
+    },
+    {
+        " employed several techniques to cope with the seven-bit limitation, such as ": null
+    },
+    {
+        "binary-to-text encodings": "Binary-To-Text Encoding"
+    },
+    {
+        "  and ": null
+    },
+    {
+        "UTF-7": "Utf-7"
+    },
+    {
+        ". However, each of these workarounds inflates the required amount of data for transmission of non-ASCII text. Some non-ESMTP servers ": null
+    },
+    {
+        "allowed the sending of 8-bit characters": "Just Send 8 Bits"
+    },
+    {
+        ", but it is risky to send such data to a server whose 8-bit capabilities are unknown.              On-Demand Mail Relay  is an ": null
+    },
+    {
+        "SMTP extension": "Smtp Extension"
+    },
+    {
+        " standardized in  that allows an intermittently-connected SMTP server to receive email queued for it when it is connected.            Original SMTP supports email addresses composed of ": null
+    },
+    {
+        "ASCII": "Ascii"
+    },
+    {
+        " characters only, which is inconvenient for users whose native script is not Latin based, or who use ": null
+    },
+    {
+        "diacritic": "Diacritic"
+    },
+    {
+        " not in the ASCII character set. This limitation was alleviated via extensions enabling UTF-8 in address names.  introduced experimental  UTF8SMTP command and later was superseded by  that introduced SMTPUTF8 command. These extensions provide support for multi-byte and non-ASCII characters in email addresses, such as those with diacritics and other language characters such as ": null
+    },
+    {
+        "Greek": "Greek Language"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Chinese": "Chinese Language"
+    },
+    {
+        ".      Current support is limited, but there is strong interest in broad adoption of  and the related RFCs in countries like ": null
+    },
+    {
+        "China": "China"
+    },
+    {
+        " that have a large user base where Latin is a foreign script.       Mail delivery can occur both over plain text and encrypted connections, however the communicating parties might not know in advance of other partys ability to use secure channel.          SMTP Authentication, often abbreviated SMTP AUTH, describes a mechanism for a client to log in using any authentication mechanism supported by the server. It is mainly used by submission servers, where authentication is mandatory. Multiple RFCs exist that provide different variations of the mechanism and update each other.          SMTP extensions describe STARTTLS command that enables server to tell client that it supports encrypted communications and client to request an upgrade to a secure channel. STARTTLS is effective only against passive observation attacks, since the STARTTLS negotiation happens in plain text and an active attacker can trivially remove STARTTLS command, such attack is sometimes called STRIPTLS .  Note that STARTTLS is also defined for ": null
+    },
+    {
+        "IMAP": "Internet Message Access Protocol"
+    },
+    {
+        " and ": null
+    },
+    {
+        "POP3": "Post Office Protocol"
+    },
+    {
+        " in other RFCs, but these protocols serve different purposes: SMTP is used for communication between message transfer agents, while IMAP and POP3 are for end clients and message transfer agents.     ": null
+    },
+    {
+        "Electronic Frontier Foundation": "Electronic Frontier Foundation"
+    },
+    {
+        " maintains a STARTTLS Everywhere list that similarly to ": null
+    },
+    {
+        "HTTPS Everywhere": "Https Everywhere"
+    },
+    {
+        " list allows relying parties to discover others supporting secure communication without prior communication.       officially declared plain text obsolete and recommend always using TLS, added ports with implicit TLS.       A newer 2018 called SMTP MTA Strict Transport Security aims to addresses the problem of active adversary by defining a protocol for mail servers to declare their ability to use secure channels in specific files on the server and specific ": null
+    },
+    {
+        "DNS": "Domain Name System"
+    },
+    {
+        " TXT records. The relying party would regularly check existence of such record, and cache it for the amount of time specified in the record and never communicate over insecure channels until record expires. Note that MTA-STS records apply only to SMTP traffic while communications between end client and the mail server are protected by and ": null
+    },
+    {
+        "HTTP Strict Transport Security": "Http Strict Transport Security"
+    },
+    {
+        " .     In April 2019 Google Mail announced support for MTA-STS.        A number of protocols allows secure delivery of messages, but they can fail due to misconfigurations or deliberate active interference, leading to undelivered messages or delivery over unencrypted or unauthenticated channels.  SMTP TLS Reporting describes a reporting mechanism and format for sharing statistics and specific information about potential failures with recipient domains. Recipient domains can then use this information to both detect potential attacks and diagnose unintentional misconfigurations.     In April 2019 Google Mail announced support for SMTP TLS Reporting.          The original design of SMTP had no facility to authenticate senders, or check that servers were authorized to send on their behalf, with the result that ": null
+    },
+    {
+        "email spoofing": "Email Spoofing"
+    },
+    {
+        " is possible, and commonly used in ": null
+    },
+    {
+        "email spam": "Email Spam"
+    },
+    {
+        " and ": null
+    },
+    {
+        "phishing": "Phishing"
+    },
+    {
+        ".     Occasional proposals are made to modify SMTP extensively or replace it completely. One example of this is ": null
+    },
+    {
+        "Internet Mail 2000": "Internet Mail 2000"
+    },
+    {
+        ", but neither it, nor any other has made much headway in the face of the ": null
+    },
+    {
+        "network effect": "Network Effect"
+    },
+    {
+        " of the huge installed base of classic SMTP. Instead, mail servers now use a range of techniques, including ": null
+    },
+    {
+        "DomainKeys Identified Mail": "Domainkeys Identified Mail"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Sender Policy Framework": "Sender Policy Framework"
+    },
+    {
+        " and ": null
+    },
+    {
+        "DMARC": "Dmarc"
+    },
+    {
+        ", ": null
+    },
+    {
+        "DNSBLs": "Dnsbl"
+    },
+    {
+        "and ": null
+    },
+    {
+        "greylisting": "Greylisting"
+    },
+    {
+        " to reject or quarantine suspicious emails.       There is also SMTP proxy implementation as for example ": null
+    },
+    {
+        "nginx": "Nginx"
+    },
+    {
+        "  .     – Requirements for Internet Hosts—Application and Support    – SMTP Service Extension for Message Size Declaration     – Anti-Spam Recommendations for SMTP MTAs    – SMTP Service Extension for Command Pipelining    – SMTP Service Extensions for Transmission of Large and Binary MIME Messages    – SMTP Service Extension for Secure SMTP over Transport Layer Security     – SMTP Service Extension for Delivery Status Notifications     – Enhanced Status Codes for SMTP     – An Extensible Message Format for Delivery Status Notifications     – Message Disposition Notification     – Recommendations for Automatic Responses to Electronic Mail    – Overview and Framework for Internationalized Email     – SMTP Service Extension for Authentication     – Email Submission Operations: Access and Accountability Requirements    – A Registry for SMTP Enhanced Mail System Status Codes     – The Simple Mail Transfer Protocol     – Internet Message Format     – Downgrading Mechanism for Email Address Internationalization    – Message Submission for Mail     – The Multipart/Report Content Type for the Reporting of Mail System Administrative Messages     – SMTP Extension for Internationalized Email Addresses    ": null
+    }
+]

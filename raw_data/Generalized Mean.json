@@ -1,0 +1,47 @@
+[
+    {
+        "In mathematics, generalized means are a family of functions for aggregating sets of numbers, that include as special cases the ": null
+    },
+    {
+        "Pythagorean means": "Pythagorean Means"
+    },
+    {
+        " . The generalized mean is also known as power mean or Hölder mean .       If p is a non-zero ": null
+    },
+    {
+        "real number": "Real Number"
+    },
+    {
+        ", and x1,  are ": null
+    },
+    {
+        "positive real numbers": "Positive Real Numbers"
+    },
+    {
+        ", then the generalized mean or power mean with exponent p of these positive real numbers is:     : Mp   .     . For  we set it equal to the geometric mean :     : M0       Furthermore, for a sequence of positive weights w i  with sum   wi 1 we define the weighted power mean as:     :     Mp &       M0 &   xi         The unweighted means correspond to setting all .               :     :          Each generalized mean always lies between the smallest and largest of the x values.   Each generalized mean is a symmetric function of its arguments; permuting the arguments of a generalized mean does not change its value.   Like most ": null
+    },
+    {
+        "mean": "Meanproperties"
+    },
+    {
+        "s, the generalized mean is a ": null
+    },
+    {
+        "homogeneous function": "Homogeneous Function"
+    },
+    {
+        " of its arguments x 1 , ..., x n . That is, if b is a positive real number, then the generalized mean with exponent p of the numbers b  x1,  b  xn is equal to b times the generalized mean of the numbers x 1 , …, x n .   Like the ": null
+    },
+    {
+        "quasi-arithmetic mean": "Quasi-Arithmetic Mean"
+    },
+    {
+        "s, the computation of the mean can be split into computations of equal sized sub-blocks. This enables use of a ": null
+    },
+    {
+        "divide and conquer algorithm": "Divide And Conquer Algorithm"
+    },
+    {
+        " to calculate the means, when desirable.   : Mp Mp        In general,   : if p  ": null
+    }
+]

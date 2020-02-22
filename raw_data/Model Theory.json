@@ -1,0 +1,467 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", model theory is the study of classes of mathematical ": null
+    },
+    {
+        "structures": "Structure"
+    },
+    {
+        "  from the perspective of ": null
+    },
+    {
+        "mathematical logic": "Mathematical Logic"
+    },
+    {
+        ". The objects of study are models of ": null
+    },
+    {
+        "theories": "Theory"
+    },
+    {
+        " in a ": null
+    },
+    {
+        "formal language": "Formal Language"
+    },
+    {
+        ". A set of ": null
+    },
+    {
+        "sentences": "Sentence"
+    },
+    {
+        " in a ": null
+    },
+    {
+        "formal language": "Formal Language"
+    },
+    {
+        " is one of the components that form a theory. A model of a theory is a structure  that satisfies the sentences of that theory.     Model theory recognizes and is intimately concerned with a duality: it examines ": null
+    },
+    {
+        "semantical": "Semantics"
+    },
+    {
+        " elements by means of ": null
+    },
+    {
+        "syntactical": "Syntax"
+    },
+    {
+        " elements of a corresponding language: in a summary definition, dating from 1973,   :": null
+    },
+    {
+        "universal algebra": "Universal Algebra"
+    },
+    {
+        " + ": null
+    },
+    {
+        "logic": "Logic"
+    },
+    {
+        " model theory. Chang and Keisler,      Model theory developed rapidly during the 1990s, and a more modern definition is provided by ": null
+    },
+    {
+        "Wilfrid Hodges": "Wilfrid Hodges"
+    },
+    {
+        " :     :model theory ": null
+    },
+    {
+        "algebraic geometry": "Algebraic Geometry"
+    },
+    {
+        " − ": null
+    },
+    {
+        "field": "Field"
+    },
+    {
+        "s.     Other nearby areas of mathematics include ": null
+    },
+    {
+        "combinatorics": "Combinatorics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "number theory": "Number Theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "arithmetic dynamics": "Arithmetic Dynamics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "analytic functions": "Analytic Functions"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "non-standard analysis": "Non-Standard Analysis"
+    },
+    {
+        ".     In a similar way to ": null
+    },
+    {
+        "proof theory": "Proof Theory"
+    },
+    {
+        ", model theory is situated in an area of ": null
+    },
+    {
+        "interdisciplinarity": "Interdisciplinarity"
+    },
+    {
+        " among ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "philosophy": "Philosophy"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "computer science": "Computer Science"
+    },
+    {
+        ". The most prominent professional organization in the field of model theory is the ": null
+    },
+    {
+        "Association for Symbolic Logic": "Association For Symbolic Logic"
+    },
+    {
+        ".         This article focuses on ": null
+    },
+    {
+        "finitary": "Finitary"
+    },
+    {
+        " first order": "First-Order Logic"
+    },
+    {
+        " model theory of infinite structures. ": null
+    },
+    {
+        "Finite model theory": "Finite Model Theory"
+    },
+    {
+        ", which concentrates on finite structures, diverges significantly from the study of infinite structures in both the problems studied and the techniques used. Model theory in ": null
+    },
+    {
+        "higher-order logics": "Higher-Order Logic"
+    },
+    {
+        "or ": null
+    },
+    {
+        "infinitary logics": "Infinitary Logic"
+    },
+    {
+        "is hampered by the fact that ": null
+    },
+    {
+        "completeness": "Gödels Completeness Theorem"
+    },
+    {
+        " and ": null
+    },
+    {
+        "compactness": "Compactness Theorem"
+    },
+    {
+        " do not in general hold for these logics. However, a great deal of study has also been done in such logics.     Informally, model theory can be divided into classical model theory, model theory applied to groups and fields, and geometric model theory. A missing subdivision is ": null
+    },
+    {
+        "computable model theory": "Computable Model Theory"
+    },
+    {
+        ", but this can arguably be viewed as an independent subfield of logic.     Examples of early theorems from classical model theory include ": null
+    },
+    {
+        "Gödels completeness theorem": "Gödels Completeness Theorem"
+    },
+    {
+        ", the upward and downward ": null
+    },
+    {
+        "Löwenheim–Skolem theorem": "Löwenheim–Skolem Theorem"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "Vaughts": "Robert Lawson Vaught"
+    },
+    {
+        "two-cardinal theorem, ": null
+    },
+    {
+        "Scotts": "Dana Scott"
+    },
+    {
+        "isomorphism theorem, the ": null
+    },
+    {
+        "omitting types theorem": "Omitting Types Theorem"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "Ryll-Nardzewski theorem": "Ryll-Nardzewski Theorem"
+    },
+    {
+        ". Examples of early results from model theory applied to fields are ": null
+    },
+    {
+        "Tarskis": "Alfred Tarski"
+    },
+    {
+        " elimination of quantifiers": "Quantifier Elimination"
+    },
+    {
+        " for ": null
+    },
+    {
+        "real closed fields": "Real Closed Fields"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Axs": "James Ax"
+    },
+    {
+        "theorem on ": null
+    },
+    {
+        "pseudo-finite field": "Pseudo-Finite Field"
+    },
+    {
+        "s, and ": null
+    },
+    {
+        "Robinsons": "Abraham Robinson"
+    },
+    {
+        "development of ": null
+    },
+    {
+        "non-standard analysis": "Non-Standard Analysis"
+    },
+    {
+        ". An important step in the evolution of classical model theory occurred with the birth of ": null
+    },
+    {
+        "stability theory": "Stable Theory"
+    },
+    {
+        " , which developed a calculus of independence and rank based on syntactical conditions satisfied by theories.     During the last several decades applied model theory has repeatedly merged with the more pure stability theory. The result of this synthesis is called geometric model theory in this article . An example of a proof from geometric model theory is ": null
+    },
+    {
+        "Hrushovskis": "Ehud Hrushovski"
+    },
+    {
+        "proof of the ": null
+    },
+    {
+        "Mordell–Lang conjecture": "Mordell-Lang Conjecture"
+    },
+    {
+        " for function fields. The ambition of geometric model theory is to provide a geography of mathematics by embarking on a detailed study of definable sets in various mathematical structures, aided by the substantial tools developed in the study of pure model theory.            Fundamental concepts in universal algebra are ": null
+    },
+    {
+        "signatures": "Signature"
+    },
+    {
+        " σ and σ-algebras. Since these concepts are formally defined in the article on ": null
+    },
+    {
+        "structure": "Structure"
+    },
+    {
+        "s, the present article is an informal introduction which consists of examples of the way these terms are used.     :The standard signature of rings is σ ring , where × and + are ": null
+    },
+    {
+        "binary": "Binary Operation"
+    },
+    {
+        ", − is ": null
+    },
+    {
+        "unary": "Unary Operation"
+    },
+    {
+        ", and 0 and 1 are ": null
+    },
+    {
+        "nullary": "Nullary"
+    },
+    {
+        ".   :The standard signature of semirings is σ smr , where the arities are as above.   :The standard signature of groups is σ grp , where × is binary, −1 is unary and 1 is nullary.   :The standard signature of monoids is σ mnd .   :A ": null
+    },
+    {
+        "ring": "Ring"
+    },
+    {
+        " is a σ ring -structure which satisfies the identities         and    :A ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        " is a σ grp -structure which satisfies the ": null
+    },
+    {
+        "identities": "Identity"
+    },
+    {
+        "     and    :A ": null
+    },
+    {
+        "monoid": "Monoid"
+    },
+    {
+        " is a σ mnd -structure which satisfies the identities   and    :A ": null
+    },
+    {
+        "semigroup": "Semigroup"
+    },
+    {
+        " is a -structure which satisfies the identity    :A ": null
+    },
+    {
+        "magma": "Magma"
+    },
+    {
+        " is just a -structure.     This is a very efficient way to define most classes of ": null
+    },
+    {
+        "algebraic structure": "Algebraic Structure"
+    },
+    {
+        "s, because there is also the concept of σ-": null
+    },
+    {
+        "homomorphism": "Structure Homomorphisms And Embeddings"
+    },
+    {
+        ", which correctly specializes to the usual notions of homomorphism for groups, semigroups, magmas and rings. For this to work, the signature must be chosen well.     Terms such as the σ ring -term t given by  are used to define identities  but also to construct ": null
+    },
+    {
+        "free algebra": "Free Object"
+    },
+    {
+        "s. An ": null
+    },
+    {
+        "equational class": "Variety"
+    },
+    {
+        " is a class of structures which, like the examples above and many others, is defined as the class of all σ-structures which satisfy a certain set of identities. ": null
+    },
+    {
+        "Birkhoffs theorem": "Birkhoffs Hsp Theorem"
+    },
+    {
+        " states:     :A class of σ-structures is an equational class if and only if it is not empty and closed under subalgebras, homomorphic images, and direct products.     An important non-trivial tool in universal algebra are ": null
+    },
+    {
+        "ultraproducts": "Ultraproduct"
+    },
+    {
+        "   , where I is an infinite set indexing a system of σ-structures A i , and U is an ": null
+    },
+    {
+        "ultrafilter": "Ultrafilter"
+    },
+    {
+        " on I.     While model theory is generally considered a part of ": null
+    },
+    {
+        "mathematical logic": "Mathematical Logic"
+    },
+    {
+        ", universal algebra, which grew out of ": null
+    },
+    {
+        "Alfred North Whiteheads": "Alfred North Whitehead"
+    },
+    {
+        " work on ": null
+    },
+    {
+        "abstract algebra": "Abstract Algebra"
+    },
+    {
+        ", is part of ": null
+    },
+    {
+        "algebra": "Algebra"
+    },
+    {
+        ". This is reflected by their respective ": null
+    },
+    {
+        "MSC": "Mathematics Subject Classification"
+    },
+    {
+        " classifications. Nevertheless, model theory can be seen as an extension of universal algebra.              Finite model theory is the area of model theory which has the closest ties to ": null
+    },
+    {
+        "universal algebra": "Universal Algebra"
+    },
+    {
+        ". Like some parts of universal algebra, and in contrast with the other areas of model theory, it is mainly concerned with ": null
+    },
+    {
+        "finite": "Finite Set"
+    },
+    {
+        " algebras, or more generally, with finite σ-": null
+    },
+    {
+        "structures": "Structure"
+    },
+    {
+        "for signatures σ which may contain relation symbols as in the following example:     :The standard signature for graphs is σ grph , where E is a binary relation symbol.   :A ": null
+    },
+    {
+        "graph": "Simple Graph"
+    },
+    {
+        " is a σ grph -structure satisfying the sentence   u   v .     A σ-homomorphism is a map that commutes with the operations and preserves the relations in σ. This definition gives rise to the usual notion of ": null
+    },
+    {
+        "graph homomorphism": "Graph Homomorphism"
+    },
+    {
+        ", which has the interesting property that a bijective homomorphism need not be invertible. Structures are also a part of universal algebra; after all, some ": null
+    },
+    {
+        "algebraic structures": "Algebraic Structure"
+    },
+    {
+        "such as ordered groups have a binary relation ": null
+    }
+]

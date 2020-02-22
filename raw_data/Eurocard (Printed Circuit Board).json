@@ -1,0 +1,134 @@
+[
+    {
+        "      Eurocard is a European standard format for ": null
+    },
+    {
+        "printed circuit board": "Printed Circuit Board"
+    },
+    {
+        " cards that can be plugged together into a standard chassis which, in turn, can be mounted in a ": null
+    },
+    {
+        "19-inch rack": "19-Inch Rack"
+    },
+    {
+        ". The chassis consists of a series of slotted card guides on the top and bottom, into which the cards are slid so they stand on end, like books on a shelf. At the spine of each card is one or more connectors which plug into mating connectors on a backplane that closes the rear of the chassis.       As the cards are assumed to be installed in a vertical orientation, the usual meanings of height and width are transposed: A card might be 233.35  mm high , but only 20  mm wide . Height is measured in ": null
+    },
+    {
+        "rack unit": "Rack Unit"
+    },
+    {
+        "s, U , with 1 U being . This dimension refers to the subrack in which the card is to be mounted, rather than the card itself.     Enclosure heights are multiples of 3U, with the cards always  shorter than the enclosure. Two common heights are 3U  and 6U . As two 3U cards are shorter than a 6U card , it is possible to install two 3U cards in one slot of a 6U subrack, with a mid-height structure for proper support.     Card widths are specified in ": null
+    },
+    {
+        "horizontal pitch": "Horizontal Pitch"
+    },
+    {
+        " units HP , with 1 HP being .     Card depths start at  and increase in  increments. The most common today is , but standard hardware is available for depths of , , , , , and .            The Eurocard mechanical architecture was defined originally under ": null
+    },
+    {
+        "IEC-60297-3": "19-Inch Rack"
+    },
+    {
+        ". Today, the most widely recognized standards for this mechanical structure are ": null
+    },
+    {
+        "IEEE": "Institute Of Electrical And Electronics Engineers"
+    },
+    {
+        " 1101.1, IEEE 1101.10 and IEEE 1101.11. IEEE 1101.10 covers the additional mechanical and ": null
+    },
+    {
+        "electromagnetic interference": "Electromagnetic Interference"
+    },
+    {
+        " features required for ": null
+    },
+    {
+        "VITA": "Vmebus International Trade Association"
+    },
+    {
+        " 1.1-1997, which is the VME64 Extensions standard, as well as ": null
+    },
+    {
+        "PICMG": "Picmg"
+    },
+    {
+        " 2.0 , which is the ": null
+    },
+    {
+        "CompactPCI": "Compactpci"
+    },
+    {
+        " specification.     The IEEE 1101.11 standard covers rear plug-in units that are also called ": null
+    },
+    {
+        "rear transition modules": "Rear Transition Module"
+    },
+    {
+        "or RTMs.     The Eurocard is a mechanical system and does not define the specific connector to be used or the signals that are assigned to connector contacts.     The connector systems that are commonly used with Eurocard architectures include the original ": null
+    },
+    {
+        "DIN 41612": "Din 41612"
+    },
+    {
+        " connector that is also standardized as IEC 60603.2. This is the connector that is used for the ": null
+    },
+    {
+        "VMEbus": "Vmebus"
+    },
+    {
+        " standard, which was IEEE 1014. The connector known as the 5-row DIN, which is used for the VME64 Extensions standard is IEC 61076-4-113. The VME64 Extension architecture defined by VITA 1.1-1997 .     Another popular computer architecture that utilizes the 6U-160 Eurocard is ": null
+    },
+    {
+        "CompactPCI": "Compactpci"
+    },
+    {
+        " and ": null
+    },
+    {
+        "CompactPCI Express": "Compactpci Express"
+    },
+    {
+        ". These are defined by PICMG 2.0R3 and PICMG Exp0 R1 respectively. Other computer architectures that utilize the Eurocard system are ": null
+    },
+    {
+        "VME eXtensions for Instrumentation": "Vme Extensions For Instrumentation"
+    },
+    {
+        " , ": null
+    },
+    {
+        "PCI eXtensions for Instrumentation": "Pci Extensions For Instrumentation"
+    },
+    {
+        " , and ": null
+    },
+    {
+        "PXI Express": "Pxi Express"
+    },
+    {
+        ".     A computer architecture that used the 6U-220 Eurocard format was ": null
+    },
+    {
+        "Multibus-II": "Multibus"
+    },
+    {
+        ", which was IEEE 1296.     Because the Eurocard system provided for so many modular card sizes and because connector manufacturers have continued to create new connectors that are compatible with this system, it is a popular mechanical standard that is also used for innumerable one-off applications.     Conduction-cooled Eurocards are used in military and aerospace applications. They are defined by the IEEE 1101.2-1992 standard.     The Eurocard standard is also the basis of the ": null
+    },
+    {
+        "Eurorack": "Eurorack"
+    },
+    {
+        " format for ": null
+    },
+    {
+        "modular electronic music synthesizers": "Modular Synthesizer"
+    },
+    {
+        ", popularized by ": null
+    },
+    {
+        "Doepfer": "Doepfer"
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", the classification of the finite simple groups  is a theorem stating that every ": null
+    },
+    {
+        "finite simple group": "List Of Finite Simple Groups"
+    },
+    {
+        " belongs to one of four broad classes described below. These ": null
+    },
+    {
+        "groups": "Group"
+    },
+    {
+        " can be seen as the basic building blocks of all ": null
+    },
+    {
+        "finite group": "Finite Group"
+    },
+    {
+        "s, in a way reminiscent of the way the ": null
+    },
+    {
+        "prime numbers": "Prime Number"
+    },
+    {
+        "are the basic building blocks of the ": null
+    },
+    {
+        "natural number": "Natural Number"
+    },
+    {
+        "s. The ": null
+    },
+    {
+        "Jordan–Hölder theorem": "Jordan–Hölder Theorem"
+    },
+    {
+        " is a more precise way of stating this fact about finite groups. However, a significant difference from ": null
+    },
+    {
+        "integer factorization": "Integer Factorization"
+    },
+    {
+        " is that such building blocks do not necessarily determine a unique group, since there might be many non-": null
+    },
+    {
+        "isomorphic": "Isomorphic"
+    },
+    {
+        " groups with the same ": null
+    },
+    {
+        "composition series": "Composition Series"
+    },
+    {
+        " or, put in another way, the ": null
+    },
+    {
+        "extension problem": "Group Extensionextension Problem"
+    },
+    {
+        " does not have a unique solution.     ": null
+    },
+    {
+        "Group theory": "Group Theory"
+    },
+    {
+        " is central to many areas of pure and applied mathematics and the classification theorem is one of the great achievements of modern mathematics. The proof consists of tens of thousands of pages in several hundred journal articles written by about 100 authors, published mostly between 1955 and 2004. ": null
+    },
+    {
+        "Gorenstein": "Daniel Gorenstein"
+    },
+    {
+        " , ": null
+    },
+    {
+        "Lyons": "Richard Lyons"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Solomon": "Ronald Solomon"
+    },
+    {
+        " are gradually publishing a simplified and revised version of the proof.               The classification theorem has applications in many branches of mathematics, as questions about the structure of ": null
+    },
+    {
+        "finite groups": "Finite Group"
+    },
+    {
+        " can sometimes be reduced to questions about finite simple groups. Thanks to the classification theorem, such questions can sometimes be answered by checking each family of simple groups and each sporadic group.     ": null
+    },
+    {
+        "Daniel Gorenstein": "Daniel Gorenstein"
+    },
+    {
+        " announced in 1983 that the finite simple groups had all been classified, but this was premature as he had been misinformed about the proof of the classification of ": null
+    },
+    {
+        "quasithin group": "Quasithin Group"
+    },
+    {
+        "s. The completed proof of the classification was announced by  after Aschbacher and Smith published a 1221-page proof for the missing quasithin case.        wrote two volumes outlining the low rank and odd characteristic part of the proof, and    wrote a 3rd volume covering the remaining characteristic 2 case. The proof can be broken up into several major pieces as follows:       The simple groups of low ": null
+    },
+    {
+        "2-rank": "Rank Of A Groupgeneralizations And Related Notions"
+    },
+    {
+        " are mostly groups of Lie type of small rank over fields of odd characteristic, together with five alternating and seven characteristic 2 type and nine sporadic groups.     The simple groups of small 2-rank include:   Groups of 2-rank 0, in other words groups of odd order, which are all ": null
+    },
+    {
+        "solvable": "Solvable Group"
+    },
+    {
+        " by the ": null
+    },
+    {
+        "Feit–Thompson theorem": "Feit–Thompson Theorem"
+    },
+    {
+        ".   Groups of 2-rank 1. The Sylow 2-subgroups are either cyclic, which is easy to handle using the transfer map, or generalized ": null
+    },
+    {
+        "quaternion": "Quaternion"
+    },
+    {
+        ", which are handled with the ": null
+    },
+    {
+        "Brauer–Suzuki theorem": "Brauer–Suzuki Theorem"
+    },
+    {
+        "U 3 . The first case was done by the ": null
+    },
+    {
+        "Gorenstein–Walter theorem": "Gorenstein–Walter Theorem"
+    },
+    {
+        " which showed that the only simple groups are isomorphic to L 2  for q odd or A 7 , the second and third cases were done by the ": null
+    },
+    {
+        "Alperin–Brauer–Gorenstein theorem": "Alperin–Brauer–Gorenstein Theorem"
+    },
+    {
+        " which implies that the only simple groups are isomorphic to L 3  or U 3  for q odd or M 11 , and the last case was done by Lyons who showed that U 3 is the only simple possibility.   Groups of sectional 2-rank at most 4, classified by the ": null
+    },
+    {
+        "Gorenstein–Harada theorem": "Gorenstein–Harada Theorem"
+    },
+    {
+        ".   The classification of groups of small 2-rank, especially ranks at most 2, makes heavy use of ordinary and modular character theory, which is almost never directly used elsewhere in the classification.     All groups not of small 2 rank can be split into two major classes: groups of component type and groups of characteristic 2 type. This is because if a group has sectional 2-rank at least 5 then MacWilliams showed that its Sylow 2-subgroups are connected, and the ": null
+    },
+    {
+        "balance theorem": "Balance Theorem"
+    },
+    {
+        " implies that any simple group with connected Sylow 2-subgroups is either of component type or characteristic 2 type.        A group is said to be of component type if for some centralizer C of an involution, C/O has a component .   These are more or less the groups of Lie type of odd characteristic of large rank, and alternating groups, together with some sporadic groups.   A major step in this case is to eliminate the obstruction of the core of an involution. This is accomplished by the ": null
+    },
+    {
+        "B-theorem": "B-Theorem"
+    },
+    {
+        ", which states that every component of C/O is the image of a component of C.     The idea is that these groups have a centralizer of an involution with a component that is a smaller quasisimple group, which can be assumed to be already known by induction. So to classify these groups one takes every central extension of every known finite simple group, and finds all simple groups with a centralizer of involution with this as a component. This gives a rather large number of different cases to check: there are not only 26 sporadic groups and 16 families of groups of Lie type and the alternating groups, but also many of the groups of small rank or over small fields behave differently from the general case and have to be treated separately, and the groups of Lie type of even and odd characteristic are also quite different.         A group is of characteristic 2 type if the ": null
+    },
+    {
+        "generalized Fitting subgroup": "Generalized Fitting Subgroup"
+    },
+    {
+        " F Ybut not always2classified mainly by Timmesfeldclassified by the Gilman–Griess theorem and work by several othersG Gorenstein, Lyons & Solomon 1994, 1996, 1998, 1999, 2002, 2005, 2018a, 2018bThis length stems in part from the second generation proof being written in a more relaxed style.e.g., the ": null
+    },
+    {
+        "Janko groups": "Janko Group"
+    },
+    {
+        "    though this only uses the ": null
+    },
+    {
+        "Feit–Thompson theorem": "Feit–Thompson Theorem"
+    },
+    {
+        "oup theo": "Oup Theo"
+    }
+]

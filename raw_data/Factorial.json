@@ -1,0 +1,293 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", the factorial of a positive ": null
+    },
+    {
+        "integer": "Integer"
+    },
+    {
+        " , denoted by , is the ": null
+    },
+    {
+        "product": "Product"
+    },
+    {
+        " of all positive integers less than or equal to ": null
+    },
+    {
+        "empty product": "Empty Product"
+    },
+    {
+        ".     The factorial operation is encountered in many areas of mathematics, notably in ": null
+    },
+    {
+        "combinatorics": "Combinatorics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "algebra": "Algebra"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "mathematical analysis": "Mathematical Analysis"
+    },
+    {
+        ". Its most basic use counts the possible distinct ": null
+    },
+    {
+        "sequences": "Sequence"
+    },
+    {
+        "– the ": null
+    },
+    {
+        "permutations": "Permutations"
+    },
+    {
+        " – of  distinct objects: there are .     The factorial ": null
+    },
+    {
+        "function": "Function"
+    },
+    {
+        " can also be ": null
+    },
+    {
+        "extended to non-integer arguments": "Factorialfactorial Of Non-Integer Values"
+    },
+    {
+        " while retaining its most important properties. This involves using ": null
+    },
+    {
+        "gamma function": "Gamma Function"
+    },
+    {
+        " to define . However, this extension does not work when  is a negative integer.          Factorials were used to count permutations at least as early as the 12th century, by Indian scholars.  In 1677, ": null
+    },
+    {
+        "Fabian Stedman": "Fabian Stedman"
+    },
+    {
+        " described factorials as applied to ": null
+    },
+    {
+        "change ringing": "Change Ringing"
+    },
+    {
+        ", a musical art involving the ringing of many tuned bells. After describing a recursive approach, Stedman gives a statement of a factorial :      The ": null
+    },
+    {
+        "notation": "Mathematical Notation"
+    },
+    {
+        "  was introduced by the French mathematician ": null
+    },
+    {
+        "Christian Kramp": "Christian Kramp"
+    },
+    {
+        " in 1808.        The factorial function is defined by the product     : n! 1   2   3       n,     for integer . This may be written in ": null
+    },
+    {
+        "pi product notation": "Multiplicationcapital Pi Notation"
+    },
+    {
+        " as     : n!   i.     From these formulas, one may derive the ": null
+    },
+    {
+        "recurrence relation": "Recurrence Relation"
+    },
+    {
+        "     : n! n   ! .     For example, one has   :     5! & 5   4!     6! & 6   5!     50! & 50   49!       and so on.       The factorial of  is , or in symbols, .     There are several motivations for this definition:   For , the definition of  as a product involves the product of no numbers at all, and so is an example of the broader convention that the product of no factors is equal to the multiplicative identity .   There is exactly one permutation of zero objects .   It makes many identities in ": null
+    },
+    {
+        "combinatorics": "Combinatorics"
+    },
+    {
+        " valid for all applicable sizes. The number of ways to choose 0 elements from the ": null
+    },
+    {
+        "empty set": "Empty Set"
+    },
+    {
+        " is given by the ": null
+    },
+    {
+        "binomial coefficient": "Binomial Coefficient"
+    },
+    {
+        "   ::     1.   : More generally, the number of ways to choose all  elements among a set of  is   ::     1.   It allows for the compact expression of many formulae, such as the ": null
+    },
+    {
+        "exponential function": "Exponential Function"
+    },
+    {
+        ", as a power series:   :: ex       It extends the recurrence relation to 0.       Although the factorial function has its roots in ": null
+    },
+    {
+        "combinatorics": "Combinatorics"
+    },
+    {
+        ", formulas involving factorials occur in many areas of mathematics.   There are  different ways of arranging  distinct objects into a sequence, the ": null
+    },
+    {
+        "permutations": "Permutation"
+    },
+    {
+        "of those objects.     Often factorials appear in the ": null
+    },
+    {
+        "denominator": "Denominator"
+    },
+    {
+        " of a formula to account for the fact that ordering is to be ignored. A classical example is counting -": null
+    },
+    {
+        "combinations": "Combination"
+    },
+    {
+        "  from a set with  elements. One can obtain such a combination by choosing a -permutation: successively selecting and removing one element of the set,  times, for a total of   ::     n   :possibilities. This, however, produces the -combinations in a particular order that one wishes to ignore; since each -combination is obtained in  different ways, the correct number of -combinations is   ::         .   :This number is known  as the ": null
+    },
+    {
+        "binomial coefficient": "Binomial Coefficient"
+    },
+    {
+        ", because it is also the coefficient of  in . The term n is often called a ": null
+    },
+    {
+        "falling factorial": "Falling And Rising Factorials"
+    },
+    {
+        " .   Factorials occur in ": null
+    },
+    {
+        "algebra": "Algebra"
+    },
+    {
+        " for various reasons, such as via the already mentioned coefficients of the ": null
+    },
+    {
+        "binomial formula": "Binomial Formula"
+    },
+    {
+        ", or through ": null
+    },
+    {
+        "averaging": "Averaging"
+    },
+    {
+        " over ": null
+    },
+    {
+        "permutations": "Permutations"
+    },
+    {
+        " for ": null
+    },
+    {
+        "symmetrization": "Symmetrization"
+    },
+    {
+        " of certain operations.   Factorials also turn up in ": null
+    },
+    {
+        "calculus": "Calculus"
+    },
+    {
+        "; for example, they occur in the denominators of the terms of ": null
+    },
+    {
+        "Taylors formula": "Taylors Formula"
+    },
+    {
+        ",  where they are used as compensation terms due to the th ": null
+    },
+    {
+        "derivative": "Derivative"
+    },
+    {
+        " of  being equivalent to .   Factorials are also used extensively in ": null
+    },
+    {
+        "probability theory": "Probability Theory"
+    },
+    {
+        "  and ": null
+    },
+    {
+        "number theory": "Number Theory"
+    },
+    {
+        " .   Factorials can be useful to facilitate expression manipulation. For instance the number of -permutations of  can be written as   :: n    :while this is inefficient as a means to compute that number, it may serve to prove a symmetry property of binomial coefficients:   ::   nk      n    The factorial function can be shown, using the ": null
+    },
+    {
+        "power rule": "Power Rule"
+    },
+    {
+        ", to be   :: n! Dn      :where  is ": null
+    },
+    {
+        "Eulers notation": "Notation For Differentiationeuler.27S Notation"
+    },
+    {
+        " for the th ": null
+    },
+    {
+        "derivative": "Derivative"
+    },
+    {
+        " of .         As  grows, the factorial  increases faster than all ": null
+    },
+    {
+        "polynomials": "Polynomial"
+    },
+    {
+        "and ": null
+    },
+    {
+        "exponential functions": "Exponential Growth"
+    },
+    {
+        "  in .     Most approximations for n! are based on approximating its ": null
+    },
+    {
+        "natural logarithm": "Natural Logarithm"
+    },
+    {
+        "   :   n!     x       The graph of the function  is shown in the figure on the right. It looks approximately ": null
+    },
+    {
+        "linear": "Linear Function"
+    },
+    {
+        " for all reasonable values of , but this intuition is false. We get one of the simplest approximations for  by bounding the sum with an ": null
+    },
+    {
+        "integral": "Integral"
+    },
+    {
+        " from above and below as follows:     :     x   dx       x         dx     which gives us the estimate     : n      n!     + 1       Hence  . This result plays a key role in the analysis of the ": null
+    },
+    {
+        "computational complexity": "Computational Complexity Theory"
+    },
+    {
+        " of ": null
+    },
+    {
+        "sorting algorithms": "Sorting Algorithm"
+    },
+    {
+        " . From the bounds on  deduced above we get that     :   e   n!     e       It is sometimes practical to use weaker but simpler estimates. Using the above formula it is easily shown that for all  we have ": null
+    }
+]

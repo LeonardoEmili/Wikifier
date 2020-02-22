@@ -1,0 +1,197 @@
+[
+    {
+        "           In ": null
+    },
+    {
+        "classical mechanics": "Classical Mechanics"
+    },
+    {
+        ", a harmonic oscillator is a system that, when displaced from its ": null
+    },
+    {
+        "equilibrium": "Mechanical Equilibrium"
+    },
+    {
+        " position, experiences a ": null
+    },
+    {
+        "restoring force": "Restoring Force"
+    },
+    {
+        " F ": null
+    },
+    {
+        "proportional": "Proportionality"
+    },
+    {
+        " to the displacement xk is a positive ": null
+    },
+    {
+        "constant": "Coefficient"
+    },
+    {
+        ".     If F is the only force acting on the system, the system is called a simple harmonic oscillator, and it undergoes ": null
+    },
+    {
+        "simple harmonic motion": "Simple Harmonic Motion"
+    },
+    {
+        "sinusoidal": "Sinusoidal"
+    },
+    {
+        "oscillations": "Oscillation"
+    },
+    {
+        "about the equilibrium point, with a constant ": null
+    },
+    {
+        "amplitude": "Amplitude"
+    },
+    {
+        " and a constant ": null
+    },
+    {
+        "frequency": "Frequency"
+    },
+    {
+        " .     If a frictional force  proportional to the ": null
+    },
+    {
+        "velocity": "Velocity"
+    },
+    {
+        " is also present, the harmonic oscillator is described as a damped oscillator. Depending on the friction coefficient, the system can:   Oscillate with a frequency lower than in the ": null
+    },
+    {
+        "undamped": "Undamped"
+    },
+    {
+        " case, and an ": null
+    },
+    {
+        "amplitude": "Amplitude"
+    },
+    {
+        " decreasing with time .   Decay to the equilibrium position, without oscillations .     The boundary solution between an underdamped oscillator and an overdamped oscillator occurs at a particular value of the friction coefficient and is called ": null
+    },
+    {
+        "critically damped": "Critically Damped"
+    },
+    {
+        ".     If an external time-dependent force is present, the harmonic oscillator is described as a driven oscillator.     Mechanical examples include ": null
+    },
+    {
+        "pendulums": "Pendulum"
+    },
+    {
+        " , masses connected to ": null
+    },
+    {
+        "springs": "Spring"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "acoustical systems": "Acoustics"
+    },
+    {
+        ". Other ": null
+    },
+    {
+        "analogous systems": "Equivalent Systems"
+    },
+    {
+        " include electrical harmonic oscillators such as ": null
+    },
+    {
+        "RLC circuit": "Rlc Circuit"
+    },
+    {
+        "s. The harmonic oscillator model is very important in physics, because any mass subject to a force in stable equilibrium acts as a harmonic oscillator for small vibrations. Harmonic oscillators occur widely in nature and are exploited in many manmade devices, such as ": null
+    },
+    {
+        "clocks": "Clock"
+    },
+    {
+        "and radio circuits. They are the source of virtually all sinusoidal vibrations and waves.               A simple harmonic oscillator is an oscillator that is neither driven nor ": null
+    },
+    {
+        "damped": "Damping"
+    },
+    {
+        ". It consists of a mass m, which experiences a single force F, which pulls the mass in the direction of the point x    0 and depends only on the position x of the mass and a constant k. Balance of forces  for the system is     : F m a m   m  -k x.     Solving this ": null
+    },
+    {
+        "differential equation": "Differential Equation"
+    },
+    {
+        ", we find that the motion is described by the function     : x A       where     :         The motion is ": null
+    },
+    {
+        "periodic": "Periodic Function"
+    },
+    {
+        ", repeating itself in a ": null
+    },
+    {
+        "sinusoidal": "Sine Wave"
+    },
+    {
+        " fashion with constant amplitude A. In addition to its amplitude, the motion of a simple harmonic oscillator is characterized by its ": null
+    },
+    {
+        "period": "Frequency"
+    },
+    {
+        " T 2  , the time for a single oscillation or its frequency f1/T , the number of cycles per unit time. The position at a given time t also depends on the ": null
+    },
+    {
+        "phase": "Phase"
+    },
+    {
+        " φ, which determines the starting point on the sine wave. The period and frequency are determined by the size of the mass m and the force constant k, while the amplitude and phase are determined by the starting position and ": null
+    },
+    {
+        "velocity": "Velocity"
+    },
+    {
+        ".     The velocity and ": null
+    },
+    {
+        "acceleration": "Acceleration"
+    },
+    {
+        " of a simple harmonic oscillator oscillate with the same frequency as the position, but with shifted phases. The velocity is maximal for zero displacement, while the acceleration is in the direction opposite to the displacement.     The potential energy stored in a simple harmonic oscillator at position x is     : U   1 2 kx2.                  In real oscillators, friction, or damping, slows the motion of the system. Due to frictional force, the velocity decreases in proportion to the acting frictional force. While in a simple undriven harmonic oscillator the only force acting on the mass is the restoring force, in a damped harmonic oscillator there is in addition a frictional force which is always in a direction to oppose the motion. In many vibrating systems the frictional force F f can be modeled as being proportional to the velocity v of the object: , where c is called the viscous damping coefficient.     The balance of forces  for damped harmonic oscillators is then     : F - kx - c  m          which can be rewritten into the form     :   + 2  +   x 0,     where   :     is called the undamped ": null
+    },
+    {
+        "angular frequency": "Angular Frequency"
+    },
+    {
+        " of the oscillator ,   :     is called the damping ratio .          The value of the damping ratio ζ critically determines the behavior of the system. A damped harmonic oscillator can be:   Overdamped ": null
+    },
+    {
+        "angular frequency": "Angular Frequency"
+    },
+    {
+        " of the underdamped harmonic oscillator is given by     the ": null
+    },
+    {
+        "exponential decay": "Exponential Decay"
+    },
+    {
+        " of the underdamped harmonic oscillator is given by         The ": null
+    },
+    {
+        "Q factor": "Q Factor"
+    },
+    {
+        " of a damped oscillator is defined as   : Q 2          Q is related to the damping ratio by the equation Q            Driven harmonic oscillators are damped oscillators further affected by an externally applied force F.     ": null
+    },
+    {
+        "Newtons second law": "Newtons Second Law"
+    },
+    {
+        " takes the form     : F-kx-c      It is usually rewritten into the form     :   + 2  +   x       This equation can be solved exactly for any driving force, using the solutions z that satisfy the unforced equation     :   + 2  +   z 0,     and which can be expressed as damped sinusoidal oscillations:     : z A           in the case where ζ  ≤  1. The amplitude A and phase φ determine the behavior needed to match the initial conditions.            In the case ζ   ": null
+    }
+]

@@ -1,0 +1,272 @@
+[
+    {
+        "   Mass transfer is the net movement of mass from one location, usually meaning stream, phase, fraction or component, to another. Mass transfer occurs in many processes, such as ": null
+    },
+    {
+        "absorption": "Absorption"
+    },
+    {
+        ", ": null
+    },
+    {
+        "evaporation": "Evaporation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "drying": "Drying"
+    },
+    {
+        ", ": null
+    },
+    {
+        "precipitation": "Precipitation"
+    },
+    {
+        ", ": null
+    },
+    {
+        "membrane filtration": "Membrane Technology"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "distillation": "Distillation"
+    },
+    {
+        ". Mass transfer is used by different scientific disciplines for different processes and mechanisms. The phrase is commonly used in ": null
+    },
+    {
+        "engineering": "Engineering"
+    },
+    {
+        " for physical processes that involve ": null
+    },
+    {
+        "diffusive": "Molecular Diffusion"
+    },
+    {
+        " and ": null
+    },
+    {
+        "convective": "Convection"
+    },
+    {
+        " transport of ": null
+    },
+    {
+        "chemical species": "Chemical Species"
+    },
+    {
+        " within ": null
+    },
+    {
+        "physical systems": "System"
+    },
+    {
+        ".     Some common examples of mass transfer processes are the ": null
+    },
+    {
+        "evaporation": "Evaporation"
+    },
+    {
+        " of ": null
+    },
+    {
+        "water": "Water"
+    },
+    {
+        " from a pond to the ": null
+    },
+    {
+        "atmosphere": "Earths Atmosphere"
+    },
+    {
+        ", the purification of blood in the ": null
+    },
+    {
+        "kidneys": "Kidney"
+    },
+    {
+        "and ": null
+    },
+    {
+        "liver": "Liver"
+    },
+    {
+        ", and the distillation of alcohol. In industrial processes, mass transfer operations include separation of chemical components in distillation columns, absorbers such as scrubbers or stripping, adsorbers such as activated carbon beds, and ": null
+    },
+    {
+        "liquid-liquid extraction": "Liquid-Liquid Extraction"
+    },
+    {
+        ". Mass transfer is often coupled to additional ": null
+    },
+    {
+        "transport processes": "Transport Phenomena"
+    },
+    {
+        ", for instance in industrial ": null
+    },
+    {
+        "cooling tower": "Cooling Tower"
+    },
+    {
+        "s. These towers couple heat transfer to mass transfer by allowing hot water to flow in contact with air. The water is cooled by expelling some of its content in the form of water vapour.         In ": null
+    },
+    {
+        "astrophysics": "Astrophysics"
+    },
+    {
+        ", mass transfer is the process by which ": null
+    },
+    {
+        "matter": "Matter"
+    },
+    {
+        " gravitation": "Gravitation"
+    },
+    {
+        "ally bound to a body, usually a ": null
+    },
+    {
+        "star": "Star"
+    },
+    {
+        ", fills its ": null
+    },
+    {
+        "Roche lobe": "Roche Lobe"
+    },
+    {
+        " and becomes gravitationally bound to a second body, usually a compact object , and is eventually accreted onto it. It is a common phenomenon in ": null
+    },
+    {
+        "binary systems": "Binary Star"
+    },
+    {
+        ", and may play an important role in some types of ": null
+    },
+    {
+        "supernovae": "Supernova"
+    },
+    {
+        "and ": null
+    },
+    {
+        "pulsar": "Pulsar"
+    },
+    {
+        "s.         Mass transfer finds extensive application in ": null
+    },
+    {
+        "chemical engineering": "Chemical Engineering"
+    },
+    {
+        " problems. It is used in reaction engineering, separations engineering, heat transfer engineering, and many other sub-disciplines of chemical engineering like electrochemical engineering. Electrochimica Acta 100 78-84.      The driving force for mass transfer is usually a difference in ": null
+    },
+    {
+        "chemical potential": "Chemical Potential"
+    },
+    {
+        ", when it can be defined, though other ": null
+    },
+    {
+        "thermodynamic gradients": "Thermodynamics"
+    },
+    {
+        " may couple to the flow of mass and drive it as well. A chemical species moves from areas of high chemical potential to areas of low chemical potential. Thus, the maximum theoretical extent of a given mass transfer is typically determined by the point at which the chemical potential is uniform. For single phase-systems, this usually translates to uniform concentration throughout the phase, while for multiphase systems chemical species will often prefer one phase over the others and reach a uniform chemical potential only when most of the chemical species has been absorbed into the preferred phase, as in ": null
+    },
+    {
+        "liquid-liquid extraction": "Liquid-Liquid Extraction"
+    },
+    {
+        ".     While thermodynamic equilibrium determines the theoretical extent of a given mass transfer operation, the actual rate of mass transfer will depend on additional factors including the flow patterns within the system and the ": null
+    },
+    {
+        "diffusivities": "Mass Diffusivity"
+    },
+    {
+        " of the species in each phase. This rate can be quantified through the calculation and application of ": null
+    },
+    {
+        "mass transfer coefficients": "Mass Transfer Coefficient"
+    },
+    {
+        "for an overall process. These mass transfer coefficients are typically published in terms of ": null
+    },
+    {
+        "dimensionless numbers": "Dimensionless Quantities"
+    },
+    {
+        ", often including ": null
+    },
+    {
+        "Péclet number": "Péclet Number"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "Reynolds number": "Reynolds Number"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "Sherwood numbers": "Sherwood Number"
+    },
+    {
+        "and ": null
+    },
+    {
+        "Schmidt number": "Schmidt Number"
+    },
+    {
+        "s, among others.               There are notable similarities in the commonly used approximate differential equations for momentum, heat, and mass transfer. The molecular transfer equations of ": null
+    },
+    {
+        "Newtons law": "Newtonian Fluid"
+    },
+    {
+        " for fluid momentum at low ": null
+    },
+    {
+        "Reynolds number": "Reynolds Number"
+    },
+    {
+        " , ": null
+    },
+    {
+        "Fouriers law": "Heat Conduction"
+    },
+    {
+        " for heat, and ": null
+    },
+    {
+        "Ficks law": "Ficks Laws Of Diffusion"
+    },
+    {
+        " for mass are very similar, since they are all ": null
+    },
+    {
+        "linear approximations": "Linear Approximation"
+    },
+    {
+        "to transport of conserved quantities in a flow field.   At higher Reynolds number, the analogy between mass and heat transfer and momentum transfer becomes less useful due to the ": null
+    },
+    {
+        "nonlinearity": "Nonlinearity"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "Navier-Stokes equation": "Navier-Stokes Equation"
+    },
+    {
+        " ": null
+    }
+]

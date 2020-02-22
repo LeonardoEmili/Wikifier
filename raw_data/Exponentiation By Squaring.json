@@ -1,0 +1,71 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "computer programming": "Computer Programming"
+    },
+    {
+        ",  exponentiating by squaring is a general method for fast computation of large ": null
+    },
+    {
+        "positive integer": "Positive Integer"
+    },
+    {
+        " powers of a ": null
+    },
+    {
+        "number": "Number"
+    },
+    {
+        ", or more generally of an element of a ": null
+    },
+    {
+        "semigroup": "Semigroup"
+    },
+    {
+        ", like a ": null
+    },
+    {
+        "polynomial": "Polynomial"
+    },
+    {
+        " or a ": null
+    },
+    {
+        "square matrix": "Square Matrix"
+    },
+    {
+        ". Some variants are commonly referred to as square-and-multiply algorithms or binary exponentiation. These can be of quite general use, for example in ": null
+    },
+    {
+        "modular arithmetic": "Modular Arithmetic"
+    },
+    {
+        " or powering of matrices. For semigroups for which ": null
+    },
+    {
+        "additive notation": "Abelian Groupnotation"
+    },
+    {
+        " is commonly used, like ": null
+    },
+    {
+        "elliptic curves": "Elliptic Curve"
+    },
+    {
+        "used in ": null
+    },
+    {
+        "cryptography": "Cryptography"
+    },
+    {
+        ", this method is also referred to as double-and-add.          The method is based on the observation that, for a positive integer n, we have   : xn       x   , &   n       , &   n             This method uses the bits of the exponent to determine which powers are computed.     This example shows how to compute x using this method.   The exponent, 13, is 1101 in binary. The bits are used in left to right order.   The exponent has 4 bits, so there are 4 iterations.     First, initialize the result to 1: r   1   .   : Step 1 x0 x1": null
+    }
+]

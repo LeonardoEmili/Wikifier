@@ -1,0 +1,302 @@
+[
+    {
+        "     A Geiger counter is an instrument used for detecting and measuring ": null
+    },
+    {
+        "ionizing radiation": "Ionizing Radiation"
+    },
+    {
+        ". Also known as a Geiger–Mueller counter , it is widely used in applications such as radiation ": null
+    },
+    {
+        "dosimetry": "Dosimetry"
+    },
+    {
+        ", ": null
+    },
+    {
+        "radiological protection": "Radiological Protection"
+    },
+    {
+        ", ": null
+    },
+    {
+        "experimental physics": "Experimental Physics"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "nuclear industry": "Nuclear Industry"
+    },
+    {
+        ".     It detects ionizing radiation such as ": null
+    },
+    {
+        "alpha particle": "Alpha Particle"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "beta particle": "Beta Particle"
+    },
+    {
+        "s, and ": null
+    },
+    {
+        "gamma rays": "Gamma Ray"
+    },
+    {
+        "using the ionization effect produced in a ": null
+    },
+    {
+        "Geiger–Müller tube": "Geiger–Müller Tube"
+    },
+    {
+        ", which gives its name to the instrument. In wide and prominent use as a ": null
+    },
+    {
+        "hand-held radiation survey instrument": "Survey Meter"
+    },
+    {
+        ", it is perhaps one of the worlds best-known ": null
+    },
+    {
+        "radiation detection": "Particle Detector"
+    },
+    {
+        " instruments.     The original detection principle was realized in 1908, at the ": null
+    },
+    {
+        "Victoria University of Manchester": "Victoria University Of Manchester"
+    },
+    {
+        ", but it was not until the development of the Geiger–Müller tube in 1928 that the Geiger counter could be produced as a practical instrument. Since then, it has been very popular due to its robust sensing element and relatively low cost. However, there are limitations in measuring high radiation rates and the ": null
+    },
+    {
+        "energy": "Electronvolt"
+    },
+    {
+        " of incident radiation.             A Geiger counter consists of a Geiger–Müller tube and the processing electronics, which displays the result.     The Geiger–Müller tube is filled with an inert gas such as ": null
+    },
+    {
+        "helium": "Helium"
+    },
+    {
+        ", ": null
+    },
+    {
+        "neon": "Neon"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "argon": "Argon"
+    },
+    {
+        " at low pressure, to which a high voltage is applied. The tube briefly conducts electrical charge when a ": null
+    },
+    {
+        "particle": "Elementary Particle"
+    },
+    {
+        " or ": null
+    },
+    {
+        "photon": "Photon"
+    },
+    {
+        " of incident radiation makes the gas conductive by ionization. The ionization is considerably amplified within the tube by the ": null
+    },
+    {
+        "Townsend discharge": "Townsend Discharge"
+    },
+    {
+        " effect to produce an easily measured detection pulse, which is fed to the processing and display electronics. This large pulse from the tube makes the Geiger counter relatively cheap to manufacture, as the subsequent electronics are greatly simplified. The electronics also generate the high voltage, typically 400–900 volts, that has to be applied to the Geiger–Müller tube to enable its operation. To stop the discharge in the Geiger–Müller tube a little halogen gas or organic material is added to the gas mixture.       There are two types of detected radiation readout: ": null
+    },
+    {
+        "counts": "Counts Per Minute"
+    },
+    {
+        " or ": null
+    },
+    {
+        "radiation dose": "Absorbed Dose"
+    },
+    {
+        ". The counts display is the simplest and is the number of ionizing events detected displayed either as a count rate, such as counts per minute or counts per second , or as a total number of counts over a set time period . The counts readout is normally used when alpha or beta particles are being detected. More complex to achieve is a display of radiation dose rate, displayed in a unit such as the ": null
+    },
+    {
+        "sievert": "Sievert"
+    },
+    {
+        " which is normally used for measuring gamma or X-ray dose rates. A Geiger–Müller tube can detect the presence of radiation, but not its ": null
+    },
+    {
+        "energy": "Electronvolt"
+    },
+    {
+        ", which influences the radiations ionizing effect. Consequently, instruments measuring dose rate require the use of an ": null
+    },
+    {
+        "energy compensated": "Geiger–Müller Tubephoton Energy Compensation"
+    },
+    {
+        " Geiger–Müller tube, so that the dose displayed relates to the counts detected. Glenn F Knoll. Radiation Detection and Measurement, third edition 2000. John Wiley and sons,  The electronics will apply known factors to make this conversion, which is specific to each instrument and is determined by design and calibration.     The readout can be analog or digital, and modern instruments offer serial communications with a host computer or network.     There is usually an option to produce audible ": null
+    },
+    {
+        "clicks": "Media:Geiger Panic.Ogg"
+    },
+    {
+        " representing the number of ionization events detected. This is the distinctive sound normally associated with handheld or portable Geiger counters. The purpose of this is to allow the user to concentrate on manipulation of the instrument whilst retaining auditory feedback on the radiation rate.       There are two main limitations of the Geiger counter. Because the output pulse from a Geiger–Müller tube is always of the same magnitude , the tube cannot differentiate between radiation types. Secondly, the inability to measure high radiation rates due to the dead time of the tube. This is an insensitive period after each ionization of the gas during which any further incident radiation will not result in a count, and the indicated rate is, therefore, lower than actual. Typically the dead time will reduce indicated count rates above about 10 4 to 10 5 counts per second depending on the characteristic of the tube being used. While some counters have circuitry which can compensate for this, for accurate measurements ": null
+    },
+    {
+        "ion chamber": "Ion Chamber"
+    },
+    {
+        " instruments are preferred for high radiation rates.             The intended detection application of a Geiger counter dictates the tube design used. Consequently, there are a great many designs, but they can be generally categorized as end-window , windowless thin-walled , thick-walled , and sometimes hybrids of these types.       The first historical uses of the Geiger principle were for the detection of alpha and beta particles, and the instrument is still used for this purpose today. For alpha particles and low energy beta particles, the end-window type of a Geiger–Müller tube has to be used as these particles have a limited range and are easily ": null
+    },
+    {
+        "stopped": "Stopping Power"
+    },
+    {
+        " by a solid material. Therefore, the tube requires a window which is thin enough to allow as many as possible of these particles through to the fill gas. The window is usually made of mica with a density of about 1.5 - 2.0  mg/cm 2 .     Alpha particles have the shortest range, and to detect these the window should ideally be within 10  mm of the radiation source due to alpha particle ": null
+    },
+    {
+        "attenuation": "Attenuation"
+    },
+    {
+        ". However, the Geiger–Müller tube produces a pulse output which is the same magnitude for all detected radiation, so a Geiger counter with an end window tube cannot distinguish between alpha and beta particles. A skilled operator can use varying distance from a radiation source to differentiate between alpha and high energy beta particles.     The pancake Geiger–Müller tube is a variant of the end-window probe, but designed with a larger detection area to make checking quicker. However, the pressure of the atmosphere against the low pressure of the fill gas limits the window size due to the limited strength of the window membrane.     Some beta particles can also be detected by a thin-walled windowless Geiger–Müller tube, which has no end-window, but allows high energy beta particles to pass through the tube walls. Although the tube walls have a greater stopping power than a thin end-window, they still allow these more energetic particles to reach the fill gas.     End-window Geiger counters are still used as a general purpose, portable, ": null
+    },
+    {
+        "radioactive contamination": "Radioactive Contamination"
+    },
+    {
+        " measurement and detection instrument, owing to their relatively low cost, robustness and their relatively high detection efficiency; particularly with high energy beta particles.  However, for discrimination between alpha and beta particles or provision of particle energy information, ": null
+    },
+    {
+        "scintillation counters": "Scintillation Counter"
+    },
+    {
+        "or ": null
+    },
+    {
+        "proportional counters": "Proportional Counter"
+    },
+    {
+        "should be used. Those instrument types are manufactured with much larger detector areas, which means that checking for surface contamination is quicker than with a Geiger counter.       Geiger counters are widely used to detect ": null
+    },
+    {
+        "gamma radiation": "Gamma Radiation"
+    },
+    {
+        " and ": null
+    },
+    {
+        "X-rays": "X-Rays"
+    },
+    {
+        " collectively known as ": null
+    },
+    {
+        "photons": "Photons"
+    },
+    {
+        ", and for this the windowless tube is used. However, detection efficiency is low compared to alpha and beta particles.   The article on the ": null
+    },
+    {
+        "Geiger–Müller tube": "Geiger–Müller Tube"
+    },
+    {
+        " carries a more detailed account of the techniques used to detect photon radiation. For high energy photons the tube relies on the interaction of the radiation with the tube wall, usually a high Z material such as ": null
+    },
+    {
+        "chrome steel": "Low-Background Steel"
+    },
+    {
+        " of 1–2  mm thickness to produce electrons within the tube wall. These enter and ionize the fill gas.     This is necessary as the low-pressure gas in the tube has little interaction with higher energy photons. However, as photon energies decrease to low levels there is greater gas interaction and the direct gas interaction increases. At very low energies direct gas ionisation dominates and a steel tube attenuates the incident photons. Consequently, at these energies, a typical tube design is a long tube with a thin wall which has a larger gas volume to give an increased chance direct interaction of a particle with the fill gas.     Above these low energy levels, there is a considerable variance in response to different photon energies of the same intensity, and a steel-walled tube employs what is known as energy compensation in the form of filter rings around the naked tube which attempts to compensate for these variations over a large energy range. A chrome steel G-M tube is about 1% efficient over a wide range of energies. ’’Geiger Muller Tubes; issue 1’’ published by Centronics Ltd, UK.          A variation of the Geiger tube is used to measure ": null
+    },
+    {
+        "neutron": "Neutron"
+    },
+    {
+        "s, where the gas used is ": null
+    },
+    {
+        "boron trifluoride": "Boron Trifluoride"
+    },
+    {
+        " or helium-3 and a plastic moderator is used to slow the neutrons. This creates an ": null
+    },
+    {
+        "alpha particle": "Alpha Particle"
+    },
+    {
+        " inside the detector and thus neutrons can be counted.          The term Geiger counter is commonly used to mean a hand-held survey type meter, however the Geiger principle is in wide use in installed area gamma alarms for personnel protection, and in process measurement and interlock applications.   A Geiger tube is still the sensing device, but the processing electronics will have a higher degree of sophistication and reliability than that used in a hand held survey meter.          For hand-held units there are two fundamental physical configurations: the integral unit with both detector and electronics in the same unit, and the two-piece design which has a separate detector probe and an electronics module connected by a short cable.     In the 1930s a mica window was added to the cylindrical design allowing low-penetration radiation to pass through with ease. Korff, SNTM 20: 271.  / s00048-012-0080-y     The integral unit allows single-handed operation, so the operator can use the other hand for personal security in challenging monitoring positions, but the two piece design allows easier manipulation of the detector, and is commonly used for alpha and beta surface contamination monitoring where careful manipulation of the probe is required or the weight of the electronics module would make operation unwieldy. A number of different sized detectors are available to suit particular situations, such as placing the probe in small apertures or confined spaces.     Gamma and X-Ray detectors generally use an integral design so the Geiger–Müller tube is conveniently within the electronics enclosure. This can easily be achieved because the casing usually has little attenuation, and is employed in ambient gamma measurements where distance from the source of radiation is not a significant factor. However, to facilitate more localised measurements such as surface dose , the position of the tube in the enclosure is sometimes indicated by targets on the enclosure so an accurate measurement can be made with the tube at the correct orientation and a known distance from the surface.     There is a particular type of gamma instrument known as a hot spot detector which has the detector tube on the end of a long pole or flexible conduit. These are used to measure high radiation gamma locations whilst protecting the operator by means of distance shielding.     Particle detection of alpha and beta can be used in both integral and two-piece designs. A pancake probe is generally used to increase the area of detection in two-piece instruments whilst being relatively light weight. In integral instruments using an end window tube there is a window in the body of the casing to prevent shielding of particles. There are also hybrid instruments which have a separate probe for particle detection and a gamma detection tube within the electronics module. The detectors are switchable by the operator, depending the radiation type that is being measured.       In the ": null
+    },
+    {
+        "United Kingdom": "United Kingdom"
+    },
+    {
+        " the ": null
+    },
+    {
+        "National Radiological Protection Board": "National Radiological Protection Board"
+    },
+    {
+        " issued a user guidance note on selecting the best portable instrument type for the radiation measurement application concerned.  Selection, use and maintenance of portable monitoring instruments. UK HSE This covers all radiation protection instrument technologies and includes a guide to the use of G-M detectors.             In 1908 ": null
+    },
+    {
+        "Hans Geiger": "Hans Geiger"
+    },
+    {
+        ", under the supervision of ": null
+    },
+    {
+        "Ernest Rutherford": "Ernest Rutherford"
+    },
+    {
+        " at the ": null
+    },
+    {
+        "Victoria University of Manchester": "Victoria University Of Manchester"
+    },
+    {
+        " , developed an experimental technique for detecting alpha particles that would later be used to develop the Geiger–Müller tube in 1928. E. Rutherford and H. Geiger  An electrical method of counting the number of α particles from radioactive substances, Proceedings of the Royal Society , Series A, vol. 81, no. 546, pages 141–161. This early counter was only capable of detecting alpha particles and was part of a larger experimental apparatus. The fundamental ionization mechanism used was discovered by ": null
+    },
+    {
+        "John Sealy Townsend": "John Sealy Townsend"
+    },
+    {
+        " between 1897 and 1901, John S. Townsend  The conductivity produced in gases by the motion of negatively charged ions, Philosophical Magazine, series 6, 1 : 198-227. and is known as the ": null
+    },
+    {
+        "Townsend discharge": "Townsend Discharge"
+    },
+    {
+        ", which is the ionization of molecules by ion impact.     It was not until 1928 that Geiger and ": null
+    },
+    {
+        "Walther Müller": "Walther Müller"
+    },
+    {
+        " developed the sealed Geiger–Müller tube which used basic ionization principles previously used experimentally. Small and rugged, not only could it detect alpha and beta radiation as prior models had done, but also gamma radiation. See:   H. Geiger and W. Müller , Elektronenzählrohr zur Messung schwächster Aktivitäten , Die Naturwissenschaften , vol. 16, no. 31, pages 617–618.   Geiger, H. and Müller, W. Das Elektronenzählrohr , Physikalische Zeitschrift, 29Physikalische Zeitschrift, 30Physikalische Zeitschrift, 30": null
+    },
+    {
+        "thermionic valve": "Vacuum Tube"
+    },
+    {
+        " era due to minimal valve count and low power consumption, the instrument achieved great popularity as a portable radiation detector.     Modern versions of the Geiger counter use the halogen tube invented in 1947 by ": null
+    },
+    {
+        "Sidney H. Liebson": "Sidney H. Liebson"
+    },
+    {
+        ".  It superseded the earlier Geiger–Müller tube because of its much longer life and lower operating voltage, typically 400-900 volts.  ": null
+    },
+    {
+        "bluetooth": "Bluetooth"
+    }
+]

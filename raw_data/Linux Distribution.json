@@ -1,0 +1,1529 @@
+[
+    {
+        "      A Linux distribution  is an ": null
+    },
+    {
+        "operating system": "Operating System"
+    },
+    {
+        " made from a software collection, which is based upon the ": null
+    },
+    {
+        "Linux kernel": "Linux Kernel"
+    },
+    {
+        " and, often, a ": null
+    },
+    {
+        "package management system": "Package Management System"
+    },
+    {
+        ". Linux users usually obtain their operating system by downloading one of the Linux distributions, which are available for a wide variety of systems ranging from ": null
+    },
+    {
+        "embedded devices": "Embedded Device"
+    },
+    {
+        "  and ": null
+    },
+    {
+        "personal computers": "Personal Computer"
+    },
+    {
+        "  to powerful ": null
+    },
+    {
+        "supercomputers": "Supercomputer"
+    },
+    {
+        " .     A typical Linux distribution comprises a Linux kernel, ": null
+    },
+    {
+        "GNU": "Gnu"
+    },
+    {
+        " tools and libraries, additional software, documentation, a ": null
+    },
+    {
+        "window system": "Window System"
+    },
+    {
+        " , a ": null
+    },
+    {
+        "window manager": "Window Manager"
+    },
+    {
+        ", and a ": null
+    },
+    {
+        "desktop environment": "Desktop Environment"
+    },
+    {
+        ". Most of the included software is ": null
+    },
+    {
+        "free and open-source software": "Free And Open-Source Software"
+    },
+    {
+        " made available both as compiled binaries and in ": null
+    },
+    {
+        "source code": "Source Code"
+    },
+    {
+        " form, allowing modifications to the original software. Usually, Linux distributions optionally include some ": null
+    },
+    {
+        "proprietary software": "Proprietary Software"
+    },
+    {
+        " that may not be available in source code form, such as ": null
+    },
+    {
+        "binary blobs": "Binary Blob"
+    },
+    {
+        "required for some ": null
+    },
+    {
+        "device driver": "Device Driver"
+    },
+    {
+        "s.    A Linux distribution may also be described as a particular assortment of application and utility software , packaged together with the Linux kernel in such a way that its capabilities meet the needs of many users.  The software is usually adapted to the distribution and then packaged into ": null
+    },
+    {
+        "software packages": "Package"
+    },
+    {
+        " by the distributions maintainers. The software packages are available online in so-called ": null
+    },
+    {
+        "repositories": "Software Repository"
+    },
+    {
+        ", which are storage locations usually distributed around the world.   Beside glue components, such as the distribution installers  or the package management systems, there are only very few packages that are originally written from the ground up by the maintainers of a Linux distribution.     Almost six hundred ": null
+    },
+    {
+        "Linux distributions": "List Of Linux Distributions"
+    },
+    {
+        " exist, with close to five hundred out of those in active development.  Because of the huge availability of software, distributions have taken a wide variety of forms, including those suitable for use on desktops, servers, laptops, netbooks, mobile phones and tablets,   as well as minimal environments typically for use in embedded systems.   There are commercially backed distributions, such as ": null
+    },
+    {
+        "Fedora": "Fedora"
+    },
+    {
+        " , ": null
+    },
+    {
+        "openSUSE": "Opensuse"
+    },
+    {
+        "  and ": null
+    },
+    {
+        "Ubuntu": "Ubuntu"
+    },
+    {
+        " , and entirely community-driven distributions, such as ": null
+    },
+    {
+        "Debian": "Debian"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Slackware": "Slackware"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Gentoo": "Gentoo Linux"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Arch Linux": "Arch Linux"
+    },
+    {
+        ". Most distributions come ready to use and pre-compiled for a specific ": null
+    },
+    {
+        "instruction set": "Instruction Set"
+    },
+    {
+        ", while some distributions  are distributed mostly in ": null
+    },
+    {
+        "source code": "Source Code"
+    },
+    {
+        " form and compiled locally during installation.             ": null
+    },
+    {
+        "Linus Torvalds": "Linus Torvalds"
+    },
+    {
+        " developed the ": null
+    },
+    {
+        "Linux kernel": "Linux Kernel"
+    },
+    {
+        " and distributed its first version, 0.01, in 1991. Linux was initially distributed as ": null
+    },
+    {
+        "source code": "Source Code"
+    },
+    {
+        " only, and later as a pair of downloadable ": null
+    },
+    {
+        "floppy disk": "Floppy Disk"
+    },
+    {
+        " images one bootable and containing the Linux kernel itself, and the other with a set of ": null
+    },
+    {
+        "GNU": "Gnu Project"
+    },
+    {
+        " utilities and tools for setting up a file system. Since the installation procedure was complicated, especially in the face of growing amounts of available software, distributions sprang up to simplify this.      Early distributions included the following:   H. J. Lus Boot-root , the aforementioned disk image pair with the kernel and the absolute minimal tools to get started, in late 1991    ": null
+    },
+    {
+        "MCC Interim Linux": "Mcc Interim Linux"
+    },
+    {
+        ", which was made available to the public for download in February 1992   ": null
+    },
+    {
+        "Softlanding Linux System": "Softlanding Linux System"
+    },
+    {
+        " , released in 1992, was the most comprehensive distribution for a short time, including the X Window System   ": null
+    },
+    {
+        "Yggdrasil Linux/GNU/X": "Yggdrasil Linux/Gnu/X"
+    },
+    {
+        ", a commercial distribution first released in December 1992     The two oldest and still active distribution projects started in 1993. The SLS distribution was not well maintained, so in July 1993 a new distribution, called ": null
+    },
+    {
+        "Slackware": "Slackware"
+    },
+    {
+        " and based on SLS, was released by ": null
+    },
+    {
+        "Patrick Volkerding": "Patrick Volkerding"
+    },
+    {
+        ".  Also dissatisfied with SLS, ": null
+    },
+    {
+        "Ian Murdock": "Ian Murdock"
+    },
+    {
+        " set to create a free distribution by founding ": null
+    },
+    {
+        "Debian": "Debian"
+    },
+    {
+        ", which had its first release in December 1993.      Users were attracted to Linux distributions as alternatives to the ": null
+    },
+    {
+        "DOS": "Dos"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Microsoft Windows": "Microsoft Windows"
+    },
+    {
+        " operating systems on ": null
+    },
+    {
+        "IBM PC compatible": "Ibm Pc Compatible"
+    },
+    {
+        " computers, ": null
+    },
+    {
+        "Mac OS": "Classic Mac Os"
+    },
+    {
+        " on the ": null
+    },
+    {
+        "Apple Macintosh": "Apple Macintosh"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "proprietary": "Proprietary Software"
+    },
+    {
+        " versions of ": null
+    },
+    {
+        "Unix": "Unix"
+    },
+    {
+        ". Most early adopters were familiar with Unix from work or school. They embraced Linux distributions for their low cost, and availability of the ": null
+    },
+    {
+        "source code": "Source Code"
+    },
+    {
+        " for most or all of the software included.     Originally, the distributions were simply a convenience, offering a free alternative to ": null
+    },
+    {
+        "proprietary": "Proprietary Software"
+    },
+    {
+        " versions of ": null
+    },
+    {
+        "Unix": "Unix"
+    },
+    {
+        " but later they became the usual choice even for Unix or Linux experts.     As of 2017, Linux has become more popular in server and embedded devices markets than in the desktop market. For example, Linux is used on over 50% of web servers,  whereas its desktop market share is about 3.7%.             Many Linux distributions provide an installation system akin to that provided with other modern operating systems. On the other hand, some distributions, including ": null
+    },
+    {
+        "Gentoo Linux": "Gentoo Linux"
+    },
+    {
+        ", provide only the binaries of a basic kernel, compilation tools, and an installer; the installer compiles all the requested software for the specific ": null
+    },
+    {
+        "architecture": "Cpu Architecture"
+    },
+    {
+        " of the users computer, using these tools and the provided source code.            Distributions are normally segmented into packages. Each package contains a specific application or service. Examples of packages are a library for handling the ": null
+    },
+    {
+        "PNG": "Portable Network Graphics"
+    },
+    {
+        " image format, a collection of fonts or a ": null
+    },
+    {
+        "web browser": "Web Browser"
+    },
+    {
+        ".     The package is typically provided as compiled code, with installation and removal of packages handled by a ": null
+    },
+    {
+        "package management system": "Package Management System"
+    },
+    {
+        " rather than a simple ": null
+    },
+    {
+        "file archiver": "File Archiver"
+    },
+    {
+        ". Each package intended for such a PMS contains meta-information such as a package description, version, and ": null
+    },
+    {
+        "dependencies": "Dependency"
+    },
+    {
+        " . The package management system can evaluate this meta-information to allow package searches, to perform an automatic upgrade to a newer version, to check that all dependencies of a package are fulfilled, and/or to fulfill them automatically.     Although Linux distributions typically contain much more software than proprietary operating systems, it is normal for local administrators to also install software not included in the distribution. An example would be a newer version of a software application than that supplied with a distribution, or an alternative to that chosen by the distribution . If the additional software is distributed in source-only form, this approach requires local compilation. However, if additional software is locally added, the state of the local system may fall out of synchronization with the state of the package managers database. If so, the local administrator will be required to take additional measures to ensure the entire system is kept up to date. The package manager may no longer be able to do so automatically.     Most distributions install packages, including the kernel and other core operating system components, in a predetermined configuration. Few now require or even permit configuration adjustments at first install time. This makes installation less daunting, particularly for new users, but is not always acceptable. For specific requirements, much software must be carefully configured to be useful, to work correctly with other software, or to be secure, and local administrators are often obliged to spend time reviewing and reconfiguring assorted software.     Some distributions go to considerable lengths to specifically adjust and customize most or all of the software included in the distribution. Not all do so. Some distributions provide configuration tools to assist in this process.     By replacing everything provided in a distribution, an administrator may reach a distribution-less state: everything was retrieved, compiled, configured, and installed locally. It is possible to build such a system from scratch, avoiding a distribution altogether. One needs a way to generate the first binaries until the system is  self-hosting . This can be done via compilation on another system capable of building binaries for the intended target . For example, see ": null
+    },
+    {
+        "Linux From Scratch": "Linux From Scratch"
+    },
+    {
+        ".            In broad terms, Linux distributions may be:   Commercial or non-commercial   Designed for enterprise users, power users, or for home users   Supported on multiple types of hardware, or platform-specific, even to the extent of certification by the platform vendor   Designed for servers, desktops, or embedded devices   General purpose or highly specialized toward specific machine functionalities    Targeted at specific user groups, for example through language ": null
+    },
+    {
+        "internationalization and localization": "Internationalization And Localization"
+    },
+    {
+        ", or through inclusion of many ": null
+    },
+    {
+        "music production": "Music Production"
+    },
+    {
+        " or ": null
+    },
+    {
+        "scientific computing": "Scientific Computing"
+    },
+    {
+        " packages   Built primarily for ": null
+    },
+    {
+        "security": "Computer Security"
+    },
+    {
+        ", ": null
+    },
+    {
+        "usability": "Usability"
+    },
+    {
+        ", portability, or comprehensiveness   Standard release or ": null
+    },
+    {
+        "rolling release": "Rolling Release"
+    },
+    {
+        ", see below.     The diversity of Linux distributions is due to technical, organizational, and philosophical variation among vendors and users. The permissive licensing of free software means that any user with sufficient knowledge and interest can customize an existing distribution or design one to suit his or her own needs.       Rolling Linux distributions are kept updated using small and frequent ": null
+    },
+    {
+        "updates": "Patch"
+    },
+    {
+        ". Software contained in a rolling distributions software stack is usually standard release, though.     Rolling releases can be either: partially rolling and partly rolling , fully rolling, truly rolling and optionally rolling are all standard terms used by software developers and users.           Repositories of rolling distributions usually contains very recent ": null
+    },
+    {
+        "software releases": "Software Release"
+    },
+    {
+        " – often the latest stable software releases available. They have pseudo-releases and installation media that are simply a ": null
+    },
+    {
+        "snapshot": "Revision Controlbaselines Labels And Tags"
+    },
+    {
+        " of the software distribution at the time of the release of the installation image. Typically, a rolling release operating system installed from an older installation medium can be fully updated post-installation to a current state.     There are pros and cons to both standard release and rolling release ": null
+    },
+    {
+        "software development methodologies": "Software Development Methodologies"
+    },
+    {
+        ".      In terms of the ": null
+    },
+    {
+        "software development process": "Software Development Process"
+    },
+    {
+        ", standard releases require significant development effort being spent on keeping old versions up to date due to propagating ": null
+    },
+    {
+        "bug": "Software Bug"
+    },
+    {
+        " fixes back to the newest branch, versus focusing more on the newest ": null
+    },
+    {
+        "development branch": "Development Branch"
+    },
+    {
+        ". Also, unlike rolling releases, standard releases require more than one code branch to be developed and maintained, which increases the software development and software maintenance workload of the software developers and software maintainers.     On the other hand, software features and technology planning are easier in standard releases due to a better understanding of upcoming features in the next version rather than simply the whim of the developers at any given time. ": null
+    },
+    {
+        "Software release cycles": "Software Release Cycle"
+    },
+    {
+        "can also be synchronized with those of major ": null
+    },
+    {
+        "upstream": "Upstream"
+    },
+    {
+        " software projects, such as ": null
+    },
+    {
+        "desktop environment": "Desktop Environment"
+    },
+    {
+        "s.     As far as the ": null
+    },
+    {
+        "user experience": "User Experience"
+    },
+    {
+        ", standard releases are often viewed as more stable and bug-free since software conflicts can be more easily addressed and the software stack more thoroughly tested and evaluated, during the software development cycle.  For this reason, they tend to be the preferred choice in enterprise environments and mission-critical tasks.     However, rolling releases offer more current software which can also provide increased stability and fewer software bugs along with the additional benefits of new features, greater functionality, faster running speeds, and improved system and ": null
+    },
+    {
+        "application security": "Application Security"
+    },
+    {
+        ". Regarding ": null
+    },
+    {
+        "software security": "Software Security"
+    },
+    {
+        ", the rolling release model can have advantages in timely security updates, fixing system or application ": null
+    },
+    {
+        "security bugs": "Security Bug"
+    },
+    {
+        "and ": null
+    },
+    {
+        "vulnerabilities": "Vulnerability"
+    },
+    {
+        ", that standard releases may have to wait till the next release for or patch in various versions. In a rolling release distribution, where the user has chosen to run it as a highly dynamic system, the constant flux of software packages can introduce new unintended vulnerabilities.            A live distribution is a Linux distribution that can be booted from removable storage media such as ": null
+    },
+    {
+        "optical discs": "Optical Disc"
+    },
+    {
+        "or ": null
+    },
+    {
+        "USB flash drive": "Usb Flash Drive"
+    },
+    {
+        "s, instead of being installed on and booted from a ": null
+    },
+    {
+        "hard disk drive": "Hard Disk Drive"
+    },
+    {
+        ". The portability of installation-free distributions makes them advantageous for applications such as demonstrations, borrowing someone elses computer, rescue operations, or as installation media for a standard distribution.     When the operating system is booted from a read-only medium such as a CD or DVD, any user data that needs to be retained between sessions cannot be stored on the boot device but must be written to another storage device, such as a USB flash drive or a hard disk drive.      Many Linux distributions provide a live form in addition to their conventional form, which is a network-based or removable-media image intended to be used only for installation; such distributions include ": null
+    },
+    {
+        "SUSE": "Suse Linux"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Ubuntu": "Ubuntu"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Linux Mint": "Linux Mint"
+    },
+    {
+        ", ": null
+    },
+    {
+        "MEPIS": "Mepis"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Fedora": "Fedora"
+    },
+    {
+        ". Some distributions, including ": null
+    },
+    {
+        "Knoppix": "Knoppix"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Puppy Linux": "Puppy Linux"
+    },
+    {
+        ", Devil-Linux, ": null
+    },
+    {
+        "SuperGamer": "Supergamer"
+    },
+    {
+        ", ": null
+    },
+    {
+        "SliTaz GNU/Linux": "Slitaz Gnu/Linux"
+    },
+    {
+        " and ": null
+    },
+    {
+        "dyne:bolic": "Dyne:Bolic"
+    },
+    {
+        ", are designed primarily for live use. Additionally, some minimal distributions can be run directly from as little space as one floppy disk without the need to change the contents of the systems hard disk drive.             The website ": null
+    },
+    {
+        "DistroWatch": "Distrowatch"
+    },
+    {
+        " lists many Linux distributions, and displays some of the ones that have the most ": null
+    },
+    {
+        "web traffic": "Web Traffic"
+    },
+    {
+        " on the site. The ": null
+    },
+    {
+        "Wikimedia Foundation": "Wikimedia Foundation"
+    },
+    {
+        " released an analysis of the browser ": null
+    },
+    {
+        "User Agents": "User Agent"
+    },
+    {
+        "of visitors to WMF websites until 2015, which includes details of the most popular Operating System identifiers, including some Linux distributions.  Many of the popular distributions are listed below.         ": null
+    },
+    {
+        "Debian": "Debian"
+    },
+    {
+        ", a non-commercial distribution and one of the earliest, maintained by a volunteer developer community with a strong commitment to free software principles and democratic project management   ": null
+    },
+    {
+        "Knoppix": "Knoppix"
+    },
+    {
+        ", the first ": null
+    },
+    {
+        "Live CD": "Live Cd"
+    },
+    {
+        " distribution to run completely from ": null
+    },
+    {
+        "removable media": "Removable Media"
+    },
+    {
+        " without installation to a hard disk, derived from Debian   ": null
+    },
+    {
+        "Linux Mint Debian Edition": "Linux Mint Debian Edition"
+    },
+    {
+        " uses ": null
+    },
+    {
+        "Debian packages": "Debianpackage Management"
+    },
+    {
+        " directly   ": null
+    },
+    {
+        "Ubuntu": "Ubuntu"
+    },
+    {
+        ", a desktop and server distribution derived from Debian, maintained by British company ": null
+    },
+    {
+        "Canonical Ltd.": "Canonical Ltd."
+    },
+    {
+        " GNOME": "Gnome"
+    },
+    {
+        " stock desktop environment, like: ": null
+    },
+    {
+        "Kubuntu": "Kubuntu"
+    },
+    {
+        " based on ": null
+    },
+    {
+        "KDE": "Kde"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Lubuntu": "Lubuntu"
+    },
+    {
+        " based on ": null
+    },
+    {
+        "LXQT": "Lxqt"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Xubuntu": "Xubuntu"
+    },
+    {
+        " based on ": null
+    },
+    {
+        "XFCE": "Xfce"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Ubuntu MATE": "Ubuntu Mate"
+    },
+    {
+        " based on ": null
+    },
+    {
+        "MATE": "Mate"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Ubuntu Budgie": "Ubuntu Budgie"
+    },
+    {
+        " based on ": null
+    },
+    {
+        "Budgie": "Budgie"
+    },
+    {
+        ". Other official forks have specific uses like: ": null
+    },
+    {
+        "Ubuntu Kylin": "Ubuntu Kylin"
+    },
+    {
+        " for Chinese speaking users, or ": null
+    },
+    {
+        "Ubuntu Studio": "Ubuntu Studio"
+    },
+    {
+        " for media content creators.   ": null
+    },
+    {
+        "Linux Mint": "Linux Mint"
+    },
+    {
+        ", a distribution based on and compatible with Ubuntu. Supports multiple desktop environments, among others GNOME Shell ": null
+    },
+    {
+        "fork": "Fork"
+    },
+    {
+        " Cinnamon": "Cinnamon"
+    },
+    {
+        " and GNOME 2 fork ": null
+    },
+    {
+        "MATE": "Mate"
+    },
+    {
+        ".     ": null
+    },
+    {
+        "Fedora": "Fedora"
+    },
+    {
+        ", a community distribution sponsored by American company ": null
+    },
+    {
+        "Red Hat": "Red Hat"
+    },
+    {
+        " and the successor to the companys previous offering, ": null
+    },
+    {
+        "Red Hat Linux": "Red Hat Linux"
+    },
+    {
+        ". It aims to be a technology testbed for Red Hats commercial Linux offering, where new ": null
+    },
+    {
+        "open source software": "Open Source Software"
+    },
+    {
+        " is prototyped, developed, and tested in a communal setting before maturing into Red Hat Enterprise Linux.   ": null
+    },
+    {
+        "Red Hat Enterprise Linux": "Red Hat Enterprise Linux"
+    },
+    {
+        " , a derivative of Fedora, maintained and commercially supported by Red Hat. It seeks to provide tested, secure, and stable Linux server and workstation support to businesses.   ": null
+    },
+    {
+        "CentOS": "Centos"
+    },
+    {
+        ", a distribution derived from the same sources used by ": null
+    },
+    {
+        "Red Hat": "Red Hat"
+    },
+    {
+        ", maintained by a dedicated volunteer community of developers with both 100% Red Hat-compatible versions and an upgraded version that is not always 100% upstream compatible.   ": null
+    },
+    {
+        "Oracle Linux": "Oracle Linux"
+    },
+    {
+        ", which is a derivative of Red Hat Enterprise Linux, maintained and commercially supported by ": null
+    },
+    {
+        "Oracle": "Oracle Corporation"
+    },
+    {
+        " Scientific Linux": "Scientific Linux"
+    },
+    {
+        ", a distribution derived from the same sources used by Red Hat, maintained by ": null
+    },
+    {
+        "Fermilab": "Fermilab"
+    },
+    {
+        " Mandriva Linux": "Mandriva Linux"
+    },
+    {
+        " was a Red Hat Linux derivative popular in several European countries and Brazil, backed by the French company of the same name. After the company went bankrupt, it was superseded by ": null
+    },
+    {
+        "OpenMandriva Lx": "Openmandriva Lx"
+    },
+    {
+        ",   although a number of derivatives now have a larger user base.   ": null
+    },
+    {
+        "Mageia": "Mageia"
+    },
+    {
+        ", a community fork of Mandriva Linux created in 2010   ": null
+    },
+    {
+        "PCLinuxOS": "Pclinuxos"
+    },
+    {
+        ", a derivative of Mandriva, which grew from a group of packages into a community-spawned desktop distribution   ": null
+    },
+    {
+        "openSUSE": "Opensuse"
+    },
+    {
+        ", a community distribution mainly sponsored by German company ": null
+    },
+    {
+        "SUSE": "Suse"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "SUSE Linux Enterprise": "Suse Linux"
+    },
+    {
+        ", derived from openSUSE, maintained and commercially supported by SUSE   ": null
+    },
+    {
+        "Arch Linux": "Arch Linux"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "rolling release": "Rolling Release"
+    },
+    {
+        " distribution targeted at experienced Linux users and maintained by a volunteer community, offers official binary packages and a wide range of unofficial user-submitted source packages. Packages are usually defined by a single ": null
+    },
+    {
+        "PKGBUILD": "Pkgbuild"
+    },
+    {
+        " text file.   ": null
+    },
+    {
+        "Manjaro Linux": "Manjaro Linux"
+    },
+    {
+        ", a derivative of Arch Linux that includes a graphical installer and other ease-of-use features for less experienced Linux users. Rolling release packages from Arch repositories are held for further testing to achieve increased stability, and packages identified as addressing security issues of critical or high severity are fast-tracked to the stable branch.    ": null
+    },
+    {
+        "Gentoo": "Gentoo Linux"
+    },
+    {
+        ", a distribution targeted at ": null
+    },
+    {
+        "power user": "Power User"
+    },
+    {
+        "s, known for its ": null
+    },
+    {
+        "FreeBSD Ports": "Freebsd Ports"
+    },
+    {
+        "-like automated system for compiling applications from source code   ": null
+    },
+    {
+        "Chrome OS": "Chrome Os"
+    },
+    {
+        ", Googles commercial operating system based on ": null
+    },
+    {
+        "Chromium OS": "Chromium Os"
+    },
+    {
+        " that only runs on ": null
+    },
+    {
+        "Chromebook": "Chromebook"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "Chromebox": "Chromebox"
+    },
+    {
+        "es and ": null
+    },
+    {
+        "tablet computer": "Tablet Computer"
+    },
+    {
+        "s. Like ": null
+    },
+    {
+        "Android": "Android"
+    },
+    {
+        ", it has the ": null
+    },
+    {
+        "Google Play Store": "Google Play"
+    },
+    {
+        " and other ": null
+    },
+    {
+        "Google apps": "G Suite"
+    },
+    {
+        " Slackware": "Slackware"
+    },
+    {
+        ", created in 1993, one of the first Linux distributions and among the earliest still maintained, committed to remain highly ": null
+    },
+    {
+        "Unix-like": "Unix-Like"
+    },
+    {
+        " and easily modifiable by ": null
+    },
+    {
+        "end users": "End User"
+    },
+    {
+        "                   Other distributions target specific niches, such as:     Routers for example, targeted by the tiny embedded router distribution ": null
+    },
+    {
+        "OpenWrt": "Openwrt"
+    },
+    {
+        "  Internet of things  for example, targeted by Ubuntu Core     Home theater PC s for example, targeted by ": null
+    },
+    {
+        "KnoppMyth": "Knoppmyth"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Kodi": "Kodi"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Mythbuntu": "Mythbuntu"
+    },
+    {
+        " Specific platforms for example, ": null
+    },
+    {
+        "Raspbian": "Raspbian"
+    },
+    {
+        " targets the ": null
+    },
+    {
+        "Raspberry Pi": "Raspberry Pi"
+    },
+    {
+        " platform   Education examples are ": null
+    },
+    {
+        "Edubuntu": "Edubuntu"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Karoshi": "Karoshi"
+    },
+    {
+        ", server systems based on ": null
+    },
+    {
+        "PCLinuxOS": "Pclinuxos"
+    },
+    {
+        " Scientific computer servers and workstations for example, targeted by ": null
+    },
+    {
+        "Scientific Linux": "Scientific Linux"
+    },
+    {
+        " Digital audio workstations for music production for example, targeted by ": null
+    },
+    {
+        "Ubuntu Studio": "Ubuntu Studio"
+    },
+    {
+        " Computer Security, digital forensics and penetration testing  examples are ": null
+    },
+    {
+        "Kali Linux": "Kali Linux"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Parrot Security OS": "Parrot Security Os"
+    },
+    {
+        " Privacy and anonymity for example, targeted by ": null
+    },
+    {
+        "Tails": "Tails"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Whonix": "Whonix"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Qubes": "Qubes Os"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "FreedomBox": "Freedombox"
+    },
+    {
+        " Offline use for example, ": null
+    },
+    {
+        "Endless OS": "Endless Os"
+    },
+    {
+        " Azure Sphere": "Azure Sphere"
+    },
+    {
+        "            Whether Googles ": null
+    },
+    {
+        "Android": "Android"
+    },
+    {
+        " counts as a Linux distribution is a matter of definition. It uses the Linux kernel, so the ": null
+    },
+    {
+        "Linux Foundation": "Linux Foundation"
+    },
+    {
+        "  and ": null
+    },
+    {
+        "Chris DiBona": "Chris Dibona"
+    },
+    {
+        ",  Googles open source chief, agree that Android is a Linux distribution; others, such as Google engineer Patrick Brady, disagree by noting the lack of support for many GNU tools in Android, including ": null
+    },
+    {
+        "glibc": "Glibc"
+    },
+    {
+        ".      Other non-GNU distributions include ": null
+    },
+    {
+        "Cyanogenmod": "Cyanogenmod"
+    },
+    {
+        ", its fork ": null
+    },
+    {
+        "LineageOS": "Lineageos"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Android-x86": "Android-X86"
+    },
+    {
+        " and recently ": null
+    },
+    {
+        "Tizen": "Tizen"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Mer": "Mer"
+    },
+    {
+        "/": null
+    },
+    {
+        "Sailfish OS": "Sailfish Os"
+    },
+    {
+        ".       The ": null
+    },
+    {
+        "Free Standards Group": "Free Standards Group"
+    },
+    {
+        " is an organization formed by major software and hardware vendors that aims to improve interoperability between different distributions. Among their proposed standards are the ": null
+    },
+    {
+        "Linux Standard Base": "Linux Standard Base"
+    },
+    {
+        ", which defines a common ": null
+    },
+    {
+        "ABI": "Application Binary Interface"
+    },
+    {
+        " and packaging system for Linux, and the ": null
+    },
+    {
+        "Filesystem Hierarchy Standard": "Filesystem Hierarchy Standard"
+    },
+    {
+        " which recommends a standard filenaming chart, notably the basic directory names found on the root of the tree of any Linux filesystem. Those standards, however, see limited use, even among the distributions developed by members of the organization.     The diversity of Linux distributions means that not all software runs on all distributions, depending on what libraries and other system attributes are required. ": null
+    },
+    {
+        "Packaged software": "Linux Package Formats"
+    },
+    {
+        " and software repositories are usually specific to a particular distribution, though cross-installation is sometimes possible on closely related distributions.       The process of constantly switching between distributions is often referred to as distro hopping .  ": null
+    },
+    {
+        "Virtual machines": "Virtual Machine"
+    },
+    {
+        "such as ": null
+    },
+    {
+        "VirtualBox": "Virtualbox"
+    },
+    {
+        " and ": null
+    },
+    {
+        "VMware Workstation": "Vmware Workstation"
+    },
+    {
+        " virtualize hardware allowing users to test live media on a virtual machine. Some websites like ": null
+    },
+    {
+        "DistroWatch": "Distrowatch"
+    },
+    {
+        " offer lists of popular distributions, and link to screenshots of operating systems as a way to get a first impression of various distributions.     There are tools available to help people select an appropriate distribution, such as several versions of the Linux Distribution Chooser,  and the universal package search tool whohas.  There are easy ways to try out several Linux distributions before deciding on one: Multi Distro is a ": null
+    },
+    {
+        "Live CD": "Live Cd"
+    },
+    {
+        " that contains nine space-saving distributions.        There are several ways to install a Linux distribution. Nowadays, the most common method of installing Linux is by booting from a live ": null
+    },
+    {
+        "USB memory stick": "Usb Memory Stick"
+    },
+    {
+        ", which can be created by using an USB image writer application and the ISO image, which can be downloaded from the various Linux distribution websites. DVD disks, CD disks, network installations and even other hard drives can also be used as installation media .      Early Linux distributions were installed using sets of ": null
+    },
+    {
+        "floppies": "Floppy Disk"
+    },
+    {
+        " but this has been abandoned by all major distributions. Nowadays most distributions offer CD and DVD sets with the vital packages on the first disc and less important packages on later ones. They usually also allow installation over a network after booting from either a set of floppies or a CD with only a small amount of data on it.      New users tend to begin by ": null
+    },
+    {
+        "partitioning": "Disk Partitioning"
+    },
+    {
+        " a hard drive in order to keep their previously installed operating system. The Linux distribution can then be installed on its own separate partition without affecting previously saved data.     In a Live CD setup, the computer boots the entire operating system from CD without first installing it on the computers hard disk. Some distributions have a Live CD installer, where the computer boots the operating system from the disk, and then proceeds to install it onto the computers hard disk, providing a seamless transition from the OS running from the CD to the OS running from the hard disk.     Both servers and ": null
+    },
+    {
+        "personal computers": "Personal Computer"
+    },
+    {
+        "that come with Linux already installed are available from vendors including ": null
+    },
+    {
+        "Hewlett-Packard": "Hewlett-Packard"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Dell": "Dell"
+    },
+    {
+        " and ": null
+    },
+    {
+        "System76": "System76"
+    },
+    {
+        ".     On embedded devices, Linux is typically held in the devices ": null
+    },
+    {
+        "firmware": "Firmware"
+    },
+    {
+        " and may or may not be consumer-accessible. \t     ": null
+    },
+    {
+        "Anaconda": "Anaconda Installer"
+    },
+    {
+        ", one of the more popular installers, is used by ": null
+    },
+    {
+        "Red Hat Enterprise Linux": "Red Hat Enterprise Linux"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Fedora": "Fedora"
+    },
+    {
+        "  and other distributions to simplify the installation process. Debian, Ubuntu and many others use ": null
+    },
+    {
+        "Debian-Installer": "Debian-Installer"
+    },
+    {
+        ".       Some distributions let the user install Linux on top of their current system, such as ": null
+    },
+    {
+        "WinLinux": "Winlinux"
+    },
+    {
+        " or ": null
+    },
+    {
+        "coLinux": "Cooperative Linux"
+    },
+    {
+        ". Linux is installed to the Windows hard disk partition, and can be started from inside Windows itself.     ": null
+    },
+    {
+        "Virtual machines": "Virtual Machine"
+    },
+    {
+        "  also make it possible for Linux to be run inside another OS. The VM software simulates a separate computer onto which the Linux system is installed. After installation, the virtual machine can be booted as if it were an independent computer.     Various tools are also available to perform full dual-boot installations from existing platforms without a CD, most notably:     The ": null
+    },
+    {
+        "Wubi installer": "Wubi"
+    },
+    {
+        ", which allows Windows users to download and install ": null
+    },
+    {
+        "Ubuntu": "Ubuntu"
+    },
+    {
+        " or its derivatives into a FAT32 or an NTFS partition without an installation CD, allowing users to easily dual boot between either operating system on the same hard drive without losing data. Replaced by ": null
+    },
+    {
+        "Ubiquity": "Ubiquity"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Win32-loader": "Win32-Loader"
+    },
+    {
+        ", which is in the process of being integrated in official Debian CDs/DVDs, and allows Windows users to install ": null
+    },
+    {
+        "Debian": "Debian"
+    },
+    {
+        " without a CD, though it performs a network installation and thereby requires repartitioning    ": null
+    },
+    {
+        "UNetbootin": "Unetbootin"
+    },
+    {
+        ", which allows Windows and Linux users to perform similar no-CD network installations for a wide variety of Linux distributions and additionally provides ": null
+    },
+    {
+        "live USB": "Live Usb"
+    },
+    {
+        " creation support            Some specific proprietary software products are not available in any form for Linux. As of September 2015, the ": null
+    },
+    {
+        "Steam": "Steam"
+    },
+    {
+        " gaming service has 1,500 games available on Linux, compared to 2,323 games for Mac and 6,500 Windows games.    ": null
+    },
+    {
+        "Emulation": "Emulator"
+    },
+    {
+        " and API-translation projects like ": null
+    },
+    {
+        "Wine": "Wine"
+    },
+    {
+        " and ": null
+    },
+    {
+        "CrossOver": "Crossover"
+    },
+    {
+        " make it possible to run non-Linux-based software on Linux systems, either by emulating a proprietary operating system or by translating proprietary API calls  into native Linux API calls. A ": null
+    },
+    {
+        "virtual machine": "Virtual Machine"
+    },
+    {
+        " can also be used to run a proprietary OS on top of Linux.       Computer hardware is usually sold with an operating system other than Linux already installed by the ": null
+    },
+    {
+        "original equipment manufacturer": "Original Equipment Manufacturer"
+    },
+    {
+        " . In the case of ": null
+    },
+    {
+        "IBM PC compatibles": "Ibm Pc Compatible"
+    },
+    {
+        "the OS is usually ": null
+    },
+    {
+        "Microsoft Windows": "Microsoft Windows"
+    },
+    {
+        "; in the case of ": null
+    },
+    {
+        "Apple Macintosh": "Apple Macintosh"
+    },
+    {
+        " computers it has always been a version of ": null
+    },
+    {
+        "Apples": "Apple Inc."
+    },
+    {
+        "OS, currently ": null
+    },
+    {
+        "macOS": "Macos"
+    },
+    {
+        "; ": null
+    },
+    {
+        "Sun Microsystems": "Sun Microsystems"
+    },
+    {
+        " sold ": null
+    },
+    {
+        "SPARC": "Sparc"
+    },
+    {
+        " hardware with the ": null
+    },
+    {
+        "Solaris": "Solaris"
+    },
+    {
+        " installed; ": null
+    },
+    {
+        "video game consoles": "Video Game Console"
+    },
+    {
+        "such as the ": null
+    },
+    {
+        "Xbox": "Xbox"
+    },
+    {
+        ", ": null
+    },
+    {
+        "PlayStation": "Playstation"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Wii": "Wii"
+    },
+    {
+        " each have their own proprietary OS. This limits Linuxs market share: consumers are unaware that an alternative exists, they must make a conscious effort to use a different operating system, and they must either perform the actual installation themselves, or depend on support from a friend, relative, or computer professional.     However, it is possible to buy hardware with Linux already installed. ": null
+    },
+    {
+        "Lenovo": "Lenovo"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Hewlett-Packard": "Hewlett-Packard"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Dell": "Dell"
+    },
+    {
+        ", Affordy,  ": null
+    },
+    {
+        "Purism": "Purism"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "System76": "System76"
+    },
+    {
+        " all sell general-purpose Linux laptops,  and custom-order PC manufacturers will also build Linux systems . ": null
+    },
+    {
+        "Fixstars Solutions": "Fixstars Solutions"
+    },
+    {
+        " sells Macintosh computers and ": null
+    },
+    {
+        "PlayStation 3": "Playstation 3"
+    },
+    {
+        " consoles with ": null
+    },
+    {
+        "Yellow Dog Linux": "Yellow Dog Linux"
+    },
+    {
+        " installed.     It is more common to find embedded devices sold with Linux as the default manufacturer-supported OS, including the Linksys ": null
+    },
+    {
+        "NSLU2": "Nslu2"
+    },
+    {
+        " NAS device, ": null
+    },
+    {
+        "TiVos": "Tivo"
+    },
+    {
+        "line of personal video recorders, and Linux-based cellphones , PDAs, and portable music players. \t     The current Microsoft Windows license lets the manufacturer determine the refund policy.  With previous versions of Windows, it was possible to obtain a refund if the manufacturer failed to provide the refund by litigation in the small claims courts.  On 15 February 1999, a group of Linux users in ": null
+    },
+    {
+        "Orange County, California": "Orange County, California"
+    },
+    {
+        " held a Windows Refund Day protest in an attempt to pressure Microsoft into issuing them refunds.  In France, the Linuxfrench and ": null
+    },
+    {
+        "AFUL": "Aful"
+    },
+    {
+        " organizations along with free software activist ": null
+    },
+    {
+        "Roberto Di Cosmo": "Roberto Di Cosmo"
+    },
+    {
+        " started a Windows Detax movement,   Say no to bundled software - Say yes to informed consumers which led to a 2006 petition against racketiciels  with 39,415 signatories and the ": null
+    },
+    {
+        "DGCCRF": "Dgccrf"
+    },
+    {
+        " branch of the French government filing several complaints against bundled software. On March 24, 2014, a new international petition was launched by AFUL on the Avaaz platform,  translated into several languages and supported by many organizations around the world.       There are no official figures on popularity, adoption, downloads or ": null
+    },
+    {
+        "installed base": "Installed Base"
+    },
+    {
+        " of Linux distributions.     There are also no official figures for the total number of Linux systems,   partly due to the difficulty of quantifying the number of ": null
+    },
+    {
+        "PCs": "Personal Computer"
+    },
+    {
+        " running Linux , since many users download ": null
+    },
+    {
+        "Linux distribution": "Linux Distribution"
+    },
+    {
+        "s. Hence, the sales figures for Linux systems and commercial Linux distributions indicate a much lower number of Linux systems and level of ": null
+    },
+    {
+        "Linux adoption": "Linux Adoption"
+    },
+    {
+        " than is the case; this is mainly due to Linux being ": null
+    },
+    {
+        "free and open source software": "Free And Open Source Software"
+    },
+    {
+        " that can be ": null
+    },
+    {
+        "download": "Download"
+    },
+    {
+        "ed ": null
+    },
+    {
+        "free of charge": "Free Of Charge"
+    },
+    {
+        ".  A Linux Counter Project had kept track of a running ": null
+    },
+    {
+        "guesstimate": "Guesstimate"
+    },
+    {
+        " of the number of Linux systems, but did not distinguish between rolling release and standard release distributions. It ceased operation in August of 2018, though a few related blog posts were created through October 2018. ": null
+    }
+]

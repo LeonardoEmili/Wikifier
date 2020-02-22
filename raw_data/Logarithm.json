@@ -1,0 +1,914 @@
+[
+    {
+        "         In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", the logarithm is the ": null
+    },
+    {
+        "inverse function": "Inverse Function"
+    },
+    {
+        " to ": null
+    },
+    {
+        "exponentiation": "Exponentiation"
+    },
+    {
+        ". That means the logarithm of a given number   is the ": null
+    },
+    {
+        "exponent": "Exponent"
+    },
+    {
+        " to which another fixed number, the  base   , must be raised, to produce that number  . In the simplest case, the logarithm counts the number of occurrences of the same factor in repeated multiplication; e.g., since , the logarithm to base  of  is . The logarithm of  to base  is denoted as , or without parentheses, , or even without the explicit base, —if no confusion is possible.     More generally, exponentiation allows any positive ": null
+    },
+    {
+        "real number": "Real Number"
+    },
+    {
+        " as base to be raised to any real power, always producing a positive result, so  for any two positive real numbers   and  , where   is not equal to  , is always a unique real number  . More explicitly, the defining relation between exponentiation and logarithm is:     :   y   exactly if   by x.     For example, , as .     The logarithm to base   is called the ": null
+    },
+    {
+        "common logarithm": "Common Logarithm"
+    },
+    {
+        " and has many applications in science and engineering. The ": null
+    },
+    {
+        "natural logarithm": "Natural Logarithm"
+    },
+    {
+        " has the ": null
+    },
+    {
+        "number ": "E"
+    },
+    {
+        "   as its base; its use is widespread in mathematics and ": null
+    },
+    {
+        "physics": "Physics"
+    },
+    {
+        ", because of its simpler ": null
+    },
+    {
+        "integral": "Integral"
+    },
+    {
+        " and ": null
+    },
+    {
+        "derivative": "Derivative"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "binary logarithm": "Binary Logarithm"
+    },
+    {
+        " uses base   and is commonly used in ": null
+    },
+    {
+        "computer science": "Computer Science"
+    },
+    {
+        ". Logarithms are examples of ": null
+    },
+    {
+        "concave function": "Concave Function"
+    },
+    {
+        "s.      Logarithms were introduced by ": null
+    },
+    {
+        "John Napier": "John Napier"
+    },
+    {
+        " in 1614 as a means to simplify calculations.  They were rapidly adopted by navigators, scientists, engineers, surveyors and others to perform high-accuracy computations more easily. Using ": null
+    },
+    {
+        "logarithm tables": "Mathematical Table"
+    },
+    {
+        ", tedious multi-digit multiplication steps can be replaced by table look-ups and simpler addition. This is possible because of the fact—important in its own right—that the logarithm of a ": null
+    },
+    {
+        "product": "Product"
+    },
+    {
+        " is the ": null
+    },
+    {
+        "sum": "Summation"
+    },
+    {
+        " of the logarithms of the factors:   :     x +   y,     provided that ,  and  are all positive and . The ": null
+    },
+    {
+        "slide rule": "Slide Rule"
+    },
+    {
+        ", also based on logarithms, allows quick calculations without tables, but at lower precision.   The present-day notion of logarithms comes from ": null
+    },
+    {
+        "Leonhard Euler": "Leonhard Euler"
+    },
+    {
+        ", who connected them to the ": null
+    },
+    {
+        "exponential function": "Exponential Function"
+    },
+    {
+        " in the 18th century, and who also introduced the letter  as the base of natural logarithms.      ": null
+    },
+    {
+        "Logarithmic scales": "Logarithmic Scale"
+    },
+    {
+        "reduce wide-ranging quantities to tiny scopes. For example, the ": null
+    },
+    {
+        "decibel": "Decibel"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "unit": "Units Of Measurement"
+    },
+    {
+        " used to express ": null
+    },
+    {
+        "ratio as logarithms": "Level"
+    },
+    {
+        ", mostly for signal power and amplitude . In chemistry, ": null
+    },
+    {
+        "pH": "Ph"
+    },
+    {
+        " is a logarithmic measure for the ": null
+    },
+    {
+        "acid": "Acid"
+    },
+    {
+        "ity of an ": null
+    },
+    {
+        "aqueous solution": "Aqueous Solution"
+    },
+    {
+        ". Logarithms are commonplace in scientific ": null
+    },
+    {
+        "formula": "Formula"
+    },
+    {
+        "e, and in measurements of the ": null
+    },
+    {
+        "complexity of algorithms": "Computational Complexity Theory"
+    },
+    {
+        " and of geometric objects called ": null
+    },
+    {
+        "fractal": "Fractal"
+    },
+    {
+        "s. They help describing ": null
+    },
+    {
+        "frequency": "Frequency"
+    },
+    {
+        " ratios of ": null
+    },
+    {
+        "musical intervals": "Interval"
+    },
+    {
+        ", appear in formulas counting ": null
+    },
+    {
+        "prime numbers": "Prime Number"
+    },
+    {
+        "or ": null
+    },
+    {
+        "approximating": "Stirlings Approximation"
+    },
+    {
+        " factorial": "Factorial"
+    },
+    {
+        "s, inform some models in ": null
+    },
+    {
+        "psychophysics": "Psychophysics"
+    },
+    {
+        ", and can aid in ": null
+    },
+    {
+        "forensic accounting": "Forensic Accounting"
+    },
+    {
+        ".     In the same way as the logarithm reverses ": null
+    },
+    {
+        "exponentiation": "Exponentiation"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "complex logarithm": "Complex Logarithm"
+    },
+    {
+        " is the ": null
+    },
+    {
+        "inverse function": "Inverse Function"
+    },
+    {
+        " of the exponential function applied to ": null
+    },
+    {
+        "complex number": "Complex Number"
+    },
+    {
+        "s. The modular ": null
+    },
+    {
+        "discrete logarithm": "Discrete Logarithm"
+    },
+    {
+        " is another variant; it has uses in ": null
+    },
+    {
+        "public-key cryptography": "Public-Key Cryptography"
+    },
+    {
+        ".         ": null
+    },
+    {
+        "Addition": "Addition"
+    },
+    {
+        ", ": null
+    },
+    {
+        "multiplication": "Multiplication"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "exponentiation": "Exponentiation"
+    },
+    {
+        " are three fundamental arithmetic operations . Addition, the simplest of these, can be undone by ": null
+    },
+    {
+        "subtraction": "Subtraction"
+    },
+    {
+        " in  can be undone by subtracting . Multiplication, the next-simplest operation, can be undone by ": null
+    },
+    {
+        "division": "Division"
+    },
+    {
+        ", i.e., multiplying  by , the result is . To get back , it is necessary to divide by . For example,  and the process of multiplying by  is undone by dividing by . The idea and purpose of logarithms is also to undo a fundamental arithmetic operation, namely raising a number to a certain power . For example, raising  to the power  yields , because  is the product of three factors of  of  is , reflecting the fact that  was raised to the power  to get .       This subsection contains a short overview of the exponentiation operation, which is fundamental to understanding logarithms.   Raising  to the  power, where  is a ": null
+    },
+    {
+        "natural number": "Natural Number"
+    },
+    {
+        ", is done by multiplying  factors equal to . The  power of  is written , so that     : bn       Exponentiation may be extended to , where  is a positive number and the exponent  is any ": null
+    },
+    {
+        "real number": "Real Number"
+    },
+    {
+        ". , esp. section 2 For example,  is the ": null
+    },
+    {
+        "reciprocal": "Multiplicative Inverse"
+    },
+    {
+        " of , that is, . Raising  to the power 1/2 is the ": null
+    },
+    {
+        "square root": "Square Root"
+    },
+    {
+        " of .     More generally, raising  to a ": null
+    },
+    {
+        "rational": "Rational Number"
+    },
+    {
+        " power , where  and  are integers, is given by     : b       the -th root of bp  .     Finally, any ": null
+    },
+    {
+        "irrational number": "Irrational Number"
+    },
+    {
+        "  can be approximated to arbitrary precision by rational numbers. This can be used to compute the -th power of  is contained in the article on ": null
+    },
+    {
+        "exponentiation": "Exponentiation"
+    },
+    {
+        ".       The logarithm of a positive real number  with respect to base  is the exponent by which  must be raised to yield . In other words, the logarithm of  to base  is the solution  to the equation , chapter 1     : by x.     The logarithm is denoted  .     In the equation , the value  is the answer to the question To what power must  be raised, in order to yield ? .       , since .   Logarithms can also be negative:         -1   since   2        is approximately 2.176, which lies between 2 and 3, just as 150 lies between  and  ,  and , since  and , respectively.            Several important formulas, sometimes called logarithmic identities or logarithmic laws, relate logarithms to one another. All statements in this section can be found in , , or , for example.       The logarithm of a product is the sum of the logarithms of the numbers being multiplied; the logarithm of the ratio of two numbers is the difference of the logarithms. The logarithm of the -th power of a number is  times the logarithm of the number itself; the logarithm of a -th root is the logarithm of the number divided by . The following table lists these identities with examples. Each of the identities can be derived after substitution of the logarithm definitions x b or y b in the left hand sides.             The logarithm  can be computed from the logarithms of  and  with respect to an arbitrary base  using the following formula:     :   x          Starting from the defining identity     : x b     we can apply  to both sides of this equation, to get     :   x       x     b .     Solving for   x yields:     :   x   ,     showing the conversion factor from given   -values to their corresponding   -values to be .        Typical ": null
+    },
+    {
+        "scientific calculators": "Scientific Calculators"
+    },
+    {
+        " calculate the logarithms to bases 10 and . , p.  21 Logarithms with respect to any base  can be determined using either of these two logarithms by the previous formula:   :   x           Given a number  and its logarithm  to an unknown base , the base is given by:     : b x      which can be seen from taking the defining equation x b to the power of                Among all choices for the base, three are particularly common. These are ,  , and  . In ": null
+    },
+    {
+        "mathematical analysis": "Mathematical Analysis"
+    },
+    {
+        ", the logarithm to base  is widespread because of its particular analytical properties explained below. On the other hand,  logarithms are easy to use for manual calculations in the ": null
+    },
+    {
+        "decimal": "Decimal"
+    },
+    {
+        " number system: , chapter 17, p.  275   :     10 +   x 1 +   x.    Thus,  is related to the number of ": null
+    },
+    {
+        "decimal digits": "Decimal Digit"
+    },
+    {
+        "of a positive integer ": null
+    },
+    {
+        "integer": "Integer"
+    },
+    {
+        " strictly bigger than log 10 x. , p.  20 For example,  is approximately 3.15. The next integer is 4, which is the number of digits of 1430. Both the natural logarithm and the logarithm to base two are used in ": null
+    },
+    {
+        "information theory": "Information Theory"
+    },
+    {
+        ", corresponding to the use of ": null
+    },
+    {
+        "nats": "Nat"
+    },
+    {
+        " or ": null
+    },
+    {
+        "bits": "Bit"
+    },
+    {
+        "as the fundamental units of information, respectively.  Binary logarithms are also used in ": null
+    },
+    {
+        "computer science": "Computer Science"
+    },
+    {
+        ", where the ": null
+    },
+    {
+        "binary system": "Binary Numeral System"
+    },
+    {
+        " is ubiquitous, in ": null
+    },
+    {
+        "music theory": "Music Theory"
+    },
+    {
+        ", where a pitch ratio of two  is ubiquitous and the ": null
+    },
+    {
+        "cent": "Cent"
+    },
+    {
+        " is the binary logarithm of the ratio between two adjacent equally-tempered pitches in European ": null
+    },
+    {
+        "classical music": "Classical Music"
+    },
+    {
+        ", and in ": null
+    },
+    {
+        "photography": "Photography"
+    },
+    {
+        " to measure ": null
+    },
+    {
+        "exposure value": "Exposure Value"
+    },
+    {
+        "s.      The following table lists common notations for logarithms to these bases and the fields where they are used. Many disciplines write  instead of , when the intended base can be determined from the context. The notation  also occurs.  The ISO notation column lists designations suggested by the ": null
+    },
+    {
+        "International Organization for Standardization": "International Organization For Standardization"
+    },
+    {
+        " .  Because the notation  has been used for all three bases , the intended base must often be inferred based on context or discipline. In computer science and mathematics,  usually refers to  and , respectively.  In other contexts  often means .                The history of logarithm in seventeenth-century Europe is the discovery of a new ": null
+    },
+    {
+        "function": "Function"
+    },
+    {
+        " that extended the realm of analysis beyond the scope of algebraic methods. The method of logarithms was publicly propounded by ": null
+    },
+    {
+        "John Napier": "John Napier"
+    },
+    {
+        " in 1614, in a book titled Mirifici Logarithmorum Canonis Descriptio .   Prior to Napiers invention, there had been other techniques of similar scopes, such as the prosthaphaeresis or the use of tables of progressions, extensively developed by ": null
+    },
+    {
+        "Jost Bürgi": "Jost Bürgi"
+    },
+    {
+        " around 1600.       The ": null
+    },
+    {
+        "common logarithm": "Common Logarithm"
+    },
+    {
+        " of a number is the index of that power of ten which equals the number. William Gardner Tables of Logarithms Speaking of a number as requiring so many figures is a rough allusion to common logarithm, and was referred to by ": null
+    },
+    {
+        "Archimedes": "Archimedes"
+    },
+    {
+        " as the order of a number . R.C. Pierce A brief history of logarithm , ": null
+    },
+    {
+        "Two-Year College Mathematics Journal": "Two-Year College Mathematics Journal"
+    },
+    {
+        " 8:22–26. The first real logarithms were heuristic methods to turn multiplication into addition, thus facilitating rapid computation. Some of these methods used tables derived from trigonometric identities. Enrique Gonzales-Velasco Journey through Mathematics – Creative Episodes in its History, §2.4 Hyperbolic logarithms, p. 117, Springer    Such methods are called ": null
+    },
+    {
+        "prosthaphaeresis": "Prosthaphaeresis"
+    },
+    {
+        ".     Invention of the ": null
+    },
+    {
+        "function": "Function"
+    },
+    {
+        " now known as ": null
+    },
+    {
+        "natural logarithm": "Natural Logarithm"
+    },
+    {
+        " began as an attempt to perform a ": null
+    },
+    {
+        "quadrature": "Quadrature"
+    },
+    {
+        " of a rectangular ": null
+    },
+    {
+        "hyperbola": "Hyperbola"
+    },
+    {
+        " by ": null
+    },
+    {
+        "Grégoire de Saint-Vincent": "Grégoire De Saint-Vincent"
+    },
+    {
+        ", a Belgian Jesuit residing in Prague. Archimedes had written  The Quadrature of the Parabola  in the third century BC, but a quadrature for the hyperbola eluded all efforts until Saint-Vincent published his results in 1647. The relation that the logarithm provides between a ": null
+    },
+    {
+        "geometric progression": "Geometric Progression"
+    },
+    {
+        " in its ": null
+    },
+    {
+        "argument": "Argument Of A Function"
+    },
+    {
+        " and an ": null
+    },
+    {
+        "arithmetic progression": "Arithmetic Progression"
+    },
+    {
+        " of values, prompted ": null
+    },
+    {
+        "A. A. de Sarasa": "A. A. De Sarasa"
+    },
+    {
+        " to make the connection of Saint-Vincents quadrature and the tradition of logarithms in prosthaphaeresis, leading to the term hyperbolic logarithm , a synonym for natural logarithm. Soon the new function was appreciated by ": null
+    },
+    {
+        "Christiaan Huygens": "Christiaan Huygens"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "James Gregory": "James Gregory"
+    },
+    {
+        ". The notation Log y was adopted by ": null
+    },
+    {
+        "Leibniz": "Gottfried Wilhelm Leibniz"
+    },
+    {
+        " in 1675, ": null
+    },
+    {
+        "Florian Cajori": "Florian Cajori"
+    },
+    {
+        " History of the exponential and logarithm concepts , ": null
+    },
+    {
+        "American Mathematical Monthly": "American Mathematical Monthly"
+    },
+    {
+        " 20: 5, 35, 75, 107, 148, 173, 205. and the next year he connected it to the ": null
+    },
+    {
+        "integral": "Integral Calculus"
+    },
+    {
+        "       .          By simplifying difficult calculations before calculators and computers became available, logarithms contributed to the advance of science, especially ": null
+    },
+    {
+        "astronomy": "Astronomy"
+    },
+    {
+        ". They were critical to advances in ": null
+    },
+    {
+        "surveying": "Surveying"
+    },
+    {
+        ", ": null
+    },
+    {
+        "celestial navigation": "Celestial Navigation"
+    },
+    {
+        ", and other domains. ": null
+    },
+    {
+        "Pierre-Simon Laplace": "Pierre-Simon Laplace"
+    },
+    {
+        " called logarithms     :: ... admirable artifice which, by reducing to a few days the labour of many months, doubles the life of the astronomer, and spares him the errors and disgust inseparable from long calculations. , p.  44     As the function  is the inverse function of log b x, it has been called the antilogarithm. , section 4.7., p.  89       A key tool that enabled the practical use of logarithms was the  table of logarithms . , section 2 The first such table was compiled by ": null
+    },
+    {
+        "Henry Briggs": "Henry Briggs"
+    },
+    {
+        " in 1617, immediately after Napiers invention but with the innovation of using 10 as the base. Briggs first table contained the ": null
+    },
+    {
+        "common logarithms": "Common Logarithm"
+    },
+    {
+        "of all integers in the range 1–1000, with a precision of 14 digits. Subsequently, tables with increasing scope were written. These tables listed the values of  for any number  in a certain range, at a certain precision. Base-10 logarithms were universally used for computation, hence the name common logarithm, since numbers that differ by factors of 10 have logarithms that differ by integers. The common logarithm of  can be separated into an ": null
+    },
+    {
+        "integer part": "Integer Part"
+    },
+    {
+        " and a ": null
+    },
+    {
+        "fractional part": "Fractional Part"
+    },
+    {
+        ", known as the characteristic and ": null
+    },
+    {
+        "mantissa": "Mantissa"
+    },
+    {
+        ". Tables of logarithms need only include the mantissa, as the characteristic can be easily determined by counting digits from the decimal point. , p.  264 The characteristic of  is one plus the characteristic of , and their mantissas are the same. Thus using a three-digit log table, the logarithm of 3542 is approximated by     :     3 +     3 +         Greater accuracy can be obtained by ": null
+    },
+    {
+        "interpolation": "Interpolation"
+    },
+    {
+        " can be determined by reverse look up in the same table, since the logarithm is a ": null
+    },
+    {
+        "monotonic function": "Monotonic Function"
+    },
+    {
+        ".       The product and quotient of two positive numbers  and  were routinely calculated as the sum and difference of their logarithms. The product  or quotient  came from looking up the antilogarithm of the sum or difference, via the same table:     : c d 10   10 10     and   :   c d c d 10.       For manual calculations that demand any appreciable precision, performing the lookups of the two logarithms, calculating their sum or difference, and looking up the antilogarithm is much faster than performing the multiplication by earlier methods such as ": null
+    },
+    {
+        "prosthaphaeresis": "Prosthaphaeresis"
+    },
+    {
+        ", which relies on ": null
+    },
+    {
+        "trigonometric identities": "Trigonometric Identities"
+    },
+    {
+        ".     Calculations of powers and ": null
+    },
+    {
+        "roots": "Nth Root"
+    },
+    {
+        " are reduced to multiplications or divisions and look-ups by   : cd   10       and   :   c  10.       Trigonometric calculations were facilitated by tables that contained the common logarithms of ": null
+    },
+    {
+        "trigonometric function": "Trigonometric Function"
+    },
+    {
+        "s.       Another critical application was the ": null
+    },
+    {
+        "slide rule": "Slide Rule"
+    },
+    {
+        ", a pair of logarithmically divided scales used for calculation. The non-sliding logarithmic scale, ": null
+    },
+    {
+        "Gunters rule": "Gunters Rule"
+    },
+    {
+        ", was invented shortly after Napiers invention. ": null
+    },
+    {
+        "William Oughtred": "William Oughtred"
+    },
+    {
+        " enhanced it to create the slide rule—a pair of logarithmic scales movable with respect to each other. Numbers are placed on sliding scales at distances proportional to the differences between their logarithms. Sliding the upper scale appropriately amounts to mechanically adding logarithms, as illustrated here:          For example, adding the distance from 1 to 2 on the lower scale to the distance from 1 to 3 on the upper scale yields a product of 6, which is read off at the lower part. The slide rule was an essential calculating tool for engineers and scientists until the 1970s, because it allows, at the expense of precision, much faster computation than techniques based on tables.          A deeper study of logarithms requires the concept of a  function . A function is a rule that, given one number, produces another number. , or see the references in ": null
+    },
+    {
+        "function": "Function"
+    },
+    {
+        " An example is the function producing the -th power of  from any real number , where the base  is a fixed number. This function is written: f bx.         To justify the definition of logarithms, it is necessary to show that the equation   : bx y       has a solution  and that this solution is unique, provided that  is positive and that  is positive and unequal to 1. A proof of that fact requires the ": null
+    },
+    {
+        "intermediate value theorem": "Intermediate Value Theorem"
+    },
+    {
+        " from elementary ": null
+    },
+    {
+        "calculus": "Calculus"
+    },
+    {
+        ". , section III.3 This theorem states that a ": null
+    },
+    {
+        "continuous function": "Continuous Function"
+    },
+    {
+        " that produces two values  and  also produces any value that lies between  and . A function is continuous if it does not jump , that is, if its graph can be drawn without lifting the pen.     This property can be shown to hold for the function . Because  takes arbitrarily large and arbitrarily small positive values, any number .      The unique solution  is the logarithm of  to base , . The function that assigns to  its logarithm is called logarithm function or logarithmic function .     The function  is essentially characterized by the product formula   :     x +   y.   More precisely, the logarithm to any base  ref  /ref math /math  math /math  math /math  ref  /ref ,  tends to minus infinity instead. When  approaches zero,  goes to minus infinity for .          Analytic properties of functions pass to their inverses. Thus, as  is a continuous and ": null
+    },
+    {
+        "differentiable function": "Differentiable Function"
+    },
+    {
+        ", so is . Roughly, a continuous function is differentiable if its graph has no sharp corners . Moreover, as the ": null
+    },
+    {
+        "derivative": "Derivative"
+    },
+    {
+        " of  evaluates to  by the properties of the ": null
+    },
+    {
+        "exponential function": "Exponential Function"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "chain rule": "Chain Rule"
+    },
+    {
+        " implies that the derivative of  is given by    :     x     That is, the ": null
+    },
+    {
+        "slope": "Slope"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "tangent": "Tangent"
+    },
+    {
+        " touching the graph of the  logarithm at the point  equals .     The derivative of ln  is 1/x; this implies that ln  is the unique ": null
+    },
+    {
+        "antiderivative": "Antiderivative"
+    },
+    {
+        " of  that has the value 0 for . It is this very simple formula that motivated to qualify as natural the natural logarithm; this is also one of the main reasons of the importance of the constant .     The derivative with a generalised functional argument  is   :     f     The quotient at the right hand side is called the ": null
+    },
+    {
+        "logarithmic derivative": "Logarithmic Derivative"
+    },
+    {
+        " of f. Computing  by means of the derivative of  is known as ": null
+    },
+    {
+        "logarithmic differentiation": "Logarithmic Differentiation"
+    },
+    {
+        ". , p.  386 The antiderivative of the ": null
+    },
+    {
+        "natural logarithm": "Natural Logarithm"
+    },
+    {
+        "  is:    :       x   - x + C.   ": null
+    },
+    {
+        "Related formulas": "List Of Integrals Of Logarithmic Functions"
+    },
+    {
+        ", such as antiderivatives of logarithms to other bases can be derived from this equation using the change of bases.           The ": null
+    },
+    {
+        "natural logarithm": "Natural Logarithm"
+    },
+    {
+        " of  equals the ": null
+    },
+    {
+        "integral": "Integral"
+    },
+    {
+        " of    from 1 to  equals the area between the  axis and the graph of the function , ranging from  to  . This is a consequence of the ": null
+    },
+    {
+        "fundamental theorem of calculus": "Fundamental Theorem Of Calculus"
+    },
+    {
+        " and the fact that the derivative of  is . The right hand side of this equation can serve as a definition of the ": null
+    },
+    {
+        "natural logarithm": "Natural Logarithm"
+    },
+    {
+        ". Product and power logarithm formulas can be derived from this definition. , section III.6 For example, the product formula  is deduced as:     :         dx           dx +       dx       +       dw   +       The equality splits the integral into two parts, while the equality is a change of variable . In the illustration below, the splitting corresponds to dividing the area into the yellow and blue parts. Rescaling the left hand blue area vertically by the factor t and shrinking it by the same factor horizontally does not change its size. Moving it appropriately, the area fits the graph of the function  again. Therefore, the left hand blue area, which is the integral of  from t to tu is the same as the integral from 1 to u. This justifies the equality with a more geometric proof.          The power formula  may be derived in a similar way:     :               r       dw r       The second equality uses a change of variables , .     The sum over the reciprocals of natural numbers,   : 1 +   1 2 +   1 3 +   +   1 n       is called the ": null
+    },
+    {
+        "harmonic series": "Harmonic Series"
+    },
+    {
+        ". It is closely tied to the ": null
+    },
+    {
+        "natural logarithm": "Natural Logarithm"
+    },
+    {
+        "n tends to ": null
+    },
+    {
+        "infinity": "Infinity"
+    },
+    {
+        ", the difference,   :     -     ": null
+    },
+    {
+        "converges": "Limit Of A Sequence"
+    },
+    {
+        " to a number known as the ": null
+    },
+    {
+        "Euler–Mascheroni constant": "Euler–Mascheroni Constant"
+    },
+    {
+        " . This relation aids in analyzing the performance of algorithms such as ": null
+    },
+    {
+        "quicksort": "Quicksort"
+    },
+    {
+        ". , sections 11.5 and 13.8     There are also some other integral representations of the logarithm that are useful in some situations:     :   -        :         The first identity can be verified by showing that it has the same value at , and the same derivative.   The second identity can be proven by writing   :       and then inserting the ": null
+    },
+    {
+        "Laplace transform": "Laplace Transform"
+    },
+    {
+        " of  .       ": null
+    },
+    {
+        "Real numbers": "Real Number"
+    },
+    {
+        "that are not ": null
+    },
+    {
+        "algebraic": "Algebraic Number"
+    },
+    {
+        " are called ": null
+    },
+    {
+        "transcendental": "Transcendental Number"
+    },
+    {
+        ";  for example,  and  e  are such numbers, but   is not. ": null
+    },
+    {
+        "Almost all": "Almost All"
+    },
+    {
+        " real numbers are transcendental. The logarithm is an example of a ": null
+    },
+    {
+        "transcendental function": "Transcendental Function"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "Gelfond–Schneider theorem": "Gelfond–Schneider Theorem"
+    },
+    {
+        " asserts that logarithms usually take transcendental, i.e., difficult values. , p.  10          Logarithms are easy to compute in some cases, such as . In general, logarithms can be calculated using ": null
+    },
+    {
+        "power series": "Power Series"
+    },
+    {
+        " or the ": null
+    },
+    {
+        "arithmetic–geometric mean": "Arithmetic–Geometric Mean"
+    },
+    {
+        ", or be retrieved from a precalculated ": null
+    },
+    {
+        "logarithm table": "Logarithm Table"
+    },
+    {
+        " that provides a fixed precision. , sections 4.2.2 and 5.5.2 , section 6.3, pp.  105–11   ": null
+    },
+    {
+        "Newtons method": "Newtons Method"
+    },
+    {
+        ", an iterative method to solve equations approximately, can also be used to calculate the logarithm, because its inverse function, the exponential function, can be computed efficiently. , section 1 for an overview Using look-up tables, ": null
+    },
+    {
+        "CORDIC": "Cordic"
+    },
+    {
+        "-like methods can be used to compute logarithms if the only available operations are addition and ": null
+    },
+    {
+        "bit shifts": "Arithmetic Shift"
+    },
+    {
+        ".   Moreover, the ": null
+    },
+    {
+        "binary logarithm algorithm": "Binary Logarithmalgorithm"
+    },
+    {
+        " calculates  ": null
+    },
+    {
+        "recursively": "Recursion"
+    },
+    {
+        " based on repeated squarings of , taking advantage of the relation   :   2   .         ;Taylor series        For any real number  that satisfies ": null
+    }
+]

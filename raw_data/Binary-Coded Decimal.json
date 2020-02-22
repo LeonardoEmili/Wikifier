@@ -1,0 +1,191 @@
+[
+    {
+        "        In ": null
+    },
+    {
+        "computing": "Computing"
+    },
+    {
+        " and ": null
+    },
+    {
+        "electronic": "Electronics"
+    },
+    {
+        " systems, binary-coded decimal  is a class of ": null
+    },
+    {
+        "binary": "Binary Numeral System"
+    },
+    {
+        " encodings of ": null
+    },
+    {
+        "decimal": "Decimal"
+    },
+    {
+        " numbers where each decimal ": null
+    },
+    {
+        "digit": "Numerical Digit"
+    },
+    {
+        " is represented by a fixed number of ": null
+    },
+    {
+        "bit": "Bit"
+    },
+    {
+        "s, usually four or eight. Special bit patterns are sometimes used for a ": null
+    },
+    {
+        "sign": "Sign"
+    },
+    {
+        " or for other indications .     In byte-oriented systems , the term unpacked BCD usually implies a full ": null
+    },
+    {
+        "byte": "Byte"
+    },
+    {
+        " for each digit , whereas packed BCD typically encodes two decimal digits within a single byte by taking advantage of the fact that four bits are enough to represent the range 0 to 9. The precise 4-bit encoding may vary however, for technical reasons, see ": null
+    },
+    {
+        "Excess-3": "Excess-3"
+    },
+    {
+        " for instance. The ten states representing a BCD decimal digit are sometimes called tetrades  with those ": null
+    },
+    {
+        "dont care": "Dont Care"
+    },
+    {
+        "-states unused named  or pseudo-decimal digit such as ": null
+    },
+    {
+        "ARM": "Arm Architecture"
+    },
+    {
+        "; ": null
+    },
+    {
+        "x86": "X86"
+    },
+    {
+        " does not support ": null
+    },
+    {
+        "its BCD instructions": "Intel Bcd Opcode"
+    },
+    {
+        "in ": null
+    },
+    {
+        "long mode": "Long Mode"
+    },
+    {
+        " any more": null
+    },
+    {
+        "themati": "Themati"
+    },
+    {
+        " two encodings are possible6+39bits 0 through 3bits 4 through 7but formatting routines might replace or remove leading zeroswith the leading zero": null
+    },
+    {
+        "mputi": "Mputi"
+    },
+    {
+        "or simply packed decimalresiding at the lowest memory address": null
+    },
+    {
+        "hex": "Hexadecimal"
+    },
+    {
+        " C+D−AEBABFFD127C127DDthe processors will normalize a positive sign to 1100  ": null
+    },
+    {
+        "ta ty": "Ta Ty"
+    },
+    {
+        "2nd+132-bitabout one-sixth of the memory used is wasted": null
+    },
+    {
+        "aracter encodi": "Aracter Encodi"
+    },
+    {
+        "an IBM extension adopted by many other compiler vendorspart of the 1985 COBOL standarddescended from the 1950s ": null
+    },
+    {
+        "Electrodata 200 series": "Burroughs 205"
+    },
+    {
+        "and otherinclusiveAs with ": null
+    },
+    {
+        "twos complement": "Twos Complement"
+    },
+    {
+        " binary numbers, the range is not symmetric about zero.such as ": null
+    },
+    {
+        "COBOL": "Cobol"
+    },
+    {
+        ", ": null
+    },
+    {
+        "PL/I": "Pl/I"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Ada": "Ada"
+    },
+    {
+        "1,0241,000DPDhex Fhexhex 3hexleast significantsee above such as ": null
+    },
+    {
+        "COBOL": "Cobol"
+    },
+    {
+        " and ": null
+    },
+    {
+        "PL/I": "Pl/I"
+    },
+    {
+        "BCDIC, sometimes just called BCD": null
+    },
+    {
+        "70/7072/70": "70/7072/70"
+    },
+    {
+        "CMa 0 punch combined with any others12,1B,A,111,8,3B,8,2,18,2using ": null
+    },
+    {
+        "two-out-of-five code": "Two-Out-Of-Five Code"
+    },
+    {
+        " in the digits, not BCDe.g., lowercase lettersas in EBCDIC or ASCIItwo decimal digits per ": null
+    },
+    {
+        "byte": "Byte"
+    },
+    {
+        "one decimal digit stored as BCD in the low four bits of each byte": null
+    },
+    {
+        "n-by": "N-By"
+    },
+    {
+        "written in ": null
+    },
+    {
+        "C": "C"
+    },
+    {
+        "uint32t a,uint32t b   uint32t t1, t2; // unsigned 32-bit intermediate values     t1 a + 0x06666666;   t2 t1 b; // sum without carry propagation   t1 t1 + b; // provisional sum   t2 t1 t2; // all the binary carry bits   t2 ~t2 & 0x11111110; // just the BCD carry bits   t2 ": null
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "abstract algebra": "Abstract Algebra"
+    },
+    {
+        ", a monoid ring is a ": null
+    },
+    {
+        "ring": "Ring"
+    },
+    {
+        " constructed from a ring and a ": null
+    },
+    {
+        "monoid": "Monoid"
+    },
+    {
+        ", just as a ": null
+    },
+    {
+        "group ring": "Group Ring"
+    },
+    {
+        " is constructed from a ring and a ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        ".       Let R be a ring and let G be a monoid. The monoid ring or monoid algebra of G over R, denoted RG or RG, is the set of formal sums   rg g ,   where rg   R for each g   G and r g 0 for all but finitely many g, equipped with coefficient-wise addition, and the multiplication in which the elements of R commute with the elements of G. More formally, RG is the set of functions  such that  is finite, equipped with addition of functions, and with multiplication defined by   :       .   If G is a ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        ", then RG is also called the ": null
+    },
+    {
+        "group ring": "Group Ring"
+    },
+    {
+        " of G over R.       Given R and G, there is a ": null
+    },
+    {
+        "ring homomorphism": "Ring Homomorphism"
+    },
+    {
+        "  sending each r to r1 ,   and a ": null
+    },
+    {
+        "monoid homomorphism": "Monoid Homomorphism"
+    },
+    {
+        "  sending each g to 1g .   We have that α commutes with β for all r in R and g in G.     The universal property of the monoid ring states that given a ring S, a ring homomorphism , and a monoid homomorphism  to the multiplicative monoid of S,   such that α commutes with β for all r in R and g in G, there is a unique ring homomorphism  such that composing α and β with γ produces α and β   .         The augmentation is the ring homomorphism  defined by   :     rg.     The ": null
+    },
+    {
+        "kernel": "Kernel"
+    },
+    {
+        " of  & eta; is called the augmentation ideal. It is a ": null
+    },
+    {
+        "free": "Free Module"
+    },
+    {
+        " R-": null
+    },
+    {
+        "module": "Module"
+    },
+    {
+        " with basis consisting of 1  –  g for all g in G not equal to 1.         Given a ring R and the monoid of ": null
+    },
+    {
+        "natural numbers": "Natural Number"
+    },
+    {
+        " N , we obtain the ring R : Rx of ": null
+    },
+    {
+        "polynomials": "Polynomial"
+    },
+    {
+        "over R.   The monoid N n gives the polynomial ring with n variables: RN n : RX 1 , ..., X n .       If G is a ": null
+    },
+    {
+        "semigroup": "Semigroup"
+    },
+    {
+        ", the same construction yields a semigroup ring RG": null
+    }
+]

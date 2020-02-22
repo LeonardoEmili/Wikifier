@@ -1,0 +1,509 @@
+[
+    {
+        "     In the ": null
+    },
+    {
+        "mathematical": "Mathematics"
+    },
+    {
+        " field of ": null
+    },
+    {
+        "representation theory": "Representation Theory"
+    },
+    {
+        ", group representations describe abstract ": null
+    },
+    {
+        "groups": "Group"
+    },
+    {
+        " in terms of ": null
+    },
+    {
+        "bijective": "Bijective"
+    },
+    {
+        "linear transformations": "Linear Transformation"
+    },
+    {
+        "  of ": null
+    },
+    {
+        "vector space": "Vector Space"
+    },
+    {
+        "s; in particular, they can be used to represent group elements as ": null
+    },
+    {
+        "invertible matrices": "Invertible Matrix"
+    },
+    {
+        " so that the group operation can be represented by ": null
+    },
+    {
+        "matrix multiplication": "Matrix Multiplication"
+    },
+    {
+        ". Representations of groups are important because they allow many ": null
+    },
+    {
+        "group-theoretic": "Group Theory"
+    },
+    {
+        " problems to be ": null
+    },
+    {
+        "reduced": "Reduction"
+    },
+    {
+        " to problems in ": null
+    },
+    {
+        "linear algebra": "Linear Algebra"
+    },
+    {
+        ", which is well understood. They are also important in ": null
+    },
+    {
+        "physics": "Physics"
+    },
+    {
+        " because, for example, they describe how the ": null
+    },
+    {
+        "symmetry group": "Symmetry Group"
+    },
+    {
+        " of a physical system affects the solutions of equations describing that system.     The term representation of a group is also used in a more general sense to mean any description of a group as a group of transformations of some mathematical object. More formally, a representation means a ": null
+    },
+    {
+        "homomorphism": "Homomorphism"
+    },
+    {
+        " from the group to the ": null
+    },
+    {
+        "automorphism group": "Automorphism Group"
+    },
+    {
+        " of an object. If the object is a vector space we have a linear representation. Some people use realization for the general notion and reserve the term representation for the special case of linear representations. The bulk of this article describes linear representation theory; see the last section for generalizations.       The representation theory of groups divides into subtheories depending on the kind of group being represented. The various theories are quite different in detail, though some basic definitions and concepts are similar. The most important divisions are:      Finite group s   Group representations are a very important tool in the study of finite groups. They also arise in the applications of finite group theory to ": null
+    },
+    {
+        "crystallography": "Crystallography"
+    },
+    {
+        " and to geometry. If the ": null
+    },
+    {
+        "field": "Field"
+    },
+    {
+        " of scalars of the vector space has ": null
+    },
+    {
+        "characteristic": "Characteristic"
+    },
+    {
+        " p, and if p divides the order of the group, then this is called  modular representation theory ; this special case has very different properties. See ": null
+    },
+    {
+        "Representation theory of finite groups": "Representation Theory Of Finite Groups"
+    },
+    {
+        ".    Compact group s or locally compact group s   Many of the results of finite group representation theory are proved by averaging over the group. These proofs can be carried over to infinite groups by replacement of the average with an integral, provided that an acceptable notion of integral can be defined. This can be done for locally compact groups, using ": null
+    },
+    {
+        "Haar measure": "Haar Measure"
+    },
+    {
+        ". The resulting theory is a central part of ": null
+    },
+    {
+        "harmonic analysis": "Harmonic Analysis"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "Pontryagin duality": "Pontryagin Duality"
+    },
+    {
+        " describes the theory for commutative groups, as a generalised ": null
+    },
+    {
+        "Fourier transform": "Fourier Transform"
+    },
+    {
+        ". See also: ": null
+    },
+    {
+        "Peter–Weyl theorem": "Peter–Weyl Theorem"
+    },
+    {
+        ".    Lie groups    Many important Lie groups are compact, so the results of compact representation theory apply to them. Other techniques specific to Lie groups are used as well. Most of the groups important in physics and chemistry are Lie groups, and their representation theory is crucial to the application of group theory in those fields. See ": null
+    },
+    {
+        "Representations of Lie groups": "Representations Of Lie Groups"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Representations of Lie algebras": "Representations Of Lie Algebras"
+    },
+    {
+        ".    Linear algebraic group s    These are the analogues of Lie groups, but over more general fields than just R or C. Although linear algebraic groups have a classification that is very similar to that of Lie groups, and give rise to the same families of Lie algebras, their representations are rather different . The analytic techniques used for studying Lie groups must be replaced by techniques from ": null
+    },
+    {
+        "algebraic geometry": "Algebraic Geometry"
+    },
+    {
+        ", where the relatively weak ": null
+    },
+    {
+        "Zariski topology": "Zariski Topology"
+    },
+    {
+        " causes many technical complications.   Non-compact topological groups   The class of non-compact groups is too broad to construct any general representation theory, but specific special cases have been studied, sometimes using ad hoc techniques. The semisimple Lie groups have a deep theory, building on the compact case. The complementary solvable Lie groups cannot be classified in the same way. The general theory for Lie groups deals with ": null
+    },
+    {
+        "semidirect products": "Semidirect Product"
+    },
+    {
+        "of the two types, by means of general results called  Mackey theory , which is a generalization of ": null
+    },
+    {
+        "Wigners classification": "Wigners Classification"
+    },
+    {
+        " methods.     Representation theory also depends heavily on the type of ": null
+    },
+    {
+        "vector space": "Vector Space"
+    },
+    {
+        " on which the group acts. One distinguishes between finite-dimensional representations and infinite-dimensional ones. In the infinite-dimensional case, additional structures are important .     One must also consider the type of ": null
+    },
+    {
+        "field": "Field"
+    },
+    {
+        " over which the vector space is defined. The most important case is the field of ": null
+    },
+    {
+        "complex number": "Complex Number"
+    },
+    {
+        "s. The other important cases are the field of ": null
+    },
+    {
+        "real numbers": "Real Numbers"
+    },
+    {
+        ", ": null
+    },
+    {
+        "finite field": "Finite Field"
+    },
+    {
+        "s, and fields of ": null
+    },
+    {
+        "p-adic number": "P-Adic Number"
+    },
+    {
+        "s. In general, ": null
+    },
+    {
+        "algebraically closed": "Algebraically Closed"
+    },
+    {
+        " fields are easier to handle than non-algebraically closed ones. The ": null
+    },
+    {
+        "characteristic": "Characteristic"
+    },
+    {
+        " of the field is also significant; many theorems for finite groups depend on the characteristic of the field not dividing the ": null
+    },
+    {
+        "order of the group": "Order"
+    },
+    {
+        ".       A representation of a ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        " G on a ": null
+    },
+    {
+        "vector space": "Vector Space"
+    },
+    {
+        " V over a ": null
+    },
+    {
+        "field": "Field"
+    },
+    {
+        " K is a ": null
+    },
+    {
+        "group homomorphism": "Group Homomorphism"
+    },
+    {
+        " from G to GL, the ": null
+    },
+    {
+        "general linear group": "General Linear Groupgeneral Linear Group Of A Vector Space"
+    },
+    {
+        " on V. That is, a representation is a map   :     G       such that   :       ,       G.     Here V is called the representation space and the dimension of V is called the dimension of the representation. It is common practice to refer to V itself as the representation when the homomorphism is clear from the context.     In the case where V is of finite dimension n it is common to choose a ": null
+    },
+    {
+        "basis": "Basis"
+    },
+    {
+        " for V and identify GL with , the group of n-by-n ": null
+    },
+    {
+        "invertible matrices": "Invertible Matrix"
+    },
+    {
+        " on the field K.     If G is a topological group and V is a ": null
+    },
+    {
+        "topological vector space": "Topological Vector Space"
+    },
+    {
+        ", a continuous representation of G on V is a representation ρ such that the application  defined by  is ": null
+    },
+    {
+        "continuous": "Continuous Function"
+    },
+    {
+        ".   The kernel of a representation ρ of a group G is defined as the normal subgroup of G whose image under ρ is the identity transformation:   ::           : A ": null
+    },
+    {
+        "faithful representation": "Faithful Representation"
+    },
+    {
+        " is one in which the homomorphism  is ": null
+    },
+    {
+        "injective": "Injective"
+    },
+    {
+        "; in other words, one whose kernel is the trivial subgroup  consisting only of the groups identity element.     Given two K vector spaces V and W, two representations  and  are said to be equivalent or isomorphic if there exists a vector space ": null
+    },
+    {
+        "isomorphism": "Isomorphism"
+    },
+    {
+        "  so that for all g in G,   ::                   Consider the complex number u e 2πi / 3 which has the property u 3 1. The ": null
+    },
+    {
+        "cyclic group": "Cyclic Group"
+    },
+    {
+        " C 3  has a representation ρ on C 2 given by:     :             1 & 0     0 & 1                       1 & 0     0 & u                       1 & 0     0 & u2             This representation is faithful because ρ is a ": null
+    },
+    {
+        "one-to-one map": "Injective"
+    },
+    {
+        ".     Another representation for C 3 on C 2 , isomorphic to the previous one, is σ given by:     :             1 & 0     0 & 1                       u & 0     0 & 1                       u2 & 0     0 & 1             The group C 3 may also be faithfully represented on R 2 by τ given by:     :             1 & 0     0 & 1                       a & -b     b & a                       a & b     -b & a             where     : a    b               A subspace W of V that is invariant under the ": null
+    },
+    {
+        "group action": "Group Action"
+    },
+    {
+        " is called a  subrepresentation . If V has exactly two subrepresentations, namely the zero-dimensional subspace and V itself, then the representation is said to be irreducible; if it has a proper subrepresentation of nonzero dimension, the representation is said to be reducible. The representation of dimension zero is considered to be neither reducible nor irreducible,  just like the number 1 is considered to be neither ": null
+    },
+    {
+        "composite": "Composite Number"
+    },
+    {
+        " nor ": null
+    },
+    {
+        "prime": "Prime Number"
+    },
+    {
+        ".     Under the assumption that the ": null
+    },
+    {
+        "characteristic": "Characteristic"
+    },
+    {
+        " of the field K does not divide the size of the group, representations of ": null
+    },
+    {
+        "finite groups": "Finite Group"
+    },
+    {
+        "can be decomposed into a ": null
+    },
+    {
+        "direct sum": "Direct Sum Of Groups"
+    },
+    {
+        " of irreducible subrepresentations . This holds in particular for any representation of a finite group over the ": null
+    },
+    {
+        "complex numbers": "Complex Numbers"
+    },
+    {
+        ", since the characteristic of the complex numbers is zero, which never divides the size of a group.     In the example above, the first two representations given are both decomposable into two 1-dimensional subrepresentations , while the third representation is irreducible.           A set-theoretic representation  of a ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        " G on a ": null
+    },
+    {
+        "set": "Set"
+    },
+    {
+        " X is given by a ": null
+    },
+    {
+        "function": "Function"
+    },
+    {
+        " ρ : G → X X , the set of ": null
+    },
+    {
+        "functions": "Function"
+    },
+    {
+        "from X to X, such that for all g 1 , g 2 in G and all x in XG. This condition and the axioms for a group imply that ρ is a ": null
+    },
+    {
+        "bijection": "Bijection"
+    },
+    {
+        "  for all g in G. Thus we may equivalently define a permutation representation to be a ": null
+    },
+    {
+        "group homomorphism": "Group Homomorphism"
+    },
+    {
+        " from G to the ": null
+    },
+    {
+        "symmetric group": "Symmetric Group"
+    },
+    {
+        " S X of X.     For more information on this topic see the article on ": null
+    },
+    {
+        "group action": "Group Action"
+    },
+    {
+        ".       Every group G can be viewed as a ": null
+    },
+    {
+        "category": "Category"
+    },
+    {
+        " with a single object; ": null
+    },
+    {
+        "morphisms": "Morphism"
+    },
+    {
+        "in this category are just the elements of G. Given an arbitrary category C, a representation of G in C is a ": null
+    },
+    {
+        "functor": "Functor"
+    },
+    {
+        " from G to C. Such a functor selects an object X in C and a group homomorphism from G to Aut, the ": null
+    },
+    {
+        "automorphism group": "Automorphism Group"
+    },
+    {
+        " of X.     In the case where C is Vect K , the ": null
+    },
+    {
+        "category of vector spaces": "Category Of Vector Spaces"
+    },
+    {
+        " over a field K, this definition is equivalent to a linear representation. Likewise, a set-theoretic representation is just a representation of G in the ": null
+    },
+    {
+        "category of sets": "Category Of Sets"
+    },
+    {
+        ".     When C is Ab, the ": null
+    },
+    {
+        "category of abelian groups": "Category Of Abelian Groups"
+    },
+    {
+        ", the objects obtained are called ": null
+    },
+    {
+        "G-modules": "G-Module"
+    },
+    {
+        ".     For another example consider the ": null
+    },
+    {
+        "category of topological spaces": "Category Of Topological Spaces"
+    },
+    {
+        ", Top. Representations in Top are homomorphisms from G to the ": null
+    },
+    {
+        "homeomorphism": "Homeomorphism"
+    },
+    {
+        " group of a topological space X.     Two types of representations closely related to linear representations are:   ": null
+    },
+    {
+        "projective representation": "Projective Representation"
+    },
+    {
+        "s: in the category of ": null
+    },
+    {
+        "projective space": "Projective Space"
+    },
+    {
+        "s. These can be described as linear representations ": null
+    },
+    {
+        "up to": "Up To"
+    },
+    {
+        " scalar transformations .   ": null
+    },
+    {
+        "affine representation": "Affine Representation"
+    },
+    {
+        "s: in the category of ": null
+    },
+    {
+        "affine space": "Affine Space"
+    },
+    {
+        "s. For example, the ": null
+    },
+    {
+        "Euclidean group": "Euclidean Group"
+    },
+    {
+        " acts affinely upon ": null
+    },
+    {
+        "Euclidean space": "Euclidean Space"
+    }
+]

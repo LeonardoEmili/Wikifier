@@ -1,0 +1,581 @@
+[
+    {
+        "        In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", a Lie algebra  is a ": null
+    },
+    {
+        "vector space": "Vector Space"
+    },
+    {
+        "   g together with a ": null
+    },
+    {
+        "non-associative": "Non-Associative Algebra"
+    },
+    {
+        " operation": "Binary Operation"
+    },
+    {
+        " called the Lie bracket, an ": null
+    },
+    {
+        "alternating bilinear map": "Alternating Multilinear Map"
+    },
+    {
+        "   g     g     g,     , satisfying the ": null
+    },
+    {
+        "Jacobi identity": "Jacobi Identity"
+    },
+    {
+        ".     Lie algebras are closely related to ": null
+    },
+    {
+        "Lie group": "Lie Group"
+    },
+    {
+        "s, which are ": null
+    },
+    {
+        "groups": "Group"
+    },
+    {
+        "that are also ": null
+    },
+    {
+        "smooth manifolds": "Smooth Manifolds"
+    },
+    {
+        "connected": "Connected Space"
+    },
+    {
+        " Lie group unique up to finite coverings . This ": null
+    },
+    {
+        "correspondence": "Lie Group–Lie Algebra Correspondence"
+    },
+    {
+        " allows one to study the structure and ": null
+    },
+    {
+        "classification": "List Of Simple Lie Groups"
+    },
+    {
+        " of Lie groups in terms of Lie algebras.     In physics, Lie groups appear as symmetry groups of physical systems, and their Lie algebras may be thought of as infinitesimal symmetry motions. Thus Lie algebras and their representations are used extensively in physics, notably in ": null
+    },
+    {
+        "quantum mechanics": "Hydrogen Atom"
+    },
+    {
+        " and particle physics.     An elementary example is the space of three dimensional vectors   with the bracket operation defined by the ": null
+    },
+    {
+        "cross product": "Cross Product"
+    },
+    {
+        "   y. This is skew-symmetric since x  y -y  x , and instead of associativity it satisfies the Jacobi identity: x        z   +  y  This is the Lie algebra of the Lie group of ": null
+    },
+    {
+        "rotations of space": "3D Rotation Group"
+    },
+    {
+        ", and each vector v  may be pictured as an infinitesimal rotation around the axis v, with velocity equal to the magnitude of v. The Lie bracket is a measure of the non-commutativity between two rotations: since a rotation commutes with itself, we have the alternating property   x 0 .       Lie algebras were introduced to study the concept of ": null
+    },
+    {
+        "infinitesimal transformations": "Infinitesimal Transformation"
+    },
+    {
+        "by ": null
+    },
+    {
+        "Marius Sophus Lie": "Sophus Lie"
+    },
+    {
+        " in the 1870s,  and independently discovered by ": null
+    },
+    {
+        "Wilhelm Killing": "Wilhelm Killing"
+    },
+    {
+        "  in the 1880s. The name Lie algebra was given by ": null
+    },
+    {
+        "Hermann Weyl": "Hermann Weyl"
+    },
+    {
+        " in the 1930s; in older texts, the term infinitesimal group is used.         A Lie algebra is a ": null
+    },
+    {
+        "vector space": "Vector Space"
+    },
+    {
+        "   over some ": null
+    },
+    {
+        "field": "Field"
+    },
+    {
+        "    allows more generally for a ": null
+    },
+    {
+        "module": "Module"
+    },
+    {
+        " over a ": null
+    },
+    {
+        "commutative ring": "Commutative Ring"
+    },
+    {
+        " with ": null
+    },
+    {
+        "unit element": "Ring Multiplicative Identity: Mandatory Vs. Optional"
+    },
+    {
+        ". together with a ": null
+    },
+    {
+        "binary operation": "Binary Operation"
+    },
+    {
+        "   called the Lie bracket satisfying the following axioms:     ": null
+    },
+    {
+        "Bilinearity": "Bilinear Operator"
+    },
+    {
+        ",   :: a + b   :: a + b   :for all scalars a, b in F and all elements x, y, z in   .     ": null
+    },
+    {
+        "Alternativity": "Alternatization"
+    },
+    {
+        ",   ::     :for all x in   .     The ": null
+    },
+    {
+        "Jacobi identity": "Jacobi Identity"
+    },
+    {
+        ",   :: x,y,z + z,x,y + y,z,x 0     :for all x, y, z in   .     Using bilinearity to expand the Lie bracket and using alternativity shows that +   for all elements x, y in   , showing that bilinearity and alternativity together imply   ": null
+    },
+    {
+        "Anticommutativity": "Anticommutativity"
+    },
+    {
+        ",   :: -     :for all elements x, y in   . If the fields ": null
+    },
+    {
+        "characteristic": "Characteristic"
+    },
+    {
+        " is not 2 then anticommutativity implies alternativity.      It is customary to denote a Lie algebra by a lower-case ": null
+    },
+    {
+        "fraktur": "Fraktur"
+    },
+    {
+        " letter such as   . If a Lie algebra is associated with a ": null
+    },
+    {
+        "Lie group": "Lie Group"
+    },
+    {
+        ", then the algebra is denoted by the fraktur version of the group: for example the Lie algebra of ": null
+    },
+    {
+        "SU": "Special Unitary Group"
+    },
+    {
+        " is   .       Elements of a Lie algebra   are said to ": null
+    },
+    {
+        "generate": "Generator"
+    },
+    {
+        " it if the smallest subalgebra containing these elements is   itself. The dimension of a Lie algebra is its dimension as a vector space over F. The cardinality of a minimal generating set of a Lie algebra is always less than or equal to its dimension.     See the ": null
+    },
+    {
+        "classification of low-dimensional real Lie algebras": "Classification Of Low-Dimensional Real Lie Algebras"
+    },
+    {
+        " for other small examples.       The Lie bracket is not ": null
+    },
+    {
+        "associative": "Associative"
+    },
+    {
+        ", meaning that z need not equal x,y,z .  Nonetheless, much of the terminology of associative ": null
+    },
+    {
+        "rings": "Ring"
+    },
+    {
+        " and ": null
+    },
+    {
+        "algebras": "Associative Algebra"
+    },
+    {
+        "is commonly applied to Lie algebras. A Lie subalgebra is a subspace       which is closed under the Lie bracket. An ideal   i  is a subalgebra satisfying the stronger condition: Due to the anticommutativity of the commutator, the notions of a left and right ideal in a Lie algebra coincide.     : subseteq   i.     A Lie algebra homomorphism is a linear map compatible with the respective Lie brackets:     :               x,y     g.     As for associative rings, ideals are precisely the kernels of homomorphisms; given a Lie algebra   and an ideal   i in it, one constructs the factor algebra or quotient algebra   i , and the ": null
+    },
+    {
+        "first isomorphism theorem": "First Isomorphism Theorem"
+    },
+    {
+        " holds for Lie algebras.     Since the Lie bracket is a kind of infinitesimal ": null
+    },
+    {
+        "commutator": "Commutator"
+    },
+    {
+        " of the corresponding Lie group, we say that two elements x,y  g commute if their bracket vanishes: .     The ": null
+    },
+    {
+        "centralizer": "Centralizer"
+    },
+    {
+        " subalgebra of a subset S    is the set of elements commuting with Scenter   . Similarly, for a subspace S, the ": null
+    },
+    {
+        "normalizer": "Normalizer"
+    },
+    {
+        " subalgebra of S is     .  Equivalently, if S is a Lie subalgebra,   is the largest subalgebra such that S is an ideal of   .       For two Lie algebras   and   , their ": null
+    },
+    {
+        "direct sum": "Direct Sum Of Modules"
+    },
+    {
+        " Lie algebra is the vector space     consisting of all pairs       x  , with the operation     :     so that the copies of   g,   g commute with each other: 0. Let   be a Lie algebra and   an ideal of   . If the canonical map       splits , then   is said to be a ": null
+    },
+    {
+        "semidirect product": "Semidirect Product"
+    },
+    {
+        " of   and   ,   . See also ": null
+    },
+    {
+        "semidirect sum of Lie algebras": "Lie Algebra Extensionby Semidirect Sum"
+    },
+    {
+        ".     ": null
+    },
+    {
+        "Levis theorem": "Levis Theorem"
+    },
+    {
+        " says that a finite-dimensional Lie algebra is a semidirect product of its radical and the complementary subalgebra .       A ": null
+    },
+    {
+        "derivation": "Derivation"
+    },
+    {
+        " on the Lie algebra    is a ": null
+    },
+    {
+        "linear map": "Linear Map"
+    },
+    {
+        "     that obeys the ": null
+    },
+    {
+        "Leibniz law": "General Leibniz Rule"
+    },
+    {
+        ", that is,   :   +     for all x,y  g . The inner derivation associated to any x  g is the adjoint mapping   defined by   . If   is ": null
+    },
+    {
+        "semisimple": "Semisimple Lie Algebra"
+    },
+    {
+        ", every derivation is inner.     The derivations form a vector space   , which is a Lie algebra under the commutator bracket       , where   denotes composition of mappings. The inner derivations form a Lie subalgebra of   .       Let V be a finite-dimensional vector space over a field F,   the Lie algebra of linear transformations and       a Lie subalgebra. Then   is said to be split if the roots of the characteristic polynomials of all linear transformations in   are in the base field F.  More generally, a finite-dimensional Lie algebra   is said to be split if it has a Cartan subalgebra   such that, for the ": null
+    },
+    {
+        "adjoint representation": "Adjoint Representation"
+    },
+    {
+        "         , the image   is split;  see ": null
+    },
+    {
+        "split Lie algebra": "Split Lie Algebra"
+    },
+    {
+        " for further information.             Any vector space V endowed with the identically zero Lie bracket becomes a Lie algebra. Such Lie algebras are called ": null
+    },
+    {
+        "abelian": "Abelian Group"
+    },
+    {
+        ", cf. below. Any one-dimensional Lie algebra over a field is abelian, by the alternating property of the Lie bracket.     On an ": null
+    },
+    {
+        "associative algebra": "Associative Algebra"
+    },
+    {
+        " A over a field F with multiplication   xy , a Lie bracket may be defined by the ": null
+    },
+    {
+        "commutator": "Commutatorring Theory"
+    },
+    {
+        " xy - yx . With this bracket, A is a Lie algebra.  The associative algebra A is called an enveloping algebra of the Lie algebra . Every Lie algebra can be embedded into one that arises from an associative algebra in this fashion; see ": null
+    },
+    {
+        "universal enveloping algebra": "Universal Enveloping Algebra"
+    },
+    {
+        ".   The associative algebra of ": null
+    },
+    {
+        "endomorphisms": "Endomorphism"
+    },
+    {
+        "of an F-vector space E with the above Lie bracket is denoted   .   For a finite dimensional vector space E Fn , the previous example becomes the Lie algebra of n × n matrices, denoted   or   ,  with the bracket   Y-Y  X , where   denotes matrix multiplication. This is the Lie algebra of the ": null
+    },
+    {
+        "general linear group": "General Linear Group"
+    },
+    {
+        ", consisting of invertible matrices.       Two important subalgebras of   are:     The matrices of ": null
+    },
+    {
+        "trace": "Trace"
+    },
+    {
+        " zero form the ": null
+    },
+    {
+        "special linear Lie algebra": "Special Linear Lie Algebra"
+    },
+    {
+        "   , the Lie algebra of the ": null
+    },
+    {
+        "special linear group": "Special Linear Group"
+    },
+    {
+        "   . Humphreys p.2   The ": null
+    },
+    {
+        "skew-hermitian": "Skew-Hermitian"
+    },
+    {
+        " matrices form the unitary Lie algebra   u , the Lie algebra of the ": null
+    },
+    {
+        "unitary group": "Unitary Group"
+    },
+    {
+        "  U.         A complex ": null
+    },
+    {
+        "matrix group": "Linear Group"
+    },
+    {
+        " is a Lie group consisting of matrices, G  Mn , where the multiplication of G is matrix multiplication. The corresponding Lie algebra   g is the space of matrices which are tangent vectors to G inside the linear space Mn : this consists of derivatives of smooth curves in G at the identity:     The Lie bracket of   is given by the commutator of matrices, Y-YX . Given the Lie algebra, one can recover the Lie group as the image of the ": null
+    },
+    {
+        "matrix exponential": "Matrix Exponential"
+    },
+    {
+        " mapping   Mn  Mn defined by   I + X +   , which converges for every matrix X : that is, G  .   The following are examples of Lie algebras of matrix Lie groups:  Section 3.4     The ": null
+    },
+    {
+        "special linear group": "Special Linear Group"
+    },
+    {
+        " n , consisting of all n  ×  n matrices with determinant 1. Its Lie algebra   consists of all n  ×  n matrices with real entries and trace 0. Similarly, one can define the corresponding real Lie group n and its Lie algebra   .   The ": null
+    },
+    {
+        "unitary group": "Unitary Group"
+    },
+    {
+        " U consists of n  ×  n unitary matrices . Its Lie algebra   consists of skew-self-adjoint matrices .   The special ": null
+    },
+    {
+        "orthogonal": "Orthogonal Group"
+    },
+    {
+        " group   , consisting of real determinant-one orthogonal matrices . Its Lie algebra   consists of real skew-symmetric matrices . The full orthogonal group   , without the determinant-one condition, consists of   and a separate connected component, so it has the same Lie algebra as   . Similarly, one can define a complex version of this group and algebra, simply by allowing complex matrix entries.         On any field F there is, up to isomorphism, a single two-dimensional nonabelian Lie algebra. With generators x, y, its bracket is defined as   y . It generates the ": null
+    },
+    {
+        "affine group in one dimension": "Affine Groupmatrix Representation"
+    },
+    {
+        ".     :This can be realized by the matrices:   :: x     y     Since   :       for any natural number n and any c , one sees that the resulting Lie group elements are upper triangular 2×2 matrices with unit lower diagonal:   ::     1 +   +           The ": null
+    },
+    {
+        "Heisenberg algebra": "Heisenberg Algebra"
+    },
+    {
+        " 3 is a three-dimensional Lie algebra generated by elements ,  and  with Lie brackets     :: ,  ,   .   :It is realized as the space of 3 & times;3 strictly upper-triangular matrices, with the commutator Lie bracket:   ::   x     y     z         :Any element of the ": null
+    },
+    {
+        "Heisenberg group": "Heisenberg Group"
+    },
+    {
+        " is thus representable as a product of group generators, i.e., ": null
+    },
+    {
+        "matrix exponentials": "Matrix Exponential"
+    },
+    {
+        "of these Lie algebra generators,   ::   e e e~.       The Lie algebra   of the group SO is spanned by the three matrices  Example 3.27   ::   F1     F2     F3       :The commutation relations among these generators are   :: F3,   :: F1,   :: F2.   ::   :The three-dimensional ": null
+    },
+    {
+        "Euclidean space": "Euclidean Space"
+    },
+    {
+        "   with the Lie bracket given by the ": null
+    },
+    {
+        "cross product": "Cross Product"
+    },
+    {
+        " of ": null
+    },
+    {
+        "vectors": "Vector"
+    },
+    {
+        " has the same commutation relations as above: thus, it is isomorphic to   . This Lie algebra is unitarily equivalent to the usual ": null
+    },
+    {
+        "Spin ": "Spin"
+    },
+    {
+        " angular-momentum component operators for spin-1 particles in ": null
+    },
+    {
+        "quantum mechanics": "Quantum Mechanics"
+    },
+    {
+        ".         An important class of infinite-dimensional real Lie algebras arises in ": null
+    },
+    {
+        "differential topology": "Differential Topology"
+    },
+    {
+        ". The space of smooth ": null
+    },
+    {
+        "vector fields": "Vector Field"
+    },
+    {
+        "on a ": null
+    },
+    {
+        "differentiable manifold": "Differentiable Manifold"
+    },
+    {
+        " M forms a Lie algebra, where the Lie bracket is defined to be the ": null
+    },
+    {
+        "commutator of vector fields": "Lie Bracket Of Vector Fields"
+    },
+    {
+        ". One way of expressing the Lie bracket is through the formalism of ": null
+    },
+    {
+        "Lie derivative": "Lie Derivative"
+    },
+    {
+        "s, which identifies a vector field X with a first order partial differential operator L X acting on smooth functions by letting L X  be the directional derivative of the function f in the direction of X. The Lie bracket X,Y of two vector fields is the vector field defined through its action on functions by the formula:   \t   :: LfLX-LY.      ": null
+    },
+    {
+        "Kac–Moody algebras": "Kac–Moody Algebra"
+    },
+    {
+        " are a large class of infinite-dimensional Lie algebras whose structure is very similar to the finite-dimensional cases above.   The ": null
+    },
+    {
+        "Moyal algebra": "Moyal Bracket"
+    },
+    {
+        " is an infinite-dimensional Lie algebra that contains all ": null
+    },
+    {
+        "classical Lie algebras": "Classical Lie Groupsrelationship With Bilinear Forms"
+    },
+    {
+        "as subalgebras.   The ": null
+    },
+    {
+        "Virasoro algebra": "Virasoro Algebra"
+    },
+    {
+        " is of paramount importance in ": null
+    },
+    {
+        "string theory": "String Theory"
+    },
+    {
+        ".              Given a vector space V, let   denote the Lie algebra consisting of all linear ": null
+    },
+    {
+        "endomorphisms": "Endomorphism"
+    },
+    {
+        "of V, with bracket given by Y-YX . A representation of a Lie algebra   on V is a Lie algebra homomorphism   :     g         A representation is said to be faithful if its kernel is zero. ": null
+    },
+    {
+        "Ados theorem": "Ados Theorem"
+    },
+    {
+        "  states that every finite-dimensional Lie algebra has a faithful representation on a finite-dimensional vector space.       For any Lie algebra   , we can define a representation   :         given by   ; it is a representation on the vector space   called the ": null
+    },
+    {
+        "adjoint representation": "Adjoint Representation Of A Lie Algebra"
+    },
+    {
+        ".       One important aspect of the study of Lie algebras is the study of their representations. Although Ados theorem is an important result, the primary goal of representation theory is not to find a faithful representation of a given Lie algebra   . Indeed, in the semisimple case, the adjoint representation is already faithful. Rather the goal is to understand all possible representation of   , up to the natural notion of equivalence. In the semisimple case, ": null
+    },
+    {
+        "Weyls theorem": "Weyls Theorem On Complete Reducibility"
+    },
+    {
+        "  says that every finite-dimensional representation is a direct sum of irreducible representations . The irreducible representations, in turn, are classified by a ": null
+    },
+    {
+        "theorem of the highest weight": "Lie Algebra Representationclassifying Finite-Dimensional Representations Of Lie Algebras"
+    },
+    {
+        ".       The representation theory of Lie algebras plays an important role in various parts of theoretical physics. There, one considers operators on the space of states that satisfy certain natural commutation relations. These commutation relations typically come from a symmetry of the problem—specifically, they are the relations of the Lie algebra of the relevant symmetry group. An example would be the ": null
+    },
+    {
+        "angular momentum operator": "Angular Momentum Operator"
+    },
+    {
+        "s, whose commutation relations are those of the Lie algebra   of the ": null
+    },
+    {
+        "rotation group SO": "Rotation Group So"
+    },
+    {
+        ". Typically, the space of states is very far from being irreducible under the pertinent operators, but one can attempt to decompose it into irreducible pieces. In doing so, one needs to know the irreducible representations of the given Lie algebra. In the study of the quantum ": null
+    },
+    {
+        "hydrogen atom": "Hydrogen-Like Atom"
+    },
+    {
+        ", for example, quantum mechanics textbooks give a classification of the irreducible representations of the Lie algebra   .         Lie algebras can be classified to some extent. In particular, this has an application to the classification of Lie groups.       Analogously to abelian, nilpotent, and solvable groups, defined in terms of the derived subgroups, one can define abelian, nilpotent, and solvable Lie algebras.     A Lie algebra   is abelian if the Lie bracket vanishes, i.e. x,y 0, for all x and y in   . Abelian Lie algebras correspond to commutative  connected Lie groups such as vector spaces   or ": null
+    },
+    {
+        "tori": "Torus"
+    },
+    {
+        "   , and are all of the form   meaning an n-dimensional vector space with the trivial Lie bracket.     A more general class of Lie algebras is defined by the vanishing of all commutators of given length. A Lie algebra   is  nilpotent  if the ": null
+    },
+    {
+        "lower central series": "Lower Central Series"
+    },
+    {
+        "     :   ": null
+    }
+]

@@ -1,0 +1,938 @@
+[
+    {
+        "        In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", a dynamical system is a system in which a ": null
+    },
+    {
+        "function": "Function"
+    },
+    {
+        " describes the ": null
+    },
+    {
+        "time": "Time"
+    },
+    {
+        " dependence of a ": null
+    },
+    {
+        "point": "Point"
+    },
+    {
+        " in a ": null
+    },
+    {
+        "geometrical space": "Manifold"
+    },
+    {
+        ". Examples include the ": null
+    },
+    {
+        "mathematical models": "Mathematical Model"
+    },
+    {
+        "that describe the swinging of a clock ": null
+    },
+    {
+        "pendulum": "Pendulum"
+    },
+    {
+        ", ": null
+    },
+    {
+        "the flow of water in a pipe": "Fluid Dynamics"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "the number of fish each springtime in a lake": "Population Dynamics"
+    },
+    {
+        ".     At any given time, a dynamical system has a ": null
+    },
+    {
+        "state": "State"
+    },
+    {
+        " given by a ": null
+    },
+    {
+        "tuple": "Tuple"
+    },
+    {
+        " of ": null
+    },
+    {
+        "real numbers": "Real Numbers"
+    },
+    {
+        "  that can be represented by a point in an appropriate ": null
+    },
+    {
+        "state space": "State Space"
+    },
+    {
+        " . The evolution rule of the dynamical system is a function that describes what future states follow from the current state. Often the function is ": null
+    },
+    {
+        "deterministic": "Deterministic System"
+    },
+    {
+        ", that is, for a given time interval only one future state follows from the current state.   However, some systems are ": null
+    },
+    {
+        "stochastic": "Stochastic System"
+    },
+    {
+        ", in that random events also affect the evolution of the state variables.     In ": null
+    },
+    {
+        "physics": "Physics"
+    },
+    {
+        ", a dynamical system is described as a particle or ensemble of particles whose state varies over time and thus obeys differential equations involving time derivatives.  In order to make a prediction about the systems future behavior, an analytical solution of such equations or their integration over time through computer simulation is realized.     The study of dynamical systems is the focus of ": null
+    },
+    {
+        "dynamical systems theory": "Dynamical Systems Theory"
+    },
+    {
+        ", which has applications to a wide variety of fields such as mathematics, physics,   ": null
+    },
+    {
+        "biology": "Biology"
+    },
+    {
+        ",  ": null
+    },
+    {
+        "chemistry": "Chemistry"
+    },
+    {
+        ", ": null
+    },
+    {
+        "engineering": "Engineering"
+    },
+    {
+        ",  ": null
+    },
+    {
+        "economics": "Economics"
+    },
+    {
+        ",  ": null
+    },
+    {
+        "history": "Cliodynamics"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "medicine": "Medicine"
+    },
+    {
+        ". Dynamical systems are a fundamental part of ": null
+    },
+    {
+        "chaos theory": "Chaos Theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "logistic map": "Logistic Map"
+    },
+    {
+        " dynamics, ": null
+    },
+    {
+        "bifurcation theory": "Bifurcation Theory"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "self-assembly": "Self-Assembly"
+    },
+    {
+        " and ": null
+    },
+    {
+        "self-organization": "Self-Organization"
+    },
+    {
+        " processes, and the ": null
+    },
+    {
+        "edge of chaos": "Edge Of Chaos"
+    },
+    {
+        " concept.       The concept of a dynamical system has its origins in ": null
+    },
+    {
+        "Newtonian mechanics": "Newtonian Mechanics"
+    },
+    {
+        ". There, as in other natural sciences and engineering disciplines, the evolution rule of dynamical systems is an implicit relation that gives the state of the system for only a short time into the future.  To determine the state for all future times requires iterating the relation many times  each advancing time a small step. The iteration procedure is referred to as solving the system or integrating the system. If the system can be solved, given an initial point it is possible to determine all its future positions, a collection of points known as a  trajectory  or  orbit .     Before the advent of ": null
+    },
+    {
+        "computers": "Computers"
+    },
+    {
+        ", finding an orbit required sophisticated mathematical techniques and could be accomplished only for a small class of dynamical systems. Numerical methods implemented on electronic computing machines have simplified the task of determining the orbits of a dynamical system.     For simple dynamical systems, knowing the trajectory is often sufficient, but most dynamical systems are too complicated to be understood in terms of individual trajectories. The difficulties arise because:   The systems studied may only be known approximately  the parameters of the system may not be known precisely or terms may be missing from the equations. The approximations used bring into question the validity or relevance of numerical solutions. To address these questions several notions of stability have been introduced in the study of dynamical systems, such as ": null
+    },
+    {
+        "Lyapunov stability": "Lyapunov Stability"
+    },
+    {
+        " or ": null
+    },
+    {
+        "structural stability": "Structural Stability"
+    },
+    {
+        ". The stability of the dynamical system implies that there is a class of models or initial conditions for which the trajectories would be equivalent. The operation for comparing orbits to establish their ": null
+    },
+    {
+        "equivalence": "Equivalence Relation"
+    },
+    {
+        " changes with the different notions of stability.   The type of trajectory may be more important than one particular trajectory. Some trajectories may be periodic, whereas others may wander through many different states of the system. Applications often require enumerating these classes or maintaining the system within one class. Classifying all possible trajectories has led to the qualitative study of dynamical systems, that is, properties that do not change under coordinate changes. ": null
+    },
+    {
+        "Linear dynamical systems": "Linear Dynamical System"
+    },
+    {
+        "and ": null
+    },
+    {
+        "systems that have two numbers describing a state": "Poincaré–Bendixson Theorem"
+    },
+    {
+        " are examples of dynamical systems where the possible classes of orbits are understood.   The behavior of trajectories as a function of a parameter may be what is needed for an application. As a parameter is varied, the dynamical systems may have ": null
+    },
+    {
+        "bifurcation points": "Bifurcation Theory"
+    },
+    {
+        " where the qualitative behavior of the dynamical system changes. For example, it may go from having only periodic motions to apparently erratic behavior, as in the ": null
+    },
+    {
+        "transition to turbulence of a fluid": "Turbulence"
+    },
+    {
+        ".   The trajectories of the system may appear erratic, as if random. In these cases it may be necessary to compute averages using one very long trajectory or many different trajectories. The averages are well defined for ": null
+    },
+    {
+        "ergodic systems": "Ergodic Theory"
+    },
+    {
+        " and a more detailed understanding has been worked out for ": null
+    },
+    {
+        "hyperbolic systems": "Anosov Diffeomorphism"
+    },
+    {
+        ". Understanding the probabilistic aspects of dynamical systems has helped establish the foundations of ": null
+    },
+    {
+        "statistical mechanics": "Statistical Mechanics"
+    },
+    {
+        " and of ": null
+    },
+    {
+        "chaos": "Chaos Theory"
+    },
+    {
+        ".         Many people regard French mathematician ": null
+    },
+    {
+        "Henri Poincaré": "Henri Poincaré"
+    },
+    {
+        " as the founder of dynamical systems. Holmes, Philip. Poincaré, celestial mechanics, dynamical-systems theory and chaos . Physics Reports 193.3 : 137-163. Poincaré published two now classical monographs, New Methods of Celestial Mechanics and Lectures on Celestial Mechanics . In them, he successfully applied the results of their research to the problem of the motion of three bodies and studied in detail the behavior of solutions . These papers included the ": null
+    },
+    {
+        "Poincaré recurrence theorem": "Poincaré Recurrence Theorem"
+    },
+    {
+        ", which states that certain systems will, after a sufficiently long but finite time, return to a state very close to the initial state.     ": null
+    },
+    {
+        "Aleksandr Lyapunov": "Aleksandr Lyapunov"
+    },
+    {
+        " developed many important approximation methods. His methods, which he developed in 1899, make it possible to define the stability of sets of ordinary differential equations. He created the modern theory of the stability of a dynamic system.     In 1913, ": null
+    },
+    {
+        "George David Birkhoff": "George David Birkhoff"
+    },
+    {
+        " proved Poincarés ": null
+    },
+    {
+        "Last Geometric Theorem": "Poincaré–Birkhoff Theorem"
+    },
+    {
+        " , a special case of the ": null
+    },
+    {
+        "three-body problem": "Three-Body Problem"
+    },
+    {
+        ", a result that made him world-famous. In 1927, he published his http://www.ams.org/onlinebks/coll9/ Dynamical SystemsBirkhoffs most durable result has been his 1931 discovery of what is now called the ": null
+    },
+    {
+        "ergodic theorem": "Ergodic Theorem"
+    },
+    {
+        ". Combining insights from ": null
+    },
+    {
+        "physics": "Physics"
+    },
+    {
+        " on the ": null
+    },
+    {
+        "ergodic hypothesis": "Ergodic Hypothesis"
+    },
+    {
+        " with ": null
+    },
+    {
+        "measure theory": "Measure Theory"
+    },
+    {
+        ", this theorem solved, at least in principle, a fundamental problem of ": null
+    },
+    {
+        "statistical mechanics": "Statistical Mechanics"
+    },
+    {
+        ". The ergodic theorem has also had repercussions for dynamics.     ": null
+    },
+    {
+        "Stephen Smale": "Stephen Smale"
+    },
+    {
+        " made significant advances as well. His first contribution is the ": null
+    },
+    {
+        "Smale horseshoe": "Horseshoe Map"
+    },
+    {
+        " that jumpstarted significant research in dynamical systems. He also outlined a research program carried out by many others.     ": null
+    },
+    {
+        "Oleksandr Mykolaiovych Sharkovsky": "Oleksandr Mykolaiovych Sharkovsky"
+    },
+    {
+        " developed ": null
+    },
+    {
+        "Sharkovskys theorem": "Sharkovskys Theorem"
+    },
+    {
+        " on the periods of ": null
+    },
+    {
+        "discrete dynamical systems": "Discrete Dynamical System"
+    },
+    {
+        "in 1964. One of the implications of the theorem is that if a discrete dynamical system on the ": null
+    },
+    {
+        "real line": "Real Line"
+    },
+    {
+        " has a ": null
+    },
+    {
+        "periodic point": "Periodic Point"
+    },
+    {
+        " of period  3, then it must have periodic points of every other period.     In the late 20th century, Palestinian mechanical engineer ": null
+    },
+    {
+        "Ali H. Nayfeh": "Ali H. Nayfeh"
+    },
+    {
+        " applied ": null
+    },
+    {
+        "nonlinear dynamics": "Nonlinear Dynamics"
+    },
+    {
+        " in ": null
+    },
+    {
+        "mechanical": "Mechanics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "engineering": "Engineering"
+    },
+    {
+        " systems.  His pioneering work in applied nonlinear dynamics has been influential in the construction and maintenance of ": null
+    },
+    {
+        "machines": "Machines"
+    },
+    {
+        " and ": null
+    },
+    {
+        "structures": "Structures"
+    },
+    {
+        " that are common in daily life, such as ": null
+    },
+    {
+        "ships": "Ships"
+    },
+    {
+        ", ": null
+    },
+    {
+        "cranes": "Crane"
+    },
+    {
+        ", ": null
+    },
+    {
+        "bridges": "Bridges"
+    },
+    {
+        ", ": null
+    },
+    {
+        "buildings": "Buildings"
+    },
+    {
+        ", ": null
+    },
+    {
+        "skyscrapers": "Skyscrapers"
+    },
+    {
+        ", ": null
+    },
+    {
+        "jet engines": "Jet Engines"
+    },
+    {
+        ", ": null
+    },
+    {
+        "rocket engines": "Rocket Engines"
+    },
+    {
+        ", ": null
+    },
+    {
+        "aircraft": "Aircraft"
+    },
+    {
+        " and ": null
+    },
+    {
+        "spacecraft": "Spacecraft"
+    },
+    {
+        ".           A dynamical system is a ": null
+    },
+    {
+        "manifold": "Manifold"
+    },
+    {
+        " M called the phase space endowed with a family of smooth evolution functions Φ t that for any element of t ∈ T, the time, map a point of the ": null
+    },
+    {
+        "phase space": "Phase Space"
+    },
+    {
+        " back into the phase space. The notion of smoothness changes with applications and the type of manifold. There are several choices for the set  T. When T is taken to be the reals, the dynamical system is called a  flow ; and if T is restricted to the non-negative reals, then the dynamical system is a semi-flow. When T is taken to be the integers, it is a cascade or a map; and the restriction to the non-negative integers is a semi-cascade.       The evolution function Φ  t is often the solution of a differential equation of motion     :   v.     The equation gives the time derivative, represented by the dot, of a trajectory x on the phase space starting at some point  x 0 . The ": null
+    },
+    {
+        "vector field": "Vector Field"
+    },
+    {
+        " v is a smooth function that at every point of the phase space M provides the velocity vector of the dynamical system at that point.  Given a smooth Φ  t , an autonomous vector field can be derived from it.     There is no need for higher order derivatives in the equation, nor for time dependence in v because these can be eliminated by considering systems of higher dimensions. Other types of ": null
+    },
+    {
+        "differential equations": "Differential Equations"
+    },
+    {
+        " can be used to define the evolution rule:     : G 0     is an example of an equation that arises from the modeling of mechanical systems with complicated constraints.     The differential equations determining the evolution function Φ  t are often ": null
+    },
+    {
+        "ordinary differential equation": "Ordinary Differential Equation"
+    },
+    {
+        "s; in this case the phase space M is a finite dimensional manifold. Many of the concepts in dynamical systems can be extended to infinite-dimensional manifolds  those that are locally ": null
+    },
+    {
+        "Banach spaces": "Banach Space"
+    },
+    {
+        " in which case the differential equations are ": null
+    },
+    {
+        "partial differential equation": "Partial Differential Equation"
+    },
+    {
+        "s. In the late 20th century the dynamical system perspective to partial differential equations started gaining popularity.        ": null
+    },
+    {
+        "Logistic map": "Logistic Map"
+    },
+    {
+        " Complex quadratic polynomial": "Complex Quadratic Polynomial"
+    },
+    {
+        " Dyadic transformation": "Dyadic Transformation"
+    },
+    {
+        " Tent map": "Tent Map"
+    },
+    {
+        " Double pendulum": "Double Pendulum"
+    },
+    {
+        " Arnolds cat map": "Arnolds Cat Map"
+    },
+    {
+        " Horseshoe map": "Horseshoe Map"
+    },
+    {
+        " Bakers map": "Bakers Map"
+    },
+    {
+        " is an example of a chaotic ": null
+    },
+    {
+        "piecewise linear": "Piecewise Linear Function"
+    },
+    {
+        " map   ": null
+    },
+    {
+        "Billiards": "Dynamical Billiards"
+    },
+    {
+        " and ": null
+    },
+    {
+        "outer billiards": "Dynamical Outer Billiards"
+    },
+    {
+        " Hénon map": "Hénon Map"
+    },
+    {
+        " Lorenz system": "Lorenz Attractor"
+    },
+    {
+        " Circle map": "Circle Map"
+    },
+    {
+        " Rössler map": "Rössler Map"
+    },
+    {
+        " Kaplan–Yorke map": "Kaplan–Yorke Map"
+    },
+    {
+        " List of chaotic maps": "List Of Chaotic Maps"
+    },
+    {
+        " Swinging Atwoods machine": "Swinging Atwoods Machine"
+    },
+    {
+        " Quadratic map simulation system": "Quadratic Map Simulation System"
+    },
+    {
+        " Bouncing ball dynamics": "Bouncing Ball Dynamics"
+    },
+    {
+        "             Linear dynamical systems can be solved in terms of simple functions and the behavior of all orbits classified. In a linear system the phase space is the N-dimensional Euclidean space, so any point in phase space can be represented by a vector with N numbers. The analysis of linear systems is possible because they satisfy a ": null
+    },
+    {
+        "superposition principle": "Superposition Principle"
+    },
+    {
+        "u and w satisfy the differential equation for the vector field , then so will u  +  w.       For a ": null
+    },
+    {
+        "flow": "Flow"
+    },
+    {
+        ", the vector field Φ is an ": null
+    },
+    {
+        "affine": "Affine Transformation"
+    },
+    {
+        " function of the position in the phase space, that is,   :     A x + b,   with A a matrix, b a vector of numbers and x the position vector. The solution to this system can be found by using the superposition principle .   The case b  ≠  0 with A    0 is just a straight line in the direction of  bb is zero and A  ≠  0 the origin is an equilibrium point of the flow, that is, if x 0    0, then the orbit remains there.   For other initial conditions, the equation of motion is given by the ": null
+    },
+    {
+        "exponential of a matrix": "Matrix Exponential"
+    },
+    {
+        "x 0 ,     :   e x0.     When b 0, the ": null
+    },
+    {
+        "eigenvalues": "Eigenvalue"
+    },
+    {
+        "of A determine the structure of the phase space. From the eigenvalues and the ": null
+    },
+    {
+        "eigenvectors": "Eigenvector"
+    },
+    {
+        "of A it is possible to determine if an initial point will converge or diverge to the equilibrium point at the origin.     The distance between two different initial conditions in the case A  ≠  0 will change exponentially in most cases, either converging exponentially fast towards a point, or diverging exponentially fast. Linear systems display sensitive dependence on initial conditions in the case of divergence. For nonlinear systems this is one of the conditions for ": null
+    },
+    {
+        "chaotic behavior": "Chaos Theory"
+    },
+    {
+        ".               A ": null
+    },
+    {
+        "discrete-time": "Discrete-Time Dynamical System"
+    },
+    {
+        ", ": null
+    },
+    {
+        "affine": "Affine Transformation"
+    },
+    {
+        " dynamical system has the form of a ": null
+    },
+    {
+        "matrix difference equation": "Matrix Difference Equation"
+    },
+    {
+        "A a matrix and b a vector. As in the continuous case, the change of coordinates x  →  x  +      1 b removes the term b from the equation. In the new ": null
+    },
+    {
+        "coordinate system": "Coordinate System"
+    },
+    {
+        ", the origin is a fixed point of the map and the solutions are of the linear system A  n x 0 .   The solutions for the map are no longer curves, but points that hop in the phase space. The orbits are organized in curves, or fibers, which are collections of points that map into themselves under the action of the map.     As in the continuous case, the eigenvalues and eigenvectors of A determine the structure of phase space. For example, if u 1 is an eigenvector of A, with a real eigenvalue smaller than one, then the straight lines given by the points along α  u 1 , with α  ∈  R, is an invariant curve of the map. Points in this straight line run into the fixed point.     There are also many ": null
+    },
+    {
+        "other discrete dynamical systems": "List Of Chaotic Maps"
+    },
+    {
+        ".       The qualitative properties of dynamical systems do not change under a smooth change of coordinates : a singular point of the vector field  will remain a singular point under smooth transformations; a periodic orbit is a loop in phase space and smooth deformations of the phase space cannot alter it being a loop. It is in the neighborhood of singular points and periodic orbits that the structure of a phase space of a dynamical system can be well understood. In the qualitative study of dynamical systems, the approach is to show that there is a change of coordinates that makes the dynamical system as simple as possible.       A flow in most small patches of the phase space can be made very simple. If y is a point where the vector field v  ≠  0, then there is a change of coordinates for a region around y where the vector field becomes a series of parallel vectors of the same magnitude. This is known as the rectification theorem.     The rectification theorem says that away from ": null
+    },
+    {
+        "singular points": "Mathematical Singularity"
+    },
+    {
+        " the dynamics of a point in a small patch is a straight line. The patch can sometimes be enlarged by stitching several patches together, and when this works out in the whole phase space M the dynamical system is integrable. In most cases the patch cannot be extended to the entire phase space. There may be singular points in the vector field ; or the patches may become smaller and smaller as some point is approached. The more subtle reason is a global constraint, where the trajectory starts out in a patch, and after visiting a series of other patches comes back to the original one. If the next time the orbit loops around phase space in a different way, then it is impossible to rectify the vector field in the whole series of patches.       In general, in the neighborhood of a periodic orbit the rectification theorem cannot be used. Poincaré developed an approach that transforms the analysis near a periodic orbit to the analysis of a map. Pick a point x 0 in the orbit γ and consider the points in phase space in that neighborhood that are perpendicular to v. These points are a ": null
+    },
+    {
+        "Poincaré section": "Poincaré Section"
+    },
+    {
+        " S, of the orbit. The flow now defines a map, the ": null
+    },
+    {
+        "Poincaré map": "Poincaré Map"
+    },
+    {
+        " F  :  S  →  S, for points starting in S and returning to  S. Not all these points will take the same amount of time to come back, but the times will be close to the time it takes  x 0 .     The intersection of the periodic orbit with the Poincaré section is a fixed point of the Poincaré map F. By a translation, the point can be assumed to be at x    0. The Taylor series of the map is F    J  ·  x  +  O, so a change of coordinates h can only be expected to simplify F to its linear part     : h   F   h J   x.     This is known as the conjugation equation. Finding conditions for this equation to hold has been one of the major tasks of research in dynamical systems. Poincaré first approached it assuming all functions to be analytic and in the process discovered the non-resonant condition. If λ 1 ,  ...,  λ ν are the eigenvalues of J they will be resonant if one eigenvalue is an integer linear combination of two or more of the others. As terms of the form λ i   ∑ occurs in the denominator of the terms for the function h, the non-resonant condition is also known as the small divisor problem.       The results on the existence of a solution to the conjugation equation depend on the eigenvalues of J and the degree of smoothness required from h. As J does not need to have any special symmetries, its eigenvalues will typically be complex numbers. When the eigenvalues of J are not in the unit circle, the dynamics near the fixed point x 0 of F is called  hyperbolic  and when the eigenvalues are on the unit circle and complex, the dynamics is called elliptic.     In the hyperbolic case, the ": null
+    },
+    {
+        "Hartman–Grobman theorem": "Hartman–Grobman Theorem"
+    },
+    {
+        " gives the conditions for the existence of a continuous function that maps the neighborhood of the fixed point of the map to the linear map J  ·  x. The hyperbolic case is also structurally stable. Small changes in the vector field will only produce small changes in the Poincaré map and these small changes will reflect in small changes in the position of the eigenvalues of J in the complex plane, implying that the map is still hyperbolic.     The ": null
+    },
+    {
+        "Kolmogorov–Arnold–Moser ": "Kolmogorov–Arnold–Moser Theorem"
+    },
+    {
+        " theorem gives the behavior near an elliptic point.          When the evolution map Φ t  depends on a parameter μ, the structure of the phase space will also depend on this parameter. Small changes may produce no qualitative changes in the ": null
+    },
+    {
+        "phase space": "Phase Space"
+    },
+    {
+        " until a special value μ 0 is reached. At this point the phase space changes qualitatively and the dynamical system is said to have gone through a bifurcation.     Bifurcation theory considers a structure in phase space  and studies its behavior as a function of the parameter  μ. At the bifurcation point the structure may change its stability, split into new structures, or merge with other structures. By using Taylor series approximations of the maps and an understanding of the differences that may be eliminated by a change of coordinates, it is possible to catalog the bifurcations of dynamical systems.     The bifurcations of a hyperbolic fixed point x 0 of a system family F μ  can be characterized by the ": null
+    },
+    {
+        "eigenvalues": "Eigenvalues"
+    },
+    {
+        " of the first derivative of the system DF μ  computed at the bifurcation point. For a map, the bifurcation will occur when there are eigenvalues of DF μ  on the unit circle. For a flow, it will occur when there are eigenvalues on the imaginary axis. For more information, see the main article on ": null
+    },
+    {
+        "Bifurcation theory": "Bifurcation Theory"
+    },
+    {
+        ".     Some bifurcations can lead to very complicated structures in phase space. For example, the ": null
+    },
+    {
+        "Ruelle  Takens scenario": "Ruelle & Ndash;Takens Scenario"
+    },
+    {
+        " describes how a periodic orbit bifurcates into a torus and the torus into a ": null
+    },
+    {
+        "strange attractor": "Strange Attractor"
+    },
+    {
+        ". In another example, ": null
+    },
+    {
+        "Feigenbaum period-doubling": "Bifurcation Diagram"
+    },
+    {
+        " describes how a stable periodic orbit goes through a series of ": null
+    },
+    {
+        "period-doubling bifurcation": "Period-Doubling Bifurcation"
+    },
+    {
+        "s.          In many dynamical systems, it is possible to choose the coordinates of the system so that the volume in phase space is invariant. This happens for mechanical systems derived from Newtons laws as long as the coordinates are the position and the momentum and the volume is measured in units of  ×  . The flow takes points of a subset A into the points Φ  t  and invariance of the phase space means that   :     .   In the ": null
+    },
+    {
+        "Hamiltonian formalism": "Hamiltonian Mechanics"
+    },
+    {
+        ", given a coordinate it is possible to derive the appropriate momentum such that the associated volume is preserved by the flow. The volume is said to be computed by the ": null
+    },
+    {
+        "Liouville measure": "Liouvilles Theorem"
+    },
+    {
+        ".     In a Hamiltonian system, not all possible configurations of position and momentum can be reached from an initial condition. Because of energy conservation, only the states with the same energy as the initial condition are accessible. The states with the same energy form an energy shell Ω, a sub-manifold of the phase space. The volume of the energy shell, computed using the Liouville measure, is preserved under evolution.     For systems where the volume is preserved by the flow, Poincaré discovered the ": null
+    },
+    {
+        "recurrence theorem": "Poincaré Recurrence Theorem"
+    },
+    {
+        "F be a phase space volume-preserving map and A a subset of the phase space. Then almost every point of A returns to A infinitely often. The Poincaré recurrence theorem was used by ": null
+    },
+    {
+        "Zermelo": "Ernst Zermelo"
+    },
+    {
+        " to object to ": null
+    },
+    {
+        "Boltzmanns": "Ludwig Boltzmann"
+    },
+    {
+        "derivation of the increase in entropy in a dynamical system of colliding atoms.     One of the questions raised by Boltzmanns work was the possible equality between time averages and space averages, what he called the ": null
+    },
+    {
+        "ergodic hypothesis": "Ergodic Hypothesis"
+    },
+    {
+        ". The hypothesis states that the length of time a typical trajectory spends in a region A is vol/vol.     The ergodic hypothesis turned out not to be the essential property needed for the development of ": null
+    },
+    {
+        "statistical mechanics": "Statistical Mechanics"
+    },
+    {
+        " and a series of other ergodic-like properties were introduced to capture the relevant aspects of physical systems. ": null
+    },
+    {
+        "Koopman": "Bernard Koopman"
+    },
+    {
+        " approached the study of ergodic systems by the use of ": null
+    },
+    {
+        "functional analysis": "Functional Analysis"
+    },
+    {
+        ". An observable a is a function that to each point of the phase space associates a number . The value of an observable can be computed at another time by using the evolution function φ  t . This introduces an operator U  t , the ": null
+    },
+    {
+        "transfer operator": "Transfer Operator"
+    },
+    {
+        ",     : a.     By studying the spectral properties of the linear operator U it becomes possible to classify the ergodic properties of  Φ  t . In using the Koopman approach of considering the action of the flow on an observable function, the finite-dimensional nonlinear problem involving Φ  t gets mapped into an infinite-dimensional linear problem involving  U.     The Liouville measure restricted to the energy surface Ω is the basis for the averages computed in ": null
+    },
+    {
+        "equilibrium statistical mechanics": "Statistical Mechanics"
+    },
+    {
+        ". An average in time along a trajectory is equivalent to an average in space computed with the ": null
+    },
+    {
+        "Boltzmann factor exp": "Statistical Mechanicscanonical Ensemble"
+    },
+    {
+        ". This idea has been generalized by Sinai, Bowen, and Ruelle to a larger class of dynamical systems that includes dissipative systems. ": null
+    },
+    {
+        "SRB measures": "Srb Measure"
+    },
+    {
+        "replace the Boltzmann factor and they are defined on attractors of chaotic systems.          Simple nonlinear dynamical systems and even piecewise linear systems can exhibit a completely unpredictable behavior, which might seem to be random, despite the fact that they are fundamentally deterministic. This seemingly unpredictable behavior has been called  chaos . ": null
+    },
+    {
+        "Hyperbolic systems": "Anosov Diffeomorphism"
+    },
+    {
+        " are precisely defined dynamical systems that exhibit the properties ascribed to chaotic systems. In hyperbolic systems the tangent space perpendicular to a trajectory can be well separated into two parts: one with the points that converge towards the orbit  and another of the points that diverge from the orbit .     This branch of ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        " deals with the long-term qualitative behavior of dynamical systems. Here, the focus is not on finding precise solutions to the equations defining the dynamical system , but rather to answer questions like Will the system settle down to a ": null
+    },
+    {
+        "steady state": "Steady State"
+    },
+    {
+        " in the long term, and if so, what are the possible ": null
+    },
+    {
+        "attractor": "Attractor"
+    },
+    {
+        "s? or Does the long-term behavior of the system depend on its initial condition?     Note that the chaotic behavior of complex systems is not the issue. ": null
+    },
+    {
+        "Meteorology": "Meteorology"
+    },
+    {
+        " has been known for years to involve complex  even chaotic  behavior. Chaos theory has been so surprising because chaos can be found within almost trivial systems. The ": null
+    },
+    {
+        "logistic map": "Logistic Map"
+    },
+    {
+        " is only a second-degree polynomial; the ": null
+    },
+    {
+        "horseshoe map": "Horseshoe Map"
+    },
+    {
+        " is piecewise linear.       A dynamical system is the tuple     f ,   , with   a manifold ,   the domain for time and f an evolution rule t  →  f  t such that f  t  is a ": null
+    },
+    {
+        "diffeomorphism": "Diffeomorphism"
+    },
+    {
+        " of the manifold to itself. So, f is a mapping of the time-domain   into the space of diffeomorphisms of the manifold to itself. In other terms, f is a diffeomorphism, for every time t in the domain   .          A dynamical system may be defined formally, as a measure-preserving transformation of a ": null
+    },
+    {
+        "sigma-algebra": "Sigma-Algebra"
+    },
+    {
+        ", the quadruplet . Here, X is a ": null
+    },
+    {
+        "set": "Set"
+    },
+    {
+        ", and Σ is a ": null
+    },
+    {
+        "sigma-algebra": "Sigma-Algebra"
+    },
+    {
+        " on X, so that the pair  is a measurable space. μ is a finite ": null
+    },
+    {
+        "measure": "Measure"
+    },
+    {
+        " on the sigma-algebra, so that the triplet  is a ": null
+    },
+    {
+        "probability space": "Measure Space"
+    },
+    {
+        ". A map τ: X → X is said to be ": null
+    },
+    {
+        "Σ-measurable": "Measurable Function"
+    },
+    {
+        " if and only if, for every σ ∈ Σ, one has       . A map τ is said to preserve the measure if and only if, for every σ ∈ Σ, one has     . Combining the above, a map τ is said to be a measure-preserving transformation of X , if it is a map from X to itself, it is Σ-measurable, and is measure-preserving. The quadruple , for such a τ, is then defined to be a dynamical system.     The map τ embodies the time evolution of the dynamical system. Thus, for discrete dynamical systems the ": null
+    },
+    {
+        "iterates": "Iterated Function"
+    },
+    {
+        "           for integer n are studied. For continuous dynamical systems, the map τ is understood to be a finite time evolution map and the construction is more complicated.        ": null
+    },
+    {
+        "Arnolds cat map": "Arnolds Cat Map"
+    },
+    {
+        " Bakers map": "Bakers Map"
+    },
+    {
+        " is an example of a chaotic piecewise linear map   ": null
+    },
+    {
+        "Circle map": "Circle Map"
+    },
+    {
+        " Double pendulum": "Double Pendulum"
+    },
+    {
+        " Billiards": "Dynamical Billiards"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Outer billiards": "Dynamical Outer Billiards"
+    },
+    {
+        " Hénon map": "Hénon Map"
+    },
+    {
+        " Horseshoe map": "Horseshoe Map"
+    },
+    {
+        " Irrational rotation": "Irrational Rotation"
+    },
+    {
+        " List of chaotic maps": "List Of Chaotic Maps"
+    },
+    {
+        " Logistic map": "Logistic Map"
+    },
+    {
+        " Lorenz system": "Lorenz Attractor"
+    },
+    {
+        " Rossler map": "Rossler Map"
+    },
+    {
+        "          Dynamical systems are defined over a single independent variable, usually thought of as time. A more general class of systems are defined over multiple independent variables and are therefore called ": null
+    },
+    {
+        "multidimensional systems": "Multidimensional Systems"
+    },
+    {
+        ". Such systems are useful for modeling, for example, ": null
+    },
+    {
+        "image processing": "Image Processing"
+    }
+]

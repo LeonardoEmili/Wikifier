@@ -1,0 +1,494 @@
+[
+    {
+        "      In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", cardinal numbers, or cardinals for short, are a generalization of the ": null
+    },
+    {
+        "natural numbers": "Natural Number"
+    },
+    {
+        "used to measure the ": null
+    },
+    {
+        "cardinality": "Cardinality"
+    },
+    {
+        " of ": null
+    },
+    {
+        "sets": "Set"
+    },
+    {
+        ". The cardinality of a ": null
+    },
+    {
+        "finite set": "Finite Set"
+    },
+    {
+        " is a natural number: the number of elements in the set. The  transfinite  cardinal numbers describe the sizes of ": null
+    },
+    {
+        "infinite set": "Infinite Set"
+    },
+    {
+        "s.     Cardinality is defined in terms of ": null
+    },
+    {
+        "bijective function": "Bijective Function"
+    },
+    {
+        "s. Two sets have the same cardinality if, and only if, there is a one-to-one correspondence between the elements of the two sets. In the case of finite sets, this agrees with the intuitive notion of size. In the case of infinite sets, the behavior is more complex. A fundamental theorem due to ": null
+    },
+    {
+        "Georg Cantor": "Georg Cantor"
+    },
+    {
+        " shows that it is possible for infinite sets to have different cardinalities, and in particular the cardinality of the set of ": null
+    },
+    {
+        "real numbers": "Real Number"
+    },
+    {
+        "is greater than the cardinality of the set of ": null
+    },
+    {
+        "natural number": "Natural Number"
+    },
+    {
+        "s. It is also possible for a ": null
+    },
+    {
+        "proper subset": "Proper Subset"
+    },
+    {
+        " of an infinite set to have the same cardinality as the original set, something that cannot happen with proper subsets of finite sets.     There is a transfinite sequence of cardinal numbers:   : 0, 1, 2, 3,   n,   ;               This sequence starts with the ": null
+    },
+    {
+        "natural numbers": "Natural Number"
+    },
+    {
+        "including zero , which are followed by the ": null
+    },
+    {
+        "aleph numbers": "Aleph Number"
+    },
+    {
+        " . The aleph numbers are indexed by ": null
+    },
+    {
+        "ordinal number": "Ordinal Number"
+    },
+    {
+        "s. Under the assumption of the ": null
+    },
+    {
+        "axiom of choice": "Axiom Of Choice"
+    },
+    {
+        ", this ": null
+    },
+    {
+        "transfinite sequence": "Transfinite Sequence"
+    },
+    {
+        " includes every cardinal number. If one ": null
+    },
+    {
+        "rejects": "Axiom Of Choiceindependence"
+    },
+    {
+        " that axiom, the situation is more complicated, with additional infinite cardinals that are not alephs.     ": null
+    },
+    {
+        "Cardinality": "Cardinality"
+    },
+    {
+        " is studied for its own sake as part of ": null
+    },
+    {
+        "set theory": "Set Theory"
+    },
+    {
+        ". It is also a tool used in branches of mathematics including ": null
+    },
+    {
+        "model theory": "Model Theory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "combinatorics": "Combinatorics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "abstract algebra": "Abstract Algebra"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "mathematical analysis": "Mathematical Analysis"
+    },
+    {
+        ". In ": null
+    },
+    {
+        "category theory": "Category Theory"
+    },
+    {
+        ", the cardinal numbers form a ": null
+    },
+    {
+        "skeleton": "Skeleton"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "category of sets": "Category Of Sets"
+    },
+    {
+        ".         The notion of cardinality, as now understood, was formulated by ": null
+    },
+    {
+        "Georg Cantor": "Georg Cantor"
+    },
+    {
+        ", the originator of ": null
+    },
+    {
+        "set theory": "Set Theory"
+    },
+    {
+        ", in 1874–1884. Cardinality can be used to compare an aspect of finite sets; e.g. the sets and are not equal, but have the same cardinality, namely three .     Cantor applied his concept of bijection to infinite sets;  e.g. the set of natural numbers N . Thus, all sets having a bijection with N he called ": null
+    },
+    {
+        "denumerable sets": "Countable Set"
+    },
+    {
+        " and they all have the same cardinal number. This cardinal number is called   , ": null
+    },
+    {
+        "aleph-null": "Aleph Number"
+    },
+    {
+        ". He called the cardinal numbers of these infinite sets ": null
+    },
+    {
+        "transfinite cardinal numbers": "Transfinite Cardinal Numbers"
+    },
+    {
+        ".     Cantor proved that any ": null
+    },
+    {
+        "unbounded subset": "Bounded Set"
+    },
+    {
+        " of N has the same cardinality as N, even though this might appear to run contrary to intuition. He also proved that the set of all ": null
+    },
+    {
+        "ordered pairs": "Ordered Pair"
+    },
+    {
+        "of natural numbers is denumerable; this implies that the set of all ": null
+    },
+    {
+        "rational numbers": "Rational Number"
+    },
+    {
+        "is also denumerable, since every rational can be represented by a pair of integers. He later proved that the set of all real ": null
+    },
+    {
+        "algebraic numbers": "Algebraic Number"
+    },
+    {
+        "is also denumerable. Each real algebraic number z may be encoded as a finite sequence of integers which are the coefficients in the polynomial equation of which it is a solution, i.e. the ordered n-tuple , a i  ∈ Z together with a pair of rationals  such that z is the unique root of the polynomial with coefficients  that lies in the interval .     In his 1874 paper ": null
+    },
+    {
+        "On a Property of the Collection of All Real Algebraic Numbers": "On A Property Of The Collection Of All Real Algebraic Numbers"
+    },
+    {
+        " , Cantor proved that there exist higher-order cardinal numbers by showing that the set of real numbers has cardinality greater than that of N. His proof used an argument with ": null
+    },
+    {
+        "nested intervals": "Nested Intervals"
+    },
+    {
+        ", but in an 1891 paper he proved the same result using his ingenious but simpler ": null
+    },
+    {
+        "diagonal argument": "Cantors Diagonal Argument"
+    },
+    {
+        ". The new cardinal number of the set of real numbers is called the ": null
+    },
+    {
+        "cardinality of the continuum": "Cardinality Of The Continuum"
+    },
+    {
+        " and Cantor used the symbol   for it.     Cantor also developed a large portion of the general theory of cardinal numbers; he proved that there is a smallest transfinite cardinal number , and that for every cardinal number there is a next-larger cardinal     : .     His ": null
+    },
+    {
+        "continuum hypothesis": "Continuum Hypothesis"
+    },
+    {
+        " is the proposition that   is the same as   . This hypothesis has been found to be independent of the standard axioms of mathematical set theory; it can neither be proved nor disproved from the standard assumptions.       In informal use, a cardinal number is what is normally referred to as a  counting number , provided that 0 is included: 0, 1, 2, .... They may be identified with the ": null
+    },
+    {
+        "natural numbers": "Natural Numbers"
+    },
+    {
+        " beginning with 0. The counting numbers are exactly what can be defined formally as the ": null
+    },
+    {
+        "finite": "Finite Set"
+    },
+    {
+        " cardinal numbers. Infinite cardinals only occur in higher-level mathematics and logic.     More formally, a non-zero number can be used for two purposes: to describe the size of a set, or to describe the position of an element in a sequence. For finite sets and sequences it is easy to see that these two notions coincide, since for every number describing a position in a sequence we can construct a set which has exactly the right size, e.g. 3 describes the position of c in the sequence , and we can construct the set which has 3 elements. However, when dealing with ": null
+    },
+    {
+        "infinite sets": "Infinite Set"
+    },
+    {
+        "it is essential to distinguish between the two — the two notions are in fact different for infinite sets. Considering the position aspect leads to ": null
+    },
+    {
+        "ordinal numbers": "Ordinal Numbers"
+    },
+    {
+        ", while the size aspect is generalized by the cardinal numbers described here.     The intuition behind the formal definition of cardinal is the construction of a notion of the relative size or bigness of a set without reference to the kind of members which it has. For finite sets this is easy; one simply counts the number of elements a set has. In order to compare the sizes of larger sets, it is necessary to appeal to more subtle notions.     A set Y is at least as big as a set X if there is an ": null
+    },
+    {
+        "injective": "Injective Function"
+    },
+    {
+        " mapping": "Map"
+    },
+    {
+        " from the elements of X to the elements of Y. An injective mapping identifies each element of the set X with a unique element of the set Y. This is most easily understood by an example; suppose we have the sets X and Y , then using this notion of size we would observe that there is a mapping:   : 1 → a   : 2 → b   : 3 → c   which is injective, and hence conclude that Y has cardinality greater than or equal to X. The element d has no element mapping to it, but this is permitted as we only require an injective mapping, and not necessarily an injective and ": null
+    },
+    {
+        "onto": "Onto"
+    },
+    {
+        " mapping. The advantage of this notion is that it can be extended to infinite sets.     We can then extend this to an equality-style relation. Two ": null
+    },
+    {
+        "sets": "Set"
+    },
+    {
+        " X and Y are said to have the same cardinality if there exists a ": null
+    },
+    {
+        "bijection": "Bijection"
+    },
+    {
+        " between X and Y. By the ": null
+    },
+    {
+        "Schroeder–Bernstein theorem": "Cantor–Bernstein–Schroeder Theorem"
+    },
+    {
+        ", this is equivalent to there being both an injective mapping from X to Y and an injective mapping from Y to X. We then write |X Y X itself is often defined as the least ordinal a with |a X ": null
+    },
+    {
+        "von Neumann cardinal assignment": "Von Neumann Cardinal Assignment"
+    },
+    {
+        "; for this definition to make sense, it must be proved that every set has the same cardinality as some ordinal; this statement is the ": null
+    },
+    {
+        "well-ordering principle": "Well-Ordering Principle"
+    },
+    {
+        ". It is however possible to discuss the relative cardinality of sets without explicitly assigning names to objects.     The classic example used is that of the infinite hotel paradox, also called ": null
+    },
+    {
+        "Hilberts paradox of the Grand Hotel": "Hilberts Paradox Of The Grand Hotel"
+    },
+    {
+        ". Supposing there is an innkeeper at a hotel with an infinite number of rooms. The hotel is full, and then a new guest arrives. It is possible to fit the extra guest in by asking the guest who was in room 1 to move to room 2, the guest in room 2 to move to room 3, and so on, leaving room 1 vacant. We can explicitly write a segment of this mapping:   : 1 → 2   : 2 → 3   : 3 → 4   : ...   : n → n + 1   : ...   In this way we can see that the set has the same cardinality as the set since a bijection between the first and the second has been shown. This motivates the definition of an infinite set being any set which has a proper subset of the same cardinality; in this case is a proper subset of .     When considering these large objects, we might also want to see if the notion of counting order coincides with that of cardinal defined above for these infinite sets. It happens that it does not; by considering the above example we can see that if some object one greater than infinity exists, then it must have the same cardinality as the infinite set we started out with. It is possible to use a different formal notion for number, called ": null
+    },
+    {
+        "ordinals": "Ordinal Number"
+    },
+    {
+        ", based on the ideas of counting and considering each number in turn, and we discover that the notions of cardinality and ordinality are divergent once we move out of the finite numbers.     It can be proved that the cardinality of the ": null
+    },
+    {
+        "real numbers": "Real Number"
+    },
+    {
+        "is greater than that of the natural numbers just described. This can be visualized using ": null
+    },
+    {
+        "Cantors diagonal argument": "Cantors Diagonal Argument"
+    },
+    {
+        ";   classic questions of cardinality  are concerned with discovering whether there is some cardinal between some pair of other infinite cardinals. In more recent times mathematicians have been describing the properties of larger and larger cardinals.     Since cardinality is such a common concept in mathematics, a variety of names are in use. Sameness of cardinality is sometimes referred to as equipotence, equipollence, or equinumerosity. It is thus said that two sets with the same cardinality are, respectively, equipotent, equipollent, or equinumerous.       Formally, assuming the ": null
+    },
+    {
+        "axiom of choice": "Axiom Of Choice"
+    },
+    {
+        ", the cardinality of a set X is the least ": null
+    },
+    {
+        "ordinal number": "Ordinal Number"
+    },
+    {
+        " α such that there is a bijection between X and α. This definition is known as the ": null
+    },
+    {
+        "von Neumann cardinal assignment": "Von Neumann Cardinal Assignment"
+    },
+    {
+        ". If the axiom of choice is not assumed we need to do something different. The oldest definition of the cardinality of a set X  is as the class X of all sets that are equinumerous with X. This does not work in ": null
+    },
+    {
+        "ZFC": "Zfc"
+    },
+    {
+        " or other related systems of ": null
+    },
+    {
+        "axiomatic set theory": "Axiomatic Set Theory"
+    },
+    {
+        " because if X is non-empty, this collection is too large to be a set. In fact, for X ≠ ∅ there is an injection from the universe into X by mapping a set m to  × X and so by the ": null
+    },
+    {
+        "axiom of limitation of size": "Axiom Of Limitation Of Size"
+    },
+    {
+        ", X is a proper class. The definition does work however in ": null
+    },
+    {
+        "type theory": "Type Theory"
+    },
+    {
+        " and in ": null
+    },
+    {
+        "New Foundations": "New Foundations"
+    },
+    {
+        " and related systems. However, if we restrict from this class to those equinumerous with X that have the least ": null
+    },
+    {
+        "rank": "Rank"
+    },
+    {
+        ", then it will work .     Formally, the order among cardinal numbers is defined as follows: |X Y ": null
+    },
+    {
+        "injective": "Injective"
+    },
+    {
+        " function from X to Y. The ": null
+    },
+    {
+        "Cantor–Bernstein–Schroeder theorem": "Cantor–Bernstein–Schroeder Theorem"
+    },
+    {
+        " states that if |X Y Y X X Y ": null
+    },
+    {
+        "axiom of choice": "Axiom Of Choice"
+    },
+    {
+        " is equivalent to the statement that given two sets X and Y, either |X Y Y X       A set X is ": null
+    },
+    {
+        "Dedekind-infinite": "Dedekind-Infinite"
+    },
+    {
+        " if there exists a ": null
+    },
+    {
+        "proper subset": "Proper Subset"
+    },
+    {
+        " Y of X with |X Y ": null
+    },
+    {
+        "Dedekind-finite": "Dedekind-Finite"
+    },
+    {
+        " if such a subset doesnt exist. The ": null
+    },
+    {
+        "finite": "Finite Set"
+    },
+    {
+        " cardinals are just the ": null
+    },
+    {
+        "natural numbers": "Natural Numbers"
+    },
+    {
+        ", i.e., a set X is finite if and only if |X n n for some natural number n. Any other set is ": null
+    },
+    {
+        "infinite": "Infinite Set"
+    },
+    {
+        ". Assuming the axiom of choice, it can be proved that the Dedekind notions correspond to the standard ones. It can also be proved that the cardinal    of the set of natural numbers is the smallest infinite cardinal, i.e. that any infinite set has a subset of cardinality   The next larger cardinal is denoted by   and so on. For every ": null
+    },
+    {
+        "ordinal": "Ordinal Number"
+    },
+    {
+        " α there is a cardinal number   and this list exhausts all infinite cardinal numbers.       We can define ": null
+    },
+    {
+        "arithmetic": "Arithmetic"
+    },
+    {
+        " operations on cardinal numbers that generalize the ordinary operations for natural numbers. It can be shown that for finite cardinals these operations coincide with the usual operations for natural numbers. Furthermore, these operations share many properties with ordinary arithmetic.            If the axiom of choice holds, then every cardinal κ has a successor κ +  math /math  math /math math /math σ.       The product of cardinals comes from the ": null
+    },
+    {
+        "cartesian product": "Cartesian Product"
+    },
+    {
+        ".   : |X|  |X   Y|     κ·0 0·κ 0.     κ·μ 0 → .     One is a multiplicative identity κ·1 1·κ κ.     Multiplication is associative ·ν κ·.     Multiplication is ": null
+    },
+    {
+        "commutative": "Commutative"
+    },
+    {
+        " κ·μ μ·κ.     Multiplication is non-decreasing in both arguments:   κ ≤ μ → .     Multiplication ": null
+    },
+    {
+        "distributes": "Distributivity"
+    },
+    {
+        " over addition:   κ· κ·μ + κ·ν and   ·κ μ·κ + ν·κ.     Assuming the axiom of choice, multiplication of infinite cardinal numbers is also easy. If either κ or μ is infinite and both are non-zero, then   :           Assuming the axiom of choice and, given an infinite cardinal π and a non-zero cardinal μ, there exists a cardinal κ such that μ · κ π if and only if μ ≤ π. It will be unique  if and only if μ  X X. This proves that no largest cardinal exists . In fact, the ": null
+    },
+    {
+        "class": "Class"
+    },
+    {
+        " of cardinals is a ": null
+    },
+    {
+        "proper class": "Proper Class"
+    },
+    {
+        ".      All the remaining propositions in this section assume the axiom of choice:     :If κ and μ are both finite and greater than 1, and ν is infinite, then κ ν μ ν .   :If κ is infinite and μ is finite and non-zero, then κ μ κ.     If 2 ≤ κ and 1 ≤ μ and at least one of them is infinite, then:   :Max ≤ κ μ ≤ Max .     Using ": null
+    },
+    {
+        "Königs theorem": "Königs Theorem"
+    },
+    {
+        ", one can prove κ ": null
+    }
+]

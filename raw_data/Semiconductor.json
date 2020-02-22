@@ -1,0 +1,1502 @@
+[
+    {
+        "        A semiconductor material has an ": null
+    },
+    {
+        "electrical conductivity": "Electrical Resistivity And Conductivity"
+    },
+    {
+        " value falling between that of a ": null
+    },
+    {
+        "conductor": "Electrical Conductor"
+    },
+    {
+        ", such as metallic copper, and an ": null
+    },
+    {
+        "insulator": "Insulator"
+    },
+    {
+        ", such as glass. Its ": null
+    },
+    {
+        "resistance": "Electrical Resistance"
+    },
+    {
+        " falls as its temperature rises; metals are the opposite. Its conducting properties may be altered in useful ways by introducing impurities  into the ": null
+    },
+    {
+        "crystal structure": "Crystal Structure"
+    },
+    {
+        ". Where two differently-doped regions exist in the same crystal, a ": null
+    },
+    {
+        "semiconductor junction": "Semiconductor Junction"
+    },
+    {
+        " is created. The behavior of ": null
+    },
+    {
+        "charge carriers": "Charge Carrier"
+    },
+    {
+        "which include ": null
+    },
+    {
+        "electron": "Electron"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "ions": "Ion"
+    },
+    {
+        "and ": null
+    },
+    {
+        "electron holes": "Electron Hole"
+    },
+    {
+        "at these junctions is the basis of ": null
+    },
+    {
+        "diode": "Diode"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "transistors": "Transistor"
+    },
+    {
+        "and all modern ": null
+    },
+    {
+        "electronics": "Electronics"
+    },
+    {
+        ". Some examples of semiconductors are ": null
+    },
+    {
+        "silicon": "Silicon"
+    },
+    {
+        ", ": null
+    },
+    {
+        "germanium": "Germanium"
+    },
+    {
+        ", ": null
+    },
+    {
+        "gallium arsenide": "Gallium Arsenide"
+    },
+    {
+        ", and elements near the so-called ": null
+    },
+    {
+        "metalloid staircase": "Metalloid Staircase"
+    },
+    {
+        " on the periodic table. After silicon, gallium arsenide is the second most common semiconductor and is used in laser diodes, solar cells, microwave-frequency integrated circuits and others. Silicon is a critical element for fabricating most electronic circuits.     ": null
+    },
+    {
+        "Semiconductor devices": "Semiconductor Device"
+    },
+    {
+        "can display a range of useful properties such as passing current more easily in one direction than the other, showing variable resistance, and sensitivity to light or heat. Because the electrical properties of a semiconductor material can be modified by doping, or by the application of electrical fields or light, devices made from semiconductors can be used for amplification, switching, and ": null
+    },
+    {
+        "energy conversion": "Energy Conversion"
+    },
+    {
+        ".     The conductivity of silicon is increased by adding a small amount of pentavalent  or trivalent  atoms. This process is known as doping and resulting semiconductors are known as doped or extrinsic semiconductors. Apart from doping, the conductivity of a semiconductor can equally be improved by increasing its temperature. This is contrary to the behaviour of a metal in which conductivity decreases with increase in temperature.     The modern understanding of the properties of a semiconductor relies on ": null
+    },
+    {
+        "quantum physics": "Quantum Physics"
+    },
+    {
+        " to explain the movement of charge carriers in a ": null
+    },
+    {
+        "crystal lattice": "Crystal Structure"
+    },
+    {
+        ".  Doping greatly increases the number of charge carriers within the crystal. When a doped semiconductor contains mostly free holes it is called ": null
+    },
+    {
+        "p-type": "Extrinsic Semiconductorp-Type Semiconductors"
+    },
+    {
+        " , and when it contains mostly free electrons it is known as ": null
+    },
+    {
+        "n-type": "Extrinsic Semiconductorn-Type Semiconductors"
+    },
+    {
+        " . The semiconductor materials used in electronic devices are doped under precise conditions to control the concentration and regions of p- and n-type dopants. A single semiconductor crystal can have many p- and n-type regions; the ": null
+    },
+    {
+        "p–n junctions": "P–N Junction"
+    },
+    {
+        "between these regions are responsible for the useful electronic behavior.     Some of the properties of semiconductor materials were observed throughout the mid 19th and first decades of the 20th century. The first practical application of semiconductors in electronics was the 1904 development of the ": null
+    },
+    {
+        "cats-whisker detector": "Cats-Whisker Detector"
+    },
+    {
+        ", a primitive semiconductor diode used in early radio receivers. Developments in quantum physics in turn led to the development of the ": null
+    },
+    {
+        "transistor": "Transistor"
+    },
+    {
+        " in 1947,  the ": null
+    },
+    {
+        "integrated circuit": "Integrated Circuit"
+    },
+    {
+        " in 1958, and the ": null
+    },
+    {
+        "MOSFET": "Mosfet"
+    },
+    {
+        "  in 1959.       ;Variable electrical conductivity   :Semiconductors in their natural state are poor conductors because a ": null
+    },
+    {
+        "current": "Electric Current"
+    },
+    {
+        " requires the flow of electrons, and semiconductors have their ": null
+    },
+    {
+        "valence bands": "Valence Band"
+    },
+    {
+        "filled, preventing the entire flow of new electrons. There are several developed techniques that allow semiconducting materials to behave like conducting materials, such as ": null
+    },
+    {
+        "doping": "Doping"
+    },
+    {
+        " or ": null
+    },
+    {
+        "gating": "Field Effect"
+    },
+    {
+        ". These modifications have two outcomes: n-type and p-type. These refer to the excess or shortage of electrons, respectively. An unbalanced number of electrons would cause a current to flow through the material.    ;Heterojunctions   :": null
+    },
+    {
+        "Heterojunctions": "Heterojunctions"
+    },
+    {
+        " occur when two differently doped semiconducting materials are joined together. For example, a configuration could consist of p-doped and n-doped ": null
+    },
+    {
+        "germanium": "Germanium"
+    },
+    {
+        ". This results in an exchange of electrons and holes between the differently doped semiconducting materials. The n-doped germanium would have an excess of electrons, and the p-doped germanium would have an excess of holes. The transfer occurs until equilibrium is reached by a process called ": null
+    },
+    {
+        "recombination": "Recombination"
+    },
+    {
+        ", which causes the migrating electrons from the n-type to come in contact with the migrating holes from the p-type. A product of this process is charged ": null
+    },
+    {
+        "ion": "Ion"
+    },
+    {
+        "s, which result in an ": null
+    },
+    {
+        "electric field": "Electric Field"
+    },
+    {
+        ".   ;Excited electrons   :A difference in electric potential on a semiconducting material would cause it to leave thermal equilibrium and create a non-equilibrium situation. This introduces electrons and holes to the system, which interact via a process called ": null
+    },
+    {
+        "ambipolar diffusion": "Ambipolar Diffusion"
+    },
+    {
+        ". Whenever thermal equilibrium is disturbed in a semiconducting material, the number of holes and electrons changes. Such disruptions can occur as a result of a temperature difference or ": null
+    },
+    {
+        "photon": "Photon"
+    },
+    {
+        "s, which can enter the system and create electrons and holes. The process that creates and annihilates electrons and holes are called ": null
+    },
+    {
+        "generation": "Carrier Generation And Recombination"
+    },
+    {
+        " and ": null
+    },
+    {
+        "recombination": "Carrier Generation And Recombination"
+    },
+    {
+        ".   ;Light emission   :In certain semiconductors, excited electrons can relax by emitting light instead of producing heat. By Abdul Al-Azzawi. . 2007. March 4, 2016. These semiconductors are used in the construction of ": null
+    },
+    {
+        "light-emitting diodes": "Light-Emitting Diode"
+    },
+    {
+        "and fluorescent ": null
+    },
+    {
+        "quantum dot": "Quantum Dot"
+    },
+    {
+        "s.   ;High thermal conductivity   Semiconductors with high thermal conductivity can be used for heat dissipation and improving thermal management of electronics.      ;Thermal energy conversion   :Semiconductors have large ": null
+    },
+    {
+        "thermoelectric power factors": "Thermoelectric Power Factor"
+    },
+    {
+        "making them useful in ": null
+    },
+    {
+        "thermoelectric generator": "Thermoelectric Generator"
+    },
+    {
+        "s, as well as high ": null
+    },
+    {
+        "thermoelectric figures of merit": "Thermoelectric Figure Of Merit"
+    },
+    {
+        " making them useful in ": null
+    },
+    {
+        "thermoelectric cooler": "Thermoelectric Cooler"
+    },
+    {
+        "s.                    A large number of elements and compounds have semiconducting properties, including: B.G. Yacobi, Semiconductor Materials: An Introduction to Basic Principles, Springer 2003 , pp. 1–3   Certain pure elements are found in ": null
+    },
+    {
+        "Group 14": "Group 14 Elements"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "periodic table": "Periodic Table"
+    },
+    {
+        "; the most commercially important of these elements are ": null
+    },
+    {
+        "silicon": "Silicon"
+    },
+    {
+        " and ": null
+    },
+    {
+        "germanium": "Germanium"
+    },
+    {
+        ". Silicon and germanium are used here effectively because they have 4 valence electrons in their outermost shell which gives them the ability to gain or lose electrons equally at the same time.   Binary compounds, particularly between elements in Groups 13 and 15, such as ": null
+    },
+    {
+        "gallium arsenide": "Gallium Arsenide"
+    },
+    {
+        ", Groups 12 and 16, groups 14 and 16, and between different group 14 elements, e.g. ": null
+    },
+    {
+        "silicon carbide": "Silicon Carbide"
+    },
+    {
+        ".   Certain ternary compounds, oxides and alloys.   ": null
+    },
+    {
+        "Organic semiconductor": "Organic Semiconductor"
+    },
+    {
+        "s, made of ": null
+    },
+    {
+        "organic compound": "Organic Compound"
+    },
+    {
+        "s.     Most common semiconducting materials are crystalline solids, but ": null
+    },
+    {
+        "amorphous": "Amorphous Silicon"
+    },
+    {
+        " and liquid semiconductors are also known. These include ": null
+    },
+    {
+        "hydrogenated amorphous silicon": "Hydrogenated Amorphous Silicon"
+    },
+    {
+        " and mixtures of ": null
+    },
+    {
+        "arsenic": "Arsenic"
+    },
+    {
+        ", ": null
+    },
+    {
+        "selenium": "Selenium"
+    },
+    {
+        " and ": null
+    },
+    {
+        "tellurium": "Tellurium"
+    },
+    {
+        " in a variety of proportions. These compounds share with better known semiconductors the properties of intermediate conductivity and a rapid variation of conductivity with temperature, as well as occasional ": null
+    },
+    {
+        "negative resistance": "Negative Resistance"
+    },
+    {
+        ". Such disordered materials lack the rigid crystalline structure of conventional semiconductors such as silicon. They are generally used in ": null
+    },
+    {
+        "thin film": "Thin Film"
+    },
+    {
+        " structures, which do not require material of higher electronic quality, being relatively insensitive to impurities and radiation damage.         Almost all of todays electronic technology involves the use of semiconductors, with the most important aspect being the ": null
+    },
+    {
+        "integrated circuit": "Integrated Circuit"
+    },
+    {
+        " , which are found in ": null
+    },
+    {
+        "laptops": "Laptop Computer"
+    },
+    {
+        ", scanners, ": null
+    },
+    {
+        "cell-phone": "Cell-Phone"
+    },
+    {
+        "s, etc. Semiconductors for ICs are mass-produced. To create an ideal semiconducting material, chemical purity is paramount. Any small imperfection can have a drastic effect on how the semiconducting material behaves due to the scale at which the materials are used.     A high degree of crystalline perfection is also required, since faults in crystal structure  interfere with the semiconducting properties of the material. Crystalline faults are a major cause of defective semiconductor devices. The larger the crystal, the more difficult it is to achieve the necessary perfection. Current mass production processes use crystal ": null
+    },
+    {
+        "ingots": "Ingot"
+    },
+    {
+        "between  in diameter which are grown as cylinders and sliced into ": null
+    },
+    {
+        "wafers": "Wafer"
+    },
+    {
+        ".     There is a combination of processes that is used to prepare semiconducting materials for ICs. One process is called ": null
+    },
+    {
+        "thermal oxidation": "Thermal Oxidation"
+    },
+    {
+        ", which forms ": null
+    },
+    {
+        "silicon dioxide": "Silicon Dioxide"
+    },
+    {
+        " on the surface of the ": null
+    },
+    {
+        "silicon": "Silicon"
+    },
+    {
+        ". This is used as a ": null
+    },
+    {
+        "gate insulator": "Gate Dielectric"
+    },
+    {
+        " and ": null
+    },
+    {
+        "field oxide": "Locos"
+    },
+    {
+        ". Other processes are called ": null
+    },
+    {
+        "photomasks": "Photomask"
+    },
+    {
+        "and ": null
+    },
+    {
+        "photolithography": "Photolithography"
+    },
+    {
+        ". This process is what creates the patterns on the circuity in the integrated circuit. ": null
+    },
+    {
+        "Ultraviolet light": "Ultraviolet Light"
+    },
+    {
+        " is used along with a ": null
+    },
+    {
+        "photoresist": "Photoresist"
+    },
+    {
+        " layer to create a chemical change that generates the patterns for the circuit.     Etching is the next process that is required. The part of the silicon that was not covered by the ": null
+    },
+    {
+        "photoresist": "Photoresist"
+    },
+    {
+        " layer from the previous step can now be etched. The main process typically used today is called ": null
+    },
+    {
+        "plasma etching": "Plasma Etching"
+    },
+    {
+        ". Plasma etching usually involves an ": null
+    },
+    {
+        "etch gas": "Plasma Etching"
+    },
+    {
+        " pumped in a low-pressure chamber to create ": null
+    },
+    {
+        "plasma": "Plasma"
+    },
+    {
+        ". A common etch gas is ": null
+    },
+    {
+        "chlorofluorocarbon": "Chlorofluorocarbon"
+    },
+    {
+        ", or more commonly known ": null
+    },
+    {
+        "Freon": "Freon"
+    },
+    {
+        ". A high ": null
+    },
+    {
+        "radio-frequency": "Radio-Frequency"
+    },
+    {
+        " voltage": "Voltage"
+    },
+    {
+        " between the ": null
+    },
+    {
+        "cathode": "Cathode"
+    },
+    {
+        " and ": null
+    },
+    {
+        "anode": "Anode"
+    },
+    {
+        " is what creates the plasma in the chamber. The ": null
+    },
+    {
+        "silicon wafer": "Wafer"
+    },
+    {
+        " is located on the cathode, which causes it to be hit by the positively charged ions that are released from the plasma. The end result is silicon that is etched ": null
+    },
+    {
+        "anisotropically": "Anisotropy"
+    },
+    {
+        ".     The last process is called ": null
+    },
+    {
+        "diffusion": "Doping"
+    },
+    {
+        ". This is the process that gives the semiconducting material its desired semiconducting properties. It is also known as ": null
+    },
+    {
+        "doping": "Doping"
+    },
+    {
+        ". The process introduces an impure atom to the system, which creates the ": null
+    },
+    {
+        "p-n junction": "P-N Junction"
+    },
+    {
+        ". In order to get the impure atoms embedded in the silicon wafer, the wafer is first put in a 1,100 degree Celsius chamber. The atoms are injected in and eventually diffuse with the silicon. After the process is completed and the silicon has reached room temperature, the doping process is done and the semiconducting material is ready to be used in an integrated circuit.                       Semiconductors are defined by their unique electric conductive behavior, somewhere between that of a conductor and an insulator.    The differences between these materials can be understood in terms of the ": null
+    },
+    {
+        "quantum states": "Quantum State"
+    },
+    {
+        "for electrons, each of which may contain zero or one electron . These states are associated with the ": null
+    },
+    {
+        "electronic band structure": "Electronic Band Structure"
+    },
+    {
+        " of the material.   ": null
+    },
+    {
+        "Electrical conductivity": "Electrical Conductivity"
+    },
+    {
+        " arises due to the presence of electrons in states that are ": null
+    },
+    {
+        "delocalized": "Delocalized Electron"
+    },
+    {
+        " , however in order to transport electrons a state must be partially filled, containing an electron only part of the time. As in the Mott formula for conductivity, see  If the state is always occupied with an electron, then it is inert, blocking the passage of other electrons via that state.   The energies of these quantum states are critical, since a state is partially filled only if its energy is near the ": null
+    },
+    {
+        "Fermi level": "Fermi Level"
+    },
+    {
+        " .     High conductivity in a material comes from it having many partially filled states and much state delocalization.   Metals are good ": null
+    },
+    {
+        "electrical conductors": "Electrical Conductor"
+    },
+    {
+        "and have many partially filled states with energies near their Fermi level.   ": null
+    },
+    {
+        "Insulators": "Insulator"
+    },
+    {
+        ", by contrast, have few partially filled states, their Fermi levels sit within ": null
+    },
+    {
+        "band gaps": "Band Gap"
+    },
+    {
+        "with few energy states to occupy.   Importantly, an insulator can be made to conduct by increasing its temperature: heating provides energy to promote some electrons across the band gap, inducing partially filled states in both the band of states beneath the band gap  and the band of states above the band gap .   An semiconductor has a band gap that is smaller than that of an insulator and at room temperature significant numbers of electrons can be excited to cross the band gap. ": null
+    },
+    {
+        "Charles Kittel": "Charles Kittel"
+    },
+    {
+        " Introduction to Solid State Physics, 7th ed. Wiley, .     A pure semiconductor, however, is not very useful, as it is neither a very good insulator nor a very good conductor.   However, one important feature of semiconductors  is that their conductivity can be increased and controlled by ": null
+    },
+    {
+        "doping": "Doping"
+    },
+    {
+        " with impurities and ": null
+    },
+    {
+        "gating": "Field Effect"
+    },
+    {
+        " with electric fields. Doping and gating move either the conduction or valence band much closer to the Fermi level, and greatly increase the number of partially filled states.     Some ": null
+    },
+    {
+        "wider-band gap semiconductor": "Wide-Bandgap Semiconductor"
+    },
+    {
+        " materials are sometimes referred to as semi-insulators. When undoped, these have electrical conductivity nearer to that of electrical insulators, however they can be doped . Semi-insulators find niche applications in micro-electronics, such as substrates for ": null
+    },
+    {
+        "HEMT": "High-Electron-Mobility Transistor"
+    },
+    {
+        ". An example of a common semi-insulator is ": null
+    },
+    {
+        "gallium arsenide": "Gallium Arsenide"
+    },
+    {
+        ".  Some materials, such as ": null
+    },
+    {
+        "titanium dioxide": "Titanium Dioxide"
+    },
+    {
+        ", can even be used as insulating materials for some applications, while being treated as wide-gap semiconductors for other applications.              The partial filling of the states at the bottom of the conduction band can be understood as adding electrons to that band.   The electrons do not stay indefinitely  but they can move around for some time.   The actual concentration of electrons is typically very dilute, and so it is possible to think of the electrons in the conduction band of a semiconductor as a sort of classical ": null
+    },
+    {
+        "ideal gas": "Ideal Gas"
+    },
+    {
+        ", where the electrons fly around freely without being subject to the ": null
+    },
+    {
+        "Pauli exclusion principle": "Pauli Exclusion Principle"
+    },
+    {
+        ". In most semiconductors the conduction bands have a parabolic ": null
+    },
+    {
+        "dispersion relation": "Dispersion Relation"
+    },
+    {
+        ", and so these electrons respond to forces much like they would in a vacuum, though with a different ": null
+    },
+    {
+        "effective mass": "Effective Mass"
+    },
+    {
+        ".   Because the electrons behave like an ideal gas, one may also think about conduction in very simplistic terms such as the ": null
+    },
+    {
+        "Drude model": "Drude Model"
+    },
+    {
+        ", and introduce concepts such as ": null
+    },
+    {
+        "electron mobility": "Electron Mobility"
+    },
+    {
+        ".     For partial filling at the top of the valence band, it is helpful to introduce the concept of an ": null
+    },
+    {
+        "electron hole": "Electron Hole"
+    },
+    {
+        ".   Although the electrons in the valence band are always moving around, a completely full valence band is inert, not conducting any current.   If an electron is taken out of the valence band, then the trajectory that the electron would normally have taken is now missing its charge.   For the purposes of electric current, this combination of the full valence band, minus the electron, can be converted into a picture of a completely empty band containing a positively charged particle that moves in the same way as the electron.   Combined with the negative effective mass of the electrons at the top of the valence band, we arrive at a picture of a positively charged particle that responds to electric and magnetic fields just as a normal positively charged particle would do in vacuum, again with some positive effective mass.   This particle is called a hole, and the collection of holes in the valence band can again be understood in simple classical terms .            When ": null
+    },
+    {
+        "ionizing radiation": "Ionizing Radiation"
+    },
+    {
+        " strikes a semiconductor, it may excite an electron out of its energy level and consequently leave a hole. This process is known as ": null
+    },
+    {
+        "electron–hole pair generation": "Carrier Generation And Recombination"
+    },
+    {
+        ". Electron-hole pairs are constantly generated from ": null
+    },
+    {
+        "thermal energy": "Thermal Energy"
+    },
+    {
+        " as well, in the absence of any external energy source.     Electron-hole pairs are also apt to recombine. ": null
+    },
+    {
+        "Conservation of energy": "Conservation Of Energy"
+    },
+    {
+        " demands that these recombination events, in which an electron loses an amount of ": null
+    },
+    {
+        "energy": "Energy"
+    },
+    {
+        " larger than the ": null
+    },
+    {
+        "band gap": "Band Gap"
+    },
+    {
+        ", be accompanied by the emission of thermal energy  or radiation .     In some states, the generation and recombination of electron–hole pairs are in equipoise. The number of electron-hole pairs in the ": null
+    },
+    {
+        "steady state": "Steady State"
+    },
+    {
+        " at a given temperature is determined by ": null
+    },
+    {
+        "quantum statistical mechanics": "Quantum Statistical Mechanics"
+    },
+    {
+        ". The precise ": null
+    },
+    {
+        "quantum mechanical": "Quantum Mechanics"
+    },
+    {
+        " mechanisms of generation and recombination are governed by ": null
+    },
+    {
+        "conservation of energy": "Conservation Of Energy"
+    },
+    {
+        " and ": null
+    },
+    {
+        "conservation of momentum": "Conservation Of Momentum"
+    },
+    {
+        ".     As the probability that electrons and holes meet together is proportional to the product of their numbers, the product is in steady state nearly constant at a given temperature, providing that there is no significant electric field or externally driven pair generation. The product is a function of the temperature, as the probability of getting enough thermal energy to produce a pair increases with temperature, being approximately exp, where k is ": null
+    },
+    {
+        "Boltzmanns constant": "Boltzmanns Constant"
+    },
+    {
+        ", T is absolute temperature and E G is band gap.     The probability of meeting is increased by carrier traps—impurities or dislocations which can trap an electron or hole and hold it until a pair is completed. Such carrier traps are sometimes purposely added to reduce the time needed to reach the steady state.              The conductivity of semiconductors may easily be modified by introducing impurities into their ": null
+    },
+    {
+        "crystal lattice": "Crystal Lattice"
+    },
+    {
+        ". The process of adding controlled impurities to a semiconductor is known as doping. The amount of impurity, or dopant, added to an  intrinsic  semiconductor varies its level of conductivity. Doped semiconductors are referred to as ": null
+    },
+    {
+        "extrinsic": "Extrinsic Semiconductor"
+    },
+    {
+        ". By adding impurity to the pure semiconductors, the electrical conductivity may be varied by factors of thousands or millions.     A 1  cm 3 specimen of a metal or semiconductor has of the order of 10 22 atoms. In a metal, every atom donates at least one free electron for conduction, thus 1  cm 3 of metal contains on the order of 10 22 free electrons, whereas a 1  cm 3 sample of pure germanium at 20  °C contains about  atoms, but only  free electrons and  holes. The addition of 0.001% of arsenic donates an extra 10 17 free electrons in the same volume and the electrical conductivity is increased by a factor of 10,000.     The materials chosen as suitable dopants depend on the atomic properties of both the dopant and the material to be doped. In general, dopants that produce the desired controlled changes are classified as either electron ": null
+    },
+    {
+        "acceptors": "Acceptor"
+    },
+    {
+        " or ": null
+    },
+    {
+        "donors": "Donor"
+    },
+    {
+        ". Semiconductors doped with donor impurities are called n-type, while those doped with acceptor impurities are known as p-type. The n and p type designations indicate which charge carrier acts as the materials ": null
+    },
+    {
+        "majority carrier": "Majority Carrier"
+    },
+    {
+        ". The opposite carrier is called the ": null
+    },
+    {
+        "minority carrier": "Minority Carrier"
+    },
+    {
+        ", which exists due to thermal excitation at a much lower concentration compared to the majority carrier.     For example, the pure semiconductor ": null
+    },
+    {
+        "silicon": "Silicon"
+    },
+    {
+        " has four valence electrons which bond each silicon atom to its neighbors. In silicon, the most common dopants are group III and group V elements. Group III elements all contain three valence electrons, causing them to function as acceptors when used to dope silicon. When an acceptor atom replaces a silicon atom in the crystal, a vacant state is created, which can move around the lattice and functions as a charge carrier. Group V elements have five valence electrons, which allows them to act as a donor; substitution of these atoms for silicon creates an extra free electron. Therefore, a silicon crystal doped with ": null
+    },
+    {
+        "boron": "Boron"
+    },
+    {
+        " creates a p-type semiconductor whereas one doped with ": null
+    },
+    {
+        "phosphorus": "Phosphorus"
+    },
+    {
+        " results in an n-type material.     During ": null
+    },
+    {
+        "manufacture": "Semiconductor Device Fabrication"
+    },
+    {
+        ", dopants can be diffused into the semiconductor body by contact with gaseous compounds of the desired element, or ": null
+    },
+    {
+        "ion implantation": "Ion Implantation"
+    },
+    {
+        " can be used to accurately position the doped regions.       Some materials, when rapidly cooled to a glassy amorphous state, have semiconducting properties. These include B, ": null
+    },
+    {
+        "Si": "Amorphous Silicon"
+    },
+    {
+        ", Ge, Se, Te and there are multiple theories to explain them.              The history of the understanding of semiconductors begins with experiments on the electrical properties of materials. The properties of negative temperature coefficient of resistance, rectification, and light-sensitivity were observed starting in the early 19th century.          ": null
+    },
+    {
+        "Thomas Johann Seebeck": "Thomas Johann Seebeck"
+    },
+    {
+        " was the first to notice an ": null
+    },
+    {
+        "effect": "Thermoelectriceffectseebeckeffect"
+    },
+    {
+        " due to semiconductors, in 1821.  In 1833, ": null
+    },
+    {
+        "Michael Faraday": "Michael Faraday"
+    },
+    {
+        " reported that the resistance of specimens of ": null
+    },
+    {
+        "silver sulfide": "Silver Sulfide"
+    },
+    {
+        " decreases when they are heated. This is contrary to the behavior of metallic substances such as copper. In 1839, ": null
+    },
+    {
+        "Alexandre Edmond Becquerel": "Alexandre Edmond Becquerel"
+    },
+    {
+        " reported observation of a voltage between a solid and a liquid electrolyte when struck by light, the ": null
+    },
+    {
+        "photovoltaic effect": "Photovoltaic Effect"
+    },
+    {
+        ". In 1873 ": null
+    },
+    {
+        "Willoughby Smith": "Willoughby Smith"
+    },
+    {
+        " observed that ": null
+    },
+    {
+        "selenium": "Selenium"
+    },
+    {
+        "resistors": "Resistor"
+    },
+    {
+        "exhibit decreasing resistance when light falls on them. In 1874, ": null
+    },
+    {
+        "Karl Ferdinand Braun": "Karl Ferdinand Braun"
+    },
+    {
+        " observed conduction and ": null
+    },
+    {
+        "rectification": "Rectifier"
+    },
+    {
+        " in metallic ": null
+    },
+    {
+        "sulfide": "Sulfide"
+    },
+    {
+        "s, although this effect had been discovered much earlier by Peter Munck af Rosenschold  writing for the Annalen der Physik und Chemie in 1835,  and ": null
+    },
+    {
+        "Arthur Schuster": "Arthur Schuster"
+    },
+    {
+        " found that a copper oxide layer on wires has rectification properties that ceases when the wires are cleaned. ": null
+    },
+    {
+        "William Grylls Adams": "William Grylls Adams"
+    },
+    {
+        " and Richard Evans Day observed the photovoltaic effect in selenium in 1876.      A unified explanation of these phenomena required a theory of ": null
+    },
+    {
+        "solid-state physics": "Solid-State Physics"
+    },
+    {
+        " which developed greatly in the first half of the 20th Century. In 1878 ": null
+    },
+    {
+        "Edwin Herbert Hall": "Edwin Herbert Hall"
+    },
+    {
+        " demonstrated the deflection of flowing charge carriers by an applied magnetic field, the ": null
+    },
+    {
+        "Hall effect": "Hall Effect"
+    },
+    {
+        ". The discovery of the ": null
+    },
+    {
+        "electron": "Electron"
+    },
+    {
+        " by ": null
+    },
+    {
+        "J.J. Thomson": "J.J. Thomson"
+    },
+    {
+        " in 1897 prompted theories of electron-based conduction in solids. ": null
+    },
+    {
+        "Karl Baedeker": "Karl Baedeker"
+    },
+    {
+        ", by observing a Hall effect with the reverse sign to that in metals, theorized that copper iodide had positive charge carriers. Johan Koenigsberger classified solid materials as metals, insulators and variable conductors in 1914 although his student Josef Weiss already introduced the term Halbleiter in PhD thesis in 1910.   ": null
+    },
+    {
+        "Felix Bloch": "Felix Bloch"
+    },
+    {
+        " published a theory of the movement of electrons through atomic lattices in 1928. In 1930, B. Gudden stated that conductivity in semiconductors was due to minor concentrations of impurities. By 1931, the band theory of conduction had been established by ": null
+    },
+    {
+        "Alan Herries Wilson": "Alan Herries Wilson"
+    },
+    {
+        " and the concept of band gaps had been developed. ": null
+    },
+    {
+        "Walter H. Schottky": "Walter H. Schottky"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Nevill Francis Mott": "Nevill Francis Mott"
+    },
+    {
+        " developed models of the potential barrier and of the characteristics of a ": null
+    },
+    {
+        "metal–semiconductor junction": "Metal–Semiconductor Junction"
+    },
+    {
+        ". By 1938, Boris Davydov had developed a theory of the copper-oxide rectifier, identifying the effect of the ": null
+    },
+    {
+        "p–n junction": "P–N Junction"
+    },
+    {
+        " and the importance of minority carriers and surface states.     Agreement between theoretical predictions and experimental results was sometimes poor. This was later explained by ": null
+    },
+    {
+        "John Bardeen": "John Bardeen"
+    },
+    {
+        " as due to the extreme structure sensitive behavior of semiconductors, whose properties change dramatically based on tiny amounts of impurities. Commercially pure materials of the 1920s containing varying proportions of trace contaminants produced differing experimental results. This spurred the development of improved material refining techniques, culminating in modern semiconductor refineries producing materials with parts-per-trillion purity.     Devices using semiconductors were at first constructed based on empirical knowledge, before semiconductor theory provided a guide to construction of more capable and reliable devices.     ": null
+    },
+    {
+        "Alexander Graham Bell": "Alexander Graham Bell"
+    },
+    {
+        " used the light-sensitive property of selenium to ": null
+    },
+    {
+        "transmit sound": "Photophone"
+    },
+    {
+        " over a beam of light in 1880. A working solar cell, of low efficiency, was constructed by ": null
+    },
+    {
+        "Charles Fritts": "Charles Fritts"
+    },
+    {
+        " in 1883 using a metal plate coated with selenium and a thin layer of gold; the device became commercially useful in photographic light meters in the 1930s. Peter Robin Morris A History of the World Semiconductor Industry, IET, , pp. 11–25 Point-contact microwave detector rectifiers made of lead sulfide were used by ": null
+    },
+    {
+        "Jagadish Chandra Bose": "Jagadish Chandra Bose"
+    },
+    {
+        " in 1904; the ": null
+    },
+    {
+        "cats-whisker detector": "Cats-Whisker Detector"
+    },
+    {
+        " using natural galena or other materials became a common device in the ": null
+    },
+    {
+        "development of radio": "History Of Radio"
+    },
+    {
+        ". However, it was somewhat unpredictable in operation and required manual adjustment for best performance. In 1906 ": null
+    },
+    {
+        "H.J. Round": "H.J. Round"
+    },
+    {
+        " observed light emission when electric current passed through ": null
+    },
+    {
+        "silicon carbide": "Silicon Carbide"
+    },
+    {
+        " crystals, the principle behind the ": null
+    },
+    {
+        "light-emitting diode": "Light-Emitting Diode"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Oleg Losev": "Oleg Losev"
+    },
+    {
+        " observed similar light emission in 1922 but at the time the effect had no practical use. Power rectifiers, using copper oxide and selenium, were developed in the 1920s and became commercially important as an alternative to ": null
+    },
+    {
+        "vacuum tube": "Vacuum Tube"
+    },
+    {
+        " rectifiers.     The first ": null
+    },
+    {
+        "semiconductor devices": "Semiconductor Devices"
+    },
+    {
+        " used ": null
+    },
+    {
+        "galena": "Galena"
+    },
+    {
+        ", including German ": null
+    },
+    {
+        "physicist": "Physicist"
+    },
+    {
+        " Ferdinand Brauns ": null
+    },
+    {
+        "crystal detector": "Crystal Detector"
+    },
+    {
+        " in 1874 and Bengali physicist Jagadish Chandra Boses ": null
+    },
+    {
+        "radio": "Radio"
+    },
+    {
+        " crystal detector in 1901.       In the years preceding World War II, infrared detection and communications devices prompted research into lead-sulfide and lead-selenide materials. These devices were used for detecting ships and aircraft, for infrared rangefinders, and for voice communication systems. The point-contact crystal detector became vital for microwave radio systems, since available vacuum tube devices could not serve as detectors above about 4000  MHz; advanced radar systems relied on the fast response of crystal detectors. Considerable research and development of ": null
+    },
+    {
+        "silicon": "Silicon"
+    },
+    {
+        " materials occurred during the war to develop detectors of consistent quality.               Detector and power rectifiers could not amplify a signal. Many efforts were made to develop a solid-state amplifier and were successful in developing a device called the ": null
+    },
+    {
+        "point contact transistor": "Point Contact Transistor"
+    },
+    {
+        " which could amplify 20db or more. In 1922 ": null
+    },
+    {
+        "Oleg Losev": "Oleg Losev"
+    },
+    {
+        " developed two-terminal, ": null
+    },
+    {
+        "negative resistance": "Negative Resistance"
+    },
+    {
+        " amplifiers for radio, and he perished in the ": null
+    },
+    {
+        "Siege of Leningrad": "Siege Of Leningrad"
+    },
+    {
+        " after successful completion. In 1926 ": null
+    },
+    {
+        "Julius Edgar Lilienfeld": "Julius Edgar Lilienfeld"
+    },
+    {
+        " patented a device resembling a ": null
+    },
+    {
+        "field-effect transistor": "Field-Effect Transistor"
+    },
+    {
+        ", but it was not practical. R. Hilsch and R. W. Pohl in 1938 demonstrated a solid-state amplifier using a structure resembling the control grid of a vacuum tube; although the device displayed power gain, it had a ": null
+    },
+    {
+        "cut-off frequency": "Cut-Off Frequency"
+    },
+    {
+        " of one cycle per second, too low for any practical applications, but an effective application of the available theory. At ": null
+    },
+    {
+        "Bell Labs": "Bell Labs"
+    },
+    {
+        ", ": null
+    },
+    {
+        "William Shockley": "William Shockley"
+    },
+    {
+        " and A. Holden started investigating solid-state amplifiers in 1938. The first p–n junction in silicon was observed by ": null
+    },
+    {
+        "Russell Ohl": "Russell Ohl"
+    },
+    {
+        " about 1941, when a specimen was found to be light-sensitive, with a sharp boundary between p-type impurity at one end and n-type at the other. A slice cut from the specimen at the p–n boundary developed a voltage when exposed to light.     The first working ": null
+    },
+    {
+        "transistor": "Transistor"
+    },
+    {
+        " was a ": null
+    },
+    {
+        "point-contact transistor": "Point-Contact Transistor"
+    },
+    {
+        " invented by ": null
+    },
+    {
+        "John Bardeen": "John Bardeen"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Walter Houser Brattain": "Walter Houser Brattain"
+    },
+    {
+        " and ": null
+    },
+    {
+        "William Shockley": "William Shockley"
+    },
+    {
+        " at Bell Labs in 1947. Shockley had earlier theorized a ": null
+    },
+    {
+        "field-effect amplifier": "Field-Effect Transistor"
+    },
+    {
+        " made from germanium and silicon, but he failed to build such a working device, before eventually using germanium to invent the point-contact transistor.  In France, during the war, ": null
+    },
+    {
+        "Herbert Mataré": "Herbert Mataré"
+    },
+    {
+        " had observed amplification between adjacent point contacts on a germanium base. After the war, Matarés group announced their Transistron amplifier only shortly after Bell Labs announced the ": null
+    },
+    {
+        "transistor": "Transistor"
+    },
+    {
+        " .     In 1954, ": null
+    },
+    {
+        "physical chemist": "Physical Chemist"
+    },
+    {
+        " Morris Tanenbaum": "Morris Tanenbaum"
+    },
+    {
+        " fabricated the first silicon ": null
+    },
+    {
+        "junction transistor": "Junction Transistor"
+    },
+    {
+        " at ": null
+    },
+    {
+        "Bell Labs": "Bell Labs"
+    },
+    {
+        ".  However, early ": null
+    },
+    {
+        "junction transistors": "Junction Transistor"
+    },
+    {
+        "were relatively bulky devices that were difficult to manufacture on a ": null
+    },
+    {
+        "mass-production": "Mass-Production"
+    },
+    {
+        " basis, which limited them to a number of specialised applications.                The first ": null
+    },
+    {
+        "silicon": "Silicon"
+    },
+    {
+        " semiconductor device was a silicon radio crystal detector, developed by American engineer ": null
+    },
+    {
+        "Greenleaf Whittier Pickard": "Greenleaf Whittier Pickard"
+    },
+    {
+        " in 1906. In 1940, ": null
+    },
+    {
+        "Russell Ohl": "Russell Ohl"
+    },
+    {
+        " discovered the ": null
+    },
+    {
+        "p-n junction": "P-N Junction"
+    },
+    {
+        " and ": null
+    },
+    {
+        "photovoltaic effects": "Photovoltaic Effect"
+    },
+    {
+        "in silicon. In 1941, techniques for producing high-purity ": null
+    },
+    {
+        "germanium": "Germanium"
+    },
+    {
+        " and ": null
+    },
+    {
+        "silicon crystals": "Silicon Crystal"
+    },
+    {
+        "were developed for ": null
+    },
+    {
+        "radar": "Radar"
+    },
+    {
+        " microwave": "Microwave"
+    },
+    {
+        " detectors during ": null
+    },
+    {
+        "World War II": "World War Ii"
+    },
+    {
+        ". In 1955, ": null
+    },
+    {
+        "Carl Frosch": "Carl Frosch"
+    },
+    {
+        " and Lincoln Derick at Bell Labs accidentally discovered that ": null
+    },
+    {
+        "silicon dioxide": "Silicon Dioxide"
+    },
+    {
+        " could be grown on silicon,  and they later proposed this could mask silicon surfaces during ": null
+    },
+    {
+        "diffusion processes": "Diffusion Processes"
+    },
+    {
+        " in 1958.      In the early years of the ": null
+    },
+    {
+        "semiconductor industry": "Semiconductor Industry"
+    },
+    {
+        ", up until the late 1950s, germanium was the dominant semiconductor material for transistors and other semiconductor devices, rather than silicon. Germanium was initially considered the more effective semiconductor material, as it was able to demonstrate better performance due to higher ": null
+    },
+    {
+        "carrier mobility": "Carrier Mobility"
+    },
+    {
+        ".   The relative lack of performance in early silicon semiconductors was due to ": null
+    },
+    {
+        "electrical conductivity": "Electrical Conductivity"
+    },
+    {
+        " being limited by unstable ": null
+    },
+    {
+        "quantum": "Quantum Mechanics"
+    },
+    {
+        " surface states": "Surface States"
+    },
+    {
+        ",  where ": null
+    },
+    {
+        "electrons": "Electrons"
+    },
+    {
+        " are trapped at the surface, due to ": null
+    },
+    {
+        "dangling bonds": "Dangling Bonds"
+    },
+    {
+        " that occur because ": null
+    },
+    {
+        "unsaturated bonds": "Unsaturated Bond"
+    },
+    {
+        "are present at the surface.  This prevented ": null
+    },
+    {
+        "electricity": "Electricity"
+    },
+    {
+        " from reliably penetrating the surface to reach the semiconducting silicon layer.       A breakthrough in silicon semiconductor technology came with the work of Egyptian engineer ": null
+    },
+    {
+        "Mohamed Atalla": "Mohamed Atalla"
+    },
+    {
+        ", who developed the process of ": null
+    },
+    {
+        "surface passivation": "Surface Passivation"
+    },
+    {
+        " by ": null
+    },
+    {
+        "thermal oxidation": "Thermal Oxidation"
+    },
+    {
+        " at Bell Labs in the late 1950s.  He discovered that the formation of a thermally grown silicon dioxide layer greatly reduced the concentration of ": null
+    },
+    {
+        "electronic states": "Electronic State"
+    },
+    {
+        "at the silicon surface, and that silicon oxide layers could be used to electrically stabilize silicon surfaces.  Atalla first published his findings in Bell memos during 1957, and then demonstrated it in 1958.  This was the first demonstration to show that high-quality silicon dioxide insulator films could be grown thermally on the silicon surface to protect the underlying silicon p-n junction ": null
+    },
+    {
+        "diodes": "Diodes"
+    },
+    {
+        " and transistors. Atallas surface passivation process enabled silicon to surpass the conductivity and performance of germanium, and led to silicon replacing germanium as the dominant semiconductor material. Atallas surface passivation process is considered the most important advance in silicon semiconductor technology, paving the way for the mass-production of silicon semiconductor devices.  By the mid-1960s, Atallas process for oxidized silicon surfaces was used to fabricate virtually all integrated circuits and silicon devices.  Surface passivation by thermal oxidation remains a key feature of silicon semiconductor technology.                   In the late 1950s, ": null
+    },
+    {
+        "Mohamed Atalla": "Mohamed Atalla"
+    },
+    {
+        " utilized his ": null
+    },
+    {
+        "surface passivation": "Surface Passivation"
+    },
+    {
+        " and ": null
+    },
+    {
+        "thermal oxidation": "Thermal Oxidation"
+    },
+    {
+        " methods to develop the ": null
+    },
+    {
+        "metal–oxide–semiconductor": "Metal–Oxide–Semiconductor"
+    },
+    {
+        " process, which he proposed could be used to build the first working silicon field-effect transistor. This led to the invention of the ": null
+    },
+    {
+        "MOSFET": "Mosfet"
+    },
+    {
+        " by Mohamed Atalla and ": null
+    },
+    {
+        "Dawon Kahng": "Dawon Kahng"
+    },
+    {
+        " in 1959.   It was the first truly compact transistor that could be miniaturised and mass-produced for a wide range of uses, With its ": null
+    },
+    {
+        "scalability": "Mosfet Scaling"
+    },
+    {
+        ",  and much lower power consumption and higher density than ": null
+    },
+    {
+        "bipolar junction transistor": "Bipolar Junction Transistor"
+    },
+    {
+        "s,  the MOSFET became the most common type of transistor in computers, electronics, and ": null
+    },
+    {
+        "communications technology": "Communications Technology"
+    },
+    {
+        " such as ": null
+    },
+    {
+        "smartphones": "Smartphones"
+    },
+    {
+        ".  The ": null
+    },
+    {
+        "US Patent and Trademark Office": "Us Patent And Trademark Office"
+    },
+    {
+        " calls the MOSFET a groundbreaking invention that transformed life and culture around the world .     The ": null
+    },
+    {
+        "CMOS": "Cmos"
+    },
+    {
+        " process was developed by ": null
+    },
+    {
+        "Chih-Tang Sah": "Chih-Tang Sah"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Frank Wanlass": "Frank Wanlass"
+    },
+    {
+        " at ": null
+    },
+    {
+        "Fairchild Semiconductor": "Fairchild Semiconductor"
+    },
+    {
+        " in 1963.  The first report of a ": null
+    },
+    {
+        "floating-gate MOSFET": "Floating-Gate Mosfet"
+    },
+    {
+        " was made by Dawon Kahng and ": null
+    },
+    {
+        "Simon Sze": "Simon Sze"
+    },
+    {
+        " in 1967. D. Kahng and S. M. Sze, A floating gate and its application to memory devices , The Bell System Technical Journal, vol. 46, no. 4, 1967, pp. 1288–1295 ": null
+    },
+    {
+        "FinFET": "Finfet"
+    },
+    {
+        " , a type of 3D ": null
+    },
+    {
+        "multi-gate": "Multigate Device"
+    },
+    {
+        " MOSFET, was developed by Digh Hisamoto and his team of researchers at ": null
+    },
+    {
+        "Hitachi Central Research Laboratory": "Hitachi"
+    },
+    {
+        " in 1989.  ": null
+    }
+]

@@ -1,0 +1,293 @@
+[
+    {
+        "           An electrical network is an interconnection of ": null
+    },
+    {
+        "electrical components": "Electronic Component"
+    },
+    {
+        "  or a model of such an interconnection, consisting of ": null
+    },
+    {
+        "electrical elements": "Electrical Element"
+    },
+    {
+        " . An electrical circuit is a network consisting of a closed loop, giving a return path for the current. ": null
+    },
+    {
+        "Linear": "Linear Circuit"
+    },
+    {
+        " electrical networks, a special type consisting only of sources , linear lumped elements , and linear distributed elements , have the property that signals are ": null
+    },
+    {
+        "linearly superimposable": "Superposition Principle"
+    },
+    {
+        ". They are thus more easily analyzed, using powerful ": null
+    },
+    {
+        "frequency domain": "Frequency Domain"
+    },
+    {
+        " methods such as ": null
+    },
+    {
+        "Laplace transform": "Laplace Transform"
+    },
+    {
+        "s, to determine ": null
+    },
+    {
+        "DC response": "Direct Current"
+    },
+    {
+        ", ": null
+    },
+    {
+        "AC response": "Alternating Current"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "transient response": "Transient Response"
+    },
+    {
+        ".     A resistive circuit is a circuit containing only resistors and ideal current and voltage sources. ": null
+    },
+    {
+        "Analysis": "Network Analysis"
+    },
+    {
+        " of resistive circuits is less complicated than analysis of circuits containing capacitors and inductors. If the sources are constant  sources, the result is a ": null
+    },
+    {
+        "DC circuit": "Direct Current Circuit"
+    },
+    {
+        ". The effective resistance and current distribution properties of arbitrary resistor networks can be modeled in terms of their graph measures and geometrical properties.      A network that contains ": null
+    },
+    {
+        "active": "Active Component"
+    },
+    {
+        " electronic": "Electronics"
+    },
+    {
+        " components is known as an  electronic circuit . Such networks are generally nonlinear and require more complex design and analysis tools.           An active network contains at least one ": null
+    },
+    {
+        "voltage source": "Voltage Source"
+    },
+    {
+        " or ": null
+    },
+    {
+        "current source": "Current Source"
+    },
+    {
+        " that can supply energy to the network indefinitely. A ": null
+    },
+    {
+        "passive": "Passivity"
+    },
+    {
+        " network does not contain an active source.     An active network contains one or more sources of ": null
+    },
+    {
+        "electromotive force": "Electromotive Force"
+    },
+    {
+        ". Practical examples of such sources include a ": null
+    },
+    {
+        "battery": "Electric Battery"
+    },
+    {
+        " or a ": null
+    },
+    {
+        "generator": "Electric Generator"
+    },
+    {
+        ". Active elements can inject power to the circuit, provide power gain, and control the current flow within the circuit.     Passive networks do not contain any sources of electromotive force. They consist of passive elements like resistors and capacitors.       A network is linear if its signals obey the principle of ": null
+    },
+    {
+        "superposition": "Superposition Theorem"
+    },
+    {
+        "; otherwise it is non-linear.       Discrete passive components are called lumped elements because all of their, respectively, resistance, capacitance and inductance is assumed to be located at one place. This design philosophy is called the ": null
+    },
+    {
+        "lumped-element model": "Lumped-Element Model"
+    },
+    {
+        " and networks so designed are called lumped-element circuits. This is the conventional approach to circuit design. At high enough frequencies the lumped assumption no longer holds because there is a significant fraction of a ": null
+    },
+    {
+        "wavelength": "Wavelength"
+    },
+    {
+        " across the component dimensions. A new design model is needed for such cases called the ": null
+    },
+    {
+        "distributed-element model": "Distributed-Element Model"
+    },
+    {
+        ". Networks designed to this model are called  distributed-element circuit s.     A distributed-element circuit that includes some lumped components is called a semi-lumped design. An example of a semi-lumped circuit is the ": null
+    },
+    {
+        "combline filter": "Combline Filter"
+    },
+    {
+        ".       Sources can be classified as independent sources and dependent sources.       An ideal independent source maintains the same voltage or current regardless of the other elements present in the circuit. Its value is either constant or sinusoidal . The strength of voltage or current is not changed by any variation in the connected network.       ": null
+    },
+    {
+        "Dependent sources": "Dependent Source"
+    },
+    {
+        "depend upon a particular element of the circuit for delivering the power or voltage or current depending upon the type of source it is.       A number of electrical laws apply to all electrical networks. These include:   ": null
+    },
+    {
+        "Kirchhoffs current law": "Kirchhoffs Circuit Lawskirchhoffs Current Law"
+    },
+    {
+        "Kirchhoffs voltage law": "Kirchhoffs Circuit Lawskirchhoffs Voltage Law"
+    },
+    {
+        "Ohms law": "Ohms Law"
+    },
+    {
+        "Nortons theorem": "Nortons Theorem"
+    },
+    {
+        "Thévenins theorem": "Thévenins Theorem"
+    },
+    {
+        "Superposition theorem": "Superposition Theorem"
+    },
+    {
+        "reactive": "Reactance"
+    },
+    {
+        " components. Non-linear self-regenerative ": null
+    },
+    {
+        "heterodyning": "Heterodyne"
+    },
+    {
+        " systems can be approximated. Applying these laws results in a set of ": null
+    },
+    {
+        "simultaneous equations": "Simultaneous Equations"
+    },
+    {
+        " that can be solved either algebraically or numerically.               To design any electrical circuit, either ": null
+    },
+    {
+        "analog": "Analogue Electronics"
+    },
+    {
+        " or ": null
+    },
+    {
+        "digital": "Digital Circuit"
+    },
+    {
+        ", ": null
+    },
+    {
+        "electrical engineers": "Electrical Engineering"
+    },
+    {
+        " need to be able to predict the voltages and currents at all places within the circuit. Simple ": null
+    },
+    {
+        "linear circuits": "Linear Circuit"
+    },
+    {
+        "can be analyzed by hand using ": null
+    },
+    {
+        "complex number theory": "Complex Number"
+    },
+    {
+        ". In more complex cases the circuit may be analyzed with specialized ": null
+    },
+    {
+        "computer programs": "Computer Program"
+    },
+    {
+        "or estimation techniques such as the piecewise-linear model.     Circuit simulation software, such as ": null
+    },
+    {
+        "HSPICE": "Hspice"
+    },
+    {
+        " ,  and languages such as ": null
+    },
+    {
+        "VHDL-AMS": "Vhdl-Ams"
+    },
+    {
+        " and ": null
+    },
+    {
+        "verilog-AMS": "Verilog-Ams"
+    },
+    {
+        " allow engineers to design circuits without the time, cost and risk of error involved in building circuit prototypes.       More complex circuits can be analyzed numerically with software such as ": null
+    },
+    {
+        "SPICE": "Spice"
+    },
+    {
+        " or ": null
+    },
+    {
+        "GNUCAP": "Gnu Circuit Analysis Package"
+    },
+    {
+        ", or symbolically using software such as ": null
+    },
+    {
+        "SapWin": "Sapwin"
+    },
+    {
+        ".       When faced with a new circuit, the software first tries to find a ": null
+    },
+    {
+        "steady state solution": "Steady State"
+    },
+    {
+        ", that is, one where all nodes conform to Kirchhoffs current law and the voltages across and through each element of the circuit conform to the voltage/current equations governing that element.     Once the steady state solution is found, the  operating point s of each element in the circuit are known. For a small signal analysis, every non-linear element can be linearized around its operation point to obtain the small-signal estimate of the voltages and currents. This is an application of Ohms Law. The resulting linear circuit matrix can be solved with ": null
+    },
+    {
+        "Gaussian elimination": "Gaussian Elimination"
+    },
+    {
+        ".       Software such as the ": null
+    },
+    {
+        "PLECS": "Plecs"
+    },
+    {
+        " interface to ": null
+    },
+    {
+        "Simulink": "Simulink"
+    },
+    {
+        " uses ": null
+    },
+    {
+        "piecewise-linear": "Piecewise Linear Function"
+    },
+    {
+        " approximation of the equations governing the elements of a circuit. The circuit is treated as a completely linear network of ": null
+    },
+    {
+        "ideal diode": "Diode Modellingmathematically Idealized Diode"
+    }
+]

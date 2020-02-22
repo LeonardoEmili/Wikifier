@@ -1,0 +1,83 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", the arithmetic–geometric mean  of two positive ": null
+    },
+    {
+        "real numbers": "Real Number"
+    },
+    {
+        "  and  is defined as follows:     Call  and   and ": null
+    },
+    {
+        "sequences": "Sequence"
+    },
+    {
+        "  and  as     :     a &     g &   ,         where the square root takes the ": null
+    },
+    {
+        "principal value": "Principal Value"
+    },
+    {
+        ". These two sequences ": null
+    },
+    {
+        "converge": "Limit Of A Sequence"
+    },
+    {
+        " to the same number, the arithmetic–geometric mean of  and ; it is denoted by , or sometimes by .     The arithmetic-geometric mean is used in fast ": null
+    },
+    {
+        "algorithms": "Algorithm"
+    },
+    {
+        "for ": null
+    },
+    {
+        "exponential": "Exponential Function"
+    },
+    {
+        " and ": null
+    },
+    {
+        "trigonometric functions": "Trigonometric Functions"
+    },
+    {
+        ", as well as some ": null
+    },
+    {
+        "mathematical constant": "Mathematical Constant"
+    },
+    {
+        "s, in particular, ": null
+    },
+    {
+        "computing   ": "Computing Π"
+    },
+    {
+        ".       To find the arithmetic–geometric mean of  and , iterate as follows:     :     a1 & &   & & 15    g1 & &   & & 12    a2 & &   & & 13.5    g2 & &   & & 13.416  407  8649    & &   & &         The first five iterations give the following values:     :     The number of digits in which  and  agree approximately doubles with each iteration. The arithmetic–geometric mean of 24 and 6 is the common limit of these two sequences, which is approximately .  at ": null
+    },
+    {
+        "Wolfram Alpha": "Wolfram Alpha"
+    },
+    {
+        "       The first algorithm based on this sequence pair appeared in the works of ": null
+    },
+    {
+        "Lagrange": "Joseph-Louis Lagrange"
+    },
+    {
+        ". Its properties were further analyzed by ": null
+    },
+    {
+        "Gauss": "Gauss"
+    },
+    {
+        ".  first published in  LEnseignement Mathématique , t. 30 , p. 275-330       The geometric mean of two positive numbers is never bigger than the arithmetic mean . As a consequence, for  math /math  math /math  ref name Dimopoulos2011  /ref  math /math  ref  /ref  ref  /ref  math /math math /math  math /math math /math math /math  ref name BerggrenBorwein2004 / math /math math /math math /math math /math math /math math /math math /math  ref  /ref ref  /ref math /math math /math math /math  ref  /ref math /math math /math math /math  math /math  math /math  math /math ref  /ref  ref  /ref  ref ": null
+    }
+]

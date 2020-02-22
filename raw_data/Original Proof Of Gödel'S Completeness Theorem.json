@@ -1,0 +1,77 @@
+[
+    {
+        "The proof of ": null
+    },
+    {
+        "Gödels completeness theorem": "Gödels Completeness Theorem"
+    },
+    {
+        " given by ": null
+    },
+    {
+        "Kurt Gödel": "Kurt Gödel"
+    },
+    {
+        " in his doctoral dissertation of 1929 is not easy to read today; it uses concepts and formalisms that are no longer used and terminology that is often obscure. The version given below attempts to represent all the steps in the proof and all the important ideas faithfully, while restating the proof in the modern language of ": null
+    },
+    {
+        "mathematical logic": "Mathematical Logic"
+    },
+    {
+        ". This outline should not be considered a rigorous proof of the theorem.              We work with ": null
+    },
+    {
+        "first-order predicate calculus": "First-Order Predicate Calculus"
+    },
+    {
+        ". Our languages allow constant, function and relation symbols. Structures consist of domains and interpretations of the relevant symbols as constant members, functions or relations over that domain.     We assume classical logic .     We fix some axiomatization of the predicate calculus: logical axioms and rules of inference. Any of the several well-known equivalent axiomatizations will do. Gödels original proof assumed the Hilbert-Ackermann proof system.     We assume without proof all the basic well-known results about our formalism that we need, such as the ": null
+    },
+    {
+        "normal form theorem": "Normal Form Theorem"
+    },
+    {
+        " or the ": null
+    },
+    {
+        "soundness theorem": "Soundness Theorem"
+    },
+    {
+        ".     We axiomatize predicate calculus without equality , i.e. there are no special axioms expressing the properties of equality as a special relation symbol. After the basic form of the theorem has been proved, it will be easy to extend it to the case of predicate calculus with equality.         In the following, we state two equivalent forms of the theorem, and show their equivalence.     Later, we prove the theorem. This is done in the following steps:     Reducing the theorem to sentences in ": null
+    },
+    {
+        "prenex form": "Prenex Form"
+    },
+    {
+        ", i.e. with all ": null
+    },
+    {
+        "quantifiers": "Quantifier"
+    },
+    {
+        "  at the beginning. Furthermore, we reduce it to formulas whose first quantifier is . This is possible because for every sentence, there is an equivalent one in prenex form whose first quantifier is .   Reducing the theorem to sentences of the form . While we cannot do this by simply rearranging the quantifiers, we show that it is yet enough to prove the theorem for sentences of that form.   Finally we prove the theorem for sentences of that form.   This is done by first noting that a sentence such as  is either refutable or satisfiable, i.e. there is some model in which it holds ; this model is simply assigning ": null
+    },
+    {
+        "truth values": "Truth Value"
+    },
+    {
+        "to the subpropositions from which B is built. The reason for that is the completeness of ": null
+    },
+    {
+        "propositional logic": "Propositional Logic"
+    },
+    {
+        ", with the existential quantifiers playing no role.   We extend this result to more and more complex and lengthy sentences, D n , built out from B, so that either any of them is refutable and therefore so is φ, or all of them are not refutable and therefore each holds in some model.   We finally use the models in which the D n hold in order to build a model in which φ holds.         This is the most basic form of the completeness theorem. We immediately restate it in a form more convenient for our purposes:   When we say all structures , it is important to specify that the structures involved are classical interpretations I, where I .         & phi; is refutable means by definition ¬ & phi; is provable .         To see the equivalence, note first that if Theorem 1 holds, and φ is not satisfiable in any structure, then ¬φ is valid in all structures and therefore provable, thus φ is refutable and Theorem 2 holds. If on the other hand Theorem 2 holds and φ is valid in all structures, then ¬φ is not satisfiable in any structure and therefore refutable; then ¬¬φ is provable and then so is φ, thus Theorem 1 holds.         We approach the proof of Theorem 2 by successively restricting the class of all formulas φ for which we need to prove & phi; is either refutable or satisfiable . At the beginning we need to prove this for all possible formulas φ in our language. However, suppose that for every formula φ there is some formula ψ taken from a more restricted class of formulas C, such that & psi; is either refutable or satisfiable → & phi; is either refutable or satisfiable . Then, once this claim is proved, it will suffice to prove & phi; is either refutable or satisfiable only for φs belonging to the class C. Note also that if φ is provably equivalent to ψ , then it is indeed the case that & psi; is either refutable or satisfiable → & phi; is either refutable or satisfiable .     There are standard techniques for rewriting an arbitrary formula into one that does not use function or constant symbols, at the cost of introducing additional quantifiers; we will therefore assume that all formulas are free of such symbols. Gödels paper uses a version of first-order predicate calculus that has no function or constant symbols to begin with.     Next we consider a generic formula φ and apply the ": null
+    },
+    {
+        "prenex form": "Prenex Form"
+    },
+    {
+        " theorem to find a formula ψ in normal form such that φ≡ψ . It follows now that we need only prove Theorem 2 for formulas φ in normal form.     Next, we eliminate all free variables from φ by quantifying them existentially: if, say, x 1 ...x n  are free in φ, we form   x1 ...   xn   . If ψ is satisfiable in a structure M, then certainly so is φ and if ψ is refutable, then       x1 ...   xn     is provable, and then so is ¬φ, thus φ is refutable. We see that we can restrict φ to be a sentence, that is, a formula with no free variables.     Finally, we would like, for reasons of technical convenience, that the prefix of φ begin with a universal quantifier and end with an existential quantifier. To achieve this for a generic φ , we take some one-place relation symbol F unused in φ, and two new variables y and z.. If φ Φ, where stands for the prefix of φ and Φ for the matrix we form     y   z . Since   y   z is clearly provable, it is easy to see that   is provable.         Our generic formula φ now is a sentence, in normal form, and its prefix starts with a universal quantifier and ends with an existential quantifier. Let us call the class of all such formulas R. We are faced with proving that every formula in R is either refutable or satisfiable. Given our formula φ, we group strings of quantifiers of one kind together in blocks:     :   .......     We define the degree of   to be the number of universal quantifier blocks, separated by existential quantifier blocks as shown above, in the prefix of   . The following lemma, which Gödel adapted from Skolems proof of the ": null
+    },
+    {
+        "Löwenheim–Skolem theorem": "Löwenheim–Skolem Theorem"
+    },
+    {
+        ", lets us sharply reduce the complexity of the generic formula   we need to prove the theorem for:     Lemma. Let k  math /math math /math math /math  math /math  math /math  math /math  math /math math /math  math /math math /math math /math  math /math math /math math /math  math /math math /math math /math  math /math  math /math math /math math /math  math /math  math /math math /math math /math math /math math /math math /math  math /math math /math math /math math /math math /math math /math math /math  math /math  math /math math /math  math /math  math should hold if either   ": null
+    }
+]

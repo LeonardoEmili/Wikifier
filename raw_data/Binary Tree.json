@@ -1,0 +1,206 @@
+[
+    {
+        "     In ": null
+    },
+    {
+        "computer science": "Computer Science"
+    },
+    {
+        ", a binary tree is a ": null
+    },
+    {
+        "tree": "Tree Structure"
+    },
+    {
+        " data structure": "Data Structure"
+    },
+    {
+        " in which each node has at most two ": null
+    },
+    {
+        "children": "Child Node"
+    },
+    {
+        ", which are referred to as the  and the . A ": null
+    },
+    {
+        "recursive definition": "Recursive Definition"
+    },
+    {
+        " using just ": null
+    },
+    {
+        "set theory": "Set Theory"
+    },
+    {
+        " notions is that a binary tree is a ": null
+    },
+    {
+        "tuple": "Tuple"
+    },
+    {
+        " , where L and R are binary trees or the ": null
+    },
+    {
+        "empty set": "Empty Set"
+    },
+    {
+        " and S is a ": null
+    },
+    {
+        "singleton set": "Singleton Set"
+    },
+    {
+        ".  Some authors allow the binary tree to be the empty set as well.      From a ": null
+    },
+    {
+        "graph theory": "Graph Theory"
+    },
+    {
+        " perspective, binary trees as defined here are actually ": null
+    },
+    {
+        "arborescences": "Arborescence"
+    },
+    {
+        ".  A binary tree may thus be also called a bifurcating arborescence —a term which appears in some very old programming books,  before the modern computer science terminology prevailed. It is also possible to interpret a binary tree as an ": null
+    },
+    {
+        "undirected": "Undirected Graph"
+    },
+    {
+        ", rather than a ": null
+    },
+    {
+        "directed graph": "Directed Graph"
+    },
+    {
+        ", in which case a binary tree is an ": null
+    },
+    {
+        "ordered": "Ordered Tree"
+    },
+    {
+        ", ": null
+    },
+    {
+        "rooted tree": "Rooted Tree"
+    },
+    {
+        ".  Some authors use rooted binary tree instead of binary tree to emphasize the fact that the tree is rooted, but as defined above, a binary tree is always rooted.  A binary tree is a special case of an ordered ": null
+    },
+    {
+        "K-ary tree": "K-Ary Tree"
+    },
+    {
+        ", where k is 2.     In mathematics, what is termed binary tree can vary significantly from author to author. Some use the definition commonly used in computer science, but others define it as every non-leaf having exactly two children and dont necessarily order the children either.      In computing, binary trees are used in two very different ways:     First, as a means of accessing nodes based on some value or label associated with each node.  Binary trees labelled this way are used to implement ": null
+    },
+    {
+        "binary search trees": "Binary Search Tree"
+    },
+    {
+        "and ": null
+    },
+    {
+        "binary heap": "Binary Heap"
+    },
+    {
+        "s, and are used for efficient ": null
+    },
+    {
+        "searching": "Search Algorithm"
+    },
+    {
+        " and ": null
+    },
+    {
+        "sorting": "Sorting Algorithm"
+    },
+    {
+        ". The designation of non-root nodes as left or right child even when there is only one child present matters in some of these applications, in particular it is significant in binary search trees.  However, the arrangement of particular nodes into the tree is not part of the conceptual information. For example, in a normal binary search tree the placement of nodes depends almost entirely on the order in which they were added, and can be re-arranged  without changing the meaning.     Second, as a representation of data with a relevant bifurcating structure. In such cases the particular arrangement of nodes under and/or to the left or right of other nodes is part of the information . Common examples occur with ": null
+    },
+    {
+        "Huffman coding": "Huffman Coding"
+    },
+    {
+        " and ": null
+    },
+    {
+        "cladograms": "Cladograms"
+    },
+    {
+        ". The everyday division of documents into chapters, sections, paragraphs, and so on is an analogous example with n-ary rather than binary trees.              To actually define a binary tree in general, we must allow for the possibility that only one of the children may be empty. An artifact, which in some textbooks is called an extended binary tree is needed for that purpose. An extended binary tree is thus recursively defined as:   the ": null
+    },
+    {
+        "empty set": "Empty Set"
+    },
+    {
+        " is an extended binary tree   if T 1 and T 2 are extended binary trees, then denote by T 1 • T 2 the extended binary tree obtained by adding a root r connected to the left to T 1 and to the right to T 2 by adding edges when these sub-trees are non-empty.     Another way of imagining this construction is to consider instead of the empty set a different type of node—for instance square nodes if the regular ones are circles.        A binary tree is a ": null
+    },
+    {
+        "rooted tree": "Rooted Tree"
+    },
+    {
+        " that is also an ": null
+    },
+    {
+        "ordered tree": "Ordered Tree"
+    },
+    {
+        " in which every node has at most two children. A rooted tree naturally imparts a notion of levels , thus for every node a notion of children may be defined as the nodes connected to it a level below. Ordering of these children makes possible to distinguish left child from right child.  But this still doesnt distinguish between a node with left but not a right child from a one with right but no left child.     The necessary distinction can be made by first partitioning the edges, i.e., defining the binary tree as triplet , where is a rooted tree and E 1 ∩ E 2 is empty, and also requiring that for all j ∈ every node has at most one E j child.  A more informal way of making the distinction is to say, quoting the ": null
+    },
+    {
+        "Encyclopedia of Mathematics": "Encyclopedia Of Mathematics"
+    },
+    {
+        ", that every node has a left child, a right child, neither, or both and to specify that these are all different binary trees.  also in print as        Tree terminology is not well-standardized and so varies in the literature.   A  binary ": null
+    },
+    {
+        "tree": "Tree Data Structure"
+    },
+    {
+        " has a ": null
+    },
+    {
+        "root node": "Root Node"
+    },
+    {
+        " and every node has at most two children.        binary tree   Richard Stanley, Enumerative Combinatorics, volume 2, p.36 is a tree in which every node has either 0 or 2 children. Another way of defining a full binary tree is a ": null
+    },
+    {
+        "recursive definition": "Recursive Definition"
+    },
+    {
+        ". A full binary tree is either:    A single vertex.   A tree whose root node has two subtrees, both of which are full binary trees.   In a  binary tree every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible. It can have between 1 and 2 h nodes at the last level h.  An alternative definition is a perfect tree whose rightmost leaves have been removed. Some authors use the term complete to refer instead to a perfect binary tree as defined below, in which case they call this type of tree an almost complete binary tree or nearly complete binary tree.   A complete binary tree can be efficiently represented using an array.       binary tree is a binary tree in which all interior nodes have two children and all leaves have the same depth or same level.  An example of a perfect binary tree is the ": null
+    },
+    {
+        "ancestry chart": "Ancestry Chart"
+    },
+    {
+        " of a person to a given depth, as each person has exactly two biological parents . Provided the ancestry chart always displays the mother and the father on the same side for a given node, their sex can be seen as an analogy of left and right children, children being understood here as an algorithmic term. A perfect tree is therefore always complete but a complete tree is not necessarily perfect.   In the infinite complete binary tree, every node has two children . The set of all nodes is countably infinite, but the set of all infinite paths from the root is uncountable, having the ": null
+    },
+    {
+        "cardinality of the continuum": "Cardinality Of The Continuum"
+    },
+    {
+        ". These paths correspond by an order-preserving ": null
+    },
+    {
+        "bijection": "Bijection"
+    },
+    {
+        " to the points of the ": null
+    },
+    {
+        "Cantor set": "Cantor Set"
+    },
+    {
+        ", or  to the set of positive ": null
+    },
+    {
+        "irrational number": "Irrational Number"
+    },
+    {
+        "s.   A balanced binary tree is a binary tree structure in which the left and right subtrees of every node differ in height by no more than 1. Aaron M. Tenenbaum, et al. Data Structures Using C, Prentice Hall, 1990  One may also consider binary trees where no leaf is much farther away from the root than any other leaf.    A degenerate tree is where each parent node has only one associated child node. This means that the tree will behave like a linked list data structure.       The number of nodes n in a full binary tree, is at least n 2h+1 and at most n 2-1 , where h is the height of the tree. A tree consisting of only a root node has a height of 0.   The number of leaf nodes l in a perfect binary tree, is l / 2 because the number of non-leaf nodes n - l   2k 2 - 1 l - 1 .   This means that a full binary tree with l leaves has n 2l - 1 nodes.   In a balanced full binary tree, h     + 1     + 1     .   In a perfect full binary tree, l 2 thus n 2 - 1 .   The maximum possible number of null links in a complete binary tree of n nodes is , where only 1 node exists in bottom-most level to the far left.   The number of internal nodes in a complete binary tree of n nodes is   n/2  .   For any non-empty binary tree with n 0 leaf nodes and n 2 nodes of degree 2, n 0 n 2 + 1.         In combinatorics one considers the problem of counting the number of full binary trees of a given size. Here the trees have no values attached to their nodes , and trees are distinguished only by their structure; however the left and right child of any node are distinguished . The size of the tree is taken to be the number n of internal nodes ; the other nodes are leaf nodes and there are of them. The number of such binary trees of size n is equal to the number of ways of fully parenthesizing a string of symbols separated by n binary operators , so as to determine the argument subexpressions of each operator. For instance for one has to parenthesize a string like , which is possible in five ways:   : X,  X,  ,  X,  X.   The correspondence to binary trees should be obvious, and the addition of redundant parentheses is disallowed .     There is a unique binary tree of size 0 , and any other binary tree is characterized by the pair of its left and right children; if these have sizes i and j respectively, the full tree has size . Therefore, the number Cn of binary trees of size n has the following recursive description C01 , and   Cn  for any positive integer n. It follows that Cn is the Catalan number of index n.     The above parenthesized strings should not be confused with the set of words of length 2n in the Dyck language , which consist only of parentheses in such a way that they are properly balanced. The number of such strings satisfies the same recursive description ; this number is therefore also the Catalan number Cn . So there are also five Dyck words of length 6:   : ,  ,  ,  ,  .     These Dyck words do not correspond to binary trees in the same way. Instead, they are related by the following recursively defined bijection: the Dyck word equal to the empty string corresponds to the binary tree of size 0 with only one leaf. Any other Dyck word can be written as w2 , where w1 , w2 are themselves Dyck words and where the two written parentheses are matched. The bijection is then defined by letting the words w1 and w2 correspond to the binary trees that are the left and right children of the root.     A bijective correspondence can also be defined as follows: enclose the Dyck word in an extra pair of parentheses, so that the result can be interpreted as a Lisp list expression ; then the dotted-pair expression for that proper list is a fully parenthesized expression describing the corresponding binary tree .     The ability to represent binary trees as strings of symbols and parentheses implies that binary trees can represent the elements of a free magma on a singleton set.       Binary trees can be constructed from programming language primitives in several ways.         In a language with records and references , binary trees are typically constructed by having a tree node structure which contains some data and references to its left child and its right child. Sometimes it also contains a reference to its unique parent. If a node has fewer than two children, some of the child pointers may be set to a special null value, or to a special sentinel node .     This method of storing binary trees wastes a fair bit of memory, as the pointers will be null more than half the time; a more conservative representation alternative is threaded binary tree .     In languages with tagged union s such as ML , a tree node is often a tagged union of two types of nodes, one of which is a 3-tuple of data, left child, and right child, and the other of which is a leaf node, which contains no data and functions much like the null value in a language with pointers. For example, the following line of code in OCaml defines a binary tree that stores a character in each node.         type chrtree Empty | Node of char chrtree chrtree           Binary trees can also be stored in breadth-first order as an implicit data structure in arrays , and if the tree is a complete binary tree, this method wastes no space. In this compact arrangement, if a node has an index i, its children are found at indices 2i + 1 and 2i +2 , while its parent is found at index             . This method benefits from more compact storage and better locality of reference , particularly during a preorder traversal. However, it is expensive to grow and wastes space proportional to 2 h - n for a tree of depth h with n nodes.     This method of storage is often used for binary heap s. No space is wasted because nodes are added in breadth-first order.     300           A succinct data structure is one which occupies close to minimum possible space, as established by information theoretical lower bounds. The number of different binary trees on n nodes is   , the n th Catalan number . For large n , this is about 4 ; thus we need at least about   2n bits to encode it. A succinct binary tree therefore would occupy 2n+o bits.     One simple representation which meets this bound is to visit the nodes of the tree in preorder, outputting 1 for an internal node and 0 for a leaf. If the tree contains data, we can simply simultaneously store it in a consecutive array in preorder. This function accomplishes this:     function EncodeSuccinct      The string structure has only 2n + 1 bits in the end, where n is the number of nodes; we dont even have to store its length. To show that no information is lost, we can convert the output back to the original tree like this:     function DecodeSuccinct      More sophisticated succinct representations allow not only compact storage of trees but even useful operations on those trees directly while theyre still in their succinct form.       There is a one-to-one mapping between general ordered trees and binary trees, which in particular is used by Lisp to represent general ordered trees as binary trees. To convert a general ordered tree to binary tree, we only need to represent the general tree in left-child right-sibling way. The result of this representation will automatically be a binary tree, if viewed from a different perspective. Each node N in the ordered tree corresponds to a node N  in the binary tree; the left child of N  is the node corresponding to the first child of N, and the right child of N  is the node corresponding to N s next sibling --- that is, the next node in order among the children of the parent of N. This binary tree representation of a general order tree is sometimes also referred to as a left-child right-sibling binary tree .     One way of thinking about this is that each nodes children are in a linked list , chained together with their right fields, and the node only has a pointer to the beginning or head of this list, through its left field.     For example, in the tree on the left, A has the 6 children . It can be converted into the binary tree on the right.       400x240       The binary tree can be thought of as the original tree tilted sideways, with the black left edges representing first child and the blue right edges representing next sibling. The leaves of the tree on the left would be written in Lisp as:     :     which would be implemented in memory as the binary tree on the right, without any letters on those nodes that have a left child.       thu s are very common internal operations on self-balancing binary trees .   There are a variety of different operations that can be performed on binary trees. Some are mutator operations, while others simply return useful information about the tree.       Nodes can be inserted into binary trees in between two other nodes or added after a leaf node . In binary trees, a node that is inserted is specified as to which child it is.       To add a new node after leaf node A, A assigns the new node as one of its children and the new node assigns node A as its parent.       thu   Insertion on internal node s is slightly more complex than on leaf nodes. Say that the internal node is node A and that node B is the child of A. A assigns its child to the new node and the new node assigns its parent to A. Then the new node assigns its child to B and B assigns its parent as the new node.       Deletion is the process whereby a node is removed from the tree. Only certain nodes in a binary tree can be removed unambiguously.         thu   Suppose that the node to delete is node A. If A has no children, deletion is accomplished by setting the child of As parent to null . If A has one child, set the parent of As child to As parent and set the child of As parent to As child.       In a binary tree, a node with two children cannot be deleted unambiguously. However, in certain binary trees these nodes can be deleted, though with a rearrangement of the tree structure.           Pre-order, in-order, and post-order traversal visit each node in a tree by recursively visiting each node in the left and right subtrees of the root.       In depth-first order, we always attempt to visit the node farthest from the root node that we can, but with the caveat that it must be a child of a node we have already visited. Unlike a depth-first search on graphs, there is no need to remember all the nodes we have visited, because a tree cannot contain cycles. Pre-order is a special case of this. See depth-first search for more information.       Contrasting with depth-first order is breadth-first order, which always attempts to visit the node closest to the root that it has not already visited. See breadth-first search for more information. Also called a level-order traversal.     In a complete binary tree, a nodes breadth-index  can be used as traversal instructions from the root. Reading bitwise from left to right, starting at bit d − 1, where d is the nodes distance from the root  and the node in question is not the root itself ": null
+    }
+]

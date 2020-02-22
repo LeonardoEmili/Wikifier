@@ -1,0 +1,443 @@
+[
+    {
+        "         A Cartesian coordinate system  is a ": null
+    },
+    {
+        "coordinate system": "Coordinate System"
+    },
+    {
+        " that specifies each ": null
+    },
+    {
+        "point": "Point"
+    },
+    {
+        " uniquely in a ": null
+    },
+    {
+        "plane": "Plane"
+    },
+    {
+        " by a set of ": null
+    },
+    {
+        "numerical": "Number"
+    },
+    {
+        " coordinates, which are the ": null
+    },
+    {
+        "signed": "Positive And Negative Numbers"
+    },
+    {
+        " distances to the point from two fixed ": null
+    },
+    {
+        "perpendicular": "Perpendicular"
+    },
+    {
+        " oriented lines, measured in the same ": null
+    },
+    {
+        "unit of length": "Unit Length"
+    },
+    {
+        ". Each reference line is called a coordinate axis or just axis  of the system, and the point where they meet is its  origin , at ordered pair . The coordinates can also be defined as the positions of the ": null
+    },
+    {
+        "perpendicular projections": "Orthogonal Projection"
+    },
+    {
+        " of the point onto the two axes, expressed as signed distances from the origin.     One can use the same principle to specify the position of any point in ": null
+    },
+    {
+        "three-dimensional space": "Three-Dimensional Space"
+    },
+    {
+        " by three Cartesian coordinates, its signed distances to three mutually perpendicular planes . In general, n Cartesian coordinates  specify the point in an n-dimensional ": null
+    },
+    {
+        "Euclidean space": "Euclidean Space"
+    },
+    {
+        " for any ": null
+    },
+    {
+        "dimension": "Dimension"
+    },
+    {
+        " n. These coordinates are equal, up to ": null
+    },
+    {
+        "sign": "Sign"
+    },
+    {
+        ", to distances from the point to n mutually perpendicular ": null
+    },
+    {
+        "hyperplane": "Hyperplane"
+    },
+    {
+        "s.          The invention of Cartesian coordinates in the 17th century by ": null
+    },
+    {
+        "René Descartes": "René Descartes"
+    },
+    {
+        "  revolutionized mathematics by providing the first systematic link between ": null
+    },
+    {
+        "Euclidean geometry": "Euclidean Geometry"
+    },
+    {
+        " and ": null
+    },
+    {
+        "algebra": "Algebra"
+    },
+    {
+        ". Using the Cartesian coordinate system, geometric shapes  can be described by Cartesian equations": null
+    },
+    {
+        "equations": "Equation"
+    },
+    {
+        "involving the coordinates of the points lying on the shape. For example, a circle of radius 2, centered at the origin of the plane, may be described as the set of all points whose coordinates x and y satisfy the equation .     Cartesian coordinates are the foundation of ": null
+    },
+    {
+        "analytic geometry": "Analytic Geometry"
+    },
+    {
+        ", and provide enlightening geometric interpretations for many other branches of mathematics, such as ": null
+    },
+    {
+        "linear algebra": "Linear Algebra"
+    },
+    {
+        ", ": null
+    },
+    {
+        "complex analysis": "Complex Analysis"
+    },
+    {
+        ", ": null
+    },
+    {
+        "differential geometry": "Differential Geometry"
+    },
+    {
+        ", multivariate ": null
+    },
+    {
+        "calculus": "Calculus"
+    },
+    {
+        ", ": null
+    },
+    {
+        "group theory": "Group Theory"
+    },
+    {
+        " and more. A familiar example is the concept of the ": null
+    },
+    {
+        "graph of a function": "Graph Of A Function"
+    },
+    {
+        ". Cartesian coordinates are also essential tools for most applied disciplines that deal with geometry, including ": null
+    },
+    {
+        "astronomy": "Astronomy"
+    },
+    {
+        ", ": null
+    },
+    {
+        "physics": "Physics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "engineering": "Engineering"
+    },
+    {
+        " and many more. They are the most common coordinate system used in ": null
+    },
+    {
+        "computer graphics": "Computer Graphics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "computer-aided geometric design": "Computer-Aided Geometric Design"
+    },
+    {
+        " and other ": null
+    },
+    {
+        "geometry-related data processing": "Computational Geometry"
+    },
+    {
+        ".       The adjective Cartesian refers to the French ": null
+    },
+    {
+        "mathematician": "Mathematician"
+    },
+    {
+        " and ": null
+    },
+    {
+        "philosopher": "Philosopher"
+    },
+    {
+        " René Descartes": "René Descartes"
+    },
+    {
+        ", who published this idea in 1637. It was independently discovered by ": null
+    },
+    {
+        "Pierre de Fermat": "Pierre De Fermat"
+    },
+    {
+        ", who also worked in three dimensions, although Fermat did not publish the discovery.  The French cleric ": null
+    },
+    {
+        "Nicole Oresme": "Nicole Oresmemathematics"
+    },
+    {
+        " used constructions similar to Cartesian coordinates well before the time of Descartes and Fermat.      Both Descartes and Fermat used a single axis in their treatments and have a variable length measured in reference to this axis. The concept of using a pair of axes was introduced later, after Descartes  La Géométrie  was translated into Latin in 1649 by ": null
+    },
+    {
+        "Frans van Schooten": "Frans Van Schooten"
+    },
+    {
+        " and his students. These commentators introduced several concepts while trying to clarify the ideas contained in Descartes work.      The development of the Cartesian coordinate system would play a fundamental role in the development of the ": null
+    },
+    {
+        "calculus": "Calculus"
+    },
+    {
+        " by ": null
+    },
+    {
+        "Isaac Newton": "Isaac Newton"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Gottfried Wilhelm Leibniz": "Gottfried Wilhelm Leibniz"
+    },
+    {
+        ". A Tour of the Calculus, David Berlinski The two-coordinate description of the plane was later generalized into the concept of ": null
+    },
+    {
+        "vector spaces": "Vector Spaces"
+    },
+    {
+        ".      Many other coordinate systems have been developed since Descartes, such as the ": null
+    },
+    {
+        "polar coordinates": "Polar Coordinate System"
+    },
+    {
+        " for the plane, and the ": null
+    },
+    {
+        "spherical": "Spherical Coordinate System"
+    },
+    {
+        " and ": null
+    },
+    {
+        "cylindrical coordinates": "Cylindrical Coordinate System"
+    },
+    {
+        " for three-dimensional space.            Choosing a Cartesian coordinate system for a one-dimensional space—that is, for a straight line—involves choosing a point O of the line , a unit of length, and an orientation for the line. An orientation chooses which of the two half-lines determined by O is the positive, and which is negative; we then say that the line is oriented from the negative half towards the positive half. Then each point P of the line can be specified by its distance from O, taken with a + or − sign depending on which half-line contains P.     A line with a chosen Cartesian system is called a number line. Every real number has a unique location on the line. Conversely, every point on the line can be interpreted as a ": null
+    },
+    {
+        "number": "Number"
+    },
+    {
+        " in an ordered continuum such as the real numbers.        A Cartesian coordinate system in two dimensions  is defined by an ": null
+    },
+    {
+        "ordered pair": "Ordered Pair"
+    },
+    {
+        " of ": null
+    },
+    {
+        "perpendicular": "Perpendicular"
+    },
+    {
+        " lines , a single ": null
+    },
+    {
+        "unit of length": "Unit Of Length"
+    },
+    {
+        " for both axes, and an orientation for each axis. The point where the axes meet is taken as the origin for both, thus turning each axis into a number line. For any point P, a line is drawn through P perpendicular to each axis, and the position where it meets the axis is interpreted as a number. The two numbers, in that chosen order, are the Cartesian coordinates of P. The reverse construction allows one to determine the point P given its coordinates.     The first and second coordinates are called the  abscissa  and the  ordinate  of P, respectively; and the point where the axes meet is called the origin of the coordinate system. The coordinates are usually written as two numbers in parentheses, in that order, separated by a comma, as in . Thus the origin has coordinates , and the points on the positive half-axes, one unit away from the origin, have coordinates  and .     In mathematics, physics, and engineering, the first axis is usually defined or depicted as horizontal and oriented to the right, and the second axis is vertical and oriented upwards.  The origin is often labeled O, and the two coordinates are often denoted by the letters X and Y, or x and y. The axes may then be referred to as the X-axis and Y-axis. The choices of letters come from the original convention, which is to use the latter part of the alphabet to indicate unknown values. The first part of the alphabet was used to designate known values.     A ": null
+    },
+    {
+        "Euclidean plane": "Euclidean Plane"
+    },
+    {
+        " with a chosen Cartesian coordinate system is called a Cartesian plane. In a Cartesian plane one can define canonical representatives of certain geometric figures, such as the ": null
+    },
+    {
+        "unit circle": "Unit Circle"
+    },
+    {
+        " , the ": null
+    },
+    {
+        "unit square": "Unit Square"
+    },
+    {
+        " , the ": null
+    },
+    {
+        "unit hyperbola": "Unit Hyperbola"
+    },
+    {
+        ", and so on.     The two axes divide the plane into four ": null
+    },
+    {
+        "right angle": "Right Angle"
+    },
+    {
+        "s, called quadrants. The quadrants may be named or numbered in various ways, but the quadrant where all coordinates are positive is usually called the first quadrant.     If the coordinates of a point are , then its ": null
+    },
+    {
+        "distances": "Distance From A Point To A Line"
+    },
+    {
+        " from the X-axis and from the Y-axis are |y x ": null
+    },
+    {
+        "absolute value": "Absolute Value"
+    },
+    {
+        " of a number.                A Cartesian coordinate system for a three-dimensional space consists of an ordered triplet of lines  that go through a common point , and are pair-wise perpendicular; an orientation for each axis; and a single unit of length for all three axes. As in the two-dimensional case, each axis becomes a number line. For any point P of space, one considers a hyperplane through P perpendicular to each coordinate axis, and interprets the point where that hyperplane cuts the axis as a number. The Cartesian coordinates of P are those three numbers, in the chosen order. The reverse construction determines the point P given its three coordinates.     Alternatively, each coordinate of a point P can be taken as the distance from P to the hyperplane defined by the other two axes, with the sign determined by the orientation of the corresponding axis.     Each pair of axes defines a coordinate hyperplane. These hyperplanes divide space into eight ": null
+    },
+    {
+        "trihedra": "Trihedron"
+    },
+    {
+        ", called octants.     The octants are: | | | | | | | | |     The coordinates are usually written as three numbers surrounded by parentheses and separated by commas, as in  or . Thus, the origin has coordinates , and the unit points on the three axes are , , and .     There are no standard names for the coordinates in the three axes . The coordinates are often denoted by the letters X, Y, and Z, or x, y, and z. The axes may then be referred to as the X-axis, Y-axis, and Z-axis, respectively. Then the coordinate hyperplanes can be referred to as the XY-plane, YZ-plane, and XZ-plane.     In mathematics, physics, and engineering contexts, the first two axes are often defined or depicted as horizontal, with the third axis pointing up. In that case the third coordinate may be called height or altitude. The orientation is usually chosen so that the 90 degree angle from the first axis to the second axis looks counter-clockwise when seen from the point ; a convention that is commonly called the right hand rule .            Since Cartesian coordinates are unique and non-ambiguous, the points of a Cartesian plane can be identified with pairs of ": null
+    },
+    {
+        "real number": "Real Number"
+    },
+    {
+        "s; that is with the ": null
+    },
+    {
+        "Cartesian product": "Cartesian Product"
+    },
+    {
+        "     , where   is the set of all real numbers. In the same way, the points in any ": null
+    },
+    {
+        "Euclidean space": "Euclidean Space"
+    },
+    {
+        " of dimension n be identified with the ": null
+    },
+    {
+        "tuples": "Tuple"
+    },
+    {
+        " of n real numbers, that is, with the Cartesian product   .       The concept of Cartesian coordinates generalizes to allow axes that are not perpendicular to each other, and/or different units along each axis. In that case, each coordinate is obtained by projecting the point onto one axis along a direction that is parallel to the other axis . In such an oblique coordinate system the computations of distances and angles must be modified from that in standard Cartesian systems, and many standard formulas do not hold .          The Cartesian coordinates of a point are usually written in ": null
+    },
+    {
+        "parentheses": "Parentheses"
+    },
+    {
+        " and separated by commas, as in  or . The origin is often labelled with the capital letter O. In analytic geometry, unknown or generic coordinates are often denoted by the letters  in the plane, and  in three-dimensional space. This custom comes from a convention of algebra, which uses letters near the end of the alphabet for unknown values , and letters near the beginning for given quantities.     These conventional names are often used in other domains, such as physics and engineering, although other letters may be used. For example, in a graph showing how a ": null
+    },
+    {
+        "pressure": "Pressure"
+    },
+    {
+        " varies with ": null
+    },
+    {
+        "time": "Time"
+    },
+    {
+        ", the graph coordinates may be denoted p and t. Each axis is usually named after the coordinate which is measured along it; so one says the x-axis, the y-axis, the t-axis, etc.     Another common convention for coordinate naming is to use subscripts, as  for the n coordinates in an n-dimensional space, especially when n is greater than 3 or unspecified. Some authors prefer the numbering . These notations are especially advantageous in ": null
+    },
+    {
+        "computer programming": "Computer Programming"
+    },
+    {
+        "array": "Array Data Type"
+    },
+    {
+        ", instead of a ": null
+    },
+    {
+        "record": "Record"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "subscript": "Subscript"
+    },
+    {
+        " can serve to index the coordinates.     In mathematical illustrations of two-dimensional Cartesian systems, the first coordinate  is measured along a ": null
+    },
+    {
+        "horizontal": "Horizontal Plane"
+    },
+    {
+        " axis, oriented from left to right. The second coordinate  is then measured along a ": null
+    },
+    {
+        "vertical": "Vertical Direction"
+    },
+    {
+        " axis, usually oriented from bottom to top. Young children learning the Cartesian system, commonly learn the order to read the values before cementing the x-, y-, and z-axis concepts, by starting with 2D mnemonics .      Computer graphics and ": null
+    },
+    {
+        "image processing": "Image Processing"
+    },
+    {
+        ", however, often use a coordinate system with the y-axis oriented downwards on the computer display. This convention developed in the 1960s from the way that images were originally stored in ": null
+    },
+    {
+        "display buffers": "Framebuffer"
+    },
+    {
+        ".     For three-dimensional systems, a convention is to portray the xy-plane horizontally, with the z-axis added to represent height . Furthermore, there is a convention to orient the x-axis toward the viewer, biased either to the right or left. If a diagram  shows the x- and y-axis horizontally and vertically, respectively, then the z-axis should be shown pointing out of the page towards the viewer or camera. In such a 2D diagram of a 3D coordinate system, the z-axis would appear as a line or ray pointing down and to the left or down and to the right, depending on the presumed viewer or camera ": null
+    },
+    {
+        "perspective": "Perspective"
+    },
+    {
+        ". In any diagram or display, the orientation of the three axes, as a whole, is arbitrary. However, the orientation of the axes relative to each other should always comply with the ": null
+    },
+    {
+        "right-hand rule": "Right-Hand Rule"
+    },
+    {
+        ", unless specifically stated otherwise. All laws of physics and math assume this ": null
+    },
+    {
+        "right-handedness": "Orientation And Handedness"
+    },
+    {
+        ", which ensures consistency.     For 3D diagrams, the names abscissa and ordinate are rarely used for x and y, respectively. When they are, the z-coordinate is sometimes called the applicate. The words abscissa, ordinate and applicate are sometimes used to refer to coordinate axes rather than the coordinate values.                 The axes of a two-dimensional Cartesian system divide the plane into four infinite regions, called quadrants, each bounded by two half-axes. These are often numbered from 1st to 4th and denoted by ": null
+    },
+    {
+        "Roman numeral": "Roman Numeral"
+    },
+    {
+        "s: I  Units of distance must be decided defining the spatial size represented by the numbers used as coordinates. 2": null
+    }
+]

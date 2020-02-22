@@ -1,0 +1,581 @@
+[
+    {
+        "   C ∗ -algebras are subjects of research in ": null
+    },
+    {
+        "functional analysis": "Functional Analysis"
+    },
+    {
+        ", a branch of ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ". A C-algebra is a ": null
+    },
+    {
+        "Banach algebra": "Banach Algebra"
+    },
+    {
+        " together with an involution satisfying the properties of the ": null
+    },
+    {
+        "adjoint": "Hermitianadjoint"
+    },
+    {
+        ". A particular case is that of a ": null
+    },
+    {
+        "complex": "Complex Number"
+    },
+    {
+        " algebra": "Algebra Over A Field"
+    },
+    {
+        " A of ": null
+    },
+    {
+        "continuous linear operators": "Continuous Linear Operator"
+    },
+    {
+        "on a ": null
+    },
+    {
+        "complex": "Complex Number"
+    },
+    {
+        " Hilbert space": "Hilbert Space"
+    },
+    {
+        " with two additional properties:     A is a topologically ": null
+    },
+    {
+        "closed set": "Closed Set"
+    },
+    {
+        " in the ": null
+    },
+    {
+        "norm topology": "Norm Topology"
+    },
+    {
+        " of operators.   A is closed under the operation of taking ": null
+    },
+    {
+        "adjoints": "Adjoint Of An Operator"
+    },
+    {
+        "of operators.     Another important class of non-Hilbert C-algebra include the algebra of continuous functions C0 .     C-algebras were first considered primarily for their use in ": null
+    },
+    {
+        "quantum mechanics": "Quantum Mechanics"
+    },
+    {
+        " to ": null
+    },
+    {
+        "model": "Model"
+    },
+    {
+        " algebras of physical ": null
+    },
+    {
+        "observable": "Observable"
+    },
+    {
+        "s. This line of research began with ": null
+    },
+    {
+        "Werner Heisenbergs": "Werner Heisenberg"
+    },
+    {
+        " matrix mechanics": "Matrix Mechanics"
+    },
+    {
+        " and in a more mathematically developed form with ": null
+    },
+    {
+        "Pascual Jordan": "Pascual Jordan"
+    },
+    {
+        " around 1933. Subsequently, ": null
+    },
+    {
+        "John von Neumann": "John Von Neumann"
+    },
+    {
+        " attempted to establish a general framework for these algebras which culminated in a series of papers on rings of operators. These papers considered a special class of C-algebras which are now known as ": null
+    },
+    {
+        "von Neumann algebra": "Von Neumann Algebra"
+    },
+    {
+        "s.     Around 1943, the work of ": null
+    },
+    {
+        "Israel Gelfand": "Israel Gelfand"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Mark Naimark": "Mark Naimark"
+    },
+    {
+        " yielded an abstract characterisation of C-algebras making no reference to operators on a Hilbert space.     C-algebras are now an important tool in the theory of ": null
+    },
+    {
+        "unitary representations": "Unitary Representation"
+    },
+    {
+        "of ": null
+    },
+    {
+        "locally compact group": "Locally Compact Group"
+    },
+    {
+        "s, and are also used in algebraic formulations of quantum mechanics. Another active area of research is the program to obtain classification, or to determine the extent of which classification is possible, for separable simple ": null
+    },
+    {
+        "nuclear C-algebra": "Nuclear C-Algebra"
+    },
+    {
+        "s.         We begin with the abstract characterization of C-algebras given in the 1943 paper by Gelfand and Naimark.     A C-algebra, A, is a ": null
+    },
+    {
+        "Banach algebra": "Banach Algebra"
+    },
+    {
+        " over the field of ": null
+    },
+    {
+        "complex number": "Complex Number"
+    },
+    {
+        "s, together with a ": null
+    },
+    {
+        "map": "Map"
+    },
+    {
+        " x   x for x  A with the following properties:     It is an ": null
+    },
+    {
+        "involution": "Semigroup With Involution"
+    },
+    {
+        ", for every x in Ax, y in AC and every x in Ax in ARemark. The first three identities say that A is a ": null
+    },
+    {
+        "-algebra": "-Algebra"
+    },
+    {
+        ". The last identity is called the C identity and is equivalent to:             which is sometimes called the B-identity. For history behind the names C- and B-algebras, see the ": null
+    },
+    {
+        "history": "Somehistory:B.2A-Algebrasandc.2A-Algebras"
+    },
+    {
+        " section below.     The C-identity is a very strong requirement. For instance, together with the ": null
+    },
+    {
+        "spectral radius formula": "Spectral Radius"
+    },
+    {
+        ", it implies that the C-norm is uniquely determined by the algebraic structure:     ::     x        A ": null
+    },
+    {
+        "bounded linear map": "Bounded Linear Map"
+    },
+    {
+        ", π : A → B, between C-algebras A and B is called a -homomorphism if     For x and y in A     ::             For x in A     ::           In the case of C-algebras, any -homomorphism π between C-algebras is ": null
+    },
+    {
+        "contractive": "Contraction"
+    },
+    {
+        ", i.e. bounded with norm ≤ 1. Furthermore, an injective -homomorphism between C-algebras is ": null
+    },
+    {
+        "isometric": "Isometry"
+    },
+    {
+        ". These are consequences of the C-identity.     A bijective -homomorphism π is called a C-isomorphism, in which case A and B are said to be isomorphic.       The term B-algebra was introduced by C. E. Rickart in 1946 to describe ": null
+    },
+    {
+        "Banach -algebras": "Banach -Algebra"
+    },
+    {
+        "that satisfy the condition:       x x     x   2 for all x in the given B-algebra.     This condition automatically implies that the -involution is isometric, that is,   x     x   . Hence,   xx    x     x  , and therefore, a B-algebra is also a C-algebra. Conversely, the C-condition implies the B-condition. This is nontrivial, and can be proved without using the condition   x     x   . , . For these reasons, the term B-algebra is rarely used in current terminology, and has been replaced by the term C-algebra.     The term C-algebra was introduced by ": null
+    },
+    {
+        "I. E. Segal": "Irving Segal"
+    },
+    {
+        " in 1947 to describe norm-closed subalgebras of B, namely, the space of bounded operators on some Hilbert space H. C stood for closed. , .  In his paper Segal defines a C-algebra as a uniformly closed, self-adjoint algebra of bounded operators on a Hilbert space .          C-algebras have a large number of properties that are technically convenient. Some of these properties can be established by using the ": null
+    },
+    {
+        "continuous functional calculus": "Continuous Functional Calculus"
+    },
+    {
+        " or by reduction to commutative C-algebras. In the latter case, we can use the fact that the structure of these is completely determined by the ": null
+    },
+    {
+        "Gelfand isomorphism": "Gelfand Isomorphism"
+    },
+    {
+        ".         Self-adjoint elements are those of the form xx A of the form xx forms a closed ": null
+    },
+    {
+        "convex cone": "Convex Cone"
+    },
+    {
+        ". This cone is identical to the elements of the form xx. Elements of this cone are called non-negative      The set of self-adjoint elements of a C-algebra A naturally has the structure of a ": null
+    },
+    {
+        "partially ordered": "Partial Order"
+    },
+    {
+        " vector space": "Vector Space"
+    },
+    {
+        "; the ordering is usually denoted ≥. In this ordering, a self-adjoint element x of A satisfies x ≥ 0 if and only if the ": null
+    },
+    {
+        "spectrum": "Spectrum"
+    },
+    {
+        " of x is non-negative, if and only if x ss for some s. Two self-adjoint elements x and y of A satisfy x ≥ y if x−y ≥ 0.     This partially ordered subspace allows the definition of a ": null
+    },
+    {
+        "positive linear functional": "Positive Linear Functional"
+    },
+    {
+        " on a C-algebra, which in turn is used to define the ": null
+    },
+    {
+        "states": "State"
+    },
+    {
+        " of a C-algebra, which in turn can be used to construct the ": null
+    },
+    {
+        "spectrum of a C-algebra": "Spectrum Of A C-Algebra"
+    },
+    {
+        " using the ": null
+    },
+    {
+        "GNS construction": "Gns Construction"
+    },
+    {
+        ".         Any C-algebra A has an ": null
+    },
+    {
+        "approximate identity": "Approximate Identity"
+    },
+    {
+        ". In fact, there is a directed family  λ∈I of self-adjoint elements of A such that     :: x e    x   :: 0   e    e    1              : In case A is separable, A has a sequential approximate identity. More generally, A will have a sequential approximate identity if and only if A contains a  strictly positive element , i.e. a positive element h such that hAh is dense in A.     Using approximate identities, one can show that the algebraic ": null
+    },
+    {
+        "quotient": "Quotient"
+    },
+    {
+        " of a C-algebra by a closed proper two-sided ": null
+    },
+    {
+        "ideal": "Ideal"
+    },
+    {
+        ", with the natural norm, is a C-algebra.     Similarly, a closed two-sided ideal of a C-algebra is itself a C-algebra.           The algebra M of n × n ": null
+    },
+    {
+        "matrices": "Matrix"
+    },
+    {
+        " over C becomes a C-algebra if we consider matrices as operators on the Euclidean space, C n , and use the ": null
+    },
+    {
+        "operator norm": "Operator Norm"
+    },
+    {
+        " conjugate transpose": "Conjugate Transpose"
+    },
+    {
+        ". More generally, one can consider finite ": null
+    },
+    {
+        "direct sums": "Direct Sum Of Modules"
+    },
+    {
+        "of matrix algebras. In fact, all C-algebras that are finite dimensional as vector spaces are of this form, up to isomorphism. The self-adjoint requirement means finite-dimensional C-algebras are ": null
+    },
+    {
+        "semisimple": "Semisimple Algebra"
+    },
+    {
+        ", from which fact one can deduce the following theorem of ": null
+    },
+    {
+        "Artin–Wedderburn": "Artin–Wedderburn Theorem"
+    },
+    {
+        " type:     Theorem. A finite-dimensional C-algebra, A, is ": null
+    },
+    {
+        "canonically": "Canonical Form"
+    },
+    {
+        " isomorphic to a finite direct sum   : A   A e   where min A is the set of minimal nonzero self-adjoint central projections of A.     Each C-algebra, Ae, is isomorphic to the full matrix algebra M. The finite family indexed on min A given by  e is called the dimension vector of A. This vector uniquely determines the isomorphism class of a finite-dimensional C-algebra. In the language of ": null
+    },
+    {
+        "K-theory": "Operator K-Theory"
+    },
+    {
+        ", this vector is the ": null
+    },
+    {
+        "positive cone": "Ordered Group"
+    },
+    {
+        " of the K 0 group of A.     A †-algebra  is the name occasionally used in ": null
+    },
+    {
+        "physics": "Physics"
+    },
+    {
+        " John A. Holbrook, David W. Kribs, and Raymond Laflamme. Noiseless Subsystems and the Structure of the Commutant in Quantum Error Correction. Quantum Information Processing. Volume 2, Number 5, pp. 381  419. Oct 2003. for a finite-dimensional C-algebra. The ": null
+    },
+    {
+        "dagger": "Dagger"
+    },
+    {
+        ", †, is used in the name because physicists typically use the symbol to denote a ": null
+    },
+    {
+        "Hermitian adjoint": "Hermitian Adjoint"
+    },
+    {
+        ", and are often not worried about the subtleties associated with an infinite number of dimensions. †-algebras feature prominently in ": null
+    },
+    {
+        "quantum mechanics": "Quantum Mechanics"
+    },
+    {
+        ", and especially ": null
+    },
+    {
+        "quantum information science": "Quantum Information Science"
+    },
+    {
+        ".     An immediate generalization of finite dimensional C-algebras are the ": null
+    },
+    {
+        "approximately finite dimensional C-algebra": "Approximately Finite Dimensional C-Algebra"
+    },
+    {
+        "s.       The prototypical example of a C-algebra is the algebra B of bounded ": null
+    },
+    {
+        "linear operators": "Linear Operator"
+    },
+    {
+        "defined on a complex ": null
+    },
+    {
+        "Hilbert space": "Hilbert Space"
+    },
+    {
+        " H; here x denotes the ": null
+    },
+    {
+        "adjoint operator": "Adjoint Operator"
+    },
+    {
+        " of the operator x : H → H. In fact, every C-algebra, A, is -isomorphic to a norm-closed adjoint closed subalgebra of B for a suitable Hilbert space, H; this is the content of the ": null
+    },
+    {
+        "Gelfand–Naimark theorem": "Gelfand–Naimark Theorem"
+    },
+    {
+        ".       Let H be a ": null
+    },
+    {
+        "separable": "Separable Space"
+    },
+    {
+        " infinite-dimensional Hilbert space. The algebra K of ": null
+    },
+    {
+        "compact operators": "Compact Operator On Hilbert Space"
+    },
+    {
+        "on H is a ": null
+    },
+    {
+        "norm closed": "Norm Closed"
+    },
+    {
+        " subalgebra of B. It is also closed under involution; hence it is a C-algebra.     Concrete C-algebras of compact operators admit a characterization similar to Wedderburns theorem for finite dimensional C-algebras:     Theorem. If A is a C-subalgebra of K, then there exists Hilbert spaces  i∈I such that   : A     K,   where the direct sum consists of elements  of the Cartesian product Π K with ||T i  K does not have an identity element, a sequential ": null
+    },
+    {
+        "approximate identity": "Approximate Identity"
+    },
+    {
+        " for K can be developed. To be specific, H is isomorphic to the space of square summable sequences l 2 ; we may assume that H l 2 . For each natural number n let H n  be the subspace of sequences of l 2 which vanish for indices k ≤ n and let e n  be the orthogonal projection onto H n . The sequence  n is an approximate identity for K.     K is a two-sided closed ideal of B. For separable Hilbert spaces, it is the unique ideal. The ": null
+    },
+    {
+        "quotient": "Quotient"
+    },
+    {
+        " of B by K is the ": null
+    },
+    {
+        "Calkin algebra": "Calkin Algebra"
+    },
+    {
+        ".       Let X be a ": null
+    },
+    {
+        "locally compact": "Locally Compact"
+    },
+    {
+        " Hausdorff space. The space C0 of complex-valued continuous functions on X that vanish at infinity  form a commutative C-algebra C0 under pointwise multiplication and addition. The involution is pointwise conjugation. C0 has a multiplicative unit element if and only if X is compact. As does any C-algebra, C0 has an ": null
+    },
+    {
+        "approximate identity": "Approximate Identity"
+    },
+    {
+        ". In the case of C0 this is immediate: consider the directed set of compact subsets of X , and for each compact K let fK be a function of compact support which is identically 1 on K . Such functions exist by the ": null
+    },
+    {
+        "Tietze extension theorem": "Tietze Extension Theorem"
+    },
+    {
+        " which applies to locally compact Hausdorff spaces. Any such sequence of functions   is an approximate identity.     The ": null
+    },
+    {
+        "Gelfand representation": "Gelfand Representation"
+    },
+    {
+        " states that every commutative C-algebra is -isomorphic to the algebra C0 , where X is the space of ": null
+    },
+    {
+        "characters": "Character"
+    },
+    {
+        " equipped with the ": null
+    },
+    {
+        "weak topology": "Weak Topology"
+    },
+    {
+        ". Furthermore, if C0 is ": null
+    },
+    {
+        "isomorphic": "Isomorphism"
+    },
+    {
+        " to C0 as C-algebras, it follows that X and Y are ": null
+    },
+    {
+        "homeomorphic": "Homeomorphism"
+    },
+    {
+        ". This characterization is one of the motivations for the ": null
+    },
+    {
+        "noncommutative topology": "Noncommutative Topology"
+    },
+    {
+        " and ": null
+    },
+    {
+        "noncommutative geometry": "Noncommutative Geometry"
+    },
+    {
+        " programs.       Given a Banach -algebra A with an ": null
+    },
+    {
+        "approximate identity": "Approximate Identity"
+    },
+    {
+        ", there is a unique C-algebra E and -morphism π from A into E which is ": null
+    },
+    {
+        "universal": "Universal Morphism"
+    },
+    {
+        ", that is, every other continuous -morphism  factors uniquely through π. The algebra E is called the C-enveloping algebra of the Banach -algebra A.     Of particular importance is the C-algebra of a ": null
+    },
+    {
+        "locally compact group": "Locally Compact Group"
+    },
+    {
+        " G. This is defined as the enveloping C-algebra of the ": null
+    },
+    {
+        "group algebra": "Group Algebra"
+    },
+    {
+        " of G. The C-algebra of G provides context for general ": null
+    },
+    {
+        "harmonic analysis": "Harmonic Analysis"
+    },
+    {
+        " of G in the case G is non-abelian. In particular, the dual of a locally compact group is defined to be the primitive ideal space of the group C-algebra. See ": null
+    },
+    {
+        "spectrum of a C-algebra": "Spectrum Of A C-Algebra"
+    },
+    {
+        ".         ": null
+    },
+    {
+        "Von Neumann algebra": "Von Neumann Algebra"
+    },
+    {
+        "s, known as W algebras before the 1960s, are a special kind of C-algebra. They are required to be closed in the ": null
+    },
+    {
+        "weak operator topology": "Weak Operator Topology"
+    },
+    {
+        ", which is weaker than the norm topology.     The ": null
+    },
+    {
+        "Sherman–Takeda theorem": "Sherman–Takeda Theorem"
+    },
+    {
+        " implies that any C-algebra has a universal enveloping W-algebra, such that any homomorphism to a W-algebra factors through it.       A C-algebra A is of type I if and only if for all non-degenerate representations π of A the von Neumann algebra π′′  is a type I von Neumann algebra. In fact it is sufficient to consider only factor representations, i.e. representations π for which π′′ is a factor.     A locally compact group is said to be of type I if and only if its ": null
+    },
+    {
+        "group C-algebra": "Group C-Algebra"
+    },
+    {
+        " is type I.     However, if a C-algebra has non-type I representations, then by results of ": null
+    },
+    {
+        "James Glimm": "James Glimm"
+    },
+    {
+        " it also has representations of type II and type III. Thus for C-algebras and locally compact groups, it is only meaningful to speak of type I and non type I properties.       In ": null
+    },
+    {
+        "quantum mechanics": "Quantum Mechanics"
+    },
+    {
+        ", one typically describes a physical system with a C-algebra A with unit element; the self-adjoint elements of A  are thought of as the observables, the measurable quantities, of the system. A state of the system is defined as a positive functional on A  such that φ 1. The expected value of the observable x, if the system is in state φ, is then φ.     This C-algebra approach is used in the Haag-Kastler axiomatization of ": null
+    },
+    {
+        "local quantum field theory": "Local Quantum Field Theory"
+    },
+    {
+        ", where every open set of ": null
+    },
+    {
+        "Minkowski spacetime": "Minkowski Spacetime"
+    }
+]

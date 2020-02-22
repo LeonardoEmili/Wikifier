@@ -1,0 +1,203 @@
+[
+    {
+        "      In ": null
+    },
+    {
+        "probability theory": "Probability Theory"
+    },
+    {
+        " and ": null
+    },
+    {
+        "statistics": "Statistics"
+    },
+    {
+        ", a central moment is a ": null
+    },
+    {
+        "moment": "Moment"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "probability distribution": "Probability Distribution"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "random variable": "Random Variable"
+    },
+    {
+        " about the random variables ": null
+    },
+    {
+        "mean": "Mean"
+    },
+    {
+        "; that is, it is the ": null
+    },
+    {
+        "expected value": "Expected Value"
+    },
+    {
+        " of a specified integer power of the deviation of the random variable from the mean. The various moments form one set of values by which the properties of a probability distribution can be usefully characterized. Central moments are used in preference to ordinary moments, computed in terms of deviations from the mean instead of from zero, because the higher-order central moments relate only to the spread and shape of the distribution, rather than also to its ": null
+    },
+    {
+        "location": "Location Parameter"
+    },
+    {
+        ".     Sets of central moments can be defined for both univariate and multivariate distributions.         The nth ": null
+    },
+    {
+        "moment": "Moment"
+    },
+    {
+        " about the ": null
+    },
+    {
+        "mean": "Mean"
+    },
+    {
+        "  of a real-valued ": null
+    },
+    {
+        "random variable": "Random Variable"
+    },
+    {
+        " X is the quantity μ n : E n , where E is the ": null
+    },
+    {
+        "expectation operator": "Expected Value"
+    },
+    {
+        ". For a ": null
+    },
+    {
+        "continuous": "Continuous Probability Distribution"
+    },
+    {
+        " univariate": "Univariate"
+    },
+    {
+        " probability distribution": "Probability Distribution"
+    },
+    {
+        " with ": null
+    },
+    {
+        "probability density function": "Probability Density Function"
+    },
+    {
+        " f, the nth moment about the mean μ is   :         n f  x.      For random variables that have no mean, such as the ": null
+    },
+    {
+        "Cauchy distribution": "Cauchy Distribution"
+    },
+    {
+        ", central moments are not defined.     The first few central moments have intuitive interpretations:   The zeroth central moment μ 0 is 1.   The first central moment μ 1 is 0 .   The second central moment μ 2 is called the ": null
+    },
+    {
+        "variance": "Variance"
+    },
+    {
+        ", and is usually denoted σ 2 , where σ represents the ": null
+    },
+    {
+        "standard deviation": "Standard Deviation"
+    },
+    {
+        ".   The third and fourth central moments are used to define the ": null
+    },
+    {
+        "standardized moments": "Standardized Moment"
+    },
+    {
+        "which are used to define ": null
+    },
+    {
+        "skewness": "Skewness"
+    },
+    {
+        " and ": null
+    },
+    {
+        "kurtosis": "Kurtosis"
+    },
+    {
+        ", respectively.       The nth central moment is translation-invariant, i.e. for any random variable X and any constant c, we have     :       For all n, the nth central moment is ": null
+    },
+    {
+        "homogeneous": "Homogeneous Function"
+    },
+    {
+        " of degree nOnly for n such that n equals 1, 2, or 3 do we have an additivity property for random variables X and Y that are ": null
+    },
+    {
+        "independent": "Statistical Independence"
+    },
+    {
+        "n ∈ .     A related functional that shares the translation-invariance and homogeneity properties with the nth central moment, but continues to have this additivity property even when n  ≥  4 is the nth ": null
+    },
+    {
+        "cumulant": "Cumulant"
+    },
+    {
+        " κ n . For n    1, the nth cumulant is just the ": null
+    },
+    {
+        "expected value": "Expected Value"
+    },
+    {
+        "; for n   either 2 or 3, the nth cumulant is just the nth central moment; for n  ≥  4, the nth cumulant is an nth-degree monic polynomial in the first n moments , and is also a nth-degree polynomial in the first n central moments.       Sometimes it is convenient to convert moments about the origin to moments about the mean. The general equation for converting the nth-order moment about the origin to the moment about the mean is     :                   where μ is the mean of the distribution, and the moment about the origin is given by     :       xm f                For the cases n 2, 3, 4 — which are of most interest because of the relations to ": null
+    },
+    {
+        "variance": "Variance"
+    },
+    {
+        ", ": null
+    },
+    {
+        "skewness": "Skewness"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "kurtosis": "Kurtosis"
+    },
+    {
+        ", respectively — this formula becomes :,     :     -   which is commonly referred to as     -       :     - 3     +2       :     - 4     + 6     - 3       ... and so on,  following ": null
+    },
+    {
+        "Pascals triangle": "Pascals Triangle"
+    },
+    {
+        ", i.e.     :     - 5     + 10     - 10     + 4       because 5  -     5  -   5   -   4       The following sum is a stochastic variable having a compound distribution     : W   Yi,     where the Yi are mutually independent random variables sharing the same common distribution and M a random integer variable independent of the Yk with its own distribution. The moments of W are obtained as      :     sumi         where     is defined as zero for j0 .         In a ": null
+    },
+    {
+        "symmetric distribution": "Symmetric Distribution"
+    },
+    {
+        " , all odd central moments equal zero, because in the formula for the nth moment, each term involving a value of X less than the mean by a certain amount exactly cancels out the term involving a value of X greater than the mean by the same amount.         For a ": null
+    },
+    {
+        "continuous": "Continuous Probability Distribution"
+    },
+    {
+        " bivariate": "Joint Probability Distribution"
+    },
+    {
+        " probability distribution": "Probability Distribution"
+    },
+    {
+        " with ": null
+    },
+    {
+        "probability density function": "Probability Density Function"
+    },
+    {
+        " f the  moment about the mean μ    ": null
+    }
+]

@@ -28,7 +28,7 @@ class TextList(list):
         if (not item):
             return
         # Remove hidden and newline characters from the string
-        re_hidden_char = re.compile(r'& *nbsp;|& *ndash;|\\[^ ]*|\n| +')
+        re_hidden_char = re.compile(r'& *nbsp;|& *(m|n)dash;|\\[^ ]*|\n|(http|www)[^]*|[A-Z][A-Z]+( |$)| +')
         item = re.sub(re_hidden_char, ' ', item)
 
         # Change any number to a constant value
@@ -225,6 +225,10 @@ def parse_page(handler, page_index, path, node_dict):
         line_type = node_dict.get(type(line), OTHER_NODE)
         line, tag_detected, parentheses_detected = clear_text(
             line, tag_detected, parentheses_detected)
+        
+        is_colon_line = line.startswith(":")
+        if (is_colon_line):
+            line_type = SKIP_NODE
 
         text_content = parse_line(
             line, text_content, new_element, tag_detected, parentheses_detected, line_type)
@@ -325,7 +329,7 @@ def clear_text(line, tag_detected, parentheses_detected):
     result_buffer = ""
 
     # A list of characters to be avoided when returning the current line.
-    EVIL_CHARACTERS = ["*", "'", '"', "`", "#", "="]
+    EVIL_CHARACTERS = ["*", "'", '"', "`", "#", "=", "_", "^"]
 
     # Clean the current line from unwanted headers. (i.e. main titles in a wikipedia page).
     line = remove_headers(line)
@@ -376,7 +380,7 @@ def get_text_from(line, tag_detected, parentheses_detected):
     result_buffer = ""
 
     # A list of characters to be avoided when returning the current line.
-    EVIL_CHARACTERS = ["*", "'", '"', "#", "="]
+    EVIL_CHARACTERS = ["*", "'", '"', "#", "=", "_", "^"]
 
     for char in line:
 

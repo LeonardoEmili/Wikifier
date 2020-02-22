@@ -1,0 +1,401 @@
+[
+    {
+        "         In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", a Lie group  is a ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        " that is also a ": null
+    },
+    {
+        "differentiable manifold": "Differentiable Manifold"
+    },
+    {
+        ", with the property that the group operations are smooth. Lie groups are named after Norwegian mathematician ": null
+    },
+    {
+        "Sophus Lie": "Sophus Lie"
+    },
+    {
+        ", who laid the foundations of the theory of continuous ": null
+    },
+    {
+        "transformation group": "Transformation Group"
+    },
+    {
+        "s.     In rough terms, a Lie group is a continuous group, that is, one whose elements are described by several real parameters. As such, Lie groups provide a natural model for the concept of continuous symmetry, such as rotational symmetry in three dimensions. Lie groups are widely used in many parts of modern mathematics and physics. Lies original motivation for introducing Lie groups was to model the continuous symmetries of ": null
+    },
+    {
+        "differential equations": "Differential Equations"
+    },
+    {
+        ", in much the same way that finite groups are used in ": null
+    },
+    {
+        "Galois theory": "Galois Theory"
+    },
+    {
+        " to model the discrete symmetries of ": null
+    },
+    {
+        "algebraic equation": "Algebraic Equation"
+    },
+    {
+        "s.          Lie groups are ": null
+    },
+    {
+        "smooth": "Smoothness"
+    },
+    {
+        "differentiable manifolds": "Differentiable Manifold"
+    },
+    {
+        "and as such can be studied using ": null
+    },
+    {
+        "differential calculus": "Differential Calculus"
+    },
+    {
+        ", in contrast with the case of more general ": null
+    },
+    {
+        "topological group": "Topological Group"
+    },
+    {
+        "s. One of the key ideas in the theory of Lie groups is to replace the global object, the group, with its local or linearized version, which Lie himself called its infinitesimal group and which has since become known as its ": null
+    },
+    {
+        "Lie algebra": "Lie Algebra"
+    },
+    {
+        ".     Lie groups play an enormous role in modern ": null
+    },
+    {
+        "geometry": "Geometry"
+    },
+    {
+        ", on several different levels. ": null
+    },
+    {
+        "Felix Klein": "Felix Klein"
+    },
+    {
+        " argued in his ": null
+    },
+    {
+        "Erlangen program": "Erlangen Program"
+    },
+    {
+        " that one can consider various geometries by specifying an appropriate transformation group that leaves certain geometric properties ": null
+    },
+    {
+        "invariant": "Invariant"
+    },
+    {
+        ". Thus ": null
+    },
+    {
+        "Euclidean geometry": "Euclidean Geometry"
+    },
+    {
+        " corresponds to the choice of the group ": null
+    },
+    {
+        "E": "Euclidean Group"
+    },
+    {
+        " of distance-preserving transformations of the Euclidean space R 3 , ": null
+    },
+    {
+        "conformal geometry": "Conformal Geometry"
+    },
+    {
+        " corresponds to enlarging the group to the ": null
+    },
+    {
+        "conformal group": "Conformal Group"
+    },
+    {
+        ", whereas in ": null
+    },
+    {
+        "projective geometry": "Projective Geometry"
+    },
+    {
+        " one is interested in the properties invariant under the ": null
+    },
+    {
+        "projective group": "Projective Group"
+    },
+    {
+        ". This idea later led to the notion of a ": null
+    },
+    {
+        "G-structure": "G-Structure"
+    },
+    {
+        ", where G is a Lie group of local symmetries of a manifold.     Lie groups play a major role in modern physics, with the Lie group typically playing the role of a symmetry of a physical system. Here, the ": null
+    },
+    {
+        "representations": "Representation Of A Lie Group"
+    },
+    {
+        " of the Lie group  are especially important. Representation theory ": null
+    },
+    {
+        "is used extensively in particle physics": "Particle Physics And Representation Theory"
+    },
+    {
+        ". Groups whose representations are of particular importance include ": null
+    },
+    {
+        "the rotation group SO": "3Drotationgroup"
+    },
+    {
+        " , ": null
+    },
+    {
+        "the special unitary group SU": "Clebsch–Gordan Coefficients For Surepresentations Of The Su.283.29 Group"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Poincaré group": "Representation Theory Of The Poincaré Group"
+    },
+    {
+        ".     On a global level, whenever a Lie group ": null
+    },
+    {
+        "acts": "Group Action"
+    },
+    {
+        " on a geometric object, such as a ": null
+    },
+    {
+        "Riemannian": "Riemannian Manifold"
+    },
+    {
+        " or a ": null
+    },
+    {
+        "symplectic manifold": "Symplectic Manifold"
+    },
+    {
+        ", this action provides a measure of rigidity and yields a rich algebraic structure. The presence of continuous symmetries expressed via a ": null
+    },
+    {
+        "Lie group action": "Lie Group Action"
+    },
+    {
+        " on a manifold places strong constraints on its geometry and facilitates ": null
+    },
+    {
+        "analysis": "Global Analysis"
+    },
+    {
+        " on the manifold. Linear actions of Lie groups are especially important, and are studied in ": null
+    },
+    {
+        "representation theory": "Representation Theory"
+    },
+    {
+        ".     In the 1940s  1950s, ": null
+    },
+    {
+        "Ellis Kolchin": "Ellis Kolchin"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Armand Borel": "Armand Borel"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Claude Chevalley": "Claude Chevalley"
+    },
+    {
+        " realised that many foundational results concerning Lie groups can be developed completely algebraically, giving rise to the theory of ": null
+    },
+    {
+        "algebraic groups": "Algebraic Group"
+    },
+    {
+        "defined over an arbitrary ": null
+    },
+    {
+        "field": "Field"
+    },
+    {
+        ". This insight opened new possibilities in pure algebra, by providing a uniform construction for most ": null
+    },
+    {
+        "finite simple group": "Finite Simple Group"
+    },
+    {
+        "s, as well as in ": null
+    },
+    {
+        "algebraic geometry": "Algebraic Geometry"
+    },
+    {
+        ". The theory of ": null
+    },
+    {
+        "automorphic form": "Automorphic Form"
+    },
+    {
+        "s, an important branch of modern ": null
+    },
+    {
+        "number theory": "Number Theory"
+    },
+    {
+        ", deals extensively with analogues of Lie groups over ": null
+    },
+    {
+        "adele ring": "Adele Ring"
+    },
+    {
+        "s; ": null
+    },
+    {
+        "p-adic": "P-Adic Number"
+    },
+    {
+        " Lie groups play an important role, via their connections with Galois representations in number theory.       A real Lie group is a ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        " that is also a finite-dimensional real ": null
+    },
+    {
+        "smooth manifold": "Differentiable Manifolddefinition"
+    },
+    {
+        ", in which the group operations of ": null
+    },
+    {
+        "multiplication": "Multiplication"
+    },
+    {
+        " and inversion are ": null
+    },
+    {
+        "smooth map": "Smooth Map"
+    },
+    {
+        "s. Smoothness of the group multiplication     :   G  G        means that μ is a smooth mapping of the ": null
+    },
+    {
+        "product manifold": "Manifoldcartesian Products"
+    },
+    {
+        "  into G. These two requirements can be combined to the single requirement that the mapping   :   xy   be a smooth mapping of the product manifold into G.       The 2×2 ": null
+    },
+    {
+        "real": "Real Number"
+    },
+    {
+        " invertible matrices": "Invertible Matrix"
+    },
+    {
+        " form a group under multiplication, denoted by  or by GL 2 ": null
+    },
+    {
+        "noncompact": "Compact Space"
+    },
+    {
+        " real Lie group; it is an open subset of   R4 . This group is ": null
+    },
+    {
+        "disconnected": "Connected Space"
+    },
+    {
+        "; it has two connected components corresponding to the positive and negative values of the ": null
+    },
+    {
+        "determinant": "Determinant"
+    },
+    {
+        ".     The ": null
+    },
+    {
+        "rotation": "Rotation"
+    },
+    {
+        " matrices form a ": null
+    },
+    {
+        "subgroup": "Subgroup"
+    },
+    {
+        " of , denoted by . It is a Lie group in its own right: specifically, a one-dimensional compact connected Lie group which is ": null
+    },
+    {
+        "diffeomorphic": "Diffeomorphic"
+    },
+    {
+        " to the ": null
+    },
+    {
+        "circle": "Circle"
+    },
+    {
+        ". Using the rotation angle   as a parameter, this group can be ": null
+    },
+    {
+        "parametrized": "Parametric Equations"
+    },
+    {
+        " as follows:   ::         :Addition of the angles corresponds to multiplication of the elements of , and taking the opposite angle corresponds to inversion. Thus both multiplication and inversion are differentiable maps.     The ": null
+    },
+    {
+        "affine group of one dimension": "Affine Groupmatrix Representation"
+    },
+    {
+        " is a two-dimensional matrix Lie group, consisting of 2  2 real, upper-triangular matrices, with the first diagonal entry being positive and the second diagonal entry being 1. Thus, the group consists of matrices of the form   :: A   a /math math /math math /math  math /math  ref  /ref math /math math /math math /math math /math math /math math /math  math /math ": null
+    },
+    {
+        "ath /math math /math math /math math /mat": "Ath  /Math  Math  /Math  Math  /Math  Math  /Mat"
+    },
+    {
+        " math /math math /math  math /math math /math math /math math /math math /math math /math math /math math /math  ref  /ref  ref name Hall  /ref ref  /ref   math /math  math /math  ref  /ref  math /math  math /math  math /math  math /math math /math  math /math  math /math  ref  /ref  math /math  math /math math /math math /math math /math math /math  math /math math /math ": null
+    },
+    {
+        "ub /su": "Ub  /Su"
+    },
+    {
+        "ub /su": "Ub  /Su"
+    },
+    {
+        "ub /su": "Ub  /Su"
+    },
+    {
+        "ub /su": "Ub  /Su"
+    },
+    {
+        "ub /su": "Ub  /Su"
+    },
+    {
+        " sup  /sup  sup /sup  sup /sup  sup  /sup  sup  /sup  sup  /sup br /  br /  br /  sup /sup  sup /sup  sup /sup  sup /sup sup /sup  math /math ref  /ref ref name Hall/  math /math ref  /ref ref  /ref  sub /sub  sub  /sub  sub /sub  sub /sub  sub /sub  math /math math /math  sub  /sub math /math  sub /sub  sub /sub  sub /sub  sup /sup  sup /sup  sub /sub  ref  /ref  math /math math /math  math /math math /math math /math  ref  /ref  ref  /ref ref  /ref  ref  /ref  math /math  math /math math /math  ref  /ref math /math math /math math /math math /math math /math math /math math /math math /math math /math math /math  math /math  ref  /ref  math /math  math /math math /math  math /math math /math math /math math /math math /math math /math math /math ref  /ref math /math math /math math /math math /math math /math math /math math /math math /math math /math math /math math /math math /math  math /math  math /math math /math  math /math math /math math /math  math /math math /math  math /math math /math math /math math /math  math /math math /math math /math math /math math /math math /math math /math math /math math /math math /math math /math  ref groupNote  /ref ": null
+    },
+    {
+        "up /su": "Up  /Su"
+    },
+    {
+        " math /math math /math  math /math  math /math math /math  math /math  math /math math /math math /math  math /math math /math  math /math math /math  math /math math /math ref  /ref math /math  math /math  math /math math /math  math /math  math /math  ref  /ref  ref  /ref  !--   Need specific reference from Borels book to Weyls work, in particular, distinction mentioned in the text   --  sub  /sub sub  /sub sub  /sub sub  /sub sub /sub  sup /sup  ref  /ref  sub /sub  sub /sub  sub /sub  sub /sub  sub /sub  sub /sub  sub /sub  sub /sub  sub /sub  sub /sub  sub /sub  sup /sup  sub /sub  ref  /ref ": null
+    }
+]

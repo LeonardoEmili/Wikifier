@@ -1,0 +1,383 @@
+[
+    {
+        "Gaussian elimination, also known as row reduction, is an ": null
+    },
+    {
+        "algorithm": "Algorithm"
+    },
+    {
+        " in ": null
+    },
+    {
+        "linear algebra": "Linear Algebra"
+    },
+    {
+        " for solving a ": null
+    },
+    {
+        "system of linear equations": "System Of Linear Equations"
+    },
+    {
+        ". It is usually understood as a sequence of operations performed on the corresponding ": null
+    },
+    {
+        "matrix": "Matrix"
+    },
+    {
+        " of coefficients. This method can also be used to find the ": null
+    },
+    {
+        "rank": "Rank"
+    },
+    {
+        " of a matrix, to calculate the ": null
+    },
+    {
+        "determinant": "Determinant"
+    },
+    {
+        " of a matrix, and to calculate the inverse of an ": null
+    },
+    {
+        "invertible square matrix": "Invertible Matrix"
+    },
+    {
+        ". The method is named after ": null
+    },
+    {
+        "Carl Friedrich Gauss": "Carl Friedrich Gauss"
+    },
+    {
+        " . Some special cases of the method - albeit presented without proof - were known to ": null
+    },
+    {
+        "Chinese mathematicians": "Chinese Mathematics"
+    },
+    {
+        " as early as circa 179  AD.     To perform row reduction on a matrix, one uses a sequence of ": null
+    },
+    {
+        "elementary row operations": "Elementary Row Operations"
+    },
+    {
+        " to modify the matrix until the lower left-hand corner of the matrix is filled with zeros, as much as possible. There are three types of elementary row operations:   Swapping two rows,   Multiplying a row by a nonzero number,   Adding a multiple of one row to another row.   Using these operations, a matrix can always be transformed into an ": null
+    },
+    {
+        "upper triangular matrix": "Triangular Matrix"
+    },
+    {
+        ", and in fact one that is in ": null
+    },
+    {
+        "row echelon form": "Row Echelon Form"
+    },
+    {
+        ". Once all of the leading coefficients are 1, and every column containing a leading coefficient has zeros elsewhere, the matrix is said to be in ": null
+    },
+    {
+        "reduced row echelon form": "Reduced Row Echelon Form"
+    },
+    {
+        ". This final form is unique; in other words, it is independent of the sequence of row operations used. For example, in the following sequence of row operations , the third and fourth matrices are the ones in row echelon form, and the final matrix is the unique reduced row echelon form.     :   to     to     to         Using row operations to convert a matrix into reduced row echelon form is sometimes called Gauss–Jordan elimination. Some authors use the term Gaussian elimination to refer to the process until it has reached its upper triangular, or row echelon form. For computational reasons, when solving systems of linear equations, it is sometimes preferable to stop row operations before the matrix is completely reduced.       The process of row reduction makes use of ": null
+    },
+    {
+        "elementary row operations": "Elementary Row Operations"
+    },
+    {
+        ", and can be divided into two parts. The first part reduces a given system to row echelon form, from which one can tell whether there are no solutions, a unique solution, or infinitely many solutions. The second part  continues to use row operations until the solution is found; in other words, it puts the matrix into reduced row echelon form.     Another point of view, which turns out to be very useful to analyze the algorithm, is that row reduction produces a ": null
+    },
+    {
+        "matrix decomposition": "Matrix Decomposition"
+    },
+    {
+        " of the original matrix. The elementary row operations may be viewed as the multiplication on the left of the original matrix by ": null
+    },
+    {
+        "elementary matrices": "Elementary Matrix"
+    },
+    {
+        ". Alternatively, a sequence of elementary operations that reduces a single row may be viewed as multiplication by a ": null
+    },
+    {
+        "Frobenius matrix": "Frobenius Matrix"
+    },
+    {
+        ". Then the first part of the algorithm computes an ": null
+    },
+    {
+        "LU decomposition": "Lu Decomposition"
+    },
+    {
+        ", while the second part writes the original matrix as the product of a uniquely determined invertible matrix and a uniquely determined reduced row echelon matrix.            There are three types of elementary row operations which may be performed on the rows of a matrix:   Swap the positions of two rows.   Multiply a row by a non-zero ": null
+    },
+    {
+        "scalar": "Scalar"
+    },
+    {
+        ".   Add to one row a scalar multiple of another.     If the matrix is associated to a system of linear equations, then these operations do not change the solution set. Therefore, if ones goal is to solve a system of linear equations, then using these row operations could make the problem easier.          For each row in a matrix, if the row does not consist of only zeros, then the leftmost nonzero entry is called the  leading coefficient   of that row. So if two leading coefficients are in the same column, then a row operation of ": null
+    },
+    {
+        "type 3": "Row Operations"
+    },
+    {
+        " could be used to make one of those coefficients zero. Then by using the row swapping operation, one can always order the rows so that for every non-zero row, the leading coefficient is to the right of the leading coefficient of the row above. If this is the case, then matrix is said to be in row echelon form. So the lower left part of the matrix contains only zeros, and all of the zero rows are below the non-zero rows. The word echelon is used here because one can roughly think of the rows being ranked by their size, with the largest being at the top and the smallest being at the bottom.     For example, the following matrix is in row echelon form, and its leading coefficients are shown in red:     :     0 &   & 1 & -1     0 & 0 &   & 1     0 & 0 & 0 & 0         It is in echelon form because the zero row is at the bottom, and the leading coefficient of the second row , is to the right of the leading coefficient of the first row .     A matrix is said to be in reduced row echelon form if furthermore all of the leading coefficients are equal to 1 , and in every column containing a leading coefficient, all of the other entries in that column are zero .       Suppose the goal is to find and describe the set of solutions to the following ": null
+    },
+    {
+        "system of linear equations": "System Of Linear Equations"
+    },
+    {
+        "augmented matrix": "Augmented Matrix"
+    },
+    {
+        ". In practice, one does not usually deal with the systems in terms of equations, but instead makes use of the augmented matrix, which is more suitable for computer manipulations. The row reduction procedure may be summarized as follows: eliminate  from all equations below , and then eliminate  from all equations below . This will put the system into ": null
+    },
+    {
+        "triangular form": "Triangular Form"
+    },
+    {
+        ". Then, using back-substitution, each unknown can be solved for.     :     The second column describes which row operations have just been performed. So for the first step, the  is eliminated from  by adding  to . Next,  is eliminated from  by adding  to . These row operations are labelled in the table as     :     L2 +   L1 &   L2,     L3 + L1 &   L3.         Once  is also eliminated from the third row, the result is a system of linear equations in triangular form, and so the first part of the algorithm is complete. From a computational point of view, it is faster to solve the variables in reverse order, a process known as back-substitution. One sees the solution is , , and . So there is a unique solution to the original system of equations.     Instead of stopping once the matrix is in echelon form, one could continue until the matrix is in reduced row echelon form, as it is done in the table. The process of row reducing until the matrix is reduced is sometimes referred to as Gauss–Jordan elimination, to distinguish it from stopping after reaching echelon form.       The method of Gaussian elimination appears - albeit without proof - in the Chinese mathematical text ": null
+    },
+    {
+        "Chapter Eight: Rectangular Arrays": "Rod Calculussystem Of Linear Equations"
+    },
+    {
+        " of  The Nine Chapters on the Mathematical Art . Its use is illustrated in eighteen problems, with two to five equations. The first reference to the book by this title is dated to 179  CE, but parts of it were written as early as approximately 150  BCE. , pp. 234–236  It was commented on by ": null
+    },
+    {
+        "Liu Hui": "Liu Hui"
+    },
+    {
+        " in the 3rd century.     The method in Europe stems from the notes of ": null
+    },
+    {
+        "Isaac Newton": "Isaac Newton"
+    },
+    {
+        ". , pp. 169-172 , pp. 783-785 In 1670, he wrote that all the algebra books known to him lacked a lesson for solving simultaneous equations, which Newton then supplied. Cambridge University eventually published the notes as Arithmetica Universalis in 1707 long after Newton had left academic life. The notes were widely imitated, which made Gaussian elimination a standard lesson in algebra textbooks by the end of the 18th century. ": null
+    },
+    {
+        "Carl Friedrich Gauss": "Carl Friedrich Gauss"
+    },
+    {
+        " in 1810 devised a notation for symmetric elimination that was adopted in the 19th century by professional ": null
+    },
+    {
+        "hand computers": "Human Computer"
+    },
+    {
+        " to solve the normal equations of least-squares problems. , p.  3 The algorithm that is taught in high school was named for Gauss only in the 1950s as a result of confusion over the history of the subject. , p.  789     Some authors use the term Gaussian elimination to refer only to the procedure until the matrix is in echelon form, and use the term Gauss–Jordan elimination to refer to the procedure which ends in reduced echelon form. The name is used because it is a variation of Gaussian elimination as described by ": null
+    },
+    {
+        "Wilhelm Jordan": "Wilhelm Jordan"
+    },
+    {
+        " in 1888. However, the method also appears in an article by Clasen published in the same year. Jordan and Clasen probably discovered Gauss–Jordan elimination independently.        Historically, the first application of the row reduction method is for solving ": null
+    },
+    {
+        "systems of linear equations": "Systems Of Linear Equations"
+    },
+    {
+        ". Here are some other important applications of the algorithm.       To explain how Gaussian elimination allows the computation of the determinant of a square matrix, we have to recall how the elementary row operations change the determinant:   Swapping two rows multiplies the determinant by −1   Multiplying a row by a nonzero scalar multiplies the determinant by the same scalar   Adding to one row a scalar multiple of another does not change the determinant.     If Gaussian elimination applied to a square matrix  produces a row echelon matrix , let  be the product of the scalars by which the determinant has been multiplied, using the above rules. Then the determinant of  is the quotient by  of the product of the elements of the diagonal of  matrix, this method needs only  arithmetic operations, while solving by elementary methods requires  or  operations. Even on the fastest computers, the elementary methods are impractical for  above 20.          A variant of Gaussian elimination called Gauss–Jordan elimination can be used for finding the inverse of a matrix, if it exists. If  is an  square matrix, then one can use row reduction to compute its ": null
+    },
+    {
+        "inverse matrix": "Invertible Matrix"
+    },
+    {
+        ", if it exists. First, the  ": null
+    },
+    {
+        "identity matrix": "Identity Matrix"
+    },
+    {
+        " is augmented to the right of , forming an  ": null
+    },
+    {
+        "block matrix": "Block Matrix"
+    },
+    {
+        " . Now through application of elementary row operations, find the reduced echelon form of this  matrix. The matrix  is invertible if and only if the left block can be reduced to the identity matrix ; in this case the right block of the final matrix is . If the algorithm is unable to reduce the left block to , then  is not invertible.     For example, consider the following matrix:   : A       2 & -1 & 0     -1 & 2 & -1     0 & -1 & 2           To find the inverse of this matrix, one takes the following matrix augmented by the identity and row-reduces it as a 3  ×  6 matrix:   :           By performing row operations, one can check that the reduced row echelon form of this augmented matrix is   :           One can think of each row operation as the left product by an ": null
+    },
+    {
+        "elementary matrix": "Elementary Matrix"
+    },
+    {
+        ". Denoting by  the product of these elementary matrices, we showed, on the left, that , and therefore, . On the right, we kept a record of , which we know is the inverse desired. This procedure for finding the inverse works for square matrices of any size.       The Gaussian elimination algorithm can be applied to any  matrix . In this way, for example, some 6  ×  9 matrices can be transformed to a matrix that has a row echelon form like   : T       a & & & & & & & &     0 & 0 & b & & & & & &     0 & 0 & 0 & c & & & & &     0 & 0 & 0 & 0 & 0 & 0 & d & &     0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & e     0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0         where the stars are arbitrary entries, and  are nonzero entries. This echelon matrix  contains a wealth of information about ": null
+    },
+    {
+        "rank": "Rank Of A Matrix"
+    },
+    {
+        " of  is 5, since there are 5 nonzero rows in ; the ": null
+    },
+    {
+        "vector space": "Vector Space"
+    },
+    {
+        " spanned by the columns of  has a basis consisting of its columns 1, 3, 4, 7 and 9 , and the stars show how the other columns of  can be written as linear combinations of the basis columns. This is a consequence of the distributivity of the ": null
+    },
+    {
+        "dot product": "Dot Product"
+    },
+    {
+        " in the expression of a linear map ": null
+    },
+    {
+        "as a matrix": "Linear Mapmatrices"
+    },
+    {
+        ".     All of this applies also to the reduced row echelon form, which is a particular row echelon format.       The number of arithmetic operations required to perform row reduction is one way of measuring the algorithms computational efficiency. For example, to solve a system of  equations for  unknowns by performing row operations on the matrix until it is in echelon form, and then solving for each unknown in reverse order, requires  divisions,  multiplications, and  subtractions, , p. 12. for a total of approximately  operations. Thus it has ": null
+    },
+    {
+        "arithmetic": "Arithmeticarithmetic Operations"
+    },
+    {
+        " complexity of ; see ": null
+    },
+    {
+        "Big O notation": "Big O Notation"
+    },
+    {
+        ". This arithmetic complexity is a good measure of the time needed for the whole computation when the time for each arithmetic operation is approximately constant. This is the case when the coefficients are represented by ": null
+    },
+    {
+        "floating-point numbers": "Floating-Point Number"
+    },
+    {
+        "or when they belong to a ": null
+    },
+    {
+        "finite field": "Finite Field"
+    },
+    {
+        ". If the coefficients are ": null
+    },
+    {
+        "integers": "Integer"
+    },
+    {
+        "or ": null
+    },
+    {
+        "rational numbers": "Rational Number"
+    },
+    {
+        "exactly represented, the intermediate entries can grow exponentially large, so the ": null
+    },
+    {
+        "bit complexity": "Bit Complexity"
+    },
+    {
+        " is exponential.    However, there is a variant of Gaussian elimination, called the ": null
+    },
+    {
+        "Bareiss algorithm": "Bareiss Algorithm"
+    },
+    {
+        ", that avoids this exponential growth of the intermediate entries and, with the same arithmetic complexity of , has a bit complexity of .     This algorithm can be used on a computer for systems with thousands of equations and unknowns. However, the cost becomes prohibitive for systems with millions of equations. These large systems are generally solved using ": null
+    },
+    {
+        "iterative method": "Iterative Method"
+    },
+    {
+        "s. Specific methods exist for systems whose coefficients follow a regular pattern .     To put an  matrix into reduced echelon form by row operations, one needs  arithmetic operations, which is approximately 50% more computation steps. J. B. Fraleigh and R. A. Beauregard, Linear Algebra. Addison-Wesley Publishing Company, 1995, Chapter 10.     One possible problem is ": null
+    },
+    {
+        "numerical instability": "Numerical Stability"
+    },
+    {
+        ", caused by the possibility of dividing by very small numbers. If, for example, the leading coefficient of one of the rows is very close to zero, then to row-reduce the matrix, one would need to divide by that number. This means that any error existed for the number that was close to zero would be amplified. Gaussian elimination is numerically stable for ": null
+    },
+    {
+        "diagonally dominant": "Diagonally Dominant"
+    },
+    {
+        " or ": null
+    },
+    {
+        "positive-definite": "Positive-Definite Matrix"
+    },
+    {
+        " matrices. For general matrices, Gaussian elimination is usually considered to be stable, when using ": null
+    },
+    {
+        "partial pivoting": "Pivot Elementpartial And Complete Pivoting"
+    },
+    {
+        ", even though there are examples of stable matrices for which it is unstable. , §3.4.6.         Gaussian elimination can be performed over any ": null
+    },
+    {
+        "field": "Field"
+    },
+    {
+        ", not just the real numbers.     ": null
+    },
+    {
+        "Buchbergers algorithm": "Buchbergers Algorithm"
+    },
+    {
+        " is a generalization of Gaussian elimination to ": null
+    },
+    {
+        "systems of polynomial equations": "Systems Of Polynomial Equations"
+    },
+    {
+        ". This generalization depends heavily on the notion of a ": null
+    },
+    {
+        "monomial order": "Monomial Order"
+    },
+    {
+        ". The choice of an ordering on the variables is already implicit in Gaussian elimination, manifesting as the choice to work from left to right when selecting pivot positions.     Computing the rank of a tensor of order greater than 2 is ": null
+    },
+    {
+        "NP-hard": "Np-Hard"
+    },
+    {
+        ".  Therefore, if , there cannot be a polynomial time analog of Gaussian elimination for higher-order ": null
+    },
+    {
+        "tensors": "Tensors"
+    },
+    {
+        " .          As explained above, Gaussian elimination transforms a given  matrix  into a matrix in ": null
+    },
+    {
+        "row-echelon form": "Row-Echelon Form"
+    },
+    {
+        ".     In the following ": null
+    },
+    {
+        "pseudocode": "Pseudocode"
+    },
+    {
+        ", A denotes the entry of the matrix  in row  and column  with the indices starting from  1. The transformation is performed in place, meaning that the original matrix is lost for being eventually replaced by its row-echelon form.     h : 1 / Initialization of the pivot row Initialization of the pivot column while h ≤ m and k ≤ n   / Find the k-th pivot: ": null
+    },
+    {
+        "argmax": "Argmax"
+    },
+    {
+        "   if A 0   / No pivot in this column, pass to next column else   swap rows   / Do for all rows below pivot: for i h + 1 ... m:   f : A / A   / Fill with zeros the lower part of pivot column: Do for all remaining elements in current row: for j k + 1 ... n:   A : A - A f   / Increase pivot row and column ": null
+    },
+    {
+        "absolute value": "Absolute Value"
+    },
+    {
+        ". Such a partial pivoting may be required if, at the pivot place, the entry of the matrix is zero. In any case, choosing the largest possible absolute value of the pivot improves the ": null
+    },
+    {
+        "numerical stability": "Numerical Stability"
+    },
+    {
+        " of the algorithm, when ": null
+    },
+    {
+        "floating point": "Floating Point"
+    },
+    {
+        " is used for representing numbers.     Upon completion of this procedure the matrix will be in ": null
+    },
+    {
+        "row echelon form": "Row Echelon Form"
+    }
+]

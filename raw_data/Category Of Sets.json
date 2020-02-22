@@ -1,0 +1,332 @@
+[
+    {
+        "In the ": null
+    },
+    {
+        "mathematical": "Mathematics"
+    },
+    {
+        " field of ": null
+    },
+    {
+        "category theory": "Category Theory"
+    },
+    {
+        ", the category of sets, denoted as Set, is the ": null
+    },
+    {
+        "category": "Category"
+    },
+    {
+        " whose ": null
+    },
+    {
+        "objects": "Category Theory"
+    },
+    {
+        " are ": null
+    },
+    {
+        "sets": "Set"
+    },
+    {
+        ". The arrows or ": null
+    },
+    {
+        "morphisms": "Morphism"
+    },
+    {
+        "between sets A and B are the ": null
+    },
+    {
+        "total functions": "Total Function"
+    },
+    {
+        "from A to B, and the composition of morphisms is the ": null
+    },
+    {
+        "composition of functions": "Function Composition"
+    },
+    {
+        ".     Many other categories  add structure to the objects of the category of sets and/or restrict the arrows to functions of a particular kind.       The axioms of a category are satisfied by Set because composition of functions is ": null
+    },
+    {
+        "associative": "Associative Property"
+    },
+    {
+        ", and because every set X has an ": null
+    },
+    {
+        "identity function": "Identity Function"
+    },
+    {
+        " id X : X → X which serves as identity element for function composition.     The ": null
+    },
+    {
+        "epimorphisms": "Epimorphism"
+    },
+    {
+        "in Set are the ": null
+    },
+    {
+        "surjective": "Surjective"
+    },
+    {
+        " maps, the ": null
+    },
+    {
+        "monomorphisms": "Monomorphism"
+    },
+    {
+        "are the ": null
+    },
+    {
+        "injective": "Injective"
+    },
+    {
+        " maps, and the ": null
+    },
+    {
+        "isomorphisms": "Isomorphism"
+    },
+    {
+        "are the ": null
+    },
+    {
+        "bijective": "Bijective"
+    },
+    {
+        " maps.     The ": null
+    },
+    {
+        "empty set": "Empty Set"
+    },
+    {
+        " serves as the ": null
+    },
+    {
+        "initial object": "Initial Object"
+    },
+    {
+        " in Set with ": null
+    },
+    {
+        "empty functions": "Empty Function"
+    },
+    {
+        "as morphisms. Every ": null
+    },
+    {
+        "singleton": "Singleton"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "terminal object": "Terminal Object"
+    },
+    {
+        ", with the functions mapping all elements of the source sets to the single target element as morphisms. There are thus no ": null
+    },
+    {
+        "zero objects": "Zero Object"
+    },
+    {
+        "in Set.     The category Set is ": null
+    },
+    {
+        "complete and co-complete": "Complete Category"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "product": "Product"
+    },
+    {
+        " in this category is given by the ": null
+    },
+    {
+        "cartesian product": "Cartesian Product"
+    },
+    {
+        " of sets. The ": null
+    },
+    {
+        "coproduct": "Coproduct"
+    },
+    {
+        " is given by the ": null
+    },
+    {
+        "disjoint union": "Disjoint Union"
+    },
+    {
+        "A i where i ranges over some index set I, we construct the coproduct as the union of A i × .     Set is the prototype of a ": null
+    },
+    {
+        "concrete category": "Concrete Category"
+    },
+    {
+        "; other categories are concrete if they are built on Set in some well-defined way.     Every two-element set serves as a ": null
+    },
+    {
+        "subobject classifier": "Subobject Classifier"
+    },
+    {
+        " in Set. The power object of a set A is given by its ": null
+    },
+    {
+        "power set": "Power Set"
+    },
+    {
+        ", and the ": null
+    },
+    {
+        "exponential object": "Exponential Object"
+    },
+    {
+        " of the sets A and B is given by the set of all functions from A to B. Set is thus a ": null
+    },
+    {
+        "topos": "Topos"
+    },
+    {
+        " .     Set is not ": null
+    },
+    {
+        "abelian": "Abelian Category"
+    },
+    {
+        ", ": null
+    },
+    {
+        "additive": "Additive Category"
+    },
+    {
+        " nor ": null
+    },
+    {
+        "preadditive": "Preadditive Category"
+    },
+    {
+        ".     Every non-empty set is an ": null
+    },
+    {
+        "injective object": "Injective Object"
+    },
+    {
+        " in Set. Every set is a ": null
+    },
+    {
+        "projective object": "Projective Module"
+    },
+    {
+        " in Set .     The ": null
+    },
+    {
+        "finitely presentable objects": "Accessible Category"
+    },
+    {
+        " in Set are the finite sets. Since every set is a ": null
+    },
+    {
+        "direct limit": "Direct Limit"
+    },
+    {
+        " of its finite subsets, the category Set is a ": null
+    },
+    {
+        "locally finitely presentable category": "Accessible Category"
+    },
+    {
+        ".     If C is an arbitrary category, the ": null
+    },
+    {
+        "contravariant functors": "Contravariant Functor"
+    },
+    {
+        " from C to Set are often an important object of study. If A is an object of C, then the functor from C to Set that sends X to Hom C   is an example of such a functor. If C is a ": null
+    },
+    {
+        "small category": "Categorysmallandlargecategories"
+    },
+    {
+        " , then the contravariant functors from C to Set, together with natural transformations as morphisms, form a new category, a ": null
+    },
+    {
+        "functor category": "Functor Category"
+    },
+    {
+        " known as the category of ": null
+    },
+    {
+        "presheaves": "Presheaves"
+    },
+    {
+        " on C.         In ": null
+    },
+    {
+        "Zermelo–Fraenkel set theory": "Zermelo–Fraenkel Set Theory"
+    },
+    {
+        " the collection of all sets is not a set; this follows from the ": null
+    },
+    {
+        "axiom of foundation": "Axiom Of Foundation"
+    },
+    {
+        ". One refers to collections that are not sets as ": null
+    },
+    {
+        "proper class": "Proper Class"
+    },
+    {
+        "es. One cannot handle proper classes as one handles sets; in particular, one cannot write that those proper classes belong to a collection . This is a problem because it means that the category of sets cannot be formalized straightforwardly in this setting. Categories like Set whose collection of objects forms a proper class are known as ": null
+    },
+    {
+        "large categories": "Large Category"
+    },
+    {
+        ", to distinguish them from the small categories whose objects form a set.     One way to resolve the problem is to work in a system that gives formal status to proper classes, such as ": null
+    },
+    {
+        "NBG set theory": "Nbg Set Theory"
+    },
+    {
+        ". In this setting, categories formed from sets are said to be small and those  that are formed from proper classes are said to be large.     Another solution is to assume the existence of ": null
+    },
+    {
+        "Grothendieck universe": "Grothendieck Universe"
+    },
+    {
+        "s. Roughly speaking, a Grothendieck universe is a set which is itself a model of ZF . The existence of Grothendieck universes  is not implied by the usual ZF axioms; it is an additional, independent axiom, roughly equivalent to the existence of ": null
+    },
+    {
+        "strongly inaccessible cardinal": "Strongly Inaccessible Cardinal"
+    },
+    {
+        "s. Assuming this extra axiom, one can limit the objects of Set to the elements of a particular universe.      In one variation of this scheme, the class of sets is the union of the entire tower of Grothendieck universes.  However, one does not work directly with the category of all sets . Instead, theorems are expressed in terms of the category Set U whose objects are the elements of a sufficiently large Grothendieck universe U, and are then shown not to depend on the particular choice of U. As a foundation for ": null
+    },
+    {
+        "category theory": "Category Theory"
+    },
+    {
+        ", this approach is well matched to a system like ": null
+    },
+    {
+        "Tarski–Grothendieck set theory": "Tarski–Grothendieck Set Theory"
+    },
+    {
+        " in which one cannot reason directly about proper classes; its principal disadvantage is that a theorem can be true of all Set U but not of Set.     Various other solutions, and variations on the above, have been proposed. Mac Lane 1969 Feferman 1969 Blass 1984     The same issues arise with other concrete categories, such as the ": null
+    },
+    {
+        "category of groups": "Category Of Groups"
+    },
+    {
+        " or the ": null
+    },
+    {
+        "category of topological spaces": "Category Of Topological Spaces"
+    }
+]

@@ -1,0 +1,638 @@
+[
+    {
+        "Processor design is the ": null
+    },
+    {
+        "design engineer": "Design Engineer"
+    },
+    {
+        "ing task of creating a ": null
+    },
+    {
+        "processor": "Processor"
+    },
+    {
+        ", a key component of ": null
+    },
+    {
+        "computer hardware": "Computer Hardware"
+    },
+    {
+        ". It is a subfield of ": null
+    },
+    {
+        "computer engineering": "Computer Engineering"
+    },
+    {
+        " and ": null
+    },
+    {
+        "electronics engineering": "Electronics Engineering"
+    },
+    {
+        " . The design process involves choosing an ": null
+    },
+    {
+        "instruction set": "Instruction Set"
+    },
+    {
+        " and a certain execution paradigm  and results in a ": null
+    },
+    {
+        "microarchitecture": "Microarchitecture"
+    },
+    {
+        ", which might be described in e.g. ": null
+    },
+    {
+        "VHDL": "Vhdl"
+    },
+    {
+        " or ": null
+    },
+    {
+        "Verilog": "Verilog"
+    },
+    {
+        ". For ": null
+    },
+    {
+        "microprocessor": "Microprocessor"
+    },
+    {
+        " design, this description is then manufactured employing some of the various ": null
+    },
+    {
+        "semiconductor device fabrication": "Semiconductor Device Fabrication"
+    },
+    {
+        " processes, resulting in a ": null
+    },
+    {
+        "die": "Die"
+    },
+    {
+        " which is bonded onto a ": null
+    },
+    {
+        "chip carrier": "Chip Carrier"
+    },
+    {
+        ". This chip carrier is then soldered onto, or inserted into a ": null
+    },
+    {
+        "socket": "Cpu Socket"
+    },
+    {
+        " on, a ": null
+    },
+    {
+        "printed circuit board": "Printed Circuit Board"
+    },
+    {
+        " .     The mode of operation of any processor is the execution of lists of instructions. Instructions typically include those to compute or manipulate data values using ": null
+    },
+    {
+        "registers": "Processor Register"
+    },
+    {
+        ", change or retrieve values in read/write memory, perform relational tests between data values and to control program flow.              CPU design is divided into design of the following components:     ": null
+    },
+    {
+        "datapaths": "Datapath"
+    },
+    {
+        "    control unit": "Control Unit"
+    },
+    {
+        "Memory": "Memory"
+    },
+    {
+        " components such as ": null
+    },
+    {
+        "register file": "Register File"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "caches": "Cache Memory"
+    },
+    {
+        "  Clock": "Clock Signal"
+    },
+    {
+        " circuitry such as clock drivers, ": null
+    },
+    {
+        "PLLs": "Phase-Locked Loop"
+    },
+    {
+        ", ": null
+    },
+    {
+        "clock distribution networks": "Clock Distribution Network"
+    },
+    {
+        "  Pad transceiver circuitry   ": null
+    },
+    {
+        "Logic gate": "Logic Gate"
+    },
+    {
+        " cell ": null
+    },
+    {
+        "library": "Library"
+    },
+    {
+        " which is used to implement the logic     CPUs designed for high-performance markets might require custom designs for each of these items to achieve frequency, ": null
+    },
+    {
+        "power-dissipation": "Power Consumption"
+    },
+    {
+        ", and chip-area goals whereas CPUs designed for lower performance markets might lessen the implementation burden by acquiring some of these items by purchasing them as ": null
+    },
+    {
+        "intellectual property": "Intellectual Property"
+    },
+    {
+        ". Control logic implementation techniques  can be used to implement datapaths, register files, and clocks. Common logic styles used in CPU design include unstructured random logic, ": null
+    },
+    {
+        "finite-state machine": "Finite-State Machine"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "microprogramming": "Microprogramming"
+    },
+    {
+        " , and ": null
+    },
+    {
+        "Programmable logic arrays": "Programmable Logic Array"
+    },
+    {
+        ".       Device types used to implement the logic include:   ": null
+    },
+    {
+        "Transistor-transistor logic": "Transistor-Transistor Logic"
+    },
+    {
+        " Small Scale Integration": "Small Scale Integration"
+    },
+    {
+        " logic chips - no longer used for CPUs   ": null
+    },
+    {
+        "Programmable Array Logic": "Programmable Array Logic"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Programmable logic devices": "Programmable Logic Device"
+    },
+    {
+        "- no longer used for CPUs   ": null
+    },
+    {
+        "Emitter-coupled logic": "Emitter-Coupled Logic"
+    },
+    {
+        "gate arrays": "Gate Array"
+    },
+    {
+        "- no longer common     ": null
+    },
+    {
+        "CMOS": "Cmos"
+    },
+    {
+        "gate arrays": "Gate Array"
+    },
+    {
+        "- no longer used for CPUs     ": null
+    },
+    {
+        "CMOS": "Cmos"
+    },
+    {
+        "mass-produced ICs": "Integrated Circuit"
+    },
+    {
+        "- the vast majority of CPUs by volume   ": null
+    },
+    {
+        "CMOS": "Cmos"
+    },
+    {
+        "ASICs": "Application-Specific Integrated Circuit"
+    },
+    {
+        "- only for a minority of special applications due to expense   ": null
+    },
+    {
+        "Field-programmable gate arrays": "Field-Programmable Gate Array"
+    },
+    {
+        " - common for ": null
+    },
+    {
+        "soft microprocessor": "Soft Microprocessor"
+    },
+    {
+        "s, and more or less required for ": null
+    },
+    {
+        "reconfigurable computing": "Reconfigurable Computing"
+    },
+    {
+        "     A CPU design project generally has these major tasks:   Programmer-visible ": null
+    },
+    {
+        "instruction set architecture": "Instruction Set Architecture"
+    },
+    {
+        ", which can be implemented by a variety of ": null
+    },
+    {
+        "microarchitectures": "Microarchitecture"
+    },
+    {
+        "  Architectural study and performance modeling in ": null
+    },
+    {
+        "ANSI C": "Ansi C"
+    },
+    {
+        "/": null
+    },
+    {
+        "C++": "C++"
+    },
+    {
+        " or ": null
+    },
+    {
+        "SystemC": "Systemc"
+    },
+    {
+        " High-level synthesis": "High-Level Synthesis"
+    },
+    {
+        " or ": null
+    },
+    {
+        "register transfer level": "Register Transfer Level"
+    },
+    {
+        " implementation   ": null
+    },
+    {
+        "RTL": "Register Transfer Language"
+    },
+    {
+        " verification   ": null
+    },
+    {
+        "Circuit design": "Circuit Design"
+    },
+    {
+        " of speed critical components   ": null
+    },
+    {
+        "Logic synthesis": "Logic Synthesis"
+    },
+    {
+        " or logic-gate-level design   ": null
+    },
+    {
+        "Timing analysis": "Static Timing Analysis"
+    },
+    {
+        " to confirm that all logic and circuits will run at the specified operating frequency   Physical design including ": null
+    },
+    {
+        "floorplanning": "Floorplan Floorplanning"
+    },
+    {
+        ", ": null
+    },
+    {
+        "place and route": "Place And Route"
+    },
+    {
+        " of logic gates   Checking that RTL, gate-level, transistor-level and physical-level representations are equivalent   Checks for ": null
+    },
+    {
+        "signal integrity": "Signal Integrity"
+    },
+    {
+        ", ": null
+    },
+    {
+        "chip manufacturability": "Design Rule Checking"
+    },
+    {
+        "     Re-designing a CPU core to a smaller die-area helps to shrink everything , resulting in the same number of transistors on a smaller die. It improves performance , reduces power  and reduces cost . Releasing a CPU on the same size die, but with a smaller CPU core, keeps the cost about the same but allows higher levels of integration within one ": null
+    },
+    {
+        "very-large-scale integration": "Very-Large-Scale Integration"
+    },
+    {
+        " chip , improving performance and reducing overall system cost.     As with most complex electronic designs, the ": null
+    },
+    {
+        "logic verification": "Functional Verification"
+    },
+    {
+        " effort now dominates the project schedule of a CPU.     Key CPU architectural innovations include ": null
+    },
+    {
+        "index register": "Index Register"
+    },
+    {
+        ", ": null
+    },
+    {
+        "cache": "Cpu Cache"
+    },
+    {
+        ", ": null
+    },
+    {
+        "virtual memory": "Virtual Memory"
+    },
+    {
+        ", ": null
+    },
+    {
+        "instruction pipelining": "Instruction Pipelining"
+    },
+    {
+        ", ": null
+    },
+    {
+        "superscalar": "Superscalar"
+    },
+    {
+        ", ": null
+    },
+    {
+        "CISC": "Complex Instruction Set Computer"
+    },
+    {
+        ", ": null
+    },
+    {
+        "RISC": "Reduced Instruction Set Computer"
+    },
+    {
+        ", ": null
+    },
+    {
+        "virtual machine": "Virtual Machine"
+    },
+    {
+        ", ": null
+    },
+    {
+        "emulator": "Emulator"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "microprogram": "Microprogram"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "stack": "Stack"
+    },
+    {
+        ".                      A variety of ": null
+    },
+    {
+        "new CPU design ideas": "History Of General-Purpose Cpus1990 To Today: Looking Forward"
+    },
+    {
+        " have been proposed,   including ": null
+    },
+    {
+        "reconfigurable logic": "Reconfigurable Logic"
+    },
+    {
+        ", ": null
+    },
+    {
+        "clockless CPU": "Clockless Cpu"
+    },
+    {
+        "s, ": null
+    },
+    {
+        "computational RAM": "Computational Ram"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "optical computing": "Optical Computing"
+    },
+    {
+        ".          ": null
+    },
+    {
+        "Benchmarking": "Benchmark"
+    },
+    {
+        " is a way of testing CPU speed. Examples include SPECint and ": null
+    },
+    {
+        "SPECfp": "Specfp"
+    },
+    {
+        ", developed by ": null
+    },
+    {
+        "Standard Performance Evaluation Corporation": "Standard Performance Evaluation Corporation"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "ConsumerMark": "Consumermark"
+    },
+    {
+        " developed by the Embedded Microprocessor Benchmark Consortium ": null
+    },
+    {
+        "EEMBC": "Eembc"
+    },
+    {
+        ".     Some of the commonly used metrics include:   ": null
+    },
+    {
+        "Instructions per second": "Instructions Per Second"
+    },
+    {
+        " - Most consumers pick a computer architecture  to be able to run a large base of pre-existing pre-compiled software. Being relatively uninformed on computer benchmarks, some of them pick a particular CPU based on operating frequency .   ": null
+    },
+    {
+        "FLOPS": "Flops"
+    },
+    {
+        " - The number of floating point operations per second is often important in selecting computers for scientific computations.   ": null
+    },
+    {
+        "Performance per watt": "Performance Per Watt"
+    },
+    {
+        " - System designers building ": null
+    },
+    {
+        "parallel computers": "Parallel Computing"
+    },
+    {
+        ", such as ": null
+    },
+    {
+        "Google": "Google Search Technologycurrent Hardware"
+    },
+    {
+        ", pick CPUs based on their speed per watt of power, because the cost of powering the CPU outweighs the cost of the CPU itself.     Some system designers building parallel computers pick CPUs based on the speed per dollar.   System designers building ": null
+    },
+    {
+        "real-time computing": "Real-Time Computing"
+    },
+    {
+        " systems want to guarantee worst-case response. That is easier to do when the CPU has low ": null
+    },
+    {
+        "interrupt latency": "Interrupt Latency"
+    },
+    {
+        " and when it has deterministic response.    Computer programmers who program directly in assembly language want a CPU to support a full featured ": null
+    },
+    {
+        "instruction set": "Instruction Set"
+    },
+    {
+        ".   Low power - For systems with limited power sources .   Small size or low weight - for portable embedded systems, systems for spacecraft.   Environmental impact - Minimizing environmental impact of computers during manufacturing and recycling as well during use. Reducing waste, reducing hazardous materials. .     There may be tradeoffs in optimizing some of these metrics. In particular, many design techniques that make a CPU run faster make the performance per watt , performance per dollar , and deterministic response much worse, and vice versa.       There are several different markets in which CPUs are used. Since each of these markets differ in their requirements for CPUs, the devices designed for one market are in most cases inappropriate for the other markets.       The vast majority of revenues generated from CPU sales is for general purpose computing, that is, desktop, laptop, and server computers commonly used in businesses and homes. In this market, the Intel ": null
+    },
+    {
+        "IA-32": "Ia-32"
+    },
+    {
+        " and the 64-bit version ": null
+    },
+    {
+        "x86-64": "X86-64"
+    },
+    {
+        " architecture dominate the market, with its rivals ": null
+    },
+    {
+        "PowerPC": "Powerpc"
+    },
+    {
+        " and ": null
+    },
+    {
+        "SPARC": "Sparc"
+    },
+    {
+        " maintaining much smaller customer bases. Yearly, hundreds of millions of IA-32 architecture CPUs are used by this market. A growing percentage of these processors are for mobile implementations such as netbooks and laptops. Kerr, Justin.  Maximum PC. Published 2010-10-26.     Since these devices are used to run countless different types of programs, these CPU designs are not specifically targeted at one type of application or one function. The demands of being able to run a wide range of programs efficiently has made these CPU designs among the more advanced technically, along with some disadvantages of being relatively costly, and having high power consumption.       In 1984, most high-performance CPUs required four to five years to develop.   New system manages hundreds of transactions per second article   by Robert Horst and Sandra Metz, of Tandem Computers Inc.,   Electronics magazine, 1984 April 19:   While most high-performance CPUs require four to five years to develop,   The ": null
+    },
+    {
+        "NonStop": "Nonstop"
+    },
+    {
+        " TXP processor took just 2+1/2 years --   six months to develop a complete written specification,   one year to construct a working prototype,   and another year to reach volume production.            Scientific computing is a much smaller niche market . It is used in government research labs and universities. Before 1990, CPU design was often done for this market, but mass market CPUs organized into large clusters have proven to be more affordable. The main remaining area of active hardware design and research for scientific computing is for high-speed data transmission systems to connect mass market CPUs.          As measured by units shipped, most CPUs are embedded in other machinery, such as telephones, clocks, appliances, vehicles, and infrastructure. Embedded processors sell in the volume of many billions of units per year, however, mostly at much lower price points than that of the general purpose processors.     These single-function devices differ from the more familiar general-purpose CPUs in several ways:   Low cost is of high importance.   It is important to maintain a low power dissipation as embedded devices often have a limited battery life and it is often impractical to include cooling fans. S. Mittal,  , IJCAET, 6, 440–459, 2014.   To give lower system cost, peripherals are integrated with the processor on the same silicon chip.   Keeping peripherals on-chip also reduces power consumption as external GPIO ports typically require buffering so that they can source or sink the relatively high current loads that are required to maintain a strong signal outside of the chip.   Many embedded applications have a limited amount of physical space for circuitry; keeping peripherals on-chip will reduce the space required for the circuit board.   The program and data memories are often integrated on the same chip. When the only allowed program memory is ": null
+    },
+    {
+        "ROM": "Read-Only Memory"
+    },
+    {
+        ", the device is known as a ": null
+    },
+    {
+        "microcontroller": "Microcontroller"
+    },
+    {
+        ".   For many embedded applications, interrupt latency will be more critical than in some general-purpose processors.       The embedded CPU family with the largest number of total units shipped is the ": null
+    },
+    {
+        "8051": "8051"
+    },
+    {
+        ", averaging nearly a billion units per year.  The 8051 is widely used because it is very inexpensive. The design time is now roughly zero, because it is widely available as commercial intellectual property. It is now often embedded as a small part of a larger system on a chip. The silicon cost of an 8051 is now as low as US$0.001, because some implementations use as few as 2,200 logic gates and take 0.0127 square millimeters of silicon.    To figure dollars per square millimeter, see , and note that an SOC component has no pin or packaging costs.     As of 2009, more CPUs are produced using the ": null
+    },
+    {
+        "ARM architecture": "Arm Architecture"
+    },
+    {
+        " instruction set than any other 32-bit instruction set.    by Mark Hachman, 2002.      by Jim Turley 2002.     The ARM architecture and the first ARM chip were designed in about one and a half years and 5 human years of work time.  1998     The 32-bit ": null
+    },
+    {
+        "Parallax Propeller": "Parallax Propeller"
+    },
+    {
+        " microcontroller architecture and the first chip were designed by two people in about 10 human years of work time.  by ": null
+    },
+    {
+        "Chip Gracey": "Chip Gracey"
+    },
+    {
+        "     The 8-bit ": null
+    },
+    {
+        "AVR architecture": "Atmel Avr"
+    },
+    {
+        " and first AVR microcontroller was conceived and designed by two students at the Norwegian Institute of Technology.     The 8-bit 6502 architecture and the first ": null
+    },
+    {
+        "MOS Technology 6502": "Mos Technology 6502"
+    },
+    {
+        " chip were designed in 13 months by a group of about 9 people.          The 32 bit ": null
+    },
+    {
+        "Berkeley RISC": "Berkeley Risc"
+    },
+    {
+        " I and RISC II architecture and the first chips were mostly designed by a series of students as part of a four quarter sequence of graduate courses.    This design became the basis of the commercial ": null
+    },
+    {
+        "SPARC": "Sparc"
+    },
+    {
+        " processor design.     For about a decade, every student taking the 6.004 class at MIT was part of a team—each team had one semester to design and build a simple 8 bit CPU out of ": null
+    },
+    {
+        "7400 series": "7400 Series"
+    },
+    {
+        " integrated circuit": "Integrated Circuit"
+    },
+    {
+        "s.   One team of 4 students designed and built a simple 32 bit CPU during that semester.        Some undergraduate courses require a team of 2 to 5 students to design, implement, and test a simple CPU in a FPGA in a single 15-week semester.      The MultiTitan CPU was designed with 2.5 man years of effort, which was considered relatively little design effort at the time.    24 people contributed to the 3.5 year MultiTitan research project, which included designing and building a prototype CPU.           For embedded systems, the highest performance levels are often not needed or desired due to the power consumption requirements. This allows for the use of processors which can be totally implemented by ": null
+    },
+    {
+        "logic synthesis": "Logic Synthesis"
+    },
+    {
+        " techniques. These synthesized processors can be implemented in a much shorter amount of time, giving quicker ": null
+    },
+    {
+        "time-to-market": "Time-To-Market"
+    }
+]

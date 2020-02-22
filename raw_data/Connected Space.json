@@ -1,0 +1,209 @@
+[
+    {
+        "           In ": null
+    },
+    {
+        "topology": "Topology"
+    },
+    {
+        " and related branches of ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", a connected space is a ": null
+    },
+    {
+        "topological space": "Topological Space"
+    },
+    {
+        " that cannot be represented as the ": null
+    },
+    {
+        "union": "Union"
+    },
+    {
+        " of two or more ": null
+    },
+    {
+        "disjoint": "Disjoint Set"
+    },
+    {
+        " non-empty": "Empty Set"
+    },
+    {
+        " open subsets": "Open"
+    },
+    {
+        ". Connectedness is one of the principal ": null
+    },
+    {
+        "topological properties": "Topological Properties"
+    },
+    {
+        " that are used to distinguish topological spaces.     A subset of a topological space X is a connected set if it is a connected space when viewed as a ": null
+    },
+    {
+        "subspace": "Subspace Topology"
+    },
+    {
+        " of X.     Some related but stronger conditions are ": null
+    },
+    {
+        "path connected": "Connected Spacepath Connectedness"
+    },
+    {
+        ", ": null
+    },
+    {
+        "simply connected": "Simply Connected Space"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "n-connected": "N-Connected Space"
+    },
+    {
+        ". Another related notion is ": null
+    },
+    {
+        "locally connected": "Locally Connected Space"
+    },
+    {
+        ", which neither implies nor follows from connectedness.       A ": null
+    },
+    {
+        "topological space": "Topological Space"
+    },
+    {
+        " X is said to be disconnected if it is the union of two disjoint non-empty open sets. Otherwise, X is said to be connected. A ": null
+    },
+    {
+        "subset": "Subset"
+    },
+    {
+        " of a topological space is said to be connected if it is connected under its subspace topology. Some authors exclude the ": null
+    },
+    {
+        "empty set": "Empty Set"
+    },
+    {
+        " as a connected space, but this article does not follow that practice.     For a topological space X the following conditions are equivalent:     X is connected, that is, it cannot be divided into two disjoint non-empty open sets.   X cannot be divided into two disjoint non-empty ": null
+    },
+    {
+        "closed set": "Closed Set"
+    },
+    {
+        "s.   The only subsets of X which are both open and closed  are X and the empty set.   The only subsets of X with empty ": null
+    },
+    {
+        "boundary": "Boundary"
+    },
+    {
+        " are X and the empty set.   X cannot be written as the union of two non-empty ": null
+    },
+    {
+        "separated sets": "Separated Sets"
+    },
+    {
+        " .   All ": null
+    },
+    {
+        "continuous": "Continuousfunctioncontinuousfunctionsbetweentopologicalspaces"
+    },
+    {
+        " functions from X to are constant, where is the two-point space endowed with the discrete topology.       The ": null
+    },
+    {
+        "maximal": "Maximal Element"
+    },
+    {
+        " connected subsets  of a non-empty topological space are called the connected components of the space.   The components of any topological space X form a ": null
+    },
+    {
+        "partition": "Partition Of A Set"
+    },
+    {
+        " of  X": null
+    },
+    {
+        "disjoint": "Disjoint Sets"
+    },
+    {
+        ", non-empty, and their union is the whole space.   Every component is a ": null
+    },
+    {
+        "closed subset": "Closed Subset"
+    },
+    {
+        " of the original space. It follows that, in the case where their number is finite, each component is also an open subset. However, if their number is infinite, this might not be the case; for instance, the connected components of the set of the ": null
+    },
+    {
+        "rational numbers": "Rational Number"
+    },
+    {
+        "are the one-point sets , which are not open.     Let   be the connected component of x in a topological space X, and   be the intersection of all ": null
+    },
+    {
+        "clopen": "Clopen"
+    },
+    {
+        " sets containing x  Then       where the equality holds if X is compact Hausdorff or locally connected.       A space in which all components are one-point sets is called ": null
+    },
+    {
+        "totally disconnected": "Totally Disconnected"
+    },
+    {
+        ". Related to this property, a space X is called totally separated if, for any two distinct elements x and y of X, there exist disjoint ": null
+    },
+    {
+        "open sets": "Open Sets"
+    },
+    {
+        " U containing x and V containing y such that X is the union of U and V. Clearly, any totally separated space is totally disconnected, but the converse does not hold. For example take two copies of the rational numbers Q, and identify them at every point except zero. The resulting space, with the quotient topology, is totally disconnected. However, by considering the two copies of zero, one sees that the space is not totally separated. In fact, it is not even ": null
+    },
+    {
+        "Hausdorff": "Hausdorff Space"
+    },
+    {
+        ", and the condition of being totally separated is strictly stronger than the condition of being Hausdorff.         The closed interval  in the ": null
+    },
+    {
+        "standard": "Euclidean Space"
+    },
+    {
+        " subspace topology": "Subspace Topology"
+    },
+    {
+        " is connected; although it can, for example, be written as the union of 0,  0such as   or   GLn,   is, the group of n-by-n real, invertible matricesGLn,  i.e., R is not a product of two rings in a nontrivial waythat is, spaces which are not connected": null
+    },
+    {
+        "themati": "Themati"
+    },
+    {
+        "themati": "Themati"
+    },
+    {
+        "polo": "Polo"
+    },
+    {
+        "polo": "Polo"
+    },
+    {
+        "topology01or pathwise connected or 0-connectednote however that by this definition, the empty space is not path-connected because it has zero path-components; there is a unique equivalence relation on the empty set which has zero equivalence classes": null
+    },
+    {
+        "polo": "Polo"
+    },
+    {
+        " themati": "Themati"
+    },
+    {
+        "themati": "Themati"
+    },
+    {
+        "0,  1": null
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "The Knowbot Information Service , also known as netaddress, is an Internet user ": null
+    },
+    {
+        "search engine": "Search Engine"
+    },
+    {
+        " that debuted in December 1989. Although it searched users, not content, it could be argued to be the first ": null
+    },
+    {
+        "search engine": "Search Engine"
+    },
+    {
+        " on the Internet as it queried more than a single network for information. It provided a uniform user interface to a variety of remote directory services such as ": null
+    },
+    {
+        "whois": "Whois"
+    },
+    {
+        ", ": null
+    },
+    {
+        "finger": "Finger Protocol"
+    },
+    {
+        ", ": null
+    },
+    {
+        "X.500": "X.500"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "MCI Mail": "Mci Mail"
+    },
+    {
+        ". By submitting a single query to KIS, a user can search a set of remote white pages services and see the results of the search in a uniform format. There are several interfaces to the KIS service including ": null
+    },
+    {
+        "e-mail": "E-Mail"
+    },
+    {
+        " and ": null
+    },
+    {
+        "telnet": "Telnet"
+    },
+    {
+        ". Another KIS interface imitates the Berkeley whois command.     KIS consists of two distinct types of modules which interact with each other to provide the service. One module is a user agent module that runs on the KIS mail host machine. The second module is a remote server module that interrogates various database services across the network and provides the results to the user agent module in a uniform fashion. Interactions between the two modules can be via messages between ": null
+    },
+    {
+        "knowbot": "Knowbot"
+    }
+]

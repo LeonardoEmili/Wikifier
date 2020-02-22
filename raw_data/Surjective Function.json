@@ -1,0 +1,431 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "function": "Function"
+    },
+    {
+        " f from a ": null
+    },
+    {
+        "set": "Set"
+    },
+    {
+        " X to a set Y is surjective , or a surjection, if for every ": null
+    },
+    {
+        "element": "Element"
+    },
+    {
+        " y in the ": null
+    },
+    {
+        "codomain": "Codomain"
+    },
+    {
+        " Y of f there is at least one element x in the ": null
+    },
+    {
+        "domain": "Domain Of A Function"
+    },
+    {
+        " X of f such that f y. It is not required that x be ": null
+    },
+    {
+        "unique": "Unique"
+    },
+    {
+        "; the function f may map one or more elements of X to the same element of Y.          The term surjective and the related terms  injective  and  bijective  were introduced by ": null
+    },
+    {
+        "Nicolas Bourbaki": "Nicolas Bourbaki"
+    },
+    {
+        ", . a group of mainly ": null
+    },
+    {
+        "French": "France"
+    },
+    {
+        " 20th-century ": null
+    },
+    {
+        "mathematicians": "Mathematician"
+    },
+    {
+        "who under this pseudonym wrote a series of books presenting an exposition of modern advanced mathematics, beginning in 1935. The French word  sur  means over or above and relates to the fact that the ": null
+    },
+    {
+        "image": "Image"
+    },
+    {
+        " of the domain of a surjective function completely covers the functions codomain.     Any function induces a surjection by ": null
+    },
+    {
+        "restricting": "Restriction Of A Function"
+    },
+    {
+        " its codomain to the image of its domain. Every surjective function has a ": null
+    },
+    {
+        "right inverse": "Inverse Functionleft And Right Inverses"
+    },
+    {
+        ", and every function with a right inverse is necessarily a surjection. The ": null
+    },
+    {
+        "composite": "Function Composition"
+    },
+    {
+        " of surjective functions is always surjective. Any function can be decomposed into a surjection and an injection.          A surjective function is a ": null
+    },
+    {
+        "function": "Function"
+    },
+    {
+        " whose ": null
+    },
+    {
+        "image": "Image"
+    },
+    {
+        " is equal to its ": null
+    },
+    {
+        "codomain": "Codomain"
+    },
+    {
+        ". Equivalently, a function f with ": null
+    },
+    {
+        "domain": "Domain Of A Function"
+    },
+    {
+        " X and codomain Y is surjective if for every y in Y there exists at least one x in X with fy . Surjections are sometimes denoted by a two-headed rightwards arrow ,  as in f : X ↠ Y.     Symbolically,     :If f  X   Y , then f is said to be surjective if     :   y   Y,     x   X,   fy .          For any set X, the ": null
+    },
+    {
+        "identity function": "Identity Function"
+    },
+    {
+        " id X on X is surjective.     The function  defined by f n  mod  2  is surjective.     The function  defined by f 2x + 1 is surjective , because for every ": null
+    },
+    {
+        "real number": "Real Number"
+    },
+    {
+        " y we have an x such that f yx is /2.     The function  defined by f x 3 − 3x is surjective, because the pre-image of any ": null
+    },
+    {
+        "real number": "Real Number"
+    },
+    {
+        " y is the solution set of the cubic polynomial equation x 3 − 3x − y 0 and every cubic polynomial with real coefficients has at least one real root. However, this function is not ": null
+    },
+    {
+        "injective": "Injective Function"
+    },
+    {
+        "  since e.g. the pre-image of y 2 is .      The function  defined by g x 2  is not surjective, because there is no real number x such that x 2 −1. However, the function  defined by g x 2  is surjective because for every y in the nonnegative real codomain Y there is at least one x in the real domain X such that x 2 y.     The ": null
+    },
+    {
+        "natural logarithm": "Natural Logarithm"
+    },
+    {
+        " function  is a surjective and even bijective mapping from the set of positive real numbers to the set of all real numbers. Its inverse, the ": null
+    },
+    {
+        "exponential function": "Exponential Function"
+    },
+    {
+        ", is not surjective as its range is the set of positive real numbers, and its domain is usually defined to be the set of all real numbers. The ": null
+    },
+    {
+        "matrix exponential": "Matrix Exponential"
+    },
+    {
+        " is not surjective when seen as a map from the space of all n×n ": null
+    },
+    {
+        "matrices": "Matrix"
+    },
+    {
+        " to itself. It is, however, usually defined as a map from the space of all n×n matrices to the ": null
+    },
+    {
+        "general linear group": "General Linear Group"
+    },
+    {
+        " of degree n, i.e. the ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        " of all n×n ": null
+    },
+    {
+        "invertible matrices": "Invertible Matrix"
+    },
+    {
+        ". Under this definition the matrix exponential is surjective for complex matrices, although still not surjective for real matrices.     The ": null
+    },
+    {
+        "projection": "Projection"
+    },
+    {
+        " from a ": null
+    },
+    {
+        "cartesian product": "Cartesian Product"
+    },
+    {
+        "  to one of its factors is surjective unless the other factor is empty.     In a 3D video game, vectors are projected onto a 2D flat screen by means of a surjective function.                      A function is ": null
+    },
+    {
+        "bijective": "Bijective Function"
+    },
+    {
+        " if and only if it is both surjective and ": null
+    },
+    {
+        "injective": "Injective Function"
+    },
+    {
+        ".     If a function is identified with its ": null
+    },
+    {
+        "graph": "Graph Of A Function"
+    },
+    {
+        ", then surjectivity is not a property of the function itself, but rather a property of the ": null
+    },
+    {
+        "mapping": "Map"
+    },
+    {
+        "  . This is, the function together with its codomain. Unlike injectivity, surjectivity cannot be read off of the graph of the function alone.       The function  is said to be a ": null
+    },
+    {
+        "right inverse": "Inverse Functionleft And Right Inverses"
+    },
+    {
+        " of the function  if f y for every y in Y . In other words, g is a right inverse of f if the ": null
+    },
+    {
+        "composition": "Function Composition"
+    },
+    {
+        "  of g and f in that order is the ": null
+    },
+    {
+        "identity function": "Identity Function"
+    },
+    {
+        " on the domain Y of g. The function g need not be a complete ": null
+    },
+    {
+        "inverse": "Inverse Function"
+    },
+    {
+        " of f because the composition in the other order, , may not be the identity function on the domain X of f. In other words, f can undo or reverse g, but cannot necessarily be reversed by it.     Every function with a right inverse is necessarily a surjection. The proposition that every surjective function has a right inverse is equivalent to the ": null
+    },
+    {
+        "axiom of choice": "Axiom Of Choice"
+    },
+    {
+        ".     If  is surjective and B is a ": null
+    },
+    {
+        "subset": "Subset"
+    },
+    {
+        " of Y, then f B. Thus, B can be recovered from its ": null
+    },
+    {
+        "preimage": "Preimage"
+    },
+    {
+        " .     For example, in the first illustration, above, there is some function g such that g 4. There is also some function f such that f C. It doesnt matter that g can also equal 3; it only matters that f reverses g  non-surjective function.          A function  is surjective if and only if it is ": null
+    },
+    {
+        "right-cancellative": "Right-Cancellative"
+    },
+    {
+        " given any functions , whenever g o f h o f, then g h. This property is formulated in terms of functions and their ": null
+    },
+    {
+        "composition": "Function Composition"
+    },
+    {
+        " and can be generalized to the more general notion of the ": null
+    },
+    {
+        "morphisms": "Morphism"
+    },
+    {
+        "of a ": null
+    },
+    {
+        "category": "Category"
+    },
+    {
+        " and their composition. Right-cancellative morphisms are called ": null
+    },
+    {
+        "epimorphism": "Epimorphism"
+    },
+    {
+        "s. Specifically, surjective functions are precisely the epimorphisms in the ": null
+    },
+    {
+        "category of sets": "Category Of Sets"
+    },
+    {
+        ". The prefix epi is derived from the Greek preposition ἐπί meaning over, above, on.     Any morphism with a right inverse is an epimorphism, but the converse is not true in general. A right inverse g of a morphism f is called a ": null
+    },
+    {
+        "section": "Section"
+    },
+    {
+        " of f. A morphism with a right inverse is called a ": null
+    },
+    {
+        "split epimorphism": "Split Epimorphism"
+    },
+    {
+        ".       Any function with domain X and codomain Y can be seen as a ": null
+    },
+    {
+        "left-total": "Left-Total Relation"
+    },
+    {
+        " and ": null
+    },
+    {
+        "right-unique": "Right-Unique Relation"
+    },
+    {
+        " binary relation between X and Y by identifying it with its ": null
+    },
+    {
+        "function graph": "Function Graph"
+    },
+    {
+        ". A surjective function with domain X and codomain Y is then a binary relation between X and Y that is right-unique and both left-total and ": null
+    },
+    {
+        "right-total": "Right-Total Relation"
+    },
+    {
+        ".       The ": null
+    },
+    {
+        "cardinality": "Cardinality"
+    },
+    {
+        " of the domain of a surjective function is greater than or equal to the cardinality of its codomain: If  is a surjective function, then X has at least as many elements as Y, in the sense of ": null
+    },
+    {
+        "cardinal number": "Cardinal Number"
+    },
+    {
+        "s.      Specifically, if both X and Y are ": null
+    },
+    {
+        "finite": "Finite Set"
+    },
+    {
+        " with the same number of elements, then  is surjective if and only if f is ": null
+    },
+    {
+        "injective": "Injective"
+    },
+    {
+        ".     Given two sets X and Y, the notation  is used to say that either X is empty or that there is a surjection from Y onto X. Using the axiom of choice one can show that  and  together imply that  Y X  a variant of the ": null
+    },
+    {
+        "Schröder–Bernstein theorem": "Schröder–Bernstein Theorem"
+    },
+    {
+        ".       The ": null
+    },
+    {
+        "composite": "Function Composition"
+    },
+    {
+        " of surjective functions is always surjective: If f and g are both surjective, and the codomain of g is equal to the domain of f, then  is surjective. Conversely, if  is surjective, then f is surjective . These properties generalize from surjections in the ": null
+    },
+    {
+        "category of sets": "Category Of Sets"
+    },
+    {
+        " to any ": null
+    },
+    {
+        "epimorphisms": "Epimorphism"
+    },
+    {
+        "in any ": null
+    },
+    {
+        "category": "Category"
+    },
+    {
+        ".     Any function can be decomposed into a surjection and an ": null
+    },
+    {
+        "injection": "Injective Function"
+    },
+    {
+        " there exist a surjection  and an injection  such that h g o f. To see this, define Y to be the set of ": null
+    },
+    {
+        "preimages": "Preimage"
+    },
+    {
+        "  where z is in . These preimages are ": null
+    },
+    {
+        "disjoint": "Disjoint Sets"
+    },
+    {
+        " and ": null
+    },
+    {
+        "partition": "Partition Of A Set"
+    },
+    {
+        " X. Then f carries each x to the element of Y which contains it, and g carries each element of Y to the point in Z to which h sends its points. Then f is surjective since it is a projection map, and g is injective by definition.       Any function induces a surjection by restricting its codomain to its range. Any surjective function induces a bijection defined on a ": null
+    },
+    {
+        "quotient": "Quotient Set"
+    },
+    {
+        " of its domain by collapsing all arguments mapping to a given fixed image. More precisely, every surjection  can be factored as a projection followed by a bijection as follows. Let A/~ be the ": null
+    },
+    {
+        "equivalence class": "Equivalence Class"
+    },
+    {
+        "es of A under the following ": null
+    },
+    {
+        "equivalence relation": "Equivalence Relation"
+    },
+    {
+        "x ~ y if and only if f f. Equivalently, A/~ is the set of all preimages under f. Let P : A → A/~ be the ": null
+    },
+    {
+        "projection map": "Projection Map"
+    },
+    {
+        " which sends each x in A to its equivalence class x ~ , and let f P : A/~ → B be the well-defined function given by f P  f. Then f f P o P": null
+    }
+]

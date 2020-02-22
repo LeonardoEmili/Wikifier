@@ -1,0 +1,698 @@
+[
+    {
+        "   In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", a linear map  is a ": null
+    },
+    {
+        "mapping": "Map"
+    },
+    {
+        "  between two ": null
+    },
+    {
+        "modules": "Module"
+    },
+    {
+        "  that preserves the operations of addition and ": null
+    },
+    {
+        "scalar": "Scalar"
+    },
+    {
+        " multiplication.     An important special case is when , an ": null
+    },
+    {
+        "endomorphism": "Endomorphism"
+    },
+    {
+        " of  . Sometimes the term linear operator refers to this case Linear transformations of  into  are often called linear operators on   . In another convention, linear operator allows  and  to differ, while requiring them to be real vector spaces Let  and  be two real vector spaces. A mapping a from  into  Is called a linear mapping or linear transformation or linear operator from  into , if aau+av for all u,v   V , a   au for all u   V and all real .  . Sometimes the term  linear function  has the same meaning as linear map, while in ": null
+    },
+    {
+        "analytic geometry": "Analytic Geometry"
+    },
+    {
+        " it does not.     A linear map always ": null
+    },
+    {
+        "maps": "Map"
+    },
+    {
+        " linear subspaces onto linear subspaces ;  Here are some properties of linear mappings   X   Y whose proofs are so easy that we omit them; it is assumed that A   X and B   Y :    for instance it maps a plane through the ": null
+    },
+    {
+        "origin": "Origin"
+    },
+    {
+        " to a ": null
+    },
+    {
+        "plane": "Plane"
+    },
+    {
+        ", ": null
+    },
+    {
+        "straight line": "Straight Line"
+    },
+    {
+        " or ": null
+    },
+    {
+        "point": "Point"
+    },
+    {
+        ". Linear maps can often be represented as ": null
+    },
+    {
+        "matrices": "Matrix"
+    },
+    {
+        ", and simple examples include ": null
+    },
+    {
+        "rotation and reflection linear transformations": "Rotation And Reflection Linear Transformations"
+    },
+    {
+        ".     In the language of ": null
+    },
+    {
+        "abstract algebra": "Abstract Algebra"
+    },
+    {
+        ", a linear map is a ": null
+    },
+    {
+        "module homomorphism": "Module Homomorphism"
+    },
+    {
+        ". In the language of ": null
+    },
+    {
+        "category theory": "Category Theory"
+    },
+    {
+        " it is a ": null
+    },
+    {
+        "morphism": "Morphism"
+    },
+    {
+        " in the ": null
+    },
+    {
+        "category of modules": "Category Of Modules"
+    },
+    {
+        " over a given ": null
+    },
+    {
+        "ring": "Ring"
+    },
+    {
+        ".       Let V and W be vector spaces over the same ": null
+    },
+    {
+        "field": "Field"
+    },
+    {
+        "   A function f : V   W is said to be a linear map if for any two vectors       V and any scalar c     the following two conditions are satisfied:          Thus, a linear map is said to be operation preserving. In other words, it does not matter whether the linear map is applied before or after the operations of addition and scalar multiplication.     This is equivalent to requiring the same for any linear combination of vectors, i.e. that for any vectors         V and scalars c1,   cn     the following equality holds: . Suppose now that  and  are vector spaces over the same scalar field. A mapping   X   Y is said to be linear if     x +   y for all x, y   X and all scalars   and   . Note that one often writes   x , rather than   , when   is linear. . A mapping  of a vector space  into a vector space  is said to be a linear transformation if: A  A  + A  A cA  for all         X and all scalars . Note that one often writes A  instead of A if  is linear.     : f c1 f +   + cn f.     Denoting the zero elements of the vector spaces V and W by   and   respectively, it follows that f   Let c 0 and     V in the equation for homogeneity of degree 1:     : f f 0f       Occasionally, V and W can be considered to be vector spaces over different fields. It is then necessary to specify which of these ground fields is being used in the definition of linear . If V and W are considered as spaces over the field   as above, we talk about   -linear maps. For example, the ": null
+    },
+    {
+        "conjugation": "Complex Conjugate"
+    },
+    {
+        " of ": null
+    },
+    {
+        "complex numbers": "Complex Numbers"
+    },
+    {
+        " is an   -linear map       , but it is not   -linear.     A linear map V     with   viewed as a vector space over itself is called a ": null
+    },
+    {
+        "linear functional": "Linear Functional"
+    },
+    {
+        ". . Linear mappings of  onto its scalar field are called linear functionals.     These statements generalize to any left-module R M over a ring R without modification, and to any right-module upon reversing of the scalar multiplication.       The prototypical example that gives linear maps their name is the function   R  R,   fcx , which is a line through the origin.    More generally, any ": null
+    },
+    {
+        "homothecy": "Homothecy"
+    },
+    {
+        " centered in the origin of a vector space, v   cv where c is a scalar, is a linear operator. This does not hold in general for modules, where such a map might only be ": null
+    },
+    {
+        "semilinear": "Semilinear Map"
+    },
+    {
+        ".   The zero map  between two left-modules over the same ring is always linear.   The ": null
+    },
+    {
+        "identity map": "Identity Function"
+    },
+    {
+        " on any module is a linear operator.   For real numbers, the map  is not linear.   For real numbers, the map  is not linear    If A is a real  ": null
+    },
+    {
+        "matrix": "Matrix"
+    },
+    {
+        ", then A defines a linear map from R n to R m by sending the ": null
+    },
+    {
+        "column vector": "Column Vector"
+    },
+    {
+        "  to the column vector . Conversely, any linear map between ": null
+    },
+    {
+        "finite-dimensional": "Finite-Dimensional"
+    },
+    {
+        " vector spaces can be represented in this manner; see the ": null
+    },
+    {
+        "following section": "Matrices"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Differentiation": "Derivative"
+    },
+    {
+        " defines a linear map from the space of all differentiable functions to the space of all functions. It also defines a linear operator on the space of all ": null
+    },
+    {
+        "smooth function": "Smooth Function"
+    },
+    {
+        "s.   The ": null
+    },
+    {
+        "integral": "Integral"
+    },
+    {
+        " over some ": null
+    },
+    {
+        "interval": "Interval"
+    },
+    {
+        " I is a linear map from the space of all real-valued integrable functions on I to R.   The ": null
+    },
+    {
+        "integral": "Integral"
+    },
+    {
+        "  with a fixed starting point defines a linear map from the space of all real-valued integrable functions on R to the space of all real-valued, differentiable functions on R. Without a fixed starting point, an exercise in group theory will show that the antiderivative maps to the ": null
+    },
+    {
+        "quotient space": "Quotient Space"
+    },
+    {
+        " of the differentiables over the ": null
+    },
+    {
+        "equivalence relation": "Equivalence Relation"
+    },
+    {
+        " differ by a constant , which yields an identity class of the constant valued functions   .   If V and W are finite-dimensional vector spaces over a field F, then functions that send linear maps  to  matrices in the way described in the sequel are themselves linear maps .   The ": null
+    },
+    {
+        "expected value": "Expected Value"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "random variable": "Random Variabledefinition"
+    },
+    {
+        " is linear, as for random variables X and Y we have  and , but the ": null
+    },
+    {
+        "variance": "Variance"
+    },
+    {
+        "      If V and W are ": null
+    },
+    {
+        "finite-dimensional": "Finite-Dimensional"
+    },
+    {
+        " vector spaces and a ": null
+    },
+    {
+        "basis": "Basis Of A Vector Space"
+    },
+    {
+        " is defined for each vector space, then every linear map from V to W can be represented by a ": null
+    },
+    {
+        "matrix": "Matrix"
+    },
+    {
+        ".      Suppose   and   are bases of vector spaces  and , respectively. Then every A   L determines a set of numbers a such that   : A    a  .     It is convenient to represent these numbers in a rectangular array of  rows and  columns, called an  by  matrixj th column of . The vectors Aj are therefore sometimes called the column vectors of . With this terminology, the range of  is spanned by the column vectors of .   This is useful because it allows concrete calculations. Matrices yield examples of linear maps: if A is a real  matrix, then  describes a linear map  .     Let  be a basis for V. Then every vector v in V is uniquely determined by the coefficients c 1 , …, c n in the field R is a linear map,     : f  c1 f  +   + cn f      which implies that the function f is entirely determined by the vectors f, …, f. Now let  be a basis for W. Then we can represent each vector f as     : f  a   +   + a       Thus, the function f is entirely determined by the values of a ij . If we put these values into an  matrix M, then we can conveniently use it to compute the vector output of f for any vector in V. To get M, every column j of M is a vector     :   a &   & a       corresponding to f as defined above. To define it more clearly, for some column j that corresponds to the mapping f,     :           & a &       &   &     & a &         where M is the matrix of f. In other words, every column  has a corresponding vector f whose coordinates a 1j , …, a mj are the elements of column j. A single linear map may be represented by many matrices. This is because the values of the elements of a matrix depend on the bases chosen.     The matrices of a linear transformation can be represented visually:     Matrix for T relative to B : A   Matrix for T relative to B : A   Transition matrix from B to B : P   Transition matrix from B to B : P          Such that starting in the bottom left corner   and looking for the bottom right corner   , one would left-multiply—that is, A    . The equivalent method would be the longer method going clockwise from the same point such that   is left-multiplied with PAP , or PAP    .       In two-": null
+    },
+    {
+        "dimension": "Dimension"
+    },
+    {
+        "al space R 2 linear maps are described by ": null
+    },
+    {
+        "2 × 2 real matrices": "2 × 2 Real Matrices"
+    },
+    {
+        ". These are some examples:     ": null
+    },
+    {
+        "rotation": "Rotation"
+    },
+    {
+        " θ counterclockwise:   :       & -      &       ": null
+    },
+    {
+        "reflection": "Reflection"
+    },
+    {
+        " x axis:   :     1 & 0  0 & -1    about the y axis:   :     & 0  0 & 1    ": null
+    },
+    {
+        "scaling": "Scaling"
+    },
+    {
+        " by 2 in all directions:   :     2 & 0  0 & 2  2    ": null
+    },
+    {
+        "horizontal shear mapping": "Shear Mapping"
+    },
+    {
+        "squeeze mapping": "Squeeze Mapping"
+    },
+    {
+        "projection": "Projection"
+    },
+    {
+        " onto the y axis:   :     0 & 0  0 & 1        The composition of linear maps is linear: if  and  are linear, then so is their ": null
+    },
+    {
+        "composition": "Relation Composition"
+    },
+    {
+        " . It follows from this that the ": null
+    },
+    {
+        "class": "Class"
+    },
+    {
+        " of all vector spaces over a given field K, together with K-linear maps as ": null
+    },
+    {
+        "morphism": "Morphism"
+    },
+    {
+        "s, forms a ": null
+    },
+    {
+        "category": "Category"
+    },
+    {
+        ".     The ": null
+    },
+    {
+        "inverse": "Inverse Function"
+    },
+    {
+        " of a linear map, when defined, is again a linear map.     If  and  are linear, then so is their ": null
+    },
+    {
+        "pointwise": "Pointwise"
+    },
+    {
+        " sum  .     If  is linear and a is an element of the ground field K, then the map af, defined by , is also linear.     Thus the set  of linear maps from V to W itself forms a vector space over K, sometimes denoted . Furthermore, in the case that , this vector space  is an ": null
+    },
+    {
+        "associative algebra": "Associative Algebra"
+    },
+    {
+        " under ": null
+    },
+    {
+        "composition of maps": "Composition Of Maps"
+    },
+    {
+        ", since the composition of two linear maps is again a linear map, and the composition of maps is always associative. This case is discussed in more detail below.     Given again the finite-dimensional case, if bases have been chosen, then the composition of linear maps corresponds to the ": null
+    },
+    {
+        "matrix multiplication": "Matrix Multiplication"
+    },
+    {
+        ", the addition of linear maps corresponds to the ": null
+    },
+    {
+        "matrix addition": "Matrix Addition"
+    },
+    {
+        ", and the multiplication of linear maps with scalars corresponds to the multiplication of matrices with scalars.          A linear transformation fV → V is an ": null
+    },
+    {
+        "endomorphism": "Endomorphism"
+    },
+    {
+        " of V; the set of all such endomorphisms End together with addition, composition and scalar multiplication as defined above forms an ": null
+    },
+    {
+        "associative algebra": "Associative Algebra"
+    },
+    {
+        " with identity element over the field K . The multiplicative identity element of this algebra is the ": null
+    },
+    {
+        "identity map": "Identity Function"
+    },
+    {
+        " id: V → V.     An endomorphism of V that is also an ": null
+    },
+    {
+        "isomorphism": "Isomorphism"
+    },
+    {
+        " is called an ": null
+    },
+    {
+        "automorphism": "Automorphism"
+    },
+    {
+        " of V. The composition of two automorphisms is again an automorphism, and the set of all automorphisms of V forms a ": null
+    },
+    {
+        "group": "Group"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "automorphism group": "Automorphism Group"
+    },
+    {
+        " of V which is denoted by Aut or GL. Since the automorphisms are precisely those ": null
+    },
+    {
+        "endomorphisms": "Endomorphisms"
+    },
+    {
+        " which possess inverses under composition, Aut is the group of ": null
+    },
+    {
+        "units": "Unit"
+    },
+    {
+        " in the ring End.     If V has finite dimension n, then End is ": null
+    },
+    {
+        "isomorphic": "Isomorphism"
+    },
+    {
+        " to the ": null
+    },
+    {
+        "associative algebra": "Associative Algebra"
+    },
+    {
+        " of all n × n matrices with entries in K. The automorphism group of V is ": null
+    },
+    {
+        "isomorphic": "Group Isomorphism"
+    },
+    {
+        " to the ": null
+    },
+    {
+        "general linear group": "General Linear Group"
+    },
+    {
+        " GL of all n × n invertible matrices with entries in K.          If f : V → W is linear, we define the ": null
+    },
+    {
+        "kernel": "Kernel"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "image": "Image"
+    },
+    {
+        " or ": null
+    },
+    {
+        "range": "Range"
+    },
+    {
+        " of f by     :       &         &           ker is a ": null
+    },
+    {
+        "subspace": "Linear Subspace"
+    },
+    {
+        " of V and im is a subspace of W. The following ": null
+    },
+    {
+        "dimension": "Dimension"
+    },
+    {
+        " formula is known as the ": null
+    },
+    {
+        "rank–nullity theorem": "Rank–Nullity Theorem"
+    },
+    {
+        "     The number dim is also called the rank of f and written as rank, or sometimes, ρ; the number dim is called the nullity of f and written as null or ν. If V and W are finite-dimensional, bases have been chosen and f is represented by the matrix A, then the rank and nullity of f are equal to the ": null
+    },
+    {
+        "rank": "Rank Of A Matrix"
+    },
+    {
+        " and ": null
+    },
+    {
+        "nullity": "Kernel Subspace Properties"
+    },
+    {
+        " of the matrix A, respectively.            A subtler invariant of a linear transformation f: V   W is the ": null
+    },
+    {
+        "cokernel": "Cokernel"
+    },
+    {
+        ", which is defined as     :   : W/f W/      This is the dual notion to the kernel: just as the kernel is a subspace of the domain, the co-kernel is a ": null
+    },
+    {
+        "quotient space": "Quotient Space"
+    },
+    {
+        " of the target.   Formally, one has the ": null
+    },
+    {
+        "exact sequence": "Exact Sequence"
+    },
+    {
+        "     : 0       V   W       0.     These can be interpreted thus: given a linear equation f w to solve,     the kernel is the space of solutions to the homogeneous equation f 0, and its dimension is the number of degrees of freedom in a solution, if it exists;   the co-kernel is the space of constraints that must be satisfied if the equation is to have a solution, and its dimension is the number of constraints that must be satisfied for the equation to have a solution.     The dimension of the co-kernel and the dimension of the image add up to the dimension of the target space. For finite dimensions, this means that the dimension of the quotient space W/f is the dimension of the target space minus the dimension of the image.     As a simple example, consider the map fR 2 → R 2 , given by f . Then for an equation f  to have a solution, we must have a 0 , and in that case the solution space is  or equivalently stated,  + , . The kernel may be expressed as the subspace   0. Its image consists of all sequences with first element 0, and thus its cokernel consists of the classes of sequences with identical first element. Thus, whereas its kernel has dimension 0 , its co-kernel has dimension 1. Since the domain and the target space are the same, the rank and the dimension of the kernel add up to the same ": null
+    },
+    {
+        "sum": "Cardinal Numbercardinal Addition"
+    },
+    {
+        " as the rank and the dimension of the co-kernel , but in the infinite-dimensional case it cannot be inferred that the kernel and the co-kernel of an ": null
+    },
+    {
+        "endomorphism": "Endomorphism"
+    },
+    {
+        " have the same dimension . The reverse situation obtains for the map hR ∞ → R ∞ ,       with c n  a n + 1 . Its image is the entire target space, and hence its co-kernel has dimension 0, but since it maps all sequences in which only the first element is non-zero to the zero sequence, its kernel has dimension 1.       For a linear operator with finite-dimensional kernel and co-kernel, one may define index as:     :   :   -       namely the degrees of freedom minus the number of constraints.     For a transformation between finite-dimensional vector spaces, this is just the difference dim − dim, by rank–nullity. This gives an indication of how many solutions or how many constraints one has: if mapping from a larger space to a smaller one, the map may be onto, and thus will have degrees of freedom even without constraints. Conversely, if mapping from a smaller space to a larger one, the map cannot be onto, and thus one will have constraints even without degrees of freedom.     The index of an operator is precisely the ": null
+    },
+    {
+        "Euler characteristic": "Euler Characteristic"
+    },
+    {
+        " of the 2-term complex 0 → V → W → 0. In ": null
+    },
+    {
+        "operator theory": "Operator Theory"
+    },
+    {
+        ", the index of ": null
+    },
+    {
+        "Fredholm operators": "Fredholm Operator"
+    },
+    {
+        "is an object of study, with a major result being the ": null
+    },
+    {
+        "Atiyah–Singer index theorem": "Atiyah–Singer Index Theorem"
+    },
+    {
+        ". V and W denote vector spaces over a field, F. Let TV → W be a linear map.     T is said to be  injective  or a  monomorphism  if any of the following equivalent conditions are true:   T is ": null
+    },
+    {
+        "one-to-one": "Injective"
+    },
+    {
+        " as a map of ": null
+    },
+    {
+        "sets": "Set"
+    },
+    {
+        ".   kerT    dim 0   T is ": null
+    },
+    {
+        "monic": "Monic Morphism"
+    },
+    {
+        " or left-cancellable, which is to say, for any vector space U and any pair of linear maps RU → V and SU → V, the equation TR TS implies R S.   T is ": null
+    },
+    {
+        "left-invertible": "Inverse"
+    },
+    {
+        ", which is to say there exists a linear map SW → V such that ST is the ": null
+    },
+    {
+        "identity map": "Identity Function"
+    },
+    {
+        " on V.   T is said to be  surjective  or an  epimorphism  if any of the following equivalent conditions are true:   T is ": null
+    },
+    {
+        "onto": "Surjective"
+    },
+    {
+        " as a map of sets.   ": null
+    },
+    {
+        "coker": "Cokernel"
+    },
+    {
+        " T    T is ": null
+    },
+    {
+        "epic": "Epimorphism"
+    },
+    {
+        " or right-cancellable, which is to say, for any vector space U and any pair of linear maps RW → U and SW → U, the equation RT ST implies R S.   T is ": null
+    },
+    {
+        "right-invertible": "Inverse"
+    },
+    {
+        ", which is to say there exists a linear map SW → V such that TS is the ": null
+    },
+    {
+        "identity map": "Identity Function"
+    },
+    {
+        " on W.   T is said to be an  isomorphism  if it is both left- and right-invertible. This is equivalent to T being both one-to-one and onto  or also to T being both epic and monic, and so being a ": null
+    },
+    {
+        "bimorphism": "Bimorphism"
+    },
+    {
+        ".   If TV → V is an endomorphism, then:   If, for some positive integer n, the n-th iterate of T, T n , is identically zero, then T is said to be ": null
+    },
+    {
+        "nilpotent": "Nilpotent"
+    },
+    {
+        ".   If T 2 T, then T is said to be ": null
+    },
+    {
+        "idempotent": "Idempotent"
+    },
+    {
+        " T kI, where k is some scalar, then T is said to be a scaling transformation or scalar multiplication map; see ": null
+    },
+    {
+        "scalar matrix": "Scalar Matrix"
+    },
+    {
+        ".          Given a linear map which is an ": null
+    },
+    {
+        "endomorphism": "Endomorphism"
+    },
+    {
+        " whose matrix is A, in the basis B of the space it transforms vector coordinates as A As vectors change with the inverse of B  its inverse transformation is B     Substituting this in the first expression   : B  AB      hence   :   BAB  A      Therefore, the matrix in the new basis is A′ B −1 AB, being B the matrix of the given basis.     Therefore, linear maps are said to be 1-co- 1-contra-": null
+    },
+    {
+        "variant": "Covariance And Contravariance Of Vectors"
+    },
+    {
+        " objects, or type ": null
+    },
+    {
+        "tensor": "Tensor"
+    },
+    {
+        "s.            A linear transformation between ": null
+    },
+    {
+        "topological vector space": "Topological Vector Space"
+    },
+    {
+        "s, for example ": null
+    },
+    {
+        "normed space": "Normed Space"
+    },
+    {
+        "s, may be ": null
+    },
+    {
+        "continuous": "Continuous Function"
+    },
+    {
+        ". If its domain and codomain are the same, it will then be a ": null
+    },
+    {
+        "continuous linear operator": "Continuous Linear Operator"
+    },
+    {
+        ". A linear operator on a normed linear space is continuous if and only if it is ": null
+    },
+    {
+        "bounded": "Bounded Operator"
+    },
+    {
+        ", for example, when the domain is finite-dimensional.      1.18 Theorem Let   be a linear functional on a topological vector space . Assume   x   0 for some x   X . Then each of the following four properties implies the other three:   An infinite-dimensional domain may have discontinuous linear operator s.     An example of an unbounded, hence discontinuous, linear transformation is differentiation on the space of smooth functions equipped with the supremum norm . For a specific example, sin/n converges to 0, but its derivative cos does not, so differentiation is not continuous at 0 .       A specific application of linear maps is for geometric transformations, such as those performed in ": null
+    },
+    {
+        "computer graphics": "Computer Graphics"
+    },
+    {
+        ", where the translation, rotation and scaling of 2D or 3D objects is performed by the use of a ": null
+    },
+    {
+        "transformation matrix": "Transformation Matrix"
+    },
+    {
+        ". Linear mappings also are used as a mechanism for describing change: for example in calculus correspond to derivatives; or in relativity, used as a device to keep track of the local transformations of reference frames.     Another application of these transformations is in ": null
+    },
+    {
+        "compiler optimizations": "Compiler Optimizations"
+    },
+    {
+        " of nested-loop code, and in ": null
+    },
+    {
+        "parallelizing compiler": "Parallelizing Compiler"
+    }
+]

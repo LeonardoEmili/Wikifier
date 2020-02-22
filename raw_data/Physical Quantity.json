@@ -1,0 +1,260 @@
+[
+    {
+        "A physical quantity is a property of a material or system that can be ": null
+    },
+    {
+        "quantified": "Quantification"
+    },
+    {
+        " by ": null
+    },
+    {
+        "measurement": "Measurement"
+    },
+    {
+        ". A physical quantity can be expressed as the combination of a ": null
+    },
+    {
+        "magnitude": "Magnitude"
+    },
+    {
+        " and a ": null
+    },
+    {
+        "unit": "Unit Of Measurement"
+    },
+    {
+        ". For example, the physical quantity ": null
+    },
+    {
+        "mass": "Mass"
+    },
+    {
+        " can be quantified as n ": null
+    },
+    {
+        "kg": "Kilogram"
+    },
+    {
+        " where n is magnitude and kg is the unit.       Symbols for quantities should be chosen according to the international recommendations of ": null
+    },
+    {
+        "ISO/IEC 80000": "Iso/Iec 80000"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "IUPAP red book": "Iupap Red Book"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "IUPAC green book": "Iupac Green Book"
+    },
+    {
+        ". For example, the recommended symbol for the physical quantity mass is m, and the recommended symbol for the quantity charge is Q.       Subscripts are used for two reasons, to simply attach a name to the quantity or associate it with another quantity, or represent a specific vector, matrix, or tensor component.   Name reference: The quantity has a ": null
+    },
+    {
+        "subscript": "Subscript"
+    },
+    {
+        "ed or ": null
+    },
+    {
+        "superscript": "Superscript"
+    },
+    {
+        "ed single letter, a number of letters, or an entire word, to specify what concept or entity they refer to, and tend to be written in upright roman typeface rather than italic while the quantity is in italic. For instance E k or E kinetic is usually used to denote ": null
+    },
+    {
+        "kinetic energy": "Kinetic Energy"
+    },
+    {
+        " and E p or E potential is usually used to denote ": null
+    },
+    {
+        "potential energy": "Potential Energy"
+    },
+    {
+        ".   Quantity reference: The quantity has a ": null
+    },
+    {
+        "subscript": "Subscript"
+    },
+    {
+        "ed or ": null
+    },
+    {
+        "superscript": "Superscript"
+    },
+    {
+        "ed single letter, a number of letters, or an entire word, to specify what measurement/s they refer to, and tend to be written in italic rather than upright roman typeface while the quantity is also in italic. For example c p  or c isobaric  is ": null
+    },
+    {
+        "heat capacity": "Heat Capacity"
+    },
+    {
+        " at constant ": null
+    },
+    {
+        "pressure": "Pressure"
+    },
+    {
+        ".     The type of subscripts is expressed by their style, e.g. by italic style: k and p are abbreviations of the words kinetic and potential, whereas p is the symbol for the physical quantity pressure rather than an abbreviation of the word.     Indices: The use of indices is for mathematical formalism using ": null
+    },
+    {
+        "Index notation": "Index Notation"
+    },
+    {
+        ".       A scalar is a physical quantity that has magnitude but no direction. ": null
+    },
+    {
+        "Symbols": "Symbol"
+    },
+    {
+        "for physical quantities are usually chosen to be a single letter of the ": null
+    },
+    {
+        "Latin": "Latin Alphabet"
+    },
+    {
+        " or ": null
+    },
+    {
+        "Greek alphabet": "Greek Alphabet"
+    },
+    {
+        ", and are printed in italic type.       Vectors are physical quantities that possess both magnitude and direction. Symbols for physical quantities that are vectors are in bold type, underlined or with an arrow above. If, e.g., u is the speed of a particle, then the straightforward notation for its velocity is u, u , or   .       Numerical quantities, even those denoted by letters, are usually printed in roman type, though sometimes can be italic. Symbols for elementary functions , changes in a quantity like Δ in Δy or operators like d in dx, are also recommended to be printed in roman type.     Examples:   :real numbers are as usual, such as 1 or ,   :e for the base of natural logarithm,   :i for the imaginary unit,   :π for 3.14159265358979323846264338327950288...   : δx, Δy, dz,   :sin  & alpha;, sinh  & gamma;, log x          choice of unit, though ": null
+    },
+    {
+        "SI": "Si"
+    },
+    {
+        " units": "Units Of Measurement"
+    },
+    {
+        " are usually preferred and assumed today due to their ease of use and all-round applicability. For example, a quantity of mass might be represented by the symbol m, and could be expressed in the units ": null
+    },
+    {
+        "kilograms": "Kilogram"
+    },
+    {
+        ", ": null
+    },
+    {
+        "pounds": "Pound"
+    },
+    {
+        " , or ": null
+    },
+    {
+        "daltons": "Atomic Mass Unit"
+    },
+    {
+        " .is￼              The notion of dimension of a physical quantity was introduced by ": null
+    },
+    {
+        "Joseph Fourier": "Joseph Fourier"
+    },
+    {
+        " in 1822. Fourier, Joseph.  Théorie analytique de la chaleur , Firmin Didot, Paris, 1822.  By convention, physical quantities are organized in a dimensional system built upon base quantities, each of which is regarded as having its own dimension.            Base quantities are those quantities which are distinct in nature and cannot be defined by other quantities. Base quantities are those quantities on the basis of which other quantities can be expressed. The seven base quantities of the ": null
+    },
+    {
+        "International System of Quantities": "International System Of Quantities"
+    },
+    {
+        " and their corresponding ": null
+    },
+    {
+        "SI": "Si"
+    },
+    {
+        " units and dimensions are listed in the following table. Other conventions may have a different number of ": null
+    },
+    {
+        "base units": "Base Unit"
+    },
+    {
+        " .          The last two angular units, ": null
+    },
+    {
+        "plane angle": "Plane Angle"
+    },
+    {
+        " and ": null
+    },
+    {
+        "solid angle": "Solid Angle"
+    },
+    {
+        ", are subsidiary units used in the SI, but are treated as dimensionless. The subsidiary units are used for convenience to differentiate between a truly dimensionless quantity and an angle, which are different measurements.       Derived quantities are those whose definitions are based on other physical quantities .       Important applied base units for space and time are below. ": null
+    },
+    {
+        "Area": "Area"
+    },
+    {
+        " and ": null
+    },
+    {
+        "volume": "Volume"
+    },
+    {
+        " are thus of course derived from length, but included for completeness as they occur frequently in many derived quantities, in particular densities.            Important and convenient derived quantities such as densities, ": null
+    },
+    {
+        "flux": "Flux"
+    },
+    {
+        "es, ": null
+    },
+    {
+        "flows": "Fluid Dynamics"
+    },
+    {
+        ", ": null
+    },
+    {
+        "currents": "Electric Current"
+    },
+    {
+        "are associated with many quantities. Sometimes different terms such as current density and flux density, rate, frequency and current, are used interchangeably in the same context, sometimes they are used uniqueley.     To clarify these effective template derived quantities, we let q be any quantity within some scope of context and present in the table below some of the most commonly used symbols where applicable, their definitions, usage, SI units and SI dimensions – where is the dimension of q.     For time derivatives, specific, molar, and flux densities of quantities there is no one symbol, nomenclature depends on subject, though time derivatives can be generally written using overdot notation. For generality we use q m , q n , and F respectively. No symbol is necessarily required for the gradient of a scalar field, since only the ": null
+    },
+    {
+        "nabla/del operator": "Del"
+    },
+    {
+        " ∇ or ": null
+    },
+    {
+        "grad": "Gradient"
+    },
+    {
+        " needs to be written. For spatial density, current, current density and flux, the notations are common from one context to another, differing only by a change in subscripts.     For current density,   is a unit vector in the direction of flow, i.e. tangent to a flowline. Notice the dot product with the unit normal for a surface, since the amount of current passing through the surface is reduced when the current is not normal to the area. Only the current passing perpendicular to the surface contributes to the current passing through the surface, no current passes in the plane of the surface.     The calculus notations below can be used synonymously.     If X is a ": null
+    },
+    {
+        "n-variable": "Multivariable Calculus"
+    },
+    {
+        " function": "Function"
+    },
+    {
+        " X   X   , then:     :Differential The differential ": null
+    },
+    {
+        "n-space": "N-Dimensional Space"
+    },
+    {
+        " volume element": "Volume Element"
+    },
+    {
+        " is   x     Vn     x1   x2     xn ,     :Integral": null
+    },
+    {
+        "multiple integral": "Multiple Integral"
+    },
+    {
+        " of X over the n-space volume is   X   x     X   Vn           X   x1   x2     xn   .             The meaning of the term physical quantity is generally well understood . The term physical quantity does not imply a physically invariant quantity. Length for example is a physical quantity, yet it is variant under coordinate change in special and general relativity. The notion of physical quantities is so basic and intuitive in the realm of science, that it does not need to be explicitly spelled out or even mentioned. It is universally understood that scientists will deal with quantitative data, as opposed to qualitative data. Explicit mention and discussion of physical quantities is not part of any standard science program, and is more suited for a philosophy of science or philosophy program.     The notion of physical quantities": null
+    }
+]

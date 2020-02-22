@@ -1,0 +1,506 @@
+[
+    {
+        "      In ": null
+    },
+    {
+        "computing": "Computing"
+    },
+    {
+        ", a plug-in  is a ": null
+    },
+    {
+        "software component": "Software Component"
+    },
+    {
+        " that adds a specific feature to an existing ": null
+    },
+    {
+        "computer program": "Computer Program"
+    },
+    {
+        ". When a program supports plug-ins, it enables customization.     ": null
+    },
+    {
+        "Web browsers": "Web Browser"
+    },
+    {
+        "have historically allowed ": null
+    },
+    {
+        "executables": "Executable"
+    },
+    {
+        "as plug-ins, though they are now mostly ": null
+    },
+    {
+        "deprecated": "Deprecation"
+    },
+    {
+        ".  Two plug-in examples are the ": null
+    },
+    {
+        "Adobe Flash Player": "Adobe Flash Player"
+    },
+    {
+        " for playing videos and a ": null
+    },
+    {
+        "Java virtual machine": "Java Virtual Machine"
+    },
+    {
+        " for running ": null
+    },
+    {
+        "applet": "Java Applet"
+    },
+    {
+        "s.     A ": null
+    },
+    {
+        "theme": "Theme"
+    },
+    {
+        " or ": null
+    },
+    {
+        "skin": "Skin"
+    },
+    {
+        " is a preset package containing additional or changed graphical appearance details, achieved by the use of a graphical user interface that can be applied to specific software and websites to suit the purpose, topic, or tastes of different users to customize the look and feel of a piece of computer software or an operating system front-end GUI .       Applications support plug-ins for many reasons. Some of the main reasons include:   to enable ": null
+    },
+    {
+        "third-party developers": "Third-Party Developer"
+    },
+    {
+        "to create abilities which extend an application   to support easily adding new features   to reduce the size of an application   to separate ": null
+    },
+    {
+        "source code": "Source Code"
+    },
+    {
+        " from an application because of incompatible ": null
+    },
+    {
+        "software license": "Software License"
+    },
+    {
+        "s.     Types of applications and why they use plug-ins:     ": null
+    },
+    {
+        "Audio editors": "Digital Audio Editor"
+    },
+    {
+        " use plug-ins to generate, process or analyze sound. ": null
+    },
+    {
+        "Ardour": "Ardour"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Audacity": "Audacity"
+    },
+    {
+        " are examples of such editors.   ": null
+    },
+    {
+        "Digital audio workstations": "Digital Audio Workstation"
+    },
+    {
+        " use plug-ins to generate sound or process it. Examples include ": null
+    },
+    {
+        "Logic Pro X": "Logic Pro"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Pro Tools": "Pro Tools"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Email clients": "Email Client"
+    },
+    {
+        "use plug-ins to decrypt and encrypt email. ": null
+    },
+    {
+        "Pretty Good Privacy": "Pretty Good Privacy"
+    },
+    {
+        " is an example of such plug-ins.   ": null
+    },
+    {
+        "Video game console emulators": "Video Game Console Emulator"
+    },
+    {
+        "often use plug-ins to modularize the separate subsystems of the devices they seek to emulate.          For example, the ": null
+    },
+    {
+        "PCSX2": "Pcsx2"
+    },
+    {
+        " emulator makes use of video, audio, optical, etc. plug-ins for those respective components of the ": null
+    },
+    {
+        "PlayStation 2": "Playstation 2"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Graphics software": "Graphics Software"
+    },
+    {
+        " use plug-ins to support file formats and process images.    ": null
+    },
+    {
+        "Media players": "Media Player"
+    },
+    {
+        " use plug-ins to support file formats and apply filters. ": null
+    },
+    {
+        "foobar2000": "Foobar2000"
+    },
+    {
+        ", ": null
+    },
+    {
+        "GStreamer": "Gstreamer"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Quintessential": "Quintessential Media Player"
+    },
+    {
+        ", ": null
+    },
+    {
+        "VST": "Virtual Studio Technology"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Winamp": "Winamp"
+    },
+    {
+        ", ": null
+    },
+    {
+        "XMMS": "Xmms"
+    },
+    {
+        " are examples of such media players.   ": null
+    },
+    {
+        "Packet sniffers": "Packet Sniffer"
+    },
+    {
+        "use plug-ins to decode packet formats. ": null
+    },
+    {
+        "OmniPeek": "Omnipeek"
+    },
+    {
+        " is an example of such packet sniffers.   ": null
+    },
+    {
+        "Remote sensing applications": "Remote Sensing Application"
+    },
+    {
+        "use plug-ins to process data from different sensor types; e.g., ": null
+    },
+    {
+        "Opticks": "Opticks"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Text editors": "Text Editors"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Integrated development environments": "Integrated Development Environment"
+    },
+    {
+        "use plug-ins to support ": null
+    },
+    {
+        "programming languages": "Programming Languages"
+    },
+    {
+        " or enhance development process e.g., ": null
+    },
+    {
+        "Visual Studio": "Microsoft Visual Studio"
+    },
+    {
+        ", ": null
+    },
+    {
+        "RAD Studio": "Rad Studio"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Eclipse": "Eclipse"
+    },
+    {
+        ", ": null
+    },
+    {
+        "IntelliJ IDEA": "Intellij Idea"
+    },
+    {
+        ", ": null
+    },
+    {
+        "jEdit": "Jedit"
+    },
+    {
+        " and ": null
+    },
+    {
+        "MonoDevelop": "Monodevelop"
+    },
+    {
+        " support plug-ins. Visual Studio itself can be plugged into other applications via ": null
+    },
+    {
+        "Visual Studio Tools for Office": "Visual Studio Tools For Office"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Visual Studio Tools for Applications": "Visual Studio Tools For Applications"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "Web browsers": "Web Browser"
+    },
+    {
+        "have historically used ": null
+    },
+    {
+        "executables": "Executable"
+    },
+    {
+        "as plug-ins, though they are now mostly ": null
+    },
+    {
+        "deprecated": "Deprecation"
+    },
+    {
+        ". Examples include ": null
+    },
+    {
+        "Adobe Flash Player": "Adobe Flash Player"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Java SE": "Java Se"
+    },
+    {
+        ", ": null
+    },
+    {
+        "QuickTime": "Quicktime"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Microsoft Silverlight": "Microsoft Silverlight"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Unity": "Unity"
+    },
+    {
+        ".               The host application provides services which the plug-in can use, including a way for plug-ins to register themselves with the host application and a ": null
+    },
+    {
+        "protocol": "Protocol"
+    },
+    {
+        " for the exchange of data with plug-ins. Plug-ins depend on the services provided by the host application and do not usually work by themselves. Conversely, the host application operates independently of the plug-ins, making it possible for end-users to add and update plug-ins dynamically without needing to make changes to the host application.  – Description of the difference between Mozilla Firefox plugins and extensions under the general term add-on.  – Description of the Wordpress Plug-in architecture.     Programmers typically implement plug-in functionality using ": null
+    },
+    {
+        "shared libraries": "Shared Library"
+    },
+    {
+        ", which get ": null
+    },
+    {
+        "dynamically loaded": "Dynamic Loading"
+    },
+    {
+        " at run time, installed in a place prescribed by the host application. ": null
+    },
+    {
+        "HyperCard": "Hypercard"
+    },
+    {
+        " supported a similar facility, but more commonly included the plug-in code in the HyperCard documents  themselves. Thus the HyperCard stack became a self-contained application in its own right, distributable as a single entity that end-users could run without the need for additional installation-steps. Programs may also implement plugins by loading a directory of simple ": null
+    },
+    {
+        "script": "Script"
+    },
+    {
+        " files written in a ": null
+    },
+    {
+        "scripting language": "Scripting Language"
+    },
+    {
+        " like ": null
+    },
+    {
+        "Python": "Python"
+    },
+    {
+        " or ": null
+    },
+    {
+        "Lua": "Lua"
+    },
+    {
+        ".          In ": null
+    },
+    {
+        "Mozilla Foundation": "Mozilla Foundation"
+    },
+    {
+        " definitions, the words add-on , ": null
+    },
+    {
+        "extension": "Browser Extension"
+    },
+    {
+        " and plug-in are not synonyms. Add-on can refer to anything that extends the functions of a Mozilla application. Extensions comprise a subtype, albeit the most common and the most powerful one. Mozilla applications come with integrated add-on managers that, similar to ": null
+    },
+    {
+        "package manager": "Package Manager"
+    },
+    {
+        "s, install, update and manage extensions. The term, Plug-in , however, strictly refers to ": null
+    },
+    {
+        "NPAPI": "Npapi"
+    },
+    {
+        "-based web content renderers. Plug-ins are being deprecated.        Plug-ins appeared as early as the mid 1970s, when the ": null
+    },
+    {
+        "EDT": "Edt"
+    },
+    {
+        " text editor": "Text Editor"
+    },
+    {
+        " running on the ": null
+    },
+    {
+        "Unisys": "Unisys"
+    },
+    {
+        " VS/9": "Vs/9"
+    },
+    {
+        " operating system": "Operating System"
+    },
+    {
+        " using the ": null
+    },
+    {
+        "UNIVAC Series 90": "Univac Series 90"
+    },
+    {
+        "mainframe computers": "Mainframe Computer"
+    },
+    {
+        "provided the ability to run a program from the editor and to allow such a program to access the editor buffer, thus allowing an external program to access an edit session in memory. EDT Text Editor Reference Manual, ": null
+    },
+    {
+        "Cinnaminson, New Jersey": "Cinnaminson, New Jersey"
+    },
+    {
+        "Unisys Corporation": "Unisys Corporation"
+    },
+    {
+        ", 1975 The plug-in program could make calls to the editor to have it perform text-editing services upon the buffer that the editor shared with the plug-in. The ": null
+    },
+    {
+        "Waterloo": "University Of Waterloo"
+    },
+    {
+        " Fortran ": null
+    },
+    {
+        "compiler": "Compiler"
+    },
+    {
+        " used this feature to allow interactive compilation of ": null
+    },
+    {
+        "Fortran": "Fortran"
+    },
+    {
+        " programs edited by EDT.     Very early ": null
+    },
+    {
+        "PC": "Personal Computer"
+    },
+    {
+        " software applications to incorporate plug-in functionality included HyperCard and ": null
+    },
+    {
+        "QuarkXPress": "Quarkxpress"
+    },
+    {
+        " on the ": null
+    },
+    {
+        "Macintosh": "Apple Macintosh"
+    },
+    {
+        ", both released in 1987. In 1988, ": null
+    },
+    {
+        "Silicon Beach Software": "Silicon Beach Software"
+    },
+    {
+        " included plug-in functionality in ": null
+    },
+    {
+        "Digital Darkroom": "Digital Darkroom"
+    },
+    {
+        " and ": null
+    },
+    {
+        "SuperPaint": "Superpaint"
+    },
+    {
+        ", and Ed Bomke coined the term plug-in.": null
+    }
+]

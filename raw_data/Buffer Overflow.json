@@ -1,0 +1,800 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "information security": "Information Security"
+    },
+    {
+        " and ": null
+    },
+    {
+        "programming": "Computer Programming"
+    },
+    {
+        ", a buffer overflow, or buffer overrun, is an ": null
+    },
+    {
+        "anomaly": "Anomaly In Software"
+    },
+    {
+        " where a ": null
+    },
+    {
+        "program": "Computer Program"
+    },
+    {
+        ", while writing ": null
+    },
+    {
+        "data": "Data"
+    },
+    {
+        " to a ": null
+    },
+    {
+        "buffer": "Buffer"
+    },
+    {
+        ", overruns the buffers boundary and ": null
+    },
+    {
+        "overwrites": "Overwrite"
+    },
+    {
+        "adjacent ": null
+    },
+    {
+        "memory": "Main Memory"
+    },
+    {
+        " locations.     Buffers are areas of memory set aside to hold data, often while moving it from one section of a program to another, or between programs. Buffer overflows can often be triggered by malformed inputs; if one assumes all inputs will be smaller than a certain size and the buffer is created to be that size, then an anomalous transaction that produces more data could cause it to write past the end of the buffer. If this overwrites adjacent data or executable code, this may result in erratic program behavior, including memory access errors, incorrect results, and ": null
+    },
+    {
+        "crashes": "Crash"
+    },
+    {
+        ".     Exploiting the behavior of a buffer overflow is a well-known ": null
+    },
+    {
+        "security exploit": "Exploit"
+    },
+    {
+        ". On many systems, the memory layout of a program, or the system as a whole, is well defined. By sending in data designed to cause a buffer overflow, it is possible to write into areas known to hold ": null
+    },
+    {
+        "executable code": "Execution"
+    },
+    {
+        " and replace it with ": null
+    },
+    {
+        "malicious code": "Malicious Code"
+    },
+    {
+        ", or to selectively overwrite data pertaining to the programs state, therefore causing behavior that was not intended by the original programmer. Buffers are widespread in ": null
+    },
+    {
+        "operating system": "Operating System"
+    },
+    {
+        " code, so it is possible to make attacks that perform ": null
+    },
+    {
+        "privilege escalation": "Privilege Escalation"
+    },
+    {
+        " and gain unlimited access to the computers resources. The famed ": null
+    },
+    {
+        "Morris worm": "Morris Worm"
+    },
+    {
+        " in 1988 used this as one of its attack techniques.     ": null
+    },
+    {
+        "Programming languages": "Programming Language"
+    },
+    {
+        "commonly associated with buffer overflows include ": null
+    },
+    {
+        "C": "C"
+    },
+    {
+        " and ": null
+    },
+    {
+        "C++": "C++"
+    },
+    {
+        ", which provide no built-in protection against accessing or overwriting data in any part of memory and do not automatically check that data written to an ": null
+    },
+    {
+        "array": "Array Data Structure"
+    },
+    {
+        " is within the boundaries of that array. ": null
+    },
+    {
+        "Bounds checking": "Bounds Checking"
+    },
+    {
+        " can prevent buffer overflows, but requires additional code and processing time. Modern operating systems use a variety of techniques to combat malicious buffer overflows, notably by ": null
+    },
+    {
+        "randomizing the layout of memory": "Address Space Layout Randomization"
+    },
+    {
+        ", or deliberately leaving space between buffers and looking for actions that write into those areas .       A buffer overflow occurs when ": null
+    },
+    {
+        "data": "Data"
+    },
+    {
+        " written to a buffer also corrupts data values in ": null
+    },
+    {
+        "memory address": "Memory Address"
+    },
+    {
+        "es adjacent to the destination buffer due to insufficient ": null
+    },
+    {
+        "bounds checking": "Bounds Checking"
+    },
+    {
+        ". This can occur when copying data from one buffer to another without first checking that the data fits within the destination buffer.            In the following example expressed in ": null
+    },
+    {
+        "C": "C"
+    },
+    {
+        ", a program has two variables which are adjacent in memory: an 8-byte-long string buffer, A, and a two-byte ": null
+    },
+    {
+        "big-endian": "Endianness"
+    },
+    {
+        " integer, B.       char A ;   unsigned short B 1979;       Initially, A contains nothing but zero bytes, and B contains the number 1979.          Now, the program attempts to store the ": null
+    },
+    {
+        "null-terminated string": "Null-Terminated String"
+    },
+    {
+        "  with ": null
+    },
+    {
+        "ASCII": "Ascii"
+    },
+    {
+        " encoding in the A buffer.     strcpy;      is 9 characters long and encodes to 10 bytes including the null terminator, but A can take only 8 bytes. By failing to check the length of the string, it also overwrites the value of B:          Bs value has now been inadvertently replaced by a number formed from part of the character string. In this example e followed by a zero byte would become 25856.     Writing data past the end of allocated memory can sometimes be detected by the operating system to generate a ": null
+    },
+    {
+        "segmentation fault": "Segmentation Fault"
+    },
+    {
+        " error that terminates the process.     To prevent the buffer overflow from happening in this example, the call to ": null
+    },
+    {
+        "strcpy": "Strcpy"
+    },
+    {
+        " could be replaced with ": null
+    },
+    {
+        "strlcpy": "Strlcpy"
+    },
+    {
+        " , which takes the maximum capacity of A as an additional parameter and ensures that no more than this amount of data is written to A:       strlcpy;       When available, the ": null
+    },
+    {
+        "strlcpy": "Strlcpy"
+    },
+    {
+        " library function is preferred over ": null
+    },
+    {
+        "strncpy": "Strncpy"
+    },
+    {
+        " which does not null-terminate the destination buffer if the source strings length is greater than or equal to the size of the buffer , therefore A may not be null-terminated and cannot be treated as a valid C-style string.         The techniques to ": null
+    },
+    {
+        "exploit": "Exploit"
+    },
+    {
+        " a buffer overflow vulnerability vary by ": null
+    },
+    {
+        "architecture": "Computer Architecture"
+    },
+    {
+        ", by ": null
+    },
+    {
+        "operating system": "Operating System"
+    },
+    {
+        " and by memory region. For example, exploitation on the ": null
+    },
+    {
+        "heap": "Heap Memory"
+    },
+    {
+        " , differs markedly from exploitation on the ": null
+    },
+    {
+        "call stack": "Call Stack"
+    },
+    {
+        ".            A technically inclined user may exploit stack-based buffer overflows to manipulate the program to their advantage in one of several ways:     By overwriting a local variable that is located near the vulnerable buffer on the stack, in order to change the behavior of the program   By overwriting the return address in a ": null
+    },
+    {
+        "stack frame": "Stack Frame"
+    },
+    {
+        ". Once the function returns, execution will resume at the return address as specified by the attacker - usually a user-input filled buffer   By overwriting a function pointer  or ": null
+    },
+    {
+        "exception handler": "Exception Handler"
+    },
+    {
+        ", which is subsequently executed   By overwriting a local variable of a different stack frame, which will be used by the function which owns that frame later.      If the address of the user-supplied data used to effect the stack buffer overflow is unpredictable, exploiting a stack buffer overflow to cause remote code execution becomes much more difficult. One technique that can be used to exploit such a buffer overflow is called ": null
+    },
+    {
+        "trampolining": "Trampolining"
+    },
+    {
+        " . In that technique, an attacker will find a pointer to the vulnerable stack buffer, and compute the location of their ": null
+    },
+    {
+        "shellcode": "Shellcode"
+    },
+    {
+        " relative to that pointer. Then, they will use the overwrite to jump to an ": null
+    },
+    {
+        "instruction": "Opcode"
+    },
+    {
+        " already in memory which will make a second jump, this time relative to the pointer; that second jump will branch execution into the shellcode. Suitable instructions are often present in large code. The ": null
+    },
+    {
+        "Metasploit Project": "Metasploit Project"
+    },
+    {
+        ", for example, maintains a database of suitable opcodes, though it lists only those found in the ": null
+    },
+    {
+        "Windows": "Microsoft Windows"
+    },
+    {
+        " operating system.             A buffer overflow occurring in the heap data area is referred to as a heap overflow and is exploitable in a manner different from that of stack-based overflows. Memory on the heap is dynamically allocated by the application at run-time and typically contains program data. Exploitation is performed by corrupting this data in specific ways to cause the application to overwrite internal structures such as linked list pointers. The canonical heap overflow technique overwrites dynamic memory allocation linkage  and uses the resulting pointer exchange to overwrite a program function pointer.     ": null
+    },
+    {
+        "Microsofts": "Microsoft"
+    },
+    {
+        " GDI+": "Graphics Device Interface"
+    },
+    {
+        " vulnerability in handling ": null
+    },
+    {
+        "JPEGs": "Jpeg"
+    },
+    {
+        "is an example of the danger a heap overflow can present.          Manipulation of the buffer, which occurs before it is read or executed, may lead to the failure of an exploitation attempt. These manipulations can mitigate the threat of exploitation, but may not make it impossible. Manipulations could include conversion to upper or lower case, removal of ": null
+    },
+    {
+        "metacharacters": "Metacharacter"
+    },
+    {
+        "and filtering out of non-": null
+    },
+    {
+        "alphanumeric": "Alphanumeric"
+    },
+    {
+        " strings. However, techniques exist to bypass these filters and manipulations; ": null
+    },
+    {
+        "alphanumeric code": "Alphanumeric Code"
+    },
+    {
+        ", ": null
+    },
+    {
+        "polymorphic code": "Polymorphic Code"
+    },
+    {
+        ", ": null
+    },
+    {
+        "self-modifying code": "Self-Modifying Code"
+    },
+    {
+        " and ": null
+    },
+    {
+        "return-to-libc attack": "Return-To-Libc Attack"
+    },
+    {
+        "s. The same methods can be used to avoid detection by ": null
+    },
+    {
+        "intrusion detection system": "Intrusion Detection System"
+    },
+    {
+        "s. In some cases, including where code is converted into ": null
+    },
+    {
+        "Unicode": "Unicode"
+    },
+    {
+        ",  the threat of the vulnerability has been misrepresented by the disclosers as only Denial of Service when in fact the remote execution of arbitrary code is possible.         In real-world exploits there are a variety of challenges which need to be overcome for exploits to operate reliably. These factors include null bytes in addresses, variability in the location of shellcode, differences between environments and various counter-measures in operation.                   A NOP-sled is the oldest and most widely known technique for successfully exploiting a stack buffer overflow. It solves the problem of finding the exact address of the buffer by effectively increasing the size of the target area. To do this, much larger sections of the stack are corrupted with the ": null
+    },
+    {
+        "no-op": "No-Op"
+    },
+    {
+        " machine instruction. At the end of the attacker-supplied data, after the no-op instructions, the attacker places an instruction to perform a relative jump to the top of the buffer where the ": null
+    },
+    {
+        "shellcode": "Shellcode"
+    },
+    {
+        " is located. This collection of no-ops is referred to as the NOP-sled because if the return address is overwritten with any address within the no-op region of the buffer, the execution will slide down the no-ops until it is redirected to the actual malicious code by the jump at the end. This technique requires the attacker to guess where on the stack the NOP-sled is instead of the comparatively small shellcode.     Because of the popularity of this technique, many vendors of ": null
+    },
+    {
+        "intrusion prevention systems": "Intrusion Prevention System"
+    },
+    {
+        "will search for this pattern of no-op machine instructions in an attempt to detect shellcode in use. It is important to note that a NOP-sled does not necessarily contain only traditional no-op machine instructions; any instruction that does not corrupt the machine state to a point where the shellcode will not run can be used in place of the hardware assisted no-op. As a result, it has become common practice for exploit writers to compose the no-op sled with randomly chosen instructions which will have no real effect on the shellcode execution.     While this method greatly improves the chances that an attack will be successful, it is not without problems. Exploits using this technique still must rely on some amount of luck that they will guess offsets on the stack that are within the NOP-sled region. An incorrect guess will usually result in the target program crashing and could alert the ": null
+    },
+    {
+        "system administrator": "System Administrator"
+    },
+    {
+        " to the attackers activities. Another problem is that the NOP-sled requires a much larger amount of memory in which to hold a NOP-sled large enough to be of any use. This can be a problem when the allocated size of the affected buffer is too small and the current depth of the stack is shallow . Despite its problems, the NOP-sled is often the only method that will work for a given platform, environment, or situation, and as such it is still an important technique.         The jump to register technique allows for reliable exploitation of stack buffer overflows without the need for extra room for a NOP-sled and without having to guess stack offsets. The strategy is to overwrite the return pointer with something that will cause the program to jump to a known pointer stored within a register which points to the controlled buffer and thus the shellcode. For example, if register A contains a pointer to the start of a buffer then any jump or call taking that register as an operand can be used to gain control of the flow of execution.      In practice a program may not intentionally contain instructions to jump to a particular register. The traditional solution is to find an unintentional instance of a suitable ": null
+    },
+    {
+        "opcode": "Opcode"
+    },
+    {
+        " at a fixed location somewhere within the program memory. In figure ": null
+    },
+    {
+        "E": ":Image:Jumptoesp.Png"
+    },
+    {
+        " on the left you can see an example of such an unintentional instance of the i386 jmp esp instruction. The opcode for this instruction is FF E4 . This two-byte sequence can be found at a one-byte offset from the start of the instruction call DbgPrint at address 0x7C941EED . If an attacker overwrites the program return address with this address the program will first jump to 0x7C941EED , interpret the opcode FF E4 as the jmp esp instruction, and will then jump to the top of the stack and execute the attackers code.     When this technique is possible the severity of the vulnerability increases considerably. This is because exploitation will work reliably enough to automate an attack with a virtual guarantee of success when it is run. For this reason, this is the technique most commonly used in ": null
+    },
+    {
+        "Internet worms": "Internet Worm"
+    },
+    {
+        "that exploit stack buffer overflow vulnerabilities.     This method also allows shellcode to be placed after the overwritten return address on the Windows platform. Since executables are mostly based at address 0x00400000 and x86 is a ": null
+    },
+    {
+        "Little Endian": "Little Endian"
+    },
+    {
+        " architecture, the last byte of the return address must be a null, which terminates the buffer copy and nothing is written beyond that. This limits the size of the shellcode to the size of the buffer, which may be overly restrictive. DLLs are located in high memory and so have addresses containing no null bytes, so this method can remove null bytes from the overwritten return address. Used in this way, the method is often referred to as DLL trampolining .         Various techniques have been used to detect or prevent buffer overflows, with various tradeoffs. The most reliable way to avoid or prevent buffer overflows is to use automatic protection at the language level. This sort of protection, however, cannot be applied to ": null
+    },
+    {
+        "legacy code": "Legacy Code"
+    },
+    {
+        ", and often technical, business, or cultural constraints call for a vulnerable language. The following sections describe the choices and implementations available.         Assembly and C/C++ are popular programming languages that are vulnerable to buffer overflow, in part because they allow direct access to memory and are not ": null
+    },
+    {
+        "strongly typed": "Strongly Typed"
+    },
+    {
+        ".  Buffer Overflows article on OWASP C provides no built-in protection against accessing or overwriting data in any part of memory; more specifically, it does not check that data written to a buffer is within the boundaries of that buffer. The standard C++ libraries provide many ways of safely buffering data, and C++s ": null
+    },
+    {
+        "Standard Template Library": "Standard Template Library"
+    },
+    {
+        " provides containers that can optionally perform bounds checking if the programmer explicitly calls for checks while accessing data. For example, a vector s member function at performs a bounds check and throws an outofrange ": null
+    },
+    {
+        "exception": "Exception Handling"
+    },
+    {
+        " if the bounds check fails.  However, C++ behaves just like C if the bounds check is not explicitly called. Techniques to avoid buffer overflows also exist for C.     Languages that are strongly typed and dont allow direct memory access, such as COBOL, Java, Python, and others, prevent buffer overflow from occurring in most cases. Many programming languages other than C/C++ provide runtime checking and in some cases even compile-time checking which might send a warning or raise an exception when C or C++ would overwrite data and continue to execute further instructions until erroneous results are obtained which might or might not cause the program to crash. Examples of such languages include ": null
+    },
+    {
+        "Ada": "Ada"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Eiffel": "Eiffel"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Lisp": "Lisp"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Modula-2": "Modula-2"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Smalltalk": "Smalltalk"
+    },
+    {
+        ", ": null
+    },
+    {
+        "OCaml": "Ocaml"
+    },
+    {
+        " and such C-derivatives as ": null
+    },
+    {
+        "Cyclone": "Cyclone"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Rust": "Rust"
+    },
+    {
+        " and ": null
+    },
+    {
+        "D": "D"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "Java": "Java"
+    },
+    {
+        " and ": null
+    },
+    {
+        ".NET Framework": ".Net Framework"
+    },
+    {
+        " bytecode environments also require bounds checking on all arrays. Nearly every ": null
+    },
+    {
+        "interpreted language": "Interpreted Programming Language"
+    },
+    {
+        " will protect against buffer overflows, signaling a well-defined error condition. Often where a language provides enough type information to do bounds checking an option is provided to enable or disable it. ": null
+    },
+    {
+        "Static code analysis": "Static Code Analysis"
+    },
+    {
+        " can remove many dynamic bound and type checks, but poor implementations and awkward cases can significantly decrease performance. Software engineers must carefully consider the tradeoffs of safety versus performance costs when deciding which language and compiler setting to use.         The problem of buffer overflows is common in the C and C++ languages because they expose low level representational details of buffers as containers for data types. Buffer overflows must thus be avoided by maintaining a high degree of correctness in code which performs buffer management. It has also long been recommended to avoid standard library functions which are not bounds checked, such as ": null
+    },
+    {
+        "gets": "Gets"
+    },
+    {
+        " , ": null
+    },
+    {
+        "scanf": "Scanf"
+    },
+    {
+        " and ": null
+    },
+    {
+        "strcpy": "Strcpy"
+    },
+    {
+        " . The ": null
+    },
+    {
+        "Morris worm": "Morris Worm"
+    },
+    {
+        " exploited a gets call in ": null
+    },
+    {
+        "fingerd": "Fingerd"
+    },
+    {
+        ".      Well-written and tested abstract data type libraries which centralize and automatically perform buffer management, including bounds checking, can reduce the occurrence and impact of buffer overflows. The two main building-block data types in these languages in which buffer overflows commonly occur are strings and arrays; thus, libraries preventing buffer overflows in these data types can provide the vast majority of the necessary coverage. Still, failure to use these safe libraries correctly can result in buffer overflows and other vulnerabilities; and naturally, any bug in the library itself is a potential vulnerability. Safe library implementations include The Better String Library ,  Vstr  and Erwin.  The ": null
+    },
+    {
+        "OpenBSD": "Openbsd"
+    },
+    {
+        " operating systems ": null
+    },
+    {
+        "C library": "C Library"
+    },
+    {
+        " provides the ": null
+    },
+    {
+        "strlcpy": "Strlcpy"
+    },
+    {
+        " and ": null
+    },
+    {
+        "strlcat": "Strlcat"
+    },
+    {
+        " functions, but these are more limited than full safe library implementations.     In September 2007, Technical Report 24731, prepared by the C standards committee, was published;  it specifies a set of functions which are based on the standard C librarys string and I/O functions, with additional buffer-size parameters. However, the efficacy of these functions for the purpose of reducing buffer overflows is disputable; it requires programmer intervention on a per function call basis that is equivalent to intervention that could make the analogous older standard library functions buffer overflow safe.             Buffer overflow protection is used to detect the most common buffer overflows by checking that the ": null
+    },
+    {
+        "stack": "Call Stack"
+    },
+    {
+        " has not been altered when a function returns. If it has been altered, the program exits with a ": null
+    },
+    {
+        "segmentation fault": "Segmentation Fault"
+    },
+    {
+        ". Three such systems are Libsafe,  and the  StackGuard   and  ProPolice   ": null
+    },
+    {
+        "gcc": "Gnu Compiler Collection"
+    },
+    {
+        " patches.     Microsofts implementation of ": null
+    },
+    {
+        "Data Execution Prevention": "Data Execution Prevention"
+    },
+    {
+        " mode explicitly protects the pointer to the ": null
+    },
+    {
+        "Structured Exception Handler": "Structured Exception Handler"
+    },
+    {
+        " from being overwritten.      Stronger stack protection is possible by splitting the stack in two: one for data and one for function returns. This split is present in the ": null
+    },
+    {
+        "Forth language": "Forth"
+    },
+    {
+        ", though it was not a security-based design decision. Regardless, this is not a complete solution to buffer overflows, as sensitive data other than the return address may still be overwritten.         Buffer overflows work by manipulating pointers . PointGuard was proposed as a compiler-extension to prevent attackers from being able to reliably manipulate pointers and addresses.  The approach works by having the compiler add code to automatically XOR-encode pointers before and after they are used. Because the attacker does not know what value will be used to encode/decode the pointer, he cannot predict what it will point to if he overwrites it with a new value. PointGuard was never released, but Microsoft implemented a similar approach beginning in Windows XP SP2 and Windows Server 2003 SP1.  Rather than implement pointer protection as an automatic feature, Microsoft added an API routine that can be called at the discretion of the programmer. This allows for better performance , but places the burden on the programmer to know when it is necessary.     Because XOR is linear, an attacker may be able to manipulate an encoded pointer by overwriting only the lower bytes of an address. This can allow an attack to succeed if the attacker is able to attempt the exploit multiple times or is able to complete an attack by causing a pointer to point to one of several locations .  Microsoft added a random rotation to their encoding scheme to address this weakness to partial overwrites.             Executable space protection is an approach to buffer overflow protection which prevents execution of code on the stack or the heap. An attacker may use buffer overflows to insert arbitrary code into the memory of a program, but with executable space protection, any attempt to execute that code will cause an exception.     Some CPUs support a feature called ": null
+    },
+    {
+        "NX": "Nx Bit"
+    },
+    {
+        " or ": null
+    },
+    {
+        "XD": "Xd Bit"
+    },
+    {
+        " bit, which in conjunction with software, can be used to mark ": null
+    },
+    {
+        "pages of data": "Paging"
+    },
+    {
+        " as readable and writable but not executable.     Some Unix operating systems  ship with executable space protection . Some optional packages include:     ": null
+    },
+    {
+        "PaX": "Pax"
+    },
+    {
+        "    Exec Shield": "Exec Shield"
+    },
+    {
+        "    Openwall": "Openwall"
+    },
+    {
+        "      Newer variants of Microsoft Windows also support executable space protection, called ": null
+    },
+    {
+        "Data Execution Prevention": "Data Execution Prevention"
+    },
+    {
+        ".  ": null
+    },
+    {
+        "Proprietary": "Proprietary Software"
+    },
+    {
+        " add-ons include:     BufferShield    StackDefender      Executable space protection does not generally protect against ": null
+    },
+    {
+        "return-to-libc attack": "Return-To-Libc Attack"
+    },
+    {
+        "s, or any other attack which does not rely on the execution of the attackers code. However, on ": null
+    },
+    {
+        "64-bit": "64-Bit"
+    },
+    {
+        " systems using ": null
+    },
+    {
+        "ASLR": "Aslr"
+    },
+    {
+        ", as described below, executable space protection makes it far more difficult to execute such attacks.            Address space layout randomization is a computer security feature which involves arranging the positions of key data areas, usually including the base of the executable and position of libraries, heap, and stack, randomly in a process address space.     Randomization of the ": null
+    },
+    {
+        "virtual memory": "Virtual Memory"
+    },
+    {
+        " addresses at which functions and variables can be found can make exploitation of a buffer overflow more difficult, but not impossible. It also forces the attacker to tailor the exploitation attempt to the individual system, which foils the attempts of ": null
+    },
+    {
+        "internet worm": "Internet Worm"
+    },
+    {
+        "s.  A similar but less effective method is to ": null
+    },
+    {
+        "rebase": "Rebasing"
+    },
+    {
+        " processes and libraries in the virtual address space.            The use of deep packet inspection can detect, at the network perimeter, very basic remote attempts to exploit buffer overflows by use of attack signatures and ": null
+    },
+    {
+        "heuristics": "Heuristic"
+    },
+    {
+        ". These are able to block packets which have the signature of a known attack, or if a long series of No-Operation instructions is detected, these were once used when the location of the exploits ": null
+    },
+    {
+        "payload": "Payload"
+    },
+    {
+        " is slightly variable.     Packet scanning is not an effective method since it can only prevent known attacks and there are many ways that a NOP-sled can be encoded. ": null
+    },
+    {
+        "Shellcode": "Shellcode"
+    },
+    {
+        " used by attackers can be made ": null
+    },
+    {
+        "alphanumeric": "Alphanumeric Code"
+    },
+    {
+        ", ": null
+    },
+    {
+        "metamorphic": "Metamorphic Code"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "self-modifying": "Self-Modifying Code"
+    },
+    {
+        " to evade detection by heuristic packet scanners and ": null
+    },
+    {
+        "intrusion detection system": "Intrusion Detection System"
+    },
+    {
+        "s.       Checking for buffer overflows and patching the bugs that cause them naturally helps prevent buffer overflows. One common automated technique for discovering them is ": null
+    },
+    {
+        "fuzzing": "Fuzzer"
+    },
+    {
+        ".  Edge case testing can also uncover buffer overflows, as can static analysis.  Once a potential buffer overflow is detected, it must be patched; this makes the testing approach useful for software that is in development, but less useful for legacy software that is no longer maintained or supported.         Buffer overflows were understood and partially publicly documented as early as 1972, when the Computer Security Technology Planning Study laid out the technique: The code performing this function does not check the source and destination addresses properly, permitting portions of the monitor to be overlaid by the user. This can be used to inject code into the monitor that will permit the user to seize control of the machine.  Today, the monitor would be referred to as the kernel.     The earliest documented hostile exploitation of a buffer overflow was in 1988. It was one of several exploits used by the ": null
+    },
+    {
+        "Morris worm": "Morris Worm"
+    },
+    {
+        " to propagate itself over the Internet. The program exploited was a ": null
+    },
+    {
+        "service": "Service"
+    },
+    {
+        " on ": null
+    },
+    {
+        "Unix": "Unix"
+    },
+    {
+        " called ": null
+    },
+    {
+        "finger": "Finger Protocol"
+    },
+    {
+        ".  Later, in 1995, Thomas Lopatic independently rediscovered the buffer overflow and published his findings on the ": null
+    },
+    {
+        "Bugtraq": "Bugtraq"
+    },
+    {
+        " security mailing list.  A year later, in 1996, ": null
+    },
+    {
+        "Elias Levy": "Elias Levy"
+    },
+    {
+        " published in  Phrack  magazine the paper Smashing the Stack for Fun and Profit ,  a step-by-step introduction to exploiting stack-based buffer overflow vulnerabilities.     Since then, at least two major internet worms have exploited buffer overflows to compromise a large number of systems. In 2001, the ": null
+    },
+    {
+        "Code Red worm": "Code Red Worm"
+    },
+    {
+        " exploited a buffer overflow in Microsofts ": null
+    },
+    {
+        "Internet Information Services": "Internet Information Services"
+    },
+    {
+        " 5.0  and in 2003 the ": null
+    },
+    {
+        "SQL Slammer": "Sql Slammer"
+    },
+    {
+        " worm compromised machines running ": null
+    },
+    {
+        "Microsoft SQL Server 2000": "Microsoft Sql Server 2000"
+    },
+    {
+        ".      In 2003, buffer overflows present in licensed ": null
+    },
+    {
+        "Xbox": "Xbox"
+    },
+    {
+        " games have been exploited to allow unlicensed software, including ": null
+    },
+    {
+        "homebrew games": "Homebrew"
+    },
+    {
+        ", to run on the console without the need for hardware modifications, known as ": null
+    },
+    {
+        "modchip": "Modchip"
+    },
+    {
+        "s.  The ": null
+    },
+    {
+        "PS2 Independence Exploit": "Ps2 Independence Exploit"
+    },
+    {
+        " also used a buffer overflow to achieve the same for the ": null
+    },
+    {
+        "PlayStation 2": "Playstation 2"
+    },
+    {
+        ". The Twilight hack accomplished the same with the ": null
+    },
+    {
+        "Wii": "Wii"
+    },
+    {
+        ", using a buffer overflow in  The Legend of Zelda: Twilight Princess ": null
+    }
+]

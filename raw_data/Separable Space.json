@@ -1,0 +1,245 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", a ": null
+    },
+    {
+        "topological space": "Topological Space"
+    },
+    {
+        " is called separable if it contains a ": null
+    },
+    {
+        "countable": "Countable Set"
+    },
+    {
+        ", ": null
+    },
+    {
+        "dense": "Dense"
+    },
+    {
+        " subset; that is, there exists a ": null
+    },
+    {
+        "sequence": "Sequence"
+    },
+    {
+        "   of elements of the space such that every nonempty ": null
+    },
+    {
+        "open subset": "Open Subset"
+    },
+    {
+        " of the space contains at least one element of the sequence.     Like the other ": null
+    },
+    {
+        "axioms of countability": "Axioms Of Countability"
+    },
+    {
+        ", separability is a limitation on size , not necessarily in terms of ": null
+    },
+    {
+        "cardinality": "Cardinality"
+    },
+    {
+        "  but in a more subtle topological sense. In particular, every ": null
+    },
+    {
+        "continuous function": "Continuous Function"
+    },
+    {
+        " on a separable space whose image is a subset of a Hausdorff space is determined by its values on the countable dense subset.     Contrast separability with the related notion of ": null
+    },
+    {
+        "second countability": "Second Countability"
+    },
+    {
+        ", which is in general stronger but equivalent on the class of ": null
+    },
+    {
+        "metrizable": "Metrizable"
+    },
+    {
+        " spaces.       Any topological space that is itself ": null
+    },
+    {
+        "finite": "Finite Set"
+    },
+    {
+        " or ": null
+    },
+    {
+        "countably infinite": "Countably Infinite"
+    },
+    {
+        " is separable, for the whole space is a countable dense subset of itself. An important example of an uncountable separable space is the ": null
+    },
+    {
+        "real line": "Real Line"
+    },
+    {
+        ", in which the ": null
+    },
+    {
+        "rational numbers": "Rational Numbers"
+    },
+    {
+        " form a countable dense subset. Similarly the set of all vectors     in which ri is rational for all i is a countable dense subset of   ; so for every n the n -dimensional ": null
+    },
+    {
+        "Euclidean space": "Euclidean Space"
+    },
+    {
+        " is separable.     A simple example of a space that is not separable is a ": null
+    },
+    {
+        "discrete space": "Discrete Space"
+    },
+    {
+        " of uncountable cardinality.     Further examples are given below.       Any ": null
+    },
+    {
+        "second-countable space": "Second-Countable Space"
+    },
+    {
+        " is separable: if   is a countable base, choosing any xn   Un from the non-empty Un gives a countable dense subset. Conversely, a ": null
+    },
+    {
+        "metrizable space": "Metrizable Space"
+    },
+    {
+        " is separable if and only if it is second countable, which is the case if and only if it is ": null
+    },
+    {
+        "Lindelöf": "Lindelöf Space"
+    },
+    {
+        ".     To further compare these two properties:   An arbitrary ": null
+    },
+    {
+        "subspace": "Subspace"
+    },
+    {
+        " of a second-countable space is second countable; subspaces of separable spaces need not be separable .   Any continuous image of a separable space is separable ; even a ": null
+    },
+    {
+        "quotient": "Quotient Topology"
+    },
+    {
+        " of a second-countable space need not be second countable.   A ": null
+    },
+    {
+        "product": "Product Topology"
+    },
+    {
+        " of at most continuum many separable spaces is separable . A countable product of second-countable spaces is second countable, but an uncountable product of second-countable spaces need not even be first countable.     We can construct an example of a separable topological space that is not second countable. Consider any uncountable set X , pick some x0   X , and define the topology to be the collection of all sets that contain x0 . Then, the closure of is the whole space , but every set of the form   is open. Therefore, the space is separable but there cannot be a countable base.       The property of separability does not in and of itself give any limitations on the ": null
+    },
+    {
+        "cardinality": "Cardinality"
+    },
+    {
+        " of a topological space: any set endowed with the ": null
+    },
+    {
+        "trivial topology": "Trivial Topology"
+    },
+    {
+        " is separable, as well as second countable, ": null
+    },
+    {
+        "quasi-compact": "Quasi-Compact"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "connected": "Connected Space"
+    },
+    {
+        ". The trouble with the trivial topology is its poor separation properties: its ": null
+    },
+    {
+        "Kolmogorov quotient": "Kolmogorov Quotient"
+    },
+    {
+        " is the one-point space.     A ": null
+    },
+    {
+        "first-countable": "First-Countable"
+    },
+    {
+        ", separable Hausdorff space has at most the ": null
+    },
+    {
+        "continuum cardinality": "Cardinality Of The Continuum"
+    },
+    {
+        "   . In such a space, ": null
+    },
+    {
+        "closure": "Closure"
+    },
+    {
+        " is determined by limits of sequences and any convergent sequence has at most one limit, so there is a surjective map from the set of convergent sequences with values in the countable dense subset to the points of X .     A separable Hausdorff space has cardinality at most 2  , where   is the cardinality of the continuum. For this closure is characterized in terms of limits of ": null
+    },
+    {
+        "filter bases": "Filter Filters In Topology"
+    },
+    {
+        ". In particular the space   of all functions from the real line to itself, endowed with the product topology, is a separable Hausdorff space of cardinality 2  . More generally, if   is any infinite cardinal, then a product of at most 2  spaces with dense subsets of size at most   has itself a dense subset of size at most   .       Separability is especially important in ": null
+    },
+    {
+        "numerical analysis": "Numerical Analysis"
+    },
+    {
+        " and ": null
+    },
+    {
+        "constructive mathematics": "Mathematical Constructivism"
+    },
+    {
+        ", since many theorems that can be proved for nonseparable spaces have constructive proofs only for separable spaces. Such constructive proofs can be turned into ": null
+    },
+    {
+        "algorithms": "Algorithm"
+    },
+    {
+        "for use in numerical analysis, and they are the only sorts of proofs acceptable in constructive analysis. A famous example of a theorem of this sort is the ": null
+    },
+    {
+        "Hahn–Banach theorem": "Hahn–Banach Theorem"
+    },
+    {
+        ".           Every compact ": null
+    },
+    {
+        "metric space": "Metric Space"
+    },
+    {
+        " is separable.   Any topological space that is the union of a countable number of separable subspaces is separable. Together, these first two examples give a different proof that n -dimensional Euclidean space is separable.   The space C of all continuous functions from a ": null
+    },
+    {
+        "compact": "Compact Space"
+    },
+    {
+        " subset K  to the real line   is separable.   The ": null
+    },
+    {
+        "Lebesgue spaces": "Lp Space"
+    },
+    {
+        " L  , over a ": null
+    },
+    {
+        "separable measure space": "Separable Measure Space"
+    },
+    {
+        "   X,  , are separable for any 1  p   ": null
+    }
+]
