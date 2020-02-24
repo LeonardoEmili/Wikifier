@@ -28,7 +28,7 @@ class TextList(list):
         if (not item):
             return
         # Remove hidden and newline characters from the string
-        re_hidden_char = re.compile(r'& *nbsp;|& *(m|n)dash;|\\[^ ]*|\n|(http|www)[^]*|[A-Z][A-Z]+( |$)| +')
+        re_hidden_char = re.compile(r'& *nbsp;|& *(m|n)dash;|\\[^ ]*|\n|(http|www)[^]*|[A-Z][A-Z]+( |$)| +', re.IGNORECASE)
         item = re.sub(re_hidden_char, " ", item)
 
         # Change any number to a constant value
