@@ -1,0 +1,380 @@
+[
+    {
+        "          SNOBOL is a series of ": null
+    },
+    {
+        "computer": "Computer"
+    },
+    {
+        "programming languages": "Programming Language"
+    },
+    {
+        " developed between 1962 and 1967 at ": null
+    },
+    {
+        "AT & T": "At & T Corporation"
+    },
+    {
+        " Bell Laboratories": "Bell Laboratories"
+    },
+    {
+        " by ": null
+    },
+    {
+        "David J. Farber": "David J. Farber"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Ralph E. Griswold": "Ralph E. Griswold"
+    },
+    {
+        " and Ivan P. Polonsky, culminating in SNOBOL4. It was one of a number of text-string-oriented languages developed during the 1950s and 1960s; others included ": null
+    },
+    {
+        "COMIT": "Comit"
+    },
+    {
+        " and ": null
+    },
+    {
+        "TRAC": "Trac"
+    },
+    {
+        ".     SNOBOL4 stands apart from most programming languages of its era by having patterns as a ": null
+    },
+    {
+        "first-class data type": "First-Class Object"
+    },
+    {
+        "  and by providing operators for pattern ": null
+    },
+    {
+        "concatenation": "Concatenation"
+    },
+    {
+        " and ": null
+    },
+    {
+        "alternation": "Alternation"
+    },
+    {
+        ". SNOBOL4 patterns are a type of object and admit various manipulations, much like later ": null
+    },
+    {
+        "object-oriented languages": "Object-Oriented Language"
+    },
+    {
+        " such as ": null
+    },
+    {
+        "JavaScript": "Javascript"
+    },
+    {
+        " whose patterns are known as ": null
+    },
+    {
+        "regular expressions": "Regular Expression"
+    },
+    {
+        ". In addition SNOBOL4 strings generated during execution can be treated as programs and either interpreted or compiled and executed .     SNOBOL4 was quite widely taught in larger US universities in the late 1960s and early 1970s and was widely used in the 1970s and 1980s as a text manipulation language in the ": null
+    },
+    {
+        "humanities": "Humanities"
+    },
+    {
+        ".     In the 1980s and 1990s its use faded as newer languages such as ": null
+    },
+    {
+        "AWK": "Awk"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Perl": "Perl"
+    },
+    {
+        " made string manipulation by means of ": null
+    },
+    {
+        "regular expressions": "Regular Expression"
+    },
+    {
+        " fashionable. SNOBOL4 patterns subsume ": null
+    },
+    {
+        "BNF": "Backus–Naur Form"
+    },
+    {
+        " grammars, which are equivalent to ": null
+    },
+    {
+        "context-free grammars": "Context-Free Grammar"
+    },
+    {
+        " and more powerful than regular expressions. Gimpel, J. F. 1973. A theory of discrete patterns and their implementation in SNOBOL4. Commun. ACM 16, 2 , 91-100. DOI   The regular expressions in current versions of AWK and Perl are in fact extensions of regular expressions in the ": null
+    },
+    {
+        "traditional sense": "Regular Language"
+    },
+    {
+        ", but regular expressions, unlike SNOBOL4 patterns, are not recursive, which gives a distinct computational advantage to SNOBOL4 patterns.       One of the designers of SNOBOL, Ralph Griswold, designed successors to SNOBOL4 called SL5 and ": null
+    },
+    {
+        "Icon": "Icon"
+    },
+    {
+        ", which combined the backtracking of SNOBOL4 pattern matching with more standard ": null
+    },
+    {
+        "ALGOL": "Algol"
+    },
+    {
+        "-like structuring, as well as adding some features of their own.         The initial SNOBOL language was created as a tool to be used by its authors to work with the symbolic manipulation of polynomials. It was written in assembly language for the ": null
+    },
+    {
+        "IBM 7090": "Ibm 7090"
+    },
+    {
+        ". It had a simple syntax, only one datatype, the string, no functions, and no declarations and very little error control. However, despite its simplicity and its personal nature its use began to spread to other groups. As a result, the authors decided to extend it and tidy it up. They rewrote it and added functions, both standard and user-defined, and released the result as SNOBOL3. SNOBOL2 did exist but it was a short-lived intermediate development version without user-defined functions and was never released. SNOBOL3 became quite popular and was rewritten for other computers than the IBM 7090 by other programmers. As a result, several incompatible dialects arose.     As SNOBOL3 became more popular the authors received more and more requests for extensions to the language. They also began to receive complaints about incompatibility and bugs in versions that they hadnt written. To address this and to take advantage of the new computers being introduced in the late 1960s, the decision was taken to develop SNOBOL4 with many extra datatypes and features but based on a ": null
+    },
+    {
+        "virtual machine": "Virtual Machine"
+    },
+    {
+        " to allow improved portability across computers. See Chapter 1 of The Macro Implementation of SNOBOL4 The SNOBOL4 language translator was still written in assembly language. However the macro features of the assembler were used to define the virtual machine instructions of the SNOBOL Implementation Language, the SIL. This very much improved the portability of the language by making it relatively easy to port the virtual machine which hosted the translator by recreating its virtual instructions on any machine which included a macro assembler or indeed a high level language. SNOBOL4 has been implemented using C to recreate the virtual machine instructions.         SNOBOL4 supports a number of built-in ": null
+    },
+    {
+        "data types": "Data Type"
+    },
+    {
+        ", such as ": null
+    },
+    {
+        "integers": "Integer"
+    },
+    {
+        " and limited precision ": null
+    },
+    {
+        "real numbers": "Real Number"
+    },
+    {
+        ", ": null
+    },
+    {
+        "strings": "String"
+    },
+    {
+        ", ": null
+    },
+    {
+        "patterns": "Pattern Matching"
+    },
+    {
+        ", ": null
+    },
+    {
+        "arrays": "Array Data Type"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "tables": "Associative Array"
+    },
+    {
+        " , and also allows the programmer to define additional data types and new ": null
+    },
+    {
+        "functions": "Function"
+    },
+    {
+        ". SNOBOL4s programmer-defined data type facility was advanced at the time  it is similar to the records of the earlier ": null
+    },
+    {
+        "COBOL": "Cobol"
+    },
+    {
+        " and the later ": null
+    },
+    {
+        "Pascal": "Pascal Programming Language"
+    },
+    {
+        " programming languages.     All SNOBOL command lines are of the form   :label subject pattern  object  transfer     Each of the five elements is optional. In general, the subject is matched against the pattern. If the object is present, any matched portion is replaced by the object via rules for replacement. The transfer can be an absolute branch or a conditional branch dependent upon the success or failure of the subject evaluation, the pattern evaluation, the pattern match, the object evaluation or the final assignment. It can also be a transfer to code created and compiled by the program itself during a run.     A SNOBOL pattern can be very simple or extremely complex. A simple pattern is just a text string , but a complex pattern may be a large structure describing, for example, the complete grammar of a computer language. It is possible to implement a language interpreter in SNOBOL almost directly from a ": null
+    },
+    {
+        "Backus–Naur form": "Backus–Naur Form"
+    },
+    {
+        " expression of it, with few changes. Creating a macro assembler and an interpreter for a completely theoretical piece of hardware could take as little as a few hundred lines, with a new instruction being added with a single line.     Complex SNOBOL patterns can do things that would be impractical or impossible using the more primitive regular expressions used in most other pattern-matching languages. Some of this power derives from the so-called SPITBOL extensions , although it is possible to achieve the same power without them. Part of this power comes from the side effects that it is possible to produce during the pattern matching operation, including saving numerous intermediate/tentative matching results and the ability to invoke user-written functions during the pattern match which can perform nearly any desired processing, and then influence the ongoing direction the interrupted pattern match takes, or even to indeed change the pattern itself during the matching operation. Patterns can be saved like any other first-class data item, and can be concatenated, used within other patterns, and used to create very complex and sophisticated pattern expressions. It is possible to write, for example, a SNOBOL4 pattern which matches a complete name and international postal mailing address , which is well beyond anything that is practical to even attempt using regular expressions.     SNOBOL4 pattern-matching uses a backtracking algorithm similar to that used in the ": null
+    },
+    {
+        "logic programming": "Logic Programming"
+    },
+    {
+        " language ": null
+    },
+    {
+        "Prolog": "Prolog"
+    },
+    {
+        ", which provides pattern-like constructs via ": null
+    },
+    {
+        "DCGs": "Definite Clause Grammar"
+    },
+    {
+        ". This algorithm makes it easier to use SNOBOL as a logic programming language than is the case for most languages.     SNOBOL stores variables, strings and data structures in a single ": null
+    },
+    {
+        "garbage-collected": "Garbage Collection"
+    },
+    {
+        " heap.     SNOBOL rivals ": null
+    },
+    {
+        "APL": "Apl"
+    },
+    {
+        " for its distinctiveness in format and programming style, both being radically unlike more standard procedural languages such as ": null
+    },
+    {
+        "BASIC": "Basic"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Fortran": "Fortran"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "C": "C"
+    },
+    {
+        ".         The Hello, World! program might be as follows...       OUTPUT Hello, World!   END       A simple program to ask for a users name and then use it in an output sentence...     OUTPUT What is your name?   Username INPUT   OUTPUT Thank you, Username   END       To choose between three possible outputs...       OUTPUT What is your name?   Username INPUT   Username J :S   Username K :S   MEH OUTPUT Hi, Username :   LOVE OUTPUT How nice to meet you, Username :   HATE OUTPUT Oh. Its you, Username   END       To continue requesting input until no more is forthcoming...       OUTPUT This program will ask you for personal names   OUTPUT until you press return without giving it one   NameCount 0 :   AGAIN NameCount NameCount + 1   OUTPUT Name NameCount : PersonalName   GETINPUT OUTPUT Please give me name NameCount + 1   PersonalName INPUT   PersonalName LEN :S   OUTPUT Finished. NameCount names requested.   END           The classic implementation was on the ": null
+    },
+    {
+        "PDP-10": "Pdp-10"
+    },
+    {
+        "; it has been used to study ": null
+    },
+    {
+        "compilers": "Compiler"
+    },
+    {
+        ", ": null
+    },
+    {
+        "formal grammars": "Formal Grammar"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "artificial intelligence": "Artificial Intelligence"
+    },
+    {
+        ", especially ": null
+    },
+    {
+        "machine translation": "Machine Translation"
+    },
+    {
+        " and machine comprehension of ": null
+    },
+    {
+        "natural languages": "Natural Language"
+    },
+    {
+        ". The original implementation was on an IBM 7090 at Bell Labs, Holmdel, N.J. SNOBOL4 was specifically designed for portability; the first implementation was started on an IBM 7094 in 1966 but completed on an IBM 360 in 1967. It was rapidly ported to many other platforms.     It is normally implemented as an ": null
+    },
+    {
+        "interpreter": "Interpreter"
+    },
+    {
+        " because of the difficulty in implementing some of its very high-level features, but there is a ": null
+    },
+    {
+        "compiler": "Compiler"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "SPITBOL compiler": "Spitbol Compiler"
+    },
+    {
+        ", which provides nearly all the facilities that the interpreter provides.     The ": null
+    },
+    {
+        "Gnat": "Gnat"
+    },
+    {
+        " Ada": "Ada"
+    },
+    {
+        " Compiler comes with a package which implements all of the Spitbol string manipulation semantics. This can be called from within an Ada program.     The file editor for the ": null
+    },
+    {
+        "Michigan Terminal System": "Michigan Terminal System"
+    },
+    {
+        " provided pattern matching based on SNOBOL4 patterns. , University of Michigan Computing Center, 1986.     Several implementations are currently available. Macro SNOBOL4 in C written by Phil Budne is a free, open source implementation, capable of running on almost any platform.  Catspaw, Inc provided a commercial implementation of the SNOBOL4 language for many different computer platforms, including DOS, Macintosh, Sun, RS/6000, and others, and these implementations are now available free from Catspaw. Minnesota SNOBOL4, by Viktors Berstis, the closest PC implementation to the original IBM mainframe version is also free.      Although SNOBOL itself has no ": null
+    },
+    {
+        "structured programming": "Structured Programming"
+    },
+    {
+        " features, a SNOBOL preprocessor called ": null
+    },
+    {
+        "Snostorm": "Snostorm"
+    },
+    {
+        " was designed and implemented during the 1970s by Fred G. Swartz for use under the ": null
+    },
+    {
+        "Michigan Terminal System": "Michigan Terminal System"
+    },
+    {
+        " at the ": null
+    },
+    {
+        "University of Michigan": "University Of Michigan"
+    },
+    {
+        ". , MTS Volume 9: SNOBOL4 in MTS, Computing Center, University of Michigan, June 1979, pages 99-120. Retrieved 1 September 2014. Snostorm was used at the eight to fifteen sites that ran MTS. It was also available at ": null
+    },
+    {
+        "University College London": "University College London"
+    },
+    {
+        " between 1982 and 1984.     Snocone by ": null
+    },
+    {
+        "Andrew Koenig": "Andrew Koenig"
+    },
+    {
+        " adds block-structured constructs to the SNOBOL4 language. Snocone is a self-contained programming language, rather than a proper superset of SNOBOL4. , Andrew Koenig, USENIX , June 1985. Retrieved 2 September 2014.     The SPITBOL implementation also introduced a number of features which, while not using traditional structured programming keywords, nevertheless can be used to provide many of the equivalent capabilities normally thought of as structured programming , most notably nested if/then/else type constructs. These features have since been added to most recent SNOBOL4 implementations. After many years as a commercial product, in April 2009 SPITBOL was released as free software under the ": null
+    },
+    {
+        "GNU General Public License": "Gnu General Public License"
+    },
+    {
+        ".         According to Dave Farber,  he, Griswold and Polonsky finally arrived at the name Symbolic EXpression Interpreter SEXI.          Common ": null
+    },
+    {
+        "backronyms": "Backronym"
+    },
+    {
+        " of SNOBOL are String Oriented Symbolic Language Computers and the humanities 1 StriNg Oriented symBOlic Language. Jack Belzer et al., eds., Encyclopedia of Computer Science and Technology, CRC Press, 1979, . 13": null
+    }
+]

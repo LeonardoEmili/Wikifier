@@ -1,0 +1,191 @@
+[
+    {
+        "          Standard-definition television  is a television system which uses a resolution that is not considered to be either ": null
+    },
+    {
+        "high": "High-Definition Television"
+    },
+    {
+        " or ": null
+    },
+    {
+        "enhanced definition": "Enhanced-Definition Television"
+    },
+    {
+        ". SDTV and ": null
+    },
+    {
+        "high-definition television": "High-Definition Television"
+    },
+    {
+        " are the two categories of display formats for ": null
+    },
+    {
+        "digital television": "Digital Television"
+    },
+    {
+        " transmissions. Standard refers to the fact that it was the prevailing specification for broadcast television in the mid- to late-20th century.     The two common SDTV signal types are ": null
+    },
+    {
+        "576i": "576I"
+    },
+    {
+        ", with 576 ": null
+    },
+    {
+        "interlaced": "Interlaced Video"
+    },
+    {
+        " lines of resolution, derived from the European-developed ": null
+    },
+    {
+        "PAL": "Pal"
+    },
+    {
+        " and ": null
+    },
+    {
+        "SECAM": "Secam"
+    },
+    {
+        " systems, and ": null
+    },
+    {
+        "480i": "480I"
+    },
+    {
+        " based on the American ": null
+    },
+    {
+        "NTSC": "Ntsc"
+    },
+    {
+        " system. Common SDTV ": null
+    },
+    {
+        "refresh rates": "Refresh Rate"
+    },
+    {
+        " are 25, 29.97 and 30 ": null
+    },
+    {
+        "frames per second": "Frames Per Second"
+    },
+    {
+        ". Both systems use   a 4:3 ": null
+    },
+    {
+        "aspect ratio": "Aspect Ratio"
+    },
+    {
+        ".     Standards that support digital SDTV broadcast include ": null
+    },
+    {
+        "DVB": "Digital Video Broadcasting"
+    },
+    {
+        ", ": null
+    },
+    {
+        "ATSC": "Atsc Standards"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "ISDB": "Isdb"
+    },
+    {
+        ". The last two were originally developed for HDTV, but are also used for their ability to deliver multiple SD video and audio streams via ": null
+    },
+    {
+        "multiplexing": "Multiplexing"
+    },
+    {
+        ". In North America, digital SDTV is broadcast in the same 4:3 ": null
+    },
+    {
+        "aspect ratio": "Aspect Ratio"
+    },
+    {
+        " as NTSC signals, with widescreen content being ": null
+    },
+    {
+        "center cut": "Center Cut"
+    },
+    {
+        ".  However, in other parts of the world that used the PAL or SECAM color systems, digital standard-definition television is now usually shown with a ": null
+    },
+    {
+        "16:9 aspect ratio": "16:9 Aspect Ratio"
+    },
+    {
+        ", with the transition occurring between the mid-1990s and mid-2000s depending on region. Older programs with a 4:3 aspect ratio are broadcast with a flag that switches the display to 4:3.     Digital SDTV eliminates the ": null
+    },
+    {
+        "ghosting": "Ghosting"
+    },
+    {
+        " and ": null
+    },
+    {
+        "noisy images": "Noise"
+    },
+    {
+        " associated with analog systems. However, if the reception has interference or is poor, where the error correction cannot compensate one will encounter various other artifacts such as image freezing, stuttering or dropouts from missing ": null
+    },
+    {
+        "intra-frames": "Intra-Frame Coding"
+    },
+    {
+        " or blockiness from missing ": null
+    },
+    {
+        "macroblocks": "Macroblock"
+    },
+    {
+        ".       The table below summarizes ": null
+    },
+    {
+        "pixel aspect ratios": "Pixel Aspect Ratio"
+    },
+    {
+        " for the scaling of various kinds of SDTV video lines.          The pixel aspect ratio is always the same for corresponding 720 and 704 pixel resolutions because the center part of a 720-pixel-wide image is equal to the corresponding 704-pixel-wide image. The actual image is always contained in the center 704 horizontal pixels of the digital frame, regardless of how many horizontal pixels are used. In case of digital video line having 720 horizontal pixels, only the center 704 pixels contain actual 4:3 or 16:9 image, and the 8-pixel-wide stripes from either side are called ": null
+    },
+    {
+        "nominal analogue blanking": "Nominal Analogue Blanking"
+    },
+    {
+        " for ": null
+    },
+    {
+        "horizontal blanking": "Horizontal Blanking Interval"
+    },
+    {
+        " and should be discarded before displaying the image. Nominal analogue blanking should not be confused with ": null
+    },
+    {
+        "overscan": "Overscan"
+    },
+    {
+        ", as overscan areas are part of the actual 4:3 or 16:9 image.     For ": null
+    },
+    {
+        "SMPTE 259M-C": "Smpte 259M-C"
+    },
+    {
+        " compliance, a SDTV broadcast image is scaled to 720 pixels wide for every 480 NTSC lines of the image with the amount of non-proportional line scaling dependent on either the display or ": null
+    },
+    {
+        "pixel aspect ratio": "Pixel Aspect Ratio"
+    },
+    {
+        ". The display ratio for broadcast widescreen is commonly 16:9, the display ratio for a traditional or ": null
+    },
+    {
+        "letterboxed": "Letterboxing"
+    },
+    {
+        " broadcast is 4:3.     An SDTV image outside the constraints of the SMPTE standards requires no non-proportional scaling with 640 pixels for every line of the image. The display and pixel aspect ratio is generally not required with the line height defining the aspect. For widescreen 16:9, 360 lines define a widescreen image and for traditional 4:3, 480 lines define an image. ": null
+    }
+]

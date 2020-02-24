@@ -1,0 +1,305 @@
+[
+    {
+        "   Scroll lock is a ": null
+    },
+    {
+        "lock key": "Lock Key"
+    },
+    {
+        " on most IBM-compatible ": null
+    },
+    {
+        "computer keyboards": "Keyboard"
+    },
+    {
+        ".     Depending on the operating system, it may be used for different purposes and applications may assign functions to the key or change their behaviour depending on its toggling state.     The key is not frequently used, and therefore some reduced or specialized keyboards lack  altogether.     Pressing  performs the same function as pressing . This behavior is a remnant of the original ": null
+    },
+    {
+        "IBM PC keyboards": "Ibm Pc Keyboard"
+    },
+    {
+        ", which did not have a dedicated  key. Instead, they assigned the Pause function to  and the Break function to .           The  key was meant to lock all scrolling techniques, and is a vestige of the original ": null
+    },
+    {
+        "IBM PC keyboard": "Ibm Pc Keyboard"
+    },
+    {
+        ". In the original design,  was intended to modify the behavior of the ": null
+    },
+    {
+        "arrow keys": "Arrow Keys"
+    },
+    {
+        ". When the  mode was on, the arrow keys would ": null
+    },
+    {
+        "scroll": "Scrolling"
+    },
+    {
+        " the contents of a text window instead of moving the ": null
+    },
+    {
+        "cursor": "Cursor"
+    },
+    {
+        ". In this usage,  is a toggling lock key like ": null
+    },
+    {
+        "Num Lock": "Num Lock"
+    },
+    {
+        " or ": null
+    },
+    {
+        "Caps Lock": "Caps Lock"
+    },
+    {
+        ", which have a state that persists after the key is released.     Today, this particular use of  is rare. Modern programs honoring this behavior include ": null
+    },
+    {
+        "IBM Lotus Notes": "Ibm Lotus Notes"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Forté Agent": "Forté Agent"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Image-Line FL Studio": "Image-Line Fl Studio"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Renoise": "Renoise"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Microsoft Excel": "Microsoft Excel"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Microsoft Project": "Microsoft Project"
+    },
+    {
+        "  , ": null
+    },
+    {
+        "LibreOffice Calc": "Libreoffice Calc"
+    },
+    {
+        ", and on occasions ": null
+    },
+    {
+        "Microsoft Word": "Microsoft Word"
+    },
+    {
+        ".     Some text editors  exhibit similar behavior when the arrow keys are used with  pressed.     Most ": null
+    },
+    {
+        "GUI": "Graphical User Interface"
+    },
+    {
+        " environments neglect , which means scrolling must be accomplished with a ": null
+    },
+    {
+        "mouse": "Computer Mouse"
+    },
+    {
+        ", using means such as ": null
+    },
+    {
+        "scrollbars": "Scrollbar"
+    },
+    {
+        " or ": null
+    },
+    {
+        "scroll wheels": "Scroll Wheel"
+    },
+    {
+        ". Often, the middle or the wheel mouse button works as a toggle determining if mouse movements will move the mouse cursor or scroll the contents in scroll window.     Some web browsers including ": null
+    },
+    {
+        "Firefox": "Firefox"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Internet Explorer": "Internet Explorer"
+    },
+    {
+        " support a ": null
+    },
+    {
+        "Caret browsing": "Caret Browsing"
+    },
+    {
+        " mode which can be toggled by . While the window scrolling behaviour with Caret navigation disabled is similar to that suggested for Scroll Lock, enabling Caret navigation will enable a cursor scrolling behaviour as if Scroll Lock were disabled.       Pressing the  key in the ": null
+    },
+    {
+        "Linux console": "Linux Console"
+    },
+    {
+        " while text is scrolling through the screen freezes the console output during which no further text is sent to the screen, while the program continues running as usual. When  is pressed again, the screen is unfrozen and all text generated during the freeze is displayed at once. This allows the user to pause the display and read long messages that scroll through the screen too quickly to read, such as for example when the system is ": null
+    },
+    {
+        "booting up": "Booting Up"
+    },
+    {
+        " . If not configured otherwise,  and  can be used instead of Scroll Lock in any terminal in Linux to freeze and unfreeze the terminal output respectively.     This behaviour emulates the Hold Screen key or similar flow control mechanisms on computer terminals.     The behaviour must be distinguished from pressing the ": null
+    },
+    {
+        "Pause key": "Pause Key"
+    },
+    {
+        " during ": null
+    },
+    {
+        "POST": "Power-On Self-Test"
+    },
+    {
+        " or under ": null
+    },
+    {
+        "DOS": "Dos"
+    },
+    {
+        ", which, by default, has the effect of temporarily halting the running process.     On the ": null
+    },
+    {
+        "FreeBSD": "Freebsd"
+    },
+    {
+        " system console, the  key additionally enables scrolling: after pressing Scroll Lock, one can use  and  to scroll up or down. Pressing Scroll Lock again disables this mode and moves back to the bottom of the output. The Linux console implements this behaviour by using  and , not requiring  to be active.       In ": null
+    },
+    {
+        "Multiuser DOS": "Multiuser Dos"
+    },
+    {
+        ", ": null
+    },
+    {
+        "System Manager": "Datapac System Manager"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "REAL/32": "Real/32"
+    },
+    {
+        ", activating  during boot will always enter a special diagnostic mode, where the operating system and loaded device drivers will display detailed status and debugging information about themselves and their interaction with the operating system, sometimes up to several screenfuls per loaded driver. Automatic scrolling is suspended for as long as  remains activated.      ": null
+    },
+    {
+        "DR-DOS 7.02": "Dr-Dos 7.02"
+    },
+    {
+        " and higher provides a ": null
+    },
+    {
+        "CONFIG.SYS": "Config.Sys"
+    },
+    {
+        " directive named ": null
+    },
+    {
+        "SCROLLOCK": "Scrollock"
+    },
+    {
+        "ON|OFF to change the Scroll Lock status on the fly.   Activating  during boot will enter a DIAG mode as well, wherein some special drivers may display more verbose messages, but in contrast to the situation under the Multiuser DOS family normal DOS drivers do not typically display additional information. The operating system, however, will temporarily suspend any automatic timeouts  in CONFIG.SYS trace  and / single-stepping modes for as long as  is active.       In the ": null
+    },
+    {
+        "Microsoft Windows NT": "Microsoft Windows Nt"
+    },
+    {
+        " family starting with Windows 2000, a debugging feature can be enabled, that allows the user to manually crash the system, generating a memory dump for analysis of the current state of the operating system. This can be accomplished by setting the REGDWORD registry key HKEYLOCALMACHINE  to 1 . Once set, the user can hold the  key and tap the  key twice to trigger a ": null
+    },
+    {
+        "Blue Screen of Death": "Blue Screen Of Death"
+    },
+    {
+        ".     In ": null
+    },
+    {
+        "Microsoft Visual Basic 5.0": "Microsoft Visual Basic 5.0"
+    },
+    {
+        " and ": null
+    },
+    {
+        "6.0": "Microsoft Visual Basic 6.0"
+    },
+    {
+        ",  pauses the running program in the integrated development environment, as does its alias .     Copy and paste also served as part of a ": null
+    },
+    {
+        "copy & paste": "Copy  &  Paste"
+    },
+    {
+        " facility between applications. Compared to the standard keyboard driver ": null
+    },
+    {
+        "KEYB": "Keyb"
+    },
+    {
+        " these drivers offered a number of extensions including an ": null
+    },
+    {
+        "extended keystroke buffer": "Extended Keyboard Buffer"
+    },
+    {
+        " with key stacking facility, macro recorder and a second cursor called CopyCursor, which could be invoked on demand  and freely moved on the screen using the cursor keys or the mouse, even outside the area reachable by the standard cursor in the running application. Once invoked, pressing  the characters under the CopyCursor could be stuffed, one after another, into the keyboard buffer, from where they would be read by the running application as emulated key  input, thereby typically showing up at the location of the standard cursor. The CopyCursor would move to the next screen position after each  . Normal keyboard input was still possible while the CopyCursor was enabled, and the user could switch between the two cursors by toggling the  hotkey again. Pressing  or  would exit the CopyCursor, so that, on its next invocation, it would show up at the position of the standard cursor again rather than at its previous location. If the screen contents was scrolled, the position of the CopyCursor would move accordingly until reaching the display limits. With  activated, keypresses would still reach the normal keystroke buffer, while CopyCursor input would be stacked up internally for later use in a second queue, dynamically maintained within the extended keystroke buffer. Thereby, it was possible to collect selected screen output from different programs and spool out the data much later while within yet another application by toggling  off again. It was also possible to use this as input into the macro recorder for later use as ": null
+    },
+    {
+        "scrap macro": "Scrap Macro"
+    },
+    {
+        ". Since this was an integral part of these keyboard drivers, it was fully transparent to running software and therefore worked with virtually any DOS programs, including at the command prompt, temporary shelled programs and task switchers.       ": null
+    },
+    {
+        "IBM PC": "Ibm Pc"
+    },
+    {
+        " documentation called  an inactive key . When  PC Magazine  asked an executive of keyboard manufacturer ": null
+    },
+    {
+        "Key Tronic": "Key Tronic"
+    },
+    {
+        " about the keys purpose in a 1983 interview, he replied I dont know, but we put it on ours, too .     The indicator light is sometimes used for other purposes such as a ": null
+    },
+    {
+        "keyboard layout": "Keyboard Layout"
+    },
+    {
+        " indicator in some ": null
+    },
+    {
+        "Linux distributions": "Gnu+Linux Distribution"
+    },
+    {
+        " or other applications, because doing so is less likely to cause problems than manipulating other keys/lights.     ": null
+    },
+    {
+        "Keyboard, video, mouse switches": "Kvm Switch"
+    },
+    {
+        " often use the Scroll Lock key on the keyboard connected to the KVM switch for selecting between computers. On KVM switches with ": null
+    },
+    {
+        "On-screen display": "On-Screen Display"
+    },
+    {
+        " , a double click of the Scroll Lock key often brings up the OSD, allowing the user to select the desired computer from a list or access the configuration menu of the KVM. Some models, especially those which lack an OSD, switch to the input corresponding to the number key pressed after Scroll Lock, or in the case of some 2-port switches, the up and down arrow keys. Simple models with only two or four inputs may immediately switch to the next input following a double press of the Scroll Lock key.             Some laptops and keyboards do not have a physical  key. Some of these have a second function on another key that acts as if a  key was pressed. Some common methods are:    or  on certain Dell laptops.     or  on certain Lenovo laptops.    on certain HP laptops.      Another way to press the  key is to use an onscreen keyboard. In Windows 8 this can be found through the Control Panel  ref name MicrosoftWindows-8 / code /code ": null
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "      Ping is a ": null
+    },
+    {
+        "computer network": "Computer Network"
+    },
+    {
+        " administration ": null
+    },
+    {
+        "software utility": "Utility Software"
+    },
+    {
+        " used to test the reachability of a ": null
+    },
+    {
+        "host": "Host"
+    },
+    {
+        " on an ": null
+    },
+    {
+        "Internet Protocol": "Internet Protocol"
+    },
+    {
+        " network. It is available for virtually all operating systems that have networking capability, including most embedded network administration software.     Ping measures the ": null
+    },
+    {
+        "round-trip time": "Round-Trip Time"
+    },
+    {
+        " for messages sent from the originating host to a destination computer that are echoed back to the source. The name comes from ": null
+    },
+    {
+        "active sonar": "Active Sonar"
+    },
+    {
+        " terminology that sends a ": null
+    },
+    {
+        "pulse": "Pulse"
+    },
+    {
+        " of sound and listens for the echo to detect objects under water.     Ping operates by sending ": null
+    },
+    {
+        "Internet Control Message Protocol": "Internet Control Message Protocol"
+    },
+    {
+        " echo request ": null
+    },
+    {
+        "packets": "Packet"
+    },
+    {
+        " to the target host and waiting for an ICMP echo reply. The program reports errors, ": null
+    },
+    {
+        "packet loss": "Packet Loss"
+    },
+    {
+        ", and a statistical summary of the results, typically including the minimum, maximum, the ": null
+    },
+    {
+        "mean": "Mean"
+    },
+    {
+        " round-trip times, and ": null
+    },
+    {
+        "standard deviation": "Standard Deviation"
+    },
+    {
+        " of the mean.     The ": null
+    },
+    {
+        "command-line options": "Command-Line Option"
+    },
+    {
+        " of the ping utility and its output vary between the numerous implementations. Options may include the size of the payload, count of tests, limits for the number of network hops  that probes traverse, interval between the requests and time to wait for a response. Many systems provide a companion utility ping6, for testing on ": null
+    },
+    {
+        "Internet Protocol version 6": "Ipv6"
+    },
+    {
+        " networks, which implement ": null
+    },
+    {
+        "ICMPv6": "Internet Control Message Protocol Version 6"
+    },
+    {
+        ".       The ping utility was written by ": null
+    },
+    {
+        "Mike Muuss": "Mike Muuss"
+    },
+    {
+        " in December 1983 during his employment at the ": null
+    },
+    {
+        "Ballistic Research Laboratory": "Ballistic Research Laboratory"
+    },
+    {
+        ", now the ": null
+    },
+    {
+        "US Army Research Laboratory": "Us Army Research Laboratory"
+    },
+    {
+        ". Created as a tool to troubleshoot problems in an ": null
+    },
+    {
+        "IP network": "Ip Network"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Mike Muuss": "Mike Muuss"
+    },
+    {
+        " was inspired by a remark by ": null
+    },
+    {
+        "David Mills": "David L. Mills"
+    },
+    {
+        " on using ICMP echo packets for IP network diagnosis and measurements. The author named it after the sound that ": null
+    },
+    {
+        "sonar": "Sonar"
+    },
+    {
+        " makes, since its methodology is analogous to sonars echo location.   The acronym Packet InterNet Groper for PING has been used for well over 30 years  and although Mike Muuss says that from his point of view PING was not intended as an acronym, he acknowledges ": null
+    },
+    {
+        "David Mills": "David L. Mills"
+    },
+    {
+        " expansion of the name. The first released version was ": null
+    },
+    {
+        "public domain software": "Public Domain Software"
+    },
+    {
+        " while all subsequent versions were licensed under the ": null
+    },
+    {
+        "BSD license": "Bsd License"
+    },
+    {
+        ". Ping was first included in ": null
+    },
+    {
+        "4.3BSD": "4.3Bsd"
+    },
+    {
+        ".  The ": null
+    },
+    {
+        "FreeDOS": "Freedos"
+    },
+    {
+        " version was developed by Erick Engelke and is licensed under the ": null
+    },
+    {
+        "GPL": "Gnu General Public License"
+    },
+    {
+        ".  Tim Crawford developed the ": null
+    },
+    {
+        "ReactOS": "Reactos"
+    },
+    {
+        " version. It is licensed under the ": null
+    },
+    {
+        "MIT License": "Mit License"
+    },
+    {
+        ".      RFC 1122 prescribes that any host must process ICMP echo requests and issue echo replies in return.        The following is the output of running ping on Linux for sending five probes to the target host www.example.com": null
+    },
+    {
+        "round trip time": "Round-Trip Delay Time"
+    },
+    {
+        " was 9.674 ms, the average was 10.968 ms, and the maximum value was 11.726 ms. The measurement had a ": null
+    },
+    {
+        "standard deviation": "Standard Deviation"
+    },
+    {
+        " of 0.748 ms.       In cases of no response from the target host, most implementations display either nothing or periodically print notifications about timing out. Possible ping results indicating a problem include the following:     or  host, network or protocol unreachable    source route failed    fragmentation needed    or  destination network/host unknown    source host is isolated    communication with destination network administratively prohibited    communication with destination host administratively prohibited    for this ": null
+    },
+    {
+        "ToS": "Type Of Service"
+    },
+    {
+        " the destination network is unreachable    for this ToS the destination host is unreachable    communication administratively prohibited    host precedence violation    precedence cutoff in effect     In case of error, the target host or an intermediate router sends back an ICMP error message, for example host unreachable or TTL exceeded in transit . In addition, these messages include the first eight bytes of the original message , so the ping utility can match responses to originating queries.                   Generic composition of an ICMP packet:    IPv4 Header : protocol set to 1 and  Type of Service  set to 0.   IPv6 Header : Next Header set to 58   ICMP Header :   Type of ICMP message   Code   Checksum , calculated with the ICMP part of the packet . It is the 16-bit ones complement of the ones complement sum of the ICMP message starting with the Type field    Header Data field, which in this case , will be composed of identifier and sequence number .   ICMP Payload: payload for the different kind of answers; can be an arbitrary length, left to implementation detail. However, the packet including IP and ICMP headers must be less than the ": null
+    },
+    {
+        "maximum transmission unit": "Maximum Transmission Unit"
+    },
+    {
+        " of the network or risk being ": null
+    },
+    {
+        "fragmented": "Ip Fragmentation"
+    },
+    {
+        ".     Echo requestecho request is an ": null
+    },
+    {
+        "ICMP": "Internet Control Message Protocol"
+    },
+    {
+        "/": null
+    },
+    {
+        "ICMP6": "Internet Control Message Protocol Version 6"
+    },
+    {
+        " message.          The Identifier and Sequence Number can be used by the client to match the reply with the request that caused the reply. In practice, most Linux systems use a unique identifier for every ping process, and sequence number is an increasing number within that process. Windows uses a fixed identifier, which varies between Windows versions, and a sequence number that is only reset at boot time.     Echo replyecho reply is an ICMP message generated in response to an echo request; it is mandatory for all hosts, and must include the exact payload received in the request.      identifier and sequence number can be used by the client to associate each echo request with its reply.       The payload of the packet is generally filled with ": null
+    },
+    {
+        "ASCII": "Ascii"
+    },
+    {
+        " characters, as the output of the ": null
+    },
+    {
+        "tcpdump": "Tcpdump"
+    },
+    {
+        " utility shows in the last 32 bytes of the following example    The payload may include a timestamp indicating the time of transmission and a sequence number, which are not found in this example. This allows ping to compute the round trip time in a ": null
+    },
+    {
+        "stateless": "Stateless Server"
+    },
+    {
+        " manner without needing to record the time of transmission of each packet.     The payload may also include a magic packet for the ": null
+    },
+    {
+        "Wake-on-LAN": "Wake-On-Lan"
+    },
+    {
+        " protocol, but the minimum payload in that case is longer than shown. The Echo Request typically does not receive any reply if the host was sleeping in hibernation state, but the host still wakes up from sleep state if its interface is configured to accept wakeup requests. If the host is already active and configured to allow replies to incoming ICMP Echo Request packets, the returned reply should include the same payload. This may be used to detect that the remote host was effectively woken up, by repeating a new request after some delay to allow the host to resume its network services. If the host was just sleeping in low power active state, a single request wakes up that host just enough to allow its Echo Reply service to reply instantly if that service was enabled. The host does not need to completely wake up all devices, and may return to low power mode after a short delay. Such configuration may be used to avoid a host to enter in hibernation state, with much longer wake up delay, after some time passed in low power active mode.          To conduct a ": null
+    },
+    {
+        "denial-of-service attack": "Denial-Of-Service Attack"
+    },
+    {
+        ", an attacker may send ping requests as fast as possible, possibly overwhelming the victim with ICMP echo requests. This technique is called a ": null
+    },
+    {
+        "ping flood": "Ping Flood"
+    },
+    {
+        ".     Ping requests to multiple addresses, ": null
+    },
+    {
+        "ping sweep": "Ping Sweep"
+    }
+]

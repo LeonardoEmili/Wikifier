@@ -1,0 +1,158 @@
+[
+    {
+        "The P-complete problems form a ": null
+    },
+    {
+        "complexity class": "Complexity Class"
+    },
+    {
+        " in ": null
+    },
+    {
+        "computational complexity theory": "Computational Complexity Theory"
+    },
+    {
+        ". The problems in this complexity class are defined by having the following two properties:   The problem is in P, the class of problems that can be defined as counting the number of accepting paths of a ": null
+    },
+    {
+        "polynomial-time": "Polynomial-Time"
+    },
+    {
+        " non-deterministic Turing machine": "Non-Deterministic Turing Machine"
+    },
+    {
+        ".   The problem is P-hard, meaning that every other problem in P has a ": null
+    },
+    {
+        "Turing reduction": "Turing Reduction"
+    },
+    {
+        " or ": null
+    },
+    {
+        "polynomial-time counting reduction": "Polynomial-Time Counting Reduction"
+    },
+    {
+        " to it. A counting reduction is a pair of polynomial-time transformations from inputs of the other problem to inputs of the given problem and from outputs of the given problem to outputs of the other problem, allowing the other problem to be solved using any subroutine for the given problem. A Turing reduction is an algorithm for the other problem that makes a polynomial number of calls to a subroutine for the given problem and, outside of those calls, uses polynomial time. In some cases ": null
+    },
+    {
+        "parsimonious reductions": "Parsimonious Reduction"
+    },
+    {
+        ", a more specific type of reduction that preserves the exact number of solutions, are used.     A polynomial-time algorithm for solving a P-complete problem, if it existed, would solve the ": null
+    },
+    {
+        "P versus NP problem": "P Versus Np Problem"
+    },
+    {
+        " by implying that P and NP are equal. No such algorithm is known, nor is a proof known that such an algorithm does not exist.       Examples of P-complete problems include:   How many different variable assignments will satisfy a given general boolean formula?    How many different variable assignments will satisfy a given ": null
+    },
+    {
+        "DNF": "Disjunctive Normal Form"
+    },
+    {
+        " formula?   How many different variable assignments will satisfy a given ": null
+    },
+    {
+        "2-satisfiability": "2-Satisfiability"
+    },
+    {
+        " problem?   How many ": null
+    },
+    {
+        "perfect matchings": "Perfect Matching"
+    },
+    {
+        " are there for a given bipartite ": null
+    },
+    {
+        "graph": "Graph Theory"
+    },
+    {
+        "?   What is the value of the ": null
+    },
+    {
+        "permanent": "Permanent"
+    },
+    {
+        " of a given matrix whose entries are 0 or 1?    How many ": null
+    },
+    {
+        "graph colorings": "Graph Coloring"
+    },
+    {
+        " using k colors are there for a particular graph G?   How many different ": null
+    },
+    {
+        "linear extensions": "Linear Extension"
+    },
+    {
+        " are there for a given ": null
+    },
+    {
+        "partially ordered set": "Partially Ordered Set"
+    },
+    {
+        ", or, equivalently, how many different ": null
+    },
+    {
+        "topological orderings": "Topological Sorting"
+    },
+    {
+        " are there for a given ": null
+    },
+    {
+        "directed acyclic graph": "Directed Acyclic Graph"
+    },
+    {
+        "? .         Some P-complete problems correspond to easy  problems. Determining the satisfiability of a boolean formula in DNF is easy: such a formula is satisfiable if and only if it contains a satisfiable conjunction , whereas counting the number of satisfying assignments is P-complete. Furthermore, deciding 2-satisfiability is easy compared to counting the number of satisfying assignments. ": null
+    },
+    {
+        "Topologically sorting": "Topological Sorting"
+    },
+    {
+        " is easy in contrast to counting the number of topological sortings. A single ": null
+    },
+    {
+        "perfect matching": "Matching"
+    },
+    {
+        " can be found in polynomial time, but counting all perfect matchings is P-complete. The perfect matching counting problem was the first counting problem corresponding to an easy P problem shown to be P-complete, in a 1979 paper by ": null
+    },
+    {
+        "Leslie Valiant": "Leslie Valiant"
+    },
+    {
+        " which also defined the class P and the P-complete problems for the first time.          There are ": null
+    },
+    {
+        "probabilistic algorithms": "Probabilistic Algorithm"
+    },
+    {
+        " that return good approximations to some P-complete problems with high probability. This is one of the demonstrations of the power of probabilistic algorithms.     Many P-complete problems have a ": null
+    },
+    {
+        "fully polynomial-time randomized approximation scheme": "Polynomial-Time Approximation Scheme"
+    },
+    {
+        ", or FPRAS, which, informally, will produce with high probability an approximation to an arbitrary degree of accuracy, in time that is polynomial with respect to both the size of the problem and the degree of accuracy required. ": null
+    },
+    {
+        "Jerrum": "Mark Jerrum"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Valiant": "Leslie Valiant"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "Vazirani": "Vijay Vazirani"
+    },
+    {
+        " showed that every P-complete problem either has an FPRAS, or is essentially impossible to approximate; if there is any polynomial-time algorithm which consistently produces an approximation of a P-complete problem which is within a polynomial ratio in the size of the input of the exact answer, then that algorithm can be used to construct an FPRAS. ": null
+    }
+]

@@ -1,0 +1,173 @@
+[
+    {
+        "                     In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", a spherical coordinate system is a ": null
+    },
+    {
+        "coordinate system": "Coordinate System"
+    },
+    {
+        " for ": null
+    },
+    {
+        "three-dimensional space": "Dimension"
+    },
+    {
+        " where the position of a point is specified by three numbers: the radial distance of that point from a fixed origin, its polar angle measured from a fixed ": null
+    },
+    {
+        "zenith": "Zenith"
+    },
+    {
+        " direction, and the  azimuthal angle  of its ": null
+    },
+    {
+        "orthogonal projection": "Orthogonal Projection"
+    },
+    {
+        " on a reference plane that passes through the origin and is orthogonal to the zenith, measured from a fixed reference direction on that plane. It can be seen as the three-dimensional version of the ": null
+    },
+    {
+        "polar coordinate system": "Polar Coordinate System"
+    },
+    {
+        ".     The radial distance is also called the radius or radial coordinate. The polar angle may be called colatitude, zenith angle, normal angle, or inclination angle.     The use of symbols and the order of the coordinates differs between sources. In one system frequently encountered in physics  gives the radial distance, polar angle, and azimuthal angle, whereas in another system used in many mathematics books  gives the radial distance, azimuthal angle, and polar angle. In both systems  is often used instead of . Other conventions are also used, so great care needs to be taken to check which one is being used.     A number of different spherical coordinate systems following other conventions are used outside mathematics. In a ": null
+    },
+    {
+        "geographical coordinate system": "Geographical Coordinate System"
+    },
+    {
+        " positions are measured in latitude, longitude and height or altitude. There are a number of different ": null
+    },
+    {
+        "celestial coordinate systems": "Celestial Coordinate System"
+    },
+    {
+        " based on different ": null
+    },
+    {
+        "fundamental planes": "Fundamental Plane"
+    },
+    {
+        " and with different terms for the various coordinates. The spherical coordinate systems used in mathematics normally use ": null
+    },
+    {
+        "radians": "Radian"
+    },
+    {
+        " rather than ": null
+    },
+    {
+        "degrees": "Degree"
+    },
+    {
+        " and measure the azimuthal angle counterclockwise from the -axis to the -axis rather than clockwise from north to east like the ": null
+    },
+    {
+        "horizontal coordinate system": "Horizontal Coordinate System"
+    },
+    {
+        ". Duffett-Smith, P and Zwart, J, p. 34. The polar angle is often replaced by the elevation angle measured from the reference plane. Elevation angle of zero is at the horizon.     The spherical coordinate system generalizes the two-dimensional polar coordinate system. It can also be extended to higher-dimensional spaces and is then referred to as a ": null
+    },
+    {
+        "hyperspherical coordinate system": "N-Spherespherical Coordinates"
+    },
+    {
+        ".         To define a spherical coordinate system, one must choose two orthogonal directions, the zenith and the azimuth reference, and an origin point in space. These choices determine a reference plane that contains the origin and is perpendicular to the zenith. The spherical coordinates of a point  are then defined as follows:     The radius or radial distance is the ": null
+    },
+    {
+        "Euclidean distance": "Euclidean Distance"
+    },
+    {
+        " from the origin  to .   The inclination  is the angle between the zenith direction and the line segment .   The azimuth  is the signed angle measured from the azimuth reference direction to the orthogonal projection of the line segment  on the reference plane.     The sign of the azimuth is determined by choosing what is a positive sense of turning about the zenith. This choice is arbitrary, and is part of the coordinate systems definition.     The elevation angle is 90 degrees  minus the inclination angle.     If the inclination is zero or 180 degrees , the azimuth is arbitrary. If the radius is zero, both azimuth and inclination are arbitrary.     In ": null
+    },
+    {
+        "linear algebra": "Linear Algebra"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "vector": "Euclidean Vector"
+    },
+    {
+        " from the origin  to the point  is often called the  position vector  of P.         Several different conventions exist for representing the three coordinates, and for the order in which they should be written. The use of  to denote radial distance, inclination , and azimuth, respectively, is common practice in physics, and is specified by ": null
+    },
+    {
+        "ISO": "International Organisation For Standardisation"
+    },
+    {
+        " standard ": null
+    },
+    {
+        "80000-2:2009": "Iso 80000-2"
+    },
+    {
+        ", and earlier in ": null
+    },
+    {
+        "ISO 31-11": "Iso 31-11"
+    },
+    {
+        " .     However, some authors use  for inclination and  for azimuth, which provides a logical extension of the usual polar coordinates notation .   Some authors may also list the azimuth before the inclination , and/or use  instead of  for radial distance. Some combinations of these choices result in a ": null
+    },
+    {
+        "left-handed": "Right-Hand Rule"
+    },
+    {
+        " coordinate system. The standard convention  conflicts with the usual notation for the two-dimensional ": null
+    },
+    {
+        "polar coordinates": "Polar Coordinate System"
+    },
+    {
+        ", where  is often used for the azimuth. It may also conflict with the notation used for three-dimensional ": null
+    },
+    {
+        "cylindrical coordinates": "Cylindrical Coordinate System"
+    },
+    {
+        ".        The angles are typically measured in ": null
+    },
+    {
+        "degrees": "Degree"
+    },
+    {
+        " or ": null
+    },
+    {
+        "radians": "Radian"
+    },
+    {
+        " , where 360°    2 rad. Degrees are most common in geography, astronomy, and engineering, whereas radians are commonly used in mathematics and theoretical physics. The unit for radial distance is usually determined by the context.     When the system is used for physical three-space, it is customary to use positive sign for azimuth angles that are measured in the counter-clockwise sense from the reference direction on the reference plane, as seen from the zenith side of the plane. This convention is used, in particular, for geographical coordinates, where the zenith direction is ": null
+    },
+    {
+        "north": "North"
+    },
+    {
+        " and positive azimuth angles are measured eastwards from some ": null
+    },
+    {
+        "prime meridian": "Prime Meridian"
+    },
+    {
+        ".     :   ::Note: easting , northing , upwardness . Local ": null
+    },
+    {
+        "azimuth": "Azimuth"
+    },
+    {
+        " angle would be measured, e.g., ": null
+    },
+    {
+        "counterclockwise": "Counterclockwise"
+    },
+    {
+        " from  to  in the case of .         Any spherical coordinate triplet  specifies a single point of three-dimensional space. On the other hand, every point has infinitely many equivalent spherical coordinates. One can add or subtract any number of full turns to either angular measure without changing the angles themselves, and therefore without changing the point. It is also convenient, in many contexts, to allow negative radial distances, with the convention that  is equivalent to  for any , , and . Moreover,  is equivalent to .     If it is necessary to define a unique set of spherical coordinates for each point, one must restrict their ranges. A common choice is:     :    :    : ": null
+    }
+]

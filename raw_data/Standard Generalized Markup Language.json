@@ -1,0 +1,674 @@
+[
+    {
+        "The Standard Generalized Markup Language  is a standard for defining generalized ": null
+    },
+    {
+        "markup languages": "Markup Language"
+    },
+    {
+        " for documents. ISO 8879 Annex A.1 states that generalized markup is based on two ": null
+    },
+    {
+        "postulates": "Postulate"
+    },
+    {
+        " :   ": null
+    },
+    {
+        "Declarative": "Declarative Programming"
+    },
+    {
+        "databases": "Database"
+    },
+    {
+        "     HTML": "Html"
+    },
+    {
+        " was theoretically an example of an SGML-based language until ": null
+    },
+    {
+        "HTML 5": "Html 5"
+    },
+    {
+        ", which ": null
+    },
+    {
+        "browsers": "Web Browser"
+    },
+    {
+        " cannot parse as SGML for compatibility reasons.     ": null
+    },
+    {
+        "DocBook": "Docbook"
+    },
+    {
+        " SGML and ": null
+    },
+    {
+        "LinuxDoc": "Linuxdoc"
+    },
+    {
+        " are examples which were used almost exclusively with actual SGML tools.       SGML is an ": null
+    },
+    {
+        "ISO": "International Organization For Standardization"
+    },
+    {
+        " standard: ISO 8879:1986 Information processing  – Text and office systems  – Standard Generalized Markup Language , of which there are three versions:     Original SGML, which was accepted in October 1986, followed by a minor Technical Corrigendum.   SGML , in 1996, resulted from a Technical Corrigendum to add extended naming rules allowing arbitrary-language and -script markup.   SGML , in 1998, resulted from a  to better support XML and WWW requirements.     SGML is part of a trio of enabling ISO standards for ": null
+    },
+    {
+        "electronic documents": "Electronic Document"
+    },
+    {
+        " developed by ": null
+    },
+    {
+        "ISO/IEC JTC1/SC34": "Iso/Iec Jtc1/Sc34"
+    },
+    {
+        "   :     SGML —Generalized markup language   SGML was reworked in 1998 into ": null
+    },
+    {
+        "XML": "Xml"
+    },
+    {
+        ", a successful ": null
+    },
+    {
+        "profile": "Profile"
+    },
+    {
+        " of SGML. Full SGML is rarely found or used in new projects.   ": null
+    },
+    {
+        "DSSSL": "Dsssl"
+    },
+    {
+        " —Document processing and styling language based on ": null
+    },
+    {
+        "Scheme": "Scheme"
+    },
+    {
+        ".   DSSSL was reworked into ": null
+    },
+    {
+        "W3C": "W3C"
+    },
+    {
+        " XSLT": "Xslt"
+    },
+    {
+        " and ": null
+    },
+    {
+        "XSL-FO": "Xsl-Fo"
+    },
+    {
+        " which use an XML syntax. Nowadays, DSSSL is rarely used in new projects apart from ": null
+    },
+    {
+        "Linux": "Linux"
+    },
+    {
+        " documentation.   ": null
+    },
+    {
+        "HyTime": "Hytime"
+    },
+    {
+        "—Generalized hypertext and scheduling.   –    HyTime was partially reworked into ": null
+    },
+    {
+        "W3C": "W3C"
+    },
+    {
+        " XLink": "Xlink"
+    },
+    {
+        ". HyTime is rarely used in new projects.     SGML is supported by various technical reports, in particular     ISO/IEC TR 9573  – Information processing  – SGML support facilities  – Techniques for using SGML    Part 13: Public entity sets for mathematics and science   In 2007, the W3C MathML working group agreed to assume the maintenance of these entity sets.       SGML descended from ": null
+    },
+    {
+        "IBMs": "International Business Machines"
+    },
+    {
+        " Generalized Markup Language": "Ibm Generalized Markup Language"
+    },
+    {
+        " , which ": null
+    },
+    {
+        "Charles Goldfarb": "Charles Goldfarb"
+    },
+    {
+        ", Edward Mosher, and Raymond Lorie developed in the 1960s. Goldfarb, editor of the international standard, coined the “GML” term using their surname initials.  Goldfarb also wrote the definitive work on SGML syntax in The SGML Handbook .  The syntax of SGML is closer to the ": null
+    },
+    {
+        "COCOA": "Cocoa"
+    },
+    {
+        " format. As a document markup language, SGML was originally designed to enable the sharing of ": null
+    },
+    {
+        "machine-readable": "Machine-Readable Data"
+    },
+    {
+        " large-project documents in government, law, and industry. Many such documents must remain readable for several decades—a long time in the ": null
+    },
+    {
+        "information technology": "Information Technology"
+    },
+    {
+        " field. SGML also was extensively applied by the military, and the aerospace, technical reference, and industrial publishing industries. The advent of the ": null
+    },
+    {
+        "XML": "Xml"
+    },
+    {
+        " profile has made SGML suitable for widespread application for small-scale, general-purpose use.            SGML defines two kinds of validity. According to the revised Terms and Definitions of ISO 8879 type-valid SGML document is defined by the standard as       An SGML document in which, for each document instance, there is an associated ": null
+    },
+    {
+        "document type declaration": "Document Type Declaration"
+    },
+    {
+        " to whose DTD that instance conforms.       A tag-valid SGML document is defined by the standard as       An SGML document, all of whose document instances are fully tagged. There need not be a ": null
+    },
+    {
+        "document type declaration": "Document Type Declaration"
+    },
+    {
+        " associated with any of the instances. Note: If there is a ": null
+    },
+    {
+        "document type declaration": "Document Type Declaration"
+    },
+    {
+        ", the instance can be parsed with or without reference to it.         Tag-validity was introduced in SGML to support ": null
+    },
+    {
+        "XML": "Xml"
+    },
+    {
+        " which allows documents with no DOCTYPE declaration but which can be parsed without a grammar, or documents which have a DOCTYPE declaration that makes no ": null
+    },
+    {
+        "XML Infoset": "Xml Infoset"
+    },
+    {
+        " contributions to the document. The standard calls this fully tagged. Integrally stored reflects the ": null
+    },
+    {
+        "XML": "Xml"
+    },
+    {
+        " requirement that elements end in the same entity in which they started. Reference-free reflects the ": null
+    },
+    {
+        "HTML": "Html"
+    },
+    {
+        " requirement that entity references are for special characters and do not contain markup. SGML validity commentary, especially commentary that was made before 1997 or that is unaware of SGML , covers type-validity only.     The SGML emphasis on validity supports the requirement for generalized markup that markup should be rigorous.       An SGML document may have three parts:   the SGML Declaration,   the Prologue, containing a DOCTYPE declaration with the various markup declarations that together make a ": null
+    },
+    {
+        "Document Type Definition": "Document Type Definition"
+    },
+    {
+        " , and   the instance itself, containing one top-most element and its contents.     An SGML document may be composed from many ": null
+    },
+    {
+        "entities": "Sgml Entity"
+    },
+    {
+        " . In SGML, the entities and element types used in the document may be specified with a DTD, the different character sets, features, delimiter sets, and keywords are specified in the SGML Declaration to create the concrete syntax of the document.     Although full SGML allows implicit markup and some other kinds of tags, the ": null
+    },
+    {
+        "XML": "Xml"
+    },
+    {
+        " specification states:          For introductory information on a basic, modern SGML syntax, see ": null
+    },
+    {
+        "XML": "Xml"
+    },
+    {
+        ". The following material concentrates on features not in XML and is not a comprehensive summary of SGML syntax.       SGML generalizes and supports a wide range of markup languages as found in the mid 1980s. These ranged from terse ": null
+    },
+    {
+        "Wiki": "Wiki"
+    },
+    {
+        "-like syntaxes to ": null
+    },
+    {
+        "RTF": "Rich Text Format"
+    },
+    {
+        "-like bracketed languages to ": null
+    },
+    {
+        "HTML": "Html"
+    },
+    {
+        "-like matching-tag languages. SGML did this by a relatively simple default reference concrete syntax augmented with a large number of optional features that could be enabled in the SGML Declaration. Not every SGML parser can necessarily process every SGML document. Because each processors System Declaration can be compared to the documents SGML Declaration it is always possible to know whether a document is supported by a particular processor.     Many SGML features relate to markup minimization. Other features relate to ": null
+    },
+    {
+        "concurrent markup": "Concurrent Markup"
+    },
+    {
+        " , to linking processing attributes , and to embedding SGML documents within SGML documents .     The notion of customizable features was not appropriate for Web use, so one goal of ": null
+    },
+    {
+        "XML": "Xml"
+    },
+    {
+        " was to minimize optional features. However, XMLs well-formedness rules cannot support Wiki-like languages, leaving them unstandardized and difficult to integrate with non-text information systems.       The usual SGML concrete syntax resembles this example, which is the default ": null
+    },
+    {
+        "HTML": "Html"
+    },
+    {
+        " concrete syntax:         typically something like this         SGML provides an abstract syntax that can be ": null
+    },
+    {
+        "implemented": "Implementation"
+    },
+    {
+        " in many different types of concrete syntax. Although the markup norm is using ": null
+    },
+    {
+        "angle brackets": "Bracket"
+    },
+    {
+        " as start- and end- tag ": null
+    },
+    {
+        "delimiters": "Delimiter"
+    },
+    {
+        " in an SGML document , it is possible to use other characters—provided a suitable concrete syntax is defined in the documents ": null
+    },
+    {
+        "SGML declaration": "Sgml Declaration"
+    },
+    {
+        ".  For example, an SGML interpreter might be programmed to parse GML, wherein the tags are delimited with a left ": null
+    },
+    {
+        "colon": "Colon"
+    },
+    {
+        " and a right ": null
+    },
+    {
+        "full stop": "Full Stop"
+    },
+    {
+        ", thus, an  prefix denotes an end tag: :xmp.Hello, world:exmp. . According to the reference syntax, letter-case is not distinguished in tag names, thus the three tags: & lt;quote & gt; , & lt;QUOTE & gt; , and & lt;quOtE & gt; are equivalent. .       SGML has features for reducing the number of characters required to mark up a document, which must be enabled in the SGML Declaration. SGML processors need not support every available feature, thus allowing applications to tolerate many types of inadvertent markup omissions; however, SGML systems usually are intolerant of invalid structures. XML is intolerant of syntax omissions, and does not require a DTD for checking well-formedness.       Both start tags and end tags may be omitted from a document instance, provided:   the OMITTAG feature is enabled in the SGML Declaration,   the DTD indicates that the tags are permitted to be omitted,   the element has no associated required attributes, and   the tag can be unambiguously inferred by context.     For example, if OMITTAG YES is specified in the SGML Declaration , and the DTD includes the following declarations:               then this excerpt:       Introduction to SGML   The SGML Declaration     ...       which omits two  tags and two  tags, would represent valid markup.     Note also that omitting tags is optional  – the same excerpt could be tagged like this:       Introduction to SGML   The SGML Declaration     ...       and would still represent valid markup.        Note: The OMITTAG feature is unrelated to the tagging of elements whose declared content is EMPTY as defined in the DTD:           Elements defined like this have no end tag, and specifying one in the document instance would result in invalid markup. This is syntactically different than ": null
+    },
+    {
+        "XML": "Xml"
+    },
+    {
+        " empty elements in this regard.       Tags can be replaced with delimiter strings, for a terser markup, via the SHORTREF feature. This markup style is now associated with ": null
+    },
+    {
+        "wiki markup": "Wiki Markup"
+    },
+    {
+        ", e.g. wherein two equals-signs after that are the “heading end-tag”.       SGML markup languages whose concrete syntax enables the SHORTTAG VALUE feature, do not require attribute values containing only alphanumeric characters to be enclosed within quotation marks—either double or single —so that the previous markup example could be written:         typically something like this         One feature of SGML markup languages is the presumptuous empty tagging , such that the empty end tag & lt;/ & gt; in & lt;ITALICS & gt;this & lt;/ & gt; inherits its value from the nearest previous full start tag, which, in this example, is & lt;ITALICS & gt; . The expression is thus equivalent to & lt;ITALICS & gt;this & lt;/ITALICS & gt; .       Another feature is the NET construction: & lt;ITALICS/this/ , which is structurally equivalent to & lt;ITALICS & gt;this & lt;/ITALICS & gt; .       Additionally, the SHORTTAG NETENABL IMMEDNET feature allows shortening tags surrounding an empty text value, but forbids shortening full tags:             can be written as         —hence the corresponding construct in XML appears as  .     The third feature is text on the same line, allowing a markup item to be ended with a line-end; especially useful for headings and such, requiring using either SHORTREF or DATATAG minimization. For example, if the DTD includes the following declarations:                     , then:         first line   second line         is equivalent to:         first line   second line           SGML has many features that defied convenient description with the popular formal ": null
+    },
+    {
+        "automata theory": "Automata Theory"
+    },
+    {
+        " and the contemporary ": null
+    },
+    {
+        "parser": "Parsing"
+    },
+    {
+        " technology of the 1980s and the 1990s. The standard warns in Annex H:          A report on an early implementation of a parser for basic SGML, the Amsterdam SGML Parser,  notes  and specifies various differences.     There appears to be no definitive classification of full SGML against a known class of ": null
+    },
+    {
+        "formal grammar": "Formal Grammar"
+    },
+    {
+        ". Plausible classes may include ": null
+    },
+    {
+        "tree-adjoining grammars": "Tree-Adjoining Grammar"
+    },
+    {
+        " and ": null
+    },
+    {
+        "adaptive grammars": "Adaptive Grammar"
+    },
+    {
+        ".     XML is described as being generally parsable like a ": null
+    },
+    {
+        "two-level grammar": "Two-Level Grammar"
+    },
+    {
+        " for non-validated XML and a ": null
+    },
+    {
+        "Conway": "Melvin Conway"
+    },
+    {
+        "-style pipeline of ": null
+    },
+    {
+        "coroutines": "Coroutines"
+    },
+    {
+        "  for valid XML.  The SGML productions in the ISO standard are reported to be LL or LL.  XML-class subsets are reported to be expressible using a ": null
+    },
+    {
+        "W-grammar": "W-Grammar"
+    },
+    {
+        ".  According to one paper,  and probably considered at an  information set  or ": null
+    },
+    {
+        "parse tree": "Parse Tree"
+    },
+    {
+        " level rather than a character or delimiter level:          The SGML standard does not define SGML with formal data structures, such as ": null
+    },
+    {
+        "parse trees": "Parse Tree"
+    },
+    {
+        "; however, an SGML document is constructed of a ": null
+    },
+    {
+        "rooted directed acyclic graph": "Directed Graph"
+    },
+    {
+        " of physical storage units known as “": null
+    },
+    {
+        "entities": "Sgml Entity"
+    },
+    {
+        "”, which is parsed into a RDAG of structural units known as “elements”. The physical graph is loosely characterized as an entity tree, but entities might appear multiple times. Moreover, the structure graph is also loosely characterized as an element tree, but the ID/IDREF markup allows arbitrary arcs.     The results of parsing can also be understood as a data tree in different notations; where the document is the root node, and entities in other notations are child nodes. SGML provides apparatus for linking to and annotating external non-SGML entities.     The SGML standard describes it in terms of maps and recognition modes . Each entity, and each element, can have an associated notation or declared content type, which determines the kinds of references and tags which will be recognized in that entity and element. Also, each element can have an associated delimiter map , which determines which characters are treated as delimiters in context. The SGML standard characterizes parsing as a ": null
+    },
+    {
+        "state machine": "State Machine"
+    },
+    {
+        " switching between recognition modes. During parsing, there is a stack of maps that configure the ": null
+    },
+    {
+        "scanner": "Lexical Analysis"
+    },
+    {
+        ", while the ": null
+    },
+    {
+        "tokenizer": "Lexical Analysis"
+    },
+    {
+        " relates to the recognition modes.     Parsing involves traversing the dynamically-retrieved entity graph, finding/implying tags and the element structure, and validating those tags against the grammar. An unusual aspect of SGML is that the grammar is used both passively  — to recognize lexical structures, and actively  — to generate missing structures and tags that the DTD has declared optional. End- and start- tags can be omitted, because they can be inferred. Loosely, a series of tags can be omitted only if there is a single, possible path in the grammar to imply them. It was this active use of grammars that made concrete SGML parsing difficult to formally characterize.     SGML uses the term validation for both recognition and generation. XML does not use the grammar to change delimiter maps or to inform the parse modes, and does not allow ": null
+    },
+    {
+        "tag omission": "Tag Omission"
+    },
+    {
+        "; consequently, XML validation of elements is not active in the sense that SGML validation is active. SGML without a DTD , is a grammar or a language; SGML with a DTD is a ": null
+    },
+    {
+        "metalanguage": "Metalanguage"
+    },
+    {
+        ". SGML with an SGML declaration is, perhaps, a meta-metalanguage, since it is a metalanguage whose declaration mechanism is a metalanguage.     SGML has an abstract syntax implemented by many possible concrete syntaxes; however, this is not the same usage as in an ": null
+    },
+    {
+        "abstract syntax tree": "Abstract Syntax Tree"
+    },
+    {
+        " and as in a ": null
+    },
+    {
+        "concrete syntax tree": "Parse Tree"
+    },
+    {
+        ". In the SGML usage, a concrete syntax is a set of specific delimiters, while the abstract syntax is the set of names for the delimiters. The ": null
+    },
+    {
+        "XML Infoset": "Xml Infoset"
+    },
+    {
+        " corresponds more to the programming language notion of abstract syntax introduced by ": null
+    },
+    {
+        "John McCarthy": "John Mccarthy"
+    },
+    {
+        ".              The ": null
+    },
+    {
+        "W3C": "W3C"
+    },
+    {
+        " XML is a profile of SGML designed to ease the implementation of the parser compared to a full SGML parser, primarily for use on the World Wide Web. In addition to disabling many SGML options present in the reference syntax XML adds a number of additional restrictions on the kinds of SGML syntax. For example, despite enabling SGML shortened tag forms, XML does not allow unclosed start or end tags. It also relied on many of the additions made by the WebSGML Annex. XML currently is more widely used than full SGML. XML has lightweight ": null
+    },
+    {
+        "internationalization": "Internationalization"
+    },
+    {
+        " based on ": null
+    },
+    {
+        "Unicode": "Unicode"
+    },
+    {
+        ". Applications of XML include ": null
+    },
+    {
+        "XHTML": "Xhtml"
+    },
+    {
+        ", ": null
+    },
+    {
+        "XQuery": "Xquery"
+    },
+    {
+        ", ": null
+    },
+    {
+        "XSLT": "Xslt"
+    },
+    {
+        ", ": null
+    },
+    {
+        "XForms": "Xforms"
+    },
+    {
+        ", ": null
+    },
+    {
+        "XPointer": "Xpointer"
+    },
+    {
+        ", ": null
+    },
+    {
+        "JSP": "Javaserver Pages"
+    },
+    {
+        ", ": null
+    },
+    {
+        "SVG": "Svg"
+    },
+    {
+        ", ": null
+    },
+    {
+        "RSS": "Rss"
+    },
+    {
+        ", ": null
+    },
+    {
+        "Atom": "Atom"
+    },
+    {
+        ", ": null
+    },
+    {
+        "XML-RPC": "Xml-Rpc"
+    },
+    {
+        ", ": null
+    },
+    {
+        "RDF/XML": "Rdf/Xml"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "SOAP": "Simple Object Access Protocol"
+    },
+    {
+        ".          While HTML was developed partially independently and in parallel with SGML, its creator, ": null
+    },
+    {
+        "Tim Berners-Lee": "Tim Berners-Lee"
+    },
+    {
+        ", intended it to be an application of SGML. The design of HTML was therefore inspired by SGML tagging, but, since no clear expansion and parsing guidelines were established, most actual HTML documents are not valid SGML documents. Later, HTML was reformulated to be more of an SGML application; however, the HTML markup language has many legacy- and exception-handling features that differ from SGMLs requirements. HTML 4 is an SGML application that fully conforms to ISO 8879  – SGML.      The charter for the 2006 revival of the ": null
+    },
+    {
+        "World Wide Web Consortium": "World Wide Web Consortium"
+    },
+    {
+        " HTML Working Group says, the Group will not assume that an SGML parser is used for classic HTML .  Although HTML syntax closely resembles SGML syntax with the default reference concrete syntax , ": null
+    },
+    {
+        "HTML5": "Html5"
+    },
+    {
+        " abandons any attempt to define HTML as an SGML application, explicitly defining its own parsing rules,  which more closely match existing implementations and documents. It does, however, define an alternative ": null
+    },
+    {
+        "XHTML": "Xhtml"
+    },
+    {
+        " serialization, which conforms to XML and therefore to SGML as well.        The second edition of the  Oxford English Dictionary  is entirely marked up with an SGML-based markup language using the ": null
+    },
+    {
+        "LEXX ": "Lexx"
+    },
+    {
+        "      The third edition is marked up as XML.       Other document markup languages are partly related to SGML and XML, but—because they cannot be parsed or validated or other-wise processed using standard SGML and XML tools—they are not considered either SGML or XML languages; the ": null
+    },
+    {
+        "Z Format": "Z Format"
+    },
+    {
+        " markup language for typesetting and documentation is an example.     Several modern programming languages support tags as primitive token types, or now support Unicode and ": null
+    },
+    {
+        "regular expression": "Regular Expression"
+    },
+    {
+        " pattern-matching. An example is the ": null
+    },
+    {
+        "Scala programming language": "Scala"
+    },
+    {
+        ".       Document markup languages defined using SGML are called applications by the standard; many pre-XML SGML applications were proprietary property of the organizations which developed them, and thus unavailable in the World Wide Web. The following list is of pre-XML SGML applications.     ": null
+    },
+    {
+        "Text Encoding Initiative": "Text Encoding Initiative"
+    },
+    {
+        " is an academic consortium that designs, maintains, and develops technical standards for digital-format textual representation applications.   ": null
+    },
+    {
+        "DocBook": "Docbook"
+    },
+    {
+        " is a markup language originally created as an SGML application, designed for authoring technical documentation; DocBook currently is an XML application.   ": null
+    },
+    {
+        "CALS": "Cals"
+    },
+    {
+        " is a US Department of Defense initiative for electronically capturing military documents and for linking related data and information.   ": null
+    },
+    {
+        "HyTime": "Hytime"
+    },
+    {
+        " defines a set of hypertext-oriented element types that allow SGML document authors to build hypertext and multimedia presentations.   ": null
+    },
+    {
+        "EDGAR": "Edgar"
+    },
+    {
+        " system effects automated collection, validation, indexing, acceptance, and forwarding of submissions, by companies and others, who are legally required to file data and information forms with the US Securities and Exchange Commission .   ": null
+    },
+    {
+        "LinuxDoc": "Linuxdoc"
+    },
+    {
+        ". Documentation for Linux packages has used the LinuxDoc SGML DTD and Docbook XML DTD.   ": null
+    },
+    {
+        "AAP DTD": "Aap Dtd"
+    },
+    {
+        " is a ": null
+    },
+    {
+        "document type definition": "Document Type Definition"
+    },
+    {
+        " for ": null
+    },
+    {
+        "scientific": "Science"
+    },
+    {
+        " documents, defined by the ": null
+    },
+    {
+        "Association of American Publishers": "Association Of American Publishers"
+    },
+    {
+        ".   ": null
+    },
+    {
+        "ISO 12083": "Iso 12083"
+    },
+    {
+        ", a successor to AAP DTP, is an international SGML standard for document interchange between authors and publishers.   ": null
+    },
+    {
+        "SGMLguid": "Sgmlguid"
+    },
+    {
+        " was an early SGML document type definition created, developed and used at ": null
+    },
+    {
+        "CERN": "Cern"
+    },
+    {
+        ".        Significant ": null
+    },
+    {
+        "open-source": "Open Source Software"
+    },
+    {
+        " implementations of SGML have included:    , by Standard Generalized Markup Language Users, 1991, C language   , by James Clark, 1993, C language   , by Yuan-ze Institute of Technology, Taiwan, with Charles Goldfarb, 1994, object    by James Clark, C++ language     SP and Jade, the associated DSSSL processors, are maintained by the  project, and are common parts of Linux distributions. A general archive of SGML software and materials resides at ": null
+    }
+]

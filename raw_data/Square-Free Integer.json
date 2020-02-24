@@ -1,0 +1,239 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        ", a square-free integer  is an ": null
+    },
+    {
+        "integer": "Integer"
+    },
+    {
+        " which is ": null
+    },
+    {
+        "divisible": "Divisor"
+    },
+    {
+        " by no ": null
+    },
+    {
+        "perfect square": "Square Number"
+    },
+    {
+        " other than 1. That is, its ": null
+    },
+    {
+        "prime factorization": "Prime Factorization"
+    },
+    {
+        " has exactly one factor for each prime that appears in it. For example,  is square-free, but  is not, because 18 is divisible by . The smallest positive square-free numbers are     :1, 2, 3, 5, 6, 7, 10, 11, 13, 14, 15, 17, 19, 21, 22, 23, 26, 29, 30, 31, 33, 34, 35, 37, 38, 39, ...        The ": null
+    },
+    {
+        "radical of an integer": "Radical Of An Integer"
+    },
+    {
+        " is its largest square-free factor. An integer is square-free ": null
+    },
+    {
+        "if and only if": "If And Only If"
+    },
+    {
+        " it is equal to its radical.     Any arbitrary positive integer  can be represented in a unique way as the product of a ": null
+    },
+    {
+        "powerful number": "Powerful Number"
+    },
+    {
+        " and a square-free integer, which are ": null
+    },
+    {
+        "coprime": "Coprime"
+    },
+    {
+        ". The square-free factor, called the square-free part of the number, is the largest square-free divisor  of  that is coprime with . The square-free part of an integer may be smaller than the largest square-free divisor.     Any arbitrary positive integer  can be represented in a unique way as the product of a ": null
+    },
+    {
+        "square": "Square"
+    },
+    {
+        " and a square-free integer:   : nm2 k   In this factorization,  is the largest divisor of  such that  is a divisor of .     In summary, there are three square-free factors that are naturally associated to every integer: the square-free part, the above factor , and the largest square-free factor. Each is a factor of the next one. All are easily deduced from a ": null
+    },
+    {
+        "prime factorization": "Prime Factorization"
+    },
+    {
+        ", where p1,   ph are distinct prime numbers, then the square-free part is   :   pi,   The square-free factor such the quotient is a square is   :   pi,   and the largest square-free factor is   :   pi.     For example, if n7560024  33  52  7, the square-free part is , the square-free factor such that the quotient is a square is , and the largest square-free factor is .     No algorithm is known for computing any of these square-free factors which is faster than computing the complete prime factorization. In particular, there is no known ": null
+    },
+    {
+        "polynomial-time": "Polynomial-Time"
+    },
+    {
+        " algorithm for computing the square-free part of an integer, nor even for ": null
+    },
+    {
+        "determining": "Decision Problem"
+    },
+    {
+        " whether an integer is square-free.  In contrast, polynomial-time algorithms are known for ": null
+    },
+    {
+        "primality testing": "Primality Testing"
+    },
+    {
+        ".  This is a major difference between the arithmetic of the integers, and the arithmetic of the ": null
+    },
+    {
+        "univariate polynomials": "Univariate Polynomial"
+    },
+    {
+        ", as polynomial-time algorithms are known for ": null
+    },
+    {
+        "square-free factorization": "Square-Free Factorization"
+    },
+    {
+        " of polynomials .        A positive integer n is square-free if and only if in the ": null
+    },
+    {
+        "prime factorization": "Canonical Representation Of A Positive Integer"
+    },
+    {
+        " of n, no prime factor occurs with an exponent larger than one. Another way of stating the same is that for every prime ": null
+    },
+    {
+        "factor": "Divisor"
+    },
+    {
+        " p of n, the prime p does not evenly divide  n  /  p. Also n is square-free if and only if in every factorization n    ab, the factors a and b are ": null
+    },
+    {
+        "coprime": "Coprime"
+    },
+    {
+        ". An immediate result of this definition is that all prime numbers are square-free.     A positive integer n is square-free if and only if all ": null
+    },
+    {
+        "abelian groups": "Abelian Group"
+    },
+    {
+        " of ": null
+    },
+    {
+        "order": "Order"
+    },
+    {
+        " n are ": null
+    },
+    {
+        "isomorphic": "Group Isomorphism"
+    },
+    {
+        ", which is the case if and only if any such group is ": null
+    },
+    {
+        "cyclic": "Cyclic Group"
+    },
+    {
+        ". This follows from the classification of ": null
+    },
+    {
+        "finitely generated abelian groups": "Finitely Generated Abelian Group"
+    },
+    {
+        ".     A integer n is square-free if and only if the ": null
+    },
+    {
+        "factor ring": "Factor Ring"
+    },
+    {
+        " Z  /  nZ  is a ": null
+    },
+    {
+        "product": "Product Of Rings"
+    },
+    {
+        " of ": null
+    },
+    {
+        "fields": "Field"
+    },
+    {
+        ". This follows from the ": null
+    },
+    {
+        "Chinese remainder theorem": "Chinese Remainder Theorem"
+    },
+    {
+        " and the fact that a ring of the form Z  /  kZ is a field if and only if k is a prime.     For every positive integer n, the set of all positive divisors of n becomes a ": null
+    },
+    {
+        "partially ordered set": "Partially Ordered Set"
+    },
+    {
+        " if we use ": null
+    },
+    {
+        "divisibility": "Divisor"
+    },
+    {
+        " as the order relation. This partially ordered set is always a ": null
+    },
+    {
+        "distributive lattice": "Distributive Lattice"
+    },
+    {
+        ". It is a ": null
+    },
+    {
+        "Boolean algebra": "Boolean Algebra"
+    },
+    {
+        " if and only if n is square-free.     A positive integer n is square-free ": null
+    },
+    {
+        "if and only if": "If And Only If"
+    },
+    {
+        "  & mu;  ≠  0, where μ denotes the ": null
+    },
+    {
+        "Möbius function": "Möbius Function"
+    },
+    {
+        ".       The absolute value of the Möbius function is the ": null
+    },
+    {
+        "indicator function": "Indicator Function"
+    },
+    {
+        " for the square-free integers   that is,  is equal to 1 if  is square-free, and 0 if it is not. The ": null
+    },
+    {
+        "Dirichlet series": "Dirichlet Series"
+    },
+    {
+        " of this indicator function is   :       where  is the ": null
+    },
+    {
+        "Riemann zeta function": "Riemann Zeta Function"
+    },
+    {
+        ". This follows from the ": null
+    },
+    {
+        "Euler product": "Euler Product"
+    },
+    {
+        "   :       ,   where the products are taken over the prime numbers.       Let Q denote the number of square-free integers between 1 and x . For large n, 3/4 of the positive integers less than n are not divisible by 4, 8/9 of these numbers are not divisible by 9, and so on. Because these ratios satisfy the ": null
+    },
+    {
+        "multiplicative property": "Multiplicative Function"
+    },
+    {
+        " , we obtain the approximation:     :   &   x    x      &   x              This argument can be made rigorous for getting the estimate      : Q   + O      Sketch of a proof: the above characterization gives   : Q            observing that the last summand is zero for d /math math ": null
+    }
+]

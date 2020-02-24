@@ -1,0 +1,284 @@
+[
+    {
+        "In ": null
+    },
+    {
+        "numerical analysis": "Numerical Analysis"
+    },
+    {
+        ", Newtons method, also known as the Newton–Raphson method, named after ": null
+    },
+    {
+        "Isaac Newton": "Isaac Newton"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Joseph Raphson": "Joseph Raphson"
+    },
+    {
+        ", is a ": null
+    },
+    {
+        "root-finding algorithm": "Root-Finding Algorithm"
+    },
+    {
+        " which produces successively better ": null
+    },
+    {
+        "approximations": "Numerical Analysis"
+    },
+    {
+        " to the ": null
+    },
+    {
+        "roots": "Root Of A Function"
+    },
+    {
+        " of a ": null
+    },
+    {
+        "real": "Real Number"
+    },
+    {
+        "-valued ": null
+    },
+    {
+        "function": "Function"
+    },
+    {
+        ". The most basic version starts with a single-variable function  defined for a ": null
+    },
+    {
+        "real variable": "Real Number"
+    },
+    {
+        " , the functions ": null
+    },
+    {
+        "derivative": "Derivative"
+    },
+    {
+        " , and an initial guess  for a ": null
+    },
+    {
+        "root": "Zeroofafunction"
+    },
+    {
+        " of . If the function satisfies sufficient assumptions and the initial guess is close, then     : x x0 -         is a better approximation of the root than . Geometrically,  is the intersection of the -axis and the ": null
+    },
+    {
+        "tangent": "Tangent"
+    },
+    {
+        " of the ": null
+    },
+    {
+        "graph": "Graph Of A Function"
+    },
+    {
+        " of  at ": null
+    },
+    {
+        "linear approximation": "Linear Approximation"
+    },
+    {
+        " at the initial point. The process is repeated as     : x xn -         until a sufficiently precise value is reached. This algorithm is first in the class of ": null
+    },
+    {
+        "Householders methods": "Householders Method"
+    },
+    {
+        ", succeeded by ": null
+    },
+    {
+        "Halleys method": "Halleys Method"
+    },
+    {
+        ". The method can also be extended to ": null
+    },
+    {
+        "complex functions": "Complex-Valued Function"
+    },
+    {
+        " and to ": null
+    },
+    {
+        "systems of equations": "Systems Of Equations"
+    },
+    {
+        ".               The idea is to start with an initial guess which is reasonably close to the true root, then to approximate the function by its ": null
+    },
+    {
+        "tangent line": "Tangent Line"
+    },
+    {
+        " using ": null
+    },
+    {
+        "calculus": "Calculus"
+    },
+    {
+        ", and finally to compute the -intercept of this tangent line by ": null
+    },
+    {
+        "elementary algebra": "Elementary Algebra"
+    },
+    {
+        ". This -intercept will typically be a better approximation to the original functions root than the first guess, and the method can be ": null
+    },
+    {
+        "iterated": "Iterative Method"
+    },
+    {
+        ".     More formally, suppose  is a ": null
+    },
+    {
+        "differentiable": "Derivative"
+    },
+    {
+        " function defined on the ": null
+    },
+    {
+        "interval": "Interval"
+    },
+    {
+        "  with values in the ": null
+    },
+    {
+        "real numbers": "Real Number"
+    },
+    {
+        "  , and we have some current approximation . Then we can derive the formula for a better approximation,  by referring to the diagram on the right. The equation of the ": null
+    },
+    {
+        "tangent line": "Tangent Line"
+    },
+    {
+        " to the curve  at  is     : y f   + f,     where  denotes the ": null
+    },
+    {
+        "derivative": "Derivative"
+    },
+    {
+        ". The -intercept of this line  is taken as the next approximation, , to the root, so that the equation of the tangent line is satisfied when :     : 0 f   + f.     Solving for  gives   : x xn -       We start the process with some arbitrary initial value .  The method will usually converge, provided this initial guess is close enough to the unknown zero, and that . Furthermore, for a zero of ": null
+    },
+    {
+        "multiplicity": "Multiplicity"
+    },
+    {
+        "  1, the convergence is at least quadratic  in a ": null
+    },
+    {
+        "neighbourhood": "Neighbourhood"
+    },
+    {
+        " of the zero, which intuitively means that the number of correct digits roughly doubles in every step. More details can be found in the ": null
+    },
+    {
+        "analysis section": "Analysis"
+    },
+    {
+        " below.     ": null
+    },
+    {
+        "Householders methods": "Householders Method"
+    },
+    {
+        " are similar but have higher order for even faster convergence. However, the extra computations required for each step can slow down the overall performance relative to Newtons method, particularly if  or its derivatives are computationally expensive to evaluate.       The name Newtons method is derived from ": null
+    },
+    {
+        "Isaac Newtons": "Isaac Newton"
+    },
+    {
+        " description of a special case of the method in  De analysi per aequationes numero terminorum infinitas   and in De metodis fluxionum et serierum infinitarum . However, his method differs substantially from the modern method given above: Newton applies the method only to polynomials. He does not compute the successive approximations , but computes a sequence of polynomials, and only at the end arrives at an approximation for the root . Finally, Newton views the method as purely algebraic and makes no mention of the connection with calculus. Newton may have derived his method from a similar but less precise method by ": null
+    },
+    {
+        "Vieta": "Franciscus Vieta"
+    },
+    {
+        ". The essence of Vietas method can be found in the work of the ": null
+    },
+    {
+        "Persian mathematician": "Mathematics In Medieval Islam"
+    },
+    {
+        " Sharaf al-Din al-Tusi": "Sharaf Al-Din Al-Tusi"
+    },
+    {
+        ", while his successor ": null
+    },
+    {
+        "Jamshīd al-Kāshī": "Jamshīd Al-Kāshī"
+    },
+    {
+        " used a form of Newtons method to solve  to find roots of  . A special case of Newtons method for calculating square roots was known since ancient times and is often called the ": null
+    },
+    {
+        "Babylonian method": "Babylonian Method"
+    },
+    {
+        ".     Newtons method was used by 17th-century Japanese mathematician ": null
+    },
+    {
+        "Seki Kōwa": "Seki Kōwa"
+    },
+    {
+        " to solve single-variable equations, though the connection with calculus was missing.       Newtons method was first published in 1685 in A Treatise of Algebra both Historical and Practical by ": null
+    },
+    {
+        "John Wallis": "John Wallis"
+    },
+    {
+        ".  In 1690, ": null
+    },
+    {
+        "Joseph Raphson": "Joseph Raphson"
+    },
+    {
+        " published a simplified description in Analysis aequationum universalis.  Raphson again viewed Newtons method purely as an algebraic method and restricted its use to polynomials, but he describes the method in terms of the successive approximations  instead of the more complicated sequence of polynomials used by Newton. Finally, in 1740, ": null
+    },
+    {
+        "Thomas Simpson": "Thomas Simpson"
+    },
+    {
+        " described Newtons method as an iterative method for solving general nonlinear equations using calculus, essentially giving the description above. In the same publication, Simpson also gives the generalization to systems of two equations and notes that Newtons method can be used for solving optimization problems by setting the gradient to zero.     ": null
+    },
+    {
+        "Arthur Cayley": "Arthur Cayley"
+    },
+    {
+        " in 1879 in The Newton–Fourier imaginary problem was the first to notice the difficulties in generalizing Newtons method to complex roots of polynomials with degree greater than 2 and complex initial values. This opened the way to the study of the ": null
+    },
+    {
+        "theory of iterations": "Julia Set"
+    },
+    {
+        " of rational functions.       Newtons method is an extremely powerful technique—in general the ": null
+    },
+    {
+        "convergence": "Rate Of Convergence"
+    },
+    {
+        " is quadratic: as the method converges on the root, the difference between the root and the approximation is squared at each step. However, there are some difficulties with the method.       Newtons method requires that the derivative can be calculated directly. An analytical expression for the derivative may not be easily obtainable or could be expensive to evaluate. In these situations, it may be appropriate to approximate the derivative by using the slope of a line through two nearby points on the function. Using this approximation would result in something like the ": null
+    },
+    {
+        "secant method": "Secant Method"
+    },
+    {
+        " whose convergence is slower than that of Newtons method.       It is important to review the ": null
+    },
+    {
+        "proof of quadratic convergence": "Proof Of Quadratic Convergence For Newtons Iterative Method"
+    },
+    {
+        " of Newtons Method before implementing it. Specifically, one should review the assumptions made in the proof. For ": null
+    },
+    {
+        "situations where the method fails to converge": "Failure Analysis"
+    },
+    {
+        ", it is because the assumptions made in this proof are not met.       If the first derivative is not well behaved in the neighborhood of a particular root, the method may overshoot, and diverge from that root. An example of a function with one root, for which the derivative is not well behaved in the neighborhood of the root, is     : f|x|a,  0 ": null
+    }
+]

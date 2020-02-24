@@ -1,0 +1,668 @@
+[
+    {
+        "        The RGB color model is an ": null
+    },
+    {
+        "additive": "Additive Color"
+    },
+    {
+        " color model": "Color Model"
+    },
+    {
+        " in which ": null
+    },
+    {
+        "red": "Red"
+    },
+    {
+        ", ": null
+    },
+    {
+        "green": "Green"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "blue": "Blue"
+    },
+    {
+        " light are added together in various ways to reproduce a broad array of ": null
+    },
+    {
+        "colors": "Color"
+    },
+    {
+        ". The name of the model comes from the initials of the three ": null
+    },
+    {
+        "additive primary colors": "Additive Primary Colors"
+    },
+    {
+        ", red, green, and blue.     The main purpose of the RGB color model is for the sensing, representation, and display of images in electronic systems, such as televisions and computers, though it has also been used in conventional ": null
+    },
+    {
+        "photography": "Photography"
+    },
+    {
+        ". Before the ": null
+    },
+    {
+        "electronic age": "Electronic Age"
+    },
+    {
+        ", the RGB color model already had a solid theory behind it, based in ": null
+    },
+    {
+        "human perception of colors": "Trichromacy"
+    },
+    {
+        ".     RGB is a device-dependent color model: different devices detect or reproduce a given RGB value differently, since the color elements  and their response to the individual R, G, and B levels vary from manufacturer to manufacturer, or even in the same device over time. Thus an RGB value does not define the same color across devices without some kind of ": null
+    },
+    {
+        "color management": "Color Management"
+    },
+    {
+        ".     Typical RGB input devices are color ": null
+    },
+    {
+        "TV and video cameras": "Professional Video Camera"
+    },
+    {
+        ", ": null
+    },
+    {
+        "image scanners": "Image Scanner"
+    },
+    {
+        ", and ": null
+    },
+    {
+        "digital cameras": "Digital Camera"
+    },
+    {
+        ". Typical RGB output devices are TV sets of various technologies , ": null
+    },
+    {
+        "computer": "Computer Display"
+    },
+    {
+        " and ": null
+    },
+    {
+        "mobile phone": "Mobile Phone"
+    },
+    {
+        " displays, ": null
+    },
+    {
+        "video projectors": "Video Projector"
+    },
+    {
+        ", multicolor ": null
+    },
+    {
+        "LED": "Light-Emitting Diode"
+    },
+    {
+        " displays and large screens such as ": null
+    },
+    {
+        "Jumbotron": "Jumbotron"
+    },
+    {
+        ". ": null
+    },
+    {
+        "Color printers": "Printer"
+    },
+    {
+        ", on the other hand are not RGB devices, but ": null
+    },
+    {
+        "subtractive color": "Subtractive Color"
+    },
+    {
+        " devices .     This article discusses concepts common to all the different color spaces that use the RGB color model, which are used in one implementation or another in color image-producing technology.                 To form a color with RGB, three light beams must be superimposed . Each of the three beams is called a component of that color, and each of them can have an arbitrary intensity, from fully off to fully on, in the mixture.     The RGB color model is additive in the sense that the three light beams are added together, and their light spectra add, wavelength for wavelength, to make the final colors spectrum.   This is essentially opposite to the ": null
+    },
+    {
+        "subtractive color": "Subtractive Color"
+    },
+    {
+        " model, particularly the ": null
+    },
+    {
+        "CMY color model": "Cmy Color Model"
+    },
+    {
+        ", that applies to paints, inks, dyes, and other substances whose color depends on reflecting the light under which we see them. Because of properties, these three colors create white, this is in stark contrast to physical colors, such as ": null
+    },
+    {
+        "dyes": "Dye"
+    },
+    {
+        " which create black when mixed.     Zero intensity for each component gives the darkest color , and full intensity of each gives a ": null
+    },
+    {
+        "white": "White"
+    },
+    {
+        "; the quality of this white depends on the nature of the primary light sources, but if they are properly balanced, the result is a neutral white matching the systems ": null
+    },
+    {
+        "white point": "White Point"
+    },
+    {
+        ". When the intensities for all the components are the same, the result is a shade of gray, darker or lighter depending on the intensity. When the intensities are different, the result is a colorized ": null
+    },
+    {
+        "hue": "Hue"
+    },
+    {
+        ", more or less ": null
+    },
+    {
+        "saturated": "Saturation"
+    },
+    {
+        " depending on the difference of the strongest and weakest of the intensities of the primary colors employed.     When one of the components has the strongest intensity, the color is a hue near this primary color , and when two components have the same strongest intensity, then the color is a hue of a ": null
+    },
+    {
+        "secondary color": "Secondary Color"
+    },
+    {
+        " . A secondary color is formed by the sum of two primary colors of equal intensity: cyan is green+blue, magenta is blue+red, and yellow is red+green. Every secondary color is the complement of one primary color; when a primary and its complementary secondary color are added together, the result is white: cyan complements red, magenta complements green, and yellow complements blue.     The RGB ": null
+    },
+    {
+        "color model": "Color Model"
+    },
+    {
+        " itself does not define what is meant by red, green, and blue colorimetrically, and so the results of mixing them are not specified as absolute, but relative to the primary colors. When the exact ": null
+    },
+    {
+        "chromaticities": "Chromaticity"
+    },
+    {
+        " of the red, green, and blue primaries are defined, the color model then becomes an ": null
+    },
+    {
+        "absolute color space": "Absolute Color Space"
+    },
+    {
+        ", such as ": null
+    },
+    {
+        "sRGB": "Srgb Color Space"
+    },
+    {
+        " or ": null
+    },
+    {
+        "Adobe RGB": "Adobe Rgb Color Space"
+    },
+    {
+        "; see ": null
+    },
+    {
+        "RGB color spaces": "Rgb Color Spaces"
+    },
+    {
+        " for more details.            The choice of primary colors is related to the physiology of the ": null
+    },
+    {
+        "human eye": "Human Eye"
+    },
+    {
+        "; good primaries are stimuli that maximize the difference between the responses of the ": null
+    },
+    {
+        "cone cells": "Cone Cell"
+    },
+    {
+        " of the human retina to light of different ": null
+    },
+    {
+        "wavelengths": "Wavelength"
+    },
+    {
+        ", and that thereby make a large ": null
+    },
+    {
+        "color triangle": "Color Triangle"
+    },
+    {
+        ".      The normal three kinds of light-sensitive ": null
+    },
+    {
+        "photoreceptor cells": "Photoreceptor Cell"
+    },
+    {
+        " in the human eye respond most to yellow , green , and violet light . The difference in the signals received from the three kinds allows the brain to differentiate a wide ": null
+    },
+    {
+        "gamut": "Gamut"
+    },
+    {
+        " of different colors, while being most sensitive to yellowish-green light and to differences between ": null
+    },
+    {
+        "hues": "Hue"
+    },
+    {
+        " in the green-to-orange region.     As an example, suppose that light in the orange range of wavelengths enters the eye and strikes the retina. Light of these wavelengths would activate both the medium and long wavelength cones of the retina, but not equally—the long-wavelength cells will respond more. The difference in the response can be detected by the brain, and this difference is the basis of our perception of orange. Thus, the orange appearance of an object results from light from the object entering our eye and stimulating the different cones simultaneously but to different degrees.     Use of the three primary colors is not sufficient to reproduce all colors; only colors within the ": null
+    },
+    {
+        "color triangle": "Color Triangle"
+    },
+    {
+        " defined by the ": null
+    },
+    {
+        "chromaticities": "Chromaticity"
+    },
+    {
+        " of the primaries can be reproduced by additive mixing of non-negative amounts of those colors of light.             The RGB color model is based on the ": null
+    },
+    {
+        "Young–Helmholtz theory": "Young–Helmholtz Theory"
+    },
+    {
+        " of ": null
+    },
+    {
+        "trichromatic color vision": "Trichromacy"
+    },
+    {
+        ", developed by ": null
+    },
+    {
+        "Thomas Young": "Thomas Young"
+    },
+    {
+        " and ": null
+    },
+    {
+        "Hermann von Helmholtz": "Hermann Von Helmholtz"
+    },
+    {
+        " in the early to mid-nineteenth century, and on ": null
+    },
+    {
+        "James Clerk Maxwells": "James Clerk Maxwell"
+    },
+    {
+        " color triangle": "Color Triangle"
+    },
+    {
+        " that elaborated that theory .              The first experiments with RGB in early ": null
+    },
+    {
+        "color photography": "Color Photography"
+    },
+    {
+        " were made in 1861 by Maxwell himself, and involved the process of combining three color-filtered separate takes.  To reproduce the color photograph, three matching projections over a screen in a dark room were necessary.     The additive RGB model and variants such as orange–green–violet were also used in the ": null
+    },
+    {
+        "Autochrome Lumière": "Autochrome Lumière"
+    },
+    {
+        " color plates and other screen-plate technologies such as the ": null
+    },
+    {
+        "Joly color screen": "Joly Color Screen"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Paget process": "Paget Process"
+    },
+    {
+        " in the early twentieth century. Color photography by taking three separate plates was used by other pioneers, such as the Russian ": null
+    },
+    {
+        "Sergey Prokudin-Gorsky": "Sergey Prokudin-Gorsky"
+    },
+    {
+        " in the period 1909 through 1915.  Library of Congress. Such methods lasted until about 1960 using the expensive and extremely complex ": null
+    },
+    {
+        "tri-color carbro": "Carbon Print"
+    },
+    {
+        " Autotype": "Autotype"
+    },
+    {
+        " process.      When employed, the reproduction of prints from three-plate photos was done by dyes or pigments using the complementary ": null
+    },
+    {
+        "CMY": "Cmyk Color Model"
+    },
+    {
+        " model, by simply using the negative plates of the filtered takes: reverse red gives the cyan plate, and so on.         Before the development of practical electronic TV, there were patents on mechanically scanned color systems as early as 1889 in ": null
+    },
+    {
+        "Russia": "Russian Empire"
+    },
+    {
+        ". The ": null
+    },
+    {
+        "color TV": "Color Television"
+    },
+    {
+        " pioneer ": null
+    },
+    {
+        "John Logie Baird": "John Logie Baird"
+    },
+    {
+        " demonstrated the worlds first RGB color transmission in 1928, and also the worlds first color broadcast in 1938, in ": null
+    },
+    {
+        "London": "London"
+    },
+    {
+        ". In his experiments, scanning and display were done mechanically by spinning colorized wheels. John Logie Baird, , U.S. patent, filed in U.K. in 1928. Baird Television: . Previous color television demonstrations in the U.K. and U.S. had been via closed circuit.     The ": null
+    },
+    {
+        "Columbia Broadcasting System ": "Cbs"
+    },
+    {
+        " began an experimental RGB ": null
+    },
+    {
+        "field-sequential color system": "Field-Sequential Color System"
+    },
+    {
+        " in 1940. Images were scanned electrically, but the system still used a moving part: the transparent RGB color wheel rotating at above 1,200 rpm in synchronism with the vertical scan. The camera and the ": null
+    },
+    {
+        "cathode-ray tube": "Cathode-Ray Tube"
+    },
+    {
+        " were both ": null
+    },
+    {
+        "monochromatic": "Monochromatic"
+    },
+    {
+        ". Color was provided by color wheels in the camera and the receiver.  , Wall Street Journal, Sept. 5, 1940, p. 1.    More recently, color wheels have been used in field-sequential projection TV receivers based on the Texas Instruments monochrome DLP imager.     The modern RGB ": null
+    },
+    {
+        "shadow mask": "Shadow Mask"
+    },
+    {
+        " technology for color CRT displays was patented by Werner Flechsig in Germany in 1938.          Early ": null
+    },
+    {
+        "personal computers": "Personal Computer"
+    },
+    {
+        " of the late 1970s and early 1980s, such as those from ": null
+    },
+    {
+        "Apple": "Apple Ii Series"
+    },
+    {
+        ", and Commodores ": null
+    },
+    {
+        "Commodore VIC-20": "Commodore Vic-20"
+    },
+    {
+        ", used ": null
+    },
+    {
+        "composite video": "Composite Video"
+    },
+    {
+        " whereas the ": null
+    },
+    {
+        "Commodore 64": "Commodore 64"
+    },
+    {
+        " and the ": null
+    },
+    {
+        "Atari family": "Atari 8-Bit Family"
+    },
+    {
+        " used ": null
+    },
+    {
+        "S-Video": "S-Video"
+    },
+    {
+        " derivatives. ": null
+    },
+    {
+        "IBM": "Ibm"
+    },
+    {
+        " introduced a 16-color scheme with the ": null
+    },
+    {
+        "Color Graphics Adapter": "Color Graphics Adapter"
+    },
+    {
+        " for its first ": null
+    },
+    {
+        "IBM PC": "Ibm Pc"
+    },
+    {
+        " , later improved with the ": null
+    },
+    {
+        "Enhanced Graphics Adapter": "Enhanced Graphics Adapter"
+    },
+    {
+        " in 1984. The first manufacturer of a ": null
+    },
+    {
+        "truecolor": "24-Bit Color"
+    },
+    {
+        " graphics card for PCs was ": null
+    },
+    {
+        "Truevision": "Truevision"
+    },
+    {
+        " in 1987, but it was not until the arrival of the ": null
+    },
+    {
+        "Video Graphics Array": "Video Graphics Array"
+    },
+    {
+        " in 1987 that RGB became popular, mainly due to the ": null
+    },
+    {
+        "analog signals": "Analog Signal"
+    },
+    {
+        " in the connection between the adapter and the ": null
+    },
+    {
+        "monitor": "Computer Display"
+    },
+    {
+        " which allowed a very wide range of RGB colors. Actually, it had to wait a few more years because the original VGA cards were palette-driven just like EGA, although with more freedom than VGA, but because the VGA connectors were analog, later variants of VGA eventually added true-color. In 1992, magazines heavily advertised true-color Super VGA hardware.                           One common application of the RGB color model is the display of colors on a ": null
+    },
+    {
+        "cathode ray tube": "Cathode Ray Tube"
+    },
+    {
+        " , ": null
+    },
+    {
+        "liquid-crystal display": "Liquid-Crystal Display"
+    },
+    {
+        " , ": null
+    },
+    {
+        "plasma display": "Plasma Display"
+    },
+    {
+        ", or ": null
+    },
+    {
+        "organic light emitting diode": "Oled"
+    },
+    {
+        " display such as a television, a computers monitor, or a large scale screen. Each ": null
+    },
+    {
+        "pixel": "Pixel"
+    },
+    {
+        " on the screen is built by driving three small and very close but still separated RGB light sources. At common viewing distance, the separate sources are indistinguishable, which tricks the eye to see a given solid color. All the pixels together arranged in the rectangular screen surface conforms the color image.     During ": null
+    },
+    {
+        "digital image processing": "Digital Image Processing"
+    },
+    {
+        " each pixel can be represented in the ": null
+    },
+    {
+        "computer memory": "Computer Memory"
+    },
+    {
+        " or interface hardware  as ": null
+    },
+    {
+        "binary": "Binary Number"
+    },
+    {
+        " values for the red, green, and blue color components. When properly managed, these values are converted into intensities or voltages via ": null
+    },
+    {
+        "gamma correction": "Gamma Correction"
+    },
+    {
+        " to correct the inherent nonlinearity of some devices, such that the intended intensities are reproduced on the display.     The ": null
+    },
+    {
+        "Quattron": "Quattron"
+    },
+    {
+        " released by Sharp uses RGB color and adds yellow as a sub-pixel, supposedly allowing an increase in the number of available colors.         RGB is also the term referring to a type of ": null
+    },
+    {
+        "component video": "Component Video"
+    },
+    {
+        " signal used in the ": null
+    },
+    {
+        "video": "Video"
+    },
+    {
+        " electronics industry. It consists of three signals—red, green, and blue—carried on three separate cables/pins. RGB signal formats are often based on modified versions of the RS-170 and RS-343 standards for monochrome video. This type of video signal is widely used in ": null
+    },
+    {
+        "Europe": "Europe"
+    },
+    {
+        " since it is the best quality signal that can be carried on the standard ": null
+    },
+    {
+        "SCART": "Scart"
+    },
+    {
+        " connector. This signal is known as ": null
+    },
+    {
+        "RGBS": "Rgbs"
+    },
+    {
+        " , but it is directly compatible with ": null
+    },
+    {
+        "RGBHV": "Rgbhv"
+    },
+    {
+        " used for computer monitors , which carries separate horizontal and vertical sync signals.     Outside Europe, RGB is not very popular as a video signal format; ": null
+    },
+    {
+        "S-Video": "S-Video"
+    },
+    {
+        " takes that spot in most non-European regions. However, almost all computer monitors around the world use RGB.         A ": null
+    },
+    {
+        "framebuffer": "Framebuffer"
+    },
+    {
+        " is a digital device for computers which stores data in the so-called video memory . This data goes either to three ": null
+    },
+    {
+        "digital-to-analog converters": "Digital-To-Analog Converter"
+    },
+    {
+        " , one per primary color or directly to digital monitors. Driven by ": null
+    },
+    {
+        "software": "Software"
+    },
+    {
+        ", the ": null
+    },
+    {
+        "CPU": "Central Processing Unit"
+    },
+    {
+        " write the appropriate ": null
+    },
+    {
+        "bytes": "Byte"
+    },
+    {
+        " into the video memory to define the image. Modern systems encode pixel color values by devoting eight ": null
+    },
+    {
+        "bits": "Bit"
+    },
+    {
+        " to each of the R, G, and B components. RGB information can be either carried directly by the pixel bits themselves or provided by a separate  color look-up table  if ": null
+    },
+    {
+        "indexed color": "Indexed Color"
+    },
+    {
+        " graphic modes are used.     A CLUT is a specialized ": null
+    },
+    {
+        "RAM": "Random-Access Memory"
+    },
+    {
+        " that stores R, G, and B values that define specific colors. Each color has its own address —consider it as a descriptive reference number that provides that specific color when the image needs it. The content of the CLUT is much like a palette of colors. Image data that uses indexed color specifies addresses within the CLUT to provide the required R, G, and B values for each specific pixel, one pixel at a time. Of course, before displaying, the CLUT has to be loaded with R, G, and B values that define the palette of colors required for each image to be rendered. Some video applications store such palettes in ": null
+    },
+    {
+        "PAL files": "Pal File"
+    },
+    {
+        "  and can combine CLUTs on screen.     ;RGB24 and RGB32   This indirect scheme restricts the number of available colors in an image CLUT—typically 256-cubed —although each color in the RGB24 CLUT table has only 8 bits representing 256 codes for each of the R, G, and B primaries ": null
+    },
+    {
+        "combinatorial math theory": "Rule Of Product"
+    },
+    {
+        " says this means that any given color can be one of 16,777,216 possible colors. However, the advantage is that an indexed-color image file can be significantly smaller than it would be with only 8 bits per pixel for each primary.     Modern storage, however, is far less costly, greatly reducing the need to minimize image file size. By using an appropriate combination of red, green, and blue intensities, many colors can be displayed. Current typical ": null
+    },
+    {
+        "display adapters": "Display Adapter"
+    },
+    {
+        " use up to ": null
+    },
+    {
+        "24-bits": "24-Bit"
+    },
+    {
+        " of information for each pixel: 8-bit per component multiplied by three components ": null
+    }
+]

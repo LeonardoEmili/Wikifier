@@ -1,0 +1,41 @@
+[
+    {
+        "                 Recursion  occurs when a thing is defined in terms of itself or of its type. Recursion is used in a variety of disciplines ranging from ": null
+    },
+    {
+        "linguistics": "Linguistics"
+    },
+    {
+        " to ": null
+    },
+    {
+        "logic": "Logic"
+    },
+    {
+        ". The most common application of recursion is in ": null
+    },
+    {
+        "mathematics": "Mathematics"
+    },
+    {
+        " and ": null
+    },
+    {
+        "computer science": "Computer Science"
+    },
+    {
+        ", where a ": null
+    },
+    {
+        "function": "Function"
+    },
+    {
+        " being defined is applied within its own definition. While this apparently defines an infinite number of instances , it is often done in such a way that no loop or infinite chain of references can occur.          In mathematics and computer science, a class of objects or methods exhibits recursive behavior when it can be defined by two properties:   A simple base case — a terminating scenario that does not use recursion to produce an answer   A recursive step — a set of rules that reduces all other cases toward the base case     For example, the following is a recursive definition of a persons ancestors:   Ones parents are ones ancestors .   The ancestors of ones ancestors are also ones ancestors .     The ": null
+    },
+    {
+        "Fibonacci sequence": "Fibonacci Sequence"
+    },
+    {
+        " is another classic example of recursion:                   /math  ref  /ref  ref  /ref  ref  /ref  ref  /ref ref  /ref  ref  /ref  ref  /ref  ref name Drucker2008  /ref  ref  /ref  ref name ns02  /ref  ref nameHunter  /ref  ref nameHunter/  ref  /ref  math /math  math /math  math /math  math /math math /math math /math math /math  math /math math /math math /math math /math math /math math /math  math /math  math /math math /math  math /math math /math math /math math /math math /math  source lang c ": null
+    }
+]
