@@ -1,6 +1,5 @@
 from shutil import copyfileobj
 import glob
-import json
 import os
 import random
 from tqdm import tqdm
@@ -12,7 +11,7 @@ def store_as_file(data, out_filename):
     print("Generating {} ...".format(out_filename + ".bz2"), end=" ", flush=True)
     
     with open(out_filename, "w") as f_out:
-        json.dump(data, f_out)
+        f_out.write(data)
     with open(out_filename, "rb") as f_in:
         with bz2.BZ2File(out_filename + ".bz2", "wb", compresslevel=9) as f_out:
             copyfileobj(f_in, f_out)
@@ -23,32 +22,32 @@ def store_as_file(data, out_filename):
 def generate_input_data():
 
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
-    files = glob.glob("../raw_data/*.json")
+    files = glob.glob("../raw_data/*.txt")
     random.shuffle(files)
     training_set_size = int(0.7 * len(files))
     test_set_size = int(0.15 * len(files))
 
-    training_set = []
-    test_set = []
-    validation_set = []
+    training_set = ""
+    test_set = ""
+    validation_set = ""
 
     print("Reading raw files ...\n", flush=True)
 
     for i in tqdm(range(len(files))):
         f_in = files[i]
-        with open(f_in, "r") as json_f:
+        with open(f_in, "r") as f:
             if (i < training_set_size):
-                training_set += json.load(json_f)
+                training_set += f.read()
             elif (i < training_set_size + test_set_size):
-                test_set += json.load(json_f)
+                test_set += f.read()
             else:
-                validation_set += json.load(json_f)
+                validation_set += f.read()
 
     print(flush=True)
     os.makedirs("../input_data/",0o0755, exist_ok=True)
-    store_as_file(training_set, "../input_data/train.json")
-    store_as_file(test_set, "../input_data/test.json")
-    store_as_file(validation_set, "../input_data/validation.json")
+    store_as_file(training_set, "../input_data/train.txt")
+    store_as_file(test_set, "../input_data/test.txt")
+    store_as_file(validation_set, "../input_data/validation.txt")
 
 if __name__ == '__main__':
     generate_input_data()

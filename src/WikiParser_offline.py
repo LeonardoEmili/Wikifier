@@ -1,7 +1,6 @@
 import os
 import sys
 import re
-import json
 import random
 import xml.sax
 import subprocess
@@ -20,6 +19,8 @@ TEXT_NODE = "_text_node"
 TAG_NODE = "_tag_node"
 WIKILINK_NODE = "_wikilink_node"
 OTHER_NODE = "_other_node"
+OUTER_SEP = "|"
+INTRA_SEP = "_"
 
 
 class TextList(list):
@@ -28,7 +29,8 @@ class TextList(list):
         if (not item):
             return
         # Remove hidden and newline characters from the string
-        re_hidden_char = re.compile(r'& *nbsp;|& *(m|n)dash;|\\[^ ]*|\n|(http|www)[^]*|[A-Z][A-Z]+( |$)| +', re.IGNORECASE)
+        re_hidden_char = re.compile(
+            r'& *nbsp;|& *(m|n)dash;|\\[^ ]*|\n|(http|www)[^]*|[A-Z][A-Z]+( |$)| +|\|', re.IGNORECASE)
         item = re.sub(re_hidden_char, " ", item)
 
         # Change any number to a constant value
@@ -53,6 +55,16 @@ class TextList(list):
         else:
             # The list consist only of the given (item : value)
             super(TextList, self).append({item.lstrip(): value})
+
+    def _elementToString(self, element):
+        if next(iter(element.values())) is None:
+            return next(iter(element.keys()))
+        else:
+            return OUTER_SEP + INTRA_SEP.join(next(iter(element.keys())).split()) + OUTER_SEP + INTRA_SEP.join(next(iter(element.values())).split()) + OUTER_SEP
+
+    def toString(self):
+        _text = " ".join([self._elementToString(element) for element in self])
+        return _text if _text.rstrip().endswith('.') else _text + '.'
 
 
 ''' Author reference: https://towardsdatascience.com/wikipedia-data-science-working-with-the-worlds-largest-encyclopedia-c08efbac5f5c '''
@@ -89,7 +101,9 @@ class WikiXmlHandler(xml.sax.handler.ContentHandler):
 
 # Dumps from: https://dumps.wikimedia.org/enwiki/20191201/
 
+
 dumps_dir = "/home/leo/Downloads/"
+
 
 def main():
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
@@ -111,7 +125,7 @@ def main():
     for filename in files:
         parse_wikidump(filename, dir_name, node_dict)
 
-    generate_occurence_map()
+    #generate_occurence_map()
     merge_script.generate_input_data()
 
     return
@@ -123,7 +137,8 @@ def generate_occurence_map():
     for page in pages:
         with open("../raw_data/{}".format(page)) as current_page:
             dict_list = json.load(current_page)
-            links = [next(iter(x.values()))  for x in dict_list if next(iter(x.values())) is not None]
+            links = [next(iter(x.values()))
+                     for x in dict_list if next(iter(x.values())) is not None]
             for link in links:
                 if link in occurence_map:
                     occurence_map[link] += 1
@@ -170,6 +185,7 @@ def parse_wikidump(filename, dir_name, node_dict):
 
 def createdumps_dir(dumps_dir, dir_name):
     os.makedirs(dir_name, 0o0755, exist_ok=True)
+
 
 def has_reached_end_of_page(line):
     return "==" in line and "See also" in line or "References" in line or "Footnotes" in line
@@ -222,11 +238,11 @@ def parse_page(handler, page_index, path, node_dict):
         line_type = node_dict.get(type(line), OTHER_NODE)
         line, tag_detected, parentheses_detected = clear_text(
             line, tag_detected, parentheses_detected)
-        
+
         is_colon_line = line.startswith(":")
         if (is_colon_line):
             line_type = SKIP_NODE
-            
+
         text_content = parse_line(
             line, text_content, new_element, tag_detected, parentheses_detected, line_type)
 
@@ -234,9 +250,10 @@ def parse_page(handler, page_index, path, node_dict):
     if not text_content or not next(iter(text_content[0].keys())).strip():
         return
 
-    with open('{}{}.json'.format(path, page_title.title()), 'w', encoding='utf-8') as f:
+    with open('{}{}.txt'.format(path, page_title.title()), 'w', encoding='utf-8') as f:
         # Write the parsed wikipedia text to a json file without ensuring ascii codification.
-        json.dump(text_content, f, ensure_ascii=False, indent=4)
+        f.write(text_content.toString())
+        #json.dump(text_content, f, ensure_ascii=False, indent=4)
 
 
 def parse_line(line, text_content, new_element, tag_detected, parentheses_detected, node_type):
@@ -250,7 +267,8 @@ def parse_line(line, text_content, new_element, tag_detected, parentheses_detect
         # Get the 'buffered' version of the current line and update flags.
         buffer, tag_detected, parentheses_detected = get_text_from(
             line, tag_detected, parentheses_detected)
-        previous_was_link = len(text_content) > 0 and next(iter(text_content[-1].values())) is not None
+        previous_was_link = len(text_content) > 0 and next(
+            iter(text_content[-1].values())) is not None
         if previous_was_link:
             leading_sentence = buffer.lstrip()
             is_a_plural_form = len(leading_sentence) > 0 and leading_sentence[0] in "se" and (len(
