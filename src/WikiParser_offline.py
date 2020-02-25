@@ -20,7 +20,7 @@ TAG_NODE = "_tag_node"
 WIKILINK_NODE = "_wikilink_node"
 OTHER_NODE = "_other_node"
 OUTER_SEP = "|"
-INTRA_SEP = "_"
+INNER_SEP = "_"
 
 
 class TextList(list):
@@ -60,11 +60,11 @@ class TextList(list):
         if next(iter(element.values())) is None:
             return next(iter(element.keys()))
         else:
-            return OUTER_SEP + INTRA_SEP.join(next(iter(element.keys())).split()) + OUTER_SEP + INTRA_SEP.join(next(iter(element.values())).split()) + OUTER_SEP
+            return OUTER_SEP + INNER_SEP.join(next(iter(element.keys())).split()) + OUTER_SEP + INNER_SEP.join(next(iter(element.values())).split()) + OUTER_SEP
 
     def toString(self):
         _text = " ".join([self._elementToString(element) for element in self])
-        return _text if _text.rstrip().endswith('.') else _text + '.'
+        return _text if _text.rstrip().endswith('.') else _text + " ."
 
 
 ''' Author reference: https://towardsdatascience.com/wikipedia-data-science-working-with-the-worlds-largest-encyclopedia-c08efbac5f5c '''
