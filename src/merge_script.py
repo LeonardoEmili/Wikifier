@@ -23,7 +23,7 @@ def generate_input_data():
 
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
     files = glob.glob("../raw_data/*.txt")
-    random.shuffle(files)
+    #random.shuffle(files)
     training_set_size = int(0.7 * len(files))
     test_set_size = int(0.15 * len(files))
 
@@ -36,18 +36,21 @@ def generate_input_data():
     for i in tqdm(range(len(files))):
         f_in = files[i]
         with open(f_in, "r") as f:
-            if (i < training_set_size):
-                training_set += f.read()
-            elif (i < training_set_size + test_set_size):
-                test_set += f.read()
-            else:
-                validation_set += f.read()
+            # This is a single file, useless here
+            training_set += f.read()
+            #if (i < training_set_size):
+                #training_set += f.read()
+            #elif (i < training_set_size + test_set_size):
+                #test_set += f.read()
+            #else:
+                #validation_set += f.read()
 
     print(flush=True)
     os.makedirs("../input_data/",0o0755, exist_ok=True)
-    store_as_file(training_set, "../input_data/train.txt")
-    store_as_file(test_set, "../input_data/test.txt")
-    store_as_file(validation_set, "../input_data/validation.txt")
+    store_as_file(training_set, "../input_data/wiki.txt")
+    #store_as_file(training_set, "../input_data/train.txt")
+    #store_as_file(test_set, "../input_data/test.txt")
+    #store_as_file(validation_set, "../input_data/validation.txt")
 
 if __name__ == '__main__':
     generate_input_data()

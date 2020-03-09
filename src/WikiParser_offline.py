@@ -30,7 +30,7 @@ class TextList(list):
             return
         # Remove hidden and newline characters from the string
         re_hidden_char = re.compile(
-            r'& *nbsp;|& *(m|n)dash;|\\[^ ]*|\n|(http|www)[^]*|[A-Z][A-Z]+( |$)| +|\|', re.IGNORECASE)
+            r'& *(nbsp|gt|lt);|& *(m|n)dash;|\\[^ ]*|\n|(http|www)[^]*|[A-Z][A-Z]+( |$)| +|\|', re.IGNORECASE)
         item = re.sub(re_hidden_char, " ", item)
 
         # Change any number to a constant value
@@ -60,7 +60,12 @@ class TextList(list):
         if next(iter(element.values())) is None:
             return next(iter(element.keys()))
         else:
-            return OUTER_SEP + INNER_SEP.join(next(iter(element.keys())).split()) + OUTER_SEP + INNER_SEP.join(next(iter(element.values())).split()) + OUTER_SEP
+            re_punctuation = "[ !\"\[\]#$%&^'\+,-\.:/;<=>@_`\{\}\|~]"
+            text = re.split(re_punctuation, next(iter(element.keys())))
+            text = re.sub("__+", "_", INNER_SEP.join(text))
+            link = re.split(re_punctuation, next(iter(element.values())))
+            link = re.sub("__+", "_", INNER_SEP.join(link))
+            return OUTER_SEP + text + OUTER_SEP + link + OUTER_SEP
 
     def toString(self):
         _text = " ".join([self._elementToString(element) for element in self])
