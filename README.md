@@ -29,5 +29,5 @@ python3 WikiParser.py [OPTION]... URL...
 
 ## Authors
 
-* **Leonardo Emili** - [leoemili](https://github.com/leoemili)
+* **Leonardo Emili** - [LeonardoEmili](https://github.com/LeonardoEmili)
 
