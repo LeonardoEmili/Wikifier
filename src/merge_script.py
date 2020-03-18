@@ -24,12 +24,12 @@ def generate_input_data():
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
     files = glob.glob("../raw_data/*.txt")
     #random.shuffle(files)
-    training_set_size = int(0.7 * len(files))
-    test_set_size = int(0.15 * len(files))
+    #training_set_size = int(0.7 * len(files))
+    #test_set_size = int(0.15 * len(files))
 
     training_set = ""
-    test_set = ""
-    validation_set = ""
+    #test_set = ""
+    #validation_set = ""
 
     print("Reading raw files ...\n", flush=True)
 

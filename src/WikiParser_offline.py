@@ -59,18 +59,18 @@ class TextList(list):
 
     def _elementToString(self, element):
         if next(iter(element.values())) is None:
-            return next(iter(element.keys()))
+            return next(iter(element.keys())).replace('\n', ' ')
         else:
             re_punctuation = "[ !\"\[\]#$%&^'\+,-\.:/;<=>@_`\{\}\|~]"
             text = re.split(re_punctuation, next(iter(element.keys())))
             text = re.sub("__+", "_", INNER_SEP.join(text))
             link = re.split(re_punctuation, next(iter(element.values())))
             link = re.sub("__+", "_", INNER_SEP.join(link))
-            return OUTER_SEP + text + OUTER_SEP + link + OUTER_SEP
+            return OUTER_SEP + text.replace('\n', ' ') + OUTER_SEP + link.replace('\n', ' ') + OUTER_SEP
 
     def toString(self):
-        _text = " ".join([self._elementToString(element) for element in self])
-        _text = " ".join([sentence.strip() for sentence in nltk.sent_tokenize(_text) if OUTER_SEP in sentence])
+        _text = ' '.join([self._elementToString(element) for element in self])
+        _text = '\n'.join([sentence.strip() for sentence in nltk.sent_tokenize(_text) if OUTER_SEP in sentence])
         return _text if _text.rstrip().endswith('.') else _text + " ."
 
 
