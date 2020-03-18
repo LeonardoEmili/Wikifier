@@ -11,6 +11,7 @@ import wikipedia
 import click
 import merge_script
 from tqdm import tqdm
+import nltk
 
 # A list of subject namespaces following Wikipedia convention's that have to be removed.
 EVIL_NAMESPACES = ["File:", "Category:"]
@@ -69,6 +70,7 @@ class TextList(list):
 
     def toString(self):
         _text = " ".join([self._elementToString(element) for element in self])
+        _text = " ".join([sentence.strip() for sentence in nltk.sent_tokenize(_text) if OUTER_SEP in sentence])
         return _text if _text.rstrip().endswith('.') else _text + " ."
 
 
