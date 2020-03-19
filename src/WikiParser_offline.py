@@ -257,10 +257,12 @@ def parse_page(handler, page_index, path, node_dict):
     if not text_content or not next(iter(text_content[0].keys())).strip():
         return
 
-    with open('{}{}.txt'.format(path, page_title.title()), 'w', encoding='utf-8') as f:
-        # Write the parsed wikipedia text to a json file without ensuring ascii codification.
-        f.write(text_content.toString())
-        #json.dump(text_content, f, ensure_ascii=False, indent=4)
+    try:
+        with open('{}{}.txt'.format(path, page_title.title()), 'w', encoding='utf-8') as f:
+            # Write the parsed wikipedia text to a json file without ensuring ascii codification.
+            f.write(text_content.toString())
+    except OSError:
+        pass
 
 
 def parse_line(line, text_content, new_element, tag_detected, parentheses_detected, node_type):
