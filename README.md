@@ -1,6 +1,6 @@
 # Wikifier
 
-A Wikifier project which uses data from Wikipedia.
+Wikification is the process of tokenizing input sentences into words and labeling them into Wikipedia concepts.
 
 ### Prerequisites
 
