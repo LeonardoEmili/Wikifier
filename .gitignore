@@ -1,4 +1,3 @@
 # Generated output files
-input_data/test_set.json
-input_data/training_set.json
-input_data/validation_set.json
+raw_data/
+input_data/*.txt
