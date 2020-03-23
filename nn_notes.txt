@@ -1,0 +1,23 @@
+Here some examples of how the NN performs on test data:
+
+'kirilo', '–', 'vocals', ',', ['electric', 'bass'], ',', 'casiotone', ',', 'roland', 'sh', '101', '.	->	[bass guitar]
+
+
+['it', 'was', 'later', 'made', 'into', 'an', 'animated', 'short', 'film', ',', 'with', 'david', 'jason', '<UNK>', '<UNK>', 'is', 'an', 'orchid', 'endemic', 'to', 'borneo', '.the', 'cover', 'of', 'the', 'dirty', 'pair', 'run', 'from', 'the', 'future', 'tpb', ',', 'written', 'and', 'illustrated', 'by', 'adam', 'warren', ',', 'released', 'by', ['dark', 'horse', 'comics'], '<UNK>', 'is', 'a', 'low', 'mountain', 'of', 'hesse', ',', 'germany', '.'] -> ['archie comics', 'horse', 'dark horse comics']
+
+	THIS EXAMPLE SHOWS HOW MORFOLOGY IS NOT INFLECTED IN ANY WAY
+
+
+---------------
+
+BEST MODEL ACC 68% PARAMS - the model was able to perform such stats running for approx 4hours on a Tesla P100-PCIE-16GB and Intel Xeon x1
+
+embedding_dim = 128
+epochs = 6
+hidden_dim = 128
+batch_size = 32
+device = 'cuda'
+learning_rate = 0.001
+weight_decay = 0.0001
+link_cutoff = 20
+
