@@ -1,6 +1,6 @@
 # Wikifier
 
-Wikification is the process of tokenizing input sentences into words and labeling them into Wikipedia concepts.
+Wikification is the process of labeling input sentences into concepts from Wikipedia. The repository contains: a major script for scraping text from Wikipedia dumps and parsing it into a dataset, the model for annotating sentences and an asynchronous web scraper for generating the dataset dinamically starting from a Wikipedia page used as seed.
 
 ### Prerequisites
 
